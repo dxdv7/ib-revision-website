@@ -1,0 +1,2151 @@
+Theme C: Interaction and interdependence – Molecules
+380
+C1.1
+Enzymes and metabolism
+•	 In what ways do enzymes interact with other molecules?
+•	 What are the interdependent components of metabolism?
+Guiding questions
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 C1.1.1 	 Enzymes as catalysts
+	 C1.1.2 	 Role of enzymes in metabolism
+	 C1.1.3 	 Anabolic and catabolic reactions 
+	 C1.1.4 	 Enzymes as globular proteins with an active site for catalysis 
+	 C1.1.5 	 Interactions between substrate and active site to allow induced-fit binding
+	 C1.1.6 	 Role of molecular motion and substrate–active site collisions in enzyme catalysis
+	 C1.1.7 	 Relationships between the structure of the active site, enzyme–substrate 
+specificity and denaturation
+	 C1.1.8 	 Effects of temperature, pH and substrate concentration on the rate of 
+enzyme activity
+	 C1.1.9 	 Measurements in enzyme-catalysed reactions
+	 C1.1.10 	Effect of enzymes on activation energy
+	 C1.1.11 	Intracellular and extracellular enzyme-catalysed reactions (HL only)
+	 C1.1.12 	Generation of heat energy by the reactions of metabolism (HL only)
+	 C1.1.13 	Cyclical and linear pathways in metabolism (HL only)
+	 C1.1.14 	Allosteric sites and non-competitive inhibition (HL only)
+	 C1.1.15 	Competitive inhibition as a consequence of an inhibitor binding reversibly to an 
+active site (HL only)
+	 C1.1.16 	Regulation of metabolic pathways by feedback inhibition (HL only)
+	 C1.1.17	 Mechanism-based inhibition as a consequence of chemical changes to the active 
+site caused by the irreversible binding of an inhibitor (HL only)
+Enzymes as catalysts
+Many chemical reactions do not occur spontaneously, or they may happen very slowly 
+(Figure C1.1.1). In a laboratory or in an industrial process, chemical reactions may be made 
+to occur by applying high temperatures, high pressures, extremes of pH, by maintaining high 
+concentrations of the reacting molecules, or by using inorganic catalysts. If these drastic conditions 
+were not applied, very little of the chemical product would be formed. On the other hand, in cells 
+and organisms, many chemical reactions occur simultaneously, at extremely low concentrations, at 
+normal temperatures and under the very mild, almost neutral, aqueous conditions we find in cells.
+It is the presence of enzymes in cells and organisms that enables these reactions to occur at 
+relatively high rates, in an orderly manner, yielding products that the organism requires, when they 
+are needed. Sometimes, reactions happen even though the reacting molecules are present in very low 
+concentrations. Enzymes are biological catalysts made of protein. They are truly remarkable 
+molecules. In general, catalysts:
+l	 are effective in small amounts
+l	 remain unchanged at the end of the reaction.
+	
+◆Enzyme: mainly 
+proteins (some are RNA) 
+that function as biological 
+catalysts.
+	
+◆Catalyst: a substance 
+that speeds up the rate 
+of a chemical reaction. 
+Catalysts are effective in 
+small amounts and remain 
+unchanged at the end of 
+the reaction.
+Concept: 
+Interaction and 
+interdependence
+Systems are based 
+on interactions, 
+interdependence 
+and integration of 
+components. Systems 
+result in the emergence 
+of new properties at 
+each level of biological 
+organization.
+
+
+=== PAGE BREAK ===
+
+C1.1   Enzymes and metabolism
+381
+Common mistake
+It is incorrect to use the term ‘amount’ when discussing variables in practical procedures. 
+Use more precise terms available, such as ‘concentration’ or ‘volume’.
+Figure C1.1.1 shows the benefit of increasing rates of reaction in cells. Many enzymes are always 
+present in cells and organisms, but some enzymes are produced only under particular conditions, 
+at certain stages or when a particular substrate molecule is present. By making some enzymes and 
+not others, cells can control what chemical reactions happen in the cytoplasm.
+Role of enzymes in metabolism
+There are many thousands of chemical reactions taking place within cells and organisms. 
+Metabolism is the name we give to these chemical reactions. These reactions can only occur in 
+the presence of specific enzymes. If an enzyme is not present, the reaction it catalyses only occurs 
+at a very slow rate. The molecules involved are collectively called metabolites. Many metabolites 
+are made in organisms, but others are imported from the environment, such as from food 
+substances, water and the gases carbon dioxide and oxygen. 
+water
+sucrose
+water
+sucrose
+water
+sucrose
+water
+sucrose
+water
+sucrose
+water
+sucrose
+water
+sucrose
+Random collision possibilities:
+when sucrose and water molecules collide at the wrong angle
+when sucrose and water collide at the wrong speed
+for the reaction to occur, sucrose and water must collide in
+just the right orientation – glucose and fructose are formed
+These events are what 
+happens at most random 
+collisions.
+Under normal conditions 
+this happens so very 
+infrequently it is an 
+insigniﬁcant event.
+In the presence of one molecule of the enzyme sucrase (invertase),
+approximately 3.0 × 104 molecules of sucrose are hydrolysed each
+minute! 
+glucose
+fructose
+ 
+■Figure C1.1.1 Can a reaction occur without an enzyme?
+Concept: 
+Interaction 
+Interaction: The 
+effect or effects that 
+two or more systems, 
+bodies, substances or 
+organisms have on 
+one another, so that 
+the overall result is not 
+simply the sum of the 
+separate effects.
+Concept: 
+Interdependence 
+Interdependence: 
+Biological systems are 
+not self-sufficient. 
+Molecules, cells, 
+organisms and 
+ecosystems interact 
+with each other 
+within and across 
+levels of organization. 
+The greater the level 
+of interaction, the 
+greater the degree of 
+interdependence.
+Concept: 
+Interaction
+Metabolism depends 
+on the interaction 
+of many different 
+enzymes. Enzymes 
+for specific reactions 
+are located within 
+compartments 
+(organelles) within 
+eukaryotic cells, for 
+example the enzymes 
+of oxidative respiration 
+are found within 
+mitochondria.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+382
+ 
+■What is the meaning of enzyme specificity?
+Many different enzymes are required by living organisms, and control over metabolism can be exerted 
+through these enzymes. Each enzyme is specific to one substrate, so that metabolic processes can be 
+closely controlled. Enzymes are usually classified according to the type of reaction they catalyse and 
+they can be named according to their substrates (i.e. the reactants that enzymes act on).
+Metabolism consists of chains (linear sequences) and cycles of enzyme-catalysed reactions, such as 
+we see in respiration (page 405), photosynthesis (page 425), protein synthesis (page 615), and in 
+very many other pathways. All these reactions may be classified as one of just two types, according 
+to whether they involve the build-up or breakdown of organic molecules. These are called anabolism 
+and catabolism, respectively (see below).
+Anabolic and catabolic reactions
+In anabolic reactions, larger molecules are built up from smaller molecules. Anabolism involves the 
+formation of macromolecules from monomers by condensation reactions (page 186).
+Examples of anabolism include:
+l	 the synthesis of proteins from amino acids (Chapter B1.2, page 207)
+l	 the synthesis of polysaccharides from simple sugars, e.g. glycogen formation (Chapter B1.1, 
+page 187)
+l	 photosynthesis (Chapter C1.3, page 425).
+Catabolism is the breakdown of larger molecules into simple molecules. The catabolic reactions 
+involved include hydrolysis reactions (page 186).
+Examples of catabolism include:
+l	 hydrolysis of macromolecules into monomers in digestion (Chapter B1.1, page 187)
+l	 oxidation of substrates in respiration (Chapter C1.2, page 412).
+Overall: metabolism = anabolism + catabolism
+green plants
+CO2 + H2O + light energy
+photosynthesis
++ ions
+catabolism
+energy-releasing reactions
+(exergonic reactions)
+sugars,
+amino acids,
+fatty acids
+anabolism
+energy-requiring reactions
+(endergonic reactions)
+complex molecules,
+e.g. polysaccharides,
+proteins, lipids,
+hormones, pigments
+digestion
+animals
+complex food molecules taken in,
+rich in chemical energy
+ATP = energy currency
+linking endergonic and
+exergonic reactions
+ATP
+ADP + Pi
+ATP
+ADP + Pi
+simpler compounds,
+e.g. inorganic molecules
+CO2 + H2O, ions
+ 
+■Figure C1.1.2 Metabolism = anabolism + catabolism
+1	 Define the term 
+metabolism.
+	
+◆Anabolism: the 
+synthesis of complex 
+molecules from simpler 
+molecules including 
+the formation of 
+macromolecules 
+from monomers by 
+condensation reactions.
+	
+◆Catabolism: the 
+breakdown of complex 
+molecules into simpler 
+molecules including 
+the hydrolysis of 
+macromolecules into 
+monomers.
+2	 Define the 
+following terms 
+and give one 
+example of each:
+a	 anabolic 
+reaction
+b	 catabolic 
+reaction. 
+3	 Distinguish 
+between anabolism, 
+catabolism and 
+metabolism.
+
+
+=== PAGE BREAK ===
+
+C1.1   Enzymes and metabolism
+383
+Enzymes as globular proteins with 
+an active site for catalysis
+Enzymes are typically large, globular protein molecules, where the tertiary structure has given the 
+molecule a generally rounded shape. In a reaction catalysed by an enzyme, the starting substance is 
+called the substrate, and what it is converted to is the product. 
+An enzyme works by binding to the substrate molecule(s) at a specially formed pocket in the 
+enzyme. This binding point is called the active site. Here, as the enzyme and substrate form an 
+enzyme–substrate (ES) complex, the substrate is raised to a high-energy transition state. This 
+complex has the briefest of existences before the substrate molecule is formed into another molecule 
+or broken down into others by the catalytic properties of the active site. Then the product(s) are 
+released, together with the unchanged enzyme (Figure C1.1.4). The enzyme is available for reuse.
+active site (here
+the substrate
+molecule is held
+and reaction occurs)
+– the lock
+substrate molecule
+– the key
+enzyme–substrate
+complex
+enzyme (large
+protein molecule)
+product
+molecules
+substrate
+molecule now at
+transition state
+enzyme + substrate          E–S complex           product + enzyme available for reuse
+(substrate raised to
+transition state)
+E
++
+S
+E–S
+Pr
++
+E
+The sequence of steps to an enzyme-catalysed reaction:
+ 
+■Figure C1.1.4 The enzyme–substrate complex and the active site
+Common mistake
+When describing enzyme-catalysed reactions, crucial details are sometimes missed out. Do not 
+forget to mention the active site, substrate and ES complex.
+The active site is a pocket or crevice in the protein where the substrate molecule binds and catalysis 
+occurs (see Figure C1.1.4). The active site of an enzyme may only be made from a few amino acids, 
+but the interactions between the amino acids within the overall three-dimensional structure of the 
+enzyme ensure that the active site has the necessary properties for catalysis. These properties include 
+binding to the substrate molecule, holding on to it while the chemical reaction takes place and 
+lowering the energy of the transition state (see below).
+Most substrate molecules are quite small compared to the enzyme. Even when the substrate 
+molecules are very large, for example certain macromolecules such as polysaccharides, only one 
+bond in the substrate is in contact with the enzyme active site. The active site takes up a relatively 
+small part of the total volume of the enzyme.
+synthesis of complex
+molecules used in growth
+and development, and in
+metabolic processes,
+e.g. proteins,
+polysaccharides,
+lipids, hormones, growth
+factors, haemoglobin,
+chlorophyll
+nutrients
+sugars,
+amino acids,
+fatty acids,
+i.e. smaller
+organic
+molecules
+release of simple
+substances,
+e.g. small inorganic
+molecules, CO2, H2O,
+mineral ions
+anabolism:
+energy-requiring
+reactions, i.e.
+endergonic
+reactions
+catabolism
+energy-releasing
+reactions,
+i.e. exergonic
+reactions
+ 
+■Figure C1.1.3 
+Summary of anabolic 
+and catabolic reactions
+Link
+Globular proteins are 
+discussed in Chapter 
+B1.2, page 221.
+	
+◆Substrate: the 
+starting substance 
+(reactant) in a reaction 
+catalysed by an enzyme. 
+It is the molecule that the 
+enzyme reacts with.
+	
+◆Product: what the 
+substrate is converted to 
+in a reaction catalysed by 
+an enzyme.
+	
+◆Active site: region 
+of an enzyme molecule 
+where the substrate 
+molecule binds and 
+catalysis occurs.
+	
+◆Enzyme–substrate 
+(ES) complex: a 
+temporary structure 
+formed when a substrate 
+binds to the active site of 
+an enzyme. 
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+384
+Induced-fit binding
+Enzymes are highly specific in their action, which makes them different from most inorganic 
+catalysts. Enzymes are specific because of the way they bind with their substrate at the active site, 
+which is a pocket or crevice in the protein (Figure C1.1.5). At the active site, the arrangement of a few 
+amino acid molecules in the protein (enzyme) matches certain groupings on the substrate molecule, 
+enabling the enzyme–substrate complex to form. As it forms, a slight change of shape is induced in 
+the enzyme and substrate molecules (the induced-fit model, Figure C1.1.6). It is this change in 
+shape that is important in raising the substrate molecule to the transition state in which it can react.
+polypeptide of 49 amino acid residues,
+making up a simple enzyme
+active site (pocket/crevice
+in the protein molecule)
+the ‘induced-ﬁt’ process plays a
+part in bringing about the chemical
+changes, which are the enzyme-
+catalysed reaction
+some amino acid molecules
+The substrate molecule
+binds (temporarily)
+with the enzyme by
+inducing a change in
+shape of the enzyme
+molecule. In the 
+interaction, the shape 
+of the substrate also 
+changes.
+The amino acids in a
+protein have different
+roles.
+match certain groupings on the
+substrate molecule, enabling the
+enzyme–substrate complex to form,
+e.g. residues 3–4–5 and 24–25–26
+other amino acid molecules are ‘reactive’,
+i.e. catalytic residues that induce the
+breaking of bonds, and the formation
+of product(s), e.g. 20 and 41
+other amino acid residues interact to form the
+three-dimensional structure of the enzyme
+3
+4
+5
+20
+24
+25
+26
+41
+substrate
+substrate
+Speciﬁcity:  
+•  Some amino acid molecules
+    allow a particular substrate
+    molecule to ‘ﬁt’.
+•  Some amino acid molecules
+    bring about particular
+    chemical changes.
+ 
+■Figure C1.1.5 Enzyme specificity and the active site
+Meanwhile, other amino acids of the active site bring about the specific catalytic reaction 
+mechanism, perhaps breaking particular bonds in the substrate molecule and forming others. 
+Different enzymes have different arrangements of amino acids in their active sites. Consequently, 
+each enzyme catalyses either a single chemical reaction or a group of closely related reactions.
+4	 Explain why the 
+shape of enzymes 
+is important in 
+enzyme action.
+	
+◆Induced-fit: the 
+binding of the substrate 
+to the enzyme causes 
+a change in the shape 
+of the enzyme and the 
+substrate, resulting in the 
+proper alignment of the 
+catalytic groups on its 
+surface, which enables 
+catalysis to take place.
+
+
+=== PAGE BREAK ===
+
+C1.1   Enzymes and metabolism
+385
+glucose
++ ATP 
+hexokinase
+(computer-generated
+molecular model)
+Computer-generated image of the induced-ﬁt hypothesis in action:
+The enzyme hexokinase catalyses the reaction:
+glucose + ATP 
+glucose-6-phosphate + ADP 
+two polypeptide
+chains make up
+the enzyme
+slight change in 
+the shape of 
+the active site 
+and substrate 
+as the substrate 
+molecule ﬁts 
+into active site, 
+and reaction 
+takes place
+active 
+site
+ 
+■Figure C1.1.6 Induced-fit catalysis by hexokinase
+In the original model of enzyme-substrate interactions, the lock-and-key model, the active site 
+of the enzyme is the complementary shape of the substrate and so fits to the substrate precisely. 
+The enzyme acts as a ‘lock’ and the substrate is the ‘key’ – the shape of the key matches the lock 
+and one key opens one lock. In the induced-fit model, the active site of the enzyme undergoes a 
+conformational change to improve binding with the substrate – it has been compared to a hand 
+entering a glove, where both hand and glove change shape to ensure optimal fit (the ‘hand-in-glove’ 
+model). Most enzymes seem to follow the latter model.
+	ATL C1.1A 
+Access this website: www.abpischools.org.uk/topics/enzymes-16/enzymes-biological-catalysts-
+that-control-the-reactions-of-life
+Explore the structure and function of enzymes using the information and animations provided. 
+Produce a poster explaining the role that enzymes play in organisms. When were enzymes first 
+used by humans? How are they used today in industrial processes?
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+5	 Define the term 
+induced-fit binding.
+Tool 1: Experimental techniques
+Physical modelling
+This video discusses the lock-and-key and induced-fit models:
+www.youtube.com/watch?v=E-_r3omrnxw
+Make and present models (using modelling clay, for example), emphasizing the 
+differences between the lock-and-key and induced-fit (‘hand-in-glove’) models.  
+You could also consider the limitations of representing the enzyme as the ‘lock’ and the 
+substrate as the ‘key’.
+Discuss in pairs, or a small group, why making a physical model is useful.
+Top tip!
+Both substrate and 
+enzyme change shape 
+when binding occurs.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+386
+The role of molecular motion and 
+collisions in enzyme catalysis
+Movement is needed for a substrate molecule and an active site to come together. The greater the 
+kinetic energy of enzyme and substrate, the greater the chance of collisions between molecules and 
+the formation of enzyme–substrate complexes.
+Sometimes large substrate molecules are immobilized, and sometimes enzymes can be immobilized 
+by being embedded in membranes. Immobilized enzymes are often more stable than free enzymes 
+in a solution and may provide a better environment for enzyme activity.
+Enzymes immobilized on (or in) a membrane (EIM) is a widely used method in food processing, 
+pharmaceuticals and wastewater treatment. The EIM system facilitates recycling of the enzymes and 
+also, in many cases, enhanced enzyme properties (e.g. stability and viability). The membrane is a 
+porous structure on to which specific enzymes are attached.
+ 
+■Immobilization of enzymes for industrial use
+Enzymes may be used in industrial processes as cell-free preparations that are added to a reaction 
+mixture, or they may be immobilized and the reactants passed over them. Enzyme immobilization 
+involves the attachment of enzymes to insoluble materials which then provide support. For example, 
+the enzyme may be entrapped between inert fibres or it may be covalently bonded to a matrix 
+(Figure C1.1.7). In both cases, the enzyme molecules are prevented from being leached (washed) away. 
+b adsorption
+a entrapment
+d cross-linking
+e affinity
+c covalent bonding
+enzyme
+active
+site
+membrane
+surface
+ 
+■Figure C1.1.7 Enzyme immobilization techniques
+The advantages of using an immobilized enzyme in industrial processes are:
+l	 it permits reuse of the enzyme preparation
+l	 the product is enzyme free
+l	 the enzyme may be much more stable and long lasting, due to protection by the inert matrix.
+TOK
+People who are unable to produce lactase fail to digest lactose, a carbohydrate found in milk. 
+As a result, bacteria in the large intestine feed on the lactose, producing fatty acids and methane, 
+causing diarrhoea and flatulence. Such people are said to be lactose intolerant and need to 
+consume lactose-free milk. 
+The knowledge and technology required to make lactose-free milk is common in more economically 
+developed countries. However, sharing that knowledge would undoubtedly benefit people from all 
+over the world. If a company from a more economically developed country has this knowledge, are 
+they ethically obligated to share this knowledge? One famous example is Volvo sharing its knowledge 
+of the three-point seat-belt system without charge, while Moderna recently promised not to enforce 
+its COVID-19 vaccine patents in certain countries. In both cases, the knowledge was important enough 
+distribute freely. 
+If you are going to explore this question in a TOK context, remember that TOK is about knowledge, 
+not (as this case might lead you into discussing) about solutions for distribution of a product. 
+Make sure your analysis is about the knowledge required to develop these products.
+	
+◆Immobilized 
+enzyme: an enzyme 
+attached to an inert, 
+insoluble material, 
+enabling recovery, reuse 
+and improved enzyme 
+stability.
+
+
+=== PAGE BREAK ===
+
+C1.1   Enzymes and metabolism
+387
+Relationships between the structure 
+of the active site, enzyme–substrate 
+specificity and denaturation
+Denaturation occurs when the weak intramolecular interactions within the globular protein, formed 
+between different amino acid residues, break. This changes the three-dimensional shape of the 
+active site. Peptide bonds are not hydrolyzed and broken during denaturation. In denaturation, the 
+structure of the active site is changed, so the enzyme and substrate can no longer bind together 
+(Figure C1.1.8).
+Link
+Denaturing of proteins and the effects of pH and temperature on protein structure are 
+detailed in Chapter B1.2, page 210. Peptide bonds are covered in B1.2, page 207.
+Effects of temperature, pH and substrate 
+concentration on rate of enzyme activity
+Nature of science: Patterns and trends
+You need to be able to describe the relationship between variables as shown in graphs. You should 
+recognize that generalized sketches of relationships are examples of models in biology. Models in 
+the form of sketch graphs can be evaluated using results from enzyme experiments. Enzyme 
+experiments include investigating the effects of temperature, pH and substrate concentration on the 
+rate of enzyme activity. In each case, the shape of the graph will be specific to the reaction 
+being investigated.
+Top tip!
+Accurate, quantitative 
+measurements in 
+enzyme experiments 
+require replicates to 
+ensure reliability.
+ 
+■Effect of temperature
+Examine the investigation of the effects of temperature on the hydrolysis of starch by the enzyme amylase, 
+shown in Figure C1.1.9. 
+When starch is hydrolyzed by the enzyme amylase, the product is maltose, a disaccharide 
+(page 186). Starch gives a blue–black colour when mixed with iodine solution (iodine in potassium 
+iodide solution), but maltose gives a yellow or brown colour (depending on concentration of iodine), 
+indicating no reaction has occurred. The first step in this experiment is to bring samples of the 
+enzyme and the substrate (the starch solution) to the temperature of the water bath before being 
+mixed – a step called pre-incubation.
+The progress of the hydrolysis reaction is followed by taking samples of a drop of the mixture on 
+the end of the glass rod at half-minute intervals. These are tested with iodine solution on a white 
+tile. Initially, a strong blue–black colour is seen, confirming the presence of starch. Later, as maltose 
+accumulates, an orange colour predominates. The endpoint of the reaction is indicated when all 
+the starch colour has disappeared from the test spot. Using fresh reaction mixture each time, the 
+investigation is repeated at a series of different temperatures, say at 10, 20, 30, 40, 50 and 60 ºC. 
+The time taken for complete hydrolysis at each temperature is recorded and the rate of hydrolysis in 
+unit time is plotted on a graph.
+temperature
+or pH changes
+away from
+optimum
+complementary
+shapes
+denatured enzyme:
+shape of substrate
+no longer
+complementary to
+shape of active site
+substrate
+active site
+ 
+■Figure C1.1.8 The 
+effect of pH and 
+temperature on enzymes
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+388
+30
+60
+45
+15
+glass rod
+water bath
+at selected
+temperature
+mixed
+the sequence of colour
+changes observed is:
+blue–black = starch
+yellow–brown = all carbohydrate is
+                            present as
+                            maltose (a disaccharide)
+The experiment is repeated at a range of
+temperatures, such as at 10°C,20°C,30°C,40°C,
+50°C and 60°C.
+A control tube of 5 cm3 of starch solution + 5 cm3
+of distilled water (in place of the enzyme) should be
+included and tested for the presence/absence of
+starch at each temperature.
+5 cm3 pre-incubated 
+amylase solution
+5 cm3 pre-incubated 
+starch solution
+The glass rod is rinsed
+before it is returned to the
+reaction mixture to remove
+any traces of iodine solution.
+iodine solution
+white spotting tile
+stop
+clock
+water
+ 
+■Figure C1.1.9 The effects of temperature on hydrolysis of starch by amylase
+Interpreting graphs: the effect of temperature on the rate of enzyme activity
+A characteristic curve is the result (Figure C1.1.10) – although the optimum temperature varies with 
+the reaction and with different enzymes.
+l	 As temperature is increased, molecules have increased kinetic energy and reactions between 
+them go faster.
+l	 The molecules are moving more rapidly and are more likely to collide and react. Q10, the 
+temperature coefficient, is a measure of the rate of change of a reaction when the temperature is 
+increased by 10 °C (see Tools box, page 394). Many enzymes have a Q10 of about 2, which means 
+that the rate of the reaction approximately doubles for every 10 °C rise in temperature.
+l	 However, in enzyme-catalysed reactions the effect of temperature is more complex, as proteins 
+are denatured by heat. The rate of denaturation increases at temperatures higher than the 
+optimum. So, as the temperature rises, the amount of active enzyme progressively decreases, and 
+the rate is slowed. As a result of these two effects of temperature on enzyme-catalysed reactions, 
+there is an apparent optimum temperature for an enzyme. Humans have enzymes with an 
+optimum temperature at or about normal body temperature.
+Common mistake
+When explaining the increase in the reaction rate of an enzyme, it is insufficient to say ‘because 
+there are more collisions with the enzyme’. A better answer is: ‘because there are more frequent 
+collisions between the substrate and the active site’. 
+
+
+=== PAGE BREAK ===
+
+C1.1   Enzymes and metabolism
+389
+10
+20
+denatured enzyme –
+substrate molecules no
+longer fit the active site
+enzyme in
+active state
+temperature at which the
+rate was measured/ºC
+30
+40
+50
+60
+high rate
+rate of enzyme-catalysed reaction
+(amount of substrate used up or
+amount of product formed per unit
+time, e.g. per second) in arbitrary units
+low rate
+Other variables – such as the
+concentration of the enzyme
+and substrate solutions – were
+kept constant. 
+Up to about 40 ºC the rate increases –
+a ten-degree rise in temperature is
+accompanied by an approximate
+doubling of the rate of reaction. 
+Now the enzyme-catalysed 
+reaction rate decreases,
+owing to the denaturation
+of the enzyme and
+destruction of active sites.
+active site
+ 
+■Figure C1.1.10 Temperature and the rate of an enzyme-catalysed reaction
+Not all enzymes have the same optimum temperature. For example, the bacteria in hot thermal springs 
+have enzymes with optima between 80 ºC and 100 ºC or higher (see page 47), whereas seaweeds of 
+northern seas and the plants of the tundra have enzymes with optimum temperatures closer to 0 °C. 
+This feature of enzymes is often exploited in the commercial and industrial uses of enzymes.
+6	 Figure C1.1.10 shows the effect of temperature on the rate of an enzyme-catalysed 
+reaction. State the optimum temperature of the enzyme.
+7	 In studies of the effect of temperature on enzyme-catalysed reactions, suggest why 
+the enzyme and substrate solutions are pre-incubated to a particular temperature before 
+they are mixed.
+Tool 3: Mathematics
+Processing uncertainties
+Whenever a measurement is recorded, there will always 
+be some doubt about the result that has been obtained. 
+An uncertainty in a measurement is an interval that 
+indicates a range within which we are confident that 
+the true value lies. Scientific apparatus has a level of 
+uncertainty. For example in Table C1.1.1, the thermometer 
+has an uncertainty of ±0.1 °C, i.e. measurements may be 
++ or – 0.1 above or below the recorded measurement. ➜
+Top tip!
+When plotting data, 
+ensure that the 
+axes are correctly 
+orientated, i.e. 
+independent variable 
+on the x-axis and the 
+dependent variable on 
+the y-axis. Ensure that 
+the data points fill the 
+area for the graph, and 
+that an appropriate 
+linear scale is chosen.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+390
+Plotting linear graphs showing the relationship between two variables
+The following results were obtained in an investigation 
+of the effects of pre-incubation of starch and amylase 
+solutions at different temperatures on the subsequent 
+hydrolysis of the starch to maltose.
+1	 Draw a graph of these results, including a curve of 
+best fit, and analyse the trend shown.
+2	 Suggest the shape of the graph if the reciprocal of 
+time (1/t) was plotted on the y-axis. This represents 
+the relative rate of reaction.
+ 
+■Table C1.1.1 Time taken to hydrolyse starch to maltose at different temperatures
+Temperature of solution/°C ± 0.1 °C
+10.0
+20.0
+30.0
+35.0
+40.0
+45.0
+50.0
+55.0
+60.0
+Time taken to hydrolyse starch 
+to maltose/s ± 0.1 s
+100.0
+58.0
+30.0
+21.0
+15.0
+11.0
+19.0
+46.0
+100.0
+	ATL C1.1B 
+Read the following article: www.nature.com/news/1998/980917/full/news980917-7.html
+Many organisms possess enzymes that work in extremes of temperature or pH. This Nature 
+article discusses lactate dehydrogenase (LDH) in Antarctic fish. Can you find an example where an 
+enzyme works in extremes of pH?
+8	 Describe 
+the effect of 
+temperature on 
+enzyme-catalysed 
+reactions.
+9	 A buffer is a 
+solution that is 
+used to control the 
+pH of a process 
+occurring in an 
+experimental 
+aqueous medium. 
+Suggest why such 
+solutions are often 
+used in enzyme 
+experiments.
+ 
+■Effect of pH
+Change in pH can have a dramatic effect on the rate of an enzyme-catalysed reaction 
+(Figure C1.1.11). Each enzyme has a limited range of pH at which it functions efficiently. This is 
+often at or close to the neutrality point (pH 7.0). This effect of pH occurs because the structure of 
+a protein (and, therefore, the shape of the active site) is maintained by various bonds and weaker 
+intermolecular forces within the three-dimensional structure of the protein. A change in pH from 
+the optimum value alters the bonding patterns, progressively changing the three-dimensional shape 
+of the molecule. The active site may be quickly rendered inactive. However, unlike the effects of 
+temperature changes, the effects of pH on the active site are normally reversible – provided, that is, 
+the change in surrounding acidity or alkalinity is not too extreme. As the pH reverts to the optimum 
+for the enzyme, the active site may reform.
+Interpreting graphs on the effect of pH on the rate of enzyme activity
+Rates of enzyme reaction can be calculated for an enzyme at different pH (Figure C1.1.11). In these 
+graphs, the maximum values are of interest because they represent the optimum pH for the enzyme. 
+Rates either side of these values are non-optimum.
+Some of the digestive enzymes of the gut have different optimum pH values from most other 
+enzymes. For example, those adapted to operate in the stomach, where there is a high concentration 
+of acid during digestion, have an optimum pH that is close to pH 2.0 (Figure C1.1.11).
+Tool 3: Mathematics
+Interpolating graphs
+'Interpolate' means to make assumptions about the graph in-between the data 
+points that have been collected. For example, in the graph for trypsin (Figure C1.1.11), 
+the plotted data do not include the optimum; this is predicted to lie between two 
+recorded values between pH 7 and 8, with the interpolate line showing it to be at 
+approximately pH 7.8.
+10	Figure C1.1.11 
+shows the effect 
+of pH on the 
+rate of reaction 
+of two enzymes. 
+Estimate the 
+optimum pH 
+for trypsin.
+11	Sketch a graph 
+showing the 
+effect of pH on an 
+enzyme that has 
+an optimal pH of 7.
+
+
+=== PAGE BREAK ===
+
+C1.1   Enzymes and metabolism
+391
+lower pH
+optimum pH for enzyme
+higher pH
+pH at which the
+rate was measured
+substrate molecules no
+longer fit the active site
+enzyme in
+active state
+substrate molecules no
+longer fit the active site
+pH
+the optimum pH of different human enzymes
+10
+8
+6
+4
+2
+optimum pH
+of pepsin
+(active in
+acidic
+stomach)
+optimum pH of
+most enzymes
+in human cells
+optimum pH
+of trypsin
+(active in neutral/alkaline
+duodenum and small intestine)
+rate of enzyme-catalysed reaction
+(amount of substrate used up
+or amount of product formed
+per unit time)
+active site
+structure of protein changes when a change of pH alters the ionic charge on
+—COO– (acidic) and —NH3
++ (basic) groups in the peptide chain, so the shape of the active site is lost
+rate of reaction
+ 
+■Figure C1.1.11 Effect of pH on enzyme shape and activity
+ 
+■Effect of substrate concentration
+The effect of different concentrations of substrate on the rate of an enzyme-catalysed reaction can be 
+shown using an enzyme called catalase. This enzyme catalyses the breakdown of hydrogen peroxide:
+2H2O2 
+ 2H2O + O2
+Catalase occurs very widely in living things; it functions as a protective mechanism for the delicate 
+biochemical machinery of cells. This is because hydrogen peroxide is a common by-product of 
+reactions of metabolism, but it is also a very toxic substance since it is a powerful oxidizing agent 
+(see page 412). Catalase inactivates hydrogen peroxide as it forms before any damage can occur.
+catalase
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+392
+When measuring the rate of enzyme-catalysed reactions, we measure the amount of substrate that 
+has disappeared from a reaction mixture or the amount of product that has accumulated in a unit of 
+time. For example, in Figure C1.1.10 (page 389) it is the rate at which the substrate starch disappears 
+from a reaction mixture that is measured.
+Interpreting graphs on the effect of substrate concentration on the rate of 
+enzyme activity
+Working with catalase, it is convenient to measure the rate at which the product (oxygen) accumulates 
+– the volume of oxygen that has accumulated at 30-second intervals is recorded (Figure C1.1.12).
+Over time, the initial rate of reaction is not maintained, but falls off quite sharply. This is typical 
+of enzyme actions studied outside their location in the cell. The fall-off can be due to a number of 
+reasons, but most commonly it is because the concentration of the substrate in the reaction mixture 
+has fallen. Consequently, it is the initial rate of reaction that is measured. This is the slope of the 
+tangent to the curve in the initial stage of reaction.
+30
+60
+45
+15
+30
+25
+20
+15
+10
+5
+volume of oxygen
+produced/cm3
+60
+120
+180
+240
+time/s
+300
+The initial rate of reaction, i.e. the volume of
+oxygen produced per second (cm3s–1), can be calculated.
+from the
+graph
+The rate of an enzyme reaction is greatest at the start, the initial rate.
+The test tube is tipped up to mix the enzyme solution with the substrate.
+delivery tube
+catalase
+solution
+3% hydrogen
+peroxide
+solution
+(10 volume)
+oxygen produced, collected
+by downward displacement
+of water in an inverted
+measuring cylinder
+stop
+clock
+initial rate
+instantaneous rate
+recorded
+results
+plotted
+Time/s
+(± 1 s)
+Total volume of
+oxygen gas
+collected/cm3
+(± 0.5 cm3) 
+30
+60
+90
+120
+150
+180
+210
+240
+270
+300
+12.0
+16.0
+19.0
+22.0
+23.0
+24.0
+25.0
+25.5
+26.0
+6.0
+ 
+■Figure C1.1.12 Measuring the rate of reaction using catalase
+Inquiry 1: Exploring and designing
+Designing
+In designing the experiment illustrated in Figure C1.1.12, identify and justify the choice of 
+the dependent variable, the independent variable and the controlled variables.
+Tool 1: 
+Experimental 
+techniques
+Accurately 
+measuring 
+volume
+Figure C1.1.12 
+shows the volume 
+of gas being 
+measured using an 
+inverted measuring 
+cylinder. This is 
+only applicable for 
+gases that have low 
+solubility in water 
+(e.g. oxygen) and 
+not applicable for 
+gases that have 
+high solubility in 
+water. Volume of 
+gas can also be 
+measured using 
+a gas syringe (see 
+Figure C1.3.11, 
+page 435).
+
+
+=== PAGE BREAK ===
+
+C1.1   Enzymes and metabolism
+393
+Inquiry 3: Concluding and evaluating
+Evaluating
+Look at the experiment illustrated in Figure C1.1.12. Identify and discuss one likely 
+potential source of error when the experiment is carried out. Explain how such an error 
+is detected and what relevant improvements could be made to this experiment.
+To investigate the effects of substrate concentration on the rate of an enzyme-catalysed reaction, 
+the experiment shown in Figure C1.1.12 is repeated at different concentrations of substrate, and 
+the initial rate of reaction is plotted in each case. Other variables, such as temperature and enzyme 
+concentration, are kept constant.
+When the initial rates of reaction are plotted against the substrate concentration, the curve shows two 
+phases. At lower concentrations, the rate increases in direct proportion to the substrate concentration. 
+At higher substrate concentrations, the rate of reaction becomes constant and shows no increase.
+Now we can see that the enzyme catalase works by forming a short-lived enzyme–substrate complex. 
+At a low concentration of substrate, all molecules can find an active site without delay. Effectively, 
+there is an excess of enzyme present. The rate of reaction is set by how much substrate is present 
+– as more substrate is made available, the rate of reaction increases. Increased concentrations of 
+substrate mean that there are more collisions between substrate and the enzyme, with a higher 
+likelihood of the substrate binding with the active site of the enzyme and enzyme–substrate 
+complexes forming, causing the reaction to take place.
+However, at higher substrate concentrations there comes a point when there is more substrate than 
+enzyme. In effect, substrate molecules must ‘queue up’ for access to an active site. Adding more 
+substrate increases the number of molecules awaiting contact with an enzyme molecule, so there is 
+now no increase in the rate of reaction (Figure C1.1.13).
+few substrate molecules,
+many active sites free:
+increase in substrate 
+concentration
+will increase the rate
+more substrate
+molecules, all active
+sites engaged in
+catalysis: approaching
+maximum rate of
+reaction
+excess of substrate molecules,
+all active sites engaged in catalysis:
+increase in substrate concentration
+will not change the rate
+initial rate of reaction
+substrate concentration
+high
+high
+low
+low
+12	When there is an 
+excess of substrate 
+present in an 
+enzyme-catalysed 
+reaction, explain 
+the effect on the 
+rate of reaction 
+of increasing the 
+concentration of:
+a	 the substrate
+b	 the enzyme.
+ 
+■Figure C1.1.13 The 
+effect of substrate 
+concentration
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+394
+Inquiry 2: Collecting and processing data
+Collecting data 
+Access this site: https://exchange.iseesystems.com/public/jondarkow/lactase-with-
+variable-sample-sizes/index.html#page1
+This is a simulation of experiments with the enzyme lactase, which hydrolyzes lactose to 
+glucose and galactose. Click on the ‘Simulate’ tab to access the simulation. Keep the pH 
+and temperature at the default settings of pH 7 and 25 ºC. Leave the lactase enzyme 
+concentration at 5 mM (millimoles) for this and all your experiments. Set the sample 
+size to 10. 
+Run the simulation at initial lactose (the substrate) concentrations of 10, 20, 40, 60, 80, 
+100 and 120 mM. After each simulation at each substrate concentration, click on the 
+‘mean of samples’ tab. Here you will find a graph of the average amount of glucose 
+produced over time. On the graph at the 10-minute mark, determine the value of 
+the product (glucose) concentration (mM). Since the simulation begins with a glucose 
+concentration of zero, the value of glucose concentration at 10 minutes divided by 
+10 is also the slope or initial velocity of the reaction (mM min–1). Carry out further 
+experiments to determine the effect of pH and temperature on lactase rate.
+Measurements in enzyme-catalysed reactions
+Tool 3: Mathematics 
+Calculating rates of change from graphical and tabulated data
+The rate of reaction is measured by dividing a value of the dependent variable by 
+time. In Figure C1.1.12, the initial rate is taken by extrapolating a straight line from 
+the first section of the curve. The rate of reaction is calculated by dividing a value 
+of the dependent variable (volume of oxygen produced) taken from along this line by 
+the corresponding time, as shown by the dashed lines in the graph. Relative rates of 
+reaction can be calculated using the reciprocal of time (1/t).
+For example, in the experiment on the effect of temperature on starch digestion by 
+amylase (page 390), relative rates can be calculated:
+Temperature of solution 
+/ °C ± 0.1 °C
+10.0
+20.0
+30.0
+35.0
+40.0
+45.0
+50.0
+55.0
+60.0
+Time taken to hydrolyse 
+starch to maltose/s ± 
+0.1 s
+100.0
+58.0
+30.0
+21.0
+15.0
+11.0
+19.0
+46.0
+100.0
+Relative rate of reaction 
+(1/t) s−1
+0.010
+0.017
+0.033
+0.048
+0.067
+0.091
+0.053
+0.022
+0.010
+These data show the rate of reaction increasing from 10 to 45 °C, and then decreasing 
+to the original rate at 60 °C.
+13	Calculate the 
+initial rate of 
+reaction in 
+Figure C1.1.12.
+14	Explain the 
+factors that 
+affect the rate of 
+enzyme-controlled 
+reactions in cells.
+15	List three factors 
+that can affect the 
+rate of enzyme 
+reactions.
+
+
+=== PAGE BREAK ===
+
+C1.1   Enzymes and metabolism
+395
+Effect of enzymes on activation energy
+We visualize an enzyme (E) as a large molecule that works by reacting with another compound or 
+compounds, the substrate (S). Initially, a short-lived enzyme–substrate complex (ES) is formed at the 
+active site. This complex exists at a local energy minimum and is quite stable. The transition state 
+(TS) is the point where there is a maximum value of energy. The transition state exists at the  
+top of the energy profile and is transient. Almost instantly, the product (P) is formed and the 
+enzyme is released unchanged. The enzyme immediately takes part in another reaction. We 
+represent this reaction as follows:
+E + S → [ES] → ES ‡ → P + E
+where ES ‡ is the transition state.
+Energy is released when the ‘substrate’ becomes the ‘product’. However, to bring about the reaction, 
+a small amount of energy is needed initially to break or weaken bonds in the substrate, to form the 
+transition state. This energy input is called the activation energy (Figure C1.1.14). It is a small but 
+significant energy barrier that must be overcome before the reaction can happen. Enzymes work by 
+lowering the amount of energy required to activate the reacting molecules by providing a new, 
+alternative reaction pathway.
+Another model of enzyme catalysis includes a boulder (substrate) perched on a slope, prevented 
+from rolling down by a small hump (representing activation energy). The boulder can be pushed over 
+the hump, or the hump can be dug away to lower it (= lowering the activation energy), allowing the 
+boulder to roll down and shatter at a lower level (giving products).
+Energy is needed to break the bonds within the substrate. When bonds are made from the products 
+of an enzyme-catalysed reaction, there is an energy yield. You should be able to interpret graphs 
+showing this effect, for example Figure C1.1.14.
+Note: virtually all enzyme-catalysed reactions still have activation energy barriers, they are just 
+smaller. The enzyme lowers the ‘hump’ of activation energy, it does not remove it.
+products
+(at lower
+energy level)
+triggering the fall,
+either by pushing
+‘boulder on hillside’ model of activation energy
+or by lowering
+the hump
+the hump (the
+enzyme way)
+activation energy
+free energy change
+energy
+reactant
+products
+without a catalyst, this
+amount of energy needs
+to be put in to start the
+reaction
+effect of catalyst
+transition state
+Example:
+sucrase
+sucrose  +  water ⎯⎯⎯→glucose  +  fructose
+ 
+■Figure C1.1.14 Activation energy
+	
+◆Activation energy: 
+energy required by a 
+substrate molecule before 
+it can undergo a chemical 
+change.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+396
+	ATL C1.1C 
+Find out more about activation energy here:  
+https://ed.ted.com/lessons/activation-energy-kickstarting-chemical-reactions-vance-kite
+Produce a cartoon or poster, using ideas from this book and from the animation, to summarize 
+the role of enzymes in reducing activation energy in metabolic reactions. Producing your own 
+visual summaries of important biological concepts can help you understand and remember them.
+16	Sketch a graph 
+showing the effect 
+of an enzyme 
+on the activation 
+energy of a 
+metabolic reaction.
+17	Define the term 
+activation energy.
+Top tip!
+Molecules collide more frequently at higher temperatures; however, the main reason why the 
+reaction speeds up is that more molecules have enough energy to get over the activation energy.
+Intracellular and extracellular 
+enzyme-catalysed reactions
+Some enzymes are exported from cells, such as the digestive enzymes. Enzymes like these are put 
+into vesicles, secreted by endocytosis and work externally. They are called extracellular enzymes. 
+Chemical digestion in the gut is an example of an extracellular reaction.
+However, most enzymes remain within cells and work there. These are the intracellular enzymes. 
+Many are found inside organelles and in the membranes of organelles, in the fluid medium around 
+the organelles and in the plasma membrane. Many are also in the cytoplasm (e.g. glycolysis, 
+page 414). Two of the main metabolic processes in respiration are glycolysis and the Krebs cycle. 
+These are intracellular enzyme-catalysed reactions. 
+18	Distinguish between intracellular and extracellular enzymes.
+Generation of heat energy by the 
+reactions of metabolism
+When glucose is oxidized to carbon dioxide and water in aerobic cell respiration, energy is 
+transferred from the store of chemical potential energy to heat energy (i.e. the kinetic energy of 
+molecular motion). This energy is no longer in store but is on the move; it is active energy. Only 
+part of the stored energy in a molecule is available. This is known as free energy and can be used 
+to do work. Reactions that release free energy are known as exergonic reactions (Figure C1.1.15). 
+The oxidation of glucose is an example of an exergonic reaction.
+Heat generation is inevitable in metabolic reactions. Exergonic reactions involve the release of heat 
+because metabolic reactions are not 100% efficient in energy transfer. Mammals, birds and some 
+other animals depend on this heat production for maintenance of constant body temperature and 
+are said to be endotherms (page 766) or ‘warm-blooded’. Other animals cannot control their cell 
+metabolism in this way and are described as ectotherms (‘cold-blooded’).
+On the other hand, reactions in which energy is absorbed, and there is more energy in the system at 
+the end of the reaction than at the beginning of it, are called endergonic reactions. The synthesis of 
+a protein from amino acids is an example of an endergonic reaction.
+	
+◆Extracellular 
+enzyme: an enzyme 
+secreted by a cell that 
+functions outside the cell.
+	
+◆Intracellular 
+enzyme: an enzyme that 
+functions within the cell 
+in which it was produced.
+Link
+Respiration and the 
+Krebs cycle are covered 
+in detail in Chapter 
+C1.2, page 405.
+Link
+Energy transfer is 
+covered in Chapter 
+C4.2, page 578. 
+The maintenance 
+of constant body 
+temperature is covered 
+in Chapter D3.3, 
+page 766.
+HL ONLY
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.1   Enzymes and metabolism
+397
++ free energy given out,
+as work done,
+or heat, or both
+A+B
+AB
+an uphill
+reaction
+energy put in
+CD
++ free energy input
+a downhill
+reaction
+energy given off
+C+D
+In an exergonic reaction the products have less stored
+energy than the reactants.
+In an endergonic reaction energy has to be put in,
+because the products have more stored energy than the
+reactants.
+ 
+■Figure C1.1.15 Exergonic and endergonic reactions
+The many endergonic reactions that occur in metabolism are made possible by being coupled to 
+exergonic reactions. Coupling occurs through adenosine triphosphate (ATP) (the energy currency 
+molecule in biology). Molecules of ATP work in metabolism by acting as common intermediates, 
+linking energy-absorbing and energy-yielding reactions. Metabolic processes mostly involve ATP, 
+directly or indirectly.
+Cyclical and linear pathways in metabolism
+Metabolism consists of series of reactions in which the product of one reaction is an intermediate of 
+the next, and so on. Many pathways consist of linear metabolic pathways (that is straight chains) 
+of reactions, while others are cyclical metabolic pathways (Figure C1.1.16). We shall see examples 
+of both types of metabolic pathway within the reactions of respiration, a catabolic process 
+(page 405), and photosynthesis, an anabolic process (page 425).  
+h
+g
+f
+e
+a
+b
+c1
+c2
+d
+x
+A
+B
+C
+D
+E
+I
+G
+F
+H
+X
+Y
+cyclical
+metabolic
+pathway
+branched
+metabolic
+pathway
+metabolite A
+(substrate of
+enzyme a)
+linear
+metabolic
+pathway
+enzymes c1 and c2
+compete for
+metabolite C
+How much of metabolite C is converted to X or to D 
+depends on the relative amounts of enzymes c1 and c2, 
+and how readily each forms its enzyme–substrate complex.
+ 
+■Figure C1.1.16 Some metabolic pathways and the roles of enzymes
+Link
+The definition and 
+structure of ATP are 
+detailed in Chapter 
+B2.1, Figure B2.1.12, 
+page 232.
+	
+◆Linear metabolic 
+pathway: a series 
+of enzyme-catalysed 
+reactions that run in one 
+direction, from reactant 
+to product.
+	
+◆Cyclical metabolic 
+pathway: a circular 
+series of enzyme-
+catalysed reactions where 
+there is no end to the 
+series; one reaction leads 
+to the next and eventually 
+back to the starting point.
+	
+◆Metabolic pathway: 
+sequence of enzyme-
+catalysed biochemical 
+reactions in cells and 
+tissues.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+398
+In respiration, glycolysis is a linear metabolic pathway (page 414) and the Krebs cycle a cyclical one 
+(page 418). Photosynthesis has two sets of reactions – the light-dependent reactions and the light-
+independent reactions (page 439). The light-independent reactions are driven by the Calvin cycle 
+(page 445) – another example of a cyclical pathway.
+TOK
+You will have noticed that the study of biology requires some understanding of chemistry. 
+Chemical theory is used to explain the inner workings of biological phenomena. Do you think this 
+means that chemistry is a body of knowledge that is somehow more foundational than biology? 
+Can all the facts of biology be translated into facts about chemistry? 
+You might also ask similar questions in relation to other areas of knowledge (AOKs): does physics 
+describe the world better than chemistry? Can art describe facts about human experience in a 
+preferable way to history or biology? 
+Thinking about the scope of the AOKs is a helpful tool in TOK. The scope element of the TOK 
+Knowledge Framework encourages you to think about the specific questions that one AOK will ask 
+rather than another. Biology, for instance, might be more interested in identifying and explaining 
+facts about whole organisms or systems, while chemistry focuses more on chemical and atomic 
+interactions. That these different types of knowledge overlap and inform one another is crucial to 
+understanding any one of them, but being able to explore them as distinct knowledge communities 
+is a helpful TOK strategy.
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+19	Compare and 
+contrast cyclical 
+and linear 
+pathways in 
+metabolism.
+Enzyme inhibitors
+The actions of enzymes may be inhibited by other molecules, some formed in the cell and others 
+absorbed from the external environment. These substances are known as enzyme inhibitors since 
+their effect is generally to lower the rate of reaction.
+Top tip!
+Studying the effects of inhibitors has helped our understanding of: 
+l	 the chemistry of the active site of enzymes
+l	 the natural regulation of metabolism and which pathways operate
+l	 the ways certain commercial pesticides and drugs work, namely by inhibiting specific enzymes 
+and preventing particular reactions.
+For example, molecules that sufficiently resemble the substrate in shape may compete to occupy 
+the active site. These are known as competitive inhibitors. The enzyme that catalyses the 
+reaction between carbon dioxide and the acceptor molecule in photosynthesis is known as 
+ribulose bisphosphate carboxylase (rubisco, page 445) and is competitively inhibited by oxygen in 
+the chloroplasts.
+Alternatively, an inhibitor may be unlike the substrate molecule, yet still combine with the enzyme. 
+In these cases, the attachment occurs at some other part of the enzyme, probably quite close to the 
+active site. Here, the inhibitor either partly blocks access to the active site by substrate molecules, or 
+it causes the active site to change shape and so be unable to accept the substrate. These are called 
+non-competitive inhibitors since they do not compete for the active site. Adding excess substrate 
+does not overcome their inhibiting effects (Figure C1.1.17). 
+	
+◆Enzyme inhibitor: a 
+substance that slows or 
+blocks enzyme action.
+	
+◆Competitive 
+inhibitor: a substance 
+that binds to the active 
+site of an enzyme, 
+slowing or blocking 
+enzyme action.
+	
+◆Non-competitive 
+inhibitor: a substance 
+that does not bind to the 
+active site but to another 
+part of the enzyme, 
+slowing or blocking 
+enzyme action.
+Link
+Rubisco is covered 
+in more detail 
+in Chapter C1.3, 
+page 445.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.1   Enzymes and metabolism
+399
+Examine the graph in Figure C1.1.17 carefully. 
+You can see that when the initial rates of reaction of an enzyme are plotted against substrate 
+concentration, the effects of competitive and non-competitive inhibitors are clearly different.
+substrate
+enzyme
+two types of reversible
+inhibition
+competitive inhibitor
+in place: substrate prevented
+from binding
+non-competitive inhibitor
+in place: catalytic activity of
+active site prevented
+active site
+change
+in shape
+of active
+site
+low
+high
+maximum rate
+of enzyme-catalysed reaction
+without any inhibitor
+effect of a competitive
+inhibitor:
+substrate and inhibitor 
+compete for active sites, so 
+excess substrate overcomes 
+inhibition
+effect of a non-competitive
+inhibitor:
+inhibitor does not compete for
+active sites, so excess substrate
+will not overcome inhibition
+initial rate of reaction
+substrate concentration
+When the initial rates of reaction of an enzyme are plotted against
+substrate concentration, the effects of competitive and non-competitive
+inhibitors are seen to be different.
+ 
+■Figure C1.1.17 Competitive and non-competitive inhibitors
+The difference between competitive and non-competitive inhibition is in the interactions between 
+substrate and inhibitor and, therefore, in the effect of substrate concentration. In non-competitive 
+inhibition, the inhibitor does not compete for active sites and so excess substrate will not overcome 
+inhibition. In competitive inhibition, substrate and inhibitor compete for active sites and so excess 
+substrate will overcome inhibition.
+ 
+■Allosteric sites and non-competitive inhibition
+Allosteric regulators are molecules that change the shape and activity of an enzyme by reversibly 
+binding at a site on the enzyme, typically some distance from the active site. Binding of an allosteric 
+activator temporarily stabilizes the enzyme shape as an active and effective catalyst. Binding of an 
+allosteric inhibitor changes the enzyme shape into an inactive form. 
+We can see allosteric regulation as a form of reversible non-competitive inhibition or activation 
+of an enzyme. Subtle fluctuations in the concentrations of activators and inhibitors may fine-
+tune the activity of a critical pathway as constantly changing conditions or requirements of cell 
+metabolism demands.
+Only specific substances known as effectors can bind to an allosteric site. Binding causes interactions 
+within an enzyme that lead to conformational changes, which alter the active site enough to prevent 
+catalysis. Binding is reversible.
+An investigation of the initial rate of reaction of the enzyme catalase in the 
+presence and absence of heavy metal ions (Cu2+)
+The enzyme catalase catalyses the breakdown of hydrogen peroxide (see page 391 earlier in the chapter): 
+2H2O2 
+ 2H2O + O2
+	
+◆Allosteric 
+regulators: molecules 
+that change the shape 
+and activity of an enzyme 
+by reversibly binding at a 
+site on the enzyme.
+catalase
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+400
+The rate of an enzyme-catalysed reaction is the amount of substrate that has disappeared from a 
+reaction mixture, or the amount of product that has accumulated, in a period of time. For example, 
+with catalase it is convenient to measure the rate at which the product (oxygen) accumulates. In this 
+experiment, an indication of the volume of oxygen that was released at half-minute intervals was 
+recorded at each substrate concentration. 
+When these ‘raw’ results for each concentration of hydrogen peroxide were plotted on a graph, it 
+was found that, over time, the initial rate of reaction was not maintained; in fact, it decreased quite 
+quickly. This is typical of enzyme actions studied outside their location in the cell. The reduction 
+in rate can be due to a number of reasons, but most commonly it is because the concentration of 
+the substrate in the reaction mixture has fallen. Consequently, it is the initial rate of reaction that is 
+determined. This is the slope of the tangent to the curve in the initial stage of reaction. How this is 
+calculated is shown in Figure C1.1.12 (page 392).
+Look at this account of how an initial reaction rate is calculated now.
+The apparatus used is illustrated in Figure C1.1.18 and the reaction mixtures in this experiment are 
+tabulated below. Note that:
+1	 A yeast suspension was used as the source of the enzyme. The number of bubbles released at 
+half-minute intervals was counted and recorded for six minutes with each reaction mixture. 
+(The initial rush of bubbles when the yeast was injected was discounted. The depth of the bubble 
+nozzle was the same in each experiment.) 
+2	 The concentration of a hydrogen peroxide solution is given as the volume of oxygen that can be 
+released. For example, a 20-volume solution will, when completely decomposed, give 20 times its 
+own volume of oxygen.
+3	 A duplicate investigation was carried out in the presence of a dilute solution of copper(ii) 
+(Cu2+ (aq)) ions. 
+water bath
+2 cm3 syringe to hold
+yeast suspension
+bung cut in half to allow
+syringe needle to penetrate
+right through
+hydrogen 
+peroxide 
+solution to 
+which yeast 
+suspension 
+has been 
+added 
+side-arm test tube
+rubber delivery tube
+boiling tube
+glass tube 
+made into a 
+nozzle 1 mm 
+in diameter
+ 
+■Figure C1.1.18 Apparatus for monitoring the effects of 
+substrate concentration on the action of catalase
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.1   Enzymes and metabolism
+401
+The reaction mixtures used, and the results obtained, are shown in Tables C1.1.2 and C1.1.3. 
+Examine them and then answer the questions.
+ 
+■Table C1.1.2 Effect of substrate concentration on enzyme-catalysed reaction
+Experiment
+1
+2
+3
+4
+5
+6
+volume distilled water (cm3)
+4.0 
+3.5
+3.0
+2.5
+2.0
+1.5
+volume 20-vol H2O2 (cm3)
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+concentration of H2O2 (vol)
+4.0 
+6.0 
+8.0
+10.0 
+12.0 
+14.0 
+volume yeast suspension (cm3)
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+initial rate of reaction
+(bubbles/min)
+0.5
+17.0
+24.0
+27.0
+30.0
+32.0
+ 
+■Table C1.1.3 Effect of substrate concentration on enzyme‑catalysed 
+reaction in presence of heavy metal ions
+Experiment
+1
+2
+3
+4
+5
+6
+volume distilled water (cm3)
+3.9
+3.4
+2.9
+2.4
+1.9
+1.4
+volume 0.1 M copper(ii) (Cu2+)
+solution (cm3)
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+volume 20-vol H2O2 (cm3)
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+concentration of H2O2 (vol)
+4.0 
+6.0 
+8.0 
+10.0 
+12.0 
+14.0 
+volume yeast suspension (cm3)
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+initial rate of reaction
+(bubbles/min)
+0.2
+8.0
+14.0
+15.0
+15.4
+15.6
+ 
+■Competitive inhibition
+Competitive inhibition is a consequence of 
+an inhibitor binding reversibly to an active 
+site (see above).
+Statins are an example of competitive 
+inhibitors. They are competitive inhibitors 
+of an enzyme crucial for the synthesis of 
+cholesterol: 3-hydroxy-3-methylglutaryl 
+coenzyme A (HMG-CoA) reductase 
+(HMGR) (see Figure C1.1.19). Statins are 
+similar in structure to the substrate of 
+HMGR, HMG-CoA. Statins can therefore 
+occupy a portion of the binding site of 
+HMG-CoA, blocking access of this 
+substrate to the active site of the enzyme 
+(Figure C1.1.20).
+Top tip!
+You will not be expected to recall the 
+names of individual chemicals in these 
+reactions. They are used here to explain 
+the mechanism of enzyme inhibition.
+20	Construct a 
+graph showing 
+the initial rates of 
+reaction of the 
+enzyme catalase 
+over the substrate 
+concentration 
+range of 4–14 vol 
+hydrogen peroxide 
+in the presence 
+and absence of 
+heavy metal ions. 
+21	Explain to what 
+extent these 
+data support the 
+hypothesis that 
+copper(ii) ions are 
+a non-competitive 
+inhibitor of the 
+enzyme that 
+decomposes 
+hydrogen peroxide. 
+	
+◆Statin: any of a class 
+of drugs that lower the 
+level of low-density 
+lipoproteins in the blood 
+by inhibiting the activity 
+of an enzyme involved 
+in the production of 
+cholesterol in the liver. 
+HO
+acetyl-CoA
+acetoacetyl-CoA
+mevalonic acid
+HMG-CoA
+reductase
+squalene
+cholesterol
+(C27H46O)
+β-hydroxy-β-
+methylglutaryl-CoA
+ 
+■Figure C1.1.19 The 
+metabolic pathway of 
+cholesterol synthesis
+statin
+(competitive inhibitor)
+HMG-CoA
+(substrate)
+X
+HMG-CoA reductase
+active site
+OH
+HO
+CH3
+CH3
+O
+O
+HO
+O
+O–
+C
+H3C
+HO
+O
+O
+O–
+C
+S-CoA
+C
+OH
+HO
+CH3
+CH3
+O
+O
+HO
+O
+O–
+C
+ 
+■Figure C1.1.20 Statins compete with HMG‑CoA 
+for the active site of HMG-CoA reductase 
+(X indicates that site is blocked to substrate)
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+402
+Health consequences of the lipid content of diets
+The lipid cholesterol is a component of the diet, particularly when animal fats are present. This lipid 
+is a steroid (see Chapter B2.1, page 237). 
+There are two forms of cholesterol carried in the blood:
+l	 low-density lipoproteins (LDLs), complexes of thousands of cholesterol molecules bound to 
+proteins in particles (‘bad cholesterol’)
+l	 high-density lipoproteins (HDLs), or ‘good cholesterol’.
+Excess blood cholesterol, present as LDLs, may cause atherosclerosis – the progressive degeneration 
+of the artery walls (page 300). A direct consequence of this is an increased likelihood of the 
+formation and circulation of blood clots.
+Statins are taken to reduce LDLs in the blood and therefore reduce the risk of coronary heart disease 
+and other effects of high levels of cholesterol in the blood.
+	ATL C1.1D 
+Many drugs are enzyme inhibitors, for example angiotensin-converting enzyme (ACE) inhibitors, 
+which are used to treat hypertension. Research this example or generate a list of other medicines 
+that work as enzyme inhibitors, such as the antibacterial effects of penicillin or sulfonamide.
+22	Distinguish 
+between 
+competitive and 
+non-competitive 
+enzyme inhibition.
+ 
+■Regulation of metabolic pathways by feedback inhibition
+Individual pathways in metabolism may be switched off by the final product acting as a reversible 
+inhibitor of the enzyme that catalyses the first step in the pathway. 
+In end-product inhibition, as the product molecules accumulate, the steps in their production are 
+switched off (Figure C1.1.21). However, these product molecules may now become the substrate in 
+subsequent metabolic reactions. If so, the accumulated product molecules will be removed and 
+production of new product molecules will recommence.
+inhibition of
+enzyme a by
+the end-product
+molecule
+enzyme a
+substrate
+molecule
+intermediate products
+of the metabolic pathway
+end-product
+A
+a
+B
+C
+D
+E
+F
+enzyme b
+b
+c
+d
+e
+This is an example of the regulation of a metabolic pathway by negative feedback.
+ 
+■Figure C1.1.21 Regulation of a metabolic pathway by end-product inhibition
+Common mistake
+A common misconception is that a competitive inhibitor of an intermediate enzyme in a pathway 
+would prevent any final product from being formed. This is unlikely because the substrate of the 
+inhibited enzyme would still sometimes manage to bind to the active site and there would be some 
+final product.
+	
+◆End-product 
+inhibition: when the 
+product of the last 
+reaction in a metabolic 
+pathway inhibits the 
+enzyme that catalyses 
+the first reaction of the 
+pathway.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.1   Enzymes and metabolism
+403
+End-product inhibition of the pathway that converts threonine to isoleucine
+Bacteria can synthesize isoleucine from threonine. Figure C1.1.22 shows the metabolic pathway for 
+the synthesis of isoleucine.
+l	 Isoleucine acts as a non-competitive inhibitor by binding to the allosteric site of the enzyme 
+threonine deaminase.
+l	 Threonine deaminase is an essential enzyme in the first stage of the metabolic pathway – its 
+inhibition turns off isoleucine production. This regulates the production of isoleucine.
+l	 Initially, when isoleucine concentration is still low, the metabolic pathway can proceed as non-
+competitive inhibition is low.
+l	 As isoleucine concentration increases, non-competitive inhibition takes place and the metabolic 
+pathway is regulated.
+l	 As isoleucine is used in the cell for protein synthesis, its concentration falls and the allosteric sites 
+of threonine deaminase are no longer occupied, so the enzyme can once again act in the 
+conversion of threonine to isoleucine.
+threonine
+enzyme 1 threonine deaminase
+high levels of isoleucine
+(allosteric inhibitor)
+enzyme (threonine deaminase)
+low levels of isoleucine
+substrate
+(threonine)
+isoleucine inhibits threonine deaminase
+CH3 C
+OH
+H
+C H
+NH2
+COOH
+intermediate A
+enzyme 2
+intermediate B
+enzyme 3
+intermediate C
+enzyme 4
+intermediate D
+enzyme 5
+isoleucine
+CH2 C
+H
+CH3
+CH3
+C H
+NH2
+COOH
+ 
+■Figure C1.1.22 Isoleucine inhibits threonine deaminase, acting as a non-competitive inhibitor
+ 
+■Mechanism-based inhibition
+A substrate analogue is a molecule that has a similar structure to the substrate, allowing it to bind 
+covalently to the active site of the enzyme. When it binds to the active site, the substrate analogue 
+can be modified by the enzyme to produce a reactive group, which reacts irreversibly to form a stable 
+inhibitor–enzyme complex. This is known as mechanism-based inhibition. 
+Penicillin was the first group of antibiotics developed to fight bacterial disease (see page 532). 
+But what is the mechanism by which penicillin kills bacteria? 
+The cell walls of bacteria are made from peptidoglycan (also known as murein), which is formed 
+from polysaccharide chains linked by short peptides (Figure C1.1.23). The bacterial enzyme 
+DD‑transpeptidase forms cross-links between these strands, strengthening the structure. Penicillin 
+inhibits DD-transpeptidase. By inhibiting transpeptidase, the cell walls are not cross-linked, so they 
+are weak. Without a strong cell wall, a bacterial cell is vulnerable to the movement of water into 
+the cell by osmosis, which kills the bacteria by lysis (the increased pressure of water inside the cell 
+causes the membrane to burst). 
+Top tip!
+Isoleucine is an 
+essential amino acid: 
+it cannot be made by 
+the human body and 
+so must be consumed 
+from food.
+	
+◆Mechanism-based 
+inhibition: process 
+that occurs when 
+unreactive molecules 
+are transformed into 
+an active form through 
+catalytic reactions; these 
+active forms inhibit the 
+enzyme, typically through 
+covalent modification 
+of the active site. It is 
+an irreversible form of 
+enzyme inhibition.
+Link
+Antibiotics are 
+covered in more 
+detail in Chapter C3.2, 
+page 532.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+404
+How does penicillin inhibit DD-transpeptidase?
+The structure of penicillin resembles parts of the growing peptide chain of the peptidoglycan cell 
+wall. Instead of binding to a peptide chain, the transpeptidase binds to penicillin; the structure of 
+the penicillin is modified by the enzyme, forming an inactive enzyme–penicillin complex, which 
+blocks the formation of further cross-linkages (Figure C1.1.23). The penicillin substrate is modified 
+by its interaction with the transpeptidase, and an irreversible form of enzyme inhibition occurs. 
+This is an example of mechanism-based inhibition.
+polysaccharide chain
+polysaccharide chain
+inactivated
+DD-transpeptidase
+penicillin
+peptide
+active
+DD-transpeptidase
+ 
+■Figure C1.1.23 Penicillin blocks the formation of peptide cross-
+links between polysaccharide chains of peptidoglycan
+Bacteria can become resistant to antibiotics such as penicillin. Mutations in the bacterial genome can 
+lead to changes in the active site of some transpeptidases, causing the penicillin to reduce or lose its 
+affinity with the enzyme, promoting resistance to the antibiotic (Figure C1.1.24). When mutations 
+occur in plasmid DNA, resistance can quickly spread through bacteria through the process of 
+conjugation (see page 119). 
+opened
+active site
+penicillin
+transpeptidase
+mutation
+closed
+active site
+ 
+ 
+■Figure C1.1.24 Genetic mutations can result in structural changes in the 
+active site of transpeptidases, leading to antibiotic resistance
+	ATL C1.1E 
+Many metabolic poisons are enzyme inhibitors. Research the example of α-amantin as an RNA 
+polymerase inhibitor, or the use of acetylcholinesterase inhibitors as insecticides or nerve gas. 
+Concepts you will encounter will link to Chapters D1.2 and C2.1, respectively.
+LINKING QUESTIONS
+1	 What are examples of structure–function relationships in biological macromolecules?
+2	 What biological processes depend on differences or changes in concentration? 
+Link
+Bacterial resistance 
+to antibiotics is 
+covered in more 
+detail in Chapter C3.2, 
+page 534.

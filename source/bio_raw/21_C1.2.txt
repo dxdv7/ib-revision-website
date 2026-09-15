@@ -1,0 +1,1595 @@
+C1.2   Cell respiration
+405
+C1.2
+Cell respiration
+•	 What are the roles of hydrogen and oxygen in the release of energy in cells?
+•	 How is energy distributed and used inside cells?
+Guiding questions
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 C1.2.1 	 ATP as the molecule that distributes energy within cells
+	 C1.2.2 	 Life processes within cells that ATP supplies with energy
+	 C1.2.3 	 Energy transfers during interconversions between ATP and ADP
+	 C1.2.4 	 Cell respiration as a system for producing ATP within the cell using energy 
+released from carbon compounds
+	 C1.2.5 	 Differences between anaerobic and aerobic cell respiration in humans
+	 C1.2.6 	 Variables affecting the rate of cell respiration
+	 C1.2.7 	 Role of NAD as a carrier of hydrogen and oxidation by removal of hydrogen 
+during cell respiration (HL only)
+	 C1.2.8 	 Conversion of glucose to pyruvate by stepwise reactions in glycolysis with a net 
+yield of ATP and reduced NAD (HL only)
+	 C1.2.9 	 Conversion of pyruvate to lactate as a means of regenerating NAD in anaerobic 
+cell respiration (HL only)
+	 C1.2.10 	Anaerobic cell respiration in yeast and its use in brewing and baking (HL only)
+	 C1.2.11 	Oxidation and decarboxylation of pyruvate as a link reaction in aerobic cell 
+respiration (HL only)
+	 C1.2.12 	Oxidation and decarboxylation of acetyl groups in the Krebs cycle with a yield 
+of ATP and reduced NAD (HL only)
+	 C1.2.13 	Transfer of energy by reduced NAD to the electron transport chain in the 
+mitochondrion (HL only)
+	 C1.2.14 	Generation of a proton gradient by flow of electrons along the electron 
+transport chain (HL only)
+	 C1.2.15 	Chemiosmosis and the synthesis of ATP in the mitochondrion (HL only)
+	 C1.2.16 	Role of oxygen as terminal electron acceptor in aerobic cell respiration (HL only)
+	 C1.2.17	 Differences between lipids and carbohydrates as respiratory substrates (HL only)
+ATP as the molecule that distributes 
+energy within cells
+ 
+■Cellular respiration: introduction
+Living organisms require energy to build and repair body structures and to maintain all the activities 
+of life, such as movement, reproduction, nutrition, excretion and sensitivity. Energy is also required 
+for life processes within cells (see below). Energy is transferred in cells by the breakdown of 
+nutrients, principally of carbohydrates such as glucose. The process by which energy is made 
+available from nutrients in cells is called cell respiration. Cell respiration is the controlled release of 
+energy from organic compounds in cells.
+	
+◆Cell respiration: 
+the enzyme-controlled 
+release of energy from 
+organic compounds to 
+produce ATP.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+406
+Energy in respiration is transferred in small quantities; much of the energy is made available to the 
+cells and may be temporarily trapped in the energy currency molecule adenosine triphosphate (ATP). 
+However, some energy is still lost as heat in each step – we notice how warm we become with 
+strenuous physical activity.
+energy in molecules
+time
+energy change in cellular respiration
+energy transferred
+to ATP in many
+small steps (ATP
+then used
+in muscular
+contraction) 
+CO2  + H2O  
+glucose + oxygen
+energy in molecules
+time
+energy change in burning
+energy lost as
+heat
+CO2  + H2O  
+glucose 
++ oxygen
+ 
+■Figure C1.2.1 Combustion and respiration compared
+ 
+■ATP – the universal energy currency
+Energy that is made available within the cytoplasm is transferred from glucose to a molecule called 
+adenosine triphosphate (ATP). ATP is referred to as energy currency because, like money, it can 
+be used in different contexts, and it is constantly recycled. Respiration changes energy from one form 
+of ‘currency’ (glucose) into a different currency (ATP). Glucose is relatively stable, whereas ATP 
+breaks down, releasing the energy it stores when coupled to another reaction.
+ATP is a nucleotide (page 15) with an unusual feature. It carries three phosphate groups linked 
+together in a linear sequence (Figure C1.2.2). ATP may lose both of the outer phosphate groups, but 
+usually only loses one at a time. ATP is a relatively small, soluble organic molecule. It occurs in cells 
+at a concentration of 0.5–2.5 mg cm−3, which remains fairly constant (except in fatigued muscle cells).
+Like many organic molecules of its size, ATP contains a good deal of chemical energy locked up 
+in its structure. What makes ATP special as a reservoir of chemical energy is its role as a common 
+intermediate between energy-yielding reactions and energy-requiring reactions and processes. 
+Energy-yielding reactions include many of the individual steps in respiration. Energy-requiring 
+reactions include the synthesis of cellulose from glucose, the synthesis of proteins from amino acids 
+and the contraction of muscle fibres.
+adenosine triphosphate ATP 
+adenosine diphosphate ADP 
+adenosine monophosphate AMP 
+adenine
+P
+P
+P
+ribose
+ 
+■Figure C1.2.2 ATP, ADP and AMP
+Common 
+mistake
+People sometimes talk 
+about ‘burning up 
+food’ in respiration, but 
+comparing respiration to 
+combustion is unhelpful. 
+In combustion, 
+energy in matter is 
+released in a one-step 
+reaction, as heat and 
+light (Figure C1.2.1). 
+Such a rapid change 
+would be disastrous 
+for body tissues. In 
+cellular respiration, 
+many small steps occur, 
+each catalysed by a 
+specific enzyme. 
+	
+◆Adenosine 
+triphosphate (ATP): 
+a nucleotide, present in 
+every living cell, formed 
+in photosynthesis and 
+respiration from ADP and 
+Pi, and functioning in 
+metabolism as a common 
+intermediate between 
+energy-requiring and 
+energy-yielding reactions.
+Link
+The structure of ATP 
+is detailed in Chapter 
+B2.1, Figure B2.1.12, 
+page 232.
+
+
+=== PAGE BREAK ===
+
+C1.2   Cell respiration
+407
+In summary, ATP is a molecule universal to all living things. It is the source of energy for chemical 
+change in cells, tissues and organisms. In addition, ATP is:
+l	 a substance that moves easily within cells and organisms – by facilitated diffusion
+l	 a very reactive molecule, able to take part in many steps of cellular respiration and in many 
+reactions of metabolism
+l	 an immediate source of energy, able to deliver energy in relatively small amounts, sufficient to 
+drive individual reactions and physical processes.
+Life processes within cells that 
+ATP supplies with energy
+ATP provides a direct source of energy for many life processes within cells, such as:
+l	 active transport of molecules and ions across membranes by membrane pumps (Chapter B2.1)
+l	 synthesis of macromolecules (anabolism, page 382, and Chapters B1.1 and B1.2)
+l	 movement of the whole cell
+l	 movement of cell components, such as chromosomes (Chapter D2.1).
+ATP is universal to all living organisms. Because it is reactive, ATP is never stored. The conversion of 
+ATP to adenosine diphosphate (ADP) and phosphate ion (Pi) is thermodynamically favourable. 
+The products ADP and Pi are thermodynamically more stable (lower in free energy) than the reactant 
+ATP. Glucose and fatty acids are short-term energy stores, while glycogen, starch and triglycerides are 
+long-term stores.
+Energy transfers during interconversions 
+between ATP and ADP
+In cells, ATP is formed from ADP and Pi using energy from respiration. Then, in the presence of 
+enzymes, ATP participates in energy-requiring reactions. Energy is released by hydrolysis of ATP to 
+ADP and phosphate. The free energy available in ATP is approximately 30–4 kJ mol−1. Some of this 
+energy is lost as heat in the reaction, but much free energy is made available to do useful work, more 
+than sufficient to drive a typical energy-requiring reaction of metabolism (Figure C1.1.16, page 397).
+Sometimes ATP reacts with water (a hydrolysis reaction) and is converted to ADP and Pi. For 
+example, direct hydrolysis of the terminal phosphate group happens in muscle contraction.
+Mostly, ATP reacts with other metabolites and forms phosphorylated intermediates, making them 
+more reactive in the process. The phosphate groups are released later, so both ADP and Pi become 
+available for reuse as metabolism continues.
+Cell respiration as a system for 
+producing ATP within the cell
+Carbohydrates such as glucose are the preferred respiratory substrate even though the energy yield 
+is lower compared to that of lipids (see page 424): this is because oxidation is easier compared 
+to oxidation of other respiratory substrates, because the molecules can directly enter glycolysis. 
+	
+◆Adenosine 
+diphosphate (ADP): 
+a nucleotide, present in 
+every living cell, made 
+of adenosine and two 
+phosphate groups 
+bonded in a linear 
+sequence; it is important 
+in energy-transfer 
+reactions of metabolism.
+Top tip!
+You are not required 
+to know the quantity 
+of energy in kilojoules 
+during interconversions 
+between ATP and 
+ADP, but you do 
+need to know that it 
+is sufficient for many 
+tasks in the cell, i.e. 
+chemical reactions or 
+physical processes.
+1	 Outline why ATP 
+is an efficient 
+energy currency 
+molecule.
+Link
+Fatty acids and their 
+structure are discussed 
+in Chapter B1.1, 
+page 197.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+408
+Fats need to be converted to carbohydrates through a process called gluconeogenesis before the 
+glycolytic process can take place. Proteins have to be hydrolyzed into amino acids, then deaminated 
+(NH2 group removed) before they can enter the respiratory pathway. This requires ATP, so the net 
+production of ATP from protein is reduced. Proteins are structural molecules, and so are only used in 
+respiration when other respiratory substrates, such as glucose and fats, are limited, i.e. under 
+starvation conditions.
+Differences between anaerobic and 
+aerobic cell respiration in humans
+While no oxygen is required in the early steps of cellular respiration, most animals and plants, 
+and very many micro-organisms, do require oxygen for cell respiration. We say that they 
+respire aerobically.
+In aerobic respiration, sugar is completely oxidized to carbon dioxide and water, and much energy 
+is made available. The steps of aerobic respiration can be summarized by a single equation:
+ glucose 
++  oxygen 
+→ 
+carbon dioxide + 
+water + ATP
+	C6H12O6	 +	
+6O2 
+→ 
+6CO2	
++	
+6H2O + ATP
+This equation is a balance sheet of the inputs (raw materials) and the outputs (products). It tells us 
+nothing about the separate steps, each catalysed by a specific enzyme, by which cellular respiration 
+occurs. Aerobic respiration occurs in mitochondria and produces large amounts of ATP.
+In the absence of oxygen, many organisms (and sometimes tissues in organisms, when these have 
+become deprived of oxygen) will continue to respire glucose by different pathways, known as 
+fermentation or anaerobic respiration, at least for a short time. Anaerobic respiration occurs in the 
+cytoplasm of cells and produces only a small quantity of ATP.
+Vertebrate muscle tissue can respire anaerobically and results in the formation of lactic acid rather 
+than ethanol. Under conditions in the cytoplasm, lactic acid is weakly ionized and, therefore, exists 
+as the lactate ion.
+Lactic acid fermentation occurs in muscle fibres, but only when the demand for energy for 
+contractions is very great and cannot be met fully by aerobic respiration. In lactic-acid fermentation 
+the sole waste product is lactate.
+The steps of anaerobic respiration can be summarized by a single equation:
+glucose → lactate + ATP
+Top tip!
+You need to know simple word equations for aerobic and anaerobic respiration, with glucose as 
+the substrate. 
+Common mistake
+It is not correct to say that ‘respiration occurs in the mitochondria’. Mitochondria are required for 
+aerobic, but not anaerobic, respiration. Anaerobic respiration occurs in the cytoplasm of cells. 
+Respiration begins in the cytoplasm and ends in mitochondria.
+Common 
+mistake
+Do not confuse cell 
+respiration with 
+gas exchange. Gas 
+exchange is the process 
+where oxygen and 
+carbon dioxide are 
+exchanged at a surface, 
+for example the 
+alveoli in humans. Cell 
+respiration is a chemical 
+process in cells, where 
+glucose is oxidized in a 
+step-by-step process, 
+yielding ATP.
+	
+◆Aerobic respiration: 
+respiration requiring 
+oxygen, involving the 
+oxidation of glucose to 
+carbon dioxide and water.
+	
+◆Anaerobic 
+respiration: respiration 
+in the absence of oxygen, 
+producing either lactic 
+acid (humans) or ethanol 
+and carbon dioxide 
+(plants and yeast).
+	
+◆Lactic acid: organic 
+acid produced by the 
+body when glucose is 
+broken down to generate 
+ATP in the absence 
+of oxygen; lactic acid 
+is formed by lactate 
+in solution.
+2	 Identify two 
+products of 
+anaerobic 
+respiration in 
+muscle.
+
+
+=== PAGE BREAK ===
+
+C1.2   Cell respiration
+409
+Variables affecting the rate of cell respiration
+There are different variables that can affect the rate of cellular respiration:
+l	 Metabolic rate of the cell: e.g. muscle cells will require more energy and therefore have higher 
+rates of respiration.
+l	 The size of the organism: smaller organisms have a larger surface area compared to their size 
+(page 262) and have a correspondingly higher respiratory rate to allow for heat loss.
+l	 Supply of oxygen: cells need a constant supply of oxygen to release the maximum amount of 
+ATP; inadequately supplied cells will respire anaerobically (see above).
+l	 Supply of substrates for respiration, e.g. glucose. Other substrates can also be used in the 
+respiratory pathway (see page 424); the rate of respiration and the quantity of products produced 
+(carbon dioxide and water) will depend on the respiratory substrate.
+l	 Temperature: because respiration is controlled by enzymes, temperature affects the rate of 
+respiration by increasing it up to an optimum temperature.
+l	 pH: the release of carbon dioxide during the process of respiration decreases the pH (i.e. 
+increases acidity) of cell content and body tissues, which affects the functioning of enzymes 
+involved in respiration.
+Measurements can be made to determine the rate of cell respiration. Determination of the rate of cell 
+respiration can be made using a respirometer (Figure C1.2.3). Respiration rate is measured by the 
+uptake of oxygen per unit time. The manometer in this apparatus detects change in the pressure or 
+volume of a gas. Respiration by tiny organisms (germinating seeds or fly maggots are ideal) that are 
+trapped in the chamber of the respirometer alters the composition of the gas there, once the screw 
+clip has been closed.
+water bath
+respirometer tube
+the respiring organisms
+give off CO2 and
+absorb O2
+1
+CO2 is absorbed by 
+the soda lime
+2
+manometer fluid moves to the right
+due to the volume change caused
+by uptake of oxygen
+3
+after a fixed time, the syringe is adjusted 
+to level the fluid in the two arms of the 
+manometer, and the volume of O2 
+absorbed is read off on the syringe
+4
+soda lime pellets
+(CO2 absorbent)
+soda lime pellets
+(CO2 absorbent)
+glass beads (same
+volume as sample in
+respirometer tube) 
+U-tube manometer
+control tube
+(thermobarometer)
+graduated syringe
+clips A and B are closed
+hypodermic
+needle
+A
+B
+Any change in pressure or temperature during 
+the experiment affects the respirometer tube 
+and the thermobarometer tube equally.
+ 
+■Figure C1.2.3 A respirometer to measure respiration rate
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Molecules
+410
+If soda lime is present in the chambers, the carbon dioxide gas released by the respiring organism 
+is removed. In this case, only oxygen uptake by the respiring organisms causes a change in volume. 
+As a result, the coloured liquid in the attached capillary tube will move towards the respirometer 
+tube. The resulting reduction in the volume of air in the respirometer tube in a given time period 
+can now be estimated. It is the volume of air from the syringe that must be injected back into the 
+respirometer tube to make the manometric fluid level in the two arms equal again. That volume is 
+equivalent to the volume of oxygen taken up by the respiring organisms.
+To estimate the quantity of carbon dioxide produced by the organisms:
+l	 Remove the soda lime from the apparatus (Figure C1.2.3).
+l	 The difference between the distance the water moved with and without the soda lime indicates 
+the volume of carbon dioxide produced.
+l	 Without soda lime, carbon dioxide is not removed and the water might not move at all: if the 
+same volume of oxygen is taken in as carbon dioxide is produced, there will be no change in the 
+volume of gas and the water will not move.
+l	 If less carbon dioxide is produced than oxygen is taken in, the fall in pressure will move the 
+water a little towards the organisms.
+3	 In the respirometer (Figure C1.2.3), explain how changes in temperature or pressure 
+in the external environment are prevented from interfering with the measurement of 
+oxygen uptake by respiring organisms in the apparatus.
+4	 The experiment shown in Figure C1.2.3 was repeated with maggot fly larvae in tube 
+B, first with soda lime present and subsequently with water in place of soda lime. The 
+volume change with soda lime was 30 mm3 h−1, but without soda lime it was 3 mm3 h−1. 
+Analyse these results, explaining the significance of each value.
+Top tip!
+The use of invertebrates in respirometer experiments has ethical implications. IB guidelines state 
+that: ‘Any experimentation should not result in any pain or undue stress on any animal (vertebrate 
+or invertebrate) or compromise its health in any way.’ Animals must be handled with care and 
+must not be exposed directly to soda lime. They should only be used for brief periods of time, and 
+returned to a safe environment once the experiment is completed.
+ 
+■Calculating the rate of respiration
+The respirometer can be used to measure the rate of respiration. The rate of oxygen consumption 
+(mm3 min−1) can be used as the rate of respiration for organisms.
+1	 Use the respirometer to measure the distance travelled by the fluid in the manometer in 
+10 minutes. 
+2	 The volume of oxygen absorbed and respired in 10 minutes can be calculated using the radius 
+of the capillary tube, r (mm) and the distance moved by the manometer fluid, d (mm), using the 
+formula: πr2d (this is the formula to work out the volume of a cylinder).
+3	 The average rate of oxygen consumption can be calculated by dividing the volume of oxygen 
+consumed by ten (the number of minutes).
+4	 The experiment should be repeated at least five times to obtain reliable data.
+Depending on how long you have to carry out this experiment, the investigation could be carried out 
+for longer at each repeat. This would make the results more accurate.
+
+
+=== PAGE BREAK ===
+
+C1.2   Cell respiration
+411
+Inquiry 1: Exploring and designing
+Designing
+Design an experiment using a respirometer. Select an organism to use and an 
+independent variable to change. You must think about the ethical issues of using 
+animals and what variables you can safely change without harming the animal. If you 
+are planning to alter temperature, use a plant, not an animal.
+Justify the number of repeats you will use and controlled variables you will keep the same.
+Formulate a hypothesis for your experiment. What effect do you expect the 
+independent variable to have on the dependent variable, and why?
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+Inquiry 2: Collecting and processing data
+Collecting data; processing data
+An investigation can be carried out on the rate of 
+respiration of germinating peas at different temperatures.
+1	 Calculate the average rate of respiration at room 
+temperature, using the method outlined above in 
+Inquiry 1. 
+2	 Reset the apparatus by allowing air to re-enter the 
+tubes by releasing the clips, and reset the manometer 
+fluid using the syringe.
+3	 Set up a series of water baths at 30, 40, 50 and 60 °C.
+4	 Put the test tube containing the peas in the 30 °C water 
+bath. Open the clips to allow the tubes to acclimatize 
+(the warmth will cause the air in the respirometer to 
+expand), then close the clips to begin the experiment.
+5	 Record the rate of respiration.
+6	 Repeat the procedure at the other temperatures.
+7	 Plot a graph showing the effect of temperature on 
+the rate of respiration. Temperature should be on the 
+x-axis and rate of respiration on the y-axis.
+Inquiry 3: Concluding and evaluating
+Concluding; evaluating 
+Analyse and evaluate your results from your respirometer experiment: either the 
+investigation you designed yourself in Inquiry 1, or the one outlined in Inquiry 2.
+What do you conclude about the effect of the independent variable on the rate of 
+respiration of your organism? Do your results confirm your hypothesis? How do your 
+result compare with other research on this subject?
+What were the limitations of the experiment and what would you do differently 
+next time?
+	ATL C1.2A 
+Access the following site: http://amrita.olabs.edu.in/?sub=79&brch=17&sim=204&cnt=1
+Investigate the effect of type of seed, number of seeds or temperature on the rate of respiration 
+using a virtual respirometer. Analyse your results and write a conclusion, using your knowledge of 
+cellular respiration to explain your data.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+412
+The role of NAD as a carrier of hydrogen
+ 
+■Cell respiration involves the oxidation and reduction 
+of compounds
+Glucose is a relatively large molecule containing six carbon atoms. During aerobic cellular 
+respiration, glucose undergoes a series of enzyme-catalysed oxidation reactions and decarboxylation 
+reactions (Figure C1.2.4). These reactions are grouped into three major phases and a link reaction:
+l	 glycolysis, in which glucose is converted to pyruvate
+l	 a link reaction, in which pyruvate is converted to acetyl coenzyme A (acetyl-CoA). Carbon 
+dioxide is released
+l	 the Krebs cycle, in which acetyl-CoA is converted to carbon dioxide
+l	 the electron transport chain, in which hydrogen that is removed in the oxidation reactions 
+of glycolysis and the Krebs cycle is converted to water. The electron transport chain is a series 
+of proteins that transfer electrons received from reduced coenzymes, generating a gradient 
+of protons that drives the synthesis of adenosine triphosphate (ATP). The bulk of the ATP is 
+synthesized here. 
+Krebs
+cycle
+glucose
+link
+reaction
+oxygen
+hydrogen
+atoms
+H
+glycolysis
+ADP
++ Pi
+ADP
++ Pi
+carbon dioxide
+some ATP
+water
+much ATP
+some ATP
+products
+stages in tissue
+respiration
+electron
+transport
+chain
+CO2
+ 
+■Figure C1.2.4 The stages of aerobic cellular respiration
+ 
+■Respiration as a series of redox reactions
+The terms reduction and oxidation recur frequently in respiration. 
+In cellular respiration, glucose is oxidized to carbon dioxide but, at the same time, oxygen is reduced 
+to water (Figure C1.2.5). In fact, tissue respiration is a series of oxidation–reduction reactions, so 
+described because when one substance in a reaction is oxidized, another is automatically reduced. 
+The short-hand name for reduction–oxidation reactions is redox reactions. Redox reactions involve 
+both oxidation and reduction.
+In biological oxidation, oxygen atoms may be added to a compound but, alternatively, hydrogen 
+atoms may be removed (dehydrogenation). In respiration, all the hydrogen atoms are gradually 
+removed from glucose. When hydrogen is removed from a substrate, the substrate has been oxidized. 
+The hydrogen atoms are added to hydrogen acceptors, which are thus reduced. 
+Since a hydrogen atom consists of an electron and a proton, gaining hydrogen atom(s) (a case of 
+reduction) involves gaining one or more electrons. In fact, the best definition of oxidation is the loss 
+of electrons, and reduction is the gain of electrons. 
+Top tip!
+Coenzymes, for 
+example acetyl 
+coenzyme A (acetyl-
+CoA), are substances 
+that work with an 
+enzyme to initiate or 
+aid the function of the 
+enzyme. 
+Link
+The roles of oxidation 
+and reduction in 
+biological systems 
+are explored in the 
+linking question 
+in Chapter B1.1, 
+page 204.
+	
+◆Reduction: the gain 
+of electrons in a chemical 
+reaction; this can be 
+by removing oxygen 
+atoms or by adding 
+hydrogen atoms.
+	
+◆Oxidation: the 
+loss of electrons in a 
+chemical reaction; this 
+can be by adding oxygen 
+atoms or by removing 
+hydrogen atoms.
+	
+◆Redox reaction: 
+linked reaction where 
+one substance loses an 
+electron while the other 
+gains an electron: the 
+substance that gains the 
+electron is said to be 
+reduced while the one 
+that lost the electron is 
+said to be oxidized.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.2   Cell respiration
+413
+Top tip!
+Remembering these definitions has given countless people problems, so this mnemonic has 
+been devised:
+OIL RIG = Oxidation Is Loss of electrons; Reduction Is Gain of electrons
+6O2
+C6H12O6
+6CO2
+6H2O
++
++
++ ENERGY
+oxidation
+reduction
+oxidation involves:
+• addition of oxygen
+• removal of hydrogen
+• loss of electrons
+• release of energy
+reduction involves:
+• removal of oxygen
+• addition of hydrogen
+• gain of electrons
+• uptake of energy
+ 
+■Figure C1.2.5 Respiration as a redox reaction
+Redox reactions take place in biological systems due to the presence of a compound with a strong 
+tendency to take electrons from another compound (an oxidizing agent) or the presence of a 
+compound with a strong tendency to donate electrons to another compound (a reducing agent). 
+Another feature of oxidation and reduction is energy change. When reduction occurs, energy 
+is absorbed (an endergonic reaction). When oxidation occurs, energy is released (an exergonic 
+reaction). An example of energy release in oxidation is the burning of a fuel in air. Here, energy is 
+given out as heat. 
+Top tip!
+The amount of energy in a molecule depends on its degree of oxidation. An oxidized substance has 
+less stored energy than a reduced substance. For example, the fuel molecule methane (CH4), has 
+more stored chemical energy than carbon dioxide (CO2). 
+Coenzymes
+In respiration, all the hydrogen atoms are gradually removed from glucose. They are added to hydrogen 
+acceptors (electron carriers), which are thus reduced. These hydrogen acceptors are all coenzymes. 
+Coenzymes link oxidation and reduction in cells. The electron carriers in respiration are:
+l	 NAD (nicotinamide adenine dinucleotide): the main electron carrier used in respiration.
+l	 FAD (flavin adenine dinucleotide): a second electron carrier used in respiration.
+Electron carriers can receive hydrogen atoms (i.e. are reduced), oxidizing the substance they remove 
+them from. For example, NAD is reduced to NADH and H+ (reduced NAD):
+NAD+ + 2H+ + 2e− → NADH + H+ (NADH can also be represented as NADH2)
+Reduced NAD can pass hydrogen ions and electrons on to other acceptor molecules and, when it 
+does so, becomes oxidized back to NAD.
+Concept: Interaction
+Coenzymes such as NAD and FAD interact with substrates involved in the respiratory 
+pathway, passing hydrogen ions to other acceptor molecules, which ultimately results in 
+the generation of ATP.
+Link
+Endergonic and 
+exergonic reactions 
+are covered in 
+Chapter C1.1, Figure 
+C1.1.15, page 397.
+	
+◆Coenzyme: substance 
+that works with an 
+enzyme to initiate or 
+aid the function of the 
+enzyme.
+	
+◆Nicotinamide 
+adenine dinucleotide 
+(NAD): a coenzyme that 
+is a hydrogen carrier in 
+cellular respiration. NAD+ 
+is the oxidized form that 
+accepts hydrogen atoms.
+	
+◆Flavin adenine 
+dinucleotide (FAD): 
+a coenzyme that is a 
+hydrogen carrier in 
+cellular respiration. FAD 
+is the oxidized form that 
+accepts two hydrogen 
+atoms, forming FADH2.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+414
+Glycolysis
+ 
+■Conversion of glucose to pyruvate in glycolysis
+In the first steps of cellular respiration, the glucose molecule (a 6-carbon sugar) is split into two 
+3-carbon molecules. The products are converted to an organic acid called pyruvic acid (also a 
+3-carbon compound). Under conditions in the cytoplasm, organic acids are weakly ionized and, 
+therefore, pyruvic acid exists as the pyruvate ion. 
+Two molecules of pyruvate are formed from each molecule of glucose. In addition, there is a small 
+amount of ATP formed, using a little of the energy that had been locked up in the glucose molecule. 
+No molecular oxygen is required for these first steps of cellular respiration.
+Because glucose has been split into smaller molecules, these steps are known as glycolysis. 
+The enzymes that catalyse these reactions are found in the cell cytoplasm generally, not inside 
+an organelle. Throughout cellular respiration, a series of oxidation–reduction reactions occur. 
+(Oxidation and reduction are explained on page 412.) 
+In summary:
+glucose 
+ pyruvate + small amount of ATP
+Details of the process are outlined below.
+ 
+■Details of glycolysis
+Glycolysis occurs in four stages: 
+1	 Phosphorylation by reaction with ATP is the way glucose is first activated, forming glucose 
+phosphate. Phosphorylation of molecules makes them more energetically unstable and higher 
+in energy, which means that they are more reactive. Glucose phosphate is converted to fructose 
+6-phosphate, and a further phosphate group is then added at the expense of another ATP molecule 
+to form fructose 1,6-bisphosphate. So, two molecules of ATP are consumed per molecule of glucose 
+respired at this stage of glycolysis.
+2	 Lysis (splitting) of the fructose 1,6-bisphosphate is the next step, forming two molecules of a 
+3-carbon sugar called triose phosphate.
+3	 Oxidation of the triose phosphate molecules occurs by removal of hydrogen. The enzyme for this 
+reaction (a dehydrogenase) works with a coenzyme, NAD (see above).
+4	 ATP formation occurs twice in the reactions by which each triose phosphate molecule is 
+converted to pyruvate. This form of ATP synthesis is described as being at substrate level, in 
+order to differentiate it from the bulk of ATP synthesis, which occurs later in cell respiration 
+– during operation of the electron transport chain (see below). As two molecules of triose 
+phosphate are converted to pyruvate, four molecules of ATP are synthesized at this stage of 
+glycolysis. So, in total, there is a net gain of two ATPs in glycolysis.
+	
+◆Pyruvate: the end 
+product of glycolysis, 
+which is converted into 
+acetyl-CoA that enters 
+the Krebs cycle when 
+there is sufficient oxygen 
+available.
+	
+◆Glycolysis: the first 
+stage of cell respiration 
+in which glucose is 
+converted to pyruvate 
+by stepwise enzyme-
+controlled reactions, 
+without use of oxygen; 
+ATP is generated.
+	
+◆Phosphorylation: 
+the addition of a 
+phosphoryl group (PO3
+2−) 
+to an organic compound.
+enzymes in the cytoplasm
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.2   Cell respiration
+415
+P
+P
+P
+P
+P
+P
+2 × NAD
+4 × ATP
+2 × NADH + H+ 
+glucose
+2× ATP
+glucose
++
+inorganic
+phosphate
+phosphorylated 6-carbon sugar
+(fructose 1,6-bisphosphate)
+glucose is a relatively unreactive molecule
+– reaction with ATP activates glucose
+phosphorylated 6-carbon sugar is split
+into two 3-carbon sugar phosphates
+hydrogens are removed and transferred
+to the hydrogen acceptor – the energy
+released is used to form ATP
+3-carbon sugar phosphate molecules
+are converted to pyruvate
+pyruvate
+pyruvate
+2 × pyruvate
+2 lysis
+(splitting of the
+6-carbon backbone)
+3 oxidation
++ addition of
+inorganic phosphate
+For each molecule of glucose:
+2 molecules of ATP are used
+4 molecules of ATP are formed.
+There is a net gain of 2 ATPs.
+4 ATP synthesis
+1 phosphorylation
+(uses ATP)
+Changes to the carbon skeleton in glycolysis
+Pi
+Pi
+C C C C C C
+C C C C C C
+C C C C C C
+C C C
+P
+C C C
+ATP
+ADP
+ADP
+ATP
+P
+C C C
+C C C
+C C C
+ADP
+ATP
+ADP
+ATP
+ADP
+ATP
+ATP
+ADP
+P
+P
+P
+C C C
+2 × 3-carbon sugar phosphate
+(2 × triose phosphate)
++
+ 
+■Figure C1.2.6 Glycolysis: a summary
+Once pyruvate has been formed from glucose in the cytoplasm, the remainder of the pathway of 
+aerobic cell respiration is located in the mitochondria. This is where the enzymes concerned with 
+the link reaction, Krebs cycle and electron transport chain are all located. 
+5	 State which of the following are produced during glycolysis:
+carbon dioxide  NADH  ATP  pyruvate  lactate  glycogen  NAD+  glucose
+ 
+■Subsequent steps of respiration
+If oxygen is available to cells and tissues, the pyruvate is completely oxidized to carbon dioxide, 
+water and a large quantity of ATP. Before these reactions take place, the pyruvate first passes 
+into mitochondria by facilitated diffusion because the required enzymes are only found in the 
+mitochondria (Figure C1.2.7).
+In summary:
+pyruvate 
+ carbon dioxide + water + large amount of ATP
+In this phase of cellular respiration, the pyruvate is oxidized by:
+l	 the removal of hydrogen atoms by hydrogen acceptors (oxidizing agents)
+l	 the addition of oxygen to the carbon atoms to form carbon dioxide.
+These reactions occur one at a time, each catalysed by a different enzyme.
+Top tip!
+You are not required 
+to know the names 
+of the intermediates 
+in glycolysis, but you 
+do need to know 
+that each step in the 
+pathway is catalysed by 
+a different enzyme.
+enzymes in the mitochondria
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+416
+In the mitochondria, the hydrogen (proton) carried by the reduced hydrogen-acceptor molecules 
+reacts with oxygen to form water. The reduced hydrogen acceptor is reoxidized (loses its H) and 
+is available for reuse in the production of more pyruvate. The majority of ATP molecules (the key 
+product of respiration for the cell) are generated in this step.
+The enzymes of cellular respiration occur partly in the cytoplasm (the enzymes of glycolysis) and 
+partly in the mitochondria (the enzymes of pyruvate oxidation and most ATP formation). After 
+formation, ATP passes to all parts of the cell. Both ADP and ATP pass through the mitochondrial 
+membranes by facilitated diffusion. The locations of the different stages of aerobic respiration are 
+shown in Figure C1.2.7.
+mitochondrion
+pyruvate
+pyruvate → CO2 + H2O + much ATP
+(aerobic cellular respiration)
+occurs here
+pyruvate → lactate or ethanol
+(anaerobic cellular respiration)
+occurs here
+glucose → pyruvate + ATP
+occurs here   
+cytoplasm outside
+the organelles
+ 
+■Figure C1.2.7 The sites of cellular respiration in cells
+Conversion of pyruvate to lactate
+When oxygen is not available in human skeletal muscle tissue, the pyruvate remains in the 
+cytoplasm and is converted to lactate. In yeast, whether or not oxygen is available, the pyruvate is 
+converted to the alcohol called ethanol. 
+How is the supply of pyruvate maintained in cells in the absence of oxygen?
+This is a potential problem in the breakdown of pyruvate in the absence of oxygen. Remember, 
+in pyruvate formation, hydrogen-acceptor molecules (NAD) are reduced (take up hydrogen 
+atoms). Without using oxygen, these must be reoxidized (lose their H) if production of pyruvate is 
+to continue.
+The answer is, in anaerobic cellular respiration the reduced hydrogen-acceptor molecules (NADH) 
+donate their hydrogen to form lactate or ethanol from pyruvate. They are thus reoxidized in the 
+absence of oxygen and are available for further pyruvate synthesis. Pyruvate formation is able 
+to continue.
+This can be summarized:
+ 
+reduced H acceptor (carrying H) 
+ 
+reduced H acceptor
+pyruvate 
+ lactate pyruvate 
+ ethanol + CO2
+ 
+oxidized H acceptor (lost H) 
+ 
+oxidized H acceptor
+6	 State which 
+steps in cellular 
+respiration occur 
+whether or not 
+oxygen is available 
+to cells.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.2   Cell respiration
+417
+ 
+■Anaerobic respiration is ‘wasteful’
+Anaerobic respiration is ‘wasteful’ of respiratory substrate because the total energy yield per molecule 
+of glucose respired, in terms of ATP generated, is limited to the net two molecules of ATP produced 
+in pyruvate formation (in both alcoholic and lactic-acid fermentation). No additional energy is 
+transferred in the latter steps and made available in cells.
+So, we can think of both lactate and ethanol as energy-rich molecules. (Ethanol is sometimes used 
+as a fuel in cars, for example.) The energy locked up in these molecules may be used later, however. 
+In humans, lactate is transported to the liver and later metabolized aerobically. Energy yields of 
+cellular respiration are compared in Table C1.2.1.
+ 
+■Table C1.2.1 Energy yield of aerobic and anaerobic cellular respiration compared
+Yield from each molecule of glucose respired
+Aerobic respiration
+Anaerobic respiration
+2 ATPs
+glycolysis
+2 ATPs
+up to 36 ATPs
+fates of pyruvate
+nil
+38 ATPs
+total
+2 ATPs
+Concept: Interdependence
+The anaerobic and aerobic pathways of cellular respiration can be seen as 
+interdependent. Pyruvate is produced by anaerobic respiration, which is the substrate 
+that forms the basis of aerobic respiration. Anaerobic respiration in humans forms 
+lactic acid if insufficient oxygen is available. This must ultimately be converted back to 
+pyruvate in the liver, under aerobic conditions.
+Anaerobic cell respiration in yeast and 
+its use in brewing and baking
+Many species of yeast (Saccharomyces) respire anaerobically, even in the presence of oxygen. 
+The products are ethanol and carbon dioxide. Alcoholic fermentation of yeast has been exploited by 
+humans for many thousands of years:
+l	 in bread making – the carbon dioxide causes the bread to rise
+l	 in wine and beer production.
+glucose → ethanol + carbon dioxide + ATP
+In anaerobic cell respiration, reduced NAD is oxidized through other reactions than it is for aerobic 
+respiration. The pathways of anaerobic respiration are the same in humans and yeasts, except for the 
+way in which NAD is regenerated and, therefore, the final products (Figure C1.2.8). In effect, oxygen 
+is replaced as the hydrogen acceptor. In alcoholic fermentation, ethanal is the hydrogen acceptor, and 
+in lactic acid fermentation pyruvate is the hydrogen acceptor.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+418
+Here pyruvate 
+is the acceptor 
+for reduced 
+NAD.
+glucose
+net gain of
+2 × ATP
+2×
+3-carbon
+phosphorylated
+sugar
+2 × NAD
+2×
+pyruvate
+6CO2 + 6H2O  (aerobic
+                        respiration
+                       pathway)
+2 × NAD
+2 × ethanol
+alcohol dehydrogenase
+2 × ethanal
+2×CO2
+2 × NAD
+lactate dehydrogenase
+2 × lactate
+alcoholic fermentation
+lactate fermentation
+Here ethanal is 
+the acceptor for 
+reduced NAD.
+reduced NAD
+reduced NAD
+reduced NAD
+ 
+■Figure C1.2.8 The respiratory pathways of anaerobic respiration
+The link reaction in aerobic cell respiration
+Pyruvate diffuses into the matrix of the mitochondrion as it forms and is metabolized there. 
+First, the 3-carbon pyruvate is decarboxylated by removal of carbon dioxide and, at the same time, 
+oxidized by removal of hydrogen. Reduced NAD is formed. The product of this oxidative 
+decarboxylation reaction is an acetyl group – a 2-carbon fragment. This acetyl group is then 
+combined with coenzyme A, forming acetyl coenzyme A (acetyl-CoA). The production of acetyl 
+coenzyme A from pyruvate is known as the link reaction because it connects glycolysis to reactions 
+of the Krebs cycle, which follow. 
+NAD+
+CoA
+CO2
+acetyl-CoA
+pyruvate
+NADH + H +
+The Krebs cycle
+The Krebs cycle is named after Hans Krebs, who discovered it, but it is also sometimes referred to as 
+the citric acid cycle, after the first intermediate acid formed.
+The acetyl coenzyme A enters the Krebs cycle by reacting with a 4-carbon organic acid 
+(oxaloacetate, OAA). The products of this reaction are a 6-carbon acid (citrate) and coenzyme A, 
+which is released and reused in the link reaction. 
+The citrate is then converted back to the 4-carbon acid (an acceptor molecule, in effect) by the 
+reactions of the Krebs cycle. These involve the following changes:
+l	 two molecules of carbon dioxide are released, in separate decarboxylation reactions
+l	 a molecule of ATP is formed, as part one of the reactions of the cycle; as in glycolysis, this ATP 
+synthesis is at substrate level
+l	 three molecules of reduced NAD are formed
+l	 one molecule of another hydrogen acceptor, the coenzyme flavin adenine dinucleotide (FAD) 
+is reduced (NAD is the chief hydrogen-carrying coenzyme of respiration but FAD has this role in 
+the Krebs cycle).  
+	
+◆Decarboxylation: 
+a chemical reaction that 
+releases carbon dioxide 
+(usually with hydrogen 
+replacing it).
+	
+◆Link reaction: the 
+reactions that connect 
+glycolysis to the reactions 
+of the Krebs cycle 
+by producing acetyl 
+coenzyme A from 
+pyruvate. Carbon dioxide 
+and NADH are produced 
+by this reaction.
+	
+◆Krebs cycle: cyclical 
+metabolic process in 
+aerobic cell respiration 
+involving the oxidation 
+and decarboxylation of 
+acetyl groups, with a yield 
+of ATP and reduced NAD.
+Top tip!
+In the Krebs cycle, you 
+are required to name 
+only the intermediates 
+citrate (6C) and 
+oxaloacetate (4C).
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.2   Cell respiration
+419
+the link reaction
+acetyl coenzyme A
+(2-carbon)
+pyruvate
+(3-carbon)
+ α−ketoglutarate
+(5-carbon acid)
+citrate
+(6-carbon acid)
+oxaloacetate 
+(4-carbon acid)
+Krebs
+cycle
+(also known as the citric acid cycle)
+NADH + H+
+NAD+
+CO2
+CO2
+NAD+
+NADH + H+
+CO2
+FADH + H+
+NAD+
+FAD+
+NADH + H+
+NAD+
+ATP
+NADH + H+
+coenzyme A
+coenzyme A
+diffusion from the cytosol
+into the mitochondrion
+There are several other organic acid intermediates in the cycle not shown here.
+    
+Because glucose is converted to two molecules of pyruvate in glycolysis, the whole Krebs cycle 
+sequence of reactions ‘turns’ twice for every molecule of glucose that is metabolized by aerobic 
+cellular respiration (Figure C1.2.9). 
+In both glycolysis and the Krebs cycle, pairs of hydrogen atoms are removed from various 
+intermediates of the respiratory pathway. Either oxidized NAD is converted to reduced NAD or (on 
+one occasion) an alternative hydrogen-acceptor coenzyme, FAD, is reduced. 
+Now, we are in a position to summarize the changes to the molecule of glucose that occur in the 
+reactions of glycolysis and the Krebs cycle. A ‘budget’ of the products of glycolysis and two turns of 
+the Krebs cycle is shown in Table C1.2.2. 
+ 
+■Table C1.2.2 Net products of aerobic respiration of glucose at the end of the Krebs cycle
+Product
+Step
+CO2
+ATP
+reduced NAD
+reduced FAD
+glycolysis
+0
+2
+2
+0
+link reaction
+(pyruvate → acetyl-CoA)
+2
+0
+2
+0
+Krebs cycle
+4
+2
+6
+2
+Total:
+6 CO2
+4 ATP
+10 reduced NAD
+2 reduced FAD
+Top tip!
+Key features of the Krebs cycle are:
+l	 citrate is produced by transfer of an acetyl group to oxaloacetate, and that oxaloacetate is 
+regenerated by the reactions of the Krebs cycle, including four oxidations and two decarboxylations
+l	 the oxidations are dehydrogenation reactions.
+	ATL C1.2B 
+Steps in aerobic 
+respiration involve 
+decarboxylation and 
+oxidation. Make a copy 
+of the pathway of the 
+link reaction and Krebs 
+cycle, and highlight 
+where these types of 
+reaction occur. Look 
+again at Figure C1.2.6 
+(glycolysis). Are both of 
+these types of reaction 
+observed there, too?
+ 
+■Figure C1.2.9 Link 
+reaction and Krebs 
+cycle: a summary
+Concept: 
+Interaction
+Interaction between 
+intermediates in 
+the Krebs cycle and 
+coenzymes NAD 
+and FAD allow 
+decarboxylation 
+and oxidation 
+reactions to occur, 
+which results in 
+the production of 
+carbon dioxide and 
+reduced coenzymes.
+7	 Outline the 
+types of reaction 
+catalysed by:
+a	 dehydrogenases
+b	 decarboxylases.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+420
+ 
+■Fats can be respired
+As discussed above (page 407), in addition to glucose, fats (lipids) are also commonly used as 
+respiratory substrates. They are first broken down to fatty acids (and glycerol). A fatty acid is then 
+‘cut up’ into 2-carbon fragments and fed into the Krebs cycle via coenzyme A. Vertebrate muscle is 
+well adapted to the respiration of fatty acids in this way (as is our heart muscle), and they are just as 
+likely as glucose to be the respiratory substrate. 
+The electron transport chain
+Reduced coenzymes pass to the electron transport chain – a series of proteins in the inner 
+mitochondrial membrane. Energy is transferred when a pair of electrons is passed to the first carrier 
+in the chain, converting reduced NAD (NADH) back to NAD. The reduced NAD comes from 
+glycolysis, the link reaction and the Krebs cycle. The removal of electrons from hydrogen atoms 
+creates H+ (protons), which then play a role in the generation of ATP (see below).
+The removal of pairs of hydrogen atoms from various intermediates of the respiratory pathway is a 
+feature of several of the steps in glycolysis and the Krebs cycle. On most occasions, oxidized NAD is 
+converted to reduced NAD but, once in the Krebs cycle, an alternative hydrogen-acceptor coenzyme, 
+FAD, is reduced. 
+Therefore, in this final stage of aerobic respiration, the electrons received from the reduced 
+coenzymes, i.e. from the reduced NAD (or FAD), are transported along a series of carriers to be 
+combined finally with oxygen to form water (Figure C1.2.10). 
+3ATP
+3ADP + 3Pi
+NADH + H+
+NAD+
+2e–
+2H+
+electrons passed from
+carrier to carrier
+energy released, and
+used to make ATP
+high-energy electrons
+and H+ ions released
+2H+
+2e–
+H2O
+oxygen atom
+combines with
+electrons and
+hydrogen ions
+to form water
+when reduced FAD is oxidized,
+only two molecules of ATP are formed
+1/2O2
+water formed
+in respiration,
+e.g. from the
+respiration of
+food molecules,
+is called
+metabolic water
+ 
+■Figure C1.2.10 Transfer of energy by reduced NAD to the electron transport chain in the mitochondrion
+As electrons are passed between the carriers in the series, energy is released. Release of energy in 
+this manner is controlled and can be used by the cell. The energy is transferred to ADP and Pi, to 
+form ATP. Normally, for every molecule of reduced NAD that is oxidized (that is, for every pair of 
+hydrogens) approximately three molecules of ATP are produced (but less when FAD is oxidized). 
+The process is summarized in Figure C1.2.10. 
+In total, the yield from aerobic respiration is 32 ATPs per molecule of glucose respired (Table C1.2.3).
+	
+◆Electron transport 
+chain: a series of proteins 
+that transfer electrons 
+received from reduced 
+coenzymes, generating a 
+gradient of protons that 
+drives the synthesis of 
+adenosine triphosphate 
+(ATP).
+8	 Suggest how the 
+absence of oxygen 
+in respiring tissue 
+might ‘switch off’ 
+both the Krebs 
+cycle and terminal 
+oxidation.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.2   Cell respiration
+421
+ 
+■Table C1.2.3 Yield from each molecule of glucose respired aerobically
+Reduced NAD (or FAD)
+ATP
+glycolysis
+(substrate level)
+2
+(net) = 2
+2 × 2.5 = 5
+link reaction
+2
+2 × 2.5 = 5
+Krebs cycle
+6
+6 × 2.5 = 15
+2
+2 × 1.5 = 3
+(substrate level)
+2
+Total
+32
+Generation of a proton gradient by flow of 
+electrons along the electron transport chain
+The electron-carrier proteins are arranged in the inner mitochondrial membrane in a highly ordered 
+way. These carrier proteins oxidize the reduced coenzymes, and energy from the oxidation process is 
+used to pump hydrogen ions (protons) from the matrix of the mitochondrion into the space between 
+the inner and outer mitochondrial membranes. The hydrogen ions accumulate here. Because the 
+inner membrane is largely impermeable to ions, a significant gradient in hydrogen ion 
+concentration builds up across the inner membrane, generating a potential difference across the 
+membrane. This represents a store of potential energy.
+Chemiosmosis and the synthesis 
+of ATP in the mitochondrion
+ 
+■Phosphorylation by chemiosmosis
+Chemiosmosis is a process by which the synthesis of ATP is coupled to electron transport via the 
+movement of protons (Figure C1.2.11). 
+The protons concentrated in the space between the inner and outer mitochondrial membranes flow 
+back into the matrix, via channels in the ATP synthase enzyme (ATPase), located in the inner 
+mitochondrial membrane. As the protons flow down their concentration gradient, through the 
+enzyme, the energy is transferred as ATP synthesis occurs. ATP synthase therefore couples release 
+of energy from the proton gradient with phosphorylation of ADP. The ATPase has a rotational 
+mechanism – energy generated by the rotation of the enzyme leads to the production of ATP.
+TOK
+How could a mitochondrion use the energy that is made available in the flow of electrons 
+between carrier molecules to drive the synthesis of ATP?
+It was a biochemist, Peter Mitchell, who in 1961 first suggested the chemiosmotic theory as the 
+answer to this question. He was at an independently funded research institute in Cornwall, UK, 
+studying the metabolism of bacteria. His hypothesis was not generally accepted for about 10 years – 
+his ideas were, in some ways, regarded as too novel. Today, we describe the revolution that Mitchell’s 
+ideas started as a paradigm shift in the field of bioenergetics. Nearly two decades later, he was 
+awarded the Nobel Prize in Chemistry for his discovery. Discuss what roles paradigm shifts have in 
+the progression of scientific knowledge.
+Top tip!
+You do not need to 
+know the names of 
+protein complexes 
+in the electron 
+transport chain.
+	
+◆Chemiosmosis: 
+process by which the 
+synthesis of ATP is 
+coupled to electron 
+transport via the 
+movement of protons, 
+using ATP synthase.
+	
+◆ATP synthase 
+(ATPase): a complex of 
+integral proteins located 
+in the mitochondrial 
+inner membrane where 
+it catalyses the synthesis 
+of ATP from ADP and 
+phosphate, driven by a 
+flow of protons.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+422
+outer membrane
+proteins of the
+electron transport
+chain
+outer
+mitochondrial
+membrane
+proteins are
+pumps that
+transport H+
+stereogram of a mitochondrion, cut open
+to show the inner membrane and cristae
+inner membrane
+matrix
+cristae
+H+ H+
+H+
+H+
+H+
+H+
+H+
+H+
+H+
+H+
+H+
+H+ H+
+H+
+H+
+H+
+H+ H+
+H+
+H+
+H+
+H+
+H+ H+
+H+
+H+
+2e–
+NAD+
+ADP + Pi
+hydrogen ions 
+(protons) accumulate 
+here creating a 
+potential difference 
+across the membrane
+ATP synthesis coupled with proton 
+ﬂow down concentration gradient
+ATP
+H2O
+2H+ + 1/2 O2
+NADH
++
+H+
+2e–
+2e–
+2e–
+2e–
+inner
+mitochondrial
+membrane
+matrix of
+mitochondrion
+dehydrogenase
+enzyme
+oxidase
+enzyme
+inter-membrane
+space
+proton channel
+ATPase
+ 
+■Figure C1.2.11 Chemiosmosis
+Nature of science: Evidence
+Evidence for the chemiosmosis hypothesis 
+Peter Mitchell’s chemiosmotic hypothesis proposed that the energy of a proton gradient formed 
+through the transfer of electrons via the electron transport chain could be used to drive ATP 
+synthesis. To support the hypothesis, evidence was needed.
+If the gradient drives ATP synthesis then disrupting the inner mitochondrial membrane or eliminating 
+the proton gradient across it should inhibit ATP production. Both predictions were found to be 
+supported by experimental evidence.
+Physical disruption of the inner mitochondrial membrane stops ATP synthesis. The loss of the proton 
+gradient by a chemical ‘uncoupling’ agent, such as 2,4-dinitrophenol, also inhibits mitochondrial 
+ATP production. The 2,4-dinitrophenol molecule carries protons (H+) across the inner mitochondrial 
+membrane, bypassing the ATP synthase complex. 
+This uncoupling process takes place naturally in brown fat cells (found in hibernating mammals, such 
+as bears) and results in most of the energy from the oxidation of fatty acids being released as heat, 
+rather than converted to ATP.
+Chemiosmotic coupling mechanisms are of ancient origin. Modern micro-organisms, including 
+archaea, that live in environments similar to those thought to have been present on the early Earth, 
+also use chemiosmotic coupling to produce ATP. 
+	ATL C1.2C 
+Find out and present 
+the research work 
+by Efraim Racker and 
+Walther Stoeckenius 
+in 1974, who used 
+bacteriorhodopsin to 
+provide further strong 
+support for Mitchell’s 
+chemiosmotic 
+hypothesis. Collaborate 
+with a classmate 
+and use diagrams in 
+your presentation.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C1.2   Cell respiration
+423
+Tool 1: Experimental techniques 
+Digital molecular modelling
+The following site has animations of molecular models illustrating the mechanism of ATPase: 
+www.mrc-mbu.cam.ac.uk/research-groups/walker-group/molecular-animations-atp-synthase
+How is the rotational movement of the enzyme generated, and how is this coupled 
+with ATP synthesis?
+	ATL C1.2D 
+Explore the structure and function of ATPase further using the following sites:
+www.sigmaaldrich.com/GB/en/technical-documents/technical-article/research-and-disease-areas/
+metabolism-research/atp-synthase
+www.youtube.com/watch?v=k_DQ1FjFuYM
+Draw an annotated diagram to show the structure and function of ATPase.
+9	 When ATP is 
+synthesized in 
+mitochondria, 
+explain where the 
+electrochemical 
+gradient is 
+set up, and in 
+which direction 
+protons move.
+Role of oxygen as terminal electron 
+acceptor in aerobic cell respiration
+At the end of the electron transport chain, electrons need a final destination (i.e. a terminal acceptor) 
+where they can be removed from the system. This enables the continued flow of electrons along the 
+chain. Similarly, protons used to create the electrochemical gradient also need to be removed. The 
+terminal acceptor of the electrons is oxygen, and when these are combined with protons from the 
+matrix of the mitochondrion, metabolic water is formed (Figure C1.2.12).
+	ATL C1.2E 
+Review your knowledge of respiration using this site. Produce a mind map showing the metabolic 
+pathways of aerobic and anaerobic respiration.
+www.sumanasinc.com/webcontent/animations/content/cellularrespiration.html
+flow of electrons
+oxidation
+oxidation
+proteins in electron transport chain
+energy
+NADH
+NAD+
+2 H+
+H2O
+O2
+FADH2
+FAD
+Reduction
+Oxidation
+Key
+1
+2
+ 
+■Figure C1.2.12 Oxygen is the terminal acceptor for the electron transport chain in mitochondria
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Molecules
+424
+Differences between lipids and 
+carbohydrates as respiratory substrates
+When triglycerides are oxidized in respiration, a lot of energy is transferred (and used to make ATP 
+for example, see page 406). Mass for mass, fats and oils transfer more than twice as much energy 
+as carbohydrates when they are respired (Table C1.2.4). This is because fats are comparatively low 
+in oxygen atoms (the carbon of lipids is more reduced than that of carbohydrates), so more of the 
+oxygen in the respiration of fats comes from the atmosphere. In the oxidation of carbohydrates, more 
+oxygen is present in the carbohydrate molecule itself. Fat and oils, therefore, form a concentrated 
+energy store.
+Because they are insoluble, the presence of fat or oil in cells does not cause osmotic water uptake. 
+A fat store is especially typical of animals that endure long unfavourable spells in which they survive 
+on reserves of food stored in the body. Oils are often a major energy store in plants, their seeds and 
+fruits, and it is common for fruits and seeds – including maize, olives and sunflower seeds – to be 
+used commercially as a source of edible oils for humans.
+Complete oxidation of fats and oils produces a large amount of water, far more than when the same 
+mass of carbohydrate is respired. Desert animals such as the camel and desert rat retain much of this 
+metabolic water within the body, helping them survive when there is no liquid water for drinking. 
+The development of bird and reptile embryos, while in their shells, also benefits from metabolic water 
+formed by the oxidation of the stored fat in their egg’s yolk.
+ 
+■Table C1.2.4 Lipids and carbohydrates as energy stores – a comparison
+Lipids
+Role
+Carbohydrates
+more energy per gram than 
+carbohydrates
+energy store
+less energy per gram than lipids
+much metabolic water is produced on 
+oxidation
+metabolic water 
+source
+less metabolic water is produced on 
+oxidation
+insoluble, so osmotic water uptake is 
+not caused
+solubility
+sugars are highly soluble in water, 
+causing osmotic water uptake
+not quickly ‘digested’
+ease of breakdown
+more easily hydrolyzed – energy is 
+transferred quickly
+LINKING QUESTIONS
+1	 In what forms is energy stored in living organisms?
+2	 What are the consequences of respiration for ecosystems? 

@@ -1,0 +1,2204 @@
+Theme C: Interaction and interdependence – Ecosystems
+548
+C4.1
+Populations and communities
+•	 How do interactions between organisms regulate sizes of component populations in 
+a community?
+•	 What interactions within a community make its populations interdependent?
+Guiding questions
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 C4.1.1 	 Populations as interacting groups of organisms of the same species living in 
+an area
+	 C4.1.2 	 Estimation of population size by random sampling
+	 C4.1.3 	 Random quadrat sampling to estimate population size for sessile organisms
+	 C4.1.4 	 Capture–mark–release–recapture and the Lincoln index to estimate population 
+size for motile organisms
+	 C4.1.5 	 Carrying capacity and competition for limited resources
+	 C4.1.6 	 Negative feedback control of population size by density-dependent factors
+	 C4.1.7 	 Population growth curves
+	 C4.1.8 	 Modelling of the sigmoid population growth curve
+	 C4.1.9 	 A community as all of the interacting organisms in an ecosystem
+	 C4.1.10 	Competition versus cooperation in intraspecific relationships
+	 C4.1.11 	Herbivory, predation, interspecific competition, mutualism, parasitism and 
+pathogenicity as categories of interspecific relationship within communities
+	 C4.1.12 	Mutualism as an interspecific relationship that benefits both species
+	 C4.1.13 	Resource competition between endemic and invasive species
+	 C4.1.14 	Tests for interspecific competition
+	 C4.1.15 	Use of the chi-squared test for association between two species
+	 C4.1.16 	Predator–prey relationships as an example of density-dependent control of 
+animal populations
+	 C4.1.17 	Top-down and bottom-up control of populations in communities
+	 C4.1.18 	Allelopathy and secretion of antibiotics 
+Note: There is no higher-level only content in C4.1.
+Populations 
+Members of a species may be reproductively isolated in separate 
+populations. A population consists of all the individuals of the 
+same species in a habitat at any one time. The members of a 
+population have the chance to interbreed, assuming the species 
+concerned reproduces sexually. Reproductive isolation is used 
+to distinguish one population of a species from another.
+	
+◆Population: interacting groups of organisms of the same 
+species living in an area.
+ 
+■Figure C4.1.1 A population of zebra
+Link
+Reproductive isolation 
+is covered in Chapter 
+A4.1, page 149.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+549
+Estimation of population size 
+by random sampling
+To study populations, an ecologist must be able to sample them. Specific methods are used to 
+estimate population size in non-mobile species, for example plants and sessile animals such as 
+barnacles (see page 327), and mobile animal species in the wild. Population growth is affected by 
+abiotic and biotic factors, and the increase in a population follows a pattern that can be modelled. 
+In ecological investigations, the size and complexity of study sites means that not every organism can 
+be examined, nor every part of the site looked at. Samples are taken that form a representation of 
+the full site. Populations are estimated by taking samples from the study site. Randomness is needed 
+when sampling to avoid bias (see below). Random sampling is needed to avoid areas being selected 
+that do not reflect the whole study site – there would be a temptation, for example, to choose areas 
+that have a high biodiversity but which are not necessarily representative of the whole area.
+The distribution of two or more species in a habitat may be entirely random. Alternatively, factors 
+such as specific abiotic conditions may bring about close association of some species – plant A may 
+tend to grow close to plant B. For example, soils rich in calcium ions typically support distinctively 
+different populations from those found on dry acidic soils. If we want to discover whether there is a 
+particular association between two species in a habitat, we need reliable data on their distribution; 
+such data are obtained by random sampling. 
+Top tip!
+Random sampling ensures that every individual in the community has an equal chance of being 
+selected, ensuring a representative sample. It is appropriate if the study area is homogeneous (the 
+same throughout), but not if sampling along a transect (page 349) where there is an environmental 
+gradient and change in species composition.
+Nature of science: Measurement
+Random sampling, instead of measuring an entire population, inevitably results in sampling errors. 
+In this case, the difference between the estimate of population size and the true size of the whole 
+population is the sampling error. If the sample does not adequately represent the entire population, 
+any analysis of the sample might not apply to the entire population. 
+Random errors in measurement, due to unknown or unpredictable differences, lead to imprecision 
+and uncertainty, whereas systematic errors lead to inaccuracy. Repeating and then averaging 
+measurements can reduce random error. Systematic errors result from faults or flaws in the 
+investigation design or procedure that shift all measurements in a systematic way so that, in the 
+course of repeated samples, the measurement value is constantly displaced in the same way. 
+Systematic errors can be reduced or eliminated with careful experimental design and techniques. 
+Scientists can also share their experimental data and design with other scientists, giving others the 
+chance to evaluate the design in a process called peer review, which further guards against 
+systematic errors.
+Top tip!
+Systematic errors 
+lead to inaccurate 
+measurements of 
+the true value. The 
+best way to check for 
+systematic errors is to 
+use different methods 
+to perform the same 
+measurement. Random 
+uncertainty is always 
+present and cannot 
+be corrected; it is 
+connected with the 
+precision of repeated 
+measurements.
+	
+◆Sample: a subset of 
+a whole population or 
+habitat used to estimate 
+the values that might 
+have been obtained 
+if every individual or 
+response was measured.
+	
+◆Random sampling: 
+a method of choosing a 
+sample from a population 
+without any bias.
+	
+◆Sampling error: 
+statistical errors that 
+arise when a sample 
+does not represent the 
+whole population, i.e. it 
+is the difference between 
+the real values of the 
+population and the values 
+derived by using samples 
+from the population.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+550
+Inquiry 1: Exploring and designing 
+Controlling variables
+It is important to record a representative sample from the area being studied when 
+sampling populations in the wild. Random sampling is used if the same habitat is 
+found throughout the area. Stratified sampling is used in two areas of different 
+habitat quality. 
+When sampling along an environmental gradient (see Chapter B4.1, page 349), the 
+positions of transects are located at random, but sampling along the transect is done 
+in a systematic (non-random) way to ensure that the whole gradient is sampled, called 
+systematic sampling. To do this, sample points are taken at fixed distances along the 
+transect (for example, every 5 m).
+1	 Design an experiment to sample a local habitat using the quadrat method. You 
+can either select a sessile species to quantify (the organism should be sufficiently 
+abundant to measure in repeated samples) or the whole plant community.
+Samples must be located at random so that accurate representative data can be 
+acquired. A random number generator, found on most modern calculators, helps to 
+ensure population sampling is free from bias. Random number generators can also 
+be found online (for example www.random.org) and as smartphone apps (sometimes 
+advertised as ‘integer generators’). Alternatively, putting numbers from, say, 1 to 100 
+into a bag and pulling numbers out one at a time to generate sample locations will do 
+the same job!
+	
+◆Stratified sampling: 
+used in areas that 
+contain two or more 
+different habitat types; 
+the technique takes into 
+account the proportional 
+area of different habitat 
+types and samples each 
+one accordingly.
+	
+◆Systematic 
+sampling: used where 
+the study area includes an 
+environmental gradient. A 
+transect is used to sample 
+systematically along the 
+environmental gradient.
+Estimating population size 
+for sessile organisms
+ 
+■Random quadrat sampling
+Quadrats (Figure C4.1.2) are commonly used to study populations 
+and communities. They are used for estimating the abundance of 
+plants and sessile animals.
+A quadrat is a square frame which outlines a known area for 
+the purpose of sampling. The choice of size of quadrat varies 
+depending on the size of the individuals of the population being 
+analysed. For example, a 10 cm2 quadrat is ideal for assessing 
+epiphytic Pleurococcus, a single-celled alga commonly found 
+growing on damp walls and tree trunks. Alternatively, a 1 m2 
+quadrat is far more useful for analysing the size of two herbaceous 
+plant populations observed in grassland, or of the earthworms and 
+slugs that can be extracted from between the plants or from the 
+soil below. Quadrats are placed according to random numbers, 
+after the area has been divided into a grid of numbered sampling 
+squares (Figure C4.1.3). The presence or absence in each quadrat 
+of the species under investigation is then recorded. 
+ 
+■Figure C4.1.2 A quadrat being used to estimate the species 
+richness of plants in a water meadow at Slapton Ley, Devon
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+551
+1	 Outline how 
+quadrats can be 
+used to sample 
+populations of 
+sessile organisms.
+3  Within each quadrat, the individual species
+    are identified, and then the density,
+    frequency, cover or abundance of each
+    species is estimated.
+2  Coordinates for placing quadrats are
+    obtained as sequences of random numbers,
+    using computer software, a calculator or 
+    published tables.
+1  A map of the habitat (e.g. meadowland) is
+    marked out with gridlines along two edges
+    of the area to be analysed.
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+y-axis
+01
+02
+03
+04
+05
+06
+07
+08
+09
+0
+100
+x-axis
+01
+02
+03
+04
+05
+06
+07
+08
+09
+0
+100
+x-axis
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+y-axis
+4  Density, frequency, cover or abundance
+    estimates are then quantified by measuring
+    the total area of the habitat (the area
+    occupied by the population) in square metres.
+    The mean density, frequency, cover or
+    abundance can be calculated using the
+    equation:
+                            mean density (etc.) per quadrat × total area
+population size =
+                                            area of each quadrat
+ 
+■Figure C4.1.3 Random locating of quadrats
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+552
+TOK
+It is impossible for a scientist to see every event or every object in the world, yet it is their job to 
+identify features and truths of the world that apply to the world as a whole. This raises a challenge 
+when it comes to constructing general knowledge – how do we select the observations that we 
+can then use to make general claims about the world? Therefore effective sampling is so important; 
+the scientist must make choices and decisions regarding the sample to ensure that the knowledge 
+gained is accurate when applied to the wider world. 
+This element of selection and analysis introduces the possibility of bias, where the scientist, either 
+consciously or not, makes decisions that shape the data in ways that may make it less accurate. 
+Following the scientific method and thinking carefully about how best to create samples, however, 
+can mitigate these concerns. A full TOK analysis of bias in the sciences would both identify the root 
+of concern, but also then explore the conventions that the scientific community follows to mitigate 
+these factors. An even fuller TOK analysis might evaluate the success of these conventions.
+ 
+■Calculating standard deviation
+Variation is a quantitative measure of the distribution (spread or clustering) of the values in a data 
+set. Range and standard deviation are two statistics used when summarizing variability within a 
+sample, but one is much more reliable than the other. The range is the difference between the largest 
+and smallest data values. It is measured in the same units as the data. If there are outliers in the 
+sample, the range will suggest a high degree of spread, though most data may be highly clustered. 
+For this reason, as a descriptive statistic describing variability, range is an unreliable measure. Since 
+it only depends on two of the measurements, range is most useful in representing the dispersion of 
+small data sets. 
+Standard deviation from the mean measures how spread out data are from the central tendency. It is 
+a measure of the variation from the mean of a set of normally distributed values.
+l	 A small standard deviation indicates that the data are clustered closely around the mean value.
+l	 A large standard deviation indicates a wider spread around the mean.
+Once obtained, the value may be applied to the normal distribution curve (Figure C4.1.4). Note that 
+68% of the data occurs within one standard deviation of the mean, and more than 95% of the data 
+occurs within two standard deviations of the mean. So, a small standard deviation indicates that 
+the observations (the values) differ very little from the mean. Standard deviation is also a measure of 
+reliability: a small standard deviation indicates reliability. 
+Arithmetical mean
+1 SD
+1 SD
+68%
+95%
+2 SD
+2 SD
+ 
+■Figure C4.1.4 The normal distribution and its standard deviation (SD)
+	
+◆Variation: a 
+quantitative measure of 
+the distribution (spread or 
+clustering) of the values in 
+a data set.
+	
+◆Range: the difference 
+between the largest and 
+smallest data values.
+	
+◆Standard deviation 
+(SD): the spread of a set 
+of normally distributed 
+data from the mean 
+of the sample; it is a 
+measure of the variability 
+of a population from a 
+sample. A small standard 
+deviation indicates that 
+the data are more reliable.
+	
+◆Normal distribution: 
+a data-set distribution 
+that is symmetrical about 
+the mean, forming a bell-
+shaped curve.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+553
+The standard deviation can be used to help to decide whether the difference between two related 
+means is significant or not. If the standard deviations are much larger than the difference between 
+the means, this difference in the means is highly unlikely to be significant. On the other hand, 
+when the standard deviations are much smaller than the difference between the means, then this 
+difference is almost certainly significant.
+Top tip!
+Standard deviation is a calculation based on the mean value and the variation around it. It is more 
+reliable than range. Standard deviation gives a value that represents the average distance of each 
+point of data from the mean. You do not need to memorize the formula for standard deviation.
+Tool 3: Mathematics
+Applying measures of dispersion: standard deviation
+The standard deviation (SD) is calculated in five steps.
+1	 First, calculate the mean, xˉ
+2	 Calculate the deviation of each value from the mean: x–xˉ
+3	 Square each deviation: (x–xˉ )2
+4	 Add the squared deviations: ∑(x–xˉ )2
+5	 Finally, divide by the number of values (n).
+You could use a calculator or practise applying technology to process data by using an 
+Excel spreadsheet to calculate the standard deviation (Tool 2: Technology, page 561).
+The formula for SD given here is for when the data set represents an entire population. 
+This is known as the ‘population standard deviation’. If the SD is calculated from a 
+sample, the formula needs to be modified by dividing by n − 1 rather than n. This is 
+called the ‘sample standard deviation’. This is because when the sample standard 
+deviation is calculated, the true variability in the population tends to be underestimated, 
+and so the estimate of the true population standard deviation is biased: to correct this 
+bias, the numerator is divided by n – 1. This has been shown to make the sample 
+standard deviation an unbiased estimate of the population standard deviation.
+Link
+Calculating the mean 
+(and mode and 
+median) is covered 
+in Chapter D3.2, 
+page 745.
+Top tip!
+The mean is calculated 
+by adding together all 
+the values and dividing 
+by the total number 
+of values. The purpose 
+of averaging data 
+(provided it follows a 
+normal distribution) is 
+to reduce the effect of 
+random errors.
+Common mistake
+A common misconception is that standard deviation decreases with increasing sample size. Standard 
+deviation can either increase or decrease as sample size increases; it depends on the measurements 
+in the sample. If there is a lot of variation in a population, the standard deviation will be large.
+Top tip!
+When the value of the standard deviation is low, most scores in the sample will be clustered and 
+close to the mean. When the value of the standard deviation is high, the sample scores are more 
+widely spread from the mean. 
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+554
+2	 An ecologist investigated the reproductive capacity of two species of a common 
+grassland flower, Ranunculus acris and Ranunculus repens. Using comparable sized plants 
+growing under similar conditions in the same soil, the numbers of fruits formed in 100 
+flowers of each species were counted and recorded. The results are given in Table C4.1.1.
+ 
+■Table C4.1.1 Data on fruit production in two species of Ranunculus
+Number of fruits
+Frequency
+R. acris
+R. repens
+15
+0
+0
+16
+0
+1
+17
+0
+1
+18
+1
+1
+19
+2
+2
+20
+1
+4
+21
+4
+4
+22
+8
+8
+23
+7
+7
+24
+9
+9
+25 
+10 
+10
+26 
+16 
+16
+27
+9
+9
+28
+10 
+10
+29
+4
+4
+30
+5
+5
+31
+3
+3
+32
+1
+1
+33
+1
+1
+34
+2
+2
+35
+1
+1
+36
+1
+1
+37
+0
+0
+38
+0
+0
+39
+2
+0
+a	 Calculate the mean and standard deviation for both species.
+b	 Deduce whether there is a difference in fruit production between the two species.
+TOK
+Mathematics is inherently formal and abstract – its scope is 
+related to universal truths unrelated to whatever happens to 
+be the case in the observable world. Science, on the other 
+hand, aims to develop formal and abstract truths about 
+the observable world, but must do so building on certain 
+observations. Scientists will translate observations of the 
+world into mathematical entities (for example by observing 
+species in a sample and translating that into a number). Using 
+these quantitative data, scientists can conduct mathematical 
+analyses of the types considered here to identify numerical 
+trends and further data. These data then are applied back to 
+the natural world. A good example of this process is shown 
+in Figure C4.1.3 (page 551). In step 3, the observations are 
+quantified and, after the mathematical manipulations in step 4, 
+the numbers are applied to the actual world in the form of a 
+claim about the overall population size of the species.
+Try to identify where the choices of the investigating scientist 
+have been made and why they made them, and evaluate 
+their effectiveness. This overlap of the Areas of Knowledge 
+of Natural Sciences and Mathematics helps make the sciences 
+even more reliable. 
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+555
+Estimating population size for motile organisms
+ 
+■Capture–mark–release–recapture method
+It is not possible to collect every individual of the population. A sample is taken which is 
+representative of the population, from which an estimate of population size can be made. To do this, 
+animals are captured, marked in some way, released, and then resampled. A calculation is made that 
+uses the relationship between two ratios:  the number of marked animals compared to the size of 
+the resampled population, and the ratio of sampled population (captured and marked) compared to 
+the total population. This is called the ‘capture–mark–release–recapture method’. Marking varies 
+according to the type of organism, for example, wing cases of insects can be marked with pen, snails 
+with enamel paint, and fur clippings used for mammals. The markings must be difficult to see as 
+high visibility increases the predation risk to the organism. The number of individuals of a species 
+are recorded at each stage. The steps of the capture–mark–release–recapture technique and how to 
+estimate the population size are outlined in Figure C4.1.5.
+ 
+■Calculating the Lincoln index
+The Lincoln index is a statistical measure used to estimate the population size for motile organisms. 
+You need to be able to use it to estimate population size and understand the assumptions made 
+when using this method.
+Tool 3: Mathematics
+Applying the Lincoln index
+The total population size is estimated using the following equation:
+Population size = (M × N)
+R
+M = number of animals captured (marked and released) 
+N = number of animals recaptured 
+R = number of marked animals recaptured 
+Prior to experimenting on natural populations, the Lincoln index can be learned and 
+understood by application to non-living models. This can be done using a paper activity.
+Cut out 100 identical small paper squares and place on a tray. Mark a known number, 
+e.g. 20. Put the marked squares back in the tray and mix well. (This is the ‘habitat’.) 
+Pull out a random number of squares from the container and count the sample size and 
+the number in the sample which are marked. Calculate an estimated population using 
+the Lincoln index formula. 
+Repeat the experiment at least five times to obtain a range of estimates. Calculate a 
+mean estimate and the range of the values obtained. 
+	ATL C4.1A 
+Before reading on, what are the assumptions made when using the Lincoln index? Find out about 
+these using this site: www.countrysideinfo.co.uk/lincoln.htm. Make a list of the assumptions and 
+comment on how these would affect the way you collect data for the Lincoln index.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+556
+A population of woodlice
+Random sample captured
+Marked
+And released
+Sample mixed
+with population
+24 hours later a second
+random sample is caught
+in the same location
+The number of marked
+animals is noted and the
+formula is used to estimate
+the population size
+In ‘capture, mark, release,
+recapture’ the size of the
+animal population is
+estimated by the formula:
+where
+M = number of animals
+        captured, marked
+        and released
+N = number of animals
+        recaptured
+R = number of marked
+       animals recaptured
+here: 
+M × N
+=
+Population size
+R
+1
+5 × 8
+population size  = 
+ = 40
+ 
+■Figure C4.1.5 Estimating animal populations using capture, mark, release and recapture
+Inquiry 3: Evaluating and concluding
+Evaluating
+Evaluate the Lincoln index by discussing the advantages and pitfalls of the method.
+Lincoln index assumptions
+Assumptions made when using the Lincoln index on wild animal populations are that:
+l	 mixing is complete, so that the marked individuals have spread evenly throughout the population 
+between capture and recapture
+l	 marks are not removed and do not disappear between capture and recapture
+l	 marks are not harmful to the animal nor do they increase predation by making marked 
+individuals more visible
+l	 it is equally easy to catch each individual in the population
+l	 there is no immigration or emigration (i.e. it is a closed population rather than one open to other 
+areas), or births or deaths in the population between the times of sampling.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+557
+Inquiry 2: Collecting and processing data
+Collecting data
+Carry out a capture–mark–release–recapture experiment to investigate and estimate 
+the population size for a motile organism using the Lincoln index. You will need to:
+l	 collect quantitative data (the number of species counted)
+l	 identify and record any relevant qualitative observations
+l	 identify and address issues that arise during your data collection.
+Repeat the investigation after a few weeks. Are your estimates similar? If not, what 
+explanations can you think of for any discrepancies?
+3	 Discuss the use 
+of capture–mark–
+release–recapture 
+methods to 
+estimate the 
+population size of 
+motile organisms.
+Carrying capacity and competition 
+for limited resources
+In most ecosystems and for many species, abiotic and biotic factors limit the size of the population. 
+Exponential growth cannot continue forever. Eventually resources run low, competition occurs and 
+other limiting factors take effect. Limiting factors restrict the growth of a population or prevent it 
+from increasing further.
+Top tip!
+Limiting factors in plants include light, nutrients in the soil, water, carbon dioxide and temperature.
+Limiting factors in animals include space, food, mates, nesting sites and water.
+For example, if rabbits were introduced into a new meadow, after initial exponential growth, the 
+vegetation would eventually be used up faster than it could grow, because of the large numbers of 
+rabbits. Further increases in population would stop: in this situation the food has become a limiting 
+factor in the growth of the rabbit population. Eventually, the rabbits would reach the carrying 
+capacity of their environment. This is the maximum number of a species, or the ‘load’, which can be 
+sustainably supported by a given environment. 
+Negative feedback control of population 
+size by density-dependent factors
+Negative feedback refers to the return of a system to its original starting state. In terms of a 
+population, this represents the return of a population to its carrying capacity. The interaction 
+between predators and their prey is an example of negative feedback (Figure C4.1.6).
+Negative feedback control of populations is determined by density-dependent factors. Density-
+dependent factors are limiting factors that are related to population density.  
+They are biotic factors (e.g. competition for resources) that limit population growth:
+l	 internal density-dependent factors: might include fertility or size of breeding territory
+l	 external density-dependent factors: might include the increased risk of predation and the 
+transfer of pathogens or pests in dense populations. 
+Link
+Limiting factors are 
+covered in Chapter 
+B4.1, page 344.
+	
+◆Carrying capacity: 
+the maximum number of 
+individuals of a species 
+that can be supported by 
+a given environment.
+	
+◆Negative feedback: 
+feedback that tends to 
+counteract any deviation 
+from equilibrium and 
+promotes stability.
+	
+◆Density-dependent: 
+factors that lower 
+the birth rate or raise 
+the death rate as a 
+population grows.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+558
+Increase in
+snowshoe hare
+population
+Lynx population
+decreases as
+less food
+Increased lynx
+population
+as more food
+Snowshoe hare
+population
+decreases as more
+predation
+ 
+■Figure C4.1.6 An example of negative feedback: 
+the predator–prey relationship between snowshoe 
+hare and lynx in the boreal forests of North America
+4	 Define the term carrying capacity.
+Concept: Interaction
+Density-dependent factors interact with organisms to cause population numbers to 
+fluctuate, ultimately pushing populations back to carrying capacity.
+Population growth curves
+ 
+■Exponential growth
+Imagine a situation in which a small number of rabbits are allowed to enter a meadow from which 
+other rabbits have been excluded. The rabbits initially get used to the new territory and establish 
+burrows. There are few reproducing individuals, so initially population growth is small. Once 
+established, the rabbits benefit from unrestricted access to rich food supplies and an absence of 
+limiting factors – they begin to reproduce. Once numbers start to build up, there is a rapid increase 
+in the population. Such rapid increase is called exponential growth. 
+Exponential growth is an increasing or accelerating rate of growth. The exponential growth pattern 
+occurs in an ideal and unlimited environment.
+Exponential growth occurs when:
+l	 limiting factors are not restricting the growth of the population
+l	 there are plentiful resources, such as light, space, food, and a lack of competition with other 
+species
+l	 there are favourable abiotic components, such as temperature and rainfall, and a lack of predators 
+or disease.
+Growth is initially slow but becomes increasingly rapid and does not slow down as the 
+population increases (see Figure C4.1.7).
+population size
+time
+ 
+■Figure C4.1.7 An 
+exponential growth curve
+Density-independent factors will affect the populations of all species 
+in the same ecosystem, regardless of population size (for example, 
+weather, climate and natural disasters), whereas density-dependent 
+factors will have varying effects on the populations of different species. 
+Because density-independent factors are not reliant on the numbers of 
+individuals in a population they do not affect carrying capacity, whereas 
+density-dependent factors, that do limit population size, define the 
+upper limit to population growth (the carrying capacity). The number 
+of individuals in a population may fluctuate due to density-independent 
+factors, but density-dependent factors tend to push the population back 
+towards the carrying capacity. 
+Link
+The density-
+dependent 
+relationship between 
+the snowshoe hare 
+and lynx in Figure 
+C4.1.6 is an example of 
+population control by 
+negative feedback.
+5	 List factors 
+that are:
+a	 affected by 
+population 
+density 
+b	 unrelated to 
+population 
+density.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+559
+ 
+■Sigmoid growth curve
+The carrying capacity (see above) represents the population size at which environmental resistance 
+limits further population growth. Exponential growth eventually succumbs to environmental 
+resistance, which can cause a decrease in natality, an increase in mortality, or both. When a graph 
+of population growth for such species is plotted against time, an S-shaped population curve is 
+produced. This is also known as a sigmoid growth curve. An S-shaped population curve shows an 
+initial rapid growth (exponential growth) and then slows down as the carrying capacity is reached.
+Figure C4.1.8 shows an S-population curve. The curve shows the establishment of a population 
+following introduction into a new environment. There are three stages.
+1	 Exponential growth stage, where limiting factors are not restricting the growth of a population. 
+With low or reduced limiting factors, the population expands exponentially into the habitat. 
+Both the number of individuals and the rate of growth increases rapidly.
+2	 Transition phase, where the increase in number begins to slow, as does the rate of growth. The 
+slowdown occurs because limiting factors begin to affect the population and restrict its growth. 
+In a larger population there will be increased competition between the individuals of that 
+population for the same limiting factors, such as resources. An increase in predators, attracted 
+by the large population, and an increase in the rate of disease and mortality due to increased 
+numbers of individuals living in a small area, also cause a slowdown in growth. 
+3	 Plateau phase, where limiting factors restrict the population to its carrying capacity (see above). 
+Changes in limiting factors, predation, disease and abiotic factors cause populations to fluctuate 
+(increase and decrease) around the carrying capacity (K).
+Sigmoid growth starts with the exponential growth phase, where the population is not controlled 
+by limiting factors. Population growth slows as a population reaches the carrying capacity of 
+the environment.
+time
+population size
+competition for limiting
+factors increases
+low or reduced limiting factors
+exponential growth
+ 
+■Figure C4.1.9 Changing conditions along 
+an S-shaped population growth curve
+carrying capacity (K )
+population size
+1
+2
+3
+time
+ 
+■Figure C4.1.8 An S-shaped or sigmoid growth curve
+The phases of the S-shaped curve can be summarized as equations using natality (N), 
+immigration (I), emigration (E) and mortality (M), where: 
+l	 natality – the rate at which individuals are born (the birth rate)
+l	 mortality – the rate at which individuals die (the death rate)
+l	 immigration – movement of new individuals into a population from outside a given area
+l	 emigration – the departure of individuals from a population in a given area.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+560
+ 
+■Table C4.1.2 The phases shown in the sigmoid curve can be explained by relative rates of natality, mortality, immigration  
+and emigration
+Phase
+Equation
+Relative effects
+What is happening?
+exponential
+I + N > E + M
+initially, natality exceeds mortality; as population 
+rapidly increases, mortality rates begin to increase
+no limiting factors; abundant resources; low 
+competition; high reproduction
+transition
+I + N > E + M
+natality rate approaches mortality rate
+resources are more scarce; competition increases
+plateau
+I + N = E + M
+fluctuation around a set point; where the curve slopes 
+downwards, M > N, where it slopes upwards, N > M
+population stabilizes around the carrying capacity
+2000
+number of generations
+population size
+1500
+K
+1000
+500
+0
+0
+5
+10
+15
+exponential growth curve
+sigmoid growth curve
+stabilized by
+available resources
+both exponential
+at first
+competition for
+limited resources
+growth without limitation
+    
+ 
+■Sigmoid population growth – case study
+A study carried out on Lady Musgrave Island, off the east coast of Australia, investigated the growth 
+of corals following disturbance from tropical cyclones. The location of the island, and the data 
+recorded, are shown in Figure C4.1.11.
+24°S
+152.3°E
+152.4°E
+152.5°E
+23.9°S
+23.8°S
+Lady Musgrave
+Island
+hard coral cover (%)
+latitude
+time (days)
+longitude
+a
+b
+0
+0
+1000
+2000
+3000
+4000
+20
+40
+60
+80
+2000
+km
+0
+10
+km
+0
+N
+ 
+■Figure C4.1.11 Field data showing the percentage area covered by hard corals as a 
+function of time after external disturbance on Lady Musgrave Island
+ 
+■Figure C4.1.10 
+Comparing exponential 
+and sigmoid 
+growth curves
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+561
+The data show a typical sigmoid growth response after some disturbance (e.g. a tropical cyclone): 
+exponential growth for low coral cover is followed by a gradual reduction in net growth rate as the 
+coral cover approaches its carrying capacity.
+Tool 2: Technology
+Using spreadsheets to manipulate data
+A sigmoid function is a mathematical function that has an 
+S-shaped curve when plotted. The logistic sigmoid function, 
+which is the most common example of a sigmoid function, is 
+calculated as:
+F(x) = 
+1
+(1 + e–x)
+To calculate the value of a sigmoid function for a given x 
+value in Excel, use the following formula: =1/(1+EXP(-A1))
+Logarithmic graphs
+Sometimes during a biology investigation, the data collected are not easy to plot on a graph because 
+of the very wide range of values measured. An example arises when measuring the population 
+growth rate of yeast using a counting chamber known as a haemocytometer. Rather than plotting the 
+averaged raw data, it is preferable to calculate the base ten logarithm of the measurements. 
+Some measurements, such as pH and absorbances, have no units. The pH scale, for example, is 
+logarithmic. A logarithmic scale compresses the range of values and gives more space to smaller values 
+while compressing the space available for the larger values. Each cycle on the scale increases by a power 
+of 10: for example, in the first cycle values would be 1, 2, 3, 4, etc., whereas in the second cycle they 
+would be 10, 20, 30, 40 and so on, and in the third cycle 100, 200, 300, 400 and so on.  
+Tool 3: Mathematics
+Constructing and interpreting 
+logarithmic graphs 
+You need to be able to test the growth 
+of a population against the model of 
+exponential growth using a graph with a 
+logarithmic scale for size of population on 
+the vertical y-axis and a non-logarithmic 
+scale for time on the horizontal x-axis.
+A logarithmic scale can be calculated 
+using a calculator or Excel: the formula is 
+‘=LOG10(cell reference)’. The logarithm of 
+the number only increases relatively slowly 
+and a straight line plot is generated. 
+Alternatively, log-linear graph paper 
+(Figure C4.1.12) can be used.
+0.1
+0.5
+1.0
+5.0
+10.0
+50.0
+100.0
+y-axis, log scale
+0
+5
+10
+15
+x-axis, linear scale
+ 
+■Figure C4.1.12 A logarithmic scale on the 
+y-axis with three cycles: 0.1 to 1.0, 1.0 to 10.0 
+and 10.0 to 100.0. The x-axis has a linear scale. 
+Numbers can be plotted directly on to graph 
+paper without calculating their log10 values
+Top tip!
+Quantities that 
+represent ratios of 
+two values, such as 
+absorbance, do not 
+have units. Both pH 
+and absorbance are 
+unit-less since they are 
+a logarithmic function, 
+and logarithms are 
+always pure numbers 
+that have no units.
+Nature of science: Models
+The population growth curve represents an idealized 
+graphical model. It is unlikely that the population 
+growth of an actual population will show such 
+smooth, idealized curves. There will be fluctuations 
+due to density-independent and density-dependent 
+factors. Models are often simplifications of complex 
+systems, and indicate overall patterns rather than 
+the specific detail of individual examples. Models 
+allow predictions of patterns that should occur given 
+certain parameters. 
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+562
+Modelling of the sigmoid 
+population growth curve
+You need to be able to collect data regarding population growth. Yeast and 
+duckweed are recommended, but there are other organisms that could be 
+used that reproduce under experimental conditions.
+ 
+■Modelling the growth curve using duckweed
+Pond surfaces are often covered by free-floating aquatic plants. One such 
+group is the duckweeds, in the genus Lemna. They are known as duckweed 
+because they provide a staple diet for ducks and other aquatic birds. These 
+rapidly growing plants are used as a model system for studies in population 
+ecology. This simple organism follows the classic growth curve and can, 
+therefore, be used effectively to model the changes in population size.
+Inquiry 2: Collecting and processing data
+Collecting data
+An experiment on population growth in Lemna can be carried 
+out in the lab:
+1	 A small number (e.g. 15) of duckweed thalli is put in a cup or 
+beaker containing pond water (200–300 cm3).
+2	 Replicates (at least five) of the experiment are set up.
+3	 The number of thalli is counted twice a week, for at least 
+six weeks.
+4	 The mean number of thalli is calculated and plotted against time. 
+5	 The graph should show the S-shaped/sigmoid population 
+growth curve. Carrying capacity is reached when there is 
+no room for further thalli, and competition for space limits 
+further growth. 
+The effect of different environmental conditions on growth rate 
+can be studied, such as salinity, pH, concentration of nitrates 
+and phosphate level. Of course, one environmental condition 
+should be changed at a time.
+Communities in ecosystems
+A community consists of all the living things in an ecosystem – the total 
+of all the populations of all species. So, for example, the community of 
+a well-stocked pond would include the populations of rooted, floating 
+and submerged plants, the populations of bottom-living animals, the 
+populations of fish and invertebrates of the open water, and the populations 
+of surface-living organisms – a very large number of organisms in total. 
+The savannah grasslands and lakeland ecosystems of Africa, for example, 
+contain wildebeest, lions, hyenas, giraffes and elephants, as well as zebras 
+(Figure C4.1.14). Communities include all the biotic parts of the ecosystem, 
+including plants, animals and fungi.
+thalli
+roots
+ 
+■Figure C4.1.13 Duckweed of the genus 
+Lemna covering the surface of a pond, 
+and a diagram of duckweed thalli (a leaf 
+unit that is over 1.5 mm in diameter)
+ 
+■Figure C4.1.14 A community of wild animals 
+congregate around a waterhole in Etosha 
+National Park, northern Namibia, Africa
+	
+◆Community: a group of different species living 
+in an area.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+563
+Common mistake
+Do not confuse the terms ‘population’ and ‘community’. In ecology, these terms have different 
+meanings to how they are used in geography, for example. In ecology, a community is many species 
+living together, whereas the term population refers to just one species. 
+Concept: Interaction
+A community is made up of many interacting populations of different species within an 
+ecosystem. These interactions maintain stability in the ecosystem.
+Competition versus cooperation 
+in intraspecific relationships
+Interactions within a species may be competitive or cooperative. Competition can be within the 
+same species (intraspecific competition) or between different species (interspecific competition). 
+Intraspecific competition can be the strongest type of competition because organisms all compete for 
+the same resources. 
+Many animals have developed complex behaviours of cooperation to minimize the potential impact 
+of direct competition. For example, groups of animals maintain dominance hierarchies, which 
+reduces fighting and the risk of injury.
+Because individuals within the same species share the 
+same niche, intraspecific competition can be more intense 
+than interspecific competition, where competing species 
+have different niches and therefore less overlap in shared 
+resources. Within a species, there is competition for limited 
+resources such as food, reproductive partners, territory (see 
+Figure C4.1.15), water, space and any other resource required 
+for survival or reproduction. 
+Interactions within a population do not need to be 
+competitive. Other interactions involve cooperation between 
+members of the population. Although all organisms compete 
+for resources, cooperation is widespread. Genes cooperate 
+in genomes; cells cooperate in tissues; individuals cooperate 
+in societies. For example, hunting animals such as hyenas 
+work in cooperative packs (Figure C4.1.16). Hyena groups 
+are called clans – a dominant female (or ‘queen’) controls the 
+clan, but all individuals benefit from the ability to hunt more 
+effectively and kill prey as a group rather than as an individual. 
+Such dominance hierarchies and collective action emerge 
+from cooperation among individuals, and represent a high 
+order of social complexity. Such societies are found in insects, 
+mammals and birds, and in unicellular organisms. 
+Link
+Interspecific 
+competition is also 
+discussed in Chapter 
+B4.2, page 378.
+	
+◆Intraspecific 
+competition: 
+competition between 
+individuals of the 
+same species.
+	
+◆Interspecific 
+competition: 
+competition between 
+individuals of different 
+species.
+	
+◆Cooperation: the 
+action or process of 
+working together.
+ 
+■Figure C4.1.15 Intraspecific competition in blue 
+wildebeest (Connochaetes taurinus): two males 
+competing for territory, Kalahari Desert, South Africa
+ 
+■Figure C4.1.16 Hyena clan showing intraspecific  
+cooperation on a hunt
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+564
+Insects that work as a group are called social insects, and 
+include bees, wasps, ants and termites. In these colonies, a 
+single reproductive female is supported by large numbers of 
+non-breeding workers (Figure C4.1.17). Because the offspring 
+are produced by one female, all offspring are genetically 
+similar, and so the whole colony can be seen as one 
+‘superorganism’. Seemingly altruistic behaviour, like 
+protecting the colony at risk to self, or raising the offspring of 
+others instead of trying to reproduce, can be explained by the 
+shared genetic inheritance shown by interacting individuals.
+Leafcutter ants are found in the rainforests of Central and 
+South America. They build nests that can contain thousands 
+of compartments (cells) and cover up to 0.5 km2, and a mature 
+colony can contain more than 8 million individuals. The ants 
+work as a collective, cutting the leaves from plants and taking 
+them back to the colony (Figure C4.1.18). They are extremely 
+strong insects and can carry 20–50 times their body weight. 
+The leaves are fed to the fungus Leucoagaricus gongylophorus, 
+which they grow in their nests, cultivating the fungus as a 
+farmer would their crop. The ants cannot digest the cellulose 
+in the cell walls of plants, but the fungus can. The fungus acts 
+as food for the ant larvae. By cooperation, a large number of 
+leaf segments can be collected (up to 17% of the vegetation in a 
+forest can be harvested by leafcutter ants) and sufficient fungus 
+grown to support the colony.
+	
+◆Altruism: behaviour 
+of an animal that benefits 
+another at its own 
+expense. Biologists call a 
+behaviour pattern altruistic 
+if it increases the number 
+of offspring produced by 
+the recipient and decreases 
+that of the altruist.
+ 
+■Figure C4.1.17 The queen (marked with dot) of a bee 
+colony (Apis mellifera) surrounded by sterile worker bees
+ 
+■Figure C4.1.18 Leafcutter ants (Atta sp.) 
+carrying leaves back to a nest
+Link
+Intraspecific competition is the driving force for evolution by natural selection and is 
+discussed in Chapter D4.1, page 783.
+Interspecific relationships within communities
+When resources are limiting in the environment, organisms must compete for them. Interspecific 
+competition may be so intense as to cause the exclusion of one species by another. Examples of 
+interspecific competition are species of Paramecium competing for plankton or species of barnacle 
+competing for space on the rocky shore.
+Herbivory, predation, mutualism, parasitism and pathogenicity are all categories of interspecific 
+relationships within communities.
+ 
+■Herbivory
+Herbivory is when an organism feeds on a plant. The carrying capacity of herbivores is affected by 
+the quantity of plants they feed on. An area abundant in plant resources will have a higher carrying 
+capacity for herbivores than an area that has less plant material.
+ 
+■Predation
+Predation is when one animal (or sometimes a plant) eats another animal. The number of prey is 
+reduced by the predator, lowering the prey’s carrying capacity. The carrying capacity of the predator 
+is affected by the prey because the number of predators is reduced when prey become fewer (see 
+predator–prey relationships, page 574).
+Link
+Competitive exclusion 
+is discussed in Chapter 
+B4.2, page 378.
+Link
+The definition of 
+predation and more 
+details are covered 
+in Chapter B4.2, 
+page 373.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+565
+ 
+■Mutualism
+Mutualism (symbiosis) is an interaction in which both species 
+derive benefit. Mutualism can increase the carrying capacity of 
+both species in the relationship. An example of a mutualistic 
+relationship is shown in Figure C4.1.19.
+ 
+■Parasitism
+Parasitism is a relationship in which the parasite organism 
+benefits at the expense of the host organism from which it 
+derives its food. The parasite lowers the carrying capacity of 
+the host.
+ 
+■Pathogenicity
+Diseases are caused by pathogens, which include bacteria, 
+viruses, fungi and single-celled organisms (protistans). 
+Pathogenicity is the capacity of a microbe to cause damage 
+to a host resulting in disease. A pathogen may reduce the 
+carrying capacity of the population it is infecting. Changes 
+in the incidence of the pathogen, and therefore the disease, 
+can also cause populations to increase and decrease around 
+the carrying capacity. The evergreen robber frog (Craugastor 
+gollmeri), see Figure C4.1.20, has suffered population declines 
+across its habitat range in Costa Rica and Panama. The declines 
+have been caused by the amphibian disease chytridiomycosis, 
+caused by the fungus Batrachochytrium dendrobatidis. Over the 
+last 30 years, the disease has caused the populations of over 
+200 amphibian species to decline in numbers significantly, and 
+in some cases the species have become extinct.
+	
+◆Mutualism: an interaction in which both species derive benefit. This is a specific type of 
+symbiotic relationship. 
+	
+◆Parasitism: a relationship where one organism (the parasite) benefits at the expense of another (the 
+host) from which it derives its food.
+	
+◆Pathogenicity: the capacity of a microbe to cause damage in a host resulting in disease.
+	ATL C4.1B 
+Consider your own environment. Think of local examples to illustrate the range of ways in which 
+species can interact within a community. 
+For example, if you live in Malaysia or Indonesia, an example of a parasite could be the Rafflesia 
+plant. Rafflesia has the largest flowers in the world, but no leaves. Without leaves, the plant 
+cannot photosynthesize, so it grows close by South East Asian vines (Tetrastigma sp.) from which 
+it draws the sugars it needs for growth. An example of mutualism would be coral reefs (see 
+page 567). The clouded leopard (Neofelis nebulosi) is a local predator that hunts small mammals. 
+The Asian elephant feeds on vegetation within the rainforest and provides an example of 
+herbivory.
+Find local examples of each type of ecological interaction, using at least one example for each type 
+of interspecific competition. Explain to other students in your class why you have placed them in 
+that category.
+Link
+The definition of 
+herbivory and how 
+plants resist it are 
+covered in Chapter 
+B4.2, page 372.
+ 
+■Figure C4.1.19 Mutualism – mushroom of fly agaric fungus 
+(Amanita muscaria) takes sugars and amino acids from a tree’s roots 
+in return for essential ions, via its hyphae attached below ground
+ 
+■Figure C4.1.20 An evergreen robber frog in the Atlanta 
+Botanical Garden’s amphibian conservation laboratory, USA
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+566
+Mutualism as an interspecific relationship 
+that benefits both species
+Concept: Interdependence
+In a mutualistic relationship, there is an interdependence between two species from 
+which both benefit.
+ 
+■Root nodules in Fabaceae (legume family)
+Rhizobium is a bacterium that lives in the root nodules of plants in the legume family (Fabaceae) such 
+as clover plants (Figure C4.1.21). Rhizobium associates with roots in a symbiotic relationship. These 
+bacteria work in the following way: 
+l	 Rhizobium fixes nitrogen gas to form ammonium ions, which are then converted by other bacteria 
+to nitrates. The plant benefits from the nitrates. The plant supplies carbohydrates to the bacteria 
+in the root nodule. This is very nutritionally expensive for the plant (they lose a source of glucose) 
+but it does enable them to live in nitrate-deficient soils. Other plants without this symbiotic 
+relationship are not able to survive in such poor soils, so the legume plants are able to exploit a 
+niche that other plants cannot. The bacteria need a ready supply of glucose for respiration, which 
+supplies the energy to split the triple-bonded nitrogen molecule. The relationship is, therefore, a 
+mutualistic and symbiotic one.
+l	 Rhizobium is aerobic. Nitrogen fixation needs lots of energy, which requires large amounts of ATP 
+that could not be produced in sufficient quantity through anaerobic pathways.
+l	 Rhizobium contains an enzyme, nitrogenase, which catalyses nitrogen fixation. This reaction is 
+blocked by exposure to oxygen (by competitive inhibition) because nitrogen and oxygen are 
+roughly the same size and shape. This means that oxygen exclusion is necessary for nitrogen 
+fixation. This problem is solved in Rhizobium in two ways:
+l	 Rhizobium has an exceptionally fast and efficient aerobic metabolism, meaning very little 
+oxygen builds up in the root nodules.
+l	 The root nodule has an oxygen-scavenging chemical called leghaemoglobin which, like 
+haemoglobin in blood, has a high affinity for oxygen. Leghaemoglobin removes oxygen from 
+the nodule, allowing nitrogen fixation to occur catalysed by nitrogenase.
+Top tip!
+Farmers plant clover to increase the nitrate content of the soil and plough the crop into the ground 
+rather than harvest it. Regular ploughing and good drainage keep conditions in the soil aerobic for 
+the Rhizobium.
+ 
+■Figure C4.1.21 Root 
+nodules on the roots 
+of clover. The nodules 
+are created by the 
+nitrogen-fixing bacteria 
+Rhizobium trifolii. 
+The bacteria convert 
+atmospheric nitrogen 
+into ammonium ions, 
+which are then further 
+converted by nitrifying 
+bacteria into nitrate ions, 
+something the clover 
+cannot do itself. Nitrate 
+can then be absorbed 
+by plants and converted 
+into a usable organic 
+form (amino acids)
+	
+◆Root nodule: small 
+swelling on the root 
+of plants that contain 
+symbiotic nitrogen-
+fixing bacteria.
+	
+◆Symbiotic: a close 
+and long-term biological 
+interaction between two 
+different species.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+567
+ 
+■Mycorrhizae in Orchidaceae (orchid family)
+Mycorrhiza is a type of fungus that grows in mutualism with plant species. The hyphae of the 
+fungus (Figure C4.1.22a) grow through the soil and can enter plant tissue. Orchids are a group of 
+flowering plants in the family Orchidaceae. Mycorrhizae play a key role during orchid germination. 
+An orchid seed is very small, with limited food reserves, and so the growing orchid obtains nutrients 
+and water from the fungal symbiont. In turn, the mycorrhizae gains photosynthetically-derived 
+glucose from the orchid.
+ 
+■Figure C4.1.22 a) SEM of mycorrhizae fungal hyphae, b) lady-slipper orchid (Cypripedium calceolus) is a terrestrial 
+orchid that lives in temperate and northern areas and has a symbiotic relationship with mycorrhizae
+a
+b
+One species of orchid, the lady-slipper orchid (Cypripedium calceolus), is a very rare species that is 
+under threat (Figure C4.1.22b). To help conserve the species, it has been artificially grown using 
+tissue culture techniques. However, it is very difficult to introduce new seedlings from laboratory 
+conditions back to the wild due to lack of specific symbiotic mycorrhizae for the slipper orchid. 
+	ATL C4.1C 
+What other examples of mutualistic relationships are there between plants and mycorrhizae? Find 
+an example from your local area or region. What is the interdependence between the plant and 
+fungus? Write a summary of the information you find and keep this as a useful case study for 
+answering questions.
+ 
+■Corals and zooxanthellae
+Coral reefs are created by the symbiotic relationships between two organisms – an animal and an algae. 
+The interaction in coral reefs is mutually beneficial; both organisms gain from the relationship. The 
+animal that makes the coral reef is a cnidarian – a group that also includes sea anemones and jellyfish. 
+Corals are colonial organisms (i.e. made of many individuals of the same species physically connected, 
+interdependent on one another) made up of individual polyps, each 1–3 mm in diameter, with stinging 
+tentacles arranged around a central mouth (Figure C4.1.23). The polyps are connected to one another 
+via a thin layer of tissue, which enables nutrients to be shared between organisms. The polyps secrete 
+a protective skeleton of calcium carbonate, which forms the foundation of the coral reef ecosystem. 
+The algae (zooxanthellae) live within the cells of the coral’s endodermis (the innermost lining of 
+the animal).
+	
+◆Mycorrhiza (plural, 
+Mycorrhizae): a 
+fungus that grows in 
+association with the roots 
+of a plant in a symbiotic 
+relationship.
+Link
+The conditions 
+required for coral reef 
+formation are covered 
+in Chapter B4.1, 
+page 353.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+568
+zooxanthellae
+tentacles with nematocysts
+(stinging cells)
+anatomy of a coral polyp
+mouth
+living tissue 
+linking polyps
+limestone calice
+skeleton
+gastrovascular cavity
+(digestive sac)
+nematocyst
+ 
+■Figure C4.1.23 The zooxanthellae living within the polyp 
+animal photosynthesize to produce glucose for themselves 
+and the coral polyp, and in return are protected 
+The coral provides the algae with a protected environment and 
+the carbon dioxide needed for photosynthesis (a metabolic waste 
+product of respiration in the coral). In return, the algae produce 
+oxygen, utilize the coral’s waste carbon dioxide, and provide the 
+coral with a food source (the glucose produced by photosynthesis). 
+As much as 90% of the organic material manufactured by the 
+algae through photosynthesis is transferred to the host coral tissue 
+(Figure C4.1.24). 
+The zooxanthellae give coral its colour. Several million 
+zooxanthellae live and produce pigments in just a few square 
+centimetres of coral. The pigments are visible through the 
+clear body of the polyp. Zooxanthellae have a range of different 
+photosynthetic pigments, which range in colour from golden-
+yellow to brown, giving their hosts the same shade. 
+sunlight
+Sun
+plankton
+skeleton
+polyp
+respiration
+respiration
+nutrients
+zooxanthellae
+O2
+CO2
+HCO3
+CaCO3
+Ca2+
+photosynthesis
+–
+ 
+■Figure C4.1.24 The symbiotic 
+relationship between 
+coral and zooxanthellae
+Resource competition between 
+endemic and invasive species
+Alien species are species that are introduced into an area by human activity. Invasive species are 
+alien species that have increased rapidly in number, having a negative effect on the environment and 
+on native species. 
+The success of the grey squirrel (Sciurus carolinensis) at the expense of the red squirrel (Sciurus 
+vulgaris) (Figure C4.1.25) is a very good example of an alien species becoming an invasive one. 
+The grey squirrel is native to eastern North America and was introduced to the UK in the 1800s. 
+Red squirrels are now restricted to just two locations in the UK, having once been widespread 
+Link
+Further examples of 
+alien and invasive 
+species, and their 
+impacts on the 
+current biodiversity 
+crisis, are discussed 
+in Chapter A4.2, 
+page 172. 
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+569
+over much of the country. The grey squirrel has spread rapidly, chiefly by being able to consume a 
+wide range of locally growing nuts (including the very common woodland oak tree’s acorn – this 
+contains polyphenolic substances that the new arrival can digest, but which the red squirrel cannot). 
+Although they have similar niches, with its wider diet, the grey has outbred the red and multiplied 
+much faster. This enlarged population has successfully competed for hazelnuts and pine cones 
+too (the limited diet of the red squirrel). The grey squirrel is an example of an alien species that 
+has a similar niche to an endemic species: because the niches of the grey and red squirrel overlap, 
+competitive exclusion can take place with the result that the less-effective competitor declines in 
+number or is wiped out.
+ 
+■Figure C4.1.25 The red squirrel (Sciurus vulgaris) and grey squirrel (Sciurus carolinensis)
+A consequence of introducing an alien species may be that both the alien and native species end 
+up occupying smaller realized niches due to interspecific competition. If the alien species lacks 
+natural predators, it could outcompete the native species and become invasive. Understanding 
+the fundamental niche of invasive species can help predict their dispersal patterns and invasion 
+success, providing the basis for better-informed conservation and management policies.
+	ATL C4.1D 
+Select an invasive species from your local area. Create a flow chart showing how the introduction 
+of this species has affected populations of endemic species and the management issues that have 
+resulted. You need to bring in the following concepts: competition, conservation, fundamental 
+and realized niches, and ecosystem management.
+6	 Compare and 
+contrast, using 
+examples, species 
+that are endemic 
+and those that are 
+invasive.
+Tests for interspecific competition
+Interspecific competition is indicated but not proven if one species is more successful in the absence 
+of another. There are a range of possible approaches to research of interspecific competition: laboratory 
+experiments, field observations by random sampling and field manipulation by removal of one species.
+ 
+■Investigating competitive exclusion 
+American ecologist Joseph Connell examined two species of barnacle – a common animal on 
+rocky shores – to investigate the difference between fundamental and realized niche. His study in 
+Scotland, UK, used two experiments. Connell had observed that one of the species, Semibalanus 
+(Balanus) balanoides, was most abundant on the lower intertidal area and that the other species, 
+Link
+Niches and 
+competitive exclusion 
+are discussed in 
+Chapter B4.2, 
+page 363.
+Link
+Fundamental and 
+realized niches are 
+discussed in Chapter 
+B4.2, page 377.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+570
+Chthamalus stellatus, was most common on the upper intertidal area of the shore. He knew that the 
+free-swimming larvae of each species could settle anywhere on the rocky shoreline and grow into 
+adult barnacles. He asked the question: ‘Why do Semibalanus and Chthamalus not grow together?’
+Inquiry 1: Exploring and designing
+Designing
+How would you address Connell’s question regarding why Semibalanus and Chthamalus 
+do not grow together? What experiments could you do to explain Connell’s observations? 
+Think about this now and write down your ideas. What would your variables be 
+(including controlled variables)? How would you ensure reliability of your data?
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+In his first experiment (Figure C4.1.26), Connell removed Semibalanus from the upper area of 
+shore. He found that, over time, no Chthamalus replaced it. His explanation was that Semibalanus 
+could not survive in an area that regularly dried out and experienced desiccation due to low tides. 
+He concluded that the realized niche of Semibalanus was the same as its fundamental niche.
+In his second experiment (also shown in Figure C4.1.26), Connell removed Semibalanus from the 
+middle area. He found that over time Chthamalus replaced it. His explanation was that Semibalanus 
+was a more successful competitor in the middle intertidal zone and usually excluded Chthamalus. 
+year
+1
+1955
+1954
+2
+5
+10
+20
+40
+60
+80
+In the upper intertidal
+zone, removing Semibalanus
+had little effect on
+survival of Chthamalus.
+In the middle intertidal zone,
+a much higher number of
+Chthamalus survived once
+Semibalanus had been removed.
+upper intertidal zone
+survival of Chthamalus (%)
+year
+1
+1955
+1954
+2
+5
+10
+20
+40
+60
+80
+middle intertidal zone
+survival of Chthamalus (%)
+Semibalanus removed
+Semibalanus present
+He concluded that the fundamental niche and realized niche for Chthamalus were not the same, and 
+that the species’ realized niche was smaller due to interspecific competition (that is, competition 
+between the two species) leading to competitive exclusion (when one species outcompetes and 
+excludes another, when their niches overlap).
+ 
+■Figure C4.1.26 Data 
+from Joseph Connell’s 
+experiment showing the 
+effect of Semibalanus 
+removal from the upper 
+shore (left) and middle/
+lower shore (right). 
+The left-hand figure 
+shows that in the upper 
+intertidal zone, removing 
+Semibalanus had little 
+effect on the survival of 
+Chthamalus; the right-
+hand figure shows that, 
+in the middle/lower 
+intertidal zone, a much 
+higher percentage of 
+Chthamalus survived 
+once Semibalanus 
+had been removed
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+571
+b
+high tide
+low tide
+Chthamalus fundamental niche
+a
+high tide
+low tide
+fundamental niches
+realized niches
+ocean
+Chthamalus
+Semibalanus
+Semibalanus sp. (left-hand
+photo), easily crowded out
+from more exposed
+positions on the shore, and
+Chthamalus sp. (right-hand
+photo), able to withstand
+prolonged exposure and so
+can survive higher on rocky
+shorelines.
+ 
+■Figure C4.1.27 a) Two species of barnacle in the intertidal region along the Scottish coast show stratified distribution. 
+Competition between the two species explains the distinction between the fundamental niche and realized niche for each organism.  
+b) The results of Connell’s second experiment. When Semibalanus were removed from the middle zone of the rocky shore, the 
+Chthamalus population moved into that area, indicating that the fundamental niche of Chthamalus covered both the upper and middle 
+zones of shore. Competition between the two species usually excluded the Chthamalus and restricted it to its observed realized niche
+Tool 2: Technology
+Using computer modelling
+Read more about Connell’s experiment using this site: https://virtualbiologylab.org/
+ModelsHTML5/BarnacleCompetition/BarnacleCompetitionModel.html
+Recreate the experiment using the simulation feature. Gather your own data 
+and compare them with Connell’s. Do you reach the same conclusion about the 
+fundamental and realized niches of both species?
+Restriction of two species due to interspecific competition
+Connell’s experiments with barnacles show the elimination of a species that has a similar 
+fundamental niche to another species in the same area. In other cases, competing species can 
+coexist but with restrictions with both species. For example, in Africa, leopards and lions display 
+interspecific competition, since both species feed on the same prey. When they coexist in the 
+same area, they each negatively impact the presence of the other because both will have less food. 
+The result is the restriction of both species as an outcome of competition.
+Top tip!
+Elimination of one of 
+the competing species 
+or the restriction of 
+both to a part of their 
+fundamental niche are 
+both possible outcomes 
+of competition between 
+two species.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+572
+Nature of science: Hypotheses
+A hypothesis is a provisional explanation of an observed phenomenon or event that can be 
+investigated using the scientific method. When making a hypothesis, the investigator proposes how 
+an independent variable may affect a dependent variable. A hypothesis is a testable prediction 
+(ideally quantitative) of how you think an independent variable and a dependent variable are causally 
+related. A hypothesis includes a scientific explanation (often involving a reference to a scientific 
+model) of how the two variables are related. For example, you might be planning to investigate the 
+relationship between temperature and the rate of fermentation of brewer’s yeast. Your hypothesis 
+might be that, as temperature increases, the rate of fermentation is expected to increase 
+exponentially up to an optimum temperature and then decrease rapidly (in a curved manner) to zero.
+Hypotheses can be tested by both experiments and observations. An experiment changes one 
+variable (the independent variable) and measures the effect on the dependent variable. All other 
+variables are kept the same (they are controlled), unless this is not possible, for example in ecological 
+investigations. In these cases, other variables that may affect the dependent variable are monitored. 
+Observations are qualitative rather than quantitative, and also provide evidence for the hypothesis. 
+An experiment with controlled variables is better support for a hypothesis than simple observations. 
+For example, in Joseph Connell’s investigation of the fundamental and realized niches of barnacles, 
+he observed that one of the species was most abundant on the lower intertidal area and that the 
+other was most common on the upper intertidal area of the shore. However, it was only by removing 
+each species of barnacle from their respective zones on the shore that he was able to demonstrate 
+the fundamental niches of both species and how they compare to their realized niches. 
+	
+◆Hypothesis: a 
+provisional explanation of 
+an observed phenomenon 
+or event that can be 
+investigated using the 
+scientific method; when 
+using a statistical test, 
+the hypothesis states 
+that there is a statistically 
+significant difference 
+between two variables.
+Using the chi-squared test for 
+association between two species
+Quadrats can be used to record the presence or absence in each quadrat of two species under 
+investigation. The data are then subjected to a statistical test called the chi-squared (χ2) test. It is 
+used to examine data that fall into discrete categories (as in this case). It tests the significance of 
+the deviations between numbers observed (O) in an investigation and the number expected (E). 
+The measure of deviation, known as chi-squared, is converted into a probability value using a chi-
+squared table. In this way, we can decide whether the differences observed between our sets of data 
+are likely to be real or, alternatively, obtained just by chance. 
+You need to be able to apply chi-squared tests on the presence or absence of two species in several 
+sampling sites, exploring the differences or similarities in distribution. This may provide evidence for 
+interspecific competition.
+ 
+■Applying and interpreting appropriate tests of 
+statistical significance 
+All ecological statistical techniques involve hypothesis testing. They test a statement called the null 
+hypothesis. Statistical analyses test whether data match the null hypothesis or significantly vary 
+from it. Where data are being compared, the null hypothesis states that ‘there is no difference 
+between the sets of data’ and, when an association is being investigated, it states that ‘there is no 
+association’. The alternative hypothesis is the ‘opposite’ of the null hypothesis, i.e. that there is a 
+difference or association shown by the data. 
+	
+◆Null hypothesis: 
+there is no statistically 
+significant difference 
+between two variables.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+573
+Tool 3: Mathematics
+Applying the chi-squared test to test for an 
+association between two moorland species
+This example examines whether the moorland species 
+bell heather (Erica cinerea) and common heather, also 
+known as ling (Calluna vulgaris), tend to occur together. 
+Moorlands are upland areas with acidic and low-nutrient 
+soils, where heather plants dominate. Heathers have 
+long woody stems and grow in dense clumps. They 
+have colourful, bright flowers. Is there a statistically 
+significant association between ling and bell heather on 
+an area of moorland? As scientists, we would carry out 
+a statistical test to work out the probability of getting 
+results that indicate there is no association between 
+the two species – indicating the null hypothesis is 
+true. The null hypothesis in this example would be that 
+there is no statistically significant association between 
+bell heather and ling in an area of moorland; that is, 
+their distributions are independent of each other. If our 
+results do not support the null hypothesis, then there is 
+an association.
+a
+c
+b
+ 
+■Figure C4.1.28 a) A moorland ecosystem and 
+two common plants found there: b) ling (Calluna 
+vulgaris) and c) bell heather (Erica cinerea)
+1 The measurements and results
+To sample the two species, the presence or absence 
+of each species was recorded in each of 200 quadrats. 
+The quadrats were located at random on a 100 m by 
+100 m area of moorland (Table C4.1.3).
+ 
+■Table C4.1.3 Observed results – the 
+distribution of ling and bell heather
+Bell heather 
+present
+Bell heather 
+absent
+Total
+Ling present
+89
+45
+134
+Ling absent
+31
+35
+66
+120
+80
+200
+2 The calculations
+a) Expected results: assuming that the two species 
+are randomly distributed with respect to each other, 
+the probability of ling being present in a quadrat is:
+column total
+total number of quadrats = 134
+200 = 0.67
+Similarly, the probability of bell heather being present 
+in a quadrat is:
+120
+200 = 0.60
+The probability of both species occurring together, 
+assuming random distribution between each species, 
+is: 0.60 × 0.67 = 0.40. The number of quadrats in 
+which both species can be expected is therefore 
+0.40 × 200 = 80.
+Having calculated the number of expected quadrats 
+where the species are found together, other expected 
+values can be calculated by subtracting from the totals. 
+For example, the expected number of quadrats with 
+bell heather but no ling is 120 − 80 = 40. Expected 
+values follow the assumption that totals for each row 
+and column do not change, because the relationship 
+shown by the data is assumed to represent the true 
+relative frequency of each species (Table C4.1.4). 
+ 
+■Table C4.1.4 The full expected results
+Bell heather 
+present
+Bell heather 
+absent
+Total
+Ling present
+80
+54
+134
+Ling absent
+40
+26
+66
+120
+80
+200
+
+➜
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+574
+Calculated values can be checked by using the 
+ratios represented in the table of observed results 
+(Table C4.1.3). 
+For example, the expected number of quadrats where 
+there is no ling and no bell heather can be calculated 
+as follows:
+Probability of no ling in a quadrat = 66 ÷ 200 = 0.33
+Probability of no bell heather in a quadrat =  
+80 ÷ 200 = 0.40
+Probability of neither species in a quadrat = 
+0.33 × 0.40 = 0.13
+Number of expected quadrats with neither species 
+present = 0.13 × 200 = 26 
+(Note that this figure agrees with the estimated value in 
+Table C4.1.4).
+b) Statistical test: the observed and expected results 
+are recorded in Table C4.1.5.
+ 
+■Table C4.1.5 Observed (O) and expected (E) 
+distribution of ling and bell heather
+Bell heather 
+present
+Bell heather 
+absent
+Total
+Ling present
+O
+E
+89
+80
+45
+54
+134
+Ling absent
+O
+E
+31
+40
+35
+26
+66
+120
+80
+200
+Then, chi-squared is calculated from the formula: 
+χ2 = ∑(O – E)2
+E
+So, chi-squared in this example: 
+= (89 – 80)2
+80
+ + (45 – 54)2
+54
+ + (31 – 40)2
+40
+ + (35 – 26)2
+26
+= 1.01 + 1.50 + 2.03 + 3.11
+= 7.65
+To find whether this result is statistically significant 
+or not, the value must be compared to a critical 
+value (Table C4.1.6). To locate the critical value, the 
+appropriate degrees of freedom need to be calculated. 
+Degrees of freedom = (number of columns − 1) × 
+(number of rows − 1)
+In this case, degrees of freedom = (2 − 1) × (2 − 1) = 1
+ 
+■Table C4.1.6 Critical values for the χ2 test
+Degrees of freedom
+0.05 level of significance
+1
+3.84
+2
+5.99
+3
+7.81
+4
+9.49
+The chi-squared value of 7.65 is larger than the critical 
+value of 3.84 for 1 degree of freedom at the probability 
+level of p = 0.05 (the 5% probability level). The null 
+hypothesis is therefore rejected; there is a statistically 
+significant association between bell heather and ling 
+in this area of moorland. So, the distributions of the 
+two species are not independent of each other – the 
+distribution of the two species is associated.
+c) The value of chi-squared may also be obtained 
+using a programmed calculator or a computer program 
+such as: www.socscistatistics.com/tests/chisquare/
+Default2.aspx
+Predator–prey relationships
+In Chapter B3.3, different reasons for locomotion were discussed, including escaping from danger. 
+Figure B3.3.18b, page 338, shows a snowshoe hare running from a lynx. In this interaction, the 
+snowshoe hare is the prey and the lynx the predator. Such an interaction is known as a predator–
+prey relationship.
+	
+◆Predator–prey 
+relationship: the inter-
+relationship of population 
+sizes due to predation of 
+one species (the predator) 
+on another (the prey).
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+575
+year
+numbers / thousands
+0
+160
+100
+60
+20
+1845
+1945
+1855
+1865
+1885
+1875
+140
+80
+40
+1895
+1905
+1915
+1925
+120
+1935
+lynx
+snowshoe
+hare
+Key
+ 
+■Figure C4.1.29 The snowshoe hare and lynx: an example of a predator–prey relationship
+Predator–prey relationships are an example of density-dependent (see page 557) control of 
+animal populations. 
+These predator–prey interactions are often controlled by negative feedback mechanisms (see 
+page 557) that control population densities (Figure C4.1.29). In the relative absence of the predatory 
+lynx (due to a limited prey population), the population of snowshoe hare begins to increase in size. 
+As the availability of prey increases, there is an increase in predator numbers, after a time-lag. As the 
+number of predators increases, the population size of the prey begins to decrease, again after a time-
+lag. With fewer prey, the number of predators decreases again. With fewer predators, the number of 
+prey may begin to increase again, and the cycle continues. 
+Predation may actually be good for the prey: it removes old and sick individuals first as these 
+organisms are easier to catch. Those remaining are healthier and form a superior breeding pool.
+Common mistake
+The term ‘negative’ does not mean that the feedback loop is detrimental to the environment. Quite 
+the opposite – it usually counteracts deviation away from steady-state equilibrium. The term ‘positive’ 
+does not mean that the feedback loop has a constructive effect on the environment. Positive feedback 
+increases change in a system, leading to it moving further away from steady-state equilibrium.
+Top-down and bottom-up control 
+of populations in communities
+A trophic level is a feeding level within a food chain (see Chapter C4.2, page 582). In top-down 
+control, a higher trophic level influences the community structure of a lower trophic level through 
+predation. This approach is also called a predator-controlled food web. Figure C4.1.30a shows how 
+reduction in the top predator leads to an increase in the number of prey that it feeds on, which in 
+turn leads to a reduction in zooplankton (small floating or weakly swimming organisms that live in 
+the ocean). Reduction in zooplankton has a knock-on effect on phytoplankton (algae and 
+photosynthetic bacteria), leading to population growth due to decreased predation.
+7	 Describe the 
+role of negative 
+feedback 
+mechanisms in a 
+named example 
+of predator–prey 
+relationships.
+Link
+Trophic levels and 
+food chains are 
+covered in Chapter 
+C4.2, page 578.
+	
+◆Top-down control: 
+changes to the food chain 
+occur at the top trophic 
+level and then impact on 
+the trophic levels lower in 
+the food chain.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Ecosystems
+576
+Bottom-up control means that a lower trophic level in an ecosystem affects the community 
+structure of higher trophic levels through resource restriction. Limitation is placed by resources that 
+allow growth, such as food source, habitat or space. Figure C4.1.30b shows bottom-up control in a 
+marine ecosystem. In this system, reduction in the producers (phytoplankton) leads to a reduction in 
+all subsequent levels of the food chain.
+While both top-down and bottom-up controls are possible, one or the other is likely to be dominant 
+in a community.
+a Top-down control – hunting reduces
+   numbers of top predators
+b Bottom-up control – extreme weather
+    reduces numbers of phytoplankton
+effect
+predators
+reaction
+reaction
+reaction
+time
+time
+forage fish
+zooplankton
+phytoplankton
+effect
+predators
+reaction
+reaction
+reaction
+forage fish
+zooplankton
+phytoplankton
+abundance
+abundance
+ 
+■Figure C4.1.30 a) Top-down control in the food chain for four trophic levels in a marine ecosystem,  
+b) bottom-up control, or control through primary production, in a simplified four-level food chain in a marine ecosystem
+Allelopathy and secretion of antibiotics
+ 
+■Allelopathy
+Competition in plants can be severe and lead to the reduction in carrying capacity of both species if 
+the competition is interspecific. Mechanisms that give one plant an advantage over another have 
+evolved, such as allelopathy. The word is derived from the Greek words ‘allelon’, which means ‘each 
+other’, and ‘pathos’, which means ‘to suffer’ (note – the term ‘pathogen’, meaning organisms that 
+cause disease in another organisms, also has this origin). Allelopathy in plants is where a chemical 
+compound (allelochemical) is used by one species to suppress the other and take advantage of that 
+suppression. Allelopathic plants create adverse conditions for other neighbouring, competitor plants 
+by reducing their seed germination, seedling growth or growth of the plant. Some allelochemicals 
+change the amount of chlorophyll production in a plant and therefore slow down or stop 
+photosynthesis, which leads to the suppression or death of the plant.
+Allelopathy can be carried out by plants by the following processes:
+l	 releasing chemical compounds (allelochemicals) from their roots into the soil: these chemicals 
+suppress or kill neighbouring plants when they are absorbed
+l	 releasing allelochemicals in a gaseous form from the stomata in the leaves: when the 
+neighbouring plants absorb these gases, they are suppressed or killed
+l	 leaves dropping from allelopathic plants: these contain toxic chemicals which, when the leaves 
+decompose, are released and inhibit the growth of competitors.
+	
+◆Bottom-up control: 
+changes to the food 
+chain occur at the lowest 
+trophic level (producers) 
+and then impact on the 
+trophic levels higher in 
+the food chain.
+8	 Distinguish 
+between top-
+down and bottom-
+up control of 
+populations in 
+communities.
+	
+◆Allelopathy: chemical 
+inhibition of one plant 
+(or other organism) by 
+another, due to the 
+release of chemicals 
+(allelochemicals) that act 
+as germination or growth 
+inhibitors.
+
+
+=== PAGE BREAK ===
+
+C4.1   Populations and communities
+577
+9	 Using examples, 
+outline how 
+allelopathy is used 
+by plants to give 
+a competitive 
+advantage over 
+other species in 
+their habitat.
+10	Define the term 
+allelopathy.
+ 
+■Figure C4.1.32 The common bracken fern (Pteridium 
+aquilinum), which excludes other plants from areas 
+that it grows in with its allelopathic properties
+ 
+■Figure C4.1.31 Broccoli – an example of an allelopathic plant
+All brassica plants, such as cabbage, mustard, kale and radish, have allelopathic properties. Mustard, 
+for example, can suppress fungal pathogens. Extracts of black mustard can limit the germination of 
+some legumes, such as lentils, as well as oats. Broccoli (Figure C4.1.31) can be allelopathic to 
+later-planted broccoli or any other crops in the brassica family. Farmers growing broccoli therefore 
+rotate to other crops (i.e. alternate the crop so that broccoli is not grown every year) and do not plant 
+other brassicas where broccoli have recently been grown.
+Ferns are also allelopathic. Bracken (Pteridium aquilinum, Figure C4.1.32), for example, competitively 
+excludes other plants by allelopathy, making it the dominant species in the areas where it is found. 
+This dominance reduces the biodiversity of the ecosystem because other plants cannot grow in the 
+presence of the bracken. Associated plants are often severely inhibited or even excluded from dense 
+stands of the fern. 
+ 
+■Secretion of antibiotics
+The first mass-produced antibiotic for the treatment of human bacterial disease was penicillin, 
+derived from the Penicillium fungi. Penicillin was accidently discovered by Alexander Fleming in 1929 
+(see Figure C3.2.15, page 533) while studying Staphylococcus, the bacterium that causes boils and 
+sore throats. Fungi naturally produce antibiotics to kill or inhibit the growth of bacteria, which limits 
+the competition with the fungi. The fungi is allelopathic, producing chemicals that scientists call 
+antibiotics to kill and inhibit the growth of bacteria: these properties have been taken advantage of to 
+produce antibiotics as medicines.
+Top tip!
+Allelopathy and the secretion of antibiotics are similar processes in that a chemical substance is 
+released into the environment to deter potential competitors.
+LINKING QUESTIONS
+1	 What are the benefits of models in studying biology?
+2	 What factors can limit capacity in biological systems? 
+	ATL C4.1E 
+Find out about 
+allelopathic plants 
+in your area. How 
+do they inhibit 
+competitors? Produce 
+a fact sheet on at least 
+three different named 
+species of plant.
+Link
+Antibiotics and 
+penicillin are covered 
+in more detail 
+in Chapter C3.2, 
+page 532.

@@ -1,0 +1,322 @@
+[
+  {
+    "num": 1,
+    "code": "A1.1",
+    "name": "Water",
+    "hl_only": false,
+    "pdf_page_start": 14,
+    "pdf_page_end": 25
+  },
+  {
+    "num": 2,
+    "code": "A1.2",
+    "name": "Nucleic acids",
+    "hl_only": false,
+    "pdf_page_start": 26,
+    "pdf_page_end": 45
+  },
+  {
+    "num": 3,
+    "code": "A2.1",
+    "name": "Origins of cells",
+    "hl_only": true,
+    "pdf_page_start": 46,
+    "pdf_page_end": 60
+  },
+  {
+    "num": 4,
+    "code": "A2.2",
+    "name": "Cell structure",
+    "hl_only": false,
+    "pdf_page_start": 61,
+    "pdf_page_end": 99
+  },
+  {
+    "num": 5,
+    "code": "A2.3",
+    "name": "Viruses",
+    "hl_only": true,
+    "pdf_page_start": 100,
+    "pdf_page_end": 113
+  },
+  {
+    "num": 6,
+    "code": "A3.1",
+    "name": "Diversity of organisms",
+    "hl_only": false,
+    "pdf_page_start": 114,
+    "pdf_page_end": 136
+  },
+  {
+    "num": 7,
+    "code": "A3.2",
+    "name": "Classification and cladistics",
+    "hl_only": true,
+    "pdf_page_start": 137,
+    "pdf_page_end": 149
+  },
+  {
+    "num": 8,
+    "code": "A4.1",
+    "name": "Evolution and speciation",
+    "hl_only": false,
+    "pdf_page_start": 150,
+    "pdf_page_end": 167
+  },
+  {
+    "num": 9,
+    "code": "A4.2",
+    "name": "Conservation of biodiversity",
+    "hl_only": false,
+    "pdf_page_start": 168,
+    "pdf_page_end": 192
+  },
+  {
+    "num": 10,
+    "code": "B1.1",
+    "name": "Carbohydrates and lipids",
+    "hl_only": false,
+    "pdf_page_start": 193,
+    "pdf_page_end": 216
+  },
+  {
+    "num": 11,
+    "code": "B1.2",
+    "name": "Proteins",
+    "hl_only": false,
+    "pdf_page_start": 217,
+    "pdf_page_end": 234
+  },
+  {
+    "num": 12,
+    "code": "B2.1",
+    "name": "Membranes and membrane transport",
+    "hl_only": false,
+    "pdf_page_start": 235,
+    "pdf_page_end": 255
+  },
+  {
+    "num": 13,
+    "code": "B2.2",
+    "name": "Organelles and compartmentalization",
+    "hl_only": false,
+    "pdf_page_start": 256,
+    "pdf_page_end": 267
+  },
+  {
+    "num": 14,
+    "code": "B2.3",
+    "name": "Cell specialization",
+    "hl_only": false,
+    "pdf_page_start": 268,
+    "pdf_page_end": 284
+  },
+  {
+    "num": 15,
+    "code": "B3.1",
+    "name": "Gas exchange",
+    "hl_only": false,
+    "pdf_page_start": 285,
+    "pdf_page_end": 306
+  },
+  {
+    "num": 16,
+    "code": "B3.2",
+    "name": "Transport",
+    "hl_only": false,
+    "pdf_page_start": 307,
+    "pdf_page_end": 337
+  },
+  {
+    "num": 17,
+    "code": "B3.3",
+    "name": "Muscle and motility",
+    "hl_only": true,
+    "pdf_page_start": 338,
+    "pdf_page_end": 352
+  },
+  {
+    "num": 18,
+    "code": "B4.1",
+    "name": "Adaptation to environment",
+    "hl_only": false,
+    "pdf_page_start": 353,
+    "pdf_page_end": 374
+  },
+  {
+    "num": 19,
+    "code": "B4.2",
+    "name": "Ecological niches",
+    "hl_only": false,
+    "pdf_page_start": 375,
+    "pdf_page_end": 391
+  },
+  {
+    "num": 20,
+    "code": "C1.1",
+    "name": "Enzymes and metabolism",
+    "hl_only": false,
+    "pdf_page_start": 392,
+    "pdf_page_end": 416
+  },
+  {
+    "num": 21,
+    "code": "C1.2",
+    "name": "Cell respiration",
+    "hl_only": false,
+    "pdf_page_start": 417,
+    "pdf_page_end": 436
+  },
+  {
+    "num": 22,
+    "code": "C1.3",
+    "name": "Photosynthesis",
+    "hl_only": false,
+    "pdf_page_start": 437,
+    "pdf_page_end": 461
+  },
+  {
+    "num": 23,
+    "code": "C2.1",
+    "name": "Chemical signalling",
+    "hl_only": true,
+    "pdf_page_start": 462,
+    "pdf_page_end": 478
+  },
+  {
+    "num": 24,
+    "code": "C2.2",
+    "name": "Neural signalling",
+    "hl_only": false,
+    "pdf_page_start": 479,
+    "pdf_page_end": 501
+  },
+  {
+    "num": 25,
+    "code": "C3.1",
+    "name": "Integration of body systems",
+    "hl_only": false,
+    "pdf_page_start": 502,
+    "pdf_page_end": 528
+  },
+  {
+    "num": 26,
+    "code": "C3.2",
+    "name": "Defence against disease",
+    "hl_only": false,
+    "pdf_page_start": 529,
+    "pdf_page_end": 559
+  },
+  {
+    "num": 27,
+    "code": "C4.1",
+    "name": "Populations and communities",
+    "hl_only": false,
+    "pdf_page_start": 560,
+    "pdf_page_end": 589
+  },
+  {
+    "num": 28,
+    "code": "C4.2",
+    "name": "Transfers of energy and matter",
+    "hl_only": false,
+    "pdf_page_start": 590,
+    "pdf_page_end": 613
+  },
+  {
+    "num": 29,
+    "code": "D1.1",
+    "name": "DNA replication",
+    "hl_only": false,
+    "pdf_page_start": 614,
+    "pdf_page_end": 626
+  },
+  {
+    "num": 30,
+    "code": "D1.2",
+    "name": "Protein synthesis",
+    "hl_only": false,
+    "pdf_page_start": 627,
+    "pdf_page_end": 648
+  },
+  {
+    "num": 31,
+    "code": "D1.3",
+    "name": "Mutation and gene editing",
+    "hl_only": false,
+    "pdf_page_start": 649,
+    "pdf_page_end": 659
+  },
+  {
+    "num": 32,
+    "code": "D2.1",
+    "name": "Cell and nuclear division",
+    "hl_only": false,
+    "pdf_page_start": 660,
+    "pdf_page_end": 681
+  },
+  {
+    "num": 33,
+    "code": "D2.2",
+    "name": "Gene expression",
+    "hl_only": true,
+    "pdf_page_start": 682,
+    "pdf_page_end": 692
+  },
+  {
+    "num": 34,
+    "code": "D2.3",
+    "name": "Water potential",
+    "hl_only": false,
+    "pdf_page_start": 693,
+    "pdf_page_end": 704
+  },
+  {
+    "num": 35,
+    "code": "D3.1",
+    "name": "Reproduction",
+    "hl_only": false,
+    "pdf_page_start": 705,
+    "pdf_page_end": 736
+  },
+  {
+    "num": 36,
+    "code": "D3.2",
+    "name": "Inheritance",
+    "hl_only": false,
+    "pdf_page_start": 737,
+    "pdf_page_end": 771
+  },
+  {
+    "num": 37,
+    "code": "D3.3",
+    "name": "Homeostasis",
+    "hl_only": false,
+    "pdf_page_start": 772,
+    "pdf_page_end": 790
+  },
+  {
+    "num": 38,
+    "code": "D4.1",
+    "name": "Natural selection",
+    "hl_only": false,
+    "pdf_page_start": 791,
+    "pdf_page_end": 809
+  },
+  {
+    "num": 39,
+    "code": "D4.2",
+    "name": "Stability and change",
+    "hl_only": false,
+    "pdf_page_start": 810,
+    "pdf_page_end": 831
+  },
+  {
+    "num": 40,
+    "code": "D4.3",
+    "name": "Climate change",
+    "hl_only": false,
+    "pdf_page_start": 832,
+    "pdf_page_end": 849
+  }
+]

@@ -1,0 +1,2005 @@
+C2.2   Neural signalling
+467
+C2.2
+Neural signalling
+•	 How are electrical signals generated and moved within neurons?
+•	 How can neurons interact with other cells?
+Guiding questions
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 C2.2.1 	 Neurons as cells within the nervous system that carry electrical impulses
+	 C2.2.2 	 Generation of the resting potential by pumping to establish and maintain 
+concentration gradients of sodium and potassium ions
+	 C2.2.3 	 Nerve impulses as action potentials that are propagated along nerve fibres
+	 C2.2.4 	 Variation in the speed of nerve impulses
+	 C2.2.5 	 Synapses as junctions between neurons and between neurons and effector cells
+	 C2.2.6 	 Release of neurotransmitters from a presynaptic membrane
+	 C2.2.7 	 Generation of an excitatory postsynaptic potential
+	 C2.2.8 	 Depolarization and repolarization during action potentials (HL only)
+	 C2.2.9 	 Propagation of an action potential along a nerve fibre/axon as a result of local 
+currents (HL only)
+	 C2.2.10 	Oscilloscope traces showing resting potentials and action potentials (HL only)
+	 C2.2.11 	Saltatory conduction in myelinated fibres to achieve faster impulses (HL only)
+	 C2.2.12 	Effects of exogenous chemicals on synaptic transmission (HL only)
+	 C2.2.13 	Inhibitory neurotransmitters and generation of inhibitory postsynaptic 
+potentials (HL only)
+	 C2.2.14 	Summation of the effects of excitatory and inhibitory neurotransmitters in a 
+postsynaptic neuron (HL only)
+	 C2.2.15 	Perception of pain by neurons with free nerve endings in the skin (HL only)
+	 C2.2.16 	Consciousness as a property that emerges from the interaction of individual 
+neurons in the brain (HL only)
+Neurons
+ 
+■Introducing the nervous system
+The nervous system is composed of the central nervous system (CNS), which consists of the brain 
+and spinal cord. To and from the central nervous system run nerves of the peripheral nervous 
+system (PNS), which enable communication between the central nervous system and all parts of the 
+body (Figure C2.2.1). Nerve cells are called neurons. A neuron has a cell body containing the 
+nucleus and most of the cytoplasm. Multiple, short, elongated cytoplasmic nerve fibres called 
+dendrites (see Figure C2.2.2) project from the cell body, forming connections to other neurons. 
+Neurons are specialized for the transmission of information in the form of impulses. An impulse is 
+a momentary reversal in the electrical potential difference across the membrane of a neuron. The 
+transmission of an impulse along a fibre occurs at speeds of between 30 and 120 metres per second 
+in mammals, so nervous coordination is extremely fast and the responses are virtually immediate. 
+Impulses travel to particular points in the body, connected by the fibres. Consequently, the effects of 
+impulses are localized rather than diffuse. 
+	
+◆Central nervous 
+system (CNS): in 
+vertebrates, the brain and 
+spinal cord.
+	
+◆Nerve: nerve bundle 
+of many nerve fibres 
+connecting the central 
+nervous system with parts 
+of the body.
+	
+◆Peripheral nervous 
+system (PNS): in 
+vertebrates, nerves 
+that convey sensory 
+information to the CNS, 
+and nerves that convey 
+impulses to muscles and 
+glands (effector organs).
+	
+◆Neuron: cell within 
+the nervous system that 
+carries electrical impulses.
+	
+◆Dendrite: a fine 
+fibrous structure 
+on a neuron that 
+receives impulses from 
+other neurons.
+Link
+The CNS and PNS 
+are also covered 
+in Chapter C3.1, 
+page 496.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Cells
+468
+ 
+■Neuron structure
+Three types of neuron make up the nervous system 
+(see Figure C2.2.2):
+l	 Motor neurons have many fine dendrites, which bring 
+impulses towards the cell body, and a single long axon that 
+carries impulses away from the cell body. The function of the 
+motor neuron is to carry impulses from the central nervous 
+system to a muscle or gland (known as an effector). 
+l	 Sensory neurons have a cytoplasmic fibre running to the 
+cell body (in sensory neurons this starts from the receptor), 
+called the dendron. In contrast to the motor neuron, sensory 
+neurons have the cell body part way along the neuron, with a 
+dendron running to the cell body and an axon away from it. 
+l	 Relay neurons (also known as intermediate or interneurons) 
+have numerous short fibres. Each fibre is a thread-like extension 
+of a nerve cell. Relay neurons occur in the central nervous 
+system. They connect sensory neurons and motor neurons. 
+brain
+spinal cord
+nerves – peripheral
+nervous system
+central
+nervous
+system
+Specialized nerve cells (neurons) are organized into the central 
+nervous system and peripheral nerves linking sense organs,
+muscles and glands with the brain or spinal cord.
+ 
+■Figure C2.2.1 The organization of the 
+mammalian nervous system
+A neuron is surrounded by many supporting cells. One type of supporting cell are Schwann cells 
+(Figure C2.2.2), which wrap around the axons of motor neurons, forming a structure called a myelin 
+sheath. Myelin consists largely of lipid and has high electrical resistance. The myelin sheath also 
+contains protein (between 15% and 25% of dry mass). Frequent gaps occur along a myelin sheath, 
+between the individual Schwann cells. The gaps are called nodes of Ranvier.
+Common mistake
+Do not confuse effectors and receptors. Receptors detect stimuli and effectors respond to them. 
+Sensory neurons pass impulses from receptors to the CNS. Motor neurons stimulate effectors 
+(muscles or glands) and affect movement.
+1	 Distinguish between a sensory neuron and a motor neuron.
+	
+◆Schwann cells: cells 
+of the peripheral nervous 
+system that wrap around 
+the axons of motor and 
+sensory neurons to form 
+the myelin sheath.
+	
+◆Myelin sheath: an 
+insulating sheath around 
+the axons of nerve fibres 
+formed by Schwann cells.
+	
+◆Nodes of Ranvier: 
+gap in the myelin sheath 
+around a myelinated 
+nerve fibre.
+	
+◆Motor neuron: nerve cell that carries impulses away from the 
+central nervous system to an effector (e.g. muscle, gland).
+	
+◆Axon: fibre carrying impulses away from the cell body of 
+a neuron.
+	
+◆Sensory neuron: nerve cell carrying impulses from a sense 
+organ or receptor to the central nervous system.
+	
+◆Receptor: a cell specialized to respond to stimulation by the 
+production of an action potential (impulse).
+	
+◆Dendron: fibre carrying impulses towards the cell body of 
+a neuron.
+	
+◆Relay neuron: a specialized cell in the central nervous system 
+which relays an electrical impulse from a sensory neuron to a 
+motor neuron.
+
+
+=== PAGE BREAK ===
+
+C2.2   Neural signalling
+469
+sensory neuron
+myelin sheath
+direction
+of
+impulse
+node of Ranvier
+motor neuron
+dendrites
+cell body
+axon
+axon
+nucleus
+axon (or dendron)
+gap between two sheath
+cells = node of Ranvier
+myelin sheath
+formed by Schwann cell
+wrapping itself around the
+axon
+relay neuron
+many ﬁbres
+cell body
+axon
+nucleus
+cytoplasm
+dendrites
+dendron
+direction
+of
+impulse
+direction
+of
+impulse
+dendrites
+cell body
+axon
+nucleus
+dendron
+ 
+■Figure C2.2.2 Structure of the neurons of the nervous system
+The resting potential 
+Neurons transmit information in the form of impulses. An impulse is transmitted along nerve 
+fibres, but it is not an electrical current that flows along the ‘wires’ of the nerves. An impulse is a 
+momentary reversal in electrical potential difference in the membrane – a change in the position of 
+charged ions between the inside and outside of the membrane of the nerve fibres. This reversal flows 
+from one end of the neuron to the other in a fraction of a second. 
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Cells
+470
+Between the conduction of one impulse and the next, the neuron is sometimes said to be resting, but 
+this is not the case. The ‘resting’ neuron membrane is actively setting up the electrical potential 
+difference between the inside and the outside of the fibre, known as the resting potential. 
+The resting potential is the potential difference across a nerve cell membrane when it is not being 
+stimulated. It is normally about –70 millivolts (mV) (Figure B2.1.21, page 241). The resting potential 
+difference is re-established across the neuron membrane after a nerve impulse has been transmitted. 
+We say the nerve fibre has been repolarized.
+Links
+Active transport is covered in Chapter B2.1, page 230; sodium–potassium pumps as an 
+example of exchange transporters (HL only) is also covered in Chapter B2.1 on page 241.
+The resting potential is the product of the active transport of potassium ions (K+) in across the 
+membrane and sodium ions (Na+) out across the membrane. This occurs by a K+/Na+ pump, using 
+energy from ATP. Three Na+ are pumped out for every two K+ pumped in (B2.1.22, page 242) across 
+the plasma membrane of the neuron. The tissue fluid outside the neuron therefore contains many 
+more positive ions than are present in the tiny amount of cytoplasm inside. As a result, a negative 
+charge is developed inside, compared to outside, and the resting neuron is said to be polarized. 
+The membrane potential is the difference in charge between the inside and outside of a neuron, 
+which is created due to the unequal distribution of ions on both sides of the cell membrane. The 
+next event, sooner or later, is the passage of an impulse, known as an action potential (see below). 
+Top tip!
+Energy from ATP drives the pumping of sodium and potassium ions in opposite directions across the 
+plasma membrane of neurons. ATP is derived from aerobic respiration. Even when ‘doing nothing’, 
+the nervous system needs to use ATP to maintain the resting potential.
++
++
++ +
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+motor neuron
+resting potential
+part of axon
+(cut open)
+ 
+■Figure C2.2.3 The resting potential of an axon
+	
+◆Resting potential: 
+the potential difference 
+across a nerve cell 
+membrane when it is 
+not being stimulated. 
+It is normally about 
+−70 millivolts (mV).
+	
+◆Membrane 
+polarization: a lipid 
+membrane that has a 
+positive electrical charge 
+on one side and a 
+negative charge on the 
+other side.
+	
+◆Membrane 
+potential: the difference 
+in charge between the 
+inside and outside of a 
+neuron, which is created 
+due to the unequal 
+distribution of ions 
+on both sides of the 
+cell membrane.
+2	 Outline how a 
+resting potential 
+is generated.
+
+
+=== PAGE BREAK ===
+
+C2.2   Neural signalling
+471
+Nerve impulses as action potential 
+A stimulus causes sodium ions, which are positively charged, to flow into the cytoplasm of the axon, 
+reversing the polarity of the axon (Figure C2.2.4). Further details of the process are covered at HL 
+(page 479). The action potential is the potential difference produced across the plasma membrane 
+of the nerve cell when stimulated, reversing the resting potential from about −70 mV to about 
++40 mV. The nerve impulse is electrical because it involves the movement of positively charged ions, 
+leading to a potential difference (voltage) across the membrane. Nerve impulses are action potentials 
+that are propagated (spread) along nerve fibres.
+The action potential then runs the length of the neuron fibre. At any one point, it exists for only two-
+thousandths of a second (2 milliseconds) before the resting potential starts to be re-established, so 
+action potential transmission is exceedingly quick.
+Note in Figure C2.2.4 that some neurons have Schwann cells wrapped around the axon forming 
+the myelin sheath while some axons do not have this structure (they are unmyelinated). This will be 
+explored further in the next section. The junctions in the sheath, the nodes of Ranvier, occur at 1–2 μm 
+intervals; it is only at these junctions that the axon membrane is exposed so the action potential 
+‘jumps’ from node to node. Unmyelinated dendrons and axons are common in non-vertebrate animals. 
+Here, the action potential must travel step-by-step along the entire surface of the fibres.
++
+–
++
+–
++
+–
++
++ + + +
+–
++
+–
++
+–
++
+–
++
++ + + +
+–
++
+–
++
+–
++
+–
++
+–
++ + + +
++
+–
++
+–
++
+–
++
++
++
++ +
+–
+–
++
+–
++
+–
++
+–
+–
+–
+myelin sheath
+node of Ranvier
+dendrites
+cell body
+axon
+nucleus
+motor
+end plates
+action potential
+action potential
+direction of impulse
+–
+–
+–
+–
+–
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
++
+–
+myelinated axon
+unmyelinated axon
+direction of impulse
+ 
+■Figure C2.2.4 The action potential
+	ATL C2.2A 
+What effect does stimulus intensity and duration have on the generation of an action potential? 
+Carry out your own investigations using these sites:
+Stimulus intensity:  
+https://ilearn.med.monash.edu.au/physiology/action-potentials/action-potential#simulation
+Stimulus duration:  
+https://ilearn.med.monash.edu.au/physiology/action-potentials/adaptation#simulation
+In each case, read the theory and then carry out the simulation. What conclusions can you reach?
+3	 Define the term 
+action potential.
+4	 Deduce the 
+source of energy 
+used to: 
+a	 establish the 
+resting potential 
+b	 power an 
+action potential. 
+	
+◆Action potential: 
+the potential difference 
+produced across the 
+plasma membrane of 
+the nerve cell when 
+stimulated, reversing the 
+resting potential from 
+about −70 mV to about 
++40 mV.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Cells
+472
+	ATL C2.2B 
+The neural signalling system topic brings together many ideas you will have encountered 
+throughout IB Biology. These include membrane structure; membrane proteins such as protein 
+pumps/carrier proteins, channel proteins and gated channel proteins such as protein receptors; 
+complementary three-dimensional shape; facilitated diffusion; active transport; surface area‑to-
+volume ratio; factors that affect diffusion; vesicles; exocytosis; enzymes; mitochondria; ATP; 
+concentration gradient and voltage gradient.
+Write a brief summary about each of the above topics. This process will help you to link existing 
+biological knowledge to new understandings you will encounter in this topic.
+Variation in the speed of nerve impulses
+The following activities explore the effects of myelination and axon size on the speed of conduction. 
+Ensure you carry out these activities before reading on in this section.
+Tool 2: Technology
+Generating data from simulations
+Access this website, which investigates the effect of 
+axon diameter and myelination on conduction velocity: 
+https://ilearn.med.monash.edu.au/physiology/action-
+potentials/axon-diameter#simulation 
+Carry out the simulation with unmyelinated 
+fibres. What is the effect of axon diameter on 
+conduction speed? Now repeat the experiment with 
+myelinated fibres.
+Using spreadsheets to manipulate data
+For both experiments gather your data and plot a 
+graph. You can export data to a spreadsheet program 
+such as Excel and use it to find the line of best fit for 
+the unmyelinated and myelinated results.
+What are the effects of myelination on conduction speed?
+Suggest why, for very small axon diameters, there is 
+little benefit of myelination for conduction velocity.
+Inquiry 1: Exploring and designing
+Exploring
+Research the conduction speed of nerve impulses for 
+a variety of different animals. Ensure that you include 
+both invertebrates and vertebrates, with some having 
+myelinated axons (i.e. covered by a myelin sheath) and 
+others unmyelinated (no myelin sheath). You also need 
+to find the diameter of the axon in each case. Consult 
+a variety of sources and select sufficient and relevant 
+sources of information.
+Suggestions for different animals you could research 
+are included in Table C2.2.1. Redraw the table and add 
+in your findings.
+ 
+■Table C2.2.1 Researching the effect of axon 
+diameter and degree of myelination on nerve impulse 
+conduction speed in a range of different animals
+Organism/
+nerve
+Axon 
+diameter 
+(μm)
+Myelination
+Speed of 
+propagation 
+(m s−1)
+squid/giant axon
+Lumbricus 
+(earthworm)
+lobster
+frog
+rat
+domestic cat
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+
+
+=== PAGE BREAK ===
+
+C2.2   Neural signalling
+473
+Inquiry 3: Concluding and evaluating
+Concluding
+Analyse the data you found for Table C2.2.1. 
+Compare the speed of transmission in animals that have myelination and those that do 
+not. Which have the faster conduction speeds overall? Why is this?
+Now compare the animals that have unmyelinated axons, such as the giant axons of 
+squid and those animals with smaller, unmyelinated nerve fibres. 
+What conclusions can you reach about the effect of axon diameter size and myelination 
+on conduction velocity? What explanation can you develop for these observations? 
+You should have carried out the activities on this page and the previous page and drawn your own 
+conclusions. You can now read on!
+In the Tools and Inquiry activities, you should have found that myelinated fibres have a faster 
+conduction speed compared to unmyelinated fibres. This is discussed further below. In addition, an 
+unmyelinated fibre with a large diameter transmits an action potential much faster than a narrow 
+fibre does. This is because the speed of transmission depends on resistance offered by the axoplasm 
+(cytoplasm inside the axon). The narrower the fibre, the greater its resistance, and the lower the 
+speed of conduction of the action potential. Incidentally, the original investigations of the nature of 
+the action potential by physiologists were carried out on giant fibres.
+Nervous systems have therefore evolved two contrasting 
+mechanisms for increasing the conduction speed of the 
+electrical impulse. One is through developing giant axons: 
+using axons several times larger in diameter than is normal 
+for other large axons. Giant axons are found in squid (Loligo 
+sp., a type of aquatic mollusc). The other mechanism is by 
+using the myelin sheath, where axons are wrapped by cells 
+that have high amount of lipid in their plasma membrane 
+(Schwann cells). Each mechanism, on its own or in 
+combination with the other, is used in the nervous systems 
+of many different groups of animals, both vertebrate 
+and invertebrate.
+The presence of a myelin sheath speeds up transmission 
+of the action potential because it is only at the nodes of 
+Ranvier that the axon membrane is exposed and the action 
+potential can ‘jump’ from node to node. The electrical 
+resistance of the myelin sheath prevents reversal of the axon 
+polarity at the nodes of Ranvier. By contrast, the step-by-
+step travel of the action potential along the entire surface 
+of the fibres in unmyelinated dendrons and axons is a 
+relatively slow process (Figure C2.2.4).
+Action potential propagation (or conduction) velocity is directly correlated with the axon diameter 
+(Figure C2.2.5 and Table C2.2.2). The larger the axon diameter, the higher the action potential 
+propagation velocity will be, which means signals can travel more quickly. This is because there 
+is less resistance facing the ion flow. In addition, myelination, which leads to the action potential 
+jumping between nodes along axons, greatly increases the action potential propagation velocity. 
+Top tip!
+Some invertebrates, 
+such as the squid and 
+the earthworm, have 
+giant fibres, which 
+allow fast transmission 
+of action potentials 
+(although not as fast as 
+in myelinated fibres).
+conduction velocity (m/sec)
+diameter of myelinated axons (µm)
+diameter of unmyelinated axons (µm)
+0
+0
+1
+2
+3
+200
+0
+400
+600
+800
+4
+5
+6
+7
+8
+9
+myelinated axons
+(cat)
+unmyelinated axons
+(squid)
+10
+11
+12
+20
+40
+60
+80
+ 
+■Figure C2.2.5 Conduction velocities of myelinated 
+and unmyelinated axons as functions of axon diameter. 
+Myelinated axons have faster conduction velocities than 
+unmyelinated axons that are 100 times greater in diameter
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Cells
+474
+ 
+■Table C2.2.2 Effect of nerve fibre diameter and myelination  
+on conduction velocity of nerve impulses
+Diameter (mm)
+Conduction velocity (m s–1)
+Myelination
+12–20
+70–120
+yes
+5–12
+30–70
+yes
+2–5
+12–30
+yes
+3–6
+15–30
+yes
+<3
+3–14
+some
+0.4–1.2
+0.5–2
+no
+0.3–1.3
+0.7–2.3
+no
+Despite having much smaller diameters, myelinated axons achieve much higher action potential 
+propagation velocities than unmyelinated axons. Figure C2.2.5 shows the correlation between axon 
+diameter and conduction speed in both myelinated and unmyelinated axons. 
+Nature of science: Observations
+Investigating the effect of axon diameter on conduction velocity
+Unmyelinated fibres with a large diameter transmit an action potential much more quickly than 
+a narrow fibre because the speed of transmission depends on the resistance of the axoplasm, as 
+mentioned above. The narrower the fibre, the greater its resistance to ion movement, and the lower 
+the speed of conduction of the action potential. In addition, a larger diameter means there can 
+be more ion channels around the axon, which means that there are more ion channels per length 
+of axon. 
+Read more about the early work on the action potential here:  
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3424716 
+https://neuroscientificallychallenged.com/posts/history-of-neuroscience-hodgkin-huxley
+ 
+■Applying correlation coefficients to determine the strength of 
+a correlation
+Axon diameter and degree of myelination can be correlated with speed of conduction (as explored 
+above). The strength of the correlation can be tested using the coefficient of determination, which 
+measures how close the data are to the fitted regression line. The regression line is a line that best 
+fits the data, i.e. has the smallest overall distance from the line to the points. The formula for the 
+regression line is: 
+y = mx + b
+where m is the slope of the line and b is the value on the y-axis where the line crosses; y is the 
+dependent variable and x is the independent variable.
+Top tip!
+Correlations can either be negative or positive. Correlation coefficients can be applied as a 
+mathematical tool to determine the strength of these correlations. The coefficient of determination 
+(R2) is one such tool that can be used to evaluate the degree to which variation in the independent 
+variable may explain the variation in the dependent variable.
+
+
+=== PAGE BREAK ===
+
+C2.2   Neural signalling
+475
+The coefficient of determination, or R squared (R2) method, is the proportion of the variance in the 
+dependent variable that is predicted from the independent variable. The value of R2 shows whether 
+the line of best fit is a good fit for the data. The calculation determines the extent to which two 
+variables are correlated. The coefficient of determination ranges from 0 to 1 (or 0% to 100%):
+l	 If R2 is equal to 0, then the dependent variable cannot be predicted from the 
+independent variable.
+l	 If R2 is equal to 1, then the dependent variable can be predicted from the independent variable 
+without any error.
+l	 Generally, a coefficient of determination of about 70% is considered a good correlation. 
+R2 indicates the extent that the dependent variable can be predicted. If R2 is 0.20, it means that 20% 
+of the variance in the y variable is predicted from the x variable. If the value is 0.50, it means that 
+50% of the variance in the y variable is predicted from the x variable, and so on.
+Tool 3: Mathematics
+Applying the coefficient of determination (R2) to evaluate the fit of a trend line
+Steps to find the coefficient of determination:
+1	 Find R, the Pearson correlation coefficient.
+2	 Square R.
+3	 Change the above value to a percentage.
+The formula for the Pearson correlation coefficient is:
+R = n 
+n (∑xy) – (∑x)(∑y) 
+[n∑x2 – (∑x)2] [n∑y2 – (∑y)2]
+Where:
+n = total number of observations
+∑x = total of the first variable value
+∑y = total of the second variable value
+∑xy = sum of the product of the first and second value
+∑x2 = sum of the squares of the first value
+∑y2 = sum of the squares of the second value
+The coefficient 
+of determination = (
+Pearson correlation 
+coefficient
+)
+2
+ = R2
+Enter the data in Table C2.2.3 into an Excel spreadsheet.
+ 
+■Table C2.2.3 Effect of diameter on speed of 
+conduction in myelinated nerve fibres
+Diameter (mm)
+Conduction (m s−1)
+16.0
+	
+95.0
+14.0
+75.0
+12.0
+70.0
+8.5
+50.0
+6.0
+30.0
+4.5
+22.5
+3.5
+21.0
+1	 Highlight the data and select ‘Insert – Chart – Scatter’.
+2	 Select chart area and select ‘+’ to add axes labels – 
+add labels for each axis.
+3	 Click on any data point. Right click and select ‘Add 
+trendline’. Select ‘linear’ trendline.
+4	 Under ‘Trendline options’, select ‘Display R-squared 
+value on chart’. The R2 will appear above 
+the trendline.
+The graph should appear as follows:
+conduction (ms−1)
+R2 = 0.9875
+diameter (mm)
+0
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+ 
+■Figure C2.2.6 Correlating axon 
+diameter with conduction speed 
+Both the line of best fit and R2 value show a strong 
+positive correlation between axon diameter and 
+conduction speed.
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Cells
+476
+Properties of the coefficient of determination (R2):
+l	 It helps to find the ratio of how a dependent variable varies from the independent variable.
+l	 It also tests the strength of the (linear) association between the variables.
+l	 If the value of R2 is closer to 1 (or 100%), the values of y are close to the regression line. If the 
+value of R2 is closer to 0, the values of y are not close to the regression line.
+Synapses
+The synapse is the link point between neurons or between neurons and effector cells. A synapse 
+consists of the swollen tip (synaptic knob) of the axon of one neuron (presynaptic neuron) and the 
+dendrite or cell body of another neuron (postsynaptic neuron). At the synapse, the neurons are 
+extremely close, but they have no direct contact. Instead, there is a tiny gap, called a synaptic cleft, 
+about 20 nm wide (Figure C2.2.7). 
+	
+◆Synapse: the 
+connection between the 
+end of a nerve cell and 
+another cell; functionally 
+a tiny gap, the synaptic 
+cleft, traversed by 
+transmitter substances.
+	
+◆Presynaptic neuron: 
+neuron 'upstream' of a 
+synapse.
+	
+◆Postsynaptic neuron: 
+neuron ‘downstream’ of a 
+synapse.
+axon of
+presynaptic
+neuron
+myelin sheath
+direction of
+transmission
+Golgi
+apparatus
+endoplasmic
+reticulum
+synaptic knob
+mitochondrion
+vesicles containing
+transmitter substance
+presynaptic
+membrane
+synaptic cleft gap is
+tiny, typically 20 nm
+synaptic knob
+of postsynaptic
+neuron
+synaptic
+cleft
+postsynaptic
+membrane
+electron micrograph of a synapse (×80 000)
+ 
+■Figure C2.2.7 A synapse in section
+The practical effect of the synaptic cleft is that an action potential can only cross it via specific 
+chemicals, known as neurotransmitter substances. Neurotransmitter substances are all relatively 
+small molecules that diffuse quickly. They are produced in the Golgi apparatus in the synaptic knob 
+and are held in tiny vesicles before release. The way that neurotransmitters cross the synapse, from 
+presynaptic membrane to postsynaptic membrane, ensures that a signal can only pass in one 
+direction across a typical synapse.
+	
+◆Neurotransmitter: 
+chemical released at the 
+presynaptic membrane of 
+an axon on arrival of an 
+action potential, which 
+transmits the action 
+potential across the 
+synapse.
+
+
+=== PAGE BREAK ===
+
+C2.2   Neural signalling
+477
+Acetylcholine (ACh) is a commonly occurring neurotransmitter substance (the neurons that release 
+acetylcholine are known as cholinergic neurons – see page 456). Another common neurotransmitter 
+substance is norepinephrine (found in adrenergic neurons). In the brain, the commonly occurring 
+transmitters are glutamic acid and dopamine.
+Top tip!
+Acetylcholine exists in many types of synapse, including neuromuscular junctions.
+Neuromuscular junctions are a specialized synapse between a motor neuron nerve ending and its 
+muscle fibre. They are responsible for converting electrical impulses generated by the motor neuron 
+into electrical activity in the muscle fibres. When an action potential arrives at the neuromuscular 
+junction, vesicles of acetylcholine are released and the transmitter molecules bind to receptors on the 
+sarcoplasm (this is the plasma membrane of the muscle fibre). This triggers the release of calcium 
+ions from the sarcoplasmic reticulum, which leads to muscle contraction (see page 327).
+Steps of synapse transmission
+ 
+■Release of neurotransmitters from a presynaptic membrane
+1	 The arrival of an action potential at the synaptic knob leads to a change in polarity of the 
+presynaptic membrane, which opens calcium ion channels in the membrane, and calcium ions 
+flow in from the synaptic cleft. 
+2	 The calcium ions cause vesicles of transmitter substance to fuse with the presynaptic membrane, 
+releasing transmitter substance into the synaptic cleft. The calcium therefore acts as a signalling 
+chemical inside a neuron.
+ 
+■Generation of an excitatory postsynaptic potential
+3	 The transmitter substance diffuses across the synaptic cleft and binds with a specific 
+receptor protein.
+In the postsynaptic membrane, there are specific receptor sites for each transmitter substance. 
+Each of these receptors also acts as a channel in the membrane, which allows a specific ion 
+(e.g. Na+, Cl− or some other ion) to pass. The attachment of a transmitter molecule to its receptor 
+instantly opens the ion channel. 
+When a molecule of ACh attaches to its receptor site, an Na+ channel opens. As the Na+ ions 
+rush into the cytoplasm of the postsynaptic neuron, a reversal of polarity of the postsynaptic 
+membrane occurs. As more and more molecules of ACh bind, it becomes increasingly likely that 
+the reversal of polarity will reach the threshold level (see more on page 481). When it does, an 
+action potential is generated in the postsynaptic neuron. This process of build up to an action 
+potential in the postsynaptic membranes is called facilitation. 
+4	 The transmitter substance on the receptors is immediately inactivated by enzyme action. 
+For example, the enzyme cholinesterase hydrolyses ACh to choline and ethanoic acid, which are 
+inactive as neurotransmitters. This causes the ion channel of the receptor protein to close, and so 
+allows the resting potential in the postsynaptic neuron to be re-established. 
+5	 The inactivated products from the transmitter re-enter the presynaptic knob, are resynthesized 
+into neurotransmitter substance and packaged for reuse (Figure C2.2.8). 
+	
+◆Acetylcholine (ACh): 
+a neurotransmitter that 
+functions in both the 
+central and peripheral 
+nervous systems.
+Link
+The structure and 
+function of motor 
+units in skeletal muscle 
+are covered in Chapter 
+B3.3, page 332.
+5	 Define the term 
+neurotransmitter.
+6	 Draw and 
+annotate a 
+diagram of a 
+synapse to indicate 
+its structure and 
+function.
+7	 Identify the role 
+of the: 
+a	 Golgi apparatus
+b	 mitochondria 
+in the synaptic 
+knob. 
+
+
+=== PAGE BREAK ===
+
+Theme C: Interaction and interdependence – Cells
+478
+Common mistake
+When discussing how the neurotransmitter crosses the synapse, it is not enough to say that it 
+‘moves’ across the synaptic cleft – you must say that the neurotransmitter reaches the postsynaptic 
+membrane by diffusion, from high concentration to low concentration.
+Common mistake
+Do not forget to refer to to the removal of the neurotransmitter by an enzyme such as 
+cholinesterase when discussing how the synapse functions.
+1  Impulse arrives
+   at synapse and
+   triggers Ca2+
+   ion entry.
+2  Transmitter
+   substance
+   released,
+   diffuses to
+   receptors of
+   postsynaptic
+   membrane.
+5  Re-formation of
+    transmitter
+    substance vesicles.
+3  Transmitter substance binds, triggering
+    entry of Na+ 
+ions, and action potential
+    in postsynaptic membrane.
+4  Enzymic
+    inactivation of
+    transmitter.
+how a synapse works
+Ca2+
+ions
+1  permeability
+    to Ca2+
+    increases
+5
+4
+3
+2
+re-formation
+using energy
+from ATP
+release
+diffusion
+diffusion
+enzymic
+inactivation
+binding
+Na+ channel opening
+(impulse generated)
+re-entry
+transmitter substance cycle
+ 
+■Figure C2.2.8 Chemical transmission at the synapse
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C2.2   Neural signalling
+479
+Depolarization and repolarization 
+during action potentials
+An action potential is triggered by a stimulus that is received at a receptor cell or sensory nerve 
+ending. The energy of the stimulus causes a temporary and local reversal of the resting potential. 
+The result is that the membrane is briefly depolarized. Following the action potential there is a 
+return of polarity towards the resting potential – this is known as repolarization. When the resting 
+potential has been restored, the axon is said to be repolarized.
+This change in potential across the membrane occurs because of ion channels in the membrane. 
+These special channels are globular proteins that span the membrane. They have a central pore with 
+a gate that can open and close. One type of channel is permeable to sodium ions and another to 
+potassium ions. During a resting potential these channels are all closed. 
+The transfer of energy of the stimulus first opens the gates of the sodium channels in the plasma 
+membrane and sodium ions diffuse in, down their electrochemical gradient. Because the channels 
+open due to changes to the potential difference (voltage) across the membrane, they are called 
+voltage-gated channels.
+Top tip!
+Sodium ions are predominantly found outside the membrane and, when they enter the neuron, their 
+positive charges increase in that part of the membrane inside the cell. Positively charged potassium 
+ions are predominantly found inside the cell and, when they flood out, the inner side of the membrane 
+becomes more negatively charged.
+ 
+■What causes an electrochemical gradient? 
+The electrochemical gradient of an ion is due to its electrical and chemical properties. 
+l	 Electrical properties are due to the charge on the ion (an ion is attracted to an opposite charge).
+l	 Chemical properties are due to concentration in solution (an ion tends to move from a high to a 
+low concentration). 
+With sodium channels opened, the cytoplasm of the neuron fibre (the interior) quickly becomes 
+progressively more positive with respect to the outside. When the charge has been reversed from 
+−70 mV to +40 mV (due to the electrochemical gradient), an action potential has been created in the 
+neuron fibre (Figure C2.2.9). 
+The change in potential difference (voltage) causes further sodium channels to open. 
+These channels open or close depending on a certain threshold membrane potential being reached. 
+Almost immediately an action potential has passed, the sodium channels close and the potassium 
+channels open, again caused by a change in the potential difference of the membrane (and are 
+therefore called voltage-gated potassium channels). Now, potassium ions can exit the cell, again 
+down an electrochemical gradient, into the tissue fluid outside. The interior of the neuron fibre starts 
+to become less positive again. Repolarization occurs. Then, the potassium channels also close. 
+Finally, the resting potential is re-established by the action of the sodium–potassium pump and the 
+process of facilitated diffusion. 
+	
+◆Depolarization: 
+a temporary and local 
+reversal of the resting 
+potential difference 
+of the membrane that 
+occurs when an impulse 
+is transmitted along 
+the axon.
+	
+◆Repolarization: 
+return of polarity towards 
+the resting potential 
+following depolarization.
+	
+◆Voltage-gated 
+channels: a type of 
+transmembrane protein 
+that forms ion channels 
+activated by changes in 
+the electrical membrane 
+potential of a neuron.
+Link
+Voltage-gated 
+channels are also 
+covered in Chapter 
+B2.1, page 240.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Cells
+480
+time/milliseconds
+action potential in a neuron
+0
+1
+2
+3
+4
+5
+6
+7
+change in potential difference in
+plasma membrane of neuron
+during the passage of an action
+potential
+membrane potential/mV
+repolarization
+action
+potential
+refractory
+period
+depolarization
+threshold
+potential
+resting potential
+resting potential
+–10
++40
++50
++30
++20
++10
+0
+–20
+–30
+–40
+–50
+–60
+–70
+–80
+–90
+–100
+hyperpolarization
++
++
++ +
++
++
+Na+
+Na+
+Na+
+K+
+K+
+K+
++
++
++
++
++
++
++
++
++
++
++
++
+–
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+––
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+action
+potential
+motor neuron
+direction of impulse
+resting potential
+4
+2
+sodium channels
+(gated)
+potassium channels
+(gated)
+the gates are sometimes
+referred to as
+voltage-gated channels
+1
+2
+3
+4
+5
+6
+passage of action potential as
+‘spike’ running along the length
+of the neuron
+depolarization
+due to Na+ entry
+part of axon
+(cut open)
+Ion movements during the action
+potential:
+1  During the resting potential the ion channels for
+    Na+ ions and K+ ions are both closed.
+2  Na+ channels open and Na+ ions rush in
+    (by diffusion).
+3  Interior of axon becomes increasingly more
+    positively charged with respect to the outside.
+4  Equally suddenly, Na+ channels close at the
+    same moment as K+ channels open and K+ ions
+    rush out (by diffusion).
+5  Interior of axon now starts to become less
+    positive again.
+6  Na+/K+ pump starts working, together with
+    facilitated diffusion, so that the resting potential
+    is re-established.
+ 
+■Figure C2.2.9 The action potential
+	ATL C2.2C 
+Explanations in biology are often complex, such as how the action potential works. By making 
+links to existing biological knowledge, and subdividing complicated processes into smaller 
+‘chunks’, difficult biological ideas can be better understood and remembered.
+The following video shows you how the action potential can be broken down into a series of 
+processes that draw on your existing knowledge of biology to explain key ideas in a coherent and 
+easy-to-follow way: www.youtube.com/watch?v=7EyhsOewnH4 
+Create a poster showing the events of the action potential, summarizing key processes in a simple 
+and visually memorable way. Keep this for future reference – it will be useful when you come to 
+revise this topic!
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C2.2   Neural signalling
+481
+ 
+■The refractory period
+During the resting potential, sodium ions are predominantly outside the neuron and potassium ions 
+mainly inside. Following depolarization (sodium influx) and repolarization (potassium efflux), this 
+ionic distribution is largely reversed. Before a neuron can fire again, the resting potential must be 
+restored via the sodium–potassium pump. For a brief period, therefore, following the passage of an 
+action potential, the neuron fibre is no longer excitable. This is the refractory period, and it lasts 
+only 5–10 milliseconds in total. The neuron fibre is not excitable during the refractory period 
+because there is a large excess of sodium ions inside the fibre and further influx is impossible. 
+Subsequently, as the resting potential is progressively restored, it becomes increasingly possible for 
+an action potential to be generated again. Because of the refractory period, the maximum frequency 
+of impulses is between 500 and 1000 per second.
+Because areas of the membrane that have recently depolarized will not depolarize again due to the 
+refractory period, the action potential only travels in one direction.
+Common mistake
+It is incorrect to say that the sodium–potassium pump causes the falling phase of the action 
+potential by pumping Na+ ions back out of the neuron. It is the opening of potassium channels, 
+causing potassium to leave the interior of the axon, that returns it to a negative potential difference.
+ 
+■The all-or-nothing principle
+Stimuli have widely different strengths: for example, contrast a light touch and the pain of a finger hit 
+by a hammer. A stimulus must be at or above a minimum intensity, known as the threshold 
+potential, to initiate an action potential (see Figure C2.2.9). Either the depolarization is sufficient to 
+fully reverse the potential difference in the cytoplasm (from –70 mV to +40 mV) or it is not. If not, no 
+action potential arises. There is a need for a threshold potential to be reached for sodium channels to 
+start to open. With all sub-threshold stimuli, the influx of sodium ions is quickly reversed and the 
+full resting potential is re-established. 
+However, as the intensity of the stimulus increases, the frequency at which the action potentials pass 
+along the fibre increases (the individual action potentials are all of standard strength). For example, 
+with a very persistent stimulus, action potentials pass along a fibre at an accelerated rate, up to the 
+maximum possible permitted by the refractory period. This means the effector (or the brain) can 
+recognize the intensity of a stimulus from the frequency of action potentials (Figure C2.2.10). 
+stimulus
+no action potential
+stimulus
+starts
+stimulus
+stops
+stimulus
+starts
+stimulus
+ stops
+stimuli below the
+threshold value: not
+sufficient to reverse polarity
+of the membrane to
++40 mV
+brief stimulus just above
+threshold value: needed
+to cause depolarization of
+the membrane of the
+sensory cell, and thus
+trigger an impulse
+stronger, more persistent
+stimulus
+much stronger stimulus:
+has stimulated almost the
+maximum frequency of
+impulses
+ 
+■Figure C2.2.10 Weak and strong stimuli and the threshold value
+	
+◆Refractory period: 
+the period immediately 
+following stimulation 
+when a nerve or muscle 
+is unresponsive to further 
+stimulation. During this 
+period the voltage-gated 
+sodium channels are closed 
+and will not respond to 
+changes in voltage.
+8	 Sketch and 
+annotate a graph 
+showing an action 
+potential.
+9	 Describe how an 
+action potential is 
+generated.
+	
+◆Threshold potential: 
+the critical level to which 
+a membrane potential 
+must be depolarized in 
+order to start an action 
+potential. If the threshold 
+is not reached, the 
+neuron remains at rest 
+and an action potential is 
+not triggered.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Cells
+482
+Propagation of an action potential 
+as a result of local currents
+The area of the axon that is depolarized during the action potential sets up local currents: positive 
+charges flow towards adjacent negative areas and depolarize the adjacent membrane. Consequently, 
+the action potential is conducted along the axon.
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+––
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+part of axon
+(cut open)
+Na+
+Na+
+ 
+■Figure C2.2.11 Diffusion of sodium ions both inside and from outside an axon can cause the 
+threshold potential to be reached
+As sodium ions enter the axon, causing depolarization, they flow to adjacent areas, which causes 
+these areas to become less negative. This leads to further depolarizing and the opening of voltage-
+gated sodium channels. This causes the action potential to move along the axon. The areas of the 
+membrane that have recently depolarized will not depolarize again because of the refractory period, 
+which means that the action potential will only travel in one direction. 
+Action potentials are therefore propagated along the axons of neurons via local currents. Local 
+currents induce depolarization of the adjacent axonal membrane and, where this reaches a threshold, 
+further action potentials are generated. 
+Oscilloscope traces showing resting potentials 
+and action potentials
+Oscilloscopes are scientific instruments that can be used to measure the membrane potential across 
+an axon membrane. Data are displayed as a graph, with time (in milliseconds) on the x-axis and 
+membrane potential (in millivolts) on the y-axis. The graph shows the events of an action potential 
+(see graph in Figure C2.2.9, page 480). 
+You need to be able to interpret an oscilloscope trace in relation 
+to cellular events relating to generation of an action potential. 
+The oscilloscope trace allows the number of impulses per second to 
+be measured.
+Figure C2.2.12 shows two oscilloscope traces of specific events in an 
+axon of a postsynaptic neuron. 
+10	Examine trace A and explain what has happened.
+11	In trace B, outline what specific events are occurring at the 
+points labelled (I), (II), (III) and (IV).
+time
+membrane potential
+difference/mV
+A
+B
+(I)
+(II)
+(III)
+(IV)
+ 
+■Figure C2.2.12 Oscilloscope traces 
+obtained from postsynaptic neurons
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C2.2   Neural signalling
+483
+Saltatory conduction
+The presence of a myelin sheath affects the speed of transmission of the action potential. Only at 
+the junctions in the sheath, at the nodes of Ranvier, is the axon membrane exposed. Ion pumps and 
+channels are grouped at nodes of Ranvier. Elsewhere along the fibre, the electrical resistance of the 
+myelin sheath prevents depolarization of the membrane. The action potentials actually ‘jump’ from 
+node to node. This is called saltatory conduction, meaning ‘to leap’ (Figure C2.2.13). This greatly 
+speeds up the rate of transmission.
+By contrast, unmyelinated dendrons and axons are common in invertebrate animals. Here, step-by-
+step depolarization occurs as the action potential flows along the entire surface of the fibres. This is a 
+relatively slow process compared with saltatory conduction. 
+Na+ out
+node of Ranvier
+Na+ in
+K+ out
+Na+ out
+Na+ in
+K+ out
+direction of impulse
+localized circuit
+myelin
+sheath
+axon
+ 
+■Figure C2.2.13 Saltatory conduction between small gaps in the myelin sheath
+Effects of exogenous chemicals 
+on synaptic transmission
+Drugs that interfere with the action of neurotransmitters have been discovered. For example, some 
+drugs amplify the processes and increase postsynaptic transmission. Nicotine has this effect (see 
+page 240). Drugs are exogenous chemicals because they originate outside the body.
+Other drugs inhibit the processes of synaptic transmission, in effect decreasing synaptic 
+transmission. Beta blocker drugs have these effects and are used in the treatment of high blood 
+pressure. Other drugs are stimulants, speeding up the transmission of electrical impulses, such as 
+amphetamines. 
+An understanding of the workings of neurotransmitters and synapses has led to the development of 
+numerous pharmaceuticals for the treatment of mental and neurological disorders.
+ 
+■Neonicotinoids
+Neonicotinoids are a type of pesticide that completely block synaptic transmission at the cholinergic 
+synapses (synapses that have receptors that are activated when they bind to acetylcholine) of insects. 
+They are similar in structure to nicotine.
+l	 Neonicotinoids bind to acetylcholine receptors in synapses in the CNS of insects, blocking the 
+binding of acetylcholine, inhibiting synaptic transmission.
+l	 They cannot be broken down by acetylcholinesterase and so their effects are irreversible.
+l	 There are issues about their impact on the wider insect community – concerns have been raised 
+about their effects on honeybees.
+	
+◆Saltatory 
+conduction: how an 
+electrical impulse jumps 
+from node to node 
+along a myelinated axon, 
+speeding the arrival of the 
+impulse (in comparison 
+with the slower 
+continuous progression 
+of depolarization 
+spreading down an 
+unmyelinated axon).
+12	Explain why 
+myelinated fibres 
+conduct impulses 
+faster than 
+unmyelinated fibres 
+of the same size.
+	
+◆Exogenous 
+chemical: chemical that 
+originates outside the 
+body, e.g. drugs.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Cells
+484
+ 
+■Cocaine
+Cocaine is an example of a drug that blocks reuptake of 
+neurotransmitters. Cocaine primarily affects dopamine 
+– a neurotransmitter that plays an important role in the 
+brain’s ‘reward and reinforcement’ systems. It also affects 
+the neurotransmitters serotonin and norepinephrine. 
+The drug prevents neurotransmitter molecules from being 
+taken back up into the cell. Cocaine works by binding to 
+the transporters that normally remove the excess of these 
+neurotransmitters from the synaptic gap. It prevents them 
+from being reabsorbed by neurons and therefore increases 
+their concentration in the synapses. As a result, the natural 
+effect of the neurotransmitter on the postsynaptic neurons 
+is amplified. The group of modified neurons produce much 
+more dependency (from dopamine), feelings of confidence 
+(from serotonin) and energy (from norepinephrine), 
+typically experienced by people who take cocaine.
+In chronic cocaine consumers, the brain comes to rely on 
+this exogenous drug to maintain the high degree of 
+pleasure associated with the artificially elevated levels of 
+neurotransmitters. The brain responds to increased 
+dopamine levels by synthesizing new dopamine receptors: 
+if cocaine consumption ceases and dopamine levels return 
+to normal, this increased level of sensitivity produces 
+cravings and depression.
+13	Outline how exogenous chemicals affect synaptic 
+transmission.
+dopamine
+cocaine
+reuptake of
+neurotransmitter
+blocked
+ 
+■Figure C2.2.14 Cocaine blocks the reuptake 
+of neurotransmitters such as dopamine
+Inhibitory neurotransmitters and generation 
+of inhibitory postsynaptic potentials
+In the introduction to the working of the chemical synapse, an excitatory synapse was described 
+(page 477). The incoming action potential excited the postsynaptic membrane and generated an 
+action potential that was transmitted along the postsynaptic neuron.
+Some synapses have the opposite effect. These are known as inhibitory synapses. Here, release of 
+the neurotransmitter into the synaptic cleft triggers the opening of ion channels in the postsynaptic 
+membrane through which chloride ions enter, or channels through which potassium ions leave. In 
+either case, the interior of the postsynaptic neuron becomes more negative (we say it is 
+hyperpolarized). This makes it more difficult for the postsynaptic cell to generate a nerve impulse in 
+response to excitation by other (excitatory) synapses present on the same postsynaptic cell.
+Concept: Interaction
+Some neurotransmitters excite nerve impulses in postsynaptic neurons; others 
+inhibit them. There are complex interactions between the activities of excitatory and 
+inhibitory presynaptic neurons at the synapses, operating with a very great number of 
+connections between the very large numbers of neurons present.
+	
+◆Inhibitory synapse: 
+synapse at which arrival 
+of an impulse blocks 
+forward transmissions 
+of impulses in the 
+postsynaptic membrane.
+	
+◆Hyperpolarization: 
+change of a neuron’s 
+membrane potential 
+to a more negative 
+value; when a neuron 
+is hyperpolarized, it is 
+less likely to generate an 
+action potential.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C2.2   Neural signalling
+485
+incoming impulses
+excitatory synapse
+synapses
+cell body of
+postsynaptic neuron
+excitory and inhibitory synapses
+Key
+outgoing impulses
+inhibitory synapse
+axon
+myelin sheath
+(protective/insulatory)
+SEM of synaptic junctions with the cell
+body of a postsynaptic neuron
+7 mm
+ 
+■Figure C2.2.15 Integration of multiple synaptic inputs
+Summation
+In general, at a synapse an action potential will only be generated in the postsynaptic neuron if the 
+combined effects of the excitatory action potentials and inhibitory action potentials exceed the 
+threshold level. As we have already seen, the action potential is an all-or-nothing event: if the 
+threshold potential is not reached through the additive effect of postsynaptic potentials – 
+summation – then the action potential will not be generated. In excitatory synapses, the incoming 
+action potential excites the postsynaptic membrane and generates an action potential that is 
+transmitted along the postsynaptic neuron. Inhibitory synapses make it more difficult for the 
+postsynaptic cell to generate a nerve impulse in response to excitation by other (excitatory) synapses 
+present on the same postsynaptic cell. Several impulses may arrive at the synapse in quick 
+succession from a single axon, causing an action potential in the postsynaptic neuron 
+(temporal summation). 
+Alternatively, impulses from several different axons may contribute to the total (spatial summation). 
+Summation contributes to the decision-making processes of the brain, for example. In each case, the 
+additive effect of the different postsynaptic potentials needs to be sufficient to reach the threshold 
+potential of the axon in order to stimulate an action potential. 
+There are complex interactions between the activities of excitatory and inhibitory presynaptic 
+neurons at the synapses, operating with unimaginably numerous connections between the vast 
+numbers of neurons present (Figure C2.2.15). 
+	
+◆Summation: the 
+process that determines 
+whether or not an 
+action potential will 
+be generated by the 
+combined effects of 
+excitatory and inhibitory 
+signals, both from 
+multiple simultaneous 
+inputs (spatial summation) 
+and from repeated inputs 
+(temporal summation).
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Cells
+486
+Perception of pain by neurons with 
+free nerve endings in the skin
+There are a variety of different receptors that respond to different stimuli. Signals from the skin 
+may be conveyed by physical change (mechanoreceptors), temperature (thermoreceptors) or pain 
+(nociceptors). Many neurons end in encapsulated receptors (i.e. covered). Free nerve endings, as their 
+name implies, are unencapsulated dendrites of a sensory neuron. They detect stimuli that may lead to 
+damaged tissue. They are commonly found in skin, the cornea of the eye, pulp of teeth and mucous 
+membranes. Free nerve endings are the most common nerve endings in the skin, and they extend into 
+the middle of the epidermis. Free nerve endings respond to a variety of different stimuli.
+Stimuli cause channel proteins to open and allow positively charged ions to diffuse into the axon. 
+These channel proteins are known as transient receptor potential (TRP) channels (Figure C2.2.16). 
+There are many different types of TRP, each composed of unique proteins. TRPs act as sensors in 
+the epidermal layer of the skin: in response to a specific stimulus, they open an ion channel that 
+lets positive ions flow inside the neuron. The positively charged ions enter the axon and cause the 
+threshold level to be reached, generating an action potential. The action potential passes along the 
+sensory neuron axon, which connects to other neurons in the central nervous system. The impulse 
+reaches the brain, where it is perceived as pain. One member of this group of channel proteins, 
+TRPA1, is a sensor for a wide variety of noxious external stimuli such as intense cold, pungent 
+compounds, reactive chemicals and endogenous signals associated with cell damage.
+temperature
+acid
+specific chemicals
+action potential
+membrane
+channel protein
+mechanical/physical
+sensation
++
++
++
++
++
++
++
++
++
++
+positively charged ions
+Capsaicin is a chemical compound found in chilli peppers. Another in this group of channel 
+proteins, TRPV1, is a single protein molecule that can respond to both heat and capsaicin. How 
+did a thermosensor like TRPV1 become sensitive to a plant product like capsaicin? One answer 
+is that TRPV1 evolved in some animals as temperature sensors and that certain plants then 
+developed compounds that would activate these sensors in order to deter consumption of the plants 
+by predators. Plants that produced capsaicin would therefore have a survival and reproductive 
+advantage, and become more widespread in the population of that species. Plant evolution therefore 
+drove the dual function of the sensors.
+ 
+■Figure C2.2.16 Skin 
+nerve endings have 
+positively charged ion 
+channels that open in 
+response to a stimulus 
+such as high temperature, 
+acid, certain chemicals 
+(such as capsaicin in chilli 
+peppers) and mechanical/
+physical sensation
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C2.2   Neural signalling
+487
+Going further
+When mammals eat chilli peppers, they tend to destroy the seeds with their molars. 
+Unlike mammals, birds have beaks and so pass most of the seeds through their digestive 
+system undamaged. When they defecate, they spread viable chilli pepper seeds to new 
+locations. Mammals respond to the capsaicin in chillies and detect the chemical as pain – 
+this deters them from eating chillies. Why do birds continue to eat chillies?
+Birdwatchers often add chilli pepper to seeds in their feeders to deter squirrels, 
+raccoons and other mammals while leaving the birds unaffected. This is because, while 
+mammals have the standard form of TRPV1, activated by both capsaicin and heat, birds 
+do not respond to capsaicin. When the TRPV1 gene is extracted from birds, a variant 
+form of TRPV1 is seen, which responds to heat but not capsaicin. Examination of the 
+sequence of bird DNA indicates that exact location on the inner surface of the cell’s 
+outer membrane that is necessary for capsaicin binding. Chilli peppers use birds as a 
+dispersal agent – coevolution between chillies and birds enabled this mutually beneficial 
+system to develop.
+TRP function can have effects on the perception of pain in other ways. Skin that has become 
+sunburnt causes a series of inflammatory processes in the skin, including the production of 
+compounds called prostanoids and bradykinin. These chemicals have the property of reducing 
+the temperature threshold of TRPV1 activation from 43 °C to 29 °C. This results in a typical water 
+temperature for a bath or shower then feeling too hot, resulting in a painful burning sensation.
+Consciousness
+The cerebral hemispheres make up a larger proportion of the brain and are more highly developed in 
+humans than in other animals. Each hemisphere is divided into four lobes, each lobe being named after 
+the bone of the cranium that covers it. The human cerebral cortex has become enlarged, principally 
+by an increase in total area, with extensive folding to accommodate it within the confines of the skull. 
+Consequently, each hemisphere has a vastly extended surface, achieved by folding with deep grooves. 
+The cerebral hemispheres are responsible for higher order functions. The division of duties of the two 
+hemispheres is listed in Table C2.2.4.
+ 
+■Table C2.2.4 Inputs and control duties in the cerebral hemispheres
+Left cerebral hemisphere
+Right cerebral hemisphere
+receives sensory inputs from sensory receptors in the 
+right side of the body and the right side of the visual 
+field of both eyes
+receives sensory inputs from sensory receptors in the 
+left side of the body and the left side of the visual 
+field of both eyes
+controls muscle contraction in the right side of the body
+controls muscle contraction in the left side of the body
+cerebrum
+cerebral
+cortex
+brain in section (formed by 
+enlargement and folding of fore-, 
+mid- and hindbrain regions)
+cerebral hemispheres
+cerebellum
+hypothalamus
+pituitary gland
+Link
+The cerebral 
+hemispheres of the 
+brain are also covered 
+in Chapter C3.1, 
+page 498.
+ 
+■Figure C2.2.17 
+The human brain
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme C: Interaction and interdependence – Cells
+488
+The surface of the cerebral hemispheres, known as the cerebral cortex (Figure C2.2.17), is covered 
+by grey matter about 3 mm deep and is densely packed with unmyelinated neurons (known 
+as pyramidal cells). These cells have a mass of dendrites and a very large number of synaptic 
+connections. Below this, the bulk of the cerebral hemispheres consists of white matter. This is made 
+up of myelinated neurons that connect the cerebral cortex with the midbrain, hindbrain and spinal 
+cord. Beneath, the right and left hemispheres are connected by tracts of fibres.
+Consciousness is often described as the ‘mind’s subjective experience’. A robot can unconsciously 
+detect conditions such as colour, temperature or sound, whereas consciousness describes the 
+qualitative feeling that is associated with those perceptions, together with the deeper processes of 
+reflection, communication and thought. The development of brain-scanning technologies such as 
+electroencephalography (EEG), magnetic resonance imaging (MRI) and functional magnetic 
+resonance imaging (fMRI), have enabled scientists to research the mechanisms in the brain that are 
+associated with the conscious processing of information (Figure C2.2.18).
+Concept: Interaction
+Research has shown that consciousness is a property that emerges from the interaction 
+of individual neurons in the brain. Emergent properties such as consciousness are 
+another example of the consequences of interaction.
+Link
+Emergent properties 
+are discussed in detail 
+in Chapter C3.1, 
+page 491.
+In EEG, electrodes consisting of small metal discs with thin wires are attached to the scalp. The electrodes 
+detect tiny electrical charges that result from the activity of brain cells. The charges are amplified and 
+appear as a graph on a computer screen, or as a recording that may be printed out on paper. 
+Using fMRI, the precise parts of a living, healthy, functioning brain that are activated when a 
+particular activity occurs can be mapped accurately. This technique is entirely non-invasive. 
+Furthermore, it can detect activity anywhere in the brain, and with high resolution. Results of a scan 
+are generated quickly.
+MRI uses a powerful magnetic field to produce detailed images. 
+It works by measuring the way the vast number of hydrogen 
+atoms present in the body’s water molecules absorb and then 
+emit electromagnetic energy. The nucleus of each hydrogen atom 
+(a single proton) is, in effect, a tiny magnet; in a strong magnetic 
+field, these line up – as compass needles do in a magnetic 
+field. In the process of a scan, a pulse of radio waves is applied, 
+sufficient to cause the hydrogen nuclei to change orientation. 
+When the pulse is switched off, the nuclei revert to their original 
+orientation and each nucleus emits a signal (at radio frequencies). 
+From this signal, the scanner can work out the three-dimensional 
+location of each nucleus. 
+fMRI is an advanced form of MRI that detects the parts of the brain that are active when the body 
+performs particular tasks. Brain cells always require energy and a good supply of oxygen, but during 
+periods of intense activity the demand for these resources increases locally. The scanner can detect 
+an increase in red blood cell oxygenation at the site of special neural activity; the technique for this is 
+known as blood oxygen level dependent (BOLD) contrast. The increase in blood flow to the most active 
+areas is detected due to the difference between signals arising from hydrogen nuclei in water molecules 
+in the neighbourhoods of (a) oxyhaemoglobin and (b) deoxyhaemoglobin. When the concentration of 
+oxyhaemoglobin increases, the fMRI signal rises.
+	
+◆Consciousness: 
+the qualitative feeling 
+that is associated with 
+perceptions such as 
+colour, temperature or 
+sound, together with 
+the deeper processes of 
+reflection, communication 
+and thought.
+ 
+■Figure C2.2.18 Image showing use of fMRI 
+to provide early detection of consciousness in 
+patients with severe traumatic brain injury
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+C2.2   Neural signalling
+489
+The data obtained from fMRI scans are transformed into three-dimensional images that record the 
+regions of the brain that are most active. This new brain-mapping technique permits us to work out 
+the spatial organization of human brain function, down to a sub-millimetre level. 
+Scientists have begun to determine which regions and circuits in the brain are most important for 
+consciousness. The cerebral cortex has been known to be important for consciousness since the 
+nineteenth century. However, more recent research has shown that consciousness is not confined 
+to only one region of the brain, and that various cells and pathways are engaged, depending on the 
+stimulus. Data collected by fMRI showed that the brains of healthy individuals had more complex 
+patterns of coordinated signalling that also changed constantly, compared with people in minimally 
+conscious states and those under anaesthesia. Studies of brain function using people at varying levels 
+of consciousness provide data that enable us to determine the mechanisms involved. 
+	ATL C2.2D 
+What is consciousness and how can research on the brain help to answer this question?
+Read this article and summarize the main points in a mindmap or poster:
+www.nature.com/articles/d41586-018-05097-x 
+Points you may want to consider:
+l	 What are qualia and can they be meaningfully studied by science?
+l	 What happens to consciousness after an operation on the cerebellum?
+l	 Can a theory of consciousness be developed?
+TOK
+The attempt to develop a ‘theory of consciousness’ represents 
+an interesting intersection between biology and philosophy. 
+The philosophy of mind is a field of philosophy that attempts 
+to conceptualise the relationship between facts related to 
+mentality (consciousness) and facts related to the physical 
+world as described by neuroscience. Since the scientific method 
+requires observation of events in the world, the status of an 
+individual’s mental state, which can only be observed by that 
+individual, is seen by some to be problematic and represents 
+the limits of scientific knowledge. If science requires shared 
+observations and if consciousness cannot be shared (no-one 
+else can experience your feelings, sensations or thoughts), 
+then consciousness seems to be beyond the scope of the 
+natural sciences. 
+Physicalists deny this, claiming that any knowledge about 
+consciousness will really only be knowledge about the brain or 
+brain processes; there is nothing other than physical processes 
+to be known. Dualists, however, believe that knowledge of 
+consciousness represents knowledge about distinct events, 
+properties or even substances, meaning that there is a whole 
+world of other facts that science cannot fully explain.
+These are philosophical theories (as opposed to scientific ones) 
+because they move beyond what we can observe and make 
+claims about what is real; physicalists say only physical facts 
+are real, and dualists say that reality is comprised of other, 
+non-scientific facts related to consciousness. 
+Today, the brain is known to be the seat of consciousness, 
+but the nature of consciousness (whether it is best thought 
+of as physical process, like running, or whether it is somehow 
+beyond the descriptive power of science) is still hotly debated. 
+	ATL C2.2E 
+How does the anatomy of the human nervous system compare to that in other animals with a very 
+different evolutionary origin? Another intelligent animal is the octopus. Read the following article about 
+the nervous system of an octopus: www.scientificamerican.com/article/the-mind-of-an-octopus
+Carry out your own research about this intelligent animal. What is it like to be an octopus? 
+Produce a short article or poster that summarizes your findings.
+LINKING QUESTIONS
+1	 In what ways are biological systems regulated?
+2	 How is the structure of specialized cells related to function?

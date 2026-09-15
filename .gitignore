@@ -1,0 +1,14 @@
+.DS_Store
+
+# Source textbook PDFs and third-party IB documents -- copyrighted,
+# not authored by this project, and too large for git (147MB/95MB
+# exceed GitHub's 100MB per-file limit anyway).
+*.pdf
+
+# Working screenshots/mockups used during the conversation to extract
+# reference content or steer design -- not part of the shipped site.
+Screenshot *.png
+Codex Image*.png
+IB HOMEPAGE*.png
+IB HOMEPAGE*.jpg
+IMG_*.jpg

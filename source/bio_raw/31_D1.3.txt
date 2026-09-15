@@ -1,0 +1,928 @@
+D1.3   Mutation and gene editing
+637
+Mutation and gene editing
+D1.3
+•	 How do gene mutations occur?
+•	 What are the consequences of gene mutation?
+Guiding questions
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 D1.3.1 	 Gene mutations as structural changes to genes at the molecular level
+	 D1.3.2 	 Consequences of base substitutions
+	 D1.3.3 	 Consequences of insertions and deletions
+	 D1.3.4 	 Causes of gene mutation
+	 D1.3.5 	 Randomness in mutation
+	 D1.3.6	 Consequences of mutation in germ cells and somatic cells
+	 D1.3.7 	 Mutation as a source of genetic variation
+	 D1.3.8 	 Gene knockout as a technique for investigating the function of a gene by 
+changing it to make it inoperative (HL only)
+	 D1.3.9 	 Use of the CRISPR sequences and the enzyme Cas9 in gene editing (HL only)
+	 D1.3.10 	Hypotheses to account for conserved or highly conserved sequences in genes 
+(HL only)
+Gene mutations as structural changes 
+to genes at the molecular level
+A gene mutation involves a change in the sequence of bases of a particular gene. Mutations are 
+more likely to occur at certain times in the cell cycle than at other times. One such occasion is when 
+the DNA molecule is replicating. We have noted that the enzyme DNA polymerase, which brings 
+about the building of a complementary DNA strand, also ‘proofreads’ and corrects most errors 
+(page 614). However, although proofreading is highly efficient, it does not correct all errors and gene 
+mutations can and do occur spontaneously during the replication process.
+Also, environmental factors or chemicals may cause changes to the DNA sequence of bases. 
+These factors can include ionising radiation (page 640), UV light and various chemicals.
+A point mutation is a change in one base in the gene sequence. It can be the result of:
+l	 the change of one base to a different base (often caused by the DNA being copied incorrectly) – 
+this is called a substitution mutation (Figure D1.2.8)
+l	 the insertion of an additional base or bases into the DNA
+l	 the deletion of a base or bases from the DNA.
+A point mutation may change the amino acid in the protein encoded by the gene.
+Because bases work in triplets (threes) to determine which amino acid is needed in a protein, an 
+addition or deletion can have a profound effect. The deletion or insertion of a base results in what is 
+called a frameshift. 
+	
+◆Gene mutation: 
+change in the sequence 
+of bases of a particular 
+gene.
+	
+◆Substitution: a type 
+of mutation in which one 
+nucleotide is replaced by 
+a different nucleotide.
+	
+◆Insertion: a type of 
+mutation that involves 
+the addition of one or 
+more nucleotides into a 
+segment of DNA.
+	
+◆Deletion: a type of 
+mutation that involves 
+the loss of one or more 
+nucleotides from a 
+segment of DNA.
+	
+◆Frameshift: a 
+mutation in a DNA chain 
+that occurs when the 
+number of nucleotides 
+inserted or deleted is not 
+a multiple of three, so 
+that every codon beyond 
+the point of insertion or 
+deletion is read incorrectly 
+during translation.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+638
+Some changes result in a ‘nonsense’ mutation, so the changed genetic code cannot be read and has 
+no meaning. If the change results in a different amino acid being coded for, then this mutation is 
+called a ‘missense’ mutation.
+Concept: Change
+Mutations change the genetic code through insertion, deletion or substitution. 
+As a result of mutations, polypeptides can cease to function, either through frameshift 
+changes or through major insertions or deletions. Single-nucleotide polymorphisms 
+(SNPs) are the result of base substitution mutations.
+Consequences of base substitutions
+Base substitutions can have an adverse effect. For example, sickle cell anaemia is caused by a change 
+in the codon for the amino acid glutamic acid, resulting in the amino acid valine appearing instead 
+(page 623).
+However, because of the degeneracy of the genetic code (page 620), base substitutions may or may 
+not always change an amino acid in a polypeptide. Each amino acid has several different codons and, 
+if the base substituted matches one of these alternative codons for an amino acid, then there will be 
+no effect on the proteome of the cell.
+If the substitution occurs in a non-coding region of DNA, the mutation may have a neutral effect on 
+the proteome of the cell. However, if the mutation is in a regulatory region that directs expression 
+of a gene, a mutation may prevent the expression of the gene and so have a significant effect on 
+the proteins found in a cell. Single-nucleotide polymorphisms (SNPs) are also the result of base 
+substitution mutations.
+Consequences of insertions and deletions
+Mutations by major insertions, deletions or resulting frameshifts increase the likelihood of 
+polypeptides not functioning. Two examples are outlined below, one of an insertion and another of a 
+deletion, which show the results of these mutations. 
+ 
+■Insertion: effect on trinucleotide repeats of the HTT gene
+Insertions can result in repeating base sequences of three nucleotides, expanding trinucleotide 
+repeat sequences. These are known as trinucleotide repeat disorders. Trinucleotide repeat 
+disorders are caused due to an abnormal number of triplet repeat sequences either in the coding or 
+non-coding regions of the genome. Huntington’s disease is an example of this type of disorder.
+Huntington’s disease is caused by an abnormality in the HTT gene. The HTT mutation that causes 
+Huntington’s disease involves a DNA segment called a CAG trinucleotide repeat. This segment 
+is made up of a series of three DNA bases (cytosine, adenine and guanine) that appear multiple 
+times in a row. Normally, the CAG segment is repeated 10 to 35 times within the gene. Repeating 
+segments can have a beneficial effect on brain development; more frequent repeats are associated 
+with higher cognitive function. However, mutation leading to expansion of the trinucleotide repeats 
+beyond 39 leads to Huntington’s disease – a neurodegenerative disorder (Figure D1.3.1). The disease 
+takes the form of progressive mental deterioration, accompanied by involuntary muscle movements. 
+1	 Define the term 
+mutation.
+2	 Outline how 
+mutations can 
+affect DNA.
+Link
+Single-nucleotide 
+polymorphisms (SNPs) 
+are also covered 
+in Chapter A3.1, 
+page 115.
+Common 
+mistake
+Many people associate 
+mutations with ‘bad’ 
+effects on the cell 
+and organism. This 
+is over-simplistic. 
+Mutations can have 
+a neutral effect, due 
+to the degeneracy 
+of the genetic code. 
+Mutations that occur 
+on non-coding regions 
+of DNA may also have 
+no effect on gene 
+expression. Other 
+mutations can be 
+beneficial, leading to 
+an adaptive advantage. 
+Some mutations are 
+harmful, leading to 
+deleterious effects 
+on the organism (see 
+below).
+
+
+=== PAGE BREAK ===
+
+D1.3   Mutation and gene editing
+639
+ 
+■Figure D1.3.1 Huntington’s disease is a neurodegenerative disorder caused by 
+multiple insertions of a trinucleotide repeat sequence (CAG)
+Huntington’s disease is extremely rare (1 case per 20 000 live births). It is caused by a mutated 
+dominant allele (see Chapter D3.2, page 732). The symptoms usually do not appear until the affected 
+person is 40–50 years old, by which time they – unaware of the presence of the disease – may have 
+passed on the dominant allele to their children. In a pedigree chart (see Chapter D3.2, page 741) of a 
+family with Huntington’s disease, the condition tends to occur in one or more members of the family 
+in every generation – a characteristic due to a dominant allele (page 728).
+TOK
+A simple blood test is all that is needed to find out if a person has the mutated dominant allele that 
+will lead to Huntington’s disease. Is this knowledge desirable? It would allow a person to prepare 
+for the onset of the disease and may be relevant to their decision of whether to have children. 
+However, the knowledge might be very distressing to someone who discovers that they have an 
+ultimately fatal disease. The development of our understanding of genetics means that this type 
+of knowledge of what will happen to us in the future might become far more common. Is this 
+knowledge good for us?
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+ 
+■Deletion: delta 32 mutation of the CCR5 gene
+The delta 32 mutation of the CCR5 gene is an example of a deletion mutation. People who have two 
+copies of the delta 32 mutation (i.e. a copy of the allele has been received from both parents) are less 
+susceptible to HIV-1 infection. 
+The deletion mutation prevents the functional expression of the CCR5 protein co-receptor normally 
+used by HIV-1 to enter CD4+ T-cells (page 530). T-cells (T-lymphocytes) are white blood cells 
+processed by the thymus and responsible for cell-mediated immunity (page 523): CD4+ T-cells 
+are the type of lymphocyte that is infected by HIV. The HIV can no longer bind to this co-receptor 
+and so cannot efficiently enter cells (Figure D1.3.2). The CCR5 mutation does not lead to complete 
+resistance, although it does significantly lessen the likelihood of infection. The virus can use 
+alternative, less-efficient co-factors to enable infection to occur. That has not stopped interest in 
+using this observation as a possible effective therapy or preventative measure.
+Link
+T-lymphocytes are 
+covered in Chapter 
+C3.2, page 523.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+640
+CD4+ T-cells
+HIV
+CCR5 receptor
+With CCR5
+To enter cells, one
+thing that most
+HIV strains must
+do is bind to
+CCR5, a molecule
+that protrudes
+from the cells'
+surface.
+Without CCR5
+Some people are born
+with a mutation that
+prevents CCR5 from
+appearing on their
+cells, making them
+resistant to HIV.
+Some experimental
+gene therapy
+approaches aim to
+mimic this mutation
+in AIDS patients.
+ 
+■Figure D1.3.2 The delta 32 mutation of the CCR5 gene changes the 
+shape of the CCR5 receptor protein on the surface of the white blood cell 
+(CD4+ T-cells), so HIV can no longer efficiently bind and infect the cell
+Scientists believe that the CCR5 delta 32 mutation existed as much as 2500 years ago but occurred 
+only rarely (approximately in 1 out of every 20 000 Europeans). Today, the mutation is much more 
+common, occurring in 1 in 10 people. Scientists think that a viral disease provided the selection 
+pressure needed to increase the frequency of the mutation over time. In humans, certain populations 
+have inherited the delta 32 mutation, resulting in the genetic deletion of a portion of the CCR5 gene, 
+leading to a conformational change that means it no longer binds to the HIV virus.
+Causes of gene mutation
+A factor capable of causing a mutation is called a mutagen, and its effects are described as 
+‘mutagenic’. These factors are identified and defined in Table D1.3.1.
+ 
+■Table D1.3.1 Principal factors that can increase mutation rates and the likelihood of cancer
+Ionising 
+radiation
+Ionising radiation includes X-rays and radiation (gamma rays, α particles, β particles) from 
+various radioactive sources. These may trigger the formation of damaging ions and radicals 
+inside the nucleus, leading to the break-up of the DNA.
+Non-ionising 
+radiation
+Non-ionising radiation includes UV light. This is less energetic and therefore less penetrating 
+than ionising radiation but, if it is absorbed by the nitrogenous bases of DNA, may modify 
+them – causing adjacent bases on the DNA strand to bind to each other instead of binding 
+to their partner on the opposite strand (thymine dimers – see page 19).
+Bacterial 
+infection
+Some specific bacterial infections can trigger cancers, for example Helicobacter pylori can 
+cause stomach cancer.
+Chemicals
+Several chemicals that are carcinogens are present in tobacco smoke. Also, prolonged 
+exposure to asbestos fibres may trigger cancer in the lining of the thorax cavity (pleural 
+membranes). The harm usually becomes apparent only many years later.
+Virus 
+infection
+A specific virus infection, such as with hepatitis B and C viruses, human papillomavirus (HPV) 
+and HIV, may trigger DNA mutations. The HPV mutation is the result of insertion of part of 
+the virus genome into that of the host. The virus genes produce proteins that alter the cell 
+cycle controls and so lead to uncontrolled replication of the cells.
+As well as by mutagens, mutation can be caused by errors in DNA replication or repair. DNA 
+polymerase has a role in ‘proofreading’ during DNA replication, to ensure that the base code is 
+copied correctly. Any mistakes lead to the error being removed. It is estimated that, in eukaryotes, 
+DNA polymerases make errors approximately once every 104–105 nucleotides copied. This means 
+that each time a diploid mammalian cell replicates, between 100 000 and 1 000 000 polymerase 
+3	 Explain, using 
+an example, the 
+consequences 
+of an insertion 
+mutation.
+	
+◆Mutagen: an 
+agent that causes gene 
+mutations; anything 
+that causes a mutation 
+may cause a cancer, 
+such as chemicals in 
+tobacco smoke, X-rays, 
+short-wave UV light and 
+some viruses.
+
+
+=== PAGE BREAK ===
+
+D1.3   Mutation and gene editing
+641
+errors occur. Most of these are corrected, but when this mechanism fails, a mutation occurs. 
+When the error occurs in a coding sequence of DNA, a gene mutation may occur, which can lead to 
+a change in the protein synthesized.
+Randomness in mutation
+Mutation is a random process. Mutations are more likely to occur at certain times in the cell cycle 
+than at other times, such as during DNA replication. Certain conditions or chemicals may cause 
+change to the DNA sequence of bases (page 640). It is important to note that, although there are 
+artificial ways of increasing the chance of mutation, there is no known natural mechanism for 
+making a deliberate change to a particular base with the purpose of changing a trait. Evolution by 
+natural selection is a process that selects favourable alleles that have been generated by random 
+mutation, rather than created by a deliberate mechanism within the nucleus of a cell. 
+There are two types of DNA substitution mutations (Figure D1.3.3). 
+Transitions are swaps between bases of similar shape, so between adenine 
+and guanine, the two-ring purines, or between cytosine and thymine, the one-
+ring pyrimidines. Transversions are swaps between a purine and a pyrimidine 
+base. Transition mutations are more common because they keep the same ring 
+shape and, therefore, overall structure when bases form complementary pairs. 
+In addition, transitions are less likely to result in amino acid substitutions (due 
+to the degeneracy of the genetic code, page 620). They are therefore more likely 
+to persist as ‘silent substitutions’ with no phenotypic effect (i.e. no changes 
+in the physical traits of the organism) in populations as single-nucleotide 
+polymorphisms (SNPs). Not all SNPs are transitions though.
+The most common mutations are at the sequence CG (often written as 
+CpG, i.e. with a phosphate in between). The proofreading process is ‘blind’ 
+to the location of the bases it is correcting, which raises the question as to 
+why these sequences are often mutated. CpG couplets are more difficult to 
+correct because both C and G involve three hydrogen bonds to pair with the 
+base on the opposite strand, which means that this region of DNA is more 
+strongly held together than if it was two purines side by side or a purine 
+and a pyrimidine. Regions rich in CpG are often highly methylated, making 
+proofreading a bit more difficult.
+Top tip!
+Environmentally induced mutations due to exposure to a mutational stimulus are biased because of 
+the relative likelihood of exposure to specific stimuli, so they are not all equally likely. 
+Mutations are not randomly distributed in genomes as may be expected. There are ‘hot spots’ of 
+mutation. Possible reasons for this include:
+l	 variations in the superstructure of DNA (‘DNA superstructure’ refers to large-scale 
+organizational structures within chromosomes, such as segments of code that can be tens of 
+millions of nucleotides long)
+l	 regions where accessory proteins are less common, leading to an increased localised error rate 
+that exceeds the correction rate.
+4	 Outline three 
+external causes of 
+DNA mutation.
+Link
+For HL students, 
+methylation as an 
+example of epigenetic 
+tagging is discussed 
+in Chapter D2.2, 
+page 673.
+5	 Explain why 
+some bases have a 
+higher probability 
+of mutating than 
+others.
+pyrimidines
+purines
+pyrimidines
+purines
+NH2
+CH3
+N
+N
+H
+O
+O
+H
+transitions
+transitions
+N
+N
+N
+N
+H
+N
+N
+NH2
+O
+H
+thymine
+NH2
+N
+N
+H
+N
+N
+O
+guanine
+adenine
+cytosine
+transversions
+transversions
+ 
+■Figure D1.3.3 Different types of substitution 
+mutations: transversions are between different 
+types of base (purines and pyrimidines), while 
+transitions are between the same type of base 
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+642
+Consequences of mutation in 
+germ cells and somatic cells
+Mutations occurring in ovaries or testes (or anthers or embryo sacs of flowering plants) are called 
+germ line mutations. Since these mutations occur in germ cells that give rise to gametes, they may 
+be passed to the offspring. These can result in inherited diseases, for example Huntington’s disease 
+(page 638).
+Meanwhile, mutations that occur in body cells of multicellular organisms (somatic mutations) are 
+only passed on to the immediate descendants of those cells, and they disappear when the organism 
+dies. New mutations acquired during the lifetime of an individual in somatic cells are not heritable. 
+Such mutations can lead, however, to cancers (see Chapter D2.1, page 667).
+Mutation as a source of genetic variation
+In Chapter A3.1, we saw that variation between organisms is a defining feature of life, with no two 
+individuals identical in all their traits. The original source of all genetic variation is gene mutation. 
+Alleles, which are different versions of the same gene (Chapter A1.2, page 21), are created by random 
+mutations in genes. Many mutations, if they affect part of the non-coding region of a chromosome, 
+are neutral and have no phenotypic effect. Other mutations may be harmful (e.g. sickle cell anaemia, 
+page 623). However, mutations are essential in the long term for evolution by natural selection 
+(Chapter D4.1). Because all individuals in a population are different, changes to the environment can 
+lead to some having a selective advantage, with increased chance of survival, leading ultimately to 
+changes in the gene pool of a species. If reproductive isolation occurs (Chapter A4.1, page 149), 
+speciation can take place.
+ 
+■Figure D1.3.4 Variation in the colour and patterning of ladybird 
+beetles – the result of mutations over many generations
+	
+◆Germ cell: a 
+reproductive cell of 
+the body.
+Link
+For HL students, 
+tumours and cancer 
+are discussed in 
+Chapter D2.1, 
+page 667.
+6	 Distinguish 
+between the 
+effects of mutations 
+in germ cells and 
+somatic cells.
+Link
+Variation between 
+organisms as a 
+defining feature of life 
+is covered in Chapter 
+A3.1, page 102; 
+evolution as change 
+in the heritable 
+characteristics of a 
+population is covered 
+in Chapter A4.1, 
+page 138.
+Link
+Natural selection 
+is covered in detail 
+in Chapter D4.1, 
+page 779.
+7	 State the original 
+source of all 
+genetic variation.
+Concept: 
+Change
+Mutation leads to 
+variation within a 
+population. This 
+variation is the basis 
+for selection.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.3   Mutation and gene editing
+643
+Nature of science: Global impact of science
+Predictive genetic tests can provide consumers with knowledge of their health status and potential 
+future health and disease risk, as well as providing commercial opportunities. ‘Over-the-counter’ and 
+mail-order genetic tests are now available. However, this information could be problematic without 
+expert interpretation. Issues associated with these tests include:
+l	 Regulation of testing companies is currently lacking.
+l	 This type of genetic testing cannot tell definitively whether an individual will or will not get a 
+particular disease. Results often need to be confirmed with genetic tests carried out by a doctor 
+or nurse.
+l	 Tests may not be available for the health conditions that are of interest to an individual.
+l	 They only test for a subset of variants within genes, so disease-causing variants can be missed.
+l	 Unexpected information about the health of an individual may be stressful or upsetting.
+l	 Test are carried out outside of a healthcare clinic, and so individuals are often not provided with 
+genetic counselling.
+l	 Individuals may make important decisions about disease treatment or prevention based on 
+inaccurate, incomplete or misunderstood information from test results.
+To address some of these issues, the sale of genetic tests to individuals can be made subject to 
+ethical guidelines, for example to protect vulnerable groups. 
+TOK
+How might the context 
+in which knowledge 
+is presented influence 
+whether it is accepted 
+or rejected?
+A genetics test 
+prescribed by a 
+doctor may be more 
+acceptable to an 
+individual or society 
+than one bought over 
+the counter. Why 
+would this be the case, 
+if the genetic tests are 
+identical?
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+Gene knockout
+Gene knockout (KO) produces an organism with one non-functional gene, allowing researchers to 
+investigate the function of that gene. The technique is used on model organisms. A model organism 
+is a non-human organism that can be used to understand simple and complex biological functions. 
+One model organism used for gene knockout is the mouse (Mus musculus). Researchers knock out or 
+destroy the function of a particular gene (usually by introducing a deletion) and observe the effect on 
+the phenotype.
+The gene knockout technique has been used to create the p53 KO mouse, which has a mutated 
+version of the p53 gene. Normally, the p53 gene directs the synthesis of a protein that regulates the 
+cell cycle. When the protein is absent, tumour cells are created, increasing the risk of bone and other 
+cancers in mammals. 
+Another remarkable example of this technique is the 
+Methuselah KO mouse; increased longevity is shown in these 
+mutants, allowing researchers to study the complexity of aging 
+and potentially leading to prevention of human aging diseases 
+and better treatments. As shown in Figure D1.3.5, the obese 
+KO mouse can give insights into the metabolic disorders that 
+are involved in obesity in humans.
+Following the development of the gene knockout technique, 
+the 2007 Nobel Prize in Physiology or Medicine was awarded 
+to three scientists: Mario R. Capecchi (Italy), Martin J. Evans 
+and Oliver Smithies (both UK). There is now a library of 
+knockout organisms for some species that are used as models 
+in research (see next section).
+	
+◆Gene knockout 
+(KO): technique that 
+produces a genetically 
+engineered organism with 
+one non-functional gene, 
+allowing researchers to 
+investigate the function of 
+that gene.
+	
+◆Mutant: organism 
+with altered genetic 
+material (abruptly altered 
+by a mutation).
+ 
+■Figure D1.3.5 A mouse that has a knockout gene (left) 
+compared with a normal mouse (right); the mouse with 
+the knocked out gene showed an increase in body fat and 
+developed metabolic-related disorders, leading to obesity
+8	 Define the term 
+gene knockout.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+644
+ 
+■Model organisms are useful for studying gene function
+The way in which a gene controls a function can be studied using model organisms, enabling 
+researchers to then apply the findings to other organisms, such as humans. These model organisms 
+can range from bacteria, such as Escherichia coli (E. coli), to mammals, such as the mouse (Mus 
+musculus). Some plant models, for example Arabidopsis thaliana, are widely used for investigating 
+crops and other plants.
+It is the universality of the genetic code and commonality of the basal biological processes performed 
+by almost all living organisms, such as oxidative phosphorylation during aerobic respiration, that 
+make the use of model organisms possible. Studies, performed in vivo using model organisms, such as 
+gene knockout, are extremely valuable as they can predict similar effects in closely related organisms.
+ 
+■Table D1.3.2 Some of the most common model organisms used
+Name and type of organism
+Example of its use
+Caenorhabditis 
+elegans (C. elegans)
+nematode (soil 
+roundworm)
+understanding organ development and programmed cell 
+death (apoptosis)
+Drosophila 
+melanogaster
+insect (fruit fly)
+a high homology with human cells means that the fruit fly 
+is being used to study Parkinson’s disease and Alzheimer’s 
+disease in humans
+Danio rerio
+vertebrate (zebra 
+fish)
+embryos are transparent, allowing non-invasive in vivo 
+imagery to obtain data about the circulatory system; also 
+useful in the understanding of the process of metastasis
+Arabidopsis thaliana
+angiospermophyte 
+(flowering plant)
+first plant to have had its genome sequenced; used in a 
+variety of studies, such as understanding floral production 
+and the effects of environmental stress in plants
+Inquiry 1: Exploring and designing
+Exploring; designing
+Research a model organism and how it is used in experimental research. Ensure you 
+consult a variety of sources and select sufficient and relevant sources of information.
+Design your own theoretical investigation using the organism. Which organism have 
+you selected and why? In which ways does your organism acts as a model? 
+Formulate a research question and hypothesis. State and explain your predictions using 
+your scientific understanding.
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+Common 
+mistake
+Many people have an 
+idea of why model 
+organisms are used, 
+but few can outline the 
+benefits clearly. Make 
+sure you know why 
+each model organism 
+is used in scientific 
+investigations (see 
+Table D1.3.2).
+Use of the CRISPR sequences and the 
+enzyme Cas9 in gene editing
+Prokaryotic cells have a mechanism to defend themselves against infection comparable to, but very 
+different from, the immune response found in eukaryotic cells. In a prokaryotic cell, the response to 
+a ‘foreign’ invasion is based on a region of DNA sequences called CRISPR, which stands for clustered 
+regularly interspaced short palindromic repeats. These CRISPR sequences are used for an immune 
+response that protects the prokaryote from bacteriophages (a type of virus that attacks bacterial 
+cells). Along with the CRISPR-associated Cas9 enzyme, bacteria use the sequences to recognize and 
+deactivate future invading viruses.
+l	 When bacteria are infected by a virus, they use their CRISPR system to cut up the invading viral 
+DNA and insert pieces of it (spacers) into their own genome as a ‘memory’ of the infection.
+	
+◆CRISPR sequences: 
+sequences in the 
+genomes of some 
+prokaryotes that act as 
+a genomic record of 
+previous viral attack.
+	
+◆Cas9 enzyme: a 
+bacterial endonuclease 
+that forms a double-
+strand break in DNA at a 
+specific target site within 
+a larger recognition 
+sequence.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.3   Mutation and gene editing
+645
+l	 Bacteria transcribe the spacers into RNA, which can form a complex with the Cas9 enzyme. 
+These complexes monitor the cell for any DNA sequence complementary to the RNA. When 
+DNA sequences complementary to the DNA are identified, the Cas9 enzyme is activated.
+l	 If matching (viral) DNA is encountered, the spacer RNA–Cas9 complex binds to it and cuts the 
+viral DNA at specific locations to prevent it from replicating. This halts the viral infection.
+Scientists Emmanuelle Charpentier and Jennifer Doudna were awarded the Nobel Prize for 
+Chemistry in 2020 for their collaborative work with the CRISPR-Cas9 ‘genetic scissors’, developing 
+the precise genome-editing technology. This was the first time a Nobel Prize had been won by two 
+women alone. Scientists can use this technology to edit the human genome (Figure D1.3.6).
+DNA target
+sequences
+Cas9 enzyme
+guide RNA
+recognized sequence
+for specific cutting
+target sequences
+are cut off
+desired DNA sequences
+are added
+unwanted
+sequences
+desired
+sequences
+DNA template
+customized DNA
+ 
+■Figure D1.3.6 CRISPR and its application in gene editing
+ ATL D1.3A 
+Find out about how CRISPR technology can be used to treat genetic diseases. Use this weblink as 
+a starting point:
+www.bio-rad.com/en-uk/applications-technologies/crispr-cas-gene-editing-teaching-
+resources?ID=Q58I0DWDLBV5
+Summarize, in a poster or PowerPoint, how CRISPR technology can be used to treat genetic diseases.
+The precise specificity of the CRISPR system offers many opportunities for use in modifying any 
+gene of interest with significantly reduced risk of accidentally affecting other genes. Researchers are 
+looking to CRISPR as a technique for editing out genetic defects that result in cystic fibrosis, sickle 
+cell disease, haemophilia and muscular dystrophy, for example, as well as for developing more 
+targeted and effective cancer treatments. One study showed that adult rats genetically engineered to 
+have a genetic form of blindness could be treated using CRISPR gene therapy, which means that their 
+offspring would not have the genes that cause genetic blindness. The goal of human gene editing is 
+to remove diseased cells, ‘fixed’ (i.e. the genetic mutation removed and corrected for a code that is 
+functional) using CRISPR technology, and then returned to patients to treat the genetic condition. 
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+646
+Genome editing requires bio-molecular tools to specifically recognize a target sequence on the 
+genome and cut it in a precise way. Cas9 recognizes the target DNA via a guide RNA. Multiple types 
+of Cas enzymes are found in nature, but Cas9 is commonly used in the laboratory. Research is being 
+carried out to identify and manufacture guide RNA for specific genetic diseases. Scientists have used 
+CRISPR technology to insert particular selected sequences of a genome into the Cas9 protein. 
+This allows for adding, replacing and removing genetic sequences from genes, opening many 
+opportunities for research.
+ 
+■Successful use of CRISPR technology: treating sickle 
+cell anaemia
+CRISPR is revolutionizing many aspects of biotechnology, scientific research and genetic disorder 
+treatment. Sickle cell disease is a blood disorder that can be difficult to treat effectively (page 623). 
+In an experimental treatment, scientists used CRISPR to edit a gene from a patient’s bone marrow so 
+the cells would produce foetal haemoglobin – a form of haemoglobin that stops being made shortly 
+after birth. By restarting production of foetal haemoglobin, scientists hoped this form of haemoglobin 
+could compensate for the sickle-shaped haemoglobin. In one patient, blood tests showed that 
+approximately 46% of the haemoglobin was foetal haemoglobin and it remained present in 99.7% 
+of red blood cells. Further samples of bone marrow found more than 81% of the cells contained the 
+genetic change needed to produce foetal haemoglobin. This showed the edited cells were continuing 
+to survive and function in the patient’s body for a sustained period.
+ ATL D1.3B 
+Find out more about CRISPR technology and how it is being used to treat sickle cell anaemia. 
+Use this site as a starting point: www.synthego.com/crispr-sickle-cell-disease#:~:text= 
+Victoria%20Gray%20was%20the%20first,without%20any%20major%20side%20effects
+Produce a poster to summarize the key points. What is sickle cell anaemia and what causes this genetic 
+disease? What current treatments exist? How can CRISPR technology be used to treat the disease?
+Nature of science: Global impact of science
+Despite the potential of CRISPR-Cas9 in treating many genetic diseases, the use of CRISPR to 
+change genetic traits in humans has raised serious concerns within the scientific community. 
+Possible unintended effects include:
+l	 potential off-target mutations (unintended mutations) in the genome; such mutations may 
+be deleterious
+l	 the cost of germ line-editing technology is very high, to the extent that only people from rich 
+countries might afford it.
+The ease of applying CRISPR has caused worry about the potential misuse of the technology. 
+Certain potential uses of CRISPR raise ethical issues that must be addressed before 
+implementation, including:
+l	 genome editing in human embryos, which could have unpredictable effects on the future 
+generation
+l	 the use of the technology for non-therapeutic modifications, leading to loss of human diversity 
+and eugenics.
+Scientists across the world are subject to different regulatory systems. For this reason, there is an 
+international effort to harmonize the regulation of the application of genome-editing technologies 
+such as CRISPR. 
+	
+◆Genome editing: 
+the manipulation of DNA 
+by deleting, replacing or 
+inserting a DNA sequence, 
+with the aim of, for 
+example, correcting a 
+genetic disorder.
+Concept: 
+Change
+Genome editing 
+changes the 
+genetic code of an 
+organism. This can 
+be used to treat 
+genetic disorders.
+TOK
+That scientists work 
+under regulatory 
+systems is a 
+prime example of 
+how knowledge 
+communities do not 
+exist in isolation. 
+Social, political and 
+financial concerns 
+can be present in 
+the development of 
+scientific knowledge 
+and can impact on its 
+development. The peer 
+review of scientific 
+research also means 
+that scientists work 
+within a framework 
+that ensures 
+collaboration and 
+mutual support.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.3   Mutation and gene editing
+647
+	ATL D1.3C 
+Write an essay on one of the following two titles:
+l	 What measures can be taken to regulate the application of genome editing?  
+(Propose specific measures to help regulate the application of genome editing. In explaining 
+these measures, include details of the CRISPR-Cas9 technology, its applications, and ethical issues 
+relating to its use.)
+l	 To what extent should CRISPR technology be encouraged, restricted or prohibited? 
+(On a continuous scale from widespread use to total prohibition, choose and define a position.  
+In defending that position, use and explain details of the CRISPR-Cas9 technology, its 
+applications, and ethical issues relating to its use.)
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+Hypotheses for conserved or highly 
+conserved sequences in genes
+In Chapter A2.1, conserved genetic sequences were identified as a way of providing evidence about 
+the structure and function of the first life on Earth (LUCA). Conserved sequences are identical or 
+similar sequences in nucleic acids (DNA and RNA) across species or a group of species. Highly 
+conserved genetic sequences are identical or similar over long periods of evolution.
+Examples of highly conserved sequences include proteins associated with ribosomes, which are 
+organelles present in all domains of life. There are two hypotheses that explain the mechanism for 
+conserved sequences:
+l	 functional requirements for the gene products; highly conserved sequences are usually required 
+for basic cellular stability, function and reproduction, and so must be maintained from one 
+generation to the next and on throughout evolutionary history
+l	 slower rates of mutation than the background mutation rate. 
+Research has shown that mutation rate is linked to the level of gene expression. Highly transcribed 
+genes generally show lower mutation rates that less expressed genes. It has also been noted that 
+the transcribed strand of a gene shows a lower mutation rate than the non-transcribed strand. 
+The impact of gene expression on mutation rate may be due to enhanced proofreading and, 
+therefore, repair mechanisms for these sections of DNA.
+In addition to protein coding sequences, the genome contains a significant amount of regulatory 
+DNA (page 626). These non-coding regions contain highly conserved sequences. In vertebrates, 
+these sequences are in and around genes that act as developmental regulators. Highly conserved 
+regions for transcription factors related to embryonic and subsequent development is further 
+evidence for a common origin of all vertebrates (see also Chapter A2.1, page 47).
+LINKING QUESTIONS
+1	 How can natural selection lead to both a reduction in variation and an increase in biological diversity?
+2	 How does variation in subunit composition of polymers contribute to function?
+	
+◆Conserved 
+sequences: identical 
+or similar sequences in 
+nucleic acids (DNA and 
+RNA), across species 
+or a group of species, 
+that have remained 
+essentially unchanged 
+throughout evolution.
+Link
+Conserved genetic 
+sequences and the 
+evidence for the 
+evolution of the last 
+universal common 
+ancestor is discussed 
+in Chapter A2.1, 
+page 47.
+9	 Suggest why 
+some genes are 
+conserved.

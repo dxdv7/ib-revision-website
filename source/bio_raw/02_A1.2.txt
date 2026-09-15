@@ -1,0 +1,1932 @@
+Theme A: Unity and diversity – Molecules
+14
+Nucleic acids
+A1.2
+•	 How does the structure of nucleic acids allow hereditary information to be stored?
+•	 How does the structure of DNA facilitate accurate replication? 
+Guiding questions
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 A1.2.1 	
+DNA as the genetic material of all living organisms
+	 A1.2.2 	
+Components of a nucleotide
+	 A1.2.3 	
+Sugar–phosphate bonding and the sugar–phosphate ‘backbone’ of DNA and RNA
+	 A1.2.4 	
+Bases in each nucleic acid that form the basis of a code
+	 A1.2.5 	
+RNA as a polymer formed by condensation of nucleotide monomers
+	 A1.2.6 	
+DNA as a double helix made of two antiparallel strands of nucleotides with 
+two strands linked by hydrogen bonding between complementary base pairs
+	 A1.2.7 	
+Differences between DNA and RNA
+	 A1.2.8 	
+Role of complementary base pairing in allowing genetic information to be 
+replicated and expressed
+	 A1.2.9 	
+Diversity of possible DNA base sequences and the limitless capacity of DNA for 
+storing information
+	 A1.2.10 	 Conservation of the genetic code across all life forms as evidence of universal 
+common ancestry
+	 A1.2.11 	 Directionality of RNA and DNA (HL only)
+	 A1.2.12 	 Purine-to-pyrimidine bonding as a component of DNA helix stability (HL only)
+	 A1.2.13 	 Structure of a nucleosome (HL only)
+	 A1.2.14 	 Evidence from the Hershey–Chase experiment for DNA as the genetic material 
+(HL only)
+	 A1.2.15 	 Chargaff’s data on the relative amounts of pyrimidine and purine bases across 
+diverse life forms (HL only)
+DNA as the genetic material 
+of all living organisms
+DNA is a nucleic acid. Nucleic acids are the information molecules of cells (and also of viruses – see 
+below, and page 88) found throughout the living world. The code containing the information in 
+nucleic acids, known as the genetic code, is universal. This means that it makes sense in all 
+organisms. It is not specific to a few organisms or to just one group, but to all groups and species.
+There are two types of nucleic acid found in living cells: deoxyribonucleic acid (DNA) and 
+ribonucleic acid (RNA). DNA is the genetic material and occurs in the chromosomes of the nucleus 
+(and also certain cell organelles, chloroplasts and mitochondria – see page 69). While some RNA 
+also occurs in the nucleus, most is found in the cytoplasm – particularly in the ribosomes. 
+Some viruses use RNA as their genetic material, such as SARS-CoV-2, the virus that causes 
+COVID-19. Other diseases caused by RNA viruses include the common cold, influenza, Dengue 
+fever, hepatitis C, rabies, Ebola, polio, mumps and measles. Viruses depend on the cells of living 
+organisms to survive and replicate, and so are not considered to be living; thus it is true to say that 
+DNA is the genetic material of all living organisms.
+	
+◆Nucleic acid: 
+polynucleotide chain 
+of one of two types, 
+deoxyribonucleic acid 
+(DNA) or ribonucleic 
+acid (RNA).
+	
+◆Genetic code: the 
+order of bases in DNA 
+(of a chromosome) that 
+determines the sequence 
+of amino acids in a protein.
+	
+◆Deoxyribonucleic 
+acid (DNA): a 
+form of nucleic acid 
+consisting of two 
+complementary chains 
+of deoxyribonucleotide 
+subunits, and containing 
+the bases adenine, 
+thymine, guanine 
+and cytosine.
+	
+◆Ribonucleic acid 
+(RNA): a form of nucleic 
+acid containing the 
+pentose sugar ribose, 
+and the organic bases 
+adenine, guanine, uracil 
+and cytosine.
+Link
+Viruses and their life 
+cycles are covered 
+in more detail 
+in Chapter A2.3 
+(HL only), page 88.
+
+
+=== PAGE BREAK ===
+
+A1.2   Nucleic acids
+15
+Both DNA and RNA have roles in the day-to-day control of cells and organisms, as we shall 
+see shortly. First, we will look into the structure of nucleotides and the way they are built up 
+(synthesized) to form the unique DNA double helix.
+Concept: Unity
+All living organisms and viruses contain nucleic acids. This universality of the genetic 
+code indicates the inter-connectivity of life on Earth and explains how viruses can take 
+over and use the biological machinery of cells.
+ ATL A1.2A 
+DNA has long been known as a major chemical in the nucleus. DNA is associated with proteins in the 
+nucleus and, during the early 1900s, proteins were considered better candidates as molecules able to 
+transmit large amounts of hereditary information from generation to generation rather than DNA. 
+Find out about the early work on DNA by Friedrich Miescher and Phoebus Levene. What did they 
+conclude about the structure and role of proteins and DNA in the nucleus, and to what extent 
+were their hypotheses falsified by subsequent work? Use this site to find out more:  
+www.dnaftb.org/15/animation.html
+Top tip!
+The presence of genetic 
+material in a structure 
+does not necessarily 
+indicate life. Viruses, 
+which are usually 
+considered to be non-
+living, contain genetic 
+material. In addition, 
+DNA is chemically 
+stable so can persist in 
+dead organic matter 
+and some fossils.
+Inquiry 1: Exploring and designing
+Exploring; designing
+DNA can be extracted from any tissue. 
+Using the following statements about 
+DNA, plan a method to extract DNA from 
+animal or plant tissue:
+l	 Cell walls can be broken up by heating 
+and mashing.
+l	 DNA is soluble in water.
+l	 DNA is not soluble in ethanol.
+l	 DNA is found in the nuclei of cells.
+l	 Nuclei have a membrane around them 
+made of lipids (fats).
+l	 Cell membranes are made of lipids (fats).
+l	 Detergents (such as washing up liquid) 
+dissolve fats.
+l	 Salty water causes DNA to clump 
+together to make larger molecules 
+in solution.
+l	 Precipitates form more easily in 
+cold liquids.
+Write out a set of instructions for DNA 
+extraction and explain why you need to 
+take each step.
+This site has a methodology you can 
+follow: https://learn.genetics.utah.edu/
+content/labs/extraction/howto 
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+Components of a nucleotide
+A nucleotide consists of three substances combined through covalent chemical bonding. These are:
+l	 a nitrogenous base – the four bases of DNA are cytosine (C), guanine (G), adenine (A) 
+and thymine (T)
+l	 a pentose sugar – deoxyribose occurs in DNA and ribose in RNA
+l	 a phosphate group (phosphate diester).
+These components are combined by an enzyme-controlled condensation reaction to form a 
+nucleotide. Condensation reactions occur when two molecules combine, producing water as a 
+by‑product. Enzymes are biological catalysts that speed up and control biological reactions. Since any 
+one of the four bases can be incorporated, four different types of nucleotide can be found in DNA. 
+	
+◆Nucleotide: phosphate 
+ester of a nucleoside – an 
+organic base combined 
+with pentose sugar and 
+phosphate (Pi).
+	
+◆Cytosine: a pyrimidine 
+nitrogenous base found 
+in nucleic acids (DNA 
+and RNA) that pairs 
+with guanine.
+	
+◆Guanine: a purine 
+nitrogenous base found 
+in nucleic acids (DNA 
+and RNA) that pairs 
+with cytosine.
+	
+◆Adenine: a purine 
+nitrogenous base, found 
+in the coenzymes ATP and 
+NADP and in nucleic acids 
+(DNA and RNA), that pairs 
+with thymine.
+	
+◆Thymine: a pyrimidine 
+nitrogenous base 
+found in DNA that pairs 
+with adenine.
+	
+◆Pentose: a 5-carbon 
+monosaccharide sugar.
+	
+◆Condensation: 
+formation of larger 
+molecules involving the 
+removal of water from 
+smaller component 
+molecules.
+
+
+=== PAGE BREAK ===
+
+Theme A: Unity and diversity – Molecules
+16
+How these components are combined is shown in Figure A1.2.1, together with the diagrammatic 
+way the components are represented to illustrate their spatial arrangement. Simple shapes are used 
+rather than complex structural formulas, and these shapes are all that are required here. (You need to 
+be able to draw simple diagrams, using these symbols.)
+Top tip!
+In diagrams of nucleotides, use circles, pentagons and rectangles to represent phosphates, 
+pentose sugars and bases. The positions of the components relative to each other need to be 
+accurately represented.
+O
+OH
+CH2OH
+CH2OH
+OH
+deoxyribose
+O
+OH
+OH
+OH
+ribose
+pentose sugars
+phosphate group
+nitrogenous bases
+thymine
+O
+H3C
+NH
+N
+H
+O
+guanine
+N
+N
+H
+N
+NH
+O
+NH2
+adenine
+N
+N
+N
+H
+N
+NH2
+cytosine
+NH2
+N
+N
+H
+O
+condensation to form a nucleotide
+phosphate group
+O–
+P
+OH
+O
+O H
+OH
+H2O
+H2O
+NH2
+OH
+OH
+OH H
+N
+N
+O
+ribose
+base
++  2H2O
+nucleotide
+O–
+P
+OH
+O
+O
+H
+thymine
+guanine
+adenine
+cytosine
+shown diagrammatically as:
+O
+Chemical structures of the
+components are shown together
+with the symbols by which they 
+are represented in diagrams.
+Note that chemical formulae do
+not need to be learned.
+Circles, pentagons
+and rectangles are used in
+diagrams of nucleotides
+to represent the relative
+positions of phosphates,
+pentose sugars and bases.
+Pi
+Pi
+ 
+■Figure A1.2.1 The components of nucleotides
+The bases can be divided into two groups: the purines (adenine and guanine) and the pyrimidines 
+(cytosine and thymine), based on their molecular structure (see Figure A1.2.1).
+The sugar–phosphate ‘backbone’ 
+of DNA and RNA
+ 
+■Sugar–phosphate bonding
+Nucleotides may chemically combine, one nucleotide at a time, by condensation reactions to form large 
+molecules (with high values of molar mass) called nucleic acids or polynucleotides (Figure A1.2.2).  
+So, nucleic acids are very long, thread-like (linear) macromolecules with alternating sugar and 
+phosphate molecules forming the ‘backbone’. This part of the nucleic acid molecule is uniform and 
+unvarying. Sugar–phosphate bonding creates a continuous chain of covalently bonded atoms in each 
+strand of DNA (and also RNA) nucleotides, which forms a strong backbone to the molecule. 
+1	 Distinguish 
+between a 
+nitrogenous 
+base and a base 
+found in inorganic 
+chemistry.
+	
+◆Purine: one of 
+two types of chemical 
+compound used to make 
+nucleotides, the building 
+blocks of DNA and RNA. 
+Examples are adenine and 
+guanine.
+	
+◆Pyrimidine: one of 
+two types of chemical 
+compound used to make 
+nucleotides. Examples 
+are cytosine, thymine 
+and uracil. Cytosine and 
+thymine are used to make 
+DNA; cytosine and uracil 
+are used to make RNA.
+	
+◆Polynucleotide: a 
+long, unbranched chain of 
+nucleotides, as found in 
+DNA and RNA.
+
+
+=== PAGE BREAK ===
+
+A1.2   Nucleic acids
+17
+Along the strand, each base is attached to a pentose sugar 
+molecule. The bases project sideways (Figure A1.2.2). Since the 
+bases vary, they represent a unique sequence that carries the 
+coded information held by the nucleic acid.
+Bases in each nucleic acid 
+form the basis of a code
+Information in DNA lies in the sequence of the nitrogenous 
+bases – cytosine, guanine, adenine and thymine – forming 
+the genetic code. This sequence dictates the order in which 
+specific amino acids are assembled and combined to synthesize 
+a protein. The code lies in the sequence in one of the DNA 
+strands, the coding strand. The other strand is complementary 
+to it (see Figure A1.2.6, page 19). The coding strand is always 
+read in the same direction, by enzymes.
+The code is a three-letter or triplet code, meaning that each 
+sequence of three bases stands for one of the 20 amino acids, 
+and is called a codon. With a four-letter alphabet (C, G, A, T), 
+there are 64 possible different triplet combinations (4 × 4 × 4).
+Nucleic acids code for the production of proteins in cells. 
+Proteins make up about two-thirds of the total dry mass of 
+a cell. They differ from carbohydrates and lipids in that they 
+contain the element nitrogen and sometimes the element sulfur, 
+as well as carbon, hydrogen and oxygen.
+Links
+For more on proteins see Chapter B1.2, page 205, and 
+Chapter D1.2, page 615. The codons for the 20 amino 
+acids found in proteins are in Chapter D1.2, page 617.
+2	 Distinguish between a nitrogenous base, a nucleotide 
+and a nucleic acid.
+RNA polymers 
+RNA molecules are relatively short in length, compared with DNA. In fact, RNA molecules tend to 
+be from a hundred to thousands of nucleotides long, depending on their particular role.
+The RNA molecule is a polymer. In messenger RNA (mRNA) it is a single strand of polynucleotide 
+in which the sugar monomer is ribose (see pages 18, 22). The bases found in RNA (Figure A1.2.3) 
+are cytosine, guanine, adenine and uracil (which replaces thymine of DNA).
+The carbon atoms in organic molecules such as ribose can be numbered (Figure A1.2.4). 
+The numbering runs from right to left, clockwise. This enables the bonds between adjacent 
+sugars and their phosphate neighbours to be identified, along with the direction in which the 
+polynucleotide is orientated.
+H2O   +
+nucleotides are added
+at this end of the
+growing polynucleotide
+adenine
+guanine
+thymine
+cytosine
+bases
+Nucleotides become chemically combined
+together, phosphate to pentose sugar,
+by covalent bonds, with a sequence of
+bases attached to the sugar residues.
+Up to 5 million nucleotides condense
+together in this way, forming a
+polynucleotide (nucleic acid).
+Pi
+Pi
+H2O   +
+Pi
+H2O   +
+Pi
+H2O   +
+Pi
+H2O   +
+Pi
+ 
+■Figure A1.2.2 How nucleotides make up nucleic acid
+	
+◆Codon: three 
+consecutive bases in DNA 
+(or RNA) which specify an 
+amino acid.
+	
+◆Polymer: large 
+organic molecules made 
+up of repeating subunits 
+(monomers).
+	
+◆Uracil: a pyrimidine 
+nitrogenous base found 
+in RNA (not DNA); it pairs 
+with adenine.
+
+
+=== PAGE BREAK ===
+
+Theme A: Unity and diversity – Molecules
+18
+adenine
+adenine
+guanine
+Pi
+Pi
+Pi
+Pi
+Pi
+Pi
+O
+HO
+OH
+CH2OH
+OH
+ribose
+3’
+5’
+cytosine
+uracil
+uracil
+ 
+■Figure A1.2.3 An RNA polymer
+molecular
+formula
+structural
+formula
+C5H10O5
+ribose
+CH2OH
+C
+H
+O
+C
+H
+OH
+C
+H
+2
+1
+3
+OH
+C
+H
+OH
+4
+5
+C5H10O4
+deoxyribose
+CH2OH
+C
+H
+O
+C
+H
+H
+C
+H
+2
+1
+3
+OH
+C
+H
+OH
+4
+5
+H
+CH2OH
+H
+C
+O
+4
+OH
+H
+C1
+OH
+C
+3
+H
+OH
+C
+2
+H
+CH2OH
+H
+C
+O
+4
+5
+5
+OH
+H
+C1
+OH
+C
+3
+H
+H
+C
+2
+structural
+formula
+ 
+■Figure A1.2.4 The numbering of carbon atoms in ribose and 
+deoxyribose (in their straight chain (linear) and cyclic forms) 
+It is the convention to refer to the first carbon as 1' carbon, the second as 2' carbon, and so on.
+There are three functional types of RNA: messenger RNA (mRNA), transfer RNA (tRNA) and 
+ribosomal RNA (rRNA). mRNA is formed in the nucleus and is transported out through nuclear 
+pores to the ribosomes in the cytoplasm. tRNA and rRNA are also made in the nucleus and occur in 
+the cytoplasm.
+RNA is formed by the 
+condensation of many nucleotide 
+monomers. These condensation 
+reactions link the pentose sugar 
+and phosphate groups of adjacent 
+nucleotides, so forming the new 
+strands (Figure A1.2.5). The bond 
+formed between adjacent 
+nucleotides is called a 3'–5' 
+phosphodiester bond.
+Top tip!
+Make sure you can 
+draw and recognize 
+diagrams of the 
+structure of single 
+nucleotides and 
+RNA polymers.
+	
+◆Messenger RNA 
+(mRNA): single-stranded 
+ribonucleic acid, formed 
+by the process of 
+transcription of the genetic 
+code in the nucleus, that 
+then moves to ribosomes 
+in the cytoplasm.
+	
+◆Transfer RNA 
+(tRNA): short lengths of 
+RNA that combine with 
+specific amino acids prior 
+to protein synthesis.
+	
+◆Ribosomal RNA 
+(rRNA): molecule that 
+forms part of the protein-
+synthesizing organelle 
+known as a ribosome.
+	
+◆Phosphodiester 
+bond: the linkage 
+between the 3' carbon 
+atom of one sugar 
+molecule and the 5' 
+carbon atom of another 
+(deoxyribose in DNA 
+and ribose in RNA) in 
+nucleic acids.
+OH
+5’
++ H2O
+P
+O
+CH2
+–O
+OH
+5’
+OH
+OH
+3’
+base
+base
+base
+base
+condensation
+reaction
+phosphodiester
+bond
+P
+O
+CH2
+–O
+O
+5’
+OH
+3’
+O–
+O
+O
+P
+O
+–O
+O
+O–
+P
+O
+CH2
+–O
+5’
+3’
+O–
+O
+CH2
+OH
+OH
+3’
+OH
+ 
+■Figure A1.2.5 RNA is formed by the 
+condensation of nucleotide monomers
+3	 Draw a labelled 
+diagram of: 
+a	 an RNA single 
+nucleotide 
+b	 an RNA 
+polymer.
+
+
+=== PAGE BREAK ===
+
+A1.2   Nucleic acids
+19
+The DNA double helix 
+The DNA molecule consists of two antiparallel polynucleotide strands, paired together, and held by 
+hydrogen bonds. The two strands take the shape of a double helix (Figure A1.2.6).
+The two strands are termed ‘antiparallel’ because one runs from a 5' carbon to a 3' carbon, and the 
+other from a 3' carbon to a 5' carbon. 
+Top tip!
+Note: when drawing DNA's structure, two antiparallel strands should be drawn, but the helical 
+shape is not required. Adenine (A) should be shown paired with thymine (T), and guanine (G) 
+paired with cytosine (C). For completion, Figure A1.2.6 shows the numbers of hydrogen bonds 
+between adjacent bases – this detail does not need to be included when drawing the structure of 
+DNA in exams. Only a small section of the DNA need be included to illustrate the way in which the 
+nucleotides are arranged.
+adenine
+adenine
+deoxyribose
+DNA double helix strands are
+complementary and antiparallel
+phosphate
+A links with T
+(with 2 H-bonds)
+C links with G
+(with 3 H-bonds)
+complementary
+base pairs
+the DNA molecule is twisted
+into a double helix
+in the chromosomes, the helical structure of DNA
+is stabilized and supported by proteins
+guanine
+Pi
+Pi
+Pi
+Pi
+Pi
+Pi
+O
+HO
+CH2OH
+OH
+deoxyribose
+3’
+5’
+3’
+5’
+cytosine
+thymine
+cytosine
+thymine
+Pi
+Pi
+Pi
+Pi
+Pi
+Pi
+thymine
+adenine
+guanine
+thymine
+adenine
+DNA consists of two polynucleotides
+held together by hydrogen bonds
+between adjacent bases
+phosphate is combined with carbon-3 of one deoxyribose
+and carbon-5 of the next.
+	
+◆Double helix: two 
+interlocking helices 
+joined by hydrogen 
+bonds between the pairs 
+of purine–pyrimidine 
+bases (A pairs with T 
+and G with C). The 
+helical structure makes 
+a 360° twist after each 
+10 nucleotides, i.e. every 
+3.4 nm.
+4	 Explain what 
+is meant by 
+antiparallel strands.
+ 
+■Figure A1.2.6 The DNA double helix
+
+
+=== PAGE BREAK ===
+
+Theme A: Unity and diversity – Molecules
+20
+Nature of science: Models
+Creating the model of DNA
+A model is a simplified description of a biological system, a concept or biological process. Models 
+are used to describe and explain phenomena that cannot be experienced directly or to simplify 
+complex systems such as ecosystems. The first model of the structure of DNA was developed 
+in 1953 by Francis Crick and James Watson (see Figure A1.2.11 on page 26). Bringing together 
+experimental results from other scientists, Crick and Watson used evidence to deduce the likely 
+structure of the DNA molecule. Models are useful because they allow biologists to mimic the real 
+world, make calculations and test predictions. Biological models include mathematical models 
+that can be simulated on computer software. Models, like theories, may be modified as new 
+experimental data are discovered.
+Common mistake
+A common mistake when drawing DNA is to link nitrogenous bases to phosphates rather than the 
+pentose sugars. Another common error is to link the phosphate groups to the oxygen in the sugar 
+ring, rather than to C4 via C5. Pay careful attention to the detail contained in the DNA molecule, 
+and how the different parts of the nucleotide connect together, and make sure you can accurately 
+recreate this from memory. Practise drawing molecular diagrams.
+TOK
+What are the implications of having, or not 
+having, knowledge?
+The ‘object’ shown in Figure A1.2.7 is an X-ray diffraction 
+image of a DNA fibre, taken by Raymond Gosling in May 1952 
+at King’s College London. Calculations by James Watson and 
+Francis Crick from the photograph gave crucial dimensions for 
+the double helix model they built.
+The publication in 1953 in Nature by Watson and Crick 
+of DNA’s structure and a mechanism for replication of 
+DNA marked a paradigm shift from classical genetics to 
+molecular genetics.  
+The initial implications of this new scientific knowledge to 
+Watson, Crick and other biologists (the knowers) were that 
+scientists could now develop new molecular knowledge about 
+the genetic code and protein synthesis based on new forms 
+of experiments.  
+At a later stage, knowledge of DNA structure and 
+complementary base pairing led to recombinant DNA 
+research, genetic engineering, human molecular genetics, 
+monoclonal antibodies and, most recently, CRISPR (gene 
+editing). This new DNA-based knowledge has led to more 
+effective medical treatments, new drugs and better disease 
+diagnosis (for patients). However, there are new ethical 
+implications arising from potential CRISPR editing of the 
+inherited germline (‘designer babies’) for non-therapeutic and 
+enhancement reasons.
+   
+ 
+■Figure A1.2.7 
+X-ray diffraction 
+image of DNA
+Genetic fingerprinting is perhaps the most well-known DNA 
+technology to the general public (another group of knowers) 
+and is a ‘tool’ used to track down relatives, establish paternity 
+and identify dead bodies. However, it has also led to the 
+conviction of many criminals and to the freeing from prison of 
+many individuals who were wrongly convicted. 
+Possible social implications of these new advances in 
+genetic knowledge are that genetic fingerprinting may act 
+as a deterrent to certain kinds of crime and lead to greater 
+satisfaction with the criminal justice system. There will also be 
+economic costs associated with the adoption of the forensic 
+use of DNA technology, and another implication might be the 
+unauthorised disclosure or misuse of the data, e.g., typing by 
+insurance companies.
+
+
+=== PAGE BREAK ===
+
+A1.2   Nucleic acids
+21
+Hence, the development and application of scientific 
+knowledge has led to ethical decisions that can be justified 
+through utilitarian reasoning: the idea that whether actions 
+are ethical or not depends on their effects. Utilitarianism 
+‘maximises utility’, and favours technology that produces the 
+largest amount of ‘good’ or ‘happiness’.
+However, some social scientists fear that this type of research 
+into the human genetic code will encourage some people to 
+argue that social problems, such as violence and drug abuse, 
+are explainable in terms of human genes, and therefore 
+deterministic abnormalities. They are worried that social 
+interventions such as counselling, affirmative action and 
+educational opportunities will lose funding.
+ ATL A1.2B 
+Crick and Watson brought together the 
+experimental results of many other scientists, 
+and from this evidence they deduced the 
+likely structure of the DNA molecule. Rosalind 
+Franklin (Figure A1.2.8) is often called ‘the 
+forgotten woman of DNA’. What role did she 
+play in developing the first model of DNA? 
+Why has she not been recognized in the 
+same way as Watson and Crick in this pivotal 
+scientific breakthrough?
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+ 
+■Figure A1.2.8 Rosalind Franklin 
+produced the key X-ray diffraction pattern 
+of DNA at King’s College London
+ 
+■Genes
+Within the DNA molecule, there are sections that code for proteins – these sections are called 
+genes. A gene is a heritable factor that influences a specific character. By ‘character’ we mean some 
+feature of an organism, such as ‘height’ in the garden pea plant or ‘blood group’ in humans. 
+‘Heritable’ means genes are factors that pass from parent to offspring during reproduction.
+ 
+■Chromosomes
+Genes are located on chromosomes. Each gene occupies a specific position on a chromosome; 
+therefore each chromosome is a linear series of genes. Furthermore, the gene for a particular 
+characteristic is always found at the same position or locus (plural, loci) on a particular chromosome. 
+For example, the gene controlling height in the garden pea plant is always present in the exact same 
+position on one particular chromosome of that plant. However, that gene for height may code for 
+‘tall’ or it may code for ‘dwarf’, as we shall see shortly. In other words, there are different forms of 
+genes. In fact, each gene has two or more forms and these are called alleles. The word ‘allele’ just 
+means ‘alternative form’. For a given gene, many alleles may exist in the gene pool of the species.
+	
+◆Gene: heritable factor 
+that consists of a length 
+of DNA that codes for a 
+protein.
+	
+◆Chromosome: length 
+of DNA that carries 
+specific genes in a linear 
+sequence.
+	
+◆Locus: the particular 
+position of a gene 
+on homologous 
+chromosomes.
+	
+◆Allele: different 
+versions of the same gene.
+Link
+The concept of the 
+gene pool is covered 
+in more detail 
+in Chapter D4.1, 
+page 790.
+
+
+=== PAGE BREAK ===
+
+Theme A: Unity and diversity – Molecules
+22
+Now, the chromosomes of eukaryotic cells occur in pairs called homologous chromosomes. 
+(‘Homologous’ means ‘similar in structure’.) One of each pair came originally from one parent, and 
+the other one of the pair came from the other parent. So, for example, humans have 
+46 chromosomes, 23 coming originally from each parent in the process of sexual reproduction. 
+Homologous chromosomes resemble each other in structure and they contain the same sequence 
+of genes.
+In Figure A1.2.9, we see some of the genes and their alleles in place on a homologous pair 
+of chromosomes.
+The loci are the positions along the chromosomes
+where genes occur, so alleles of the same gene
+occupy the same locus.
+gene – a specific length of the DNA of 
+the chromosome, occupying a position 
+called a locus
+alleles of a gene (allele is the short 
+form of ‘allelomorph’ meaning 
+‘alternative form’)
+at these loci the genes are 
+homozygous (same alleles)
+at this locus the gene is heterozygous 
+(different alleles)
+chromosome – a linear sequence of
+many genes, some of which are shown
+here
+centromeres
+loci
+chromosomes exist in pairs
+– one of each pair came originally
+from each parent organism
+A
+a
+C
+C
+F
+F
+j
+j
+M
+m
+Differences between DNA 
+and RNA
+Both DNA and RNA are made of nucleotides although they 
+have different structures. One main difference is that DNA 
+has the pentose sugar deoxyribose while RNA contains ribose 
+(Figure A1.2.10).
+	
+◆Homologous 
+chromosomes: pairs of 
+chromosomes, one from 
+each parent, that carry 
+the same sequence of 
+genes (but not necessarily 
+the same alleles of 
+those genes).
+ 
+■Figure A1.2.9 Genes and alleles of 
+a homologous pair of chromosomes
+1
+2
+3
+4
+phosphate group
+CH2
+5
+(A, C, G, T)
+Deoxyribose
+DNA nucleotide
+OH
+Pi
+O
+H
+HO–
+HO–
+1
+2
+3
+4
+phosphate group
+CH2
+5
+(A, C, G, U)
+base
+base
+Ribose
+RNA nucleotide
+Pi
+O
+ 
+■Figure A1.2.10 DNA and RNA nucleotides
+Top tip!
+You should be able to 
+sketch the distinction 
+between ribose and 
+deoxyribose.
+
+
+=== PAGE BREAK ===
+
+A1.2   Nucleic acids
+23
+Top tip!
+When distinguishing between DNA and RNA, you need to refer to the number of strands present, 
+the types of nitrogenous bases and the type of pentose sugar. 
+5	 Construct a table 
+to distinguish 
+between DNA and 
+RNA.
+Role of complementary base pairing
+The pairing of bases is between adenine (A) and thymine (T), and between cytosine (C) and guanine 
+(G), simply because these are the only combinations that fit together along the helix. This pairing, 
+known as complementary base pairing, also makes possible the very precise way that DNA is 
+copied in a process called replication. From the model of DNA in Figure A1.2.6, we can also see that 
+when A pairs with T, they are held together by two hydrogen bonds; when C pairs with G, they are 
+held by three hydrogen bonds. Only these pairs can form hydrogen bonds. Due to base pairing and 
+the formation of specific hydrogen bonds, the sequence of bases in one strand of the helix 
+determines the sequence of bases in the other. Complementary base pairing allows genetic 
+information to be replicated and expressed.
+Top tip!
+Complementarity is based on hydrogen bonding. The bases pair up in the way they do due to the 
+hydrogen bonds that form between the pairs of bases.
+ ATL A1.2C 
+Watson and Crick developed their model of DNA in 1953. The first model they developed was 
+not successful, however, as the various components did not fit together correctly. They developed 
+their final and correct model once all the parts of nucleotides were accurately represented. By 
+building a model, they were able to understand how DNA can replicate (copy) itself, thereby 
+passing on genetic information from generation to generation.
+Can you think of a way of representing DNA using material you have in the lab or in your home? 
+How can you represent the different components and how they are connected together?
+6	 In base pairing, 
+organic bases are 
+held together 
+(A–T, C–G) by 
+hydrogen bonds. 
+State which parts 
+of these organic 
+molecules form the 
+hydrogen bonds.
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+Diversity of possible DNA base sequences
+Although the genetic code is comprised of only four bases – A, C, T and G – the order in which they 
+can be combined is immeasurable. The diversity of possible DNA base sequences means that DNA 
+has a limitless capacity for storing information, with diversity by any length of DNA molecule and 
+any base sequence possible. 
+An indication of the storage capacity of DNA is the number of genes that can be contained within 
+it. Species vary in the number of genes they have – some have many more than others. Table A1.2.1 
+lists the numbers of genes present in a range of common organisms. Notice that the list includes 
+one bacterium, as well as certain plants and animals, and that the water flea has more genes than a 
+human, but the fruit fly has fewer.
+	
+◆Complementary 
+base pairing: this 
+describes how the 
+nitrogenous bases of 
+nucleic acids align with 
+each other in a specific 
+way, i.e. adenine pairs 
+with thymine (or uracil in 
+RNA) and cytosine with 
+guanine; complementary 
+bases are held together 
+by hydrogen bonds.
+Link
+The process of DNA 
+replication is covered 
+in more detail in 
+Chapter D1.1,  
+page 602.
+
+
+=== PAGE BREAK ===
+
+Theme A: Unity and diversity – Molecules
+24
+ 
+■Table A1.2.1 Estimated approximate numbers of protein-coding genes
+Species (animals and protists)
+Number of 
+genes
+Species (plants, fungi, 
+prokaryotes)
+Number of 
+genes
+Daphnia (water flea)
+31 000
+Oryza sativa (rice)
+41 500
+Homo sapiens (human)
+20 000 
+Vitis vinifera (grape)
+30 450
+Canis familiaris (domestic dog)
+19 000
+Arabidopsis thaliana (rockcress)
+27 000
+Drosophila melanogaster (fruit fly)
+14 000
+Saccharomyces cerevisiae (yeast)
+6 000
+Plasmodium (malarial parasite)
+5 000
+Escherichia coli (bacterium)
+4 300
+Another indication of the data-storing capability of DNA is the number of base pairs that DNA 
+contains (Table A1.2.2). 
+ 
+■Table A1.2.2 A comparison of genome size
+Species
+Total number of base pairs (bp) 
+T2 phage (a virus specific to a bacterium)
+3 569 (3.5 kb)
+Escherichia coli (bacterium) 
+4 600 000 (4.6 Mb)
+Drosophila melanogaster (fruit fly)
+123 000 000 (123 Mb) 
+Oryza sativa (rice)
+430 000 000 (430 Mb)
+Homo sapiens (human)
+3 200 000 000 (3.2 Gb)
+Paris japonica (canopy plant)
+150 000 000 000 (150 Gb)
+Genome size refers to the amount of DNA contained in a genome (which is the genetic code in one 
+complete set of chromosomes), where 1 Mb = 1 000 000 bp and 1 Gb = 1000 Mb. Table A1.2.2 
+expresses the number of base pairs in terminology familiar from computer data storage (Mb and Gb), 
+although here the units are different: gigabases (Gb) and megabases (Mb) rather than gigabytes 
+and megabytes.
+In a human cell, the DNA held in the nucleus measures about 2 m in total length. This length 
+contains 3.2 Gb of ‘data’ – a phenomenal quantity of genetic code. Within this DNA, it is estimated 
+that humans have between 20 000 and 25 000 protein-coding genes. These figures are an indication 
+of how DNA offers an enormous capacity for storing data with great economy.
+Conservation of the genetic code 
+We now know that the 64 codons in the genetic code of DNA have the same meaning and code for 
+the same amino acids in nearly all organisms. This supports the idea of a common origin of life on 
+Earth; that the very first DNA has sustained an unbroken chain of life from the first cells on Earth to 
+all cells in organisms alive today. Only the most minor variations in the genetic code have arisen in 
+the evolution and expansion of life since it originated 3.5 billion years ago.
+Over many generations, changes in the sequence of bases in the genome, and therefore in the mRNA 
+and order of amino acids that they assemble, can occur due to mutations. Many sequences, both in areas 
+which code for proteins (so-called ‘coding sequences’) and those that do not (known as non-coding 
+sequences), persist unchanged, however, or with only minor modifications over many generations: 
+these are known as conserved sequences. It is possible that highly conserved sequences have a 
+functional value, although the reasons for non-coding sequences are unclear. Even if the base sequences 
+in coding areas of DNA change, the sequences of amino acids they code for may not, because each 
+amino acid has several different mRNA codes, and so mutations in a coding sequence do not necessarily 
+affect the amino acid sequence of its protein product (these are called synonymous mutations).
+Concept: 
+Diversity
+The four-letter 
+genetic code (A, 
+C, T and G, coding 
+for A, C, U and 
+G in RNA) allows 
+a huge variety of 
+different proteins 
+to be coded for. 
+The human body 
+contains thousands 
+of different 
+proteins, each with 
+a specific function. 
+The evolution of 
+DNA over millions 
+of years (see 
+Chapter A4.1, 
+page 141) has led to 
+the vast diversity of 
+life seen on Earth, 
+from microscopic 
+bacteria to large 
+organisms such as 
+the blue whale and 
+redwood trees. 
+	
+◆Genome: the whole 
+of the genetic information 
+of an organism or cell.
+	
+◆Mutation: a change 
+in the amount or the 
+chemical structure (i.e. 
+base sequence) of DNA of 
+a chromosome.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+A1.2   Nucleic acids
+25
+The most highly conserved genes are those that can be found in all organisms. These include 
+proteins required for transcription and translation, and those found in ribosomes. The fact that such 
+genes exist indicate that all life is interlinked, with universal ancestry for all life on Earth. Histone 
+proteins, which help to package DNA within nuclei (see page 26), are also highly conserved in terms 
+of sequence and structure, again suggesting universal ancestry for all species.
+Common mistake
+A common mistake is to equate ‘genome’, or genomic size (which is the size of the genome), to the 
+total number of genes in an organism, rather than the correct definition – the total amount of DNA.
+Directionality of RNA and DNA
+We can identify direction or polarity in the DNA double helix. The phosphate groups along each 
+strand are bridges between carbon-3 of one sugar molecule and carbon-5 of the next, and one 
+chain runs from 5' to 3' while the other runs from 3' to 5' (see Figure A1.2.6). (Remember, the 
+carbon atoms of organic molecules can be numbered, page 18.) That is, the two chains of DNA 
+are antiparallel, as illustrated in Figure A1.2.6. The existence of direction in DNA strands becomes 
+important in DNA replication (when DNA is copied), when the genetic code is transcribed into 
+mRNA (a process called transcription), and when the message encoded in the mRNA is read to 
+form proteins (a process called translation).
+Information in the DNA lies in the sequence of the bases: cytosine (C), guanine (G), adenine (A) 
+and thymine (T). This sequence dictates the order in which specific amino acids are assembled and 
+combined together. The code lies in the sequence in one of the strands, the coding strand; the other 
+strand is complementary to it. It is the coding strand that becomes the template for transcription. 
+The coding strand is always read in the same direction (in the 3' to 5' direction). A single-stranded 
+molecule of RNA is formed by complementary base pairing (the RNA strand is synthesized in the 
+5' to 3' direction). The mRNA are translated in the 5' to 3' direction into amino acids by a ribosome 
+to produce a polypeptide chain. The details of these processes will be explored in subsequent 
+chapters (see page 619).
+Common mistake
+DNA has a role beyond coding for proteins. Although the genes within chromosomes code for 
+polypeptides, some regions of DNA do not code for proteins but have other important functions. 
+Some regions of DNA regulate the expression of genes, and other sections code for the RNA that 
+attaches to amino acids and also play a role in the formation of proteins at ribosomes (tRNA), for example.
+Purine-to-pyrimidine bonding
+When Watson and Crick assembled the first model of DNA in 1953 (see page 23), they used 
+cardboard cut-outs to represent the different bases and other nucleotide subunits. Their first attempts 
+used molecular shapes for thymine and guanine that were incorrect, and they arranged the different 
+atoms of different elements from which the bases were made in the wrong configuration. This meant 
+that the DNA model did not fit together correctly, as the lengths of the base pairings were incorrect. 
+Following suggestions from the American scientist Jerry Donohue, in which the correct shapes for 
+the bases were proposed, Watson made new cardboard cut-outs of the two bases, and found that the 
+TOK
+Highly repetitive DNA 
+sequences were once 
+described as ‘junk 
+DNA’, the label ‘junk’ 
+showing a degree of 
+confidence that those 
+sequences had no role. 
+To what extent do you 
+think the labels and 
+categories used in the 
+pursuit of knowledge 
+affect the knowledge 
+that we obtain?
+Link
+Translation and 
+transcription are 
+discussed further 
+in Chapter D1.2, 
+page 615.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme A: Unity and diversity – Molecules
+26
+complementary bases now fitted together perfectly (i.e., A with T and C with G), with each pair held 
+together by hydrogen bonds (Figure A1.2.6). The structure also matched Chargaff’s rules (see page 31, 
+later in this section).
+Tool 1: Experimental techniques 
+Physical molecular modelling
+Physical model making helped Watson 
+and Crick to establish the structure of 
+DNA in a number of ways:
+l	 it allowed them to combine what was 
+known about the chemical content 
+of DNA with information from X-ray 
+diffraction studies
+l	 by building scale models of the 
+components of DNA, they were able 
+to attempt to fit them together in a 
+way that agreed with the data from 
+other sources, such as Chargaff’s rules
+l	 they made several arrangements of 
+the scale model until they found the 
+best one that fitted all the data.
+ 
+■Figure A1.2.11 Watson and Crick with 
+their demonstration model of DNA
+Watson and Crick discovered that the base pairings, A to T and C to G, are of equal length. This 
+means that whatever the base sequence, the DNA helix has the same three-dimensional structure. 
+The hydrogen bonding between complementary bases also confers stability (Figure A1.2.12), making 
+DNA the ideal molecule for the storage of information in cells.
+Nucleosome structure
+In cells with a true nucleus (eukaryotes – see page 65), DNA occurs in the chromosomes in the 
+nucleus, along with protein. More than 50% of a chromosome contains protein. While some of the 
+proteins of the chromosome are enzymes involved in copying and repair reactions of DNA, the bulk 
+of chromosome protein has a support and packaging role for DNA.
+Why is packaging necessary?
+Take the case of human DNA. In the nucleus, the total length of the DNA of the chromosomes 
+is over 2 m. We know this is shared out between 46 chromosomes, and that each chromosome 
+contains one very long DNA molecule. Chromosomes are different lengths, depending on the 
+number of genes they contain, but we can estimate that within a typical chromosome of 5 μm length 
+(where 1 μm = 1/1000 mm), there is a DNA molecule approximately 5 cm long. This means that 
+about 50 000 μm of DNA is packed into 5 μm of chromosome.
+This phenomenal packaging is achieved by coiling the DNA double helix and looping it around 
+protein beads called nucleosomes, as illustrated in Figure A1.2.13.
+The packaging proteins of the nucleosome, called histones, are a basic (positively charged) protein 
+containing a high concentration of amino acid residues with additional basic groups (–NH2), such as 
+lysine and arginine (see also page 211, Theme B). In nucleosomes, eight histone molecules combine 
+to make a single bead. Around each bead, the DNA double helix is wrapped in a double loop.
+TOK
+Crick and Watson had 
+a distinctive method 
+of working, including 
+reinterpreting already-
+published data and 
+developing others’ 
+studies, leading to the 
+building of models 
+(Figure A1.2.11). 
+To what extent were 
+their achievements 
+the product of both 
+cooperation and 
+competition? 
+In researching this, 
+remember to consult 
+a variety of relevant 
+sources of information. 
+	
+◆Nucleosome: a 
+sequence of DNA 
+wound around eight 
+histone protein cores 
+– a repeating unit of 
+eukaryotic chromatin.
+	
+◆Histone: protein 
+(rich in the amino acids 
+arginine and lysine) that 
+forms the scaffolding 
+of chromosomes and 
+is used in chromosome 
+condensation to form 
+nucleosomes.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+A1.2   Nucleic acids
+27
+IIII
+IIII
+IIII
+IIII
+IIII
+CH2
+O
+O
+P
+–O
+IIII
+IIII
+CH2
+O
+O
+P
+O
+–O
+CH2
+O
+O
+P
+O
+–O
+IIII
+IIII
+IIII
+IIII
+IIII
+CH2
+O
+O
+P
+O
+O–
+CH2
+O
+OH
+P
+O
+O–
+HO
+O
+O
+P
+O
+O–
+CH2
+IIII
+IIII
+IIII
+IIII
+IIII
+CH2
+O
+O
+P
+O
+–O
+O
+O
+P
+O
+O–
+CH2
+O
+O
+P
+O
+–O
+O
+O
+P
+O
+O–
+IIII
+O
+O
+P
+O
+O–
+IIII
+IIII
+O
+G
+C
+T
+G
+A
+C
+G
+C
+A
+T
+T
+G
+C
+A
+3’
+5’
+DNA double helix
+strands are
+complementary and
+antiparallel
+phosphate group
+forms a bridge
+between the C3 of
+one sugar molecule
+and C5 of the next
+deoxyribose
+hydrogen
+bonds
+3’ end
+the C3 atom of
+the sugar has a
+free –OH group
+5’ end
+phosphate group
+bonded to the C5
+atom of the sugar
+complementary
+base pairs
+O
+N
+H
+NH2
+N
+N
+N
+N
+O
+1
+CH2
+H
+H
+H
+H
+H
+O
+4
+5
+3
+2
+guanine
+CH2
+CH2
+CH2
+2 H-bonds
+between A  T
+3 H-bonds
+between C  G
+ 
+■Figure A1.2.12 Direction, base pairing and hydrogen bonding between purine and pyrimidine bases in the DNA double helix
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme A: Unity and diversity – Molecules
+28
+DNA double helix
+wound twice around
+histone core
+core of nucleosome
+of eight histone
+molecules – forming
+a ‘bead’ structure
+H1 histone binds
+the DNA to the
+histone ‘bead’
+to next
+nucleosome
+30 nm
+fibre
+DNA double helix
+wound round histone
+protein ‘bead’ – called
+a nucleosome
+how the DNA molecule
+is packaged in eukaryotes
+the packaging of DNA in the chromosome
+Electron micrograph of metaphase chromosome
+(× 40 000) – at this stage the chromosome is at
+maximum condensed state
+ 
+■Figure A1.2.13 The nucleosome and supercoiling of DNA
+At times of cell division, when the nucleus divides, the whole beaded thread is coiled up, forming 
+the chromatin fibre. The chromatin fibre is again coiled, and the coils are looped around a ‘scaffold’ 
+protein fibre made of a non-histone chromosomal protein. This whole structure is folded 
+(supercoiled) into the much-condensed chromosome (Figure A1.2.13). 
+Clearly, the nucleosomes are the key structures in the safe storage of these phenomenal lengths of 
+DNA that are packed in the nuclei. However, nucleosomes also allow access to selected lengths of 
+the DNA (particular genes) during transcription – a process we will discuss shortly.
+Tool 1: Experimental techniques
+Digital molecular modelling
+A molecular visualization of DNA was created for the 50th anniversary of the 
+discovery of the double helix. The dynamics and molecular shapes were based on 
+X-ray crystallographic models and other data. You can observe an animation of the 
+packaging of the DNA molecule in nucleosomes at:
+www.lindenbiomedical.com/animation
+7	 Explain a main 
+advantage of 
+chromosomes 
+being ‘supercoiled’ 
+during the process 
+of cell division.
+We can conclude that the much smaller genomes of prokaryotes (organisms without a true nucleus, 
+i.e. bacteria) do not require this packaging, as protein is absent from the circular chromosomes of 
+bacteria. Here, the DNA is described as ‘naked’.
+Common mistake
+A group of bacteria called eubacteria have DNA that is not associated with histone proteins – this is 
+termed ‘naked’ DNA. Some students incorrectly use this term to describe DNA that is not enclosed 
+in a nuclear membrane, as is the case in all bacteria. The term ‘naked DNA’ should be reserved for 
+DNA that is not associated with histone proteins.
+ 
+■Use of molecular visualization software
+Molecular visualization software can be used to study the association between the proteins and DNA 
+within a nucleosome. This page shows DNA wrapped around a nucleosome:  
+www.wehi.edu.au/wehi-tv/nucleosomes
+	
+◆Non-histone 
+chromosomal protein: 
+proteins that remain 
+in the chromatin once 
+histone proteins have 
+been removed; they play a 
+key role in the regulation 
+of gene expression.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+A1.2   Nucleic acids
+29
+Search for your own image of a nucleosome using the Protein Data Bank (PDB):
+Access the PDB: www.rcsb.org/pdb/home/home.do
+1	 At the top of the page, search for ‘nucleosomes’ – this will take you to a list of images. Select 
+one – this will take you to a page that has an image of the nucleosome and information about it. 
+At the top of the page, select ‘3D view’. This will show you an image that you can use your mouse 
+to drag, rotate and zoom in and out of the structure. Alternatively, you can ‘Select Orientation’ 
+from the menu on the right.
+2	 Rotate the nucleosome so that you can see the two copies of each histone protein, with DNA 
+wrapped around each. Each protein has a tail that extends out from the core. DNA is wrapped 
+nearly twice around the octamer core.
+3	 You can alter the image by selecting a different style of molecular visualization. The default is 
+‘Mol* (Javascript)’ but other options can be accessed on the menu at the bottom right of the 
+screen (‘Select a different viewer’). If ‘JSmol’ is selected, the structure can be seen using a variety 
+of different styles and colours. 
+4	 Access the JSmol viewer. Select ‘colour by amino acid’. What role do the positively charged amino 
+acids play in the association of the protein core with the negatively charged DNA?
+This site also has a molecular visualization of a nucleosome:  
+www.mcb.ucdavis.edu/courses/jsmol/Nucleosomejs.htm
+It is possibly to modify the image using the selection underneath the visualization. For example, 
+‘Show protein as cartoons’. The original view can be restored by clicking on ‘Restore original view’.
+Count how many times the DNA is wound around the histones (to make this easier, you may 
+want to ‘Hide protein’). Count the number of histone proteins (H2A, H2B, H4 and H3). Note the 
+tails coming from the histone core. The N-terminal tail that projects from the histone core for each 
+protein is used in regulating gene expression through chemical modification.
+Another site allows you to download free software to view the three-dimensional structure of 
+molecules: https://pymol.org/2/
+This programme enables you to upload PDB files and allows you to zoom in and rotate molecules.
+The Hershey and Chase DNA experiment
+Since about 50% of a chromosome consists of protein, it is not surprising that scientists once 
+speculated that the protein of chromosomes might be the information substance of the cell. 
+For example, there is more chemical ‘variety’ within a protein than in nucleic acid. However, this 
+idea proved incorrect. We now know that the DNA of the chromosomes holds the information that 
+codes for the sequence of amino acids from which the proteins of the cell cytoplasm are synthesized.
+How was this established?
+The evidence for the unique importance of DNA was proved by an experiment carried out by 
+two experimental scientists, Martha Chase and Alfred Hershey, with a bacteriophage virus. 
+A bacteriophage (or phage) is a virus that parasitizes a bacterium. A virus particle consists of a 
+protein coat (capsid) surrounding a nucleic acid core. Once a virus has gained entry to a host cell, it 
+may take over the cell’s metabolism, switching it to the production of new viruses. Eventually, the 
+remains of the host cell break down (lysis) and the new virus particles escape – now able to repeat 
+the infection in new host cells. The life cycle of a bacteriophage, a virus with a complex ‘head’ and 
+‘tail’ structure, is shown in Figure A1.2.14.
+Link
+The life cycle of a 
+virus is covered more 
+fully in Chapter A2.3, 
+page 88.
+	
+◆Bacteriophage: 
+a virus that parasitizes 
+bacteria (also known as 
+a phage).
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme A: Unity and diversity – Molecules
+30
+baseplate of protein
+structure of the phage
+nucleic acid
+‘head’ of
+protein
+‘tail’ of
+protein
+steps to replication of the phage
+1  The phage attaches to the
+    bacterial wall and then injects the virus DNA.
+2  Virus DNA takes over the host’s synthesis
+    machinery.
+3  New viruses are assembled and then escape
+    to repeat the infection cycle.
+electron micrograph of bacteriophage
+infecting a bacterium
+ 
+■Figure A1.2.14 The life 
+cycle of a bacteriophage
+In 1952, Chase and Hershey used a bacteriophage that parasitizes the bacterium Escherichia coli 
+to answer the question of whether genetic information lies in the protein coat (capsid) or the DNA 
+(core) (Figure A1.2.15).
+Two batches of the bacteriophage were produced, one with radioactive phosphorus atoms (32P) built 
+into the DNA core (so here the DNA was labelled) and one with radioactive sulfur atoms (35S) built 
+into the protein coat (here the protein was labelled). Note that sulfur occurs in protein, but there 
+is no sulfur in DNA. Likewise, phosphorus occurs in DNA, but there is no phosphorus in protein. 
+So, we can be sure the radioactive labels were specific.
+bacteriophage
+reproduction
+35S remained outside the cells
+Is it the protein coat or the DNA of a bacteriophage that enters the host cell and takes
+over the cell’s machinery, so causing new viruses to be produced?
+Only the DNA part of the virus got into the host cell (and radioactively labelled DNA was present in the new viruses
+formed). It was the virus DNA that controlled the formation of new viruses in the host, so Hershey and Chase
+concluded that DNA carries the genetic message.
+35S
+bacteriophage
+reproduction
+lysis
+32P in cells
+32P
+32P present in
+viruses formed
+ 
+■Figure A1.2.15 
+The Hershey–Chase 
+experiment
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+A1.2   Nucleic acids
+31
+Two identical cultures of E. coli were infected, one with the 32P-labelled virus and one with the 
+35S-labelled virus. Subsequently, radioactively labelled viruses were obtained only from the bacteria 
+infected with virus labelled with 32P. In fact, the 35S label did not enter the host cell at all. Chase and 
+Hershey’s experiment clearly demonstrated that it is the DNA part of the virus which enters the host 
+cell and carries the genetic information for the production of new viruses.
+ ATL A1.2D 
+Find out more about Alfred Hershey and his work with Martha Chase using this site:  
+www.dnaftb.org/18/animation.html Select ‘animation’; and click on the icon ‘jump to’ to move to 
+the fourth section where Alfred Hershey discusses his research on bacteriophage genetics.
+8	 Deduce what 
+would have been 
+the outcome of 
+the Hershey–Chase 
+experiment (Figure 
+A1.2.15) if protein 
+had been the 
+carrier of genetic 
+information.
+Nature of science: Global impact of science
+The Hershey–Chase experiment illustrates how technological developments can open up new 
+possibilities for experiments. When radioisotopes were made available to scientists as research tools, 
+the Hershey–Chase experiment became possible.
+After the nuclear explosions over Japan at the end of the Second World War, the US government 
+publicised the peacetime benefits of nuclear knowledge through nuclear power and the medical 
+uses of radioisotopes. The availability of reactor-produced radioisotopes equipped virus researchers 
+(and biochemists more generally) with a valuable new research tool. Isotopes are especially suitable 
+for studying the dynamics of chemical transformation over time, through metabolic pathways or 
+life cycles.
+Chargaff’s data on the relative amounts 
+of pyrimidine and purine bases
+The discovery of the principle of base pairing by Watson and Crick was the result of their 
+interpretation of the work of Erwin Chargaff. In 1935, Chargaff had analysed the composition of 
+DNA from a range of organisms and found rather remarkable patterns. Apparently, the significance of 
+these patterns was not immediately obvious to Chargaff, though.
+His discoveries were:
+l	 the numbers of purine bases (adenine and guanine) always equalled the number of pyrimidine 
+bases (cytosine and thymine)
+l	 the number of adenine bases equalled the number of thymine bases, and the number of guanine 
+bases equalled the number of cytosine bases.
+What does this mean?
+The organic bases found in DNA are of two distinct types with contrasting shapes:
+l	 cytosine and thymine are pyrimidines or single-ring bases
+l	 adenine and guanine are purines or double-ring bases.
+Only a purine will fit with a pyrimidine between the sugar–phosphate backbones, when base pairing 
+occurs (Figure A1.2.6, page 41). So, in DNA adenine must pair with thymine, and cytosine must pair 
+with guanine.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme A: Unity and diversity – Molecules
+32
+Nature of science: Falsification
+The problem of induction
+Biology is not a body of unchanging facts, but a process of 
+generating new biological knowledge, theories and laws, 
+using the scientific method. There is no single agreed scientific 
+method, but a number of variations, all of which can be used to 
+generate new scientific knowledge. The scientific method you 
+will be familiar with from your practical work (investigations) is 
+known as the Baconian or inductive scientific method.
+The inductive scientific method begins with observations 
+and the collection of raw data. The data are analysed and a 
+hypothesis is generated. An investigation is then designed to 
+test the validity of the hypothesis. A general theory may then 
+be generated from the specific data and the hypothesis.
+Biologists use both inductive and deductive reasoning to study 
+biological problems.
+Inductive reasoning (Figure A1.2.16) is sometimes termed the 
+‘bottom up’ approach. When inductive reasoning is used, 
+specific observations and measurements may show a general 
+pattern. This may then lead to a hypothesis that can be 
+further explored and may also lead to the drawing of some 
+general conclusions.
+General
+principle
+Special
+case
+deductive 
+reasoning
+inductive
+reasoning
+     
+ 
+■Figure A1.2.16 Deductive 
+versus inductive reasoning
+In this case, one might construct an inductive argument along 
+the following lines: 
+Organisms A, B and C all have characteristic X. 
+Therefore, all items in the same class as A, B and C probably 
+also have X.
+For example:
+l	 This sawfly stung me. It is a hymenopteran. 
+l	 This wasp stung me. It is a hymenopteran.
+l	 This fire ant stung me. It is a hymenopteran.
+There is a pattern here: it might seem that all hymenopterans 
+(a large order of insects) have stingers.
+One potential issue here is the problem of induction. Using 
+data from many specific observations discovered in the past 
+to create general observations about what will always happen 
+in the future, is to assume; namely that the future will be just 
+the way it was when you gathered your data. But you may 
+be as yet unaware of something in your past observations 
+which means the generalisation is not true. For example, many 
+hymenopterans (stingless bees and ants, male honeybees 
+(drones), etc.) do not have stingers. Perhaps your previous 
+observations only happen to be of those hymenopterans 
+that did have a stinger, you just never saw all the others that 
+did not! (You might not discover this unless you test every 
+single hymenopteran species for stinging capability, and this is 
+simply impractical.)
+Inductive reasoning involves forming generalisations from 
+specific examples. Biology uses inductive reasoning – 
+generalisations based on empirical evidence – as the basis of 
+its justification for knowledge. A reliable scientific conclusion 
+will be based on a large number of repeated investigations.
+However, inductive reasoning can never give certainty. We also 
+cannot be sure that the generalizations made in the past will 
+continue to hold in the future. The impossibility of reaching 
+certainty through induction is known as the ‘problem of 
+induction’. Inductive generalisations (biological theories) may, 
+therefore, be shown to be wrong by new data and should only 
+be thought of as ‘tentative’. A single counter-example falsifies 
+an inductive conclusion. (However, some theories, such as cell 
+theory or the ‘theory of gravity’, are so well confirmed that 
+there is little room for rationally doubting them.) 
+As a counter to the view that scientists are simply looking for 
+further data to confirm their hypotheses (which are always 
+only tentative anyway), the philosopher Karl Popper rejected 
+the idea that science creates new knowledge by inductive 
+steps. He suggested that scientists may work intuitively and 
+creatively to generate a hypothesis before collecting data. This 
+guides the scientist to plan and carry out investigations to 
+collect data to test the hypothesis. The data will then either 
+support the hypothesis or falsify (i.e. disprove) the hypothesis, 
+but the falsifying data are actually more helpful in developing 
+knowledge. Popper suggested that falsification is an 
+important part of the scientific process because a hypothesis 
+which is confirmed after one or many experiments, may yet 
+for some unknown reason be falsified later. However, if a 
+hypothesis is shown to be false, then genuine knowledge is 
+gained: the hypothesis is not true.
+The Russian-American biochemist Phoebus Levene (1869–
+1940), who discovered ribose sugar in 1909 and deoxyribose 
+sugar in 1929, suggested (incorrectly, with hindsight) the 
+structure of nucleic acid as a repeating tetramer. He called the 
+phosphate–sugar–base unit a nucleotide.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+A1.2   Nucleic acids
+33
+Levene did not recognize that the compositions of nucleic acids were organism-specific, and he 
+did not recognize that in organisms the four nucleotides are not present in equal amounts. This 
+was due to the inaccuracy of the analytical techniques available at that time, which did not allow a 
+reliable determination of the relative amounts of nucleotides in nucleic acids.
+It was only in the second half of the 1940s that Erwin Chargaff established the organism-specificity 
+of nucleic acids and the special relationships among the amounts of nucleotides in any organism. 
+The tetranucleotide hypothesis became obsolete after the structure of DNA was determined, since 
+it was realized that a structure in which a four-member unit is being repeated could not carry the 
+genetic information that must be involved in heredity.
+The tetranucleotide hypothesis, and Chargaff’s falsification, is an example of how the problem of 
+induction can be addressed by the certainty of falsification. In this case, Chargaff’s data falsified the 
+tetranucleotide hypothesis that there was a repeating sequence of the four bases in DNA.
+LINKING QUESTIONS
+1	 What makes RNA more likely to have been the first genetic material, rather than DNA?
+2	 How can polymerization result in emergent properties?
+	
+◆Falsification: a 
+process used by scientists 
+in which a hypothesis is 
+tested by trying to show 
+that it is false. Where a 
+hypothesis cannot be 
+shown to be false after 
+repeated experiments 
+conducted by different 
+groups of scientists, it 
+is considered a strong 
+hypothesis.

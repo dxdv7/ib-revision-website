@@ -1,0 +1,1323 @@
+<title>Revision Deck</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+  :root{
+    --paper:#f6f1e4;
+    --card:#fffdf8;
+    --ink:#1c2b2c;
+    --ink-soft:#5a6b69;
+    --line:#ddd3ba;
+    --teal:#1f6f78;
+    --teal-deep:#124249;
+    --gold:#a9761f;
+    --gold-soft:#f3e6c8;
+    --green:#2f6e4c;
+    --green-soft:#e2efe3;
+    --plum:#6a4c8c;
+    --plum-soft:#ece3f4;
+    --red:#a83a33;
+    --red-soft:#f5e2df;
+    --focus:#1f6f78;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper:#101c1d;
+      --card:#16262a;
+      --ink:#e9e2d0;
+      --ink-soft:#93a6a4;
+      --line:#28403f;
+      --teal:#5cb8bd;
+      --teal-deep:#8fd2d5;
+      --gold:#dcab5b;
+      --gold-soft:#3a2f18;
+      --green:#7fc39a;
+      --green-soft:#1c3327;
+      --plum:#bb99e0;
+      --plum-soft:#2d2440;
+      --red:#e28a80;
+      --red-soft:#3a201d;
+      --focus:#5cb8bd;
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#101c1d;
+    --card:#16262a;
+    --ink:#e9e2d0;
+    --ink-soft:#93a6a4;
+    --line:#28403f;
+    --teal:#5cb8bd;
+    --teal-deep:#8fd2d5;
+    --gold:#dcab5b;
+    --gold-soft:#3a2f18;
+    --green:#7fc39a;
+    --green-soft:#1c3327;
+    --plum:#bb99e0;
+    --plum-soft:#2d2440;
+    --red:#e28a80;
+    --red-soft:#3a201d;
+    --focus:#5cb8bd;
+  }
+
+  *{box-sizing:border-box;}
+  html{color-scheme:light dark;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Inter",system-ui,sans-serif;
+    padding-inline:20px;
+    padding-block:40px;
+    -webkit-font-smoothing:antialiased;
+  }
+  @media (prefers-reduced-motion: reduce){
+    *{transition:none !important; animation:none !important;}
+  }
+
+  .wrap{
+    max-width:700px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:22px;
+  }
+
+  header.top{
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+    border-bottom:1px solid var(--line);
+    padding-bottom:18px;
+  }
+  .eyebrow{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:11.5px;
+    letter-spacing:.11em;
+    text-transform:uppercase;
+    color:var(--teal);
+    font-weight:600;
+  }
+  h1{
+    font-family:"Fraunces",Georgia,serif;
+    font-size:clamp(26px,5vw,34px);
+    font-weight:600;
+    margin:0;
+    text-wrap:balance;
+    line-height:1.1;
+  }
+  .subtitle{
+    color:var(--ink-soft);
+    font-size:14.5px;
+    max-width:56ch;
+    line-height:1.5;
+  }
+
+  .card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:26px;
+  }
+
+  /* ---- breadcrumbs ---- */
+  .crumbs{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    flex-wrap:wrap;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:12px;
+    color:var(--ink-soft);
+  }
+  .crumbs button{
+    background:none;
+    border:none;
+    padding:0;
+    font:inherit;
+    color:var(--teal);
+    cursor:pointer;
+  }
+  .crumbs button:hover{text-decoration:underline;}
+  .crumbs button:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
+  .crumbs .sep{color:var(--line);}
+  .crumbs .current{color:var(--ink); font-weight:600;}
+
+  /* ---- home: subject grid ---- */
+  .subject-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:12px;
+  }
+  @media (min-width:520px){
+    .subject-grid{grid-template-columns:repeat(3,1fr);}
+  }
+  .subject-tile{
+    border:1px solid var(--line);
+    border-radius:12px;
+    padding:18px 16px;
+    display:flex;
+    flex-direction:column;
+    gap:7px;
+    background:transparent;
+    text-align:left;
+    font-family:"Inter",sans-serif;
+    cursor:pointer;
+    color:var(--ink);
+  }
+  .subject-tile.active{border-color:var(--teal);}
+  .subject-tile.active:hover{background:color-mix(in srgb, var(--teal) 8%, transparent);}
+  .subject-tile:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
+  .subject-tile:disabled{opacity:.45; cursor:not-allowed;}
+  .subject-tile .s-name{
+    font-family:"Fraunces",Georgia,serif;
+    font-size:17px;
+    font-weight:600;
+  }
+  .subject-tile .s-meta{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10px;
+    text-transform:uppercase;
+    letter-spacing:.07em;
+    color:var(--ink-soft);
+  }
+  .subject-tile.active .s-meta{color:var(--teal);}
+
+  /* ---- economics: chapter list ---- */
+  .chapter-list{
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+  }
+  .chapter-card{
+    border:1px solid var(--line);
+    border-radius:12px;
+    padding:18px 20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:16px;
+    flex-wrap:wrap;
+  }
+  .chapter-card .c-name{
+    font-family:"Fraunces",Georgia,serif;
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:4px;
+  }
+  .chapter-card .c-meta{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:11.5px;
+    color:var(--ink-soft);
+  }
+  .chapter-card .btn-primary{width:auto; padding:11px 20px; font-size:14px; flex:none;}
+  .chapter-card .card-actions{display:flex; gap:8px; flex-wrap:wrap; flex:none;}
+  .chapter-card .card-actions .btn-secondary{padding:11px 16px; font-size:14px;}
+
+  /* ---- notes ---- */
+  .notes-section{
+    margin-bottom:28px;
+    padding-bottom:24px;
+    border-bottom:1px solid var(--line);
+  }
+  .notes-section:last-child{border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .notes-body h2{
+    font-family:"Fraunces",Georgia,serif;
+    font-size:20px;
+    font-weight:600;
+    margin:0 0 10px;
+    text-wrap:balance;
+  }
+  .notes-body h3{
+    font-family:"Inter",sans-serif;
+    font-size:12px;
+    text-transform:uppercase;
+    letter-spacing:.06em;
+    color:var(--ink-soft);
+    font-weight:700;
+    margin:18px 0 8px;
+  }
+  .notes-body p{font-size:14.5px; line-height:1.65; margin:0 0 10px;}
+  .notes-body ul{padding-left:20px; margin:8px 0 14px;}
+  .notes-body li{font-size:14.5px; line-height:1.6; margin-bottom:5px;}
+  .notes-body strong{color:var(--ink);}
+  .callout{
+    border-radius:10px;
+    padding:14px 16px;
+    margin:14px 0;
+    border:1px solid var(--line);
+    font-size:13.5px;
+    line-height:1.55;
+  }
+  .callout .c-label{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:.07em;
+    font-weight:600;
+    display:block;
+    margin-bottom:6px;
+  }
+  .callout.key{background:var(--gold-soft); border-color:var(--gold);}
+  .callout.key .c-label{color:var(--gold);}
+  .callout.cure{background:var(--green-soft); border-color:var(--green);}
+  .callout.cure .c-label{color:var(--green);}
+  .callout.distinction{background:var(--plum-soft); border-color:var(--plum);}
+  .callout.distinction .c-label{color:var(--plum);}
+  .formula-box{
+    font-family:"IBM Plex Mono",monospace;
+    text-align:center;
+    font-size:14px;
+    padding:14px;
+    border:1px solid var(--teal);
+    border-radius:10px;
+    background:color-mix(in srgb, var(--teal) 8%, transparent);
+    margin:14px 0;
+  }
+  .table-wrap{overflow-x:auto; margin:14px 0;}
+  .notes-table{width:100%; border-collapse:collapse; font-size:13.5px;}
+  .notes-table th, .notes-table td{border:1px solid var(--line); padding:8px 10px; text-align:left; vertical-align:top;}
+  .notes-table th{
+    background:var(--paper);
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    color:var(--ink-soft);
+  }
+
+  /* ---- setup screen ---- */
+  .field{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    margin-bottom:22px;
+  }
+  .field:last-of-type{margin-bottom:0;}
+  .field-label{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:11px;
+    letter-spacing:.09em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+  }
+  .seg{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  .seg button{
+    font-family:"Inter",sans-serif;
+    font-size:14px;
+    font-weight:500;
+    padding:9px 16px;
+    border-radius:999px;
+    border:1px solid var(--line);
+    background:transparent;
+    color:var(--ink);
+    cursor:pointer;
+  }
+  .seg button.active{
+    background:var(--teal);
+    border-color:var(--teal);
+    color:#fff;
+  }
+  .seg button:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
+
+  .best-line{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:12.5px;
+    color:var(--ink-soft);
+    margin-top:4px;
+  }
+
+  .btn-primary{
+    font-family:"Inter",sans-serif;
+    font-weight:600;
+    font-size:15px;
+    padding:13px 22px;
+    border-radius:10px;
+    border:none;
+    background:var(--teal);
+    color:#fff;
+    cursor:pointer;
+    width:100%;
+  }
+  .btn-primary:hover{background:var(--teal-deep);}
+  .btn-primary:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
+  .btn-secondary{
+    font-family:"Inter",sans-serif;
+    font-weight:600;
+    font-size:14px;
+    padding:11px 18px;
+    border-radius:10px;
+    border:1px solid var(--line);
+    background:transparent;
+    color:var(--ink);
+    cursor:pointer;
+  }
+  .btn-secondary:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
+
+  /* ---- quiz screen ---- */
+  .progress-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:12.5px;
+    color:var(--ink-soft);
+    margin-bottom:10px;
+  }
+  .progress-track{
+    height:5px;
+    background:var(--line);
+    border-radius:999px;
+    overflow:hidden;
+    margin-bottom:22px;
+  }
+  .progress-fill{
+    height:100%;
+    background:var(--teal);
+    border-radius:999px;
+  }
+  .chip{
+    display:inline-block;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10.5px;
+    letter-spacing:.07em;
+    text-transform:uppercase;
+    padding:3px 9px;
+    border-radius:999px;
+    background:var(--gold-soft);
+    color:var(--gold);
+    font-weight:600;
+    margin-bottom:14px;
+  }
+  .chip.ch20{background:var(--plum-soft); color:var(--plum);}
+
+  .question-text{
+    font-family:"Fraunces",Georgia,serif;
+    font-size:clamp(19px,3.4vw,23px);
+    font-weight:500;
+    line-height:1.35;
+    text-wrap:balance;
+    margin:0 0 20px;
+  }
+
+  .options{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    margin-bottom:20px;
+  }
+  .option{
+    display:flex;
+    align-items:flex-start;
+    gap:12px;
+    text-align:left;
+    width:100%;
+    padding:13px 15px;
+    border-radius:10px;
+    border:1px solid var(--line);
+    background:transparent;
+    color:var(--ink);
+    font-family:"Inter",sans-serif;
+    font-size:14.5px;
+    line-height:1.4;
+    cursor:pointer;
+  }
+  .option:hover{border-color:var(--teal);}
+  .option:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
+  .option .tag{
+    font-family:"IBM Plex Mono",monospace;
+    font-weight:600;
+    font-size:12.5px;
+    color:var(--ink-soft);
+    flex:none;
+    width:18px;
+  }
+  .option.selected{border-color:var(--teal); background:color-mix(in srgb, var(--teal) 10%, transparent);}
+  .option.correct{border-color:var(--green); background:var(--green-soft);}
+  .option.correct .tag{color:var(--green);}
+  .option.incorrect{border-color:var(--red); background:var(--red-soft);}
+  .option.incorrect .tag{color:var(--red);}
+  .option:disabled{cursor:default;}
+
+  .feedback{
+    border-radius:10px;
+    padding:14px 16px;
+    font-size:14px;
+    line-height:1.5;
+    margin-bottom:20px;
+    border:1px solid var(--line);
+  }
+  .feedback.good{background:var(--green-soft); border-color:var(--green); color:var(--ink);}
+  .feedback.bad{background:var(--red-soft); border-color:var(--red); color:var(--ink);}
+  .feedback .verdict{
+    font-family:"IBM Plex Mono",monospace;
+    font-weight:600;
+    font-size:11.5px;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    display:block;
+    margin-bottom:6px;
+  }
+  .feedback.good .verdict{color:var(--green);}
+  .feedback.bad .verdict{color:var(--red);}
+
+  .quiz-actions{display:flex; justify-content:flex-end;}
+  .quiz-actions .btn-primary{width:auto; padding:12px 26px;}
+
+  /* ---- results screen ---- */
+  .score-row{
+    display:flex;
+    align-items:baseline;
+    gap:14px;
+    margin-bottom:6px;
+  }
+  .score-num{
+    font-family:"IBM Plex Mono",monospace;
+    font-weight:600;
+    font-size:44px;
+    font-variant-numeric:tabular-nums;
+    color:var(--teal);
+  }
+  .score-of{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:16px;
+    color:var(--ink-soft);
+  }
+  .score-pct{
+    font-family:"Inter",sans-serif;
+    font-size:15px;
+    color:var(--ink-soft);
+    margin-bottom:20px;
+  }
+  .breakdown{
+    display:flex;
+    gap:14px;
+    flex-wrap:wrap;
+    margin-bottom:24px;
+  }
+  .breakdown .b-item{
+    flex:1;
+    min-width:140px;
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:12px 14px;
+  }
+  .breakdown .b-item .label{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10.5px;
+    letter-spacing:.07em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin-bottom:4px;
+  }
+  .breakdown .b-item .val{
+    font-family:"IBM Plex Mono",monospace;
+    font-weight:600;
+    font-size:20px;
+    font-variant-numeric:tabular-nums;
+  }
+  .result-actions{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    margin-bottom:22px;
+  }
+  .result-actions button{flex:1; min-width:160px;}
+
+  details.review{
+    border-top:1px solid var(--line);
+    padding-top:16px;
+  }
+  details.review summary{
+    cursor:pointer;
+    font-family:"Inter",sans-serif;
+    font-weight:600;
+    font-size:14px;
+    color:var(--teal);
+  }
+  .review-item{
+    padding:16px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .review-item:last-child{border-bottom:none;}
+  .review-q{
+    font-family:"Fraunces",Georgia,serif;
+    font-size:16px;
+    margin:0 0 10px;
+    line-height:1.35;
+  }
+  .review-line{
+    font-size:13.5px;
+    line-height:1.5;
+    margin-bottom:4px;
+  }
+  .review-line .who{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:.06em;
+    margin-right:6px;
+  }
+  .review-line.wrong .who{color:var(--red);}
+  .review-line.right .who{color:var(--green);}
+  .review-explain{
+    font-size:13.5px;
+    color:var(--ink-soft);
+    margin-top:8px;
+    line-height:1.5;
+  }
+
+  [hidden]{display:none !important;}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <span class="eyebrow">Revision Deck</span>
+    <h1>Study by subject</h1>
+    <p class="subtitle">Randomized, repeatable quizzes built straight from your own notes. Pick a subject to begin.</p>
+  </header>
+
+  <nav class="crumbs" id="crumbs" hidden></nav>
+
+  <!-- HOME: subject menu -->
+  <section class="card" id="view-home">
+    <div class="subject-grid">
+      <button class="subject-tile" disabled><span class="s-name">Polish</span><span class="s-meta">Notes coming soon</span></button>
+      <button class="subject-tile" disabled><span class="s-name">English</span><span class="s-meta">Notes coming soon</span></button>
+      <button class="subject-tile" disabled><span class="s-name">Biology</span><span class="s-meta">Notes coming soon</span></button>
+      <button class="subject-tile" disabled><span class="s-name">Business</span><span class="s-meta">Notes coming soon</span></button>
+      <button class="subject-tile active" id="tile-economics"><span class="s-name">Economics</span><span class="s-meta">2 chapters ready</span></button>
+      <button class="subject-tile" disabled><span class="s-name">Maths AI</span><span class="s-meta">Notes coming soon</span></button>
+    </div>
+  </section>
+
+  <!-- ECONOMICS: chapter menu -->
+  <section class="card" id="view-economics" hidden>
+    <div class="chapter-list">
+      <div class="chapter-card">
+        <div class="info">
+          <div class="c-name">Chapter 19 &mdash; Low Unemployment</div>
+          <div class="c-meta" id="ch19-meta">32 questions &middot; full notes</div>
+        </div>
+        <div class="card-actions">
+          <button class="btn-secondary" data-notes="19">Read notes</button>
+          <button class="btn-primary" data-chapter="19">Start quiz</button>
+        </div>
+      </div>
+      <div class="chapter-card">
+        <div class="info">
+          <div class="c-name">Chapter 20 &mdash; Low &amp; Stable Inflation</div>
+          <div class="c-meta" id="ch20-meta">40 questions &middot; full notes</div>
+        </div>
+        <div class="card-actions">
+          <button class="btn-secondary" data-notes="20">Read notes</button>
+          <button class="btn-primary" data-chapter="20">Start quiz</button>
+        </div>
+      </div>
+      <div class="chapter-card">
+        <div class="info">
+          <div class="c-name">Full mix &mdash; both chapters</div>
+          <div class="c-meta" id="chboth-meta">72 questions</div>
+        </div>
+        <div class="card-actions">
+          <button class="btn-primary" data-chapter="both">Start quiz</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- NOTES -->
+  <section class="card" id="view-notes" hidden>
+    <div class="notes-body" id="notes-body"></div>
+    <div class="result-actions">
+      <button class="btn-primary" id="btn-notes-quiz">Start quiz on this chapter</button>
+      <button class="btn-secondary" id="btn-notes-back">Back to Economics</button>
+    </div>
+  </section>
+
+  <!-- SETUP -->
+  <section class="card" id="view-setup" hidden>
+    <div class="field">
+      <span class="field-label" id="setup-title">Quiz length</span>
+      <div class="seg" id="seg-count"></div>
+    </div>
+    <button class="btn-primary" id="btn-start">Start quiz</button>
+    <div class="best-line" id="best-line" hidden></div>
+  </section>
+
+  <!-- QUIZ -->
+  <section class="card" id="view-quiz" hidden>
+    <div class="progress-row">
+      <span id="q-counter">Question 1 of 20</span>
+      <span id="q-score">Score 0</span>
+    </div>
+    <div class="progress-track"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
+    <span class="chip" id="q-chip">Chapter 19</span>
+    <p class="question-text" id="q-text"></p>
+    <div class="options" id="q-options"></div>
+    <div class="feedback" id="q-feedback" hidden></div>
+    <div class="quiz-actions">
+      <button class="btn-primary" id="btn-check" disabled>Check answer</button>
+    </div>
+  </section>
+
+  <!-- RESULTS -->
+  <section class="card" id="view-results" hidden>
+    <span class="field-label">Result</span>
+    <div class="score-row">
+      <span class="score-num" id="r-score">0</span>
+      <span class="score-of" id="r-of">/ 20</span>
+    </div>
+    <div class="score-pct" id="r-pct"></div>
+    <div class="breakdown" id="r-breakdown"></div>
+    <div class="result-actions">
+      <button class="btn-primary" id="btn-retake">Retake &mdash; reshuffled</button>
+      <button class="btn-secondary" id="btn-settings">Change length</button>
+      <button class="btn-secondary" id="btn-chapters">Back to chapters</button>
+    </div>
+    <details class="review">
+      <summary>Review every question &amp; answer</summary>
+      <div id="r-review"></div>
+    </details>
+  </section>
+</div>
+
+<script>
+(function(){
+"use strict";
+
+/* ---------------- question bank ---------------- */
+/* choices[0] is always the correct answer at authoring time; shuffled at render. */
+var BANK = [
+  {ch:19,q:"According to the ILO definition, who counts as &ldquo;unemployed&rdquo;?",choices:["People of working age who are without work, available for work, and actively seeking employment","Anyone without a paid job of any kind","People who have stopped looking for work entirely","Everyone of working age who is not in full-time education"],explain:"The ILO definition requires all three conditions at once: without work, available for work, and actively seeking it."},
+  {ch:19,q:"What is the formula for the unemployment rate?",choices:["(Number unemployed &divide; Total labour force) &times; 100","(Number unemployed &divide; Total population) &times; 100","(Number employed &divide; Labour force) &times; 100","(Labour force &divide; Population) &times; 100"],explain:"The denominator is the labour force (employed + unemployed), never the whole population."},
+  {ch:19,q:"Which of these is NOT part of the labour force?",choices:["A retired person who isn't seeking work","An employed factory worker","Someone actively job-hunting","A person currently working on a zero-hours contract"],explain:"The labour force is everyone of working age who is employed or unemployed; retirees, students and stay-at-home parents who aren't seeking work are excluded."},
+  {ch:19,q:"Why is unemployment hard to compare accurately across countries?",choices:["Countries measure it differently &mdash; e.g. registered unemployed vs. benefit claimants","Every country uses an identical ILO survey","Unemployment never actually varies between countries","Labour forces are always the same size everywhere"],explain:"Austria/Switzerland count registered unemployed while Britain/Belgium count benefit claimants &mdash; the incentive to register depends on how generous benefits are."},
+  {ch:19,q:"A long-term unemployed person who has given up looking for work &mdash; and so drops out of the statistics &mdash; is called a&hellip;",choices:["Discouraged worker","Frictionally unemployed worker","Underemployed worker","Structurally displaced worker"],explain:"Discouraged workers are no longer counted as unemployed because they aren't &ldquo;actively seeking&rdquo; work any more."},
+  {ch:19,q:"A part-time worker who wants a full-time job but can't find one is an example of&hellip;",choices:["Underemployment","A discouraged worker","Overqualification","Seasonal unemployment"],explain:"Underemployment is hidden unemployment: people in part-time or temporary work who want full-time/permanent work."},
+  {ch:19,q:"A qualified engineer working as a cashier because it's better than nothing illustrates&hellip;",choices:["Overqualification","Frictional unemployment","A discouraged worker","Cyclical unemployment"],explain:"Overqualification is hidden unemployment: working in a job well below one's skill level."},
+  {ch:19,q:"Which group typically shows higher-than-average unemployment, according to the chapter?",choices:["Under-25s","Government ministers","People over 65","Company shareholders"],explain:"The chapter lists age disparities &mdash; under-25s usually have higher unemployment than the national average."},
+  {ch:19,q:"The cost of unemployment to &ldquo;the economy as a whole&rdquo; is best illustrated by&hellip;",choices:["The economy producing at a point inside its production possibility curve (PPC)","A rightward shift of the PPC","A movement from one point to another along the PPC","The PPC turning into a straight line"],explain:"A point inside the PPC represents output below potential &mdash; an opportunity cost of lost production."},
+  {ch:19,q:"Which &ldquo;key concept&rdquo; is linked to the stress, anxiety and depression that long-term unemployment can cause?",choices:["Wellbeing","Efficiency","Equity","Sustainability"],explain:"The chapter tags the personal/social costs of long-term unemployment under the key concept of Wellbeing."},
+  {ch:19,q:"In the &ldquo;pool of unemployment&rdquo; model, which of these is an INFLOW that raises unemployment?",choices:["A stay-at-home parent trying to return to the workforce","A worker retiring","A person who has just found a job","Someone who gives up searching for work"],explain:"Inflows include job losses, resignations, school-leavers, returning workers, and new immigrants still job-hunting."},
+  {ch:19,q:"Which of these is an OUTFLOW from the pool of unemployment?",choices:["Someone going back into full-time education","A recent school-leaver still job-hunting","A worker who has just lost their job","An immigrant who hasn't yet found work"],explain:"Outflows include finding a job, retiring, returning to education, staying home with children, emigrating, giving up the search, or death."},
+  {ch:19,q:"On the aggregate labour market diagram, the ADL (demand for labour) curve slopes downward because&hellip;",choices:["Higher wages make firms want to employ fewer workers","Higher wages attract more firms into the market","Demand for labour never changes with wages","Workers demand higher wages as employment rises"],explain:"As with any demand curve, a higher price (wage) reduces the quantity firms want to buy (employ)."},
+  {ch:19,q:"The ASL (supply of labour) curve on that diagram slopes upward because&hellip;",choices:["Higher wages encourage more people to be willing to work","Higher wages discourage people from working","Supply of labour is fixed regardless of wages","Firms supply more labour as wages rise"],explain:"As wages rise, more people are willing to enter or stay in the workforce."},
+  {ch:19,q:"Cyclical (demand-deficient) unemployment is also known as&hellip;",choices:["Keynesian unemployment","Classical unemployment","Frictional unemployment","Monetarist unemployment"],explain:"It's linked to the business cycle and is the type Keynes focused on: a recession reduces AD and therefore demand for labour."},
+  {ch:19,q:"Why doesn't the wage rate simply fall to clear cyclical unemployment automatically?",choices:["Wages are &ldquo;sticky downwards&rdquo; due to morale concerns, contracts and union power","Firms always prefer to raise wages during a recession","Governments legally freeze all wages during a downturn","Wages do fall instantly to the new equilibrium"],explain:"Sticky wages keep pay stuck near the old equilibrium even though demand for labour has fallen, creating unemployment."},
+  {ch:19,q:"What is the standard cure for cyclical (demand-deficient) unemployment?",choices:["Expansionary fiscal and/or monetary policy to raise aggregate demand","Cutting unemployment benefits","Labour market deregulation","Occupational retraining programmes"],explain:"Since the cause is insufficient AD, Keynesian demand management (more G, lower taxes, lower interest rates) is the prescribed cure."},
+  {ch:19,q:"Which of these is NOT a genuine downside of demand-side policies listed in the chapter?",choices:["They work instantly with no time lag at all","They carry a high opportunity cost","Tax cuts might be saved rather than spent","They can cause crowding out"],explain:"The chapter explicitly says demand-side policy is only effective in the longer term because of policy lags &mdash; the opposite of instant."},
+  {ch:19,q:"Why is structural unemployment often called &ldquo;the worst type&rdquo;?",choices:["It tends to be long-term because workers lack occupational and/or geographic mobility","It always affects the entire economy overnight","It's impossible to measure at all","It only ever affects workers under 25"],explain:"Workers can't easily switch skills (occupational mobility) or move to where new jobs are (geographic mobility)."},
+  {ch:19,q:"Which of these is structural unemployment caused by a permanent fall in demand for a type of labour?",choices:["Coal miners losing jobs as consumers shift away from coal","A ski instructor unemployed in summer","A graduate still searching for a first job a month after leaving university","A worker briefly between two jobs"],explain:"Changing consumer tastes away from coal permanently reduce demand for that type of labour &mdash; classic structural unemployment."},
+  {ch:19,q:"A minimum wage set above the equilibrium wage causes which type of unemployment?",choices:["Structural (real-wage / classical) unemployment","Frictional unemployment","Seasonal unemployment","Cyclical unemployment"],explain:"This is Form 2 of structural unemployment &mdash; caused by a change in the institutional framework of the labour market."},
+  {ch:19,q:"Which of these is an &ldquo;interventionist&rdquo; cure for structural unemployment?",choices:["Government-funded retraining and apprenticeship programmes","Cutting unemployment benefits","Deregulating the labour market","Removing minimum wage laws"],explain:"Interventionist policies aim to boost occupational/geographic mobility through education, retraining, subsidies and job centres."},
+  {ch:19,q:"Which of these is a &ldquo;market-based&rdquo; cure for structural unemployment?",choices:["Reducing unemployment benefits to increase the incentive to take a job","Subsidizing worker relocation","Reforming the education system","Running job centres with vacancy information"],explain:"Market-based supply-side policies rely on shrinking the safety net or removing regulation, rather than direct government provision."},
+  {ch:19,q:"What is a key trade-off of market-based supply-side policies (e.g. cutting benefits, deregulating)?",choices:["They can worsen equity and job security/working conditions","They always increase total government spending","They eliminate frictional unemployment completely","They guarantee higher wages for every worker"],explain:"Losing benefits can hurt living standards (inequity), and deregulation can mean weaker job security &mdash; even if unemployment falls."},
+  {ch:19,q:"Frictional unemployment is best described as&hellip;",choices:["Short-term and largely voluntary, e.g. someone between jobs","Caused by a permanent decline in an industry","Purely a result of the business cycle","Always a sign of a struggling economy"],explain:"It's not generally seen as a problem in a healthy, dynamic economy &mdash; workers are searching for a better match, not stuck."},
+  {ch:19,q:"Seasonal unemployment affects which of these workers most directly?",choices:["A ski instructor with no work in the off-season","A structurally displaced coal miner","A worker laid off during a recession","A graduate awaiting their first job offer"],explain:"Seasonal unemployment comes from demand for certain labour varying naturally with the time of year."},
+  {ch:19,q:"The natural rate of unemployment is the sum of which three types?",choices:["Structural + Frictional + Seasonal","Cyclical + Structural + Frictional","Structural + Cyclical + Seasonal","Frictional + Cyclical + Seasonal"],explain:"Cyclical unemployment is explicitly excluded &mdash; the natural rate exists even at full employment output."},
+  {ch:19,q:"Why can't demand management reduce the natural rate of unemployment?",choices:["It isn't caused by deficient AD, so using demand policy at full employment just causes inflation","Demand management only ever affects structural unemployment","Governments are legally barred from trying","The natural rate is always exactly zero"],explain:"Since the natural rate isn't a demand-deficiency problem, only supply-side policy can address it."},
+  {ch:19,q:"Automatic stabilizers, unlike discretionary fiscal policy&hellip;",choices:["Change automatically (e.g. tax revenue, benefit spending) without a new government decision","Require a brand-new law every time they're used","Only apply to monetary policy, never fiscal","Are set directly by the central bank"],explain:"During high unemployment, tax revenue automatically falls and benefit spending automatically rises &mdash; no fresh policy decision needed."},
+  {ch:19,q:"In the crowding-out model, what happens when government borrows to finance a deficit?",choices:["Demand for loanable funds rises, pushing up interest rates and potentially reducing private investment","Interest rates always fall as a result","Private investment always rises alongside government borrowing","The supply of loanable funds automatically increases to match"],explain:"Government bond sales raise demand in the loanable funds market, and the resulting higher interest rate can crowd out private borrowing."},
+  {ch:19,q:"In the &ldquo;extreme&rdquo; New Classical view of crowding out, the supply of loanable funds is drawn as&hellip;",choices:["Perfectly inelastic (vertical) &mdash; government borrowing fully replaces private borrowing","Perfectly elastic (horizontal)","Upward-sloping like a normal supply curve","Downward-sloping"],explain:"With a vertical SLF, total borrowing can't rise at all &mdash; government borrowing crowds out private borrowing one-for-one."},
+  {ch:19,q:"Keynesian economists argue crowding out is less of a problem when&hellip;",choices:["The economy is operating below full employment, so there is slack","The economy is already at full employment","Interest rates are already very high","The government is running a budget surplus"],explain:"With spare capacity in the loanable funds market, extra government borrowing doesn't have to displace private borrowing one-for-one."},
+  {ch:20,q:"Inflation is defined as&hellip;",choices:["A persistent increase in the average price level, usually measured by the CPI","Any single price increase for any one good","A fall in the unemployment rate","A one-off rise in the price of oil"],explain:"The word &ldquo;persistent&rdquo; matters &mdash; a one-off price rise for a single good is not inflation."},
+  {ch:20,q:"If your income stays flat while prices rise 2%, what has happened to your real income?",choices:["It has fallen &mdash; you can now buy less than before","It has risen","It has stayed exactly the same","It has doubled"],explain:"A loss of purchasing power is the most direct cost of inflation for anyone whose income doesn't keep pace."},
+  {ch:20,q:"What is the formula for the real interest rate?",choices:["Nominal interest rate \u2212 inflation rate","Nominal interest rate + inflation rate","Inflation rate &divide; nominal interest rate","Nominal interest rate &times; inflation rate"],explain:"If inflation exceeds the nominal rate, the real rate turns negative and savers lose purchasing power."},
+  {ch:20,q:"A &ldquo;flight to assets&rdquo; during high inflation means people&hellip;",choices:["Switch from saving money to buying fixed assets like houses or gold as a hedge","Deposit even more money into savings accounts","Stop buying anything at all","Demand lower wages from employers"],explain:"This reduces the pool of savings available for firms to borrow and invest, harming long-term growth."},
+  {ch:20,q:"If a country's inflation rate is higher than its trading partners', its exports become&hellip;",choices:["Relatively more expensive and less competitive","Relatively cheaper and more competitive","Completely unaffected by domestic inflation","Automatically subsidized by the government"],explain:"Higher relative inflation worsens international competitiveness and can hurt the trade balance."},
+  {ch:20,q:"Who tends to WIN from unexpected inflation?",choices:["Borrowers, since the real value of what they repay falls","Savers and lenders","People on fixed incomes","People who are &ldquo;cash rich&rdquo;"],explain:"Borrowers benefit because inflation lowers the real interest rate, making their repayments worth less in real terms."},
+  {ch:20,q:"Who tends to LOSE from unexpected inflation?",choices:["People on fixed incomes, such as pensioners on a fixed pension","Borrowers with existing loans","Importers","People with strong wage-bargaining power"],explain:"Fixed incomes don't rise automatically with prices, so purchasing power falls in real terms."},
+  {ch:20,q:"High domestic inflation tends to&hellip; exporters, while it tends to&hellip; importers.",choices:["hurt; help","help; hurt","hurt; hurt","help; help"],explain:"Exports become less attractive to foreign buyers, while imports become relatively more attractive as domestic prices rise."},
+  {ch:20,q:"The CPI is calculated by tracking the price of&hellip;",choices:["A representative &ldquo;basket&rdquo; of goods and services a typical household buys","Only the price of imported goods","Government spending on infrastructure","Wages paid to public-sector workers"],explain:"Statisticians choose a representative basket and track how its total price changes over time."},
+  {ch:20,q:"Why are categories in the CPI basket given different &ldquo;weights&rdquo;?",choices:["So a big-budget category like housing counts for more than a small item like education","To make the arithmetic simpler","Because the law requires equal weighting","To deliberately hide the true inflation rate"],explain:"Weights reflect each category's actual share of typical household spending."},
+  {ch:20,q:"Which of these is a genuine limitation of the CPI as an inflation measure?",choices:["It uses a national average basket that may not reflect any individual household's real spending","It is recalculated every single hour","It never needs to be revised","It captures every household's exact spending pattern perfectly"],explain:"A family with children and a retired couple have very different spending patterns, both hidden inside one national average."},
+  {ch:20,q:"If a computer's price rises because its memory has been upgraded, why is this NOT true inflation?",choices:["The price rise reflects a quality improvement, not a price rise for an unchanged product","Computers are excluded from every CPI basket","Technology prices never count towards inflation","It is true inflation &mdash; no exception applies here"],explain:"Quality changes are one of the specific problems that limit the accuracy of the CPI as a pure price measure."},
+  {ch:20,q:"&ldquo;Core inflation&rdquo; is calculated by&hellip;",choices:["Stripping out volatile food and energy prices to see the underlying trend","Including only food and energy prices","Averaging inflation rates across every country","Doubling the headline CPI rate"],explain:"Temporary or volatile swings (seasonal food, oil shocks) can distort the headline rate, so core inflation removes them."},
+  {ch:20,q:"Demand-pull inflation is caused by&hellip;",choices:["A rise in aggregate demand, which &ldquo;pulls up&rdquo; the price level along SRAS","A rise in production costs","A fall in the money supply","A fall in exports"],explain:"Rising consumer confidence, exports, or government spending can all increase AD and pull prices upward."},
+  {ch:20,q:"According to Monetarist economists, inflation is ultimately always caused by&hellip;",choices:["Excessive growth of the money supply","Trade union wage demands alone","Government spending cuts","Falling consumer confidence"],explain:"The Monetarist view is that inflation is fundamentally a monetary phenomenon: more money chasing the same output."},
+  {ch:20,q:"Cost-push inflation shifts which curve, and in which direction?",choices:["Short-run aggregate supply (SRAS) shifts left","SRAS shifts right","Aggregate demand shifts right","Aggregate demand shifts left"],explain:"Rising production costs shift SRAS left, raising the price level while lowering real output."},
+  {ch:20,q:"Unlike demand-pull inflation, cost-push inflation causes real output to&hellip;",choices:["Fall, while the price level rises","Rise, while the price level rises","Stay exactly the same","Fall along with the price level"],explain:"Demand-pull raises both price and output; cost-push raises price but lowers output &mdash; a key distinction."},
+  {ch:20,q:"A fall in the exchange rate can cause which type of inflation?",choices:["Import-push (cost-push) inflation, because imports become more expensive","Demand-pull inflation only","Deflation","No effect on inflation at all"],explain:"A weaker currency makes imported capital, components and raw materials more expensive, pushing costs up."},
+  {ch:20,q:"In an &ldquo;inflationary spiral,&rdquo; higher wages negotiated to compensate for a price rise will&hellip;",choices:["Shift SRAS further left, pushing prices up even more","Automatically bring inflation to an end","Shift AD left, ending the cycle","Have no further effect on prices"],explain:"Higher wages raise firms' costs, which can trigger a further round of price rises and wage demands &mdash; a self-perpetuating spiral."},
+  {ch:20,q:"Why is contractionary demand-side policy still the usual tool against cost-push inflation?",choices:["Because supply-side policies work far too slowly to help in the short run","Because it has no side effects at all","Because cost-push inflation doesn't really exist","Because supply-side policy always makes inflation worse"],explain:"Even though contractionary policy doesn't address rising costs directly, it's used because supply-side fixes are too slow."},
+  {ch:20,q:"Using contractionary policy against cost-push inflation risks causing&hellip;",choices:["Stagflation &mdash; a further rise in unemployment on top of falling real GDP","Deflation only, with no effect on jobs","An immediate fall in unemployment","Faster economic growth"],explain:"Cutting AD further when output is already falling from cost-push pressure can push unemployment even higher."},
+  {ch:20,q:"Why do many countries give their central bank independence and an inflation target?",choices:["So it can make politically painful decisions, like raising rates, without worrying about re-election","So the government can control interest rates directly instead","To eliminate the need for fiscal policy entirely","Because central banks are legally required to run at a loss"],explain:"A credible, independent target also anchors inflationary expectations, which itself helps keep cost-push pressure down."},
+  {ch:20,q:"According to the monetarist prescription, if real output grows by 3%, the money supply should grow by&hellip;",choices:["Around 3%, to keep money supply growth in line with output growth","0% &mdash; the money supply should never grow","30%, ten times faster than output","It should shrink by 3%"],explain:"The monetarist fix for excessive money-supply-driven inflation is to match money growth to real output growth."},
+  {ch:20,q:"What is the &ldquo;recurring policy trade-off&rdquo; between inflation and unemployment?",choices:["Fighting inflation by cutting AD can raise unemployment, and fighting unemployment by raising AD can fuel inflation","Inflation and unemployment always move in the same direction","There is no relationship between the two variables","Only fiscal policy can ever affect either variable"],explain:"Balancing these two macroeconomic objectives against each other is one of the central challenges explored via the Phillips curve."},
+  {ch:20,q:"What is the difference between deflation and disinflation?",choices:["Deflation is a fall in the price level; disinflation is prices still rising, just more slowly","They mean exactly the same thing","Disinflation is always worse than deflation","Deflation only happens during an economic boom"],explain:"Falling inflation that stays positive is disinflation; only a negative rate (prices actually falling) counts as deflation."},
+  {ch:20,q:"&ldquo;Good&rdquo; deflation is caused by&hellip;",choices:["An improvement in the supply side (LRAS shifts right), raising output while lowering prices","A fall in aggregate demand","Rising unemployment across the economy","A collapse in consumer confidence"],explain:"Better technology or resources shift LRAS right &mdash; genuine growth that happens to lower prices too."},
+  {ch:20,q:"&ldquo;Bad&rdquo; deflation is associated with&hellip;",choices:["Falling aggregate demand, falling output, and rising unemployment","Rising output and falling unemployment","A supply-side improvement","Higher real wages for everyone"],explain:"This is the type of deflation that worries governments, since it comes from weak demand rather than genuine growth."},
+  {ch:20,q:"Which of these is a real cost of &ldquo;bad&rdquo; deflation?",choices:["The real value of debt rises, making loans harder to repay","The real value of debt falls to zero","Central banks always have plenty of room to cut rates further","Consumer confidence always rises during deflation"],explain:"As prices fall, the real burden of existing debt increases, raising the risk of default and bankruptcy."},
+  {ch:20,q:"Why can deflation limit the effectiveness of monetary policy?",choices:["Interest rates are often already very low, leaving little room to cut further (the &ldquo;zero lower bound&rdquo;)","Central banks are legally banned from acting during deflation","Deflation always triggers hyperinflation instead","Deflation makes fiscal policy illegal"],explain:"Deflationary periods tend to come with already-low interest rates, limiting how much further they can be cut to stimulate AD."},
+  {ch:20,q:"In a weighted price index, why does giving housing a bigger weight than clothing matter?",choices:["A price rise in a big-budget item like housing shouldn't be cancelled out equally by a small item like clothing","It doesn't matter &mdash; all categories should count equally","Housing prices never actually change","Clothing isn't considered a real good"],explain:"In the textbook example this raised the calculated inflation rate from 1.69% (unweighted) to 3.83% (weighted)."},
+  {ch:20,q:"The original Phillips curve (1958) showed an inverse relationship between unemployment and&hellip;",choices:["The rate of change of money wages","The exchange rate","Government spending","The trade balance"],explain:"Phillips used UK data from 1861&ndash;1913 to link low unemployment with fast-rising wages, and vice versa."},
+  {ch:20,q:"The short-run Phillips curve (SRPC) shows a trade-off between&hellip;",choices:["Inflation and unemployment","Exports and imports","Interest rates and exchange rates","Wages and the trade balance"],explain:"Later economists substituted the inflation rate for wage growth to build the standard downward-sloping SRPC."},
+  {ch:20,q:"What historical event in the 1970s seriously challenged the simple downward-sloping Phillips curve?",choices:["Stagflation &mdash; simultaneous high inflation and high unemployment","The end of the gold standard alone","A global collapse in oil prices","Record-low unemployment alongside zero inflation"],explain:"A simple downward-sloping trade-off can't explain high inflation and high unemployment occurring at the same time."},
+  {ch:20,q:"According to Friedman's long-run Phillips curve (LRPC), in the long run there is&hellip;",choices:["No trade-off between inflation and unemployment &mdash; the LRPC is vertical at the natural rate","A permanent trade-off, just like in the short run","A trade-off only during recessions","No such thing as a natural rate of unemployment"],explain:"Monetarists argued that trying to hold unemployment below the natural rate only accelerates inflation, without any lasting employment gain."},
+  {ch:20,q:"&ldquo;Money illusion&rdquo; refers to workers who&hellip;",choices:["Take a job for a higher nominal wage without realizing their real wage hasn't actually risen","Are legally exempt from paying income tax","Refuse to work for any wage at all","Always demand wages exactly equal to inflation"],explain:"Once workers realize prices rose too, they push for pay rises in line with the new, higher inflation &mdash; shifting the SRPC."},
+  {ch:20,q:"Repeatedly using expansionary policy to push unemployment below the natural rate leads to&hellip;",choices:["Ever-higher inflation with no lasting fall in unemployment","A permanent reduction in unemployment","Falling inflation over time","No change in either inflation or unemployment"],explain:"This is the C&rarr;D&rarr;E spiral in the LRPC diagram: unemployment keeps drifting back to the natural rate, but at higher and higher inflation."},
+  {ch:20,q:"Which type of policy can shift the long-run Phillips curve itself to the left, reducing the natural rate?",choices:["Supply-side policy","Expansionary monetary policy","Expansionary fiscal policy","Any policy that simply raises aggregate demand"],explain:"Only supply-side policy can reduce the natural rate of unemployment &mdash; equivalent to shifting LRAS right or the PPC outward."},
+  {ch:20,q:"Real-world estimates of the natural rate of unemployment are&hellip;",choices:["Uncertain, and vary between countries depending on benefits, union power and regulation","Always exactly 4% in every country","Fixed and never change over time","Calculated with perfect precision by the OECD"],explain:"The OECD itself admits the natural rate &ldquo;can only be estimated with uncertainty.&rdquo;"},
+  {ch:20,q:"In the textbook's example, an unweighted price index rises from 118 to 120. What inflation rate does this imply?",choices:["Approximately 1.69%","Approximately 3.83%","Exactly 20%","Approximately 0.17%"],explain:"(120 \u2212 118) &divide; 118 &times; 100 &asymp; 1.69% &mdash; but this treats every category as equally important, which is unrealistic."},
+  {ch:20,q:"In the textbook's example, using expenditure weights, the price index rises from 117.5 to 122. What is the weighted inflation rate?",choices:["Approximately 3.83%","Approximately 1.69%","Exactly 4.5%","122%"],explain:"(122 \u2212 117.5) &divide; 117.5 &times; 100 &asymp; 3.83% &mdash; higher than the unweighted rate because housing (the biggest budget item) rose in price."}
+];
+
+/* ---------------- full chapter notes ---------------- */
+var NOTES_HTML = {
+"19": `
+<div class="notes-section">
+<h2>1. What is unemployment, and how is it measured?</h2>
+<div class="callout key"><span class="c-label">ILO definition</span>Unemployment = people of working age who are without work, available for work, and actively seeking employment.</div>
+<div class="formula-box">Unemployment rate = (Number unemployed &divide; Total labour force) &times; 100</div>
+<p>The <strong>labour force</strong> (= the workforce = the &ldquo;economically active population&rdquo;) is everyone of working age who is employed or unemployed. It excludes children, students, stay-at-home parents, retired people, and anyone else not seeking work.</p>
+<h3>Why is unemployment hard to measure accurately?</h3>
+<ul>
+<li><strong>Institutional differences across countries</strong> &mdash; e.g. people registered as unemployed (Austria, Switzerland) vs. people claiming unemployment benefits (Britain, Belgium). The incentive to register depends on how generous benefits are.</li>
+<li><strong>Hidden unemployment</strong> &mdash; discouraged workers (given up looking, no longer &ldquo;actively seeking&rdquo;), underemployment (part-time/temporary work when full-time is wanted), overqualification (working well below one's skill level).</li>
+<li><strong>Disparities hidden by the national average</strong> &mdash; geographical (inner-city vs. suburban/rural), age (under-25s usually higher), ethnic, and gender disparities.</li>
+</ul>
+</div>
+
+<div class="notes-section">
+<h2>2. The costs of unemployment</h2>
+<p>These are really the costs of <strong>long-term</strong> unemployment &mdash; they get worse the longer someone stays unemployed.</p>
+<div class="table-wrap"><table class="notes-table">
+<tr><th>Cost to&hellip;</th><th>Details</th></tr>
+<tr><td>The individual</td><td>Lower income and living standards; stress, anxiety, depression, relationship breakdown, even higher suicide risk. <em>(Key concept: Wellbeing)</em></td></tr>
+<tr><td>Society</td><td>Poverty, homelessness, higher crime, vandalism, gang activity.</td></tr>
+<tr><td>The economy</td><td>A point inside the PPC means output below potential &mdash; an opportunity cost. Less direct/indirect tax is collected while benefit spending rises. <em>(Key concept: Efficiency)</em></td></tr>
+</table></div>
+</div>
+
+<div class="notes-section">
+<h2>3. The &ldquo;pool&rdquo; of unemployment &mdash; a flow concept</h2>
+<p>Unemployment isn't a fixed stock &mdash; people are constantly moving in and out of the pool.</p>
+<h3>Inflows (raise unemployment)</h3>
+<ul><li>People who have lost their jobs or resigned</li><li>School-leavers who haven't yet found work</li><li>People returning to the workforce (e.g. stay-at-home parents)</li><li>Immigrants who haven't yet found work</li></ul>
+<h3>Outflows (lower unemployment)</h3>
+<ul><li>People who find jobs</li><li>People who retire</li><li>People who go back into education</li><li>People who choose to stay home with children</li><li>People who emigrate, give up the search, or pass away</li></ul>
+<div class="callout key"><span class="c-label">The key rule</span>If more people flow in than out, unemployment rises. If more flow out than in, it falls. Governments care most about the people who get stuck &mdash; the long-term unemployed.</div>
+</div>
+
+<div class="notes-section">
+<h2>4. The labour market</h2>
+<p>Aggregate demand for labour (AD<sub>L</sub>) slopes <strong>downward</strong> &mdash; higher wages mean firms want fewer workers. Aggregate supply of labour (AS<sub>L</sub>) slopes <strong>upward</strong> &mdash; higher wages attract more willing workers. Equilibrium wage and quantity of workers occur where AD<sub>L</sub> = AS<sub>L</sub>.</p>
+</div>
+
+<div class="notes-section">
+<h2>5. The four causes (types) of unemployment</h2>
+<h3>&#9312; Cyclical (demand-deficient) &mdash; &ldquo;Keynesian unemployment&rdquo;</h3>
+<p>Linked to the business cycle: when the economy slows, AD falls, so firms need fewer workers.</p>
+<div class="callout distinction"><span class="c-label">Sticky wages downward</span>In theory wages should fall to restore equilibrium, but firms worry about worker morale, and labour contracts and union power keep wages &ldquo;stuck.&rdquo; With wages stuck while demand for labour has fallen, unemployment results.</div>
+<div class="callout cure"><span class="c-label">Cure</span>Keynesian demand management &mdash; expansionary fiscal policy (more government spending, lower taxes) and/or monetary policy (lower interest rates, more money supply).</div>
+<p><strong>Downsides of demand-side policy:</strong> high opportunity cost; only effective in the longer term due to policy lags (risks becoming inflationary instead); tax cuts might just be saved, not spent; interest rate cuts might not spur borrowing; can cause crowding out.</p>
+
+<h3>&#9313; Structural &mdash; &ldquo;the worst type&rdquo;</h3>
+<p><strong>Form 1 &mdash; a permanent fall in demand for a type of labour:</strong> technological unemployment (automation/robots), globalization (firms relocate, cheaper imports), changing consumer tastes (e.g. falling demand for coal).</p>
+<p><strong>Form 2 &mdash; a change in the institutional framework:</strong> strict firing laws, a minimum wage set above equilibrium, trade unions blocking non-union hiring.</p>
+<div class="callout distinction"><span class="c-label">Why it's &ldquo;the worst&rdquo;</span>It causes long-term unemployment because workers lack occupational mobility (skills to switch jobs) and/or geographic mobility (jobs open up elsewhere).</div>
+<div class="callout distinction"><span class="c-label">Structural vs. demand-deficient</span>Demand-deficient = a temporary, economy-wide fall in AD. Structural = a permanent fall in demand for one type of labour. A long recession can turn cyclical unemployment structural if skills atrophy.</div>
+<div class="callout cure"><span class="c-label">Cures &mdash; interventionist</span>Education system reform, adult upskilling/retraining, subsidies for firm-provided training or relocation, apprenticeship programmes, job centres.</div>
+<div class="callout cure"><span class="c-label">Cures &mdash; market-based</span>Reduce unemployment benefits (increases the incentive to take a job); labour market deregulation (removes hiring/firing rules to increase flexibility).</div>
+<p><strong>Trade-off:</strong> cutting benefits can worsen equity, and deregulation can mean weaker job security &mdash; even as unemployment falls.</p>
+
+<h3>&#9314; Frictional</h3>
+<p>Short-term and largely voluntary &mdash; someone between jobs, or waiting to start a first job after leaving education. Not generally seen as a problem in a healthy, dynamic economy.</p>
+<div class="callout cure"><span class="c-label">Cure</span>Market-based: reduce benefits (less incentive to take your time searching). Interventionist: improve the flow of information between employers and job-seekers &mdash; job sites, job centres, employment counsellors.</div>
+
+<h3>&#9315; Seasonal</h3>
+<p>Demand for certain labour varies naturally by time of year (construction/farm workers in cold winters, ski instructors in summer, tourism workers off-season).</p>
+<div class="callout cure"><span class="c-label">Cure</span>Encourage workers into alternate jobs in the off-season; the same tools as frictional unemployment.</div>
+</div>
+
+<div class="notes-section">
+<h2>6. The natural rate of unemployment</h2>
+<div class="formula-box">Natural rate of unemployment = Structural + Frictional + Seasonal</div>
+<p>This unemployment exists even at full-employment output. Since it isn't caused by deficient AD, <strong>demand management cannot fix it</strong> &mdash; using it at full employment just causes inflation. Only supply-side policy works here.</p>
+</div>
+
+<div class="notes-section">
+<h2>7. Demand-side vs. supply-side policy</h2>
+<ul>
+<li>Problem is a downturn/recession &rarr; demand-deficient unemployment rising &rarr; demand-management (fiscal/monetary) policy is appropriate.</li>
+<li>Problem is the natural rate (structural/frictional/seasonal) &rarr; supply-side policy is needed.</li>
+<li>In practice it's hard to tell which type is present, so governments typically use a mix of both.</li>
+</ul>
+<div class="table-wrap"><table class="notes-table">
+<tr><th>Discretionary fiscal policy</th><th>Automatic stabilizers</th></tr>
+<tr><td>A deliberate government decision to change spending/taxes to manage AD (e.g. new infrastructure spending).</td><td>Changes that happen without any new decision &mdash; e.g. during high unemployment, tax revenue automatically falls and benefit spending automatically rises. No time lag, and not subject to political decision-making.</td></tr>
+</table></div>
+</div>
+
+<div class="notes-section">
+<span class="chip">Higher Level</span>
+<h2>8. Crowding out</h2>
+<p>To finance a budget deficit, government borrows by selling bonds, raising demand in the loanable funds market and pushing up interest rates. This can make borrowing more expensive for private businesses, &ldquo;crowding out&rdquo; private investment.</p>
+<div class="callout distinction"><span class="c-label">Moderate vs. extreme view</span><strong>Moderate:</strong> total borrowing rises, but the higher interest rate reduces private investment somewhat. <strong>Extreme (New Classical):</strong> the supply of loanable funds is drawn perfectly inelastic, so government borrowing simply replaces private borrowing one-for-one &mdash; no net rise in AD, just a much bigger jump in interest rates.</div>
+<p><strong>Keynesian economists</strong> argue crowding out won't happen if the economy is below full employment (there's slack). <strong>New Classical economists</strong> see it as a significant, potentially total, problem.</p>
+</div>
+
+<div class="notes-section">
+<h2>&#9733; Quick summary table</h2>
+<div class="table-wrap"><table class="notes-table">
+<tr><th>Type</th><th>Cause</th><th>Best cure</th></tr>
+<tr><td>Cyclical</td><td>Fall in AD during a downturn; sticky wages downward</td><td>Expansionary fiscal or monetary policy</td></tr>
+<tr><td>Structural</td><td>Permanent fall in demand for a type of labour, or institutional change</td><td>Interventionist (retraining, education) or market-based (cut benefits, deregulate)</td></tr>
+<tr><td>Frictional</td><td>Short-term, voluntary, between jobs</td><td>Improve information flow, or cut benefits</td></tr>
+<tr><td>Seasonal</td><td>Demand for labour varies by season</td><td>Encourage off-season work</td></tr>
+</table></div>
+</div>
+`,
+"20": `
+<div class="notes-section">
+<h2>1. What is inflation, and what does it cost us?</h2>
+<div class="callout key"><span class="c-label">Definition</span>Inflation is a persistent increase in the average price level, usually measured through a consumer price index (CPI). A single, one-off price rise for one good is not inflation.</div>
+<h3>Costs of high inflation</h3>
+<ul>
+<li><strong>Loss of purchasing power</strong> &mdash; hits people on fixed incomes or weak bargaining power hardest.</li>
+<li><strong>Saving</strong> &mdash; if inflation exceeds the nominal interest rate, the real rate turns negative and savers lose purchasing power.</li>
+<li><strong>Growth</strong> &mdash; a &ldquo;flight to assets&rdquo; (houses, gold) leaves fewer savings for firms to borrow and invest.</li>
+<li><strong>Interest rates</strong> &mdash; banks raise nominal rates to protect real returns, raising borrowing costs economy-wide.</li>
+<li><strong>Competitiveness</strong> &mdash; higher relative inflation makes exports pricier and imports cheaper, risking the trade balance.</li>
+<li><strong>Uncertainty</strong> &mdash; firms may delay investment.</li>
+<li><strong>Labour unrest</strong> &mdash; disputes when wages don't keep pace.</li>
+</ul>
+<div class="formula-box">Real interest rate = Nominal interest rate &minus; Inflation rate</div>
+<div class="table-wrap"><table class="notes-table">
+<tr><th>Winners</th><th>Losers</th></tr>
+<tr><td>Index-linked incomes; strong wage-bargaining power; borrowers; &ldquo;asset rich&rdquo;; importers</td><td>Fixed incomes; weak bargaining power; savers/lenders; &ldquo;cash rich&rdquo;; exporters</td></tr>
+</table></div>
+</div>
+
+<div class="notes-section">
+<h2>2. How is inflation measured?</h2>
+<p>The <strong>Consumer Price Index (CPI)</strong> tracks the price of a representative &ldquo;basket&rdquo; of goods and services, with each category given a <strong>weight</strong> reflecting its share of typical household spending (e.g. Housing &amp; household goods &asymp;29.8%, Transport &asymp;12.4%).</p>
+<div class="formula-box">Inflation rate = [(Index<sub>X+1</sub> &minus; Index<sub>X</sub>) &divide; Index<sub>X</sub>] &times; 100</div>
+<h3>Problems with the CPI</h3>
+<ul>
+<li>Not everyone has the same &ldquo;basket&rdquo; &mdash; a family with children spends very differently to a retired couple.</li>
+<li>Regional variation is hidden by the national average.</li>
+<li>Sampling and data-collection errors, since it's impossible to survey every household.</li>
+<li>Quality changes (an upgraded product isn't really &ldquo;inflation&rdquo;).</li>
+<li>International comparisons are difficult &mdash; different countries use different baskets and methods.</li>
+<li>Volatile swings (seasonal food, oil shocks) distort the headline rate &mdash; &ldquo;core inflation&rdquo; strips these out.</li>
+</ul>
+</div>
+
+<div class="notes-section">
+<h2>3. What causes inflation? Demand-pull vs. cost-push</h2>
+<p><strong>Demand-pull:</strong> a rise in aggregate demand &ldquo;pulls up&rdquo; the price level along SRAS &mdash; both price <em>and</em> output rise.</p>
+<div class="callout distinction"><span class="c-label">The monetarist view</span>Inflation is always ultimately caused by excessive growth of the money supply &mdash; more money chasing the same amount of goods.</div>
+<p><strong>Cost-push:</strong> rising production costs shift SRAS left &mdash; price rises but output <em>falls</em>. Causes: wage-push inflation, rising domestic raw material costs, import-push inflation (including from a weaker exchange rate, which makes everything imported more expensive).</p>
+<p><strong>Inflationary spiral:</strong> rising AD raises prices (demand-pull) &rarr; workers negotiate higher wages to compensate, shifting SRAS left and pushing prices up further (cost-push) &rarr; if workers then spend their higher wages, AD rises again &mdash; inflation perpetuates itself.</p>
+</div>
+
+<div class="notes-section">
+<h2>4. How can governments reduce inflation?</h2>
+<p><strong>Demand-pull:</strong> contractionary fiscal or monetary policy. <strong>Cost-push:</strong> also usually contractionary policy, since supply-side policy works too slowly to help in the short run.</p>
+<p><strong>Problems:</strong> politically unpopular; fiscal policy has long time lags; using contractionary policy against cost-push inflation can push unemployment even higher on top of falling real GDP &mdash; risking <strong>stagflation</strong>.</p>
+<div class="callout distinction"><span class="c-label">Central bank independence &amp; inflation targeting</span>An independent central bank with an explicit inflation target can make politically painful decisions (like raising rates) without worrying about re-election. A credible target also anchors inflationary expectations, which itself helps keep cost-push pressure down.</div>
+<div class="callout distinction"><span class="c-label">The monetarist prescription</span>Keep money supply growth in line with real output growth (e.g. output growing 3% &rarr; money supply should grow about 3%). Hard for central banks to control precisely in practice.</div>
+<div class="callout key"><span class="c-label">The recurring policy trade-off</span>Fighting inflation by cutting AD may raise unemployment. Fighting unemployment (or boosting growth) by raising AD may fuel inflation.</div>
+</div>
+
+<div class="notes-section">
+<h2>5. Deflation &mdash; the &ldquo;good&rdquo; and the &ldquo;bad&rdquo;</h2>
+<p><strong>Deflation</strong> is a persistent <em>fall</em> in the price level &mdash; don't confuse it with <strong>disinflation</strong>, where prices are still rising, just more slowly each year.</p>
+<div class="table-wrap"><table class="notes-table">
+<tr><th>&ldquo;Good&rdquo; deflation</th><th>&ldquo;Bad&rdquo; deflation</th></tr>
+<tr><td>From the supply side: better technology/resources shift LRAS right, so output rises <em>and</em> prices fall &mdash; genuine growth.</td><td>From the demand side: a fall in AD means output falls, prices fall, and unemployment rises.</td></tr>
+</table></div>
+<p><strong>Costs of &ldquo;bad&rdquo; deflation:</strong> unemployment from falling AD; deferred consumption (buyers wait for lower prices, deepening the spiral); falling confidence; less investment; the real value of debt rises, making loans harder to repay; the &ldquo;zero lower bound&rdquo; leaves little room to cut interest rates further.</p>
+</div>
+
+<div class="notes-section">
+<span class="chip">Higher Level</span>
+<h2>6. Calculating a weighted price index</h2>
+<p>An <strong>unweighted</strong> index treats every category as equally important &mdash; unrealistic, since it lets a price fall in a small budget item (clothing) cancel out a price rise in a huge one (housing).</p>
+<div class="table-wrap"><table class="notes-table">
+<tr><th>Category</th><th>Weight</th><th>Index &times; weight, Year X</th><th>Index &times; weight, Year X+1</th></tr>
+<tr><td>Housing</td><td>0.4</td><td>48</td><td>52</td></tr>
+<tr><td>Foodstuffs</td><td>0.2</td><td>21</td><td>21</td></tr>
+<tr><td>Travel</td><td>0.2</td><td>24</td><td>25</td></tr>
+<tr><td>Clothing</td><td>0.1</td><td>12</td><td>11</td></tr>
+<tr><td>Entertainment</td><td>0.1</td><td>12.5</td><td>13</td></tr>
+<tr><td><strong>Total</strong></td><td>1.0</td><td><strong>117.5</strong></td><td><strong>122</strong></td></tr>
+</table></div>
+<div class="formula-box">Weighted inflation rate = (122 &minus; 117.5) &divide; 117.5 &times; 100 &asymp; 3.83%</div>
+<p>Higher than the unweighted rate (1.69%), because housing &mdash; the category people spend the most on &mdash; rose in price and is now given its proper importance instead of being cancelled out by the fall in clothing prices.</p>
+</div>
+
+<div class="notes-section">
+<span class="chip">Higher Level</span>
+<h2>7. The Phillips curve</h2>
+<p>The <strong>original Phillips curve (1958)</strong> found an inverse relationship between the rate of change of money wages and the unemployment rate (UK data, 1861&ndash;1913).</p>
+<p>The <strong>short-run Phillips curve (SRPC)</strong> substitutes the inflation rate for wage growth, showing a genuine trade-off: lower unemployment comes with higher inflation, and vice versa.</p>
+<div class="callout distinction"><span class="c-label">Stagflation broke the model</span>The SRPC trade-off held up until the 1970s. After that, many economies suffered high inflation <em>and</em> high unemployment at once &mdash; something a simple downward-sloping trade-off can't explain.</div>
+<p>Milton Friedman's <strong>long-run Phillips curve (LRPC)</strong> is <strong>vertical</strong> at the natural rate of unemployment: no permanent trade-off. Using expansionary policy to push unemployment below the natural rate only works temporarily.</p>
+<div class="callout distinction"><span class="c-label">Money illusion</span>Workers initially take new jobs for higher <em>nominal</em> wages without realizing their <em>real</em> wages haven't actually risen (prices rose too). Once they realize, they demand pay rises in line with the new, higher inflation &mdash; unemployment drifts back to the natural rate, but at higher inflation. Repeating the trick just raises inflation further with no lasting employment gain.</div>
+<div class="callout key"><span class="c-label">Key takeaway</span>Demand management can reduce cyclical unemployment in the short run, but cannot reduce the natural rate (structural + frictional + seasonal). Only supply-side policy can shift the LRPC itself to the left.</div>
+</div>
+
+<div class="notes-section">
+<h2>&#9733; Quick summary table</h2>
+<div class="table-wrap"><table class="notes-table">
+<tr><th>Type</th><th>Cause</th><th>Best cure</th></tr>
+<tr><td>Demand-pull</td><td>Rise in AD &ldquo;pulls up&rdquo; the price level</td><td>Contractionary fiscal or monetary policy</td></tr>
+<tr><td>Cost-push</td><td>Rise in production costs shifts SRAS left</td><td>Contractionary demand-side policy (supply-side is too slow)</td></tr>
+<tr><td>&ldquo;Good&rdquo; deflation</td><td>Supply-side improvement shifts LRAS right</td><td>None needed &mdash; a sign of healthy growth</td></tr>
+<tr><td>&ldquo;Bad&rdquo; deflation</td><td>Fall in AD</td><td>Expansionary fiscal or monetary policy</td></tr>
+</table></div>
+</div>
+`
+};
+
+/* ---------------- state ---------------- */
+var state = {
+  scope:"both", // "19" | "20" | "both"
+  count:20,
+  session:[],
+  idx:0,
+  score:0,
+  results:[],
+  currentShuffled:null,
+  chosenIdx:null,
+  answered:false
+};
+
+var els = {
+  crumbs:document.getElementById("crumbs"),
+  viewHome:document.getElementById("view-home"),
+  viewEconomics:document.getElementById("view-economics"),
+  viewNotes:document.getElementById("view-notes"),
+  notesBody:document.getElementById("notes-body"),
+  btnNotesQuiz:document.getElementById("btn-notes-quiz"),
+  btnNotesBack:document.getElementById("btn-notes-back"),
+  viewSetup:document.getElementById("view-setup"),
+  viewQuiz:document.getElementById("view-quiz"),
+  viewResults:document.getElementById("view-results"),
+  tileEconomics:document.getElementById("tile-economics"),
+  setupTitle:document.getElementById("setup-title"),
+  segCount:document.getElementById("seg-count"),
+  btnStart:document.getElementById("btn-start"),
+  bestLine:document.getElementById("best-line"),
+  qCounter:document.getElementById("q-counter"),
+  qScore:document.getElementById("q-score"),
+  progressFill:document.getElementById("progress-fill"),
+  qChip:document.getElementById("q-chip"),
+  qText:document.getElementById("q-text"),
+  qOptions:document.getElementById("q-options"),
+  qFeedback:document.getElementById("q-feedback"),
+  btnCheck:document.getElementById("btn-check"),
+  rScore:document.getElementById("r-score"),
+  rOf:document.getElementById("r-of"),
+  rPct:document.getElementById("r-pct"),
+  rBreakdown:document.getElementById("r-breakdown"),
+  rReview:document.getElementById("r-review"),
+  btnRetake:document.getElementById("btn-retake"),
+  btnSettings:document.getElementById("btn-settings"),
+  btnChapters:document.getElementById("btn-chapters")
+};
+
+function shuffle(arr){
+  var a = arr.slice();
+  for(var i=a.length-1;i>0;i--){
+    var j = Math.floor(Math.random()*(i+1));
+    var t=a[i]; a[i]=a[j]; a[j]=t;
+  }
+  return a;
+}
+
+function filteredBank(scope){
+  if(scope==="both") return BANK;
+  var chNum = Number(scope);
+  return BANK.filter(function(q){return q.ch===chNum;});
+}
+
+function chapterLabel(scope){
+  if(scope==="19") return "Chapter 19";
+  if(scope==="20") return "Chapter 20";
+  return "Full mix";
+}
+
+function bestKey(){ return "econ-quiz-best-"+state.scope+"-"+state.count; }
+
+function readBest(){
+  try{
+    var raw = localStorage.getItem(bestKey());
+    if(!raw) return null;
+    return JSON.parse(raw);
+  }catch(e){ return null; }
+}
+
+function writeBest(pct, attempts){
+  try{
+    var prev = readBest();
+    var best = prev ? Math.max(prev.best, pct) : pct;
+    var n = prev ? prev.attempts+1 : 1;
+    localStorage.setItem(bestKey(), JSON.stringify({best:best, attempts:n}));
+  }catch(e){ /* localStorage unavailable, ignore */ }
+}
+
+function updateBestLine(){
+  var b = readBest();
+  if(b){
+    els.bestLine.hidden = false;
+    els.bestLine.textContent = "Personal best for this setup: "+b.best+"%  \u00B7  "+b.attempts+" attempt"+(b.attempts===1?"":"s");
+  } else {
+    els.bestLine.hidden = true;
+  }
+}
+
+/* ---------------- navigation ---------------- */
+function hideAllViews(){
+  els.viewHome.hidden = true;
+  els.viewEconomics.hidden = true;
+  els.viewNotes.hidden = true;
+  els.viewSetup.hidden = true;
+  els.viewQuiz.hidden = true;
+  els.viewResults.hidden = true;
+}
+
+function renderCrumbs(level){
+  if(level==="home"){ els.crumbs.hidden = true; els.crumbs.innerHTML=""; return; }
+  var html = '<button type="button" data-nav="home">Home</button>';
+  if(level==="economics"){
+    html += '<span class="sep">/</span><span class="current">Economics</span>';
+  } else if(level==="notes"){
+    html += '<span class="sep">/</span><button type="button" data-nav="economics">Economics</button><span class="sep">/</span><span class="current">'+chapterLabel(state.scope)+' notes</span>';
+  } else {
+    html += '<span class="sep">/</span><button type="button" data-nav="economics">Economics</button><span class="sep">/</span><span class="current">'+chapterLabel(state.scope)+'</span>';
+  }
+  els.crumbs.innerHTML = html;
+  els.crumbs.hidden = false;
+}
+
+els.crumbs.addEventListener("click", function(e){
+  var btn = e.target.closest("button[data-nav]");
+  if(!btn) return;
+  if(btn.getAttribute("data-nav")==="home") goHome();
+  else goEconomics();
+});
+
+function goHome(){
+  hideAllViews();
+  els.viewHome.hidden = false;
+  renderCrumbs("home");
+}
+
+function goEconomics(){
+  hideAllViews();
+  els.viewEconomics.hidden = false;
+  renderCrumbs("economics");
+}
+
+function goSetup(scope){
+  state.scope = scope;
+  buildCountOptions();
+  els.setupTitle.innerHTML = chapterLabel(scope)+" &mdash; quiz length";
+  hideAllViews();
+  els.viewSetup.hidden = false;
+  renderCrumbs("chapter");
+}
+
+function goNotes(scope){
+  state.scope = scope;
+  els.notesBody.innerHTML = NOTES_HTML[scope] || "";
+  hideAllViews();
+  els.viewNotes.hidden = false;
+  renderCrumbs("notes");
+}
+
+els.tileEconomics.addEventListener("click", goEconomics);
+
+els.viewEconomics.addEventListener("click", function(e){
+  var notesBtn = e.target.closest("button[data-notes]");
+  if(notesBtn){ goNotes(notesBtn.getAttribute("data-notes")); return; }
+  var btn = e.target.closest("button[data-chapter]");
+  if(!btn) return;
+  goSetup(btn.getAttribute("data-chapter"));
+});
+
+els.btnNotesQuiz.addEventListener("click", function(){ goSetup(state.scope); });
+els.btnNotesBack.addEventListener("click", function(){ goEconomics(); });
+
+/* ---------------- setup: quiz length ---------------- */
+function buildCountOptions(){
+  var pool = filteredBank(state.scope);
+  var L = pool.length;
+  var candidates = [10,20,35].filter(function(n){ return n<L; });
+  candidates.push(L);
+  els.segCount.innerHTML = "";
+  candidates.forEach(function(n, i){
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.setAttribute("data-val", n===L ? "all" : String(n));
+    btn.textContent = (n===L) ? ("All "+L+" questions") : (n+" questions");
+    if(i === Math.min(1, candidates.length-1)) btn.classList.add("active");
+    els.segCount.appendChild(btn);
+  });
+  var activeBtn = els.segCount.querySelector(".active");
+  state.count = activeBtn.getAttribute("data-val")==="all" ? "all" : Number(activeBtn.getAttribute("data-val"));
+  updateBestLine();
+}
+
+els.segCount.addEventListener("click", function(e){
+  var btn = e.target.closest("button");
+  if(!btn) return;
+  Array.prototype.forEach.call(els.segCount.children, function(c){ c.classList.remove("active"); });
+  btn.classList.add("active");
+  var v = btn.getAttribute("data-val");
+  state.count = v==="all" ? "all" : Number(v);
+  updateBestLine();
+});
+
+els.btnStart.addEventListener("click", function(){ startQuiz(); });
+els.btnRetake.addEventListener("click", function(){ startQuiz(); });
+els.btnSettings.addEventListener("click", function(){ goSetup(state.scope); });
+els.btnChapters.addEventListener("click", function(){ goEconomics(); });
+
+/* ---------------- quiz flow ---------------- */
+function startQuiz(){
+  var pool = filteredBank(state.scope);
+  var shuffledPool = shuffle(pool);
+  var n = state.count==="all" ? shuffledPool.length : Math.min(state.count, shuffledPool.length);
+  state.session = shuffledPool.slice(0, n);
+  state.idx = 0;
+  state.score = 0;
+  state.results = [];
+
+  hideAllViews();
+  els.viewQuiz.hidden = false;
+  renderCrumbs("chapter");
+
+  renderQuestion();
+}
+
+goHome();
+
+function renderQuestion(){
+  state.answered = false;
+  state.chosenIdx = null;
+  var q = state.session[state.idx];
+  var total = state.session.length;
+
+  els.qCounter.textContent = "Question "+(state.idx+1)+" of "+total;
+  els.qScore.textContent = "Score "+state.score;
+  els.progressFill.style.width = Math.round((state.idx/total)*100)+"%";
+
+  els.qChip.innerHTML = "Chapter "+q.ch+(q.ch===19?" &mdash; Unemployment":" &mdash; Inflation");
+  els.qChip.className = "chip"+(q.ch===20?" ch20":"");
+
+  els.qText.innerHTML = q.q;
+
+  var correctText = q.choices[0];
+  var shuffledChoices = shuffle(q.choices);
+  state.currentShuffled = {choices:shuffledChoices, correctText:correctText, explain:q.explain, qText:q.q, ch:q.ch};
+
+  els.qOptions.innerHTML = "";
+  var letters = ["A","B","C","D"];
+  shuffledChoices.forEach(function(choiceText, i){
+    var btn = document.createElement("button");
+    btn.className = "option";
+    btn.type = "button";
+    btn.innerHTML = '<span class="tag">'+letters[i]+'</span><span>'+choiceText+'</span>';
+    btn.addEventListener("click", function(){
+      if(state.answered) return;
+      Array.prototype.forEach.call(els.qOptions.children, function(c){ c.classList.remove("selected"); });
+      btn.classList.add("selected");
+      state.chosenIdx = i;
+      els.btnCheck.disabled = false;
+    });
+    els.qOptions.appendChild(btn);
+  });
+
+  els.qFeedback.hidden = true;
+  els.btnCheck.disabled = true;
+  els.btnCheck.textContent = "Check answer";
+  els.btnCheck.onclick = handleCheck;
+}
+
+function handleCheck(){
+  if(state.chosenIdx===null) return;
+  var data = state.currentShuffled;
+  var chosenText = data.choices[state.chosenIdx];
+  var isCorrect = chosenText === data.correctText;
+
+  Array.prototype.forEach.call(els.qOptions.children, function(c, i){
+    c.disabled = true;
+    var text = data.choices[i];
+    if(text === data.correctText) c.classList.add("correct");
+    else if(i === state.chosenIdx) c.classList.add("incorrect");
+  });
+
+  els.qFeedback.hidden = false;
+  els.qFeedback.className = "feedback "+(isCorrect?"good":"bad");
+  els.qFeedback.innerHTML = '<span class="verdict">'+(isCorrect?"Correct":"Not quite")+'</span>'+data.explain;
+
+  if(isCorrect) state.score++;
+  els.qScore.textContent = "Score "+state.score;
+
+  state.results.push({
+    q:data.qText, ch:data.ch, chosen:chosenText, correct:data.correctText,
+    isCorrect:isCorrect, explain:data.explain
+  });
+
+  state.answered = true;
+  var isLast = state.idx === state.session.length-1;
+  els.btnCheck.textContent = isLast ? "See results" : "Next question";
+  els.btnCheck.disabled = false;
+  els.btnCheck.onclick = function(){
+    if(isLast){ showResults(); }
+    else { state.idx++; renderQuestion(); }
+  };
+}
+
+/* ---------------- results ---------------- */
+function showResults(){
+  els.viewQuiz.hidden = true;
+  els.viewResults.hidden = false;
+  els.progressFill.style.width = "100%";
+
+  var total = state.results.length;
+  var pct = Math.round((state.score/total)*100);
+
+  els.rScore.textContent = state.score;
+  els.rOf.textContent = "/ "+total;
+  els.rPct.textContent = pct+"% correct";
+
+  writeBest(pct, 1);
+
+  var byCh = {19:{c:0,t:0}, 20:{c:0,t:0}};
+  state.results.forEach(function(r){
+    byCh[r.ch].t++;
+    if(r.isCorrect) byCh[r.ch].c++;
+  });
+
+  els.rBreakdown.innerHTML = "";
+  [19,20].forEach(function(ch){
+    if(byCh[ch].t===0) return;
+    var div = document.createElement("div");
+    div.className = "b-item";
+    div.innerHTML = '<div class="label">Chapter '+ch+(ch===19?" \u00B7 Unemployment":" \u00B7 Inflation")+'</div><div class="val">'+byCh[ch].c+' / '+byCh[ch].t+'</div>';
+    els.rBreakdown.appendChild(div);
+  });
+
+  els.rReview.innerHTML = "";
+  state.results.forEach(function(r, i){
+    var div = document.createElement("div");
+    div.className = "review-item";
+    var yourLine = r.isCorrect
+      ? '<div class="review-line right"><span class="who">Correct</span>'+r.chosen+'</div>'
+      : '<div class="review-line wrong"><span class="who">You answered</span>'+r.chosen+'</div><div class="review-line right"><span class="who">Correct answer</span>'+r.correct+'</div>';
+    div.innerHTML = '<p class="review-q">'+(i+1)+'. '+r.q+'</p>'+yourLine+'<div class="review-explain">'+r.explain+'</div>';
+    els.rReview.appendChild(div);
+  });
+}
+
+})();
+</script>

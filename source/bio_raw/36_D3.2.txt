@@ -1,0 +1,3079 @@
+D3.2   Inheritance
+725
+Inheritance
+D3.2
+•	 What patterns of inheritance exist in plants and animals?
+•	 What is the molecular basis of inheritance patterns?
+Guiding questions
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 D3.2.1 	 Production of haploid gametes in parents and their fusion to form a diploid 
+zygote as the means of inheritance
+	 D3.2.2 	 Methods for conducting genetic crosses in flowering plants
+	 D3.2.3 	 Genotype as the combination of alleles inherited by an organism
+	 D3.2.4 	 Phenotype as the observable traits of an organism resulting from genotype and 
+environmental factors
+	 D3.2.5 	 Effects of dominant and recessive alleles on phenotype
+	 D3.2.6 	 Phenotypic plasticity is the capacity to develop traits suited to the environment 
+experienced by an organism, by varying patterns of gene expression
+	 D3.2.7 	 Phenylketonuria as an example of a human disease due to a recessive allele
+	 D3.2.8 	 Single-nucleotide polymorphisms and multiple alleles in gene pools
+	 D3.2.9 	 ABO blood groups as an example of multiple alleles
+	 D3.2.10 	Incomplete dominance and codominance
+	 D3.2.11 	 Sex determination in humans and inheritance of genes on sex chromosomes
+	 D3.2.12 	Haemophilia as an example of a sex-linked genetic disorder
+	 D3.2.13 	Pedigree charts to deduce patterns of inheritance of genetic disorders
+	 D3.2.14 	Continuous variation due to polygenic inheritance and/or environmental factors
+	 D3.2.15 	Box-and-whisker plots to represent data for a continuous variable such as 
+student height
+	 D3.2.16 	Segregation and independent assortment of unlinked genes in meiosis (HL only)
+	 D3.2.17 	Punnett grids for predicting genotypic and phenotypic ratios in dihybrid 
+crosses involving pairs of unlinked autosomal genes (HL only)
+	 D3.2.18 	Loci of human genes and their polypeptide products (HL only)
+	 D3.2.19 	Autosomal gene linkage (HL only)
+	 D3.2.20 	Recombinants in crosses involving two linked or unlinked genes (HL only)
+	 D3.2.21 	Use of a chi-squared test on data from dihybrid crosses (HL only)
+Production of gametes as 
+the means of inheritance
+Chapter D3.1 shows how haploid gametes are produced in meiosis and that 
+this process is essential in maintaining the number of chromosomes across 
+generations. At fertilization, haploid gametes from the male and female 
+fuse, restoring the diploid number of chromosomes (Figure D3.2.1). This 
+pattern of inheritance is common to all eukaryotes with a sexual life cycle.
+There are two types of chromosomes: autosomal and sex chromosomes. 
+Autosomal chromosomes are the numbered chromosomes in a 
+karyogram (see page 111), ranged from smallest to largest.  
+adult
+2n
+diploid
+phase
+haploid
+phase
+mitosis
+zygote
+2n
+sperm
+n
+egg
+n
+fertilization
+meiosis
+ 
+■Figure D3.2.1 Meiosis and the diploid life cycle
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+726
+Sex chromosomes contain genes that determine the gender of the offspring. In diploid cells, 
+chromosomes are in homologous pairs, so a diploid cell has two copies of each autosomal gene.
+Methods for conducting genetic 
+crosses in flowering plants
+How do characteristics get passed down from one generation to the next? The mechanism of inheritance 
+was successfully investigated before chromosomes had been observed or genes were detected. 
+A monk called Gregor Mendel (Figure D3.2.2) made the first discovery of the fundamental laws of 
+heredity. Mendel cross-bred different types of pea plant in the gardens of the monastery. In total he 
+planted 30 000 plants over eight years. He crossed rounded seed pods with wrinkled ones, yellow 
+peas with green peas, tall stems with dwarf stems, and so on.
+Nature of science: Experiments
+Gregor Mendel was born in Moravia (now in the Czech Republic) 
+in 1822, the son of a peasant farmer. As a young boy, he worked 
+to support himself through schooling, but at the age of 21 he was 
+offered a place in the monastery at Brno. The monastery was a 
+centre of research in natural sciences and agriculture, as well as in the 
+humanities. Mendel was successful there. Later, he became abbot. 
+Mendel discovered the principles of heredity by studying the 
+inheritance of seven contrasting characteristics of the garden pea 
+plant. These did not ‘blend’ on crossing, but retained their identities, 
+and were inherited in fixed mathematical ratios. He concluded 
+that hereditary factors (we now call them genes) determine these 
+characteristics, that these factors occur in duplicate in parents, and 
+that the two copies of the factors segregate from each other in the 
+formation of gametes.
+Before Mendel, scientists did not know how inheritance worked but they 
+thought that it must work by ‘blending’ (a bit like mixing paints of different 
+colours). For example, if a tall person has children with a short person, their 
+genes will be ‘blended’ and the children will be of medium height. This 
+seemed to work with several characteristics, such as height and skin colour. 
+However, it was an inadequate explanation of other characteristics, such as 
+eye colour (how can you have one sibling with blue eyes and another with 
+brown eyes?).
+ 
+■Figure D3.2.2 Gregor Mendel 
+– founder of modern genetics
+dwarf v. tall plants
+round v. wrinkled seeds
+green v. yellow
+cotyledons 
+(seed leaves)
+Features of the garden pea
+	
+◆Autosomal gene: 
+gene located on one of 
+the numbered, or non-
+sex, chromosomes.
+Concept: 
+Continuity 
+and change
+Gametogenesis 
+changes diploid 
+cells into haploid 
+gametes, enabling 
+the sexual life cycle 
+to continue.
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+727
+Today, we often refer to Mendel’s laws of heredity, but Mendel’s results were not presented as laws 
+– which may help to explain the difficulty others had in seeing the significance of his work at the 
+time. Mendel was successful because:
+l	 his experiments were carefully planned, and used large samples
+l	 he carefully recorded the numbers of plants of each type but expressed his results as ratios
+l	 in the pea, contrasting characteristics are easily recognized
+l	 by chance, each of these characteristics was controlled by a single factor (gene)* rather than by 
+many genes, as most human characteristics are
+l	 pairs of contrasting characters that he worked on were controlled by factors (genes) on 
+separate chromosomes*
+l	 in interpreting results, Mendel made use of the mathematics he had learnt.
+* Genes and chromosomes were not known then.
+ ATL D3.2A 
+Figure D3.2.3 shows pea pods from Mendel’s experiments. 
+Mendel noted that parental generations with either yellow 
+(A) or green peas (B) produced offspring that were yellow 
+in colour (C). When these offspring were bred together, the 
+offspring were a mixture of yellow and green peas (D). 
+Read the information in the Nature 
+of science box above and look at the 
+results of one of his experiments (Figure 
+D3.2.3). What do you conclude about 
+the mechanism of inheritance? How does 
+it disprove the ‘blending’ hypothesis? 
+Discuss with a partner and present your 
+conclusions to the rest of the class. 
+	
+◆Parental generation 
+(P): the first set of 
+parents in a genetic cross. 
+The parents’ genotypes 
+are used to predict 
+the genotype of their 
+offspring (F1 generation).
+	
+◆Monohybrid 
+cross: cross (breeding 
+experiment) involving 
+one pair of contrasting 
+characters exhibited by 
+homozygous parents.
+	
+◆F1 generation: first 
+filial generation – arises by 
+crossing parents (P) and, 
+when selfed or crossed via 
+sibling crosses, produces 
+the F2 generation.
+	
+◆F2 generation: 
+offspring produced by the 
+F1 generation.
+ 
+■Figure D3.2.3 
+Mendel’s peas. Historical 
+artwork of the peas 
+(Pisum sp.) used by 
+Gregor Mendel (1822–
+84) in his experiments
+Initially, Mendel investigated the inheritance of a single contrasting characteristic, known as a 
+monohybrid cross. Mendel had noticed that the garden pea plant was either tall or dwarf. How was 
+this contrasting characteristic controlled?
+Mendel’s investigation of the inheritance of height in pea plants began with plants that always ‘bred 
+true’ (Figure D3.2.4). This means that the tall plants produced progeny that were all tall and the 
+dwarf plants produced progeny that were all dwarf when each was allowed to self-fertilize. Pollen 
+contains male gametes and female gametes are in the ovary, so pollination is needed to carry out a 
+cross (the breeding of two parents with different alleles that produce offspring with characteristics 
+of both parents). Plants such as peas produce both male and female gametes on the same plant, 
+allowing self-pollination and, therefore, self-fertilization.
+Mendel crossed true-breeding (i.e. both alleles the same) tall and dwarf plants and found the 
+progeny, the F1 generation, were all tall. The offspring were allowed to self-pollinate (and so self-
+fertilize) to produce the F2 generation. The progeny of this cross consisted of both tall and dwarf 
+plants in the ratio of 3 tall:1 dwarf.
+Link
+Self-pollination is 
+covered in Chapter 
+D3.1, page 705.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+728
+tall plants
+crossed
+many seeds produced
+(150–250 seeds typically harvested)
+– planted and grown, and found to be
+all tall plants
+seeds produced
+(Mendel recorded 1064 seeds)
+– planted and grown, and found 
+to be in the ratio of
+3 tall : 1 dwarf plants
+(Mendel recorded 787 tall : 277 dwarf, ratio of 2.84 : 1)
+flowered and allowed to
+self-pollinate
+×
+dwarf plants
+peas from
+pure-breeding tall plants
+peas from
+pure-breeding dwarf plants
+parental
+generation (P)
+first filial
+generation (F1)
+second filial
+generation (F2)
+sown and grown (about 10–15 plants of each)
+self-pollination
+was prevented
+at this stage
+ 
+■Figure D3.2.4 The steps of Mendel’s monohybrid cross
+In Mendel’s interpretation of the monohybrid cross he argued that, because the dwarf characteristic 
+had apparently disappeared in the F1 generation and reappeared in the F2 generation, there must be 
+a factor controlling dwarfness that remained intact from one generation to another. However, this 
+factor for ‘dwarf’ did not express itself in the presence of a similar factor for tallness. In other words, 
+as characteristics, tallness is dominant and dwarfness is recessive; the dominant allele totally 
+masks the effects of a recessive (non-dominant) allele. Logically, there must be two independent 
+factors for height, one received from each parent. A sex cell (gamete) must contain only one of 
+these factors.
+Mendel saw that a 3:1 ratio could be the product of randomly combining two pairs of unlike factors 
+(T and t, for example). This can be shown using a grid, now known as a Punnett grid, after the 
+mathematician who first used it (Figure D3.2.5).
+Mendel’s conclusions from the monohybrid cross were that:
+l	 within an organism there are breeding factors controlling characteristics such as ‘tall’ and ‘dwarf’
+l	 there are two factors in each cell
+l	 one factor comes from each parent
+l	 the factors separate in reproduction and either one can be passed on to an offspring
+l	 the factor for ‘tall’ is an alternative form of the factor for ‘dwarf’
+l	 the factor for ‘tall’ is dominant over the factor for ‘dwarf’.
+	
+◆Dominant allele: an 
+allele that has the same 
+effect on the phenotype 
+whether it is present 
+in the homozygous or 
+heterozygous state.
+	
+◆Recessive allele: an 
+allele that has an effect 
+on the phenotype only 
+when present in the 
+homozygous state.
+	
+◆Punnett grid: diagram 
+used to show and calculate 
+all the combinations and 
+frequencies of different 
+genotypes and phenotypes 
+among the offspring of a 
+genetic cross.
+Top tip!
+Punnett grids show the 
+combining process of 
+the gametes of two 
+parents. The diagrams 
+can be used to calculate 
+the probabilities that 
+particular gametes 
+and zygotes will occur. 
+Punnett grids can 
+either be shown in a 
+diamond conformation, 
+as shown opposite, or 
+as a square. They may 
+also be referred to as 
+‘Punnett squares’. 
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+729
+(meiosis)
+(meiosis)
+gametes:
+1/4 TT
+homozygous
+tall plants
+T
+t
+T
+t
+×
+genotypes:
+TT
+tt
+gametes:
+T
+t
+Tt
+heterozygous tall
+× self
+phenotypes:
+(meiosis)
+(meiosis)
+Tt
+TT
+tt
+phenotypes:
+dwarf
+tall
+phenotypes ratio:
+genotypes ratio:
+:
+:
+2
+1
+1
+3
+1
+:
+parental (P)
+phenotypes:
+homozygous
+tall
+homozygous
+dwarf
+pea plants are diploid
+so they have two 
+copies of each allele
+offspring (F1)
+genotypes:
+offspring (F1)
+genotypes:
+F1 selfed
+male gametes
+female gametes
+gametes produced by 
+meiosis so only have 
+one copy of each allele
+the allele for ‘tall’ is
+dominant over the
+allele for ‘dwarf’ so
+the F1 progeny are
+all tall
+each heterozygous
+parent produces two
+kinds of gametes with
+respect to the T allele
+segregation occurs
+during meiosis –
+alleles are located
+on homologous
+chromosomes which
+move to opposite
+poles of the spindle
+alleles have
+separated into
+different gametes
+(= Law of Segregation)
+this is called a Punnett grid
+– it shows all the possible
+progeny of the cross
+here both    and    gametes
+can be T or t, giving four
+possible genotypes
+1/2 t
+1/2 T
+1/2 T
+1/2 t
+1/4 tt
+homozygous
+dwarf plants
+1/4 Tt
+heterozygous
+tall plants
+The fractions represent
+the probabilities that
+particular gametes and
+zygotes (genotypes)
+will occur.
+These ratios are likely to
+be achieved only when a
+large number of offspring
+are produced.
+1/4 Tt
+heterozygous
+tall plants
+ 
+■Figure D3.2.5 Genetic diagram showing the behaviour of alleles in Mendel’s monohybrid cross
+Notice the use of ‘P’, ‘F1’ and ‘F2’ for the three generations involved. Look carefully at the use of a 
+Punnett grid to represent the process and products of the F1 cross. This device shows clearly the 
+combining process of the gametes. The fractions represent the probabilities that particular gametes 
+and zygotes will occur.
+Top tip!
+Alleles are represented 
+by letters, which are 
+(usually) derived from 
+the characteristic being 
+studied, e.g. ‘T’ or ‘t’ 
+for tall or short plants. 
+The capital letter 
+(upper case) represents 
+the dominant allele 
+and the lower case 
+the recessive. Make 
+sure that the letters 
+used to show the 
+genotype alleles are 
+sufficiently different in 
+lower case and upper 
+case, for example T 
+and t, or A and a, but 
+not L and l or S and s, 
+which are difficult to 
+distinguish visually.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+730
+Mendel never stated his discoveries as laws, but it would have been helpful if he had done so. 
+For example, he might have said: ‘Each characteristic of an organism is determined by a pair of 
+factors of which only one can be present in each gamete.’
+Today we call a similar statement Mendel’s first law, the Law of segregation: 
+The characteristics of an organism are controlled by pairs of alleles which separate in equal 
+numbers into different gametes as a result of meiosis.
+Mendel used pea plants to develop his laws of inheritance. Today, genetic crosses are widely used to 
+breed new varieties of crop or ornamental plants.
+1	 The actual results that Mendel obtained in three of his later investigations of inheritance 
+in the garden pea plant are as shown in Table D3.2.1. These experiments followed on 
+from Mendel’s cross shown in Figure D3.2.5 and developed from the conclusions he 
+made as a result of the first monohybrid cross.
+ 
+■Table D3.2.1 Mendel’s later experimental results
+Character
+Cross
+Number of F2 
+counted
+Number showing 
+dominant character
+Number showing 
+recessive character
+Position of flowers
+axial × terminal
+858
+651 axial
+207 terminal
+Colour of seed coat
+grey × white
+929
+705 grey
+224 white
+Colour of cotyledons
+yellow × green
+8023
+6022 yellow
+2001 green
+a	 State what ratio of offspring he would have predicted from these crosses.
+b	 Calculate the actual ratios obtained in each of these crosses.
+c	 Suggest what chance events may influence the actual ratios of offspring obtained 
+in breeding experiments like these. (We will return to this issue at a later point. For 
+example, the statistical test known as the chi-squared test can be applied to the 
+results of genetic crosses to test whether the actual results are close enough to the 
+predicted results to be significant.)
+Genotype
+The alleles that an organism carries (present in every cell) make up the genotype of that organism. 
+You will recall from Chapter A1.2 that allele is a term that refers to a different version of the same 
+gene. A genotype in which the two alleles of a gene are the same is homozygous for that gene. 
+In Figure D3.2.5, the parent pea plants (P generation) were either homozygous tall or 
+homozygous dwarf.
+If the alleles are different, the organism is heterozygous for that gene. In Figure D3.2.5, the progeny 
+(F1 generation) were heterozygous tall. 
+2	 State whether a person with sickle-cell trait (page 623) is homozygous or heterozygous 
+for sickle-cell haemoglobin. 
+So, the genotype is the genetic constitution of an organism. Alleles interact in various ways and with 
+environmental factors. The outcome is the phenotype (see below). 
+Concept: 
+Continuity 
+and change
+Punnett grids show 
+both continuity and 
+change: continuity 
+in the delivery 
+of alleles to new 
+generations, and 
+change in the 
+arrangement of 
+alleles in offspring.
+Common 
+mistake
+In Punnett grids, 
+parental genotypes 
+are often missing 
+and gametes on the 
+Punnett grid are usually 
+shown but not labelled 
+as gametes. Make 
+sure that parental 
+genotypes are shown 
+and that the gametes 
+are labelled.
+	
+◆Genotype: the 
+combination of alleles 
+inherited by an organism.
+	
+◆Homozygous: having 
+two identical alleles of 
+a gene.
+	
+◆Heterozygous: 
+having two different 
+alleles of a gene.
+Link
+Genes and alleles 
+are also covered 
+in Chapter A1.2, 
+page 21.
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+731
+Phenotype 
+The phenotype is the way in which the genotype of the organism is expressed – including the 
+appearance of the organism. In Mendel’s monohybrid cross (Figure D3.2.5) the heights of the plants 
+were their phenotypes.
+Sometimes organisms may have the same phenotype but different genotypes. For example, plants 
+with genotypes TT and Tt will have the same phenotype (tall) because they both have a dominant 
+allele. Plants like these can only be distinguished by the offspring they produce in a particular cross. 
+When the tall heterozygous plants (Tt) are crossed with the homozygous recessive plants (tt), the 
+cross yields 50% tall and 50% dwarf plants (Figure D3.2.6). This type of cross has become known as 
+a test cross. If the offspring are all tall, then we know that the tall plants under test are homozygous 
+plants (TT). Of course, sufficient plants have to be used to obtain these distinctive ratios. 
+Phenotype can be determined by genotype, environmental factors, or due to interaction between 
+genotype and environment (as explored with monozygotic twin experiments). Eye colour is 
+determined by genotype only, as is blood type. Changes due to exposure to the Sun, e.g. developing 
+a suntan, is solely environmental. Height and weight are a combination of genotype and phenotype.
+gametes:
+genotypes:
+1/4 tt
+homozygous
+dwarf plants
+T
+t
+t
+t
+(meiosis)
+(meiosis)
+Tt
+×
+tt
+Tt
+tt
+dwarf
+tall
+1
+1
+50%
+50%
+:
+:
+parental
+phenotypes:
+heterozygous
+tall
+homozygous
+dwarf
+offspring (F1)
+genotypes:
+genotypes ratio:
+phenotypes:
+phenotypes ratio:
+gametes
+gametes
+1/2 T
+1/2 t
+1/2 t
+1/2 t
+1/4 Tt
+heterozygous
+tall plants
+1/4 Tt
+heterozygous
+tall plants
+The fractions represent
+the probabilities that
+particular gametes and
+zygotes (genotypes)
+will occur.
+1/4 tt
+homozygous
+dwarf plants
+ 
+■Figure D3.2.6 Genetic diagram of Mendel’s test cross. Plants with the phenotype ‘tall’ can either be 
+homozygous or heterozygous. Test crosses can be used to determine the genotype – in this diagram, 
+the tall plants are demonstrated to be Tt (heterozygous) not TT (homozygous)
+	
+◆Phenotype: 
+observable traits of 
+an organism resulting 
+from genotype and 
+environmental factors.
+Link
+Variation in 
+monozygotic twins is 
+discussed in Chapter 
+D2.2 (HL only), 
+page 677.
+3	 Construct a 
+table to explain 
+the relationship 
+between Mendel’s 
+Law of Segregation 
+and meiosis.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+732
+Inquiry 2: Collecting and processing data
+Interpreting results
+Access the following website: https://javalab.org/en/test_cross_en
+In the simulation, you can breed heterozygous pea plants that have green and yellow 
+peas. You can breed pure-bred plants (i.e. that are homozygous for a trait) by removing 
+either yellow or green peas from the breeding programme.
+Carry out three investigations: one with general breeding, one where yellow breeding 
+occurs only, and another where only green breeding occurs.
+Compare the outcomes from the three experiments. Identify, describe and explain patterns, 
+trends and relationships. What do your results show about the mechanism for inheritance?
+TOK
+Mendel’s theories 
+were not accepted 
+by the scientific 
+community for a long 
+time. What factors 
+would encourage the 
+acceptance of new 
+ideas by the scientific 
+community? In what 
+ways do our values 
+affect our acquisition 
+of knowledge?
+ 
+■Effects of dominant and recessive alleles on phenotype
+Mendel’s experiments on peas showed an important feature of inheritance – that some alleles 
+can be dominant and others recessive. In the experiment, for example, where yellow pea plants 
+produced a mixture of green and yellow peas, the outcome can be explained by a dominant/
+recessive relationship between the two colours. This is because the colour of the peas is controlled 
+by an allele in which yellow colour is dominant. An allele is a variant of a gene, with different alleles 
+having a different effect on the same characteristic, for instance controlling pea colour. By breeding 
+the F1 generation peas together (Figure D3.2.3, page 727), Mendel found that the next generation 
+had a mixture of pea colours. The ratio of yellow to green peas was 3:1. His work formed the basis of 
+genetic theory.
+If an organism shows a recessive characteristic in its phenotype (like the dwarf pea) it must have 
+a homozygous genotype (tt). But if it shows the dominant characteristic (like the tall pea) then it 
+may be either homozygous for a dominant allele (TT) or heterozygous for the dominant allele (Tt). 
+In other words, TT and Tt look alike; they have the same phenotype but different genotypes. 
+A homozygous-dominant genotype and heterozygous genotype for a particular trait will therefore 
+produce the same phenotype because, in both cases, there is a dominant allele that shows 
+through in the phenotype. The only way that a recessive characteristic can show through is in the 
+homozygous condition.
+Common mistake
+It is incorrect to say that all dominant alleles give an advantage to an individual and result in the 
+most common phenotype. Not all dominant alleles confer an advantage. For example, Huntington’s 
+disease is caused by a dominant allele and results in progressive mental deterioration and 
+involuntary muscle movements (page 638). Six fingers, as another example, is another dominant 
+trait that is not the most common phenotype.
+ 
+■Phenotypic plasticity 
+Traits can be developed that suit the environment experienced by an organism. This is known as 
+phenotypic plasticity. It is generated by varying patterns of gene expression. Phenotypic plasticity 
+is not due to changes in genotype, and the changes in traits may be reversible during the lifetime of 
+an individual. For example, the results of exercise and/or dieting affect human morphology and 
+physiology during the lifetime of an individual.
+	
+◆Phenotypic 
+plasticity: the capacity 
+to develop traits suited 
+to the environment 
+experienced by an 
+organism, by varying 
+patterns of gene 
+expression.
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+733
+Phenylketonuria as an example of a human 
+disease due to a recessive allele
+Phenylketonuria (PKU) is a rare inherited disorder caused by a mutation in a gene (PAH) on 
+chromosome 12 that codes for phenylalanine hydroxylase, an enzyme needed to convert the 
+amino acid phenylalanine to a different amino acid, tyrosine. As phenylalanine hydroxylase is not 
+synthesized, phenylalanine builds up in the body. 
+Untreated infants with PKU tend to have unusually light eye, skin and hair colour due to the high 
+phenylalanine levels interfering with the production of melanin, a substance that causes pigmentation 
+in the skin, eyes and hair. High blood phenylalanine levels can cause disruptions in neurotransmitters 
+such as serotonin and dopamine in the brain, which are important for mood, learning, memory and 
+motivation. According to the National Organization of Rare Disorders (NORD), neurological symptoms 
+include seizures, abnormal muscle movements, tight muscles, involuntary movements or tremors. 
+Without treatment, most people with PKU develop severe brain damage. To prevent this, treatment 
+consists of a carefully controlled, phenylalanine-restricted diet beginning during the first days or 
+weeks of life. 
+Phenylketonuria is caused by a mutation on an allele that is recessive. This means that two copies of the 
+faulty gene are needed to develop the disease. If a person inherits a copy of the faulty gene from one 
+parent but a working gene from the other, they will not develop the disease. Such people are said to be 
+carriers because they carry the faulty allele but do not show it in their phenotype.
+The inheritance of genetic diseases can be shown using the diagram in Figure D3.2.7.
+P
+Individuals with phenylketonuria have two copies of the mutated gene (one from each parent).
+Carriers have one healthy, working gene and one mutated, faulty gene and so may pass on a 
+mutated gene to an offspring.
+individual with
+phenylketonuria
+carrier male
+healthy female
+carrier female
+healthy male
+F1
+F2
+ 
+■Figure D3.2.7 The inheritance of phenylketonuria
+Figure D3.2.7 shows a pedigree chart. These are diagrams used to deduce patterns of inheritance of 
+genetic disorders. We will return to this on page 741, later in this chapter.
+Concept: Change
+Mutation can lead to a change in the genetic code of a gene, which affects the 
+expression of the gene in the phenotype, which can result in a genetic disease.
+	
+◆Phenylketonuria 
+(PKU): a recessive genetic 
+condition caused by 
+mutation in an autosomal 
+gene that codes for 
+the enzyme needed to 
+convert phenylalanine 
+to tyrosine.
+	
+◆Carrier: an individual 
+that has one copy of 
+a recessive allele that 
+causes a genetic disease 
+in individuals that 
+are homozygous for 
+this allele.
+Common 
+mistake
+Do not confuse the 
+terms ‘carrier’ and 
+‘affected’. A carrier 
+is a person who has 
+one copy of a faulty 
+recessive allele but 
+does not show this in 
+the phenotype as it is 
+masked by a dominant 
+allele. In the case of 
+phenylketonuria, a 
+carrier does not have 
+the disease. An affected 
+person is someone 
+who has two copies 
+of the recessive faulty 
+allele and so has the 
+symptoms of the 
+disease.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+734
+Single-nucleotide polymorphisms and 
+multiple alleles in gene pools
+A single-nucleotide polymorphism (SNP) represents a difference in a single nucleotide. For 
+example, an SNP may replace the nucleotide guanine (C) with the nucleotide adenine (A). This can 
+create an alternative version of a gene (an allele). Many different versions of a gene can exist in a gene 
+pool, depending on how many SNPs have occurred over time and whether these have affected the 
+gene in question. Because only one copy of an allele can exist on each chromosome, an individual 
+can only inherit two alleles (one from each parent) rather than the full number available in the gene 
+pool. An example of a gene with multiple alleles, determining blood type, is discussed below.
+ABO blood groups as an example 
+of multiple alleles
+The genes introduced so far exist in two forms (two alleles); for example, the height gene of the 
+garden pea exists as tall and dwarf alleles. This means that in genetic diagrams we can represent 
+alleles with a single letter (here, T or t) according to whether they are dominant or recessive.
+For simplicity we began by considering inheritance of a gene for which there are just two alleles. 
+However, we now know that not all genes are like this. In fact, most genes have more than two 
+alleles, and these are cases of genes with multiple alleles.
+With multiple alleles, we choose a single capital letter to represent the locus at which the alleles may 
+occur, and the individual alleles are then represented by an additional single letter (usually capital) in 
+a superscript position – as with codominant alleles. An excellent example of multiple alleles is found 
+in the genetic control of the ABO blood group system in humans. Human blood belongs to one of 
+four groups: A, B, AB or O. Table D3.2.2 lists the possible phenotypes and the genotypes that may 
+be responsible for each blood group. 
+ 
+■Table D3.2.2 The ABO blood groups – phenotypes and genotypes
+Phenotype
+Genotypes
+A
+IAIA or IAi
+B
+IBIB or IBi
+AB
+IAIB
+O
+ii
+Top tip!
+You should use the following to denote the different blood alleles: IA, IB and i (the latter denotes the 
+allele for blood type O).
+Common mistake
+Do not confuse the terms ‘blood group’ and blood ‘allele’. A person’s blood group (A, B, AB or O) is 
+determined by which combination of three alternative alleles they have (IA, IB or i).
+Link
+Single-nucleotide 
+polymorphisms 
+(SNPs) have also been 
+discussed in Chapter 
+A3.1, page 115, 
+and Chapter D1.3, 
+page 638.
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+735
+IA i
+(meiosis)
+1/2
+1/2
+gametes:
+1/4 IA IB
+IA IB
+IA i
+blood
+group A
+blood
+group AB
+1
+1
+:
+IB i
+blood
+group B
+1
+:
+i i
+blood
+group O
+25%
+25%
+25%
+25%
+1
+:
+offspring
+genotypes:
+genotypes ratio:
+phenotypes:
+phenotypes ratio:
+parental (P)
+phenotypes:
+genotypes:
+1/2 i
+1/2 IA
+1/2 IB
+1/2 i
+1/4 i i
+1/4 IB i
+1/4 IA i
+IA
+i
+blood group A
+gametes
+gametes
+i i gives blood 
+group O
+i is recessive
+to IA 
+IB i
+(meiosis)
+1/2
+1/2
+IB
+i
+blood group B
+i is recessive
+to IB 
+IA and IB are codominant
+– they both affect the
+phenotype when present
+together in the heterozygote.
+The fractions represent
+the probabilities that
+particular gametes and
+zygotes (genotypes)
+will occur.
+ 
+■Figure D3.2.8 Inheritance of blood groupings A, B, AB and O
+So, the ABO blood group system is determined by combinations of alternative alleles. In each 
+individual, only two of the three alleles exist, but they are inherited as if they were alternative 
+alleles of a pair. However, IA and IB are codominant alleles, and both IA and IB are dominant to the 
+recessive i. Figure D3.2.8 shows the way in which the alternative blood groups may be inherited. 
+Inquiry 1: Exploring and designing
+Exploring
+Access the following website: https://javalab.org/en/abo_blood_type_en
+Select two different blood groups by clicking on the relevant symbols for the male and 
+female. Formulate a hypothesis and predict the outcome of the cross. Draw the cross 
+on paper and explain your prediction using your scientific understanding. Now slide the 
+red button along the slider to reveal the outcome. Did you predict correctly? Repeat the 
+procedure for other blood types.
+Link
+Blood groups have 
+also been discussed 
+in Chapter B1.1, 
+page 195.
+Top tip!
+A person with blood 
+type A may have a 
+genotype of IAIA or 
+IAi. Similarly, someone 
+with blood type B may 
+have genotype IBIB or 
+IBi. These alternative 
+genotypes must be 
+considered when 
+working out the 
+outcomes of genetic 
+crosses involving the 
+ABO blood system.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+736
+Common mistake
+Although the blood type O does not show through in the phenotype, for example if the genotype is 
+IAi the person has blood type A, it is incorrect to say that i is a recessive allele. It appears to have no 
+phenotypic effect because this allele does not code for carbohydrates in the cell membrane, and so 
+the red blood cells do not have a surface antigen.
+Incomplete dominance and codominance
+In certain types of monohybrid cross, the 3:1 ratio is not obtained. Two of these situations are 
+illustrated next.
+ 
+■Codominance
+In codominance, heterozygotes have a dual phenotype. For example, the AB blood type IAIB is an 
+example of codominance (see page 735), because both allele IA and allele IB show through equally in 
+the phenotype.
+ 
+■Incomplete dominance
+In the case of some genes, both alleles may be expressed simultaneously, rather than one being 
+dominant and the other recessive. In these cases, the dominant allele does not completely mask 
+the effects of a recessive allele, resulting in heterozygotes having an intermediate phenotype. This is 
+known as incomplete dominance.
+Mirabilis jalapa (the marvel of Peru, or four o’clock flower) is a commonly grown decorative 
+plant. Mirabilis jalapa has two types of pure-breeding plants: red flowered and white flowered. 
+When red-flowered plants are crossed with white-flowered plants, the F1 plants have pink flowers 
+(Figure D3.2.9). When pink-flowered Mirabilis jalapa plants are crossed, the F2 offspring are found to 
+be red, pink and white in the ratio 1:2:1, respectively.
+Pink colouration of the petals occurs because both alleles are expressed in the heterozygote – both a 
+red and a white pigment system are present. Red and white show incomplete dominance. In genetic 
+diagrams, alleles that show incomplete dominance are represented by a capital letter for the gene, 
+and different superscript capital letters for the two alleles, in recognition of the fact that the dominant 
+allele does not completely mask the effects of a recessive allele, resulting in a new phenotype. 
+(Figure D3.2.9).
+Common mistake
+Do not confuse codominance with incomplete dominance. In codominance, both alleles show through 
+in the phenotype equally, because no allele can block or mask the expression of the other allele. 
+Incomplete dominance is a condition where a dominant allele does not completely mask the effects of 
+a recessive allele, resulting in a new phenotype.
+Top tip!
+Unlike monohybrid crosses with a dominant–recessive relationship for alleles, which produce a 
+3:1 ratio if both parents are heterozygous, a genetic cross where there is incomplete dominance 
+produces a 1:2:1 ratio (i.e. there is an extra phenotype for the combined alleles).
+	
+◆Codominance: both 
+alleles are expressed in a 
+phenotype.
+	
+◆Incomplete 
+dominance: where a 
+dominant allele does 
+not completely mask the 
+effects of a recessive 
+allele, resulting in 
+heterozygotes having an 
+intermediate phenotype.
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+737
+FRFW
+(meiosis)
+1/2
+1/2
+1/4 FRFR
+FRFR
+FRFW
+pink
+red
+1
+2
+:
+FWFW
+white
+1
+:
+FRFR
+(meiosis)
+all    FR
+1/2 FW
+1/2 FR
+1/2 FR
+1/2 FW
+1/4 FWFW
+1/4 FRFW
+1/4 FRFW
+FR
+FW
+FRFW
+(meiosis)
+1/2
+1/2
+FR
+FW
+×
+×
+self
+pink flowers
+FRFW
+gametes:
+gametes:
+genotypes:
+parental (P)
+phenotypes:
+red flowers
+FWFW
+(meiosis)
+all    FW
+offspring (F2)
+genotypes:
+genotypes ratio:
+phenotypes:
+offspring (F1)
+genotype:
+phenotype:
+F1 selfed
+white flowers
+ 
+■Figure D3.2.9 Incomplete dominance in the ornamental flower, Mirabilis jalapa
+4	 a	 Construct (using pencil and paper) a monohybrid cross between cattle that have a 
+gene for coat colour with red and white alleles that shows incomplete dominance. 
+Homozygous red and homozygous white parents cross to produce roan offspring 
+(red and white hairs together). 
+b	 Predict what offspring you would expect and in what proportions, when a sibling 
+cross (equivalent to selfing in plants) occurs between roan offspring.
+Sex determination in humans and 
+inheritance of genes on sex chromosomes
+Chromosomes can be arranged in order of size, shown as a karyogram (Figure A3.1.10, page 112). 
+In the karyogram, the final pair of chromosomes is not numbered. Rather, they are labelled X and Y. 
+These are known as the sex chromosomes; they decide the sex of the individual. All the other 
+chromosomes (pairs numbered 1 to 22) are autosomes. The X chromosome is longer than the Y 
+chromosome, so it can carry far more genes. 
+Link
+Karyotyping and 
+karyograms are 
+covered in Chapter 
+A3.1, page 111. 
+Concept: 
+Change
+In incomplete 
+dominance, a 
+combination of two 
+different alleles for 
+the same trait leads 
+to a third, different 
+phenotype. The 
+outcome of a 
+genetic cross of 
+two heterozygous 
+individuals therefore 
+does not result in 
+a 3:1 phenotypic 
+ratio of dominant 
+to recessive 
+phenotype, but a 
+changed ratio of 
+1:2:1, with 50% of 
+offspring showing 
+the intermediate 
+phenotype.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+738
+Egg cells produced by meiosis all carry an X chromosome, but 50% of sperm carry an X chromosome 
+and 50% carry a Y chromosome. At fertilization, an egg cell may fuse with a sperm carrying an X 
+chromosome, leading to a female offspring. Alternatively, the egg cell may fuse with a sperm carrying 
+a Y chromosome, leading to a male offspring. So, the sex of offspring in humans (and all mammals) 
+is determined by the male partner. We would expect equal numbers of male and female offspring to 
+be produced over time by a breeding population (Figure D3.2.10). 
+offspring (F1)
+genotypes:
+XY
+XX
+phenotypes:
+male (    ) 
+female (    )
+phenotypes ratio:
+50%
+50%
+parental (P)
+phenotypes:
+genotypes:
+gametes:
+human male (    )
+XY
+(meiosis)
+human female (    )
+XX
+(meiosis)
+X
+X
+1/2 Y
+Y
+X
+1/2 X
+1/2 X
+1/2 X
+1/4 XX
+1/4 XY
+1/4 XX
+1/4 XY
+1/2
+1/2
+1/2
+1/2
+male gametes (    )
+female gametes (    )
+ 
+■Figure D3.2.10 X and Y chromosomes and the determination of sex
+ 
+■Human X and Y chromosomes and the control of sex
+Initially, male and female embryos develop identically in the uterus. At the seventh week of 
+pregnancy, however, a cascade of developmental events is triggered, leading to the growth of male 
+genitalia if a Y chromosome is present in the embryonic cells.
+On the Y chromosome is the prime male-determining gene. This gene codes for a protein called 
+testis-determining factor (TDF). TDF functions as a molecular switch; on reaching the embryonic 
+gonad tissues, TDF initiates the production of a relatively low level of testosterone. The effect of this 
+hormone at this stage is to inhibit the development of female genitalia, and to cause the embryonic 
+genital tissues to form testes, scrotum and penis.
+In the absence of a Y chromosome, the embryonic gonad tissue forms an ovary. Then, partly under 
+the influence of hormones from the ovary, the female reproductive structures develop. It is therefore 
+the sex chromosome in sperm which determines whether a zygote develops certain male-typical or 
+female-typical physical characteristics.
+Common mistake
+The condition for determining a female is the absence of the Y chromosome rather than the 
+presence of the X chromosome.
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+739
+Haemophilia as an example of a 
+sex-linked genetic disorder
+Genes present on the sex chromosomes are inherited with the sex of the individual. They are said to 
+be sex-linked characteristics. Sex linkage is a special case of linkage occurring when a gene is 
+located on a sex chromosome (usually the X chromosome). 
+The inheritance of these sex-linked genes is different from the inheritance of genes on the autosomal 
+chromosomes. This is because the X chromosome is much longer than the Y chromosome (since many 
+of the genes on the X chromosome are absent from the Y chromosome). In a male (XY), most alleles on 
+the X chromosome lack a corresponding allele on the Y and will be apparent in the phenotype even 
+if they are recessive. The area of the X chromosome that does not have a corresponding sequence of 
+genes on the Y chromosome is called the non-homologous region (Figure D3.2.11). 
+homologous regions
+do not carry sex-
+determining genes
+X chromosome
+Y chromosome
+non-homologous regions
+carry sex-determining
+genes and other genes
+ 
+■Figure D3.2.11 Comparing an X and Y chromosome
+In a female (XX), a single recessive gene on one X chromosome may be masked by a dominant allele 
+on the other X and would not be expressed. A human female can be homozygous or heterozygous 
+with respect to sex-linked characteristics, whereas males have only one allele.
+A heterozygous individual with a recessive allele of a gene that does not have an effect on their 
+phenotype is known as a carrier; they carry the allele but it is not expressed. So, female carriers are 
+heterozygous for sex-linked recessive characteristics. Of course, the unpaired alleles of the Y 
+chromosome are all expressed in the male. However, the alleles on the (short) Y chromosome are 
+mostly concerned with male structures and male functions. Examples of recessive conditions 
+controlled by genes on the X chromosome are red–green colour blindness and haemophilia. 
+If a break occurs in the circulatory system of a mammal, there is a risk of uncontrolled bleeding. 
+Usually, this risk is averted by the blood-clotting mechanism (Chapter C3.2, page 520). Haemophilia 
+is a rare, genetically determined condition in which the blood does not clot normally. The result is 
+frequent and excessive bleeding.
+There are two forms of haemophilia, known as haemophilia A and haemophilia B. They are due to 
+a failure to produce adequate amounts of particular blood proteins that are essential to the complex 
+blood-clotting mechanism. Today, haemophilia is effectively treated by the administration of the 
+clotting factor that the patient lacks. 
+	
+◆Sex linkage: a 
+special case of linkage 
+occurring when a gene 
+is located on a sex 
+chromosome (usually the 
+X chromosome).
+Top tip!
+In a female (XX), a 
+single recessive gene 
+on one X chromosome 
+may be masked by a 
+dominant allele on the 
+other X and would 
+not be expressed. A 
+human female can 
+be homozygous or 
+heterozygous with 
+respect to sex-linked 
+characteristics, whereas 
+males have only 
+one allele.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+740
+Top tip!
+In examples of sex linkage, you should show alleles carried on X chromosomes as superscript letters 
+on an uppercase X.
+Haemophilia is a sex-linked condition because the genes controlling production of these blood 
+proteins are located on the X chromosome. Haemophilia is caused by a recessive allele. As a result, 
+haemophilia is largely a disease of the male – since a single X chromosome carrying the defective 
+allele (XhY) will result in disease. For a female to have the disease, she must be homozygous for 
+the recessive gene (XhXh), but this condition is usually fatal in the uterus, typically resulting in a 
+natural abortion.
+A female with only one X chromosome with the recessive allele (XHXh) is a carrier. She has a normal 
+blood-clotting mechanism. When a carrier is partnered by a normal male, there is a 50% chance of 
+the daughters being carriers and a 50% chance of the sons having haemophilia (Figure D3.2.12).
+females
+(    )
+males
+(    )
+×
+male gametes (    )
+female gametes (    )
+1/2 XH
+1/2 Xh
+offspring (F1)
+genotypes:
+XHXH
+XHXh
+XHY
+XhY
+phenotypes:
+normal 
+carrier
+normal
+haemophiliac
+parental (P)
+phenotypes:
+genotypes:
+gametes:
+carrier female (    )
+XHXh
+(meiosis)
+normal male (    )
+XHY
+(meiosis)
+Y
+XH
+1/2 XH
+Xh
+XH
+1/2 Y
+1/4 XHXh
+1/4 XHY
+1/4 XhY
+1/4 XHXH
+1/2
+1/2
+1/2
+1/2
+ 
+■Figure D3.2.12 The inheritance of haemophilia
+Common mistake
+The appropriate sex-linkage allele symbols must be used when showing genetic crosses, with upper-
+case and lower-case letters shown as superscripts to indicate genotype on the X chromosome only. 
+Y chromosomes are not associated with sex-linked genes as these are invariably linked to the X 
+chromosome, not the Y.
+5	 Haemophilia results 
+from a sex-linked 
+gene. The disease 
+is most common 
+in males, but 
+the haemophilia 
+allele is on the 
+X chromosome. 
+Explain this 
+apparent anomaly.
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+741
+Pedigree charts to deduce patterns of 
+inheritance of genetic disorders
+Tool 3: Mathematics
+Representing familial genetic relationships using pedigree charts
+Studying human inheritance by experimental crosses 
+(with selected parents, sibling crosses, and the 
+production of large numbers of progeny) is out of the 
+question. Instead, we may investigate the pattern of 
+inheritance of a particular characteristic by researching 
+a family pedigree, where appropriate records of their 
+ancestors exist. A human pedigree chart uses a set of 
+rules. These are identified in Figure D3.2.13. 
+individuals on the same line
+are of the same generation
+offspring of parental marriage/mating
+birth sequence of 
+offspring (siblings)
+Richard
+Judith
+parents
+Generation
+I
+II
+II
+IV
+Jayu
+David
+Louise
+Charles
+Alice
+Henry
+Sophie
+Chris
+Rani
+James
+Sarah
+William
+Arthur
+Diana
+Gail
+Frederick
+Patricia
+Rajesh
+Jessica
+Timothy
+Jonathan
+Mary
+union of related individuals
+(cousins) = consanguinity
+male
+female
+Key
+ 
+■Figure D3.2.13 An example of a human pedigree chart
+6	 In the human pedigree chart in Figure D3.2.13 state:
+a	 who are the female grandchildren of Richard and Judith
+b	 who are Rajesh’s (i) grandparents and (ii) uncles
+c	 how many people in the chart have parents unknown to us
+d	 the names of two offspring who are cousins. 
+ 
+■Analysis of pedigree charts to deduce the pattern of inheritance 
+We can use a pedigree chart to detect conditions that are due to dominant and recessive alleles. 
+In the case of a characteristic due to a dominant allele, the characteristic tends to occur in one or 
+more members of the family in every generation. On the other hand, a recessive characteristic is seen 
+infrequently, often skipping many generations. 
+For example, albinism is a rare inherited condition of humans and other mammals in which the 
+individual has a block in the biochemical pathway by which the pigment melanin is formed. Albinos 
+have white hair, very light-coloured skin and pink eyes. Albinism shows a pattern of recessive 
+monohybrid inheritance in humans. In the chart shown of a family with albino members, albinism 
+occurs infrequently, skipping two generations altogether (Figure D3.2.14).
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+742
+1
+2
+carrier
+carrier
+carrier
+2
+1
+4
+5
+6
+3
+7
+8
+I
+II
+III
+IV
+Generation
+Key
+people with albinism
+normal
+skin colour
+X
+This is a typical family tree for inheritance of a characteristic controlled by a recessive allele. In generation I,
+individual 2 must be pp (with albinism). In generation II, all offspring must be carriers (Pp) because they
+have received a recessive allele (p) from their mother. In generation III, individual 8 must be a carrier and
+her partner X must also be a carrier, since their offspring include a son with albinism.
+People with albinism must be
+homozygous for the recessive
+albino allele (pp).
+People with normal skin
+pigmentation may be homozygous
+normal (PP) or carriers (Pp).
+Brachydactyly is a rare condition of humans in which the fingers are very short. Brachydactyly is due 
+to a mutation in the gene for finger length. Unusually, the mutant allele is dominant, so the condition 
+shows a pattern of dominant monohybrid inheritance; that is, it tends to occur in every generation in 
+a family (Figure D3.2.15).
+Key
+brachydactylous
+individuals 
+normal
+Pedigree chart of family with brachydactylous alleles
+Generation
+I
+II
+III
+IV
+In generation I the parents are assumed to be normal male (nn) and brachydactylous 
+female (heterozygous Nn), as the ratio of offspring is similar to that of a test cross.
+In each subsequent generation about half the offspring are brachydactylous (i.e. Nn or NN) 
+and half are normal (nn).
+X-ray of bones of hand
+of normal length
+Drawing of brachydactylous hand
+ 
+■Figure D3.2.14 Pedigree 
+chart of a family with 
+members with albinism
+7	 If a homozygous 
+normal-handed 
+parent (nn) had 
+a child with a 
+heterozygous 
+brachydactylous 
+parent (Nn), 
+calculate, using 
+a Punnett grid, 
+the probability of 
+an offspring with 
+brachydactylous 
+hands. Construct 
+a genetic 
+diagram to show 
+your workings.
+ 
+■Figure D3.2.15 
+Brachydactyly, and 
+pedigree chart 
+of a family with 
+brachydactylous genes
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+743
+Many societies prohibit marriage between close relatives – as well as for societal or religious reasons, 
+there is also a genetic basis for such laws. In closely related individuals there is a reduction in 
+variation due to meiosis because of the smaller number of near ancestors. The overall gene pool is 
+therefore smaller than in the overall society. If two siblings have a child, the child has two rather 
+than four grandparents. The probability is therefore increased of the child inheriting two copies of a 
+harmful recessive allele rather than only one, which is more likely to have harmful effects.
+Nature of science: Patterns and trends
+Scientists draw general conclusions by inductive reasoning when they base a theory on observations of 
+some but not all cases. A pattern of inheritance may be deduced from parts of a pedigree chart and 
+this theory may then allow genotypes of specific individuals in the pedigree to be deduced. Inductive 
+and deductive reasoning are covered in more detail in the Nature of science in A1.2, page 32.
+TOK
+The explanatory power of genetic inheritance when considering many aspects of human variation 
+is very strong. However, since Mendel’s initial work and throughout the nineteenth and twentieth 
+centuries, inheritance has been used in attempts to explain all sorts of human variation that 
+have little to do with genes, or in cases where genes are only a part of a full explanation. ‘Social 
+Darwinism’ was a prominent theory in early twentieth century America used to explain political, 
+social and economic views, and suggested that Darwin’s theory that genetic mutations and 
+environmental ‘fitness’ meant that people in power (social, political or economic) were somehow a 
+genetically better fit with those positions. Many people at the margins of society were deemed to 
+be unfit and were forced to undergo sterilization in the expectation that a ‘better’ gene pool would 
+alleviate many social issues.
+This highlights the potential damage that can be done when facts and theories within the scope 
+of one Area of Knowledge are used to try to solve problems in another. Here the truths of genetic 
+inheritance were used uncritically to try to explain and solve problems in the human sciences and 
+the result was great human injustice.
+Continuous variation due to polygenic 
+inheritance and/or environmental factors
+Variation is a feature of life, and there are two types of variation: continuous and discontinuous.
+The clear-cut difference in an inherited characteristic, such as blood type, is an example of discontinuous 
+or discrete variation – there is no intermediate form and no overlap between the two phenotypes. 
+In fact, very few characteristics of organisms are controlled by a single gene. Mostly, characteristics of 
+organisms are controlled by a number of genes. Groups of genes which together determine a 
+characteristic result in polygenic inheritance. 
+The genes that may result in polygenic inheritance are often (but not necessarily always) located on 
+different chromosomes. Any one of these genes has a very small effect on the phenotype, but the 
+combined effect of all the genes of the polygene is to produce infinite variety among the offspring. 
+This variety we refer to as continuous variation.
+Many features of humans are controlled by polygenes, including body weight and height 
+(see Figure A3.1.2, page 103). 
+Top tip!
+Inbreeding increases 
+the chance of 
+homozygous recessive 
+offspring for autosomal 
+genetic disorders.
+Link
+Continuous and 
+discontinuous 
+variation are 
+defined and covered 
+in Chapter A3.1, 
+page 103.
+	
+◆Polygenic 
+inheritance: inheritance 
+of phenotypic characters 
+(such as height and eye 
+colour in humans) that 
+are determined by the 
+collective effects of 
+several different genes.
+Common 
+mistake
+Do not confuse 
+multiple genes with 
+multiple alleles. 
+'Multiple alleles' refers 
+to several different 
+versions of the same 
+gene, resulting in 
+different phenotypic 
+properties. 'Multiple 
+genes' refers to several 
+different genes that 
+relate to polygenic 
+inheritance.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+744
+ 
+■Human skin colour
+The colour of human skin is due to the amount of the pigment called melanin produced in the skin. 
+Melanin synthesis is genetically controlled. It seems that three, four or more separately inherited 
+genes control melanin production. The outcome is an almost continuous distribution of skin colour 
+from very pale (no alleles coding for melanin production) to very dark brown (all alleles for skin 
+colour code for melanin production).
+In Figure D3.2.16, polygenic inheritance of human skin colour involving only two independent 
+genes is illustrated. This is because dealing with all four genes is unwieldy and the principle can be 
+demonstrated sufficiently clearly using just two genes. 
+It should be noted, too, that both human height and skin colour are characteristics that may be 
+influenced by environmental factors.
+AB
+Ab
+aB
+ab
+AB
+Ab
+aB
+ab
+AABB
+AaBb
+AaBB
+AABb
+AABb
+Aabb
+AaBb
+AAbb
+AaBB
+aaBb
+aaBB
+AaBb
+AaBb
+aabb
+aaBb
+Aabb
+Parents' genotypes
+aabb
+AABB
+F1 generation
+AaBb
+range of
+genotypes:
+F2 generation
+gametes
+gametes
+Aabb
+aaBb
+AABB
+AaBB
+AABb
+AAbb
+AaBb
+aaBB
+aabb
+ 
+■Figure D3.2.16 Human skin colour as a characteristic controlled by two 
+independent genes – an illustration of polygenic inheritance
+There are many other examples of polygenic inheritance. In all cases, the number of genes 
+controlling a characteristic does not have to be large before the variation in a phenotype becomes 
+more or less continuous. The outcome is that characteristics controlled by polygenes show 
+continuous variation. Nevertheless, the individual genes concerned are inherited in accordance with 
+the principles established above. However, there are so many intermediate combinations of alleles 
+that the discrete ratios are not observed.
+ 
+■Distinguishing between continuous and discrete variables
+You need to understand the distinction between continuous variables such as skin colour and 
+discrete variables such as ABO blood group (see Chapter A3.1, page 103). You also need to be able to 
+apply measures of central tendency such as mean, median and mode. We will look at this now.
+Top tip!
+You will only need 
+to be able to draw 
+and interpret dihybrid 
+crosses, as shown in 
+Figure D3.2.16, at HL 
+not SL. The figure 
+here is to indicate the 
+complexity of patterns 
+in the inheritance of 
+skin colour. Dihybrid 
+crosses are explored 
+in the HL section of 
+this chapter.
+
+
+=== PAGE BREAK ===
+
+D3.2   Inheritance
+745
+Data obtained from biological experiments may show a ‘normal distribution’: this means that when 
+the frequency of particular classes of measurement is plotted against the classes of measurement, a 
+symmetrical bell-shaped curve is obtained (Figure D3.2.17). Explanations of mode, median and 
+mean are found below.
+Normal distribution 
+curve
+Most biological data 
+show variability, but 
+with values grouped 
+symmetrically around 
+a central value.
+Here the mode, 
+median
+and mean coincide.
+Skewed distribution
+Values reduce in 
+frequency more rapidly 
+on one side of the most 
+frequently obtained 
+value than on the other.
+Here the difference 
+between the mean and 
+mode is a measurement 
+of ‘skewness’ of the 
+data.
+Mode
+Median
+Mean
+Mean
+Median
+Mode
+ 
+■Figure D3.2.17 Frequency distributions of normal and skewed (non-normal) data
+Tool 3: Mathematics
+Calculating measures of central tendency: 
+mean, median and mode
+The normal distribution shows symmetrical distribution 
+of data around the central tendency (a central value 
+for a probability distribution). There are three different 
+ways of calculating the central tendency:
+l	 the mode: the most frequent value in a set 
+of values
+l	 the median: the middle value in a set of values 
+arranged in ascending order. If there is an even 
+number of items in a data set then the median is 
+found by taking the average (mean) of the two 
+middle numbers.
+l	 the average or arithmetic mean: calculated by 
+dividing the sum of the individual values by the 
+number of values obtained. The formula for the 
+arithmetic mean is:
+x̅ = ∑x
+n
+where x ̅ = arithmetic mean
+∑x = the sum of all the measurements
+n = the total number of measurements.
+Simple mean and range
+The purpose of averaging data (provided it follows a 
+normal distribution) is to reduce the effect of random 
+errors.
+For example, the mean, median and mode can be 
+calculated for the data concerning the frequency of 
+blood group A shown in Table D3.2.3.
+ 
+■Table D3.2.3 The top 12 countries of the world whose populations have the highest concentration of blood type A 
+Country
+Brazil
+Spain
+Norway
+Australia
+Netherlands
+Belgium
+Population (%)
+8.0
+8.0
+7.2
+7.0
+7.0
+7.0
+Country
+UK
+France
+Denmark
+Sweden
+Austria
+Portugal
+Population (%)
+7.0
+7.0
+7.0
+7.0
+7.0
+6.6
+Mean = (8 + 8 + 7.2 + 7 + 7 + 7 + 7 + 7 + 7 + 7 + 7 + 6.6) / 12 = 6.98
+Mode = 7.00
+Median = 7.00
+Top tip!
+You can use the range 
+for data that are not 
+normally distributed.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Organisms
+746
+Box-and-whisker plots to represent 
+data for a continuous variable 
+A box-and-whisker plot is used to show differences in the mean and range (that is, the difference 
+between the maximum value and the minimum value) of a series of data.
+For data tables with data that are not normally distributed, the appropriate descriptive statistics are 
+medians and quartiles, and the appropriate graph is a box-and-whisker plot (Figure D3.2.18). 
+Quartiles divide a distribution, ordered from low to high values, into four equal parts. Quartiles are 
+determined by splitting the data in half around their median value. The median of the ‘lower half’ of 
+the data will give you your first quartile. The median of the ‘upper half’ of the split data will give you 
+your third quartile. Approximately, the middle 50% of the data fall inside the box.
+The ticks at the top and bottom of the vertical lines show the highest and lowest values in the set of 
+data. The top of the box shows the upper quartile, the bottom of the box shows the lower quartile, 
+and the horizontal line within the box represents the median. The central rectangle spans the 
+interquartile range (IQR), i.e. the first quartile to the third quartile. The IQR shows the spread of data 
+in the middle half of the distribution. A data point is categorized as an outlier if it is more than 
+1.5 × IQR above the third quartile or below the first quartile.
+Tool 3: Mathematics
+Constructing box-and-whisker plots
+Consider the following set of data:
+1, 1, 2, 2, 4, 6, 6, 7, 8, 8, 9, 10, 10, 12
+The first quartile is 2 (the median of the first 
+half of the data), the median is 6.5 (because 
+there are 14 data points, the median is 
+calculated by taking the mean of the middle 
+two values i.e. (6 + 7) ÷ 2 = 6.5), and the 
+third quartile is 9 (the median value of the 
+upper half of data). The smallest value is 1, 
+and the largest value is 12. The following 
+image shows the constructed box plot.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+maximum
+third (upper)
+quartile
+IQR
+median
+first (lower)
+quartile
+minimum
+ 
+■Figure D3.2.18 Horizontal box-and-whisker plot
+Inquiry 2: Collecting and processing data
+Collect data for the height of each member of your class. You need to decide how best 
+to record accurate data.
+Process the data by calculating the median and IQR range for your data. Plot the results 
+using a box-and-whisker graph. Identify and justify the removal or inclusion of outliers 
+in data.
+Identify, describe and explain the patterns shown in your data. 
+Top tip!
+The mode is not 
+typically used as a 
+measure of central 
+tendency in biology, 
+but it can be useful in 
+describing a bimodal 
+distribution, which has 
+two peaks or modes. 
+This type of distribution 
+can be caused by 
+disruptive selection.
+Top tip!
+Box-and-whisker plots 
+can either be shown 
+vertically or horizontally 
+(Figure D3.2.18).
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D3.2   Inheritance
+747
+ 
+■Constructing histograms to plot data for continuous variables
+Tool 3: Mathematics
+Constructing histograms
+Histograms can be used to show the distribution 
+of continuous data. A study of fruit length in a 
+commercial crop was undertaken on a sample size of 
+350 fruits. Each fruit had a different length, so the 
+classes of size were artificially defined. This type of data 
+is best plotted as a histogram.
+Length/mm
+Frequency of fruits
+40–9
+0
+50–9
+2
+60–9
+9
+70–9
+21
+80–9
+29
+90–9
+43
+100–9
+69
+110–19
+66
+120–9
+48
+130–9
+32
+140–9
+19
+150–9
+11
+160–9
+1
+170–9
+0
+Construct a histogram of these data, using an 
+Excel spreadsheet.
+l	 To do this, the frequency classes are entered 
+in column 1 and the numbers at each class in 
+column 2.
+l	 Highlight the two columns, and then in the ‘insert’ 
+menu click ‘chart’. Choose the column option.
+l	 Your histogram requires a title, and each axis 
+needs labelling.
+l	 The spaces between the bars must be removed 
+because the data are continuous. To do this, click 
+on one of the 12 bars and hold down until the bars 
+are highlighted. Using the ‘format’ menu select 
+‘selected data point’. Now use the ‘options’ tab and 
+set the gap width to zero.
+Applying general mathematics
+Data obtained from biological experiments like 
+this frequently show a ‘normal distribution’ (i.e. a 
+symmetrical bell-shaped curve is obtained when the 
+frequency of particular classes of measurements are 
+plotted against the classes of measurements).
+We can now examine the data you used to plot 
+the histogram.
+1	 Calculate how clustered (closely spaced) the readings 
+are. This can be expressed as:
+l	 the average or arithmetic mean (the sum of 
+the individual values divided by the number 
+of values)
+l	 the mode, the most frequent value in a set 
+of values
+l	 the median, the middle value in a set of values 
+arranged in ascending order.
+2	 Deduce how widely distributed (spread out) the 
+readings are. This can be expressed as the standard 
+deviation (SD) of the mean. This is a measure of 
+the variation from the mean of a set of values.  
+A low SD indicates that the values differ very little 
+from the mean.
+Segregation and independent assortment 
+of unlinked genes in meiosis
+Mendel crossed pure-breeding pea plants (P generation) from round seeds with yellow cotyledons 
+(seed leaves) with pure-breeding plants from wrinkled seeds with green cotyledons. All the progeny 
+(F1 generation) were round, yellow peas. 
+When plants grown from these seeds were allowed to self-fertilize the following season, the resulting 
+seeds (F2 generation) – of which there were more than 500 to be classified and counted – were of 
+the following four phenotypes, and they were present in the ratio shown in Table D3.2.4.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Organisms
+748
+ 
+■Table D3.2.4 Mendel’s F2 generation
+Phenotypes
+round seed with 
+yellow cotyledons
+round seed with 
+green cotyledons
+wrinkled seed with 
+yellow cotyledons
+wrinkled seed with 
+green cotyledons
+Ratio
+9
+3
+3
+1
+homozygous
+wrinkled, green
+peas
+homozygous
+round, yellow
+peas
+all round,
+yellow peas
+(selfed)
+wrinkled
+green
+peas
+wrinkled
+yellow
+peas
+round
+green
+peas
+round
+yellow
+peas
+1
+9
+:
+3
+:
+3
+:
+in the ratio of
+plants grown from
+ 
+■Figure D3.2.19 Mendel’s dihybrid cross
+Mendel noticed that two new combinations, not represented in the parents (i.e. recombinations), 
+appeared in the progeny; both round and wrinkled seeds appear with either green or yellow 
+cotyledons. This result shows that two pairs of factors were inherited independently and, therefore, 
+were on separate chromosomes. Mendel noticed that either one of a pair of contrasting characters 
+could be passed to the next generation. This meant that a heterozygous plant must produce four 
+types of gametes in equal numbers (Figures D3.2.19 and D3.2.20).
+Dihybrid crosses involving pairs of 
+unlinked autosomal genes
+Mendel did not express the outcome of the dihybrid cross as a succinct law. However, today we call 
+Mendel’s second law the Law of independent assortment. It is stated as: 
+Two or more pairs of alleles segregate independently of each other as a result of meiosis, 
+provided the genes concerned are not linked by being on the same chromosome.
+8	 In Figure D3.2.19, 
+identify the 
+progeny that are 
+a	 heterozygous 
+for both traits
+b	 homozygous 
+for both traits.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D3.2   Inheritance
+749
+phenotypes:
+homozygous
+round and yellow
+genotypes:
+RRYY
+(meiosis)
+gametes:
+parental (P)
+phenotypes:
+genotypes:
+(meiosis)
+offspring (F1)
+F1 selfed
+RrYy
+heterozygous
+round and yellow
+RrYy
+the alleles for ‘round’ and ‘yellow’ 
+are dominant; the F1 progeny are 
+all round yellow peas
+F1 progeny are heterozygous for 
+both genes
+RY
+homozygous
+wrinkled and green
+pea plants are diploid so they have two
+copies of each allele
+rryy
+(meiosis)
+gametes produced by meiosis so 
+only have one copy of each allele
+ry
+gametes:
+offspring (F2)
+phenotypes:
+phenotypes ratio:
+genotypes:
+round
+yellow
+9          :
+1 RRYY
+2 RrYY
+2 RRYy
+4 RrYy
+round
+green
+3          :
+1 RRyy
+2 Rryy
+wrinkled
+yellow
+3          :
+1 rrYY
+2 rrYy
+wrinkled
+green
+1          
+1 rryy
+RY
+Ry
+rY
+ry
+(meiosis)
+RrYy
+RY
+Ry
+rY
+ry
+genes are on separate
+chromosomes and random
+assortment occurs, i.e.
+R may assort with Y or y
+r may assort with Y or y
+so four different types of gametes
+(both     and   ) are formed, in equal
+proportions (independent 
+assortment)
+random fertilization between all four 
+gametes produces 9 : 3 : 3 : 1 ratio of 
+offspring given many crosses occur
+1/4RY
+1/4Ry
+1/4rY
+1/4ry
+1/4ry
+1/4rY
+1/4Ry
+1/4RY
+1/16RRYY
+round
+yellow
+1/16RRYy
+round
+yellow
+1/16RrYY
+round
+yellow
+1/16RrYy
+round
+yellow
+1/16RRYy
+round
+yellow
+1/16RRyy
+round
+green
+1/16RrYy
+round
+yellow
+1/16Rryy
+round
+green
+1/16RrYY
+round
+yellow
+1/16RrYy
+round
+yellow
+1/16rrYY
+wrinkled
+yellow
+1/16rrYy
+wrinkled
+yellow
+1/16RrYy
+round
+yellow
+1/16Rryy
+round
+green
+1/16rrYy
+wrinkled
+yellow
+1/16rryy
+wrinkled
+green
+ 
+■Figure D3.2.20 Genetic diagram showing the behaviour of alleles in Mendel’s dihybrid cross
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Organisms
+750
+The phenotype ratio of offspring when both parents are heterozygous for both genes is 
+therefore 9:3:3:1.
+Notice the use of a Punnett grid diagram to predict the outcome of a breeding investigation in 
+which independent assortment of alleles is occurring (Figure D3.2.20). By this device, every possible 
+combination of maternal and paternal gametes – the product of random fertilization – is made. 
+These are shown with as many rows/columns as there are unique male and unique female gametes. 
+Each fraction represents the probability that a particular gamete or zygote will occur.
+The relationship between Mendel’s Law of independent assortment and meiosis is detailed in 
+Table D3.2.5.
+ 
+■Table D3.2.5 How the Law of independent assortment relates to meiosis
+Mendel’s dihybrid cross
+Feature of meiosis
+Within an organism exist ‘breeding factors’ that 
+control characteristics like round or wrinkled seeds, 
+and yellow or green cotyledons.
+These factors remain intact from generation to 
+generation.
+Each chromosome holds a linear sequence of genes.
+A particular gene always occurs on the same 
+chromosome in the same position (locus) after each 
+nuclear division.
+There are two factors for each characteristic in 
+each cell.
+One factor comes from each parent. (A recessive 
+factor is not expressed in the presence of a 
+dominant factor.)
+The chromosomes of a cell occur in pairs, called 
+homologous pairs. 
+One of each pair came originally from each parent.
+Factors separate in reproduction; either can be passed 
+to an offspring. Only one of the factors can be in any 
+gamete.
+At the end of meiosis, each cell (gamete) contains a 
+single member of each of the homologous pairs of 
+chromosomes present in the parent cell.
+The factors for seed shape and seed colour segregate 
+independently of each other as a result of meiosis. 
+The genes for seed shape and seed colour are on 
+separate chromosomes.
+The 9:3:3:1 ratio shows that all four types of gamete 
+are equally common. The inheritance of the two 
+characteristics is separate.
+The arrangement of bivalents at the equatorial plate 
+of the spindle is random; maternal and paternal 
+homologous chromosomes are independently 
+assorted. In a large number of matings, all possible 
+combinations of chromosomes will occur in 
+equal numbers.
+Nature of science: Theories
+9:3:3:1 and 1:1:1:1 ratios for dihybrid crosses are based on what has been called Mendel’s second 
+law. This law only applies if genes are on different chromosomes or are far apart enough on 
+one chromosome for recombination rates to reach 50%. If genes are located closer together, 
+these ratios may not be shown. This shows that there are exceptions to biological ‘laws’ under 
+certain conditions.
+A scientific law predicts the results of certain initial conditions, whereas a theory provides an 
+explanation for these results. Predictions can be generated by theories, and if these are tested 
+thoroughly by repetition and remain uncontested, they can become a law, such as demonstrated by 
+Mendel’s laws of inheritance. 
+10	Deduce the 
+positions of the 
+genes for round/
+wrinkled and 
+for yellow/green 
+cotyledons within 
+the nucleus of 
+the pea plant. 
+Explain the 
+significance of their 
+location (which 
+was unknown to 
+Mendel).
+Common 
+mistake
+In a dihybrid cross, the 
+gametes from each 
+parent should include 
+one allele of each 
+gene, e.g. ry, rY, Ry 
+or RY. It is incorrect 
+to show one parent 
+with the pair of alleles 
+of one gene and the 
+second parent with 
+the alleles of the other 
+gene.
+9	 Calculate the 
+phenotype ratio 
+of offspring in 
+a dihybrid cross 
+when one parent 
+is heterozygous 
+for both genes 
+and the other 
+is homozygous 
+recessive.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D3.2   Inheritance
+751
+Loci of human genes and their 
+polypeptide products 
+You should explore genes and their polypeptide products in databases. You should find pairs of 
+genes with loci on different chromosomes and also in close proximity on the same chromosome.
+Genes are located on chromosomes. Each gene occupies a specific position on a chromosome; 
+therefore each eukaryotic chromosome is a linear series of genes. Furthermore, the gene for a 
+particular characteristic is always found at the same position or locus (plural, loci) on a particular 
+chromosome (see Chapter A1.2, page 21). 
+Online databases can be used to locate the locus of specific genes in the human genome. The 
+databases also provide information about the function of the gene (e.g. its polypeptide product). 
+ ATL D3.2B 
+Access the following site: www.ncbi.nlm.nih.gov/gene
+To identify a specific gene locus:
+1	 Type in the name of the gene of interest, such as 
+testis-determining factor (TDF), which switches foetal 
+development to ‘male’, or chloride channel protein (CFTR) – 
+a mutant allele that causes cystic fibrosis.
+2	 Choose the species of interest (Homo sapiens) from the 
+drop-down menu.
+3	 Click on the link for the gene.
+4	 Scroll to the ‘Genomic context’ section on the right-hand 
+side of the screen to determine the specific position of the 
+gene locus.
+To identify the polypeptide products of the gene, carry 
+out steps 1–3 above: the polypeptide product should be 
+identified within the ‘Summary’ section.
+To search for genes on the same chromosome, access this 
+site: www.ncbi.nlm.nih.gov/genome/gdv/?org=homo-sapiens
+1	 In the box ‘Search in genome’ type in the gene of interest.
+2	 Access ‘Ideogram view’ on the left-hand side – this may 
+appear automatically.
+3	 The highlighted chromosome shows you the location of the 
+gene. Click on the image of the chromosome.
+4	 At the top of the screen, the chromosome is shown 
+horizontally, with the gene highlighted with a horizontal 
+purple line across the chromosome showing its location, 
+or alternatively as small green arrows if the polypeptide 
+product is the result of genes at more than one locus.
+5	 Click to the left of the gene and drag the cursor to the right 
+to zoom in on this region of the chromosome. The top line 
+of horizontal green lines shows the genes on this part of 
+the chromosome. Click on a gene to identify its function.
+Find pairs of genes in close proximity on the same 
+chromosome and others with loci on different chromosomes. 
+The relevance of whether genes are located on the same 
+chromosome (i.e. linked) or on separate chromosomes has 
+implications for how characteristics are inherited, which will 
+be discussed in the next section.
+Autosomal gene linkage
+After the rediscovery of Mendel’s work in the early 1900s, geneticists investigated other dihybrid 
+crosses to confirm his results. For example, William Bateson and Reginald Punnett (who had 
+devised the ‘Punnett grid’) crossed pure-breeding sweet pea plants with purple flowers and long 
+pollen grains with plants having red flowers and round pollen grains. All the F1 plants were purple-
+flowered with long pollen grains. This shows that the allele for purple flower is dominant over the 
+allele for red flower, and the allele for long pollen is dominant over that for round pollen. 
+When the F1 were self-crossed, however, most of the offspring resembled the parental phenotypes, 
+but with a small number of recombinants. The actual results obtained are shown in Figure D3.2.21.
+	
+◆Recombinant: a 
+chromosome in which the 
+genetic information has 
+been rearranged.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Organisms
+752
+homozygous purple 
+ﬂowers, long pollen
+genotypes:
+gametes:
+parents
+E
+F
+E
+F
+heterozygous
+purple ﬂowers,
+long pollen
+ self
+offspring (F1)
+offspring (F2):
+E
+F
+e
+f
+E
+F
+e
+f
+homozygous red 
+ﬂowers, round pollen
+e
+f
+e
+f
+ﬂowers of sweet pea (Lathyrus odoratus)
+Outcome
+Phenotypes
+Purple flower long pollen
+Purple flower round pollen
+Red flower long pollen
+Red flower round pollen
+expected
+240
+80
+80
+27
+ratio
+9
+3
+3
+1
+actual
+296
+19
+27
+85
+ 
+■Figure D3.2.21 An example of linked genes in the sweet pea plant
+Top tip!
+In crosses involving linkage, the symbols used to denote alleles should be shown alongside vertical 
+lines representing homologous chromosomes.
+The Mendelian ratio of 9:3:3:1 was not obtained. Since most of the F2 offspring resembled the 
+parental phenotypes (with a small number of recombinants), it seemed reasonable to conclude that 
+the genes for flower colour and pollen shape were present on the same chromosome. If so, these 
+genes were linked – they did not segregate in meiosis but were inherited together. 
+Notice that in crosses involving linkage, the alleles are typically shown as vertical pairs, as shown on 
+the left, rather than as FfEe, for example.
+Common mistake
+Do not confuse ‘gene linkage’ with ‘sex linkage’. Linkage refers to genes present together on the 
+same chromosomes, whereas sex linkage refers to genes specifically associated with one of the sex 
+chromosomes (usually the X chromosome) and not present on the other.
+ ATL D3.2C 
+The closer together the genes are on the same chromosome, the more frequently they will be 
+inherited together. 
+Read further about gene linkage and how it can be studied using this site:  
+https://learn.genetics.utah.edu/content/pigeons/geneticlinkage
+Produce a poster that shows how linked genes are inherited and how this differs from 
+unlinked genes.
+E
+F
+e
+f
+Concept: 
+Change
+Linked genes 
+change the 
+expected genotype 
+and phenotype of 
+the F2 generation 
+in a dihybrid cross.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D3.2   Inheritance
+753
+Recombinants in crosses involving 
+two linked or unlinked genes
+What caused the recombinants in the sweet pea experiment? If the genes concerned were on the 
+same chromosome, when the F1 plants were crossed the appearance of the F2 offspring depended 
+on whether a chiasma formed between these alleles, or elsewhere along the chromosome, during 
+meiosis in gamete formation. Look at Figure D3.2.22 now. Here, the consequence of a chance chiasma 
+– and its location – is made clear. 
+E
+E
+e
+e
+parental types
+and recombinant type
+and
+new recombinant types due to crossing over:
+the progeny produced from these gametes
+(purple ﬂowers, round pollen)
+(red ﬂowers, elongated pollen)
+and
+(shown opposite)
+After meiosis is completed
+these are the gametes that
+form.
+e
+F
+e
+F
+E
+f
+E
+f
+e
+F
+e
+f
+E
+f
+e
+f
+E
+F
+e
+F
+E
+f
+e
+f
+F
+F
+E
+e
+f
+f
+E
+e
+Here the chiasma
+occurs between
+the linked alleles.
+F
+F
+f
+f
+Here the chiasma
+occurs elsewhere.
+Most F2 offspring
+are of this type.
+the progeny produced from these gametes
+parental types
+(red ﬂowers, round pollen)
+(purple ﬂowers, elongated pollen)
+and recombinant type due to reassortment:
+e
+f
+e
+f
+E
+F
+E
+F
+E
+F
+e
+f
+E
+F
+E
+F
+e
+f
+e
+f
+(purple ﬂowers, elongated pollen)
+(Note that ‘E’ and ‘e’ have been chosen to represent the alleles for ‘long’ and ‘short’, rather than
+‘L’ and ‘l’ because lower- and upper-case ‘L’s are easily mistaken. ‘E’ stands for elongated.)
+ 
+■Figure D3.2.22 Chiasmata and the origin of recombinants
+In this example, both individuals are heterozygous for both genes. Recombinants can be identified in 
+genotypes of offspring and in phenotypes of offspring. In Figure D3.2.25, page 756, the outcomes of 
+a cross between an individual heterozygous for both genes and an individual homozygous recessive 
+for both genes is demonstrated, and also how the recombinants, genotypes and phenotypes can 
+be identified. 
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Organisms
+754
+ 
+■Drosophila and the work of Thomas Morgan
+Drosophila melanogaster (the fruit fly) was first selected in 1908 by an American geneticist, Thomas 
+Morgan, as an experimental organism for his series of investigations of Mendelian genetics, in this 
+case in an animal. The remarkable breakthroughs in understanding that Morgan achieved resulted in 
+the award of a Nobel Prize in 1933. His experimental work:
+l	 showed that non-Mendelian ratios are commonly obtained in breeding experiments with 
+Drosophila – but not always
+l	 established that Mendel’s ‘factors’ are linear sequences of genes on chromosomes (this is now 
+called the Chromosome Theory of Inheritance)
+l	 discovered sex chromosomes and sex linkage (page 739)
+l	 demonstrated crossing over and the exchange of alleles between chromosomes, resulting from 
+the chiasmata that form during meiosis.
+Drosophila is an organism that commonly occurs around rotting vegetable material, existing in a 
+form called a ‘wild type’ (a non-mutant form) and in various naturally occurring mutant forms 
+(Figure D3.2.23). This animal rapidly became a useful experimental animal in the study of 
+genetics because: 
+l	 Drosophila has only four pairs of chromosomes (Figure D3.2.23). 
+l	 From mating to emergence of adult flies (generation time) takes about 10 days at 25 ºC. 
+l	 A single female fly produces hundreds of offspring.
+l	 The flies are relatively easily handled, cultured on sterilized artificial medium in glass bottles 
+(they can be temporarily anaesthetized for setting up cultures and sorting progeny). 
+ebony body
+wild-type Drosophila
+mutant
+vestigial wing
+mutant
+white eye
+mutant
+karyograms of male
+and female
+3
+4
+2
+X
+3
+4
+2
+X
+Y
+antennae
+compound eye
+three pairs of legs
+head
+thorax
+abdomen
+wings
+ 
+■Figure D3.2.23 Wild-type Drosophila and some common mutants
+11	Define the term 
+mutant. 
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D3.2   Inheritance
+755
+Nature of science: Patterns and trends
+Non-Mendelian ratios in Drosophila 
+Thomas Morgan, by careful observation and record keeping, 
+made the discovery of linkage in Drosophila. Like others, he 
+was aware of Mendel’s discoveries. The genetic crosses he 
+conducted gave results at odds with the expected Mendelian 
+ratios. The cross in Figure D3.2.25, page 756, is one example. 
+There, a fly homozygous for ebony body and curled wing was 
+crossed with a fly heterozygous for normal body and straight 
+wing. Note that the characteristic ‘curled wing’ is different 
+from the characteristic ‘vestigial wing’ shown in Figure D3.2.24 
+(a cross concerned with contrasting characteristics controlled 
+by genes on separate chromosomes).
+This experiment, and many others, confirmed the existence of 
+linked genes in Drosophila.
+ 
+■Recombinants in crosses involving unlinked genes
+First, we will consider a dihybrid cross in Drosophila involving unlinked genes. In this experiment 
+we are crossing normal flies (wild type) with flies that are homozygous for vestigial wing and ebony 
+body (Figure D3.2.24). These characteristics are controlled by genes that are located on separate 
+autosomal chromosomes (chromosomes other than the sex chromosomes, page 725). 
+The prediction of genotype and phenotype ratios in a dihybrid cross 
+involving unlinked autosomal genes 
+After you have examined Figure D3.2.24, respond to question 12 that follows. This requires you to 
+determine the genotype and phenotype of the F2 generation raised in Figure D3.2.24. 
+Drosophila with
+normal wing and normal body
+(wild type)
+Drosophila with
+vestigial wing and ebony body
+(mutant form)
+all normal wing
+normal body
+vestigial wing
+normal body
+vestigial wing
+ebony body
+normal wing
+ebony body
+normal wing
+normal body
+9
+in the ratio of
+3
+:
+:
+3
+:
+1
+(sibling crosses)
+P
+F1
+F2
+ 
+■Recombinants in crosses involving linked genes
+We have seen that for some traits, genes for two different characteristics are located on the same 
+chromosomes, i.e. they are linked. Figure D3.2.25 shows two linked genes in Drosophila – body 
+colour (ebony or normal) and wing shape (curled or straight). One of the flies in the cross is 
+homozygous for both characteristics, and the other heterozygous. The heterozygous fly (GgSs) has 
+ 
+■Figure D3.2.24 
+A dihybrid cross in 
+Drosophila – a summary
+12	Construct a 
+genetic diagram for 
+the dihybrid cross 
+shown in Figure 
+D3.2.24, using 
+the layout given 
+in Figure D3.2.20. 
+Determine the 
+genotype and 
+phenotype ratios of 
+the F2 generation. 
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Organisms
+756
+dominant alleles for both traits on one homologous chromosome (GS) and recessive alleles on the 
+other (gs). Without crossing over, the only gametes produced by this fly would either be GS or gs. 
+Crossing over allows recombinants to be formed, i.e. gametes that contain Gs or gS: this means that 
+all possible combination of the alleles for both traits can be produced (Figure D3.2.25).
+test cross
+a (male) homozygous recessive fly
+with ebony body and curled wing
+a (female) heterozygous fly with
+normal body and straight wing
+parental (P)
+phenotypes:
+gametes:
+genotypes:
+One of the four pairs of chromosomes in Drosophila
+carries the alleles for the genes for both:
+body colour – normal (GG or Gg) or ebony body (gg)
+wing form – straight (SS or Ss) or curled wing (ss)
+linked genes:
+body colour
+wing form
+g
+s
+g
+s
+G S
+g
+s
+g
+s
+G S
+if no chiasma
+between genes
+if chiasma occurs
+between genes
+:
+G s
+g
+s
+g
+S
+G S
+g
+s
+normal body
+straight wing
+g
+s
+g
+s
+ebony body
+curled wing
+G s
+g
+s
+normal body
+curled wing
+g
+S
+g
+s
+ebony body
+straight wing
+:
+offspring (F1)
+genotypes:
+phenotypes:
+parental types
+recombinants due
+to crossing over
+Notes:
+1 If these genes were on separate chromosomes we would expect these offspring in the ratio 1:1:1:1,
+   but these genes are linked;
+2 If no crossing over occurred we would expect parental types only, in the ratio 1:1;
+3  The majority of offspring were parental types, so we can conclude that few chiasmata occurred between 
+    the gene loci of these linked genes. 
+The outcome of this experiment was:
+Offspring
+G S
+g
+s
+normal body
+straight wing 
+ebony body
+curled wing
+parental types
+Phenotypes
+Genotypes
+536
+481
+Numbers obtained
+g
+s
+g
+s
+G s
+g
+s
+normal body
+curled wing
+ebony body
+straight wing
+recombinants
+101
+152
+g
+S
+g
+s
+ 
+■Figure D3.2.25 A 
+non-Mendelian ratio 
+in a Drosophila cross
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D3.2   Inheritance
+757
+TOK
+The law of independent assortment was soon found to have exceptions, such as when looking at 
+linked genes. What is the difference between a ‘law’ and a ‘theory’ in science? Do these terms have 
+the same meaning in other Areas of Knowledge? In what ways does confusion about how terms are 
+used differently in other Areas of Knowledge lead to challenges in constructing knowledge? 
+13	Deduce what 
+recombinants may 
+be formed in a 
+cross involving the 
+linked genes: 
+×
+tb
+tb
+TB
+tb
+Use of a chi-squared test on 
+data from dihybrid crosses
+ 
+■Statistical tests
+Statistical tests, sometimes called inferential statistics, involve calculations that allow differences to 
+be compared between experimental treatments or samples to see if they are likely to have occurred 
+as a result of variation in the data or if they are a treatment effect. If the statistics show a treatment 
+effect, then the results are said to be statistically significant. A statistically significant result is one 
+where there is a less than 5% probability (which can be denoted as p = 0.05) that it has occurred by 
+chance alone. 
+All statistical techniques involve hypothesis-testing. They test a statement called the null 
+hypothesis. Statistical analyses test whether data match the null hypothesis or significantly vary 
+from it. The alternative hypothesis is the ‘opposite’ of the null hypothesis, that is, that there is a 
+difference or association shown by the data.
+Because of the complexity of the data, scientists can never be 100% certain whether their results 
+are true or not. Statistical tests allow them to be 95% certain that any associations or correlations 
+found in the data are real and not due to chance (that is, there is a 5% chance that they are due to 
+chance). The outcome of a statistical test is therefore a probability that the null hypothesis is true. 
+A probability (known as the p value) varies from 0 (impossible) to 1 (certain). Since the p values are 
+small, they are given as a percentage (0 to 100%) to avoid possible confusion with small numbers. 
+The lower the probability, the less likely it is that the null hypothesis is true.
+ 
+■Applying the chi-squared test
+We know the expected ratio of offspring of a dihybrid cross is 9:3:3:1. Actually, the offspring 
+produced in many dihybrid-cross experiments do not exactly agree with the expected ratio. 
+This is illustrated by the results of the experiment described in Figure D3.2.24 with mutant forms 
+of Drosophila, shown in Table D3.2.6.
+ 
+■Table D3.2.6 Observed and expected offspring
+Offspring in F2 
+generation
+normal wing, 
+normal body = 315
+normal wing, 
+ebony body = 108
+vestigial wing, 
+normal body = 101
+vestigial wing, 
+ebony body = 32
+total = 
+556
+Predicted ratio
+9
+3
+3
+1
+Expected 
+numbers of 
+offspring
+313
+104
+104
+35
+Clearly, these results are fairly close to (but not precisely in) the predicted ratio 9:3:3:1. 
+What, if anything, went wrong? 
+	
+◆Statistical 
+significance: a 
+calculated value that 
+is used to establish 
+the probability that 
+an observed trend or 
+difference represents a 
+true difference that is not 
+due to chance alone.
+	
+◆Alternative 
+hypothesis: there is a 
+statistically significant 
+difference between 
+two variables.
+Link
+The null hypothesis 
+is defined in Chapter 
+C4.1, page 572.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Organisms
+758
+Well, we can expect precisely this ratio among the progeny only if three conditions are met:
+l	 Fertilization is entirely random.
+l	 There are equal opportunities for survival among the offspring.
+l	 Very large numbers of offspring are produced.
+In the experiment with Drosophila, the exact ratio may not be obtained because, for example:
+l	 More male flies of one type may have succeeded in fertilizing the females on this occasion.
+l	 More females of one type may have died before reaching egg-laying condition.
+l	 Fewer eggs of one type may have completed their development. 
+Similarly, in breeding experiments with plants, such as the pea plant, exact ratios may not be obtained. 
+This could, perhaps, be due to parasite damage to some seeds or plants, to the action of browsing 
+predators on the anthers or ovaries in some flowers, or because some pollen types fail to be transported 
+by pollinating insects as successfully as others. Such accidental events are quite common. 
+ 
+■The chi-squared test on data from a dihybrid cross
+Experimental geneticists often ask the question:
+Do the observed values differ significantly from the expected outcome?
+This question is resolved by a simple statistical test, known as the chi-squared (χ2) test. This is used 
+to estimate the probability that any difference between the observed results and the expected results 
+is due to chance. If it is not due to chance, it may be due to an entirely different explanation and the 
+phenomenon needs further investigation.
+The chi-squared (χ2) test
+χ2 = ∑ 
+(O – E)2
+E
+where:
+O = observed result, E = expected result and ∑ = the sum of the values.
+Chi-squared applied
+We can test whether the observed values obtained from the dihybrid cross between Drosophila of 
+normal flies (wild type) with flies homozygous for vestigial wing and ebony body differ significantly 
+from the expected outcome. 
+First we calculate χ2 (Table D3.2.7). 
+ 
+■Table D3.2.7 Calculating χ2
+Category
+Predicted
+O
+E
+O − E
+(O − E)2
+(O − E)2
+E
+normal wing, normal body
+9
+315
+312.75
+2.25
+5.062
+0.016
+normal wing, ebony body
+3
+108
+104.25
+3.75
+14.062
+0.135
+vestigial wing, normal body
+3
+101
+104.25
+−3.25
+10.562
+0.101
+vestigial wing, ebony body
+1
+32
+34.75
+−2.75
+7.562
+0.218
+Total
+556
+Σ(χ2)
+0.47
+In this example we have calculated χ2 to be 0.47. 
+To see if this value of chi-squared represents a significant difference between the observed and 
+expected results, we now consult a table, such as that shown in Table D3.2.8, of the distribution of χ2. 
+We can find out the probability (p) of obtaining by chance alone a deviation as large as (or larger 
+than) the one we have observed.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D3.2   Inheritance
+759
+Note that the table takes account of the number of independent comparisons involved in our test. 
+In our example, there were four categories and, therefore, three comparisons were made – we call 
+this ‘three degrees of freedom (df)’. (Another way of putting this is that for any one condition there 
+are three alternatives.)
+So, we look along the row ‘df = 3’ to see whether 0.47 lies to the left or to the right of the 0.05 level 
+of probability (shown in red).
+ 
+■Table D3.2.8 Table of χ2 distribution
+Degrees of 
+freedom
+Probability greater than
+0.99
+0.95
+0.90
+0.50
+0.10
+0.05
+0.01
+0.001
+df = 1
+0.00016
+0.004
+0.016
+0.455
+2.71
+3.84
+6.63
+10.83
+df = 2
+0.0201
+0.103
+0.21
+1.386
+4.60
+5.99
+9.21
+13.82
+df = 3
+0.115
+0.35
+0.58
+1.39
+6.25
+7.81
+11.34
+16.27
+Using the χ2 distribution table, we can resolve whether the difference between the result we expected 
+and the result we actually observed is due to chance – or whether the difference is, in fact, significant. 
+l	 If the value of χ2 is bigger than the critical value highlighted in red (a probability of 0.05) then 
+we can be at least 95% confident that the difference between the observed and expected results 
+is significant. 
+l	 If the value of χ2 is smaller than the critical value highlighted in red (a probability of 0.05) then we 
+can be confident that the difference between the observed and expected results is due to chance. 
+In biological experiments we take a probability of 0.05 or larger to indicate that the difference 
+between the observed (O) and expected (E) results is not significant. We can say it is due to chance. 
+In this example, the value (0.47) lies between a probability of 0.95 and 0.90. This means that a 
+deviation of this size can be expected 90–95% of the times the experiment is carried out (due to 
+chance). So, there is clearly no significant deviation between the observed (O) and the expected (E) 
+results; the data conform to a Mendelian ratio.
+The chi-squared test is similarly applicable to the results of other test crosses. 
+In any chi-squared test that produces a significant deviation of observed from expected results (it 
+does not confirm that the results conform to the anticipated values) by giving a value for χ2 that is 
+bigger than the critical value and a probability that is smaller than 0.05, we must reconsider our 
+experimental hypothesis. In this outcome, the statistical test gives no clue as to the true location or 
+behaviour of the alleles. Further genetic investigations are required.
+14	In the dihybrid test cross between homozygous dwarf pea plants with terminal flowers 
+(ttaa) and heterozygous tall pea plants with axial flowers (TtAa), the progeny were:
+l	 tall, axial = 55 peas
+l	 tall, terminal = 51 peas
+l	 dwarf, axial = 49 peas
+l	 dwarf, terminal = 53 peas.
+Use the χ2 test to determine whether or not the difference between these observed 
+results and the expected results is significant.
+LINKING QUESTIONS
+1	 What are the principles of effective sampling in biological research?
+2	 What biological processes involve doubling and halving? 
+Nature 
+of science: 
+Measurement
+Statistical testing 
+often involves using a 
+sample to represent 
+a population. In this 
+case the sample is 
+the F2 generation. 
+In many experiments 
+the sample is the 
+replicated or repeated 
+measurements.

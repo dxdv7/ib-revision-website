@@ -1,0 +1,1738 @@
+D1.2   Protein synthesis
+615
+Protein synthesis
+D1.2
+•	 How does a cell produce a sequence of amino acids from a sequence of DNA bases?
+•	 How is the reliability of protein synthesis ensured?
+Guiding questions
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 D1.2.1 	 Transcription as the synthesis of RNA using a DNA template
+	 D1.2.2 	 Role of hydrogen bonding and complementary base pairing in transcription
+	 D1.2.3 	 Stability of DNA templates
+	 D1.2.4 	 Transcription as a process required for the expression of genes
+	 D1.2.5 	 Translation as the synthesis of polypeptides from mRNA
+	 D1.2.6 	 Roles of mRNA, ribosomes and tRNA in translation
+	 D1.2.7 	 Complementary base pairing between tRNA and mRNA
+	 D1.2.8 	 Features of the genetic code
+	 D1.2.9 	 Using the genetic code expressed as a table of mRNA codons
+	 D1.2.10 	Stepwise movement of the ribosome along mRNA and linkage of amino acids by 
+peptide bonding to the growing polypeptide chain
+	 D1.2.11 	Mutations that change protein structure
+	 D1.2.12 	Directionality of transcription and translation (HL only)
+	 D1.2.13 	Initiation of transcription at the promoter (HL only)
+	 D1.2.14 	Non-coding sequences in DNA do not code for polypeptides (HL only)
+	 D1.2.15 	Post-transcriptional modification in eukaryotic cells (HL only)
+	 D1.2.16 	Alternative splicing of exons to produce variants of a protein from a single gene 
+(HL only)
+	 D1.2.17 	Initiation of translation (HL only)
+	 D1.2.18 	Modification of polypeptides into their functional state (HL only)
+	 D1.2.19 	Recycling of amino acids by proteasomes (HL only)
+Transcription
+In Chapter B1.2, we saw that proteins are linear sequences of amino acids condensed together. 
+Most proteins contain several hundred amino acid residues, but all are built from only 20 different 
+amino acids.
+The unique properties of a protein lie in:
+l	 which amino acids are involved in its construction
+l	 the sequence in which these amino acids are condensed together. The sequence of bases in DNA 
+dictates the order in which specific amino acids are assembled and combined.
+The DNA molecule in each chromosome is very long and it codes for a large number of proteins. 
+Within this molecule, the relatively short lengths of DNA that code for single proteins are called 
+genes. Proteins are very variable in size and, therefore, so are genes. A very few genes are as short as 
+75–100 nucleotides. Most are at least 1000 nucleotides long, and some are more.
+Concept: 
+Continuity
+The transcription 
+of the genetic 
+code from DNA 
+to mRNA allows 
+continuity between 
+the genome of 
+an organism and 
+the proteins that it 
+produces. mRNA 
+copies the genetic 
+code and transfers 
+it to ribosomes, 
+allowing proteins 
+needed by the cell 
+and organism to be 
+synthesized.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+616
+All proteins are formed in the cytoplasm: some are formed at free-floating ribosomes and others at 
+the ribosomes embedded within the RER. For this to happen, a mobile copy of the information in 
+the genes must be made and then transported to these sites of protein synthesis. That copy is made 
+of RNA and is called messenger RNA (mRNA). It is formed by a process called transcription. 
+Both DNA and RNA have roles in protein synthesis. 
+An enzyme called RNA polymerase catalyses the formation of a complementary copy of the genetic 
+code of a gene in the form of a molecule of mRNA (Figure D1.2.1).
+template
+strand read in the
+3’    5’ direction
+mRNA produced by
+transcription – a copy of the
+coded information of a gene
+enzyme links the 5’ end of the nucleotide
+to the 3’ end of the growing RNA molecule
+5’
+C
+C
+A
+A
+G
+G
+G
+G
+T
+A
+C
+A
+T
+T
+C
+C
+C
+G
+G
+C
+C
+C
+U
+U
+A
+C
+A
+U
+G
+C
+G
+C
+G
+G
+A
+A
+T
+G
+T
+A
+C
+G
+C
+G
+G
+G
+3’
+3’
+3’
+5’
+5’
+template strand
+coding strand
+helix reforms
+as the RNA
+polymerase
+moves along
+mRNA strand
+mRNA
+pool of free nucleotides
+(nucleoside triphosphates)
+free nucleotides align by
+base pairing and are held
+by hydrogen bonds
+G
+G
+G
+G
+G
+C
+C
+C
+C
+A
+A
+U
+U
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+RNA polymerase
+causes transcription
+of code into
+mRNA
+T
+T
+C
+G
+ 
+■Figure D1.2.1 Transcription
+1	 State where in a eukaryotic cell you would expect to find the enzyme RNA polymerase.
+ 
+■The genetic code
+Information in the DNA lies in the sequence of the bases, cytosine (C), guanine (G), adenine (A) and 
+thymine (T). The sequence of bases determines which specific amino acids are assembled and 
+combined. The code lies in the sequence in one of the strands, the coding strand. The other strand 
+is complementary to it and forms the template strand from which the mRNA is formed. This 
+template strand is called the non-coding strand.
+	
+◆Transcription: the 
+synthesis of messenger 
+RNA using a DNA 
+template.
+	
+◆RNA polymerase: 
+enzyme that catalyses 
+the synthesis of RNA 
+molecules from a 
+DNA template.
+	
+◆Coding strand: 
+the strand of a DNA 
+double helix not used 
+as a template by DNA or 
+RNA polymerase during 
+DNA replication or RNA 
+transcription.
+	
+◆Template strand: 
+the strand of a DNA 
+double helix used 
+during transcription to 
+produce mRNA. It is 
+complementary to the 
+coding strand of DNA.
+
+
+=== PAGE BREAK ===
+
+D1.2   Protein synthesis
+617
+Common mistake
+The terminology used to describe the two strands of DNA during transcription can cause confusion. 
+The coding strand is not the strand used to form mRNA – this is done by the template strand. 
+The coding strand is so-called because it corresponds to the same sequence as the mRNA that will 
+contain the codon sequences necessary to build proteins. The only difference between the coding 
+strand and the new mRNA strand is instead of thymine, uracil takes its place in the mRNA strand. 
+It is the template strand that mRNA is synthesized from – it serves as a template for transcription.
+The code is a three-letter or triplet code, meaning that each sequence of three of the four bases 
+represents one of the 20 amino acids, and is called a codon.
+Amino acid
+Abbreviation
+alanine
+Ala
+arginine
+Arg
+asparagine
+Asn
+aspartic acid
+Asp
+cysteine
+Cyc
+glutamine
+Gln
+glutamic acid
+Glu
+glycine
+Gly
+histidine
+His
+isoleucine
+Ile
+leucine
+Leu
+lysine
+Lys
+methionine
+Met
+phenylalanine
+Phe
+proline
+Pro
+serine
+Ser
+threonine
+Thr
+tryptophan
+Trp
+tyrosine
+Tyr
+valine
+Val
+Second base
+A
+G
+T
+C
+First base
+A
+AAA   Phe
+AAG   Phe
+AAT   Leu
+AAC   Leu
+AGA   Ser
+AGG   Ser
+AGT   Ser
+AGC   Ser
+ATA   Tyr
+ATG   Tyr
+ATT   Stop
+ATC   Stop
+ACA   Cys
+ACG   Cys
+ACT   Stop
+ACC   Trp
+G
+GAA   Leu
+GAG   Leu
+GAT   Leu
+GAC   Leu
+GGA   Pro
+GGG   Pro
+GGT   Pro
+GGC   Pro
+GTA   His
+GTG   His
+GTT   Gln
+GTC   Gln
+GCA   Arg
+GCG   Arg
+GCT   Arg
+GCC   Arg
+T
+TAA   Ile
+TAG   Ile
+TAT   Ile
+TAC   Met/Start
+TGA    Thr
+TGG   Thr
+TGT   Thr
+TGC   Thr
+TTA   Asn
+TTG   Asn
+TTT   Lys
+TTC   Lys
+TCA   Ser
+TCG   Ser
+TCT   Arg
+TCC   Arg
+C
+CAA   Val
+CAG   Val
+CAT   Val
+CAC   Val
+CGA   Ala
+CGG   Ala
+CGT   Ala
+CGC   Ala
+CTA   Asp
+CTG   Asp
+CTT   Glu
+CTC   Glu
+CCA   Gly
+CCG   Gly
+CCT   Gly
+CCC   Gly
+ 
+■Figure D1.2.2 The 20 amino acids found in proteins, and the genetic code from the DNA template 
+strand (you will use this figure to deduce which codon corresponds to which amino acid)
+2	 The sequence of bases in part of a DNA template strand was found to be:  
+-A-G-A-C-T-G-T-T-C-A-T-T. Use Figure D1.2.2 to determine the sequence of amino acids 
+this codes for, and where along the length of a gene it occurred.
+Role of hydrogen bonding and complementary 
+base pairing in transcription
+In transcription, the hydrogen bonds between the complementary strands of DNA are broken, which 
+allows the DNA double helix of a particular gene to unwind. Inevitably, there is a pool of free 
+nucleotides present.
+One strand of the DNA, the template strand, becomes the template for transcription. A single-
+stranded molecule of RNA is formed by complementary base pairing. Remember, in RNA synthesis it 
+is uracil that pairs with adenine. That mRNA strand leaves the nucleus through pores in the nuclear 
+membrane and passes to ribosomes in the cytoplasm. Here, the information can be ‘read’ and used 
+in the synthesis of a protein.
+Top tip!
+DNA is double-
+stranded, but only 
+one strand serves 
+as a template for 
+transcription at any 
+given time. This 
+template strand is 
+called the non-
+coding strand. The 
+non-template strand 
+is referred to as the 
+coding strand because 
+its sequence will be 
+the same as that of the 
+new RNA molecule.
+Link
+The definition for 
+codon is in Chapter 
+A1.2, page 17.
+Link
+Hydrogen bonding 
+is covered in 
+Chapter A1.1, 
+page 3; hydrogen 
+bonding between 
+complementary base 
+pairing is covered in 
+Chapter A1.2, page 19.
+3	 State the enzyme 
+responsible 
+for breaking 
+the hydrogen 
+bonds between 
+complementary 
+strands of DNA.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+618
+Stability of DNA templates
+The sugar–phosphate ‘backbone’ of the DNA molecule (see Figure A1.2.2, page 17) ensures the 
+stability of the base sequence. Hydrogen bonds between the two strands of the double helix also 
+maintain the integrity of the molecule (Figure A1.2.6, page 19). Single DNA strands are used as the 
+template for transcribing the base sequence, without the DNA base sequence changing. It is essential 
+that the same code is replicated exactly from one DNA molecule to the next (page 602) so that cells 
+have the same genome for the organism, from which its functional and behavioural properties derive. 
+Some body cells (somatic cells) do not divide during the lifetime of the organism, such as neurons, 
+skeletal and cardiac muscle cells, mature bone cells (osteocytes) and retinal receptor cells. In 
+such cells, base sequences must be conserved throughout the life of a cell to ensure the ongoing 
+functioning of the cells through transcription and translation. 
+Transcription as a process required 
+for the expression of genes
+Not all genes in a cell are expressed at any given time and transcription, being the first stage of gene 
+expression, is a key stage at which expression of a gene can be switched on and off. Organisms 
+control which of their genes are expressed at any one moment. Remember, the cells in an organism 
+all contain the same genome, whatever the fate of a particular cell. So, in a multicellular organism 
+every nucleus contains the coded information relating to the development and maintenance of all 
+mature tissues and organs. Both during development and later, this genetic information is used 
+selectively. Typically, less than 25% of the protein-coding genes in human cells are expressed at any 
+time. The expression of genes is related to when and where the proteins they code for are needed 
+(Table D1.2.1). A mechanism for control of gene expression was first discovered in prokaryotes.
+ 
+■Table D1.2.1 Gene regulation
+When and why genes are expressed
+expressed all the time 
+genes responsible for routine and continuous metabolic functions, 
+e.g. respiration, which is common to all cells and is continuous throughout life
+expressed at a selected stage 
+in cell or tissue development 
+e.g. as cells derived from stem cells are developing into muscle fibres 
+or neurons
+expressed only in the 
+mature cell
+e.g. genes responsible for antibody production in a mature plasma cell, after 
+these have been cloned (page 528)
+expressed on receipt of an 
+internal or external signal 
+e.g. when a particular hormone signal, metabolic signal or nerve impulse 
+is received by the cell and activates a gene, such as the gene for insulin 
+production in β cells in the islets of Langerhans (page 763)
+Translation as the synthesis of 
+polypeptides from mRNA
+The sequence of bases contained within the DNA in the form of genes, and subsequently transcribed 
+to mRNA, is ‘expressed’ at the ribosomes to form proteins. The genetic code determines the 
+sequence in which amino acids are assembled, which consequently determines the polypeptide 
+produced. Gene expression, which is completed in the process of translation at ribosomes, is 
+therefore a function of the complementary base pairing seen in nucleic acids.
+Common 
+mistake
+Remember that mRNA 
+does not contain 
+thymine (T), and that 
+adenine (A) on the 
+DNA template strand 
+pairs with uracil (U) on 
+the RNA strand during 
+transcription.
+	
+◆Gene expression: 
+the process by which 
+the information encoded 
+in a gene is used to 
+direct the synthesis of a 
+protein molecule.
+Link
+Gene expression 
+is covered in more 
+detail in Chapter 
+D2.2, page 670.
+	
+◆Translation: the 
+information of mRNA 
+is decoded into protein 
+(amino acid sequence).
+
+
+=== PAGE BREAK ===
+
+D1.2   Protein synthesis
+619
+Roles of mRNA, ribosomes and 
+tRNA in translation
+The amino acids from the pool available for protein synthesis are activated by combining with short 
+lengths of a different type of RNA, transfer RNA (tRNA). It is this tRNA that translates a three-base 
+sequence into an amino acid sequence. How does this occur?
+All the tRNAs have a clover-leaf shape, but there is a different tRNA for each of the 20 amino acids 
+involved in protein synthesis. At one end of each tRNA molecule is a site where one particular amino 
+acid of the 20 can be bonded covalently. At the other end, there is a sequence of three bases called 
+an anticodon. This anticodon is complementary to the codon of mRNA that codes for the specific 
+amino acid (Figure D1.2.3).
+Each amino acid is linked to a speciﬁc tRNA before it can be used in protein
+synthesis. This is the process of amino acid activation. It takes place in the cytoplasm.
+amino
+acid1
+point of amino
+acid attachment
++
+amino
+acid1
++
+ATP
+speciﬁc
+enzyme
+AMP +
+2Pi
+tRNA speciﬁc for
+amino acid1
++
+tRNA–amino
+acid1 complex
+enzyme1
+anticodon speciﬁc
+for amino acid1
+anticodon  = three consecutive bases in tRNA,
+complementary to a codon on the mRNA,
+e.g. AAA is complementary to UUU
+ 
+■Figure D1.2.3 An amino acid is linked to a specific tRNA
+The amino acid becomes attached to its tRNA by an enzyme in a reaction that also requires ATP. 
+These enzymes are specific to the particular amino acids (and types of tRNA) to be used in protein 
+synthesis. The specificity of the enzymes is a way of ensuring the correct amino acids are used in the 
+right sequence.
+Ribosomes are made from two subunits (Figure A2.2.20, page 69). In translation, mRNA binds to 
+the small subunit of the ribosome so two tRNAs can bind simultaneously to the large subunit.
+Complementary base pairing 
+between tRNA and mRNA
+A ribosome moves along the mRNA ‘reading’ the codons from the ‘start’ codon. The sequence of 
+three bases in the codon is complementary to the sequence of bases in the anticodon: this means 
+that in the ribosome, for each mRNA codon, the complementary anticodon (Figure D1.2.3) of the 
+tRNA–amino acid complex slots into place and is temporarily held in position by hydrogen bonds. 
+While held there, the amino acids of neighbouring tRNA–amino acid complexes are joined by a 
+peptide linkage. This frees the first tRNA, which moves back into the cytoplasm for reuse. Once this 
+is done, the ribosome moves on to the next mRNA codon (Figure D1.2.4). The process continues 
+until a ribosome meets a ‘stop’ codon.
+Link
+The definition of 
+transfer RNA (tRNA) 
+is in Chapter A1.2, 
+page 18. 
+	
+◆Anticodon: set 
+of three consecutive 
+nucleotides in a tRNA 
+molecule that recognizes, 
+through base pairing, the 
+three-nucleotide codon 
+on a messenger RNA 
+molecule. 
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+620
+mRNA
+from nucleus
+mRNA strand being read
+(‘translated’) at one ribosome
+‘stop’
+mRNA
+G
+U
+G A
+G A A G C U U U U G U U C
+C
+A
+U
+C
+U
+U
+Met
+A
+A
+Glu
+U G A
+complementary
+codons/anticodons
+held by hydrogen
+bonds
+ribosome acting
+as supporting
+framework and as
+site for enzymes
+codons to
+be ‘read’
+tRNA–amino acid
+complex with
+anticodon
+(Glu arriving)
+‘start’
+anticodon
+ 
+■Figure D1.2.4 Translation
+Features of the genetic code
+All organisms use the same codons to specify the placement of each of the 20 amino acids in protein 
+formation. This supports the idea of a common origin of life on Earth; that the very first DNA has 
+sustained an unbroken chain of life from the first cells on Earth to all cells in organisms alive today. 
+Only the most minor variations in the genetic code have arisen in the evolution and expansion of life 
+since it originated 3500 million years ago. The processes of ‘reading’ the code and protein synthesis, 
+using RNA and ribosomes, are very similar in prokaryotes and eukaryotes. This is referred to as the 
+universality of the genetic code.
+The fact that most amino acids are coded for by more than one codon (see Figure D1.2.2, page 617) 
+is known as the degeneracy of the genetic code. The degenerate code provides enough different 
+combinations to code for all amino acids and makes allowances for the possibility of mutation. If the 
+third nucleotide in the triplet changes through mutation, it is possible that this will not change the 
+amino acid coded for. For some amino acids, the first two bases are sufficient to provide enough 
+information for which amino acid to use in translation: this means that the third nucleotide can be 
+relatively tolerant to mutation, which reduces the chance that the protein synthesized will be altered 
+when a base does mutate.
+Why are there three not two nucleotides used in each codon? A codon size of 2 would give 
+16 possible combinations – not enough to code for all amino acids, and it has no allowance for 
+further growth. A triplet code gives a total of 64 combinations – more than enough to include all 
+amino acids with the capability to cope with any expansion in the number of amino acids 
+during evolution.
+Common mistake
+The word ‘degenerate’ has different meanings. Students often think that, in relation to the genetic 
+code, it means that the code has somehow ‘deteriorated’. This is not what ‘degenerate code’ is 
+referring to. In this context, it means a code in which several codons have the same meaning. 
+For example, when coding for serine (Ser), any code beginning ‘UC’ followed by any of the four 
+bases will code for this amino acid (Figure D1.2.5). The genetic code is degenerate because there 
+are many instances in which different codons specify the same amino acid.
+	
+◆Degenerate code: 
+the genetic code contains 
+more codons than there 
+are amino acids to be 
+coded, so most amino 
+acids are coded for by 
+more than one codon.
+Concept: 
+Continuity
+All organisms 
+use the same 
+genetic code. This 
+continuity shows 
+the connectivity 
+between all 
+organisms, and that 
+all life ultimately 
+share a common 
+ancestor (LUCA).
+
+
+=== PAGE BREAK ===
+
+D1.2   Protein synthesis
+621
+Using the genetic code expressed 
+as a table of mRNA codons
+To read the table of mRNA codons (Figure D1.2.5), select the first base from the column on the left, 
+the second base from the list of bases along the top of the table, and the third base from the cell that 
+you have identified from the first and second base. For example, UAU is Tyr (tyrosine).
+2nd base
+U
+C
+A
+G
+1st base
+U
+ULU   Phe
+UUC   Phe
+UUA   Leu
+UUG   Leu
+UCU   Ser
+UCC   Ser
+UCA   Ser
+UCG   Ser
+UAU   Tyr
+UAC  Tyr
+UAA   Stop
+UAG   Stop
+UGU   Cys
+UGC   Cvs
+UGA   Stop
+UGG   Trp
+C
+CUU   Leu
+CUC   Leu
+CUA   Leu
+CUG   LeU
+CCU   Pro
+CCC   Pro
+CCA   Pro
+CCG   Pro
+CAU   His
+CAC   His
+CAA   Gln
+CAG   Gln
+CGU   Arg
+CGC   Arg
+CGA   Arg 
+CGG   Arg
+A
+AUU   Ile
+AUC   Ile
+AUA   Ile
+AUG   Met/Start
+ACU   Thr
+ACC   Thr
+ACA   Thr
+ACG   Thr
+AAU   Acn
+AAC   AST
+AAA   Lys
+AAG   LYS
+AGU   Ser
+AGC   Ser
+AGA   Arg
+AGG   Arg
+G
+GUU   Val
+GUC   Val
+GUA   Val
+GUG   Val
+GCU   Ala
+GCC   Ala
+GCA   Ala
+GCG   Ala
+GAU   Asp
+GAC   Asp
+GAA   Glu
+GAG   Glu
+GGU   Gly
+GGC   Gly
+GGA   Gly
+GGG   Gly
+ 
+■Figure D1.2.5 The mRNA genetic dictionary; compare it to Figure D1.2.2
+An alternative arrangement for the mRNA codons and 
+the amino acids they code for is shown in Figure D1.2.6.
+This ‘wheel’ diagram is read by taking the first base 
+from the centre of the wheel (containing A, G, U and C), 
+the second from the circle of bases around this central 
+portion, and the final base from the outer ring.
+You may be given a list of bases from a sequence of 
+DNA and asked what the sequence of amino acids will 
+be coded for. You first need to transcribe the DNA code 
+into the mRNA code (not forgetting that U replaces T), 
+and then from this read the code in triplets to identify 
+the amino acid sequence. For example, if the DNA code 
+is A-G-A-C-T-G-T-T-C-A-T-T, the mRNA transcribed 
+from this will be U-C-U-G-A-C-A-A-G-U-A-A.  
+The amino acids translated from this sequence will be 
+U-C-U = Ser (serine), G-A-C = Asp (aspartic acid), 
+A-A-G = Lys (lysine) and U-A-A = Stop codon.
+Top tip!
+You need to be able to 
+deduce the sequence 
+of amino acids coded 
+by an mRNA strand.
+ 
+■Figure D1.2.6 mRNA codon wheel for encoding nucleotide sequences
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+622
+ ATL D1.2A 
+Create your own DNA sequence of bases that codes for a specific sequence of amino acids. 
+Do this for a template strand of DNA. Use start and stop codons to indicate the beginning and 
+end of translation for the protein you are coding for. Ask a partner to do the same. Swap your 
+codes. Can each of you solve your respective codes and work out the amino acid sequence using 
+the table of codons in Figure D1.2.5 or D1.2.6? Remember that you will first need to transcribe 
+the code from the template strand to mRNA.
+4	 The sequence of bases in a sample of mRNA was found to be: 
+GGU, AAU, CCU, UUU, GUU, ACU, CAU, UGU
+Using Figures D1.2.5 or D1.2.6:
+a	 Deduce the order of amino acids this sequence codes for.
+b	 Determine the sequence of bases in the template strand of DNA from which this 
+mRNA was transcribed.
+c	 State where the triplet codes, codons and anticodons are found within a cell.
+Common 
+mistake
+When determining an 
+amino acid sequence 
+based on a DNA 
+code, make sure that 
+the DNA code is 
+transcribed into mRNA 
+first. A table showing 
+the codons for each 
+amino acid (Figure 
+D1.2.5) or a wheel 
+(Figure D1.2.6) can be 
+used to do this. The 
+clue that a genetic 
+dictionary relates to 
+mRNA rather than 
+DNA is that the table/
+wheel will contain U 
+and not T.
+The growing polypeptide chain
+During translation, the ribosome moves in steps along the mRNA. In each stepwise movement, 
+the ribosome moves three bases along the mRNA. In this way, the ribosome progresses along the 
+mRNA molecule, codon by codon (Figure D1.2.7). Consecutive amino acids are linked together via 
+condensation reactions, forming peptide bonds. By these steps, constantly repeated, a polypeptide is 
+formed and elongated, eventually emerging from the large subunit.
+ribosome moving along
+mRNA one triplet at a time
+used tRNA leaving
+Several ribosomes may move along the
+mRNA at one time. This structure
+(mRNA, ribosomes plus growing protein
+chains) is called a polysome.
+Phe
+Val
+U G A
+A
+A
+A
+C
+A
+A
+Ala
+C
+A
+G
+Glu
+Glu
+Phe
+two tRNAs
+temporarily held
+in ribosome
+amino acid
+residues
+protein strand
+being built up
+peptide linkage
+formed between
+amino acids held
+at the ribosome
+peptide linkages
+U
+U
+G A
+G A A G C U
+U
+G U
+U
+A
+C
+U
+U
+U
+ 
+■Figure D1.2.7 The stepwise movement of the ribosome along the mRNA
+Link
+For HL students, 
+polysomes are 
+discussed in the 
+structure and 
+function of free 
+ribosomes and of the 
+RER in Chapter B2.2, 
+page 253.
+
+
+=== PAGE BREAK ===
+
+D1.2   Protein synthesis
+623
+Tool 1: Experimental techniques
+Digital molecular modelling
+Computer-based modelling is an ideal tool for learning about the structure of biological 
+molecules and biological theory such as natural selection. Computer software gives a 
+much more accurate representation of biological structures (such as DNA and proteins) 
+and assessment of theoretical predictions. 
+Molecular models can display bond lengths, bond angles, locations of electrons, an 
+accurate representation of the three-dimensional shape of molecules, and reactions 
+between molecules (see Chapter B1.2, page 207).
+Mutations that change protein structure
+DNA can change. Normally, the sequence of nucleotides in DNA is maintained without change, but 
+very occasionally alterations do happen. If a change occurs, we say a mutation has occurred. A point 
+mutation occurs when a single base pair is added, deleted or changed (i.e. A for T or C for G) within 
+a DNA molecule. 
+The sequence of amino acids in the polypeptide chain is controlled by the coded instructions stored 
+in the DNA of the chromosomes in the nucleus, mediated via mRNA. Changing just one amino acid 
+in the sequence of a protein alters its properties, often quite drastically. This sort of mistake arises 
+by mutation.
+ 
+■An example of a point mutation: sickle cell anaemia
+An extremely common point mutation occurs in haemoglobin. This oxygen-transporting pigment of 
+red blood cells is made of four polypeptide molecules – two known as α haemoglobin and two as 
+β haemoglobin. These interlock to form a compact molecule.
+The gene that codes for the amino acid sequence of β haemoglobin occurs on chromosome 11 and is 
+prone to a change of the base A to T in a codon for the amino acid glutamic acid – the sixth amino 
+acid in this polypeptide. Due to this base substitution, the amino acid valine appears at that 
+point instead (Figure D1.2.8).
+The presence of a non-polar valine in the β haemoglobin creates a hydrophobic spot in the otherwise 
+hydrophilic outer section of the protein. This tends to attract other haemoglobin molecules, which 
+bind to it. In tissues with low partial pressures of oxygen (such as a tissue with a high rate of aerobic 
+respiration) the sickle-cell haemoglobin molecules in the capillaries readily clump together into long 
+fibres. These fibres distort the red blood cells into sickle shapes. In this condition, the red blood cells 
+cannot transport oxygen. Sickle cells may also get stuck together, blocking smaller capillaries and 
+preventing the circulation of normal red blood cells. The result is that people with sickle cells suffer 
+from anaemia – a condition of inadequate delivery of oxygen to cells. This unusual haemoglobin 
+molecule is known as haemoglobin S.
+People with a single allele for haemoglobin S have less than 50% haemoglobin S. Such a person is 
+said to have sickle-cell trait and they are only mildly anaemic. However, those with both alleles for 
+haemoglobin S are described as having sickle-cell anaemia – a serious condition that may trigger 
+heart and kidney problems, too. 
+	
+◆Point mutation: 
+occurs in DNA when a 
+single base pair is added, 
+deleted or changed.
+Link
+The different types of 
+mutations are covered 
+in detail in Chapter 
+D1.3, page 637.
+Link
+For HL students, the 
+quaternary structure 
+of haemoglobin is 
+shown in Chapter 
+B1.2, page 217.
+Concept: 
+Change
+Mutations result in 
+changes in the base 
+sequence of DNA. 
+If these changes 
+occur within a 
+gene, it can result 
+in altered protein 
+structure, which 
+can affect the 
+physical, functional 
+or behavioural 
+characteristics of 
+an organism.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+624
+Anaemia is a disease typically due to a deﬁciency in healthy red blood cells.
+Haemoglobin occurs in red blood cells – each contains about 
+280 million molecules of haemoglobin. A molecule consists 
+of two α haemoglobin and two β haemoglobin subunits, 
+interlocked to form a compact molecule.
+The mutation that produces sickle cell haemoglobin (HgS) is
+in the gene for β haemoglobin. It results from the substitution 
+of a single base in the sequence of bases that make up all the 
+codons for β haemoglobin.
+drawing based on a photomicrograph of a blood smear, 
+showing blood of a patient with sickle cells present among 
+healthy red cells
+sense strand
+DNA
+antisense strand
+(template for transcription
+of mRNA)
+part of normal gene
+C
+T
+C
+mRNA, formed by
+complementary
+base pairing
+tRNA–amino acid complex
+showing complementary
+anticodons
+part of the resulting protein sequence,
+showing the amino acid residues
+assembled:
+(abbreviations for amino acids
+shown in Figure D1.2.2, page 617)
+Val–His–Leu–Thr–Pro–Glu–
+Hg
+Val–His–Leu–Thr–Pro–Val–
+Hgs
+β haemoglobin
+substituted
+base
+transcription
+part of mutated gene
+C
+A C
+G
+A G
+C
+U C
+G
+U G
+G
+A G
+G
+T
+G
+translation
+glutamic
+acid
+C
+A C
+valine
+phenotypic appearance
+of HgHg red cells and
+sickle cells (HgsHg)
+10 µm
+ 
+■Figure D1.2.8 Sickle-cell anaemia, an example of a point mutation
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.2   Protein synthesis
+625
+Directionality of transcription and translation
+The phosphate groups along each strand of the DNA double helix are bridges between the carbon-3 
+of one sugar molecule and the carbon-5 of the next. One chain runs from 5′ to 3′ while the other 
+runs from 3′ to 5′ (see Figure A1.2.6, page 19).
+As we have seen with DNA polymerase, polymerase enzymes work in the 5′ to 3′ direction. Similarly, 
+in transcription, RNA polymerase synthesizes the RNA strand in the 5′ to 3′ direction, while reading 
+the template DNA strand in the 3′ to 5′ direction. RNA polymerase requires a free 3′–OH group 
+to start the synthesis of a new RNA strand, adding the 5′ of an RNA nucleotide to the 3′ end of a 
+strand of nucleotides. In translation, the codons of mRNA are also read from the 5′ end to the 3′ end 
+by tRNAs.
+Top tip!
+The start of an amino acid chain is referred to as the N-terminus, and the end is the C-terminus 
+(see Chapter B1.2, page 207). In translation, all mRNAs are read in the 5’ to 3’ direction, with 
+polypeptide chains synthesized from the N-terminus to the C-terminus. 
+Initiation of transcription at the promoter
+In eukaryotes, before mRNA can be transcribed by the enzyme RNA polymerase, it first binds 
+together with a small group of proteins called general transcription factors at a sequence of bases 
+known as the promoter. Promoter regions occur on DNA strands just before the start of a gene’s 
+sequence of bases. (The promoter is an example of a length of non-coding DNA with a special 
+function.) Transcription of the template strand of the gene can only begin when this transcription 
+complex of proteins (enzyme plus factors) has been assembled. Once transcription has been 
+initiated, the RNA polymerase moves along the DNA, untwisting the helix as it goes and exposing 
+the DNA nucleotides, so that RNA nucleotides can pair and the mRNA strand can be formed 
+and released.
+The rate of transcription may be increased (or decreased) by the binding of specific transcription 
+factors on the enhancer site for the gene. The position of an enhancer site of a gene is shown 
+in Figure D1.2.9. This is at some distance ‘upstream’ of the promoter and gene sequence. 
+However, when activator proteins bind to this enhancer site, a new complex is formed and makes 
+contact with the polymerase–transcription factor complex. Then the rate of gene expression 
+is increased.
+Top tip!
+Regulator transcription factors, activators and RNA polymerase are all proteins, and are coded 
+for by other genes. It is clear that protein–protein interactions play a key part in the initiation 
+of transcription.
+Link
+Directionality of 
+DNA and RNA is also 
+discussed in Chapter 
+A1.2, page 25.
+	
+◆Promoter: DNA 
+sequence that initiates 
+gene transcription; 
+includes sequences 
+recognized by RNA 
+polymerase.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+626
+enhancer
+activators
+general
+transcription
+factors
+RNA
+polymerase
+attach here
+promoter
+transcription
+termination
+region
+coding segment
+(of exons and introns)
+transcription
+start site
+RNA transcription
+active transcription initiation
+complex (factors + enzyme)
+on the promoter
+attach here
+enhancer
+The lower part of the ﬁgure shows a portion of the upper DNA molecule with the enhancer (orange) region, 
+promoter (green) region and coding (blue) region. The DNA is looped so that it comes into contact with 
+different parts of the transcription initiation complex. The complex consists of several proteins and other 
+factors, hence the multiple overlapping spheres (blue). The activator (pink) is also part of the complex. These 
+spheres have been drawn transparent so that contact with the DNA molecule can be shown.
+ 
+■Figure D1.2.9 Control sites and the initiation of transcription
+Non-coding sequences in DNA do 
+not code for polypeptides
+Protein-coding sequences of our DNA account for only approximately 1.5% of our DNA. The 
+remainder includes some DNA sequences that regulate the expression of protein-coding genes 
+(regulatory DNA sequences), but that leaves 70% of our DNA with other or no roles. (At one time 
+these regions were described as ‘junk’ or ‘nonsense’ DNA). In fact, these extensive ‘non-gene’ 
+regions of eukaryotic chromosomes also consist of:
+l	 introns: these are non-coding nucleotide sequences, one or more of which interrupts the coding 
+sequences (exons) of eukaryotic genes (Figure D1.2.10).
+l	 telomeres: these are special nucleotide sequences, typically consisting of multiple repetitions of 
+one short nucleotide sequence. They occur near the ends of DNA molecules and ‘seal’ the ends of 
+the linear DNA. Here, they stop erosion of the genes that would occur with each repeated round 
+of replication (see below).
+l	 genes for tRNA: these are parts of the DNA template that code for relatively short lengths of 
+RNA that are formed in the nucleus and pass out into the cytoplasm. Here they transfer amino 
+acids from the pool there, to supply a growing polypeptide in a ribosome (Figure D1.2.7).
+l	 major lengths of non-coding DNA: today, these are important to genetic engineers, for they are 
+exploited in DNA profiling. They are short sequences of bases that are repeated very many times. 
+Where they often occur together in major clusters, they are known as variable number tandem 
+repeats (VNTRs). Their use in genetic fingerprinting (DNA profiling) is described on page 608.
+Link
+Non-coding 
+sequences are 
+mentioned in the 
+conservation of the 
+genetic code, Chapter 
+A1.2, page 24.
+exon
+exon
+intron
+gene
+ 
+■Figure D1.2.10 
+Eukaryotic genes consist 
+of exons and introns
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.2   Protein synthesis
+627
+ 
+■Telomeres
+Telomeres protect the organism’s genes from being lost with each cycle of DNA replication, due to a 
+gap at the 5′ end of each replicated DNA strand. They protect chromosomal ends from degradation 
+by binding proteins to form telomere caps. Telomeres also prevent the ends of chromosomes 
+attaching to each other, which stops the chromosomal ends from activating the cell’s system for 
+monitoring DNA damage, therefore avoiding apoptosis (the process of programmed cell death). 
+In addition, recognition sites for the enzyme telomerase enable telomeres to lengthen.
+5	 Telomeres are parts of chromosomes. Describe the function of telomeres. 
+Post-transcriptional modification 
+in eukaryotic cells
+The sections of a gene that carry meaningful information (code for amino acids) are called exons. 
+The non-coding sequences that intervene – interruptions, in effect – are called introns (see Figure 
+D1.2.10). While genes split in this way are very common in higher plants and animals, some 
+eukaryotic genes contain no introns at all.
+When a gene consisting of exons and introns is transcribed into mRNA, the mRNA formed contains 
+the sequence of introns and exons exactly as they occur in the DNA. Now, you can see that if 
+this unmodified mRNA was to be ‘read’ and transcribed in a ribosome, it would actually present 
+problems in the protein-synthesis step.
+Because introns are non-coding regions within a gene, they must be removed from the mRNA. 
+An enzyme-catalysed reaction, known as post-transcriptional modification, removes the introns 
+as soon as the mRNA has been formed (Figure D1.2.11). This is done by a spliceosome (a large 
+RNA–protein complex with enzymatic properties). The spliceosome is also under the control of a 
+gene. This is known as RNA splicing. The process is as follows:
+l	 Pre-mRNA introns are spliced out using spliceosomes. 
+l	 Spliceosomes recognise highly conserved regions (splice sites) between the 3′ end of the exon 
+and 5′ end of the intron, and cleave the phosphodiester bond between the nucleotides.
+l	 All exons are joined together to form one polypeptide from a gene. 
+The resulting shortened lengths of mRNA are described as mature. It is this form of mRNA that 
+passes out into the cytoplasm, to the ribosomes, where it is involved in protein synthesis (page 628).
+Top tip!
+The genes of prokaryotes do not have introns, and the prokaryotic cell does not have the enzyme 
+machinery to carry out splicing either. This means, when a genetic engineer plans to place a copy of 
+a eukaryotic gene in the chromosome of a bacterium, that copy must be intron-free.
+	
+◆Telomere: made of 
+repetitive sequences 
+of non-coding DNA, 
+located at the end of 
+chromosomes, that 
+protect the chromosome 
+from damage.
+	
+◆Post-transcriptional 
+modification: changes 
+that occur to a newly 
+transcribed mRNA, after 
+transcription has occurred 
+and prior to its translation 
+into a protein.
+	
+◆Cleave: reaction 
+that breaks one of 
+the covalent sugar–
+phosphate linkages 
+between nucleotides 
+that form the sugar–
+phosphate backbone of a 
+nucleic acid.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+628
+pore in nuclear membrane
+to ribosomes in the cytoplasm
+mRNA produced by
+transcription – a copy of the
+coded information of a gene
+many genes contain short lengths of
+‘nonsense’ (sequences of bases additional to
+coded information of the gene) called introns
+introns are removed from the mRNA
+by the action of enzymes present in the
+nucleus – this process is referred to as splicing
+exons
+introns
+3’
+5’
+mature mRNA passes out of the nucleus
+via pores in the nuclear membrane
+     
+what remains, known as exons, are
+joined up to form mature mRNA
+ 
+■Figure D1.2.11 Post-transcriptional modification of mRNA
+A process called alternative splicing can join together different combinations of exons to form 
+different types of polypeptides from a single gene (see page 629).
+ 
+■Polyadenylation and 5′ capping
+To complete the process of post-transcriptional modification, both ends of the mRNA are modified 
+to increase the stability of the molecule. 
+The processing of the 3′ end adds a long chain of adenine residues, known as the poly-A tail, to 
+the RNA molecule. This section of the mRNA has not been encoded in the genome. To attach the 
+poly-A tail, the 3′ end of the pre-mRNA is cleaved to free a 3′ hydroxyl group. Then an enzyme 
+called poly-A polymerase adds a chain of adenine nucleotides to the RNA in a process called 
+polyadenylation. The poly-A tail is between 100 and 250 adenine residues long. 
+The 5′ is capped by the addition of a 5′ modified guanine nucleotide. The result of both capping 
+processes forms a mature mRNA that will be protected from enzymatic degradation and can be 
+exported out of the nucleus into the cytoplasm for translation into a protein by ribosomes.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.2   Protein synthesis
+629
+Alternative splicing
+Change occurs to mRNA immediately after it has been formed by transcription as introns are 
+removed. However, the remaining lengths of mRNA (exons) may be spliced together in different 
+combinations. The consequence is that a single gene can code for more than one type of polypeptide. 
+This process is known as alternative splicing. In fact, many genes give rise to two or more different 
+polypeptides, depending on the order in which exons are assembled (Figure D1.2.12). Even more 
+variety in gene products may result if one or more introns are treated as an exon during 
+RNA processing.
+This process, also part of the story of how gene action is regulated, is under the control of specific 
+genes, although these are often found on other chromosomes.
+exons
+introns are 
+'edited' out
+introns
+5’
+3’
+5’
+3’
+1
+1
+1
+2
+2
+2
+3
+3
+3
+5’
+2
+3’
+5’
+3’
+1
+3
+As a result of alternative mRNA splicing, the number of proteins produced can 
+be greater than the number of genes present.
+Alternative mRNA splicing may explain why the human genome consists of the 
+same (low) number of genes as some small, invertebrate animals have.
+mRNA produced by
+transcription – a copy of the
+coded information of a gene
+alternative assembling of exons that 
+would code for different polypeptides
+ 
+■Figure D1.2.12 Alternative RNA splicing
+Alternative splicing of transcripts of the troponin T gene in foetal and adult heart muscle is an 
+example of this process (Figure D1.2.13). Troponin plays a central role in the contraction of 
+vertebrate striated muscles (see Chapter B3.3, page 329). The alternative splicing of the troponin T 
+(TnT) gene is developmentally regulated. Foetal heart tissue uses one form of spliced mRNA and, as 
+the heart matures, a different form is used in the adult. The two mRNAs shown in Figure D1.2.13 
+are translated into different but related muscle proteins – one used in the foetus and the other in the 
+adult. These two different types of protein are known as isoforms. The changes prepare the heart for 
+increased demand at birth.
+	
+◆Alternative splicing: 
+process of splicing of 
+exons to produce variants 
+of a protein from a single 
+gene.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+630
+exons
+1
+2
+3
+4
+5
+1
+2
+5
+3
+1
+2
+5
+4
+1
+2
+3
+4
+5
+troponin T gene
+DNA
+primary RNA
+transcript
+RNA splicing
+mRNA adult TnTα
+mRNA foetal TnTβ
+ 
+■Figure D1.2.13 Alternative RNA splicing of the troponin T gene 
+gives rise to the adult TnTα and foetal TnTβ isoforms
+Initiation of translation
+ 
+■Activation of amino acids
+Some 20 different amino acids are involved in protein synthesis. Amino acids are activated for 
+protein synthesis by combination with a short length of a different sort of RNA, called transfer RNA 
+(tRNA) (Figure D1.2.14). The activation process involves ATP. There are 20 different tRNA molecules, 
+one for each of the amino acids coded for in proteins. 
+All tRNA molecules have a clover-leaf shape, but they differ in the sequence of bases, known as the 
+anticodon, which is exposed on one of the ‘clover leaves’. This anticodon is complementary to a 
+codon of mRNA. The enzyme catalysing the formation of the amino acid–tRNA complex ‘recognises’ 
+only one type of amino acid and the corresponding tRNA.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.2   Protein synthesis
+631
+Each amino acid is linked to a specific tRNA before it can be used in protein synthesis by the action of a tRNA-
+activating enzyme (there are 20 different tRNA-activating enzymes, one for each of the 20 amino acids).
+Amino acid activation reaction:
+3’
+5’
+1 tRNA structure
+    – a ‘clover-leaf’ shape
+2 role of tRNA-activating enzyme, illustrating enzyme–substrate specificity and the role of phosphorylation
+point of attachment of an
+amino acid (base sequence
+CCA on the 3’ end)
+loop section
+(7 nucleotides)
+extra loop
+(variable)
+triplet of bases –
+the anticodon 
+(i) A specific amino acid and ATP
+bind to a tRNA-activating enzyme.
+The amino acid is activated by
+hydrolysis of ATP and the bonding
+of AMP
+(iii) The amino acid binds to
+the attachment site on the
+tRNA, and then the AMP is
+released
+(iv) Then the activated
+tRNA + amino acid are
+released from the enzyme
+(ii) The tRNA specific to the
+amino acid binds to the active site
+anticodon loop
+loop section
+(8 nucleotides)
+sections that are
+double-stranded by base
+pairing
+The anticodon allows the tRNA molecule to base
+pair with three complementary bases of mRNA
+(the codon) at a tRNA binding site on a ribosome.
+anticodon specific
+to amino acid
+ATP
+P-Pi
+AMP
+AMP
+tRNA-activating
+enzyme
+amino
+acid
+ 
+■Figure D1.2.14 Transfer RNA (tRNA) and amino acid activation
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+632
+ 
+■tRNA-activating enzyme, enzyme–substrate specificity and the 
+role of ATP
+Each of the amino acids is attached to the 3′ terminal of its specific tRNA molecule by a tRNA-
+activating enzyme. Remember, this enzyme is specific to the particular amino acid, as well as 
+to a particular tRNA molecule. This specificity is a property of the structure of the enzyme’s 
+active site. The structure of a tRNA molecule and the steps to amino acid activation are shown in 
+Figure D1.2.14:
+l	 A specific amino acid and a molecule of ATP bind to a tRNA-activating enzyme. The amino acid 
+is activated by hydrolysis of ATP and the bonding of AMP (adenosine monophosphate). P-Pi is 
+released (two phosphate groups linked together).
+l	 The tRNA specific to the amino acid binds to the active site of the enzyme.
+l	 The amino acid binds to the attachment site on the tRNA, and then the AMP is released.
+l	 Then the activated tRNA with attached amino acid is released from the enzyme.
+Nature of science: Experiments
+Deducing the first codon of the genetic code
+Marshall W. Nirenberg and Heinrich J. Matthaei (1962) made their own simple, artificial mRNA and 
+identified the polypeptide product that was encoded by it. They used polynucleotide phosphorylase 
+to do this. This enzyme randomly joins together any RNA nucleotides that it locates. Nirenberg and 
+Matthaei began with the simplest codes possible. They added polynucleotide phosphorylase to a 
+solution of pure uracil (U), so that the enzyme would generate RNA molecules consisting entirely 
+of a sequence of Us; these molecules were known as poly(U) RNAs. Each poly(U) RNA contained a 
+pure series of UUU codons. Molecular biologist Maxine Singer (along with Leon Heppel) provided 
+the poly(U) RNAs for their experiment. These poly(U) RNAs were added to tubes containing 
+components for protein synthesis (e.g. ribosomes, activating enzymes and tRNAs). Each tube 
+contained one of the 20 amino acids, radioactively labelled. Of these 20 tubes, only one tube, 
+containing the labelled amino acid phenylalanine, resulted in a product. Nirenberg and Matthaei had 
+therefore discovered that the UUU codon could be translated into the amino acid phenylalanine. 
+Similar experiments using poly(C) and poly(A) RNAs showed that proline was encoded by the CCC 
+codon, and lysine by the AAA codon.
+ 
+■Ribosomes – the site of protein synthesis
+A ribosome consists of a large and a small subunit, both composed of RNA (known as rRNA) and 
+protein (Figure A2.2.20, page 69, and Figure D1.2.15). There are three sites in the ribosome where 
+the tRNAs interact:
+l	 A site – the first site. Here, a codon of the incoming mRNA binds to specific tRNA–amino acids 
+through its anticodon (complementary base pairing).
+l	 P site – the second site. Here, the amino acid attached to its tRNA is condensed with the 
+growing polypeptide chain by formation of a peptide linkage.
+l	 E site – the third site. Here, the tRNA leaves the ribosome, following transfer of its amino acid 
+to the growing protein chain.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.2   Protein synthesis
+633
+exit tunnel
+E site:
+here the discharged
+tRNA exits from
+ribosome
+P site:
+holds the tRNA while
+peptide bonds form
+A site:
+this is the amino acid–tRNA 
+binding site
+E
+site
+P
+site
+A
+site
+large ribosomal
+subunit
+small ribosomal
+subunit
+incoming
+ribosomal
+subunits
+Ribosome in action:
+ribosome subunits approaching mRNA before
+attaching, then moving along the mRNA from
+codon to codon
+start codon
+mRNA strand
+position occupied
+by mRNA strand
+ 
+■Figure D1.2.15 Ribosome structure and function
+ 
+■Initiation of translation
+Translation begins when an mRNA molecule binds with the small ribosomal subunit at an mRNA 
+binding site at the 5′ end of the mRNA. This is joined by an initiator tRNA (to which the amino 
+acid methionine is attached) at the start codon ‘AUG’. This is followed by the attachment of a large 
+ribosomal unit. The initiator tRNA occupies the P site in the assembled ribosome.
+Now, the next codon of the tRNA, present in the A site, is available to a tRNA with the appropriate 
+anticodon. Its arrival brings two activated amino acids (in sites P and A) into position and a peptide 
+bond forms between them by a condensation reaction. The reaction is catalysed by enzymes present 
+in the large subunit. A dipeptide has now been formed. 
+ 
+■Elongation of the peptide
+The ribosome moves three bases along the mRNA. In the process, the tRNA in the P site moves to 
+the E site and is released. This movement of the ribosome also brings the next codon to occupy the 
+now vacant A site – allowing a tRNA with the appropriate anticodon to bind to that codon. This, 
+in turn, brings a further amino acid to lie alongside and, while these amino acids are held close 
+together, another peptide bond is formed. In this way, the ribosome progresses along the mRNA 
+molecule in the 5′ to 3′ direction, codon by codon. By these steps, constantly repeated, a polypeptide 
+is formed and emerges from the large subunit (Figure D1.2.16). 
+6	 Draw and label 
+the structure of 
+a peptide linkage 
+between two 
+amino acids.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+634
+Initiation of translation
+Elongation of the polypeptide
+Termination of translation
+5’
+UAC
+AUG GAA 
+3’
+5’
+mRNA
+3’
+mRNA binding site
+start codon
+next codon
+small ribosomal
+subunit
+1 initiator 
+tRNA with Met
+2 large ribosomal
+unit then binds to
+the small one
+4 the ribosome moves
+three bases along the
+mRNA
+5 the next codon now
+occupies the vacant
+A site
+the tRNA in the
+P site moves to
+the E site – then
+exits the ribosome
+peptide bond forming
+3 tRNA with Glu
+occupies A site
+peptide bond forming
+Met
+P
+site
+E
+site
+A
+site
+UAC
+AUG
+CUU
+GAA
+6 a tRNA with the
+appropriate anticodon
+now binds at the A site
+7 this process is repeated
+along the length of the mRNA
+– until a ‘stop’ codon is reached
+stop codon (UAG,
+UAA or UGA)
+8 when a stop codon enters
+site A the process stops – the
+polypeptide is released
+Note: the movement of the ribosome along 
+the mRNA has been from the 5’ to the 3’ end 
+P
+site
+E
+site
+A
+site
+AUG
+CGA
+CUU
+GAA GCU
+Met
+A
+site
+E
+site
+Met
+Glu
+Glu
+Ala
+ 
+■Figure D1.2.16 Initiation, elongation and termination in translation
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.2   Protein synthesis
+635
+ 
+■Termination of translation
+Eventually a ‘stop’ codon is reached. This takes the form of one of three codons – UAA, UAG or 
+UGA. At this point, the completed polypeptide is released from the ribosome into the cytoplasm. 
+Disassembly of the components of the ribosome follows termination of translation.
+Modification of polypeptides 
+into their functional state
+When a protein exits from translation at a ribosome, it may take up its active three-dimensional 
+shape and be functional immediately. For example, it may be active as an enzyme in the cytoplasm 
+in some essential and continuous biochemical pathway. On the other hand, many polypeptides must 
+be modified before they can function. These steps occur after translation and so are known as 
+post-translational modifications (Figure D1.2.17). Some are produced in the form of inactive 
+precursors, which require processing steps. In fact, it is often important for proteins to become active 
+only at particular sites. For example, the protein-digesting enzyme trypsin is produced in the 
+pancreas in an inactive form (trypsinogen) that does not digest the proteins of the pancreas cells in 
+which it is formed. 
+gene X
+gene Y
+DNA of a chromosome
+transcription
+messenger RNA
+translation
+at ribosomes
+protein – inactive
+protein adopts final shape
+and is immediately active,
+e.g. as an enzyme
+post-translational
+modification by enzymes
+protein active, e.g. as an enzyme
+ 
+■Figure D1.2.17 Protein synthesis and post-translational modification
+Insulin is a protein that needs to be modified before it can function. This involves a two-stage 
+modification of pre-proinsulin to proinsulin, and proinsulin to insulin (see Figure B1.2.20, page 219).
+Common mistake
+Do not confuse post-transcriptional modifications with post-translational modifications. Post-
+transcriptional modifications are changes that occur to a newly transcribed mRNA after transcription 
+has occurred and before it is translated into a protein. In contrast, post-translational modifications 
+are modifications that occur to a protein after the protein has been translated by a ribosome.
+	
+◆Post-translational 
+modification: a 
+biochemical modification 
+that occurs to one or 
+more amino acids on a 
+protein after the protein 
+has been translated by a 
+ribosome.
+Link
+The quaternary 
+structure of insulin 
+as a non-conjugated 
+protein is covered 
+in Chapter B1.2, 
+page 218.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+636
+Recycling of amino acids by proteasomes
+To maintain the proteome of an organism, proteins are continually synthesized by translation and 
+broken down by hydrolysis reactions (a process known as proteolysis). In this way, there is a 
+constant turnover of proteins, which ensures the maintenance of optimally functioning proteins. 
+Amino acids are constantly being absorbed by organisms, but recycling of existing amino acids also 
+takes place to ensure sufficient turnover. Breakdown of proteins is carried out by proteasomes 
+– complexes made of protein into which the protein substrate (i.e. the protein marked for 
+degradation) is fed (Figure D1.2.18). Proteasomes degrade proteins that are damaged, misfolded or 
+no longer needed by the cell.
+cap
+(regulatory
+particle)
+cap
+(regulatory
+particle)
+core
+particle
+protein substrate
+ubiquitin
+marker protein
+ubiquitin
+released
+short
+peptides
+target protein
+threaded into
+proteasome
+ 
+■Figure D1.2.18 The mechanism of protein breakdown by a proteasome
+Proteins are marked for degradation by the attachment of a short chain of regulatory protein 
+(Figure D1.2.18), known as ubiquitin. The marker protein binds to the top of the proteasome (in an 
+area called the cap, or regulatory particle) which feeds the protein into the core particle where it is 
+broken down into short peptides. The peptides are further processed to provide a pool of amino 
+acids from which new proteins can be synthesized.
+LINKING QUESTIONS
+1	 How does the diversity of proteins produced contribute to the functioning of a cell?
+2	 What biological processes depend on hydrogen bonding? 
+	
+◆Proteolysis: hydrolysis 
+reaction of peptide bonds 
+in which proteins are 
+broken down into smaller 
+peptides and/or into 
+individual amino acids.
+	
+◆Proteasome: protein 
+complexes that degrade 
+unneeded, misfolded 
+or damaged proteins by 
+proteolysis.
+7	 Outline the role 
+of proteasomes 
+in cells.

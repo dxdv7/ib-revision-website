@@ -1,0 +1,1193 @@
+Theme D: Continuity and change – Molecules
+602
+DNA replication
+D1.1
+•	 How is new DNA produced?
+•	 How has knowledge of DNA replication enabled applications in biotechnology?
+Guiding questions
+Concept: 
+Continuity 
+and change
+Living things 
+have mechanisms 
+for maintaining 
+equilibrium and 
+for bringing about 
+transformation. 
+Environmental 
+change is a driver 
+of evolution by 
+natural selection.
+SYLLABUS CONTENT
+This chapter covers the following syllabus content:
+	 D1.1.1 	 DNA replication as production of exact copies of DNA with identical base sequences
+	 D1.1.2 	 Semi-conservative nature of DNA replication and role of complementary 
+base pairing
+	 D1.1.3 	 Role of helicase and DNA polymerase in DNA replication
+	 D1.1.4 	 Polymerase chain reaction and gel electrophoresis as tools for amplifying and 
+separating DNA
+	 D1.1.5	 Applications of polymerase chain reaction and gel electrophoresis
+	 D1.1.6 	 Directionality of DNA polymerases (HL only)
+	 D1.1.7 	 Differences between replication on the leading strand and the lagging strand 
+(HL only)
+	 D1.1.8 	 Functions of DNA primase, DNA polymerase I, DNA polymerase III and DNA 
+ligase in replication (HL only)
+	 D1.1.9 	 DNA proofreading (HL only)
+DNA replication
+A copy of each chromosome must pass into daughter cells formed by cell division, so the 
+chromosomes must first be copied (replicated). DNA replication produces exact copies of DNA, with 
+identical base sequences, and is required for reproduction and for growth and tissue replacement in 
+multicellular organisms. The base pairing of DNA allows this process to proceed accurately and without 
+(in general) any errors. Errors, known as mutations, do occur sometimes however (see page 637). 
+Concept: Continuity
+DNA replication enables the genetic code of an organism to be copied into new cells. 
+This allows continuity within the genome of the organism and ensures the genetic 
+blueprint is passed on to new cells in a way that maintains their integrity and function. 
+Semi-conservative nature of DNA replication
+At the end of the process of DNA replication, each new pair of DNA strands reforms as a double 
+helix. One strand of each double helix has come from the original chromosome, and one is a newly 
+synthesized strand. This arrangement is known as semi-conservative replication because half of 
+the original molecule stays the same (Figure D1.1.1). If replication was ‘conservative’, then one DNA 
+molecule formed would be of two new strands and the other molecule would consist of the two 
+original strands.
+	
+◆DNA replication: 
+production of exact 
+copies of DNA with 
+identical base sequences.
+Link
+DNA, base pairing 
+and chromosomes are 
+covered in detail in  
+Chapter A1.2, page 14. 
+Daughter cells are 
+covered in Chapter 
+D2.1, page 648.
+Link
+DNA replication takes 
+place in the interphase 
+nucleus, well before 
+the events of nuclear 
+division, see Chapter 
+D2.1, page 648.
+	
+◆Semi-conservative 
+replication: each strand 
+of an existing DNA 
+double helix acts as the 
+template for the synthesis 
+of a new strand from free 
+nucleotides.
+
+
+=== PAGE BREAK ===
+
+D1.1   DNA replication
+603
+second generation
+DNA
+original
+(parent)
+DNA
+ﬁrst generation
+DNA
+second generation
+DNA
+parent DNA
+ﬁrst generation
+DNA
+Crick and Watson suggested replication of DNA would be ‘semi-conservative’, and this has since been shown
+experimentally using DNA of bacteria 'labelled' with a 'heavy' nitrogen isotope.
+If an entirely new double helix
+were formed alongside the original,
+then one DNA double helix molecule
+would be conserved without
+unzipping in the next generation
+(i.e. conservative replication).
+In semi-conservative replication
+one strand of each new double helix
+comes from the parent chromosome
+and one is a newly synthesized strand
+(i.e. half the original molecule is conserved)
+ 
+■Figure D1.1.1 Semi-conservative versus conservative replication
+Complementary base pairing and the retention of one strand of the original DNA double helix allows 
+a high degree of accuracy in copying base sequences.
+Nature of science: Evidence
+The evidence for semi-conservative DNA replication
+Watson and Crick proposed semi-conservative replication as how DNA replicates, but they had no 
+evidence to support this claim. Scientific knowledge must be supported by evidence. Meselson and 
+Stahl designed an experiment to test Watson and Crick’s model, to evaluate the claim. Experimental 
+evidence that DNA replication is semi-conservative came from an experiment by Meselson and Stahl. 
+They first grew a culture of the bacterium E. coli in a medium (food source) where the available 
+nitrogen contained only the heavy nitrogen isotope, 15N. Consequently, the DNA of the bacterium 
+became entirely ‘heavy’.
+These E.coli were then transferred to a medium of the more abundant ‘light’ isotope, 14N. Both 14N 
+and 15N are stable (non-radioactive) isotopes of nitrogen. New DNA synthesized by the cells was 
+now made of 14N. The change in concentration of 15N and 14N in the DNA of successive generations 
+was measured. Interestingly, the bacterial cell divisions in a culture of E. coli are naturally 
+synchronized; they all divide every 60 minutes.
+The DNA was extracted from samples of the bacteria from each successive generation and the 
+DNA in each sample was separated. This was done by placing the sample on top of a salt solution 
+of increasing density, in a centrifuge tube. When centrifuged, the different DNA molecules were 
+carried down to the level where the salt solution was of the same density. Thus, DNA with ‘heavy’ 
+nitrogen ended up nearer the base of the tubes, whereas DNA with ‘light’ nitrogen stayed near the 
+top of the tubes.
+Link
+The role of 
+complementary base 
+pairing in allowing 
+genetic information 
+to be replicated is 
+covered in Chapter 
+A1.2, page 23.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+604
+	ATL D1.1A 
+Find out more about the background to the Meselson and Stahl experiment and how the 
+investigation was developed, using this site:  
+www.sumanasinc.com/webcontent/animations/content/meselson.html
+Summarize the stages of the experiment in a poster and discuss what the experiment tells us 
+about how DNA replicates.
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+1	 Outline what is 
+meant by semi-
+conservative 
+replication.
+Role of helicase and DNA 
+polymerase in DNA replication
+The process of DNA replication covered here is that of the prokaryotic system, which is simpler than 
+the eukaryotic system. The first step in DNA replication is the disruption of the hydrogen bonds that 
+hold the two strands of double-stranded DNA together (i.e. the unzipping of the two strands). An 
+enzyme called helicase unwinds the DNA double helix at one region, breaking the hydrogen bonds 
+that hold the strands together there and then temporarily keeping the strands of the helix separated. 
+The unpaired nucleotides are now exposed, surrounded by a pool of free-floating nucleotides.
+In the next step, both strands of DNA act as templates in replication. Complementary nucleotides 
+line up opposite each base of the exposed strands – adenine with thymine, cytosine with guanine. 
+Hydrogen bonds then form between the complementary bases, holding them in place.
+Finally, a condensation reaction links together the sugar and phosphate groups of adjacent nucleotides, 
+so forming the new strands. This reaction is catalysed by an enzyme called DNA polymerase. 
+The enzyme has another role in replication, too – any mistakes that start to happen (such as the wrong 
+bases attempting to pair up) are corrected – this is known as ‘proofreading’. The result is that the two 
+strands formed are identical to the original strands. DNA replication is summarized in Figure D1.1.2. 
+Replication sites open at points
+along the DNA double helix.
+helicase unwinds the helix and breaks
+the H-bonds (’unzips’ the DNA molecule) 
+position of
+H-bonds
+free nucleotides present
+in excess at the replication
+site
+complementary
+base pairing
+(enzymes not shown)
+3 free nucleotides
+   with complementary
+   bases slot into place,
+   line up, and are held
+   in place by H-bonds
+4 sugar–phosphate
+   ‘backbone’ is
+   formed by
+   condensation
+   reaction
+1 DNA molecule unwinds
+   and ‘unzips’ when the
+   H-bonds break
+2 single strands act as templates
+ for the new strands
+5 the replicated (daughter) DNA molecules
+   each rewind into a double helix
+DNA polymerase
+attaches
+the new DNA
+(polynucleotide) strands
+replication sites join up
+C
+A
+T
+A
+C
+G
+G
+C
+T
+A
+A
+T
+G
+C
+C
+T
+C
+T
+A
+C
+G
+A
+T
+T
+A
+G
+C
+G
+A
+G
+G
+ 
+■Figure D1.1.2 DNA replication
+Common mistake
+It is incorrect to say that ‘helicase is in charge of elongation of DNA’. Helicase only unwinds DNA for 
+DNA polymerase to act.
+	
+◆Helicase: an enzyme 
+that unwinds the DNA 
+double helix at replication 
+forks.
+	
+◆DNA polymerase: 
+an enzyme that links 
+nucleotides together to 
+form a new DNA strand, 
+using the pre-existing 
+strand as a template.
+Link
+DNA proofreading 
+is covered in more 
+detail for higher-
+level students in this 
+chapter on page 614.
+
+
+=== PAGE BREAK ===
+
+D1.1   DNA replication
+605
+TOK
+How do the tools that we use shape the 
+knowledge that we produce?
+How important are material tools in the production or 
+acquisition of knowledge? Research on human DNA replication 
+has benefited significantly by using the DNA virus SV40 
+system as a ‘tool’. SV40 is a DNA virus that has the potential 
+to cause tumours in animals, but most often persists as a 
+latent infection.
+The knowledge gained about DNA replication from studying 
+the SV40 virus depends on how the ‘tool’ is used. For 
+example, the initial use of the viral SV40 system in vitro 
+identified the polymerases and other proteins, but entirely 
+missed identifying helicase since this activity was supplied by 
+the SV40 large T-antigen. Hence the ‘tool’ (in vitro replication 
+relying on SV40 large T-antigen) completely missed key 
+proteins providing a vital enzymatic activity, giving only partial 
+knowledge of DNA replication.
+A more recently developed ‘tool’ is cryogenic electron 
+microscopy (CEM, see page 61). CEM gives atomic resolution 
+of proteins, and images can be used to reconstruct the 
+three-dimensional structure of the protein in a computer 
+and generate an atomic model that allows the researcher 
+to understand how the protein works as it changes shape. 
+The proteins involved in DNA replication can be seen in all 
+the three-dimensional shapes they adopt in solution as they 
+perform their biological function.
+PCR and gel electrophoresis as tools 
+for amplifying and separating DNA
+DNA can be analysed in order to identify the individual from which the DNA was taken. It is now 
+commonly used in forensic science (for example, to identify someone from a blood or other body 
+fluid sample, or to identify botanical evidence from samples of pollen and plant fragments) and to 
+establish the genetic relatedness of individuals. It is also used to determine whether individuals of 
+endangered species have been bred in captivity or captured in the wild. 
+Sometimes only a very small sample of DNA is available. The discovery of the polymerase chain 
+reaction (PCR) has permitted fragments of DNA to be copied repeatedly, faithfully and quickly, in a 
+process that has been fully automated. A heat-tolerant DNA polymerase enzyme, Taq polymerase, 
+obtained from an extremophile bacterium, is used. Note: Taq polymerase does not perform 
+proofreading, thus there may be mistakes in the complementarity of the nucleotides added.
+Once the DNA has been amplified, DNA fragments can be separated using a technique known as 
+gel electrophoresis, so that the genotype of different individuals can be compared.
+Top tip!
+Taq polymerase was named after the heat-tolerant bacterium from which it was isolated, Thermus 
+aquaticus. T. aquaticus lives in hot springs and hydrothermal vents, and so its enzymes are adapted 
+to these hot conditions. This heat-stability makes Taq polymerase ideal for PCR, as temperature 
+fluctuations are used in the technique. 
+ 
+■Polymerase chain reaction 
+In the polymerase chain reaction (PCR), double-stranded DNA is amplified, meaning many copies 
+are made (Figure D1.1.3). Often, it is only possible to produce or recover a very small amount of 
+DNA (such as in genetic engineering or at a crime scene). In PCR, DNA is replicated in an entirely 
+automated process, in vitro, to produce a large amount of the sequence. A single molecule is 
+sufficient as the starting material, should this be all that is available. The products are exact copies. 
+	
+◆Polymerase chain 
+reaction (PCR): 
+technique for amplifying 
+selected regions of DNA 
+by multiple cycles of DNA 
+synthesis.
+	
+◆Taq polymerase: 
+heat-stable DNA 
+polymerase enzyme used 
+in PCR, extracted from 
+the thermophilic bacteria 
+Thermus aquaticus.
+	
+◆Gel electrophoresis: 
+a process used to 
+separate fragments of 
+DNA or proteins, on a 
+polymer gel, according to 
+size and overall charge.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+606
+The polymerase chain reaction involves a series of steps, each taking a matter of minutes.
+The process involves a heating and cooling cycle and is automated.
+Each time it is repeated in the presence of excess nucleotides, the number of copies of the
+original DNA strand is doubled.
+1 Double-stranded DNA with
+   known end sequences
+5’
+5’
+3’
+3’
+5’
+5’
+3’
+3’
+5’
+5’
+3’
+3’
+5’
+5’
+5’
+5’
+3’
+3’
+3’
+3’
+Make primer that matches the
+end sequences of the DNA
+fragment to be copied.
+Cool to 40 °C to allow the
+primer to stick to each strand 
+Repeat process
+using the two new
+double strands
+Add heat-tolerant
+Taq polymerase and
+nucleotides, and
+heat to 72 °C
+Nucleotides added to primers using
+single strand as template
+Note: ‘Primers’ are short sequences of single-stranded DNA made synthetically with base
+sequences complementary to one end (the 3‘ end) of DNA.
+Remember: DNA polymerase synthesizes a DNA strand in the 3’ to 5’ direction.
+2 Separate chains by
+   heating to 95 °C
+3
+6
+5
+4
+ 
+■Figure D1.1.3 The polymerase chain reaction
+Knowledge of the DNA or amino acid sequence of a 
+desired gene or protein is needed to synthesize 
+flanking nucleotide primers, which is one limitation of 
+the procedure. DNA primers, used in PCR, are short 
+sequences of single-stranded DNA, made synthetically 
+with base sequences complementary to one end 
+of DNA.
+Another limitation is that a non-target DNA sequence 
+may be amplified instead of the desired sequence, as 
+primers are short nucleotide sequences and may not be 
+specific enough.
+	
+◆DNA primer: short 
+sequence  of single-
+stranded DNA, used in 
+PCR, made synthetically 
+with base sequences 
+complementary to one 
+end of DNA.
+ ATL D1.1B 
+Find out how DNA can be extracted from human cells using this site: 
+https://learn.genetics.utah.edu/content/labs/extraction
+Work through the animation.
+Make a list of topics from the IB Biology syllabus that you need to 
+know about to understand the processes involved in DNA extraction. 
+Why is DNA extraction from human cells needed?
+The site also contains instructions for how you can extract DNA from 
+a range of different organisms, at home or at your school or college:  
+https://learn.genetics.utah.edu/content/labs/extraction/howto
+ 
+■Gel electrophoresis
+Gel electrophoresis is a process that is used to separate molecules such as proteins and fragments of 
+nucleic acids. It is widely applied in many studies of DNA. For example, it is central to investigation 
+of the sequence of bases in particular lengths of DNA, known as DNA sequencing. It is also used in 
+the identification of individual organisms and species, known as genetic profiling. We will review 
+these applications on page 608. 
+Link
+The uses of whole 
+genome sequencing 
+are outlined in 
+Chapter A3.1, 
+page 117.
+
+
+=== PAGE BREAK ===
+
+D1.1   DNA replication
+607
+In electrophoresis, proteins or nucleic acid fragments (either DNA or RNA) are separated on the basis 
+of their overall charge and mass. Separation is due to the following factors:
+l	 Differential migration of these molecules through a supporting medium – typically this is either 
+agarose gel (a very pure form of agar) or polyacrylamide gel (PAG). In these media, the tiny 
+pores in the gel act as a molecular sieve; small particles can move quite quickly, whereas larger 
+molecules move much more slowly.
+l	 The electrical charge that molecules carry – it is the phosphate groups in DNA fragments that 
+give them a net negative charge. Consequently, when these molecules are placed in an electric 
+field, they migrate towards the positive pole (anode). 
+There is thus a double principle of electrophoretic separation: separation occurs on the basis of size 
+and charge. 
+DNA fragments are produced by the actions of one or more restriction enzymes. Different restriction 
+enzymes cut at particular base sequences, as and where these occur along the length of the DNA. 
+Consequently, fragments of different lengths are produced. 
+A series of groves or wells are cut close to one end of the gel, which is then submersed in a salt 
+solution that conducts electricity. Then a small quantity of a mixture to be separated is placed in a 
+well. Several different mixtures can be separated in a single gel at one time (Figure D1.1.4). 
++
+–
+power supply (battery –
+maximum voltage 45 volts)
+electrode (carbon 
+ﬁbre) – negative
+positive
+electrode
+buffer solution
+wells (DNA samples loaded
+here after treatment with
+restriction enzyme)
+larger fragments
+smaller fragments
+reservoir with
+buffer solution
+–
++
+gel (of agarose or
+polyacrylamide)
+electrophoresis in progress
+–
++
+subsequently:
+DNA separates into bands of different-sized fragments 
+while the potential difference is maintained (time 
+depends on voltage supplied) – the DNA fragments in 
+the gel are made visible, typically by the addition of a 
+speciﬁc dye that penetrates and colours the bands of 
+DNA fragments
+DNA electrophoretogram
+ 
+■Figure D1.1.4 Electrophoretic separation of DNA fragments
+Top tip!
+Gel electrophoresis can 
+be used to separate 
+fragments of proteins, 
+as well as DNA.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+608
+ ATL D1.1C 
+Use the following sites to produce your own summary of gel electrophoresis, and the principles by 
+which it works:  
+www.sumanasinc.com/webcontent/animations/content/gelelectrophoresis.html https://dnalc.cshl.
+edu/resources/animations/gelelectrophoresis.html  
+https://learn.genetics.utah.edu/content/labs/pcr
+Explore PCR using this site and draw a flow diagram to explain how PCR works:  
+https://learn.genetics.utah.edu/content/labs/pcr
+After separation, the fragments are not immediately visible – they are tiny and transparent. They can 
+be identified by gene probes and DNA stains.
+l	 Gene probes – these consist of single-stranded DNA with a base sequence that is complementary 
+to that of a particular fragment or gene whose position or presence is sought. The probe must be 
+made radioactive so that, when the treated gel is exposed to X-ray film, the presence of that 
+particular probe and complementary fragment will be disclosed. Alternatively, the probe can have 
+a fluorescent stain attached. It will then fluoresce distinctively in UV light, thus indicating the 
+presence of the particular fragment or gene that is being looked for.
+l	 Stains – these immediately locate the position of all DNA fragments once applied. Stains include:
+l	 ethidium bromide – DNA fragments fluoresce in short-wave UV radiation (a potential 
+carcinogen); ethidium bromide is fluorescent and is visible under UV light. When it binds to 
+DNA, the DNA fluoresces.
+l	 methylene blue – stains gel and DNA, but is less sensitive and the colour fades quickly.
+Applications of PCR and gel electrophoresis
+ 
+■DNA profiling (genetic fingerprinting)
+Genetic profiling is used to identify organisms, species or individuals using DNA. The technique 
+uses both PCR and gel electrophoresis techniques.
+The majority of our DNA is not composed of ‘genes’ and so does not code for proteins. These 
+extensive ‘non-gene’ regions include short sequences of bases, repeated many times. While some of 
+these sequences are scattered throughout the length of the DNA molecule, many are joined together 
+in major clusters. It is these lengths of non-coding, ‘nonsense’ DNA that are used in genetic profiling. 
+They may be referred to as ‘satellite’ and ‘microsatellite’ DNA, but are also known as variable 
+number tandem repeats (VNTRs).
+We inherit a distinctive combination of these apparently non-functional VNTRs, half from our 
+mother and half from our father. Consequently, each of us has a unique sequence of nucleotides in 
+our DNA (except for identical twins, who share the same pattern).
+To produce a genetic ‘fingerprint’ or profile, a sample of DNA is cut with a restriction enzyme that 
+acts close to the VNTR regions. Electrophoresis is then used to separate fragments according to 
+length and size, and the result is a pattern of bands (Figure D1.1.5). 
+4	 Explain why the composition of the DNA of identical twins challenges an underlying 
+assumption of DNA fingerprinting, but that of non-identical twins does not?
+2	 Explain how 
+electrophoresis 
+works. 
+3	 Outline the role 
+of the buffer and 
+power supply in 
+electrophoresis. 
+	
+◆Genetic profiling: 
+the identification of 
+individual organisms or 
+species using DNA.
+	
+◆Variable number 
+tandem repeats 
+(VNTRs): short base 
+sequences that show 
+variation between 
+individuals in terms of 
+number of repeats. These 
+major lengths of non-
+coding DNA are used in 
+genetic profiling.
+
+
+=== PAGE BREAK ===
+
+D1.1   DNA replication
+609
+weight
+1 Then a copy of the distributed DNA fragments is produced on nylon membrane:
+Southern blotting (named after the scientist who devised the routine):
+• extracted DNA is cut into fragments with restriction enzyme
+• the fragments are separated by electrophoresis 
+• fragments are made single-stranded by treatment of the gel with alkali.
+What a probe is and how it works
+1 The probe is an artiﬁcally prepared sequence of
+ DNA, e.g. one coding for the dipeptide phenylalanine.
+3 The DNA is treated to separate the strands.
+hydrogen bonds broken
+Making radioactively labelled DNA probes
+• Single-stranded DNA has the ability to form a stable double strand with another single strand of DNA, provided
+ the bases are complementary (i.e. pair). If one strand is ‘labelled’, the presence of the paired strands is easily detected.
+• Short lengths of single-stranded DNA are made in the laboratory for this purpose, by enzymically combining
+ and then adding selected nucleotides one at a time, in a precise sequence.
+• Consequently, the base sequence of probes is predetermined and known.
+• All the nucleotides used contain radioactive phosphorus (32P), or carbon (14C) in the ribose of the nucleic acid
+ backbone, so the subsequent positions of the probes (and the location of a complementary strand of DNA,
+ e.g. on a nylon membrane) can be located by autoradiography.
+2 Heat treatment of the nylon membrane binds the DNA copies to it.
+3 Selected radioactively labelled DNA probes
+ are added to bind to particular bands of DNA
+ – then excess probes are washed away.
+4 Nylon membrane is now overlaid with
+ X-ray ﬁlm, which is selectively ‘fogged’
+ by emission from the retained probes.
+5 X-ray ﬁlm is developed, showing up the positions
+ of the bands (fragments) to which probes are attached.
+2 The target for the probe – double-stranded
+ DNA containing the sequence being studied.
+made radioactive
+4 Radioactive probe is introduced.
+Southern blotting of gel copies
+the strands to a nylon membrane
+layers of blotting paper
+nylon membrane
+gel
+blotting paper ‘wick’
+glass block
+buffer tray
+A
+A
+G
+C
+G
+A
+A
+A
+G
+C
+G
+A
+T
+T
+C
+G
+C
+T
+A
+A
+G
+C
+G
+A
+T
+T
+C
+G
+C
+T
+A
+A
+G
+C
+G
+A
+T
+T
+C
+G
+C
+T
+ 
+■Figure D1.1.5 Steps to genetic profiling
+Concept: Change
+Although the genetic code is relatively consistent within a species, changes occur that 
+result in individuals having different alleles to others in the population. Modifications 
+to DNA also occur in the number of STRs and VNTRs. These differences in DNA allow 
+genetic profiling techniques to identify differences and similarities between genetic 
+samples from individuals.
+
+
+=== PAGE BREAK ===
+
+Theme D: Continuity and change – Molecules
+610
+ 
+■Applications of genetic fingerprinting 
+Applications in forensic science include the following.
+l	 Identification of suspects – samples are taken from the scenes of serious and violent crimes. 
+DNA from both victims and suspects, as well as from others who have certainly not been 
+involved in the crime (used as control samples), is profiled. The greatest care is required; there 
+must be no possibility of cross-contamination if the outcome of testing is to be accurate.
+l	 Identification of corpses – bodies that are otherwise too decomposed for recognition 
+may be identified, as might parts of the body remaining after violent incidents, including 
+natural disasters. DNA samples from body tissues can be taken and their profile compared with 
+those of close relatives or with DNA obtained from cells recovered from personal effects, where 
+these are available.
+l	 Determining paternity – a range of samples of DNA are analysed side by side, of the people 
+who are possibly related. The banding patterns are then compared (Figure D1.1.6). Because a 
+child inherits half its DNA from its mother and half from its father, the bands in a child’s DNA 
+fingerprint that do not match those of its mother must come from the child’s father.
+Nature of science: Measurement
+Reliability is enhanced by increasing the number of measurements in an experiment or test. In DNA 
+profiling, increasing the number of markers used reduces the probability of a false match. Markers 
+are DNA sequences with a known physical location on a chromosome and include single-nucleotide 
+polymorphisms (SNPs, see page 115) and STRs. The markers have uniform band intensities and cover 
+a wide range of DNA sizes. The greater the number of markers (i.e. bands on a DNA profile) the 
+greater the reliability and accuracy of the match, as there are more points of comparison between 
+the DNA profiles.
+crime scene
+DNA
+S1
+S2
+S3
+S4
+DNA proﬁles used to establish family relationships
+Is the male (M) the parent of both children?
+Examine the DNA proﬁles shown below.
+Look at the children’s bands (C).
+Discount all those bands that correspond to bands in the mother’s
+proﬁle (F).
+The remaining bands match those of the biological father.
+DNA proﬁling in forensic investigation
+Identiﬁcation of criminals
+At the scene of a crime (such as a murder), hairs – with hair
+root cells attached – or blood may be recovered. If so, the resulting DNA
+proﬁles may be compared with those of DNA obtained from suspects.
+Examine the DNA proﬁles shown below, and suggest which suspect
+should be interviewed further.
+ 
+■Figure D1.1.6 DNA profiles used to investigate relatedness
+Top tip!
+Short tandem repeats 
+(STRs) can also be 
+used in DNA profiling. 
+An STR is another 
+section of DNA within 
+the genome that is 
+organized as repeating 
+units consisting of 
+2 to 13 nucleotides. 
+The difference 
+between VNTRs and 
+STRs is the number 
+of nucleotides in a 
+repeating sequence: 
+repeating units of 
+VNTRs consist of 10 
+to 100 nucleotides, 
+while repeating units 
+of STRs consist of 2 
+to 13 nucleotides. 
+Both VNTRs and STRs 
+are used widely in 
+forensic studies.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.1   DNA replication
+611
+Inquiry 2: Collecting and processing data
+Collecting data
+Access the following site: https://learn.genetics.utah.edu/content/labs/gel
+First, remind yourself of the processes involved in gel electrophoresis. Then carry out 
+your own experiment using the simulation and gather your own quantitative data. 
+Sort and measure DNA strands by running your own gel electrophoresis experiment. 
+What equipment do you need? How are the data processed? Can you identify any issues 
+that may have arisen during the data collection and how would you address these? 
+TOK
+The use of DNA for 
+securing convictions 
+in legal cases is well 
+established, yet even 
+universally accepted 
+theories are overturned 
+in the light of new 
+evidence. What 
+criteria are necessary 
+for assessing the 
+reliability of evidence? 
+What counts as good 
+evidence for a claim? 
+On what grounds might 
+we doubt a claim?
+Directionality of DNA polymerases
+We can identify direction in the DNA double helix. One chain runs from 5′ to 3′, while the other 
+runs from 3′ to 5′. (Remember, the carbon atoms of organic molecules can be numbered, see page 17.) 
+The two chains of DNA are antiparallel, which becomes important in replication and when the 
+genetic code is transcribed into mRNA. 
+DNA polymerase requires a free 3′–OH group to start the synthesis of a new DNA strand, adding 
+the 5′ of a DNA nucleotide to the 3′ end of a strand of nucleotides. This means it can synthesize in 
+only one direction, moving along the template strand in a 3′ to 5′ direction, and synthesizing the new 
+DNA strand in a 5′ to 3′ direction. 
+The proofreading mechanism of DNA replication (page 614) also explains why DNA polymerases 
+synthesize DNA only in the 5′ to 3′ direction. A hypothetical DNA polymerase that synthesized in 
+the 3′ to 5′ direction would be unable to proofread: if it removed an incorrectly paired nucleotide, the 
+polymerase would form a chain that could no longer be elongated. Thus, for a DNA polymerase to 
+function as a self-correcting enzyme that removes its own polymerization errors as it moves along the 
+DNA, it must proceed only in the 5′ to 3′ direction.
+Differences between replication on the 
+leading strand and the lagging strand
+Replication is be initiated by an RNA primer (Figure D1.1.7). This is probably a ‘relic’ of the RNA world 
+(see Theme A2.1, page 41). Semi-conservative replication is actually initiated at many points along the 
+DNA double helix. These points are known as replication forks. Here, the DNA strands separate (a 
+‘bubble’ forms), brought about by the enzyme helicase. Another enzyme, DNA gyrase, assists in 
+overcoming the strains that come as the double-stranded DNA is unwound. Then, single-strand 
+binding proteins attach and prevent the separated strands from rejoining. The unwound sections of 
+both strands are now ready to act as templates for the synthesis of complementary DNA strands.
+Both strands are replicated simultaneously. However, since DNA polymerase (known as DNA 
+polymerase III) can add nucleotides only to the free 3′ end, the DNA strands can elongate only in 
+the 5′ to 3′ direction. Consequently, the details of the replication process differ in the two strands. 
+Figure D1.1.7 illustrates the steps, and Table D1.1.1 lists the enzymes involved.
+Link
+The antiparallel 
+chains of DNA are 
+shown in Chapter 
+A1.2, Figure A1.2.6, 
+page 19. Directionality 
+of RNA and DNA is 
+also mentioned in 
+A1.2, page 25.
+Top tip!
+DNA replication of the 
+new strand only occurs 
+in a 5’ to 3’ direction. 
+This is because the 
+shape of the active site 
+of DNA polymerase 
+requires the 3’–OH end 
+of the template strand 
+to initiate replication. 
+	
+◆RNA primer: in DNA 
+replication, a short length 
+of RNA made at the 
+beginning of the synthesis 
+of each DNA fragment; 
+these RNA segments are 
+subsequently removed 
+and filled in with DNA.
+	
+◆DNA polymerase 
+III: the primary enzyme 
+involved in DNA 
+replication.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+612
+ 
+■Leading strand
+The exposed 5′ to 3′ strand is referred to as the leading strand. Here, DNA polymerase III adds 
+nucleotides by complementary base pairing to the free 3′ end of the new strand, in the same 
+direction as the replication fork. This process is continuous, immediately happening behind the 
+advancing helicase as fresh template is exposed. The initial nucleotide chain formed is actually a 
+short length of RNA called a primer. This primer is synthesized by an enzyme, primase. Then the 
+new DNA starts from the 3′ end of the RNA primer.
+Top tip!
+RNA primer is required for the synthesis of a new strand in DNA replication because DNA 
+polymerase can only join nucleotides on to an existing chain with a free 3′–OH group at one end. 
+Primase, unlike DNA polymerases, does not require a free 3′–OH end for synthesis. Primase 
+synthesizes a short piece of RNA that is complementary to the template DNA strand (an RNA 
+primer): this gives DNA polymerase the starting point it needs to initiate synthesis.
+ 
+■Lagging strand
+In contrast to events in the leading strand, in the lagging strand the replication is discontinuous. 
+Strands are synthesized in opposite directions. A series of relatively short lengths of DNA, called 
+Okazaki fragments are formed (see Figure D1.1.7), each one primed separately. Okazaki fragments are 
+necessary so that replication of both strands can happen at the same time. In contrast to replication on 
+the leading strand, which has to be initiated by an RNA primer only once, replication has to be initiated 
+repeatedly on the lagging strand. There is therefore more than one primer/primase in the lagging 
+strand. The enzyme DNA ligase is present in the lagging strand to join together Okazaki fragments. 
+ultimately, all
+replication
+forks join up
+here the DNA double helix is shown uncoiled
+for clarity, although DNA is held uncoiled by
+helicase only in the regions of active DNA
+replication (the replication forks) 
+5’
+3’
+3’
+5’
+5’   3’ direction
+of replication
+parent DNA
+leading strand
+lagging strand
+5’   3’ direction
+of replication
+antiparallel
+strands
+replication is initiated at
+many points
+5’
+3’
+5’
+3’
+5’
+3’
+3’
+5’
+‘pool’ of free
+nucleotides
+DNA polymerase III
+(adds nucleotides)
+nucleotides attach
+by base pairing
+RNA primase (adds
+short RNA primer)
+DNA gyrase and
+single-strand
+binding proteins
+prevent DNA strands
+from rejoining
+primers
+Okazaki
+fragments
+ligase (seals
+fragments)
+DNA polymerase I
+(removes RNA primer) 
+DNA polymerase III  
+replication fork
+helicase
+(uncoils DNA)
+ 
+■Figure D1.1.7 The steps of DNA replication
+Top tip!
+The DNA replication 
+process covered here 
+occurs in prokaryotes. 
+Replication in 
+eukaryotic cells has 
+some differences to the 
+replication covered on 
+these pages.
+Common 
+mistake
+An RNA primer begins 
+replication on both the 
+lagging strand and the 
+leading strand, not only 
+on the lagging strand. 
+	
+◆Leading strand: at a 
+replication fork, the DNA 
+strand that is made by 
+continuous synthesis in 
+the 5’ to 3’ direction. 
+	
+◆Primase: an RNA 
+polymerase that uses 
+DNA as a template to 
+produce an RNA fragment 
+that serves as a primer for 
+DNA synthesis.
+	
+◆Lagging strand: a 
+single DNA strand that is 
+discontinuously replicated 
+in the opposite direction 
+to the replication 
+fork, forming Okazaki 
+fragments. 
+	
+◆Okazaki fragments: 
+short lengths of DNA 
+produced on the lagging 
+strand during DNA 
+replication. Adjacent 
+fragments are rapidly 
+joined together by 
+DNA ligase to form a 
+continuous DNA strand.
+	
+◆DNA ligase: enzyme 
+that joins two DNA 
+fragments together, via 
+the formation of a 3’–5’ 
+phosphodiester bond.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+D1.1   DNA replication
+613
+Nature of science: Experiments
+The discovery of Okazaki fragments
+The fragments of newly synthesized DNA along the lagging strand are called Okazaki fragments. They 
+are named after their discoverers, Japanese molecular biologists Reiji Okazaki (1930–75) and Tsuneko 
+Okazaki (1933–). They made the discovery by a pulse-chase experiment, which involved exposing 
+replicating DNA to a short ‘pulse’ of isotope-labelled nucleotides. They then varied the length of time 
+that the cells would be exposed to non-labelled nucleotides. This later period is termed the ‘chase’. 
+The labelled nucleotides were incorporated into growing DNA molecules only during the first few 
+seconds of the pulse and non-labelled nucleotides were only incorporated during the chase. The 
+newly synthesized DNA was centrifuged and it was observed that the shorter chases resulted in most 
+of the radioactivity appearing in ‘slow’ DNA. The sedimentation rate was determined by size: smaller 
+fragments precipitated more slowly than larger fragments because of their lower mass. As they 
+increased the length of the chases, radioactivity in the ‘fast’ DNA increased with little or no increase of 
+radioactivity in the slow DNA. The researchers interpreted these observations to mean that, with short 
+chases, only very small fragments of DNA were being synthesized along the lagging strand. As the 
+chases increased in length, giving DNA more time to replicate, the lagging strand fragments started 
+integrating into longer, heavier, more rapidly sedimenting DNA strands. 
+5	 Explain why 
+Okazaki fragments 
+are formed during 
+DNA replication.
+6	 Describe how 
+enzymes are used 
+in DNA replication.
+ 
+■Functions of enzymes in replication 
+The DNA replication covered here is the prokaryotic system. In summary, first an RNA primer is 
+formed by primase and then DNA polymerase III attaches nucleotides to the RNA primer, forming 
+a fragment. Next, DNA polymerase I replaces the RNA nucleotides at the start of each fragment 
+with DNA nucleotides. Finally, the enzyme DNA ligase joins the Okazaki fragments together.
+In this way, short lengths of DNA are synthesized and joined together.
+ 
+■Table D1.1.1 The enzymes that bring about DNA replication
+1 Formation of a replication fork
+helicase enzyme
+separates the two strands of DNA to expose a replication fork and 
+prevents them rejoining
+DNA gyrase enzyme
+single-strand binding proteins
+2 a) DNA replication in the leading strand – a continuous process
+RNA primase
+forms a single short length of RNA primer
+DNA polymerase III
+forms the DNA strand, beginning at the RNA primer
+2 b) DNA replication in the lagging strand – a discontinuous process
+RNA primase
+forms short lengths of RNA primer at intervals along the DNA strand
+DNA polymerase III
+forms short DNA strands (Okazaki fragments), starting from each 
+RNA primer
+DNA polymerase I
+replaces the RNA primer at the start of each Okazaki fragment with 
+a DNA strand
+ligase
+joins the DNA stands together
+7	 Outline the 
+functions of 
+enzymes in 
+prokaryotic DNA 
+replication.
+
+
+=== PAGE BREAK ===
+
+HL ONLY
+Theme D: Continuity and change – Molecules
+614
+DNA proofreading
+Proofreading of DNA is carried out by prokaryotes as well as eukaryotes. DNA polymerase III is 
+involved in removing any mismatched base from the 3′ terminal, followed by replacement with a 
+correctly matched nucleotide (Figure D1.1.8).
+DNA proofreading ensures that any mismatched nucleotides are removed before DNA replication 
+proceeds. This proofreading is carried out by a nuclease that cleaves the phosphodiester bond. 
+Polymerization and proofreading are coordinated, and the two reactions are carried out by different 
+catalytic domains in the same polymerase molecule.
+G
+C
+G
+G
+G
+C
+C
+C
+A
+T
+A
+A
+T
+T
+T
+A
+A
+A
+T
+G
+C
+G
+G
+G
+C
+C
+C
+A
+T
+A
+A
+T
+T
+T
+A
+A
+A
+T
+G
+C
+G
+G
+G
+C
+C
+C
+A
+T
+A
+T
+T
+T
+A
+A
+A
+T
+5’
+3’
+5’
+3’
+5’
+3’
+template DNA
+polymerase
+OH 3’
+OH 3’
+OH 3’
+addition of 
+incorrect base
+addition of
+correct base
+removal of 
+incorrect base
+G
+ 
+■Figure D1.1.8 DNA proofreading
+	ATL D1.1D 
+Xeroderma pigmentosum is a genetic disorder where a genetic mutation leads to the 
+proofreading and repair mechanism of DNA replication being absent or much reduced. There is a 
+decreased ability to repair DNA damage, such as that caused by UV light. 
+Find out about this genetic disorder and how it relates to DNA replication. What are the 
+treatments for the disease?
+T
+H
+E
+ 
+I
+B
+ 
+L
+E
+A
+R
+N
+E
+R
+ 
+P
+R
+O
+F
+I
+L
+E
+LINKING QUESTIONS
+1	 How is genetic continuity ensured between generations?
+2	 What biological mechanisms rely on directionality? 
+	
+◆Proofreading: the 
+process by which DNA 
+polymerase corrects its 
+own errors as it moves 
+along DNA.
