@@ -1144,6 +1144,99 @@
     .subject-dash .ee-criteria-grid, .subject-dash .ee-lists{grid-template-columns:1fr;}
     .subject-dash .ee-overall{flex-direction:column; align-items:flex-start;}
   }
+
+  /* ===================================================================
+     WORKSPACE PATTERN -- shared between the Extended Essay and Internal
+     Assessment tools: header/Saved badge, Overview/Drafts/Sources tabs,
+     investigation-details card, draft history with word-count diffs,
+     a progress stepper, and a grading summary card.
+     =================================================================== */
+  .subject-dash .ws-shell{max-width:980px; margin:0 auto; padding:32px 24px 80px;}
+  .subject-dash .ws-header{display:flex; align-items:flex-start; justify-content:space-between; gap:16px; margin:20px 0 22px;}
+  .subject-dash .ws-title{font-family:"Fraunces",Georgia,serif; font-weight:700; font-size:clamp(24px,3vw,32px); margin:0 0 4px; text-wrap:balance;}
+  .subject-dash .ws-subtitle{color:var(--hv-text-faint); font-size:13.5px; margin:0;}
+  .subject-dash .ws-saved-badge{
+    font-family:"IBM Plex Mono",monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.06em;
+    color:var(--hv-green); background:var(--hv-green-bg,#16261d); border:1px solid #2a4a37; border-radius:999px;
+    padding:5px 11px; flex-shrink:0; opacity:0; transition:opacity .25s ease;
+  }
+  .subject-dash .ws-saved-badge.show{opacity:1;}
+
+  .subject-dash .ws-tabs{display:flex; gap:22px; border-bottom:1px solid var(--hv-border); margin-bottom:22px;}
+  .subject-dash .ws-tab{
+    background:none; border:none; color:var(--hv-text-faint); font-family:inherit; font-size:14px; cursor:pointer;
+    padding:0 0 12px; border-bottom:2px solid transparent; margin-bottom:-1px;
+  }
+  .subject-dash .ws-tab.on{color:var(--hv-text); border-color:var(--hv-accent); font-weight:600;}
+  .subject-dash .ws-tab:hover{color:var(--hv-text);}
+
+  .subject-dash .ws-grid{display:grid; grid-template-columns:1.4fr 1fr; gap:18px; align-items:start;}
+  .subject-dash .ws-col-main{display:flex; flex-direction:column; gap:18px; min-width:0;}
+  .subject-dash .ws-card{background:var(--hv-surface); border:1px solid var(--hv-border); border-radius:16px; padding:20px;}
+  .subject-dash .ws-card-head{display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:14px;}
+  .subject-dash .ws-card-head h3{font-family:"Fraunces",Georgia,serif; font-size:16px; margin:0; font-weight:600;}
+  .subject-dash .ws-small-btn{padding:7px 13px; font-size:12.5px;}
+
+  .subject-dash .ws-field-label{font-size:11.5px; text-transform:uppercase; letter-spacing:.05em; color:var(--hv-text-faint); margin:0 0 4px;}
+  .subject-dash .ws-field-value{font-size:14.5px; color:var(--hv-text); margin:0 0 14px; line-height:1.5;}
+  .subject-dash .ws-field-value:last-child{margin-bottom:0;}
+  .subject-dash .ws-field-value.empty{color:var(--hv-text-faint); font-style:italic;}
+  .subject-dash .ws-edit-form{display:flex; flex-direction:column; gap:10px;}
+  .subject-dash .ws-edit-actions{display:flex; gap:8px;}
+
+  .subject-dash .ws-doc-meta{display:flex; align-items:center; justify-content:space-between; gap:12px; padding-bottom:12px; margin-bottom:4px; border-bottom:1px solid var(--hv-border);}
+  .subject-dash .ws-doc-name{font-size:14px; font-weight:600;}
+  .subject-dash .ws-doc-sub{font-size:12px; color:var(--hv-text-faint); margin-top:2px;}
+  .subject-dash .ws-draft-row{display:flex; align-items:center; justify-content:space-between; gap:10px; padding:10px 0; border-bottom:1px solid var(--hv-border); font-size:13px;}
+  .subject-dash .ws-draft-row:last-child{border-bottom:none;}
+  .subject-dash .ws-draft-name{font-weight:600; flex-shrink:0;}
+  .subject-dash .ws-draft-meta{color:var(--hv-text-faint); font-size:12px; flex:1; text-align:right;}
+  .subject-dash .ws-draft-delta{color:var(--hv-green); margin-left:6px;}
+  .subject-dash .ws-draft-score{
+    font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--hv-accent-light);
+    background:var(--hv-bg-alt); border:1px solid var(--hv-border); border-radius:999px; padding:2px 8px; margin-left:8px;
+  }
+  .subject-dash .ws-empty{color:var(--hv-text-faint); font-size:13px; font-style:italic;}
+
+  .subject-dash .ws-steps{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:4px;}
+  .subject-dash .ws-step{display:flex; align-items:center; gap:12px; padding:9px 0;}
+  .subject-dash .ws-step-marker{
+    width:26px; height:26px; border-radius:50%; flex-shrink:0; display:flex; align-items:center; justify-content:center;
+    font-size:12px; font-weight:700; background:var(--hv-bg-alt); color:var(--hv-text-faint); border:1px solid var(--hv-border);
+  }
+  .subject-dash .ws-step-label{font-size:13.5px; color:var(--hv-text-faint);}
+  .subject-dash .ws-step.done .ws-step-marker{background:var(--hv-green); border-color:var(--hv-green); color:#0d1f15;}
+  .subject-dash .ws-step.done .ws-step-label{color:var(--hv-text-soft);}
+  .subject-dash .ws-step.current .ws-step-marker{background:var(--hv-accent); border-color:var(--hv-accent); color:#fff;}
+  .subject-dash .ws-step.current .ws-step-label{color:var(--hv-text); font-weight:600;}
+
+  .subject-dash .ws-grading-summary{display:flex; align-items:center; gap:14px; margin-bottom:16px;}
+  .subject-dash .ws-grading-ring{
+    width:56px; height:56px; border-radius:50%; flex-shrink:0; display:flex; align-items:center; justify-content:center;
+    background:var(--hv-bg-alt);
+  }
+  .subject-dash .ws-grading-ring span{
+    width:44px; height:44px; border-radius:50%; background:var(--hv-surface);
+    display:flex; align-items:center; justify-content:center; font-family:"Fraunces",Georgia,serif; font-weight:700;
+    font-size:16px; color:var(--hv-accent-light);
+  }
+  .subject-dash .ws-grading-headline{font-size:14.5px; font-weight:600;}
+  .subject-dash .ws-grading-sub{font-size:12px; color:var(--hv-text-faint); margin-top:2px;}
+  .subject-dash .ws-grading-tip{
+    background:var(--hv-bg-alt); border-radius:10px; padding:12px 14px; font-size:12.5px; color:var(--hv-text-soft);
+    line-height:1.5; margin-bottom:16px;
+  }
+  .subject-dash .ws-source-row{display:flex; align-items:flex-start; justify-content:space-between; gap:10px; padding:10px 0; border-bottom:1px solid var(--hv-border); font-size:13px; color:var(--hv-text-soft);}
+  .subject-dash .ws-source-row:last-child{border-bottom:none;}
+  .subject-dash .ws-source-remove{background:none; border:none; color:var(--hv-text-faint); cursor:pointer; font-size:12px; flex-shrink:0;}
+  .subject-dash .ws-source-remove:hover{color:var(--hv-red,#e08a6a);}
+  .subject-dash .ws-source-add-row{display:flex; gap:8px; margin-bottom:14px;}
+  .subject-dash .ws-source-add-row input{flex:1;}
+
+  @media (max-width:760px){
+    .subject-dash .ws-grid{grid-template-columns:1fr;}
+    .subject-dash .ws-header{flex-direction:column;}
+  }
 </style>
 
 <div class="wrap">
@@ -1315,7 +1408,7 @@
             <span class="hv-tool-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="6" y1="20" x2="6" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="18" y1="20" x2="18" y2="14"></line></svg></span>
             <h3>Internal Assesment</h3>
             <p>Upload or paste your IA and receive detailed feedback, suggestions for improvement and an estimated mark using IBDP criteria.</p>
-            <button type="button" class="hv-tool-btn">Open IA Tool<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></button>
+            <button type="button" class="hv-tool-btn" id="btn-open-ia-tool">Open IA Tool<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></button>
           </div>
           <div class="hv-tool on">
             <span class="hv-tool-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"></path><path d="M10 22h4"></path><path d="M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.3 1 2.3h6c0-1 .4-1.8 1-2.3A7 7 0 0 0 12 2z"></path></svg></span>
@@ -2260,44 +2353,211 @@
 
   <!-- EXTENDED ESSAY TOOL -->
   <section class="card subject-dash" id="view-ee" hidden>
-    <div class="ee-shell">
+    <div class="ws-shell">
       <button type="button" class="dash-home-btn" id="ee-home-btn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>Back to Home</button>
-      <div class="ee-header">
-        <h1 class="ee-title">Extended Essay Feedback</h1>
-        <p class="ee-sub">Paste your Extended Essay draft below and get feedback mapped to the IB assessment criteria examiners actually use to grade the essay itself.</p>
-        <p class="ee-note">The IB moved to a new EE guide for first assessment May 2027, with different criteria than the guide used since 2018. Pick the one that matches your exam session below. One criterion in each guide (Engagement, or Reflection in the new guide) is graded from a separate reflection statement rather than the essay text &mdash; paste yours in the optional field below to get it assessed too, or leave it blank to skip it. Everything below is an AI estimate to help you revise, not an official IB mark.</p>
+
+      <div class="ws-header">
+        <div>
+          <h1 class="ws-title" id="ee-ws-title">Extended Essay</h1>
+          <p class="ws-subtitle" id="ee-ws-subtitle">Set your subject to begin</p>
+        </div>
+        <span class="ws-saved-badge" id="ee-saved-badge">Saved</span>
+      </div>
+
+      <div class="ws-tabs">
+        <button type="button" class="ws-tab on" data-ws-tool="ee" data-ws-tab="overview">Overview</button>
+        <button type="button" class="ws-tab" data-ws-tool="ee" data-ws-tab="drafts">Drafts</button>
+        <button type="button" class="ws-tab" data-ws-tool="ee" data-ws-tab="sources">Sources</button>
+      </div>
+
+      <!-- OVERVIEW -->
+      <div class="ws-panel" data-ws-tool-panel="ee" data-ws-panel="overview">
+        <div class="ws-grid">
+          <div class="ws-col-main">
+            <div class="ws-card">
+              <div class="ws-card-head"><h3>Investigation Details</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ee">Edit details</button></div>
+              <p class="ws-field-label">Subject</p>
+              <p class="ws-field-value" id="ee-ov-subject">Not set yet</p>
+              <p class="ws-field-label">Research question</p>
+              <p class="ws-field-value" id="ee-ov-rq">Not set yet</p>
+            </div>
+            <div class="ws-card">
+              <div class="ws-card-head"><h3>My Documents</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ee">Open</button></div>
+              <div class="ws-doc-meta" id="ee-doc-current"><span class="ws-empty">No draft saved yet.</span></div>
+              <div id="ee-draft-list"></div>
+            </div>
+          </div>
+          <div class="ws-col-side">
+            <div class="ws-card">
+              <div class="ws-card-head"><h3>Your Progress</h3><span id="ee-progress-count" style="font-size:12px;color:var(--hv-text-faint);"></span></div>
+              <ol class="ws-steps" id="ee-steps"></ol>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- DRAFTS -->
+      <div class="ws-panel" data-ws-tool-panel="ee" data-ws-panel="drafts" hidden>
+        <p class="ee-note">The IB moved to a new EE guide for first assessment May 2027, with different criteria than the guide used since 2018. Pick the one that matches your exam session below. One criterion in each guide (Engagement, or Reflection in the new guide) is graded from a separate reflection statement rather than the essay text &mdash; paste yours below to get it assessed too, or leave it blank to skip it. Everything here is an AI estimate to help you revise, not an official IB mark.</p>
         <p class="ee-note">The 2027-guide criteria here are compiled from published secondary summaries, since ibo.org blocks automated access &mdash; if anything here conflicts with what your EE coordinator or the official subject guide says, trust them over this tool.</p>
+        <div class="ws-grid">
+          <div class="ws-col-main">
+            <div class="ws-card">
+              <label class="ee-field-label" for="ee-guide">Which Extended Essay guide applies to you?</label>
+              <select id="ee-guide" class="ee-input">
+                <option value="2027">First assessment May 2027 (new guide) &mdash; 30 marks, Criteria A&ndash;E</option>
+                <option value="pre2027">First assessment before May 2027 (previous guide) &mdash; 34 marks, Criteria A&ndash;E</option>
+              </select>
+              <label class="ee-field-label" for="ee-subject">Subject</label>
+              <input type="text" id="ee-subject" class="ee-input" placeholder="e.g. Economics, Biology, History&hellip;" required>
+              <label class="ee-field-label" for="ee-rq">Research question</label>
+              <input type="text" id="ee-rq" class="ee-input" placeholder="e.g. To what extent&hellip;">
+              <label class="ee-field-label" for="ee-text">Your essay text</label>
+              <textarea id="ee-text" class="ee-textarea" rows="16" placeholder="Paste your full Extended Essay here&hellip;"></textarea>
+              <div class="ee-meta-row">
+                <span id="ee-wordcount">0 words</span>
+                <span id="ee-wordcount-note"></span>
+              </div>
+              <label class="ee-field-label" for="ee-rppf">Reflections text &mdash; optional</label>
+              <textarea id="ee-rppf" class="ee-textarea" rows="6" placeholder="Paste your reflections here to also get feedback on Criterion E &mdash; the RPPF reflections for the pre-2027 guide, or the 500-word reflective statement on the RPF for the 2027 guide. Leave this blank to skip it &mdash; this criterion can&rsquo;t be judged from the essay text alone."></textarea>
+              <div class="ee-meta-row">
+                <span id="ee-rppf-wordcount">0 words</span>
+                <span id="ee-rppf-wordcount-note"></span>
+              </div>
+              <div class="ee-actions">
+                <button type="button" class="btn-primary ee-submit" id="ee-submit">Get feedback</button>
+                <button type="button" class="btn-secondary" id="ee-delete">Delete</button>
+                <button type="button" class="btn-secondary" id="ee-stop" hidden>Stop</button>
+              </div>
+              <p class="ee-status" id="ee-status" hidden></p>
+            </div>
+          </div>
+          <div class="ws-col-side">
+            <div class="ws-card" id="ee-grading-card">
+              <h3 style="font-family:'Fraunces',Georgia,serif;font-size:16px;margin:0 0 14px;">Grading &amp; feedback</h3>
+              <div id="ee-grading-body"><p class="ws-empty">Get feedback on a draft to see your grade here.</p></div>
+            </div>
+          </div>
+        </div>
+        <div class="ee-results" id="ee-results" hidden></div>
       </div>
 
-      <div class="ee-panel">
-        <label class="ee-field-label" for="ee-guide">Which Extended Essay guide applies to you?</label>
-        <select id="ee-guide" class="ee-input">
-          <option value="2027">First assessment May 2027 (new guide) &mdash; 30 marks, Criteria A&ndash;E</option>
-          <option value="pre2027">First assessment before May 2027 (previous guide) &mdash; 34 marks, Criteria A&ndash;E</option>
-        </select>
-        <label class="ee-field-label" for="ee-subject">Subject</label>
-        <input type="text" id="ee-subject" class="ee-input" placeholder="e.g. Economics, Biology, History&hellip;" required>
-        <label class="ee-field-label" for="ee-text">Your essay text</label>
-        <textarea id="ee-text" class="ee-textarea" rows="16" placeholder="Paste your full Extended Essay here&hellip;"></textarea>
-        <div class="ee-meta-row">
-          <span id="ee-wordcount">0 words</span>
-          <span id="ee-wordcount-note"></span>
+      <!-- SOURCES -->
+      <div class="ws-panel" data-ws-tool-panel="ee" data-ws-panel="sources" hidden>
+        <div class="ws-card">
+          <h3 style="font-family:'Fraunces',Georgia,serif;font-size:16px;margin:0 0 14px;">Sources</h3>
+          <div class="ws-source-add-row">
+            <input type="text" id="ee-source-input" class="ee-input" placeholder="Add a source or citation&hellip;">
+            <button type="button" class="btn-secondary ws-small-btn" id="ee-source-add">Add</button>
+          </div>
+          <div id="ee-source-list"><p class="ws-empty">No sources added yet.</p></div>
         </div>
-        <label class="ee-field-label" for="ee-rppf">Reflections text &mdash; optional</label>
-        <textarea id="ee-rppf" class="ee-textarea" rows="6" placeholder="Paste your reflections here to also get feedback on Criterion E &mdash; the RPPF reflections for the pre-2027 guide, or the 500-word reflective statement on the RPF for the 2027 guide. Leave this blank to skip it &mdash; this criterion can&rsquo;t be judged from the essay text alone."></textarea>
-        <div class="ee-meta-row">
-          <span id="ee-rppf-wordcount">0 words</span>
-          <span id="ee-rppf-wordcount-note"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- INTERNAL ASSESSMENT TOOL -->
+  <section class="card subject-dash" id="view-ia" hidden>
+    <div class="ws-shell">
+      <button type="button" class="dash-home-btn" id="ia-home-btn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>Back to Home</button>
+
+      <div class="ws-header">
+        <div>
+          <h1 class="ws-title" id="ia-ws-title">Internal Assessment</h1>
+          <p class="ws-subtitle" id="ia-ws-subtitle">Set your subject to begin</p>
         </div>
-        <div class="ee-actions">
-          <button type="button" class="btn-primary ee-submit" id="ee-submit">Get feedback</button>
-          <button type="button" class="btn-secondary" id="ee-delete">Delete</button>
-          <button type="button" class="btn-secondary" id="ee-stop" hidden>Stop</button>
-        </div>
-        <p class="ee-status" id="ee-status" hidden></p>
+        <span class="ws-saved-badge" id="ia-saved-badge">Saved</span>
       </div>
 
-      <div class="ee-results" id="ee-results" hidden></div>
+      <div class="ws-tabs">
+        <button type="button" class="ws-tab on" data-ws-tool="ia" data-ws-tab="overview">Overview</button>
+        <button type="button" class="ws-tab" data-ws-tool="ia" data-ws-tab="drafts">Drafts</button>
+        <button type="button" class="ws-tab" data-ws-tool="ia" data-ws-tab="sources">Sources</button>
+      </div>
+
+      <!-- OVERVIEW -->
+      <div class="ws-panel" data-ws-tool-panel="ia" data-ws-panel="overview">
+        <div class="ws-grid">
+          <div class="ws-col-main">
+            <div class="ws-card">
+              <div class="ws-card-head"><h3>Investigation Details</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ia">Edit details</button></div>
+              <p class="ws-field-label">Subject</p>
+              <p class="ws-field-value" id="ia-ov-subject">Not set yet</p>
+              <p class="ws-field-label" id="ia-ov-focus-label">Research question / focus</p>
+              <p class="ws-field-value" id="ia-ov-focus">Not set yet</p>
+            </div>
+            <div class="ws-card">
+              <div class="ws-card-head"><h3>My Documents</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ia">Open</button></div>
+              <div class="ws-doc-meta" id="ia-doc-current"><span class="ws-empty">No draft saved yet.</span></div>
+              <div id="ia-draft-list"></div>
+            </div>
+          </div>
+          <div class="ws-col-side">
+            <div class="ws-card">
+              <div class="ws-card-head"><h3>Your Progress</h3><span id="ia-progress-count" style="font-size:12px;color:var(--hv-text-faint);"></span></div>
+              <ol class="ws-steps" id="ia-steps"></ol>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- DRAFTS -->
+      <div class="ws-panel" data-ws-tool-panel="ia" data-ws-panel="drafts" hidden>
+        <p class="ee-note">Internal Assessment criteria differ by subject group, so pick your subject first. This tool is compiled from published secondary sources, not a direct fetch of ibo.org (which blocks automated access) &mdash; if anything conflicts with your teacher or the official subject guide, trust them over this tool. Everything here is an AI estimate, not an official IB mark.</p>
+        <div class="ws-grid">
+          <div class="ws-col-main">
+            <div class="ws-card">
+              <label class="ee-field-label" for="ia-subject">Subject</label>
+              <select id="ia-subject" class="ee-input">
+                <option value="">Choose a subject&hellip;</option>
+                <option value="biology">Biology</option>
+                <option value="economics">Economics</option>
+              </select>
+              <div id="ia-commentary-row" hidden>
+                <label class="ee-field-label" for="ia-commentary">Which commentary?</label>
+                <select id="ia-commentary" class="ee-input">
+                  <option value="1">Commentary 1</option>
+                  <option value="2">Commentary 2</option>
+                  <option value="3">Commentary 3</option>
+                </select>
+              </div>
+              <label class="ee-field-label" for="ia-focus" id="ia-focus-field-label">Research question / focus of investigation</label>
+              <input type="text" id="ia-focus" class="ee-input" placeholder="e.g. How does light intensity affect the rate of photosynthesis in Elodea?">
+              <label class="ee-field-label" for="ia-text" id="ia-text-field-label">Your IA text</label>
+              <textarea id="ia-text" class="ee-textarea" rows="16" placeholder="Choose a subject above, then paste your IA text here&hellip;"></textarea>
+              <div class="ee-meta-row">
+                <span id="ia-wordcount">0 words</span>
+                <span id="ia-wordcount-note"></span>
+              </div>
+              <div class="ee-actions">
+                <button type="button" class="btn-primary" id="ia-submit">Get feedback</button>
+                <button type="button" class="btn-secondary" id="ia-delete">Delete</button>
+                <button type="button" class="btn-secondary" id="ia-stop" hidden>Stop</button>
+              </div>
+              <p class="ee-status" id="ia-status" hidden></p>
+            </div>
+          </div>
+          <div class="ws-col-side">
+            <div class="ws-card" id="ia-grading-card">
+              <h3 style="font-family:'Fraunces',Georgia,serif;font-size:16px;margin:0 0 14px;">Grading &amp; feedback</h3>
+              <div id="ia-grading-body"><p class="ws-empty">Get feedback on a draft to see your grade here.</p></div>
+            </div>
+          </div>
+        </div>
+        <div class="ee-results" id="ia-results" hidden></div>
+      </div>
+
+      <!-- SOURCES -->
+      <div class="ws-panel" data-ws-tool-panel="ia" data-ws-panel="sources" hidden>
+        <div class="ws-card">
+          <h3 style="font-family:'Fraunces',Georgia,serif;font-size:16px;margin:0 0 14px;">Sources</h3>
+          <div class="ws-source-add-row">
+            <input type="text" id="ia-source-input" class="ee-input" placeholder="Add a source or citation&hellip;">
+            <button type="button" class="btn-secondary ws-small-btn" id="ia-source-add">Add</button>
+          </div>
+          <div id="ia-source-list"><p class="ws-empty">No sources added yet.</p></div>
+        </div>
+      </div>
     </div>
   </section>
 </div>
@@ -20347,6 +20607,7 @@ var els = {
   viewQuiz:document.getElementById("view-quiz"),
   viewResults:document.getElementById("view-results"),
   viewEE:document.getElementById("view-ee"),
+  viewIA:document.getElementById("view-ia"),
   setupTitle:document.getElementById("setup-title"),
   segCount:document.getElementById("seg-count"),
   btnStart:document.getElementById("btn-start"),
@@ -20473,6 +20734,7 @@ function hideAllViews(){
   els.viewQuiz.hidden = true;
   els.viewResults.hidden = true;
   els.viewEE.hidden = true;
+  els.viewIA.hidden = true;
   els.siteHeader.hidden = false;
   var navHome = document.getElementById("hv-nav-home");
   if(navHome) navHome.classList.remove("on");
@@ -20768,7 +21030,7 @@ els.subjectCarousel.addEventListener("click", function(e){
   if(eeLink) eeLink.addEventListener("click", function(e){ e.preventDefault(); goEE(); });
 
   var iaLink = document.getElementById("hv-nav-ia");
-  if(iaLink) iaLink.addEventListener("click", scrollToSection("tools-section"));
+  if(iaLink) iaLink.addEventListener("click", function(e){ e.preventDefault(); goIA(); });
 
   ["hv-get-started-nav","hv-get-started-banner","hv-explore-tools","hv-nav-subjects"].forEach(function(id){
     var el = document.getElementById(id);
@@ -20776,9 +21038,235 @@ els.subjectCarousel.addEventListener("click", function(e){
   });
 })();
 
+/* ---------------- Shared "workspace" pattern -- Overview/Drafts/Sources
+   tabs, an investigation-details card, draft history with word-count
+   diffs, a progress stepper, and a grading summary. Used by both the
+   Extended Essay and Internal Assessment tools. Persisted to
+   localStorage per tool ("ee" or "ia" + optional sub-key for IA's
+   per-commentary Economics workspaces). ---------------- */
+function wsEsc(str){
+  return String(str==null ? "" : str)
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+function wsWordCount(text){
+  var m = (text||"").trim().match(/\S+/g);
+  return m ? m.length : 0;
+}
+
+function wsKey(tool){ return "ib-ws-"+tool; }
+
+function wsDefaultState(){
+  return { subject:"", guide:"", focus:"", drafts:[], sources:[], submitted:false };
+}
+
+function wsLoad(tool){
+  try{
+    var raw = localStorage.getItem(wsKey(tool));
+    if(!raw) return wsDefaultState();
+    var parsed = JSON.parse(raw);
+    return Object.assign(wsDefaultState(), parsed);
+  }catch(e){ return wsDefaultState(); }
+}
+
+function wsSave(tool, state){
+  try{ localStorage.setItem(wsKey(tool), JSON.stringify(state)); }catch(e){ /* ignore */ }
+  wsFlashSaved(tool);
+}
+
+function wsFlashSaved(tool){
+  var badge = document.getElementById(tool+"-saved-badge");
+  if(!badge) return;
+  badge.classList.add("show");
+  clearTimeout(badge._wsTimer);
+  badge._wsTimer = setTimeout(function(){ badge.classList.remove("show"); }, 1600);
+}
+
+function wsSwitchTab(tool, tabName){
+  document.querySelectorAll('[data-ws-tool="'+tool+'"].ws-tab').forEach(function(btn){
+    btn.classList.toggle("on", btn.getAttribute("data-ws-tab")===tabName);
+  });
+  document.querySelectorAll('[data-ws-tool-panel="'+tool+'"]').forEach(function(panel){
+    panel.hidden = panel.getAttribute("data-ws-panel") !== tabName;
+  });
+}
+
+function wsComputeSteps(state, focusLabel){
+  return [
+    {label:"Set Up", done: !!(state.subject && state.subject.trim())},
+    {label:focusLabel, done: !!(state.focus && state.focus.trim())},
+    {label:"Draft", done: state.drafts.length>0},
+    {label:"Review", done: state.drafts.length>0 && !!state.drafts[state.drafts.length-1].grading},
+    {label:"Submitted", done: !!state.submitted}
+  ];
+}
+
+function wsRenderSteps(tool, state, focusLabel){
+  var listEl = document.getElementById(tool+"-steps");
+  var countEl = document.getElementById(tool+"-progress-count");
+  if(!listEl) return;
+  var steps = wsComputeSteps(state, focusLabel);
+  var doneCount = steps.filter(function(s){ return s.done; }).length;
+  if(countEl) countEl.textContent = doneCount+" of "+steps.length+" done";
+  var currentIdx = -1;
+  for(var i=0;i<steps.length;i++){ if(!steps[i].done){ currentIdx=i; break; } }
+  listEl.innerHTML = steps.map(function(s,i){
+    var cls = s.done ? "done" : (i===currentIdx ? "current" : "");
+    var marker = s.done ? "&#10003;" : String(i+1);
+    return '<li class="ws-step '+cls+'"><span class="ws-step-marker">'+marker+'</span><span class="ws-step-label">'+wsEsc(s.label)+'</span></li>';
+  }).join("");
+}
+
+function wsRenderDrafts(tool, state, docName){
+  var listEl = document.getElementById(tool+"-draft-list");
+  var metaEl = document.getElementById(tool+"-doc-current");
+  if(!listEl) return;
+  var drafts = state.drafts || [];
+  if(drafts.length===0){
+    if(metaEl) metaEl.innerHTML = '<span class="ws-empty">No draft saved yet &mdash; get feedback once to save your first one.</span>';
+    listEl.innerHTML = "";
+    return;
+  }
+  var last = drafts[drafts.length-1];
+  if(metaEl){
+    metaEl.innerHTML =
+      '<div><div class="ws-doc-name">'+wsEsc(docName)+'</div>'+
+      '<div class="ws-doc-sub">'+last.wordCount+' word'+(last.wordCount===1?"":"s")+'</div></div>';
+  }
+  listEl.innerHTML = drafts.map(function(d, i){
+    var prev = i>0 ? drafts[i-1].wordCount : null;
+    var diff = prev===null ? 0 : d.wordCount-prev;
+    var deltaHtml = prev===null ? "" :
+      (diff>=0 ? ' <span class="ws-draft-delta">+'+diff+'</span>' : ' <span class="ws-draft-delta" style="color:var(--hv-text-faint)">'+diff+'</span>');
+    var label = (i===drafts.length-1 && drafts.length>1) ? "Final draft" : "Draft "+(i+1);
+    var score = d.grading ? '<span class="ws-draft-score">'+d.grading.totalEst+'/'+d.grading.totalMax+'</span>' : "";
+    return '<div class="ws-draft-row"><span class="ws-draft-name">'+wsEsc(label)+'</span><span class="ws-draft-meta">'+d.wordCount+' words'+deltaHtml+score+'</span></div>';
+  }).join("");
+}
+
+function wsRenderSources(tool, state){
+  var listEl = document.getElementById(tool+"-source-list");
+  if(!listEl) return;
+  var sources = state.sources || [];
+  if(sources.length===0){
+    listEl.innerHTML = '<p class="ws-empty">No sources added yet.</p>';
+    return;
+  }
+  listEl.innerHTML = sources.map(function(s, i){
+    return '<div class="ws-source-row"><span>'+wsEsc(s)+'</span><button type="button" class="ws-source-remove" data-ws-remove-source="'+i+'">Remove</button></div>';
+  }).join("");
+}
+
+function wsQualityHeadline(pct){
+  if(pct>=82) return "Strong work";
+  if(pct>=65) return "Solid progress";
+  if(pct>=45) return "Developing";
+  return "Early draft";
+}
+
+function wsRenderGradingSummary(tool, grading, topTip){
+  var bodyEl = document.getElementById(tool+"-grading-body");
+  if(!bodyEl) return;
+  if(!grading){
+    bodyEl.innerHTML = '<p class="ws-empty">Get feedback on a draft to see your grade here.</p>';
+    return;
+  }
+  var pct = grading.totalMax>0 ? Math.round(grading.totalEst/grading.totalMax*100) : 0;
+  var headline = grading.predictedGrade ? ("Grade "+grading.predictedGrade+" (estimate)") : wsQualityHeadline(pct);
+  var html = '<div class="ws-grading-summary">';
+  html += '  <div class="ws-grading-ring"><span>'+grading.totalEst+'</span></div>';
+  html += '  <div><div class="ws-grading-headline">'+wsEsc(headline)+'</div><div class="ws-grading-sub">'+grading.totalEst+' of '+grading.totalMax+' marks</div></div>';
+  html += '</div>';
+  if(topTip){
+    html += '<div class="ws-grading-tip">'+wsEsc(topTip)+'</div>';
+  }
+  html += '<button type="button" class="btn-secondary ws-small-btn" data-ws-view-feedback="'+tool+'">View feedback</button>';
+  bodyEl.innerHTML = html;
+}
+
+(function wireWorkspaceShell(){
+  document.addEventListener("click", function(e){
+    var tabBtn = e.target.closest(".ws-tab[data-ws-tab]");
+    if(tabBtn){
+      var tool = tabBtn.getAttribute("data-ws-tool");
+      wsSwitchTab(tool, tabBtn.getAttribute("data-ws-tab"));
+      return;
+    }
+    var gotoBtn = e.target.closest("[data-ws-goto-drafts]");
+    if(gotoBtn){
+      wsSwitchTab(gotoBtn.getAttribute("data-ws-goto-drafts"), "drafts");
+      return;
+    }
+    var viewFeedbackBtn = e.target.closest("[data-ws-view-feedback]");
+    if(viewFeedbackBtn){
+      var tool2 = viewFeedbackBtn.getAttribute("data-ws-view-feedback");
+      var resultsEl = document.getElementById(tool2+"-results");
+      if(resultsEl){
+        resultsEl.hidden = false;
+        resultsEl.scrollIntoView({behavior:"smooth", block:"start"});
+      }
+      return;
+    }
+  });
+})();
+
 /* ---------------- Extended Essay tool (AI feedback via the artifact
    "sample" capability -- asks the viewer's own Claude account) ---------------- */
 var eeAvailable = true;
+
+function eeLoadWorkspace(){ return wsLoad("ee"); }
+
+function eeRenderOverview(){
+  var state = eeLoadWorkspace();
+  var subjectEl = document.getElementById("ee-ov-subject");
+  var rqEl = document.getElementById("ee-ov-rq");
+  var subtitleEl = document.getElementById("ee-ws-subtitle");
+  var titleEl = document.getElementById("ee-ws-title");
+  if(subjectEl){ subjectEl.textContent = state.subject || "Not set yet"; subjectEl.className = "ws-field-value"+(state.subject?"":" empty"); }
+  if(rqEl){ rqEl.textContent = state.focus || "Not set yet"; rqEl.className = "ws-field-value"+(state.focus?"":" empty"); }
+  if(titleEl) titleEl.textContent = state.subject ? (state.subject+" Extended Essay") : "Extended Essay";
+  if(subtitleEl){
+    subtitleEl.textContent = state.subject
+      ? (state.subject+" \u00B7 EE"+(state.drafts.length ? " \u00B7 "+state.drafts.length+" draft"+(state.drafts.length===1?"":"s") : ""))
+      : "Set your subject to begin";
+  }
+  wsRenderSteps("ee", state, "Research Question");
+  wsRenderDrafts("ee", state, (state.subject||"Extended")+" Essay Draft");
+  wsRenderSources("ee", state);
+  var last = state.drafts.length ? state.drafts[state.drafts.length-1] : null;
+  wsRenderGradingSummary("ee", last ? last.grading : null, last && last.grading ? last.grading.topPriority : null);
+}
+
+function eeLoadFieldsFromWorkspace(){
+  var state = eeLoadWorkspace();
+  var guideEl = document.getElementById("ee-guide");
+  var subjectEl = document.getElementById("ee-subject");
+  var rqEl = document.getElementById("ee-rq");
+  var textEl = document.getElementById("ee-text");
+  var rppfEl = document.getElementById("ee-rppf");
+  if(guideEl && state.guide) guideEl.value = state.guide;
+  if(subjectEl) subjectEl.value = state.subject || "";
+  if(rqEl) rqEl.value = state.focus || "";
+  if(state.drafts.length){
+    var last = state.drafts[state.drafts.length-1];
+    if(textEl && !textEl.value) textEl.value = last.text || "";
+    if(rppfEl && !rppfEl.value) rppfEl.value = last.reflections || "";
+  }
+  if(textEl) textEl.dispatchEvent(new Event("input"));
+  if(rppfEl) rppfEl.dispatchEvent(new Event("input"));
+}
+
+function eeSaveDetails(){
+  var state = eeLoadWorkspace();
+  var guideEl = document.getElementById("ee-guide");
+  var subjectEl = document.getElementById("ee-subject");
+  var rqEl = document.getElementById("ee-rq");
+  state.guide = guideEl ? guideEl.value : state.guide;
+  state.subject = subjectEl ? subjectEl.value.trim() : state.subject;
+  state.focus = rqEl ? rqEl.value.trim() : state.focus;
+  wsSave("ee", state);
+  eeRenderOverview();
+}
 
 function goEE(){
   hideAllViews();
@@ -20787,6 +21275,9 @@ function goEE(){
   els.crumbs.hidden = true;
   els.crumbs.innerHTML = "";
   checkEEAvailability();
+  eeLoadFieldsFromWorkspace();
+  eeRenderOverview();
+  wsSwitchTab("ee", "overview");
 }
 
 function eeEsc(str){
@@ -21316,8 +21807,7 @@ function eeRenderResults(data, guide){
   html += '</div>';
 
   resultsEl.innerHTML = html;
-  resultsEl.hidden = false;
-  resultsEl.scrollIntoView({behavior:"smooth", block:"start"});
+  resultsEl.hidden = true;
 }
 
 var eeAbortCtl = null;
@@ -21370,6 +21860,7 @@ async function eeRunFeedback(){
   try{
     var data = await sample.json(prompt, { modelTier:"complex", signal:eeAbortCtl.signal, cache:false });
     eeRenderResults(data, guide);
+    eeSaveDraft(essay, reflections, data);
     statusEl.hidden = true;
   }catch(e){
     statusEl.hidden = false;
@@ -21381,9 +21872,24 @@ async function eeRunFeedback(){
   }
 }
 
+function eeSaveDraft(essay, reflections, data){
+  var state = eeLoadWorkspace();
+  var criteria = Array.isArray(data.criteria) ? data.criteria : [];
+  var totalEst = 0, totalMax = 0;
+  criteria.forEach(function(c){ totalEst += Number(c.estimatedMarks)||0; totalMax += Number(c.maxMarks)||0; });
+  var grading = {
+    totalEst: totalEst,
+    totalMax: totalMax,
+    predictedGrade: (typeof data.predictedGrade==="string" && /^[A-E]$/.test(data.predictedGrade)) ? data.predictedGrade : null,
+    topPriority: Array.isArray(data.topPriorities) && data.topPriorities.length ? data.topPriorities[0] : null
+  };
+  state.drafts.push({ wordCount: eeCountWords(essay), savedAt: Date.now(), text: essay, reflections: reflections, grading: grading });
+  wsSave("ee", state);
+  eeRenderOverview();
+}
+
 function eeDelete(){
   var textEl = document.getElementById("ee-text");
-  var subjectEl = document.getElementById("ee-subject");
   var rppfEl = document.getElementById("ee-rppf");
   var statusEl = document.getElementById("ee-status");
   var resultsEl = document.getElementById("ee-results");
@@ -21396,7 +21902,6 @@ function eeDelete(){
   if(eeAbortCtl) eeAbortCtl.abort();
 
   textEl.value = "";
-  subjectEl.value = "";
   if(rppfEl) rppfEl.value = "";
   resultsEl.hidden = true;
   resultsEl.innerHTML = "";
@@ -21441,6 +21946,457 @@ function eeDelete(){
   if(deleteBtn) deleteBtn.addEventListener("click", eeDelete);
   var stopBtn = document.getElementById("ee-stop");
   if(stopBtn) stopBtn.addEventListener("click", function(){ if(eeAbortCtl) eeAbortCtl.abort(); });
+
+  ["ee-guide","ee-subject","ee-rq"].forEach(function(id){
+    var el = document.getElementById(id);
+    if(el) el.addEventListener("change", eeSaveDetails);
+  });
+  var subjectInput = document.getElementById("ee-subject");
+  if(subjectInput) subjectInput.addEventListener("blur", eeSaveDetails);
+  var rqInput = document.getElementById("ee-rq");
+  if(rqInput) rqInput.addEventListener("blur", eeSaveDetails);
+
+  var sourceInput = document.getElementById("ee-source-input");
+  var sourceAddBtn = document.getElementById("ee-source-add");
+  function addEESource(){
+    if(!sourceInput || !sourceInput.value.trim()) return;
+    var state = eeLoadWorkspace();
+    state.sources.push(sourceInput.value.trim());
+    wsSave("ee", state);
+    sourceInput.value = "";
+    wsRenderSources("ee", state);
+  }
+  if(sourceAddBtn) sourceAddBtn.addEventListener("click", addEESource);
+  if(sourceInput) sourceInput.addEventListener("keydown", function(e){ if(e.key==="Enter"){ e.preventDefault(); addEESource(); } });
+  var sourceListEl = document.getElementById("ee-source-list");
+  if(sourceListEl){
+    sourceListEl.addEventListener("click", function(e){
+      var btn = e.target.closest("[data-ws-remove-source]");
+      if(!btn) return;
+      var idx = Number(btn.getAttribute("data-ws-remove-source"));
+      var state = eeLoadWorkspace();
+      state.sources.splice(idx, 1);
+      wsSave("ee", state);
+      wsRenderSources("ee", state);
+    });
+  }
+})();
+
+/* ---------------- Internal Assessment tool (AI feedback via the artifact
+   "sample" capability). Two subjects, structurally different: Biology is
+   one investigation; Economics is a portfolio of three commentaries, each
+   stored and graded as its own workspace slot. Criteria are compiled from
+   cross-checked secondary sources (ibo.org blocks automated access), not
+   a verified primary-source fetch like the Extended Essay guides. ---------------- */
+var iaAvailable = true;
+var iaAbortCtl = null;
+
+function iaCriteriaInfo(subject){
+  if(subject==="economics"){
+    return {
+      focusLabel: "Which article/topic is this commentary about?",
+      textLabel: "Your commentary text",
+      wordLimit: 800,
+      totalMarks: 14,
+      unitLabel: "this commentary",
+      confidenceNote: "Economics IA criteria here are compiled from published secondary summaries, since ibo.org blocks automated access -- structure and mark totals are cross-checked across sources, but treat exact descriptor wording as paraphrase, not verbatim official text.",
+      criteriaText:
+        "This is one of three commentaries in an IB Economics Internal Assessment portfolio, each based on a "+
+        "published news article and marked out of 14. A fourth, portfolio-level criterion (F: Rubric "+
+        "Requirements, 3 marks -- word counts respected, three distinct/recent articles, three distinct key "+
+        "concepts across the whole portfolio) cannot be assessed from a single commentary and is not scored "+
+        "here.\n\n"+
+        "A. Diagrams (0-3 marks) -- relevant, accurate, correctly labelled economic diagram(s) that are "+
+        "explicitly explained and clearly connected to the article and the analysis.\n"+
+        "B. Terminology (0-2 marks) -- correct, relevant use of economic terms appropriate to the syllabus "+
+        "section being addressed.\n"+
+        "C. Application and Analysis (0-3 marks) -- economic theory applied specifically to the article's "+
+        "real situation, with a clear chain of reasoning, not just theory recited in the abstract.\n"+
+        "D. Key Concept (0-3 marks) -- the student's chosen key concept (e.g. scarcity, efficiency, equity, "+
+        "sustainability, intervention, change) used as a genuine analytical lens throughout the commentary, "+
+        "not just named once.\n"+
+        "E. Evaluation (0-3 marks) -- balanced, reasoned judgement (e.g. weighing stakeholders, short vs "+
+        "long run, alternative policies) rather than an unsupported opinion tacked on at the end.\n",
+      schemaText:
+        "{\"key\":\"A\",\"name\":\"Diagrams\",\"maxMarks\":3,\"estimatedMarks\":<int 0-3>,\"comment\":\"<2-3 sentence assessment>\",\"suggestions\":[\"<specific actionable suggestion>\",\"...\"]},"+
+        "{\"key\":\"B\",\"name\":\"Terminology\",\"maxMarks\":2,\"estimatedMarks\":<int 0-2>,\"comment\":\"...\",\"suggestions\":[\"...\"]},"+
+        "{\"key\":\"C\",\"name\":\"Application and Analysis\",\"maxMarks\":3,\"estimatedMarks\":<int 0-3>,\"comment\":\"...\",\"suggestions\":[\"...\"]},"+
+        "{\"key\":\"D\",\"name\":\"Key Concept\",\"maxMarks\":3,\"estimatedMarks\":<int 0-3>,\"comment\":\"...\",\"suggestions\":[\"...\"]},"+
+        "{\"key\":\"E\",\"name\":\"Evaluation\",\"maxMarks\":3,\"estimatedMarks\":<int 0-3>,\"comment\":\"...\",\"suggestions\":[\"...\"]}"
+    };
+  }
+  return {
+    focusLabel: "Research question",
+    textLabel: "Your IA text",
+    wordLimit: 3000,
+    totalMarks: 24,
+    unitLabel: "this investigation",
+    confidenceNote: "Biology IA criteria here reflect the rubric introduced alongside the new Biology syllabus (first assessment 2025), compiled from published secondary summaries since ibo.org blocks automated access -- structure and mark totals are cross-checked across sources, but treat exact descriptor wording as paraphrase, not verbatim official text.",
+    criteriaText:
+      "A. Research Design (0-6 marks) -- a focused, answerable research question that names the variables "+
+      "being investigated; relevant background theory; a justified method appropriate to the question; "+
+      "sensible scope and sampling; identification and control of relevant variables; safety, ethical and "+
+      "environmental considerations addressed; enough detail for the method to be reproducible.\n"+
+      "B. Data Analysis (0-6 marks) -- data recorded and processed correctly, with consistent units, "+
+      "appropriate significant figures, and uncertainties handled properly; no major errors in calculations "+
+      "or data handling; trends, patterns and anomalies correctly identified.\n"+
+      "C. Conclusion (0-6 marks) -- a conclusion that directly answers the research question and is "+
+      "consistent with the data actually collected; compared against accepted scientific literature with "+
+      "proper citation; interpretation that accounts for the uncertainty in the data.\n"+
+      "D. Evaluation (0-6 marks) -- honest identification of the method's real strengths and weaknesses; "+
+      "clear explanation of how specific limitations affect the scope/reliability of the conclusion; "+
+      "realistic, specific improvements tied to the weaknesses identified, not generic \"use more trials\".\n",
+    schemaText:
+      "{\"key\":\"A\",\"name\":\"Research Design\",\"maxMarks\":6,\"estimatedMarks\":<int 0-6>,\"comment\":\"<2-3 sentence assessment>\",\"suggestions\":[\"<specific actionable suggestion>\",\"...\"]},"+
+      "{\"key\":\"B\",\"name\":\"Data Analysis\",\"maxMarks\":6,\"estimatedMarks\":<int 0-6>,\"comment\":\"...\",\"suggestions\":[\"...\"]},"+
+      "{\"key\":\"C\",\"name\":\"Conclusion\",\"maxMarks\":6,\"estimatedMarks\":<int 0-6>,\"comment\":\"...\",\"suggestions\":[\"...\"]},"+
+      "{\"key\":\"D\",\"name\":\"Evaluation\",\"maxMarks\":6,\"estimatedMarks\":<int 0-6>,\"comment\":\"...\",\"suggestions\":[\"...\"]}"
+  };
+}
+
+function iaBuildPrompt(text, subject, focus){
+  var info = iaCriteriaInfo(subject);
+  var focusLine = focus ? (info.focusLabel+": "+focus+"\n") : "";
+  var subjectName = subject==="economics" ? "Economics" : "Biology";
+  return "You are an experienced IB "+subjectName+" Internal Assessment examiner. Assess "+info.unitLabel+
+    " against the official IB Internal Assessment criteria ("+info.totalMarks+" marks"+
+    (subject==="economics" ? " for this commentary" : "")+").\n\n"+
+    "Criteria to assess:\n"+info.criteriaText+"\n"+
+    focusLine+
+    "Word count: approximately "+eeCountWords(text)+" words (the limit is "+info.wordLimit+" words"+
+    (subject==="economics" ? ", excluding diagrams, labels and references" : "")+").\n\n"+
+    "Text:\n\"\"\"\n"+text+"\n\"\"\"\n\n"+
+    "Reply with ONLY a JSON object with this exact shape, no other text:\n"+
+    "{\"criteria\":["+info.schemaText+"],"+
+    "\"topStrengths\":[\"<specific strength>\",\"...\"],"+
+    "\"topPriorities\":[\"<specific, actionable priority to fix next>\",\"...\"],"+
+    "\"overallSummary\":\"<3-4 sentence overall assessment written directly to the student>\"}\n\n"+
+    "Be specific and reference actual content from the text in your comments and suggestions rather than "+
+    "generic advice. Be honest and critical where warranted -- do not inflate marks.";
+}
+
+function iaRenderResults(data, subject){
+  var resultsEl = document.getElementById("ia-results");
+  var info = iaCriteriaInfo(subject);
+  var criteria = Array.isArray(data.criteria) ? data.criteria : [];
+  var totalEst = 0, totalMax = 0;
+  criteria.forEach(function(c){ totalEst += Number(c.estimatedMarks)||0; totalMax += Number(c.maxMarks)||0; });
+  var pct = totalMax>0 ? Math.round(totalEst/totalMax*100) : 0;
+  var label = eeQualityLabel(pct);
+
+  var html = "";
+  html += '<div class="ee-overall">';
+  html += '  <div class="ee-overall-score"><span class="ee-overall-num">'+totalEst+'</span><span class="ee-overall-of">/ '+totalMax+'</span></div>';
+  html += '  <div class="ee-overall-meta"><span class="ee-overall-label">'+eeEsc(label)+'</span><p class="ee-overall-summary">'+eeEsc(data.overallSummary)+'</p></div>';
+  html += '</div>';
+  var extraNote = subject==="economics" ? " This score covers only this one commentary (14 marks) -- the portfolio-level Criterion F (3 marks, checked once across all three commentaries) isn't included here." : "";
+  html += '<p class="ee-scale-note">'+eeEsc(info.confidenceNote+extraNote)+' This is an AI estimate to guide revision, not an official IB mark.</p>';
+
+  html += '<div class="ee-criteria-grid">';
+  criteria.forEach(function(c){
+    html += '<div class="ee-criterion-card">';
+    html += '  <div class="ee-criterion-head"><span class="ee-criterion-key">'+eeEsc(c.key)+'</span><span class="ee-criterion-name">'+eeEsc(c.name)+'</span><span class="ee-criterion-marks">'+(Number(c.estimatedMarks)||0)+' / '+(Number(c.maxMarks)||0)+'</span></div>';
+    html += '  <p class="ee-criterion-comment">'+eeEsc(c.comment)+'</p>';
+    if(Array.isArray(c.suggestions) && c.suggestions.length){
+      html += '  <ul class="ee-criterion-suggestions">';
+      c.suggestions.forEach(function(s){ html += '<li>'+eeEsc(s)+'</li>'; });
+      html += '  </ul>';
+    }
+    html += '</div>';
+  });
+  html += '</div>';
+
+  html += '<div class="ee-lists">';
+  html += '  <div class="ee-list-col"><h3>Strengths</h3><ul>'+(Array.isArray(data.topStrengths)?data.topStrengths:[]).map(function(s){ return '<li>'+eeEsc(s)+'</li>'; }).join('')+'</ul></div>';
+  html += '  <div class="ee-list-col"><h3>Priorities to fix next</h3><ul>'+(Array.isArray(data.topPriorities)?data.topPriorities:[]).map(function(s){ return '<li>'+eeEsc(s)+'</li>'; }).join('')+'</ul></div>';
+  html += '</div>';
+
+  resultsEl.innerHTML = html;
+  resultsEl.hidden = true;
+}
+
+function iaSaveSelection(subject, commentary){
+  try{ localStorage.setItem("ib-ws-ia-selection", JSON.stringify({subject:subject, commentary:commentary})); }catch(e){ /* ignore */ }
+}
+function iaLoadSelection(){
+  try{
+    var raw = localStorage.getItem("ib-ws-ia-selection");
+    return raw ? JSON.parse(raw) : {subject:"", commentary:"1"};
+  }catch(e){ return {subject:"", commentary:"1"}; }
+}
+
+function iaCurrentToolKey(){
+  var subjectEl = document.getElementById("ia-subject");
+  var subject = subjectEl ? subjectEl.value : "";
+  if(subject==="economics"){
+    var commEl = document.getElementById("ia-commentary");
+    return "ia-economics-"+(commEl ? commEl.value : "1");
+  }
+  if(subject==="biology") return "ia-biology";
+  return "ia-unset";
+}
+
+function iaLoadWorkspace(){ return wsLoad(iaCurrentToolKey()); }
+
+function iaUpdateFieldLabels(){
+  var subjectEl = document.getElementById("ia-subject");
+  var subject = subjectEl ? subjectEl.value : "";
+  var info = subject ? iaCriteriaInfo(subject) : null;
+  var focusLabelEl = document.getElementById("ia-focus-field-label");
+  var focusInput = document.getElementById("ia-focus");
+  var textLabelEl = document.getElementById("ia-text-field-label");
+  var textArea = document.getElementById("ia-text");
+  if(focusLabelEl) focusLabelEl.textContent = info ? info.focusLabel : "Research question / focus of investigation";
+  if(textLabelEl) textLabelEl.textContent = info ? info.textLabel : "Your IA text";
+  if(focusInput) focusInput.placeholder = subject==="economics"
+    ? "e.g. Central bank raises interest rates to combat inflation (Reuters, March 2026)"
+    : "e.g. How does light intensity affect the rate of photosynthesis in Elodea?";
+  if(textArea) textArea.placeholder = subject
+    ? "Paste your "+(subject==="economics"?"commentary":"IA")+" text here\u2026"
+    : "Choose a subject above, then paste your IA text here\u2026";
+}
+
+function iaLoadFieldsFromWorkspace(){
+  var state = iaLoadWorkspace();
+  var focusEl = document.getElementById("ia-focus");
+  var textEl = document.getElementById("ia-text");
+  if(focusEl) focusEl.value = state.focus || "";
+  if(textEl) textEl.value = state.drafts.length ? (state.drafts[state.drafts.length-1].text || "") : "";
+  if(textEl) textEl.dispatchEvent(new Event("input"));
+}
+
+function iaRenderOverview(){
+  var subjectEl = document.getElementById("ia-subject");
+  var subject = subjectEl ? subjectEl.value : "";
+  var state = iaLoadWorkspace();
+  var subjectDisplay = subject ? (subject.charAt(0).toUpperCase()+subject.slice(1)) : "";
+  if(subject==="economics"){
+    var commEl = document.getElementById("ia-commentary");
+    subjectDisplay += " \u00B7 Commentary "+(commEl ? commEl.value : "1");
+  }
+  var subjLabelEl = document.getElementById("ia-ov-subject");
+  var focusEl = document.getElementById("ia-ov-focus");
+  var titleEl = document.getElementById("ia-ws-title");
+  var subtitleEl = document.getElementById("ia-ws-subtitle");
+  if(subjLabelEl){ subjLabelEl.textContent = subjectDisplay || "Not set yet"; subjLabelEl.className = "ws-field-value"+(subjectDisplay?"":" empty"); }
+  if(focusEl){ focusEl.textContent = state.focus || "Not set yet"; focusEl.className = "ws-field-value"+(state.focus?"":" empty"); }
+  if(titleEl) titleEl.textContent = subjectDisplay ? (subjectDisplay+" Internal Assessment") : "Internal Assessment";
+  if(subtitleEl){
+    subtitleEl.textContent = subjectDisplay
+      ? (subjectDisplay+" \u00B7 IA"+(state.drafts.length ? " \u00B7 "+state.drafts.length+" draft"+(state.drafts.length===1?"":"s") : ""))
+      : "Set your subject to begin";
+  }
+  wsRenderSteps("ia", state, "Focus");
+  wsRenderDrafts("ia", state, (subjectDisplay||"IA")+" Draft");
+  wsRenderSources("ia", state);
+  var last = state.drafts.length ? state.drafts[state.drafts.length-1] : null;
+  wsRenderGradingSummary("ia", last ? last.grading : null, last && last.grading ? last.grading.topPriority : null);
+}
+
+function iaSaveDetails(){
+  var subjectEl = document.getElementById("ia-subject");
+  var focusEl = document.getElementById("ia-focus");
+  var state = iaLoadWorkspace();
+  state.subject = subjectEl ? subjectEl.value : state.subject;
+  state.focus = focusEl ? focusEl.value.trim() : state.focus;
+  wsSave(iaCurrentToolKey(), state);
+  iaRenderOverview();
+}
+
+function iaOnSubjectOrCommentaryChange(){
+  var subjectEl = document.getElementById("ia-subject");
+  var commEl = document.getElementById("ia-commentary");
+  var commRow = document.getElementById("ia-commentary-row");
+  var subject = subjectEl ? subjectEl.value : "";
+  var commentary = commEl ? commEl.value : "1";
+  if(commRow) commRow.hidden = subject !== "economics";
+  iaSaveSelection(subject, commentary);
+  iaUpdateFieldLabels();
+  iaLoadFieldsFromWorkspace();
+  iaSaveDetails();
+}
+
+async function checkIAAvailability(){
+  var statusEl = document.getElementById("ia-status");
+  var submitBtn = document.getElementById("ia-submit");
+  var sample = await eeGetSample();
+  if(!sample){
+    iaAvailable = false;
+    if(statusEl){ statusEl.hidden = false; statusEl.textContent = "AI feedback isn't available in this view \u2014 open this page from its published link to use it."; }
+    if(submitBtn) submitBtn.disabled = true;
+  }
+}
+
+function goIA(){
+  hideAllViews();
+  els.viewIA.hidden = false;
+  els.siteHeader.hidden = true;
+  els.crumbs.hidden = true;
+  els.crumbs.innerHTML = "";
+  checkIAAvailability();
+  var sel = iaLoadSelection();
+  var subjectEl = document.getElementById("ia-subject");
+  var commEl = document.getElementById("ia-commentary");
+  var commRow = document.getElementById("ia-commentary-row");
+  if(subjectEl) subjectEl.value = sel.subject || "";
+  if(commEl) commEl.value = sel.commentary || "1";
+  if(commRow) commRow.hidden = sel.subject !== "economics";
+  iaUpdateFieldLabels();
+  iaLoadFieldsFromWorkspace();
+  iaRenderOverview();
+  wsSwitchTab("ia", "overview");
+}
+
+async function iaRunFeedback(){
+  var subjectEl = document.getElementById("ia-subject");
+  var focusEl = document.getElementById("ia-focus");
+  var textEl = document.getElementById("ia-text");
+  var statusEl = document.getElementById("ia-status");
+  var resultsEl = document.getElementById("ia-results");
+  var submitBtn = document.getElementById("ia-submit");
+  var stopBtn = document.getElementById("ia-stop");
+
+  var subject = subjectEl ? subjectEl.value : "";
+  if(!subject){
+    statusEl.hidden = false;
+    statusEl.textContent = "Choose a subject first \u2014 IA criteria differ significantly between subjects.";
+    subjectEl.focus();
+    return;
+  }
+
+  var text = textEl.value.trim();
+  if(eeCountWords(text) < 100){
+    statusEl.hidden = false;
+    statusEl.textContent = "Paste more of your "+(subject==="economics"?"commentary":"IA")+" first \u2014 there isn't enough text here to assess yet.";
+    return;
+  }
+
+  var sample = await eeGetSample();
+  if(!sample){
+    iaAvailable = false;
+    statusEl.hidden = false;
+    statusEl.textContent = "AI feedback isn't available in this view \u2014 open this page from its published link to use it.";
+    submitBtn.disabled = true;
+    return;
+  }
+
+  var focus = focusEl ? focusEl.value.trim() : "";
+  var prompt = iaBuildPrompt(text, subject, focus);
+
+  submitBtn.disabled = true;
+  stopBtn.hidden = false;
+  statusEl.hidden = false;
+  statusEl.textContent = "Reading your work and comparing it against the IB criteria \u2014 this can take up to a minute.";
+  resultsEl.hidden = true;
+
+  iaAbortCtl = new AbortController();
+  try{
+    var data = await sample.json(prompt, { modelTier:"complex", signal:iaAbortCtl.signal, cache:false });
+    iaRenderResults(data, subject);
+    iaSaveDraft(text, data);
+    statusEl.hidden = true;
+  }catch(e){
+    statusEl.hidden = false;
+    statusEl.textContent = eeErrorMessage(e);
+  }finally{
+    submitBtn.disabled = false;
+    stopBtn.hidden = true;
+    iaAbortCtl = null;
+  }
+}
+
+function iaSaveDraft(text, data){
+  var state = iaLoadWorkspace();
+  var criteria = Array.isArray(data.criteria) ? data.criteria : [];
+  var totalEst = 0, totalMax = 0;
+  criteria.forEach(function(c){ totalEst += Number(c.estimatedMarks)||0; totalMax += Number(c.maxMarks)||0; });
+  var grading = {
+    totalEst: totalEst,
+    totalMax: totalMax,
+    topPriority: Array.isArray(data.topPriorities) && data.topPriorities.length ? data.topPriorities[0] : null
+  };
+  state.drafts.push({ wordCount: eeCountWords(text), savedAt: Date.now(), text: text, grading: grading });
+  wsSave(iaCurrentToolKey(), state);
+  iaRenderOverview();
+}
+
+function iaDelete(){
+  var textEl = document.getElementById("ia-text");
+  var statusEl = document.getElementById("ia-status");
+  var resultsEl = document.getElementById("ia-results");
+  var submitBtn = document.getElementById("ia-submit");
+  var wcEl = document.getElementById("ia-wordcount");
+  var wcNoteEl = document.getElementById("ia-wordcount-note");
+  if(iaAbortCtl) iaAbortCtl.abort();
+  textEl.value = "";
+  resultsEl.hidden = true;
+  resultsEl.innerHTML = "";
+  statusEl.hidden = true;
+  statusEl.textContent = "";
+  wcEl.textContent = "0 words";
+  wcNoteEl.textContent = "";
+  submitBtn.disabled = !iaAvailable;
+  textEl.focus();
+}
+
+(function wireIATool(){
+  var openBtn = document.getElementById("btn-open-ia-tool");
+  if(openBtn) openBtn.addEventListener("click", function(e){ e.preventDefault(); goIA(); });
+  var homeBtn = document.getElementById("ia-home-btn");
+  if(homeBtn) homeBtn.addEventListener("click", goHome);
+
+  var subjectEl = document.getElementById("ia-subject");
+  if(subjectEl) subjectEl.addEventListener("change", iaOnSubjectOrCommentaryChange);
+  var commEl = document.getElementById("ia-commentary");
+  if(commEl) commEl.addEventListener("change", iaOnSubjectOrCommentaryChange);
+  var focusEl = document.getElementById("ia-focus");
+  if(focusEl) focusEl.addEventListener("blur", iaSaveDetails);
+  if(focusEl) focusEl.addEventListener("change", iaSaveDetails);
+
+  var textEl = document.getElementById("ia-text");
+  if(textEl){
+    textEl.addEventListener("input", function(){
+      var wc = eeCountWords(textEl.value);
+      var wcEl = document.getElementById("ia-wordcount");
+      var noteEl = document.getElementById("ia-wordcount-note");
+      var subjectElNow = document.getElementById("ia-subject");
+      var info = subjectElNow && subjectElNow.value ? iaCriteriaInfo(subjectElNow.value) : null;
+      wcEl.textContent = wc+" word"+(wc===1?"":"s");
+      noteEl.textContent = (info && wc>info.wordLimit) ? ("Over the "+info.wordLimit+"-word limit") : "";
+    });
+  }
+
+  var submitBtn = document.getElementById("ia-submit");
+  if(submitBtn) submitBtn.addEventListener("click", iaRunFeedback);
+  var deleteBtn = document.getElementById("ia-delete");
+  if(deleteBtn) deleteBtn.addEventListener("click", iaDelete);
+  var stopBtn = document.getElementById("ia-stop");
+  if(stopBtn) stopBtn.addEventListener("click", function(){ if(iaAbortCtl) iaAbortCtl.abort(); });
+
+  var sourceInput = document.getElementById("ia-source-input");
+  var sourceAddBtn = document.getElementById("ia-source-add");
+  function addIASource(){
+    if(!sourceInput || !sourceInput.value.trim()) return;
+    var state = iaLoadWorkspace();
+    state.sources.push(sourceInput.value.trim());
+    wsSave(iaCurrentToolKey(), state);
+    sourceInput.value = "";
+    wsRenderSources("ia", state);
+  }
+  if(sourceAddBtn) sourceAddBtn.addEventListener("click", addIASource);
+  if(sourceInput) sourceInput.addEventListener("keydown", function(e){ if(e.key==="Enter"){ e.preventDefault(); addIASource(); } });
+  var sourceListEl = document.getElementById("ia-source-list");
+  if(sourceListEl){
+    sourceListEl.addEventListener("click", function(e){
+      var btn = e.target.closest("[data-ws-remove-source]");
+      if(!btn) return;
+      var idx = Number(btn.getAttribute("data-ws-remove-source"));
+      var state = iaLoadWorkspace();
+      state.sources.splice(idx, 1);
+      wsSave(iaCurrentToolKey(), state);
+      wsRenderSources("ia", state);
+    });
+  }
 })();
 
 function handleChapterListClick(e){
