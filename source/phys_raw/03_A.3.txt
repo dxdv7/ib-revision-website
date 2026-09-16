@@ -1,0 +1,1324 @@
+=== PAGE 109 ===
+Work, energy and power 
+
+=== PAGE 110 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+64 
+• 
+0 
+◄ 
+A Rube Go ldberg machine starts with a small action (like the pressing o f a button o r the knocking 
+over of a domino tile) that sets off a chain reaction of different events. which continues for an 
+extended time. Objects that are stretched, at a height, o r moving. combine - often with entertaining 
+consequences (as seen in films, music videos, advertisements and social media). 
+Guiding Questions 
+How are concepts of work, energy and power used to predict changes within 
+a system? 
+How can a consideration of energetics be used as a method to solve problems 
+in kinematics? 
+How can transfer of energy be used to do work? 
+If body A pushes body B, body B may start to move. This movement might cause body 
+B to hit body C, after which, body C moves toward body D (you get the idea). The 
+'ability to push' seems to be passed on from one object to another. We call this energy, 
+and the fact that it is conserved can lead to a simple way of solving problems that 
+bypasses all the complications of forces and motion. 
+For example, when calculating the final velocity of a box pushed up a slope by a 
+constant force, we need to find the component of force up the slope, use that to find 
+acceleration, and then apply the suvat equations to calculate final velocity. Or, using 
+conservation of energy, we can state that the gain in potential energy and kinetic 
+energy is equal to the work done. 
+It is the same when we study gases. It is much easier to understand how work done on 
+a gas increases its temperature than to model the motion of each molecule. 
+Students should understand: 
+the principle of the conservation of energy 
+work done by a force is equivalent to a transfer of energy 
+energy transfers can be represented on a Sankey diagram 
+work W done on a body by a constant force depends on the component of the force along the 
+line of displacement as given by W = Fs cos 0 
+work done by the resultant force on a system is equal to the change in the energy of the system 
+mechanical energy is the sum of kinetic energy, gravitational potential energy and elastic 
+potential energy 
+in the absence of frictional, resistive forces, the total mechanical energy of a system is 
+conserved 
+if mechanical energy is conserved, work is the amount of energy transformed between 
+different forms of mechanical energy in a system, such as: 
+. the kinetic energy of translational motion as given by Ek =½ m 112 = ;,:, 
+. the gravitational potential energy, when close to the surface of the Earth, as given by: 
+t:.EP =mgt:.h 
+. the elastic potential energy as given by EH= ½kt:.x2 
+
+=== PAGE 111 ===
+power P is the rate of work done, or the rate of energy transfer, as given by P = f = Fv 
+E 
+p 
+ffj 
+f 
+f, 
+'"'P" 
+""'I"'' 
+e 1Ciency I/ in terms o energy trans er or power as given by 17 = y--- = y-
+inpul 
+inpul 
+energy density of the fuel sources. 
+Nature of Science 
+Scientists should remain skeptical but that does not mean you have to doubt 
+everything you read. The law of conservation of energy is supported by many 
+experiments and is the basis of countless predictions that turn out to be true. 
+If someone now found that energy was not conserved, there would be a lot 
+of explaining to do. Once a law is accepted, it gives us an easy way to make 
+predictions. For example, if you are shown a device that produces energy from 
+nowhere, you know it must be a fake without even finding out how it works 
+because it violates the law of conservation of energy. 
+In A. l and A.2, we dealt with the motion of a small red ball and now understand what 
+causes acceleration. We have also investigated the interaction between a red ball and 
+a blue one and have seen that the red one can cause the blue one to move when they 
+collide. But what enables the red one to push the blue one? To answer this question, we 
+need to define some more quantities. 
+Work 
+In the introduction to this book, it was stated that by developing models, our aim is 
+to understand the physical world so that we can make predictions. At this point, you 
+should understand certain concepts related to the collision between two balls, but we 
+still cannot predict the outcome. To illustrate this point, let us again consider the red 
+and blue balls. Figure 1 shows three possible outcomes of the collision. 
+If we apply the law of conservation of momentum, we realize that all three outcomes 
+are possible. The original momentum is 10 N sand the final momentum is 10 N s in all 
+three cases. But which one actually happens? This we cannot say (yet). All we know is 
+that from experience the last option is not possible - but why? 
+When body A hits body B, body A exerts a force on body B. This force causes B to have 
+an increase in velocity. The amount that the velocity increases depends on how big the 
+force is and over what distance the collision takes place. To make this simpler, consider 
+a constant force acting on two blocks as in Figure 2. 
+F 
+F 
+► 
+► 
+F 
+F 
+► 
+► 
+a. 
+b. 
+IOms-1 
+~ 
+e 0 
+IOOms-1 
+l lOms-1 
+C. ~ ~ 
+0 0 
+.. 
+A.3 Figure 1 The red ball 
+hits the blue ball but what 
+happens? 
+A.3 Figure 2 The force acts 
+on the orange block for a 
+greater distance. 
+65 
+
+=== PAGE 112 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+How do traveling waves 
+allow for a transfer 
+of energy without a 
+resultant displacement of 
+matter? (C2, A. 1) 
+66 
+Both blocks start at rest and are pulled by the same force, but the orange block will 
+gain more velocity because the force acts over a longer distance. To quantify this 
+difference, we say that in the case of the orange block, the force has done more work. 
+Work is done when the point of application of a force moves in the direction of the 
+force. 
+Work is defined in the following way: 
+work done = force x distance moved in the direction of the force 
+The unit of work is the newton meter (Nm), which is the same as the joule Q). 
+Work is a scalar quantity. 
+Worked example 
+A tractor pulls a felled tree along the ground 
+for a distance of 200 m. If the tractor exerts a 
+force of 5000 N, how much work will be done? 
+Solution 
+0 
+work done= force x distance moved in direction of force 
+work done = 5000 x 200 = 1 MJ 
+Worked example 
+;. 
+A force of 10 N is applied 
+to a block, pulling it 
+50 m along the ground as 
+shown. How much work is 
+done by the force? 
+~ ION 
+~
+ION 
+= 
++-----50m----+ 
+Solution 
+In this example, the force is not in the same direction as the movement. However, 
+the horizontal component of the force is 10 x cos 30°. 
+work done= 10 x cos 30° x 50 = 433 N 
+
+=== PAGE 113 ===
+Worked example 
+When a car brakes, it slows down due to the friction force between the tires 
+and the road. This force opposes the motion as shown. If the friction force is a 
+constant 500 N and the car comes to rest in 25 m, how much work is done by the 
+friction force? 
+500N 
+Solution 
+500N 
+-------25m--------+ 
+This time, the force is in the opposite direction to the motion. 
+work done = - 500 x 25 = - 12 500 J 
+The negative sign tells us that the car's kinetic energy is decreasing. The internal energy 
+of the brake disks has increased; positive work has been done on them by friction. 
+Worked example 
+The woman in the figure walks along with a constant 
+velocity holding a suitcase. 
+How much work is done by the force holding the case? 
+Solution 
+In this example, the force is acting perpendicular to the direction of motion, so 
+there is no movement in the direction of the force. 
+General formula 
+In general: 
+work done = zero 
+work = F cos e X l'!.s 
+where e is the angle between the displacement, l'!.s, and force, F3. 
+----- ~s --------+-
+It may seem strange 
+that when you carry a 
+heavy bag you are not 
+doing any work - that 
+is not what it feels like. 
+In reality. lots of work 
+is being done, since to 
+hold the bag you use 
+your muscles. Muscles 
+are made of microscopic 
+fibers, which are 
+continuously contracting 
+and relaxing, so are 
+doing work. 
+67 
+
+=== PAGE 114 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+force 
+F+------, 
++--tu --+ 
+distance 
+• 
+A.3 Figure 3 Force vs 
+distance for a constant force. 
+force 
+extension 
+• 
+A.3 Figure 4 Force vs 
+extension for a spring. 
+68 
+All the previous examples can be solved using this formula. 
+If 0 < 90°, cos 0 is positive so the work is positive. 
+If fJ"' 90°, cos fJ"' 0 so the work is zero. 
+If 0 > 90°, cos 0 is negative so the work is negative. 
+Exercise 
+QI. The figure shows a boy taking a dog for a walk. 
+(a) Calculate the work done by the force shown when the dog moves 
+lOmforward. 
+(b) Who is doing the work? 
+Q2. A bird weighing 200 g sits on a tree branch. How much work does the bird do 
+on the tree? 
+Q3. As a box slides along the floor, it is slowed down by a constant force due to 
+friction. If this force is 150 N and the box slides for 2 m, how much work is 
+done against the frictional force? 
+Graphical method for determining work done 
+Let us consider a constant force acting in the direction of movement pulling a body 
+a distance 1::,,.x. The graph of force against distance for this example is as shown in 
+Figure 3. From the definition of work, we know that work done= Fllx, which in this 
+case is the area under the graph. From this we can deduce that: 
+work done = area under force vs distance graph 
+Work done by a varying force 
+Stretching a spring is a common example of a varying force. When you stretch a 
+spring, it gets more and more difficult the longer it gets. Within certain limits, the force 
+needed to stretch the spring is directly proportional to the extension of the spring: 
+FH = kx. This was first recognized by Robert Hooke in 1676, so is named Hooke's law. 
+If we add different weights to a spring, the more weight we add, the longer it gets. If we 
+draw a graph of force against distance as we stretch a spring, it will look like the graph 
+F 
+in Figure 4. The gradient of this line, 8: is called the spring constant, k. 
+The work done as the spring is stretched is found by calculating the area under the 
+graph: 
+area = 2. base x height = 2. FH.llx 
+2 
+2 
+So: 
+I 
+work done= 2 FH~x 
+But if: 
+
+=== PAGE 115 ===
+Substituting for FH gives: 
+I 
+work done = 2 ktix2 
+This is equal to the elastic potential energy, EH 
+Exercise 
+Q4. A spring of spring constant 2 N cm-1 and length 6 cm is stretched to a new 
+length of 8 cm. 
+(a) How far has the spring been stretched? 
+(b) What force will be needed to hold the spring at this length? 
+(c) Sketch a graph of force against extension for this spring. 
+(d) Calculate the work done in stretching the spring. 
+(e) The spring is now stretched a further 2 cm. Draw a line on your graph to 
+represent this and calculate how much additional work has been done. 
+Q5. Calculate the work done by the force represented by the figure on the right. 
+Energy 
+We have seen that it is sometimes possible for body A to do work on body B, but what 
+does A have that enables it to do work on B? To answer this question, we must define a 
+new quantity: energy. 
+Energy is the quantity that enables body A to do work on body B. 
+If body A collides with body Bas shown in Figure 5, body A has done work on body B. 
+This means that body B can now do work on body C. Energy has been transferred from 
+A toB. 
+When body A does work on body B, ene,:gy is transferred from body A to body B. 
+The unit of energy is the joule 0)- Energy is a scalar quantity. 
+Different types of energy 
+If a body can do work, then it has energy. There are two ways that a simple body such 
+as a red ball can do work. In the example above, body A could do work because it 
+was moving - this is called kinetic energy. Figure 6 shows an example where A can 
+do work even though it is not moving. In this example, body A is able to do work on 
+body B because of its position above the Earth. If the hand is removed, body A will be 
+pulled downward by the force of gravity, and the string attached to it will then drag 
+body B along the table. If a body is able to do work because of its position, we say it has 
+potential energy. 
+5 
+10 
+distance (m) 
+V 
+~ 
+0 0 
+© 
+before A hits B 
+V 
+~ 
+0 0 0 
+after A hits B 
+A 
+A.3 Figure 5 The red ball 
+gives energy to the blue ball. 
+B 
+A 
+A.3 Figure 6 A has 
+potential energy that could 
+become kinetic energy. 
+69 
+
+=== PAGE 116 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+If we say a body has 
+potential energy, it 
+sounds as though it 
+has the potential to do 
+work. This is true, but 
+a body that is moving 
+has the potential to do 
+work too. This can lead 
+to misunderstanding. It 
+might have been better 
+to call it positional 
+energy 
+A.3 Figure 7 A ball gains 
+kinetic energy. 
+In this section. we only 
+deal with examples of 
+potential energy due to 
+a body's position close 
+to the Earth. However, 
+there are other positions 
+that will enable a body 
+to do work (for example, 
+in an electric field). 
+These will be introduced 
+after the concept 
+of fields has been 
+introduced. 
+Why is the equation 
+for the change in 
+gravitational potential 
+energy only relevant 
+close to the surface of 
+the Earth, and what 
+happens when moving 
+further away from the 
+surface? (D.1} 
+How is Kirchhoff's law 
+a consequence of the 
+law of conservation of 
+energy? (B.5} 
+70 
+Kinetic energy (EJ 
+This is the energy a body has due to its movement. To give a body kinetic energy, work 
+must be done on the body. The amount of work done will be equal to the increase in 
+kinetic energy. If a constant force acts on a red ball of mass mas shown in Figure 7, 
+then the work done is Fs. 
+V 
+time= 0 
+time=! 
+From Newton's second law, we know that F = ma, which we can substitute in work = Fs 
+to give work = mas. 
+We also know that since acceleration is constant, we can use the suvat equation 
+v2 = u2 + 2as, which since u = 0 simplifies to v2 = 2as. 
+v2 
+1 
+Rearranging this gives: as = 2 so work = 2 mv2 
+This work has increased the kinetic energy of the body so we can deduce that: 
+E 
+1 
+2 
+k = 2mv 
+Gravitational potential energy (Ep) 
+This is the energy a body has due to its position above the Earth. 
+For a body to have potential energy, it must have at some time been lifted to that 
+position. The amount of work done in lifting it equals the potential energy. Taking the 
+example shown in Figure 9, the work done in lifting the mass, m, to a height his mgh 
+(this assumes that the body is moving at a constant velocity so the lifting force and 
+weight are balanced). 
+If work is done on the body then energy is transferred so: 
+gain in EP = mgh 
+The law of conservation of energy 
+We could not have derived the equations for kinetic energy or potential energy without 
+assuming that the work done is the same as the gain in energy. The law of conservation 
+of energy is a formal statement of this fact. 
+Energy can neither be created nor destroyed; it can on!Y be transferred from one store to another. 
+This law is one of the most important laws that we use in physics. If it were not true, 
+you could suddenly find yourself at the top of the stairs without having done any work 
+in climbing them, or a car suddenly has a speed of 200 km h- 1 without anyone touching 
+the accelerator pedal. These things just do not happen, so the laws we use to describe 
+the physical world should reflect that. 
+
+=== PAGE 117 ===
+Looping the loop 
+\1/hen looping the loop on a rollercoaster, the situation is very similar to the vertical 
+circle example, except that the tension is replaced by the normal reaction force. This 
+also gives a minimum speed at the top of the loop when m;,' = F8• 
+h 
+~ 
+A.3 Figure 8 Looping the loop. 
+Applying the law of conservation of energy to the car in Figure 8, if no energy is lost, 
+then the EP at the top of the hill = EP + Ek at the top of the loop. 
+The minimum speed to complete the loop is mg= ~~
+2 so at the top of the loop: 
+1 
+1 
+2mv2 = 2mgr 
+The height of the car at the top of the loop is 2r so Er = mgh = mg2r. 
+So Er at top of slope = 2mgr + imgr = 2.5mgr, which means the height of the slope = 2.5r. 
+In any real situation, there will be energy lost due to work done against friction and air 
+resistance so the slope will have to be a bit higher. 
+Worked example 
+A ball of mass 200 g is thrown vertically upward with a 
+velocity of 2 m s-1 as shown in the figure. Use the law of 
+conservation of energy to calculate its maximum height. 
+Solution 
+i 
+2ms- 1 
+At the start of its motion, the body has kinetic energy. This enables the body to do 
+work against gravity as the ball travels upward. When the ball reaches the top, all 
+the kinetic energy has been transferred to potential energy. So applying the law of 
+conservation of energy: 
+So: 
+loss of Ek = gain in Er 
+1 
+2 mv2 = mgh 
+v2 
+22 
+h = 2g = 2 x 10 = 0.2m 
+This is exactly the same answer you would get by calculating the acceleration from 
+F = ma and using the suvat equations. 
+~ 
+If the ride is propelled by 
+gravity, then the designer 
+must make sure that the car 
+has this minimum speed 
+when it reaches the top 
+71 
+
+=== PAGE 118 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+In this example, the 
+spring is compressed 
+not stretched, but 
+Hooke's law still 
+applies 
+72 
+Worked example 
+A block slides down the frictionless 
+ramp shown in the figure. Use the law of 
+conservation of energy to find its speed when 
+it gets to the bottom. 
+Solution 
+This time the body loses potential energy and gains kinetic energy so applying the 
+law of conservation of energy: 
+loss of EP = gain of Ek 
+I 
+mgh = 2mv2 
+So: 
+v = J2gh = J(2 x 10 x 5) = lOms- 1 
+Again, this is a much simpler way of getting the answer than using components of 
+the forces. 
+Exercise 
+Use the law of conservation of energy to solve the following: 
+Q6. A stone of mass 500 g is thrown off the top of a cliff with a speed of 5 m s- 1• If 
+the cliff is 50 m high, what is its speed just before it hits the ground? 
+Q7. A ball of mass 250g is dropped 5 m onto a spring 
+as shown in the figure on the right. 
+(a) How much kinetic energy will the ball have 
+when it hits the spring? 
+(b) How much work will be done as the spring is 
+compressed? 
+(c) If the spring constant is 250 kN m- 1, calculate 
+how far the spring will be compressed. 
+0 
+Q8. A ball of mass 100g is hit vertically upward with a bat. The bat exerts a 
+constant force of 15 Non the ball and is in contact with it for a distance of 5 cm. 
+(a) How much work does the bat do on the ball? 
+(b) How high will the ball go? 
+Q9. A child pushes a toy car of mass 200 g up a slope. The car has a speed of 
+2 m s- 1 at the bottom of the slope. 
+(a) How high up the slope will the car go? 
+(b) If the speed of the car were doubled, how high would it go now? 
+
+=== PAGE 119 ===
+Stores of energy 
+When we are describing the motion of simple red balls, there are only two stores of 
+energy, kinetic energy and potential energy. However, when we start to look at more 
+complicated systems, we discover that we can do work using a variety of different 
+machines, such as petrol engine, electric engine, etc. To do work, these machines must 
+be given energy and this can come from many stores, for example: 
+• petrol 
+• solar 
+• gas 
+• nuclear 
+• electricity 
+All of these (except solar) are related to either the kinetic energy or potential energy 
+of particles. 
+Fuels 
+A petrol car gets its energy from petrol, which is mixed with air in the engine and 
+ignited by a spark, causing it to explode. The explosion pushes up a piston that turns 
+a crank, which converts the linear motion of the piston into rotation of the wheels. 
+Petrol is an example of a fuel - a chemical that can be burned to produce heat, which 
+can be used to enable an engine to do work. 
+Different fuels contain different amounts of energy. Physicists compare the energy 
+contents of fuels in terms of the energy per unit volume (energy density). 
+Fuel 
+Energy density/MJ L - 1 
+Coal 
+72 
+Crude oil 
+37 
+Diesel 
+36 
+Sugar 
+26 
+Vegetable oil 
+30 
+Wood 
+3 
+A.3 Table 1 
+During the process of burning and moving parts of the engine, some energy is lost. 
+The flow of energy can be represented on a Sankey diagram. The width of an arrow 
+represents the amount of that type of energy and, because the total width of all output 
+arrows is equal to the input width, conservation of energy is displayed. 
+energy to customers 
+energy used in power station 
+Where do the laws of 
+conservation apply in 
+other areas of physics? 
+(NOS) 
+How is the equilibrium 
+state of a system, such as 
+the Earth's atmosphere 
+or a star. determined? 
+(B2. E.5} 
+A.3 Figure 9 A Sankey 
+diagram for a coal-fired 
+power station. 
+73 
+
+=== PAGE 120 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+... 
+A.3 Figure 1 O The forces 
+acting on a car traveling at 
+constant velocity 
+a 
+... 
+A.3 Figure 11 The forces 
+on a car traveling at high 
+speed with the foot off the 
+accelerator pedal. 
+If you go over a hump 
+back bridge too 
+quickly. your car might 
+leave the surface of the 
+road. This is because 
+the force needed to 
+keep you moving in a 
+circle is more than the 
+weight of the car 
+74 
+Energy transfer 
+Taking the example of a petrol engine, the energy stored in the petrol is transferred to 
+mechanical energy of the car by the engine. I liter of petrol contains 36 MJ of energy. 
+Let us calculate how far a car could travel at a constant 36 km 11-1 on I liter of fuel; that 
+is pretty slow but 36 km h-1 is 10 m s-1 so it will make the calculation easier. 
+The reason a car needs to use energy when traveling at a constant speed is because 
+of air resistance. If we look at the forces acting on the car, we see that there must be a 
+constant forward force (provided by the friction between tires and road} to balance the 
+air resistance or drag force. 
+So work is done against the drag force, and the energy to do this work comes from the 
+petrol. The amount of work done = force x distance traveled. So to calculate the work 
+done, we need to know the drag force on a car traveling at 36 km h-1• One way to do 
+this would be to drive along a flat road at a constant 36 km h-1 and then take your foot 
+off the accelerator pedal. The car would then slow down because of the unbalanced 
+drag force. 
+This force will get less as the car slows down but here we will assume it is constant. 
+From Newton's second law, we know that F = ma, so if we can measure how fast the 
+car slows down, we can calculate the force. This will depend on the make of car but to 
+reduce the speed by 1 m s-1 (about 4 km h- 1) would take about 2s. Now we can do the 
+calculation: 
+. 
+(v - u) 
+(9 - 10) 
+acceleration of car = -
+t-. - = --2-
+= -0.5 m s-2 
+drag force= ma = 1000 x - 0.5 = - 500N 
+So to keep the car moving at a constant velocity, this force would need to be balanced 
+by an equal and opposite force, F = 500 N. 
+work done 
+Work done = force x distance so the distance traveled by the car = 
+f, orce 
+So if all of the energy in I liter of fuel is converted to work, the car will move a 
+36 X 106 
+distance = 500 = 72 km. Note that if you reduce the drag force on the car, you 
+increase the distance it can travel on I liter of fuel. 
+Circular motion and work 
+In the previous chapter (A.2}, we learned that for an object to move in a circle, a 
+centripetal force (resultant force perpendicular to velocity) was required. An alternative 
+way of deducing that the force acts toward the center is to consider the energy. When 
+a body moves in a circle with constant speed, it will have constant kinetic energy. This 
+means that no work is being done on the mass. But we also know that since the velocity 
+is changing, there must be a force acting on the body. This force cannot be acting in the 
+direction of motion, since if it was, then work would be done and the kinetic energy 
+would increase. We can therefore deduce that the force must be perpendicular to the 
+direction of motion; in other words, toward the center of the circle. 
+
+=== PAGE 121 ===
+Efficiency 
+A very efficient road car driven carefully would not be able to drive much further 
+than 20 km on l liter of fuel so energy must be lost somewhere. One place where the 
+energy is lost is in doing work against the friction that exists between the moving parts 
+of the engine. Using oil and grease will reduce this but it can never be eliminated. The 
+efficiency of an engine is defined by the equation: 
+ff . 
+useful work out 
+e tCiency = total energy in 
+So if a car travels 20 km at a speed of 10 m s-1, the useful work done by the engine: 
+= force x distance = 500 x 20000 = 10 MJ 
+10 
+The total energy put in = 36 MJ so the efficiency = 36 = 0.28. 
+Efficiency is of ten expressed as a percentage so this would be 28%. 
+Where does all the energy go? 
+In this example, we calculated the energy required to move a car along a flat road. The 
+car was traveling at a constant speed so there was no increase in kinetic energy and the 
+road was flat so there was no increase in potential energy. We know that energy cannot 
+be created or destroyed so where has the energy gone? The answer is that it has been 
+transferred to the particles that make up the air and car. 
+Exercise 
+Q 10. A 45% efficient machine lifts 100 kg through 2 m. 
+(a) How much work is done by the machine? 
+(b) How much energy is used by the machine? 
+QI I. A 1000kg car accelerates uniformly from rest to 100km h-1• 
+(a) Ignoring air resistance and friction, calculate how much work was done 
+by the car's engine. 
+(b) If the car is 60% efficient, how much energy in the form of fuel was given 
+to the engine? 
+(c) If the fuel contains 36 MJ per liter, how many liters of fuel were used? 
+Energy and collisions 
+One of the reasons that we brought up the concept of energy was related to the 
+collision between two balls as shown in Figure 12. We now know that if no energy is 
+lost when the balls collide, then the kinetic energy before the collision = kinetic energy 
+after. This enables us to calculate the velocity afterwards and the only solution in this 
+example is quite a simple one. The red ball transfers all its kinetic energy to the blue 
+one, so the red one stops and the blue one continues, with velocity = 10 m s- 1• If the 
+balls become squashed, then some work needs to be done to squash them. In this case, 
+not all the kinetic energy is transferred, and we can only calculate the outcome if we 
+know how much energy is used in squashing the balls. 
+• 
+There has been a lot of 
+research into making 
+cars more efficient so 
+that they use less fuel. 
+Is this to save energy or 
+money? 
+!Oms- 1 
+~ 
+0 0 
+A.3 Figure 12 The red ball 
+gives energy to the blue ball. 
+75 
+
+=== PAGE 122 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+A.3 Figure 13 Collision 
+► 
+between two identical balls. 
+A.3 Figure 14 A possible 
+elastic collision. 
+76 
+Elastic collisions 
+An elastic collision is a collision in which both momentum and kinetic energy 
+are conserved. 
+Example: two balls with equal mass 
+Two balls with equal mass m collide as shown in Figure 13. As you can see, the red ball 
+is traveling faster than the blue one before and slower after. If the collision is perfectly 
+elastic, then we can show that the velocities of the balls simply swap so u1 = v2 and 
+U2 = v,. 
+u, 
+0 
+0 
+before 
+after 
+If the collision is elastic, then momentum and kinetic energy are both conserved. If we 
+consider these one at a time we get: 
+Conservation of momentum: 
+momentum before = momentum after 
+Conservation of kinetic energy: 
+Ek before = Ek after 
+So we can see that the velocities are such that both their sums are equal and the squares 
+of their sums are equal. This is only true if the velocities swap, as in Figure 14. 
+Sms- 1 
+4ms- 1 
+4ms-1 
+Sms-1 
+) 
+) 
+) 
+Q 
+Q 
+Q 
+Q 
+before 
+after 
+Collision in two-dimensions between two identical balls 
+Anyone who has ever played pool or snooker will know that balls do not always collide 
+in line; they travel at angles to each other. Figure 15 shows a possible collision. 
+
+=== PAGE 123 ===
+u 
+0 
+before 
+In this case, the blue ball is stationary so applying the conservation laws we get slightly 
+simpler equations: 
+Note the vector notation to remind us that we are dealing with vectors. The first 
+equation means that the sum of the velocity vectors after the collision gives the 
+velocity before. This can be represented by the triangle of vectors in Figure 16. 
+The second equation tells us that the sum of the squares of two sides of this triangle = the 
+square of the other side. This is Pythagoras' theorem, which is only true for right-angled 
+triangles. So after an elastic collision between two identical balls, the two balls will 
+always travel away at right angles (unless the collision is perfectly head-on). This of 
+course does not apply to balls rolling on a pool table since they are not isolated. 
+Inelastic collisions 
+There are many outcomes of an inelastic collision but here we will only consider the 
+case when the two bodies stick together (coalesce). We call this a totally inelastic 
+collision. 
+Example 
+When considering the conservation of momentum in collisions, we used the example 
+shown in Figure 17. How much work was done to squash the balls in this example? 
+before 
+after 
+According to the law of conservation of energy, the work done squashing the balls is 
+equal to the loss in kinetic energy. 
+Ek loss = 1.8-0.3 = 1.5 J 
+So: 
+work done = 1.5 J 
+◄ A.3 Figure 15 A two-
+dimensional collision. 
+• 
+A.3 Figure 16 Adding the 
+velocity vectors. 
+Pool balls may not 
+collide like perfectly 
+elastic isolated spheres 
+but. if the table is 
+included, their motion 
+can be accurately 
+modeled. enabling 
+scientists to calculate 
+the correct direction 
+and speed for the 
+perfect shot. Taking 
+that shot is another 
+matter entirely. 
+W hy is the internal 
+energy of an ideal gas 
+equal to the sum of the 
+kinetic energies but not 
+the potential energies? 
+(B.3) 
+A.3 Figure 17 An inelastic 
+collision. 
+How do collisions 
+between charge carriers 
+and the atomic cores 
+of a conductor result in 
+thermal energy transfer? 
+(BS. B.l) 
+77 
+
+=== PAGE 124 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+A.3 Figure 18 An explosion. ► 
+The result of this 
+example is very 
+important; we 
+will use it when 
+dealing with nuclear 
+decay later on. So 
+remember, when a 
+body explodes into 
+two unequal bits, 
+the small bit gets 
+most energy. 
+!Oms- 1 
+~ 
+ISms- 1 
+~ (ii 
+78 
+Explosions 
+Explosions can never be elastic since, without doing work, the parts that fly off after 
+the explosion would not have any kinetic energy and would therefore not be moving. 
+The energy to initiate an explosion often comes from the chemical energy contained in 
+the explosive. 
+Example 
+Consider an exploding ball (shown in Figure 18). How much energy was supplied to 
+the ball by the explosive? 
+5ms-• 
+20g 
+before 
+after 
+According to the law of conservation of energy, the energy from the explosive equals 
+the gain in kinetic energy of the ball. 
+Ek gain = Ek after - Ek before 
+Ek gain = (½x 0.02 x 252 +{x 0.1 x 52)-o = 6.25 + 1.25 = 7.5] 
+Exercise 
+Ql2. Two balls are held together by a spring as shown 
+in the figure. The spring has a spring constant of 
+l ON cm-1 and has been compressed a distance 5 cm. 
+(a) How much work was done to compress the spring? 
+(b) How much kinetic energy will each gain? 
+(c) If each ball has a mass of 10g, calculate the velocity of each ball. 
+QI 3. Two pieces of modeling clay as shown in the figure collide and stick together. 
+(a) Calculate the velocity of the lump after the collision. 
+(b) How much kinetic energy is lost during the collision? 
+Ql4. A red ball traveling at 10ms- 1 to the right collides with a blue ball with the 
+same mass traveling at 15 m s-1 to the left. If the collision is elastic, what are 
+the velocities of the balls after the collision? 
+Challenge yourself 
+I. A 200g red ball traveling at 6 m s-1 collides with a 500g blue ball at rest, such 
+that after the collision the red ball travels at 4 m s-• at an angle of 45° to its 
+original direction. Calculate the speed of the blue ball. 
+
+=== PAGE 125 ===
+Power 
+We know that to do work requires energy, but work can be done quickly or it can be 
+done slowly. This does not alter the energy transferred but the situations are certainly 
+different. For example, we know that to lift one thousand 1 kg bags of sugar from the 
+floor to the table is not an impossible task - we can simply lift them one by one. It will 
+take a long time but we would manage it in the end. However, if we were asked to do 
+the same task in 5 seconds, we would either have to lift all 1000 kg at the same time 
+or move each bag in 0.005 s; both of which are impossible. Power is the quantity that 
+distinguishes between these two tasks. 
+Power is defined as: 
+power = work done per unit time 
+The unit of power is the J s- 1 which is the same as the watt (W). Power is a scalar quantity. 
+Example 1: The powerful car 
+We often use the term power to describe cars. A powerful car is one that can accelerate 
+from Oto 100 km h- 1 in a very short time. When a car accelerates, energy is being 
+transferred from the chemical energy in the fuel to kinetic energy. To have a big 
+acceleration, the car must gain kinetic energy in a short time; hence be powerful. 
+Example 2: Power lifter 
+A power lifter is someone who can lift heavy weights, so should we not say they are 
+strong people rather than powerful? A power lifter certainly is a strong person (if they 
+are good at it) but they are also powerful. This is because they can lift a big weight in a 
+short time. 
+Worked example 
+A car of mass 1000 kg accelerates from rest to 100 km h-1 in 5 seconds. What is the 
+average power of the car? 
+Solution 
+lOOkmh- 1 = 28ms-1 
+gain in kinetic energy of the car = ½ mv2 = ½ x 1000 x 282 = 392 kJ 
+If the car does this in 5 s, then: 
+work done 
+392 
+power= 
+. 
+= -
+=78.4kW 
+time 
+5 
+If power=~ 
+time 
+then we can also 
+write 
+p = F~s 
+So 
+P= F¥ 
+which is the same as 
+P= Fv 
+where v is the 
+velocity. 
+This equation is a 
+useful shortcut for 
+calculating the power 
+of a body moving at 
+constant velocity. 
+Which other quantities 
+in physics involve rates 
+of change? (e.g. A. l , BS, 
+Cl, E3) 
+Horsepower is often 
+used as the unit for 
+power when talking 
+about cars and boats. 
+746W = 1 hp 
+So in the Worked 
+example, the power of 
+the car is 105 hp. 
+79 
+
+=== PAGE 126 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+The Hoover Dam in 
+► 
+Colorado can generate 
+l. 5 x 109 watts. 
+A.3 Figure 19 The 
+main components in a 
+hydroelectric power station. 
+80 
+Example 3: Hydroelectric power 
+It may not be obvious at first, but the energy converted into electrical energy by 
+hydroelectric power stations comes originally from the Sun. Heat from the Sun turns 
+water into water vapor, forming clouds. The clouds are blown over the land and the water 
+vapor turns back into water as rain falls. Rain water falling on high ground has potential 
+energy that can be converted into electricity (see Figure 20). Some countries like Norway 
+have many natural lakes high in the mountains and the energy can be utilized by simply 
+drilling into the bottom of the lake. In other countries rivers have to be dammed. 
+The energy stored in a lake at altitude is gravitational potential energy. This can be 
+calculated from the equation EP = mgh where his the height difference between the outlet 
+from the lake and the turbine. Since not all of the water in the lake is the same height, the 
+average height is used (this is assuming the lake is rectangular in cross section). 
+power lines 
+
+=== PAGE 127 ===
+Worked example 
+Calculate the total energy stored and 
+power generated in the figure if water 
+flows from the lake at a rate of 
+11113 per second. 
+Solution 
+The average height above the turbine is 
+(100 + 75) 
+2 
+= 87.5111 
+Volume of the lake= 2000 x 1000 x 25 = 5 x 107 1113 
+Mass of the lake= volume x density= 5 x 107 x 1000 
+= 5 X 1010kg 
+EP = mgh = 5 x 1010 x 9.8 x 87.5 = 4.29 x 1013 J 
+If the water flows at a rate of 1 1113 per second then 1000 kg falls 87.5 m per second 
+So the energy lost by the water= 1000 x 9.8 x 87.5 = 875 0OOJ s-1 
+Power= 875 kW 
+Exercise 
+Q15. A weightlifter lifts 200 kg to a height of 2 min 5 s. Calculate the power of the 
+weightlifter in watts. 
+Q16. In 25 s, a trolley of mass 50 kg runs down a hill. If the difference in height 
+between the top and the bottom of the hill is 50 m, how much power will 
+have been dissipated? 
+QI 7. A car moves along a road at a constant velocity of20ms-1• If the resistance force 
+acting against the car is l 000 N, what is the power developed by the engine? 
+Efficiency and power 
+Efficiency is a quantity that gives a sense of the proportion of input energy that is 
+transferred to useful stores. We define efficiency, 17, by the equation: 
+ff . 
+useful work out 
+e ICJency = total work in 
+If the work out is done at the same time as the work in, then we can divide the 
+numerator and the denominator by time to give the equivalent equation: 
+useful power out 
+efficiency=-------
+total power in 
+81 
+
+=== PAGE 128 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+82 
+Exercise 
+Ql8. A motor is used to lift a 10 kg mass 2 m above the ground in 4s. If the power 
+input to the motor is 100 W, what is the efficiency of the motor? 
+QI 9. A motor is 70% efficient. If 60 kJ of energy is put into the engine, how much 
+work is got out? 
+Q20. The drag force that resists the motion of a car traveling at 80 km h- 1 is 300 N. 
+(a) What power is reg uired to keep the car traveling at that speed? 
+(b) If the efficiency of the engine is 60%, what is the power of the engine? 
+Guiding Questions revisited 
+How are concepts of work, energy and power used to predict changes within 
+a system? 
+How can a consideration of energetics be used as a method to solve problems 
+in kinematics? 
+How can transfer of energy be used to do work? 
+In this chapter, we have provided an alternative model for analyzing the physical 
+changes in a system that requires an understanding of how: 
+• The work done on a body is the product of the force exerted and the displacement 
+of the body in the direction of the force. 
+• Gravitational and elastic potential energies are associated with position (relative 
+to positions of zero potential energy that are selected strategically). 
+• Kinetic energy is associated with momentum (mass and velocity). 
+• Gravitational potential, elastic potential and kinetic energies are collectively 
+referred to as mechanical energies. 
+• By considering the types of energy of all bodies at different positions and times, 
+kinematics problems can be solved; unlike the suvat equations (which require 
+uniform acceleration), energies can be calculated irrespective of the route taken. 
+• Energy is a conserved quantity, which means that it can be transferred but not 
+created or destroyed. 
+• Work is done when energy is transferred and energy is transferred when work is done. 
+• Power is the rate at which work is done or energy is transferred. 
+• The upper limit of efficiency, the ratio of the useful energy (or power output) to 
+the total energy (or power input), is 1. 
+• Sankey diagrams are a visual representation of the input and output energy types 
+and the efficiency of the system. 
+
+=== PAGE 129 ===
+Practice questions 
+I. A competition includes an obstacle where the competitor has to jump 
+onto a hanging cylinder, causing it to move along an inclined wire with 
+negligible friction. 
+C=::J 
+(a) The cylinder has mass 100 kg and the competitor has mass 80 kg. The 
+competitor is moving at 10 m s-1 when they catch the cylinder and 
+leave the ground. Using g = 10 m s-2, calculate: 
+(i) the impulse experienced by the cylinder 
+(ii) the impulse experienced by the competitor 
+(iii) the kinetic energy of the cylinder and competitor just after 
+catching the cylinder. 
+(2) 
+(1) 
+(1) 
+(b) Determine whether the competitor will get to the far end of the wire. 
+(2) 
+(Total 6 marks) 
+2. 
+A 10 kg block is pulled a distance of 4 m along a frictionless ramp inclined 
+at an angle of20° by an 8 kg hanging mass as shown in the diagram on the 
+right. 
+(a) Calculate: 
+(i) the work done by the gravitational force 
+(1) 
+(ii) the increase in potential energy of the sliding mass. 
+(1) 
+(iii) Why are the answers to (i) and (ii) different? 
+(1) 
+(b) The hanging mass is replaced by an electric motor and winch, which 
+consumes 400 J of energy lifting the block to the same height. If the 
+purpose of the machine is to raise the block, calculate the efficiency of 
+the motor/ramp system. 
+(2) 
+(Total 5 marks) 
+3. 
+A 0.25 kg ball is launched from the ground with initial speed of20 m s-1 
+and reaches a maximum height of 10 m. 
+(a) Calculate the speed of the projectile when it reaches maximum height. (2) 
+(b) The projectile lands in a bucket with wheels. Calculate the velocity of 
+the bucket plus ball after the ball has landed in the bucket if the mass 
+of the bucket is 1.2 5 kg. 
+(2) 
+(c) The bucket and ball are stopped by a buffer, which is made from a 
+spring that becomes compressed. If the change in length of the spring 
+is 10 cm, calculate the spring constant. 
+(2) 
+(Total 6 marks) 
+83 
+
+=== PAGE 130 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+"' 30 
+t Wt¥ 
+'~ 
+I,, e 25 
+-a-
+r 
+:j: 
+20 l i H 
+15 
+10 
+;4IT 
+5 ~Tl'" ttt~~ M-~ 
+0 
+0 
+5 
+10 
+I 5 
+20 25 30 
+x/m 
+84 
+4. A stone is falling at a constant velocity vertically down a tube filled with oil. 
+Which of the following statements about the energy transfers of the stone 
+during its motion are correct? 
+I. 
+The gain in kinetic energy is less than the loss in gravitational 
+potential energy. 
+II. The sum of kinetic and gravitational potential energy of the stone 
+is constant. 
+III. The work done by the force of gravity has the same magnitude as the 
+work done by friction. 
+A 
+I and II only 
+B 
+I and III only 
+C 
+II and III only 
+D 
+I, II and III 
+(rota! 1 mark) 
+5. The Sankey diagram shows the energy input from fuel that is eventually 
+transferred to useful domestic energy in the form oflight in a filament 
+lamp. What is true for this Sankey diagram? 
+6. 
+7. 
+A 
+The overall efficiency of the process is 10%. 
+energy loss at power station 
+energy loss in transmission 
+thermal energy to lamp 
+light energy to lamp 
+B 
+Generation and transmission losses account for 5 5% of the energy input. 
+C 
+Useful energy accounts for half of the transmission losses. 
+D 
+The energy loss in the power station equals the energy that leaves it. 
+(rota! 1 mark) 
+The graph on the left shows how the acceleration a of an object varies with 
+distance traveled x. The mass of the object is 3.0 kg. What is the total work 
+done on the object? 
+A 
+300] 
+B 
+400] 
+C 
+1200} 
+D 1500} 
+(rota! 1 mark) 
+An object of mass m is initially at rest. When an impulse I acts on the 
+object, its final kinetic energy is Ek. What is the final kinetic energy when an 
+impulse of 2/ acts on an object of mass 2m initially at rest? 
+E, 
+A 2 
+D 
+4Ek 
+(rota! 1 mark) 
+
+=== PAGE 131 ===
+8. 
+A train on a straight horizontal track moves from rest at constant 
+acceleration. The horizontal forces on the train are the engine force and 
+a resistive force that increases with speed. Which graph represents the 
+variation with time t of the power P developed by the engine? 
+A 
+B 
+p 
+p 
+C 
+D 
+p . 
+p 
+D~-----~ 
+0 
+(Total 1 mark) 
+9. 
+A car traveling at a constant velocity covers a distance of 100 min 5.0 s. 
+The thrust of the engine is 1.5 kN. What is the power of the car? 
+A 
+0.75kW 
+B 
+3.0 kW 
+C 
+7.5kW 
+D 
+30kW 
+(Total 1 mark) 
+10. The energy density of a substance can be calculated by multiplying its 
+specific energy (energy per unit mass) with which quantity? 
+A 
+mass 
+B 
+volume 
+C 
+mass 
+volume 
+D 
+volume 
+mass 
+(Total 1 mark) 
+11. The diagram shows part of a downhill ski course that starts at point A, 50 
+m above level ground. Point B is 20 m above level ground. A skier of mass 
+65 kg starts from rest at point A and, during the ski course, some of the 
+gravitational potential energy is transferred to kinetic energy. 
+A 
+C 
+D 
+◄ 
+► 
+24m 
+85 
+
+=== PAGE 132 ===
+SPACE, TIME AND MOTION A.3 
+Work, energy and power 
+86 
+(a) From A to B, 24% of the gravitational potential energy is transferred to 
+kinetic energy. Show that the velocity at B is 12 m s- 1• 
+(2) 
+(b) The dot on the following diagram represents the skier as she passes 
+point B. Draw and label the vertical forces acting on the skier. 
+(2) 
+(c) The hill at point B has a circular shape with a radius of 20 m. Determine 
+whether the skier will lose contact with the ground at point B. 
+(3) 
+(d) The skier reaches point C with a speed of 8.2 m s- 1• She stops after 
+a distance of 24 mat point D. Determine the coefficient of dynamic 
+friction between the base of the skis and the snow. Assume that the 
+frictional force is constant and that air resistance can be neglected. 
+(3) 
+(e) At the side of the course, flexible safety nets are used. Another skier 
+of mass 76 kg falls normally into the safety net with speed 9.6 m s- 1• 
+Calculate the impulse required from the net to stop the skier and give 
+an appropriate unit for your answer. 
+(2) 
+(f) Explain, with reference to change in momentum, why a flexible safety 
+net is less likely to harm the skier than a rigid barrier. 
+(2) 
+(Total 14 marks) 
+12. A company designs a spring system for loading ice blocks onto a truck. 
+The ice block is placed in a holder Hin front of the spring, and an electric 
+motor compresses the spring by pushing H to the left. When the spring is 
+released, the ice block is accelerated toward a ramp, ABC. When the spring 
+is fully decompressed, the ice block loses contact with the spring at A. 
+The mass of the ice block is 5 5 kg. Assume that the surface of the ramp is 
+frictionless and that the masses of the spring and the holder are negligible 
+compared to the mass of the ice block. 
+~-ic-e-bl_o_ck __ 
+B~ 
+(a) (i) The block arrives at C with a speed of 0.90 m s-1• Show that the 
+elastic energy stored in the spring is 670 J. 
+(2) 
+(ii) Calculate the speed of the block at A. 
+(2) 
+(b) Describe the motion of the block: 
+(i) from A to B with reference to Newton's first law 
+(ii) from B to C with reference to Newton's second law. 
+(1) 
+(2) 
+
+=== PAGE 133 ===
+(c) Copy the axes below and sketch a graph to show how the displacement 
+of the block varies with time from A to C. (You do not have to put 
+numbers on the axes.) 
+(d) The spring decompression takes 0.42 s. Determine the average force 
+(2) 
+that the spring exerts on the block. 
+(2) 
+(e) The electric motor is connected to an electrical source of power 816 W. 
+The motor takes 1.5 s to compress the spring. Estimate the efficiency of 
+iliemoro~ 
+~ 
+(Total 13 marks) 
+13. (a) Will hanging a magnet in front of an iron car, as shown, make the 
+car go? 
+A 
+Yes, it will go. 
+B 
+It will move if there is no friction. 
+C 
+It will not go. 
+(1) 
+(b) Explain your answer. 
+(1) 
+(Total 2 marks) 
+14. A neutron moving through heavy water strikes an isolated and stationary 
+deuteron (the nucleus of an isotope of hydrogen) head on in an elastic 
+collision. 
+(a) Assuming the mass of the neutron is equal to half that of the deuteron, 
+find the ratio of the final speed of the deuteron to the initial speed of 
+the neutron. 
+(b) What percentage of the initial kinetic energy is transferred to the 
+(2) 
+deuteron? 
+(2) 
+(c) How many collisions would be needed to slow the neutron down from 
+10 MeV to O.Dl eV? 
+(2) 
+(Total 6 marks) 
+eV is a unit of energy 
+and a conversion into J 
+is not required. 
+87 
+
+=== PAGE 134 ===
+B The particulate 
+nature of matter 
+
+=== PAGE 135 ===
+B The particulate nature of matter 
+◄ 
+This flood in Seoul, South Korea, in August 2022 followed heavier rainfall than any seen in the area for 
+the previous 80 years. During the same week, western Europe experienced a heatwave. The increasing 
+frequency of extreme weather events is linked to global warming. 
+Klaus Hasselmann, based at the Max Planck Institute for Meteorology in Hamburg, 
+Germany, was one of the winners of the Nobel Prize for Physics in 2021 'for the 
+physical modeling of Earth's climate, quantifying variability and reliably predicting 
+global warming' (Nobel Prize, 2021). Our awareness today that global warming 
+is caused by increasing CO2 in the atmosphere is in part a result of Hasselmann's 
+advocacy and modeling work. 
+A model is a representation of reality. During your study of matter, you will consider 
+the energies and momentum changes of individual particles (in which assumptions 
+are made about elasticity, size and forces experienced) and the collective properties of 
+substances in macroscopic containers. Part of what made Hasselmann so successful 
+was his acknowledgement that short-term weather fluctuations and broader climate 
+trends cannot be fully understood in terms of individual spheres behaving as perfect 
+ballistic projectiles. 
+These chapters commence by defining density, temperature, internal energy, heat 
+transfer, phase, luminosity, brightness and emissivity, and getting to know how 
+particles are involved in conduction, convection and radiation. These abstract concepts 
+are then brought into sharp real-world focus through the greenhouse effect, which 
+describes the processes by which radiation from the Sun interacts with the Earth and 
+its atmosphere and the enhanced impact that human activities are making. Armed 
+with an awareness of the very small and the very big, you will be well-placed to grapple 
+with theory, problems, experiments and modeling of your own on the gas laws. 
+The chapters on Thermal energy transfers (B. l), the Greenhouse effect (B.2) and Gas 
+laws (B.3) relate to particles that, in general, do not interact with each other except 
+when touching or when radiation passes between them. Another property of particles 
+is charge. Differences in charges across spaces lead to electric fields, and electric 
+fields are regions in which electric forces are exerted. In a similar way to how a ball 
+falls when released from a height, charged particles move in a net direction when 
+constrained within electrical conductors that form a complete circuit. They release the 
+energy provided by a source of emf in resistors. 
+89 

@@ -1,0 +1,154 @@
+[
+  {
+    "num": 1,
+    "code": "A.1",
+    "name": "Kinematics",
+    "pdf_page_start": 50,
+    "pdf_page_end": 74,
+    "chars": 48843
+  },
+  {
+    "num": 2,
+    "code": "A.2",
+    "name": "Forces and momentum",
+    "pdf_page_start": 75,
+    "pdf_page_end": 108,
+    "chars": 67405
+  },
+  {
+    "num": 3,
+    "code": "A.3",
+    "name": "Work, energy and power",
+    "pdf_page_start": 109,
+    "pdf_page_end": 135,
+    "chars": 50286
+  },
+  {
+    "num": 4,
+    "code": "B.1",
+    "name": "Thermal energy transfers",
+    "pdf_page_start": 136,
+    "pdf_page_end": 163,
+    "chars": 58791
+  },
+  {
+    "num": 5,
+    "code": "B.2",
+    "name": "Greenhouse effect",
+    "pdf_page_start": 164,
+    "pdf_page_end": 179,
+    "chars": 37614
+  },
+  {
+    "num": 6,
+    "code": "B.3",
+    "name": "Gas laws",
+    "pdf_page_start": 180,
+    "pdf_page_end": 199,
+    "chars": 39718
+  },
+  {
+    "num": 7,
+    "code": "B.5",
+    "name": "Current and circuits",
+    "pdf_page_start": 200,
+    "pdf_page_end": 229,
+    "chars": 56700
+  },
+  {
+    "num": 8,
+    "code": "C.1",
+    "name": "Simple harmonic motion",
+    "pdf_page_start": 230,
+    "pdf_page_end": 243,
+    "chars": 21811
+  },
+  {
+    "num": 9,
+    "code": "C.2",
+    "name": "Wave model",
+    "pdf_page_start": 244,
+    "pdf_page_end": 263,
+    "chars": 34922
+  },
+  {
+    "num": 10,
+    "code": "C.3",
+    "name": "Wave phenomena",
+    "pdf_page_start": 264,
+    "pdf_page_end": 283,
+    "chars": 32579
+  },
+  {
+    "num": 11,
+    "code": "C.4",
+    "name": "Standing waves and resonance",
+    "pdf_page_start": 284,
+    "pdf_page_end": 303,
+    "chars": 36746
+  },
+  {
+    "num": 12,
+    "code": "C.5",
+    "name": "Doppler effect",
+    "pdf_page_start": 304,
+    "pdf_page_end": 315,
+    "chars": 18200
+  },
+  {
+    "num": 13,
+    "code": "D.1",
+    "name": "Gravitational fields",
+    "pdf_page_start": 316,
+    "pdf_page_end": 327,
+    "chars": 21014
+  },
+  {
+    "num": 14,
+    "code": "D.2",
+    "name": "Electric and magnetic fields",
+    "pdf_page_start": 328,
+    "pdf_page_end": 344,
+    "chars": 32990
+  },
+  {
+    "num": 15,
+    "code": "D.3",
+    "name": "Motion in electromagnetic fields",
+    "pdf_page_start": 345,
+    "pdf_page_end": 359,
+    "chars": 24783
+  },
+  {
+    "num": 16,
+    "code": "E.1",
+    "name": "Structure of the atom",
+    "pdf_page_start": 360,
+    "pdf_page_end": 373,
+    "chars": 29769
+  },
+  {
+    "num": 17,
+    "code": "E.3",
+    "name": "Radioactive decay",
+    "pdf_page_start": 374,
+    "pdf_page_end": 394,
+    "chars": 40814
+  },
+  {
+    "num": 18,
+    "code": "E.4",
+    "name": "Fission",
+    "pdf_page_start": 395,
+    "pdf_page_end": 405,
+    "chars": 23693
+  },
+  {
+    "num": 19,
+    "code": "E.5",
+    "name": "Fusion and stars",
+    "pdf_page_start": 406,
+    "pdf_page_end": 427,
+    "chars": 44356
+  }
+]

@@ -1,0 +1,266 @@
+<!-- CHAPTER_START:8 -->
+
+<div class="notes-section">
+<h2>C.1 Simple harmonic motion &ndash; conditions and defining equation</h2>
+
+<p>An oscillation is a repetitive back-and-forth motion about a fixed equilibrium (rest) position. A pendulum swinging, a mass bouncing on a spring, and a cylinder bobbing in water are all examples. For most of these systems, if the disturbance is small, the motion is <strong>simple harmonic motion (SHM)</strong>, a special type of oscillation with a precise mathematical definition.</p>
+
+<div class="callout key">
+<span class="c-label">Simple harmonic motion (SHM)</span>
+<p>SHM is oscillatory motion in which the acceleration of the body is directly proportional to its displacement from a fixed (equilibrium) point, and is always directed toward that point (opposite in direction to the displacement). This restoring force/acceleration is what pulls the object back toward equilibrium and causes the oscillation to repeat.</p>
+</div>
+
+<div class="formula-box">a = &minus;&omega;<sup>2</sup>x</div>
+<p>This is the defining equation of SHM. <em>a</em> is the acceleration, <em>x</em> is the displacement from the equilibrium position, and &omega; (angular frequency) is a constant for a given oscillating system. The minus sign shows that the acceleration always points in the opposite direction to the displacement, i.e. back toward equilibrium. The further the object is displaced, the greater the magnitude of the acceleration pulling it back.</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>An object oscillates with SHM of angular frequency &omega; = 4.0 rad s<sup>-1</sup>. Find its acceleration when its displacement from equilibrium is 0.15 m.</p>
+<p>a = &minus;&omega;<sup>2</sup>x = &minus;(4.0)<sup>2</sup> &times; 0.15 = &minus;16 &times; 0.15 = &minus;2.4 m s<sup>-2</sup>.</p>
+<p>The acceleration has magnitude 2.4 m s<sup>-2</sup> and is directed back toward the equilibrium position, which is why the object decelerates, stops, and reverses direction rather than moving away forever.</p>
+</div>
+
+<div class="callout distinction">
+<span class="c-label">Not every oscillation is SHM</span>
+<p>Only oscillations whose restoring acceleration is proportional to displacement (a &prop; &minus;x) qualify as SHM. A ball bouncing off the floor, or a ball rolling back and forth in a curved track with a non-parabolic shape, may oscillate but are generally not SHM unless this exact proportionality holds throughout the motion.</p>
+</div>
+</div>
+
+<div class="notes-section">
+<h2>Describing oscillations: key terms and quantities</h2>
+
+<p>The same set of quantities is used to describe any SHM system, whether it is a pendulum, a mass on a spring, or a vibrating molecule.</p>
+
+<div class="table-wrap">
+<table class="notes-table">
+<thead>
+<tr><th>Quantity</th><th>Symbol</th><th>Meaning</th><th>SI unit</th></tr>
+</thead>
+<tbody>
+<tr><td>Cycle</td><td>&ndash;</td><td>One complete "there and back" oscillation, returning to the same position moving in the same direction</td><td>&ndash;</td></tr>
+<tr><td>Amplitude</td><td>x<sub>0</sub></td><td>The maximum displacement from the equilibrium position</td><td>m</td></tr>
+<tr><td>Time period</td><td>T</td><td>The time taken to complete one full cycle</td><td>s</td></tr>
+<tr><td>Frequency</td><td>f</td><td>The number of complete cycles per second</td><td>Hz</td></tr>
+<tr><td>Angular frequency</td><td>&omega;</td><td>The angular equivalent of frequency, &omega; = 2&pi;f</td><td>rad s<sup>-1</sup></td></tr>
+<tr><td>Displacement</td><td>x</td><td>The instantaneous distance and direction of the body from the equilibrium position</td><td>m</td></tr>
+<tr><td>Phase</td><td>&ndash;</td><td>The position in the cycle at a given time, often compared between two oscillators</td><td>rad or degrees</td></tr>
+</tbody>
+</table>
+</div>
+
+<div class="formula-box">T = 1/f = 2&pi;/&omega; &nbsp;&nbsp; and &nbsp;&nbsp; &omega; = 2&pi;f</div>
+<p>Period and frequency are reciprocals of each other: a short period means a high frequency. Angular frequency &omega; is 2&pi; times the frequency, since one full cycle corresponds to an angle of 2&pi; radians (borrowed from circular motion, even though the body itself does not travel in a circle).</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>A pendulum completes 20 swings in 12 s. Find (a) its frequency and (b) its angular frequency.</p>
+<p>(a) T = 12 s &divide; 20 = 0.60 s, so f = 1/T = 1/0.60 = 1.7 Hz (2 s.f.).</p>
+<p>(b) &omega; = 2&pi;f = 2&pi; &times; 1.667 = 10.5 rad s<sup>-1</sup>.</p>
+<p>The pendulum swings through about 10.5 radians of "phase angle" every second, completing roughly 1.7 full swings each second.</p>
+</div>
+</div>
+
+<div class="notes-section">
+<h2>The simple pendulum</h2>
+
+<p>A simple pendulum is a small mass (the bob) on an inextensible string. When displaced from vertical and released, gravity and tension combine to give a resultant force that always points back toward the equilibrium (lowest) position. This resultant force gets larger the further the bob is displaced, and is zero exactly at equilibrium.</p>
+
+<div class="callout diagram">
+<span class="c-label">Figure: pendulum forces</span>
+<p>A swinging pendulum bob has two forces acting on it: weight (mg, vertically down) and tension (along the string). Their resultant (a third, unlabelled arrow) always points toward the equilibrium position and grows in size the further the bob swings from vertical. Tension is smallest near the top of the swing and largest at the bottom, where it must also supply the centripetal force for the bob's curved path.</p>
+</div>
+
+<p>For small angles of swing, three approximations simplify the analysis: the bob's motion is treated as horizontal; the restoring force is the horizontal component of the tension, F sin&theta;; and the tension is approximately equal to the weight, F = mg. This gives a restoring force F = &minus;mg sin&theta;. Using the small triangle formed by the string and the horizontal displacement x, sin&theta; = x/l (l = string length), so F = &minus;mgx/l. Applying Newton's second law (F = ma) and dividing through by m gives a = &minus;(g/l)x. Comparing this with the defining equation a = &minus;&omega;<sup>2</sup>x shows &omega;<sup>2</sup> = g/l, from which the period formula below follows.</p>
+
+<div class="formula-box">T = 2&pi;&radic;(l/g)</div>
+<p>T is the period of a simple pendulum, l is the length of the string (in metres, measured to the centre of the bob), and g is the gravitational field strength. Crucially, the period does not depend on the mass of the bob or on the amplitude of the swing (provided the swing angle stays small, typically under about 10&deg;) &mdash; this is why pendulums historically made reliable clocks.</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>Find the period of a simple pendulum of length 1.0 m on Earth (g = 9.81 m s<sup>-2</sup>).</p>
+<p>T = 2&pi;&radic;(l/g) = 2&pi;&radic;(1.0/9.81) = 2&pi; &times; 0.3193 = 2.0 s.</p>
+<p>A metre-long pendulum takes about 2.0 seconds for each full swing, so it takes roughly 1.0 s to swing from one side to the other &mdash; this is essentially the "seconds pendulum" used historically in clock design.</p>
+</div>
+
+<div class="callout key">
+<span class="c-label">Why the small-angle approximation matters</span>
+<p>The pendulum's motion is only simple harmonic when the swing angle is small. At larger angles, the horizontal-displacement and small-angle assumptions break down, the restoring force is no longer exactly proportional to displacement, and the period starts to depend slightly on amplitude. IB exam questions on pendulums assume small-angle SHM applies.</p>
+</div>
+</div>
+
+<div class="notes-section">
+<h2>Mass on a spring</h2>
+
+<p>A mass hanging on a spring, displaced vertically and released, oscillates up and down. Two forces act on it: weight (constant) and the spring's elastic (tension/restoring) force, which by Hooke's law is proportional to how far the spring is stretched or compressed from its natural length.</p>
+
+<div class="callout diagram">
+<span class="c-label">Figure: spring and mass in four positions</span>
+<p>(i) The spring unstretched, with natural length only. (ii) The same spring with a mass hung on it, now stretched by an extra extension e so that the elastic force balances the weight (ke = mg) &mdash; this stretched position is the new equilibrium. (iii) The mass pulled up to a point above equilibrium, reducing the extension. (iv) The mass pushed down below equilibrium, increasing the extension. In both (iii) and (iv) there is a net restoring force pulling the mass back toward the equilibrium position (ii).</p>
+</div>
+
+<p>Taking displacement x as measured from the new equilibrium position (ii), analysis of the resultant force above and below equilibrium (using ke = mg to cancel out the weight) shows that in both cases the resultant force has magnitude kx and is always directed back toward equilibrium. Writing this with a sign convention (force opposite to displacement) gives ma = &minus;kx, so a = &minus;(k/m)x. Comparing with a = &minus;&omega;<sup>2</sup>x gives &omega;<sup>2</sup> = k/m, leading to the period formula below.</p>
+
+<div class="formula-box">T = 2&pi;&radic;(m/k)</div>
+<p>T is the period of oscillation, m is the oscillating mass, and k is the spring constant (force per unit extension, in N m<sup>-1</sup>). Like the pendulum, the period of a mass-spring system does not depend on the amplitude of oscillation &mdash; but unlike the pendulum, it does depend on mass, and it does not depend on gravitational field strength g.</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>A 0.50 kg mass is attached to a spring of spring constant 20 N m<sup>-1</sup> and set oscillating. Find the period.</p>
+<p>T = 2&pi;&radic;(m/k) = 2&pi;&radic;(0.50/20) = 2&pi;&radic;(0.025) = 2&pi; &times; 0.1581 = 0.99 s.</p>
+<p>Each full up-and-down oscillation of the mass takes just under one second.</p>
+</div>
+
+<div class="callout distinction">
+<span class="c-label">Pendulum vs mass-spring: what controls the period</span>
+<p>Pendulum period depends only on length l and gravitational field strength g (T = 2&pi;&radic;(l/g)) &mdash; not on mass or amplitude. Mass-spring period depends only on mass m and spring constant k (T = 2&pi;&radic;(m/k)) &mdash; not on gravitational field strength or amplitude. This is why a pendulum would run differently on the Moon (weaker g means longer period), while a mass-spring system's period would be unchanged on the Moon.</p>
+</div>
+</div>
+
+<div class="notes-section">
+<h2>Displacement, velocity and acceleration as functions of time</h2>
+
+<p>Because the acceleration in SHM is always proportional to (and opposite in direction to) the displacement, the displacement-time graph of an SHM oscillator is a sine or cosine curve, depending on where the timing starts.</p>
+
+<div class="formula-box">x = x<sub>0</sub>sin(&omega;t) &nbsp;&nbsp; [starting at equilibrium, moving positive] &nbsp;&nbsp; or &nbsp;&nbsp; x = x<sub>0</sub>cos(&omega;t) &nbsp;&nbsp; [starting at maximum positive displacement]</div>
+<p>x<sub>0</sub> is the amplitude, &omega; is the angular frequency, and t is time measured from the chosen starting instant. Use the sine form if the clock starts as the object passes through equilibrium; use the cosine form if the clock starts at an extreme (maximum displacement) point, since cosine begins at its own maximum when t = 0.</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>A long pendulum has a period of 10 s. The bob is pulled to a displacement of 2.0 m from equilibrium and released from rest at t = 0 (so x = x<sub>0</sub>cos(&omega;t)). How long does it take to reach a displacement of 1.0 m from equilibrium?</p>
+<p>&omega; = 2&pi;/T = 2&pi;/10 = 0.6283 rad s<sup>-1</sup>. Setting x = 1.0 m: 1.0 = 2.0cos(&omega;t), so cos(&omega;t) = 0.5, giving &omega;t = &pi;/3 rad.</p>
+<p>t = (&pi;/3)/0.6283 = 1.0472/0.6283 = 1.7 s.</p>
+<p>It takes about 1.7 s for the bob to swing in from the 2.0 m extreme to a displacement of 1.0 m.</p>
+</div>
+
+<div class="formula-box">v = &minus;v<sub>0</sub>sin(&omega;t), &nbsp; where v<sub>0</sub> = &omega;x<sub>0</sub> (maximum speed)</div>
+<p>This gives the velocity at time t when displacement follows x = x<sub>0</sub>cos(&omega;t). v<sub>0</sub> is the maximum speed, reached as the object passes through the equilibrium position; velocity is zero at the extremes of the motion, where the object momentarily stops before reversing.</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>A mass on a spring has amplitude x<sub>0</sub> = 0.050 m and period T = 0.50 s, starting at maximum positive displacement. Find its maximum speed, and its velocity at t = 0.10 s.</p>
+<p>&omega; = 2&pi;/T = 2&pi;/0.50 = 12.57 rad s<sup>-1</sup>. Maximum speed v<sub>0</sub> = &omega;x<sub>0</sub> = 12.57 &times; 0.050 = 0.63 m s<sup>-1</sup>.</p>
+<p>At t = 0.10 s: &omega;t = 12.57 &times; 0.10 = 1.257 rad. v = &minus;v<sub>0</sub>sin(&omega;t) = &minus;0.63 &times; sin(1.257) = &minus;0.63 &times; 0.951 = &minus;0.60 m s<sup>-1</sup>.</p>
+<p>The negative sign shows the mass is moving in the negative direction (back toward, then past, equilibrium) at just under its maximum speed at this instant.</p>
+</div>
+
+<div class="formula-box">v = &plusmn;&omega;&radic;(x<sub>0</sub><sup>2</sup> &minus; x<sup>2</sup>)</div>
+<p>This alternative form gives speed directly in terms of displacement x, without needing to know the time t. It is especially useful for finding speed at a particular position, or for finding the maximum speed by substituting x = 0 (which gives v<sub>0</sub> = &omega;x<sub>0</sub>, matching the formula above).</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>For the same spring system (x<sub>0</sub> = 0.050 m, &omega; = 12.57 rad s<sup>-1</sup>), find the speed of the mass when its displacement is 0.030 m from equilibrium.</p>
+<p>v = &omega;&radic;(x<sub>0</sub><sup>2</sup> &minus; x<sup>2</sup>) = 12.57 &times; &radic;(0.050<sup>2</sup> &minus; 0.030<sup>2</sup>) = 12.57 &times; &radic;(0.0025 &minus; 0.0009) = 12.57 &times; &radic;(0.0016) = 12.57 &times; 0.040 = 0.50 m s<sup>-1</sup>.</p>
+<p>At this position, closer to the extreme than to equilibrium, the mass is moving at 0.50 m s<sup>-1</sup>, slower than its maximum speed of 0.63 m s<sup>-1</sup> found above.</p>
+</div>
+
+<div class="formula-box">a = &minus;a<sub>0</sub>cos(&omega;t), &nbsp; where a<sub>0</sub> = &omega;<sup>2</sup>x<sub>0</sub> (maximum acceleration)</div>
+<p>This gives the acceleration at time t (paired with x = x<sub>0</sub>cos(&omega;t)). The maximum magnitude of acceleration, a<sub>0</sub>, occurs at the extremes of the motion (where displacement is greatest), and acceleration is zero at the equilibrium position &mdash; the opposite pattern to velocity.</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>For the spring system above (x<sub>0</sub> = 0.050 m, &omega; = 12.57 rad s<sup>-1</sup>), find the maximum acceleration, and check the acceleration at t = 0.10 s using both the time-based and displacement-based equations.</p>
+<p>Maximum acceleration: a<sub>0</sub> = &omega;<sup>2</sup>x<sub>0</sub> = 12.57<sup>2</sup> &times; 0.050 = 158.0 &times; 0.050 = 7.9 m s<sup>-2</sup>.</p>
+<p>Using a = &minus;a<sub>0</sub>cos(&omega;t): at t = 0.10 s, &omega;t = 1.257 rad, cos(1.257) = 0.309, so a = &minus;7.9 &times; 0.309 = &minus;2.4 m s<sup>-2</sup>.</p>
+<p>Check using a = &minus;&omega;<sup>2</sup>x: at t = 0.10 s, x = x<sub>0</sub>cos(&omega;t) = 0.050 &times; 0.309 = 0.0155 m, so a = &minus;158.0 &times; 0.0155 = &minus;2.4 m s<sup>-2</sup>, matching. The mass is decelerating toward equilibrium with acceleration 2.4 m s<sup>-2</sup> directed back toward the centre.</p>
+</div>
+</div>
+
+<div class="notes-section">
+<h2>Graphical representation of SHM</h2>
+
+<p>The displacement-time, velocity-time and acceleration-time graphs of an SHM oscillator are all sinusoidal, but shifted in phase relative to one another by a quarter cycle.</p>
+
+<div class="callout diagram">
+<span class="c-label">Figure: displacement-time graph</span>
+<p>A smooth cosine curve (if timing starts at maximum displacement) oscillating between +x<sub>0</sub> and &minus;x<sub>0</sub>, crossing zero (the equilibrium position) at T/4, 3T/4, and so on, and returning to its starting value after one full period T.</p>
+</div>
+
+<div class="callout diagram">
+<span class="c-label">Figure: velocity-time graph</span>
+<p>Found from the gradient of the displacement-time graph. It is a negative sine curve: zero at t = 0 (where the displacement graph is flat, at its peak), reaching maximum negative value at T/4 (where the displacement graph crosses zero heading downward, its steepest point), back to zero at T/2 (the displacement minimum), maximum positive at 3T/4, and zero again at T.</p>
+</div>
+
+<div class="callout diagram">
+<span class="c-label">Figure: acceleration-time graph</span>
+<p>Found from the gradient of the velocity-time graph. It is a negative cosine curve, i.e. the mirror image (inverted) of the displacement-time graph: maximum negative at t = 0 (matching the maximum positive displacement, since a is opposite to x), zero at T/4, maximum positive at T/2, zero at 3T/4, maximum negative again at T. At every instant, the acceleration graph is the displacement graph flipped upside down and scaled by &omega;<sup>2</sup>, consistent with a = &minus;&omega;<sup>2</sup>x.</p>
+</div>
+
+<div class="table-wrap">
+<table class="notes-table">
+<thead>
+<tr><th>Time</th><th>Displacement x</th><th>Velocity v</th><th>Acceleration a</th></tr>
+</thead>
+<tbody>
+<tr><td>t = 0</td><td>+x<sub>0</sub> (max)</td><td>0</td><td>&minus;a<sub>0</sub> (max, toward equilibrium)</td></tr>
+<tr><td>t = T/4</td><td>0</td><td>&minus;v<sub>0</sub> (max)</td><td>0</td></tr>
+<tr><td>t = T/2</td><td>&minus;x<sub>0</sub> (max)</td><td>0</td><td>+a<sub>0</sub> (max, toward equilibrium)</td></tr>
+<tr><td>t = 3T/4</td><td>0</td><td>+v<sub>0</sub> (max)</td><td>0</td></tr>
+<tr><td>t = T</td><td>+x<sub>0</sub> (max)</td><td>0</td><td>&minus;a<sub>0</sub> (max)</td></tr>
+</tbody>
+</table>
+</div>
+
+<div class="callout key">
+<span class="c-label">Reading the three graphs together</span>
+<p>Velocity is always zero when displacement is at a maximum (or minimum), and displacement is always zero when velocity is at a maximum. Acceleration is always zero when displacement is zero, and is at its maximum magnitude (but opposite sign) when displacement is at its maximum. This pattern &mdash; each graph shifted a quarter cycle from the next &mdash; is a very common exam graph-matching task.</p>
+</div>
+</div>
+
+<div class="notes-section">
+<h2>Phase</h2>
+
+<div class="callout key">
+<span class="c-label">Phase / in phase / out of phase</span>
+<p>Phase describes how far through a cycle an oscillator is at a given moment. Two oscillators of the same frequency that reach maximum displacement, pass through equilibrium, and reach minimum displacement at exactly the same times are said to be <strong>in phase</strong>. If their cycles are offset from one another (for example, one is at maximum displacement while the other is at equilibrium, or they move in opposite directions at the same time), they are <strong>out of phase</strong>.</p>
+</div>
+
+<div class="callout diagram">
+<span class="c-label">Figure: in phase and out of phase displacement-time graphs</span>
+<p>Two sinusoidal curves of the same period and shape, perfectly overlapping (peaks and troughs line up exactly) represent two oscillators in phase. A third curve, shifted sideways relative to the first two (for example reaching its peak while the others are at zero, or a mirror image reaching a trough when the others peak) represents an oscillator out of phase with them.</p>
+</div>
+
+<div class="callout distinction">
+<span class="c-label">In phase vs completely out of phase</span>
+<p>Two identical pendulum bobs released together from the same side swing in phase &mdash; same displacement, same velocity, at every instant. If one is released from the left and the other from the right at the same time, they are out of phase (specifically, in "antiphase", a phase difference of half a cycle): whenever one is at its rightmost point, the other is at its leftmost point.</p>
+</div>
+</div>
+
+<div class="notes-section">
+<h2>Energy changes during SHM (qualitative)</h2>
+
+<p>As a body performs SHM, energy is continuously transferred between kinetic energy and potential energy (gravitational for a pendulum, elastic for a spring), while the total mechanical energy of the (undamped) system stays constant throughout the cycle.</p>
+
+<div class="formula-box">total energy = E<sub>K</sub> + E<sub>P</sub> = constant</div>
+<p>E<sub>K</sub> is kinetic energy and E<sub>P</sub> is potential energy (elastic or gravitational, depending on the system). In an ideal (undamped) oscillator, no energy is lost, so as one form of energy decreases the other increases by the same amount, keeping the total constant throughout the cycle.</p>
+<div class="callout example">
+<span class="c-label">Worked example</span>
+<p>A pendulum bob swings from one extreme, through the bottom, to the other extreme. Describe the energy changes.</p>
+<p>At the extreme (maximum displacement), the bob is momentarily at rest, so E<sub>K</sub> = 0 and all the energy is gravitational potential energy (maximum E<sub>P</sub>). As it swings down toward equilibrium, E<sub>P</sub> decreases and E<sub>K</sub> increases. At the equilibrium (lowest) position, the bob moves at maximum speed, so E<sub>K</sub> is maximum and E<sub>P</sub> is at its minimum (taken as zero). As it continues to the opposite extreme, E<sub>K</sub> converts back into E<sub>P</sub> until the bob is again momentarily at rest.</p>
+<p>This shows energy continuously shuttling between kinetic and potential stores while their sum stays constant &mdash; the same is true for a mass-spring system, with elastic potential energy taking the place of gravitational potential energy.</p>
+</div>
+
+<div class="callout diagram">
+<span class="c-label">Figure: energy transfer in a pendulum</span>
+<p>A sequence of the pendulum bob at several points in its swing, with kinetic energy greatest (and potential energy least) at the lowest, central point, and kinetic energy least (potential energy greatest) at the two extreme, momentarily-stationary points either side.</p>
+</div>
+
+<div class="callout key">
+<span class="c-label">Kinetic and potential energy vs displacement</span>
+<p>Kinetic energy is maximum at the equilibrium position (x = 0, where speed is maximum) and zero at the extremes of displacement (x = &plusmn;x<sub>0</sub>, where the body is momentarily at rest). Potential energy shows the opposite pattern: minimum (taken as zero) at equilibrium and maximum at the extremes. Their sum, the total mechanical energy, remains unchanged throughout the oscillation as long as no energy is dissipated (e.g. by friction or air resistance).</p>
+</div>
+</div>
+
+<div class="notes-section">
+<h2>Measuring the period experimentally</h2>
+
+<p>Because a typical laboratory pendulum has a period of around 1 s, timing a single swing by hand with a stopwatch introduces large relative timing errors from human reaction time. Two standard techniques reduce this error.</p>
+
+<div class="callout key">
+<span class="c-label">Timing multiple oscillations</span>
+<p>Instead of timing one swing, time a larger number (commonly 10 or 20) of complete oscillations and divide the total time by that number to obtain the period. This spreads the fixed reaction-time error over many cycles, greatly reducing the percentage uncertainty in the measured period compared to timing a single swing.</p>
+</div>
+
+<div class="callout key">
+<span class="c-label">Using a photogate</span>
+<p>A photogate positioned at the equilibrium point of the swing detects each time the bob passes through it, and a computer records the times automatically, removing human reaction-time error entirely. In "pendulum timing" mode, the gate records the time between the bob's first pass through the gate and its third pass through the gate (one full period later, since the bob crosses the equilibrium point twice per cycle &mdash; once in each direction), giving a precise value for T.</p>
+</div>
+
+<div class="callout key">
+<span class="c-label">Verifying T = 2&pi;&radic;(l/g) experimentally</span>
+<p>Squaring the pendulum period formula gives T<sup>2</sup> = (4&pi;<sup>2</sup>/g)l. Measuring T for several different pendulum lengths l and plotting T<sup>2</sup> (y-axis) against l (x-axis) should give a straight line through the origin, with gradient 4&pi;<sup>2</sup>/g. This allows an experimental value of g to be determined from the gradient.</p>
+</div>
+</div>
+
+<!-- CHAPTER_END:8 -->

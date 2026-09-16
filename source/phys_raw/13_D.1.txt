@@ -1,0 +1,563 @@
+=== PAGE 316 ===
+Gravitational fields 
+
+=== PAGE 317 ===
+◄ 
+Gravitational field strength, the gravitational force acting per unit mass, is often assumed to be constant 
+worldwide. However, when Hirt et al. (Geophysical Research Letcers, 2013) used ultrahigh-resolution 
+pictures to map the Earth's surface, gravitational field strength was found to vary from 9.83 N kg-1 in the 
+Arctic Ocean to 9.76 N kg-1 at the summit of Huascaran, a mountain in Peru (shown here). As you 
+study the content in this chapter, think about why this variation exists and what might be responsible. 
+Guiding Questions 
+How are the properties of a gravitational field quantified? 
+How does an understanding of gravitational fields allow humans to explore the 
+solar system? 
+Nature of Science 
+Newton's universal law of gravitation suggests a very simple relationship between 
+the mass of a body and the force between it and every other particle of mass in the 
+Universe. However, it does not explain why matter behaves in this way. 
+To help us understand the way a gravitational field varies throughout space, 
+we will use the visual models of field lines and potential surfaces. 
+If we want to make a body move, we have to apply a force. We could push or pull it 
+with our hands. If the body moved without us touching it, we would call it magic. 
+But when a body is released from a height, it falls without being in contact with 
+anything. How? The gravitational force. 
+What is gravity? It is the thing that makes a ball fall toward the Earth. Why does a ball fall to 
+the Earth? Because of gravity. We made up gravity to answer the question. The gravitational 
+force on a body is proportional to its mass. We have been using weight = mg since it was 
+introduced as a force. But mass is not just related to weight. From Newton's second law, we 
+know that mass is the ratio of force to acceleration, which does not refer to gravity. 
+\Ve end up with two definitions of mass: inertial mass and gravitational mass. Newton 
+did not manage to explain the connection between these two definitions. Einstein did, 
+however, by realizing that if you were in a box accelerating upward at 9.8 ms-2, it would 
+feel the same as if you were in a box that was stationary on the Earth. This principle of 
+equivalence is the basis of Einstein's general theory of relativity, the modern gravitational 
+model, which explains gravitation in terms of the curvature of space-time. 
+Students should understand: 
+Kepler's three laws of orbital motion 
+I 
+2 
+Newton's universal law of gravitation as given by F = c"\~ for bodies treated as 
+point masses 
+conditions under which extended bodies can be treated as point masses 
+gravitational field strength g at a point is the force per unit mass experienced by a 
+small point mass at that point as given by g = ~ = G~ 
+gravitational field lines. 
+• • 
+FIELDS D.1 
+271 
+
+=== PAGE 318 ===
+FIELDS D. 1 
+,------------------------. 0 
+• 
+l 
+.... 
+D. l Figure l The apple 
+dro ps and the Sun seems 
+to move in a circle, but it 
+is gravity that makes both 
+things happen 
+Was it reasonable for 
+Newton to think that 
+his law applied to the 
+whole Universe? 
+We often look at the 
+applications of physics 
+with an international 
+perspective but 
+perhaps we should 
+adopt a universal 
+perspective. 
+.... 
+The modern equivalent of the 
+apparatus used by Cavendish 
+to measure G in 1798. 
+Physics utilizes a 
+number of constants 
+such as G. What is 
+the purpose of these 
+constants and how are 
+they determined? (NOS) 
+272 
+Gravitational fields 
+Gravitational force and field 
+We have all seen how an object falls to the ground when released. Newton was not 
+the first person to realize that an apple falls to the ground when dropped from a tree. 
+However, he did recognize that the force that pulls the apple to the ground is the same 
+as the force that holds the Earth in its orbit around the Sun. This was not obvious 
+- after all, the apple moves in a straight line and the Earth moves in a circle. In this 
+chapter, we will see how these forces are connected . 
+Newton's universal law of gravitation 
+Newton extended his ideas further to say that every single particle of mass in the 
+Universe 'gravitates toward' every other particle of mass. In other words, everything in 
+the Universe is attracted to everything else. So there is a force between the end of your 
+nose and a lump of rock on the Moon. 
+Newton's universal law of gravitation is often phrased as: 
+Every single point mass attracts every other point mass with a force that is directly 
+proportional to the product of their masses and inversely proportional to the square 
+of their separation. 
+If two point masses with mass m1 and m2 are separated by a distance r, then the force, F, 
+experienced by each will be given by: 
+F 
+of---•~ 
+m, 
+◄ D. l Figure 2 The gravitational force F 
+between two point masses. 
+The constant of proportionality is the universal gravitational constant G. 
+G = 6.67 x 10-11 m 3kg- 1 s-2 
+Therefore the equation is: 
+Extended bodies 
+An extended body is any object at which the mass is not confined to a point. 
+Every extended body has a center of mass around which mass is uniformly distributed. In 
+regularly shaped bodies with uniform distribution of mass, this is the center of the object. 
+The center of gravity of a body is the point at which the entirety of its weight can be 
+taken to act. 
+In a uniform field, the center of mass and the center of gravity are identical. The center 
+of gravity of a sphere is at its center and this particular example of an extended body 
+can be treated as a point mass. 
+In a non-uniform field, the gravitational force acting on the mass is greater where field 
+strength is greater; the center of gravity of the Moon (for example) is not in the center 
+but instead slightly toward the Earth. 
+
+=== PAGE 319 ===
+Spheres of mass 
+By working out the total force between every particle of one sphere and every 
+particle of another sphere, Newton deduced that spheres of mass follow the same law, 
+where r is the separation between their centers. This is because spheres are 
+symmetrically spherical. 
+How fast does the apple drop? 
+If we apply Newton's universal law to the apple on the surface of the Earth, 
+we find that it will experience a force given by: 
+where: 
+So: 
+F= Gm1m2 
+r2 
+m 1 = mass of the Earth = 5.97 x 1024 kg 
+m2 = mass of the apple = 250 g 
+r = radius of the Earth= 6378 km (at the equator) 
+F = 2.43N 
+From Newton's second law, we know that F = ma. 
+2.43 
+So: acceleration a of the apple = 0_25 m s-2 
+a=9.79ms-2 
+This is very close to the average value for the acceleration of free fall on the Earth's 
+surface. It need not be exactly the same since 9.81 m s-2 is an average for the whole 
+Earth, the radius of the Earth being maximum at the equator. 
+Exercise 
+QI. The mass of the Moon is 7.35 x 1022kg and its radius is 1.74 x 103km. 
+What is the acceleration due to gravity on the Moon's surface? 
+Gravitational field 
+The fact that both the apple and the Earth experience a force without being in contact 
+makes gravity different from the other forces we have come across. To model this 
+situation, we introduce the idea of a field. A field (in the physical sense) is a region 
+of space where forces are experienced by bodies with the appropriate property. 
+A gravitational field is a region where you find gravity. More precisely, a gravitational 
+field is defined as a region of space where a mass experiences a force because of 
+its mass. 
+So there is a gravitational field in your classroom since masses experience a force in it. 
+4) 
+A 
+D.1 Figure 3 Forces 
+between two spheres. Even 
+though these bodies do not 
+have the same mass. the 
+force on them is the same 
+size. This is due to Newton's 
+third law: if mass m1 exerts 
+a force on mass m2, then 
+m2 will exert an equal and 
+opposite force on m1. 
+273 
+
+=== PAGE 320 ===
+FIELDS D. 1 
+D.1 Figure 4 The region 
+surrounding M is a 
+gravitational field since all the 
+test masses experience a force. 
+What measurements 
+of a binary star system 
+need to be made in 
+order to determine the 
+nature of the two stars? 
+(C S, E.5) 
+... 
+D.1 Figure 5 Field lines for 
+a sphere of mass. 
+274 
+Gravitational fields 
+Field strength on the Earth's surface: 
+Substituting: 
+M = mass of the Earth = 5.97 x 1024 kg 
+r = average radius of the Earth= 6371 km 
+gives 
+g = G~= 9.81 Nkg-1 
+r 
+This is the same as the acceleration due to gravity, which is what you might 
+expect, since Newton's second law says that a = ti,-
+Gravitational field strength, g 
+This gives a measure of how much force a body will experience in the field. It is defined 
+as the force per unit mass experienced by a small point mass placed in the field. 
+So if a test mass, m, experiences a force Fat some point in space, then the field strength, 
+g, at that point is given by:g = ~ 
+Gravitational field strength g is measured in N kg-• and is a vector quantity. 
+Note: When a second mass (with its own gravitational field) is placed in the original 
+field, the field strength at any g iven location is a vector sum of the two. It is convenient, 
+therefore, to define gravitational field strength on the assumption that the second mass 
+is a 'point' (i.e. so that its own gravitational field has no effect on the field strength 
+measured at the point) and 'small' (i.e. much smaller than the original mass). 
+Gravitational field around a spherical object 
+The force experienced by a mass min the field produced by a mass Mis given by: 
+Mm 
+F = G7 
+F 
+So: field strength at this point in space, g = -m 
+M 
+So: 
+g= G7 
+Exercise 
+Q2. The mass of Jupiter is 1.89 x 1027 kg and its radius is 71492 km. 
+What is the gravitational field strength on the surface of Jupiter? 
+Q3. What is the gravitational field strength at a distance of 1000 km from the 
+surface of the Earth? 
+Field lines 
+Field lines are drawn in the direction that a mass would accelerate if placed in the field 
+- they are used to help us visualize the field. 
+The field lines for a spherical mass are shown in Figure 5: 
+• The arrows give the direction of the field. 
+• The field strength, g, is given by the density of the lines . 
+
+=== PAGE 321 ===
+Gravitational field close to the Earth 
+\1/hen we are doing experiments close to the Earth, in the classroom, for example, we 
+assume that the gravitational field strength is constant throughout. This means that 
+wherever you put a mass in the classroom it is always pulled downward with the same 
+force. We say that the field is uniform. 
+t t t t t t 
+Addition of field 
+Since field strength is a vector, when we add field strengths caused by several bodies, 
+we must remember to add them vectorially. 
+In this example, the angle between the vectors is 90°. This means that we can use 
+Pythagoras to find the resultant. 
+0 
+0 
+Worked example 
+Calculate the gravitational field strength at point A. 
+B • 8 
+A • 
+8 
++--- l m ---++----- 2.5 m ___ ,.___ 2.5 m ---+ 
+Solution 
+The gravitational field strength at A is equal to the sum of the fields due to the two 
+masses. 
+G x 1000 
+field strength due to large mass= 
+2_52 
+= 1.07 x 10-8N kg- 1 
+G x 100 
+field strength due to small mass = 
+2_52 
+= 1.07 x 10-9 Nkg- 1 
+field strength = 1.07 x 10-8 - 1.07 x I0-9 
+= 9.63 x 10-9Nkg- 1 
+D.1 Figure 6 Close to the 
+Earth the field is uniform. 
+The value of g is 
+different in different 
+places on the Earth. 
+Do you know what it is 
+where you live? 
+W hat are the benefits 
+of using consistent 
+terminology to describe 
+different types of fields? 
+(NOS) 
+D.1 Figure 7 Vector 
+add it ion of field strength. 
+Since field strength g is 
+a vector. the resultant 
+field strength equals 
+the vector sum. 
+275 
+
+=== PAGE 322 ===
+FIELDS D. 1 
+How can the motion of 
+electrons in the atom be 
+modeled on planetary 
+motion and in what 
+ways does this model 
+fail? (NOS} 
+D.1 Figure 8 The Earth 
+orbiting the Sun. 
+276 
+Gravitational fields 
+Exercise 
+Q4. Calculate the gravitational field strength at point B in the figure in the worked 
+example above. 
+Q 5. Calculate the gravitational field strength at point A if the big mass were 
+changed for a 100 kg mass. 
+The solar system 
+The solar system consists of the Sun at the center, surrounded by eight orbiting 
+planets. The shape of the orbits is slightly elliptical but, to make things simpler, we will 
+assume them to be circular. We know that for a body to travel in a circle, there must 
+be an unbalanced force (called the centripetal force, mw2r) acting toward the center. 
+The force that holds the planets in orbit around the Sun is the gravitational force,~-
+Equating these two expressions gives us an equation for orbital motion: 
+Mm 
+mw2r = G- r2 
+Now w is the angular velocity of the planet; that is, the angle swept out bi a radius per 
+unit time. If the time taken for one revolution (2n radians) is T, then w = ; . 
+Substituting into the equation above gives: 
+(2n)
+2 
+Mm 
+m T r = G~ 
+Rearranging gives: 
+where Mis the mass of the Sun. 
+T2 
+4:,r2 
+r3 = GM 
+0 --~1 
+GMm \....I 
+rl 
+,' 
+T2 
+So for planets orbiting the Sun, 3 is a constant, orP is proportional to r3• 
+r 
+This is Kepler's third law . 
+
+=== PAGE 323 ===
+From this, we can deduce that the planet closest to the Sun (Mercury) has a shorter 
+time period than the planet furthest away. This is supported by measurements: 
+time period of Mercury = 0.24 years 
+time period of Neptune = 165 years. 
+Exercise 
+Q6. Use a database of planetary information to make a table of the values of 
+time period and radius for all the planets. Plot a graph to show that T2 is 
+proportional to r3• 
+Kepler's laws 
+Kepler is associated with three laws for planetary motion. All three can be derived 
+from Newton's laws, but Kepler came up with them empirically by measuring orbital 
+times and radii of the planets and looking for relationships among the numbers. 
+First law 
+Planetary orbits are elliptical with a star at a focus. 
+In this course, we deal only with circular orbits (a special example of an ellipse), but 
+Newton's law also predicts elliptical orbits. 
+Second law 
+The radius vector from the star to the orbiting body sweeps equal areas in equal times. 
+This is obvious for circular orbits but not so obvious for elliptical ones. 
+equal areas 
+in equal times 
+planet 
+Qualitatively, we can understand the second law as being because the orbiting body 
+(for example, a planet) gets faster as it gets closer to the star. This is because its kinetic 
+energy must increase as its potential energy decreases, which in turn is because its 
+energy is conserved. 
+How is uniform circular 
+motion like. and unlike. 
+real-life orbits? (A2) 
+D.1 Figure 9 Kepler's first 
+and second laws. 
+277 
+
+=== PAGE 324 ===
+FIELDS D. 1 
+It is strange how 
+everyone can describe 
+the motion of the 
+planets as viewed from 
+a long way outside 
+the solar system but 
+few can describe the 
+motion as seen from 
+the Earth. 
+There are two versions 
+of the equation for 
+centripetal force. 
+Speed version: 
+F= mv' 
+r 
+Angular speed version: 
+F = mw 2r 
+The orbits of spy 
+satellites are set so that 
+they pass over places 
+of interest. Which 
+countries have most 
+spy satellites passing 
+overhead? 
+278 
+Gravitational fields 
+Third law 
+The square of the orbital period is proportional to the cube of the semi-major axis 
+of the ellipse (the distance from the center of the ellipse to the farthest point on the 
+perimeter). For a circular orbit, T2 tx r 3, where Tis the orbital period and r is the radius 
+of the orbit. 
+This means that the ratio of T2 to r 3 is constant for all planets in the same solar system. 
+This law comes from equating the gravitational force according to Newton's law with 
+the equation for centripetal force. 
+Earth satellites 
+The equations we have derived for the orbits of the planets also apply to the satellites 
+that humans have put into orbits around the Earth. This means that the satellites closer 
+to the Earth have a time period much shorter than the distant ones. For example, a 
+low-orbit spy satellite could orbit the Earth once every two hours while a much higher 
+TV satellite orbits only once a day. 
+Exercise 
+Q7. So that they can stay above the same point on the Earth, TV satellites have a 
+time period equal to one day. Calculate the radius of their orbit. 
+Q8. A spy satellite orbits 400 km above the Earth. If the radius of the Earth is 
+6400 km, what is the time period of the orbit? 
+Guiding Questions revisited 
+How are the properties of a gravitational field quantified? 
+How does an understanding of gravitational fields allow humans to explore 
+the solar system? 
+In this chapter, we have considered gravitational fields through the models of Kepler 
+and Newton to develop an understanding of how: 
+• Kepler's three laws state collectively that bodies' orbits of a celestial mass are 
+elliptical with the mass at a focus, that equal areas are swept out by these bodies 
+in equal times, and that the square of a body's orbital period is proportional to 
+the cube of its orbital radius (for circular orbits). 
+• Newton's universal law of gravitation states that the gravitational force acting 
+between any two masses in the Universe is proportional to the product of the 
+masses and inversely proportional to the square of the distance between their 
+centers of masses. 
+• Gravitational field strength is defined as the gravitational force acting per unit 
+mass. 
+• Field lines represent the direction of the force that would act on a mass placed in 
+the field, with the closeness of the lines indicating the strength of the field. 
+• Knowledge of forces, energy and fields can be used to estimate the escape speed 
+that a solar system probe or telescope would need to be launched with from the 
+Earth, assuming the atmosphere causes no drag. 
+
+=== PAGE 325 ===
+Practice questions 
+I. An object of mass m released from rest near the surface of a planet has an 
+initial acceleration z. What is the gravitational field strength near the surface of 
+the planet? 
+A z 
+B 
+1.. 
+m 
+C mz 
+D 
+!!!. z 
+(Total 1 mark) 
+2. Which graph shows the relationship between gravitational force F between 
+two point masses and their separation r? 
+(1) 
+A 
+B 
+F 
+F 
+r, 
+C 
+D 
+(Total 1 mark) 
+3. 
+Two isolated point particles of mass 4M and 9M are separated by a distance 
+1 m. A point particle of mass Mis placed a distance x from the particle of mass 
+9M. The net gravitational force on Mis zero. What is x? 
+4M 
+M 
+9M 
+• 
+• 
+• 
+1--
+~1 not to scale 
+X 
+A 
+~ 
+13 m 
+B lm 
+5 
+C lm 
+5 
+D 
+.2... 
+13 m 
+(Total 1 mark) 
+279 
+
+=== PAGE 326 ===
+FIELDS D. 1 
+280 
+Gravitational fields 
+4. A planet is in a circular o rbit around a star. The speed of the planet is constant. 
+(a) Explain why a centripetal force is needed for the planet to be in a circular 
+~t. 
+m 
+(b) State the nature of this centripetal force. 
+The following data are given: 
+Mass of planet = 8.0 x 1024 kg 
+Radius of planet = 9.1 x 106 m 
+(1) 
+(c) Determine the gravitational field strength at the surface of the planet. 
+(2) 
+(Total 5 marks) 
+5. The moon Phobos moves around the planet Mars in a circular orbit. 
+(a) Outline why the gravitational force does no work on Phobos. 
+(1) 
+The orbital period T of a moon orbiting a planet of mass Mis given by: 
+1# =kM 
+where R is the average distance between the center of the planet and the center 
+of the moon. 
+G 
+(b) Show that k = 4a,. 
+(3) 
+The following data for the Mars-Phobos system and the Earth-Moon system 
+are available: 
+Mass of Earth = 5.97 x 1024 kg 
+The Earth-Moon distance is 41 times the Mars-Phobos distance. 
+The orbital period of the Moon is 86 times the orbital period of Phobos. 
+(c) Calculate, in kg, the mass of Mars. 
+(2) 
+(Total 6 marks) 
+6. (a) In a cave below the surface of the Earth, which is correct about the gravity? (1) 
+A 
+There is more gravity than at the Earth's surface. 
+B 
+There is less gravity than at the Earth's surface. 
+C 
+There is the same gravity as at the Earth's surface. 
+(b) Explain your answer. 
+(1) 
+(Total 2 marks) 
+7. 
+(a) As you move away from the Earth, its gravity gets weaker. But suppose 
+it got stronger. If that were so, would it be possible for objects, like the 
+Moon, to orbit the Earth? 
+(1) 
+A 
+Yes, just as they do presently. 
+B 
+Yes, but unlike they do presently. 
+C 
+No, orbital motion could not occur. 
+(b) Explain your answer. 
+(Total 2 marks) 
+
+=== PAGE 327 ===
+8. The Sun orbits the center of the Milky Way galaxy at a radius of 30 000 light 
+years and with a period of orbit of 200 million years. Assume that the mass 
+distribution of matter in the galaxy is concentrated mainly in a central uniform 
+sphere and the Sun lies in one of the arms. 
+(a) Obtain an expression for the period of 
+orbit T of the Sun in terms of its radius 
+of orbit, r, G and M, the mass of the 
+.. ... '• • • • "1;;;;;.:.,.•• • 
+_-•rl.! • • 
+.. 
+Sun 
+g 
+galaxy. 
+(b) Determine a value of the mass of the galaxy. 
+(1) 
+(1) 
+(c) If the Sun represents the mass of an average star, estimate the number of 
+stars in the Milky Way. 
+(1) 
+(Total 3 marks) 
+281 

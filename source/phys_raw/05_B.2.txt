@@ -1,0 +1,1038 @@
+=== PAGE 164 ===
+Greenhouse effect 
+
+=== PAGE 165 ===
+THE PARTICULATE NATURE OF MATTER B .2 
+◄ 
+This photograph of the Earth was taken in 1968 during the Apollo 8 astronauts' return from orbiting the 
+Moon. It reveals a lot on the greenhouse effect that has relevance in this chapter: not all of the Earth is 
+illuminated by the Sun at a time; there are variations in how reflective different surfaces are; and the 
+Earth is surrounded by swirling gases known as the atmosphere. What this snapshot cannot reveal is 
+the impact that humans are having on the balance of thermal energy and temperature overall. 
+Guiding Questions 
+How does the greenhouse effect help to maintain life on Earth and how does 
+human activity enhance this effect? 
+How is the atmosphere as a system modeled to quantify the Earth-
+atmosphere energy balance? 
+The Sun can be considered to be a black-body radiator so we can use Wei n's law to find 
+the temperature of its surface and the Stefan-Boltzmann law to find the power emitted 
+per unit area and hence the total power. This radiation spreads out according to the 
+inverse square relationship and is incident on the Earth, but before it can reach us on 
+the ground, it must pass through the atmosphere. Here, we will investigate how the 
+different wavelengths interact with the gases in the atmosphere. 
+Nature of Science 
+We can model the behavior of a small amount of ideal gas trapped in a cylinder 
+quite accurately but modeling the whole atmosphere is quite different. To 
+model the atmosphere, computer programs are used in an attempt to make 
+predictions. However, we cannot run experiments to see if these predictions are 
+correct. In 1988, the Intergovernmental Panel on Climate Change (IPCC) was 
+established by the United Nations Environmental Programme and the World 
+Meteorological Organization to provide the decision-makers of the world with a 
+clear scientific view on the current state of knowledge in climate change and its 
+potential environmental and socio-economic impacts. 
+There are problems associated with the use of energy. It will be up to the 
+imagination and creativity of future scientists to solve them. 
+Students should understand: 
+conservation of energy 
+emissivity as the ratio of the power radiated per unit area by a surface compared to that of an 
+ideal black surface at the same temperature as given by emissivity = 
+power radiated per unit area 
+aT' 
+albedo as a measure of the average energy reflected off a macroscopic system as given by 
+total scattered power 
+albedo= total incident power 
+Earth's albedo varies daily and is dependent on cloud formations and latitude 
+the solar constant S 
+the incoming radiative power is dependent on the projected surface of a planet along the 
+direction of the path of the rays, resulting in a mean value of the incoming intensity being ¾ 
+• • 
+119 
+
+=== PAGE 166 ===
+THE PARTICULATE NATURE OF MATTER B.2 
+Greenhouse effect 
+8.2 Figure 1 
+► 
+Electromagnetic spectrum of 
+sunlight. 
+methane CH4, water vapor H20, carbon dioxide CO2, and nitrous oxide N20 are the main 
+greenhouse gases, and each has origins that are both natural and created by human activity 
+absorption of infrared radiation by the main greenhouse gases in terms of the molecular 
+energy levels and the subsequent emission of radiation in all directions 
+the greenhouse effect can be explained in terms of a resonance model and molecular energy 
+levels 
+the augmentation of the greenhouse effect due to human activities is known as the enhanced 
+greenhouse effect. 
+Radiation from the Sun 
+500 
+I 000 
+1500 
+2000 
+2500 
+3000 
+wavelength/nm 
+The spectrum oflight arriving at the edge of the Earth's atmosphere, as shown 
+in Figure 1, has a peak value at about 500 nm. This is in the green region of the 
+visible spectrum. Putting this value into Wien's displacement law equation gives a 
+temperature of 5800 K. 
+Now we know the temperature of the Sun, we can use the Stefan-Boltzmann law to 
+calculate the power radiated per unit area: 
+P= AcrT4 
+p A= 5.67 X 10-8 X 58004 = 6.42 X 107W 
+The radius of the Sun = 6.9 x 108 m so the surface area = 4nr 2 
+= 6.0 x 1018 m2, which means that the total power radiated 
+= 3.9 X 1026 W. 
+The Earth is 1.5 x 1011 m from the Sun so the power per unit area (also known as 
+intensity or apparent brightness) at the Earth will be: 
+p 
+3.9 X lQ26 
+T=-- =----- = 1400Wm-2 
+4,rr2 
+4,r(l.5 X 1011) 2 
+in the visible region, 
+This quantity is called the solar constant, S. 
+Although the peak is t 
+sunlight also contains 
+ultraviolet {l 0%) and 
+infrared (50%). 
+~---
+120 
+
+=== PAGE 167 ===
+Interaction between solar radiation and 
+the atmosphere 
+,:r 
+;; 
+>.. 
+u 
+&i g. 
+... 
+J: 
+t = 
+OJ 
+~ 
+"' 
+~ 
+Electromagnetic radiation spreads out as a wave, rather like a water wave, but in 
+three dimensions. A water wave has peaks and troughs that spread across the 
+water; electromagnetic waves have peaks and troughs in electromagnetic fields that 
+spread through a vacuum at speed v. The distance between the peaks is called the 
+wavelength J., and the number of oscillations per second is called the frequency f 
+These quantities are related by the equation: 
+10
+19 gamma rays 
+O.D!nm 
+V == J A 
+The electromagnetic radiation from the Sun can be split into three regions 
+according to their wavelength: ultraviolet, visible and infrared. Ultraviolet has the 
+shortest wavelength and highest frequency, infrared has the longest wavelength 
+and lowest frequency, and visible light is in-between. These types of radiation 
+interact with the atmosphere in different ways. 
+Ultraviolet radiation 
+Ultraviolet radiation has the highest energy, enough to split molecules. Ultraviolet 
+radiation is absorbed by oxygen molecules (0i} and splits them into two oxygen 
+atoms (20). The atoms can then join with 0 2 molecules to form ozone (0 3), which 
+forms a thin layer in the upper atmosphere where it absorbs ultraviolet radiation as 
+it splits it into 0 2 and 0. Most of the higher energy ultraviolet radiation is absorbed 
+in this way. This can be represented by the absorption spectrum in Figure 3, where 
+100% means that all of the radiation of that wavelength is absorbed. 
+UV 
+IR 
+wavelength 
+Visible light 
+Visible light excites atoms. In other words, the atoms absorb the energy of the light. An 
+excited atom is unstable so will re-emit the light a short time later. You might expect that 
+the atmosphere would absorb all the visible light, but it does not. If it did, the atmosphere 
+would not be transparent. The reason for this is that the atoms can only be excited by 
+certain specific energies, so only these are absorbed, leaving the rest to pass through. 
+10
+18 
+10 17 
+10
+16 
+JO" 
+10 1• 
+JO" 
+10" 
+JO" 
+10
+10 
+This gives rise to dark lines in the spectrum of light received on the Earth because the re-
+emitted radiation does not come out in the same direction as the original. You will find out 
+more about this when you study atomic models and learn about electron energy levels. 
+Infrared radiation 
+Infrared radiation is produced by the vibration of molecules. The molecules of a solid 
+vibrate in bodies that have thermal energy and infrared radiation is emitted. So, infrared 
+radiation is associated with hot bodies. This is the radiation that we can feel coming from 
+a fire and is detected in night vision cameras. When infrared radiation is absorbed, it 
+makes molecules vibrate, which is why you get hot standing in front of a fire. 
+0.1 nm 
+X-rays 
+! nm 
+400nm 
+JO nm 
+ultraviolet 
+100nm 
+500nm 
+visible 
+nearlR 
+{ 1000 nm 
+lµm 
+600nm 
+infrared 
+JOµm 
+thermal IR 
+JOOµm 
+700nm 
+JOOOµm 
+I cm 
+microwaves 
+JO cm 
+radio waves 
+• 
+B.2 Figure 2 The 
+electromagnetic spectrum 
+Waves can be classified in 
+terms of their wavelength. 
+Each range of wavelengths 
+has a different name. mode 
+of production and uses. 
+B.2 Figure 3 Absorption of 
+electromagnetic radiation by 
+ozone. 
+121 
+
+=== PAGE 168 ===
+THE PARTICULATE NATURE OF MATTER B.2 
+Greenhouse effect 
+8.2 Figure 4 Absorption of ► 
+electromagnetic radiation by 
+carbon dioxide. 
+8.2 Figure 5 Absorption of ~ 
+electromagnetic radiation by 
+water. 
+What relevance do 
+simple harmonic 
+motion and resonance 
+have to climate change? 
+{Cl. C.4) 
+8.2 Figure 6 Spectrum of 
+light reaching the Earth's 
+surface. 
+122 
+Certain molecules present in the atmosphere (e.g. carbon dioxide CO2, water vapor H2O, 
+nitrous oxide N2O, and methane CH4} can be made to vibrate by infrared radiation, but 
+they only absorb the frequency of radiation that is the same as their natural frequency. 
+This is called resonance and is similar to someone pushing a child on a swing. If the 
+frequency of pushing matches the natural frequency of the swing, maximum energy 
+is transferred from the pusher to the swing. Once the molecule starts to vibrate, it will 
+re-emit the radiation in a random direction (including toward space), which results in less 
+radiation reaching the Earth. The absorption spectrum for CO2 is shown in Figure 4. 
+Notice the three distinct peaks; -each is due to a different mode of vibration of the molecule. 
+UV 
+visible 
+IR 
+wavelength 
+Although CO2 is the most talked about absorber of infrared radiation, water has the 
+greatest effect. This is not only due to its absorption characteristics, shown in Figure 5, 
+but also because it is more abundant in the atmosphere. 
+UV 
+wavelength 
+Radiation reaching the Earth 
+By the time the black-body radiation from the Sun reaches the surface of the Earth, a 
+lot of wavelengths have been absorbed by the different gases in the atmosphere. The 
+spectrum now looks something like Figure 6. The actual amount of energy absorbed 
+will vary with latitude since the sunlight has to pass through more atmosphere to 
+reach the surface at the poles than at the equator. 
+0 
+0 
+500 
+spectrum aniving at atmosphere 
+spectrum arriving at Earth 
+1000 
+1500 
+2000 
+2 500 
+3000 
+wavelength/nm 
+
+=== PAGE 169 ===
+Interaction between light and solids 
+When the radiation hits the surface of the Earth, some is reflected and some is absorbed. 
+The molecules in solids are much closer than the molecules in a gas. This results in electron 
+energy bands rather than the discrete levels of a single atom. Solids can therefore emit and 
+absorb many more wavelengths oflight than low-pressure gases. When electromagnetic 
+radiation is incident on a solid surface, there are three main possibilities: 
+• It may be absorbed then re-emitted in the opposite direction. This is reflection 
+or scattering. 
+• It may be absorbed, transferring energy to electrons, which in turn pass the energy to 
+molecular kinetic energy, resulting in an increase in temperature. 
+• It may not be absorbed but pass through the material. 
+When dealing with the surface of the Earth, we can discount the last option since no radiation 
+will pass through the Earth. Whether a particular wavelength photon (particle oflight) is 
+absorbed or reflected depends upon the material of the surface; it is this that makes different 
+materials have different colors. A red object appears red because it reflects red photons but 
+absorbs the other colors, a white object reflects all colors and a black object reflects none. 
+Albedo 
+The ratio of scattered to total incident power is called the albedo: 
+b d _ total scattered power 
+al e o -
+l . .d 
+tota 111e1 ent power 
+Different surfaces have different albedos; for example, the albedo of snow is 0.9 since 
+almost all of the light is reflected, whereas the albedo of asphalt is 0.04. If we consider 
+the whole Earth, then we should also take into account the light scattered by the clouds. 
+This gives an average albedo of 0.3. 
+Emissivity (e) 
+Not all bodies are perfect black-body radiators so they emit Eess radiation than predicted by 
+the equation for a perfect black-body radiator. The ratio of the energy radiated by a body to 
+the energy radiated by a perfect black body at the same temperature is called the emissivity. 
+So, for a body with emissivity e, the power radiated is given by the adapted equation: 
+P=eAcrr 
+The emissivity of a black body is 1; other materials will have emissivity less than 1 (see Table 1). 
+Note that the total power radiated from a star is known as the luminosity, L. 
+Emissivity is the ratio of actual thermal energy emitted to that which would be emitted 
+by a black body. We can express this in terms of energy or power by the equation: 
+. 
+. . 
+power radiated per unit area 
+em1ss1v1ty = 
+tJT' 
+The greenhouse effect 
+Since the atmosphere does not absorb much visible light, the visible light reflected from 
+the Earth's surface will pass back out through the atmosphere. 
+The absorbed light will cause the temperature of the surface to rise so it will emit radiation 
+at a peak wavelength given by 0-0~ 29. The Earth is not very hot so this peak is in the infrared 
+region, which means that the radiation is absorbed by carbon dioxide (CO2), water vapor 
+(Hp), nitrous oxide (N20), and methane (CH4) in the atmosphere. These molecules then 
+Using the color picker 
+tool in photo-editing 
+software, you can 
+measure the amount 
+of red, green. and 
+blue light reflected on 
+different surfaces in a 
+digital photograph. 
+If more light is reflected 
+from the Earth. then 
+less energy is absorbed. 
+so the tempera tu re 
+will be less. One way 
+of increasing the 
+amount of radiation 
+reflected would be to 
+paint surfaces white. If 
+asphalt was white, how 
+much difference would 
+that make? 
+Material 
+Emissivity 
+(at O 
+0 () 
+Polished 
+0.02 
+aluminum 
+Brick 
+0.85 
+Dull b lack 
+0.94 
+paper 
+... 
+B.2 Table 1 Emissivity of 
+different materials. 
+123 
+
+=== PAGE 170 ===
+THE PARTICULATE NATURE OF MATTER B.2 
+Greenhouse effect 
+absorbs like a disk 
+.. 
+8.2 Figure 7 To an 
+imaginary observer on the 
+Sun. the Earth would look 
+like a circle. 
+The radiation from the 
+Sun hits the Earth from 
+one direction so the 
+Earth absorbs the same 
+amount of radiation as 
+if it were a disk. In this 
+case, power absorbed 
+= l 400Jl"r2. However, 
+the Earth is actually a 
+sphere so: 
+power absorbed per 
+unit area 
+l 400.n-r1 _ 1400 
+4m2-- 4-
+= 3sowm-2 
+350Wm ' 
+350Wm 2 
+124 
+re-emit the radiation in random directions so some ofit returns to the Earth. The net result 
+is that the energy leaving the Earth is reduced, resulting in a lower emissivity. This effect is 
+called the greenhouse effect due to its sim ilarity with the way glass traps thermal energy 
+in a greenhouse. The gases that cause the effect are called greenhouse gases. 
+Energy balance 
+Imagine we could build the solar system by taking a sun at 5800 Kand putting a OK 
+Earth in orbit at a distance of 1.5 x 1011 m. The Earth would absorb energy from the Sun 
+causing its temperature to rise. As the Earth's temperature rose above OK, it would begin 
+to radiate energy itself. The amount of energy radiated would increase until the amount 
+of energy radiated equaled the amount of energy absorbed and equilibrium was reached. 
+Earth without atmosphere 
+To understand the principle of energy balance, we will first consider the simplified 
+version of a perfectly black Earth without atmosphere. We have already calculated the 
+power received per unit area at the Earth as 1400 W m-2. This radiation only lands on 
+one side of the Earth, so treating the Earth as a disk of radius 6400 km, we can calculate 
+the total power incident at the surface: 
+power 
+incident power = -- x area of Earth= 1400 x 1rr 2 = 1400 x 1r x (6.4 x 106) 2 
+area 
+= 1.8 X 1017W 
+To find the average power per un it area over the whole Earth, we must divide by the surface 
+area of the Earth (4m2). Note that, this time, we take the Earth to be a sphere, which results 
+in an average intensity of~-
+As the temperature of the Earth increases, it will emit radiation which, according to the 
+Stefan-Boltzmann law, will be proportional to the fourth power of the temperature in 
+kelvin. So when the temperature is T, the power radiated per unit area is given by: 
+power per unit area= a T 4 
+The total power radiated can be found by multiplying this value by the area of the 
+Earth. This time, we must use the total area of the sphere since energy is radiated by all 
+parts, not just the side facing the Sun: 
+power radiated from Earth = aT4 x 4m-2 
+power = 2.9 x 107 x T4 W 
+The temperature of the Earth will rise until the incident power= radiated power: 
+1.8 X 1017W = 2.9 X 107 xT 4 
+1.8 X lQl7 
+T = 4 
+2_9 x 107 = 280K 
+Earth with atmosphere 
+The previous example is not realistic because not all the radiation is absorbed by the 
+ground: some is scattered by the atmosphere (particularly clouds) and some is reflected off 
+the surface. The average albedo of the Earth is 0.3, which means that only ;0 of the power 
+will be absorbed by the ground. So the power absorbed = 0.7 x 1.8 x 1017 = 1.26 x 1017W. 
+
+=== PAGE 171 ===
+Also, the power radiated is not as high because the Earth is not a black body and the 
+greenhouse gases re-radiate some of the infrared radiation emitted by the Earth back to 
+the ground. This results in an emissivity of around 0.6. 
+So: power radiated from Earth = 0.6 x 2.9 x 107 x T4 W 
+= l.74xl07 xT4 W 
+Equilibrium will therefore be reached when 1.26 x 1017 = 1.74 x 107 x T 4 which gives a 
+value ofT = 292 K. 
+\Ve can see that the atmosphere has two competing effects: the clouds raise the 
+albedo, resulting in less power reaching the Earth, but the greenhouse gases make the 
+emissivity lower, resulting in a higher overall temperature. 
+Figure 8 is a very simplified picture of the energy flow. Figure 9 is a more complete 
+(but still simplified) representation showing some of the detail of the exchange of 
+energy between the ground and the atmosphere. Notice that the atmosphere absorbs 
+energy in two ways: 358W m-2 is absorbed by greenhouse gases and 105 W m-2 due to 
+convection and the energy used to turn water into water vapor. 
+105Wm-2 
+2 5 W -2 
+350 
+-------,172 ./------1 
+399 
+Challenge yourself 
+1. Estimate the average surface temperature of the Moon. 
+B.2 Figure 8 Energy flow 
+with some reflected energy. 
+B.2 Figure 9 The numbers 
+in this diagram represent 
+power per unit area in W m·2_ 
+W hat limitations 
+are there in using a 
+resonance model to 
+explain the greenhouse 
+effect? (C.4) 
+125 
+
+=== PAGE 172 ===
+THE PARTICULATE NATURE OF MATTER B.2 
+Greenhouse effect 
+B.2Table2 
+Energy in/J m- 2 
+15 452 640000 
+.... 
+B.2Table3 
+126 
+Exercise 
+QI. Use Figure 9 to answer the following questions. 
+(a) What is the total power per square meter absorbed by the atmosphere? 
+(b) How much of the incident radiation is reflected from the surface? 
+(c) What is the albedo of the Earth? 
+(d) How much power per square meter is re-radiated by the atmosphere? 
+(e) What percentage of the energy radiated from the Earth passes straight 
+through the atmosphere? 
+We cannot do experiments to see the effect of changing the albedo of the Earth. but we can 
+set up computer models to see what might happen. Using a spreadsheet, we can make a 
+simple model to predict the final temperature of the Earth given certain starting conditions. 
+We are going to start the Earth off with an initial temperature of, say, 20 K and calculate how 
+much the temperature will rise in a certain time interval. 
+The first thing we need to do is enter the variables and constants. These can be entered into 
+a table on the side of the spreadsheet as in Table 2. 
+Solar constant SM/m-2 
+350 
+Albedo a 
+0.3 
+Emissivity e 
+0.6 
++ 
+I Time interval/yrs 
+2 
+Initial temp T/K 
+20 
+Next we will add some formulae to calculate the initial conditions of the Earth using the 
+headers in Table 3 (Note: al I energy and power values are for 1 m2 of Earth). 
+I 
+Power 
+radiatedM/ m-2 
+Energy 
+out/J m-2 
+Energy 
+added/J m-2 
+Change in 
+temperature/K 
+New temperature/ 
+K 
+0.0054432 
+343313.5 G
+45229668 
+38.6307417 
+20 
+The columns are as follows: 
+Time: a starting value, O; subsequent times will be this plus the time interval. 
+Energy in: solar constant x (l - albedo) x time interval in seconds 
+( = J$ l*(l-J$2)*J$4*3600'24*365) 
+Power radiated: emissivity x a x T4 where Tis the initial temperature, in this case, 20 K 
+( : J$3*0.000 000 056 7'J$5A4). 
+Energy out: power out x time interval in seconds ( = C2*J$4*3600*24*365). 
+Energy added: energy in - energy out ( = B2 - D2). 
+7 
+Change in temp: calculated using the surface heat capacity, which is 4 x l 08 J m-2 K-7; this is 
+rather like the specific heat capacity with area instead of mass, so t:,. T = fwhere Eis the heat 
+received per unit area ( = 400~
+000 ). 
+• 
+New temperature: this is simply the initial temperature; subsequent values will be 
+calculated from the previous temperature + the change in temperature. Enter= $J$5 to take 
+the temperature from the table. 
+
+=== PAGE 173 ===
+Once this row has been fixed, the formulae are put in the next row to calculate the heat lost 
+at the new temperature (Table 4). 
+• 
+Energy in/J m-2 
+Power 
+Energy 
+radiated/W m- 2 
+out/J m-2 
+15452 640000 
+0.0054432 
+343 313.5104 
+15452 640000 
+1 
+o.402 009 08 
+25355516.7 
+Time: previous time+ time interval ( = A2+J$4). 
+Energy in: solar constant x {l - albedo) x time interval in seconds 
+( = J$ l *(l -J$2)'J$4*3600*24*365). 
+Energy 
+added/J m-2 
+15452296686 
+15427284483 
+Power radiated: emissivity x ax T4 where T is the new temperature; this is the temperature 
+of the last time interval + the change in temperature 
+( = J$3·o ooooooos6rG3A4) 
+Energy out: power out x time interval in seconds ( = C3*J$4*3600*24*365). 
+Energy added: energy in - energy out ( = B3 - D3). 
+Change in temperature: ( = ~000~ 0000 ). 
+New temperature: change in temperature+ previous temperature ( = F2 + G2). 
+These formulae are now copied down for fifty rows by high lighting row 3 and dragging 
+down. {Note: it is row 3 you copy down, not row 2, which just contains the starting values.) 
+To plot a graph, highlight column A, then while pressing control, highlight column G. This will 
+leave both A and G highlighted. Now insert scatter graph, giving Figure 11. 
+solar constant S 350 
+albedo a 
+0.3 
+~ 350 
+3 300 
+e 
+f250 
+£ 
+200 
+150 
+100 
+50 
+emissivity e 
+0.6 
+time interval/yrs 2 
+initial temp T 
+20 
+0 +--~----~----~-~ 
+0 
+20 
+40 
+60 
+80 
+I 00 
+120 
+time/years 
+You can now find out what happens if you change the values of albedo, emissivity, etc 
+Global warming 
+The spreadsheet simulation shows that if the energy in is not balanced with energy out, 
+then the average temperature of the Earth will change. A rise in average temperature 
+is called global warming and can be caused by four factors: solar constant, albedo, 
+emissivity and quantity of greenhouse gases. 
+Increase in solar constant 
+The amount of energy reaching the Earth depends on how much energy the Sun is 
+giving out and the distance between the Earth and the Sun. Neither of these is constant. 
+The Earth's orbit is elliptical so the orbital radius changes. There are also some changes 
+due to the change of angle of the Earth's axis in relation to the Sun; these variations are 
+called Milankovitch cycles. 
+Change in 
+temp/K 
+New temp/K 
+38.63074172 
+38.568211 21 
+... 
+20 
+58.63074172 
+B.2Table4 
+Although this 
+simulation aids our 
+understanding of the 
+underlying physics, it 
+is a much simplified 
+version of reality and 
+should not be taken to 
+represent reality. There 
+are, however, some 
+much more complex 
+computer simulations 
+that are thought to 
+come close. 
+B.2 Figure 10 Graph of 
+temperature against time. 
+... 
+The increase in temperature 
+as a result of many sunspots 
+leads to solar flares, which 
+are Jets of gas flying out from 
+the Sun's surface like huge 
+flames. 
+127 
+
+=== PAGE 174 ===
+THE PARTICULATE NATURE OF MATTER B.2 
+Greenhouse effect 
+How is the 
+understanding of 
+systems applied to other 
+areas of physics? 
+(e.g. E4 , E.5) 
+Global warming is an 
+international problem 
+that requires an 
+· nternational solution. 
+What measures are 
+the government and 
+people making in the 
+country where you live? 
+128 
+The Sun's surface is an ever-changing swirling mass of gas that sometimes sends out flares 
+many tens of thousands of kilometers high. More easily viewed from the Earth are the 
+number of sunspots, which can be seen if an image of the Sun is projected onto a screen 
+(never look directly at the Sun). The number of sunspots present gives an indication of the 
+amount of energy emitted; more sunspots implies more energy. This seems the wrong way 
+round but it is the gas around the sunspot that emits the energy, not the sunspot itself. 
+Reduced albedo 
+Albedo is the ratio of reflected to total incident radiation. If the albedo is low, then 
+more energy is absorbed by the Earth, resulting in a higher equilibrium temperature. 
+Snow has a high albedo so a reduction in the amount of snow present at the poles and 
+on glaciers would reduce the albedo. 
+Reduced emissivity 
+The emissivity is related to the greenhouse effect, which reduces the amount 
+of radiation leaving the Earth at a given temperature. Increasing the amount of 
+greenhouse gases in the atmosphere will result in a higher equilibrium temperature. 
+Enhanced greenhouse effect 
+There is a lot of evidence that the burning of fossils fuels, which produce carbon dioxide 
+at a faster rate than the living trees remove it, has led to an increase in the percentage 
+of CO2 in the atmosphere. This has enhanced the greenhouse effect, causing more 
+energy to be radiated back to Earth. If more radiation returns to the Earth, then more 
+must be emitted, resulting in a higher average temperature. This effect is made worse by 
+deforestation because fewer trees are available to store the carbon dioxide. 
+What can be done 
+To reduce the enhanced greenhouse effect, the levels of greenhouse gases must be 
+reduced, or at the very least, the rate at which they are increasing must be slowed 
+down. There are several ways that this can be achieved: 
+1 Greater efficiency of power production 
+In recent years, the efficiency of power plants has been increasing significantly. 
+According to the second law of thermodynamics, they can never be 100% efficient but 
+some of the older, less efficient ones could be replaced. This would mean that producing 
+the same amount of power would require less fuel, resulting in reduced CO2 emission. 
+2 Replacing the use of coal and oil with natural gas 
+Gas-fired power stations are more efficient than oil and gas and produce less CO2. 
+3 Use of combined heating and power systems (CHP) 
+Using the excess thermal energy from power stations to heat homes would result in a 
+more efficient use of fuel. 
+4 Increased use of renewable energy sources and nuclear power 
+Replacing fossil fuel burning power stations with alternatives such as wave power, 
+solar power and wind power would reduce CO2 emissions. 
+
+=== PAGE 175 ===
+5 Use of electric vehicles 
+A large amount of the oil used today is used for transport and, even without global 
+warming, there will be a problem when the oil runs out. Cars that run on electricity are 
+already in production. Aeroplanes will also have to use a different fuel. 
+6 Carbon dioxide capture and storage 
+A different way of reducing greenhouse gases is to remove CO2 from the waste gases of 
+power stations and store it underground. 
+An international problem 
+Global warming is an international problem, and if any solution is going to work, 
+then it must be a joint international solution. Before working on the solution, the 
+international community had to agree on pinpointing the problem and it was to this 
+end that the Intergovernmental Panel on Climate Change (IPCC) was formed. 
+Guiding Questions revisited 
+How does the greenhouse effect help to maintain life on Earth and how does 
+human activity enhance this effect? 
+How is the atmosphere as a system modeled to quantify the Earth-
+atmosphere energy balance? 
+In this chapter, we have studied different variables that enable us to understand that: 
+• The Sun's radiation forms a spectrum including ultraviolet (which is absorbed 
+by oxygen molecules), visible light (which passes through the atmosphere except 
+for a few discrete wavelengths) and infrared (which is absorbed by methane, 
+water, carbon dioxide and nitrous oxide molecules before being re-emitted in all 
+directions). 
+• Energy is incident on the Earth from the Sun with an intensity referred to as the 
+solar constant. 
+• On average, 30% of the incident energy is reflected because of the Earth's albedo. 
+• The energy that is absorbed by the Earth is later emitted in the infrared region, 
+which means that greenhouse gas molecules in the atmosphere will absorb and 
+re-emit some of this radiation back toward the Earth 's surface (and, in turn, reduce 
+the Earth's overall emissivity). 
+• In the absence of any greenhouse effect, the Earth's surface temperature would be 
+cooler than is needed to maintain life. 
+• The burning of fossil fuels (e.g. to heat houses, to travel and to generate electricity) 
+and deforestation (e.g. wood for manufacturing) are contributing to greenhouse 
+gases in the atmosphere, which in turn is enhancing the greenhouse effect. 
+• The enhanced greenhouse effect and its associated reduction in emissivity is 
+contributing to global warming, which is an increase in the Earth's average 
+temperature, which in turn reduces albedo (due to the melting of snow at the 
+poles and on glaciers). 
+How do different 
+methods of electricity 
+production affect the 
+energy balance of the 
+atmosphere? (B.5. E 4) 
+How are developments 
+in science and 
+technology affected 
+by climate change 
+and other important 
+international concerns? 
+(NOS) 
+129 
+
+=== PAGE 176 ===
+THE PARTICULATE NATURE OF MATTER B.2 
+Greenhouse effect 
+There is a general 
+expectation that you 
+will become familiar 
+with mechanisms for 
+electricity generation 
+and heating over the 
+course of I B physics 
+These questions may 
+require you to draw 
+upon your existing 
+knowledge or to carry 
+out research (e.g. in a 
+library or online). 
+130 
+Practice questions 
+1. 
+(a) Fossil fuels are being used continuously for electricity production. 
+Outline why fossil fuels are classed as non-renewable. 
+(2) 
+(b) Some energy consultants suggest that the solution to the problem of 
+carbon dioxide pollution is to use nuclear energy for the generation of 
+electrical energy. Identify two disadvantages of the use of nuclear fission 
+when compared to the burning of fossil fuels for the generation of 
+electrical energy. 
+(2) 
+(Total 4 marks) 
+2. 
+(a) By reference to energy transfers, distinguish between a solar panel and 
+a solar cell. 
+(2) 
+Some students carry out an investigation on a solar panel. They measure 
+the output temperature of the water for different solar input powers and for 
+different rates of extraction of thermal energy. The results are shown on the graph. 
+350 
+340 
+~ e 
+.3 330 
+e 
+8. 
+E 
+E ;; 320 
+C. 
+:5 
+0 
+310 
+300+-----~--~--~--~---~ 
+200 
+300 
+400 
+500 
+600 
+700 
+800 
+input power/W 
+(b) Use the data from the graph to answer the following. 
+(i) The solar panel is to provide water at 340 K while extracting 
+energy at a rate of 300 W when the intensity of the sunlight 
+incident normally on the panel is 800 W m-2• Calculate the 
+effective surface area of the panel that is required. 
+(2) 
+(ii) Deduce the overall efficiency of the panel for an input power of 
+500 Wat an ou tput temperature of 320 K. 
+(3) 
+(Total 7 marks) 
+3. 
+(a) The intensity of the Sun's radiation at the position of the Earth is 
+approximately 1400 W m-2• 
+Suggest why the average power received per unit area of the Earth is 
+350Wm-2• 
+(2) 
+
+=== PAGE 177 ===
+(b) The diagram shows a simplified 
+model of the energy balance 
+atmosphere TA= 242 K 
+of the Earth's surface. It shows 
+radiation entering or leaving the 
+Earth's surface only. 
+The average equilibrium 
+temperature of the Earth's 
+surface is TE and that of the 
+atmosphere is TA = 242 K. 
+transmitted through 
+atmosphere 245 W m-2 l 
+radiated by Eatth's 
+surface= a TE4 
+·-----------
+Earth's surface TE 
+(i) Using the data from the diagram, state the emissivity of the atmosphere. (1) 
+(ii) Show that the intensity of the radiation radiated by the 
+atmosphere toward the Earth's surface is 136 W m-2• 
+(1) 
+(iii) By reference to the energy balance of the Earth's surface, calculate TE· (2) 
+(c) (i) Outline a mechanism by which part of the radiation radiated by the 
+Earth's surface is absorbed by greenhouse gases in the atmosphere. 
+(3) 
+(ii) Suggest why the incoming solar radiation is not affected by the 
+mechanism you outlined in (c)(i). 
+(2) 
+(iii) Carbon dioxide (CO2) is a greenhouse gas. State one source and 
+one sink (object that removes CO2) of this gas. 
+(2) 
+(Total I 3 marks) 
+4. 
+(a) State the Stefan-Boltzmann law for a black body. 
+(b) The following data relate to the Earth and the Sun. 
+Earth-Sun distance 
+Radius of Earth 
+Radius of Sun 
+Surface temperature of Sun 
+= 1.5 X lQI I m 
+= 6.4 X 106 m 
+= 7.Q X 108 m 
+= 5800K 
+(i) Use the data to show that the power radiated by the Sun is about 
+(2) 
+4 X 126W. 
+(1) 
+(ii) Calculate the solar power incident per unit area at a distance from 
+the Sun equal to the Earth's distance from the Sun. 
+(2) 
+(iii) The average power absorbed per unit area at the Earth's surface is 
+240Wm-2• 
+State two reasons why the value calculated in (b)(ii) differs from 
+this value. 
+(iv) Show that the value for power absorbed per unit area of 240 W m-2 
+is consistent with an average equilibrium temperature for Earth of 
+(2) 
+about 255 K. 
+(2) 
+(c) Explain, by reference to the greenhouse effect, why the average 
+temperature of the surface of the Earth is greater than 255 K. 
+(3) 
+(d) Suggest why the burning of fossil fuels may lead to an increase in the 
+temperature of the surface of the Earth. 
+(3) 
+(Total I 5 marks) 
+atmosphere 
+0.700aT/ 
+l 
+radiated by 
+131 
+
+=== PAGE 178 ===
+THE PARTICULATE NATURE OF MATTER B.2 
+Greenhouse effect 
+132 
+incom ing 
+400Wm-2 
+5. 
+(a) A white plate has a black pattern on it. 
+(i) Explain why, when red hot, the black pattern is brighter than the 
+white parts of the plate. 
+(2) 
+(ii) State which part of the plate has the highest emissivity. 
+(1) 
+(iii) State which part of the plate has the highest albedo. 
+(1) 
+(b) There is a scheme to paint the roofs of houses white. Explain how this 
+would reduce the enhanced greenhouse effect. 
+(3) 
+(c) The diagram shows the absorption spectrum for the atmosphere of a 
+planet. 
+n-:;::::::::::::~::;:;::::=:::;-:::==:::==:::::::::=:::==~1. 
+UV 
+visible 
+IR 
+wavelength 
+(i) Explain why burning fossil fuels would not cause any change in 
+the temperature of the planet. 
+(2) 
+(ii) Explain why life would not be possible on this planet. 
+(2) 
+(iii) Water vapor is an effective greenhouse gas. Explain why the 
+presence of water vapor in the atmosphere does not necessarily 
+lead to global warming. 
+(2) 
+(Total 13 marks) 
+6. A 2 cm diameter metal ball with emissivity 0.8 is heated to 1000 K. 
+(a) (i) Calculate the total power of the radiation emitted by the ball. 
+(2) 
+(ii) Calculate the intensity of the radiation at a distance of 2 m. 
+(2) 
+(b) A thermal radiation sensor with area of 0.5cm2 is placed 2m from 
+the ball. 
+(i) Calculate the energy absorbed by the sensor in 1 minute. 
+(2) 
+(ii) State two assumptions that you have made about the sensor. 
+(2) 
+(Total 8 marks) 
+7. 
+In a simple climate model for a planet, the incoming intensity is 400W m-2 
+and the radiated intensity is 300W m-2• The temperature of the planet is 
+constant. What is the reflected intensity from the planet and the albedo of 
+the planet? 
+A 
+100W m-2 
+0.25 
+B 
+1oowm-2 
+0.75 
+C 
+300W m-2 
+0.25 
+D 
+300W m-2 
+0.75 
+(Total 1 mark) 
+
+=== PAGE 179 ===
+8. What is the main role of carbon dioxide in the greenhouse effect? 
+A 
+It absorbs incoming radiation from the Sun. 
+B 
+It absorbs outgoing radiation from the Earth. 
+C 
+It reflects incoming radiation from the Sun. 
+D 
+It reflects outgoing radiation from the Earth. 
+(Total 1 mark) 
+9. The average temperature of the surface of a planet is five times greater than 
+the average temperature of the surface of its moon. The emissivities of the 
+planet and the moon are the same. The average intensity radiated by the 
+planet is/. What is the average intensity radiated by its moon? 
+I 
+I 
+I 
+A 
+25 
+B 
+125 
+C 
+625 
+I 
+D 
+3125 
+(Total 1 mark) 
+10. The orbital radius of the Earth around the Sun is 1. 5 times that of Venus. 
+What is the intensity of solar radiation at the orbital radius ofVenus? 
+A 
+0.6kwm-2 
+c 
+2kwm-2 
+B 
+0.9kwm-2 
+D 
+3kwm-2 
+(Total 1 mark) 
+11. A photovoltaic panel of area S has an efficiency of 20%. A second 
+photovoltaic panel has an efficiency of 15%. What is the area of the second 
+panel so that both panels produce the same power under the same conditions? 
+s 
+A 
+3 
+B 
+3S 
+4 
+C 
+5S 
+4 
+D 
+4S 
+3 
+(Total 1 mark) 
+12. The three statements give possible reasons why an average value should be 
+used for the solar constant. 
+I. 
+The Sun's output varies during its 11-year cycle. 
+II. The Earth is in an elliptical orbit around the Su n. 
+III. The plane of the Earth's spin on its axis is tilted to the plane of its orbit 
+about the Sun. 
+Which are the correct reasons for using an average value for the solar 
+constant? 
+A 
+I and II only 
+B 
+I and III only 
+C 
+II and III only 
+D 
+I, II and III 
+(Total 1 mark) 
+13. It is suggested that the solar power incident at a point on the Earth's surface 
+depends on: 
+I. 
+daily variations in the Sun's power output 
+II. the location of the point 
+III. the cloud cover at the point 
+Which suggestion(s) is/are correct? 
+A 
+III only 
+B 
+I and II only 
+C 
+II and III only 
+D 
+I, II and III 
+(Total 1 mark) 
+133 

@@ -1,0 +1,1115 @@
+=== PAGE 284 ===
+Standing waves 
+and resonance 
+
+=== PAGE 285 ===
+◄ 
+Music, no matter whether classical, pop, reggae or Jazz, is all about standing waves. The notes that an 
+instrument can produce depend on its length and boundary conditions, and a musician might use 
+skilful techniques (like blowing harder or touching a string) to play different harmonics. 
+Guiding Questions 
+What distinguishes standing waves from traveling waves? 
+How does the form of standing waves depend on the boundary conditions? 
+How can the application of force result in resonance within a system? 
+The difference between a standing wave and a traveling wave can be illustrated by 
+looking at the difference between a skipping rope and a stadium wave. (Note that 
+neither are really waves.) 
+Viewed from the front, a skipping rope has a sinusoidal shape (a quarter of a 
+wavelength) so it looks like a wave but the wave profile does not move; the rope simply 
+moves up and down. All the parts of the rope are in phase but do not have the same 
+amplitude. 
+With a stadium wave, each person gets up at a different time. But if we assume they are 
+all the same height, the amplitude of each is the same. 
+A child's swing can be used to illustrate the concept of resonance. If displaced and 
+released, a swing will oscillate with a frequency that depends on its length. If you push 
+the swing, you have to push it at this frequency. If you push at any other frequency, the 
+amplitude will never be large enough to be fun. 
+Students should understand: 
+the nature and formation of standing waves in terms of superposition of two identical waves 
+traveling in opposite directions 
+nodes and antinodes, relative amplitude and phase difference of points along a standing wave 
+standing wave patterns in strings and pipes 
+the nature of resonance, including natural frequency and amplitude of oscillation based on 
+driver frequency 
+the effect of damping on the maximum amplitude and resonant frequency of oscillation 
+the effects of light, critical and heavy damping on the system. 
+WAVE BEHAVIOR C .4 
+• • 
+239 
+
+=== PAGE 286 ===
+WAVE BEHAVIOR C.4 
+C.4 Figure 1 Two waves ► 
+approach and pass through 
+one another. 
+... 
+The two ends of the skipping 
+rope are the nodes. 
+(h) 
+(e) 
+-
+(f) 
++------- L-----_. 
+I st harmonic IE_:>I 
+2nd harmonic oa 
+3rd harmonic ~ 
+C.4 Figure 2 Standing 
+waves in a string 
+240 
+J = 2L 
+frequency = f, 
+J=L 
+frequency = 2f1 
+J = lL 
+3 
+frequency = 3f1 
+Standing waves and resonance 
+Standing waves in strings 
+Consider two identical waves traveling along a string in 
+opposite directions as shown in Figure l{a). As the waves 
+progress, they cross over each other and will superpose. In 
+Figure l{b), the waves have each progressed¼-'-, and are out 
+of phase so they cancel out. The green line shows the 
+resultant wave. After a further¼-'-, the waves will be in 
+phase as shown in Figure 1 (c). Notice that even though the 
+waves are adding, the displacement of the midpoint 
+remains zero. Figures 1 {a) to (e) show the waves in¼;, steps, 
+illustrating how they alternately add and cancel in such a 
+way that the midpoint never moves: this is called a node. 
+Either side of the midpoint, the waves sometimes add to 
+give a peak and sometimes a trough: these points are called 
+antinodes. Figure 1 (0 shows the two extreme positions of 
+the resultant wave. Notice that the nodes are separated by a 
+d. 
+1 
+,stance 2.,__ 
+Differences between progressive waves 
+and standing waves 
+The most obvious difference between a wave that travels 
+along the rope and the standing wave is that the wave 
+profile of a standing wave does not progress and nor does 
+the energy associated with it. A second difference is that 
+all points between two nodes on a standing wave are in 
+phase (think of the skipping rope), whereas points on 
+a progressive wave that are closer than one wavelength 
+are all out of phase {think of a stadium wave). The third 
+difference is related to the amplitude. All points on a 
+progressive wave have the same amplitude, but on a 
+standing wave, some points have zero amplitude (nodes) 
+and some points have large amplitude (antinodes). 
+Stringed instruments 
+Many musical instruments (guitar, violin, piano) use 
+stretched strings to produce sound waves. When the 
+string is plucked, a wave travels along the string to one 
+of the fixed ends. When it gets to the end, it reflects back 
+along the string, superposing with the original wave. The 
+result is a standing wave. The important thing to realize 
+about the standing wave in a stretched string is that since 
+the ends cannot move, they must become nodes, so only 
+standing waves with nodes at the ends can be produced. 
+Figure 2 shows some of the possible standing waves that 
+can be formed in a string oflength L. 
+
+=== PAGE 287 ===
+As shown in the diagram, each of the possible waves is called a harmonic. The first 
+harmonic (sometimes called the fundamental) is the wave with the lowest possible 
+frequency. To calculate the frequency, we can use the formula f = f so for the first 
+harmonic: 
+For the second harmonic: 
+V 
+f2 =1, 
+The wave velocity is the same for all harmonics, so we can deduce that:f 2 = 2f1 
+Playing the guitar 
+When the guitar string is plucked, it does not just vibrate with one frequency but with 
+many frequencies. However, the only ones that can create standing waves are the ones 
+with nodes at the ends (as shown in Figure 2). You can try this with a length of rope. 
+Get a friend to hold one end and shake the other. W hen you shake the end at certain 
+specific frequencies, you get a standing wave, but if the frequency is not right, you do 
+not. This is an example of resonance: hit the right frequency and the amplitude is big. 
+So when the guitar string is plucked, all the possible standing waves are produced. If 
+the signal from an electric guitar pickup is fed into a computer, the frequencies can be 
+analyzed to get a frequency spectrum. Figure 3 shows an example. 
+1.0 
+L 
+0.9 
+I-
+0.8 
+- 't 
++ 
+a 
+., 0.7 
+I-
+~ 
++ 
+1 
+-0 
+-~ 0.6 Li 
+I-
+Q. 
+E 0.5 
+.j. 
++ 
+-+ -, 
+"' 
+~ 0.4 
+t 
+! 
+T 
+"' 
+__J 
+2 0.3 
+I-
+0.2 
++ 
++ 
++ 
+1 
+7 
+r 17 
+100 
+200 
+300 
+400 
+500 
+600 
+700 
+800 
+frequency/Hz 
+We can see from this graph that the string is vibrating at l 00 Hz, 200 Hz, 300 Hz and 
+so on. However, the largest amplitude note is the first harmonic (100 Hz) so this is the 
+frequency of the note you hear. 
+Playing different notes 
+A guitar has six strings. Each string is the same length but has a different diameter and 
+therefore different mass per unit length. The wave in the thicker strings is slower than 
+in the thin strings so, since f = X, the thick strings will be lower notes. 
+To play different notes on one string, the string can be shortened by placing a finger 
+on one of frets on the neck of the guitar. Since f = X, the shorter string will be a higher 
+note. 
+The speed of a wave in 
+a string is given by the 
+formula: 
+v =~ 
+where F, = tension and 
+µ = mass per unit 
+length. 
+This is why a thick 
+guitar string is a lower 
+note than a thin one, 
+and why the note 
+gets higher when you 
+increase the tension. 
+Here we are focusing 
+on the vibrating string 
+The string will cause the 
+body of the guitar to 
+vibrate, which in turn 
+causes the pressure of 
+the air to vary. It is the 
+pressure changes in 
+the air that cause the 
+sound wave that we 
+hear. 
+C.4 Figure 3 Frequency 
+spectrum for a string. 
+A guitarist's pressure on the 
+strings brings them tight to 
+the frets, which defines their 
+effective lengths. 
+241 
+
+=== PAGE 288 ===
+WAVE BEHAVIOR C.4 
+In these diagrams, 
+the sound waves 
+are represented by 
+displacement- position 
+graphs. These make 
+the sound look like 
+a transverse wave 
+but remember the 
+d isplacement is in 
+the direction of the 
+disturbance. 
+C.4 Figure 4 Standing 
+waves in a closed pipe. 
+242 
+► 
+Standing waves and resonance 
+An alternative way to play a higher note is to play a harmonic. This is done by placing 
+a finger on the node of a harmonic (e.g. in the middle for the second harmonic) then 
+plucking the string. Immediately after the string is plucked, the finger is removed to 
+allow the string to vibrate freely. 
+Exercise 
+QI. The mass per unit length of a guitar string is 1.2 x 10-3 kg m-1• If the tension 
+in the wire is 40 N, calculate: 
+(a) the velocity of the wave 
+(b) the frequency of the first harmonic if the vibrating length of the guitar 
+string is 63.5 cm. 
+Q2. A 30 cm long string of mass per unit length 1.2 x 10-3 kg m-1 is tensioned 
+so that its first harmonic is 500 Hz. Calculate the tension of a second string 
+with half the mass per unit length but the same length that has the same first 
+harmonic. 
+Q3. The first harmonic of a I.Om long stretched string is 650Hz. What will its first 
+harmonic be if its length is shortened to 80cm, keeping the tension constant? 
+Challenge yourself 
+1. By adding the wave equations for two waves traveling in opposite directions, 
+show that the distance between nodes on a standing wave is½?-.. 
+Standing waves in closed pipes 
+When a sound wave travels along a pipe with closed boundaries, it will reflect off the 
+closed end. The reflected wave and original wave then superpose to give a standing 
+wave. A sound wave is a propagation of disturbance in air pressure. The change in 
+air pressure causes the air to move backward and forward in the direction of the 
+propagation. If the end of the pipe is closed, then the air cannot move back and forth 
+so a node must be formed. This limits the possible standing waves to the ones shown 
+in Figure 4. 
++--------- L---------+ 
+1st harmonic 
+5th~ 
+},,=4L 
+frequency = f1 
+},,=.±L 
+3 
+frequency = 3f1 
+
+=== PAGE 289 ===
+These diagrams show how the displacement of the air varies along the length of the 
+pipe, but remember, the displacement is actually along the pipe not perpendicular to it 
+as shown. The frequency of each harmonic can be calculated usingf = f 
+For the first harmonic: 
+For the next harmonic: 
+V 
+3v 
+f3 = iL = 4L = 3f1 so this is the third harmonic 
+3 
+-8 
+.~ 
+C. 
+~ 
+!;I 
+·z; 
+"" e 
+1.0 
+0.9 
+0.8 
+0.7 
+0.6 
+0.5 
+0.4 
+0.3 
+0.2 
+0.1 
+0 
+,----------t 
+-
+-
+i--t 
+-
+-
+-
+__J 
+r---1 
+.J_ -
+----l 
+-
+I 
+P 7 ~
+Ll 
+-
+- --
+--
+-
+-
+11 
+I 
+I 
+0 
+I 00 
+200 
+300 
+400 
+500 
+600 
+700 
+800 
+frequency/Hz 
+So when a standing wave is formed in a closed pipe, only odd harmonics are formed, 
+resulting in the frequency spectrum shown in Figure 6. 
+Standing waves in open pipes 
+If a wave is sent along an open-ended pipe, a wave is also reflected. The resulting 
+superposition of reflected and original waves again leads to the formation of a standing 
+wave. This time, there will be an antinode at both ends, leading to the possible waves 
+shown in Figure 7. 
+This time all the harmonics are formed. 
+I st harmonic 
+2nd harmonic 
+),= 2L 
+frequency = J1 
+Ji.= L 
+frequency = 2f1 
+~
+;-lr 
+3rd harmoni: 
+f 
+-
+3 
+3,r 
+requency = ~ 1 
+• 
+C.4 Figure 5 Remember, 
+this is one quarter of a wave. 
+It can be useful to split the 
+harmonics into quarters 
+when determining the 
+frequency. 
+C.4 Figure 6 Frequency 
+spectrum for a closed pipe. 
+C.4 Figure 7 Standing 
+waves in an open pipe. 
+243 
+
+=== PAGE 290 ===
+WAVE BEHAVIOR C.4 
+£ 
+In a clarinet, the reed is made 
+to vibrate. 
+C.4 Figure 8 A drinking 
+straw whistle. 
+C.4 Figure 9 Screenshot 
+from Audacity<S> showing 
+sampled sound. 
+A worksheet with ful I 
+details of how to carry 
+out this experiment is 
+available in the eBook. 
+244 
+• 
+Standing waves and resonance 
+Wind instruments 
+All wind instruments (e.g. flute, clarinet, trumpet and church organ) make use of the 
+standing waves set up in pipes. The main difference between the different instruments 
+is the way that the air is made to vibrate. In a clarinet, a thin piece of wood (a reed) 
+is made to vibrate, in a trumpet, the lips vibrate, and in a flute, air is made to vibrate 
+as it is blown over a sharp edge. Different notes are played by opening and closing 
+holes. This has the effect of changing the length of the pipe. You can also play higher 
+notes by blowing harder. This causes the higher harmonics to sound louder, resulting 
+in a higher frequency note. If you have ever played the recorder, you might have had 
+problems with this - if you blow too hard, you get a high-pitched noise that does not 
+sound so good. 
+Exercise 
+The speed of sound in air is 340 m s- 1• 
+Q4. Calculate the first harmonic produced when a standing wave is formed in a 
+closed pipe oflength 50cm. 
+Q 5. The air in a closed pipe in Figure 8 is made to vibrate by holding a tuning fork 
+of frequency 256 Hz over its open end. As the length of the pipe is increased, 
+loud notes are heard as the standing wave in the pipe resonates with the 
+tuning fork. 
+(a) What is the shortest length that will cause a loud note? 
+(b) If the pipe is 1.5 m long, how many loud notes will you hear as the 
+plunger is withdrawn? 
+The speed of sound can be measured by sampling the sound made by a drinking straw 
+whistle with your computer. In this example, Audacity®, free open source software, was used. 
+The drinking straw is turned into a whistle by cutting a notch close to one end. When blown, 
+the noise is not very loud (more of a rush of air than a whistle) but it is enough to analyze. 
+L 
+~"-------------) 
+The whistle was blown into the microphone of the computer and the sound recorded using 
+Audacity® (Figure 9). The frequency spectrum was then analyzed to find the harmonics of the 
+sound. 
+X Audio Traci< ... 1.0 
+Stereo, 441 00Hz 
+o.o-
+32-bl float 
+I.lute 
+Solo 
+-1.0 
+0 
+♦ 
+1.0 
+l• 
+I 
+L 
+0 
+R 
+0.0-
+I
+' 
+I 
+... 
+-1.0 
+
+=== PAGE 291 ===
+By measuring the sound from pipes 
+of different lengths. it is possible to 
+plot a graph off vs 1 
+(Figure 1 O). 
+This should be a straight line with 
+gradient = velocity of sound. 
+Nature of Science 
+., ... 
+->«&l·-t---,--+-,,--1--t-t-t--,--,-,-,--H-+-+--tt-,-1 
+·-
+-· 
+Ono,: lO>MKrP• 1G) • ·ll◄• Petlc:l02tlH1¢>a'lO) • •IIS.Oc9 
+Damping occurs when a pendulum moves through air. By combining what we 
+know from the study of simple harmonic motion and motion through fluids, 
+we can derive a model for damped harmonic motion. 
+Resonance is a phenomenon related to mechanical vibrations. However, the 
+same model can be applied to electrical circuits, molecules, atoms, and nuclei. 
+Damped harmonic motion 
+X 
+X 
+When dealing with oscillations, we only considered simple harmonic motion. That is, 
+motion where the acceleration of a body is proportional to the displacement from a 
+fixed point and always directed toward that point; for example, a mass on the end of a 
+stiff spring attached to the side of a spaceship (no gravity or air) as in Figure 11. When 
+the mass moves to the left, the spring gets stretched, and according to Hooke's law, 
+the force will be proportional to the extension. When the mass moves to the right, the 
+spring is compressed and the force pushing back is proportional to compression. 
+This motion can be represented by the equation ma= - kx. 
+This implies that the displacement, x = a cos wt. In other words, the motion is 
+sinusoidal as represented by Figure 13: w is the angular frequency, 2nf, where fis the 
+natural frequency of the oscillation. 
+When we say the 
+source is moving, we 
+mean that it moves 
+relative to the medium 
+(air). The observer is 
+at rest relative to the 
+medium. 
+C.4 Figure 10 The 
+frequency spectrum from 
+Audacity®. 
+C.4 Figure 11 A mass on a 
+spring (in space). 
+245 
+
+=== PAGE 292 ===
+WAVE BEHAVIOR C.4 
+C.4 Figure 12 Free 
+oscillation of a mass on a 
+spring. 
+C.4 Figure 13 Lightly 
+damped (or under-
+damped) harmonic motion; 
+the dashed line shows the 
+exponential change of 
+amplitude. 
+A car suspension is critically 
+damped to prevent the car 
+oscillating after it goes over a 
+bump in the road. 
+► 
+C.4 Figure 14 Critically 
+► 
+damped and over-damped 
+harmonic motion. 
+246 
+Standing waves and resonance 
+'c: 
+a., 
+E 
+a., 
+u 
+"' 
+c.. 
+V, 
+~ 
+time 
+If we now add a fluid around the ball, then it will experience a viscous force opposing 
+the motion. This force is proportional to the velocity of the ball so the equation for the 
+force becomes: 
+ma = - kx - bv where bis some constant 
+bt 
+Solving this equation reveals that: x = ae-m cos wt 
+So the amplitude decreases exponentially with time as shown in Figure 13. 
+time 
+The value ofbm in the equation is equivalent to the decay constant in nuclear decay. If it is 
+large, then the amplitude will decrease in a short time.bis the constant of proportionality 
+relating the drag force with the velocity (Fd = bv), so if the mass was surrounded by a much 
+more viscous fluid, then the drag force would be greater, resulting in heavier damping. If the 
+fluid is very viscous, the damping could be so heavy that the spring would not oscillate at 
+all. The damping is said to be critical if the mass returns to the equilibrium position as 
+quickly as possible but without crossing it, and over-damped if the system tends toward 
+the equilibrium position more slowly, as in Figure 14. 
+over-damped 
+time 
+critically damped 
+
+=== PAGE 293 ===
+Forced vibration 
+When an oscillating system such as a mass on a spring is 
+disturbed, it will oscillate at its own natural frequency 
+= 2
+1:1rl · 
+The mass can also be made to vibrate at other 
+frequencies by applying a sinusoidally varying force as in 
+Figure 16. Here energy is being transferred from the motor 
+driving the oscillating platform to the ball and spring. 
+When driven in this way, the mass and spring will 
+oscillate with the frequency of the driver. 
+Simulation of forced harmonic motion 
+Using a simulation program like Algodoo® or Interactive 
+physics®, it is possible to make a simulation just like 
+the one in Figure 15. By varying the speed of the wheel, 
+we can investigate how the amplitude depends on the 
+driving frequency. Figure 16 shows the results from such 
+a simulated experiment where the natural frequency of 
+the mass-spring system was 2 Hz. 
+2 
+0 
+0-+-------,-------,------.------.------r-
+o 
+2 
+3 
+4 
+5 
+frequency/Hz 
+From this graph, we can see that the amplitude is biggest when the driving frequency is 
+equal to the natural frequency of the mass and spring. This is called resonance. You will 
+have experienced the same phenomenon if you have ever been pushed on a swing by 
+someone with no sense of rhythm. If the pushes are not at the natural frequency of the 
+swing, the amplitude is small. However, if the pushes are at the same frequency, the 
+amplitude becomes large. 
+Resonance 
+Resonance is an important phenomenon, both in mechanics and in other areas of 
+physics, so is worth studying in detail. 
+Effect of damping 
+In a lightly damped system, the resonant frequency is the same as the natural 
+frequency, but if the damping is heavy, the resonant frequency is reduced. Figure 18 
+shows two resonance curves, one with light damping and one with heavy damping. 
+The resonance peak for the lightly damped situation is also sharper than the heavily 
+damped example. 
+You can see how the 
+different constants 
+affect the oscillation 
+by simulating damping 
+with Excel<ll_ 
+W hat is the relationship 
+between resonance 
+and simple harmonic 
+motion (C 1 )? 
+C.4 Figure 15 A driven 
+oscillator. 
+C.4 Figure 16 Graph of 
+amplitude vs frequency for a 
+driven oscillator. 
+A 
+How can resonance be 
+explained in terms of 
+conservation of energy 
+(A3)? 
+It is possible to shatter a wine 
+glass if it is made to vibrate at 
+its own natural frequency. 
+247 
+
+=== PAGE 294 ===
+WAVE BEHAVIOR C.4 
+C.4 Figure 17 Resonance 
+► 
+curves with light and heavy 
+damping. Notice that the 
+resonant frequency is slightly 
+less when the damping is 
+heavy. 
+How does the 
+amplitude of vibration 
+at resonance depend on 
+the dissipation of energy 
+in the driven system 
+(A 3)? 
+How can the idea 
+of resonance of gas 
+molecules be used to 
+model the greenhouse 
+effect? (NOS) 
+248 
+Standing waves and resonance 
+light damping 
+2 
+2 
+3 
+4 
+5 
+frequency/Hz 
+When a damped oscillator is driven, the energy supplied by the driver is providing 
+energy to drive the system plus doing work against the damping force. Damping 
+reduces the maximum amplitude and resonant frequency of the resonating system. 
+Exercise 
+Q6. A series of pendula is suspended on one string. When pendulum A starts 
+to swing, it disturbs the suspension, forcing pendulums B, C, D, E, and F to 
+oscillate. 
+B 
+C 
+A 
+D 
+E 
+F 
+(a) Comment on the phase difference between B, C, D, E, F, and A. 
+(b) Which pendulum will have the largest amplitude? 
+Examples of resonance 
+• 
+A truck drives past a room and makes plates rattle on a shelf. 
+• 
+An opera singer shatters a wine glass by singing a note with the same frequency as 
+its resonant frequency. 
+• 
+Infrared radiation resonates with a CO2 molecule. 
+• 
+The air in a tube resonates to produce a sound when a wind instrument is blown. 
+• 
+A resonating quartz crystal is the basis of many clocks. 
+• 
+An engine part may break if it resonates with the frequency of the engine. 
+• 
+A tall building can collapse if its natural frequency is the same as the frequency of 
+an earthquake. 
+
+=== PAGE 295 ===
+Electrical resonance - an interesting link 
+Consider a capacitor C, resistor R, and coil of inductance L connected as shown in 
+Figure 18. (An understanding of capacitors is not required for your course but, in 
+short, they store charge so that a potential difference exists between the two plates. 
+Awareness of inductance is also not required.) 
+At the present time, the capacitor is charged, creating a potential difference across the 
+resistance, resulting in a flow of current through the coil. The current in the coil will 
+induce a magnetic field, but the changing magnetic field in the coil induces a current in 
+the coil that opposes the change producing it, causing current to flow back onto the 
+capacitor. The charge oscillates back and forth, energy transferring from electric to 
+magnetic. The frequency of the oscillation depends on the size of the capacitor and coil 
+and the resistance causes damping. If this circuit is connected to a variable frequency 
+AC supply, the current will be made to oscillate in the circuit. If the frequency is the 
+same as the natural frequency, then resonance occurs and the current flowing is a 
+maximum. Figure 19 shows the resonance curves for different values of R. 
+This circuit is used in a radio receiver. 
+The values ofL (this is related to 
+the coil) and Care varied to match 
+the frequency of a radio station. An 
+aerial picks up all radio stations but 
+the circuit resonates with the one 
+that has the same frequency as the 
+natural frequency. By reducing the 
+resistance of the circuit, the peak 
+can be made narrower (reduced 
+bandwidth), making the circuit more 
+selective. 
+high R 
+o~----------------
+frequency 
+Guiding Questions revisited 
+What distinguishes standing waves from traveling waves? 
+How does the form of standing waves depend on the boundary conditions? 
+How can the application of force result in resonance within a system? 
+In this chapter, we have found that waves of equal amplitude and frequency traveling in 
+opposite directions (or a wave reflected on itselO can result in no net energy 
+propagation. In doing so, we now understand: 
+• Standing waves are common, featuring in musical instruments, but sometimes 
+have undesirable effects (i.e. failure or harm to the user) when a system's driving 
+frequency matches its natural frequency. 
+• A node is a position of zero displacement. 
+• An antinode is a position of maximum displacement. 
+• All particles between two consecutive nodes oscillate in phase (and in antiphase 
+with the particles on adjacent loops). 
+• A standing wave on a string with two clasped ends will have nodes at the 
+boundaries, and its first harmonic as a single loop. 
+r::~ 
+... 
+C.4 Figure 18 An LCR 
+circuit. 
+An electrical oscillator 
+has no moving parts but 
+can be modeled in the 
+same way as a mass on 
+a spring. 
+C.4 Figure 19 Resonance 
+curves for different values 
+of R. 
+249 
+
+=== PAGE 296 ===
+WAVE BEHAVIOR C.4 
+250 
+Standing waves and resonance 
+• A closed end on a pipe will mean that a node forms at this boundary. 
+• An open end on a pipe will mean that an antinode forms at this boundary. 
+• When a driver forces oscillations of a system with increasing frequency, the 
+amplitude increases to a maximum (resonance) at the natural frequency and 
+then decreases. 
+• Damping is the interaction of an oscillating body and the fluid that surrounds it. 
+Heavy damping prevents even a quarter of a cycle from being completed, critical 
+damping results in a return to the equilibrium position as quickly as possible 
+without overshoot, and light damping reduces the amplitude of oscillations. 
+• Damping as reducing the natural frequency of a system. 
+Practice questions 
+1. 
+(a) State the principle of superposition. 
+(2) 
+A wire is stretched between two points A and B. 
+A-------------------B 
+A standing wave is set up in the wire. This wave can be thought of as being made 
+up from the superposition of two waves: wave X traveling from A to B, and wave 
+Y traveling from B to A. At one particular instant in time, the displacement of the 
+wire is as shown in the diagram below. A background grid is given for reference 
+and the equilibrium position of the wire is shown as a dotted line. 
+(b) Copy the grids below and draw the displacements of the wire due to 
+wave X and wave Y. 
+wavcX 
+wavcY 
+A-------------------------------------· B A-------------------------------------· B 
+(4) 
+(Total 6 marks) 
+2. There is a tall building near 
+to the site of the earthquake. 
+The base of the building 
+vibrates horizontally due to 
+the earthquake. 
+direction of vibrations 
+building 
+ground 
+
+=== PAGE 297 ===
+(a) Copy the diagram above and draw the fundamental mode of vibration 
+of the building caused by these vibrations. 
+(1) 
+The building is of height 280 m and the mean speed of waves in the structure 
+of the building is 3.4 x 103 ms-1• 
+(b) Explain quantitatively why earthquake waves of frequency about 6 Hz 
+are likely to be very destructive. 
+(3) 
+(Total 4 marks) 
+3. The diagram shows two pipes of the same length. Pipe A is open at both 
+ends and pipe B is closed at one end. 
+pipe A 
+pipcB 
+(a) (i) Copy the diagram and draw lines to represent the waveforms of 
+the fundamental (first harmonic) resonant note for each pipe. 
+(2) 
+(ii) On each pipe, label the position of the nodes with the letter N and 
+the position of the antinodes with the letter A. 
+(2) 
+The frequency of the fundamental note for pipe A is 512 Hz. 
+(b) (i) Calculate the length of pipe A (speed of sound in air= 340 m s-1) . 
+(3) 
+(ii) Suggest why organ pipes designed to emit low frequency 
+fundamental notes (e.g. frequency ::: 32 Hz) are often closed at 
+one end. 
+(2) 
+(Total 9 marks) 
+4. The diagram shows two images of a machine designed to make a piston 
+oscillate. The bottom image was taken 0.125 s after the top image. The 
+wheel turns anticlockwise at a constant speed. The long rod is attached 1.0 
+cm from the center of the wheel. 
+8 
+Ci) 
+.. 
+[+) : 
+' • [+) : 
+(a) (i) Explain why the motion of the piston is approximately simple 
+harmonic. 
+(2) 
+(ii) The motion is not exactly simple harmonic. Explain why and state 
+which feature reduces this effect. 
+(2) 
+(iii) State the amplitude of the oscillation. 
+(1) 
+(iv) Calculate the frequency of the oscillation. 
+(1) 
+251 
+
+=== PAGE 298 ===
+WAVE BEHAVIOR C.4 
+252 
+Standing waves and resonance 
+The machine is connected to a 2.0 m long slinky spring suspended on strings. 
+The diagrams show before switching on and one revolution after switching on. 
+~
+1111 11 111 11 111 1111 1111 111111 11111111111 11111111111111111 11 11 11111 
+~
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII 
+(b) (i) Determine the wavelength of the wave. 
+(ii) Calculate the velocity of the wave. 
+(iii) The right end of the spring is free to move. Describe what happens 
+(1) 
+(1) 
+when the wave reaches this end. 
+(2) 
+(iv) Deduce whether or not a standing wave will be formed. 
+(c) The speed of the wave is given by the same equation as the speed of a 
+wave in a string: 
+V = .I!;_ 
+~µ 
+where F, = tension and µ = mass per unit length. 
+Assuming that the unstretched length is negligible in comparison with the 
+(3) 
+stretched length, show that doubling the length will double the velocity. 
+(3) 
+(d) The machine is now turned so that the piston is horizontal. A small 
+ball is placed on the piston so that it goes up and down with the piston. 
+The speed of the wheel is increased until the ball starts to rattle as it 
+loses contact with the piston. Determine the frequency at which this 
+takes place. 
+(3) 
+(Total 19 marks) 
+5. The circuit represents a simple electrical oscillator. When the switch is 
+closed, charge flows from the capacitor to the coil. The flow of current 
+causes a changing magnetic field that induces an emf, sending the charge 
+back to the capacitor, and the cycle repeats. The frequency of the cycle 
+depends on the physical properties of the coil and capacitor: 
+1 
+w = {Le 
+where L = inductance and C = capacitance. 
+Radio waves cause electrons to oscillate in the wire. 
+~ 
+~__________, 
+\ 
+L 
+c -
+R 7 
+(a) Explain how this circuit could be used to tune a radio to one particular 
+~~~ 
+~ 
+
+=== PAGE 299 ===
+(b) If L = 4.00 mH and C =2.00 pF, calculate the frequency of the radio 
+signal that will cause the most current to flow in the circuit. 
+The frequency of the radio signal is varied from below the frequency 
+calculated in (ii) to above this frequency. 
+(c) Sketch a graph of the variation of current (y-axis) with frequency 
+(2) 
+(x-axis). 
+(2) 
+(Total 8 marks) 
+6. 
+A pipe is open at both ends. Which is correct about a standing wave 
+formed in the air of the pipe? 
+A 
+The sum of the number of nodes plus the number of antinodes is an 
+odd number. 
+B 
+The sum of the number of nodes plus the number of antinodes is an 
+even number. 
+C 
+There is always a central node. 
+D 
+There is always a central antinode. 
+(Total 1 mark) 
+7. A pipe of fixed length is closed at one end. 
+h . third harmonic frequency of pipe ? 
+W at IS fi 
+h 
+. f 
+f . 
+. 
+rst armo111c requency o pipe 
+1 
+A 
+5 
+B 
+1 
+3 
+C 
+3 
+D 
+5 
+(Total 1 mark) 
+8. On a guitar, the strings played vibrate between two fixed points. The 
+frequency of vibration is modified by changing the string length using a 
+finger. The different strings have different wave speeds. When a string is 
+plucked, a standing wave forms between the bridge and the finger. 
+(a) Outline how a standing wave is produced on the string. 
+(2) 
+The string is displaced 0.4 cm at point P to sound the guitar. Point Pon the 
+string vibrates with simple harmonic motion (SHM) in its first harmonic with a 
+frequency of 19 5 Hz. The sounding length of the string is 62 cm. 
+(b) Show that the speed of the wave on the string is about 240 m s-1• 
+(2) 
+253 
+
+=== PAGE 300 ===
+WAVE BEHAVIOR C.4 
+254 
+Standing waves and resonance 
+(c) Copy the axes below and sketch a graph to show how the acceleration 
+of point P varies with its displacement from the rest position. 
+(1) 
+0 
+0 
+displacement 
+(d) The string is made to vibrate in its third harmonic. State the distance 
+between consecutive nodes. 
+(1) 
+(Total 6 marks) 
+9. 
+A pipe is open at both ends. A first-harmonic standing wave is set up in the 
+pipe. The diagram shows the variation of displacement of air molecules in 
+the pipe with distance along the pipe at time t = 0. The frequency of the first 
+harmonic is f 
+displacement 
+to the right 
+zero displacement 
+t 
+left-hand end 
+displacement of pipe 
+to the left 
+edge of pipe 
+t 
+right-hand end 
+of pipe 
+(a) Copy the diagram and sketch the variation of displacement of the air 
+molecules with distance along the pipe when t = ½-
+(1) 
+(b) An air molecule is situated at point X in the pipe at t = 0. Describe the 
+motion of this air molecule during one complete cycle of the standing 
+wave beginning from t = 0. 
+(2) 
+The speed of sound c for longitudinal waves in air is given by: 
+c=~ 
+where pis the density of the air and K is a constant. 
+(c) A student measures f to be 120 Hz when the length of the pipe is 1.4 m. 
+The density of the air in the pipe is 1.3 kg nr3• Determine the value of K 
+for air. Give your answer with the appropriate unit. 
+(4) 
+(Total 7 marks) 
+
+=== PAGE 301 ===
+10. (a) Describe two ways in which standing waves differ from traveling waves. (2) 
+A vertical tube, open at both ends, is completely immersed in a container of 
+water. A loudspeaker above the container connected to a signal generator 
+emits sound. As the tube is raised, the loudness of the sound heard reaches a 
+maximum because a standing wave has formed in the tube. 
+--------8 signal generator 
+loudspeaker-g-
+,__. water container 
+tube 
+(b) Outline how a standing wave forms in the tube. 
+The tube is raised until the loudness of the sound reaches a maximum for 
+a second time. 
+(c) Copy the diagram below and draw the position of the nodes in the 
+tube when the second maximum is heard. 
+-------@ signal generator 
+loudspeaker-ft 
+,__. water container 
+tube 
+(d) Between the first and second positions of maximum loudness, the 
+tube is raised through 0.37 m. The speed of sound in the air in the tube 
+is 320 m s-1• Determine the frequency of the sound emitted by the 
+(2) 
+(1) 
+loudspeaker. 
+(2) 
+(Total 7 marks) 
+11. A mass-spring system is forced to vibrate vertically at the resonant 
+frequency of the system. The motion of the system is damped using a liquid. 
+t spring 
+container 
+mass 
+liquid 
+255 
+
+=== PAGE 302 ===
+WAVE BEHAVIOR C.4 
+256 
+Standing waves and resonance 
+At time t = 0, the vibrator is switched on. At time tA, the vibrator is switched 
+off and the system comes to rest. The graph shows the variation of the vertical 
+displacement of the system with time until ts. 
+(a) Explain, with reference to energy in the system, the amplitude of 
+oscillation between: 
+(i) 
+t = 0 and tA 
+(1) 
+(ii) tA and ts. 
+(1) 
+(b) The system is critically damped. Copy the graph above and draw the 
+variation of the displacement with time from ts until the system comes 
+to rest. 
+(2) 
+(Total 4 marks) 
+12. A railway track passes over a bridge that has a span of20 m. The bridge is 
+subject to a periodic force as a train crosses. This is caused by the weight 
+of the train acting through the wheels as they pass the center of the bridge. 
+The wheels of the train are separated by 25 m. 
+bridge 
+train 
+,----------,,==== \=,-• 
+CC i ::C C iii :•~ - .. i m 
+■ ... := 
+4A • 
+~-------~lr====l._l __ r_
+4 -'2;;;;.5-"m-'--_f4
+_..;;;;2.;...5 ""m'-•_f_
+4-=
+25'-"m;;.;__
+1 _ _,I 
++-------. 
+20m 
+(a) Show that, when the speed of the train is 10 m s· 1, the frequency of the 
+periodic force is 0.4 Hz. 
+(1) 
+The graph on the right shows 
+A 
+the variation of the amplitude 
+of vibration A of the bridge 
+with driving frequency Jo 
+when the damping of the 
+bridge system is small. 
+(b) Outline, with reference to the curve, why it is unsafe to drive a train 
+across the bridge at 30 m s-1 for this amount of damping. 
+(2) 
+(c) The damping of the bridge system can be varied. Copy the graph and 
+draw a second curve when the damping is larger. 
+(2) 
+(Total 5 marks) 
+
+=== PAGE 303 ===
+13. You are emptying a large bottle of water. As the liquid runs out it makes a 
+'gluug gluug gluug' sound. As the bottle becomes empty, what happens to 
+the frequency of the sound? 
+A 
+It gets lower. 
+B 
+It does not change. 
+C 
+It gets higher. 
+(Total I mark) 
+14. A guitar string is stretched from point A to point G. Equal intervals (A, B, C, 
+D, E, F, G) are marked and paper 'riders' are placed on the string at D, E and 
+F. The string is pinched at C and twanged at B. What happens? 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+A 
+All the riders jump off. 
+B 
+None of the riders jump off. 
+C 
+The rider at E jumps off. 
+D 
+The riders at D and F jump off. 
+E 
+The riders at E and F jump off. 
+(Total 1 mark) 
+15. A mouse wants to get a ball bearing up and out of a bowl, but the ball is 
+too heavy and the sides of the bowl too steep for the mouse to support the 
+ball's weight. Using only its own strength, without the help oflevers and 
+such, what will the mouse be able to do? 
+A 
+Not be able to get the ball bearing up and out of the bowl 
+B 
+Be able to get the ball bearing up and out of the bowl (how?) 
+? 
+(Total 2 marks) 
+16. A body, mass m, rests on a scale pan which is supported by a spring. The 
+period of oscillation of the scale pan is 0.50 s. 
+(a) It is observed that when the amplitude of the oscillations is increased, 
+and exceeds a certain value, the mass leaves the pan. Explain why the 
+mass leaves the pan. 
+(3) 
+(b) At what point in the motion does the mass initially leave the pan? 
+(3) 
+(Total 6 marks) 
+257 

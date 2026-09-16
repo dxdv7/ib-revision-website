@@ -1,0 +1,1679 @@
+=== PAGE 50 ===
+Kinematics 
+
+=== PAGE 51 ===
+SPACE, TIME AND MOTION A.1 
+◄ 
+When can you think of a steam train as a particle? 
+Guiding Questions 
+How can the motion of a body be described quantitatively and qualitatively? 
+How can the position of a body in space and time be predicted? 
+How can the analysis of motion in one and two dimensions be used to solve 
+real-life problems? 
+The photograph at the start of this chapter shows a train, but we will not be dealing 
+with complicated systems like trains in their full complexity. In physics, we try to 
+understand everything on the most basic level. Understanding a physical system 
+means being able to predict its final conditions given its initial conditions. To do this 
+for a train, we would have to calculate the position and motion of every part- and 
+there are a lot of parts. In fact, if we considered all the particles that make up all the 
+parts, then we would have a huge number of particles to deal with. 
+In this course, we will be dealing with one particle of matter at a time. This is because 
+the ability to solve problems with one particle makes us able to solve problems with 
+many particles. We may even pretend a train is one particle. 
+The initial conditions of a particle describe where it is and what it is doing. These can 
+be defined by a set of numbers, which are the results of measurements. As time passes, 
+some of these quantities might change. What physicists try to do is predict their values 
+at any given time in the future. To do this, they use mathematical models. 
+Nature of Science 
+From the definitions of velocity and acceleration, we can use mathematics 
+to derive a set of equations that predict the position and velocity of a particle 
+at any given time. We can show by experiment that these equations give 
+the correct result for some examples, then make the generalization that the 
+equations apply in all cases. 
+Students should understand: 
+that the motion of bodies through space and time can be described and analyzed in terms of 
+position, velocity, and acceleration 
+velocity is the rate of change of position, and acceleration is the rate of change of velocity 
+the change in position is the displacement 
+the difference between distance and displacement 
+the difference between instantaneous and average values of velocity, speed and acceleration, 
+and how to determine them 
+• • 
+5 
+
+=== PAGE 52 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+... 
+A.l Figure l 
+6 
+Note: since 
+displacement is a 
+vector, you should 
+always say what the 
+direction is. 
+the equations of motion for solving problems with uniformly accelerated motion as given by: 
+u +v 
+s=-
+2-t 
+V = U + at 
+1 
+s = ut + -at2 
+2 
+v2 = u2 + 2as 
+motion with uniform and non-uniform acceleration 
+the behavior of projectiles in the absence of fluid resistance, and the application of the 
+equations of motion resolved into vertical and horizontal components 
+the qualitative effect of fluid resistance on projectiles, including time of flight, trajectory, 
+velocity, acceleration, range and terminal speed. 
+Further information about the fluid resistance force can be found in A.2. 
+Nature of Science 
+In the Tools chapter, we observed that things move and now we are going to 
+mathematically model that movement. Before we do that, we must define 
+some quantities. 
+Displacement and distance 
+It is important to understand the difference between distance traveled and displacement. 
+To explain this, consider the route marked out on the map shown in Figure 1. 
+Displacement is the shortest path moved in a particular direction. 
+The unit of displacement is the meter (m). Displacement is a vector quantity. 
+On the map, the displacement is the length of the straight line from A to B, which is a 
+distance of 5 km west . 
+Distance is how far you have traveled from A to B. 
+The unit of distance is also the meter (m). Distance is a scalar quantity. 
+In this example, the distance traveled is the length of the path taken, which is about 10 km. 
+Sometimes, this difference leads to a surprising result. For example, if you run all 
+the way round a running track, you will have traveled a distance of 400 m but your 
+displacement will be Om. 
+In everyday life, it is often more important to know the distance traveled. For example, 
+if you are going to travel from Paris to Lyon by road, you will want to know that the 
+distance by road is 450 km, not that your final displacement will be 336 km southeast. 
+However, in physics, we break everything down into its simplest parts, so we start by 
+considering motion in a straight line only. In this case, it is more useful to know the 
+displacement, since that also has information about which direction you have traveled in. 
+
+=== PAGE 53 ===
+Velocity and speed 
+Both speed and velocity are a measure of how fast a body is moving. 
+Velocity is defined as the rate of change of position. Since 'change of position' is 
+displacement and 'rate of change' requires division by time taken: 
+The unit of velocity ism s- 1• 
+Velocity is a vector quantity. 
+displacement 
+velocity=---. ---
+time 
+Speed is defined as the distance traveled per unit time: 
+The unit of speed is also m s-1• 
+Speed is a scalar quantity. 
+Exercise 
+d 
+distance 
+spee = 
+. 
+time 
+QI. Convert the following speeds into ms- 1: 
+(a) a car traveling at 100 km h-1 
+(b) a runner running at 20 km h-1• 
+Average velocity and instantaneous velocity 
+Consider traveling by car from the north ofBangkok to the south - a distance of about 
+16 km. If the journey takes 4 hours, you can calculate your velocity to be 
+1
+: = 4 km h- 1 
+in a southward direction. This does not tell you anything about the journey, just the 
+difference between the beginning and the end (unless you managed to travel at a 
+constant speed in a straight line). The value calculated is the average velocity and 
+in this example it is quite useless. If we broke the trip down into lots of small pieces, 
+each lasting only one second, then for each second the car could be considered to be 
+traveling in a straight line at a constant speed. For these short stages, we could quote 
+the car's instantaneous velocity- which is how fast it is going at that moment in 
+time and in which direction. 
+displacement 
+velocity=--.---
+time 
+• 
+d distance 
+spee = 
+time 
+A.1 Figure2 It is not 
+possible to take this route 
+across Bangkok with a 
+constant velocity. 
+◄ The bus in the photo has a 
+constant velocity for a very 
+short time. 
+7 
+
+=== PAGE 54 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+What does Newton's 
+first law tell us about 
+the forces on a body 
+traveling at constant 
+velocity? {A.2) 
+A.1 Figure 3 Measuring the 
+time for a bike to pass. 
+8 
+► 
+Exercise 
+Q2. A runner runs once around a circular track oflength 400 m with a constant 
+speed in 96s. Calculate: 
+(a) the average speed of the runner 
+(b) the average velocity of the runner 
+(c) the instantaneous velocity of the runner after 48 s 
+(d) the displacement after 24s. 
+Constant velocity 
+If the velocity is constant, then the instantaneous velocity is the same all the time so: 
+instantaneous velocity = average velocity 
+Since velocity is a vector, this also implies that the direction of motion is constant. 
+Measuring a constant velocity 
+From the definition of velocity, we see that: 
+displacement 
+velocity =--.---
+time 
+Rearranging this gives: 
+displacement = velocity x time 
+So, if velocity is constant, displacement is proportional to time. To test this relationship 
+and find the velocity, we can measure the displacement of a body at different times. 
+To do this, you either need a lot of clocks or a stop clock that records many times. 
+This is called a lap timer. In this example, a bicycle was ridden at constant speed along 
+a straight road past six students standing 10 m apart, each operating a stop clock as in 
+Figure 3. The clocks were all started when the bike, already moving, passed the start 
+marker and stopped as the bike passed each student. 
+~ ! ! t t t t 
+t 
+, 
+start 
+IOm 
+10111 
+10111 
+!Om 
+10111 
+10111 
+
+=== PAGE 55 ===
+The results achieved are shown in Table 1. 
+The uncertainty in 
+displacement is given as 0.1 m 
+since it is difficult to decide 
+exactly when the bike passed 
+the marker. 
+The digital stop clock has a 
+scale with 2 decimal places, 
+so the uncertainty is 0.01 s. 
+However, the uncertainty given 
+is 0.02s since the clocks all had 
+to be started at the same time. 
+8 70 
+5 5 60 ... ~~--+-+-;----+-~--+----+-----++--'---++->----+--
+.., 
+.!'i 
+Q., 
+:a 50 
+40 
+20 
+Since displacement (s) is 
+proportional to time (t), 
+then a graph of s vs t should 
+give a straight line with 
+gradient = velocity as shown 
+in Figure 4. 
+5 
+10 
+15 
+20 
+time/s 
+A 
+A. l Figure 4 Graph of displacement vs time for a bike. 
+Notice that in this graph the line does not pass through all the points. This is because 
+the uncertainty in the measurement in time is almost certainly bigger than the 
+uncertainty in the clock (±0.02 s) due to the reaction time of the students stopping 
+the clock. To get a better estimate of the uncertainty, we would need to have several 
+students standing at each 10 m position. Repeating the experiment is not possible in 
+this example since it is very difficult to ride at the same velocity several times. 
+The gradient indicates that: velocity= 3.5 m s-1 
+Most school laboratories are not large enough to ride bikes in so when working indoors, we 
+need to use shorter distances. This means that the times are going to be shorter so hand-
+operated stop clocks will have too great a percentage uncertainty. One way of timing in the 
+lab is by using photogates. These are connected to a computer via an interface and record 
+the time when a body passes in or out of the gate. So. to replicate the bike experiment in 
+the lab using a ball. we would need seven photogates as in Figure 5. with one extra gate to 
+represent the start. 
+Q ~ (''I"l 
+~ 
+~ 
+~ 
+5cm 
+i, 5cm ~i 
+5cm 
+5cm 
+5cm 
+5cm 
+.. 
+A. l Figure 5 How to measure the time for a rolling ball if you have seven photogates. 
+This would be quite expensive so we compromise by using just two photogates and a 
+motion that can be repeated An example could be a ball moving along a horizontal section 
+of track after it has rolled down an inclined plane. Provided the ball starts from the same 
+point, it should have the same velocity. So, instead of using seven photogates, we can use 
+two - one is at the start of the motion and the other is moved to different positions along the 
+track as in Figure 6. 
+Displacement/m Time/s 
+±0.lm 
+±0.02s 
+10.0 
+3.40 
+20.0 
+5.62 
+30.0 
+8.55 
+40.0 
+12.31 
+50.0 
+14.17 
+60.0 
+17.21 
+A 
+A.l Table l 
+A 
+A. l Figure 6 The ball 
+interrupts the infrared light 
+transmitted across each gate 
+as it passes through them. The 
+times of these interruptions 
+are measured and recorded 
+by a data logger. 
+9 
+
+=== PAGE 56 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+A. l Figure 7 Measuring the ► 
+velocity of a ball with two 
+photogates. 
+A.1 Table2 ► 
+A. l Figure 8 Graph of 
+displacement vs ti me for a 
+rolling ball. 
+d 
+card 
+~ 
+photogate 
+.... 
+A. l Figure 9 A card and 
+photogate used to measure 
+instantaneous velocity. 
+10 
+start time 
+( 
+. 
+. 
+. 
+' 
+' 
+' 
+' 
+' 
+' 
+5cm 
+5cm 
+5cm 
+5cm 
+' 
+' 
+' 
+:• . 
+:• 
+,: 
+· 5cm · 5cm 
+Table 2 shows the results obtained using this arrangement. 
+Displacement/ 
+Time(t)/s ± 0.0001 s 
+Mean 
+t:..t/s 
+cm ±0.lcm 
+t/s 
+5.0 
+0.0997 0.0983 
+0.0985 
+0.1035 
+0.1040 
+0.101 
+0.003 
+10.0 
+0.1829 
+0.1969 
+0.1770 0.1824 0.1825 
+0.18 
+0.Ql 
+15.0 
+0.2844 0.2800 
+0.2810 0.2714 0.2779 
+0.28 
+0.01 
+20.0 
+0.3681 
+0.3890 
+0.3933 
+0.3952 
+0.3854 
+0.39 
+0.01 
+25.0 
+0.4879 
+0.5108 
+0.5 l 65 
+0.4994 0.5403 
+0.51 
+0.03 
+30.0 
+0.61 17 
+0.6034 
+0.5978 
+0.6040 
+0.5932 
+0.60 
+0.01 
+e 30 
+Notice that the uncertainty 
+V 
+.::.-
+calculated from (max; min) 
+= 
+slope = 48.53 cm s-• 
+... e 
+y-in1crccp1 = 0.08 I 17 cm 
+is much more than the 
+i::l 25 
+instrument uncertainty 
+~ 
+c,,. 
+A graph of displacement vs 
+-~ 
+"Q 
+time gives Figure 8. 
+20 
+From this graph. we can see 
+that within the limits of the 
+experiment's uncertainties 
+15 
+the displacement could be 
+proportional to time, so 
+we can conclude that the 
+IO 
+velocity may have been 
+constant. However, if we 
+look closely at the data, we 
+5 
+see that there seems to be 
+a slight curve. indicating 
+that perhaps the ball was 
+0 
+slowing down. To verify 
+0 
+0.2 
+0.4 
+0.6 
+this, we would have to 
+time/s 
+collect more data. 
+Measuring instantaneous velocity 
+To measure instantaneous velocity, a very small displacement must be used. This could be 
+achieved by placing two photogates close together or attaching a piece of card to the moving 
+body as shown in Figure 9. The time taken for the card to pass through the photogate is 
+length of card (d) 
+recorded and the instantaneous velocity calculated from: 
+. 
+k 
+-t 
+time ta en 
+
+=== PAGE 57 ===
+Relative velocity 
+Velocity is a vector so velocities must be added as vectors. Imagine you are running 
+north at 3 ms-1 on a ship that is also traveling north at 4 m s-1 as shown in Figure 10. 
+Your velocity relative to the ship is 3 ms-1 but your velocity relative to the water is 
+7 m s-1• If you turn around and run due south, your velocity will still be 3 m s-1 relative 
+to the ship but 1 m s-1 relative to the water. Finally, if you run toward the east, the 
+vectors add at right angles to give a resultant velocity of magnitude 5 m s- 1 relative to 
+the water. You can see that the velocity vectors have been added. 
+4ms-' 
+_,tr 
+3ms 
+4ms-' 
+I lmS 
+3 m s-• 
+Imagine that you are floating in the water watching two boats traveling toward each 
+other as in Figure 11. 
+• 
+The blue boat is traveling east at 4 m s-1 and the green boat is traveling west at - 3 m s-1. 
+Remember that the sign of a vector in one dimension gives the direction. So, if east is 
+positive, then west is negative. If you were standing on the blue boat, you would see 
+the water going past at - 4 ms- 1 so the green boat would approach with the velocity of 
+the water plus its velocity in the water: - 4 + - 3 = - 7 m s-1• This can also be done in two 
+dimensions as in Figure 12. 
+According to the swimmer floating in the water, the green boat travels north and the 
+blue boat travels east, but an observer on the blue boat will see the water traveling 
+toward the west and the green boat traveling due north. Adding these two velocities 
+gives a velocity of 5 m s-1 in an approximately northwest direction. 
+A.1 Figure 10 Running on 
+board a ship 
+A.1 Figure 11 Two boats 
+approach each other. The 
+vector addition for the 
+velocity of the green boat 
+from the perspective of the 
+blue boat is shown. 
+A.1 Figure 12 Two boats 
+traveling perpendicular 
+to each other. The vector 
+addition for the velocity of 
+the green boat from the 
+perspective of the blue boat 
+is shown. 
+How effectively do the 
+equations of motion 
+model Newton's laws of 
+dynamics? (A.2) 
+11 
+
+=== PAGE 58 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+A. l Figure 13 A red ball 
+with constant acceleration. 
+12 
+Exercise 
+Q3. An observer standing on a road watches a bird flying east at a velocity of 
+lOms-1• A second observer, driving a car along the road northward at 20ms-1, 
+sees the bird. What is the velocity of the bird relative to the driver? 
+Q4. A boat travels along a river heading north with a velocity 4 m s-1 as a woman 
+walks across a bridge from east to west with velocity of 1 m s-1• Calculate the 
+velocity of the woman relative to the boat. 
+Acceleration 
+In everyday usage, the word accelerate means to go faster. However, in physics, 
+acceleration is defined as the rate of change of velocity: 
+. 
+change of velocity 
+acceleration=---.----
+tune 
+The unit of acceleration is ms- 2. 
+Acceleration is a vector quantity. 
+This means that whenever a body changes its velocity, it accelerates. This could be 
+because it is getting faster, slower, or just changing direction. In the example of the 
+journey across Bangkok, the car would have been slowing down, speeding up and 
+going round corners almost the whole time so it would have had many different 
+accelerations. However, this example is far too complicated for us to consider in 
+this course (and probably any physics course). For most of this chapter, we will only 
+consider the simplest example of accelerated motion, which is constant acceleration. 
+Constant acceleration in one dimension 
+In one-dimensional motion, acceleration, velocity and displacement are all in the same 
+direction. This means they can be added without having to draw triangles. Figure 13 
+shows a body that is starting from an initial velocity u and accelerating at a constant 
+rate a to velocity v in t seconds. The distance traveled in this time is s. Since the motion 
+is in a straight line, this is also the displacement. 
+u 
+a 
+>> 
+----------s----------
+Using the definitions already stated, we can write equations related to this example. 
+Average velocity 
+displacement 
+From the definition, average velocity =---. ---
+time 
+1 . 
+s 
+average ve oc1ty = t 
+(1) 
+Since the velocity changes at a constant rate from the beginning to the end, we can also 
+calculate the average velocity by adding the initial and final velocities and dividing by two: 
+(u + v) 
+average velocity = - 2-
+(2) 
+
+=== PAGE 59 ===
+Acceleration 
+Acceleration is defined as the rate of change of velocity: 
+(v - u) 
+a=-t -
+(3) 
+We can use these equations to solve any problem involving constant acceleration. 
+However, to make problem-solving easier, we can derive two more equations by 
+substituting from one into the other. 
+Equating equations (1) and (2): 
+Rearranging (3) gives: v = u + at 
+s 
+(u + v) 
+----
+t 
+2 
+(u + v) t 
+s= --2-
+(4) 
+If we substitute for v in equation (4), we get: s = ut + ½at2 
+(5) 
+(v - u) 
+Rearranging (3) again gives: t = - a-
+If tis now substituted in equation (4), we get: v2 = u2 + 2as 
+(6) 
+These equations are sometimes known as the suvat equations. If you know any three of 
+s, u, v, a and t, you can find either of the other two in one step. 
+Worked example 
+A car traveling at 10 m s- 1 accelerates at 2 m s-2 for 5 s. What is its displacement? 
+Solution 
+The first thing to do is draw a simple diagram: 
+u = IOms- 1 
+time= 0 
+a= 2ms-2 
+)) 
+time= 5s 
+This enables you to see what is happening at a glance rather than reading the text. 
+The next stage is to make a list of suvat. 
+s = ? 
+u = lOms- 1 
+v =? 
+a= 2ms-2 
+t = 5 s 
+To finds, you need an equation that contains suat. The only equation with all four of 
+these quantities is: s = ut + ½at1 
+Using this equation gives: 
+S = 10 X 5 + ½ 
+X 2 X 52 
+s = 75111 
+• 
+These equations are 
+known as the suvat 
+equations: 
+(v - u) 
+a= -
+t-
+(v + u)t 
+s=--2-
+s = ut + ½at2 
+v2 = u2 + 2as 
+How are the equations 
+for circular motion 
+related to those for 
+linear motion? (A.2) 
+A GeoGebra worksheet 
+linked to this topic is 
+available in the eBook. 
+When the units are 
+consistent, you do 
+not need to include 
+units in all stages of a 
+calculation, JUSt in the 
+answer. 
+13 
+
+=== PAGE 60 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+A. l Figure 14 A car moves 
+to the left with decreasing 
+speed. 
+5ms-2 
+EE 
+0 
+~ 
+A.l Figurel5 The 
+acceleration is negative so 
+points to the left. 
+The acceleration due to 
+gravity is not constant all 
+over the Earth. 9.81 m s-2 
+is the average value. 
+The acceleration also 
+gets smaller the higher 
+you go. However, we 
+ignore this change when 
+conducting experiments 
+in the lab since labs are 
+not that high. 
+To make the examples 
+easier to follow, 
+g = 10 m s-2 is used 
+throughout. However, 
+you should only use this 
+approximate value in 
+exam questions if told 
+to doso. 
+14 
+The signs of displacement, velocity and acceleration 
+We must not forget that displacement, velocity and acceleration are vectors. This 
+means that they have direction. However, since this is a one-dimensional example, 
+there are only two possible directions, forward and backward. We know which 
+direction the vector is in from its sign. 
+If we take right to be positive: 
+• A positive displacement means that the body has moved to the right. 
+• A positive velocity means the body is moving to the right. 
+• A positive acceleration means that the body is either moving to the right and 
+getting faster or moving to the left and getting slower. This can be confusing so 
+consider the following example. 
+v = Sms- 1 
++--
+)) 
+u = IOms- 1 
++--
+~-, & 
+time=Ss 
+time = 0 
+The car is traveling in a negative direction so the velocities are negative. 
+u = - lOms-1 
+t = 5s 
+The acceleration is therefore given by: 
+(v - u) 
+- 5 - (-10) 
+a=--=----= l ms-2 
+t 
+5 
+The positive sign tells us that the acceleration is in a positive direction (right) even 
+though the car is traveling in a negative direction (left). 
+Worked example 
+A body with a constant acceleration of -5 m s-2 is traveling to the right with a 
+velocity of 20 m s-1• What will its displacement be after 20 s? 
+Solution 
+s=? 
+u = 20ms- 1 
+v=? 
+a =-5ms-2 
+t= 20s 
+To calculate s, we can use the equation: s = ut + ½at2 
+1 
+S = 20 X 20 + l (-5) X 202 = 400 - 1000 = - 600111 
+This means that the final displacement of the body is to the left of the starting 
+point. It has gone forward, stopped, and then gone backward. 
+
+=== PAGE 61 ===
+Exercise 
+Q5. Calculate the final velocity of a body that starts from rest and accelerates at 
+5 m s-2 for a distance of 100 m. 
+Q6. A body starts with a velocity of20ms-1 and accelerates for 200m with an 
+acceleration of 5 m s-2• What is the final velocity of the body? 
+Q7. A body accelerates at 10 m s-2 and reaches a final velocity of 20 m s-1 in 5 s. 
+What is the initial velocity of the body? 
+Free fall motion 
+Although a car has been used in the previous examples, the acceleration of a car is 
+not usually constant so we should not use the suvat equations. The only example of 
+constant acceleration that we see in everyday life is when a body is dropped. Even then, 
+the acceleration is only constant for a short distance. 
+Acceleration of free fall 
+When a body is allowed to fall freely, we say it is in free fall. Bodies falling freely on the 
+Earth fall with an acceleration of about 9.81 m s-2 (depending where you are). The body 
+falls because of gravity. For that reason, we use the letterg to denote this acceleration. 
+Since the acceleration is constant, we can use the suvat equations to solve problems. 
+Exercise 
+In these calculations, use g = 10 m s-2• 
+Q8. 
+A ball is thrown upward with a velocity of 30 m s-1• What is the displacement 
+of the ball after 2s? 
+Q9. 
+A ball is dropped. What will its velocity be after falling 65 cm? 
+QIO. A ball is thrown upward with a velocity of20ms-1• After how many seconds 
+will the ball return to its starting point? 
+Measuring the acceleration due to gravity 
+When a body falls freely under the influence of gravity, it accelerates at a constant 
+rate. This means that time to fall t and distances are related by the equation: 
+s = ut + ½at2. If the body starts from rest, then u = 0 so the equation becomes: 
+s = ½at2• Since sis directly proportional to t2, a graph of s vs t2 would therefore 
+be a straight line with gradient ½g. It is difficult to measure the time for a ball to 
+pass different markers, but if we assume the ball falls with the same acceleration 
+when repeatedly dropped, we can measure the time taken for the ball to fall from 
+different heights. There are many ways of doing this. All involve some way of 
+starting a clock when the ball is released and stopping it when it hits the ground. 
+Table 3 shows a set of results from a 'ball drop' experiment. 
+.. 
+How does the motion 
+of an obJect change 
+within a gravitational 
+field? (D. l) 
+If you jump out of a 
+plane (with a parachute 
+on), you will feel the 
+push of the air as it 
+rushes past you. As you 
+fal I faster and faster, the 
+air will push upward 
+more and more until 
+you cannot go any 
+faster. At th is point, you 
+have reached terminal 
+velocity. We will come 
+back to this after 
+introducing forces. 
+Apparatus for measuring g. 
+15 
+
+=== PAGE 62 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+A.1 Table3 ► 
+If a parachutist kept 
+accelerating at a 
+constant rate, they 
+would break the 
+sound barrier after 
+about 30s of flight. 
+By understanding 
+the forces involved, 
+scientists have been 
+able to design wing 
+suits so that base 
+jumpers can achieve 
+foiward velocities 
+greater than their rate 
+of falling. 
+A worksheet with ful I 
+details of how to carry 
+out this experiment is 
+available in the eBook. 
+A.1 Figure 16 Height vs 
+time2 for a falling object. 
+Why would it not be 
+appropriate to apply the 
+suvat equations to the 
+motion of a body falling 
+freely from a distance of 
+2 times the Earth's radius 
+to the surface of the 
+Earth? (D.1 ) 
+16 
+• 
+► 
+Height(h)/m 
+Time(t)/s ± 0.001 s 
+Mean 
+t2/s2 
+tl(t2)/s2 
+±0.001 m 
+tfs 
+0.118 
+0.155 
+0.153 
+0.156 
+0.156 
+0.152 
+0.154 
+0.024 
+0.001 
+0.168 
+0.183 
+0.182 
+0.183 
+0.182 
+0.184 
+0.183 
+0.0334 
+0.0004 
+0.218 
+0.208 
+0.205 
+0.210 
+0.211 
+0.210 
+0.209 
+0.044 
+0.001 
+0.268 
+0.236 
+0.235 
+0.237 
+0.239 
+0.231 
+0.236 
+0.056 
+0.002 
+0.318 
+0.250 
+0.254 
+0.255 
+0.250 
+0.256 
+0.253 
+0.064 
+0.002 
+0.368 
+0.276 
+0.277 
+0.276 
+0.278 
+0.276 
+0.277 
+0.077 
+0.001 
+0.418 
+0.292 
+0.293 
+0.294 
+0.291 
+0.292 
+0.292 
+0.085 
+0.001 
+0.468 
+0.310 
+0.310 
+0.303 
+0.300 
+0.311 
+0.307 
+0.094 
+0.003 
+0.518 
+0.322 
+0.328 
+0.330 
+0.328 
+0.324 
+0.326 
+0.107 
+0.003 
+0.568 
+0.342 
+0.341 
+0.343 
+0.343 
+0.352 
+0.344 
+0.118 
+0.004 
+N . 
+h 
+I 
+. 
+. 
+2 • 
+1 1 d f 
+(tmax2 - tmi/) 
+otice t at t 1e uncertainty m t 1s ca cu ate 
+rom: 
+2 
+Notice how the line in Figure 16 is very close to the points and that the uncertainties 
+reflect the actual random variation in the data. The gradient of the line is equal to ½g 
+so g = 2 x gradient. 
+g = 2 x 4.814 = 9.624 m s-2 
+The uncertainty in this value can be estimated from the steepest and least steep lines: 
+gmax = 2 X 5.112 = 10.224111S-l 
+gmin = 2 X 4.571 = 9.142111S-l 
+(10224 - 9.142) 
+2 
+0.541 ms-2 
+So, the final value including uncertainty is 9.6 ± 0.5 m s-2• 
+This is in agreement with the accepted average value which is 9.81 m s-2. 
+e o.6 
+I 
+·.; 
+.Cl 0.5 
+0.4 
+0.3 
+0.2 
+0.1 
++ 
+slope = 4.814 m s ' 
+y-intercepl = 0.005 m 
+slope = 5. 112 m ,-, 
+y-imercept = --0.0 l030 m 
+0-l'-"'----.-----.-----,---.----,-----.-----,------.----,--,---+T---+ 
+0 
+0.01 
+0.02 
+O.Q3 
+0.04 0.05 0.06 
+O.Q7 
+0.08 0.09 0.10 0.1 1 0.12 
+time2/s' 
+
+=== PAGE 63 ===
+Graphical representation of motion 
+Graphs are used in physics to give a visual representation of relationships. In 
+kinematics, they can be used to show how displacement, velocity and acceleration 
+change with time. Figure 17 shows the graphs for four different examples of motion. 
+The best way to sketch graphs is to split the motion into sections then plot where the 
+body is at different times. Joining these points will give the displacement-time graph. 
+Once you have done that, you can work out the v-t and a-t graphs by looking at the s-t 
+graph rather than the motion. 
+Gradient of displacement-time graph 
+change in y 
+/J.y 
+The gradient of a graph is: h 
+. 
+/J.x 
+c ange m x 
+In the case of the displacement-time graph, this will give: 
+d. 
+/J.s 
+gra 1ent = I'-,. t 
+This is the same as velocity. 
+We can represent the motion of a body on displacement-time graphs, velocity-time 
+graphs and acceleration-time graphs. The three graphs of these types shown in 
+Figure 17 display the motion of four bodies, which are labeled A, B, C and D. 
+time 
+time 
+f-------- c 
+time 
+Body A 
+A body that is not moving. 
+Displacement is always the same. 
+Velocity is zero. 
+Acceleration is zero. 
+BodyC 
+A body that has a constant negative 
+velocity. 
+Displacement is decreasing linearly 
+with time. 
+Velocity is a constant negative value. 
+Acceleration is zero. 
+BodyB 
+A body that is traveling with a constant 
+positive velocity. 
+Displacement increases linearly with time. 
+Velocity is a constant positive value. 
+Acceleration is zero. 
+BodyD 
+A body that is accelerating with constant 
+acceleration. 
+Displacement is increasing at a non-linear 
+rate. The shape of this line is a parabola 
+since displacement is proportional to 
+t2 (s "' ut + 1at2). 
+Velocity is increasing linearly with time. 
+Acceleration is a constant positive value. 
+So, the gradient of the displacement-time graph equals the velocity. Using this 
+information, we can see that line A in Figure 18 represents a body with a greater 
+velocity than line B, and that since the gradient ofline C is increasing, this must be the 
+graph for an accelerating body. 
+You need to be able to: 
+• work out what kind 
+of motion a body 
+has by looking at the 
+graphs 
+· sketch graphs for a 
+given motion. 
+A.1 Figure 17 Graphical 
+representation of motion 
+5 
+E 
+" 
+u .., 
+c.. 
+V, ;a 
+.. 
+A 
+C 
+B 
+time 
+A.1 Figure 18 Three new 
+bodies to compare. 
+17 
+
+=== PAGE 64 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+time 
+.A 
+A. l Figure 19 Finding the 
+gradient of the tangent. 
+velocity 
+V 1------, 
+LI! 
+time 
+A 
+A. l Figure 20 The area is 
+displacement 
+a +-----~ 
+time 
+.A 
+A.l Figure21 The area is 
+change in velocity. 
+How does analyzing 
+graphs allow us to 
+determine other 
+physical quantities? 
+(NOS) 
+A GeoGebra worksheet 
+linked to this topic is 
+available in the eBook. 
+18 
+• 
+Instantaneous velocity 
+When a body accelerates, its velocity is constantly changing. The displacement-time 
+graph for this motion is therefore a curve. To find the instantaneous velocity from 
+the graph, we can draw a tangent to the curve and find the gradient of the tangent as 
+shown in Figure 19. 
+Area under velocity-time graph 
+The area under the velocity-time graph for the body traveling at constant velocity v 
+shown in Figure 20 is given by: 
+area = vi',_t 
+But we know from the definition of velocity that: v = ~: 
+Rearranging gives i',_s = vM so the area under a velocity-time graph gives the 
+displacement. 
+This is true, not only for simple cases such as this, but for all examples. 
+Gradient of velocity-time graph 
+The grad'.ent of the velocity-time graph is given by ~:. This is the same as 
+acceleration. 
+Area under acceleration-time graph 
+The area under the acceleration-time graph in Figure 21 is given by aM. But we know 
+f 
+h d f. · · 
+f 
+I 
+· 
+h 
+(v - u) 
+rom t e e 1111t1on o acce erat10n t at: a = -t-
+Rearranging this gives v- u = ai',.t so the area under the graph gives the change in velocity. 
+If you have covered calculus in your mathematics course, you may recognize these 
+equations: 
+ds 
+dv 
+d2s 
+v = -
+a= -
+= -
+ands = Jvdt v = Jadt 
+dt' 
+dt d2t 
+' 
+Exercise 
+QI I. Sketch a velocity-time graph for a body starting from rest and accelerating 
+at a constant rate to a final velocity of 25 m s-1 in 10 seconds. Use the graph 
+to find the distance traveled and the acceleration of the body. 
+Ql2. Describe the motion of the body whose velocity-time graph is shown . 
+What is the final displacement of the body? 
+velocity/m s- 1 
+JO 
+time/s 
+
+=== PAGE 65 ===
+Q 13. A ball is released from rest on the hill in the figure below. Sketch the s-t, v-t, 
+and a-t graphs for its horizontal motion. 
+L---==========--==-
+Q 14. A ball rolls along a table then falls off the edge, landing on soft sand. Sketch 
+the s-t, v-t, and a-t graphs for its vertical motion. 
+Example 1: The suvat example 
+As an example, let us consider the motion we looked at when deriving the suvat 
+equations. 
+u 
+V 
+o
+timo•O 
+Displacement-time 
+The body starts with velocity u and travels to the right with constant acceleration a for a 
+time t. If we take the starting point to be zero displacement, then the displacement-
+time graph starts from zero and rises to sin t seconds. We can therefore plot the two 
+points shown in Figure 23. The body is accelerating so the line joining these points is 
+a parabola. The whole parabola has been drawn to show what it would look like - the 
+reason it is offset is because the body is not starting from rest. The part of the curve to 
+the left of the origin tells us what the particle was doing before we started the clock. 
+Velocity-time 
+Figure 24 is a straight line with a positive gradient 
+showing that the acceleration is constant. The line 
+does not start from the origin since the initial 
+velocity is u. 
+Th 
+d. 
+f h" 1· 
+· (v - u) 
+11· h 
+k 
+e gra 1ent o t 1s me 1s -t-, w 1c we now 
+from the suvat equations is acceleration. 
+The area under the line makes the shape of a 
+trapezium. The area of this trapezium is ½(v + u)t. 
+This is the suvat equation for s. 
+velocity 
+u 
+acceleration 
+Acceleration-time 
+The acceleration is constant so the acceleration-time 
+a-+------, 
+graph is a horizontal line as shown in Figure 25. 
+The area under this line is ax t , which we know 
+from the suvat equations equals (v- u). 
+t time 
+time 
+A.1 Figure 22 A body with 
+constant acceleration. 
+Negative time does 
+not mean going back 
+in time - it means the 
+time before you started 
+the clock. 
+\ 
+\ 
+displacement 
+t time 
+A 
+A.1 Figure 23 Constant 
+acceleration. 
+A.1 Figure 24 Constant 
+acceleration. 
+A.1 Figure 25 Constant 
+acceleration. 
+19 
+
+=== PAGE 66 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+A.1 Figure 26 Vertical 
+displacement vs time. 
+Why is the height 
+reached by a bouncing 
+ball less than the height 
+of release? {A.3) 
+A.1 Figure 27 Vertical 
+displacement vs time. 
+20 
+► 
+Example 2: The bouncing ball 
+Consider a rubber ball dropped from position A above the ground onto hard surface B. 
+The ball bounces up and down several times. Figure 26 shows the displacement-time 
+graph for four bounces. From the graph, we see that the ball starts above the ground 
+then falls with increasing velocity (as shown by the increasing negative gradient). 
+When the ball bounces at B, the velocity suddenly changes from negative to positive as 
+the ball begins to travel back up. As the ball goes up, its velocity decreases until it stops 
+at C and begins to fall again. 
+B 
+Exercise 
+displacement 
+A 
+B 
+D 
+time 
+QI 5. By considering the gradient of the displacement-time graph in Figure 26, 
+plot the velocity-time graph for the motion of the bouncing ball. 
+Example 3: A ball falling with air resistance 
+Figure 27 shows the motion of a ball that is dropped several hundred meters through 
+the air. It starts from rest and accelerates for some time. As the ball accelerates, the air 
+resistance increases, which stops the ball from getting any faster. At this point, the ball 
+continues with constant velocity. 
+time 
+Exercise 
+Ql6. By considering the gradient of the displacement-time graph, plot the 
+velocity-time graph for the motion of the falling ball in Figure 27. 
+
+=== PAGE 67 ===
+Projectile motion 
+We all know what happens when a ball is thrown. It follows a curved path like the one 
+in the photo. We can see from this photo that the path is parabolic and later we will 
+show why that is the case. 
+Modeling projectile motion 
+All examples of motion up to this point have been in one dimension but projectile 
+motion is two-dimensional. However, if we take components of all the vectors vertically 
+and horizontally, we can simplify this into two simultaneous one-dimensional 
+problems. The important thing to realize is that the vertical and horizontal components 
+are independent of each other. You can test this by dropping an eraser off your desk and 
+flicking one forward at the same time - they both hit the floor together. The downward 
+motion is not changed by the fact that one stone is also moving forward. 
+l 
+h 
+max height 
+l 
+A -------R-------.. 
+range 
+Consider a ball that is projected at an angle e to the horizontal, as shown in Figure 28. 
+We can split the motion into three parts, beginning, middle and end, and analyze the 
+vectors representing displacement, velocity and time at each stage. Notice that the path 
+is symmetrical, so the motion on the way down is the same as on the way up. 
+Horizontal components 
+At A (time = 0) 
+At B (time =½) 
+At C (time= t) 
+displacement= zero 
+displacement = 1 
+displacement = R 
+velocity= vcos 0 
+velocity= v cos 0 
+velocity= v cos 0 
+acceleration = 0 
+acceleration = 0 
+acceleration = 0 
+Vertical components 
+AtA 
+AtB 
+AtC 
+displacement = zero 
+displacement = h 
+displacement = zero 
+velocity= v sin 0 
+velocity= zero 
+velocity= - v sin 0 
+acceleration= -g 
+acceleration = -g 
+acceleration = -g 
+We can see that the vertical motion is constant acceleration and the horizontal motion 
+is constant velocity. We can therefore use the suvat equations. 
+When can problems 
+on projectile motion 
+be solved by applying 
+conservation of energy 
+instead of kinematic 
+equations? (A.3) 
+A.1 Figure 28 A proJeCtile 
+launched at an angle 0 
+Note that, at C. we are 
+using the magnitude of 
+0 (which is unchanged 
+from position A). 
+Therefore the negative 
+sign is in place to 
+provide the correct 
+velocity direction; the 
+projectile is moving 
+downward. 
+21 
+
+=== PAGE 68 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+Since the horizontal 
+displacement is 
+proportional to t, the 
+path has the same 
+shape as a graph of 
+vertical displacement 
+plotted against time. 
+This is parabolic 
+since the vertical 
+displacement is 
+pro po rtional to t2. 
+A.1 Table4 ► 
+A GeoGebra worksheet 
+linked to this topic is 
+available in the eBook. 
+For a given value of v, 
+the maxi mum range 
+is when vcos0t is a 
+maximum value. 
+t = 2vsin 0 
+g 
+If we substitute this for 
+t we get: 
+R = 2v2cos 0sin0 
+g 
+Now, 2sin0cos0= sin20 
+(a trigono metric 
+identity) 
+So R = v2sin20 
+' 
+g 
+This is maximum when 
+sin20 is a maximum 
+(sin20 = 7 ), which is 
+when 0 = 45°. 
+How does the motion of 
+a mass in a gravitational 
+field compare to the 
+motion of a charged 
+particle in an electric 
+field? (D.2) 
+22 
+• 
+suvat for horizontal motion 
+Since acceleration is zero, there is only one equation needed to define the motion. 
+I Atoe 
+Ra ,cos 01 
+suvat for vertical motion 
+When considering the vertical motion, it is worth splitting the motion into two parts. 
+suvat 
+AtB 
+AtC 
+s = ½(u + v)t 
+h = ½(v sin 8)½ 
+0 = ½(v sin 8- v sin B)t 
+v2 = u2 + 2as 
+0 = v2 sin28- 2gh 
+(- v sin 8)2 = (v sin 8)2 - 0 
+s =ut +½at1 
+· 
+1 er 
+h = V sm et - 2g 2 
+0 = vsin 8t - tgt2 
+v - u 
+vsin 8- 0 
+v sin 8 - (-v sin £J) 
+a =--
+t 
+g = 
+.!.. 
+g 
+t 
+2 
+Some of these equations are not very useful since they simply state that 0 = 0. 
+However, we do end up with three useful ones (highlighted): 
+R = vcos 8t 
+0 = v2sin 20- 2gh 
+or 
+O=vsin Bt-½gt2 
+or 
+Solving problems 
+h = _v2_s_in_2_8 
+2g 
+2vsin B 
+t =---
+g 
+(7) 
+(8) 
+(9) 
+In a typical problem, you will be given the magnitude and direction of the initial 
+velocity and asked to find either the maximum height or range. To calculate h, you can 
+use equation (8), but to calculate R, you need to find the time of flight so must use (9) 
+first. (You could also substitute fort into equation (6) to give another equation but we 
+have enough equations already.) 
+You do not have to remember a lot of equations to solve a projectile problem. If 
+you understand how to apply the suvat equations to the two components of the 
+projectile motion, you only have to remember the suvat equations (and they are in the 
+data booklet). 
+Worked example 
+the horizontal at a speed of 20 m s- 1• 
+______ -
+0
+·
+- -f--------__ _ 
+A ball is thrown at an angle of 30° to 20 
+m s- 1 
+Calculate its range and the 
+_,---
+h 
+--•• __ 
+maximum height reached. 
+3~0 
+l 
+·---.. 
++--------R---------
+
+=== PAGE 69 ===
+Solution 
+First, draw a diagram, including labels defining all the quantities known and 
+unknown. 
+Now we need to find the time of flight. If we apply s = ut + ½at2 to the whole flight 
+we get: 
+2vsin fJ 
+(2 x 20 x sin 30°) 
+t =-g- = 
+lO 
+=ls 
+We can now apply s = vt to the whole flight to find the range: 
+R = v cos Bt = 20 x cos 30° x 2 = 34.6 m 
+Finally, to find the height, we apply s = ut + ½at2 to the vertical motion, but 
+remember that this is only half the complete flight so the time is 1 s. 
+h = v sin Bt - ½gt2 = 20 x sin 30° x 1 - ½ x 10 x 12 = 10- 5 = 5 m 
+Worked example 
+A ball is thrown horizontally from a cliff top 
+with a horizontal speed of 10 m s- 1• 
+If the cliff is 20 m high, what is the range 
+of the ball? 
+1 
+20m 
+j~
+, 
+- R---
+Solution 
+This is an easy one since there are no angles to deal with. The initial vertical 
+component of the velocity is zero and the horizontal component is lOms-1• 
+To calculate the time of flight, we apply s = ut + ½at2 to the vertical component. 
+Knowing that the final displacement is - 20 m, this gives: 
+] t2 
+X 20) 
+- 20m =0 - 2gt2 sot = 
+10 
+=ls 
+We can now use this value to find the range by applying the equations = vt to the 
+horizontal component: R = 10 x 2 = 20 m 
+When a bullet is fired 
+at a distant target. it 
+will travel in a curved 
+path due to the action 
+of gravity Precision 
+marksmen adjust their 
+sights to compensate 
+for this. The angle of 
+this adjustment could 
+be based on calculation 
+or experiment (trial and 
+error). 
+If you have ever played golf. 
+you will know that it is not 
+true that the maximum range 
+is achieved with an angle 
+of 45°. The angle is actually 
+much less. This is because the 
+ball is held up by the air like 
+a plane is. In this photo, Alan 
+Shepard is playing golf on the 
+Moon. Here. the maximum 
+range will be at 45°. 
+23 
+
+=== PAGE 70 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+How does gravitational 
+force allow for orbital 
+motion? {A.2) 
+A. l Figure 29 When 
+air resistance is present. 
+the projectile's motion is 
+asymmetric. 
+24 
+Exercise 
+QI 7. Calculate the range of a projectile thrown at an angle of 60° to the horizontal 
+with a velocity of 30 m s-1• 
+QI8. You throw a ball at a speed of 20ms-1• 
+(a) At what angle must you throw the ball so that it will just get over a wall 
+that is 5 m high? 
+(b) How far away from the wall must you be standing? 
+QI 9. A gun is aimed so that it points directly at the center of a target 200 m away. 
+If the bullet travels at 200 m s-1, how far below the center of the target will the 
+bullet hit? 
+Q20. If you can throw a ball at 20 ms-1, what is the maximum distance you can 
+throw it? 
+Challenge yourself 
+I. A projectile is launched perpendicular to a 30° slope at 20 m s-1• Calculate the 
+distance between the launching position and landing position. 
+Projectile motion with air resistance 
+In all the examples above, we have ignored the fact that the air will resist the motion 
+of the ball. Air resistance opposes motion and increases with the speed of the moving 
+object. The actual path of a ball including air resistance is likely to be as shown in 
+Figure 29. 
+,,.,--- ....... 
+,, 
+' 
+,, 
+' 
+,, 
+' 
+,, 
+' 
+,, 
+' 
+~,1 
+', 
+without air 
+; ./ 
+', resistance 
+; 
+' 
+; 
+\ 
+I 
+\ 
+I 
+\ 
+/ 
+with air 
+\ 
+I 
+\ 
+, 
+\ 
+~ 
+\ 
+\ 
+\ 
+\ 
+\ 
+\ 
+\ 
+Notice that both the maximum height and the range are less. The path is also no longer 
+a parabola - the way down is steeper than the way up. 
+The equation for this motion is complex. Horizontally, there is negative acceleration 
+and so the horizontal component of velocity decreases. Vertically, there is increased 
+magnitude of acceleration on the way up and a decreased magnitude of acceleration on 
+the way down. None of these accelerations are constant so the suvat equations cannot 
+be used. Luckily, all you need to know is the shape of the trajectory and the qualitative 
+effects on range and time of flight. 
+
+=== PAGE 71 ===
+Alternative air effects 
+The air does not always reduce the range of a projectile. A golf ball travels further than 
+a ball projected in a vacuum. This is because the air holds the ball up, in the same way 
+that it holds up a plane, due to the dimples in the ball and its spin. 
+Guiding Questions revisited 
+How can the motion of a body be described quantitatively and qualitatively? 
+How can the position of a body in space and time be predicted? 
+How can the analysis of motion in one and two dimensions be used to solve 
+real-life problems? 
+In this chapter, we have considered real-life examples to show that: 
+• Displacement is the straight-line distance between the start and end points of a 
+body's motion and it has a direction. 
+• Velocity is the rate of change of displacement (and the vector equivalent of speed). 
+• Acceleration is the rate of change of velocity (and can therefore be treated as a 
+vector). 
+• Motion graphs of displacement and velocity (or acceleration) against time 
+enable qualitative changes in these quantities to be described and calculations of 
+other quantities to be performed. 
+• The suvat equations of uniformly accelerated motion can be used to predict 
+how position and velocity change with time (or one another) when a body 
+experiences a constant acceleration. 
+• Vector quantities can be split into perpendicular components that can be treated 
+independently, making it possible to solve problems in two dimensions using the 
+suvat equations twice, for example, vertically and then horizontally for a projectile. 
+• Air resistance changes the acceleration in both perpendicular components, 
+which means that the suvat equations cannot be used. 
+◄ A.1 Figure 30 The path of 
+a smooth ball and a dimpled 
+golf ball. 
+~ 
+25 
+
+=== PAGE 72 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+26 
+Practice questions 
+1. Police car Pis stationary by the side of a road. Car S passes car Pat a constant 
+speed of 18 m s-1• Car P sets off to catch car S just as car S passes car P. Car P 
+accelerates at 4.5 m s-2 for 6.0s and then continues at a constant speed. Car P 
+takes t seconds to draw level with car S. 
+(a) State an expression, in terms oft, for the distance car S travels in 
+t seconds. 
+(1) 
+(b) Calculate the distance traveled by car P during the first 6.0s of its 
+motion. 
+(1) 
+(c) Calculate the speed of car P after it has completed its acceleration. 
+(1) 
+(d) State an expression, in terms oft, for the distance traveled by car P 
+during the time that it is traveling at constant speed. 
+(1) 
+(e) Using your answers to (a) to (d), determine the total time t taken by 
+car P to draw level with car S. 
+(2) 
+(Total 6 marks) 
+2. A ball is kicked with a speed of 14 m s-1 at 60° to the horizontal and lands 
+on the roof of a 4m high building. 
+(a) (i) State the final vertical displacement of the ball. 
+(1) 
+(ii) Calculate the time of flight. 
+(3) 
+(iii) Calculate the horizontal displacement between the start point 
+and the landing point on the roof. 
+(2) 
+(b) The ball is kicked vertically upward. Explain the difference between 
+the time to reach the highest point and the time from the highest 
+point back to the ground. 
+(3) 
+(Total 9 marks) 
+
+=== PAGE 73 ===
+3. Two boys kick a football up and 
+down a hill that is at an angle of 
+30° to the horizontal. One boy 
+stands at the top of the hill and 
+one boy stands at the bottom of 
+the hill. 
+(a) Assuming that each boy kicks the ball perfectly to the other boy 
+(without spin or bouncing), sketch a single path that the ball could 
+take in either direction. 
+(2) 
+(b) Compare the velocities with which each boy must strike the ball to 
+achieve this path. 
+(2) 
+(Total 4 marks) 
+4. The graph shows how the displacement of an object varies with time. 
+At which point (A, B, C or D) does the instantaneous speed of the object 
+equal its average speed over the interval from Oto 3 s? 
+4 
+3 
+displacement/m 
+2 
+0 +---r--,----r-
+0 
+2 
+3 
+time/s 
+5. 
+A runner starts from rest and accelerates at a constant rate. 
+Which graph (A, B, C or D) shows the variation of the speed v of 
+the runner with the distance traveled s? 
+A V 
+B V 
+0+------
+0 
+s 
+C V 
+D V 
+s 
+0+------
+0 
+(Total 1 mark) 
+(Total 1 mark) 
+27 
+
+=== PAGE 74 ===
+SPACE, TIME AND MOTION A.1 
+Kinematics 
+28 
+6. A student hits a tennis ball at point P, which is 2.8 m above the ground. 
+The tennis ball travels at an initial speed of 64 m s-1 at an angle of 7.0° to 
+the horizontal. The student is 11.9 m from the net and the net has a height 
+of0.9lm. 
+diagram not to scale 
+p 
+2.8m 
+net 
+0.91m 
+~-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-::__-=."""--'.__ ____ ground 
+11.9m 
+(a) Calculate the time it takes the tennis ball to reach the net. 
+(b) Show that the tennis ball passes over the net. 
+(c) Determine the speed of the tennis ball as it hits the ground. 
+(2) 
+(3) 
+(2) 
+(Total 7 marks) 
+7. 
+Estimate from what height, under free-fall conditions, a heavy stone would 
+need to be dropped if it were to reach the surface of the Earth at the speed 
+of sound (330 m s-1) . 
+(Total 2 marks) 
+8. A motorbike is ridden up the left side of a symmetrical ramp. The bike 
+reaches the top of the ramp at speed u, becomes airborne and falls to a point P 
+on the other side of the ramp. 
+0 
+~ 
+In terms of u, 1 and g, obtain expressions for: 
+(a) the time t for which the motorbike is in the air 
+(b) the distance OP(= [) along the right side of the ramp. 
+(2) 
+(3) 
+(Total 5 marks) 

@@ -1,0 +1,687 @@
+=== PAGE 345 ===
+Motion in electromagnetic 
+fields 
+
+=== PAGE 346 ===
+FIELDS D.3 
+300 
+• 
+Cl) 
+Motion in electromagnetic fields 
+◄ 
+The particle accelerator equipment pictured is located at SESAME (Synchrotron-light for Experimental 
+Science and Applications in the Mid dle East). which opened in 2017. The facility was the first in the 
+world to be powered entirely by renewable energy A combination of electric and magnetic fields is 
+used to accelerate the electrons within. 
+Guiding Questions 
+How do charged particles move in magnetic fields? 
+What can be deduced about the nature of a charged particle from observations 
+of it moving in electric and magnetic fields? 
+If you connect a battery between a hot wire and a metal plate such that the plate is at a 
+higher potential than the wire, current will flow in the circuit. Somehow, charge is able 
+to cross the gap. This is the basis for an electron gun. 
+If you make a hole in the plate, a faint blue line can be seen coming out of the hole. If 
+the blue line is passed through a uniform electric field, it is deflected into a parabola. 
+This is very similar to the path of a projectile thrown in a uniform magnetic field. If we 
+assume that the blue line is made of particles with a charge of 1.60 x 10-19 C, we can 
+model the situation using the same equation we used for projectile motion (A.1). 
+Being able to see how an equation in one area of the subject can be used in a different 
+area is a useful skill and is one reason why good physics students are snapped up by 
+employers! 
+Students should understand: 
+the motion of a charged particle in a uniform electric field 
+the motion of a charged particle in a uniform magnetic field 
+the motion of a charged particle in perpendicularly orientated uniform electric and 
+magnetic fields 
+the magnitude and direction of the force on a charge moving in a magnetic field as 
+given by F = qvBsin0 
+the magnitude and direction of the force on a current-carrying conductor in a 
+magnetic field as given by F = B!Lsin0 
+the force per unit length between parallel wires as given by f = µ 0 ~
+; where r is the 
+separation between the two wires. 
+
+=== PAGE 347 ===
+Force on a current-carrying conductor 
+We have seen that when a small magnet is placed in a magnetic field, each end 
+experiences a force that causes it to turn. If a straight wire is placed in a magnetic field 
+but not parallel to the field, it also experiences a force. However, in the case of a wire, 
+the direction of the force does not cause rotation - the force is in fact perpendicular to 
+the direction of both current and field {Figure 1). 
+The size of the force depends on the size of current, length of conductor and 
+flux density. We can therefore write that F oc BIL We can now define the unit of flux 
+density in terms of this force to make the constant of proportionality equal to 1. 
+X 
+The tesla (T) 
+X X 
+X X 
+X X 
+• 
+• 
+• 
+A flux density of 1 tesla would cause a 1 m long wire carrying a current of 1 A 
+perpendicular to the field to experience a force of 1 N. So if Bis measured in T, 
+F = BIL. 
+Parallel current-carrying conductors 
+Due to the difficulty in measuring the amount of charge flowing in a given time, the 
+ampere was not defined in terms of charge until 2019. Before this, the ampere was 
+defined in terms of the force between two parallel conductors. 
+\Ve know that a current-carrying conductor has an associated magnetic field and that 
+this field exerts a force on permanent magnets. What happens when two current-
+carrying conductors are placed side by side? 
+force 
+.. 
+D.3 Figure 1 Force, field 
+and current are at right 
+angles to each other. 
+D.3 Figure 2 The field into 
+the page can be represented 
+by crosses. and the field out 
+of the page by dots. Think 
+what it would be like looking 
+at an arrow from each end. 
+D.3 Figure 3 Using 
+Fleming's left-hand rule to 
+find the direction of the 
+force. 
+What causes circular 
+motion of charged 
+particles in a field? {A.2) 
+301 
+
+=== PAGE 348 ===
+FIELDS D.3 
+X 
+D.3 Figure 4 Two long 
+wires. 
+302 
+y 
+Motion in electromagnetic fields 
+Consider the two wires shown in Figure 4. Each wire carries a current so is creating a 
+magnetic field around it. The wires are next to each other so each wire is in the field of 
+the other. The magnetic field lines produced by wire X are concentric circles that cut 
+wire Y at right angles, as can be seen in the end view. Using Fleming's left-hand rule, we 
+can determine that the direction of force is directed toward X. Likewise, we can show 
+that the force on X is directed toward Y. 
+Parallel wires 
+The force F acting per unit length is calculated using Ampere's force law, with the 
+equation for the special case of two straight parallel wires being: 
+F 
+I, 12 
+L = µo2,cr 
+where Lis the total parallel length, 110 is the magnetic permeability of a vacuum 
+(41r x 10-7 Tm A - 1) , / 1and /i re the currents in the two conductors, and r is the distance 
+by which they are separated. 
+One ampere is the current that would cause a force of2 x 10-7 N per meter between 
+two long parallel conductors separated by Im in a vacuum. 
+Exercise 
+QI. A straight wire oflength 0.5 m carries a current of 2A in a north-south 
+direction. If the wire is placed in a magnetic field of 20 µ T directed vertically 
+downward: 
+(a) what is the size of the force on the wire? 
+(b) what is the direction of the force on the wire? 
+Q2. A vertical wire oflength 1 m carries a current of 0.5 A upward. If the wire is 
+placed in a magnetic field of strength lOµT directed toward the N geographic 
+pole: 
+(a) what is the size of the force on the wire? 
+(b) what is the direction of the force on the wire? 
+Q3. Use Fleming's left-hand rule to find the direction of the force in the following 
+examples below. 
+(a) 
+(b) X 
+X 
+X 
+X 
+(c) • • • • 
+B 
+X 
+X 
+X 
+X 
+• • • • 
+0 
+> 
+( 
+◄ 
+n 
+X 
+X 
+X 
+X 
+• • I • 
+• 
+X 
+X 
+X 
+X 
+• • • • 
+
+=== PAGE 349 ===
+Non-perpendicular fields 
+If the wire is not perpendicular to the field, then to calculate the magnitude of the force, 
+you need to use the com ponent of field that is perpendicular to the wire. 
+So in the example shown in Figure 5, the component of B perpendicular to the wire = B 
+sin e so the force, F = B sin e X IL = BIL sin e. 
+The direction of the force can be found by using Fleming's left-hand rule, lining the 
+First finger with the perpendicular component of the Field. In the case shown here, 
+that would result in a force into the page. 
+Charges in magnetic fields 
+X 
+X 
+X L X 
+X 
+X 
+,~] 
+V 
+) area, A 
+q ......... 
+X 
+X x+: X 
+X B 
+From the microscopic model of electrical current in a metal wire, we believe that current 
+is made up of charged particles (electrons) moving through the metal. Each electron 
+experiences a force as it travels through the magnetic field. The sum of all these forces 
+gives the total force on the wire: F = BIL= BnAveL where n is the number of electrons per 
+unit volume, A is the cross-sectional area, vis the net speed (sometimes referred to as drift 
+velocity) of the electrons and Lis the length of conductor. In turn, F = BNev, where N is the 
+number of electrons in this length of wire, so the force on each electron is Bev. If a free charge 
+moves through a magnetic field, then it will also experience a force. The direction of the 
+force is always perpendicular to the direction of motion, and this results in a circular path. 
+The force on each charge q is given by the formula: 
+F= Bqv. 
+The electron gun 
+In the chapter introduction, we learned about an electron 'gun'. The electron gun shown 
+in Figure 8 is used to produce a stream of electrons that can be projected into a region of 
+electric or magnetic field. The gun is housed in a glass tube, which has had most of the 
+air removed by use of a vacuum pump. The electrons move freely in this low-pressure 
+gas, but collisions with the remaining molecules excite atomic electrons, resulting in the 
+emission of light. This causes a blue glow revealing the path of the electron beam. 
+• 
+D.3 Figure 5 
+Non-perpendicular field 
+D.3 Figure 6 The force 
+experienced by each electron 
+is in the downward direction. 
+Remember the electrons flow 
+in the opposite direction to 
+conventional current. 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+• 
+D.3 Figure 7 Wherever you 
+apply Fleming's left-hand 
+rule. the force is always 
+toward the center. 
+How can the orbital 
+radius of a charged 
+particle moving in 
+a field be used to 
+determine the nature of 
+the particle? (A.2) 
+◄ D.3 Figure 8 An electron 
+gun. 
+303 
+
+=== PAGE 350 ===
+-
+FIELDS D.3 
+D.3 Figure 9 Electrons are 
+accelerated in the electric 
+field. 
+How can conservation 
+of energy be applied 
+to motion in 
+electromagnetic fields? 
+(A.3) 
+/ 
+i--
+_,,,... 
+--r-- ...___ 
+... 
+I 
+D.3 Figure 10 The paths of 
+positive and negative charges 
+proJected into a uniform 
+electric field. 
+How are the concepts 
+of energy, forces and 
+fields used to determine 
+the size of an atom? 
+{A.3, A.2) 
+► 
+Spiral particle tracks made ► 
+visible in a cloud chamber. 
+304 
+Motion in electromagnetic fields 
+The elections are released from a thin wire heated by an electric current. They enter 
+an electric field created by applying a potential difference between the hot wire and a 
+metal plate. They are accelerated by an electric field toward the positive anode and pass 
+through a hole in the anode plate. 
+accelerating 
+potential 
+~---~~. (j 
+hot filament 
+====:::o======= 
+electron 
+accelerated in 
+electric field 
+1----1 
+accelerating supply 
+V 
+no field here 
+As the electron moves within the electric field, its electric potential energy is 
+transferred to kinetic energy: 
+eV=½mv 2 
+Once through the hole in the plate, where there is no field, the electrons continue in a 
+straight line with constant velocity. 
+Motion of electrons in a uniform electric field 
+If a charge Q is projected perpendicular to a uniform electric field, it will have constant 
+velocity perpendicular to the field lines but acceleration parallel to the field lines. This 
+is just like the motion of a projectile in a uniform gravitational field and results in a 
+parabolic trajectory. \Ve can use the same equations to model the motion, except that 
+1 
+. 
+. 
+I 
+EQ . 
+d f 
+acce erat1on 1s equa tom mstea o g. 
+The charged particles traveling around the huge circular rings of the particle 
+accelerator at CERN are kept in a circular path using a magnetic field. These particles 
+move so fast and have such a large mass that the field has to be very strong. 
+
+=== PAGE 351 ===
+Motion of electrons in a uniform magnetic field 
+If electrons are passed into a uniform magnetic field with a velocity that is not parallel 
+to the field lines, they will experience a force perpendicular to their direction of motion 
+(and which remains perpendicular even when the direction of the electrons changes). 
+This results in a circular trajectory. 
+A uniform magnetic field can be created between two large diameter coils 
+(Helmholtz coils). 
+We have seen how the force on each electron in a current-carrying wire is F = Bev. 
+This force, known as the magnetic or Lorentz force, is the sole provider of the 
+centripetal force. We can therefore write: 
+and simplify: 
+,nv 1 
+Bev =- 1-. 
+B _ mv 
+e - r 
+To enable the electrons to travel in a full circle, we can aim the electron gun 
+perpendicular to the field in the spherical tube. 
+We know that if the accelerating potential difference is V, then the velocity, 11 = ¥,#. 
+By measuring the radius and calculating the magnetic field strength from the 
+dimensions of the coil and current, we can find a value for~-The electron tube 
+contains a low-pressure gas, which allows the electrons to maintain a constant speed. 
+If they were to travel in a denser gas, they would move in a spiral. 
+Non-perpendicular fields 
+If a charged particle moves through a magnetic field at an angle, then you can calculate 
+the magnetic force experienced by it using the component of velocity perpendicular 
+to the magnetic field. In the example shown in Figure 13, this would be B sin 8, which 
+results in a force, F = Bqv sin 8. 
+Using Fleming's left-hand rule, this will give a force into the page (note that the charge 
+is positive so it moves in the direction of the current). 
+So considering the two components of the motion, perpendicular to the field, the 
+particle will travel in a circle, while parallel to the field, the velocity is uniform. The 
+resulting motion is helical as shown in Figme 14. 
+q 
+B 
+• 
+D.3 Figure 11 Uniform 
+magnetic field between 
+Helmholtz coils. 
+D.3 Figure 12 Path of 
+electron w ith magnetic field 
+into the page. 
+• 
+D.3 Figure 13 A positive 
+particle moving in a 
+non-perpendicular magnetic 
+field 
+How are the properties 
+of electric and magnetic 
+fields represented? 
+(NOS) 
+D.3 Figure 14 Helical 
+path of a charge in a 
+non-perpendicular magnetic 
+field. 
+305 
+
+=== PAGE 352 ===
+FIELDS D.3 
+D.3 Figure 15 Arrangement 
+of J. J. Thomson's experiment 
+to determine the specific 
+charge of an electron. 
+306 
+Motion in electromagnetic fields 
+Electrons in perpendicularly orientated electric and magnetic 
+fields 
+An electron moving at a constant speed in perpendicularly orientated electric and 
+magnetic fields can be made to remain at a constant speed. We know from Newton's 
+laws that forces must be balanced in this case. 
+If the magnetic field is (say) into the page and the electron moves from left to right, the 
+force exerted will be vertically downward. An electric field orientated vertically can be 
+used to supply an equal and opposite upward force. 
+Since, in this case, F8 = FE: 
+Bev = Ee 
+Bv =E 
+E 
+v=B 
+In other words, the speed of the electron can be determined from the ratio of the field 
+strengths. 
+Knowing this speed, with the magnetic field then switched off, the specific charge 
+(charge per unit mass) of the electron can be determined. You might like to research 
+]. ]. Thomson's experiment to find out more. 
+Fluorescent 
+0 
+Exercise 
+(Electron charge, e = 1.60 x 10-19 C) 
+Q4. Calculate the force experienced by an electron traveling through a magnetic 
+field of flux density 5 mT with velocity 500 m s-1• 
+Q5. An electron is accelerated through a potential difference of 500V then passed 
+into a region of magnetic field perpendicular to its motion, causing it to travel 
+in a circular path of radius 10 cm. Calculate: 
+(a) the kinetic energy of the electron in joules 
+(b) the velocity of the electron 
+(c) the flux density of the magnetic field. 
+Q6. A proton (same charge as an electron but 
+positive) passes into a region of magnetic field 
+of flux density 5 mT as shown to the right 
+with a velocity of 100 m s-1• Calculate the force 
+experienced by the proton. 
+2S30' 
+
+=== PAGE 353 ===
+Guiding Questions revisited 
+How do charged particles move in magnetic fields? 
+What can be deduced about the nature of a charged particle from observations 
+of it moving in electric and magnetic fields? 
+In this chapter, we have explored forces and motion due to different combinations of 
+current-carrying conductors, charged particles and electric and magnetic fields to 
+consider how: 
+• When a charged particle enters a uniform electric field, the force acts in the 
+direction of the field, resulting in parabolic motion. 
+• When a charged particle enters a uniform magnetic field, the force acts 
+perpendicular to the particle's velocity and the field, resulting in circular 
+motion. 
+• The force acting on a charged particle in a magnetic field increases with field 
+strength, charge and speed. It is maximized when the velocity is perpendicular 
+to the field. 
+• The force acting on a current-carrying conductor in a magnetic field increases 
+with field strength, current and conductor length. It is maximized when the 
+orientation of the conductor is perpendicular to the field. 
+• Two separate current-carrying conductors exert forces on each other, with 
+the force being proportional to the product of the currents and inversely 
+proportional to the separation distance of the conductors. 
+• Charged particles in electric fields act like particles with mass act in 
+gravitational fields. Magnetic forces can result in circular motion for charged 
+particles moving at right angles to the field, just as particles with mass can orbit 
+other massive bodies with a velocity that is perpendicular to the field lines. 
+Practice questions 
+1. An electron enters the region between two charged parallel plates, initially 
+moving parallel to the plates. What can be stated about the electromagnetic 
+force acting on the electron? 
+electron 0 -----~ 
+charged plates 
+A 
+It causes the electron to decrease its horizontal speed. 
+B 
+It causes the electron to increase its horizontal speed. 
+C 
+It is parallel to the field lines and in the opposite direction to them. 
+D 
+It is perpendicular to the field direction. 
+(Total 1 mark) 
+• 
+307 
+
+=== PAGE 354 ===
+FIELDS D.3 
+308 
+Motion in electromagnetic fields 
+2. 
+A proton of velocity v enters a region of electric and magnetic fields. The proton 
+is not deflected. An electron and an alpha particle (helium nucleus comprising 
+two protons and two neutrons) enter the same region with velocity v. Which is 
+correct about the paths of the electron and the alpha particle? 
+A 
+deflected 
+deflected 
+B 
+deflected 
+not deflected 
+C 
+not deflected 
+deflected 
+D 
+not deflected 
+not deflected 
+(Total 1 mark) 
+3. A beam of electrons moves between the poles of a magnet. What is the 
+direction in which the electrons will be deflected? 
+beam of electrons 
+A 
+Downward 
+B 
+Toward the N pole of the magnet 
+C Toward the S pole of the magnet 
+D Upward 
+(Total 1 mark) 
+4. A liquid that contains negative charge carriers is flowing through a square pipe 
+with sides A, B, C and D. A magnetic field acts in the direction shown across 
+the pipe. On which side of the pipe does negative charge accumulate? 
+A 
+D 
+(Total 1 mark) 
+5. 
+The diagram shows two current-carrying wires, P and Q, that both lie in the plane 
+of the paper. The arrows show the conventional current direction in the wires. 
+lc-_-_______ 
+Q -
+
+=== PAGE 355 ===
+The electromagnetic force on Q is in the same plane as that of the wires. 
+What is the direction of the electromagnetic force acting on Q? 
+A 
+C 
+(Total 1 mark) 
+6. 
+A positively charged particle moves parallel to a wire that carries a current 
+upward. What is the direction of the magnetic force on the particle? 
+current 
+A 
+To the left 
+B To the right 
+C 
+Into the page 
+D 
+Out of the page 
+(Total 1 mark) 
+7. 
+Two currents of 3 A and I A are established in the same direction through 
+two parallel straight wires, Rand S. What is correct about the magnetic forces 
+acting on each wire? 
+R 
+s 
+A 
+Both wires exert equal magnitude attractive forces on each other. 
+B 
+Both wires exert equal magnitude repulsive forces on each other. 
+C 
+Wire R exerts a larger magnitude attractive force on wire S. 
+D 
+Wire R exerts a larger magnitude repulsive force on wire S. 
+(Total 1 mark) 
+8. A non-uniform electric field, with field lines as shown, exists in a region where 
+there is no gravitational field. Xis a point in the electric field. The field lines and 
+X lie in the plane of the paper. 
+309 
+
+=== PAGE 356 ===
+FIELDS D.3 
+310 
+Motion in electromagnetic fields 
+(a) Outline what is meant by electric field strength. 
+(2) 
+(b) An electron is placed at X and released from rest. Copy the diagram and 
+draw the direction of the force acting on the electron due to the field. 
+(1) 
+(c) The electron is replaced by a proton that is also released from rest at X. 
+Compare, without calculation, the motion of the electron with the motion 
+of the proton after release. You may assume that no frictional forces act 
+on the electron or the proton. 
+(4) 
+(Total 7 marks) 
+9. 
+A proton is moving in a region of uniform magnetic field. The magnetic field is 
+directed into the plane of the paper. The arrow shows the velocity of the proton 
+at one instant and the dotted circle gives the path followed by the proton. 
+® 
+® 
+® 
+® 
+® 
+® 
+, ....... ----... ' 
+, 
+' 
+, 
+', 1 
+, 
+I 
+' 
+®' 
+® 
+® \ 
+® 
+® 
+I 
+proton 
+I 
+I 
+I 
+®, 
+® 
+® 
+I 
+® 
+® 
+I 
+\ 
+I 
+' 
+, 
+' ' 
+, , 
+' .... __ -_ ....... , 
+® 
+® 
+® 
+® 
+® 
+(a) Explain why the path of the proton is a circle. 
+(2) 
+The speed of the proton is 2.0 x 106 m s-1 and the magnetic field strength Bis 0.35 T. 
+(b) Show that the radius of the path is about 6 cm. 
+(c) Calculate the time for one complete revolution. 
+(d) Explain why the kinetic energy of the proton is constant. 
+(2) 
+(2) 
+(2) 
+(Total 8 marks) 
+10. An electron moves in circular motion in a uniform magnetic field. The 
+velocity of the electron at point Pis 6.8 x 105 m s- 1 in the direction shown. The 
+magnitude of the magnetic field is 8.5 T. 
+P 
+velocity 
+(a) State the direction of the magnetic field. 
+(1) 
+(b) Calculate, in N, the magnitude of the magnetic force acting on the electron. (1) 
+(c) Explain why the electron moves at constant speed. 
+(d) Explain why the electron moves in a circular path. 
+(1) 
+(2) 
+(Total 5 marks) 
+
+=== PAGE 357 ===
+11. The diagram shows an arrangement for measuring the force between two parallel 
+sections of the same rigid wire carrying a current as viewed from the front. The 
+supports for the upper section of the wire and the power supply are not shown. 
+power supply 
+l 
+upper section 
+electronic balance 
+(a) Deduce what happens to the reading on the electronic balance when the 
+current is switched on. 
+(3) 
+(b) When the current in the wire is 0.20 A, the magnetic field strength at the 
+upper section of wire due to the lower section of wire is 1.3 x 10-4 T. Calculate 
+the magnetic force acting per unit length on the upper section of wire. 
+(1) 
+(c) Each cubic meter of the wire contains approximately 8.5 x 1028 free electrons. 
+The diameter of the wire is 2.5 mm and the length of wire within the magnetic 
+field is 0.15 m. Using the force per unit length already calculated, deduce the 
+speed of the electrons in the wire when the current is 0.20 A. 
+(4) 
+(d) The upper section of wire is adjusted to make an angle of 30° with the lower 
+section of wire. Outline how the reading of the balance will change, if at all. (3) 
+(Total 11 marks) 
+12. (a) When the electric current in two parallel wires is flowing in the same 
+direction, what will the wires tend to do? 
+(1) 
+A 
+Repel each other 
+B 
+Attract each other 
+C 
+Exert no force on each other 
+D 
+Twist at right angles to each other 
+E 
+Spin 
+(b) Explain your answer. 
+(1) 
+(Total 2 marks) 
+311 
+
+=== PAGE 358 ===
+E Nuclear and 
+quantum physics 
+
+=== PAGE 359 ===
+E Nuclear and quantum physics 
+◄ 
+The Standard Model of elementary particles consists of quarks {which make up baryons. such as 
+protons and neutrons. and mesons). leptons (like electrons and neutrinos) and bosons (which transmit 
+forces). The Higgs boson was predicted to exist in the l 960s precisely because of the Standard Model 
+and eventually discovered through ATLAS and CMS collaboration in 2012 at CERN. 
+Chemical reactions involve electrons. Nuclear reactions involve nucleons. All 
+are found in atoms, the building blocks of matter. The structure of atoms has 
+been investigated for centuries, and the contemporary nuclear model is based on 
+experiments in which only a small proportion of charged particles were found to 
+deflect when fired toward a thin sheet of gold. Experiments also provide the evidence 
+for the energy levels in which electrons reside; the light that is absorbed and released 
+by atoms due to electron energy level transfers has specific wavelengths unique to the 
+element. 
+Looking at samples of thousands of atoms, the number of physical phenomena only 
+continues to grow - because individual nuclei can undergo decay, fission or fusion in 
+order to become more stable. Radioactive decay is a random and spontaneous process 
+with the format (a, /3-, f3+ or y) depending on the ratio of neutrons to protons present 
+and in which a constant half-life can be determined for each given isotope. Fission is 
+the route to stability for the heaviest nuclei and fusion the route for the lightest nuclei; 
+binding energy per nucleon increases to a maximum value for iron-56. Chain fission 
+reactions are harnessed using fuel rods, moderators and heat exchangers in nuclear 
+power stations (with control rods and shielding for safety). Fusion is the source of 
+energy in stars, where the density and temperature are high enough for positively-
+charged nuclei to come together under the strong nuclear force. 
+Stars can be classified according to their temperature, luminosity, radius and lifecycle 
+stage with the Hertzsprung-Russell diagram being the ultimate for displaying them. 
+You will come to be amazed by the stellar detective work that can be carried out based 
+on just one or two pieces of information. 
+313 

@@ -1,0 +1,686 @@
+=== PAGE 395 ===
+Fission 
+
+=== PAGE 396 ===
+NUCLEAR AND QUANTUM PHYSICS E.4 
+Fission 
+350 
+• • 
+◄ 
+Lise Meitner (7 878- 1968) was the second woman to be awarded a doctorate in physics at the 
+University of Vienna and the first to become a professor of physics in Germany. In 1938, she and Otto 
+Hahn discovered nuclear fission when bombarding various isotopes (including uranium) with neutrons, 
+despite fleeing to Sweden that year because of the anti-Jewish Nuremberg Laws. 
+Unlike her colleague, Meitner was never awarded a Nobel Prize, although the radioactive element 
+meitnerium (created in 1982) is named after her 
+1 
+Guiding Questions 
+In which form is energy stored within the nucleus of the atom? 
+How can the energy released from the nucleus be harnessed? 
+When a 1 kg block of ice is lifted to a height of 1 m from the ground, approximately 
+10 J of work is done. Melting 1 kg of ice requires 3 34 000 J of energy. The reason that 
+the amount of energy required to melt the ice is so much more than to lift it is that 
+the force that holds the molecules together, the electric force, is much greater than the 
+gravitational force. 
+The force holding the nucleus together is the strong nuclear force, which is much larger 
+than the electric force. Consequently, the energy associated with nuclear reactions is 
+more than that involved in chemical reactions or changes of state. This means that the 
+energy released through fission per kilogram of uranium is much bigger than the energy 
+released through combustion per kilogram of a fuel such as coal. This is an advantage 
+because the cost of transporting the fuel is reduced. 
+Students should understand: 
+energy is released in spontaneous and neutron-induced fission 
+the role of chain reactions in nuclear fission reactions 
+the role of control rods, moderators, heat exchangers and shielding in a nuclear 
+power plant 
+the properties of the products of nuclear fission and their management. 
+Nuclear fission 
+Nuclear fission is the splitting of large nuclei into two smaller ones. If we look at 
+the graph of binding energy per nucleon vs nucleon number in Figure 1, we can see 
+that the binding energies per nucleon of barium and krypton are higher than that of 
+uranium. So if a uranium nucleus splits into a barium nucleus and a krypton nucleus, 
+energy is released. This energy is transferred to the kinetic energy of the daughter 
+nuclei and any excess neutrons. Uranium-236 nuclei do not tend to remain whole 
+for millions of years without splitting. The fission process is spontaneous, which 
+means it cannot be slowed down or speeded up by external efforts. However, when a 
+uranium-235 nucleus absorbs a neutron, it temporarily turns into uranium-236. This 
+increases the binding energy (because there is another neutron in the nucleus) but 
+reduces the binding energy per nucleon enough to enable the nucleus to split. 
+
+=== PAGE 397 ===
+92 
+36 Kr 
+> 
+8 
+2360 
+"' 
+~ 
+92 
+? 
+0 "' 
+u 
+6 
+::, 
+C: 
+ti 
+0.. 
+>-. 
+e_.o 4 
+" 
+C: 
+"' 
+0.0 
+.5 
+"O 
+.5 2 
+.,:, 
+0 
+0 
+50 
+100 
+150 
+200 
+nucleon number 
+The phrase 'binding energy' sounds as though an increase in binding energy should 
+make the nucleus more stable and not less stable. In fact, the binding energy per 
+nucleon is relatively low when the nucleus is in an excited state and the nucleons shake 
+about. Energy is released when the nucleus becomes more stable and the binding 
+energy per nucleon increases, for example, by the emission of gamma radiation or 
+during fission. 
+You may have noticed that the numbers do not add up. Uranium has 144 neutrons 
+but the total number of neutrons in barium and krypton is 141. These extra neutrons 
+are expelled from the reaction and can be used in nuclear reactors to induce further 
+fission reactions. 
+Worked example 
+Find the energy released if uranium-236 splits into krypton-92 and barium-141. 
+Solution 
+binding energy of236U = 236 x 7.6 
+= 1793.6MeV 
+binding energy of 141Ba = 141 x 8 
+= 1128MeV 
+binding energy of92Kr = 92 x 8.2 
+= 754.4MeV 
+gain in binding energy= (1128 + 754.4} - 1793.6 
+= 88.8MeV 
+Since this leads to a release of energy, this process is possible. 
+◄ E.4 Figure 1 Binding energy 
+per nucleon vs nucleon 
+number cuNe revealing 
+fission possibility. 
+Start by multiplying 
+the binding energy 
+per nucleon (from 
+the vertical axis of 
+the graph) by the 
+number of nucleons 
+for each of the nuclei. 
+Then calculate the 
+difference in binding 
+energy between the 
+original nucleus and 
+the daughter nuclei 
+to see whether the 
+binding energy (i.e. the 
+energy released) has 
+increased. Note that 
+any neutrons released 
+are not 'bound' to 
+anything, so there is no 
+binding energy to be 
+considered. 
+351 
+
+=== PAGE 398 ===
+NUCLEAR AND QUANTUM PHYSICS E.4 
+Fission 
+To answer these 
+questions (in which 
+we have not been 
+provided with binding 
+energy information), 
+you must find the 
+difference in mass 
+between the original 
+nucleus and the 
+products. To convert to 
+MeV. simply multiply 
+by 931.5. 
+Finland produces 30% 
+of its electricity from 
+nuclear power so has 
+a lot of nuclear waste 
+to dispose of. To solve 
+this problem, they are 
+constructing many 
+kilometers of tunnels 
+into the very old and 
+geologically sound 
+rock close to Olkiluoto. 
+The facility. known as 
+Onkalo. will eventually 
+contain 9000 tonnes of 
+spent fuel. 
+How is binding energy 
+used to determine 
+the rate of energy 
+production in a nuclear 
+power plant {E.3)? 
+E.4 Figure 2 A chain 
+► 
+reaction from nuclear fission. 
+352 
+Exercise 
+Use the table to answer the following questions. 
+Ql. If 236U splits into 100Mo and 126S n, how 
+many neutrons will be produced? 
+92 
+u 
+233 
+233039628 
+Calculate the energy released in this 
+92 
+u 
+236 
+236.045563 
+reaction. 
+42 
+Mo 
+100 
+99.907476 
+Q2. 
+233U splits into 1388a and 86Kr plus 
+so 
+Sn 
+126 
+125.907653 
+nine neutrons. Calculate the energy 
+released when this takes place. 
+56 
+Ba 
+138 
+137.905233 
+36 
+Kr 
+86 
+85910615 
+0 
+n 
+1.008664 
+Nuclear power 
+When a large nucleus splits into two smaller ones, the total binding energy increases, 
+resulting in the release of about 100 MeV of energy. This is approximately 100 million 
+times more energy per molecule than when coal burns, so any material that does this 
+would be a valuable source of energy. 
+If a uranium-235 nucleus absorbs a neutron, 
+it will undergo fission, but naturally occurring 
+uranium only contains 0.7% 235U. The remainder 
+is mainly 238U, which absorbs neutrons without 
+undergoing fission. Before naturally occurring 
+uranium can be used as a fuel, the amount of 
+235U must be increased to about 3%. This is 
+called enrichment. 
+The chain reaction 
+Fuel 
+Energy density 
+/MJ L-1 
+Uranium fuel 
+1534 000000 
+Coal 
+72.4 
+~ 
+E.4Tablel 
+Splitting a mu nucleus requires some energy because the nucleons are held together 
+by a strong force. This energy can be supplied by adding a neutron to a 235U nucleus. 
+This reduces the stability of the nucleus so it splits in two. As a result, there are too 
+many neutrons for the smaller daughter nuclei and some are released. These neutrons 
+can be captured by more mu nuclei, and so on, leading to a chain reaction. 
+mu 
+
+=== PAGE 399 ===
+Moderation 
+The neutrons will only be absorbed if they are traveling slowly - otherwise, they will 
+pass straight through. In terms of kinetic energy. this would be about 1 eV, which is 
+much less than the MeV they possess after being expelled during the fission process. 
+To achieve a chain reaction, we need these neutrons to be absorbed so they need to be 
+slowed down or moderated. This is done by introducing some small nuclei between 
+the 235U (Figure 3). Water is sometimes used as a moderator because it contains 
+hydrogen nuclei. The neutrons collide with these nuclei and, because they have a 
+similar mass to the neutrons, they receive energy and the neutrons slow down: a 
+near-elastic collision. 
+moderator nucl~s/ 
+neutron 
+➔ .S 
+o-----~ 
+Critical mass 
+Another critical factor that determines whether a chain reaction can take place is the 
+size of the piece of uranium. If it is too small, then before the neutrons have traveled 
+far enough to be slowed down, they will have left the reacting piece of uranium. The 
+minimum mass required for a chain reaction is called the critical mass. 
+The nuclear power station 
+gas 
+control rod 
+turbin 
+steam 
+reactor 
+graphit 
+generator 
+fuel bundl 
+cold water 
+Control in a nuclear reactor 
+The rate of reaction in a nuclear reactor is limited by the fact that the fuel contains a 
+high proportion of 238U, which absorbs neutrons. Since this cannot easily be altered, 
+it cannot be used to slow the reaction down if it goes too fast. Instead, this is done by 
+introducing control rods of a neutron-absorbing material, such as boron, between the 
+fuel rods (Figure 4). 
+Using the word 
+moderation sounds like 
+the moderator slows 
+down the reaction. 
+but it does not. The 
+moderator slows down 
+the neutrons, enabling 
+the chain reaction. If 
+the moderator was 
+removed, the reaction 
+would slow down. 
+E.4 Figure 3 Only slow-
+moving neutrons are 
+absorbed. 
+Pellets of nuclear fuel are 
+stacked into tubes, which 
+are bundled together before 
+being put into the reactor. 
+E.4 Figure 4 An advanced 
+gas-cooled reactor {AGR). 
+353 
+
+=== PAGE 400 ===
+NUCLEAR AND QUANTUM PHYSICS E.4 
+Fission 
+The efficiency of the 
+nuclear reactor is not 
+as high as might be 
+expected. Firstly, the 
+fuel has to be enriched, 
+which takes a lot of 
+energy Then, it is not 
+possible to get all the 
+energy from the fuel, 
+because when the 
+amount of 235U falls 
+below a certain value, a 
+chain reaction can no 
+longer be sustained. 
+In which form is energy 
+released as a resu It of 
+nuclear fission (A.3)? 
+E.4 Figure 5 Sankey 
+I-"' 
+diagram for a nuclear reactor. 
+A nuclear reactor does 
+not burn fuel so is not 
+dependent on oxygen 
+for it to function This 
+makes nuclear power 
+particularly useful for 
+powering submarines. 
+To what extent is there 
+a role for fission in 
+addressing climate 
+change? (NOS) 
+Different countries 
+have different policies 
+regarding the use of 
+nuclear power. What 
+is the policy where 
+you live? 
+354 
+There are many different designs of nuclear reactor but they all have a nuclear reaction 
+at the core. The energy released when the nuclei split is given to the fission fragments. 
+The temperature of a body is related to the average kinetic energy of the particles, 
+which means that the temperature of the fuel increases. The hot fuel can then be used 
+to boil water and drive a turbine as in the coal-fired power station. 
+The nuclear reactor is the part that produces heat and contains the fuel rods surrounded 
+by, in this case, a graphite moderator (pale orange in Figure 4). The control rods can 
+be raised and lowered to control the rate of reaction. The nuclear reactor is housed in 
+a pressure vessel in which a gas is circulating (blue). This picks up heat from the fuel 
+rods and transfers it to water in the heat exchanger. This water turns to steam and turns 
+the turbine. The steam cools down and turns back to water in the condenser and is 
+recirculated. 
+nuclear energy 
+in processed 
+fuel 
+thermal energy 
+in steam 
+heat loss 
+mechanical energy 
+in turbine 
+electricity 
+unused fuel 
+Since there is no burning of fuel involved in the nuclear reactor, no carbon dioxide is 
+produced. This makes it favorable when compared to the use of fossil fuels to produce 
+electricity. However, there are other problems. 
+Meltdown 
+If the nuclear reaction is not controlled properly, it can overheat and the fuel rods 
+can melt. This is called meltdown. When this happens, the fuel cannot be removed 
+and may cause the pressure vessel to burst, sending radioactive material into the 
+atmosphere. Situations like this have occurred in Chernobyl, Ukraine, in 1986 and in 
+Fukushima, Japan, in 2011. However, it is not possible for a reactor to blow up as an 
+atom bomb, since the fuel is not of a high enough grade. 
+Meltdown can be caused by a malfunction in the cooling system or a leak in the 
+pressure vessel. It would result in severe damage to the reactor, maybe leading to 
+complete shutdown. Further damage outside the reactor is limited by the containment 
+building, an airtight steel construction covered in concrete, which not only prevents 
+dangerous material leaking out (an effect known as shielding), but will withstand a 
+missile attack from the outside. Improved reactor design and construction, coupled 
+with computer monitoring of possible points of weakness, has reduced the possibility 
+of any failure of the structure that might lead to meltdown. However, it is almost 
+impossible to design a reactor that will withstand the force of a major earthquake. 
+
+=== PAGE 401 ===
+Low level waste 
+The extraction of uranium from the ground, the process of fuel enrichment and the 
+transfer of heat from the fuel rods all leave some traces of radioactive material that must 
+be carefully disposed of. The amount of radiation given off by this material is not great, 
+but it must be disposed of in places away from human contact for 100-500 years. 
+Old reactors are another form oflow level waste. They cannot simply be knocked down 
+and recycled since most of the parts will have become radioactive. Instead, they must be 
+left untouched for many years before demolition, or they can be encased in concrete. 
+High level waste 
+The biggest problem faced by the nuclear power industry is the disposal of spent fuel 
+rods. Some of the product isotopes they contain are radioactive and have a half-life of 
+thousands of years so need to be placed in safe storage for a very long time. Plutonium 
+fuel rods are not considered safe for at least 240 000 years. There have been many 
+suggestions regarding the waste: sending it to the Sun, putting it at the bottom of the 
+sea, burying it in the icecap, or dropping it into a very deep hole. For the moment, 
+most of it is dealt with in one of two ways: 
+• 
+It is stored under water at the site of the reactor for several years to cool off, then 
+sealed in steel cylinders. 
+• 
+It is reprocessed to separate the plutonium and any remaining useful uranium 
+from the fission fragments. This results in waste that is high in concentrations 
+of the very radioactive fission fragments, but the half-life of these fragments is 
+much shorter than either uranium or plutonium, so the need for very long-term 
+storage is reduced. 
+Exercise 
+Q3. Barium-142 ('UBa) is a possible product of the fission of uranium-236. 
+It decays by /J decay to lanthanum (La} with a half-life of 11 months. 
+(a) Write the equation for the decay of barium. 
+(b) Estimate how long will it take for the activity of the barium in a sample of 
+radioactive waste to fall to io'oo of its original value. 
+Q4. Plutonium-239 splits into zirconium-96 and xenon-136. Use Table 2 to 
+answer the following questions. 
+(a) How many neutrons will be emitted? 
+(b) Write the nuclear equation for the reaction. 
+(c) How much energy is released when the fission takes place? 
+(d) What is the mass of 1 mole of plutonium? 
+(e) How many atoms are there in 1 kg of plutonium? 
+(f) How much energy in eV is released if 1 kg of plutonium undergoes 
+fission? 
+(g) Convert the answer to part (0 into joules. 
+Q 5. A sample of nuclear fuel contains 3% 235U. If the energy density of 235U is 
+9 x 1013 J kg-1, how much energy will l kg of fuel release? 
+There seem to be a lot 
+of problems associated 
+with the production of 
+energy from nuclear 
+fuel. However, these 
+problems are not 
+insoluble. Scientists 
+found a way of 
+producing the energy. 
+so it seems likely that 
+they will be able to 
+find solutions to these 
+problems. 
+Isotope 
+Mass/u 
+239.052158 
+96Zr 
+95.908275 
+136Xe 
+135.907213 
+Neutron 
+1.008664 
+E.4Table2 
+355 
+
+=== PAGE 402 ===
+NUCLEAR AND QUANTUM PHYSICS E.4 
+Fission 
+356 
+Q6. An individual uses around lO000kWh of energy in a year. 
+(a) How many joules is this? 
+1 
+(b) Using the energy density information in Table 2, calculate how much 
+nuclear fuel this amounts to. 
+Guiding Questions revisited 
+In which form is energy stored within the nucleus of the atom? 
+How can the energy released from the nucleus be harnessed? 
+In this chapter, we have looked at the binding energies within nuclei and the structural 
+components involved in commercial fission reactors to reveal how: 
+• Energy is released when nucleons come together in the nucleus under the 
+nuclear strong force and we refer to this as the 'binding energy'. Energy input is 
+required to separate the nucleons. 
+• If the binding energy per nucleon increases during a nuclear fission reaction, 
+energy will be released in the form of the kinetic energy of the products. This 
+can be harnessed by boiling water in a heat exchanger, with the resulting steam 
+used to turn a turbine and power an electrical generator. 
+• Control rods to absorb excess neutrons and slow the reaction, moderators to 
+slow neutrons, enabling a continued chain reaction, and shielding to prevent the 
+release of ionizing radiation are also required. Because the products of fission 
+are radioactive, preparations must be made for their storage when the fuel rods 
+are spent. 
+Practice questions 
+1. 
+(a) (i) Distinguish between fission and radioactive decay. 
+A nucleus of uranium-235 ei~U) may absorb a neutron and then undergo 
+fission to produce nuclei of strontium-90 CT~Sr) and xenon-142 (11JXe), and 
+some neutrons. 
+The strontium-90 and the xenon-142 nuclei both undergo radioactive decay 
+with the emission of fr particles. 
+(4) 
+(ii) Write down the nuclear equation for this fission reaction. 
+(2) 
+(iii) State the effect, if any, on the nucleon number and on the proton 
+number of a nucleus when the nucleus undergoes fr decay. 
+(2) 
+The uranium-235 nucleus is stationary at the time that the fission reaction 
+occurs. In this fission reaction, 198 MeV of energy is released. Of this total 
+energy, 102 MeV and 65 MeV are the kinetic energies of the strontium-90 
+and xenon-142 nuclei respectively. 
+(b) (i) Calculate the momentum of the strontium-90 nucleus. 
+(ii) Explain why the momentum of the strontium-90 nucleus is not 
+(2) 
+exactly equal to the momentum of the xenon-142 nucleus. 
+(2) 
+
+=== PAGE 403 ===
+In the diagram, the circle represents the 
+position of a uranium-235 nucleus 
+before fission. The momentum of the 
+strontium-90 nucleus after fission is 
+represented by the arrow. 
+(iii) Copy the diagram and draw an arrow to represent the momentum 
+of the xenon-142 nucleus after the fission. 
+(2) 
+(c) In a fission reactor for the generation of electrical energy, 25% of the 
+total energy released in a fission reaction is transferred to electrical energy. 
+(i) Using the data in (b), calculate the electrical energy, in joules, 
+produced as a result of nuclear fission of one nucleus. 
+(2) 
+(ii) The specific heat capacity of water is 4.2 x 103 J kg-1 K-1• Calculate 
+the energy required to raise the temperature of250 g of water from 
+2o•c to its boiling point (100°C). 
+(3) 
+(iii) Using your answer to (c)(i), determine the mass of uranium-235 
+that must be fissioned in order to supply the amount of energy 
+calculated in (c)(ii). The mass of a uranium-235 atom is 
+3.9 X 10-25 kg. 
+(4) 
+(Total 25 marks) 
+2. 
+(a) When a neutron 'collides' with a nucleus of uranium-235 {2§~U), the 
+following reaction can occur: 
+2JlU + c\n --+ 'tlBa + ~~Kr+ 2c\n 
+(i) State the name given to this type of nuclear reaction. 
+(1) 
+(ii) Energy is liberated in this reaction. In what form does this energy 
+appear? 
+(1) 
+(b) Describe how the neutrons produced in this reaction may initiate a 
+chain reaction. 
+(1) 
+The purpose of a nuclear power station is to produce electrical energy from 
+nuclear energy. The diagram is a schematic representation of the principal 
+components of a nuclear reactor 'pile' used in a certain type of nuclear power 
+station. 
+uranium ore 
+fuel rods 
+control rods 
+graphite block 
+(moderator) 
+The function of the moderator is to slow down neutrons produced in a 
+reaction such as that described in part (a). 
+(c) (i) Explain why it is necessary to slow down the neutrons. 
+(ii) Explain the function of the control rods. 
+(3) 
+(2) 
+357 
+
+=== PAGE 404 ===
+NUCLEAR AND QUANTUM PHYSICS E.4 
+Fission 
+358 
+(d) Describe briefly how the energy produced by the nuclear reactions is 
+extracted from the reactor pile and then transferred to electrical energy. (4) 
+(Total 12 marks) 
+3. 
+During the nuclear fission of nucleus X into nucleus Y and nucleus Z, 
+energy is released. The binding energies per nucleon of X, Y and Z are Bx, 
+BY and B2 respectively. What is true about the binding energy per nucleon 
+ofX, Yand Z? 
+A 
+BY > Bx and B2 > Bx 
+B 
+Bx = BY and Bx = B2 
+C 
+Bx > BY and Bx > B2 
+D Bx = BY +B2 
+(Total 1 mark) 
+4. A neutron collides headl-on with a stationary atom in the moderator of a 
+nuclear power station. The kinetic energy of the neutron changes as a result. 
+There is also a change in the probability that this neutron can cause nuclear 
+fission. What are these changes? 
+A 
+increase 
+increase 
+B 
+decrease 
+increase 
+C 
+increase 
+decrease 
+D 
+decrease 
+decrease 
+(Total 1 mark) 
+5. 
+A nuclear reactor contains atoms that are used for moderation and atoms 
+that are used for control. What are the ideal properties of the moderator 
+atoms and the control a toms in terms of neutron absorption? 
+A 
+poor absorber of neutrons 
+poor absorber of neutrons 
+B 
+poor absorber of neutrons 
+good absorber of neutrons 
+C 
+good absorber of neutrons 
+poor absorber of neutrons 
+D 
+good absorber of neutrons 
+good absorber of neutrons 
+(Total 1 mark) 
+6. What is the function of control rods in a nuclear power plant? 
+A 
+To slow neutrons down 
+B 
+To regulate fuel supply 
+C 
+To exchange thermal energy 
+D 
+To regulate the reaction rate 
+(Total 1 mark) 
+7. A nuclear power station contains an alternating current generator. Which 
+energy transfer is performed by the generator? 
+A 
+Electrical to kinetic 
+C 
+Nuclear to kinetic 
+B 
+Kinetic to electrical 
+D 
+Nuclear to electrical 
+(Total 1 mark) 
+
+=== PAGE 405 ===
+8. One possible fission reaction of uranium-235 (U-235) is: 
+Mass of one atom of U-235 = 235 u 
+Binding energy per nucleon for U-235 = 7.59 MeV 
+Binding energy per nucleon for Xe-140 = 8.29 Me V 
+Binding energy per nucleon for Sr-94 = 8.59 MeV 
+(a) State what is meant by the binding energy of a nucleus. 
+(1) 
+(b) Outline why quantities such as atomic mass and nuclear binding 
+energy are often expressed in non-SI units. 
+(1) 
+(c) Show that the energy released in the reaction is about 180 MeV. 
+(1) 
+A nuclear power station uses U-235 as fuel. Assume that every fission 
+reaction ofU-235 gives rise to 180 MeV of energy. 
+(d) Estimate, in J kg-1, the specific energy ofU-235. 
+(e) The power station has a useful power output of 1.2 OW and an 
+efficiency of 36%. Determine the mass ofU-235 that undergoes fission 
+in one day. 
+(f) The specific energy of fossil fuel is typically 30 MJ kg 1• Suggest one 
+(2) 
+(2) 
+advantage of U-235 compared with fossil fuels in a power station. 
+(1) 
+A sample of waste produced by the reactor contains 1.0 kg of strontium-94 
+(Sr-94). Sr-94 is radioactive and undergoes beta minus (fr) decay into a 
+daughter nuclide X. The reaction for this decay is: 
+94Sr ➔ X + ii' + e 
+38 
+e 
+(g) Write down the proton number of nuclide X. 
+(1) 
+The graph shows the variation with time of the mass of Sr-94 remaining in the 
+sample. 
+J,f 1.0 
+~ 0.9 
+~ 
+e 0.8 
+0.7 
+0.6 
+0.5 
+0.4 
+0.3 
+0.2 
+0.1 
+0.0 
+0 
+25 
+50 
+75 
+JOO 
+125 150 175 200 225 
+rime/s 
+(h) State the half-life of Sr-94. 
+(1) 
+(i) Calculate the mass of Sr-94 remaining in the sample after 10 minutes. 
+(2) 
+(Total 12 marks) 
+359 

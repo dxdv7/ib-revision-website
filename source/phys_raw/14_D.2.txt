@@ -1,0 +1,983 @@
+=== PAGE 328 ===
+Electric and magnetic 
+fields 
+
+=== PAGE 329 ===
+◄ 
+Strong electric fields can break down the air, resulting in a spark. To prevent sparking between 
+high-voltage cables, they must be kept far apart from each other and the Earth. 
+Guiding Questions 
+Which experiments provided evidence to determine the nature of the 
+electron? 
+How can the properties of fields be understood using an algebraic approach 
+and a visual representation? 
+What are the consequences of interactions between electric and magnetic 
+fields? 
+Nature of Science 
+The electric force is very similar to gravitation in that it acts over a distance 
+and its strength is inversely proportional to the distance between affected 
+bodies. This means that we can use the concept of field we developed for 
+gravity to model the electric effect. 
+Electric fields and gravitational fields can be modeled in similar ways. By changing 
+mass to charge, we go from gravity to electricity. However, they could not be more 
+different and they represent two of the four fundamental forces. 
+Electricity and magnetism may appear to be quite distinct. There is no magnetic 
+equivalent of charge or mass and no replacement for the laws of Newton and Coulomb. 
+Saying this, they are fundamentally the same. The magnetic force is the electric force 
+between moving charges. 
+Students should understand: 
+the direction of forces between the two types of electric charge 
+Coulomb's law as given by F = k q, ;
+2 for charged bodies treated as point charges 
+1 
+r 
+wherek =--
+4ne0 
+the conservation of electric charge 
+Millikan's experiment as evidence for quantization of electric charge 
+the electric charge can be transferred between bodies using friction, electrostatic 
+induction and by contact, including the role of grounding (earthing) 
+the electric field strength as given by E = ~ 
+electric field lines 
+the relationship between field line density and field strength 
+the electric field strength for parallel plates as given by E = * 
+magnetic field lines. 
+• • 
+FIELDS D.2 
+283 
+
+=== PAGE 330 ===
+FIELDS D.2 
+Why does a charged 
+balloon 'stick' to a wall? 
+Let us assume that the 
+balloon is negatively 
+charged. When the 
+balloon is brought 
+close to the wall, the 
+negative electrons · n 
+the wall are repelled 
+and move away from 
+the wall's surface. 
+The net migration 
+of electrons within 
+the wall means that 
+the surface has a 
+temporary positive 
+charge, to which the 
+negative balloon is 
+attracted. We call this 
+process 'induction' 
+of charge. 
+D.2 Figure 1 The balloon is ► 
+attracted to the wool. 
+D.2 Figure 2 Balloons repel 
+each other. 
+Historically, the decision 
+was related to si I k 
+and glass rather than 
+sweaters and balloons 
+but it was JUSt as 
+arbitrary. In some ways 
+it was a pity this way 
+was chosen. 
+D.2 Figure 3 More 
+balloons, bigger force. 
+D.2 Figure 4 The charge 
+► 
+on the sweater cancels the 
+charge on the balloon, which 
+means no force is exerted on 
+a nearby uncharged balloon. 
+284 
+Electric and magnetic fields 
+Electric force 
+If you rub a plastic ruler on a woolen sweater (or synthetic fleece) and hold it above some 
+small bits of paper, something interesting happens. The paper jumps up and sticks to the 
+ruler. We know that to make the paper move there must have been an unbalanced force 
+acting on it; we call this the electric force. To find out more about the nature of this 
+force, we need to do some more experiments. This time we will use a balloon. 
+If we rub a balloon on a sweater, we find that it will experience a force in the direction 
+of the sweater as shown in Figure 1. The sweater is causing this force, so according to 
+Newton's third law, the sweater must experience an equal and opposite force toward 
+the balloon: the two objects are said to attract each other. 
+-00--
+If two balloons are rubbed together against friction and held close to each other, they 
+will experience a force pushing them away from each other as shown in Figure 2. They 
+are said to repel each other. 
+In some ways, this effect is similar to gravity, as the force acts over a distance and gets 
+bigger as the bodies are brought closer together. In other ways, it is very different 
+to gravity. The gravitational force is experienced by bodies with mass and always 
+attractive, whereas the electric force can be either attractive or repulsive. Whatever 
+property is responsible for the electric force must exist in two types. We call this 
+property charge. Experimenting further, we find that the more balloons we have, 
+the greater the force, as in Figure 3. Also, a balloon attached to the sweater on which it 
+was charged exerts no force on a nearby uncharged balloon as in Figure 4. 
+0 
+
+=== PAGE 331 ===
+So charges add and charges cancel. For this reason, we can use positive and negative 
+numbers to represent charge but we have to decide which will be positive and which 
+negative. Let us say the balloon is negative and the sweater is positive. 
+Charge transfer by contact 
+Have you ever experienced an electric shock? 
+As with friction and charge induction, contact is another mechanism through which 
+charge can be transferred, sometimes with painful consequences. For a noticeable 
+shock to occur, one of the two bodies must have a considerable net positive or negative 
+charge already built up, with an insulator preventing this charge from flowing out into 
+neighboring bodies. 
+The touch of the insulated body and the conducting body means that electrons will 
+flow from one to the other to reduce the difference in their two charges. Humans have 
+quite high conductivity (considerably more than air). 
+To prevent this transfer of charge from causing serious harm (for example, in the 
+presence of flammable materials), both bodies can be grounded, which means they are 
+connected electrically to the Earth. The Earth's size and abundance of charge means 
+that both bodies are brought to potentials of O V (more on this later), which in turn 
+ensures that no electrons flow between them, preventing the formation of sparks. The 
+electrical symbol for the ground is shown in Figure 5. 
+Charge, Q 
+The property of matter that causes the electrical force is charge. All bodies are positive, 
+negative or neutral (zero charge). Bodies with the same charge repel each other and 
+oppositely charged bodies attract. Charge cannot be created or destroyed so charges 
+add or subtract. 
+Charge is a scalar quantity. 
+The unit of charge is the coulomb (C). 
+Fundamental charge, e 
+Matter is made of atoms so it makes sense to suppose that the atoms are also charged. All 
+atoms are made of three particles: protons, which have positive charge, electrons, 
+which are negative, and the neutrons, which are neutral. Each atom is made of a positive 
+heavy nucleus consisting of protons and neutrons, surrounded by much lighter negative 
+electrons as in Figure 6. The proton and the electron have the same amount of charge 
+(1.60 x 10-19q but the opposite sign. This is the smallest amount of charge that exists in 
+ordinary matter and is therefore called the fundamental charge, e. 
+J_ 
+A 
+D.2 Figure 5 The electrical 
+symbol for Earth (0 V). 
+€> 
+A 
+Charge is quantized. 
+Which other physical 
+quantities are 
+quantized? (NOS) 
+D.2 Figure 6 A simple 
+model of an atom (not to 
+scale) 
+e 
+◄ D.2 Figure 7 The charges 
+on the balloon and sweater. 
+285 
+
+=== PAGE 332 ===
+FIELDS D.2 
+Millikan and Fletcher 
+used X-rays to ionize 
+the o il drops. Some 
+modern-day lab 
+experiments use 
+friction. 
+D.2 Figure 8 Millikan's oil-
+drop apparatus 
+When you drive around 
+in a car on a dry day, 
+the friction between 
+the tires and the road 
+causes the body of the 
+car to become charged. 
+The electric field inside 
+the car is zero so you 
+will not feel anything as 
+long as you stay inside. 
+When you get out of 
+the car, there will be 
+a potential difference 
+between you and the 
+car, resulting in a small 
+discharge. which can 
+be unpleasant. One 
+way to avoid this is 
+to ask a passer-by to 
+touch the car before 
+you get out. 
+286 
+Electric and magnetic fields 
+Electrons, being lighter and on the outside of the atom, are easy to move around and 
+provide the answer to what was going on in the balloon experiment. At the start, 
+the balloon and sweater had equal numbers of positive and negative charges so were 
+both neutral. When the balloon is rubbed on the sweater, electrons (negative charges) 
+are rubbed from the sweater onto the balloon so the balloon becomes negative and 
+the sweater positive as shown in Figure 7. We say that charge is conserved; it can be 
+transferred but not created or destroyed. 
+Millikan's oil drop experiment 
+Our knowledge of the fundamental charge comes from an experiment conducted 
+over one hundred years ago in Chicago. Millikan and Fletcher sprayed a fine mist of 
+oil drops into a chamber, where they were ionized (adding or removing electrons) by 
+X-rays as they passed through the nozzle. 
+several 
+thousand 
+volts 
+oil spray 
+microscope 
+I 
+The charged oil drops were released into a region of uniform electric field. When no 
+potential difference was applied across the plates, the oil would fall under gravity 
+and reach terminal velocity when drag was the same as the gravitational force. When 
+an upward electric force was applied, some drops (depending on their mass) would 
+become stationary or rise upward with a new terminal velocity. The balance of forces 
+enabled the charge on individual oil drops to be determined. 
+Although no single oil drop had the fundamental charge exactly, all charges found 
+through this method shared a common factor: 1.60 x 10-19 C. This quantity of charge 
+remains the smallest that has been found by any experimental procedure. 
+Electric field 
+A region of space where an electric force is experienced is called an electric field. The 
+region around the sphere of charge in Figure 9 is an electric field since a small positive 
+charge placed in that region experiences a force. 
++ + + + + 
++ 
++ 
++ 
++ 
+F 
++ 
++ 
+(!) 
+► 
++ 
++ 
+q 
++ 
++ 
++ + + + + 
+... 
+D.2 Figure 9 A small positive test charge near a positive sphere. 
+
+=== PAGE 333 ===
+Field strength, E 
+The size of the field at a given point is given by the electric field strength. This is defined 
+as the force per unit charge experienced by a small positive test charge placed at that 
+point. So if we consider a point some distance from a sphere of positive charge as shown 
+in Figure 9, the field strength E would be E_ Since force is a vector, field strength will also 
+be a vector with the same direction as thJ force. The unit offield strength is N c-1• 
+If the field strength at a point is E, a charge +q placed at that point will experience a 
+force Eq in the direction of the field. A charge - q will experience the same size force but 
+in the opposite direction. 
+Exercise 
+QI. Calculate the force experienced by a charge of +5 x 10-6c placed at a point 
+where the field strength is 40N C-1• 
+Q2. A charge of - 1.5 x 10-6 C experiences a force of 3 x 10-5 N toward the north. 
+Calculate the magnitude and direction of the field strength at that point. 
+Q3. An electron has an instantaneous acceleration of 100 m s-2 due to an electric 
+field. Calculate the field strength of the field. 
+electron charge = - 1.60 x 10-19 C 
+electron mass= 9.1 x 10-31 kg 
+Field lines 
+Field lines are drawn to show the direction and magnitude of the field. So for a point 
+positive charge, the field lines would be radial, showing that the force is always away 
+from the charge as in Figure 10. The fact that the force gets stronger as the distance 
+from the charge decreases can be seen from the density of the lines . 
+• 
+• 
+D.2 Figure 10 Field lines for 
+D.2 Figure 11 Field lines for 
+a positive point charge. 
+a negative point charge. 
+The field around a hollow sphere of charge is the same as it would be if all the charge 
+was placed at the center of the sphere (Figure 12). This is similar to the gravitational 
+field around a spherical mass. A point charge placed inside the sphere will experience 
+forces in all directions due to each of the charges on the surface. The resultant of these 
+forces is zero no matter where the point charge is placed. The electric field inside a 
+charged sphere is therefore zero. 
+• 
+D.2 Figure 12 A hollow 
+sphere 
+287 
+
+=== PAGE 334 ===
+FIELDS D.2 
+D.2 Figure 13 A uniform 
+field Note that the field is 
+not uniform at the edges. 
+The constant 
+k = 8.99 x 109 N m2c-2 
+This can also be 
+expressed in terms of 
+the permittivity of a 
+vacuum, e0 : 
+1 
+k = 4n£o 
+t:o = 8.85 x 10-12e2N-1 m-2 
+The permittivity is 
+different for different 
+media but we will 
+usually be concerned 
+with fields in a 
+vacuum. 
+The relative 
+permittivity, e,, of a 
+material is the ratio 
+of its permittivity to 
+the permittivity of a 
+vacuum. 
+288 
+► 
+Electric and magnetic fields 
+The field between positively and negatively charged parallel plates is uniform. As 
+can be seen in Figure 13, the lines are parallel and equally spaced, meaning that the 
+force experienced by a small test charge placed between the plates will have the same 
+magnitude and direction wherever it is placed. 
++ + + + + + + + + 
+Coulomb's law 
+In a gravitational field, the force between masses is given by Newton's law, and the 
+equivalent for an electric field is Coulomb's law. 
+The force experienced by two point charges is directly proportional to the product of their charge and 
+inversely proportional to the square of their separation. 
+The force experienced by two point charges Q1 and Q2 separated by a distance r in a 
+vacuum is given by the formula: 
+F=kQ1Q2 
+r2 
+The constant of proportionality, k = 8.99 x 109 N m 2C-2. 
+Note: Coulomb's law also applies to spheres of charge; the separation being the 
+distance between the centers of the spheres. 
+This means that we can now calculate the field strength at a distance from a sphere of charge. 
+Worked example 
+A 5 µC point charge is placed 20 cm from a 10 µ.C point charge. 
+(a) 
+Calculate the force experienced by the 5 µC charge. 
+(b) 
+What is the force on the 10 µC charge? 
+(c) 
+What is the field strength 20 cm from the 10 µC charge? 
+Solution 
+(a) 
+Using the equation: F = k Q;~' 
+Q 1 = 5 x 10-6 C, Q2 = 10 x 10-6 C and r = 0.20 m 
+8.99 X 109 X 5 X lO 6 X 10 X 10 6 
+F = 
+0.2oz 
+=ll.3N 
+(b) 
+According to Newton's third law, the force on the 10 µC charge is the same as 
+on the 5 µC. 
+( ) 
+c 
+. h 
+11.3 
+c 
+1orce per umt c arge = 5 
+x 10_. 
+E= 2.26 X 106 NC-I 
+
+=== PAGE 335 ===
+Challenge yourself 
+1. Two small conducting spheres, each of mass 10 mg, are attached to two 50cm long 
+pieces of thread connected to the same point. This causes them to hang next to each 
+other. A charge of 11 x 10-10c is shared evenly between the spheres, causing them to 
+repel each other. Show that when they stabilize, the spheres will be 3cm apart. 
+Exercise 
+Q4. If the charge on a 10 cm radius metal sphere is 2 µC, calculate: 
+(a) the field strength on the surface of the sphere 
+(b) the field strength 10 cm from the surface of the sphere 
+(c) the force experienced by a 0.1 µC charge placed 10 cm from the surface of 
+the sphere. 
+(d) Calculate the force if the space between the small sphere and the surface 
+of the big sphere were filled with concrete of relative permittivity 4.5. 
+Q5. A small sphere of mass 0.01 kg and charge 0.2 µC is placed at a point in an 
+electric field where the field strength is 0.5 N c-1• 
+(a) What force will the small sphere experience? 
+(b) If no other forces act, what is the acceleration of the sphere? 
+Potential in a uniform field 
+As we have already seen, a uniform field can be produced between two parallel plates 
+as shown in Figure 14. 
+I + 
++ 
++ 
++ •B + 
++ 
++ 
++ 
++ I 
+r 
+d 
+l 
+' 
+I, 
+,. ·•$. 
+,. 
+' 
+' 
+' 
+Eq 
+,-
+-
+-
+-
+•A-
+-
+-
+- -, 
+Because this is a uniform field, the force is constant and equal to Eq, so the work done 
+in moving a charge from A to B is force x distance moved in direction of force = Eqd. 
+The potential difference is the work done per unit charge so: V AB = Eqd = Ed 
+q 
+This result could also be reached by using the fact that Eis the potential gradient: 
+V 
+E = d 
+What are the relative 
+strengths of the four 
+fundamental forces? 
+(D.l, E.3, E4) 
+D.2 Figure 14 Uniform 
+electric field (shown without 
+edge effects). 
+The electronvolt (eV) 
+is a unit of energy 
+used in atomic 
+physics. 1 eV = energy 
+gained by an electron 
+accelerated through 
+a potential difference 
+of lV. 
+289 
+
+=== PAGE 336 ===
+FIELDS D.2 
+D.2 Figure 15 Before and 
+after a charged body is 
+earthed. 
+290 
+Electric and magnetic fields 
+Exercise 
+Refer to the figure below for these questions. 
+6V 
+5V 
+4V 
+3V 
+2V 
+IV 
+ov 
+1+ 
+' 
+I-
++ 
+' 
+-
++ 
++ 
++ 
+8-
+C 
+'" 
+I' 
+-
+A-
+-
+-
+-
++ 
++ 
++ 
+' 
+, , .. 
+-
+-
+-
+Q6. What is the potential difference between A and C? 
+Q7. What is the potential difference between Band D? 
++ 1 
+l 
+' 
+D 
+3cm 
+j 
+-
+- I 
+Q8. If a charge of+ 3 C was placed at B, how much potential energy would it have? 
+Q9. If a charge of +2 C was moved from C to B, how much work would be done? 
+QI 0. If a charge of - 2 C moved from A to B, how much work would be done? 
+QI I. If a charge of +3C was placed at Band released: 
+(a) what would happen to it? 
+(b) how much kinetic energy would it gain when it reached A? 
+QI2. If an electron was released at A and accelerated to B, how much kinetic 
+energy would it gain in eV? 
+QI 3. If an electron was taken from C to D, how much work would be done in eV? 
+Earthing 
+Rather like we did in gravitational fields we can take the Earth to represent zero 
+potential. We take the Earth as having a potential of O V because all the bodies we will 
+consider are close to the Earth, and therefore any change in the potential of the Earth 
+changes the potential of all nearby bodies equally. 
+If a charged body is grounded (earthed), current will flow until the potential of the 
+body is zero. 
+IOV 
+OV 
++ 
++ 
++ 
+ov 
+J_ 
+ov 
+9V 
+ov 
+.. 
+D.2 Figure 16 The Earth 
+symbol within a circuit diagram. 
+Adding an 'Earth' symbol to a point in a circuit diagram indicates that it is at 
+zero potential. 
+
+=== PAGE 337 ===
+Charging by induction 
+The potential of a Body A not only depends on the charge of a body but also on 
+charges nearby. 
+0 
+A 
+D.2 Figure 17 B is uncharged but 
+experiences a positive potential due to A. 
+-~ 
+--~
+- __L 
+-
+- ov 
+A 
+D.2 Figure 18 B gains negative 
+charges from the Earth. 
+If Body Bis connected to Earth, a current will flow until Bis at zero potential. 
+B now has a negative charge. No charge was exchanged between A and B. This is called 
+electrostatic induction. 
+Conductors and current 
+A conductor contains free charge carriers. In metals, these are electrons: negatively 
+charged particles that are able to move around. 
+When electrons are added to a conducting sphere, they spread over the surface. 
+If this body is connected to an uncharged body, electrons flow from one to the other. 
+This happens because the bodies are at different potentials. Electrons (being negative) 
+flow from low to high potential. 
+A 
+D.2 Figure 19 Electrons repel 
+one another until they are as 
+spread as possible. 
+.A 
+D.2 Figure 20, A and B combine to form one 
+overall conductor with a net movement of 
+electrons from A to B. 
+We know from B.5 that this is analogous to the electrons flowing uphill. Instead, let us 
+ponder the equivalent transition in terms of conventional current. 
+.A 
+D.2 Figure 21 An equivalent model 
+involving high to low potential would be net 
+movement of positive charges from B to A. 
++~++++ 
++ 
++ 
++ 
+A 
+B 
++ 
++ 
++ 
++ 
++ + + 
+.A 
+D.2 Figure 22 There is no current flow 
+when there is no potential difference. 
+A current flows until there is no potential difference across the conductor as a whole. 
+Note that A has more charge than B but the same potential. 
+Models do not have to 
+be true. 
+291 
+
+=== PAGE 338 ===
+FIELDS D.2 
+• 
+Not all magnets are 
+human-made; some rocks 
+(for example, this piece of 
+magnetite) are naturally 
+magnetic. 
+s 
+• 
+D.2 Figure 23 The small 
+magnet is caused to turn. so 
+must be in a magnetic field. 
+292 
+Electric and magnetic fields 
+Nature of Science 
+The first recorded observation of the magnetic effect was 2500 years ago in the 
+ancient city of Magnesia (Manisa) in what is now western Turkey. Experiments 
+showed that one end of a magnet always pointed toward the North Pole so a 
+theory was developed related to the attraction of opposite poles. This theory 
+gave correct predictions, enabling magnets to be used in navigation, even 
+though it was not entirely correct. The connection between magnetism and 
+electricity was not made until a chance observation by Hans Christian Oersted 
+in 1819. 
+Magnetic fields 
+It is not obvious that there is a connection between the magnetic force and the electric 
+force. However, we will discover that they are the same thing. First, let us investigate 
+the nature of magnetism. 
+Magnets are not all human-made; some stones are magnetic. If we place a small 
+magnetic stone next to a big one, it experiences forces that make it rotate. We can 
+define a magnetic field as a region of space where a small magnet would experience a 
+turning force. Magnets are dipoles so one end attracts and the other repels. 
+If one of these small magnets is placed close to the Earth, we will find that it rotates so 
+that one end always points north. Because of this, we call that end the north-seeking 
+pole. The other end is called the south-seeking pole. The direction of the field is 
+defined as the direction that a north-seeking pole points. 
+Magnetic field lines 
+In practice, a small compass can be used as our test magnet. Magnetic field lines are 
+drawn to show the direction that the north (N) pole of a small compass would point if 
+placed in the field. 
+If we join the directions pointed by the compass, we get the field lines shown. These 
+not only show the direction of the field but their density shows us where the field is 
+strongest. We call the density of lines the flux density. 
+' 
+~ 
+♦ , " - ... ' ' 
+I 
+' " 
+\ 
+I " -
+' , , I 
+' ' ' • " - .... ' • , I " 
+: : ;1 
+s I 
+■" --
+' --
+" 
+I , ' .... - " ' ' ' 
+I , , \ ' ..... ..,.. 
+~ 
+\ ' ' 
+I , 
+♦ ' ' -- - " , ♦ ' ' 
+• 
+D.2 Figure 24 If the whole field were 
+covered in small magnets, then they would 
+show the direction of the field lines. 
+
+=== PAGE 339 ===
+Notice that since unlike poles attract, the north-seeking pole of the small compass 
+points to the south magnetic pole of the big magnet. So, if we treat the Earth like a big 
+magnet, the north-seeking end of the compass points north because there is a south 
+magnetic pole there. 
+N geographicalp.--ole 
+__ ~ 
+\\\Jfl~ 
+S magncticpole 
+~~~ 
+) 
+~ 
+A uniform field can be created between two flat magnets as in Figure 26. As with 
+uniform gravitational and electric fields, the field lines are parallel and uniformly 
+spaced, apart from at the ends of the magnets. 
+s 
+N 
+s 
+N 
+Field caused by currents 
+If a small compass is placed close to 
+a straight wire carrying an electric 
+current, then it experiences a turning 
+force that makes it always point 
+around the wire. The region around 
+the wire is therefore a magnetic field. 
+This leads us to believe that magnetic 
+fields are caused by moving charges. 
+We can work out the direction of the 
+field by pretending to grip the wire 
+with our right hand. If the thumb 
+points in the direction of the current, 
+then the fingers will curl in the 
+direction of the field. 
+D.2 Figure 27 The field due to a long ► 
+straight wire carrying a current is in the 
+form of concentric circles. Notice that 
+the field is strongest close to the wire. 
+fingers curl in 
+direction of field 
+current 
+thumb in direction 
+of current 
+1 D.2 Figure 25 The Earth's 
+magnetic field. 
+D.2 Figure 26 Uniform 
+magnetic field. 
+How are electric fields 
+and magnetic fields like 
+gravitational fields? {D.1} 
+When charged particles 
+ejected from the 
+Sun meet the Earth's 
+magnetic field, they are 
+made to follow a helical 
+path. As these particles 
+move toward the poles, 
+the field becomes 
+stronger so the helix 
+becomes tighter until 
+the particles turn back 
+on themselves and head 
+for the other pole. If the 
+particles have enough 
+energy, they sometimes 
+get close enough to 
+the Earth to reach the 
+upper atmosphere 
+If this happens. light 
+is emitted as the 
+particles ionize the air, 
+forming the northern/ 
+southern lights. 
+293 
+
+=== PAGE 340 ===
+FIELDS D.2 
+Since the letter B is 
+used lo denote flux 
+density, the magnetic 
+field is often called a 
+B field. 
+How can moving 
+charges in magnetic 
+fields help probe the 
+fundamental nature of 
+matter? (B.1 , C.3) 
+D.2 Figure 28 The direction 
+of the field can be found by 
+applying the right-hand grip 
+rule to the wire. The circles 
+formed by each bit of the loop 
+add together in the middle to 
+give a stronger field. 
+D.2 Figure 29 The direction 
+of the field in a solenoid can 
+be found using the grip rule 
+on one coil. 
+294 
+► 
+Electric and magnetic fields 
+Magnetic flux density, B 
+From what we know about fields, the strength of a field is related to the density of field 
+lines. This tells us that the magnetic field is strongest close to the poles. The magnetic 
+flux density is the quantity that is used to measure how strong the field is. However it is 
+not quite the same as field strength as used in gravitational and electric fields. 
+The field inside a coil 
+When a current-carrying wire is made into a circular loop, the field inside is due to the 
+addition of all the field components around the loop, making the field at the center 
+greater (Figure 28). Adding more loops to form a coil will increase the field. 
+The field inside a solenoid 
+A solenoid is a special type of coil where the loops are wound next to each other along 
+a cylinder to form a helix as shown in Figure 29. 
+current into 
+the solenoid 
+current o ut 
+of the solenoid 
+t 
+fingers curl in the 
+direction of the field 
+The magnetic field caused by each loop of the solenoid adds to give a field pattern 
+similar to a bar magnet, as shown in Figure 30. 
+
+=== PAGE 341 ===
+Guiding Questions revisited 
+Which experiments provided evidence to determine the nature of the electron? 
+How can the properties of fields be understood using an algebraic approach and 
+a visual representation? 
+What are the consequences of interactions between electric and magnetic fields? 
+In this chapter, we have examined electric fields (in a similar way to gravitational fields) 
+as well as magnetic fields, to find out how: 
+• The combination of ionization of oil droplets and an understanding of 
+gravitational fields enabled Millikan to recognize that all charges measured 
+shared a common factor, which we now know to be the magnitude of the charge 
+on an electron or proton. 
+• Charge can be transferred from one body to another and is conserved in the 
+process. 
+• Electric forces are attractive for unlike charges and repulsive for like charges. 
+Magnetic forces are attractive for opposite poles and repulsive for like poles. 
+• Electric field lines represent the direction of force that would act on a small 
+positive test charge placed in the field. Magnetic field lines represent the 
+direction of force that would act on a test north pole. 
+• Coulomb's law states that the force between two charges is proportional to the 
+product of the charges and inversely proportional to the square of the distance 
+between them. 
+• Electric field strength is the force acting per unit charge. 
+• Just as we can approximate the region close to the surface of the Earth as having 
+a uniform gravitational field, we can approximate the space between two 
+parallel plates (with a potential difference between them) as having a uniform 
+electric field. 
+• When electric and magnetic fields interact, forces are exerted. These can be used 
+for electromagnetic applications. 
+◄ D.2 Figure 30 The field 
+inside a solenoid. 
+295 
+
+=== PAGE 342 ===
+FIELDS D.2 
+296 
+Electric and magnetic fields 
+Practice questions 
+1. A positive point charge is placed above a metal plate at zero electric potential. 
+Which diagram shows the pattern of electric field lines between the charge 
+and the plate? 
+A 
+B 
+C 
+D 
+(Total 1 mark) 
+2. The force acting between two point charges is F when the separation of the 
+charges is x. What is the force between the charges when the separation is 
+increased to 3x? 
+F 
+A 3 
+B 
+_L 
+3x 2 
+F 
+C 9 
+F 
+D 
+9x' 
+(Total 1 mark) 
+3. Two charges Q1 and Q2, each equal to 2 nC, are separated by a distance 3 m 
+in a vacuum. What is the electric force on Q2 and the electric field due to Q1 
+at the position of Qi? 
+B 
+4N 
+2 N c-1 
+C 
+4 x 10-9 N 
+2 x 10-9 N c-1 
+D 
+4N 
+2 x 1 o-9 N c-1 
+(Total 1 mark) 
+4. What is the unit of electrical potential difference expressed in fundamental 
+SI units? 
+A 
+kg ms-1 C-1 
+B 
+kg 1112 s-2 c-1 
+C 
+kgm2 s-3 A-1 
+D 
+kgm2 s-1 A 
+(Total 1 mark) 
+5. In an experiment, oil droplets of mass m and charge q are dropped into the 
+region between two horizontal parallel plates. The electric field E between the 
+plates can be adjusted. Air resistance is negligible. Which is correct when the 
+droplets fall vertically at constant velocity? 
+A 
+E = O 
+B 
+C 
+mg 
+E =q 
+D 
+mg 
+E> q 
+(Total 1 mark) 
+
+=== PAGE 343 ===
+6. Magnetic field lines are an example of what? 
+A 
+A discovery that helps us understand magnetism 
+B A model to aid in visualization 
+C 
+A pattern in data from experiments 
+D 
+A theory to explain concepts in magnetism 
+(Total 1 mark) 
+7. 
+An electron is placed at a distance of 0.40 m from a fixed point charge of 
+- 6.0mC. 
+- 6.0 mC 
+electron 
+0 ----------------------------------• 
+I,,____ _______ 
+...,... 
+0.4-0m 
+(a) Show that the electric field strength due to the point charge at the 
+position of the electron is 3.4 x 108 N C-1• 
+(2) 
+(b) Calculate the magnitude of the initial acceleration of the electron. 
+(2) 
+(c) Describe the subsequent motion of the electron. 
+(3) 
+(Total 7 marks) 
+8. An ionization chamber is a device that can be used to detect charged particles. 
+ionization chamber 
+window 
+(i---~-➔air 
+charged 
+particle 
+parallel metal plates 
+d 
+sensitive 
+ammeter 
+-I iv 
+I 
+The charged particles enter the chamber through a thin window. They then 
+ionize the air between the parallel metal plates. A high potential difference 
+across the plates creates an electric field that causes the ions to move toward 
+the plates. Charge flows around the circuit and a current is detected by the 
+sensitive ammeter. 
+(a) Copy the diagram and draw the shape of the electric field between the 
+plates. 
+(2) 
+The separation of the plates dis 12 mm and the potential difference V between 
+the plates is 5.2 kV. An ionized air molecule M with charge +le is produced 
+when a charged particle collides with an air molecule. 
+(b) Calculate the electric field strength between the plates. 
+(Total 3 marks) 
+297 
+
+=== PAGE 344 ===
+FIELDS D.2 
+298 
+Electric and magnetic fields 
+9. 
+(a) If something gets a positive electric charge, then what happens to 
+something else? 
+(1) 
+A 
+It becomes equally positively charged. 
+B 
+It becomes equally negatively charged. 
+C 
+It becomes negatively charged, but not necessarily equal/y negatively 
+charged. 
+D 
+It becomes magnetized. 
+(b) Explain your answer. 
+(1) 
+(Total 2 marks) 
+10. (a) A bird is sitting on a bare high-voltage line. Will the bird get a shock? 
+(1) 
+A 
+~ 
+B 
+~ 
+(b) Explain your answer. 
+(1) 
+(Total 2 marks) 
+11. Millikan's oil drop experiment was the first experiment to determine the 
+size of the elementary charge. Charged oil droplets are sprayed into an air-
+filled chamber and observed through a microscope inserted in the side of the 
+chamber. The droplets fall under gravity with a terminal velocity. A uniform 
+electric field between the top and bottom plates can be used to hold the 
+charged oil drops in a fixed vertical position in the electric field. The potential 
+between the plates is measured. The polarity can be changed in order to pull 
+the droplets back up against gravity. The drag force on the droplets due to air 
+resistance is known as viscous drag. The charge on an oil droplet may change 
+due to random ionization. 
+The viscous drag force on a small spherical droplet is given by F = 67rrtau, 
+where a is the radius of the droplet, u is the terminal velocity of the droplet, 
+Y/ is the viscosity of the air (rt = 1.82 x 10-1 kg m-1 s-1) . In two successive 
+measurements of an oil droplet, the rise times are 42 sand 78 s. The distance 
+traveled upward at constant velocity is 1.00 cm, the potential difference across 
+the plates is 5000 V and the plate separation is 1.50 cm. The radius of the 
+droplet is a = 2.76 x 10-6 m. 
+(a) Calculate the change in the number of electrons in the droplet between the 
+two measurements. 
+(8) 
+(b) Two droplets with the same density, radii r1 and r2, identical charges Q, 
+and terminal velocities u1 and u2 join together. How is the final terminal 
+velocity v of the droplet related to the initial velocities? 
+(5) 
+(Total 13 marks) 

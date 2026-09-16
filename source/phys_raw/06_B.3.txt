@@ -1,0 +1,1128 @@
+=== PAGE 180 ===
+Gas laws 
+
+=== PAGE 181 ===
+THE PARTICULATE NATURE OF MATTER B .3 
+◄ 
+During the study of gas quantities, such as volume, pressure and temperature, it can be helpful to 
+remember that we all carry our own gas container at all times: our lungs. Breathing in involves a 
+contraction of the diaphragm, which increases the volume of the cavity Air moves in to reduce the 
+pressure difference between the atmosphere and that inside. Breathing out involves a relaxation of the 
+diaphragm, which reduces the volume and increases the internal pressure so air moves out. The rib 
+cage supports the process in both directions using the intercostal muscles. 
+Guiding Questions 
+How are the macroscopic characteristics of a gas related to the behavior of 
+individual molecules? 
+What assumptions and observations lead to universal gas laws? 
+How can models be used to help explain observed phenomena? 
+In the chapters on mechanics, we first defined the quantities associated with particles 
+(e.g. mass, momentum and energy), then we looked at how they interact when they 
+collide. We are going to follow a similar procedure with gases by first defining the 
+relevant quantities (pressure, volume, temperature and number of particles), then 
+using those quantities to model interactions between two gases. 
+When considering a gas in a container, it is easy to forget that we are actually looking 
+at two gases: the gas held within the container and the air that surrounds the container. 
+This is made clearer if we consider two gases separated by a shared piston. 
+What we want to know is how the gas on one side affects the gas on the other. Which 
+way will thermal energy flow and which way will the piston move? 
+To answer this, we could look at the mechanical properties of the individual particles 
+or the relationships between pressure, volume and temperature. The only problem is 
+that there are too many variables, all of which affect the others. We will instead relate 
+just two variables at a time, keeping the others constant (for example, pressure is 
+inversely proportional to volume if temperature and the number of particles remain 
+the same). 
+The macroscopic relationships involving pressure, volume, temperature and amount 
+of gas discussed in this chapter form the ideal gas laws and can be used in place of the 
+microscopic kinetic theory explanations of gas transformations. 
+What happens to the pressure of a gas when its volume is reduced? The kinetic theory 
+explanation would be that the reduction in volume leads to an increase in density, 
+which results in more collisions with the walls per unit time, which increases the total 
+rate of change of momentum of particles hitting the walls, leading to a greater force 
+over a smaller area and, therefore, a higher pressure. 
+Or, using the ideal gas laws, the pressure of a fixed mass of gas is inversely proportional 
+to its volume at constant temperature. Reducing the volume will result in a higher 
+pressure. 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+g 
+.. 
+B.3 Figure 1 Two chambers 
+within a container, separated 
+by a piston. 
+135 
+
+=== PAGE 182 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+This is a good example 
+of how models are used 
+in physics. Here we are 
+modeling something that 
+we cannot see, the atom, 
+using a familiar object, a 
+perfectly elastic ball. 
+B.3 Figure 2 Atoms join to 
+► 
+make a molecule. 
+B.3 Figure 3 To combine 
+► 
+completely there must be 
+equal numbers of atoms. 
+136 
+Students should understand: 
+pressure as given by P = f where Fis the force exerted perpendicular to the surface 
+the amount of substance n as given by n = :A 
+where N is the number of molecules and NA is 
+the Avogadro constant 
+ideal gases are described in terms of the kinetic theory and constitute a modeled system used 
+to approximate the behavior of real gases 
+the ideal gas law equation can be derived from the empirical gas laws for constant pressure, 
+constant volume and constant temperature as given by P: = constant 
+the equations governing the behavior of ideal gases as given by PV = Nk8 Tand PV = nRT 
+the change in momentum of particles due to collisions with a given surface gives rise to 
+pressure in gases and, from that analysis, pressure is related to the average translational speed 
+of molecules as given by P = ½ pv2 
+the relationship between the internal energy U of an ideal monatomic gas and the number of 
+molecules or amount of substance as given by U = ½ N k8 Tor U = ½ RnT 
+the temperature, pressure and density conditions under which an ideal gas is a good 
+approximation of a real gas. 
+How do we know atoms have different masses? 
+The answer to that question is thanks originally to the chemists, John Dalton in 
+particular. Chemists make compounds from elements by mixing them in very precise 
+proportions. This is quite complicated but we can consider a simplified version as 
+shown in Figure 2. An atom of A joins with an atom of B to form molecule AB. 
+We first try by mixing the same masses of A and B but find that when the reaction has 
+finished there is some B left over; we must have had too many atoms ofB. lf we reduce 
+the amount of B until all the A reacts with all the B to form AB, we know that there must 
+have been the same number of atoms of A as there were of Bas shown in Figure 3. We can 
+therefore conclude that the mass of an A atom is larger than an atom of B. In fact, the ratio of: 
+mass of atom A 
+total mass A 
+mass of atom B = total mass B 
+0 
+~ 
+0 
+~ 
+00 
+0 
+0 
+0 +00 ~
++0 
+0 + 0 ~ 
+0 ®® ~
+® 
+0 ® ~ 
+equal masses of A and B 
+equal number of atoms of A and B 
+By finding out the ratios of masses in many different reactions, the atomic masses 
+of the elements relative to each other were measured. Originally, everything was 
+compared to oxygen since it reacts with so many other atoms. Later, when physicists 
+
+=== PAGE 183 ===
+started to measure the mass of individual atoms, the standard atom was changed 
+to carbon-12. This is taken to have an atomic mass of exactly 12 unified mass units 
+(u). The size of 1 u is therefore equal to / 2 of the mass of a carbon-12 atom, which is 
+approximately the mass of the smallest atom, hydrogen. 
+Avogadro's hypothesis 
+The simplified version of chemistry given here does not give the full picture: for one 
+thing, atoms do not always join in pairs. Maybe one A joins with two Bs. Without 
+knowing the ratio of how many atoms ofB join with one atom of A, we cannot 
+calculate the relative masses of the individual atoms. Amedeo Avogadro solved this 
+problem by suggesting that equal volumes of all gases at the same temperature and 
+pressure will contain the same number of molecules. So if one atom of A and one 
+atom of B join to give one molecule AB, then the number of molecules of AB is equal 
+to the number of atoms of A or Band the volume of AB = ½(A + B). But if one atom of 
+A joins with two atoms of B, then the volume of B atoms is twice the volume of the A 
+atoms, and the volume of AB2 = the volume of A. This is illustrated in Figure 4. 
+© © 
++ 
+® 
+® 
+~ ~ 
+© 
+@ 
+~ 
+© 
+© 
+© 
++ 
+@ 
+@ 
+® 
+® 
+® 
+® 
+~ 
+~~ 
+The mole and Avogadro's constant 
+It can be shown that 12g of carbon-12 contains 6.02 x 1023 atoms. This amount of 
+material is called a mole. This number of atoms is called Avogadro's constant (NA) 
+(named after him but not calculated by him). If we take 6.02 x 1023 molecules of a 
+substance that has molecules that are four times the mass of carbon-12 atoms, it would 
+have relative molecular mass of 48. 
+The volume of l mole 
+of any gas at normal 
+atmospheric pressure 
+(l 01.3 kPa) and a 
+temperature of 0°C 
+is 22.4 liters (L), or 
+0.0224 m3. 
+B.3 Figure 4 Equal volumes 
+of gases contain the same 
+number of molecules. 
+A rough calculation of 
+how big a grain of sand 
+is compared to volume 
+of sand reveals that 
+there are approximately 
+6 x l 023 (Avogadro's 
+constant) grains of sand 
+in the Sahara desert. 
+◄ Moles of different 
+compounds have different 
+masses. 
+137 
+
+=== PAGE 184 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+Be careful with the 
+units. For example, do 
+all volume calculations 
+using m3. 
+138 
+6.02 x 1023 molecules of this substance would therefore have a mass four times the 
+mass of the same number of carbon-12 atoms, 48 g. So to calculate the mass of a mole 
+of any substance, we simply express its relative molecular mass in grams. This gives 
+us a convenient way of measuring the amount of substance in terms of the number of 
+molecules rather than its mass. 
+Worked example 
+If a mole of carbon has a mass ofl2g, how many atoms of carbon are there in 2g? 
+Solution 
+One mole contains 6.02 x 1023 atoms. 
+2g is¾ of a mole so contains¾ x 6.02 x 1023 atoms= 1.00 x 1023 atoms 
+Worked example 
+The density of iron is 7874kg m-3 and the mass of a mole of iron is 55.85 g. What is 
+the volume of 1 mole of iron? 
+Solution 
+Exercise 
+mass 
+density = 
+I 
+voume 
+mass 
+volume= d 
+. 
+ens1ty 
+0.05585 
+volume of! mole = 7874 m3 
+= 7.093 X 10-6 m 3 
+= 7.093cm3 
+QI. The mass of 1 mole of copper is 63.54g and its density 8920 kg m-3• 
+(a) What is the volume of one mole of copper? 
+(b) How many atoms does one mole of copper contain? 
+(c) How much volume does one atom of copper occupy? 
+Q2. If the density of aluminum is 2700 kg m-3 and the volume of 1 mole is 10cm3, 
+what is the mass of one mole of aluminum? 
+
+=== PAGE 185 ===
+Nature of Science 
+Experiments in the physics lab are sometimes designed to reinforce theory. 
+However, real science is not always like that. Theories are of ten developed as a 
+result of observation and experiment. Given that gases are made of randomly-
+moving tiny particles, it is not difficult to explain their properties. Deducing 
+that gases are made of particles from the properties of the gas is a much more 
+difficult proposition that will fortunately never have to be done again. 
+The gas laws are examples of how we investigate the relationship between two 
+variables while controlling all other factors. 
+The ideal gas 
+Of the three states of matter, the gaseous state has the simplest model. This is because 
+the forces between the molecules of a gas are very small, so they are able to move 
+freely. We can therefore use information about the motion of particles in A.1, A.2 and 
+A.3 sections to study gases in more detail. 
+According to our simple model, a gas is made up of a large number of perfectly elastic, 
+tiny spheres moving in random motion. 
+This model makes some assumptions: 
+• 
+The collisions between molecules are perfectly elastic. 
+• 
+The molecules are spheres. 
+• 
+The molecules are identical. 
+• 
+There are no forces between the molecules (except when they collide). This means 
+that the molecules move with constant velocity between collisions. 
+• 
+The molecules are very small; that is, their total volume is much smaller than the 
+volume of the container. 
+Some of these assumptions are not true for all gases, especially when the gas is 
+compressed (when the molecules are so close together that they experience a force 
+between them). The gas then behaves as a liquid. However, to keep things simple, we 
+will only consider gases that behave like our model. We call these gases ideal gases. 
+Defining the state of a gas 
+To define the state of an amount of matter, we need to give enough information so that 
+another person could obtain the same material with the same properties. If we were to 
+describe a 100 g cube of copper at 300 K, we have stated how much and how hot it is, 
+and even its shape. Someone else would be able to take an identical piece of copper and 
+it would behave in the same way as ours. If, on the other hand, we were to take 100g 
+of helium gas, then we would also need to define its volume since density can vary 
+depending on the container, and different volumes cause the pressure exerted by the 
+gas on its sides to vary. 
+Volume 
+The volume of a gas is simply the volume of the container. If we want to vary the 
+volume, we can place the gas in a cylinder with a movable end (a piston) as in Figure 6. 
+a- b ~ 
+--el 
+b? b CY 
+... 
+B.3 Figure 5 Molecules of 
+gas in random motion. 
+0 
+0 
+0 0 0 
+0 
+0 0 
+0 0 
+0 
+0 
+... 
+B.3 Figure 6 Gas 
+molecules trapped in an 
+adj ustable container. 
+139 
+
+=== PAGE 186 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+8.3 Figure 7 Kinetic energy 
+is related to tempera tu re. 
+How does a 
+consideration of the 
+kinetic energy of 
+molecules relate to the 
+develo pment of the gas 
+laws? (A.3) 
+8.3 Figure 8 Same 
+temperature, different gases. 
+140 
+Temperature 
+Since gas molecules have no forces between them (except when colliding), no work 
+is done when they move around, which means that there is no energy associated 
+with their position. In other words, the molecules have no potential energy. The 
+temperature of a gas in kelvin is therefore directly proportional to the average kinetic 
+energy of a molecule. 
+3 
+Ek. mean = 2 kT 
+where k is the Boltzmann constant, 1.38 x 10-23} K-1• 
+If there are N molecules then the total kinetic energy of the gas = N x Ek, m ean = {NkT 
+A more convenient expression (because we are more often presented with the total 
+number of moles than the number of molecules) is Ek, total = {nRT where R is the molar 
+gas constant and n is the number of moles. Higher kinetic energy implies higher 
+velocity so the molecules of a gas at high temperature will have a higher average 
+velocity than molecules of the same gas at a low temperature, as shown in Figure 7. 
+0,. 0 f-'().P.~ 
+7 
+b~c!?-ob 
+I 
+~ 
+I 
+J 
+~}! 
+7 
+I 
+~ 
+J 
+low temperature, small average ki11e1ic energy 
+high temperature, large average kinetic energy 
+Let us compare two gases, A and B, with molecules of different mass at the same 
+temperature. Applying Ek, total = ½nRT, we can deduce that if temperature is the same, 
+then the average kinetic energy of the molecules will be the same. But Ek = ½ mv2 so: 
+1 
+2 _ l 
+2 
+2 mAvA - 2 msvs 
+mA vs2 
+ms = vA2 
+This means that if A has lighter molecules, the molecules in gas A must have higher 
+velocity, as represented by the red balls in Figure 8. 
+temperature = T 
+temperature = T 
+~}! 
+7 
+I 
+I 
+J 
+Q O ~p_f-() 
+7 
+b~op~0 
+I 
+-
+J 
+low mass molecules, high velocity 
+high mass molecules, low velocity 
+I 
+I 
+
+=== PAGE 187 ===
+Pressure 
+Pressure at a surface is defined as the force per unit area, where the force acts 
+perpendicular to the surface: 
+p = £. 
+A 
+Pressure is measured in pascals (Pa), where I Pa is equivalent to IN m-2. 
+When gas molecules collide with the sides of the container, their momentum changes. 
+This is because they have experienced an unbalanced force from the wall. According 
+to Newton's third law, the wall must experience an equal and opposite force so will 
+be pushed out by the gas. This is why the piston must be held in place by the man 
+in Figure 9. The collective force from all collisions between particles and the walls is 
+responsible for the pressure a gas exerts on its container. 
+To understand how the pressure is related to the motion of the molecules, we can 
+consider the simplified version shown in Figure 10 where one molecule is bouncing 
+rapidly between the piston and the far wall of the cylinder. 
+m 
+7 
+0 
+V 
+► 
+I 
+I 
+J 
+- ---- L 
+When the molecule hits the piston, it bounces off elastically. The magnitude of change 
+in momentum is therefore 2mv. The force exerted on the piston is equal to the rate of 
+change of momentum, which in this case is the change in momentum x rate of hitting 
+the wall. The rate at which the molecule hits the wall depends on how long it takes for 
+the molecule to travel to the other end of the cylinder and back: 
+2L 
+time for molecule to travel to other end and back = -
+V 
+l 
+V 
+number of hits per unit time = (lvL) = lL 
+v 
+mv1 
+force on wall = rate of change of momentum = 2mv x lL = T 
+mv2 
+Since pressure is force per unit area, Ppiston = Al , where A is the surface area of the piston. 
+Because density is mass per unit volume, Ppiston = pv2, this allows us to scale up this 
+derivation to containers with more than one molecule. So far, we have only considered 
+the forces acting on the piston. To relate the overall pressure across the entire container 
+to the average speed of the molecules, we must account for three dimensions and not 
+just one: 
+B.3 Figure 9 Gas pushes 
+the piston to the right, so 
+something must push it to 
+the left. 
+B.3 Figure 10 One 
+molecule of gas 
+141 
+
+=== PAGE 188 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+How can gas particles 
+with high kinetic energy 
+be used to perform 
+work? (A.3) 
+When you make 
+changes to the state 
+of a gas, all three 
+quantities will change 
+unless one is kept 
+constant. This is a rather 
+artificial condition but 
+makes modeling the gas 
+easier. 
+Keeping the 
+temperature constant is 
+quite difficult because 
+when you push in the 
+piston, you do work 
+on the gas, increasing 
+the kinetic energy of 
+the molecules and 
+hence increasing the 
+temperature. If the 
+compression is slow, 
+then the temperature 
+will have time to return 
+to the tern perature of 
+the surroundings. 
+B.3 Figure 12 Reducing 
+the volume increases the 
+pressure. 
+A worksheet with ful I 
+details of how to carry 
+out this experiment is 
+available in the eBook. 
+142 
+• 
+So the pressure is directly related to the square of the average speed of the particles and 
+therefore the temperature of the gas. 
+The force exerted by the gas on the 
+piston would cause the piston to 
+move outward unless there was a 
+force opposing it. In the lab, this 
+force is normally provided by the 
+air on the outside, which is also 
+made of molecules in random 
+motion as shown in Figure 11. 
+B.3 Figure 11 Piston pushed by trapped gas on one 
+side and air on the other. 
+Relationships between P, V, Tand n 
+When dealing with relationships, we generally are concerned with two quantities, e.g. 
+distance and time, force and area, mass and volume. Here we have four variables, each 
+depending on each other. To make life easier, we can keep two constant and look at the 
+relationships between pressure and volume, pressure and temperature, and volume and 
+temperature. This will give three different relationships that are known as the gas laws. 
+The Boyle-Mariotte law (constant temperature and 
+number of moles) 
+The Boyle-Mariotte law states that the pressure of a fixed mass of gas at constant temperature is 
+inverse!,- proportional to its volume. 
+1 
+P0< V 
+As the volume of a gas is reduced, the gas will become more dense, because the 
+molecules are pushed together. The molecules will therefore hit the walls more often, 
+increasing the rate of change of momentum (while the area of the walls decreases) and 
+hence the pressure as shown in Figure 12. 
+The easiest way to test the relationship between pressure and volume is to compress a gas in a 
+syringe that is connected via some rubber tubing to a pressure sensor as in Figure 13. The range 
+of pressure will be limited to how much force you can apply but should be enough to show the 
+relationship. 
+ga..~ syringe 
+.... 
+-
+B.3 Figure 13 Apparatus to measure P and V 
+Boyle-Mariotte law apparatus. ► 
+
+=== PAGE 189 ===
+Graphical representation of the Boyle-Mariotte law 
+Since the pressure of a fixed mass of gas at constant temperature is inversely 
+proportional to its volume, a graph of pressure against volume will be a curve as 
+shown in Figure 14. 
+If the experiment was now repeated 
+P 
+with the same amount of gas at different 
+temperatures, the set of blue lines 
+shown in Figure 15 would be achieved. 
+Each line is called an isotherm. The 
+effect of increasing the temperature of 
+a fixed volume of gas is to increase the 
+pressure so we can see that the curves 
+further away from the origin are for 
+higher temperatures. The orange lines 
+on the graph represent the following gas 
+transformations: 
+IJ 
+constant temperature (isothermal) 
+JK constant pressure (isobaric) 
+KL constant volume (isovolumetric) 
+We can describe each isotherm (at a constant number of moles) with the equation: 
+V 
+P1V1 = P2V2• This is a simple rewriting of the inverse proportion relationship above, but 
+can be a more direct way to solve problems with just these two variables. 
+Gay-Lussac's law (constant volume and number 
+of moles) 
+Gay-Lussac's law states that the pressure of a fixed mass of gas with constant volume is directly 
+proportional to its temperature in kelvin. 
+p oc. T 
+As the temperature of a gas is increased, the average kinetic energy of the molecules 
+increases. The change in momentum as the molecules hit the walls is therefore greater 
+and they hit the walls more often as shown in Figure 16. According to Newton's 
+second law, the force exerted = rate of change of momentum, so the force on the walls 
+increases and hence the pressure increases. 
+0,. 0 ~.P.~ 
+7 
+b~O? .-ob 
+I 
+.I 
+J 
+11~11 
+f>-----------' 
+increased temperature 
+➔ increased kinetic energy 
+-> 
+increased pressure 
+p 
+0 4------====:.-
+o 
+V 
+... 
+B.3 Figure 14 Graph of P 
+vs VA straight line through 
+the origin would be seen 
+if, instead, P was plotted 
+. 
+1 
+against i7 
+B.3 Figure 15 P vs V for 
+different T. 
+W hen a gas is 
+compressed, work is 
+done on it. Work done 
+= force x distance, 
+which is the area 
+under the P-V graph. 
+This makes this graph 
+particularly useful 
+when investigating the 
+energy changes that a 
+gas undergoes when 
+transformed. 
+B.3 Figure 16 Pressure 
+increases with temperature. 
+143 
+
+=== PAGE 190 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+... 
+B.3 Figure 18 Graph of 
+p vs T. 
+144 
+--
+... 
+Gay-Lussac's law apparatus. 
+Lherrnometer 
+pressure gauge 
+water 
+gas 
+... 
+B.3 Figure 17 Apparatus to measure P and T. 
+A pressure sensor can be used in an experiment to show the relationship between pressure 
+and temperature. A flask of fixed volume is placed in a water bath as shown in Figure 17. A 
+temperature sensor measures the temperature of the gas while a pressure sensor measures its 
+pressure The temperature of the gas is changed by heating the water, and the pressure and 
+temperature are recorded simultaneously. 
+Graphical representation of Gay-Lussac's law 
+Since pressure is proportional to temperature, a graph of pressure vs temperature for a 
+fixed mass of gas at constant volume will be a straight line as shown in Figure 18. 
+... 
+B.3 Figure 19 P vs T for different V 
+If the experiment was repeated with 
+different volumes of the same amount 
+of gas, then the set of lines shown in 
+Figure 19 would be achieved, each 
+line representing a different volume. 
+Increasing the volume at constant 
+temperature (line CD) will make the 
+pressure lower so the less steep lines are 
+for larger volumes. The orange lines on 
+the graph represent the following gas 
+transformations: 
+AB 
+constant volume (isovolumetric) 
+BC 
+constant pressure (isobaric) 
+CD 
+constant temperature (isothermal). 
+We can describe each isovolume (at a constant number of moles) with the equation: 
+P1T2 = P2T1• This is equivalent to the proportional relationship above. 
+Charles' law (constant pressure) 
+Charles' law states that the volume of a fixed mass of gas at a constant pressure is directly 
+proportional to its temperature in kelvin. 
+VcxT 
+
+=== PAGE 191 ===
+As the temperature of a gas is increased, the molecules move faster, causing an increase 
+in pressure. However, if the volume is increased in proportion to the increase in 
+temperature, the pressure will remain the same. This is shown in Figure 20. 
+increa~ed temperature 
+--> 
+increased kinetic energy 
+--> 
+increa~ed pressure 
+--> 
+increased volume reduces pressure to original 
+To test the relationship between volume and 
+thermometer 
+temperature, you need a narrow tube with 
+the top end open and a small amount of 
+ruler 
+liquid that traps a sample of dry air, as 
+shown in Figure 21. Traditionally, 
+concentrated sulfuric acid was used to trap 
+the air because it absorbs water. However, 
+th is might be against the safety regulations 
+in your country. If so, oil will do the job but 
+liquid to 
+might not give such good results. The 
+trap air 
+temperature of the sample of air is changed 
+by placing it in a water bath which is heated. 
+The temperature of the gas is then assumed 
+to be the same as the tern perature of the 
+water 
+water, which is measured using a 
+thermometer. If we assume the tube has a 
+uniform cross-section then, as the 
+temperature is changed, the volume is 
+measured by measuring the length of the 
+cylinder of gas. At the start of the 
+air 
+experiment, the pressure of the gas = the 
+heat---
+pressure of the surrounding air. As the 
+temperature increases. the pressure also increases, pushing the bead up the tube increasing 
+the volume, causing the pressure to reduce until it is again equal to the pressure of the 
+surrounding air. We therefore assume the gas pressure is constant. 
+Graphical representation of Charles' law 
+Since volume is proportional to temperature, a graph of volume vs temperature for a 
+fixed mass of gas at constant pressure will be a straight line as shown in Figure 22. 
+T 
+... 
+B.3 Figure 20 Constant 
+pressure expansion. 
+The liquid will add a 
+little bit to the pressure 
+B.3 Figure 21 Apparatus to 
+measure T and (indirectly) V. 
+How does the concept 
+of force and momentum 
+link mechanics and 
+thermodynamics? (A.2) 
+B.3 Figure 22 Graph of 
+Vvs T 
+145 
+
+=== PAGE 192 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+8.3 Figure 24 P. V and Tin 
+three dimensions. 
+146 
+If the experiment was repeated with the 
+gas at different constant pressures, then 
+the set oflines shown in Figure 23 would 
+be achieved, each line representing a 
+different pressure. Reducing the volume 
+at a constant temperature (line GH) will 
+result in a higher pressure so the less 
+steep lines have higher pressure. The 
+orange lines on the graph represent the 
+following gas transformations: 
+EF 
+constant pressure (isobaric) 
+FG 
+constant volume (isovolumetric) 
+GH 
+constant temperature (isothermal). .. 
+8.3 Figure 23 V vs T for different P. 
+We can describe each isobar (at a constant number of moles) with the equation: 
+V1T2 = V2T1• 
+The ideal gas equation 
+The relationship between pressure, volume and temperature can be expressed in one 
+equation: 
+PV = nRT 
+where n = the number of moles of gas and R = the molar gas constant (8.31 J mo1-1 K-1) . 
+This can also be written as PV = Nk8T where N is the number of molecules and k8 is the 
+Boltzmann constant. These equations are used to determine one of the four variables 
+from the other three at a given instant. 
+When working with a changing container of gas ('before and after'), we can say that 
+P1V1T2n2 = P2V2T1n1 (and simply cancel any quantities that remain constant). 
+Graphical representation of the ideal gas equation 
+This relationship can be represented on a graph with three axes as in Figure 24. The 
+shaded area represents all the possible states of a fixed mass of gas. No matter what you 
+do to the gas, its P, V, and Twill always be on this surface for a given number of moles. 
+This is quite difficult to draw so the two-dimensional views shown before are used 
+instead. 
+p 
+V 
+
+=== PAGE 193 ===
+Worked example 
+The pressure of a gas inside a cylinder is 300 kPa. If the gas is compressed to half its 
+original volume and the temperature rises from 27 •c to 327 •c, what will its new 
+pressure be? 
+Solution 
+Using the ideal gas equation: 
+PV = nRT 
+PV 
+Rearranging: 
+T = constant 
+PV 
+PV 
+So: 
+Tat the beginning =rat the end 
+Equating: 
+Exercise 
+PV 
+300000 x V 
+Tat the beginning = 
+300 
+V 
+PV 
+Px 2 
+Tat the end = 600 
+V 
+V 
+Px2 
+300 000 X 300 = 600 
+2 
+P= 300000 x 600 x -300 
+P= 1200kPa 
+Q3. The pressure of 10 m 3 of gas in a sealed container at 300 K is 250 kPa. If the 
+temperature of the gas is changed to 350K, what will the pressure be? 
+Q4. A container of volume 2 m 3 contains 5 moles of gas. If the temperature of the 
+gas is 293K: 
+(a) what is the pressure exerted by the gas? 
+(b) what is the new pressure if half the gas leaks out? 
+Q5. A piston contains 250cm3 of gas at 300 Kand a pressure of 150 kPa. The gas 
+expands, causing the pressure to go down to l OOkPa and the temperature 
+drops to 250 K. What is the new volume? 
+Q6. A sample of gas trapped in a piston is heated and compressed at the same 
+time. This results in a doubling of temperature and a halving of the volume. If 
+the initial pressure was 100 kPa, what will the final pressure be? 
+Challenge yourself 
+1. Two identical flasks, each full of air, are connected by a thin tube on a day when 
+the temperature is 300 Kand the atmospheric pressure 100 kPa. One of the 
+flasks is then heated to 400 K while the other one is kept at 300 K. What is the 
+new pressure in the flasks? 
+Temperatures must 
+be changed to kelvin 
+because we are 
+working with absolute 
+values rather than 
+changes. 
+147 
+
+=== PAGE 194 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+U = {nRT is only true 
+for monatomic gases 
+such as helium, neon 
+and argon 
+148 
+Internal energy of a gas (U) 
+We think of an ideal gas as being made of a large number of perfectly elastic spheres 
+moving in random motion. When the molecules collide, momentum and energy are 
+conserved, but between collisions, there is no force acting between them. This means 
+that no work needs to be done to change the position of a molecule. The molecules 
+therefore have no potential energy. The total kinetic energy of all the molecules is 
+called the internal energy of the gas. 
+Challenge yourself 
+2. Try to derive these relationships between kinetic energy and temperature by 
+combining the pressure-velocity relationship and ideal gas law described 
+previously in this chapter. 
+We know that the average kinetic energy of the molecules of a gas is proportional to 
+the temperature in kelvin. 
+3 
+Ek, mean of a molecule = 2kT 
+where k = Boltzmann's constant= 1.38 x 10-23 J K-1. 
+A mole of gas contains NA (Avogadro's constant) molecules so the Ek, ,oral = fNAkT. 
+NAk is also a constant, the universal gas constant= 8.31 J moJ-1 K-1• 
+So, the total kinetic energy of one mole of gas "'f RT. 
+Since the internal energy of a gas is the total kinetic energy, then for n moles we can say: 
+internal energy, U = fnRT 
+When heat is transferred to a fixed volume of gas, it will increase the internal energy and 
+hence the temperature of the gas. If no heat is lost, we can say that: 
+Q = .6.U 
+Worked example 
+500 J of thermal energy are transferred to 2g of helium gas kept at constant volume 
+in a cylinder. Calculate the temperature rise of the gas. 
+Solution 
+The molar mass of helium is. 4 g son= 0.5. 
+increase in internal energy = fnR.6. T = thermal energy added = 500 J 
+2 X 500 
+.6.T= 3 x 0.5 x 8.31 = SOK 
+Exercise 
+Q7. Calculate the internal energy of 100 g of argon (nucleon number 40) at 300 K. 
+Q8. Calculate the average kinetic energy of atoms of helium at 400 K. 
+
+=== PAGE 195 ===
+Real gases 
+The assumptions we made when developing the model for an ideal gas do not fully 
+apply to real gases except when the pressure is low and the temperature high. At high 
+pressures and densities, the molecules can be close together so the assumption that 
+the volume of the molecules is negligible does not apply, nor does the assumption 
+about there being no forces between the molecules. \Vhat can also happen at low 
+temperatures is the gas can change into a liquid which, for obvious reasons, does 
+not behave like a gas. However, although no gas behaves exactly as an ideal gas, air at 
+normal room temperature and pressure comes pretty close, as experiments show. 
+Guiding Questions revisited 
+How are the macroscopic characteristics of a gas related to the behavior of 
+individual molecules? 
+\Vhat assumptions and observations lead to universal gas laws? 
+How can models be used to help explain observed phenomena? 
+In this chapter, we have combined the macroscopic properties of a gas in a container 
+with a microscopic understanding of kinetic theory to explain that: 
+• Pressure (the force per unit area at a surface) is increased when the average 
+speed of particles increases and/or the total container surface area decreases. 
+• Real gases at low pressures and densities and high temperatures can be modeled 
+as ideal gases, for which certain assumptions in kinetic theory apply. 
+• The Boyle-Mariotte law states that pressure and volume are inversely 
+proportional for a constant temperature and number of moles of gas. 
+What other simplified 
+models are relied 
+upon to communicate 
+the understanding of 
+complex phenomena? 
+(NOS) 
+Nitrogen becomes a liquid at 
+low temperatures. 
+149 
+
+=== PAGE 196 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+150 
+• Gay-Lussac's law states that pressure and absolute temperature are proportional 
+for a constant volume and number of moles of gas. 
+• Charles' law states that volume and absolute temperature are proportional for a 
+constant pressure and number of moles of gas. 
+• The ideal gas law is comprised of three empirical relationships and relates 
+pressure, volume, absolute temperature and number of moles. 
+• The internal energy of an ideal gas is related to the kinetic energy, but not to the 
+potential energy, of particles in a gas and therefore to the temperature of the gas. 
+Practice questions 
+1. A hot air balloon works. because the density of hot air is less than the 
+surrounding cold air. 
+(a) The volume of a hot air baIJoon is 2500 m3 and its mass is 250 kg 
+(without passengers). The temperature of the air in the balloon is 100 °C. 
+Density of air at 20 °C = 1.21 kg m-3 
+Average relative molecular mass of air = 29 g moJ-1 
+(i) Calculate the volume of 1 kg of at 20 °C. 
+(2) 
+(ii) Calculate the volume of 1 kg of air at 100 °C and hence show that 
+the density of air at 100 °C is 0.95 kg m-3. 
+(3) 
+(iii) Calculate the mass of hot air in the balloon. 
+(1) 
+(iv) Calculate the mass of cold air displaced by the balloon. 
+(1) 
+(v) Determine whether the balloon will leave the ground or not. 
+(2) 
+(b) (i) Calculate the average velocity of air molecules in the balloon 
+(assume the molecules behave as spheres). 
+(2) 
+(ii) Calculate the number of moles in the balloon. 
+(2) 
+(iii) Calculate the internal energy contained by the hot gas. 
+(2) 
+(rota! 15 marks) 
+2. (a) The atoms or molecules of an ideal gas are assumed to be identical 
+hard elastic spheres that have negligible volume compared with the 
+volume of the containing vessel. 
+(i) State two further assumptions of the kinetic theory of an ideal gas. (2) 
+(ii) Suggest why only the average kinetic energy of the molecules of 
+an ideal gas is related to the internal energy of the gas. 
+(3) 
+cyHndff=t 
+ideal gas 
+(b) An ideal gas is contained in a cylinder by means of a frictionless piston. 
+At temperature 290 Kand pressure 4.8 x 105 Pa, the gas has volume 
+9.2 X 10-4 1113_ 
+(i) Calculate the number of moles of the gas. 
+(2) 
+
+=== PAGE 197 ===
+(ii) The gas is compressed isothermally to a volume of2.3 x 10-4 1113. 
+Determine the pressure P of the gas. 
+(2) 
+(iii) The gas is now heated at constant volume to a temperature of 420 
+K. Show that the pressure of the gas is now 2.8 x 106 Pa. 
+(1) 
+(c) Sketch a pressure-volume (P-V) diagram for the changes in (b)(ii) and 
+(b)(iii). 
+(3) 
+(Total 13 marks) 
+3. The equipment shown in the diagram was used by a student to investigate 
+the variation with volume, of the pressure p of air, at constant temperature. 
+The air was trapped in a tube of constant cross-sectional area above a 
+column of oil. The pump forces oil to move up the tube, decreasing the 
+volume of the trapped air. 
+air 
+H 
+oil 
+scale 
+pressure 
+gauge 
+valve 
+'-=~==: ::i:::l:=-► to air pump 
+(a) The student measured the height Hof the air column and the 
+corresponding air pressure p. After each reduction in the volume, the 
+student waited for some time before measuring the pressure. Outline 
+why this was necessary. 
+(1) 
+(b) The following graph of p versus jj was obtained. Error bars were 
+negligibly small. Error bars were negligibly small. The equation of 
+the line of best fit is p = a + ~- Determine the value of b including an 
+appropriate unit. 
+(3) 
+~ 4 
+0 
+... 3 
+;:;:; 
+2 
+0 -t----,----,----,----,----r---, 
+0 
+2 
+3 
+4 
+(c) Outline how the results of this experiment are consistent with the ideal 
+gas law at constant temperature. 
+(2) 
+151 
+
+=== PAGE 198 ===
+THE PARTICULATE NATURE OF MATTER B.3 
+Gas laws 
+152 
+(d) The cross-sectional area of the tube is 1.3 x 10-3 m2 and the 
+temperature of air is 300 K. Estimate the number of moles of air in the 
+rub~ 
+~) 
+(e) The equation in (b) may be used to predict the pressure of the air at 
+extremely large values of 17. Suggest why this will be an unreliable 
+estimate of the pressure. 
+(2) 
+(rota! 10 marks) 
+4. Which aspect of thermal physics is best explained by the molecular kinetic 
+model? 
+A 
+The equation of state of ideal gases 
+B 
+The difference between Celsius and kelvin temperature 
+C 
+The value of the Avogadro constant 
+D 
+The existence of gaseous isotopes 
+(rota! 1 mark) 
+5. A quantity of 2.00 mol of an ideal gas is maintained at a temperature of 
+127 °Cina container of volume 0.083 m 3• What is the pressure of the gas? 
+A 
+8kPa 
+B 
+25kPa 
+C 
+40kPa 
+D 
+80kPa 
+(rota! 1 mark) 
+6. Two ideal gases, X and Y, are at the same temperature. The mass of a 
+particle of gas X is larger than the mass of a particle of gas Y. Which is 
+correct about the average kinetic energy and the average speed of the 
+particles in gases X and Y? 
+A 
+larger for Y 
+larger for Y 
+B 
+same 
+larger for Y 
+C 
+same 
+same 
+D 
+larger for Y 
+same 
+(rota! 1 mark) 
+7. A substance in the gas state has a density about 1000 times less than when 
+it is in the liquid state. The diameter of a molecule is d. Which is the best 
+estimate of the average distance between molecules in the gas state? 
+A 
+d 
+B 
+10d 
+C 
+100d 
+D 
+1000d 
+(rota! 1 mark) 
+8. 
+An ideal gas and a solid of the same substance are at the same temperature. 
+The average kinetic energy of the gas molecules is Es and the average 
+kinetic energy of the solid molecules is E, What is the comparison between 
+E and E? 
+g 
+s 
+A 
+E is less than E 
+g 
+!i 
+B 
+E equals£ 
+g 
+s 
+
+=== PAGE 199 ===
+C 
+Eg is greater than E, 
+D 
+The relationship between Eg and E, cannot be determined 
+(Total 1 mark) 
+9. Two flasks, P and Q, contain an ideal gas and are connected with a tube 
+of negligible volume compared to that of the flasks . The volume of Pis 
+twice the volume of Q. Pis held at a temperature of 200 Kand Q is held at a 
+f 
+h . 
+. 
+f mass of )?as in P 
+temperature o 400 K. W at 1s ratio o 
+f 
+. Q? 
+masso gasm 
+l 
+A 
+8 
+B 
+p 
+l 
+4 
+C 
+4 
+D 
+8 
+(Total 1 mark) 
+10. Q and Rare two rigid containers of volumes 3V and V respectively, 
+containing molecules of the same ideal gas initially at the same 
+temperature. The gas pressures in Q and Rare p and 3p respectively. The 
+containers are connected through a valve of negligible volume that is 
+initially closed. The valve is opened in such a way that the temperature of 
+the gases does not change. What is the change of pressure in Q? 
+Q 
+R 
+II 
+3V 
+~ 
+V 
+II 
+valve 
+A 
++p 
+B 
++p 
+C 
+- p 
+D 
+- p 
+2 
+2 
+(Total 1 mark) 
+11. (a) A closed box of fixed volume 0.15 m 3 contains 3.0mol of an ideal 
+monatomic gas. The temperature of the gas is 290 K. Calculate the 
+pressure of the gas. 
+(1) 
+(b) When the gas is supplied with 0.86 kJ of energy, its temperature 
+increases by 23 K. The specific heat capacity of the gas is 3.1 kJ kg-• K-1• 
+Calculate, in kg, the mass of the gas. 
+(1) 
+(c) Calculate the average kinetic energy of the particles of the gas. 
+(1) 
+(d) Explain, with reference to the kinetic model of an ideal gas, how an 
+increase in temperature of the gas leads to an increase in pressure. 
+(3) 
+(Total 6 marks) 
+153 

@@ -1,0 +1,501 @@
+=== PAGE 304 ===
+Doppler effect 
+
+=== PAGE 305 ===
+◄ 
+The Hubble Deep Field is an image of a small section of the night sky captured by the Hubble Space 
+Telescope over 100 hours in 1995. Most of the bright objects cap tu red are galaxies (some of them are 
+among the most distant ever known) and the light from many of these galaxies is red-shifted. A red 
+shift of electromagnetic radiation is an increase in the wavelength of the light and is evidence for the 
+expansion of the Universe. For sound waves, we refer to this change in the observed wavelength as the 
+Doppler effect. 
+Guiding Questions 
+How can the Doppler effect be explained qualitatively and quantitatively? 
+What are some practical applications of the Doppler effect? 
+Why are there differences when applying the Doppler effect to different types 
+of wave? 
+The Doppler effect is the change in frequency of a wave due to the relative motion of 
+source and observer. It can be observed in both light and sound but the reason for the 
+shift is quite different. 
+When sound is involved, there is a reference frame that we can measure the velocity of 
+sound relative to - the air. If the source or observer are not moving relative to the air, 
+then they are not moving. 
+Light does not need a medium so there is no difference between moving source or 
+observer. The shift in frequency is due to relativistic effects rather than a change in 
+wave velocity. For light, it makes no difference if you take the source or the observer to 
+be the one that is moving; it is their velocity relative to each other that is important. 
+Students should understand: 
+the nature of the Doppler effect for sound waves and electromagnetic waves 
+the representation of the Doppler effect in terms of wavefront diagrams when either the 
+source or the observer is moving 
+the relative change in frequency or wavelength observed for a light wave due to the Doppler 
+effect where the speed oflight is much larger than the relative speed between the source and 
+. 
+8f 
+~A 
+v 
+the observer as given by 7 = 2 :::: c 
+shifts in spectral lines provide information about the motion of bodies like stars and galaxies 
+in space. 
+WAVE BEHAVIOR C .5 
+• • 
+What are the similarities 
+and differences between 
+light and sound waves 
+(C.2)? 
+259 
+
+=== PAGE 306 ===
+WAVE BEHAVIOR C.5 
+C.5 Figure 1 The car starts 
+► 
+from the red spot and moves 
+forward. The largest circle is 
+the wavefront formed when 
+the car began. 
+In this course, we often 
+explain phenomena 
+that you have observed 
+such as the change 
+in frequency as an 
+ambulance drives past. 
+What if you have never 
+observed such a thing? 
+C.5 Figure 2 The 
+wavelength of the sound is 
+constant because the source 
+is stationary. 
+If the source moves at 
+the speed of sound. the 
+sound in front bunches 
+up to form a shock 
+wave. This causes the 
+bang (sonic boom) 
+you hear when a plane 
+breaks the sound barrier. 
+260 
+Doppler effect 
+The Doppler effect 
+If you have ever stood next to a busy road, or even better a race track, you might 
+have noticed that the cars sound different when they come toward you and when 
+they go away. It is difficult to put this into words but the sound is something like this: 
+'eeeeeeeeeeeoowwwwwwww'. The sound on approach is a higher frequency than 
+on retreat. This effect is called the Doppler effect and can occur when the source of 
+the sound is moving or when the observer is moving, or when both the source and 
+observer are moving. 
+C 
+C 
+2 
+Moving source 
+The change in frequency caused when a source moves is due to the change in 
+wavelength in front of and behind the source. This is illustrated in Figure 1. You can 
+see that the waves ahead of the source have been squashed as the source 'catches up' 
+with them. The velocity of sound is not affected by the movement of the source, so the 
+reduction in wavelength results in an increased frequency (since v = j}..). 
+Moving observer 
+If the observer moves relative to a stationary source, the change in frequency observed 
+is due to the fact that the velocity of the sound changes relative to the observer. This 
+is because the velocity of sound is relative to the air, so if you travel through the air 
+toward a sound, the velocity of the sound will increase. Figure 2 illustrates the effect on 
+frequency of a moving observer. 
+V 
+C 
+C 
+V 
+~ 
+~ 
+NH8~ 
+car I 
+car2 
+
+=== PAGE 307 ===
+The Doppler effect and electromagnetic radiation 
+The Doppler effect also applies to electromagnetic radiation (radio waves, microwaves 
+and light). The derivation of the formula is rather more complicated since the velocity 
+oflight is not changed by the relative movement of the observer. However, if the 
+relative velocities are much smaller than the speed of light, we can use the following 
+approximation: 
+Where: 
+Red shift 
+V 
+N= -fo 
+C 
+t-.f = the change in frequency 
+v = the relative speed of the source and observer 
+c = the speed of light in a vacuum 
+Jo= the original frequency. 
+If a source of light is moving away from an observer, the light received by the observer 
+will have a longer wavelength than when it was emitted. If we look at the spectrum as 
+shown in Figure 3, we see that the red end of the spectrum is long wavelength and the 
+blue end is short wavelength. The change in wavelength will therefore cause the light 
+to shift toward the red end of the spectrum - this is called red shift. This effect is very 
+useful to astronomers as they can use it to calculate how fast stars are moving away 
+from us. This is made possible by the fact that the spectrum oflight from stars contains 
+characteristic absorption lines from elements such as hydrogen. The wavelength of these 
+lines is known so their shifted position in the spectrum can be used to calculate velocity. 
+Short wavelength 
+Long wavelength 
+Full visible light spectrum 
+Hydrogen spectrum 
+Hydrogen spectrum from a receding star (red-shifted) 
+The rate at which 
+blood flows can be 
+found by measuring 
+the Doppler shift of 
+ultrasound waves 
+reflected off blood 
+cells. In this case, the 
+blood cell is moving 
+relative to the source, 
+and when it reflects 
+the wave, the reflected 
+wave is moving relative 
+to the receiver. This 
+causes a double shift in 
+frequency. 
+How can the use of the 
+Doppler effect for light 
+be used to calculate 
+speed? (NOS) 
+Unlike the Doppler 
+effect for sound, it does 
+not matter whether it is 
+the source or observer 
+that moves. 
+C.5 Figure 3 Comparing 
+the spectrum of hydrogen 
+from a stationary source and 
+a star. 
+261 
+
+=== PAGE 308 ===
+WAVE BEHAVIOR C.5 
+Speed cameras use the 
+Doppler effect. 
+262 
+► 
+Doppler effect 
+Example: Radars 
+Police speed traps use the Doppler effect to measure the speed of passing cars. When 
+they aim the device at the car, a beam of electromagnetic radiation (radio waves, 
+microwaves or infrared) is reflected off the car. The reflected beam undergoes a double 
+Doppler shift. First the car is approaching the beam so there will be a shift due to the 
+moving observer, and second the reflected beam is emitted from the moving source. 
+When the device receives the higher frequency reflected beam, the speed of the car can 
+be calculated from the change in frequency. 
+Worked example 
+A speed trap uses a beam with a wavelength 1.0cm. What is the change in 
+frequency received by the detector if the beam reflects off a car traveling at 
+150kmh-1? 
+Solution 
+First convert the car's speed tom s- 1: 
+150kmh-1 = 42ms-1 
+C 
+3.00 X 108 
+frequency of the 1.0cm wave=;.= 1.0 x 10_2 = 3.0 x lQIOHz 
+Change inf of signal received by car is given by: 
+V 
+t..f= -Jo 
+42 
+3_00 x 108 x 3.0 x 10w = 4.2 x 103 Hz 
+This shift is then doubled since the car, now the source of the reflected wave, is 
+traveling toward the detector, so the change in frequency= 8.4 x 103 Hz. 
+Exercise 
+QI. A star emits light of wavelength 650 nm. If the light received at the Earth 
+from this star has a wavelength of 690 nm, how fast is the star moving away 
+from the Earth? 
+Q2. An atom of hydrogen traveling toward the Earth at 2 x 106ms-1 emits light 
+of wavelength 658 nm. What is the change in wavelength experienced by an 
+observer on the Earth? 
+
+=== PAGE 309 ===
+The expanding Universe 
+In the early 1920s, Albert Einstein developed his theory of general relativity, and while 
+Einstein and Friedmann were developing their theories, Vesto Slipher and Edwin 
+Hubble were taking measurements. Slipher was measuring the line spectra from 
+distant galaxies and Hubble was measuring how far away they were. Slipher discovered 
+that the spectral lines from all the galaxies were shifted toward the red end of the 
+spectrum. If this was due to the Doppler shift, it would imply that all of the galaxies 
+were moving away from the Earth. Given the change in wavelength, Hubble then 
+calculated the velocity of the galaxies using the Doppler formula: 
+Where: 
+v = the recessional velocity 
+c = the speed oflight 
+~ ,l = the change in wavelength 
+V 
+!).),., 
+- = -
+= z 
+C 
+"'-em 
+,lem = the wavelength originally emitted from the galaxy 
+z = the fractional increase or z parameter (no units). 
+Exercise 
+Q3. A spectral line from a distant galaxy of wavelength 434.0nm is red-shifted to 
+479.8 nm. Calculate the recession speed of the galaxy. 
+Q4. The same line from a second galaxy is shifted to 481.0 nm. Calculate its 
+recession speed. Is this galaxy closer or further away? 
+Hubble's law 
+In 1929, Hubble published his 
+discovery that there appeared to be 
+a linear relationship between the 
+recessional velocity and distance to 
+the galaxy. This can be illustrated 
+by plotting the data on a graph as 
+shown in Figure 4. 
+The recessional velocity of a distant 
+galaxy is directly proportional to its 
+distance. 
+In other words, the further away a 
+galaxy is, the faster it moves away 
+from us. 
+' ti) f 
+10000 
+.s 
+~ 8000 
+6000 
+4000 
+2000 
+20 40 
+60 80 100 120 140 
+distance/Mpc 
+What gives rise to 
+emission spectra and 
+how can they be used to 
+determine astronomical 
+distances? (E.l ) 
+C.5 Figure 4 Graph of 
+recession speed of galaxies 
+against their distance from 
+the Earth. 
+263 
+
+=== PAGE 310 ===
+WAVE BEHAVIOR C.5 
+264 
+Doppler effect 
+This can be expressed in terms of the formula: 
+V (X d 
+Or: 
+v= Had 
+where Ha is the Hubble constant. This is the gradient of the line and has the value 
+72 km s- 1 Mpc1• This gives a measure of the rate of expansion of the Universe. This is 
+probably not a constant rate since the effect of gravity might slow down the rate over 
+time. Ha is the current value. 
+Exercise 
+Q5. Use Hubble's law to estimate the distance from the Earth to a galaxy with a 
+recessional velocity of 150 km s-1• 
+Q6. If a galaxy is 20 Mpc from Earth, how fast will it be receding? 
+Guiding Questions revisited 
+How can the Doppler effect be explained qualitatively and quantitatively? 
+What are some practical applications of the Doppler effect? 
+Why are there differences when applying the Doppler effect to different types 
+of wave? 
+In this chapter, we have studied the interactions between the velocity of a wave and the 
+velocities of its source and observer to appreciate how: 
+• The motion of a source of a wave causes the wavelength of the wave to decrease 
+in front and increase behind, which means that an increased frequency is 
+observed for an approaching source and a decreased frequency is observed for a 
+receding source. 
+• The same qualitative effects are observed when an observer approaches a wave 
+source (increased observed frequency) and recedes from the source (decreased 
+observed frequency), although, in this case, the emitted wavelengths are 
+constant throughout. 
+• This 'Doppler effect' is useful in medicine (to examine circulation), transport 
+(radar for speed measurements) and cosmology (motion of galaxies relative to 
+the Earth). 
+• When the wave speed is much higher than the relative speed of the source and 
+observer (e.g. light), the ratio of the change in the observed frequency to the 
+frequency at source is approximately equal to the ratio of the velocity of the 
+source to the speed of the wave. 
+
+=== PAGE 311 ===
+Practice questions 
+I. The diagram on the right shows wavefronts produced by a stationary wave 
+source S. The spacing of the wavefronts is equal to the wavelength of the 
+waves. The wavefronts travel with speed v. 
+(a) The source S now moves to the right with speed v. Copy the diagram and 
+draw four successive wavefronts to show the pattern of waves produced 
+by the moving source. 
+(3) 
+The Sun rotates about its center. The light from one edge of the Sun, as seen 
+by a stationary observer, shows a Doppler shift of 0.004 nm for light of 
+wavelength 600.000 nm. 
+(b) Assuming that the Doppler equation for sound may be used for light, 
+estimate the linear speed of a point on the surface of the Sun due to its 
+rotation. 
+(3) 
+(Total 6 marks) 
+2. 
+A source emits sound of wavelength /40 and wave speed v0• A stationary 
+observer hears the sound as the source moves away. What are the wavelength 
+of the sound and the wave speed of the sound as measured by the stationary 
+observer? 
+A 
+less than Ao 
+equal to v0 
+B 
+greater than Ao 
+equal to v0 
+C 
+less than Ao 
+less than v0 
+D 
+greater than Ao 
+less than v0 
+(Total 1 mark) 
+3. A train approaches a station and sounds a horn of constant frequency and 
+constant intensity. An observer waiting at the station detects a frequency f obs 
+and an intensity lobs· What are the changes, if any, in lobs and f obs as the train 
+slows down? 
+A 
+no change 
+decreases 
+B 
+increases 
+increases 
+C 
+no change 
+increases 
+D 
+increases 
+decreases 
+(Total 1 mark) 
+265 
+
+=== PAGE 312 ===
+WAVE BEHAVIOR C.5 
+266 
+Doppler effect 
+4. On approaching a stationary observer, a train sounds its horn and decelerates 
+at a constant rate. At time t, the train passes by the observer and continues to 
+decelerate at the same rate. Which diagram shows the variation with time of 
+the frequency of the sound measured by the observer? 
+A 
+B 
+horn's 
+horn's 
+----------- -----------· 
+----------- ------------
+frequency 
+frequency 
+time 
+time 
+C 
+D 
+horn's 
+horn's 
+- ---------- ------------
+- ---------- ------------
+frequency 
+frequency 
+time 
+time 
+(Total 1 mark) 
+5. A stationary sound source emits waves of wavelength A and speed v. The 
+source now moves away from a stationary observer. What are the wavelength 
+and speed of the sound as measured by the observer? 
+A 
+longer than J 
+equal to v 
+B 
+longer than J 
+less than v 
+C 
+shorter than ,l 
+equal to v 
+D 
+shorter than ,t 
+less than v 
+(Total 1 mark) 
+6. Two lines, X and Y, in the emission spectrum of hydrogen gas are measured by 
+an observer stationary with respect to the gas sample. The emission spectrum 
+is then measured by an observer moving away from the gas sample. What are 
+the correct shifts, X* and Y*, for spectral lines X and Y? 
+increasing wavelength 
+A 
+X*X 
+y• 
+y 
+B 
+x• 
+X 
+Y*Y 
+
+=== PAGE 313 ===
+C 
+XX* 
+y 
+y• 
+D 
+X 
+X* 
+yy• 
+(Total 1 mark) 
+7. Police use radar to detect speeding cars. A police officer stands at the side of 
+the road and points a radar device at an approaching car. The device emits 
+microwaves that reflect off the car and return to the device. A change in 
+frequency between the emitted and received microwaves is measured at the 
+radar device. 
+The frequency change t::..f is given by: 
+2fv 
+t::..f=c" 
+where f is the transmitter frequency, vis the speed of the car and c is the 
+wave speed. 
+The following data are available: 
+Transmitter frequency,f = 40 GHz 
+t::..f = 9.5 kHz 
+Maximum speed allowed = 28 m s- 1 
+(a) Explain the reason for the frequency change. 
+(2) 
+(b) Suggest why there is a factor of 2 in the frequency change equation. 
+(2) 
+(c) Determine whether the speed of the car is below the maximum speed 
+allowed. 
+(2) 
+(Total 6 marks) 
+8. Objects are detected by radar; that is, by sending out radio signals and then 
+receiving the radio signals reflected back from the objects. In the diagram, a 
+radar signal is sent from Earth to a planet . 
+• 
+Earth 
+spin 
+(a) The signal from which part of the planet returns to the Earth first? 
+(2) 
+(b) The signal from which part of the planet returns with the highest 
+frequency? 
+(2) 
+(Total 4 marks) 
+267 
+
+=== PAGE 314 ===
+D Fields 
+
+=== PAGE 315 ===
+D Fields 
+◄ 
+The aurora borealis ('northern lights') and aurora austral is ('southern lights') can sometimes be seen on 
+clear, dark nights from spots near to the poles. They are caused by interactions between the solar wind 
+and the Earth's magnetic field. 
+A field is a region of space in which a force is experienced. Particles with mass 
+experience forces when in gravitational fields, charged particles experience forces 
+in electric fields and magnetic domains and moving charges experience forces in 
+magnetic fields. The direction of force can be represented by field lines and the 
+strength of field by the proximity at which the lines are drawn. While gravitational 
+fields are always attractive, electric fields can be either attractive (for unlike charges) or 
+repulsive (for like charges). 
+A field can be uniform, with constant field strength throughout. In these instances, 
+potential energy changes in equal steps with equal distances moved. Alternatively, 
+fields can be radial, for example when a result of a point or spherical mass or charge. 
+In gravitational radial fields, the force is proportional to the product of the masses and 
+inversely proportional to the square of the distance between them. In electric fields, the 
+force is proportional to the product of the charges and inversely proportional to the 
+square of the distance between them. You will also learn about Kepler's laws. 
+Electromagnetism emerges from electric currents because moving charges have 
+associated magnetic fields. When placed within the field of an existing magnet, a 
+perpendicular force is exerted on the charges or the conductor that contains them. The 
+size of force depends on the charge (or length of conductor), its speed (or current) and 
+the magnetic field strength, and you will also learn how to determine the force per unit 
+length between parallel wires. Electromagnetism can be put to use in spinning motors 
+or oscillating loudspeaker cones. 
+269 

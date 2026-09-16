@@ -1,0 +1,686 @@
+=== PAGE 230 ===
+Simple harmonic motion 
+
+=== PAGE 231 ===
+◄ 
+A pendulum is a hanging mass that oscillates back and forth. The time period of these oscillations 
+depends on the length of the string and the gravitational field strength where the mass is located, but 
+not on the amplitude of the swings. This 'Foucault pendulum', which gives evidence of the Earth's 
+rotation, is located in the Paris Pantheon. 
+Guiding Questions 
+What makes the harmonic oscillator model applicable to a wide range of 
+physical phenomena? 
+Why must the defining equation of simple harmonic motion take the form 
+it does? 
+How can the energy and motion of an oscillation be analyzed graphically and 
+algebraically? 
+An oscillating body does not move in a circle but the mathematical model representing 
+one component of circular motion is the same as that which describes a simple 
+oscillation. In physics, it is quite common that the same model can be used in different 
+applications. As the mathematics becomes more complicated, it becomes more 
+difficult to relate the equations to the motion. This is where computer simulations and 
+visual representations help our understanding. 
+Students should understand: 
+conditions that lead to simple harmonic motion 
+the defining equation of simple harmonic motion as given by a = - w' x 
+a particle undergoing simple harmonic motion can be described using time period T, 
+frequency f, angular frequency w, amplitude, equilibrium position and displacement 
+the time period in terms of frequency of oscillation and angular frequency as given by 
+T=l= 2n 
+f 
+{)) 
+the time period of a mass-spring system as given by T = 2n{f 
+the time period of a simple pendulum as given by T = 2n~ 
+a qualitative approach to energy changes during one cycle of an oscillation. 
+The simple pendulum 
+A simple pendulum consists of a small mass, called a bob, hanging on an inextensible 
+(non-stretchy) string. If left alone, the mass will hang at rest so that the string is vertical, 
+but if pushed to one side, it will oscillate about its equilibrium position. The reason that 
+the pendulum oscillates is because there is always a force acting toward the center, as 
+shown in Figure 1. 
+WAVE BEHAVIOR C. 1 
+(I) • 
+• 
+A swing is an example of 
+oscillatory motion. 
+185 
+
+=== PAGE 232 ===
+WAVE BEHAVIOR C.1 
+C.1 Figure 1 
+► 
+A swinging pendulum. 
+' 
+\ 
+mg 
+X 
+.. 
+C.1 Figure 2 Pendulum 
+with small displacement. 
+186 
+Simple harmonic motion 
+<1 
+[> 
+The forces drawn are the tension and weight. These forces add to give a resultant that is 
+always directed toward the equilibrium position. Furthermore, the size of the resultant 
+(blue arrow) gets bigger as the distance from the equilibrium position increases. Notice 
+how the tension decreases as the pendulum swings up toward the horizontal position, 
+and is greatest when it swings through the bottom. At the bottom of the swing, the 
+tension will actually be greater than the weight, allowing the bob to accelerate as it 
+changes direction. Due to the changing angles, this motion is rather difficult to analyze. 
+To make this simpler, we will consider only very small displacements. 
+Simple harmonic motion 
+If the swings are kept small, then force becomes directly proportional to the 
+displacement from equilibrium. Consider the small angle shown in Figure 2. 
+Since the angle is very small, we can make some approximations. 
+1. The displacement is horizontal (in reality, the bob moves slightly up). 
+2. The force acting toward the equilibrium position is the horizontal component 
+of the tension, F1 sin e (in reality, it is the resultant of the weight and the tension, 
+which is not shown on this diagram). 
+3. The weight is approximately the same as the tension (in reality, the tension is greatest 
+at the bottom of the swing) F1 = mg so the restoring force = F1 sin e = mg sin 8 . 
+Since the motion has been reduced to a one-dimensional problem, we can write 
+F = -mg sin 8 to take into account the direction of this force. 
+Looking at the triangle made by the string and the equilibrium position, we can see that: 
+X 
+sin B=T 
+So: 
+F= - mgx 
+l 
+Substituting for F = ma from Newton's second law gives: ma = - mr 
+gx 
+a= -T 
+So we can deduce that, for this motion, the acceleration is directly proportional to the 
+displacement from a fixed point and always directed toward that point. This kind of 
+motion is called simple harmonic motion (SHM), with the displacement determining 
+the magnitude of the acceleration and the minus sign indicating the opposite direction 
+of these vector quantities. 
+
+=== PAGE 233 ===
+J~
+. 
+~~~ 
+5 
+6t/s 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+' 
+' 
+' 
+' 
+' 
+' 
+' 
+' 
+' 
+l \J / l \J 
+SHM and the sine function 
+Later in this chapter, we will do a more thorough graphical analysis of SHM, but by 
+observing the motion of the pendulum, we can already see that as the bob swings back and 
+forth its displacement will be described by a sine curve. In other words, the displacement of 
+the bob is sinusoidal. Let us analyze the motion represented by the sine curve in Figure 3. 
+Os At the start, the displacement is zero and the velocity is maximum and positive 
+(this can be deduced from the gradient). The pendulum bob is swinging through 
+the center, moving right. 
+1 s The displacement is maximum and positive and the velocity has reduced to zero. 
+The pendulum bob is at the top of its swing to the right. 
+2s The displacement is zero again and the velocity maximum and negative. The 
+pendulum bob is swinging through the center, traveling left. 
+3 s The displacement is maximum and the velocity is zero. 
+4 s Back to the start. 
+Terms and quantities 
+Before going any further, we shall define the terms and quantities used to describe 
+oscillatory motion with reference to the pendulum in Figure 4 swinging backward and 
+forward between A and B. 
+Cycle 
+One complete 'there and back' swing, from A to Band back to A. 
+Amplitude (x0) 
+The maximum displacement from the equilibrium position; the swing of the 
+pendulum is symmetric so this could be the distance OA or OB. 
+The unit of amplitude is the meter. 
+Time period (T) 
+The time taken for one complete cycle from A to Band back to A. 
+The unit of time period is the second. 
+Frequency (j) 
+The number of complete cycles per second. 
+J=½ 
+The unit of frequency is the hertz (Hz). 
+◄ C.1 Figure 3 Sinusoidal 
+motion. 
+... 
+C.1 Figure 4 A swinging 
+pendulum 
+187 
+
+=== PAGE 234 ===
+WAVE BEHAVIOR C.1 
+If the time starts when 
+the pendulum is at 
+its highest point to 
+the right (point B in 
+Figure 4). then the 
+equatio n would be 
+x = x0 cos wt; this is still 
+said to be sinusoidal. 
+Because the time taken 
+for a pendulum to Ci) 
+complete one cycle 
+is always the same, 
+even if the amplitude 
+of the swing changes, 
+pendulums used to 
+be extensively used 
+in clock mechanisms. 
+Today, pendulums 
+are not used so often 
+but many clocks sti 11 
+use some sort of 
+mechanical oscillation. 
+C.1 Figure 5 Spring and 
+► 
+mass in four positions: (i) 
+unstretched spring, (ii) spring 
+in equilibrium with mass 
+attached, (iii) mass above 
+equilibrium position, (iv) 
+mass below equilibrium 
+position. 
+188 
+Simple harmonic motion 
+Angular frequency (ill) 
+This is the angular equivalent to frequency. 
+(u = 211:f 
+The unit of angular frequency is radian per second (rads-1) . 
+Let the equation for the displacement-time curve be x = x0 sin (wt). 
+You can try plotting this in a graph plotting or spreadsheet program to see the effect of 
+changing x0 and f. 
+Set up the spreadsheet as below so that you can vary the values off and x0. 
+~ 
+82 
+~( 
+fx I =E$3*SIN(2*Pl()*E$2*A2) 
+A 
+I 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+1 time/s 
+dis lacement m 
+2 
+o.o 
+0.0000 
+frequen 
+1 
+3 
+0.1 
+1.1756 
+am litude 
+2 
+4 
+0.2 
+1.9021 
+5 
+0.3 
+1.9021 
+displacement vs time 
+6 
+0.4 
+l.1756 
+7 
+0.5 
+0.0000 
+3.00 
+8 
+0.6 
+-1.1756 
+2.00 
+9 
+0.7 
+·1.9021 
+x/ml .00 
+10 
+0.8 
+•l.9021 
+0.00 
+11 
+0.9 
+·1.1756 
+·1.00 
+u 
+1.0 
+0.0000 
+·2.00 
+13 
+·3.00 
+14 
+Notice the$ sign in the equation. This prevents the values of x0 and f changing when you 
+copy the equation down into all the cells. 
+Mass on a spring 
+If a mass hanging on the end of a spring is lifted up and released, it will bounce up and 
+down as in Figure 5. The forces acting on the mass are weight and the tension in the 
+spring. The weight is always the same but the tension depends on how far the spring 
+is stretched. (Recall from Hooke's law that when you stretch a spring, the tension is 
+proportional to the extension.) 
+U shows the unstretched length of the spring (Figure 5(i)). 
+ii 
+iii 
+iv 
+u 
+equilibrium -
+"-------rL..:aa;;:,,_,-....L._-,.Lf--'-----.--t'f!!li!!'-'--
+position 
+B 
+mg 
+When a mass mis hung on the string (Figure 5(ii)), it stretches to the length O with 
+extension e. The mass is at rest so the elastic restoring force and weight are balanced: 
+ke=mg 
+This is the equilibrium position. 
+
+=== PAGE 235 ===
+The mass is lifted up to position A (Figure 5(iii)), reducing the extension by x, and 
+released. The weight is now larger than the elastic restoring force, so the mass accelerates 
+downward. Applying Newton's second law to find the magnitude of the resultant force: 
+ma = mg - k(e - x) = mg - ke+ kx 
+But recall that ke = mg. 
+So: 
+ma = m.g - mg + kx = kx 
+The mass accelerates downward, passing the equilibrium position to position B 
+(Figure 5(iv)). Applying Newton's second law again to find the magnitude of the 
+resultant force: 
+ma = k(e + x) - mg = ke + kx - mg 
+But recall, once more, that ke = mg. 
+So: 
+ma = mg + kx - mg = kx 
+We can see that the acceleration is always proportional to the distance from the equilibrium 
+position. However, if we consider the displacement instead of the distance, we can see that: 
+• 
+When the displacement is down(- ), the acceleration is up(+). 
+• 
+When the displacement is up(+), the acceleration is down(- ). 
+They are always in opposite directions, so we insert a minus sign: ma = - kx 
+So: 
+k 
+a = - m:x 
+Since acceleration is proportional to displacement but in the opposite direction, this is 
+simple harmonic motion. 
+Exercise 
+QI. State whether the following are examples of simple harmonic motion. 
+(a) A ball rolling up and down on a track. 
+(b) A cylindrical tube floating in water when pushed down and released. 
+(c) A tennis ball bouncing back and forth across a net. 
+(d) A bouncing ball. 
+Q2. A pendulum completes 20 swings in 12s. 
+What is: 
+(a) the frequency 
+(b) the angular frequency? 
+Graphical representation of SHM 
+When representing the motion of bodies in A.1 Kinematics, we drew displacement-
+time, velocity-time and acceleration-time graphs. let us now do the same for the 
+motion of a mass on a spring. The mass on the end of the spring is lifted to point A and 
+released. In this example, we will start with the mass at its highest point (maximum 
+positive displacement). let the equation for the displacement will be x = x0 cos wt. 
+(b) 
+How can greenhouse 
+gases be modeled 
+as simple harmonic 
+oscillators? (B.2) 
+~ 
+t 
+I 
+189 
+
+=== PAGE 236 ===
+WAVE BEHAVIOR C.1 
+C.1 Figure 6 
+Displacement-time graph. 
+C.1 Figure 7 Velocity-time 
+graph. 
+190 
+► 
+Simple harmonic motion 
+Displacement-time 
+As before, 0 is the equilibrium position and we will take this to be our position of zero 
+displacement. Above this is positive displacement and below is negative. 
+At A, the mass has maximum positive displacement from 0 . 
+At 0, the mass has zero displacement from 0. 
+At B, the mass has maximum negative displacement from 0. 
+We can see that the shape of this displacement-time graph is a cosine curve. 
+displacement/cm 
+t 
+Xo 
+O+---+--+--+-----,---+--+---lf---t--+t--____ 
+___..___, 
+t 
+Xo 
+2 
+'±"--
+-+-_,_+_· _______ 
+..........,B 
+--r 
+The equation of this line is x = x0 cos tilt where x0 is the maximum displacement and w 
+is the angular frequency. 
+Velocity-time 
+From the gradient of the displacement-time graph (Figure 6), we can calculate the velocity. 
+velocity 
+B 
+At A, gradient = 0 so velocity is zero. 
+At 0 , gradient is negative and maximum so velocity is down and maximum. 
+At B, gradient= 0 so velocity is zero. 
+The equation of this line is v = -v0 sin wt where v0 is the maximum velocity. 
+
+=== PAGE 237 ===
+Acceleration-time 
+From the gradient of the velocity-time graph (Figure 7), we can calculate the 
+acceleration. 
+At A, the gradient is maximum and negative so acceleration is maximum and 
+downward. 
+At 0, the gradient is zero so acceleration is zero. 
+At B, the gradient is maximum and positive so the acceleration is maximum and 
+upward. 
+accelerntion 
+-ao 
+e 
+B 
+The equation of this line is a = -a0 cos wt where a0 is this maximum acceleration. 
+So: x = x0 cos wt and a= -a0 cos t 
+When displacement increases, the magnitude of acceleration increases proportionally. 
+However, the direction of the acceleration is always opposite to the displacement, 
+which introduces a minus sign to the relationship; in other words: a oc -x 
+The constant of proportionality is w 2, which means the general equation for SHM is 
+a=-w2x. 
+We have confirmed that the acceleration of the body is directly proportional to the 
+displacement of the body and always directed toward a fixed point. 
+Finding the frequencies of a pendulum and mass on 
+a spring 
+We have seen that the acceleration of a pendulum bob is given by the equation: 
+g 
+We now know that: 
+So: 
+a = - 1x 
+a = -w2x 
+2ef= {f 
+f = J_ fl 
+21rn 
+C.1 Figure 8 
+Acceleration-time graph. 
+191 
+
+=== PAGE 238 ===
+WAVE BEHAVIOR C.1 
+C.1 Figure 9 Pendulum and 
+photogate. 
+At the top of the 
+swing, the mass 
+has maximum 
+potential energy 
+and minimum 
+kinetic energy. 
+At the bottom of 
+the swing, the mass 
+has maximum 
+kinetic energy and 
+minimum potential 
+energy. 
+• 
+C.1 Figure 10 In the 
+simple pendulum, energy is 
+transferring from one store to 
+another as the bob moves. 
+192 
+Simple harmonic motion 
+Since time period is equal to the inverse of frequency: 
+T = 21r~ 
+For the mass on a spring: 
+k 
+a= - mx 
+So: 
+Exercise 
+Q3. A long pendulum has time period 10s. If the bob is displaced 2111 from the 
+equilibrium position and released, how long will it take to move 1 m? 
+We know that: 
+So if we measure the time period for different lengths of pendulum. we should find that 
+F,2 is proportional to /. This means that a graph of F,2 vs I would be a straight line with 
+gradient = 4; 
+The typical length of pendulum used in the lab has a time period of about 1 s so measuring 
+one swing with a stop watch would be quite difficult. It is much better to time l O swings then 
+divide the time by l O to give the time period. Alternatively. the pendulum could be made 
+to swing through a photogate and a computer used to record the time period (see Figure 10) 
+The computer records every time the bob passes in and out of the photogate, but if you set 
+the software to 'pendulum timing', then it will record the time between the first time the bob 
+enters the gate and the third time. This will be the time period. 
+in 
+out 
+in 
+out 
+Energy transfers during SHM 
+If we once again consider the simple pendulum, we can see that its energy is 
+transferred as it swings. 
+Kinetic energy 
+in 
+The kinetic energy is a maximum when the bob is traveling fastest. This is at the 
+bottom of the swing. At the top of the swing, the bob is stationary, so the kinetic 
+energy is zero (see Figure 10) . 
+
+=== PAGE 239 ===
+Potential energy 
+The potential energy is a minimum when the bob is at its lowest point; we take this to 
+be zero. At the top of the swing, the potential energy is a maximum value. 
+The total energy at any moment in time is given by: 
+total energy = Ek + EP 
+Phase 
+If we take two identical pendulum bobs, displace each bob to the right and release 
+them at the same time, then each will have the same displacement at the same time. We 
+say the oscillations are in phase. If one is pulled to the left and the other to the right, 
+then they are out of phase (see Figures 11 and 12). 
++--
+This can be represented graphically. 
+displacement 
+Challenge yourself 
+out of phase 
+time 
+A and B represent 
+motions that are 
+in phase. 
+time 
+time 
+B and C represent 
+motions that are 
+out of phase. 
+1. A 12 cm long, narrow cylinder floats vertically in a bucket of water so that 2 cm 
+is above the surface. It is then made to oscillate by pressing the end underwater. 
+Calculate the time period of the motion. 
+How does damping 
+(C.4) affect periodic 
+motion? 
+C.1 Figure 11 The 
+pendulum bobs are in phase 
+when they swing together. 
+C.1 Figure 12 
+Displacement-time graphs 
+for bodies in and out of phase. 
+When Juggling balls, they 
+go up and down at different 
+times - they are out of phase. 
+193 
+
+=== PAGE 240 ===
+WAVE BEHAVIOR C.1 
+194 
+Simple harmonic motion 
+Guiding Questions revisited 
+What makes the harmonic oscillator model applicable to a wide range of 
+physical phenomena? 
+Why must the defining equation of simple harmonic motion take the form 
+it does? 
+How can the energy and motion of an oscillation be analyzed graphically and 
+algebraically? 
+In this chapter, we have considered simple harmonic motion as a particular example of 
+an oscillation. In doing so, we recognized: 
+• The inverse proportionality of the time period of a complete oscillation and the 
+frequency of oscillations (the number per second). 
+• The amplitude in an oscillating system is the maximum displacement of the body 
+from its equilibrium position. 
+• Simple harmonic oscillations as having acceleration proportional to displacement 
+and in the opposite direction (the latter indicated by the minus sign). 
+• The magnitude of the constant of proportionality for simple harmonic motion is 
+the square of angular frequency, where angular frequency is the product of 2n and 
+the frequency of oscillations. 
+• Two common models for simple harmonic motion are mass-spring systems (with 
+time period related to the mass and the spring constant) and simple pendula (with 
+time period related to the length of the string and gravitational field strength). 
+• Many real-world scenarios as being relatable to these two models in design or 
+problem-solving. 
+• Potential energy increases with displacement. 
+• Kinetic energy is maximum as the body passes through the equilibrium position. 
+Practice questions 
+1. A mass on a spring is displaced from its equilibrium position. Which graph 
+represents the variation of acceleration with displacement for the mass after it 
+is released? 
+A 
+acceleration 
+B 
+acceleration 
+C 
+acceleration 
+D 
+acceleration 
+(Total 1 mark) 
+
+=== PAGE 241 ===
+2. 
+An object performs simple harmonic motion (SHM). The graph shows 
+how the velocity v of the object varies with time t. The displacement of the 
+object is x and its acceleration is a. What is the variation of x with t and the 
+variation of a with t? 
+V 
+0 f--------\------+---~ 
+0 
+A 
+B 
+(Total 1 mark) 
+3. The bob of a pendulum has an initial displacement x0 to the right. The bob 
+is released and allowed to oscillate. The graph shows how the displacement 
+varies with time. At which point is the velocity of the bob at its maximum 
+magnitude directed toward the left? 
+... 
+5 
+~ XO 
+] 
+Cl. 
+<I) 
+B 
+:s 0 -+---+-------------<11~---+---------
+D 
+(Total 1 mark) 
+4. The four pendulums below have been cut from the same uniform sheet of 
+board. They are attached to the ceiling with strings of equal length. Which 
+pendulum has the shortest period? 
+A 
+B 
+C 
+D 
+(Total 1 mark) 
+195 
+
+=== PAGE 242 ===
+WAVE BEHAVIOR C.1 
+196 
+Simple harmonic motion 
+5. A mass at the end of a vertical spring and a simple pendulum both 
+perform oscillations on Earth that are simple harmonic with time period 
+T. The pendulum and the mass-spring system are taken to the Moon. The 
+acceleration of free fall on the Moon is smaller than that on Earth. Which is 
+correct about the time periods of the pendulum and the mass-spring system 
+on the Moon? 
+A 
+T 
+T 
+B 
+greater than T 
+T 
+C 
+greater than T 
+greater than T 
+D 
+T 
+greater than T 
+(Total 1 mark) 
+6. The graph shows the variation with time t of the acceleration a of an object X 
+undergoing simple harmonic motion (SHM). 
+- 3 
+(a) Define simple harmonic motion (SHM). 
+(2) 
+(b) X has a mass of 0.28 kg. Calculate the maximum force acting on X. 
+(1) 
+(c) Determine the maximum displacement of X. Give your answer to an 
+appropriate number of significant figures. 
+(4) 
+(Total 7 marks) 
+7. 
+A student is investigating a method to measure the mass of a wooden block by 
+timing the period of its oscillations on a spring. 
+(a) Describe the conditions required for an object to perform simple 
+harmonic motion (SHM). 
+(2) 
+(b) A 0.52 kg mass performs simple harmonic motion with a period of 0.86 s 
+when attached to the spring. A wooden block attached to the same spring 
+oscillates with a period of 0.7 4 s. Calculate the mass of the wooden block. 
+(2) 
+frictionless surface 
+(Total 4 marks) 
+
+=== PAGE 243 ===
+8. 
+A vertical solid cylinder of uniform cross-sectional area A floats in water. The 
+cylinder is partially submerged. When the cylinder floats at rest, a mark is 
+aligned with the water surface. The cylinder is pushed vertically downward so 
+that the mark is a distancex below the water surface. 
+water surface 
+cylinder floating 
+at rest 
+cylinder pushed 
+downward 
+At time t = 0, the cylinder is released. The resultant vertical force Fon the 
+cylinder is related to the displacement x of the mark by: 
+F= - pAgx 
+where p is the density of water. 
+(a) Outline why the cylinder performs simple harmonic motion when 
+released. 
+(1) 
+(b) The mass of the cylinder is 118 kg and the cross-sectional area of the 
+cylinder is 2.29 x 10-1 m2. The density of water is 1.03 x 103 kg m-3• Show 
+that the angular frequency of oscillation of the cylinder is about 4.4 rad s-1• 
+(2) 
+(Total 3 marks) 
+197 

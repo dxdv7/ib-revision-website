@@ -1,0 +1,1874 @@
+=== PAGE 75 ===
+Forces and momentum 
+
+=== PAGE 76 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+30 
+◄ 
+The launch of the James Webb Space Telescope took place on 25 December 2021. When an object 
+• 
+ejects a gas in a downward direction, the gas exerts an equal and upward force on the object. This is an 
+example of a Newton's third law pair . 
+• 
+Guiding Questions 
+How can we use our knowledge and understanding of the forces acting on a 
+system to predict changes in translational motion? 
+How can Newton's laws be modeled mathematically? 
+How can the conservation of momentum be used to predict the behavior of 
+interacting objects? 
+The motion of a body traveling with constant acceleration can be modeled using the 
+suvat equations of uniformly accelerated motion. But what causes the acceleration? 
+First we must introduce a second body, which interacts with the original body. When 
+two bodies interact, we say that they exert forces on one another in accordance 
+with Newton's three laws of motion. Forces can take many forms, but the presence 
+of a force is required for one body to change the speed or course of another (an 
+acceleration). 
+The effect of the force depends upon its direction, so we use an arrow to represent the 
+size and direction of a given force. By adding all the arrows together as vectors, we 
+can calculate the overall size and direction of the resultant force. Using this direction 
+of force and, therefore, acceleration in combination with the suvat equations, we can 
+predict the new position and velocity of the original body. 
+Momentum is the product of mass and velocity, two quantities that we met in the 
+previous chapter. What makes it worth defining in its own right? Momentum is always 
+conserved in any collision provided there are no external forces. This conservation is a 
+direct consequence of Newton's three laws and can be used as a quick way to apply them. 
+Nature of Science 
+Newton's three laws of motion are a set of statements, based on observation 
+and experiment, that can be used to predict the motion of a point object from 
+the forces acting on it. 
+Students should understand: 
+Newton's three laws of motion 
+forces as interactions between bodies 
+forces acting on a body can be represented in a free-body diagram 
+free-body diagrams can be analyzed to find the resultant force on a system 
+
+=== PAGE 77 ===
+the nature and use of the following contact forces: 
+. normal force FN is the component of the contact force acting perpendicular to the surface 
+that counteracts the body 
+. surface frictional force Fr acting in a direction parallel to the plane of contact ben..,een a 
+body and a surface, on a stationary body as given by Fr ~ µ.FN or a body in motion as 
+given by 
+Fr= µdFN whereµ, and µdare the coefficients of static and dynamic friction respectively 
+. elastic restoring force Fr1 following Hooke's law as given by Fr1 = -kx where k is the spring 
+constant 
+. viscous drag force Fd acting on a small sphere opposing its motion through a fluid as 
+given by Fd = 61r,,rv where 17 is the fluid viscosity, r is the radius of the sphere, and vis the 
+velocity of the sphere through the fluid 
+. buoyancy Fb acting on a body due to the displacement of the fluid as given by Fh = pVg 
+where Vis the volume of fluid displaced 
+the nature and use of the following field forces: 
+. gravitational force Fg as the weight of the body and calculated as given by Fg = mg 
+. electric force F • 
+. magnetic force Fm 
+linear momentum as given by p = m.v remains constant unless the system is acted upon by a 
+resultant external force 
+a resultant external force applied to a system constitutes an impulse J as given by J = F t::.t 
+where Fis the average resultant force and t::.t is the time of contact 
+the applied external impulse equals the change in momentum of the system 
+Newton's second law in the form F = ma assumes mass is constant whereas F = ';:: allows for 
+situations where mass is changing 
+the elastic and inelastic collisions of two bodies 
+explosions 
+energy considerations in elastic collisions, inelastic collisions, and explosions 
+bodies moving along a circular trajectory at a constant speed experience an acceleration that is 
+directed radially toward the center of the circle - known as a centripetal acceleration as given 
+vi 
+., 
+4n:2r 
+bya =,.= 11)-r=T' 
+circular motion is caused by a centripetal force acting perpendicular to the velocity 
+a centripetal force causes the body to change direction even if its magnitude of velocity may 
+remain constant 
+the motion along a circular trajectory can be described in terms of the angular velocity w 
+which is related to the linear speed v by the equation as given by v = 2;'" = wr. 
+Hooke's law and the elastic restoring force is discussed in A.3. The definitions of 
+elastic and inelastic collisions can also be found in A.3. Information about electric and 
+magnetic forces can be found in 0 .2. 
+31 
+
+=== PAGE 78 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+A force is a push or 
+a pull. 
+The unit of force is 
+the newton. 
+A.2 Figure 1 Two 
+astronauts and a red ball. 
+If you hold an object 
+of mass 100g in your 
+hand. then you will be 
+exerting an upward 
+force of about one 
+newton (l N) 
+► 
+Force 
+We can now model the motion of a constantly accelerating body but what makes it 
+accelerate? From experience, we know that to make something move we must push 
+or pull it. We call this applying a force. One simple way of applying a force to a body 
+is to attach a string and pull it. Imagine a sphere floating in space with two strings 
+attached. The sphere will not start to move unless one of the astronauts pulls the string 
+as in Figure 1. 
+If A pulls the string, then the body will move to the left, and if B pulls the string, it will 
+move to the right. We can see that force is a vector quantity since it has direction. 
+Addition of forces 
+Since force is a vector, we must add forces vectorially, so if A applies a force of 50 N 
+and B applies a force of 60N, the resultant force will be ION toward B, as can be seen in 
+Figure 2. 
+SON 
+60N 
+SON~ 
+... 
+A.2 Figure 2 Astronaut B 
+pulls harder than A. 
+Astronauts in space 
+are considered here 
+so that no other 
+forces(exceptfor 
+very low gravity} are 
+present. This makes 
+things simpler. 
+32 
+SON 
+► ION 
+60N 
+... 
+60N 
+A.2 Figure 3 Astronauts pulling at right angles. 
+Or, in two dimensions, we can use trigonometry as in Figure 3. 
+In this case, because the addition of forces forms a right-angled triangle, we can use 
+Pythagoras to find x: 
+X = J 502 + 602 = 78 N 
+
+=== PAGE 79 ===
+Taking components 
+As with other vector quantities, we can calculate components of forces. For example, 
+we might want to know the resultant force in a particular direction. 
+In Figure 4, the component of the force in the x-direction is: Fx = 60 x cos 30° = 52 N 
+This is particularly useful when we have several forces. 
+-----------------------) 
+-----------------------) 
+X 
+• 
+A.2 Figure 4 Pulling at an angle. 
+In the example shown in Figure 5, we can use components to calculate the resultant 
+force in the x-direction: 60 x cos 30° + 50 x cos 30° = 52 + 43 = 95N 
+Exercise 
+QI. Find the resultant force in the following examples: 
+(a) 
+ION 
+ION 
+(b) 3L 
+5N 
+ION • 
+Equilibrium 
+If the resultant force on a body is zero, as in Figure 6, then we say the forces are 
+balanced or the body is in equilibrium. 
+SON 
+SON 
+SON 
+SON 
+X 
+• 
+A.2 Figure 5 Astronauts not 
+pulling in line. 
+A.2 Figure 6 Balanced 
+forces. 
+33 
+
+=== PAGE 80 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+A.2 Figure 7 Three 
+balanced forces 
+SON 
+70.7N 
+SON 
+• 
+A.2 Figure 8 A free-body 
+diagram of the forces in 
+Figure 7. 
+34 
+Or with three forces as in Figure 7. 
+70.7 N u 
+70.7N 
+In this example, the two blue forces are perpendicular, making the trigonometry easy. 
+Adding all three forces gives a right-angled triangle. We can also see that if we take 
+components in any direction, then the forces must be balanced. 
+Taking components in the x-direction: 
+- 50 X COS 45° - 50 X COS 45° + 70.7: - 35.35 - 35.35 + 70.7: 0 
+Taking components in they-direction: 
+50 x sin 45° - 50 x sin 45° = 0 
+Free-body diagrams 
+Problems often involve more than one body. For example, the previous problem involved 
+four bodies, three astronauts, and one red ball. All of these bodies will experience forces, 
+but if we draw them all on the diagram, it would be very confusing. For that reason, we 
+only draw forces on the body we are interested in; in this case, the red ball. This is called a 
+free-body diagram, as shown in Figure 8. Note that we treat the red ball as a point object 
+by drawing the forces acting on the center. Not all forces actually act on the center, but 
+when adding forces, it can be convenient to draw them as if they do. 
+Exercise 
+Q2. In the following examples, calculate the force F required to balance the forces. 
+(a) 
+(b) 
+40N 
+60N 
+60N 
+F 
+F 
+
+=== PAGE 81 ===
+Q3. Calculate the resultant force for the following. 
+(a) 
+20N 
+(b) 
+40N 
+4 
+~
+N 60N 
+.. 
+Q4. By resolving the vectors into components, calculate if the following bodies 
+are in translational equilibrium or not. If not, calculate the resultant force. 
+(a) 
+8.66N 
+(b) 
+4N 
+4N 
+ION 
+Q5. If the following two examples are in equilibrium, calculate the unknown 
+forces F., F2 and F3• 
+(a) 
+45° 
+45°', 
+6N---'---• 
+6N 
+(b) 
+Newton's first law of motion 
+20N 
+60N 
+From observation, we can conclude that to make a body move we need to apply an 
+unbalanced force to it. What is not so obvious is that onc,e moving it will continue 
+to move with a constant velocity unless acted upon by another unbalanced force. 
+Newton's first law of motion is a formal statement of this.: 
+A body will remain at rest or moving with constant velocity unless acted upon by an unbalanced force. 
+The reason that this is not obvious to us on Earth is that we do not tend to observe bodies 
+traveling with constant velocity with no forces acting on them; in space, it would be 
+more obvious. Newton's first law can be used in two ways. If the forces on a body are 
+balanced, then we can use Newton's first law to predict that it will be at rest or moving 
+with constant velocity. If the forces are unbalanced, then the body will not be at rest 
+or moving with constant velocity. This means its velocity changes - in other words, it 
+accelerates. Using the law the other way round, if a body accelerates, then Newton's first 
+law predicts that the forces acting on the body are unbalanced. To apply this law in real 
+situations, we need to know a bit more about the different types of force. 
+A law in physics is 
+a very useful tool. If 
+applied properly. it 
+enables us to make a 
+very strong argument 
+that what we say is 
+true. If asked 'will a box 
+move?' you can say that 
+you think it will and 
+someone else could 
+say it will not. You both 
+have your opinions 
+and you would then 
+argue as to who is right. 
+However, if you say 
+that Newton's law says 
+it will move. then you 
+have a much stronger 
+argument (assuming 
+you have applied the 
+law correctly) 
+35 
+
+=== PAGE 82 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+A 
+A.2 Figure 9 Exerting 
+tension with a string. 
+F ' 
+A 
+A.2 Figure 10 A normal 
+reaction force is exerted 
+when a hand is in contact 
+with a ball. 
+F 
+g 
+the ground 
+A 
+A.2 Figure 11 A ball in 
+free fall. 
+A 
+Types of force 
+Tension 
+Tension is the name of the force exerted by the astronauts on the red ball. If you attach 
+a string to a body and pull it, then you are exerting tension, as in Figure 9. 
+Normal reaction 
+Whenever two surfaces are in contact with (touching) each other, there will be a force 
+between them. This force is perpendicular to the surface so it is called the normal 
+reaction force. If the astronaut pushes the ball with his hand as in Figure 10, then 
+there will be a normal reaction between the hand and the ball. 
+Note that the force acts on both surfaces so the astronaut will also experience a normal 
+force. However, since we are interested in the ball, not the astronaut, we take the ball as 
+our 'free body' so only draw the forces acting on it. 
+Gravitational force (weight) 
+Back on Earth, if a body is released above the ground as in Figure 11, it accelerates 
+downward. According to Newton's first law, there must be an unbalanced force 
+causing this motion. This force is called the weight. The weight of a body is directly 
+proportional to its mass: Fg = mg where gravitational field strength, g = 9.81 N kg-1 close 
+to the surface of the Earth. Note that this is the same as the acceleration of free fall. You 
+will find out why later on. 
+Note that the weight acts at th e center of the body. 
+If a block is at rest on the floor, then Newton's first law implies that the forces are balanced. 
+The forces involved are weight ,(because the block has mass and is on the Earth) and 
+normal force (because the block is in contact with the ground). Figure 12 shows the forces. 
+A 
+A 
+F ' 
+I 
+A.2 Figure 12 A free-body diagram of 
+a box resting on the ground. 
+A.2 Figure 13 A string applies an 
+upward force on the box. 
+A.2 Figure 14 The block is lifted as 
+the tension is bigger than its weight. 
+36 
+These forces are balanced so: -Fg + FN = 0 or Fg = FN 
+If the mass of the block is increased, then the normal reaction will also increase. 
+If a string is added to the block, then we can exert tension on the block as in Figure 13. 
+The forces are still balanced since F, + FN = Fg. Notice how Fg has remained the same but 
+FN has got smaller. If we pull with more force, we can lift the block as in Figure 14. At 
+this point, the normal reaction FN will be zero. The block is no longer in contact with 
+the ground; now F, = F8• 
+
+=== PAGE 83 ===
+The block in Figure 15 is on an inclined plane (slope) so the weight still acts downward. 
+In this case, it might be convenient to split the weight into components, one acting 
+parallel to the slope and one acting perpendicular to the slope. 
+The component of weight perpendicular to the slope is Fg cos e. Since there is no 
+movement in this direction, the force is balanced by FN. The component of weight 
+parallel to the slope is Fg sin e. This force is unbalanced, causing the block to accelerate 
+parallel to the slope. If the angle of the slope is increased, then sin e will also increase, 
+resulting in a greater force down the slope. 
+Electric and magnetic forces 
+Electric forces act on charged particles. Magnetic forces act on moving charged 
+particles and magnetic materials. 
+Like weight (i.e. gravitational forces), electric and magnetic forces act at a distance. 
+Unlike weight, they can be attractive and repulsive. 
+Friction 
+There are two types of friction: static friction, which is the force that stops the relative 
+motion between two touching surfaces, and dynamic friction, which opposes the 
+relative motion between two touching surfaces. In both cases, the force is related to 
+both the normal force and the nature of the surfaces, so pushing two surfaces together 
+increases the friction between them. 
+Fr= µFN where J.l is the coefficient of friction (static or dynamic). 
+Dynamic friction 
+In Figure 16, a block is being pulled along a table at a constant velocity. 
+FN 
+FN 
+FN 
+F, . 
+µ/N 
+µ/N 
+~ 
+~ 
+21:dF N 
+I 
+-
+, 
+F 
+F 
+I 
+2F 
+,, 
+g 
+~ 
+~ 
+F I 
+. 
+I 
+A.2 Figure 17 Two blocks Joined with a rope 
+A.2 Figure 18 Two blocks on top of 
+each other. 
+Since the velocity is constant, Newton's first law implies that the forces are balanced so 
+F, = Fr and Fg = FN. Notice that friction does not depend on the area of contact. We can 
+show this by considering two identical blocks sliding at constant velocity across a table 
+top joined together by a rope as in Figure 17. The friction under each cube is µdFN so 
+the total friction would be 21-1dFN. 
+If one cube is now placed on top of the other as in Figure 18, the normal force under 
+the bottom cube will be twice as much so the friction is now 21-1dFN. It does not matter 
+if the blocks are side by side Oarge area of contact) or on top of each other (small area 
+of contact); the friction is the same. 
+A.2 Figure 15 Free-body 
+diagram for a block on a 
+slope 
+What assumptions 
+(NOS} about the forces 
+between molecules of 
+gas allow for ideal gas 
+behavior? (B.3) 
+F, 
+F s 
+V 
+F, 
+F s 
+A.2 Figure 16 The force 
+experienced by a block 
+pulled along a table. 
+37 
+
+=== PAGE 84 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+A.2 Figure 19 µFN is the 
+maximum size of friction. 
+A.2 Figure 20 A block rests 
+on a slope until the forces 
+become unbalanced. 
+.A. 
+A.2 Figure 21 Friction 
+pushes the car forwards. 
+38 
+If this is the case, then why do racing cars have wide tires with no tread pattern (slicks)? 
+There are several reasons for this, but one is to increase the friction between the tires 
+and the road. This is strange because friction is not supposed to depend on area of 
+contact. In practice, friction is not so simple. When one of the surfaces is sticky like the 
+tires of a racing car, the force does depend upon the surface area. The type of surfaces 
+we are concerned with here are quite smooth, non-sticky surfaces like wood and 
+metal. 
+Static friction 
+If a very small force is applied to a block at rest on the ground, it will not move. This 
+means that the forces on the block are balanced (Newton's first law): the applied force 
+is balanced by the static friction. 
+at rest 
+at rest 
+acceleration 
+W, 
+F ' 
+F 
+F ' 
+' 
+.. 
+F, 
+WN 
+r 
+1 
+In this case, the friction simply equals the applied force: Fr= F,. As the applied force 
+is increased, the friction will also increase. However, there will be a point when the 
+friction cannot be any bigger. If the applied force is increased past that point, the block 
+will start to move; the forces have become unbalanced as illustrated in Figure 19. 
+The maximum value that friction can have is µ.FN where ,u. is the coefficient of static 
+friction. The value of static friction is always greater than dynamic friction. This can 
+easily be demonstrated with a block on an inclined plane as shown in Figure 20. 
+<1 
+In the first example, the friction is balancing the component of weight down the 
+plane, which equals Fg sin e, where e is the angle of the slope. As the angle of the slope 
+is increased, the point is reached where the static friction = µsFN. The forces are still 
+balanced but the friction cannot get any bigger, so if the angle is increased further, the 
+forces become unbalanced and the block will start to move. Once the block moves, the 
+friction becomes dynamic friction. Dynamic friction is less than static friction, so this 
+results in a bigger resultant force down the slope, causing the block to accelerate. 
+Friction does not just slow things down; it is also the force that makes things move. 
+Consider the tire of a car as it starts to drive away from the traffic lights. The rubber of 
+the tire is trying to move relative to the road. In fact, if there was no friction, the wheel 
+would spin as the tire slipped backward on the road. The force of friction that opposes 
+the motion of the tire slipping backward on the road is therefore in the forward 
+direction . 
+
+=== PAGE 85 ===
+If the static friction between the tire and the road is not big enough, the tire will slip. 
+Once this happens, the friction becomes dynamic friction, which is less than static 
+friction, so once tires start to slip, they tend to continue slipping. 
+Buoyancy 
+Buoyancy is the name of the force experienced by 
+a body totally or partially immersed in a fluid (a 
+fluid is a liquid or gas). The size of this force is equal 
+to the weight of fluid displaced. It is this force that 
+enables a boat to float and a helium balloon to rise 
+in the air. Let us consider a football and a bucket 
+full of water. 
+@ il 
+... 
+A.2 Figure 22 A football immersed in 
+a bucket of water. 
+If you take the football and push it under the water, then water will flow out of the 
+bucket 0uckily a big bowl was placed there to catch it). The weight of this displaced 
+water is equal to the upward force on the ball. To keep the ball under water, you would 
+therefore have to balance that force by pushing the ball down. 
+The forces on a floating object are balanced so the weight must equal the buoyant 
+force. This means that the ball must have displaced its own weight of water as in 
+Figure 23. 
+Fg=pVg 
+where Vis the volume of fluid displaced and p is the density of the fluid. 
+Air resistance 
+Air resistance is the force that opposes the motion of a body through the air. More 
+broadly, this is known as fluid resistance or drag. The size of this force depends on 
+the speed, size, and shape of the body. At low speeds, the drag force experienced by a 
+sphere is given by Stokes' law: 
+where 1/ = viscosity (a constant) 
+v = velocity 
+r = radius 
+When a balloon is dropped, it accelerates downward due to the force of gravity. As it 
+falls through the air, it experiences a drag force opposing its motion. As the balloon's 
+velocity gets bigger so does the drag force, until the drag force balances its weight, at 
+which point its velocity will remain constant (Figure 24). This maximum velocity is 
+called its terminal velocity. 
+The same thing happens when a parachutist jumps out of a plane. The terminal 
+velocity in this case is around 54 m s- 1 (195 km h-1) . Opening the parachute increases 
+the drag force, which slows the parachutist down to a safer 10 m s-1 for landing. 
+... 
+A.2 Figure 23 A football 
+A oats in a bucket of water. 
+Fg 
+Fs 
+Ftl 
+Ftl 
+Fb 
+Fb 
+... 
+A.2 Figure 24 A balloon 
+reaches terminal velocity as 
+the forces become balanced. 
+Notice the buoyant force is 
+also present. 
+39 
+
+=== PAGE 86 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+A.2 Figure 25 The forces 
+acting on a car traveling at 
+constant velocity. 
+... 
+A.2 Figure 26 Stretching a 
+spring 
+Speed skiers wear special 
+clothes and squat down like 
+this to reduce air resistance. 
+How does the 
+application of a restoring 
+force acting on a 
+particle result in simple 
+harmonic motion? (C.1) 
+JON 
+... 
+A.2 Figure 27 A ball on a 
+string that is pulled to the 
+side. 
+40 
+► 
+As it is mainly the air resistance that limits the top speed of a car, a lot of time and 
+money is spent by car designers to try to reduce this force. This is particularly 
+important at high speeds when the drag force is related to the square of the speed. 
+FN 
+Fd 
+Fr 
+Fr 
+► 
+Fg 
+Elastic restoring force 
+An elastic restoring force, FH, acts when the shape of an object is changed. An object is 
+stretched when in tension and squashed when in compression. The size of the elastic 
+restoring force increases with the extension (or compression) from the original length . 
+Exercise 
+Q6. A ball of weight 10 N is suspended on a string and pulled to one side by 
+another horizontal string as shown in Figure 27. If the forces are balanced: 
+(a) write an equation for the horizontal components of the forces acting on 
+the ball 
+(b) write an equation for the vertical components of the forces acting on 
+the ball 
+(c) use the second equation to calculate the tension in the upper string, F, 
+(d) use your answer to (c) plus the first equation to find the horizontal force F. 
+Q7. The condition for the forces to be balanced is that the 
+sum of components of the forces in any two 
+perpendicular components is zero. In the 'box on a 
+ramp' example, the vertical and horizontal 
+components were taken. However, it is sometimes 
+more convenient to consider components parallel 
+and perpendicular to the ramp. 
+SON 
+
+=== PAGE 87 ===
+Consider the situation in the figure. If the forces on this box are balanced: 
+(a) write an equation for the components of the forces parallel to the ramp 
+(b) write an equation for the forces perpendicular to the ramp 
+(c) use your answers to find the friction (Fr) and normal force (FN)-
+Q8. A rock climber is hanging from a rope attached to the cliff by two bolts as 
+shown in Figure 28. If the forces are balanced: 
+(a) write an equation for the vertical component of the forces on the knot 
+(b) write an equation for the horizontal forces exerted on the knot 
+(c) calculate the tension F1 in the ropes joined to the bolts. 
+The result of this calculation shows why ropes should not be connected in 
+this way. 
+The relationship between force and acceleration 
+Newton's first law states that a body will accelerate if an unbalanced force is applied to 
+it. Newton's second law tells us how big the acceleration will be and in which direction. 
+Before we look in detail at Newton's second law, we should look at the factors that affect 
+the acceleration of a body when an unbalanced force is applied. Let us consider the 
+example of catching a ball. When we catch the ball, we change its velocity, Newton's first 
+law tells us that we must therefore apply an unbalanced force to the ball. The size of that 
+force depends upon two things: the mass and the velocity. A heavy ball is more difficult 
+to stop than a light one traveling at the same speed, and a fast one is harder to stop than a 
+slow one. Rather than having to concern ourselves with two quantities, we will introduce 
+a new quantity that incorporates both mass and velocity: momentum. 
+Nature of Science 
+The principle of conservation of momentum is a consequence of Newton's 
+laws of motion applied to the collision between two bodies. If this applies to 
+two isolated bodies, we can generalize that it applies to any number of isolated 
+bodies. Here we will consider colliding balls but it also applies to collisions 
+between microscopic particles such as atoms. 
+Momentum (p) 
+Momentum is defined as the product of mass and velocity: 
+p = mv 
+The unit of momentum is kg m s- 1• Momentum is a vector quantity. 
+Impulse 
+When you get hit by a ball, the effect it has on you is greater if the ball bounces off you 
+than if you catch it. This is because the change of momentum, .6.p, is greater when the 
+ball bounces, as shown in Figure 29. 
+The unit of impulse is kg m s- 1• 
+Impulse, J, is the change in momentum and is equal to the product of force and the 
+time over which the force is acting. It is a vector. 
+J = .6.p = F.6.t 
+... 
+A.2 Figure 28 The rope is 
+attached at two bolts. 
+41 
+
+=== PAGE 88 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+V --
+V --
+Before 
+.... 
+V --
+0 
+After 
+A.2 Figure 29 The change 
+of momentum of the red ball 
+is greater 
+A.2 Figure 30 A ball gains 
+momentum. 
+If force= 
+change in momentum 
+time 
+then change in 
+momentum= 
+force x time. 
+So the unit of 
+momentum is N s. 
+42 
+This is the same 
+as kgms·1• 
+► 
+Red ball 
+momentum before = mv 
+momentum after= - mv (remember momentum is a vector) 
+change in momentum, J = -mv - mv = - 2mv 
+Blue ball 
+momentum before = mv 
+momentum after= 0 
+change in momentum, J = 0 - mv = - mv 
+Exercise 
+Q9. A ball of mass 200g traveling at lOms-1 bounces off a wall as in Figure 29. 
+If after hitting the wall it travels at 5 m s-1, what is the impulse? 
+QlO. Calculate the impulse on a tennis racket that hits a ball of mass 67 g traveling 
+at 10 m s-1 so that it comes off the racket at a velocity of 50 m s-1• 
+Newton's second law of motion 
+The rate of change of momentum of a body is directly proportional to the unbalanced force acting on 
+that body and takes place in same direction. 
+Let us once again consider a ball with a constant force acting on it as in Figure 30. 
+II 
+a 
+)) 
+V 
+0---: 
+0---: 
+time=O 
+time =t 
+s 
+Newton's first law tells us that there must be an unbalanced force acting on the ball 
+since it is accelerating. 
+Newton's second law tells us that the size of the unbalanced force is directly 
+proportional to the rate of change of momentum. We know that the force is constant 
+so the rate of change of momentum is also constant, which, since the mass is also 
+constant, implies that the acceleration is uniform so the suvat equations apply. 
+If the ball has mass, m we can calculate the change of momentum of the ball. 
+initial momentum = mu 
+final momentum = mv 
+change in momentum = mv - mu 
+mv-mu 
+The time taken is t so the rate of change of momentum = ---
+t 
+
+=== PAGE 89 ===
+This is the same as m(v - u) = ma 
+t 
+Newton's second law states that the rate of change of momentum is proportional to 
+the force, so F ex ma. 
+To make things simple, the newton is defined so that the constant of proportionality is 
+equal to 1 so: 
+F=ma 
+So when a force is applied to a body in this way, Newton's second law can be simplified to: 
+The aaeleration of a body is proportional to the force applied and inverse!), proportional to its mass. 
+Not all examples are so simple. Consider a jet of water hitting a wall as in Figure 31. 
+The water hits the wall and loses its momentum, ending up in a puddle on the floor. 
+Newton's first law tells us that since the velocity of the water is changing, there must be 
+a force on the water, 
+Newton's second law tells us that the size of the force is equal to the rate of change 
+of momentum. The rate of change of momentum in this case is equal to the amount 
+of water hitting the wall per second multiplied by the change in velocity. This is not 
+the same as ma. For this reason, it is best to use the first, more general, statement of 
+Newton's second law, since this can always be applied. 
+However, in this course, most of the examples will be of the F = ma type. 
+Example 1: Elevator accelerating upward 
+An elevator has an upward acceleration of 1 ms-2. If the mass of the elevator is 500kg, 
+what is the tension in the cables pulling it up? 
+First draw a free-body diagram as in Figure 32. Now we can see what forces are acting. 
+Newton's first law tells us that the forces must be unbalanced. Newton's second law 
+tells us that the unbalanced force must be in the direction of the acceleration (upward). 
+This means that F, is bigger than mg. 
+Newton's second law also tells us that the size of the unbalanced force equals ma so we 
+get the equation: 
+F,-mg= ma 
+Rearranging gives: 
+F, = mg + ma 
+= 500 X 10 + 500 X 1 
+= 5500N 
+• 
+V 
+~ 
+A.2 Figure 31 A jet 
+becomes a puddle. 
+F, 
+mg 
+• 
+A.2 Figure 32 An elevator 
+accelerating upward. This 
+could either be going up 
+getting faster or going down 
+getting slower. 
+43 
+
+=== PAGE 90 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+mg 
+... 
+A.2 Figure 33 The elevator 
+with downward acceleration. 
+Mg 
+• 
+a 
+)) 
+A.2 Figure 34 Two masses 
+are joined by a rope. 
+1200N 
+600N 
+... 
+A.2 Figure 35 The 
+parachutist just after o pening 
+the parachute. 
+44 
+Example 2: Elevator accelerating downward 
+The same elevator as in Example 1 now has a downward acceleration of 1 m s-2 as in 
+Figure 33. 
+This time, Newton's laws tell us that the weight is bigger than the tension so: 
+mg-F,=ma 
+Rearranging gives: 
+F, = mg-ma 
+= 500 X 10 - 500 X 1 
+=4500N 
+Example 3: Joined masses 
+Two masses are joined by a rope. One of the masses sits on a frictionless table, while 
+the other hangs off the edge as in Figure 34. 
+Mis being dragged to the edge of the table by m. 
+Both are connected to the same rope so F1 is the same for both masses. This also means 
+that the acceleration a is the same. 
+We do not need to consider FN and mg for the mass on the table because these forces 
+are balanced. However, the horizontally unbalanced force is F, . 
+Applying Newton's laws to the mass on the table gives: 
+F, =ma 
+The hanging mass is accelerating down so mg is bigger than F,. Newton's second law 
+implies that: mg - F, = ma 
+mg 
+Substituting for F, gives: mg - ma = ma so a= M + m 
+Example 4: The free fall parachutist 
+After falling freely for some time, a free fall parachutist, whose weight is 60 kg, opens his 
+parachute. Suddenly, the force due to air resistance increases to 1200N. What happens? 
+Looking at the free-body diagram in Figure 35, we can see that the forces are 
+unbalanced and that, according to Newton's second law, the acceleration, a, will 
+be upward. 
+The size of the acceleration is given by: 
+ma = 1200 - 600 = 60 x a 
+So: 
+a= lOms-2 
+The acceleration is in the opposite direction to the motion. This will cause the 
+parachutist to slow down. As he slows down, the air resistance gets less until the forces 
+are balanced. He will then continue down with a constant velocity. 
+
+=== PAGE 91 ===
+Exercise 
+Qll. The helium in a balloon causes an upthrust of0.l N. If the mass of the 
+balloon and helium is 6 g, calculate the acceleration of the balloon. 
+Q 12. A rope is used to pull a felled tree (mass 50 kg) along the ground. A tension 
+of 1000 N causes the tree to move from rest to a velocity of 0.1 m s-1 in 2 s. 
+Calculate the force due to friction acting on the tree. 
+Ql3. Two masses are arranged on a frictionless table as shown in the figure on the 
+right. Calculate: 
+(a) the acceleration of the masses 
+(b) the tension in the string. 
+Q 14. A helicopter is lifting a load of mass 1000 kg with a rope. The rope is strong 
+enough to hold a force of 12 kN. What is the maximum upward acceleration 
+of the helicopter? 
+Q 15. A person of mass 65 kg is standing in an elevator that is accelerating upwards 
+at0.5 ms-2• 
+What is the normal force between the floor and the person? 
+Ql6. A plastic ball is held under the water by a child in a swimming pool. The 
+volume of the ball is 4000cm3• 
+(a) If the density of water is 1000 kg m-3, calculate the buoyant force on the 
+ball (buoyant force = weight of fluid displaced). 
+(b) If the mass of the ball is 250 g, calculate the theoretical acceleration of the 
+ball when it is released. Why will the ball not accelerate this quickly in a 
+real situation? 
+◄ Even before opening their 
+parachutes. base j umpers 
+reach terminal velocity. 
+5kg 
+45 
+
+=== PAGE 92 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+• 
+A.2 Figure 36 Apparatus 
+for finding the relationship 
+between force and 
+acceleration. 
+A.2 Figure 37 Graph of 
+tension against acceleration. 
+~1.2 
+= 
+0 
+-~ I.I 
+I 
+I 
+I 
+I 
+V .. 
+1.0 
+slope = 0.521 Nm I s' 
+y-intercept = 0.055 N 
+0.9 
+0.8 
+0.7 
+L 
+0.6 
+.. 
+0.5 
+.. 
+0.4 
+0.3 
+0.2 
+J 
+It is not easy to apply a constant known force to a moving body: just try pulling a cart along 
+the table with a force meter and you will see. One way this is often done in the laboratory is 
+by hanging a mass over the edge of the table as shown in Figure 36. 
+If we ignore any friction in the pulley or in the wheels of the trolley, then the unbalanced 
+force on the trolley= F,. Since the mass is accelerating down. then the weight is bigger than F, 
+so Fg - F, = ma where mis the mass hanging on the string. The tension is therefore given by: 
+F, = mg - ma = m(g - a) 
+There are several ways to measure the acceleration of the trolley: one is to use a motion 
+sensor. This senses the position of the trolley by reflecting an ultrasonic pulse off it. Knowing 
+the speed of the pulse. the software can calculate the distance between the trolley and 
+sensor. As the trolley moves away from the sensor, the time taken for the pulse to return 
+increases; the software calculates the velocity from these changing times. Using this 
+apparatus, the acceleration of the trolley for different masses was measured. and the results 
+are given in the Table 1. 
+A.2Table 1 
+• 
+(F1 = mg - ma)/N 
+0.0100 
+0.10 
+0.097 
+0.098 
+0.096 
+0.001 
+0.0500 
+0.74 
+0.454 
+0.453 
+0.451 
+0.001 
+0.0600 
+0.92 
+0.533 
+0.532 
+0.531 
+0.001 
+0.1000 
+1.49 
+0.832 
+0.830 
+0.828 
+0.001 
+0.1500 
+2.12 
+1.154 
+1.150 
+1.148 
+0.001 
+The uncertainty in mass is g iven by the last decimal place in the scale, and the uncertainty in 
+acceleration by repeating one run several times. To calculate the uncertainty in tension, the 
+. 
+Nm 1s2 
+intercept = 0.0 199 N 
+maximum and minimum values have been 
+calculated by adding and subtracting the 
+uncertainties. 
+These results are shown in Figure 37. 
+Applying Newton's second law to the trolley, 
+the relationship between F, and a should be 
+F, = ma where m is the mass of the trolley. This 
+implies that the gradient of the line should be m. 
+From the graph. we can see that the gradient is 
+0.52 ± 002 kg, which is quite close to the 0.5 kg 
+mass of the trolley. 
+According to theory. the intercept should be (0, O) 
+but we can see that there is a positive intercept of 
+0.05 N. It appears that each value is 0.05 N too big. 
+The reason for this could be friction. If there was 
+friction, then the actual unbalanced force acting 
+on the trolley would be tension - friction. If this is 
+the case, then the results would imply that friction 
+is about 0.05 N. 
+0.1 
+slope = 0.50 I N m-1 s' 
+y-intercept = 0.072 N 
+J + 
+J 
+0 
+0 
+0.5 
+46 
+1.0 
+1.5 
+2.0 
+acceleration/m s-2 
+
+=== PAGE 93 ===
+Newton's third law of motion 
+When dealing with Newton's first and second laws, we are careful to consider only the 
+body that is experiencing the forces, not the body that is exerting the forces. Newton's 
+third law relates these forces. 
+if body A exerts aforce on body B, then body B will exert an equal and opposite force on body A. 
+So if someone is pushing a car with a force Fas shown in Figure 38, the car will 
+push back on the person with a force -F. In this case, both of these forces are normal to 
+the car's surface. 
+- F 
+You might think that, since these forces are equal and opposite, they will be balanced, 
+and, in that case, how does the person get the car moving? This is wrong. The forces act 
+on different bodies so cannot balance each other. 
+In summary, a Newton's third law pair is made up of two forces of the same type and 
+magnitude acting in opposite directions on different bodies. 
+Example 1: A falling body 
+A body falls freely toward the ground as in Figure 39. If we 
+ignore air resistance, there is only one force acting on the 
+body- the force due to the gravitational attraction of the 
+Earth, which we call weight. 
+Applying Newton's third law 
+If the Earth pulls the body down, then the body must pull 
+the Earth up with an equal and opposite force. We have seen 
+that the gravitational force always acts on the center of the 
+body, so Newton's third law implies that there must be a 
+force equal to F8 acting upward on the center of the Earth 
+as in Figure 40. 
+Example 2: A box rests on the floor 
+• 
+A 
+A.2 Figure 40 The Earth 
+pulled up by gravity 
+A box sits on the floor as shown in Figure 41. Let us apply Newton's third law to this 
+situation. 
+There are two forces acting on the box. 
+Normal force: The floor is pushing up on the box with a force FN. According to 
+Newton's third law, the box must therefore push down on the floor with a force of 
+magnitude FN. 
+If experimental 
+measurements contain 
+uncertainties. how can 
+laws be developed 
+based on experimental 
+evidence? {NOS) 
+It is very important to 
+realize that Newton's 
+third law is about 
+two bodies. Avoid 
+statements of this law 
+that do not mention 
+anything about there 
+being two bodies. 
+A.2 Figure 38 The man 
+pushes the car and the car 
+pushes the man. 
+A 
+A.2 Figure 39 A falling 
+body pulled down by gravity. 
+A 
+A.2 Figure 41 Forces acting 
+on a box resting on the floor. 
+47 
+
+=== PAGE 94 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+Students often think 
+that Newton's third law 
+implies that the normal 
+force = -weight, but 
+both of these forces act 
+on the box. If the box 
+is at rest, these forces 
+are indeed equal and 
+opposite but this is due 
+to Newton's first law. 
+A boat tests its water cannons. 
+water 
+string 
+.. 
+A.2 Figure 43 A table 
+tennis ball attached to a mass 
+balance. 
+48 
+Weight: The Earth is pulling the box down with a force F8. 
+According to Newton's third law, the box must be pulling 
+the Earth up with a force of magnitude F8 as shown in 
+Figure 42. 
+Example 3: Recoil of a gun 
+When a gun is fired, the velocity of the bullet changes. 
+Newton's first law implies that there must be an unbalanced 
+force on the bullet. This force must come from the gun. 
+Newton's third law says that if the gun exerts a force on the 
+bullet, the bullet must exert an equal and opposite force on 
+the gun. This is the force that makes the gun recoil or 
+'kick back'. 
+Example 4: The water cannon 
+.. 
+A.2 Figure 42 Forces acting 
+on the Earth according to 
+Newton's third law. 
+When water is sprayed at a wall from a hosepipe, it hits the wall and stops. Newton's 
+first law says that if the velocity of the water changes, there must be an unbalanced 
+force on the water. This force comes from the wall. Newton's third law says that if the 
+wall exerts a force on the water, then the water will exert a force on the wall. This is the 
+force that makes a water cannon so effective at dispersing demonstrators. 
+Exercise 
+Ql 7. Use Newton's first and third laws to explain the following: 
+(a) When burning gas is forced downward out of a rocket motor, the rocket 
+accelerates up. 
+(b) When the water cannons on the boat in the photo are operating, the boat 
+accelerates forward. 
+(c) When you step forwards off a skateboard, the skateboard accelerates 
+backward. 
+(d) A table tennis ball is immersed in a fluid and held down by a string as 
+shown in Figure 4 3. The container is placed on a balance. What will 
+happen to the reading of the balance if the string breaks? 
+
+=== PAGE 95 ===
+Collisions 
+In this section, we have been dealing with the interaction between two bodies 
+(gun-bullet, skater-skateboard, hose-water). To develop our understanding of the 
+interaction between bodies, let us consider a simple collision between two balls as 
+illustrated in Figure 44. 
+u, 
+lh 
+----.:...+ 
+Before Q 0 
+m, 
+'"2 
+During 
+F, • 
+Let us apply Newton's three laws to this problem. 
+Newton's first law 
+• 
+F2 
+~ 
+V2 
+Afte1· Q 0 
+In the collision, the red ball slows down and the blue ball speeds up. Newton's first law 
+tells us that this means there is a force acting to the left on the red ball (F1) and to the 
+right on the blue ball (Fi). 
+Newton's second law 
+This law tells us that the force will be equal to the rate of change of momentum of the 
+balls so if the balls are touching each other for a time Lu: 
+m 1V1 -m1u1 
+F1 = 
+11t 
+Newton's third law 
+According to the third law, if the red ball exerts a force on the blue ball, then the blue 
+ball will exert an equal and opposite force on the red ball. 
+Rearranging gives: 
+In other words, the momentum at the start equals the momentum at the end. 
+We find that this applies not only to this example but to all interactions. 
+A.2 Figure 44 Collision 
+between two balls. 
+An isolated system 
+is one in which no 
+external forces are 
+acting When a ball hits 
+a wall, the momentum 
+of the ball is not 
+conserved because the 
+ball and wall is not an 
+isolated system. since 
+the wall is attached 
+to the ground. If the 
+ball and wall were 
+floating in space, then 
+momentum would be 
+conserved. 
+49 
+
+=== PAGE 96 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+How are concepts 
+of equilibrium and 
+conseNation applied to 
+understand matter and 
+motion from the smallest 
+atom to the whole 
+Universe? {B.3, D.1) 
+In which way is 
+conseNation of 
+momentum relevant to 
+the workings of a nuclear 
+power station? (E4) 
+When dealing with 
+circular motion in 
+physics, we always 
+measure the angle in 
+radians. 
+/,/,,,,,,,, 
+/ 
+I 
+' ,,,',,, 
+\ 
+I 
+\ 
+I 
+I 
+I 
+I 
+I 
+I 
+\ 
+I 
+\ f 
+V 
+B 
+I 
+\ 
+\ 
+\ 
+' ' .. 
+' ', 
+// / A 1/v 
+A.2 Figure 45 Although 
+speed is constant, velocity is 
+changing because direction is 
+changing. 
+50 
+The law of the conservation of momentum 
+For a system of isolated bodies, the total momentum is always the same. 
+This is not a new law since it is really just a combination of Newton's laws. However, 
+it provides a useful short cut when solving problems. 
+In many examples, we will have to pretend everything is in space isolated from the 
+rest of the Universe, otherwise they are not isolated and the law of conservation of 
+momentum will not apply. 
+You may have noticed that some collisions enable the bodies to bounce off one 
+another, while there are other collisions where the bodies stick together. This is 
+discussed further in A.3 Work, energy and power. 
+Nature of Science 
+By applying what we know about motion in a straight line, we can develop a 
+model for motion in a circle. This is a common way that models are developed 
+in physics: start simple and add complexity later. 
+Circular motion 
+If a car travels around a bend at 30 km h-1, it is obviously traveling at a constant speed, 
+since the speedometer registers 30 km h-1 all the way round. However, it is not traveling 
+at constant velocity. This is because velocity is a vector quantity, and for a vector 
+quantity to be constant, both magnitude and direction must remain the same. Bends 
+in a road can be many different shapes, but, to simplify things, we will only consider 
+circular bends taken at constant speed. 
+Quantities of circular motion 
+Consider the body in Figure 45 traveling in a circle radius r, with constant speed v. 
+In time flt, the body moves from A to B. As it does this, the radius sweeps out an 
+angle !le. 
+\.Vhen describing motion in a circle, we often use quantities referring to the angular 
+motion rather than the linear motion. These quantities are: 
+Time period (n 
+The time period is the time taken to complete one circle. 
+The unit of the time period is the second. 
+Angular displacement (0) 
+The angular displacement is the angle swept out by a line joining the body to 
+the center. 
+The unit of angular displacement is the radian. 
+
+=== PAGE 97 ===
+Angular velocity (w) 
+The angular velocity is the angle swept out by per unit time. 
+The unit of angular displacement is the radian s-1• 
+tie 
+(t) = Lii" 
+The angle swept out when the body completes a circle is 2n and the time taken is by 
+definition the time period Tso this equation can also be written: 
+2JC 
+(t) = -
+T 
+Frequency (f) 
+The frequency is the number of complete revolutions per unit time. 
+f =!_ 
+T 
+So: 
+(t) = mf 
+Angular velocity and speed 
+In a time T, the body in Figure 46 completes one full circle so it travels a distance brr, 
+h 
+• 
+c 
+f h 
+. l S 
+d . d f· 
+d 
+h discancetraveled 
+brr I 
+h" 
+t e cJrcumrerence o t e circ e. pee 1s e me as t e 
+. 
+k 
+so v = -. n t 1s 
+11me ta en 
+T 
+time, a line joining the body to the center will sweep out an angle of 2n radians so the 
+angular velocity, ul = 21' . Substituting into the equation for v we get: 
+T 
+V = ulf 
+Although the speed is constant, when a body moves in a circle, its direction 
+and velocity are always changing. At any moment in time, the magnitude of the 
+instantaneous velocity is equal to the speed and the direction is perpendicular to the 
+radius of the circle. 
+Centripetal acceleration 
+From the definition of acceleration, we know that if the velocity of a body changes, 
+it must be accelerating, and that the direction of acceleration is in the direction of the 
+change in velocity. Let us consider a body moving in a circle with a constant speed v. 
+Figure 46 shows two positions of the body separated by a short time. 
+To derive the equation for this acceleration, let us consider a very small angular 
+displacement 88 as represented by Figure 47. 
+r f ' 
+I 
+6v 
+I 
+I 
+I 
+/ 
+/ 
+/ 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+/ 
+/ 
+/ 
+/ 
+Why is no work done 
+on a body moving along 
+a circular trajectory at 
+constant speed? (A.3) 
+.,,..------
+' ' ' ' ' \ 
+' I 
+I 
+I 
+\ 
+\,',,, 
+/_,,,,,, A 1/v 
+-------
+• 
+A.2 Figure 46 A body 
+travels at constant speed 
+around a circle of radius r. 
+◄ 
+A.2 Figure 47 Angular 
+displacement. 
+51 
+
+=== PAGE 98 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+if Bis small then B = f 
+.. 
+A.2 Figure 48 A small angle 
+approximation. 
+You will not be asked 
+to reproduce this 
+derivation in the exam. 
+52 
+If this small an8
+ular displacement has taken place in a short time 8t, then the angular 
+velocity, eu = ~ -
+6t 
+change of velocity 
+From the definition of acceleration: a = - ~~.---~ 
+time 
+If we took only the magnitude of velocity, then the change of velocity would be zero. 
+However, velocity is a vector so change in velocity is found by taking the final velocity 
+vector - initial velocity vector as in the vector addition in Figure 48. This triangle is not 
+a right-angled triangle so cannot be solved using Pythagoras. However, since the angle 
+80 is small, we can say that the angle 80 in radians is approximately equal to ~v-
+Rearranging gives: 
+8v =v80 
+8v v80 
+acceleration = 8t = 8t 
+a= veu 
+But we know that v = eur so we can substitute for v and get a = eu2r 
+Or substituting for: 
+V 
+eu= -r 
+v2 
+a= -r 
+The direction of this acceleration is in the direction of 8v. Now, as the angle 80 is small, 
+the angle between 8v and vis approximately 90°, which implies that the acceleration 
+is perpendicular to the velocity. This makes it directed toward the center of the circle; 
+hence the name centripetal acceleration. 
+Exercise 
+Ql8. A body travels with constant speed of 2 m s- 1 around a circle of radius 5 m. 
+Calculate: 
+(a) the distance moved in one revolution 
+(b) the displacement in one revolution 
+(c) the time taken for one revolution 
+(d) the frequency of the motion 
+(e) the angular velocity 
+(f) the centripetal acceleration. 
+Centripetal force 
+From Newton's first law, we know that if a body accelerates, there must be an 
+unbalanced force acting on it. The second law tells us that this force is in the direction 
+of the acceleration. This implies that there must be a resultant force acting toward the 
+center. This force is called the centripetal force. 
+mv2 
+From Newton's second law, we can also deduce that F = ma so F = -
+= meu2r. 
+r 
+
+=== PAGE 99 ===
+Examples of circular motion 
+All bodies moving in a circle must be acted upon by a force toward the center of the 
+circle. However, this can be provided by many different forces. 
+Mass on a string in space 
+• 
+A.2 Figure 49 An astronaut playing with 
+a mass on a string. 
+• 
+A.2 Figure SO The string breaks. 
+If you take a mass on the end of a string, you can 
+easily make it move in a circle, but the presence 
+of gravity makes the motion difficult to analyze. 
+It will be simpler if we start by considering what 
+this would be like if performed by an astronaut 
+in deep space: much more difficult to do but 
+easier to analyze. Figure 49 shows an astronaut 
+making a mass move in a circle on the end of a 
+string. The only force acting on the mass is the 
+tension in the string. 
+In this case, it is obvious that the centripetal 
+force is provided by the tension so: 
+mv2 
+F = -
+' 
+r 
+From this, we can predict that the force 
+required to keep the mass in its circular motion 
+will increase if the speed increases. This will 
+be felt by the astronaut who, according to 
+Newton's third law, must be experiencing an 
+equal and opposite force on the other end of the 
+string. If the string were to break, the ball would 
+have no forces acting on it so would travel at a 
+constant velocity in the same direction as it was 
+moving when the break occurred. This would 
+be at some tangent to the circle as in Figure 50. 
+Mass on a string on the Earth (horizontal) 
+When playing with a mass on a string on the Earth, there will be gravity acting as well 
+as tension. We will first consider how this changes the motion when the mass is made 
+to travel in a horizontal circle as in Figure 51. 
+For the motion to be horizontal, there will be no vertical acceleration so the weight 
+must be balanced by the vertical component of tension (F, cos e = mg). This means 
+that the string cannot be horizontal but will always be at an angle, as shown in 
+Figure 51. T~e centripetal force is provided by the horizontal component of tension 
+(F, sin e = m;\ which is equal to the vector sum of the two forces. 
+How can knowledge of 
+electric and magnetic 
+forces al low the 
+prediction of changes to 
+the motion of charged 
+particles? (D.2) 
+In this example, 
+the astronaut has a 
+much larger mass 
+than the ball. If this 
+was not the case, 
+the astronaut would 
+be pulled out of 
+position by the equal 
+and opposite force 
+acting on the other 
+end of the string . 
+People often think 
+that the mass will fly 
+outward if the string 
+breaks. This is because 
+they feel themselves 
+being forced outward 
+so think that if the string 
+breaks, the mass will 
+move in this direction. 
+Applying Newton's 
+laws. we know that this 
+is not the case. This is 
+an exam pie of a case 
+where intuition gives 
+the wrong answer. 
+A.2 Figure 51 A mass 
+swung in a horizontal circle. 
+53 
+
+=== PAGE 100 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+A.2 Figure 52 A mass 
+swung in a vertical circle. 
+... 
+Wall of death. 
+A.2 Figure 53 The wall of 
+death with a ball rather than 
+bike. 
+54 
+► 
+Mass on a string on the Earth (vertical) 
+As a mass moves in a vertical circle, the force of gravity sometimes acts in the same 
+direction as its motion and sometimes against it. For this reason, it is not possible to 
+keep it moving at a constant speed, so here we will just consider it when it is at the top 
+and the bottom of the circle as shown in Figure 52. 
+mv 2 
+mv 2 
+At the top, the centripetal force - ,.-' = F, (top)+ mg so F t (top) = ~ 
+- mg 
+mvb2 
+mvb2 
+At the bottom, -- = F, (bottom) - mg so F, (bottom) = -- + mg 
+r 
+r 
+When the mass approaches the top of the circle, its kinetic energy is transferred to 
+potential energy, resulting in a loss of speed. Ifit were to stop at the top, then it would 
+fall straight down. The minimum speed necessary for a complete circle is when the 
+weight of the ball is enough to provide the centripetal force without any tension. So if 
+mv 2 
+F, (topl = 0, then - ' = mg. 
+r 
+When you rotate a mass in a vertical circle, you definitely feel the change in the tension 
+as it decreases toward the top and increases toward the bottom. 
+The wall of death 
+In the wall of death, motorbikes and cars travel around the inside of a cylinder with 
+vertical walls . 
+In the wall of death shown in Figure 53, the centripetal force is provided by the normal 
+reaction, FN. The weight is balanced by the friction between the ball and wall, which is 
+dependent on the normal reaction Fr= 1--1FN. If the velocity is too slow, the normal force 
+will be small, which means the friction will not be large enough to support the weight. 
+
+=== PAGE 101 ===
+Car on a circular track 
+\1/hen a car travels around a circular track, the centripetal force is provided by the 
+friction between the tires and the road. The faster you go, the more friction you 
+need. The problem is that friction has a maximum value given by Fr= 1-tFN, so if the 
+centripetal force required is greater than this, the car will not be able to maintain a 
+circular path. W ithout friction, for example, on an icy road, the car would travel in a 
+straight line. This means that you would hit the curb on the outside of the circle, giving 
+the impression that you have been thrown outward. This is of course not the case since 
+there is no force acting outward. 
+Cyclist on a banked track 
+A banked track is a track that is 
+angled to make it possible to go 
+faster around the bends. These are 
+used in indoor cycle racing. In the 
+case shown in Figure 55, where the 
+bike is represented by a ball, the 
+centripetal force is provided by the 
+horizontal component of the normal 
+reaction force, so even without 
+friction, the ball can travel around 
+the track. If the track was angled 
+the other way, then it would have 
+the opposite effect. This is called an 
+adverse camber and bends like this 
+should be taken slowly. 
+► 
+Dynamic friction is 
+less than static friction 
+so once a car starts to 
+skid on a corner it will 
+continue. This is also 
+why it is not a good 
+idea to spin the wheels 
+of a car while going 
+round a corner. 
+A.2 Figure 54 A car 
+rounding a bend. 
+A racing cyclist on a banked 
+track in a velodrome. 
+Remember when 
+solving circular motion 
+pro blems, centripetal 
+force is not an extra 
+force - it is one of the 
+existing forces. Your 
+task is to find which 
+force (or a component 
+of it) points toward the 
+center. 
+A.2 Figure 55 A ball on a 
+banked track. 
+55 
+
+=== PAGE 102 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+56 
+Exercise 
+QI 9. Calculate the centripetal force for a 1000 kg car traveling around a circular 
+track of radius 50 mat 30 km h-1• 
+Q20. A 200g ball is made to travel in a circle of radius 1 m on the end of a string. 
+If the maximum force that the string can withstand before breaking is 50N, 
+what is the maximum speed of the ball? 
+Q21. A rollercoaster is designed with a 5 m radius vertical loop. Calculate the 
+minimum speed necessary to get around the loop without falling down. 
+Q22. A 200 g ball moves in a vertical circle on the end of a 50 cm long string. If its 
+speed at the bottom is lOms-1, calculate: 
+(a) the velocity at the top of the circle 
+(b) the tension at the top of the circle. 
+Challenge yourself 
+1. A car of mass 1000 kg is driving around a circular track with radius 50 m. If the 
+coefficient of friction between the tires and road is 0.8, calculate the maximum 
+speed of the car before it starts to slip. What would the maximum speed be if the 
+track was banked at 45°? 
+Guiding Questions revisited 
+How can we use our knowledge and understanding of the forces acting on a 
+system to predict changes in translational motion? 
+How can Newton's laws be modeled mathematically? 
+How can the conservation of momentum be used to predict the behavior of 
+interacting objects? 
+In this chapter, we have considered new quantities and accepted laws to describe how: 
+• Different types of force can be distinguished from one another. 
+• Forces are vector quantities that can be represented by arrows of appropriate 
+length and direction on free-body diagrams (in which the forces acting on, 
+rather than exerted by, a given body are shown). 
+• Newton's first law states that an object will remain at constant velocity unless 
+acted upon by a resultant force. 
+• Newton's second law states that the rate of change of momentum is 
+proportional to and in the same direction as the resultant force. 
+• A resultant force acting at an angle to a body's velocity leads to a change in 
+direction and, when the force and velocity are perpendicular, circular motion. 
+• Linear acceleration and centripetal acceleration are both defined as the rate of 
+change of velocity, but are calculated using different equations. 
+• Newton's third law states that when body A exerts a force on body B, body B 
+exerts an equal and opposite force (of the same type) on body A. 
+
+=== PAGE 103 ===
+• Momentum, the product of mass and velocity, is conserved in the absence of 
+external forces, which means that the initial momentum and final momentum 
+of a system can be equated. 
+• When objects interact, they exert forces on one another, which means that 
+momentum is exchanged between them. 
+• Newton's second law can be rephrased mathematically as impulse, the product 
+of force acting and the time of the interaction, which is equal to change in 
+momentum. 
+Practice questions 
+1. (a) A car goes round a curve in a road at constant speed. Explain why, 
+although its speed is constant, it is accelerating. 
+(2) 
+In the diagram, a marble (small glass sphere) rolls down a track, the bottom 
+part of which has been bent into a loop. The end A of the track, from which 
+the marble is released, is at a height of 0.80 m above the ground. Point Bis 
+the lowest point and point C the highest point of the loop. The diameter of 
+the loop is 0.35 m. 
+C 
+0.80111 
+----------T 
+0.35m 
+ground 
+B 
+The mass of the marble is 0.050 kg. Friction forces and any gain in kinetic 
+energy due to the rotating of the marble can be ignored. The acceleration 
+due to gravity, g = 10 m s-2• 
+Consider the marble when it is at point C. 
+(b) (i) Copy the diagram and on the diagram, draw an arrow to show 
+the direction of the resultant force acting on the marble. 
+(1) 
+(ii) State the names of the two forces acting on the marble. 
+(2) 
+(iii) Deduce that the speed of the marble is 3.0 m s-1• 
+(3) 
+(iv) Determine the resultant force acting on the marble and hence 
+determine the reaction force of the track on the marble. 
+(4) 
+(Total 12 marks) 
+57 
+
+=== PAGE 104 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+58 
+2. 
+(a) Define what is meant by coefficient of friction. 
+The diagram shows a particular ride at a funfair (sometimes called 
+'the fly') that involves a spinning circular room. When it is spinning 
+fast enough, a person in the room feels 'stuck' to the wall. The floor is 
+lowered and they remain held in place on the wall. Friction prevents 
+the person from falling. 
+radius = 6.0 m 
+(b) (i) Explain whether the friction acting on the person is static, 
+dynamic, or a combination of both. 
+(2) 
+The diagram below shows a cross section of the ride when the floor has 
+been lowered. 
+(ii) Copy the diagram and, on your diagram, draw labeled arrows to 
+represent the forces acting on the person. 
+(3) 
+(c) Use the data given below: 
+mass of person = 80 kg 
+coefficient of friction between the person and the wall= 0.40 
+radius of circular room = 6.0 m 
+Calculate each of the following: 
+(i) the magnitude of the minimum resultant horizontal force on 
+~~~ 
+m 
+(ii) the minimum speed of the wall for a person to be 'stuck' to it. 
+(2) 
+(rota! 10 marks) 
+
+=== PAGE 105 ===
+3. 
+A 10 000 kg cubic rock (a boulder) rests on the side of a mountain as shown 
+in the diagram below. 
+(a) Calculate the frictional force acting on the rock. 
+(3) 
+(b) After a prolonged period of rain, the rock starts to slide down the 
+slope. Show that this will happen when the coefficient of friction 
+between the rock and the slope is equal to 0.33. 
+(3) 
+(c) Once the block starts to slide, the coefficient of friction is reduced to 
+0.2. Calculate: 
+(i) the acceleration of the rock 
+(2) 
+(ii) the speed of the rock when it reaches the bottom of the hill. 
+(2) 
+(d) The rock then slides along the flat section of ground. Assuming there 
+is no change in the coefficient of friction calculate: 
+(i) the frictional force on the rock 
+(ii) the distance traveled by the rock. 
+(1) 
+(2) 
+(Total I 3 marks) 
+4. 
+A student investigates the forces involved in holding a climbing rope by 
+standing on bathroom scales while holding a rope as shown in the diagram. 
+(a) If both students have mass 60 kg, calculate: 
+(i) the tension in the rope 
+(1) 
+(ii) the reading on the scales 
+(2) 
+(iii) the friction between the rope holder's feet and the scales. 
+(2) 
+(b) Explain why the rope-holding student should lower the hanging 
+student smoothly. 
+(2) 
+(Total 7 marks) 
+59 
+
+=== PAGE 106 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+sand 
+... -------- 4- --------
+........ --------------------
+60 
+5. 
+Sand flows out of a container at a rate of 5 kg s-1 and falls a vertical distance 
+of 1 m, where it is deflected into the back of a truck by a deflector placed at 
+an angle of 45°. 
+(a) Calculate: 
+(i) the velocity of the sand as it hits the deflector 
+(1) 
+(ii) the horizontal velocity of the sand after hitting the deflector 
+(1) 
+(iii) the force exerted by the sand on the deflector. 
+(3) 
+(b) The sand stops when it hits the back of the truck. 
+(i) Explain why there must be a frictional force between the tires 
+and the road. 
+(3) 
+(ii) Calculate the force of friction between the truck and the ground. 
+(2) 
+(rotal 10 marks) 
+6. Two forces act on an object in different directions. The magnitudes of 
+the forces are 18 N and 27 N. The mass of the object is 9.0 kg. What is 
+a possible value for the acceleration of the object? 
+A 
+0ms-2 
+B 
+0.5ms-2 
+C 
+2.0ms-2 
+D 
+6.0ms-2 
+(rotal 1 mark) 
+7. 
+An object of mass m strikes a vertical wall horizontally at speed U. 
+The object rebounds from the wall horizontally at speed V. What is the 
+magnitude of the change in the momentum of the object? 
+A 
+0 
+B 
+m(V- U) 
+C 
+m(U - V) 
+D 
+m(U+ V) 
+(rotal 1 mark) 
+8. 
+A sphere is suspended from the end of a string and rotates in a horizontal 
+circle as shown on the left. Which free-body diagram, to the correct scale, 
+shows the forces acting on the sphere? 
+A 
+B 
+C 
+D 
+(rotal 1 mark) 
+
+=== PAGE 107 ===
+9. A company delivers packages to customers using a small unmanned 
+aircraft. Rotating horizontal blades exert a force on the surrounding air. 
+The air above the aircraft is initially stationary. 
+The air is propelled vertically downward with speed v. The aircraft hovers 
+motionless above the ground. A package is suspended from the aircraft 
+on a string. The mass of the aircraft is 0. 9 5 kg and the combined mass of 
+the package and string is 0.45 kg. The mass of air pushed downward by the 
+blades in one second is 1.7 kg. 
+(a) State the value of the resultant force on the aircraft when hovering. 
+(b) Outline, by reference to Newton's third law, how the upward lift force 
+on the aircraft is achieved. 
+(c) Determine v. State your answer to an appropriate number of 
+significant figures. 
+(d) The package and string are now released and fall to the ground. The 
+lift force on the aircraft remains unchanged. Calculate the initial 
+acceleration of the aircraft. 
+(1) 
+(2) 
+(3) 
+(2) 
+(Total 8 marks) 
+10. The Rotor is an amusement park ride that can be modeled as a vertical 
+cylinder of inner radius R rotating about its axis. When the cylinder rotates 
+fast enough, the floor drops out and the passengers stay motionless against 
+the inner surface of the cylinder. The diagram on the right shows a person 
+taking the Rotor ride. The floor of the Rotor has been lowered away from 
+the person. 
+(a) Draw and label the free-body diagram for the person. 
+(b) The person must not slide down the wall. Show that the minimum 
+angular velocity of the cylinder for this situation is: 
+w=ei 
+whereµ is the coefficient of static friction between the person and the 
+(2) 
+cylinder. 
+(2) 
+(c) The coefficient of static friction between the person and the cylinder 
+is 0.40. The radius of the cylinder is 3.5 m. The cylinder makes 28 
+revolutions per minute. Deduce whether the person will slide down 
+the inner surface of the cylinder. 
+(3) 
+(Total 7 marks) 
+" r=TV Y:.irc,.r, 
+~package 
+-=======;-ground 
+_.i..- -
+61 
+
+=== PAGE 108 ===
+SPACE, TIME AND MOTION A.2 
+Forces and momentum 
+62 
+11. A boulder is many times heavier than a pebble; that is, the gravitational 
+force that acts on a boulder is many times that which acts on the pebble. 
+If you drop a boulder and a pebble at the same time, they will fall together 
+with equal accelerations (neglecting air resistance). The principal reason 
+the heavier boulder does not accelerate more than the pebble has to do 
+with what? 
+A 
+Energy 
+B 
+Weight 
+C 
+Mass 
+D 
+Surface area 
+E 
+none of these 
+(Total 1 mark) 
+12. The force exerted on a house by a 120 mph hurricane wind is how many 
+times as strong as the force exerted on the same house by a 60 mph gale wind? 
+A 
+Equally 
+B 
+Two times 
+C 
+Three times 
+D 
+Four times 
+(Total 1 mark) 
+13. Two buckets hang from a rope over a frictionless pulley. The bucket on the 
+right has a mass m2, which is greater than the mass of the bucket on the left 
+m1• Bucket 2 starts at height h above the ground. If the buckets are released 
+from rest, determine: 
+(a) the speed with which bucket 2 hits the ground in terms of m1, m2, h, 
+and the acceleration due to gravity g 
+(2) 
+(b) the further increase in height of bucket 1 after bucket 2 hits the ground 
+and stops. 
+(2) 
+Ignore resistive effects and assume the rope is long compared to the height 
+above the ground. 
+(Total 4 marks) 
