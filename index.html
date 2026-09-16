@@ -1151,6 +1151,72 @@
   }
 
   /* ===================================================================
+     NOTES READER -- the page shown when reading a chapter's notes.
+     Sidebar chapter nav (built at runtime from the dashboard's own
+     .chapter-list, so it can never drift out of sync) + a top bar with
+     a breadcrumb and Previous/Next chapter paging + the note content
+     with a "Key terms" side panel pulled from the chapter's own key/
+     distinction callouts. Reuses .dash-shell/.dash-sidebar/.dash-nav-item
+     for the sidebar chrome, and re-themes .notes-body's own light-theme
+     custom properties to the site's dark tokens so existing note markup
+     (headings, callouts, formula boxes, tables) needs no rewriting.
+     =================================================================== */
+  .subject-dash .notes-sidebar{gap:20px;}
+  .subject-dash .notes-sidebar-subject{font-family:"Fraunces",Georgia,serif; font-weight:700; font-size:15.5px; color:var(--hv-text);}
+  .subject-dash .notes-nav{overflow-y:auto; max-height:calc(100vh - 170px); padding-right:4px; gap:1px;}
+  .subject-dash .notes-nav-item{
+    display:flex; align-items:baseline; gap:8px; width:100%; text-align:left; background:none; border:none;
+    font:inherit; cursor:pointer; padding:8px 10px; border-radius:8px; font-size:13px; color:var(--hv-text-soft);
+  }
+  .subject-dash .notes-nav-item:hover{background:var(--hv-surface); color:var(--hv-text);}
+  .subject-dash .notes-nav-item.on{background:var(--hv-surface-2); color:var(--hv-text); font-weight:600;}
+  .subject-dash .notes-nav-item .nn-code{font-family:"IBM Plex Mono",monospace; font-size:10.5px; color:var(--hv-text-faint); flex-shrink:0;}
+  .subject-dash .notes-nav-item.on .nn-code{color:var(--hv-accent-light);}
+  .subject-dash .notes-nav-item span:last-child{overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .subject-dash .notes-nav-item.locked{opacity:.42; cursor:not-allowed;}
+
+  .subject-dash .notes-topbar{display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; margin-bottom:24px;}
+  .subject-dash .notes-topbar-crumbs{font-size:12.5px; color:var(--hv-text-faint); display:flex; align-items:center; gap:8px; flex-wrap:wrap;}
+  .subject-dash .notes-topbar-crumbs b{color:var(--hv-text-soft); font-weight:600;}
+  .subject-dash .notes-pager{display:flex; gap:10px;}
+  .subject-dash .notes-pager-btn{
+    display:inline-flex; align-items:center; gap:6px; background:none; border:1px solid var(--hv-border);
+    color:var(--hv-text-soft); border-radius:9px; padding:8px 13px; font-size:12.5px; font-family:inherit; cursor:pointer;
+  }
+  .subject-dash .notes-pager-btn:hover:not(:disabled){border-color:var(--hv-accent); color:var(--hv-accent-light);}
+  .subject-dash .notes-pager-btn:disabled{opacity:.4; cursor:not-allowed;}
+
+  .subject-dash .notes-content-row{display:grid; grid-template-columns:1fr 260px; gap:30px; align-items:start;}
+  .subject-dash .notes-heading{margin-bottom:20px;}
+  .subject-dash .notes-chnum{font-family:"IBM Plex Mono",monospace; font-size:12.5px; letter-spacing:.06em; color:var(--hv-accent-light); margin-bottom:8px;}
+  .subject-dash .notes-chtitle{font-family:"Fraunces",Georgia,serif; font-weight:700; font-size:clamp(28px,3.6vw,42px); margin:0; text-wrap:balance;}
+  .subject-dash .notes-side-col{position:sticky; top:20px;}
+  .subject-dash .notes-kt-item{padding:12px 0; border-bottom:1px solid var(--hv-border);}
+  .subject-dash .notes-kt-item:last-child{border-bottom:none; padding-bottom:0;}
+  .subject-dash .notes-kt-term{font-weight:600; font-size:13.5px; margin-bottom:4px; color:var(--hv-text);}
+  .subject-dash .notes-kt-def{font-size:12.5px; color:var(--hv-text-soft); line-height:1.5;}
+  .subject-dash .notes-actions{margin-top:32px;}
+
+  .subject-dash .notes-body{
+    --paper: var(--hv-bg);
+    --card: var(--hv-surface);
+    --ink: var(--hv-text);
+    --ink-soft: var(--hv-text-soft);
+    --line: var(--hv-border);
+    --teal:#5cb8bd; --teal-deep:#8fd2d5;
+    --gold:#dcab5b; --gold-soft:#3a2f18;
+    --green:#7fc39a; --green-soft:#1c3327;
+    --plum:#bb99e0; --plum-soft:#2d2440;
+    --red:#e28a80; --red-soft:#3a201d;
+    --focus:#5cb8bd;
+  }
+
+  @media (max-width:900px){
+    .subject-dash .notes-content-row{grid-template-columns:1fr;}
+    .subject-dash .notes-side-col{position:static;}
+  }
+
+  /* ===================================================================
      WORKSPACE PATTERN -- shared between the Extended Essay and Internal
      Assessment tools: header/Saved badge, Overview/Drafts/Sources tabs,
      investigation-details card, draft history with word-count diffs,
@@ -2611,11 +2677,41 @@
   </section>
 
   <!-- NOTES -->
-  <section class="card" id="view-notes" hidden>
-    <div class="notes-body" id="notes-body"></div>
-    <div class="result-actions">
-      <button class="btn-primary" id="btn-notes-quiz">Start quiz on this chapter</button>
-      <button class="btn-secondary" id="btn-notes-back">Back to Economics</button>
+  <section class="card subject-dash" id="view-notes" hidden>
+    <div class="dash-shell notes-shell">
+      <aside class="dash-sidebar notes-sidebar">
+        <button type="button" class="dash-home-btn" id="notes-home-btn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>Back to Home</button>
+        <div class="notes-sidebar-subject" id="notes-sidebar-subject">Economics (HL)</div>
+        <nav class="dash-nav notes-nav" id="notes-nav"></nav>
+      </aside>
+      <div class="dash-main notes-main">
+        <div class="notes-topbar">
+          <div class="notes-topbar-crumbs" id="notes-topbar-crumbs"></div>
+          <div class="notes-pager">
+            <button type="button" class="notes-pager-btn" id="notes-prev-btn"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>Previous</button>
+            <button type="button" class="notes-pager-btn" id="notes-next-btn">Next<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></button>
+          </div>
+        </div>
+        <div class="notes-content-row">
+          <div class="notes-content-col">
+            <div class="notes-heading">
+              <div class="notes-chnum" id="notes-chnum">Chapter 1</div>
+              <h1 class="notes-chtitle" id="notes-chtitle"></h1>
+            </div>
+            <div class="notes-body" id="notes-body"></div>
+            <div class="ee-actions notes-actions">
+              <button class="btn-primary" id="btn-notes-quiz">Start quiz on this chapter</button>
+              <button class="btn-secondary" id="btn-notes-back">Back to Economics</button>
+            </div>
+          </div>
+          <aside class="notes-side-col">
+            <div class="ws-card" id="notes-keyterms-card" hidden>
+              <div class="ws-card-head"><h3><span class="ws-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg></span>Key terms</h3></div>
+              <div id="notes-keyterms-list"></div>
+            </div>
+          </aside>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -24952,8 +25048,6 @@ function renderCrumbs(level){
   var html = '<button type="button" data-nav="home">Home</button>';
   if(level==="subject"){
     html += '<span class="sep">/</span><span class="current">'+subjLabel+'</span>';
-  } else if(level==="notes"){
-    html += '<span class="sep">/</span><button type="button" data-nav="'+subjNav+'">'+subjLabel+'</button><span class="sep">/</span><span class="current">'+chapterLabel(state.scope)+' notes</span>';
   } else {
     html += '<span class="sep">/</span><button type="button" data-nav="'+subjNav+'">'+subjLabel+'</button><span class="sep">/</span><span class="current">'+chapterLabel(state.scope)+'</span>';
   }
@@ -25209,17 +25303,114 @@ function goSetup(scope){
   renderCrumbs("chapter");
 }
 
+function notesOrderedScopes(){
+  var view = currentSubjectView();
+  return Array.prototype.slice.call(view.querySelectorAll(".chapter-list .chapter-card"))
+    .filter(function(card){ return card.getAttribute("data-scope") !== "both" && !card.classList.contains("hl-locked"); })
+    .map(function(card){ return card.getAttribute("data-scope"); });
+}
+
+function notesChapterMeta(scope){
+  var view = currentSubjectView();
+  var card = view.querySelector('.chapter-card[data-scope="'+scope+'"]');
+  var nameFull = card ? (card.querySelector(".c-name")||{}).textContent.trim() : "";
+  var num = chapterLabel(scope);
+  var title = nameFull;
+  var dashIdx = nameFull.indexOf("\u2014");
+  if(dashIdx>=0) title = nameFull.slice(dashIdx+1).trim();
+  if(!title) title = num;
+  return {num: num, title: title};
+}
+
+function extractKeyTerms(html, limit){
+  var box = document.createElement("div");
+  box.innerHTML = html;
+  var nodes = box.querySelectorAll(".callout.key, .callout.distinction");
+  var terms = [];
+  for(var i=0; i<nodes.length && terms.length<limit; i++){
+    var node = nodes[i];
+    var labelEl = node.querySelector(".c-label");
+    if(!labelEl) continue;
+    var term = labelEl.textContent.trim();
+    var clone = node.cloneNode(true);
+    var labelClone = clone.querySelector(".c-label");
+    if(labelClone) labelClone.remove();
+    var def = clone.textContent.trim().replace(/\s+/g," ");
+    if(def.length>200) def = def.slice(0,197).replace(/\s+\S*$/, "")+"...";
+    terms.push({term:term, def:def});
+  }
+  return terms;
+}
+
+function renderNotesKeyTerms(html){
+  var card = document.getElementById("notes-keyterms-card");
+  var list = document.getElementById("notes-keyterms-list");
+  if(!card || !list) return;
+  var terms = extractKeyTerms(html, 6);
+  if(terms.length===0){ card.hidden = true; return; }
+  card.hidden = false;
+  list.innerHTML = terms.map(function(t){
+    return '<div class="notes-kt-item"><div class="notes-kt-term">'+wsEsc(t.term)+'</div><div class="notes-kt-def">'+wsEsc(t.def)+'</div></div>';
+  }).join("");
+}
+
+function renderNotesSidebar(scope){
+  var subjectEl = document.getElementById("notes-sidebar-subject");
+  if(subjectEl) subjectEl.textContent = currentSubjectLabel()+" ("+state.level+")";
+  var navEl = document.getElementById("notes-nav");
+  if(!navEl) return;
+  var view = currentSubjectView();
+  var cards = Array.prototype.slice.call(view.querySelectorAll(".chapter-list .chapter-card"))
+    .filter(function(card){ return card.getAttribute("data-scope") !== "both"; });
+  navEl.innerHTML = cards.map(function(card){
+    var s = card.getAttribute("data-scope");
+    var locked = card.classList.contains("hl-locked");
+    var meta = notesChapterMeta(s);
+    var cls = "notes-nav-item"+(s===scope?" on":"")+(locked?" locked":"");
+    return '<button type="button" class="'+cls+'" data-notes-nav="'+s+'"'+(locked?" disabled":"")+'>'+
+      '<span class="nn-code">'+wsEsc(meta.num)+'</span><span>'+wsEsc(meta.title)+'</span></button>';
+  }).join("");
+}
+
+function renderNotesTopbar(scope){
+  var crumbsEl = document.getElementById("notes-topbar-crumbs");
+  var meta = notesChapterMeta(scope);
+  if(crumbsEl){
+    crumbsEl.innerHTML = wsEsc(currentSubjectLabel()+" ("+state.level+")")+' <span aria-hidden="true">&rsaquo;</span> <b>'+wsEsc(meta.title)+'</b>';
+  }
+  var prevBtn = document.getElementById("notes-prev-btn");
+  var nextBtn = document.getElementById("notes-next-btn");
+  var order = notesOrderedScopes();
+  var idx = order.indexOf(scope);
+  if(prevBtn) prevBtn.disabled = idx<=0;
+  if(nextBtn) nextBtn.disabled = idx===-1 || idx>=order.length-1;
+  if(prevBtn) prevBtn.setAttribute("data-target", idx>0 ? order[idx-1] : "");
+  if(nextBtn) nextBtn.setAttribute("data-target", (idx>=0 && idx<order.length-1) ? order[idx+1] : "");
+}
+
 function goNotes(scope){
   state.scope = scope;
   recordLastChapter(scope);
-  els.notesBody.innerHTML = currentNotesHtml()[scope] || "";
+  var html = currentNotesHtml()[scope] || "";
+  els.notesBody.innerHTML = html;
   els.notesBody.classList.toggle("sl-mode", state.level==="SL");
   hideAllViews();
   els.viewNotes.hidden = false;
-  renderCrumbs("notes");
+  els.siteHeader.hidden = true;
+  els.crumbs.hidden = true;
+  els.crumbs.innerHTML = "";
   if(state.level==="SL" && els.notesBody.innerText.trim().length===0){
     els.notesBody.innerHTML = '<p class="subtitle">This chapter has no Standard Level content &mdash; it&rsquo;s Higher Level only. Switch to '+currentSubjectLabel()+' HL from Home to read it.</p>';
   }
+  var meta = notesChapterMeta(scope);
+  var titleEl = document.getElementById("notes-chtitle");
+  var numEl = document.getElementById("notes-chnum");
+  if(titleEl) titleEl.textContent = meta.title;
+  if(numEl) numEl.textContent = meta.num;
+  els.btnNotesBack.textContent = "Back to "+currentSubjectLabel();
+  renderNotesSidebar(scope);
+  renderNotesTopbar(scope);
+  renderNotesKeyTerms(html);
 }
 
 els.subjectCarousel.addEventListener("click", function(e){
@@ -26731,6 +26922,20 @@ els.viewPhysics.addEventListener("input", function(e){
 
 els.btnNotesQuiz.addEventListener("click", function(){ goSetup(state.scope); });
 els.btnNotesBack.addEventListener("click", function(){ goSubjectChapters(); });
+
+(function wireNotesReader(){
+  var homeBtn = document.getElementById("notes-home-btn");
+  if(homeBtn) homeBtn.addEventListener("click", goHome);
+  els.viewNotes.addEventListener("click", function(e){
+    var navBtn = e.target.closest("[data-notes-nav]");
+    if(navBtn && !navBtn.disabled){ goNotes(navBtn.getAttribute("data-notes-nav")); return; }
+    var pagerBtn = e.target.closest(".notes-pager-btn");
+    if(pagerBtn && !pagerBtn.disabled){
+      var target = pagerBtn.getAttribute("data-target");
+      if(target) goNotes(target);
+    }
+  });
+})();
 
 /* ---------------- setup: quiz length ---------------- */
 function buildCountOptions(){
