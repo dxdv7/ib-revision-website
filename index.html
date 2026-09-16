@@ -1197,6 +1197,11 @@
   .subject-dash .notes-kt-item:last-child{border-bottom:none; padding-bottom:0;}
   .subject-dash .notes-kt-term{font-weight:600; font-size:13.5px; margin-bottom:4px; color:var(--hv-text);}
   .subject-dash .notes-kt-def{font-size:12.5px; color:var(--hv-text-soft); line-height:1.5;}
+  .subject-dash .notes-kt-item.is-formula .notes-kt-term{color:var(--hv-accent-light);}
+  .subject-dash .notes-kt-item.is-formula .notes-kt-def{
+    font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--hv-text);
+    background:var(--hv-bg-alt); border:1px solid var(--hv-border); border-radius:8px; padding:8px 10px; line-height:1.5;
+  }
   .subject-dash .notes-actions{margin-top:32px;}
 
   .subject-dash .notes-body{
@@ -25363,10 +25368,18 @@ function splitStrongTerms(node){
 function extractKeyTerms(html, limit){
   var box = document.createElement("div");
   box.innerHTML = html;
-  var nodes = box.querySelectorAll(".callout.key, .callout.distinction");
+  var nodes = box.querySelectorAll(".callout.key, .callout.distinction, .formula-box");
   var terms = [];
   for(var i=0; i<nodes.length && terms.length<limit; i++){
     var node = nodes[i];
+    if(node.classList.contains("formula-box")){
+      var formulaText = node.textContent.trim().replace(/\s+/g," ");
+      if(!formulaText) continue;
+      var eqIdx = formulaText.indexOf("=");
+      var fTerm = eqIdx>0 ? formulaText.slice(0, eqIdx).trim()+" formula" : "Formula";
+      terms.push({term: fTerm, def: formulaText, isFormula:true});
+      continue;
+    }
     var labelEl = node.querySelector(".c-label");
     var clone = node.cloneNode(true);
     var labelClone = clone.querySelector(".c-label");
@@ -25390,11 +25403,11 @@ function renderNotesKeyTerms(html){
   var card = document.getElementById("notes-keyterms-card");
   var list = document.getElementById("notes-keyterms-list");
   if(!card || !list) return;
-  var terms = extractKeyTerms(html, 6);
+  var terms = extractKeyTerms(html, 20);
   if(terms.length===0){ card.hidden = true; return; }
   card.hidden = false;
   list.innerHTML = terms.map(function(t){
-    return '<div class="notes-kt-item"><div class="notes-kt-term">'+wsEsc(t.term)+'</div><div class="notes-kt-def">'+wsEsc(t.def)+'</div></div>';
+    return '<div class="notes-kt-item'+(t.isFormula?" is-formula":"")+'"><div class="notes-kt-term">'+wsEsc(t.term)+'</div><div class="notes-kt-def">'+wsEsc(t.def)+'</div></div>';
   }).join("");
 }
 
