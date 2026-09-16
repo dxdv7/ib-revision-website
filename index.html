@@ -1190,7 +1190,9 @@
   .subject-dash .notes-heading{margin-bottom:20px;}
   .subject-dash .notes-chnum{font-family:"IBM Plex Mono",monospace; font-size:12.5px; letter-spacing:.06em; color:var(--hv-accent-light); margin-bottom:8px;}
   .subject-dash .notes-chtitle{font-family:"Fraunces",Georgia,serif; font-weight:700; font-size:clamp(28px,3.6vw,42px); margin:0; text-wrap:balance;}
-  .subject-dash .notes-side-col{position:sticky; top:20px;}
+  .subject-dash .notes-side-col{position:sticky; top:20px; max-height:calc(100vh - 40px); display:flex; flex-direction:column;}
+  .subject-dash #notes-keyterms-card{display:flex; flex-direction:column; max-height:100%; overflow:hidden;}
+  .subject-dash #notes-keyterms-list{overflow-y:auto; flex:1; min-height:0; margin:0 -6px; padding:0 6px;}
   .subject-dash .notes-kt-item{padding:12px 0; border-bottom:1px solid var(--hv-border);}
   .subject-dash .notes-kt-item:last-child{border-bottom:none; padding-bottom:0;}
   .subject-dash .notes-kt-term{font-weight:600; font-size:13.5px; margin-bottom:4px; color:var(--hv-text);}
@@ -1213,7 +1215,8 @@
 
   @media (max-width:900px){
     .subject-dash .notes-content-row{grid-template-columns:1fr;}
-    .subject-dash .notes-side-col{position:static;}
+    .subject-dash .notes-side-col{position:static; max-height:none;}
+    .subject-dash #notes-keyterms-card{max-height:60vh;}
   }
 
   /* ===================================================================
@@ -25322,6 +25325,41 @@ function notesChapterMeta(scope){
   return {num: num, title: title};
 }
 
+function capDef(text, maxLen){
+  text = text.trim();
+  if(text.length<=maxLen) return text;
+  var re = /[.!?](?=\s|$)/g, idx=-1, m;
+  while((m = re.exec(text))){
+    if(m.index < maxLen) idx = m.index; else break;
+  }
+  if(idx>=0) return text.slice(0, idx+1).trim();
+  var lastSpace = text.lastIndexOf(" ", maxLen);
+  return lastSpace>20 ? text.slice(0,lastSpace).trim() : text.slice(0,maxLen).trim();
+}
+
+/* Some "key"/"distinction" callouts bundle several <strong>Term:</strong>
+   definitions under one generic label (e.g. "Key definitions") -- split
+   those into individual entries instead of showing one long blob. */
+function splitStrongTerms(node){
+  var strongs = Array.prototype.slice.call(node.querySelectorAll("strong"));
+  var markers = strongs.filter(function(s){ return /:\s*$/.test(s.textContent.trim()); });
+  if(markers.length<2) return null;
+  var results = [];
+  for(var i=0; i<markers.length; i++){
+    var term = markers[i].textContent.trim().replace(/:\s*$/, "");
+    var stopNode = markers[i+1] || null;
+    var walker = markers[i].nextSibling;
+    var defParts = [];
+    while(walker && walker!==stopNode){
+      defParts.push(walker.textContent || "");
+      walker = walker.nextSibling;
+    }
+    var def = defParts.join("").trim().replace(/\s+/g," ");
+    if(term && def) results.push({term:term, def:def});
+  }
+  return results.length ? results : null;
+}
+
 function extractKeyTerms(html, limit){
   var box = document.createElement("div");
   box.innerHTML = html;
@@ -25330,14 +25368,20 @@ function extractKeyTerms(html, limit){
   for(var i=0; i<nodes.length && terms.length<limit; i++){
     var node = nodes[i];
     var labelEl = node.querySelector(".c-label");
-    if(!labelEl) continue;
-    var term = labelEl.textContent.trim();
     var clone = node.cloneNode(true);
     var labelClone = clone.querySelector(".c-label");
     if(labelClone) labelClone.remove();
+    var split = splitStrongTerms(clone);
+    if(split){
+      for(var j=0; j<split.length && terms.length<limit; j++){
+        terms.push({term: split[j].term, def: capDef(split[j].def, 170)});
+      }
+      continue;
+    }
+    if(!labelEl) continue;
+    var term = labelEl.textContent.trim();
     var def = clone.textContent.trim().replace(/\s+/g," ");
-    if(def.length>200) def = def.slice(0,197).replace(/\s+\S*$/, "")+"...";
-    terms.push({term:term, def:def});
+    terms.push({term:term, def:capDef(def, 220)});
   }
   return terms;
 }
