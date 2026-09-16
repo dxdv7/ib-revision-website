@@ -362,6 +362,8 @@
   .callout.distinction .c-label{color:var(--plum);}
   .callout.diagram{background:color-mix(in srgb, var(--teal) 10%, transparent); border-color:var(--teal);}
   .callout.diagram .c-label{color:var(--teal);}
+  .callout.example{background:var(--red-soft); border-color:var(--red);}
+  .callout.example .c-label{color:var(--red);}
   .sl-mode .hl-only{display:none !important;}
   .formula-box{
     font-family:"IBM Plex Mono",monospace;
@@ -4298,10 +4300,13 @@ var BIO_HL_ONLY_CHAPTERS = computeHlOnlyChapters(BIO_BANK);
 /* ---------------- full chapter notes ---------------- */
 var NOTES_HTML = {
 "19": `
+
 <div class="notes-section">
 <h2>1. What is unemployment, and how is it measured?</h2>
 <div class="callout key"><span class="c-label">ILO definition</span>Unemployment = people of working age who are without work, available for work, and actively seeking employment.</div>
 <div class="formula-box">Unemployment rate = (Number unemployed &divide; Total labour force) &times; 100</div>
+<p>To calculate the unemployment rate, divide the number of people who are unemployed by the total labour force (everyone employed or unemployed), then multiply by 100 to express the result as a percentage.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>A country has a total labour force of 30 million people, of whom 1.5 million are without work, available for work, and actively seeking a job. Unemployment rate = (1.5 million &divide; 30 million) &times; 100 = 5%. This means that 5% of the people who want to work and are available to do so currently do not have a job.</p></div>
 <p>The <strong>labour force</strong> (= the workforce = the &ldquo;economically active population&rdquo;) is everyone of working age who is employed or unemployed. It excludes children, students, stay-at-home parents, retired people, and anyone else not seeking work.</p>
 <h3>Why is unemployment hard to measure accurately?</h3>
 <ul>
@@ -4366,6 +4371,8 @@ var NOTES_HTML = {
 <div class="notes-section">
 <h2>6. The natural rate of unemployment</h2>
 <div class="formula-box">Natural rate of unemployment = Structural + Frictional + Seasonal</div>
+<p>To calculate the natural rate of unemployment, simply add together the unemployment rates attributable to each of the three non-cyclical causes: structural, frictional and seasonal unemployment.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose economists estimate that, in a given country, structural unemployment accounts for 3.5% of the labour force, frictional unemployment for 1.5%, and seasonal unemployment for 0.5%. Natural rate of unemployment = 3.5% + 1.5% + 0.5% = 5.5%. This means that even when the economy is producing at its full-employment (potential) level of output, 5.5% of the labour force would still be unemployed, and demand management policy cannot reduce this figure.</p></div>
 <p>This unemployment exists even at full-employment output. Since it isn't caused by deficient AD, <strong>demand management cannot fix it</strong> &mdash; using it at full employment just causes inflation. Only supply-side policy works here.</p>
 </div>
 
@@ -4402,6 +4409,7 @@ var NOTES_HTML = {
 </div>
 `,
 "20": `
+
 <div class="notes-section">
 <h2>1. What is inflation, and what does it cost us?</h2>
 <div class="callout key"><span class="c-label">Definition</span>Inflation is a persistent increase in the average price level, usually measured through a consumer price index (CPI). A single, one-off price rise for one good is not inflation.</div>
@@ -4416,6 +4424,8 @@ var NOTES_HTML = {
 <li><strong>Labour unrest</strong> &mdash; disputes when wages don't keep pace.</li>
 </ul>
 <div class="formula-box">Real interest rate = Nominal interest rate &minus; Inflation rate</div>
+<p>The nominal interest rate is the rate actually quoted by a bank or lender, before adjusting for inflation, while the inflation rate is the percentage rise in the general price level over the same period. Subtracting the inflation rate from the nominal rate gives the real interest rate &mdash; the true change in purchasing power a saver or lender gains, or a borrower gives up, once the erosion of money&rsquo;s value by inflation is taken into account.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>A bank advertises a savings account paying a nominal interest rate of 6% per year, and inflation over that year turns out to be 4%. Real interest rate = 6% &minus; 4% = <strong>2%</strong>. So although the saver&rsquo;s account balance grows by 6% in money terms, their actual purchasing power &mdash; what they can buy with that money &mdash; rises by only about 2%.</p></div>
 <div class="table-wrap"><table class="notes-table">
 <tr><th>Winners</th><th>Losers</th></tr>
 <tr><td>Index-linked incomes; strong wage-bargaining power; borrowers; &ldquo;asset rich&rdquo;; importers</td><td>Fixed incomes; weak bargaining power; savers/lenders; &ldquo;cash rich&rdquo;; exporters</td></tr>
@@ -4426,6 +4436,8 @@ var NOTES_HTML = {
 <h2>2. How is inflation measured?</h2>
 <p>The <strong>Consumer Price Index (CPI)</strong> tracks the price of a representative &ldquo;basket&rdquo; of goods and services, with each category given a <strong>weight</strong> reflecting its share of typical household spending (e.g. Housing &amp; household goods &asymp;29.8%, Transport &asymp;12.4%).</p>
 <div class="formula-box">Inflation rate = [(Index<sub>X+1</sub> &minus; Index<sub>X</sub>) &divide; Index<sub>X</sub>] &times; 100</div>
+<p>Index<sub>X</sub> is the value of the price index (e.g. the CPI) in an earlier period, and Index<sub>X+1</sub> is its value one period later (e.g. a year later). Subtracting the earlier index value from the later one gives the change in the index; dividing by the earlier value converts this into a proportion of the starting price level; and multiplying by 100 expresses it as a percentage &mdash; the inflation rate for that period.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose a country&rsquo;s CPI stood at 108 in January 2023 (Index<sub>X</sub>) and had risen to 112.5 by January 2024 (Index<sub>X+1</sub>). Inflation rate = [(112.5 &minus; 108) &divide; 108] &times; 100 = [4.5 &divide; 108] &times; 100 &asymp; <strong>4.17%</strong>. This means the average level of prices facing consumers rose by about 4.17% over that year.</p></div>
 <h3>Problems with the CPI</h3>
 <ul>
 <li>Not everyone has the same &ldquo;basket&rdquo; &mdash; a family with children spends very differently to a retired couple.</li>
@@ -4478,7 +4490,7 @@ var NOTES_HTML = {
 <tr><td><strong>Total</strong></td><td>1.0</td><td><strong>117.5</strong></td><td><strong>122</strong></td></tr>
 </table></div>
 <div class="formula-box">Weighted inflation rate = (122 &minus; 117.5) &divide; 117.5 &times; 100 &asymp; 3.83%</div>
-<p>Higher than the unweighted rate (1.69%), because housing &mdash; the category people spend the most on &mdash; rose in price and is now given its proper importance instead of being cancelled out by the fall in clothing prices.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Higher than the unweighted rate (1.69%), because housing &mdash; the category people spend the most on &mdash; rose in price and is now given its proper importance instead of being cancelled out by the fall in clothing prices.</p></div>
 </div>
 
 <div class="notes-section hl-only">
@@ -4504,6 +4516,7 @@ var NOTES_HTML = {
 </div>
 `,
 "1": `
+
 <div class="notes-section">
 <h2>Economics as a Social Science</h2>
 <p>Economics is a <strong>social science</strong> &ndash; the study of people in society and how they interact with each other. Related social sciences include sociology, political science, psychology, anthropology and history; economics has borrowed findings from several of these to better explain economic behaviour.</p>
@@ -4672,6 +4685,8 @@ var NOTES_HTML = {
 </div>
 <div class="callout diagram"><span class="c-label">Figure 1.5: Circular flow of income (five sectors)</span>Central boxes: &ldquo;Households&rdquo; (top) and &ldquo;Firms&rdquo; (bottom) connected by the same expenditure/goods-and-services/wages-rent-interest-profits arrows as before. Three additional boxes surround them: &ldquo;Government&rdquo;, &ldquo;Financial institutions&rdquo;, and &ldquo;Foreign sector&rdquo;. Leakage arrows point outward from Households/Firms to these three boxes: &ldquo;Taxes&rdquo; and &ldquo;Government spending&rdquo; connect to Government (taxes flow out, government spending flows back in as an injection); &ldquo;Saving&rdquo; flows out to Financial institutions, &ldquo;Investment&rdquo; flows back in as an injection; &ldquo;Spending on imports&rdquo; flows out to the Foreign sector, &ldquo;Revenue from exports&rdquo; flows back in as an injection. Each sector is associated with one leakage and one corresponding injection, but there is no reason the two must be equal at any moment: governments often spend more than they raise in tax (running a <em>budget deficit</em>, financed by borrowing); countries often import more than they export (trade imbalance); banks may lend out more than they hold in savings.</div>
 <div class="formula-box">Equilibrium condition: Leakages = Injections</div>
+<p>To check this condition you add up the three leakages (taxes + saving + spending on imports) to get one total, add up the three injections (government spending + investment + revenue from exports) to get another total, and compare the two totals. If they match, the circular flow is in equilibrium; if not, the difference tells you which way national income is moving.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose in one year households and firms pay $45bn in taxes, save $25bn, and spend $30bn on imports &mdash; total leakages = $45bn + $25bn + $30bn = $100bn. Over the same year, government spending is $40bn, investment is $20bn, and export revenue is $30bn &mdash; total injections = $40bn + $20bn + $30bn = $90bn. Because leakages ($100bn) exceed injections ($90bn) by $10bn, less income is being injected back into the circular flow than is leaking out of it, so national income will fall to a new, lower equilibrium unless injections rise or leakages fall.</p></div>
 <p>The economy is said to be in equilibrium when total leakages equal total injections, so that national income (Gross National Income, GNI) remains stable. If leakages rise without a corresponding rise in injections, national income falls to a new (lower) equilibrium, as less income is circulating. If injections rise with no corresponding rise in leakages, national income rises (the economy grows), since economic growth is often assumed to be a key objective (an assumption the book flags for later questioning).</p>
 
 <h3>Interdependence illustrated by the circular flow</h3>
@@ -5102,6 +5117,7 @@ var NOTES_HTML = {
 </div>
 `,
 "4": `
+
 <div class="notes-section">
 <h2>What is Elasticity of Demand?</h2>
 <div class="callout key"><span class="c-label">Elasticity of demand</span>Elasticity is a measure of how much something changes when there is a change in one of its determinants &ndash; in other words, a measure of <strong>responsiveness</strong>. Elasticity of demand measures how much the demand for a product changes when there is a change in one of the factors that determine demand.</div>
@@ -5117,7 +5133,8 @@ var NOTES_HTML = {
 <h2>Price Elasticity of Demand (PED)</h2>
 <div class="callout key"><span class="c-label">Definition: PED</span>Price elasticity of demand measures how much the quantity demanded of a product changes when there is a change in the price of the product.</div>
 <div class="formula-box">PED = Percentage change in quantity demanded of the product &divide; Percentage change in price of the product</div>
-<div class="callout distinction"><span class="c-label">Worked example: a monthly magazine</span>A publishing firm lowers the price of its magazine from $5 to $4.50, and monthly sales rise from 200,000 to 230,000.
+<p>To calculate PED, first find the percentage change in quantity demanded, using (change in quantity &divide; original quantity) &times; 100, and the percentage change in price, using (change in price &divide; original price) &times; 100. PED is then the first percentage divided by the second. Because price and quantity demanded normally move in opposite directions, this calculation usually gives a negative number, which economists conventionally report as a positive value.</p>
+<div class="callout example"><span class="c-label">Worked example: a monthly magazine</span>A publishing firm lowers the price of its magazine from $5 to $4.50, and monthly sales rise from 200,000 to 230,000.
 <ol>
 <li>Price has fallen by 50 cents from $5, a change of &minus;10%: (&minus;50 &divide; 500) &times; 100 = &minus;10%.</li>
 <li>Quantity demanded has risen by 30,000 from 200,000, a change of +15%: (+30,000 &divide; 200,000) &times; 100 = +15%.</li>
@@ -5135,14 +5152,14 @@ The negative value shows the inverse relationship between price and quantity dem
 
 <h3>1. Inelastic demand: 0 &lt; PED &lt; 1</h3>
 <p>A change in price causes a proportionately <em>smaller</em> change in quantity demanded. If price is raised, quantity demanded falls by relatively little, so total revenue (quantity sold &times; price) <strong>increases</strong>.</p>
-<div class="callout distinction"><span class="c-label">Worked example: strawberry yoghurt</span>When the price of a carton of strawberry yoghurt is raised from $1.00 to $1.20 (a 20% rise), quantity demanded per week falls from 12,000 to 10,800 cartons (a 10% fall).
+<div class="callout example"><span class="c-label">Worked example: strawberry yoghurt</span>When the price of a carton of strawberry yoghurt is raised from $1.00 to $1.20 (a 20% rise), quantity demanded per week falls from 12,000 to 10,800 cartons (a 10% fall).
 <div class="formula-box">PED = %&nbsp;change in quantity demanded &divide; %&nbsp;change in price = 10% &divide; 20% = 0.5</div>
 PED = 0.5, which is less than one, so demand for the yoghurt is <strong>inelastic</strong>. Before the price rise, total revenue = 12,000 &times; $1.00 = $12,000. After the rise, total revenue = 10,800 &times; $1.20 = $12,960. The firm's revenue has <strong>increased</strong> by raising the price.</div>
 <div class="callout diagram"><span class="c-label">Figure: The demand for strawberry yoghurt (Fig 4.3) &ndash; revenue boxes</span>Price ($) on the vertical axis (showing $1.00 and $1.20), quantity of cartons (000s) on the horizontal axis (showing 10.8 and 12). A downward-sloping demand curve D, with rectangular "revenue box" areas labelled a, b, c marked underneath/around the two price points. Before the price rise, the firm earns revenue equal to "box b" + "box c". After the price rise, the firm loses "box c" (1,200 fewer cartons &times; the original $1.00 = $1,200) but gains "box a" (the remaining 10,800 cartons each now sold for $0.20 more = $2,160). Since box a ($2,160) is clearly bigger than box c ($1,200), total revenue rises by $960 &ndash; matching the calculation above.</div>
 
 <h3>2. Elastic demand: 1 &lt; PED &lt; infinity</h3>
 <p>A change in price causes a proportionately <em>greater</em> change in quantity demanded. If price is raised, quantity demanded falls by relatively more, so total revenue <strong>falls</strong>.</p>
-<div class="callout distinction"><span class="c-label">Worked example: hot dogs</span>When the price of a hot dog is raised from $2.00 to $2.10 (a 5% rise), quantity demanded per week falls from 200 to 180 hot dogs (a 10% fall).
+<div class="callout example"><span class="c-label">Worked example: hot dogs</span>When the price of a hot dog is raised from $2.00 to $2.10 (a 5% rise), quantity demanded per week falls from 200 to 180 hot dogs (a 10% fall).
 <div class="formula-box">PED = %&nbsp;change in quantity demanded &divide; %&nbsp;change in price = 10% &divide; 5% = 2</div>
 PED = 2, greater than one, so demand is <strong>elastic</strong>. Before the price rise, total revenue = 200 &times; $2.00 = $400. After the rise, total revenue = 180 &times; $2.10 = $378. Raising the price has caused total revenue to <strong>fall</strong> by $22.</div>
 <div class="callout diagram"><span class="c-label">Figure: The demand for hot dogs (Fig 4.4) &ndash; revenue boxes</span>Price ($) vertical (showing $2.00 and $2.10), quantity horizontal (showing 180 and 200). Downward-sloping demand curve D with revenue boxes a, b, c. Before the price rise, the seller earns "box b" + "box c". After the rise, the seller loses "box c" (20 fewer hot dogs &times; the original $2.00 = $40) but gains only "box a" (the remaining 180 hot dogs each now sold for $0.10 more = $18). Since box a ($18) is clearly smaller than box c ($40), total revenue falls by $22.</div>
@@ -5168,7 +5185,7 @@ PED = 2, greater than one, so demand is <strong>elastic</strong>. Before the pri
 <h2>Why PED Changes Along a Straight-Line Demand Curve</h2>
 <div class="callout distinction"><span class="c-label">Common student mistake</span>It is a common mistake to assume that elasticity is simply a measure of the <em>slope</em> of the demand curve, and that its value stays the same at every point on the curve. This is <strong>not</strong> true. For a straight-line, downward-sloping demand curve, the value of PED <strong>falls</strong> as price falls (i.e. as you move down and to the right along the curve), even though the slope of the line itself stays constant.</div>
 <div class="callout diagram"><span class="c-label">Figure: PED values for a normal demand curve (Fig 4.6)</span>Price ($) on the vertical axis, quantity (units) on the horizontal axis. A single straight, downward-sloping demand line. Near the top-left (high price, low quantity) two points, a and b, are marked, labelled PED = 3.3 (elastic). Near the bottom-right (low price, high quantity) two points, c and d, are marked, labelled PED = 0.625 (inelastic).</div>
-<div class="callout distinction"><span class="c-label">Worked example</span>
+<div class="callout example"><span class="c-label">Worked example</span>
 <p style="margin-top:0;"><strong>Points a to b:</strong> price falls from $20 to $18, quantity demanded rises from 60 to 80 units.</p>
 <div class="formula-box">PED = %&Delta;QD &divide; %&Delta;P = 33.3% &divide; 10% = 3.3 (elastic)</div>
 <p><strong>Points c to d:</strong> price falls from $10 to $8, quantity demanded rises from 160 to 180 units.</p>
@@ -5216,7 +5233,8 @@ PED = 2, greater than one, so demand is <strong>elastic</strong>. Before the pri
 <h2>Income Elasticity of Demand (YED)</h2>
 <div class="callout key"><span class="c-label">Definition: YED</span>Income elasticity of demand measures how much the demand for a product changes when there is a change in the consumer's income.</div>
 <div class="formula-box">YED = Percentage change in quantity demanded of the product &divide; Percentage change in income of the consumer</div>
-<div class="callout distinction"><span class="c-label">Worked example: holiday spending</span>A person's annual income rises from $60,000 to $66,000 (a $6,000 increase), and their annual holiday spending rises from $2,500 to $3,000 (a $500 increase).
+<p>To calculate YED, first find the percentage change in quantity demanded and the percentage change in income, each worked out as (change &divide; original value) &times; 100. YED is then the percentage change in quantity demanded divided by the percentage change in income. Unlike PED, the sign of the result is kept rather than dropped, since it shows whether the good is normal (positive) or inferior (negative).</p>
+<div class="callout example"><span class="c-label">Worked example: holiday spending</span>A person's annual income rises from $60,000 to $66,000 (a $6,000 increase), and their annual holiday spending rises from $2,500 to $3,000 (a $500 increase).
 <ol>
 <li>Income change: (+6,000 &divide; 60,000) &times; 100 = +10%.</li>
 <li>Quantity demanded (holiday spending) change: (+500 &divide; 2,500) &times; 100 = +20%.</li>
@@ -5281,6 +5299,7 @@ PED = 2, greater than one, so demand is <strong>elastic</strong>. Before the pri
 </div>
 `,
 "5": `
+
 <div class="notes-section">
 <h2>What is supply?</h2>
 <div class="callout key"><span class="c-label">Definition: Supply</span>Supply is the quantity of a good or service that producers are willing and able to supply at different prices in a given time period. For example, firms may be willing and able to produce 4,000 frozen pizzas per week at a price of $3 each &mdash; so their supply of frozen pizzas at $3 is 4,000 units per week.</div>
@@ -5376,8 +5395,13 @@ PED = 2, greater than one, so demand is <strong>elastic</strong>. Before the pri
 <h3>2. The law of diminishing returns</h3>
 <p>In the short run, if a firm adds more and more units of a variable factor to its fixed factor(s), it is logical that the output added by each successive unit will eventually fall. To understand this, we need three concepts:</p>
 <div class="formula-box">Total product (TP) = the total output produced by a firm, using its fixed and variable factors, in a given time period.</div>
+<p>TP is not calculated from other variables &mdash; it is simply the actual quantity of output the firm produces in the period, read directly off its production records once you know how many units of the variable factor (e.g. workers) were employed alongside the fixed factors.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>A small bicycle-assembly workshop has a fixed number of workbenches and tools. On a day when it employs 4 assembly workers, it completes 52 bicycles. That day&rsquo;s total product is TP = 52 bicycles &mdash; the actual output produced by combining the fixed capital (workbenches, tools) with 4 units of labour.</p></div>
 <div class="formula-box">Average product (AP) = TP &divide; V, where V is the number of units of the variable factor employed.</div>
+<p>AP tells you how much output, on average, is associated with each unit of the variable factor. To calculate it, take the total product for a given quantity of the variable factor and divide by that quantity.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Continuing the bicycle workshop: with V = 4 workers producing TP = 52 bicycles, AP = TP &divide; V = 52 &divide; 4 = 13 bicycles per worker &mdash; on average, each of the four assembly workers is associated with 13 completed bicycles that day.</p></div>
 <div class="formula-box">Marginal product (MP) = &Delta;TP &divide; &Delta;V, where &Delta;TP is the change in total output and &Delta;V is the change in the number of units of the variable factor employed &mdash; i.e. the extra output produced by using one extra unit of the variable factor.</div>
+<div class="callout example"><span class="c-label">Worked example</span><p>Using Table 5.3 below: as the quantity of labour rises from 3 to 4 units, total product rises from 45 to 70, so &Delta;TP = 70 &minus; 45 = 25 and &Delta;V = 4 &minus; 3 = 1, giving MP = 25 &divide; 1 = 25 units. This means the fourth unit of the variable factor added 25 extra units of output on its own, on top of what the first three units were already producing.</p></div>
 <div class="table-wrap"><table class="notes-table">
 <tr><th>Quantity of labour (V)</th><th>Total product (TP)</th><th>Average product (AP)</th><th>Marginal product (MP)</th></tr>
 <tr><td>0</td><td>0</td><td>&ndash;</td><td>&ndash;</td></tr>
@@ -5402,6 +5426,7 @@ These look at the same relationship from different angles &mdash; both are reall
 
 <h3>3. Increasing marginal costs</h3>
 <div class="formula-box">Marginal cost (MC) = &Delta;TC &divide; &Delta;q, where &Delta;TC is the change in total cost and &Delta;q is the change in the level of output.</div>
+<div class="callout example"><span class="c-label">Worked example</span><p>Using the table below: when output rises from 45 to 70 units, total cost rises from $1,000 to $1,200, so &Delta;TC = $1,200 &minus; $1,000 = $200 and &Delta;q = 70 &minus; 45 = 25, giving MC = $200 &divide; 25 = $8. This means producing each of those extra 25 units cost the firm $8 on average at that point on its cost curve.</p></div>
 <div class="table-wrap"><table class="notes-table">
 <tr><th>Total product (TP)/Output (q)</th><th>Total cost (TC) ($)</th><th>Marginal cost (MC) ($)</th></tr>
 <tr><td>0</td><td>400</td><td>&ndash;</td></tr>
@@ -5440,12 +5465,14 @@ These look at the same relationship from different angles &mdash; both are reall
 </div>
 `,
 "6": `
+
 <div class="notes-section">
 <h2>What is price elasticity of supply (PES)?</h2>
 <p>If the price of a product rises, producers will want to increase the quantity they supply to raise profits. How much they are actually able to increase quantity supplied depends on the <em>price elasticity of supply</em> for that product.</p>
 <div class="callout key"><span class="c-label">Key concept: Change</span>Definition: price elasticity of supply is a measure of how much the supply of a product changes when there is a change in the price of the product.</div>
 <div class="formula-box">PES = Percentage change in quantity supplied of the product &divide; Percentage change in price of the product</div>
-<div class="callout key"><span class="c-label">Worked example &ndash; magazine publisher</span>A publishing firm realises it can now sell its monthly magazine for $5.50 instead of $5.00. In response it increases supply from 200,000 to 230,000 magazines per month.
+<p>To calculate PES, first find the percentage change in quantity supplied, using (change in quantity supplied &divide; original quantity supplied) &times; 100, and the percentage change in price, using (change in price &divide; original price) &times; 100. PES is then the percentage change in quantity supplied divided by the percentage change in price. Because price and quantity supplied normally move in the same direction, PES for a normal supply curve comes out as a positive number.</p>
+<div class="callout example"><span class="c-label">Worked example &ndash; magazine publisher</span>A publishing firm realises it can now sell its monthly magazine for $5.50 instead of $5.00. In response it increases supply from 200,000 to 230,000 magazines per month.
 <ol>
 <li>Percentage change in price = (+50 &divide; 500) &times; 100 = +10%</li>
 <li>Percentage change in quantity supplied = (+30,000 &divide; 200,000) &times; 100 = +15%</li>
@@ -5635,6 +5662,7 @@ These look at the same relationship from different angles &mdash; both are reall
 </div>
 `,
 "8": `
+
 <div class="notes-section">
 <h2>Why Do Governments Intervene in Markets?</h2>
 <p>Governments may intervene in individual, microeconomic markets for a number of reasons: to support households, to support firms, to influence consumption and/or production, to protect consumers from the problems associated with monopoly power, to promote well-being and equity, or simply to earn government revenue for other purposes. This chapter considers four different types of government intervention in markets: indirect taxes, subsidies, and minimum and maximum (floor and ceiling) prices, and assesses how effective each method may be in achieving the desired aims.</p>
@@ -5691,8 +5719,14 @@ These look at the same relationship from different angles &mdash; both are reall
 </div>
 <p>Working through Figure 8.2: the price for consumers rises from P<sub>e</sub> to P<sub>1</sub> (their share of the tax, in this illustration about half the whole tax). Producers now receive C per unit after paying the tax to government, so they contribute the rest of the tax (P<sub>e</sub> &minus; C per unit). Producer revenue falls from (P<sub>e</sub> &times; Q<sub>e</sub>) to (C &times; Q<sub>1</sub>). Government tax revenue equals the tax per unit &times; Q<sub>1</sub>, and the market shrinks in size from Q<sub>e</sub> to Q<sub>1</sub> units &ndash; this may have implications for the level of employment in the market, as firms may need fewer workers to produce less output. In this illustration, the burden of the tax is shared fairly evenly between consumers and producers.</p>
 <div class="formula-box">Government tax revenue = tax per unit &times; new (after-tax) equilibrium quantity</div>
+<p>Government tax revenue is calculated by multiplying the tax charged on each unit by the number of units actually bought and sold once the tax is in place &ndash; the new, smaller equilibrium quantity Q<sub>1</sub>, not the original pre-tax quantity Q<sub>e</sub>, since the tax causes the market to shrink.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose a government places a specific tax of $0.50 per bottle on bottled water. Before the tax, the equilibrium price is $2.00 and the equilibrium quantity is 100,000 bottles per week. After the tax shifts the supply curve up, the new equilibrium quantity falls to 90,000 bottles per week (at a higher price paid by consumers). Government tax revenue = $0.50 &times; 90,000 = $45,000 per week. This is the total revenue the government collects from this market as a direct result of the tax.</p></div>
 <div class="formula-box">Consumer burden of tax (per unit) = new price paid by consumers &minus; original equilibrium price</div>
+<p>The consumer burden per unit is the extra amount buyers now pay compared with what they paid before the tax existed. It is found by taking the new, higher price consumers pay after the tax and subtracting the original pre-tax equilibrium price.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Continuing the bottled water example, the price paid by consumers rises from the original equilibrium price of $2.00 to a new price of $2.30 once the $0.50 tax is imposed. Consumer burden per unit = $2.30 &minus; $2.00 = $0.30. So of the $0.50 tax, consumers absorb $0.30 per bottle in the form of a higher price.</p></div>
 <div class="formula-box">Producer burden of tax (per unit) = original equilibrium price &minus; new net price received by producer</div>
+<p>The producer burden per unit is the amount producers give up compared with what they used to receive. It is found by taking the original pre-tax equilibrium price and subtracting the new net price producers actually keep after handing the tax over to government (this net price equals the new market price minus the tax per unit).</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>In the same example, producers now receive a net price of $2.30 &minus; $0.50 = $1.80 per bottle after paying the tax to government. Producer burden per unit = $2.00 &minus; $1.80 = $0.20. Checking the two burdens together, $0.30 (consumer) + $0.20 (producer) = $0.50, exactly matching the tax per unit &ndash; confirming that the full tax has been allocated between the two groups.</p></div>
 
 <h3>Who pays what share of the indirect tax? The role of elasticity</h3>
 <div class="callout key"><span class="c-label">Key concept: Interdependence</span>The size of the tax burden on consumers versus producers is not fixed &ndash; it depends on the interdependent relationship between the price elasticity of demand (PED) and price elasticity of supply (PES) for the product.</div>
@@ -5739,6 +5773,8 @@ These look at the same relationship from different angles &mdash; both are reall
 </div>
 <p>The price to consumers falls from P<sub>e</sub> to P<sub>1</sub>, but not by the whole amount of the subsidy (a full pass-through would require a bigger fall). Producer income rises from the original level (P<sub>e</sub> &times; Q<sub>e</sub>) to a higher level (net price &times; Q<sub>1</sub>). Consumers now buy the original Q<sub>e</sub> units more cheaply, saving money on those units, but they also purchase extra units (the increase from Q<sub>e</sub> to Q<sub>1</sub>), so they spend more on those additional units &ndash; total consumer expenditure may increase or decrease overall, depending on the relative sizes of the saving and the extra spending.</p>
 <div class="formula-box">Total cost of subsidy to government = subsidy per unit &times; new (after-subsidy) equilibrium quantity</div>
+<p>To calculate the total cost of a subsidy to government, multiply the subsidy paid per unit by the new, larger quantity that is bought and sold once the subsidy has taken effect &ndash; not the original, smaller pre-subsidy quantity, since the subsidy encourages more output to be produced and sold.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose a government pays rice farmers a subsidy of $0.20 per kilogram. Before the subsidy, 4 million kg of rice were traded each month; after the subsidy lowers farmers' costs and shifts supply to the right, the new equilibrium quantity rises to 5 million kg per month. Total cost of the subsidy = $0.20 &times; 5,000,000 kg = $1,000,000 per month. This is the amount the government must fund from its budget, representing an opportunity cost in terms of other spending forgone.</p></div>
 <div class="callout distinction"><span class="c-label">Opportunity cost of a subsidy</span>The money spent by government on a subsidy has to come from somewhere. There is an <em>opportunity cost</em>: the government must either take money away from other areas of expenditure (such as infrastructure or public amenities), or raise taxes elsewhere.</div>
 
 <h3>Evaluating subsidies</h3>
@@ -5791,6 +5827,8 @@ These look at the same relationship from different angles &mdash; both are reall
 <li><strong>Measures to eliminate the excess demand:</strong> (a) direct provision of cooking oil by the government, i.e. setting up government-owned cooking oil manufacturers; or (b) granting subsidies to cooking oil producers in order to encourage greater supply.</li>
 </ul>
 <div class="formula-box">Excess demand (shortage) at a price ceiling = Quantity demanded at P<sub>max</sub> &minus; Quantity supplied at P<sub>max</sub></div>
+<p>Excess demand at a price ceiling is calculated by reading off the quantity demanded and the quantity supplied at the maximum price (from a diagram or from data), and then subtracting the smaller figure (quantity supplied) from the larger figure (quantity demanded).</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Using the cooking oil market above: at the price ceiling of $1 per litre, quantity demanded is 1.5 million litres and quantity supplied is only 0.5 million litres. Excess demand = 1.5 million &minus; 0.5 million = 1 million litres. This is the same shortage identified earlier, now expressed directly using the formula.</p></div>
 </div>
 </div>
 
@@ -5873,6 +5911,7 @@ These look at the same relationship from different angles &mdash; both are reall
 </div>
 `,
 "9": `
+
 <div class="notes-section">
 <h2>1. What is market failure? The baseline of social efficiency</h2>
 <p>In a perfectly working ("real") market, resources are allocated efficiently and community (social) surplus is maximized. However, real-world markets are very often not perfect &mdash; they suffer from problems that prevent them from allocating resources optimally. When this happens, community surplus is <em>not</em> maximized, and we say that there is a <strong>market failure</strong>. When markets fail, governments are often expected to intervene to try to correct the failure and move the economy back towards the optimal allocation of resources.</p>
@@ -5881,6 +5920,8 @@ These look at the same relationship from different angles &mdash; both are reall
 <p>Marginal social cost (MSC) is equal to marginal private cost (MPC) plus or minus any external cost or benefit of production. If there are no externalities of production, then MSC = MPC. The MPC is essentially the "private" supply curve, based on the firm's own costs of production.</p>
 <p>Marginal social benefit (MSB) is equal to marginal private benefit (MPB) plus or minus any external cost or benefit of consumption. If there are no externalities of consumption, then MSB = MPB. The MPB is essentially the "private" demand curve, based on the utility or benefits to consumers.</p>
 <div class="formula-box">MSC = MPC &plusmn; external cost/benefit of production<br>MSB = MPB &plusmn; external cost/benefit of consumption</div>
+<p>To calculate MSC, start with the firm's marginal private cost (MPC) of producing one more unit and add any extra cost imposed on third parties (a negative production externality), or subtract any extra benefit enjoyed by third parties (a positive production externality). To calculate MSB, start with the marginal private benefit (MPB) enjoyed by the consumer of one more unit and add any extra benefit enjoyed by third parties (a positive consumption externality), or subtract any extra cost imposed on third parties (a negative consumption externality). The external amount is measured in the same units as the private figure, typically dollars per unit.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Consider a paint factory whose marginal private cost (MPC) of producing the 1,000th litre of paint is $4.00. That litre of production also creates $1.50 of external cost for nearby residents, in the form of health problems caused by fumes. MSC = MPC + external cost = $4.00 + $1.50 = $5.50. Now consider a measles vaccine: the marginal private benefit (MPB) to the person being vaccinated is $30 (reduced personal risk of illness), but vaccination also creates an external benefit of $20 to the rest of the community (a lower risk of the disease spreading). MSB = MPB + external benefit = $30 + $20 = $50. In both cases, a free market that only responds to MPC or MPB (ignoring the $1.50 external cost or the $20 external benefit) will misallocate resources relative to the true social cost or benefit.</p></div>
 <p>If no externalities exist in a market at all, then MSC = MSB and we have social (allocative) efficiency, with community surplus maximized &mdash; this is shown in Figure 9.1. If, however, externalities exist in a market, then MSC does not equal MSB, and so we have a market failure and an inefficient allocation of society's resources.</p>
 <div class="callout diagram"><span class="c-label">Figure 9.1: Social efficiency</span>Axes: Price ($) on the vertical axis; Quantity (000s) on the horizontal axis. Two curves are drawn: S = Marginal Social Cost (MSC), sloping upward from left to right; D = Marginal Social Benefit (MSB), sloping downward from left to right. The two curves intersect at the market equilibrium. The area above the equilibrium price and below the MSB (demand) curve, up to the equilibrium quantity, is <em>consumer surplus</em>. The area below the equilibrium price and above the MSC (supply) curve, up to the equilibrium quantity, is <em>producer surplus</em>. Consumer surplus plus producer surplus is <em>community surplus</em>, which is at its maximum at this point because MSB = MSC for every unit produced up to the equilibrium quantity. This is the "no externality, no market failure" benchmark against which every diagram in this chapter is compared.</div>
 <p>Externalities may be split into four types: positive externalities of consumption, positive externalities of production, negative externalities of consumption, and negative externalities of production. An <strong>externality</strong> occurs when the production or consumption of a good or service has an effect upon a third party. If the effect is harmful, we talk about a <em>negative externality</em> &mdash; there is an external cost that must be added to the private costs of the producer or consumer to reflect the full cost to society. If the effect is beneficial, we talk about a <em>positive externality</em> &mdash; there has been an external benefit to add to the private benefits of the producer or consumer.</p>
@@ -6113,6 +6154,7 @@ These look at the same relationship from different angles &mdash; both are reall
 </div>
 `,
 "10": `
+
 <div class="notes-section">
 <h2>1. Classifying costs: economic cost, explicit and implicit costs</h2>
 <p>Neoclassical economic theory of the firm assumes that producers behave &ldquo;rationally&rdquo; by always attempting to maximize the profits that they make. This is called <em>profit maximization</em>. Profits are earned when a producer&rsquo;s revenues are higher than its costs, so to understand how producers maximize profits we must first understand the relevant concepts of cost and revenue.</p>
@@ -6162,8 +6204,14 @@ These look at the same relationship from different angles &mdash; both are reall
 <li><strong>Average total cost (ATC):</strong> the total cost per unit of output. ATC = AFC + AVC.</li>
 </ul>
 <div class="formula-box">AFC = TFC &divide; q</div>
+<p>To find AFC, take the total fixed cost for the period and divide it by however many units of output (q) were produced in that same period.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>A bakery has weekly fixed costs (rent and equipment lease) of $2,000 and bakes 800 loaves that week. AFC = TFC &divide; q = $2,000 &divide; 800 = $2.50 per loaf &mdash; each loaf carries $2.50 of fixed cost once the rent and lease are spread across that week&rsquo;s output.</p></div>
 <div class="formula-box">AVC = TVC &divide; q</div>
+<p>To find AVC, take the total variable cost for the period (spending on things like flour and workers&rsquo; wages that change with output) and divide it by the number of units of output produced.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>The same bakery spends $3,200 that week on flour and wages (its total variable cost) to bake the 800 loaves. AVC = TVC &divide; q = $3,200 &divide; 800 = $4.00 per loaf &mdash; each loaf carries $4.00 of variable cost.</p></div>
 <div class="formula-box">ATC = TC &divide; q</div>
+<p>To find ATC, take total cost (fixed plus variable) for the period and divide it by the number of units of output produced; equivalently, add AFC and AVC together.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>The bakery&rsquo;s total cost that week is TC = TFC + TVC = $2,000 + $3,200 = $5,200 for 800 loaves. ATC = TC &divide; q = $5,200 &divide; 800 = $6.50 per loaf (matching AFC $2.50 + AVC $4.00) &mdash; this is the full cost, on average, of producing each loaf that week.</p></div>
 <p>where q is the level of output.</p>
 <p>Because TFC is a constant, AFC always falls continuously as output increases (a fixed number spread over more and more units) &mdash; in the example AFC is $40 per unit at output 10 and falls to $3.33 per unit at output 120. AFC never rises.</p>
 <p>AVC tends to fall as output increases, then starts to rise again as output continues to increase. This is explained by the hypothesis of <strong>eventually diminishing average returns</strong> (met in Chapter 5): as more of the variable factor is applied to the fixed factors, the output per unit of the variable factor eventually falls, so the cost per unit of output eventually rises. In the example, AVC is $20 per unit at output 10, falls to $11.11 per unit at output 90, then rises to $13.33 at output 120.</p>
@@ -6172,6 +6220,7 @@ These look at the same relationship from different angles &mdash; both are reall
 <div class="callout key"><span class="c-label">Marginal cost (MC)</span>MC is the increase in total cost of producing one extra unit of output.</div>
 <div class="formula-box">MC = &Delta;TC &divide; &Delta;q</div>
 <p>where &Delta;TC is the change in total cost and &Delta;q is the change in the level of output.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Continuing the bakery example: output rises from 800 to 850 loaves in a week when total cost rises from $5,200 to $5,450. &Delta;TC = $5,450 &minus; $5,200 = $250 and &Delta;q = 850 &minus; 800 = 50, so MC = $250 &divide; 50 = $5.00 &mdash; producing each of those extra 50 loaves cost the bakery $5.00 on average.</p></div>
 <p>MC tends to fall as output increases, and then starts to rise again as output continues to increase. This is explained by the hypothesis of <strong>eventually diminishing marginal returns</strong>: as more of the variable factor is applied to the fixed factors, the extra output from each additional unit of the variable factor eventually falls, so the extra cost per unit of output eventually begins to rise. In the example, MC falls from $20 as output rises from 0 to 10 units, falls to $8.00 as output rises from 45 to 70, then rises again to $40.00 as output rises from 115 to 120.</p>
 <div class="callout diagram"><span class="c-label">Figure 10.2: Short-run AFC, AVC, ATC and MC curves</span>Vertical axis: Cost ($). Horizontal axis: Output (units). AFC is drawn as a continuously downward-sloping curve approaching (but never touching) the horizontal axis &mdash; it falls throughout and never turns upward. AVC, ATC and MC are all U-shaped (or tick-shaped) curves: each falls initially, reaches a minimum, then rises. MC is the steepest / most tightly curved of the three and reaches its minimum point at the lowest level of output; it falls fastest and rises fastest. AVC reaches its minimum next, and ATC reaches its minimum at the highest level of output of the three. MC lies below AVC and ATC while they are falling and cuts through both from below once they start rising.</div>
 <div class="callout key"><span class="c-label">MC cuts AC and AVC at their minimum points</span>This is a mathematical relationship, not a coincidence: whenever the marginal value (MC) is below the average value (AC or AVC), it pulls the average down; whenever the marginal value is above the average, it pulls the average up. Therefore the MC curve must cross the AVC curve exactly at AVC&rsquo;s lowest point, and must cross the ATC curve exactly at ATC&rsquo;s lowest point. AFC continuously falls as output rises, and since the vertical gap between ATC and AVC is AFC, that gap gets smaller and smaller as output grows (AVC and ATC curves converge, getting closer together at higher output).</div>
@@ -6183,14 +6232,17 @@ These look at the same relationship from different angles &mdash; both are reall
 <p>Revenue is the income a firm receives from selling its products over a given time period. Revenue is measured in three ways.</p>
 <h3>Total revenue (TR)</h3>
 <div class="formula-box">TR = p &times; q</div>
-<p>where p is the price the good sells for and q is the quantity sold in the period. Example: if a firm sells 400 pizzas per week at $6 per pizza, TR = $6 &times; 400 = $2,400 per week.</p>
+<p>where p is the price the good sells for and q is the quantity sold in the period.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>If a firm sells 400 pizzas per week at $6 per pizza, TR = $6 &times; 400 = $2,400 per week &mdash; this is the total money the firm takes in from pizza sales that week, before any costs are subtracted.</p></div>
 <h3>Average revenue (AR)</h3>
 <div class="formula-box">AR = TR &divide; q = (p &times; q) &divide; q = p</div>
-<p>Since TR is (p &times; q), q cancels from top and bottom, so AR always equals price, p. Example: AR = $2,400 &divide; 400 = $6 (the same as the price per unit).</p>
+<p>Since TR is (p &times; q), q cancels from top and bottom, so AR always equals price, p.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Continuing the pizza example, AR = TR &divide; q = $2,400 &divide; 400 = $6 per pizza &mdash; exactly the selling price, confirming that average revenue always equals price for a single-price seller.</p></div>
 <h3>Marginal revenue (MR)</h3>
 <div class="callout key"><span class="c-label">Marginal revenue (MR)</span>MR is the extra revenue a firm gains when it sells one more unit of a product in a given period.</div>
 <div class="formula-box">MR = &Delta;TR &divide; &Delta;q</div>
-<p>where &Delta; means &ldquo;the change in&rdquo;. Example: if the pizza firm lowers its price to $5 and weekly sales rise to 500 pizzas, TR rises from $2,400 to $2,500, so MR = ($2,500 &minus; $2,400) &divide; 100 = $1. The extra revenue from selling an extra unit is $1.</p>
+<p>where &Delta; means &ldquo;the change in&rdquo;.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>If the pizza firm lowers its price to $5 and weekly sales rise to 500 pizzas, TR rises from $2,400 to $2,500, so MR = ($2,500 &minus; $2,400) &divide; 100 = $1. The extra revenue from selling an extra unit is $1 &mdash; much less than the $5 price, because part of the gain from higher sales is offset by receiving a lower price on every pizza sold, not just the extra ones.</p></div>
 
 <h3>What happens to revenue when output increases?</h3>
 <p>Two different situations must be considered.</p>
@@ -6255,6 +6307,8 @@ These look at the same relationship from different angles &mdash; both are reall
 <p>An illustrative dialogue: an economist and an accountant look at the same accounts for a firm making $80,000 profit (by the accountant&rsquo;s reckoning). The accountant says the owner, Nermin, will be very happy. The economist says she will be satisfied, but only just &mdash; because the economist subtracts <em>economic</em> cost (which includes the implicit opportunity cost of the entrepreneur running the firm herself, rather than working elsewhere) whereas the accountant subtracts only explicit costs. If Nermin could earn $80,000 per year in her next best alternative occupation, then a $80,000 accounting profit represents exactly zero economic profit &mdash; she is no better and no worse off than her next best alternative.</p>
 <div class="callout key"><span class="c-label">The opportunity cost of the entrepreneur</span>The opportunity cost of the firm&rsquo;s owner is the most important cost a firm faces, because it is the difference between survival and non-survival. If an owner does not cover their opportunity cost in the long run, they will close the firm and move to their next best alternative occupation.</div>
 <div class="formula-box">Total profit = Total revenue &minus; Economic cost (explicit costs + implicit costs)</div>
+<p>To calculate total profit, add up everything the firm earns from sales (total revenue) and subtract its economic cost &mdash; that is, its explicit costs (money actually paid out, e.g. wages, rent, materials) plus its implicit costs (the value of opportunities given up, e.g. the salary an owner-entrepreneur could have earned elsewhere).</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>A graphic-design studio earns total revenue of $150,000 in a year. Its explicit costs (staff salaries, software, office rent) come to $90,000, and its owner could have earned $50,000 a year working for another firm, so the implicit cost is $50,000. Economic cost = $90,000 + $50,000 = $140,000. Total profit = $150,000 &minus; $140,000 = $10,000. Because this is greater than zero, the studio is making an abnormal (economic) profit of $10,000 &mdash; it is earning $10,000 more than enough to cover the owner&rsquo;s opportunity cost of running the business.</p></div>
 <p>From this point on, &ldquo;total cost&rdquo; is understood to include both explicit and implicit costs. Three profit situations are identified:</p>
 <ul>
 <li><strong>Normal profit</strong> (zero economic profit): total revenue = total cost (equivalently, average revenue = average cost). The firm exactly covers all its economic costs, including the entrepreneur&rsquo;s opportunity cost.</li>
@@ -6316,6 +6370,7 @@ These look at the same relationship from different angles &mdash; both are reall
 </div>
 `,
 "11": `
+
 <div class="notes-section">
 <h2>1. What is market power?</h2>
 <div class="callout key"><span class="c-label">Market power</span>Market power is the ability of a firm to raise the market price of a good or service above marginal cost. The firm is able to influence market outcomes by restricting output in order to increase price.</div>
@@ -6384,12 +6439,16 @@ These look at the same relationship from different angles &mdash; both are reall
 <div class="callout key"><span class="c-label">Productive efficiency</span>A firm is productively efficient if it produces its product at the lowest possible unit cost (average cost).</div>
 <div class="callout diagram"><span class="c-label">Figure 11.8: Productive efficiency</span>Vertical axis: Cost ($). Horizontal axis: Output. U-shaped MC and AC curves, with MC crossing AC exactly at AC&rsquo;s minimum point, at output q, where the cost is c. At output q, the firm produces at the most efficient (lowest-cost) level of production, at cost c. q is known as the productively efficient level of output.</div>
 <div class="formula-box">Productively efficient level of output is where: MC = AC</div>
+<p>MC (marginal cost) is the extra cost of producing one more unit of output (the change in total cost divided by the change in quantity), while AC (average cost) is total cost divided by the number of units produced. To find the productively efficient output from a table of cost data, work out MC and AC at each output level and identify the output at which the two figures are equal &mdash; this will also be the output at which AC is at its lowest value.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>A firm's total cost (TC) schedule is: 4 units, TC = $60; 5 units, TC = $75; 6 units, TC = $96. Average cost at 4 units = 60 &divide; 4 = $15; average cost at 5 units = 75 &divide; 5 = $15; average cost at 6 units = 96 &divide; 6 = $16. Marginal cost of the 5th unit = 75 &minus; 60 = $15; marginal cost of the 6th unit = 96 &minus; 75 = $21. At 5 units, MC ($15) equals AC ($15), and this is also the lowest point AC reaches before rising again &mdash; so 5 units is this firm's productively efficient output, produced at the lowest possible unit cost of $15.</p></div>
 <p>This follows from Chapter 10: MC always cuts AC at AC&rsquo;s lowest point. Productive efficiency matters because if a firm produces at the productively efficient output, it is combining its resources as efficiently as possible and resources are not being wasted through inefficient use.</p>
 
 <h3>2. Allocative efficiency</h3>
 <div class="callout key"><span class="c-label">Allocative efficiency</span>Allocative efficiency (sometimes called the socially optimum level of output) occurs where suppliers are producing the optimal mix of goods and services required by consumers.</div>
 <p>Price reflects the value that consumers place on a good and is shown on the demand curve (average revenue). Marginal cost reflects the cost to society of all the resources used in producing an extra unit of the good, including the normal profit required to keep the firm in business. If price were greater than marginal cost, consumers would value the good more than the cost to make it, so output should expand until price equals marginal cost. Similarly, if marginal cost were greater than price, society would be using more resources to produce the good than the value it gives to consumers, so output should fall.</p>
 <div class="formula-box">Allocatively efficient level of output is where: MC = AR (price)</div>
+<p>AR (average revenue) is simply the price of the good, since AR = Total Revenue &divide; Quantity = (Price &times; Quantity) &divide; Quantity = Price. To find the allocatively efficient output from a set of cost data, compare marginal cost at each output level with the price the good sells for, and identify the output at which the two are equal.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>A firm sells its product at a fixed market price of $20 per unit. Its marginal cost schedule is: 8th unit, MC = $16; 9th unit, MC = $20; 10th unit, MC = $25. At 9 units, MC ($20) equals AR/price ($20), so 9 units is the allocatively efficient output. This makes economic sense: the 9th unit costs society $20 of resources to produce and is valued by consumers at exactly $20, so it is worth producing; the 10th unit, however, would cost $25 to make but is only valued at $20, so producing it would waste $5 worth of resources.</p></div>
 <div class="callout diagram"><span class="c-label">Figure 11.9: Allocative efficiency</span>Two panels. Top: normal downward-sloping D=AR line and a U-shaped MC curve crossing it at output q<sub>1</sub> &mdash; a firm with a normal demand curve. A small annotation shows &ldquo;MC = AR&rdquo; with the interpretation &ldquo;the cost to producers = the value to consumers.&rdquo; Bottom: a horizontal D=AR line (perfectly elastic demand) with a U-shaped MC curve crossing it at output q<sub>2</sub> &mdash; a firm with a perfectly elastic demand curve. In both cases the allocatively efficient output is where MC = AR.</div>
 <p>Allocative efficiency is important because at the allocatively efficient output there is a situation of &ldquo;Pareto optimality&rdquo;, where it is impossible to make one person better off without making someone else worse off (met previously in Chapter 9).</p>
 
@@ -6733,6 +6792,7 @@ These problems mean monopolies can act against the public interest &mdash; riski
 </div>
 `,
 "13": `
+
 <div class="notes-section">
 <h2>How is national income measured?</h2>
 <p>National income can be measured in three theoretically equivalent ways. Because national output flows around the economy between households, firms, governments and the foreign sector (the circular flow of income model), the same total value can be captured at three different points in that flow.</p>
@@ -6750,6 +6810,8 @@ These problems mean monopolies can act against the public interest &mdash; riski
 <li>spending by foreigners on exports minus spending on imports, known as net exports (X &minus; M)</li>
 </ul>
 <div class="formula-box">GDP = C + I + G + (X &minus; M)</div>
+<p>To calculate GDP using the expenditure method, add together total spending by households on goods and services (C), total spending by firms on capital equipment and inventories (I), total government spending (G), and net exports &ndash; the value of exports minus the value of imports (X &minus; M). If imports exceed exports, net exports is a negative number and is subtracted from the total rather than added.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose in one year a country records household consumption C = $600 billion, investment I = $150 billion, government spending G = $200 billion, exports X = $90 billion and imports M = $110 billion. GDP = 600 + 150 + 200 + (90 &minus; 110) = 600 + 150 + 200 &minus; 20 = $930 billion. The negative net exports figure (&minus;$20 billion) shows the country imported more than it exported that year, which reduced GDP relative to what it would have been with balanced trade.</p></div>
 <p>Regardless of which method is chosen, in theory all three should give the same final figure, because they are all measuring the same underlying economic activity from a different angle. In practice, because the data used for each method come from many different and varied sources, inaccuracies creep in and the three figures do not perfectly match. Some of this is due to the timing of data gathering &ndash; figures often have to be revised at later dates once fuller information is collected.</p>
 <div class="callout key"><span class="c-label">Definition</span>National output = national income = national expenditure. These three totals are, in theory, always equal, because they are three different ways of measuring the same flow of economic activity.</div>
 </div>
@@ -6762,20 +6824,26 @@ These problems mean monopolies can act against the public interest &mdash; riski
 <div class="callout distinction"><span class="c-label">GDP vs GNI</span>GDP is based on <em>where production happens</em> (location of the assets). GNI is based on <em>who owns the assets</em> that generate the income, wherever in the world they are located.</div>
 <p><em>Property income from abroad</em> is income earned by a country&rsquo;s factors of production/assets operating in other countries. <em>Net property income from abroad</em> is the difference between income earned by a country&rsquo;s assets operating abroad and income paid out to foreign-owned assets operating domestically.</p>
 <div class="formula-box">GNI = GDP + net property income from abroad</div>
+<p>To calculate GNI, start with a country's GDP and add its net property income from abroad. If residents and firms of the country earn more income from assets they hold overseas than foreigners earn from assets they hold within the country, net property income from abroad is positive and GNI exceeds GDP; if the reverse is true, it is negative and GNI is smaller than GDP.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose a country's GDP is $400 billion in a year. Foreign-owned multinational companies operating within its borders earn $60 billion in profits that year, most of which is sent back to their foreign owners, while the country's own residents earn only $10 billion from assets they own abroad. Net property income from abroad = $10 billion &minus; $60 billion = &minus;$50 billion. GNI = $400 billion + (&minus;$50 billion) = $350 billion. This shows GNI can be significantly lower than GDP when a large share of the income generated within a country's borders actually belongs to foreign owners and leaves the country.</p></div>
 <h3>Nominal vs real GDP/GNI</h3>
 <p>When comparing GDP across years, rising prices (inflation) will make GDP appear to rise even if there has been no real increase in economic activity. <em>Nominal GDP</em> is GDP measured at current prices (not adjusted for inflation). <em>Real GDP</em> adjusts nominal GDP for inflation, using a &ldquo;GDP deflator&rdquo;, giving GDP at constant prices. Comparisons over time must use real values so that price changes do not distort the picture.</p>
 <div class="formula-box">Real GDP = Nominal GDP adjusted for inflation<br>Real GNI = Nominal GNI adjusted for inflation</div>
+<p>To adjust a nominal figure for inflation, you strip out the part of any increase that is simply due to rising prices, leaving only the part that reflects a genuine change in the volume of goods and services produced. As a simple approximation, the real growth rate is roughly the nominal growth rate minus the inflation rate over the same period.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose nominal GDP rises from $500 billion to $530 billion, a nominal increase of 6%, while average prices rise by 4% over the same period. Adjusting for this inflation, real GDP grows by roughly 6% &minus; 4% = 2%. This means only about 2 percentage points of the 6% nominal increase reflect a genuine rise in the volume of goods and services produced, while the remaining 4 percentage points simply reflect higher prices, not more output.</p></div>
 <div class="hl-only">
 <span class="chip">Higher Level</span>
 <h3>Calculating real GDP/GNI using a price deflator</h3>
 <div class="formula-box">Price deflator = (Nominal GNI &divide; Real GNI) &times; 100</div>
+<p>To calculate the price deflator, divide the nominal (current-price) value of GNI for a given year by the real (constant-price) value of GNI for that same year, then multiply by 100. A deflator above 100 means prices have risen since the base year; a deflator of exactly 100 means prices are unchanged from the base year.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Country Y has a nominal GNI of $900 billion and a real GNI of $850 billion in the same year. Price deflator = (900 &divide; 850) &times; 100 = 105.9 (rounded to one decimal place). A deflator above 100 confirms that prices rose, by roughly 5.9%, between the base year and this year.</p></div>
 <p>If you are given the inflation rate (rather than the deflator itself), the deflator fraction is calculated as 100 &divide; (100 + inflation rate), and this fraction is multiplied by the nominal figure to give the real figure.</p>
 <div class="formula-box">Real GNI = Nominal GNI &times; [100 &divide; (100 + inflation rate)]</div>
-<div class="callout key"><span class="c-label">Worked example (Assessment advice box)</span>The nominal GNI for country X in 2009 was US$750 billion, and in 2010 it rose to US$780 billion. In the year in question, country X experienced an inflation rate of 4%.<br><br>
+<div class="callout example"><span class="c-label">Worked example</span><p>The nominal GNI for country X in 2009 was US$750 billion, and in 2010 it rose to US$780 billion. In the year in question, country X experienced an inflation rate of 4%.<br><br>
 <strong>Q1: Calculate the real GNI for 2010.</strong><br>
 Real GNI for 2010 = 780 billion &times; price deflator = 780 billion &times; (100 &divide; 104) = <strong>750 billion</strong>.<br><br>
 <strong>Q2: Explain why the real GNI figure for 2010 is not the same as the nominal figure.</strong><br>
-Because there was inflation of 4% in the year, the prices of everything in the economy, on average, went up by 4%. This means the value of goods and services produced in the economy in nominal terms would appear 4% greater than the previous year, even without any real increase in output. Once this inflationary effect is stripped out, the real GNI figure for 2010 turns out to be exactly the same as the 2009 figure (750 billion). This means the economy produced the same real volume of goods and services in both years &ndash; the real rate of economic growth was 0%.</div>
+Because there was inflation of 4% in the year, the prices of everything in the economy, on average, went up by 4%. This means the value of goods and services produced in the economy in nominal terms would appear 4% greater than the previous year, even without any real increase in output. Once this inflationary effect is stripped out, the real GNI figure for 2010 turns out to be exactly the same as the 2009 figure (750 billion). This means the economy produced the same real volume of goods and services in both years &ndash; the real rate of economic growth was 0%.</p></div>
 </div>
 </div>
 
@@ -6784,7 +6852,8 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <h2>GDP/GNI per capita</h2>
 <p>GDP or GNI per capita are the easiest national income statistics to use for comparing living standards, since they adjust for differences in population size.</p>
 <div class="formula-box">GDP per capita = Total GDP &divide; population size<br>GNI per capita = Total GNI &divide; population size</div>
-<div class="callout key"><span class="c-label">Worked example</span>The projected GDP of China for 2019 was US$13,457 billion, significantly higher than that of Canada, with a projected GDP of US$1,733 billion &ndash; China&rsquo;s total output is roughly seven-and-three-quarter times larger than Canada&rsquo;s. However, once population is taken into account: China&rsquo;s GDP per capita is US$9,633, while Canada&rsquo;s GDP per capita is US$46,733. Thus, output per person in Canada is almost <strong>five times</strong> that of China, even though China&rsquo;s total GDP is far larger. (Source: IMF World Economic Outlook Database, March 2019.)</div>
+<p>GDP per capita is found by dividing a country's total GDP by the size of its population, and GNI per capita is calculated the same way using total GNI; expressing national output or income on a per-person basis allows fairer comparisons of living standards between countries with very different population sizes.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>The projected GDP of China for 2019 was US$13,457 billion, significantly higher than that of Canada, with a projected GDP of US$1,733 billion &ndash; China&rsquo;s total output is roughly seven-and-three-quarter times larger than Canada&rsquo;s. However, once population is taken into account: China&rsquo;s GDP per capita is US$9,633, while Canada&rsquo;s GDP per capita is US$46,733. Thus, output per person in Canada is almost <strong>five times</strong> that of China, even though China&rsquo;s total GDP is far larger. (Source: IMF World Economic Outlook Database, March 2019.)</p></div>
 <p>In the case of GNI per capita, it is simply the total GNI divided by the size of the population &ndash; using GNI per capita rather than GDP per capita better reflects the income actually available to a country&rsquo;s residents/citizens, rather than just what is produced on its territory.</p>
 </div>
 
@@ -6886,12 +6955,14 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <div class="callout key"><span class="c-label">Key concept: Sustainability</span>The HPI measures <em>sustainable</em> well-being &ndash; how well countries achieve long and happy lives while taking sustainability (efficient use of environmental resources) into account.</div>
 <p>The HPI combines four elements to show how efficiently residents of different countries are using environmental resources to lead long, happy lives.</p>
 <div class="formula-box">HPI = (Wellbeing &times; Life expectancy &times; Inequality of outcomes) &divide; Ecological Footprint</div>
+<p>To calculate the HPI, multiply a country's wellbeing score by its life expectancy and by a measure of the equality of outcomes across its population, then divide the result by the country's Ecological Footprint (its average environmental impact per person). A higher HPI therefore reflects a country whose residents enjoy long, satisfying lives while placing a relatively light burden on the planet's resources.</p>
 <ul>
 <li><strong>Wellbeing:</strong> how satisfied residents of each country say they feel with life overall, on a scale from 0 to 10, based on data collected as part of the Gallup World Poll.</li>
 <li><strong>Life expectancy:</strong> the average number of years a person is expected to live in each country, based on UN data.</li>
 <li><strong>Inequality of outcomes:</strong> the inequalities between people in a country in terms of how long they live and how happy they feel, based on the distribution in each country&rsquo;s life expectancy and wellbeing data; expressed as a percentage.</li>
 <li><strong>Ecological Footprint:</strong> the average impact each resident of a country places on the environment, based on data from the Global Footprint Network; expressed using a standardized unit &ndash; global hectares (gha) per person.</li>
 </ul>
+<div class="callout example"><span class="c-label">Worked example</span><p>Country Z reports a wellbeing score of 7.2 (out of 10), a life expectancy of 78 years, an inequality-of-outcomes measure of 0.85 (85%, since higher inequality reduces the score), and an Ecological Footprint of 4.0 global hectares per person. HPI = (7.2 &times; 78 &times; 0.85) &divide; 4.0 = 477.4 &divide; 4.0 = 119.3 (approx). A country with a similar wellbeing score and life expectancy but a smaller Ecological Footprint would score a higher HPI, showing that the index rewards nations that generate long, happy lives while consuming fewer environmental resources per person.</p></div>
 </div>
 
 <div class="notes-section">
@@ -6911,9 +6982,9 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <tr><td>Alternative wellbeing measures</td><td>OECD Better Life Index; Happiness Index (World Happiness Report); Happy Planet Index</td></tr>
 </table></div>
 </div>
-
 `,
 "14": `
+
 <div class="notes-section">
 <h2>What is aggregate demand (AD)?</h2>
 <div class="callout key"><span class="c-label">Definition</span>Aggregate demand (AD) is the total spending on goods and services in a period of time, at a given price level.</div>
@@ -6949,6 +7020,8 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <p>Exports are domestic goods and services that are bought by foreigners &ndash; when firms in a country sell exports to foreigners, this results in an inflow of export revenues to the country. Imports are goods and services that are bought from foreign producers &ndash; when imports are bought, this results in an outflow of import expenditure.</p>
 <p>The net trade component of AD is actually export <em>revenues</em> minus import <em>expenditure</em>, simplified as exports minus imports, (X &minus; M). This figure can be either positive, whereby export revenues exceed import expenditure (adding to AD), or negative, whereby import expenditure exceeds export revenues (reducing AD).</p>
 <div class="formula-box">Aggregate demand = Consumption + Investment + Government spending + Net exports<br>AD = C + I + G + (X &minus; M)</div>
+<p>To calculate aggregate demand for a given period (e.g. a year), simply add together the total value, usually in a currency such as dollars, of each of the four components: household consumption spending (C), business investment spending (I), government spending (G), and net exports (X &minus; M, which is exports minus imports and can itself be positive or negative).</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose that in a given year a country records consumption of $600 billion, investment of $150 billion, government spending of $200 billion, exports of $90 billion and imports of $110 billion, so net exports (X &minus; M) = $90bn &minus; $110bn = &minus;$20 billion. Aggregate demand = $600bn + $150bn + $200bn + (&minus;$20bn) = <strong>$930 billion</strong>. This $930 billion is the total planned spending on the country&rsquo;s goods and services at the current price level &mdash; a single point on that year&rsquo;s AD curve.</p></div>
 <p>This is equivalent to GDP calculated using the expenditure method.</p>
 </div>
 
@@ -7036,6 +7109,8 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <tr><td>Net exports (X&minus;M)</td><td>Export revenues minus import expenditure</td><td>Trading partners&rsquo; national income; exchange rates; trade policy (tariffs/liberalization); relative inflation rates; domestic national income (for imports)</td></tr>
 </table></div>
 <div class="formula-box">AD = C + I + G + (X &minus; M)</div>
+<p>Adding up the four components for a given time period gives the total value of aggregate demand: take the currency value of consumption, investment and government spending, then add net exports (exports minus imports, which can be negative if imports exceed exports).</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Consider a small open economy where, over a year, consumption is $40 billion, investment is $8 billion, government spending is $12 billion, exports are $15 billion and imports are $10 billion, so net exports = $15bn &minus; $10bn = $5 billion. Aggregate demand = $40bn + $8bn + $12bn + $5bn = <strong>$65 billion</strong>. Because net exports are positive here, the foreign sector is adding to, rather than subtracting from, this economy&rsquo;s total demand for goods and services.</p></div>
 </div>
 `,
 "15": `
@@ -7173,6 +7248,7 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 </div>
 `,
 "17": `
+
 <div class="notes-section">
 <h2>What is fiscal policy?</h2>
 <p>&ldquo;Fiscal&rdquo; is defined as pertaining to government revenue and expenditure. Government (public) spending refers to total spending by all levels of government in a country &ndash; central/federal/national, regional (state/provincial) and local (municipal).</p>
@@ -7314,7 +7390,7 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 
 <div class="formula-box">Multiplier = 1 &divide; (1 &minus; mpc)<br>OR<br>Multiplier = 1 &divide; (mps + mrt + mpm) = 1 &divide; mpw</div>
 
-<p><strong>Worked calculation (from the example above):</strong> where mpc = 0.6, the multiplier is 1 &divide; (1 &minus; 0.6) = 1 &divide; 0.4 = <strong>2.5</strong>. Equivalently, where mps = 0.1, mrt = 0.2, and mpm = 0.1, the multiplier is 1 &divide; (0.1 + 0.2 + 0.1) = 1 &divide; 0.4 = <strong>2.5</strong> (the same answer, confirming the two formulas are equivalent).</p>
+<div class="callout example"><span class="c-label">Worked example</span><p><strong>Worked calculation (from the example above):</strong> where mpc = 0.6, the multiplier is 1 &divide; (1 &minus; 0.6) = 1 &divide; 0.4 = <strong>2.5</strong>. Equivalently, where mps = 0.1, mrt = 0.2, and mpm = 0.1, the multiplier is 1 &divide; (0.1 + 0.2 + 0.1) = 1 &divide; 0.4 = <strong>2.5</strong> (the same answer, confirming the two formulas are equivalent). This means a $100 million injection of government spending into this economy ultimately raises national income by $100 million &times; 2.5 = $250 million once all the rounds of re-spending are complete.</p></div>
 
 <div class="callout distinction"><span class="c-label">Worked example (further practice)</span><strong>Question (a):</strong> Calculate the multiplier for an economy where the marginal propensity to consume is 0.75.<br><strong>Answer:</strong> Multiplier = 1 &divide; (1 &minus; 0.75) = 1 &divide; 0.25 = <strong>4</strong>.<br><strong>Question (b):</strong> By how much will national income increase in total if there is an investment of $50,000?<br><strong>Answer:</strong> An investment of $50,000 will result in a final increase in national income of 4 &times; $50,000 = <strong>$200,000</strong>.</div>
 
@@ -7372,7 +7448,7 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <div class="callout diagram"><span class="c-label">Figure 17.3: The process of credit creation</span>A tree/flow diagram: starting with the initial Deposit of $100,000 into the Bank, which is split to meet the minimum reserve requirement &ndash; $20,000 held back as Reserve, and $80,000 remaining as usable Deposit. This $80,000 (plus further recycled reserves) supports four separate loans of $100,000 each (each new loan itself requiring 20%, i.e. $20,000, to be held back in reserve). In total these loans add $400,000 in new deposits/loans, so the original $100,000 deposit ultimately supports $500,000 of total deposits in the banking system.</div>
 
 <div class="formula-box">Money multiplier = 1 &divide; minimum reserve requirement</div>
-<p><strong>Worked calculation:</strong> if the minimum reserve requirement is 20% (0.20), Money multiplier = 1 &divide; 0.20 = <strong>5</strong>.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p><strong>Worked calculation:</strong> if the minimum reserve requirement is 20% (0.20), Money multiplier = 1 &divide; 0.20 = <strong>5</strong>. This confirms the credit-creation example above: an initial deposit of $100,000, with a 20% reserve requirement, can ultimately support total deposits of $100,000 &times; 5 = $500,000 across the banking system.</p></div>
 </div>
 
 <div class="notes-section hl-only">
@@ -7421,7 +7497,7 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <h3>Nominal versus real interest rates</h3>
 <p>The nominal rate of interest is the rate available in the money market, not allowing for inflation. To find the real rate of interest, we simply subtract the inflation rate from the nominal rate.</p>
 <div class="formula-box">Real rate of interest = nominal rate of interest &minus; inflation rate</div>
-<p><strong>Worked example 1:</strong> if the nominal rate of interest in the market is 5% and the inflation rate is 3%, the real rate of interest is 5% &minus; 3% = <strong>2%</strong>. This matters for both savers and borrowers: a person saving at a nominal rate of 5% will find their real gain is only 2%, while someone borrowing at a nominal rate of 5% is really only paying back at a rate of 2% once inflation is accounted for.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p><strong>Worked example 1:</strong> if the nominal rate of interest in the market is 5% and the inflation rate is 3%, the real rate of interest is 5% &minus; 3% = <strong>2%</strong>. This matters for both savers and borrowers: a person saving at a nominal rate of 5% will find their real gain is only 2%, while someone borrowing at a nominal rate of 5% is really only paying back at a rate of 2% once inflation is accounted for.</p></div>
 <div class="callout distinction"><span class="c-label">Negative real interest rates</span>This becomes especially important when real interest rates turn negative. <strong>Worked example 2:</strong> if the nominal interest rate is 2% and the inflation rate is 4%, the real rate of interest is 2% &minus; 4% = <strong>&minus;2%</strong>. This means anyone saving money finds the real value of their savings decreasing by 2% per year, whereas someone borrowing money is paying back 2% less than they borrowed, in real terms. This is obviously a real deterrent to saving, and a real stimulus to borrowing.</div>
 </div>
 
@@ -7579,6 +7655,7 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 </div>
 `,
 "21": `
+
 <div class="notes-section">
 <h2>Introduction: Economic Growth as a Macroeconomic Objective</h2>
 <p>Economic growth is the third major macroeconomic objective (after low unemployment and low, stable inflation). Importantly, achieving economic growth can help achieve the other two goals as well.</p>
@@ -7612,7 +7689,8 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <div class="notes-section">
 <h2>Measuring the Rate of Economic Growth</h2>
 <div class="formula-box">Growth rate = [(Real GDP in year 2 &minus; Real GDP in year 1) &divide; Real GDP in year 1] &times; 100</div>
-<p><strong>Worked example (Canada):</strong></p>
+<p>To calculate an economy's growth rate, take the real GDP figure for the more recent year and subtract the real GDP figure for the previous year to find the change in output, divide this change by the previous year's real GDP, and multiply by 100 to express the result as a percentage. A positive result means the economy expanded over the period; a negative result means it contracted.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p><strong>Worked example (Canada):</strong></p>
 <div class="table-wrap">
 <table class="notes-table">
 <tr><th>Year</th><th>Real GDP (millions of Canadian $, base year 2002)</th><th>Growth rate</th></tr>
@@ -7621,6 +7699,7 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <tr><td>2008</td><td>1,318,054</td><td>[(1,318,054 &minus; 1,311,260) &divide; 1,311,260] &times; 100 = 0.51%</td></tr>
 <tr><td>2009</td><td>1,285,604</td><td>[(1,285,604 &minus; 1,318,054) &divide; 1,318,054] &times; 100 = &minus;2.46%</td></tr>
 </table>
+</div>
 </div>
 <p>Note how 2009 shows negative growth (a contraction in real GDP) &mdash; consistent with the global financial crisis of that period.</p>
 </div>
@@ -7667,6 +7746,7 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 </div>
 `,
 "22": `
+
 <div class="notes-section">
 <h2>Introduction: Equity, Equality, Inequality and Poverty</h2>
 <p>A goal of governments is an equitable distribution of income. Inequality and poverty are national and global problems, and this chapter's real-world "issue" article (an Oxfam report, "Reward Work, Not Wealth") highlighted several key points that run through the whole topic:</p>
@@ -7713,6 +7793,8 @@ Because there was inflation of 4% in the year, the prices of everything in the e
 <h3>The Gini index (Gini coefficient)</h3>
 <div class="callout key"><span class="c-label">Definition</span>The Gini index is an indicator that neatly summarizes the information in a Lorenz curve. It is derived from the Lorenz curve as a ratio of the area between the line of equality and a country's Lorenz curve (area a) to the total area under the line of absolute equality (areas a + b).</div>
 <div class="formula-box">Gini index = Area (a) &divide; [Area (a) + Area (b)]</div>
+<p>Area (a) is the gap between the 45-degree line of perfect equality and a country's own Lorenz curve; Area (a) + Area (b) is the whole triangle-shaped area that sits underneath the line of equality. To calculate the Gini index you divide the first (smaller) area by the second (total) area. Because area (a) can never be larger than the full triangle, the answer always falls between 0 (the curve lies exactly on the line of equality, i.e. perfect equality) and 1 (the curve sags all the way down to the horizontal axis, i.e. perfect inequality) &mdash; or, multiplied by 100, between 0 and 100 as in this chapter's tables.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose a Lorenz curve is plotted on a diagram where the population and income axes both run from 0 to 100, so the whole triangle beneath the line of equality (areas a + b together) has an area of 0.5 &times; 100 &times; 100 = 5,000 square units. Using graph paper (or software) to measure the shaded area between the line of equality and the country's actual Lorenz curve, suppose this area (a) works out at 1,500 square units. Then Gini index = 1,500 &divide; 5,000 = 0.30, or 30 on the 0&ndash;100 scale. A score of 30 indicates a fairly equal income distribution &mdash; similar to Croatia's 30.8 in Table 22.2, and far more equal than Brazil's 51.3 or South Africa's 63.4.</p></div>
 <p>The higher the Gini index, the more unequal the distribution of income (it is sometimes expressed as a number between 0 and 1, and sometimes as a percentage/whole number between 0 and 100, as in this textbook's data). Of the four countries in Table 22.1, Bolivia has the highest income inequality with a Gini index of 58.2, while Croatia has the lowest with a score of 29.0.</p>
 <div class="callout distinction"><span class="c-label">Caution: Gini index &ne; level of development</span>Although reducing income inequality may be an important development objective, one must be careful using the Gini index as a basis for evaluating a country's development progress. While low-income countries tend to have higher inequality than high-income countries on average, there is no hard and fast correlation between a country's level of development (e.g. as measured by its Human Development Index, HDI) and its Gini index. Example: the US has a high level of human development (HDI rank 13) yet a relatively high Gini index (41.5); Mauritania has a much lower level of development (HDI rank 159) but a lower Gini value (32.6). (Source: Statistical Update 2018, Human Development Indices and Indicators, UNDP.)</div>
 
@@ -7944,7 +8026,8 @@ lower life expectancy than those born with better opportunities.</p>
 </table>
 </div>
 <div class="formula-box">Average tax rate = (Total tax paid &divide; Total income) &times; 100</div>
-<p>Katja's average tax rate = (11,700 &divide; 43,000) &times; 100 = 27.21%. Marija's average tax rate = (29,500 &divide; 80,000) &times; 100 = 36.88%. Note the average rate is always below the top marginal rate that applies to that person, because lower "slices" of their income were taxed at lower (or zero) rates.</p>
+<p>Total tax paid is the sum of the tax owed across every bracket a person's income passes through (as added up in the tables above), and Total income is the person's full income before any tax is deducted. Dividing the first figure by the second gives the fraction of income that ends up going to tax, and multiplying by 100 turns that fraction into a percentage &mdash; this is the person's average rate of tax, which is always lower than their top marginal rate.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Katja's average tax rate = (11,700 &divide; 43,000) &times; 100 = 27.21%. Marija's average tax rate = (29,500 &divide; 80,000) &times; 100 = 36.88%. Note the average rate is always below the top marginal rate that applies to that person, because lower "slices" of their income were taxed at lower (or zero) rates.</p></div>
 <div class="callout distinction"><span class="c-label">Tax deductions</span>The example above is a vastly simplified tax structure &mdash; real tax systems are far more complicated, often involving "tax deductions" that reduce a person's "taxable" income as a result of spending on certain things. For example, if a person moves to a different part of the country for a job and the move costs $5,000, they might be able to deduct this from their income, reducing their taxable income and the tax they pay &mdash; the government does this to ease the costs of moving and encourage workers to be willing to change jobs. Another common deduction is for money donated to a recognized charity, which can be claimed to reduce taxable income. Deductions vary from country to country.</div>
 
 <div class="callout cure"><span class="c-label"><span class="chip">Higher Level</span> Worked example (HL Paper 3 style): Opportunia</span>The following table shows income tax brackets for the (hypothetical) country of Opportunia in 2018, plus an indirect VAT of 15% on all goods and services.
@@ -8073,6 +8156,7 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 </div>
 `,
 "23": `
+
 <div class="notes-section">
 <h2>Why do countries trade?</h2>
 <p>International trade is the exchange of goods and services between countries. Prices may be lower in some countries than others because of access to natural resources, differences in the quality of labour forces, or differences in the quality of capital and levels of technology. The cause of these lower prices is mainly determined by the concept of comparative advantage.</p>
@@ -8132,6 +8216,9 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 <p style="font-size:0.9em;"><em>Table 23.2 Comparative advantage</em></p>
 
 <div class="formula-box">Opportunity cost of 1 unit of Good X &divide; Maximum output of Good Y possible with same resources &divide; Maximum output of Good X possible with same resources (i.e. opportunity cost of X in terms of Y = Max output of Y &divide; Max output of X)</div>
+
+<p>To find the opportunity cost of one unit of Good X in terms of Good Y, divide the maximum amount of Good Y that could be produced with a given set of resources by the maximum amount of Good X that could be produced with that exact same set of resources. The answer tells you how many units of Y must be given up to produce one extra unit of X.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose Egypt and Kenya each have identical resources, and if fully devoted to one good could produce: Egypt, 8 tonnes of tea or 4 tonnes of cotton; Kenya, 5 tonnes of tea or 5 tonnes of cotton. Egypt's opportunity cost of 1 tonne of tea = Max cotton &divide; Max tea = 4 &divide; 8 = 0.5 tonnes of cotton, compared with Kenya's opportunity cost of 1 tonne of tea = 5 &divide; 5 = 1 tonne of cotton; since 0.5 is lower than 1, Egypt has the comparative advantage in tea. Conversely, Egypt's opportunity cost of 1 tonne of cotton = Max tea &divide; Max cotton = 8 &divide; 4 = 2 tonnes of tea, while Kenya's is 5 &divide; 5 = 1 tonne of tea; since 1 is lower than 2, Kenya has the comparative advantage in cotton. Egypt should therefore specialize in tea and Kenya in cotton, and both countries can gain by trading with each other.</p></div>
 
 <p>France has an absolute advantage in <em>both</em> goods (3 &gt; 1 wine; 4 &gt; 3 cheese). However, in terms of comparative advantage: France only has to give up 4&frasl;3 kilos of cheese to produce a litre of wine, whereas Poland has to give up 3 kilos; so France has the comparative advantage (lower opportunity cost) in wine. Poland only has to give up 1&frasl;3 litre of wine to produce a kilo of cheese, whereas France has to give up 3&frasl;4 litre of wine; so Poland has the comparative advantage in cheese. The theory of comparative advantage tells us that France should specialize in wine and Poland should specialize in cheese. France then consumes the wine it wants and exchanges any extra wine for cheese; Poland consumes the cheese it wants and exchanges any extra for wine.</p>
 
@@ -8215,6 +8302,7 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 </div>
 `,
 "24": `
+
 <div class="notes-section">
 <h2>What is free trade?</h2>
 <div class="callout key"><span class="c-label">Free trade</span>Free trade takes place between countries when there are no barriers to trade put in place by governments or international organizations &ndash; goods and services are allowed to move freely between countries.</div>
@@ -8311,6 +8399,9 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 
 <div class="formula-box">Government tariff revenue = Tariff per unit &times; Quantity of imports after the tariff</div>
 
+<p>Here, &ldquo;tariff per unit&rdquo; is the fixed tax charged on each unit imported (e.g. dollars per item), and &ldquo;quantity of imports after the tariff&rdquo; is however many units are still imported once the tariff has raised the price and reduced the quantity demanded from foreign producers (this is the new, smaller import quantity, not the original pre-tariff amount). Multiplying the two together gives the total tax revenue the government collects from the tariff.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose a country imports 500,000 pairs of shoes per year under free trade, and its government then imposes a tariff of $4 per pair. After the tariff raises the price, only 350,000 pairs are still imported (the higher price both discourages some foreign supply and reduces domestic demand for imports). Government tariff revenue = $4 &times; 350,000 = <strong>$1,400,000</strong>. This $1.4 million is money the government collects to spend elsewhere, but it is ultimately funded by the higher prices paid by domestic consumers and importers.</p></div>
+
 <p>Importers must pay the tariff, and the higher price is passed on to buyers further down the supply chain (e.g. millers, then bakeries/cereal companies, then consumers). If a government puts a tariff on imported automobile components, this raises costs for car-makers, who pass this to consumers as higher car prices; if the car-maker is itself an exporter, this could reduce its international competitiveness.</p>
 <p>Tariffs are the most common anti-dumping measure: if dumping has been proven, a country may impose a tariff on the dumped goods to raise their price and remove the dumped goods' cost advantage.</p>
 </div>
@@ -8328,6 +8419,8 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 <br><br><strong>No consumer-surplus loss:</strong> because price stays at P<sub>w</sub>, there is no dead-weight loss of consumer surplus, unlike with a tariff or quota. However, consumers are indirectly affected because government tax revenue funds the subsidy &ndash; this may mean higher taxes and involves an opportunity cost of reduced government spending elsewhere.</div>
 
 <div class="formula-box">Total cost of subsidy to government = Subsidy per unit &times; Domestic quantity produced after the subsidy</div>
+<p>Here, &ldquo;subsidy per unit&rdquo; is the amount of money the government pays domestic producers for each unit they make, and &ldquo;domestic quantity produced after the subsidy&rdquo; is the new, higher level of domestic output once producers respond to that extra per-unit payment. Multiplying the two together gives the total amount the subsidy costs the government&rsquo;s budget.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose a government pays domestic wheat farmers a subsidy of $20 per tonne. Before the subsidy, domestic farmers produced 200,000 tonnes; after the subsidy is introduced, they expand production to 300,000 tonnes. Total cost of the subsidy to the government = $20 &times; 300,000 = <strong>$6,000,000</strong>. This $6 million must be funded out of general taxation, and represents the opportunity cost of supporting domestic wheat producers instead of spending that money elsewhere.</p></div>
 </div>
 
 <div class="notes-section hl-only">
@@ -8382,6 +8475,7 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 </li>
 </ol>
 <div class="formula-box">Consumer expenditure = Price &times; Quantity demanded<br>Government tariff revenue = Tariff per unit &times; Quantity of imports after tariff</div>
+<div class="callout example"><span class="c-label">Worked example</span><p>Using the cooking oil example above: before the tariff, consumer expenditure = $1.00 &times; 1.5 million litres = $1.5 million; after the 30-cent tariff, consumer expenditure = $1.30 &times; 1.2 million litres = $1.56 million, and government tariff revenue = $0.30 &times; 400,000 litres = $120,000. This shows how a tariff can raise both total consumer spending and government revenue at the same time, even though the quantity of the good bought and sold falls.</p></div>
 </div>
 
 <div class="notes-section">
@@ -8398,7 +8492,6 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 <tr><td>Who gains from higher price</td><td>Government (tariff revenue) + domestic producers</td><td>Domestic producers + foreign producers holding quota licences</td><td>Domestic producers (paid by government/taxpayers)</td><td>Domestic producers; sometimes government (fees/fines)</td></tr>
 </table></div>
 </div>
-
 `,
 "25": `
 <div class="notes-section">
@@ -8566,6 +8659,7 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 </div>
 `,
 "26": `
+
 <div class="notes-section">
 <h2>What is an exchange rate?</h2>
 <p>An <strong>exchange rate</strong> is the value of one currency expressed in terms of another currency, for example &euro;1 = US$1.12. Currencies are exchanged (traded) on the foreign exchange market (the Forex market), the largest market in the world in terms of cash movements. The market includes the trading of foreign currencies between governments, central banks, private commercial banks, MNCs and other financial institutions.</p>
@@ -8595,13 +8689,18 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 <h3>How do you calculate changes in exchange rates and the price of a good in different currencies?</h3>
 <p>In exam calculations you may be asked to compute exchange rates and changes in exchange rates, and their effect on the price of goods in different currencies.</p>
 <div class="formula-box">Rate for &euro;1 in US$ = 1 &divide; (US$ per &euro;1 rate)</div>
+<p>Exchange rates are always quoted as &ldquo;how many units of one currency for one unit of another&rdquo;. If you are given the rate one way round but need it the other way round, simply divide 1 by the quoted rate &mdash; the result tells you how many units of the first currency one unit of the second currency is worth.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose the British pound is quoted at &pound;1 = US$1.30. To find how many pounds one US dollar buys, calculate 1 &divide; 1.30 = &pound;0.77 (to 2 decimal places). This means a tourist arriving in the UK with US$500 could expect to receive approximately 500 &times; 0.77 = &pound;385 when exchanging their dollars, before any bank commission is deducted.</p></div>
 <p><strong>Worked example 1</strong>: the US dollar is trading against the euro at a rate of US$1 = &euro;0.8. What is the rate for &euro;1 in US$?</p>
 <div class="formula-box">If US$1 = &euro;0.8, then &euro;1 = 1 &divide; 0.8 = US$1.25</div>
+<div class="callout example"><span class="c-label">Worked example</span><p>Since US$1 = &euro;0.8, one euro is worth 1 &divide; 0.8 = US$1.25. In other words, exchanging one euro would get you one dollar and twenty-five cents, confirming that at this rate the euro is worth more than the dollar.</p></div>
 <p><strong>Worked example 2</strong>: with the exchange rate above (US$1 = &euro;0.8), what would be the cost in euros of a good selling for US$75?</p>
 <div class="formula-box">If the good sells for US$75, then it will cost 75 &times; 0.8 = &euro;60</div>
+<p>To convert a price given in one currency into another, multiply it by the exchange rate showing how many units of the target currency each unit of the original currency is worth. Here, because US$1 is worth &euro;0.8, multiplying a dollar price by 0.8 converts it into the equivalent euro price.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>A good priced at US$75 therefore costs 75 &times; 0.8 = &euro;60 in the eurozone at this exchange rate.</p></div>
 <p><strong>Worked example 3</strong>: if the exchange rate changes from US$1 = &euro;0.8 to US$1 = &euro;0.9, explain what would happen to the euro price of a US-manufactured dress shirt exported to Europe from the USA at a cost of US$150.</p>
 <div class="formula-box">Original: 150 &times; 0.8 = &euro;120<br>New: 150 &times; 0.9 = &euro;135</div>
-<p>With the original exchange rate of US$1 = &euro;0.8, the dress shirt would cost &euro;120 (150 &times; &euro;0.8). With the new exchange rate, the euro has depreciated &ndash; it now costs more euros to buy the same amount of dollars &ndash; so the price of the shirt in euros increases to &euro;135 (150 &times; &euro;0.9).</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>With the original exchange rate of US$1 = &euro;0.8, the dress shirt would cost &euro;120 (150 &times; &euro;0.8). With the new exchange rate, the euro has depreciated &ndash; it now costs more euros to buy the same amount of dollars &ndash; so the price of the shirt in euros increases to &euro;135 (150 &times; &euro;0.9).</p></div>
 </div>
 
 <div class="notes-section">
@@ -8734,6 +8833,7 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 </div>
 `,
 "27": `
+
 <div class="notes-section">
 <h2>What is the balance of payments account?</h2>
 <div class="callout key"><span class="c-label">Definition</span>The balance of payments account is a record of the value of all the transactions between the residents of one country and the residents of all other countries in the world over a given period of time (usually one year, though monthly accounts are also produced). It has three main parts: the <strong>current account</strong>, the <strong>capital account</strong> and the <strong>financial account</strong>.</div>
@@ -8762,6 +8862,8 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 </ul>
 
 <div class="formula-box">Current account balance = Balance of trade in goods + Balance of trade in services + Net income flows + Net transfers</div>
+<p>To calculate the current account balance, add together the balance of trade in goods, the balance of trade in services, net income flows and net current transfers for the same time period, giving a negative sign to any sub-account that is in deficit and a positive sign to any sub-account that is in surplus. The result is a single net figure showing whether more money flowed into the country from current international transactions than flowed out (a surplus) or vice versa (a deficit).</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose the small economy of Solaria records the following over one year: a balance of trade in goods of &minus;$3.2 billion (imports of goods exceed exports), a balance of trade in services of +$1.4 billion (it is a popular tourist destination), net income flows of +$0.6 billion (profits and interest earned abroad exceed payments to foreign investors), and net current transfers of &minus;$0.3 billion (remittances and aid sent abroad exceed those received). Current account balance = (&minus;3.2) + (+1.4) + (+0.6) + (&minus;0.3) = &minus;$1.5 billion. Solaria therefore has a current account deficit of $1.5 billion for the year, meaning more money left the country through current international transactions than entered it, and this deficit will need to be financed by an offsetting surplus on the capital and financial accounts.</p></div>
 
 <div class="callout distinction"><span class="c-label">Each component can differ in direction</span>Any of the four sub-accounts might be in surplus or deficit at any given time independently of the others &mdash; e.g. a deficit on trade in goods, a surplus on trade in services, a deficit on net income flows, and a surplus on net transfers. The current account balance is the overall/net balance of all four, and it may end up in deficit or surplus regardless of the individual components.</div>
 
@@ -8958,6 +9060,8 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 <p>The effect of a price change on spending or revenues depends on price elasticity of demand (PED). The price of exports might fall because of depreciation of the currency, and according to the law of demand the quantity demanded will increase &mdash; but whether or not this leads to an increase in export revenues depends on foreigners' PED for exports. Similarly, the price of imported goods will rise if a currency falls in value, and according to the law of demand the quantity demanded will fall &mdash; but whether or not this leads to a fall in expenditure on imports depends on the PED for imports.</p>
 <div class="callout key"><span class="c-label">Marshall&ndash;Lerner condition</span>The Marshall&ndash;Lerner condition is a rule that tells us how successful a depreciation or devaluation of a currency's exchange rate will be as a means to improve a current account deficit in the balance of payments. The condition states that reducing the value of the exchange rate will only be successful if the total value of the price elasticity of demand for exports and the price elasticity of demand for imports is greater than one.</div>
 <div class="formula-box">A fall in the exchange rate will reduce a current account deficit if:<br>PED<sub>exports</sub> + PED<sub>imports</sub> &gt; 1</div>
+<p>To apply the condition, take the price elasticity of demand for exports and the price elasticity of demand for imports (both treated as positive numbers) and add them together. If the sum is greater than 1, a depreciation or devaluation of the currency will improve the current account balance; if the sum is 1 or less, the depreciation will fail to improve the current account, or may even make it worse.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Using the estimated short-run trade elasticities for the United States, PED for exports is about 0.5 and PED for imports is about 0.6. Adding these together gives PED<sub>exports</sub> + PED<sub>imports</sub> = 0.5 + 0.6 = 1.1, which is greater than 1. The Marshall&ndash;Lerner condition is therefore satisfied, so in the short run a depreciation of the US dollar would be expected to improve, not worsen, the US current account balance (see the fuller country comparison below).</p></div>
 <p>This is a straightforward application of the concept of elasticity of demand.</p>
 <ul>
 <li>If demand for exports was price <strong>inelastic</strong> and price fell (as a result of a fall in the exchange rate), the proportionate increase in the quantity of exports demanded would be less than the proportionate decrease in the price of exports, and so export revenue would fall.</li>
@@ -9028,6 +9132,7 @@ Samaya earns an annual income of $45,000 and spends 90% of her disposable income
 </div>
 `,
 "28": `
+
 <div class="notes-section">
 <h2>28.1 Economic Growth vs Economic Development</h2>
 <p><strong>Real-world issue for this chapter:</strong> Why is economic development uneven?</p>
@@ -9190,9 +9295,13 @@ Poor countries are also least able to afford the costs of climate-mitigation. Me
 <div class="formula-box">
 Child dependency ratio = (% of population under 15) &divide; (% of population aged 15 to 64)
 </div>
+<p>To calculate this ratio, take the percentage of the population aged under 15 and divide it by the percentage of the population aged 15 to 64 (the working-age population); multiplying the result by 100 expresses it as a percentage. A higher value means there are relatively more children for each person of working age to support.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Suppose a developing country has a population structure of 40% aged under 15, 55% aged 15 to 64, and 5% aged 65 and over. Child dependency ratio = (40 &divide; 55) &times; 100 = 72.7%. This means that, for every 100 people of working age, there are roughly 73 children who need to be supported &ndash; a much heavier dependency burden than in a typical developed country, where the equivalent figure is usually below 30%.</p></div>
 <div class="formula-box">
 Old age dependency ratio = (% of population over 65) &divide; (% of population aged 15 to 64)
 </div>
+<p>To calculate this ratio, take the percentage of the population aged 65 and over and divide it by the percentage of the population aged 15 to 64, then multiply by 100 to express it as a percentage. A higher value means there are relatively more elderly, non-working people for each working-age person to support.</p>
+<div class="callout example"><span class="c-label">Worked example</span><p>Using the same population structure (5% aged 65 and over, 55% aged 15 to 64), old age dependency ratio = (5 &divide; 55) &times; 100 = 9.1%. This means only about 9 elderly people need to be supported for every 100 people of working age &ndash; a much lighter burden than in most developed countries, where the equivalent figure is often above 25% and rising as populations age.</p></div>
 <p>Developed countries in the data below have child dependency ratios of around 28&ndash;29% and old age dependency ratios of 24&ndash;32% (and rising). Developing countries have much higher child dependency ratios (49&ndash;91%) and significantly lower old age dependency ratios (5&ndash;11%).</p>
 <div class="table-wrap">
 <table class="notes-table">
