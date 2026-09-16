@@ -1226,13 +1226,6 @@
     background:var(--hv-bg-alt); border-radius:10px; padding:12px 14px; font-size:12.5px; color:var(--hv-text-soft);
     line-height:1.5; margin-bottom:16px;
   }
-  .subject-dash .ws-source-row{display:flex; align-items:flex-start; justify-content:space-between; gap:10px; padding:10px 0; border-bottom:1px solid var(--hv-border); font-size:13px; color:var(--hv-text-soft);}
-  .subject-dash .ws-source-row:last-child{border-bottom:none;}
-  .subject-dash .ws-source-remove{background:none; border:none; color:var(--hv-text-faint); cursor:pointer; font-size:12px; flex-shrink:0;}
-  .subject-dash .ws-source-remove:hover{color:var(--hv-red,#e08a6a);}
-  .subject-dash .ws-source-add-row{display:flex; gap:8px; margin-bottom:14px;}
-  .subject-dash .ws-source-add-row input{flex:1;}
-
   @media (max-width:760px){
     .subject-dash .ws-grid{grid-template-columns:1fr;}
     .subject-dash .ws-header{flex-direction:column;}
@@ -2367,7 +2360,6 @@
       <div class="ws-tabs">
         <button type="button" class="ws-tab on" data-ws-tool="ee" data-ws-tab="overview">Overview</button>
         <button type="button" class="ws-tab" data-ws-tool="ee" data-ws-tab="drafts">Drafts</button>
-        <button type="button" class="ws-tab" data-ws-tool="ee" data-ws-tab="sources">Sources</button>
       </div>
 
       <!-- OVERVIEW -->
@@ -2442,17 +2434,6 @@
         <div class="ee-results" id="ee-results" hidden></div>
       </div>
 
-      <!-- SOURCES -->
-      <div class="ws-panel" data-ws-tool-panel="ee" data-ws-panel="sources" hidden>
-        <div class="ws-card">
-          <h3 style="font-family:'Fraunces',Georgia,serif;font-size:16px;margin:0 0 14px;">Sources</h3>
-          <div class="ws-source-add-row">
-            <input type="text" id="ee-source-input" class="ee-input" placeholder="Add a source or citation&hellip;">
-            <button type="button" class="btn-secondary ws-small-btn" id="ee-source-add">Add</button>
-          </div>
-          <div id="ee-source-list"><p class="ws-empty">No sources added yet.</p></div>
-        </div>
-      </div>
     </div>
   </section>
 
@@ -2472,7 +2453,6 @@
       <div class="ws-tabs">
         <button type="button" class="ws-tab on" data-ws-tool="ia" data-ws-tab="overview">Overview</button>
         <button type="button" class="ws-tab" data-ws-tool="ia" data-ws-tab="drafts">Drafts</button>
-        <button type="button" class="ws-tab" data-ws-tool="ia" data-ws-tab="sources">Sources</button>
       </div>
 
       <!-- OVERVIEW -->
@@ -2547,17 +2527,6 @@
         <div class="ee-results" id="ia-results" hidden></div>
       </div>
 
-      <!-- SOURCES -->
-      <div class="ws-panel" data-ws-tool-panel="ia" data-ws-panel="sources" hidden>
-        <div class="ws-card">
-          <h3 style="font-family:'Fraunces',Georgia,serif;font-size:16px;margin:0 0 14px;">Sources</h3>
-          <div class="ws-source-add-row">
-            <input type="text" id="ia-source-input" class="ee-input" placeholder="Add a source or citation&hellip;">
-            <button type="button" class="btn-secondary ws-small-btn" id="ia-source-add">Add</button>
-          </div>
-          <div id="ia-source-list"><p class="ws-empty">No sources added yet.</p></div>
-        </div>
-      </div>
     </div>
   </section>
 </div>
@@ -21057,7 +21026,7 @@ function wsWordCount(text){
 function wsKey(tool){ return "ib-ws-"+tool; }
 
 function wsDefaultState(){
-  return { subject:"", guide:"", focus:"", drafts:[], sources:[], submitted:false };
+  return { subject:"", guide:"", focus:"", drafts:[], submitted:false };
 }
 
 function wsLoad(tool){
@@ -21144,19 +21113,6 @@ function wsRenderDrafts(tool, state, docName){
   }).join("");
 }
 
-function wsRenderSources(tool, state){
-  var listEl = document.getElementById(tool+"-source-list");
-  if(!listEl) return;
-  var sources = state.sources || [];
-  if(sources.length===0){
-    listEl.innerHTML = '<p class="ws-empty">No sources added yet.</p>';
-    return;
-  }
-  listEl.innerHTML = sources.map(function(s, i){
-    return '<div class="ws-source-row"><span>'+wsEsc(s)+'</span><button type="button" class="ws-source-remove" data-ws-remove-source="'+i+'">Remove</button></div>';
-  }).join("");
-}
-
 function wsQualityHeadline(pct){
   if(pct>=82) return "Strong work";
   if(pct>=65) return "Solid progress";
@@ -21232,7 +21188,6 @@ function eeRenderOverview(){
   }
   wsRenderSteps("ee", state, "Research Question");
   wsRenderDrafts("ee", state, (state.subject||"Extended")+" Essay Draft");
-  wsRenderSources("ee", state);
   var last = state.drafts.length ? state.drafts[state.drafts.length-1] : null;
   wsRenderGradingSummary("ee", last ? last.grading : null, last && last.grading ? last.grading.topPriority : null);
 }
@@ -21955,31 +21910,6 @@ function eeDelete(){
   if(subjectInput) subjectInput.addEventListener("blur", eeSaveDetails);
   var rqInput = document.getElementById("ee-rq");
   if(rqInput) rqInput.addEventListener("blur", eeSaveDetails);
-
-  var sourceInput = document.getElementById("ee-source-input");
-  var sourceAddBtn = document.getElementById("ee-source-add");
-  function addEESource(){
-    if(!sourceInput || !sourceInput.value.trim()) return;
-    var state = eeLoadWorkspace();
-    state.sources.push(sourceInput.value.trim());
-    wsSave("ee", state);
-    sourceInput.value = "";
-    wsRenderSources("ee", state);
-  }
-  if(sourceAddBtn) sourceAddBtn.addEventListener("click", addEESource);
-  if(sourceInput) sourceInput.addEventListener("keydown", function(e){ if(e.key==="Enter"){ e.preventDefault(); addEESource(); } });
-  var sourceListEl = document.getElementById("ee-source-list");
-  if(sourceListEl){
-    sourceListEl.addEventListener("click", function(e){
-      var btn = e.target.closest("[data-ws-remove-source]");
-      if(!btn) return;
-      var idx = Number(btn.getAttribute("data-ws-remove-source"));
-      var state = eeLoadWorkspace();
-      state.sources.splice(idx, 1);
-      wsSave("ee", state);
-      wsRenderSources("ee", state);
-    });
-  }
 })();
 
 /* ---------------- Internal Assessment tool (AI feedback via the artifact
@@ -22188,7 +22118,6 @@ function iaRenderOverview(){
   }
   wsRenderSteps("ia", state, "Focus");
   wsRenderDrafts("ia", state, (subjectDisplay||"IA")+" Draft");
-  wsRenderSources("ia", state);
   var last = state.drafts.length ? state.drafts[state.drafts.length-1] : null;
   wsRenderGradingSummary("ia", last ? last.grading : null, last && last.grading ? last.grading.topPriority : null);
 }
@@ -22372,31 +22301,6 @@ function iaDelete(){
   if(deleteBtn) deleteBtn.addEventListener("click", iaDelete);
   var stopBtn = document.getElementById("ia-stop");
   if(stopBtn) stopBtn.addEventListener("click", function(){ if(iaAbortCtl) iaAbortCtl.abort(); });
-
-  var sourceInput = document.getElementById("ia-source-input");
-  var sourceAddBtn = document.getElementById("ia-source-add");
-  function addIASource(){
-    if(!sourceInput || !sourceInput.value.trim()) return;
-    var state = iaLoadWorkspace();
-    state.sources.push(sourceInput.value.trim());
-    wsSave(iaCurrentToolKey(), state);
-    sourceInput.value = "";
-    wsRenderSources("ia", state);
-  }
-  if(sourceAddBtn) sourceAddBtn.addEventListener("click", addIASource);
-  if(sourceInput) sourceInput.addEventListener("keydown", function(e){ if(e.key==="Enter"){ e.preventDefault(); addIASource(); } });
-  var sourceListEl = document.getElementById("ia-source-list");
-  if(sourceListEl){
-    sourceListEl.addEventListener("click", function(e){
-      var btn = e.target.closest("[data-ws-remove-source]");
-      if(!btn) return;
-      var idx = Number(btn.getAttribute("data-ws-remove-source"));
-      var state = iaLoadWorkspace();
-      state.sources.splice(idx, 1);
-      wsSave(iaCurrentToolKey(), state);
-      wsRenderSources("ia", state);
-    });
-  }
 })();
 
 function handleChapterListClick(e){
