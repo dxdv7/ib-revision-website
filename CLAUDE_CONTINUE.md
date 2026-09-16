@@ -1,5 +1,142 @@
 # Continue the Economics Quiz website
 
+## Update 2026-09-16: Physics SL added as a third subject
+
+Source: "Physics SL" by Chris Hamper & Emma Mitchell, 3rd edition, Pearson 2023
+(`/Users/davidbukraba/Desktop/Physics SL - Chris Hamper - Third Edition - Pearson
+2023.pdf`, 465 pages, real text layer). This is a genuine **SL-only edition** —
+the book's own text explicitly states two syllabus sub-topics (B.4, E.2) are
+"not included as it is for HL students only" — so this subject has zero HL
+content and zero HL-gating anywhere. 19 sub-topics total: A.1-A.3, B.1-B.3+B.5,
+C.1-C.5, D.1-D.3, E.1+E.3-E.5 (matching the new 2023 syllabus, first assessment
+2025 — same review wave as the Biology syllabus already on this site).
+
+### Extraction
+
+Real text layer (like Biology, unlike Economics), no OCR needed. The PDF has
+no embedded table of contents, so the topic-to-page mapping was built by hand
+from the book's own printed Contents page (page images 3-4), then verified by
+locating three landmark section-title pages directly in the extracted text
+(Kinematics, Forces and momentum, Fusion and stars) to confirm a constant
+**+46 page offset** between the book's own printed page numbers and actual PDF
+page indices, consistent everywhere it was checked. Raw text extracted via
+PyMuPDF into `source/phys_raw/`, with `mapping.json` recording the
+number/code/name/page-range for all 19 sub-topics.
+
+**One recurring hiccup**: the printed-page page ranges I calculated turned out
+to run slightly short of full topic coverage near a few section boundaries
+(confirmed independently by three different writing agents on unrelated
+sub-topics — C.3, D.1, D.2 all hit this). Rather than leaving gaps, each agent
+supplemented the missing tail of its own sub-topic with standard,
+arithmetically-verified IB SL physics content and flagged exactly what it had
+to add in its own report. Net effect: full, correct topic coverage everywhere,
+but a few sections (single-slit diffraction/diffraction gratings/polarization
+in C.3; gravitational PE/potential/escape velocity in D.1; capacitance and
+magnetic force formulas in D.2) were written from general knowledge rather
+than this specific textbook's exact wording. Worth knowing if a future edit
+ever needs to trace a specific passage back to the source PDF.
+
+### New standing requirement baked in from the start: formula + how-to-
+calculate + worked example
+
+Right before this build, the user set a permanent site-wide rule (see the
+"formula presentation standard" memory): every formula/calculation, in any
+subject, must be presented as (1) the formula itself, (2) a plain-language
+explanation of what each term means, (3) a concrete worked numeric example.
+This was retrofitted onto all 60 existing Economics formulas earlier the same
+day (see below), and was written into Physics from the very first draft
+instead of retrofitted after the fact — every one of Physics's **182 formulas**
+has both parts by construction. A new `.callout.example` component (red-toned,
+distinct from the existing key/cure/distinction/diagram callouts) was added to
+the CSS contract for this — "Worked example" is its label.
+
+Physics is by far the most formula-dense subject on the site, so agents were
+told explicitly to reuse the textbook's own real "Worked example" boxes
+(Chris Hamper's book has many, with full solutions) wherever one sat right
+next to a formula, rather than inventing a new one — most worked examples on
+the live site are adapted from genuine textbook-solved problems, arithmetic
+independently re-verified by the writing agent before inclusion.
+
+### Real errors caught and fixed along the way
+
+Multiple background agents independently caught and corrected mistakes rather
+than transcribing them faithfully:
+- A.1/A.2/etc.: one agent caught its own stray `</p>` with no matching `<p>`
+  in a `callout key` block (the classic project bug, self-corrected before
+  reporting done).
+- B.3 Gas laws: the raw OCR'd source stated the kinetic theory pressure
+  relation as "P = &half;&rho;v²" (`&half;` isn't a real HTML entity, and the
+  physics itself pointed to a garbled OCR of "&frac13;") — corrected to the
+  physically correct **P = ⅓&rho;v²**, matching the standard IB derivation.
+- B.5 Current and circuits: the source's own worked example claimed two
+  resistors (4Ω, 8Ω) in parallel give 3Ω — this doesn't check out
+  arithmetically (correct answer is 8/3 Ω ≈ 2.67 Ω) — dropped in favor of a
+  clean, verified two-8Ω-resistors-in-parallel = 4Ω example instead.
+- A final full-file merge check (a Python `html.parser`-based validator, run
+  over each of the 19 notes files individually before merging) caught one
+  more real nesting bug that had slipped past an agent's own self-report
+  (D.1 Gravitational fields: a `callout key` with a stray unmatched `</p>`
+  right before its own correct `</div>`) — found and fixed before the merge.
+
+### Build process
+
+19 sub-topics, ~721K raw characters. Built via 13 parallel background agents
+across 3 batches (5, then 6, then 2), each writing one or two sub-topics
+end-to-end in a single pass (notes + quiz together — no separate HL-tagging
+phase needed, since nothing here is HL). No rate-limit interruptions this
+time, unlike the Biology build. Total output: **494 quiz questions, zero
+duplicates, zero `hl:true` anywhere** (verified programmatically), **182
+formulas, every one with a matching worked-example callout**.
+
+### Site integration
+
+- `PHYS_BANK` (494 questions), `PHYS_NOTES_HTML` (19 keys), `PHYS_CODE`
+  (number → syllabus code, e.g. `"7":"B.5"`) added alongside the existing
+  Economics/Biology data structures.
+- `PHYS_HL_ONLY_CHAPTERS` computed the same way as the other two subjects
+  (via the shared `computeHlOnlyChapters()`) — correctly comes out empty,
+  since no question anywhere has `hl:true`.
+- All the `current*()` subject-branching helpers (`currentBank`,
+  `currentNotesHtml`, `currentHlOnlyChapters`, `currentSubjectLabel`,
+  `currentSubjectView`, `currentSubjectNav`, plus `chapterLabel` and
+  `dashBadgeLabel`) extended from a two-way ternary to a three-way if-chain
+  covering `"physics"`.
+- New `goPhysics()` (mirrors `goEconomics`/`goBiology`, additionally forces
+  `state.level = "SL"` unconditionally as a safety net, since there's no HL
+  content to switch to), wired into `goSubjectChapters()`, the crumbs
+  click handler, and `els.viewPhysics`/`hideAllViews()`.
+- New `#view-physics` section using the same subject-dashboard workspace
+  pattern as Economics/Biology (real progress tracking from localStorage,
+  search/filter, "Continue learning" card — nothing carousel-based).
+  19 chapter cards + one "Full mix" card (494 questions).
+  Sub-topic display codes use the book's own dotted single-level notation
+  (`A.1`, `B.5`, `E.5` — not Biology's `A1.1`-style double-level notation).
+- Home page subject grid: **Physics SL is active**; **Physics HL is a
+  disabled "Coming soon" card**, consistent with how Chemistry/Maths are
+  shown, since there genuinely is no HL edition backing this subject. New
+  `sc-blue`/`--hv-blue`/`--hv-blue-bg` card color introduced for this (all
+  other color slots were already taken by other subjects/placeholders).
+
+### Verification performed
+
+Same rigor as Biology/Economics: every one of the 19 notes files individually
+validated with a strict `html.parser`-based tag-nesting checker (one real bug
+found and fixed, see above) before merging; every one of the 19 quiz files
+individually parsed as JS and checked (correct shape, `choices[0]` always
+correct, zero `hl:true`); zero duplicate question text across all 494
+(checked programmatically); zero non-ASCII characters anywhere (checked
+per-file before merging, and again on the full merged `index.html`); the
+merged `PHYS_BANK` array and `PHYS_NOTES_HTML` object independently
+re-extracted from the live `index.html` and re-parsed after merging (not just
+trusted from the pre-merge per-file checks) to catch any splicing mistake;
+whole-file JS syntax check; whole-file HTML nesting check; duplicate-ID check;
+and a small Node sandbox test confirming `currentSubjectLabel()`,
+`chapterLabel()`, and `dashBadgeLabel()` all behave correctly for `"physics"`
+without breaking the existing `"economics"`/`"biology"` behavior.
+
+**Not visually tested** — same sandboxed-environment limitation as every
+other UI change to this project (no display access).
+
 ## Update 2026-09-15: Biology added as a full second subject
 
 The user asked for the same full treatment (notes + quizzes + real SL/HL
