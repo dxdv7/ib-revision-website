@@ -26487,11 +26487,15 @@ function handleChapterListClick(e){
 }
 els.viewEconomics.addEventListener("click", handleChapterListClick);
 els.viewBiology.addEventListener("click", handleChapterListClick);
+els.viewPhysics.addEventListener("click", handleChapterListClick);
 els.viewEconomics.addEventListener("input", function(e){
   if(e.target.classList.contains("dash-search")) applyDashFilters(els.viewEconomics);
 });
 els.viewBiology.addEventListener("input", function(e){
   if(e.target.classList.contains("dash-search")) applyDashFilters(els.viewBiology);
+});
+els.viewPhysics.addEventListener("input", function(e){
+  if(e.target.classList.contains("dash-search")) applyDashFilters(els.viewPhysics);
 });
 
 els.btnNotesQuiz.addEventListener("click", function(){ goSetup(state.scope); });
