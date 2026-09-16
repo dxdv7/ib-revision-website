@@ -1231,6 +1231,57 @@
     background:var(--hv-bg-alt); border-radius:10px; padding:12px 14px; font-size:12.5px; color:var(--hv-text-soft);
     line-height:1.5; margin-bottom:16px;
   }
+
+  .subject-dash .ws-shell .dash-home-btn{background:none; border:none; padding:0; color:var(--hv-text-faint); margin-bottom:18px;}
+  .subject-dash .ws-shell .dash-home-btn:hover{color:var(--hv-accent-light);}
+  .subject-dash .ws-title{font-size:clamp(30px,4.4vw,44px);}
+  .subject-dash .ws-header{margin-top:0;}
+
+  .subject-dash .ws-card-head h3{display:flex; align-items:center; gap:9px;}
+  .subject-dash .ws-card-icon{color:var(--hv-text-soft); flex-shrink:0; display:flex;}
+
+  .subject-dash .ws-detail-row{
+    display:flex; align-items:center; justify-content:space-between; gap:14px;
+    padding:14px 0; margin:0; border-radius:0; border-bottom:1px solid var(--hv-border); cursor:pointer; background:none; border-inline:none; border-top:none;
+    width:100%; text-align:left; font:inherit; color:inherit;
+  }
+  .subject-dash .ws-detail-row:last-of-type{border-bottom:none;}
+  .subject-dash .ws-detail-row:hover .ws-field-value{color:var(--hv-accent-light);}
+  .subject-dash .ws-detail-row .ws-field-label,
+  .subject-dash .ws-detail-row .ws-field-value{margin:0;}
+  .subject-dash .ws-detail-text{min-width:0;}
+  .subject-dash .ws-detail-text .ws-field-value{white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .subject-dash .ws-chevron{color:var(--hv-text-faint); flex-shrink:0;}
+
+  .subject-dash .ws-lib-sub{font-size:12.5px; color:var(--hv-text-faint); margin:-8px 0 14px; line-height:1.5;}
+  .subject-dash .ws-lib-empty{
+    border:1px dashed var(--hv-border); border-radius:12px; padding:26px 18px; text-align:center; color:var(--hv-text-faint);
+  }
+  .subject-dash .ws-lib-empty svg{margin-bottom:10px; color:var(--hv-text-faint);}
+  .subject-dash .ws-lib-empty p{font-size:12.5px; line-height:1.5; max-width:32ch; margin:0 auto 14px;}
+  .subject-dash .ws-lib-item{
+    display:flex; align-items:center; justify-content:space-between; gap:10px; padding:10px 0;
+    border-bottom:1px solid var(--hv-border); font-size:13px; color:var(--hv-text-soft);
+  }
+  .subject-dash .ws-lib-item:last-child{border-bottom:none;}
+  .subject-dash .ws-lib-item span{overflow:hidden; text-overflow:ellipsis; white-space:nowrap; min-width:0;}
+  .subject-dash .ws-lib-remove{
+    background:none; border:none; color:var(--hv-text-faint); font-size:17px; line-height:1; cursor:pointer; flex-shrink:0; padding:2px 4px;
+  }
+  .subject-dash .ws-lib-remove:hover{color:var(--hv-accent-light);}
+  .subject-dash .ws-lib-add-form{display:flex; gap:8px; margin-top:2px;}
+  .subject-dash .ws-lib-add-form input{flex:1;}
+
+  .subject-dash .ws-next-card{background:linear-gradient(160deg,var(--hv-surface),var(--hv-surface-2));}
+  .subject-dash .ws-next-desc{font-size:12.5px; color:var(--hv-text-soft); line-height:1.5; margin:0 0 16px;}
+  .subject-dash .ws-next-btn{
+    width:100%; background:linear-gradient(135deg,var(--hv-green),#5fae82); color:#0d1f15; border:none; border-radius:10px;
+    padding:12px 16px; font-size:13.5px; font-weight:700; cursor:pointer; font-family:inherit;
+    display:flex; align-items:center; justify-content:center; gap:8px;
+  }
+  .subject-dash .ws-next-btn:hover{filter:brightness(1.06);}
+  .subject-dash .ws-next-btn[hidden]{display:none;}
+
   @media (max-width:760px){
     .subject-dash .ws-grid{grid-template-columns:1fr;}
     .subject-dash .ws-header{flex-direction:column;}
@@ -2622,7 +2673,7 @@
       <div class="ws-header">
         <div>
           <h1 class="ws-title" id="ee-ws-title">Extended Essay</h1>
-          <p class="ws-subtitle" id="ee-ws-subtitle">Set your subject to begin</p>
+          <p class="ws-subtitle" id="ee-ws-subtitle">Plan, research, and refine your Extended Essay from your topic to final reflection.</p>
         </div>
         <span class="ws-saved-badge" id="ee-saved-badge">Saved</span>
       </div>
@@ -2637,11 +2688,28 @@
         <div class="ws-grid">
           <div class="ws-col-main">
             <div class="ws-card">
-              <div class="ws-card-head"><h3>Investigation Details</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ee">Edit details</button></div>
-              <p class="ws-field-label">Subject</p>
-              <p class="ws-field-value" id="ee-ov-subject">Not set yet</p>
-              <p class="ws-field-label">Research question</p>
-              <p class="ws-field-value" id="ee-ov-rq">Not set yet</p>
+              <div class="ws-card-head"><h3><span class="ws-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"></rect><line x1="8" y1="8" x2="16" y2="8"></line><line x1="8" y1="12" x2="16" y2="12"></line><line x1="8" y1="16" x2="12" y2="16"></line></svg></span>Investigation Details</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ee">Edit details</button></div>
+              <button type="button" class="ws-detail-row" data-ws-goto-drafts="ee">
+                <span class="ws-detail-text"><span class="ws-field-label">Subject</span><span class="ws-field-value" id="ee-ov-subject">Not set yet</span></span>
+                <svg class="ws-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"></polyline></svg>
+              </button>
+              <button type="button" class="ws-detail-row" data-ws-goto-drafts="ee">
+                <span class="ws-detail-text"><span class="ws-field-label">Topic</span><span class="ws-field-value" id="ee-ov-topic">Not set yet</span></span>
+                <svg class="ws-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"></polyline></svg>
+              </button>
+              <button type="button" class="ws-detail-row" data-ws-goto-drafts="ee">
+                <span class="ws-detail-text"><span class="ws-field-label">Research question</span><span class="ws-field-value" id="ee-ov-rq">Not set yet</span></span>
+                <svg class="ws-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"></polyline></svg>
+              </button>
+            </div>
+            <div class="ws-card">
+              <div class="ws-card-head"><h3><span class="ws-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></span>Personal Library</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-lib-add="ee">Add +</button></div>
+              <p class="ws-lib-sub">Store your bibliography, links, notes, datasets or any useful information here.</p>
+              <div class="ws-lib-add-form" id="ee-library-form" hidden>
+                <input type="text" id="ee-library-input" class="ee-input" placeholder="e.g. Smith, J. (2024). Article title. Journal Name.">
+                <button type="button" class="btn-primary ws-small-btn" data-ws-lib-save="ee">Add</button>
+              </div>
+              <div id="ee-library-list"></div>
             </div>
             <div class="ws-card">
               <div class="ws-card-head"><h3>My Documents</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ee">Open</button></div>
@@ -2653,6 +2721,11 @@
             <div class="ws-card">
               <div class="ws-card-head"><h3>Your Progress</h3><span id="ee-progress-count" style="font-size:12px;color:var(--hv-text-faint);"></span></div>
               <ol class="ws-steps" id="ee-steps"></ol>
+            </div>
+            <div class="ws-card ws-next-card">
+              <div class="ws-card-head"><h3><span class="ws-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><circle cx="12" cy="12" r="5"></circle><circle cx="12" cy="12" r="1"></circle></svg></span><span id="ee-next-title">Next Step</span></h3></div>
+              <p class="ws-next-desc" id="ee-next-desc">Set your subject to begin your Extended Essay journey.</p>
+              <button type="button" class="ws-next-btn" id="ee-next-btn" data-ws-goto-drafts="ee">Set your subject <span aria-hidden="true">&#8594;</span></button>
             </div>
           </div>
         </div>
@@ -2672,6 +2745,8 @@
               </select>
               <label class="ee-field-label" for="ee-subject">Subject</label>
               <input type="text" id="ee-subject" class="ee-input" placeholder="e.g. Economics, Biology, History&hellip;" required>
+              <label class="ee-field-label" for="ee-topic">Topic</label>
+              <input type="text" id="ee-topic" class="ee-input" placeholder="e.g. Monopoly power in the UK train ticket market">
               <label class="ee-field-label" for="ee-rq">Research question</label>
               <input type="text" id="ee-rq" class="ee-input" placeholder="e.g. To what extent&hellip;">
               <label class="ee-field-label" for="ee-text">Your essay text</label>
@@ -2690,6 +2765,9 @@
                 <button type="button" class="btn-primary ee-submit" id="ee-submit">Get feedback</button>
                 <button type="button" class="btn-secondary" id="ee-delete">Delete</button>
                 <button type="button" class="btn-secondary" id="ee-stop" hidden>Stop</button>
+                <label class="ee-submitted-label" style="display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--hv-text-soft);margin-left:auto;cursor:pointer;">
+                  <input type="checkbox" id="ee-submitted"> Mark as submitted
+                </label>
               </div>
               <p class="ee-status" id="ee-status" hidden></p>
             </div>
@@ -2715,7 +2793,7 @@
       <div class="ws-header">
         <div>
           <h1 class="ws-title" id="ia-ws-title">Internal Assessment</h1>
-          <p class="ws-subtitle" id="ia-ws-subtitle">Set your subject to begin</p>
+          <p class="ws-subtitle" id="ia-ws-subtitle">Plan, research, and write your Internal Assessment from your topic to final submission.</p>
         </div>
         <span class="ws-saved-badge" id="ia-saved-badge">Saved</span>
       </div>
@@ -2730,11 +2808,28 @@
         <div class="ws-grid">
           <div class="ws-col-main">
             <div class="ws-card">
-              <div class="ws-card-head"><h3>Investigation Details</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ia">Edit details</button></div>
-              <p class="ws-field-label">Subject</p>
-              <p class="ws-field-value" id="ia-ov-subject">Not set yet</p>
-              <p class="ws-field-label" id="ia-ov-focus-label">Research question / focus</p>
-              <p class="ws-field-value" id="ia-ov-focus">Not set yet</p>
+              <div class="ws-card-head"><h3><span class="ws-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"></rect><line x1="8" y1="8" x2="16" y2="8"></line><line x1="8" y1="12" x2="16" y2="12"></line><line x1="8" y1="16" x2="12" y2="16"></line></svg></span>Assessment Details</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ia">Edit details</button></div>
+              <button type="button" class="ws-detail-row" data-ws-goto-drafts="ia">
+                <span class="ws-detail-text"><span class="ws-field-label">Subject</span><span class="ws-field-value" id="ia-ov-subject">Not set yet</span></span>
+                <svg class="ws-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"></polyline></svg>
+              </button>
+              <button type="button" class="ws-detail-row" data-ws-goto-drafts="ia">
+                <span class="ws-detail-text"><span class="ws-field-label">Topic / title</span><span class="ws-field-value" id="ia-ov-topic">Not set yet</span></span>
+                <svg class="ws-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"></polyline></svg>
+              </button>
+              <button type="button" class="ws-detail-row" data-ws-goto-drafts="ia">
+                <span class="ws-detail-text"><span class="ws-field-label" id="ia-ov-focus-label">Research question / focus</span><span class="ws-field-value" id="ia-ov-focus">Not set yet</span></span>
+                <svg class="ws-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"></polyline></svg>
+              </button>
+            </div>
+            <div class="ws-card">
+              <div class="ws-card-head"><h3><span class="ws-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></span>Personal Library</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-lib-add="ia">Add +</button></div>
+              <p class="ws-lib-sub">Store your bibliography, links, notes, datasets or any useful information here.</p>
+              <div class="ws-lib-add-form" id="ia-library-form" hidden>
+                <input type="text" id="ia-library-input" class="ee-input" placeholder="e.g. Raw data table from the school lab session">
+                <button type="button" class="btn-primary ws-small-btn" data-ws-lib-save="ia">Add</button>
+              </div>
+              <div id="ia-library-list"></div>
             </div>
             <div class="ws-card">
               <div class="ws-card-head"><h3>My Documents</h3><button type="button" class="btn-secondary ws-small-btn" data-ws-goto-drafts="ia">Open</button></div>
@@ -2746,6 +2841,11 @@
             <div class="ws-card">
               <div class="ws-card-head"><h3>Your Progress</h3><span id="ia-progress-count" style="font-size:12px;color:var(--hv-text-faint);"></span></div>
               <ol class="ws-steps" id="ia-steps"></ol>
+            </div>
+            <div class="ws-card ws-next-card">
+              <div class="ws-card-head"><h3><span class="ws-card-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><circle cx="12" cy="12" r="5"></circle><circle cx="12" cy="12" r="1"></circle></svg></span><span id="ia-next-title">Next Step</span></h3></div>
+              <p class="ws-next-desc" id="ia-next-desc">Choose your subject to begin your Internal Assessment.</p>
+              <button type="button" class="ws-next-btn" id="ia-next-btn" data-ws-goto-drafts="ia">Choose subject <span aria-hidden="true">&#8594;</span></button>
             </div>
           </div>
         </div>
@@ -2771,6 +2871,8 @@
                   <option value="3">Commentary 3</option>
                 </select>
               </div>
+              <label class="ee-field-label" for="ia-topic">Topic / title</label>
+              <input type="text" id="ia-topic" class="ee-input" placeholder="e.g. Photosynthesis rate in Elodea under varying light intensity">
               <label class="ee-field-label" for="ia-focus" id="ia-focus-field-label">Research question / focus of investigation</label>
               <input type="text" id="ia-focus" class="ee-input" placeholder="e.g. How does light intensity affect the rate of photosynthesis in Elodea?">
               <label class="ee-field-label" for="ia-text" id="ia-text-field-label">Your IA text</label>
@@ -2783,6 +2885,9 @@
                 <button type="button" class="btn-primary" id="ia-submit">Get feedback</button>
                 <button type="button" class="btn-secondary" id="ia-delete">Delete</button>
                 <button type="button" class="btn-secondary" id="ia-stop" hidden>Stop</button>
+                <label class="ee-submitted-label" style="display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--hv-text-soft);margin-left:auto;cursor:pointer;">
+                  <input type="checkbox" id="ia-submitted"> Mark as submitted
+                </label>
               </div>
               <p class="ee-status" id="ia-status" hidden></p>
             </div>
@@ -25171,7 +25276,12 @@ function wsWordCount(text){
 function wsKey(tool){ return "ib-ws-"+tool; }
 
 function wsDefaultState(){
-  return { subject:"", guide:"", focus:"", drafts:[], submitted:false };
+  return { subject:"", guide:"", topic:"", focus:"", drafts:[], library:[], submitted:false };
+}
+
+function wsToolStorageKey(tool){
+  if(tool==="ia") return iaCurrentToolKey();
+  return tool;
 }
 
 function wsLoad(tool){
@@ -25205,23 +25315,12 @@ function wsSwitchTab(tool, tabName){
   });
 }
 
-function wsComputeSteps(state, focusLabel){
-  return [
-    {label:"Set Up", done: !!(state.subject && state.subject.trim())},
-    {label:focusLabel, done: !!(state.focus && state.focus.trim())},
-    {label:"Draft", done: state.drafts.length>0},
-    {label:"Review", done: state.drafts.length>0 && !!state.drafts[state.drafts.length-1].grading},
-    {label:"Submitted", done: !!state.submitted}
-  ];
-}
-
-function wsRenderSteps(tool, state, focusLabel){
+function wsRenderSteps(tool, steps){
   var listEl = document.getElementById(tool+"-steps");
   var countEl = document.getElementById(tool+"-progress-count");
   if(!listEl) return;
-  var steps = wsComputeSteps(state, focusLabel);
   var doneCount = steps.filter(function(s){ return s.done; }).length;
-  if(countEl) countEl.textContent = doneCount+" of "+steps.length+" done";
+  if(countEl) countEl.textContent = doneCount+" of "+steps.length+" complete";
   var currentIdx = -1;
   for(var i=0;i<steps.length;i++){ if(!steps[i].done){ currentIdx=i; break; } }
   listEl.innerHTML = steps.map(function(s,i){
@@ -25229,6 +25328,67 @@ function wsRenderSteps(tool, state, focusLabel){
     var marker = s.done ? "&#10003;" : String(i+1);
     return '<li class="ws-step '+cls+'"><span class="ws-step-marker">'+marker+'</span><span class="ws-step-label">'+wsEsc(s.label)+'</span></li>';
   }).join("");
+}
+
+function wsRenderNextStep(tool, steps, toolName){
+  var titleEl = document.getElementById(tool+"-next-title");
+  var descEl = document.getElementById(tool+"-next-desc");
+  var btnEl = document.getElementById(tool+"-next-btn");
+  if(!btnEl) return;
+  var next = null;
+  for(var i=0;i<steps.length;i++){ if(!steps[i].done){ next=steps[i]; break; } }
+  if(!next){
+    if(titleEl) titleEl.textContent = "All done";
+    if(descEl) descEl.textContent = "Every step is complete for your "+toolName+" \u2014 nice work.";
+    btnEl.hidden = true;
+    return;
+  }
+  btnEl.hidden = false;
+  if(titleEl) titleEl.textContent = "Next Step";
+  if(descEl) descEl.textContent = next.label+" to keep moving through your "+toolName+".";
+  btnEl.innerHTML = wsEsc(next.label)+' <span aria-hidden="true">&#8594;</span>';
+}
+
+function wsRenderLibrary(tool, state){
+  var listEl = document.getElementById(tool+"-library-list");
+  if(!listEl) return;
+  var items = state.library || [];
+  if(items.length===0){
+    listEl.innerHTML =
+      '<div class="ws-lib-empty">' +
+      '<svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>' +
+      '<p>Store your bibliography, links, notes, datasets or any useful information here.</p>' +
+      '<button type="button" class="btn-secondary ws-small-btn" data-ws-lib-add="'+tool+'">+ Add item</button>' +
+      '</div>';
+    return;
+  }
+  listEl.innerHTML = items.map(function(it){
+    return '<div class="ws-lib-item"><span>'+wsEsc(it.text)+'</span><button type="button" class="ws-lib-remove" data-ws-lib-remove="'+tool+'" data-id="'+wsEsc(it.id)+'" aria-label="Remove item">&times;</button></div>';
+  }).join("");
+}
+
+function wsAddLibraryItem(tool){
+  var input = document.getElementById(tool+"-library-input");
+  if(!input) return;
+  var text = input.value.trim();
+  if(!text) return;
+  var key = wsToolStorageKey(tool);
+  var state = wsLoad(key);
+  state.library = state.library || [];
+  state.library.push({id: Date.now().toString(36)+Math.random().toString(36).slice(2,7), text: text});
+  wsSave(key, state);
+  input.value = "";
+  var form = document.getElementById(tool+"-library-form");
+  if(form) form.hidden = true;
+  if(tool==="ee") eeRenderOverview(); else if(tool==="ia") iaRenderOverview();
+}
+
+function wsRemoveLibraryItem(tool, id){
+  var key = wsToolStorageKey(tool);
+  var state = wsLoad(key);
+  state.library = (state.library||[]).filter(function(it){ return it.id!==id; });
+  wsSave(key, state);
+  if(tool==="ee") eeRenderOverview(); else if(tool==="ia") iaRenderOverview();
 }
 
 function wsRenderDrafts(tool, state, docName){
@@ -25308,6 +25468,30 @@ function wsRenderGradingSummary(tool, grading, topTip){
       }
       return;
     }
+    var libAddBtn = e.target.closest("[data-ws-lib-add]");
+    if(libAddBtn){
+      var addTool = libAddBtn.getAttribute("data-ws-lib-add");
+      var form = document.getElementById(addTool+"-library-form");
+      if(form){ form.hidden = false; var inp = document.getElementById(addTool+"-library-input"); if(inp) inp.focus(); }
+      return;
+    }
+    var libSaveBtn = e.target.closest("[data-ws-lib-save]");
+    if(libSaveBtn){
+      wsAddLibraryItem(libSaveBtn.getAttribute("data-ws-lib-save"));
+      return;
+    }
+    var libRemoveBtn = e.target.closest("[data-ws-lib-remove]");
+    if(libRemoveBtn){
+      wsRemoveLibraryItem(libRemoveBtn.getAttribute("data-ws-lib-remove"), libRemoveBtn.getAttribute("data-id"));
+      return;
+    }
+  });
+  document.addEventListener("keydown", function(e){
+    if(e.key !== "Enter") return;
+    var input = e.target.closest("[id$='-library-input']");
+    if(!input) return;
+    e.preventDefault();
+    wsAddLibraryItem(input.id.replace(/-library-input$/, ""));
   });
 })();
 
@@ -25317,21 +25501,35 @@ var eeAvailable = true;
 
 function eeLoadWorkspace(){ return wsLoad("ee"); }
 
+function eeComputeSteps(state){
+  var lib = state.library || [];
+  var hasDraft = state.drafts.length>0;
+  var lastReflections = hasDraft ? (state.drafts[state.drafts.length-1].reflections||"").trim() : "";
+  return [
+    {label:"Choose subject", done: !!(state.subject && state.subject.trim())},
+    {label:"Define your topic", done: !!(state.topic && state.topic.trim())},
+    {label:"Develop research question", done: !!(state.focus && state.focus.trim())},
+    {label:"Plan your research", done: lib.length>=1},
+    {label:"Collect and analyse evidence", done: lib.length>=3},
+    {label:"Write your essay", done: hasDraft},
+    {label:"Review & refine", done: state.drafts.length>=2},
+    {label:"Reflect on your process", done: !!lastReflections},
+    {label:"Final reflection & submission", done: !!state.submitted}
+  ];
+}
+
 function eeRenderOverview(){
   var state = eeLoadWorkspace();
   var subjectEl = document.getElementById("ee-ov-subject");
+  var topicEl = document.getElementById("ee-ov-topic");
   var rqEl = document.getElementById("ee-ov-rq");
-  var subtitleEl = document.getElementById("ee-ws-subtitle");
-  var titleEl = document.getElementById("ee-ws-title");
   if(subjectEl){ subjectEl.textContent = state.subject || "Not set yet"; subjectEl.className = "ws-field-value"+(state.subject?"":" empty"); }
+  if(topicEl){ topicEl.textContent = state.topic || "Not set yet"; topicEl.className = "ws-field-value"+(state.topic?"":" empty"); }
   if(rqEl){ rqEl.textContent = state.focus || "Not set yet"; rqEl.className = "ws-field-value"+(state.focus?"":" empty"); }
-  if(titleEl) titleEl.textContent = state.subject ? (state.subject+" Extended Essay") : "Extended Essay";
-  if(subtitleEl){
-    subtitleEl.textContent = state.subject
-      ? (state.subject+" \u00B7 EE"+(state.drafts.length ? " \u00B7 "+state.drafts.length+" draft"+(state.drafts.length===1?"":"s") : ""))
-      : "Set your subject to begin";
-  }
-  wsRenderSteps("ee", state, "Research Question");
+  var steps = eeComputeSteps(state);
+  wsRenderSteps("ee", steps);
+  wsRenderNextStep("ee", steps, "Extended Essay");
+  wsRenderLibrary("ee", state);
   wsRenderDrafts("ee", state, (state.subject||"Extended")+" Essay Draft");
   var last = state.drafts.length ? state.drafts[state.drafts.length-1] : null;
   wsRenderGradingSummary("ee", last ? last.grading : null, last && last.grading ? last.grading.topPriority : null);
@@ -25341,12 +25539,16 @@ function eeLoadFieldsFromWorkspace(){
   var state = eeLoadWorkspace();
   var guideEl = document.getElementById("ee-guide");
   var subjectEl = document.getElementById("ee-subject");
+  var topicEl = document.getElementById("ee-topic");
   var rqEl = document.getElementById("ee-rq");
   var textEl = document.getElementById("ee-text");
   var rppfEl = document.getElementById("ee-rppf");
+  var submittedEl = document.getElementById("ee-submitted");
   if(guideEl && state.guide) guideEl.value = state.guide;
   if(subjectEl) subjectEl.value = state.subject || "";
+  if(topicEl) topicEl.value = state.topic || "";
   if(rqEl) rqEl.value = state.focus || "";
+  if(submittedEl) submittedEl.checked = !!state.submitted;
   if(state.drafts.length){
     var last = state.drafts[state.drafts.length-1];
     if(textEl && !textEl.value) textEl.value = last.text || "";
@@ -25360,10 +25562,14 @@ function eeSaveDetails(){
   var state = eeLoadWorkspace();
   var guideEl = document.getElementById("ee-guide");
   var subjectEl = document.getElementById("ee-subject");
+  var topicEl = document.getElementById("ee-topic");
   var rqEl = document.getElementById("ee-rq");
+  var submittedEl = document.getElementById("ee-submitted");
   state.guide = guideEl ? guideEl.value : state.guide;
   state.subject = subjectEl ? subjectEl.value.trim() : state.subject;
+  state.topic = topicEl ? topicEl.value.trim() : state.topic;
   state.focus = rqEl ? rqEl.value.trim() : state.focus;
+  state.submitted = submittedEl ? submittedEl.checked : state.submitted;
   wsSave("ee", state);
   eeRenderOverview();
 }
@@ -26047,12 +26253,14 @@ function eeDelete(){
   var stopBtn = document.getElementById("ee-stop");
   if(stopBtn) stopBtn.addEventListener("click", function(){ if(eeAbortCtl) eeAbortCtl.abort(); });
 
-  ["ee-guide","ee-subject","ee-rq"].forEach(function(id){
+  ["ee-guide","ee-subject","ee-topic","ee-rq","ee-submitted"].forEach(function(id){
     var el = document.getElementById(id);
     if(el) el.addEventListener("change", eeSaveDetails);
   });
   var subjectInput = document.getElementById("ee-subject");
   if(subjectInput) subjectInput.addEventListener("blur", eeSaveDetails);
+  var topicInput = document.getElementById("ee-topic");
+  if(topicInput) topicInput.addEventListener("blur", eeSaveDetails);
   var rqInput = document.getElementById("ee-rq");
   if(rqInput) rqInput.addEventListener("blur", eeSaveDetails);
 })();
@@ -26233,11 +26441,28 @@ function iaUpdateFieldLabels(){
 
 function iaLoadFieldsFromWorkspace(){
   var state = iaLoadWorkspace();
+  var topicEl = document.getElementById("ia-topic");
   var focusEl = document.getElementById("ia-focus");
   var textEl = document.getElementById("ia-text");
+  var submittedEl = document.getElementById("ia-submitted");
+  if(topicEl) topicEl.value = state.topic || "";
   if(focusEl) focusEl.value = state.focus || "";
+  if(submittedEl) submittedEl.checked = !!state.submitted;
   if(textEl) textEl.value = state.drafts.length ? (state.drafts[state.drafts.length-1].text || "") : "";
   if(textEl) textEl.dispatchEvent(new Event("input"));
+}
+
+function iaComputeSteps(state){
+  var lib = state.library || [];
+  return [
+    {label:"Choose subject", done: !!(state.subject && state.subject.trim())},
+    {label:"Understand the requirements", done: !!(state.subject && state.subject.trim())},
+    {label:"Define your topic", done: !!(state.topic && state.topic.trim())},
+    {label:"Plan your research", done: lib.length>=1},
+    {label:"Collect and analyse evidence", done: lib.length>=3},
+    {label:"Write your assessment", done: state.drafts.length>0},
+    {label:"Review & submit", done: !!state.submitted}
+  ];
 }
 
 function iaRenderOverview(){
@@ -26250,18 +26475,15 @@ function iaRenderOverview(){
     subjectDisplay += " \u00B7 Commentary "+(commEl ? commEl.value : "1");
   }
   var subjLabelEl = document.getElementById("ia-ov-subject");
+  var topicEl = document.getElementById("ia-ov-topic");
   var focusEl = document.getElementById("ia-ov-focus");
-  var titleEl = document.getElementById("ia-ws-title");
-  var subtitleEl = document.getElementById("ia-ws-subtitle");
   if(subjLabelEl){ subjLabelEl.textContent = subjectDisplay || "Not set yet"; subjLabelEl.className = "ws-field-value"+(subjectDisplay?"":" empty"); }
+  if(topicEl){ topicEl.textContent = state.topic || "Not set yet"; topicEl.className = "ws-field-value"+(state.topic?"":" empty"); }
   if(focusEl){ focusEl.textContent = state.focus || "Not set yet"; focusEl.className = "ws-field-value"+(state.focus?"":" empty"); }
-  if(titleEl) titleEl.textContent = subjectDisplay ? (subjectDisplay+" Internal Assessment") : "Internal Assessment";
-  if(subtitleEl){
-    subtitleEl.textContent = subjectDisplay
-      ? (subjectDisplay+" \u00B7 IA"+(state.drafts.length ? " \u00B7 "+state.drafts.length+" draft"+(state.drafts.length===1?"":"s") : ""))
-      : "Set your subject to begin";
-  }
-  wsRenderSteps("ia", state, "Focus");
+  var steps = iaComputeSteps(state);
+  wsRenderSteps("ia", steps);
+  wsRenderNextStep("ia", steps, "Internal Assessment");
+  wsRenderLibrary("ia", state);
   wsRenderDrafts("ia", state, (subjectDisplay||"IA")+" Draft");
   var last = state.drafts.length ? state.drafts[state.drafts.length-1] : null;
   wsRenderGradingSummary("ia", last ? last.grading : null, last && last.grading ? last.grading.topPriority : null);
@@ -26269,10 +26491,14 @@ function iaRenderOverview(){
 
 function iaSaveDetails(){
   var subjectEl = document.getElementById("ia-subject");
+  var topicEl = document.getElementById("ia-topic");
   var focusEl = document.getElementById("ia-focus");
+  var submittedEl = document.getElementById("ia-submitted");
   var state = iaLoadWorkspace();
   state.subject = subjectEl ? subjectEl.value : state.subject;
+  state.topic = topicEl ? topicEl.value.trim() : state.topic;
   state.focus = focusEl ? focusEl.value.trim() : state.focus;
+  state.submitted = submittedEl ? submittedEl.checked : state.submitted;
   wsSave(iaCurrentToolKey(), state);
   iaRenderOverview();
 }
@@ -26426,6 +26652,11 @@ function iaDelete(){
   var focusEl = document.getElementById("ia-focus");
   if(focusEl) focusEl.addEventListener("blur", iaSaveDetails);
   if(focusEl) focusEl.addEventListener("change", iaSaveDetails);
+  var topicEl = document.getElementById("ia-topic");
+  if(topicEl) topicEl.addEventListener("blur", iaSaveDetails);
+  if(topicEl) topicEl.addEventListener("change", iaSaveDetails);
+  var submittedEl = document.getElementById("ia-submitted");
+  if(submittedEl) submittedEl.addEventListener("change", iaSaveDetails);
 
   var textEl = document.getElementById("ia-text");
   if(textEl){
