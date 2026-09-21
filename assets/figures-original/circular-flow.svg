@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 380" role="img" aria-label="Two-sector circular flow of income" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Two-sector circular flow of income</title><desc>Households supply factors of production to firms and receive income; firms supply goods and services and receive spending.</desc>
+  <rect width="440" height="380" fill="#ffffff"/>
+  <rect x="150" y="34" width="140" height="50" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.2"/>
+  <text x="220.0" y="64.0" font-size="14" text-anchor="middle" fill="#2b2b2b" font-weight="600">Households</text>
+  <rect x="150" y="296" width="140" height="50" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.2"/>
+  <text x="220.0" y="326.0" font-size="14" text-anchor="middle" fill="#2b2b2b" font-weight="600">Firms</text>
+  <line x1="190.0" y1="86.0" x2="190.0" y2="289.2" stroke="#d9432f" stroke-width="2.4" stroke-linecap="round"/>
+  <polygon points="190.0,294.0 193.4,286.0 186.6,286.0" fill="#d9432f"/>
+  <text x="182.0" y="182.0" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">Factors of production</text>
+  <text x="182.0" y="198.0" font-size="11" text-anchor="end" fill="#6b6b6b" font-weight="400">(land, labour, capital)</text>
+  <line x1="250.0" y1="294.0" x2="250.0" y2="90.8" stroke="#d9432f" stroke-width="2.4" stroke-linecap="round"/>
+  <polygon points="250.0,86.0 246.6,94.0 253.4,94.0" fill="#d9432f"/>
+  <text x="258.0" y="176.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Wages, rent,</text>
+  <text x="258.0" y="192.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">interest, profit</text>
+  <line x1="292.0" y1="321.0" x2="404.0" y2="321.0" stroke="#4a3f9f" stroke-width="2.2" stroke-linecap="butt"/>
+  <line x1="404.0" y1="321.0" x2="404.0" y2="59.0" stroke="#4a3f9f" stroke-width="2.2" stroke-linecap="butt"/>
+  <line x1="404.0" y1="59.0" x2="296.8" y2="59.0" stroke="#4a3f9f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="292.0,59.0 300.0,62.4 300.0,55.6" fill="#4a3f9f"/>
+  <text x="414.0" y="190.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(90 414 190)">Goods and services</text>
+  <line x1="148.0" y1="59.0" x2="36.0" y2="59.0" stroke="#4a3f9f" stroke-width="2.2" stroke-linecap="butt"/>
+  <line x1="36.0" y1="59.0" x2="36.0" y2="321.0" stroke="#4a3f9f" stroke-width="2.2" stroke-linecap="butt"/>
+  <line x1="36.0" y1="321.0" x2="143.2" y2="321.0" stroke="#4a3f9f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="148.0,321.0 140.0,317.6 140.0,324.4" fill="#4a3f9f"/>
+  <text x="26.0" y="190.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 26 190)">Spending on goods and services</text>
+</svg>

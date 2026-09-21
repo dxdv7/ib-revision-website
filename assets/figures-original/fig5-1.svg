@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" role="img" aria-label="Supply curve for e-scooters" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Supply curve for e-scooters</title><desc>Upward-sloping supply curve: as the price of e-scooters rises, quantity supplied rises.</desc>
+  <rect width="420" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of e-scooters (per month)</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Price of e-scooters ($)</text>
+  <text x="70.0" y="283.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">100</text>
+  <text x="70.0" y="245.4" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">200</text>
+  <text x="70.0" y="207.1" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">300</text>
+  <text x="70.0" y="168.9" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">400</text>
+  <text x="70.0" y="130.6" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">500</text>
+  <text x="70.0" y="92.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">600</text>
+  <text x="134.8" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">200</text>
+  <text x="191.6" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">400</text>
+  <text x="248.4" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">600</text>
+  <text x="305.2" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">800</text>
+  <text x="362.0" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">1,000</text>
+  <line x1="78.0" y1="203.2" x2="220.0" y2="203.2" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="220.0" y1="203.2" x2="220.0" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="78.0" y1="126.9" x2="305.2" y2="126.9" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="305.2" y1="126.9" x2="305.2" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <path d="M146.2,249.6 C150.9,247.1 162.3,242.7 174.6,235.0 C186.9,227.3 205.3,214.4 220.0,203.2 C234.7,191.9 248.4,179.9 262.6,167.2 C276.8,154.5 293.4,138.5 305.2,126.9 C317.0,115.4 328.9,102.9 333.6,98.0" fill="none" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="146.2" cy="249.6" r="3.4" fill="#d9432f"/>
+  <circle cx="220.0" cy="203.2" r="3.4" fill="#d9432f"/>
+  <circle cx="305.2" cy="126.9" r="3.4" fill="#d9432f"/>
+  <circle cx="333.6" cy="98.0" r="3.4" fill="#d9432f"/>
+  <text x="341.6" y="88.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">S (Supply)</text>
+</svg>
