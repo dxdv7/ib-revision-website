@@ -3,11 +3,11 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&family=Caveat:wght@600&display=swap">
 <style>
   :root{
-    --paper:#f6f1e4;
-    --card:#fffdf8;
+    --paper:#ffffff;
+    --card:#ffffff;
     --ink:#1c2b2c;
     --ink-soft:#5a6b69;
-    --line:#ddd3ba;
+    --line:#e5e5e0;
     --teal:#1f6f78;
     --teal-deep:#124249;
     --gold:#a9761f;
@@ -681,27 +681,27 @@
      Scoped entirely under #view-home so no other view is affected.
      =================================================================== */
   #view-home{
-    --hv-bg:#0a0a0f;
-    --hv-bg-alt:#0d0d15;
-    --hv-surface:#15151f;
-    --hv-surface-2:#1b1b28;
-    --hv-border:#27272f;
-    --hv-text:#f3f1f7;
-    --hv-text-soft:#a29fb0;
-    --hv-text-faint:#6d6a7a;
-    --hv-accent:#8f7cf5;
-    --hv-accent-light:#bcaafb;
-    --hv-accent-dark:#6b57d6;
-    --hv-green:#87dba7;
-    --hv-green-bg:#16261d;
-    --hv-terra:#e08a6a;
-    --hv-terra-bg:#2c1d18;
-    --hv-slate:#96acd6;
-    --hv-slate-bg:#1c2334;
-    --hv-purple-bg:#241c3a;
-    --hv-purple-text:#c4b2f7;
-    --hv-blue:#7db3e8;
-    --hv-blue-bg:#152535;
+    --hv-bg:#ffffff;
+    --hv-bg-alt:#f6f8f6;
+    --hv-surface:#ffffff;
+    --hv-surface-2:#f2f4f1;
+    --hv-border:#e3e7e2;
+    --hv-text:#101d16;
+    --hv-text-soft:#5c6b64;
+    --hv-text-faint:#93a19a;
+    --hv-accent:#186b3a;
+    --hv-accent-light:#1c8a49;
+    --hv-accent-dark:#0d4023;
+    --hv-green:#1c8a49;
+    --hv-green-bg:#e8f5ec;
+    --hv-terra:#c2593a;
+    --hv-terra-bg:#fdece3;
+    --hv-slate:#45608f;
+    --hv-slate-bg:#eaeef6;
+    --hv-purple-bg:#f1ecfb;
+    --hv-purple-text:#6b46c1;
+    --hv-blue:#2f6fad;
+    --hv-blue-bg:#e8f1fb;
 
     width:100vw;
     position:relative;
@@ -721,9 +721,9 @@
      on every page, not just Home. Carries its own copy of the fixed
      dark/purple tokens since it sits outside #view-home's scope. */
   #global-navbar{
-    --hv-bg:#0a0a0f; --hv-bg-alt:#0d0d15; --hv-surface:#15151f; --hv-surface-2:#1b1b28;
-    --hv-border:#27272f; --hv-text:#f3f1f7; --hv-text-soft:#a29fb0; --hv-text-faint:#6d6a7a;
-    --hv-accent:#8f7cf5; --hv-accent-light:#bcaafb; --hv-accent-dark:#6b57d6;
+    --hv-bg:#ffffff; --hv-bg-alt:#f6f8f6; --hv-surface:#ffffff; --hv-surface-2:#f2f4f1;
+    --hv-border:#e3e7e2; --hv-text:#101d16; --hv-text-soft:#5c6b64; --hv-text-faint:#93a19a;
+    --hv-accent:#186b3a; --hv-accent-light:#1c8a49; --hv-accent-dark:#0d4023;
     box-sizing:border-box;
     width:100vw;
     position:relative;
@@ -753,7 +753,7 @@
   .hv-cta-btn{
     background:linear-gradient(135deg,var(--hv-accent),var(--hv-accent-dark));
     color:#fff;border:none;border-radius:10px;padding:10px 18px;font-size:14px;font-weight:600;
-    cursor:pointer;box-shadow:0 8px 20px -8px rgba(143,124,245,.6);
+    cursor:pointer;box-shadow:0 8px 20px -8px rgba(20,83,45,.45);
     display:inline-flex;align-items:center;gap:8px;
     font-family:"Inter",system-ui,sans-serif;
   }
@@ -763,7 +763,7 @@
   #view-home .hv-eyebrow{
     display:inline-flex;align-items:center;
     font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.09em;text-transform:uppercase;
-    color:var(--hv-green);background:var(--hv-green-bg);border:1px solid #223b2c;
+    color:var(--hv-green);background:var(--hv-green-bg);border:1px solid #bfe3cc;
     padding:6px 12px;border-radius:999px;margin-bottom:20px;font-weight:600;
   }
   #view-home .hv-h1{
@@ -783,13 +783,13 @@
     display:flex;align-items:center;gap:8px;
     background:var(--hv-surface-2);border:1px solid var(--hv-border);
     border-radius:12px;padding:10px 14px;font-size:12px;color:var(--hv-text-soft);
-    box-shadow:0 10px 24px -10px rgba(0,0,0,.5);
+    box-shadow:0 10px 24px -10px rgba(20,30,25,.16);
   }
   #view-home .hv-badge svg{color:var(--hv-accent-light);flex-shrink:0;}
   #view-home .hv-card-main{
     position:absolute;top:44px;right:0;width:80%;
     background:var(--hv-surface);border:1px solid var(--hv-border);border-radius:16px;
-    padding:20px;box-shadow:0 24px 48px -20px rgba(0,0,0,.6);z-index:1;
+    padding:20px;box-shadow:0 24px 48px -20px rgba(20,30,25,.2);z-index:1;
   }
   #view-home .hv-mc-title{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:17px;color:var(--hv-accent-light);margin:0;}
   #view-home .hv-mc-sub{font-size:12.5px;color:var(--hv-text-faint);margin:2px 0 14px;}
@@ -805,7 +805,7 @@
   #view-home .hv-card-quiz{
     position:absolute;left:-6px;bottom:6px;width:64%;
     background:var(--hv-surface);border:1px solid var(--hv-border);border-radius:16px;
-    padding:18px;box-shadow:0 24px 48px -18px rgba(0,0,0,.65);z-index:2;
+    padding:18px;box-shadow:0 24px 48px -18px rgba(20,30,25,.22);z-index:2;
   }
   #view-home .hv-qz-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:10px;}
   #view-home .hv-qz-head b{font-family:"Fraunces",Georgia,serif;font-size:14.5px;font-weight:600;}
@@ -820,14 +820,14 @@
     width:18px;height:18px;border-radius:50%;border:1px solid var(--hv-border);
     display:inline-flex;align-items:center;justify-content:center;font-size:10px;flex-shrink:0;color:var(--hv-text-faint);font-weight:600;
   }
-  #view-home .hv-qz-opt.right{background:var(--hv-green-bg);border-color:#2a4a37;color:var(--hv-text);}
+  #view-home .hv-qz-opt.right{background:var(--hv-green-bg);border-color:#bfe3cc;color:var(--hv-text);}
   #view-home .hv-qz-opt.right b{background:var(--hv-green);border-color:var(--hv-green);color:#0d1f15;}
   #view-home .hv-qz-opt.right svg{margin-left:auto;color:var(--hv-green);flex-shrink:0;}
 
   #view-home .hv-progress{
     position:absolute;right:0;bottom:100px;z-index:3;width:118px;
     background:var(--hv-surface-2);border:1px solid var(--hv-border);border-radius:14px;
-    padding:14px;text-align:center;box-shadow:0 16px 32px -16px rgba(0,0,0,.55);
+    padding:14px;text-align:center;box-shadow:0 16px 32px -16px rgba(20,30,25,.18);
   }
   #view-home .hv-pg-label{font-size:11px;color:var(--hv-text-soft);margin:0 0 8px;}
   #view-home .hv-ring{
@@ -880,7 +880,7 @@
 
   #view-home .hv-tools{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
   #view-home .hv-tool{border-radius:18px;padding:26px;border:1px solid var(--hv-border);background:var(--hv-surface);display:flex;flex-direction:column;gap:14px;}
-  #view-home .hv-tool.on{background:linear-gradient(160deg,var(--hv-purple-bg),var(--hv-surface));border-color:#3a2c5e;}
+  #view-home .hv-tool.on{background:linear-gradient(160deg,var(--hv-purple-bg),var(--hv-surface));border-color:#d9c9f5;}
   #view-home .hv-tool-icon{width:40px;height:40px;border-radius:11px;display:flex;align-items:center;justify-content:center;background:var(--hv-bg-alt);color:var(--hv-accent-light);}
   #view-home .hv-tool h3{font-family:"Fraunces",Georgia,serif;font-size:18px;margin:0;font-weight:600;}
   #view-home .hv-tool p{font-size:13.5px;color:var(--hv-text-soft);line-height:1.55;margin:0;flex:1;}
@@ -900,18 +900,18 @@
   #view-home .hv-cta-banner{
     position:relative;overflow:hidden;padding:90px 40px;text-align:center;
     background:
-      radial-gradient(ellipse 70% 60% at 50% -10%, #2c2350 0%, transparent 60%),
-      linear-gradient(180deg,#0d0a17 0%,#171029 45%,#1c1730 100%);
+      radial-gradient(ellipse 70% 60% at 50% -10%, #dcf3e3 0%, transparent 60%),
+      linear-gradient(180deg,#ffffff 0%,#f3faf5 45%,#eaf6ee 100%);
   }
   #view-home .hv-cta-banner::before{
     content:"";position:absolute;left:0;right:0;bottom:0;height:52%;
     clip-path:polygon(0% 100%,0% 62%,9% 48%,18% 58%,27% 38%,36% 52%,46% 30%,55% 50%,64% 40%,74% 60%,83% 44%,92% 56%,100% 46%,100% 100%);
-    background:linear-gradient(180deg,#241c3d 0%,#150f22 100%);
+    background:linear-gradient(180deg,#e3f4e9 0%,#d3ecdc 100%);
     opacity:.9;
   }
   #view-home .hv-cta-inner{position:relative;z-index:1;}
-  #view-home .hv-cta-h{font-family:"Fraunces",Georgia,serif;font-size:clamp(26px,3.4vw,36px);color:#fff;margin:0 0 10px;text-wrap:balance;}
-  #view-home .hv-cta-sub{color:#c8c2da;font-size:15px;margin:0 0 28px;}
+  #view-home .hv-cta-h{font-family:"Fraunces",Georgia,serif;font-size:clamp(26px,3.4vw,36px);color:var(--hv-text);margin:0 0 10px;text-wrap:balance;}
+  #view-home .hv-cta-sub{color:var(--hv-text-soft);font-size:15px;margin:0 0 28px;}
 
   #view-home .hv-footer-wrap{background:var(--hv-bg-alt);}
   #view-home .hv-footer{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;padding-block:26px;}
@@ -937,18 +937,18 @@
      the rest of the site (notes, quiz, results) is untouched.
      =================================================================== */
   .subject-dash{
-    --hv-bg:#0a0a0f;
-    --hv-bg-alt:#0d0d15;
-    --hv-surface:#15151f;
-    --hv-surface-2:#1b1b28;
-    --hv-border:#27272f;
-    --hv-text:#f3f1f7;
-    --hv-text-soft:#a29fb0;
-    --hv-text-faint:#6d6a7a;
-    --hv-accent:#8f7cf5;
-    --hv-accent-light:#bcaafb;
-    --hv-accent-dark:#6b57d6;
-    --hv-green:#87dba7;
+    --hv-bg:#ffffff;
+    --hv-bg-alt:#f6f8f6;
+    --hv-surface:#ffffff;
+    --hv-surface-2:#f2f4f1;
+    --hv-border:#e3e7e2;
+    --hv-text:#101d16;
+    --hv-text-soft:#5c6b64;
+    --hv-text-faint:#93a19a;
+    --hv-accent:#186b3a;
+    --hv-accent-light:#1c8a49;
+    --hv-accent-dark:#0d4023;
+    --hv-green:#1c8a49;
 
     background:none;
     border:none;
@@ -1070,7 +1070,7 @@
   }
   .subject-dash .dash-status-chip.not-started{color:var(--hv-text-faint);}
   .subject-dash .dash-status-chip.in-progress{color:var(--hv-accent-light); border-color:var(--hv-accent);}
-  .subject-dash .dash-status-chip.mastered{color:var(--hv-green); border-color:#2a4a37;}
+  .subject-dash .dash-status-chip.mastered{color:var(--hv-green); border-color:#bfe3cc;}
   .subject-dash .chapter-card .card-actions{display:flex; gap:8px; flex-wrap:wrap; flex:none;}
   .subject-dash .btn-secondary{
     background:transparent; border:1px solid var(--hv-border); color:var(--hv-text);
@@ -1211,12 +1211,12 @@
     --ink: var(--hv-text);
     --ink-soft: var(--hv-text-soft);
     --line: var(--hv-border);
-    --teal:#5cb8bd; --teal-deep:#8fd2d5;
-    --gold:#dcab5b; --gold-soft:#3a2f18;
-    --green:#7fc39a; --green-soft:#1c3327;
-    --plum:#bb99e0; --plum-soft:#2d2440;
-    --red:#e28a80; --red-soft:#3a201d;
-    --focus:#5cb8bd;
+    --teal:#1f6f78; --teal-deep:#124249;
+    --gold:#a9761f; --gold-soft:#f3e6c8;
+    --green:#2f6e4c; --green-soft:#e2efe3;
+    --plum:#6a4c8c; --plum-soft:#ece3f4;
+    --red:#a83a33; --red-soft:#f5e2df;
+    --focus:#1f6f78;
   }
 
   @media (max-width:900px){
@@ -1237,7 +1237,7 @@
   .subject-dash .ws-subtitle{color:var(--hv-text-faint); font-size:13.5px; margin:0;}
   .subject-dash .ws-saved-badge{
     font-family:"IBM Plex Mono",monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.06em;
-    color:var(--hv-green); background:var(--hv-green-bg,#16261d); border:1px solid #2a4a37; border-radius:999px;
+    color:var(--hv-green); background:var(--hv-green-bg,#e8f5ec); border:1px solid #bfe3cc; border-radius:999px;
     padding:5px 11px; flex-shrink:0; opacity:0; transition:opacity .25s ease;
   }
   .subject-dash .ws-saved-badge.show{opacity:1;}
@@ -1366,12 +1366,12 @@
 <div class="wrap">
   <div class="hv-navbar" id="global-navbar">
     <nav class="hv-nav hv-container">
-      <span class="hv-logo"><svg class="hv-logo-mark" width="30" height="27" viewBox="0 0 46 42" aria-hidden="true"><defs><linearGradient id="hvLogoGrad" x1="4" y1="12" x2="30" y2="38" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#bcaafb"></stop><stop offset="100%" stop-color="#6b57d6"></stop></linearGradient></defs><circle cx="17" cy="25" r="13" fill="url(#hvLogoGrad)"></circle><path d="M4.5 27.5c5 5.5 12 7 19.5 3.6" fill="none" stroke="#150f22" stroke-width="2" stroke-linecap="round" opacity=".3"></path><path d="M4 25c5.5 6 13 8 20.5 4.3" fill="none" stroke="#f3f1f7" stroke-width="2.1" stroke-linecap="round"></path><path d="M22 27.5C28 25 32.5 18 36.5 9" fill="none" stroke="#f3f1f7" stroke-width="2.1" stroke-linecap="round"></path><path d="M42 2L32.6 5.9 40.4 12.1Z" fill="#f3f1f7"></path></svg><span class="hv-logo-word"><span class="accent">IB</span> Revision</span></span>
+      <span class="hv-logo"><svg class="hv-logo-mark" width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3C24 6 27 14 24 22C21 29 12 30 7 25C2 20 3 11 9 7C11.5 5.2 13.7 3.9 16 3Z" fill="#186b3a"></path><path d="M9 25C13 18.5 16.5 12 22.5 5.5" fill="none" stroke="#eaf6ee" stroke-width="1.6" stroke-linecap="round"></path><path d="M7.5 24.5C6 26.5 5 28 4.5 29.5" fill="none" stroke="#0d4023" stroke-width="1.8" stroke-linecap="round"></path></svg><span class="hv-logo-word"><span class="accent">IB</span> Revision</span></span>
       <div class="hv-navlinks">
         <a href="#" class="on" id="hv-nav-home">Home</a>
         <a href="#" id="hv-nav-subjects">Subjects</a>
         <a href="#" id="hv-nav-ee">Extended Essay</a>
-        <a href="#" id="hv-nav-ia">Internal Assesment</a>
+        <a href="#" id="hv-nav-ia">Internal Assessment</a>
         <a href="#">About</a>
       </div>
       <div class="hv-navright">
@@ -1418,11 +1418,11 @@
           </ul>
           <div class="hv-chart">
             <svg viewBox="0 0 220 90" width="100%" height="100%" fill="none">
-              <line x1="0" y1="18" x2="220" y2="18" stroke="#27272f" stroke-width="1"></line>
-              <line x1="0" y1="45" x2="220" y2="45" stroke="#27272f" stroke-width="1"></line>
-              <line x1="0" y1="72" x2="220" y2="72" stroke="#27272f" stroke-width="1"></line>
-              <path d="M4 66 C 40 70, 55 30, 80 40 S 130 78, 155 24 S 195 8, 216 10" stroke="#87dba7" stroke-width="2.5" stroke-linecap="round"></path>
-              <circle cx="216" cy="10" r="4" fill="#87dba7"></circle>
+              <line x1="0" y1="18" x2="220" y2="18" stroke="#e3e7e2" stroke-width="1"></line>
+              <line x1="0" y1="45" x2="220" y2="45" stroke="#e3e7e2" stroke-width="1"></line>
+              <line x1="0" y1="72" x2="220" y2="72" stroke="#e3e7e2" stroke-width="1"></line>
+              <path d="M4 66 C 40 70, 55 30, 80 40 S 130 78, 155 24 S 195 8, 216 10" stroke="#1c8a49" stroke-width="2.5" stroke-linecap="round"></path>
+              <circle cx="216" cy="10" r="4" fill="#1c8a49"></circle>
             </svg>
           </div>
         </div>
@@ -1540,7 +1540,7 @@
           </div>
           <div class="hv-tool">
             <span class="hv-tool-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="6" y1="20" x2="6" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="18" y1="20" x2="18" y2="14"></line></svg></span>
-            <h3>Internal Assesment</h3>
+            <h3>Internal Assessment</h3>
             <p>Upload or paste your IA and receive detailed feedback, suggestions for improvement and an estimated mark using IBDP criteria.</p>
             <button type="button" class="hv-tool-btn" id="btn-open-ia-tool">Open IA Tool<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></button>
           </div>
@@ -1574,7 +1574,7 @@
 
     <div class="hv-footer-wrap">
       <div class="hv-footer hv-container">
-        <span class="hv-logo"><svg class="hv-logo-mark" width="30" height="27" viewBox="0 0 46 42" aria-hidden="true"><defs><linearGradient id="hvLogoGradFooter" x1="4" y1="12" x2="30" y2="38" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#bcaafb"></stop><stop offset="100%" stop-color="#6b57d6"></stop></linearGradient></defs><circle cx="17" cy="25" r="13" fill="url(#hvLogoGradFooter)"></circle><path d="M4.5 27.5c5 5.5 12 7 19.5 3.6" fill="none" stroke="#150f22" stroke-width="2" stroke-linecap="round" opacity=".3"></path><path d="M4 25c5.5 6 13 8 20.5 4.3" fill="none" stroke="#f3f1f7" stroke-width="2.1" stroke-linecap="round"></path><path d="M22 27.5C28 25 32.5 18 36.5 9" fill="none" stroke="#f3f1f7" stroke-width="2.1" stroke-linecap="round"></path><path d="M42 2L32.6 5.9 40.4 12.1Z" fill="#f3f1f7"></path></svg><span class="hv-logo-word"><span class="accent">IB</span> Revision</span></span>
+        <span class="hv-logo"><svg class="hv-logo-mark" width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3C24 6 27 14 24 22C21 29 12 30 7 25C2 20 3 11 9 7C11.5 5.2 13.7 3.9 16 3Z" fill="#186b3a"></path><path d="M9 25C13 18.5 16.5 12 22.5 5.5" fill="none" stroke="#eaf6ee" stroke-width="1.6" stroke-linecap="round"></path><path d="M7.5 24.5C6 26.5 5 28 4.5 29.5" fill="none" stroke="#0d4023" stroke-width="1.8" stroke-linecap="round"></path></svg><span class="hv-logo-word"><span class="accent">IB</span> Revision</span></span>
         <div class="hv-footer-links"><a href="#">About</a><a href="#">Privacy</a><a href="#">Contact</a></div>
       </div>
     </div>
