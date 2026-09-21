@@ -30,47 +30,13 @@
     --chip-plum:#6a4c8c;
     --chip-red:#a83a33;
   }
-  @media (prefers-color-scheme: dark){
-    :root:not([data-theme="light"]){
-      --paper:#101c1d;
-      --card:#16262a;
-      --ink:#e9e2d0;
-      --ink-soft:#93a6a4;
-      --line:#28403f;
-      --teal:#5cb8bd;
-      --teal-deep:#8fd2d5;
-      --gold:#dcab5b;
-      --gold-soft:#3a2f18;
-      --green:#7fc39a;
-      --green-soft:#1c3327;
-      --plum:#bb99e0;
-      --plum-soft:#2d2440;
-      --red:#e28a80;
-      --red-soft:#3a201d;
-      --focus:#5cb8bd;
-    }
-  }
-  :root[data-theme="dark"]{
-    --paper:#101c1d;
-    --card:#16262a;
-    --ink:#e9e2d0;
-    --ink-soft:#93a6a4;
-    --line:#28403f;
-    --teal:#5cb8bd;
-    --teal-deep:#8fd2d5;
-    --gold:#dcab5b;
-    --gold-soft:#3a2f18;
-    --green:#7fc39a;
-    --green-soft:#1c3327;
-    --plum:#bb99e0;
-    --plum-soft:#2d2440;
-    --red:#e28a80;
-    --red-soft:#3a201d;
-    --focus:#5cb8bd;
-  }
+  /* The site is deliberately light-only: the palette above applies in every
+     OS appearance setting. Do not reintroduce a prefers-color-scheme block --
+     the textbook diagram scans are white-background images, so a dark page
+     puts bright white rectangles on a dark ground. */
 
   *{box-sizing:border-box;}
-  html{color-scheme:light dark;}
+  html{color-scheme:light;}
   body{
     margin:0;
     background:var(--paper);
@@ -25287,18 +25253,22 @@ function goEconomics(){
   state.subject = "economics";
   hideAllViews();
   els.viewEconomics.hidden = false;
+  els.siteHeader.hidden = true;
+  els.crumbs.hidden = true;
+  els.crumbs.innerHTML = "";
   updateHlLocks();
   renderDashboard(els.viewEconomics);
-  renderCrumbs("subject");
 }
 
 function goBiology(){
   state.subject = "biology";
   hideAllViews();
   els.viewBiology.hidden = false;
+  els.siteHeader.hidden = true;
+  els.crumbs.hidden = true;
+  els.crumbs.innerHTML = "";
   updateHlLocks();
   renderDashboard(els.viewBiology);
-  renderCrumbs("subject");
 }
 
 function goPhysics(){
@@ -25306,9 +25276,11 @@ function goPhysics(){
   state.level = "SL";
   hideAllViews();
   els.viewPhysics.hidden = false;
+  els.siteHeader.hidden = true;
+  els.crumbs.hidden = true;
+  els.crumbs.innerHTML = "";
   updateHlLocks();
   renderDashboard(els.viewPhysics);
-  renderCrumbs("subject");
 }
 
 function goSubjectChapters(){
