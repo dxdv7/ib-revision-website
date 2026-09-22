@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" role="img" aria-label="The market for tea" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>The market for tea</title><desc>Downward-sloping demand curve D and upward-sloping supply curve S crossing at the equilibrium price Pe and quantity Qe for tea.</desc>
+  <rect width="420" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of tea (tonnes per week)</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Price of tea ($ per kg)</text>
+  <line x1="95.0" y1="66.1" x2="339.3" y2="296.6" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="95.0" y1="291.2" x2="339.3" y2="76.8" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="182.7" x2="218.6" y2="182.7" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="186.7" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">e</tspan><tspan dy="-3"></tspan></text>
+  <line x1="218.6" y1="182.7" x2="218.6" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="218.6" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">e</tspan><tspan dy="-3"></tspan></text>
+  <circle cx="218.6" cy="182.7" r="3.6" fill="#2b2b2b"/>
+  <text x="345.3" y="70.8" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S</text>
+  <text x="345.3" y="310.6" font-size="13" text-anchor="start" fill="#6b6b6b" font-weight="400">D</text>
+</svg>

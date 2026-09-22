@@ -1,0 +1,5 @@
+{
+ "label": "Figure 17.3: The process of credit creation",
+ "alt": "A cascade of boxes: a new deposit of $200,000 is split by a bank into a 25% reserve of $50,000 and a loan of $150,000, which is re-deposited and split again, and so on. The total is $800,000 of deposits.",
+ "caption": "A bank receives a new deposit of $200,000 and, with a 25% reserve requirement, keeps $50,000 and lends $150,000. That loan is spent and re-deposited, and the next bank keeps $37,500 and lends $112,500, and so on. The money multiplier is 1 &divide; 0.25 = 4, so the original deposit supports $800,000 of deposits in total: $600,000 of new loans plus $200,000 of reserves."
+}

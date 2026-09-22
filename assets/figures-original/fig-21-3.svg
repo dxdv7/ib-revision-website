@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 760" role="img" aria-label="Economic growth to remove a deflationary gap/output gap" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Economic growth to remove a deflationary gap/output gap</title><desc>Panel (a): AD shifts right from AD1 to AD2 along the unchanged SRAS and LRAS, moving output from Y1 up to Yf. Panel (b): the PPC shows a movement from point a (inside the curve) to point b, close to but not exactly on the curve.</desc>
+  <rect width="440" height="760" fill="#ffffff"/>
+  <line x1="90.0" y1="300.0" x2="380.0" y2="300.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="90.0" y1="300.0" x2="90.0" y2="55.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="385.0,300.0 376.0,296.2 376.0,303.8" fill="#2b2b2b"/>
+  <polygon points="90.0,50.0 86.2,59.0 93.8,59.0" fill="#2b2b2b"/>
+  <text x="78.0" y="316.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="235.0" y="334.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Real output (Y)</text>
+  <text x="58.0" y="177.5" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 58 177.5)">Average price level</text>
+  <line x1="135.0" y1="275.0" x2="345.0" y2="80.0" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="349.0" y="76.0" font-size="12.5" text-anchor="start" fill="#d9432f" font-weight="400">SRAS</text>
+  <line x1="305.0" y1="300.0" x2="305.0" y2="55.0" stroke="#2b2b2b" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="311.0" y="67.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">LRAS</text>
+  <line x1="120.0" y1="95.0" x2="300.0" y2="285.0" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="304.0" y="292.0" font-size="12.5" text-anchor="start" fill="#6b6b6b" font-weight="400">AD<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="170.0" y1="80.0" x2="350.0" y2="129.5" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="354.0" y="133.0" font-size="12.5" text-anchor="start" fill="#6b6b6b" font-weight="400">AD<tspan font-size="70%" dy="3">2</tspan></text>
+  <line x1="133.5" y1="105.0" x2="252.1" y2="105.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="256.9,105.0 248.9,101.6 248.9,108.4" fill="#4a3f9f"/>
+  <line x1="149.6" y1="122.0" x2="313.9" y2="122.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="318.7,122.0 310.7,118.6 310.7,125.4" fill="#4a3f9f"/>
+  <line x1="217.7" y1="198.2" x2="217.7" y2="300.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="217.7" y="318.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Y<tspan font-size="70%" dy="3">1</tspan></text>
+  <circle cx="217.7" cy="198.2" r="3.6" fill="#2b2b2b"/>
+  <circle cx="305.0" cy="117.1" r="3.6" fill="#2b2b2b"/>
+  <text x="217.7" y="318.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Y<tspan font-size="70%" dy="3">1</tspan></text>
+  <text x="305.0" y="318.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Y<tspan font-size="70%" dy="3">f</tspan></text>
+  <text x="90.0" y="18.0" font-size="14" text-anchor="start" fill="#2b2b2b" font-weight="700">(a)</text>
+  <line x1="85.0" y1="700.0" x2="380.0" y2="700.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="85.0" y1="700.0" x2="85.0" y2="440.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="385.0,700.0 376.0,696.2 376.0,703.8" fill="#2b2b2b"/>
+  <polygon points="85.0,435.0 81.2,444.0 88.8,444.0" fill="#2b2b2b"/>
+  <text x="73.0" y="716.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="232.5" y="734.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Consumer goods</text>
+  <text x="53.0" y="570.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 53 570.0)">Capital goods</text>
+  <path d="M100.0,500.0 C108.5,500.8 134.5,501.6 151.2,504.8 C167.8,507.9 184.4,512.7 199.8,518.8 C215.2,524.9 230.1,532.7 243.4,541.5 C256.7,550.2 269.2,560.5 279.8,571.5 C290.5,582.6 299.8,594.9 307.2,607.6 C314.6,620.3 320.4,634.0 324.2,647.7 C328.0,661.5 329.0,683.0 330.0,690.0" fill="none" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="322.0" y="708.0" font-size="12" text-anchor="start" fill="#6b6b6b" font-weight="400">PPC<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="223.5" y1="606.6" x2="258.4" y2="579.5" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="262.2,576.5 253.8,578.8 257.9,584.1" fill="#4a3f9f"/>
+  <circle cx="217.5" cy="612.6" r="3.6" fill="#2b2b2b"/>
+  <circle cx="266.2" cy="580.5" r="3.6" fill="#2b2b2b"/>
+  <text x="201.5" y="626.6" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="400">a</text>
+  <text x="274.2" y="576.5" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="400">b</text>
+  <text x="85.0" y="418.0" font-size="14" text-anchor="start" fill="#2b2b2b" font-weight="700">(b)</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 380" role="img" aria-label="Trade diversion (worked example: footwear, Chile, Vietnam and Brazil)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Trade diversion (worked example: footwear, Chile, Vietnam and Brazil)</title><desc>Supply and demand for footwear in an importing country with three partner supply lines: outside supplier with and without tariff and a higher-cost union partner; shaded areas show loss of world efficiency, extra cost and loss of consumer surplus.</desc>
+  <rect width="430" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of footwear (million pairs)</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Price of footwear (US$ per pair)</text>
+  <path d="M122.8,251.0 L167.7,251.0 L167.7,210.8 Z" fill="#f8d3cd" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M227.5,210.8 L227.5,251.0 L272.3,251.0 Z" fill="#c9edf1" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M167.7,251.0 L167.7,210.8 L227.5,210.8 L227.5,251.0 Z" fill="#cfe6f5" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="78.0" y1="291.2" x2="302.2" y2="90.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="76.8" x2="302.2" y2="277.8" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="251.0" x2="314.2" y2="251.0" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="210.8" x2="314.2" y2="210.8" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="170.6" x2="314.2" y2="170.6" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="122.8" y1="251.0" x2="122.8" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="122.8" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan></text>
+  <circle cx="122.8" cy="251.0" r="3.6" fill="#2b2b2b"/>
+  <line x1="167.7" y1="210.8" x2="167.7" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="167.7" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">2</tspan></text>
+  <circle cx="167.7" cy="210.8" r="3.6" fill="#2b2b2b"/>
+  <line x1="227.5" y1="210.8" x2="227.5" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="227.5" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">3</tspan></text>
+  <circle cx="227.5" cy="210.8" r="3.6" fill="#2b2b2b"/>
+  <line x1="272.3" y1="251.0" x2="272.3" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="272.3" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">4</tspan></text>
+  <circle cx="272.3" cy="251.0" r="3.6" fill="#2b2b2b"/>
+  <text x="70.0" y="255.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">V</tspan></text>
+  <text x="70.0" y="214.8" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">B</tspan></text>
+  <text x="70.0" y="174.6" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">V+t</tspan></text>
+  <text x="308.2" y="86.2" font-size="12" text-anchor="start" fill="#d9432f" font-weight="400">S (Chilean)</text>
+  <text x="308.2" y="291.8" font-size="12" text-anchor="start" fill="#6b6b6b" font-weight="400">D (Chilean)</text>
+  <text x="320.2" y="174.6" font-size="11" text-anchor="start" fill="#d9432f" font-weight="400">S (Vietnamese)+tariff</text>
+  <text x="320.2" y="214.8" font-size="11.5" text-anchor="start" fill="#d9432f" font-weight="400">S (Brazilian)</text>
+  <text x="320.2" y="255.0" font-size="11.5" text-anchor="start" fill="#d9432f" font-weight="400">S (Vietnamese)</text>
+  <text x="125.0" y="62.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Loss of world</text>
+  <text x="125.0" y="76.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">efficiency</text>
+  <line x1="125.0" y1="82.0" x2="154.9" y2="230.8" stroke="#4a3f9f" stroke-width="1.6" stroke-linecap="round"/>
+  <polygon points="155.7,234.9 157.2,227.5 151.5,228.6" fill="#4a3f9f"/>
+  <text x="265.0" y="62.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Loss of consumer</text>
+  <text x="265.0" y="76.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">surplus</text>
+  <line x1="265.0" y1="82.0" x2="240.1" y2="236.1" stroke="#4a3f9f" stroke-width="1.6" stroke-linecap="round"/>
+  <polygon points="239.4,240.3 243.5,233.8 237.6,232.9" fill="#4a3f9f"/>
+  <text x="197.6" y="234.9" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Extra cost</text>
+</svg>

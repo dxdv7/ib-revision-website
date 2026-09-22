@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 520" role="img" aria-label="The process of credit creation" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>The process of credit creation</title><desc>A cascade of boxes: a new deposit of $200,000 is split by a bank into a 25% reserve of $50,000 and a loan of $150,000, which is re-deposited and split again, and so on. The total is $800,000 of deposits.</desc>
+  <rect width="560" height="520" fill="#ffffff"/>
+  <rect x="50.0" y="44" width="240.0" height="30" rx="6" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.8"/>
+  <text x="170.0" y="64.0" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">New deposit $200,000</text>
+  <line x1="170.0" y1="74.0" x2="170.0" y2="91.8" stroke="#d9432f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="170.0,96.0 172.9,89.0 167.1,89.0" fill="#d9432f"/>
+  <rect x="50.0" y="96" width="60.0" height="34" fill="#e9ebf5" stroke="#2b2b2b" stroke-width="1.6"/>
+  <rect x="110.0" y="96" width="180.0" height="34" fill="#fdeaea" stroke="#2b2b2b" stroke-width="1.6"/>
+  <text x="80.0" y="117.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">25%</text>
+  <text x="200.0" y="117.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">75%</text>
+  <text x="320.0" y="104.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="600">Round 1: bank keeps</text>
+  <text x="320.0" y="118.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">$50,000 as reserve and</text>
+  <text x="320.0" y="132.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">lends $150,000</text>
+  <line x1="200.0" y1="130.0" x2="200.0" y2="147.8" stroke="#2b2b2b" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="200.0,152.0 202.9,145.0 197.1,145.0" fill="#2b2b2b"/>
+  <rect x="110.0" y="152" width="180.0" height="30" rx="6" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.8"/>
+  <text x="200.0" y="172.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">Re-deposited $150,000</text>
+  <line x1="200.0" y1="182.0" x2="200.0" y2="199.8" stroke="#d9432f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="200.0,204.0 202.9,197.0 197.1,197.0" fill="#d9432f"/>
+  <rect x="110.0" y="204" width="45.0" height="34" fill="#e9ebf5" stroke="#2b2b2b" stroke-width="1.6"/>
+  <rect x="155.0" y="204" width="135.0" height="34" fill="#fdeaea" stroke="#2b2b2b" stroke-width="1.6"/>
+  <text x="132.5" y="225.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">25%</text>
+  <text x="222.5" y="225.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">75%</text>
+  <text x="320.0" y="212.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="600">Round 2: bank keeps</text>
+  <text x="320.0" y="226.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">$37,500 as reserve and</text>
+  <text x="320.0" y="240.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">lends $112,500</text>
+  <line x1="222.5" y1="238.0" x2="222.5" y2="255.8" stroke="#2b2b2b" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="222.5,260.0 225.4,253.0 219.6,253.0" fill="#2b2b2b"/>
+  <rect x="155.0" y="260" width="135.0" height="30" rx="6" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.8"/>
+  <text x="222.5" y="280.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">Re-deposited $112,500</text>
+  <line x1="222.5" y1="290.0" x2="222.5" y2="307.8" stroke="#d9432f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="222.5,312.0 225.4,305.0 219.6,305.0" fill="#d9432f"/>
+  <rect x="155.0" y="312" width="33.8" height="34" fill="#e9ebf5" stroke="#2b2b2b" stroke-width="1.6"/>
+  <rect x="188.8" y="312" width="101.2" height="34" fill="#fdeaea" stroke="#2b2b2b" stroke-width="1.6"/>
+  <text x="171.9" y="333.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">25%</text>
+  <text x="239.4" y="333.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">75%</text>
+  <text x="320.0" y="320.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="600">Round 3: bank keeps</text>
+  <text x="320.0" y="334.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">$28,125 as reserve and</text>
+  <text x="320.0" y="348.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">lends $84,375</text>
+  <line x1="239.4" y1="346.0" x2="239.4" y2="363.8" stroke="#2b2b2b" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="239.4,368.0 242.3,361.0 236.4,361.0" fill="#2b2b2b"/>
+  <rect x="188.8" y="368" width="101.2" height="30" rx="6" fill="#ffffff" stroke="#2b2b2b" stroke-width="1.8" stroke-dasharray="5 4"/>
+  <text x="239.4" y="388.0" font-size="11.5" text-anchor="middle" fill="#6b6b6b" font-weight="400">and so on ...</text>
+  <rect x="30" y="430" width="500" height="58" rx="8" fill="#f6f6f6" stroke="#6b6b6b" stroke-width="1.4"/>
+  <text x="280.0" y="452.0" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Money multiplier = 1 / reserve ratio = 1 / 0.25 = 4</text>
+  <text x="280.0" y="472.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">$200,000 deposit supports $800,000 of deposits: $600,000 of new loans + $200,000 of reserves</text>
+  <line x1="36.0" y1="518.0" x2="65.8" y2="518.0" stroke="#d9432f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="70.0,518.0 63.0,515.1 63.0,520.9" fill="#d9432f"/>
+  <text x="76.0" y="522.0" font-size="10.5" text-anchor="start" fill="#6b6b6b" font-weight="400">Deposit</text>
+  <line x1="140.0" y1="518.0" x2="169.8" y2="518.0" stroke="#2b2b2b" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="174.0,518.0 167.0,515.1 167.0,520.9" fill="#2b2b2b"/>
+  <text x="180.0" y="522.0" font-size="10.5" text-anchor="start" fill="#6b6b6b" font-weight="400">Loan is spent and re-deposited</text>
+  <rect x="388" y="512" width="14" height="12" fill="#e9ebf5" stroke="#2b2b2b" stroke-width="1.2"/>
+  <text x="408.0" y="522.0" font-size="10.5" text-anchor="start" fill="#6b6b6b" font-weight="400">Reserve</text>
+  <rect x="464" y="512" width="14" height="12" fill="#fdeaea" stroke="#2b2b2b" stroke-width="1.2"/>
+  <text x="484.0" y="522.0" font-size="10.5" text-anchor="start" fill="#6b6b6b" font-weight="400">Loan</text>
+</svg>

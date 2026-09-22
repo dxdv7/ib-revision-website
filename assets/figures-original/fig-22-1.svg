@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 400" role="img" aria-label="Lorenz curves for two fictional countries, Larenta and Meridia" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Lorenz curves for two fictional countries, Larenta and Meridia</title><desc>Lorenz curve diagram with the 45-degree line of equality and two bowed curves below it for the fictional countries Larenta and Meridia; Meridia's curve sags further from the line of equality than Larenta's, and the gap between Meridia's curve and the diagonal is shaded as area (a).</desc>
+  <rect width="460" height="400" fill="#ffffff"/>
+  <line x1="80.0" y1="340.0" x2="400.0" y2="340.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="80.0" y1="340.0" x2="80.0" y2="40.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="405.0,340.0 396.0,336.2 396.0,343.8" fill="#2b2b2b"/>
+  <polygon points="80.0,35.0 76.2,44.0 83.8,44.0" fill="#2b2b2b"/>
+  <text x="68.0" y="356.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="240.0" y="386.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Cumulative % of population</text>
+  <text x="20.0" y="190.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 190.0)">Cumulative % of income</text>
+  <text x="144.0" y="358.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">20</text>
+  <text x="208.0" y="358.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">40</text>
+  <text x="272.0" y="358.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">60</text>
+  <text x="336.0" y="358.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">80</text>
+  <text x="400.0" y="358.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">100</text>
+  <text x="72.0" y="284.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">20</text>
+  <text x="72.0" y="224.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">40</text>
+  <text x="72.0" y="164.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">60</text>
+  <text x="72.0" y="104.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">80</text>
+  <text x="72.0" y="44.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">100</text>
+  <line x1="80.0" y1="340.0" x2="400.0" y2="40.0" stroke="#2b2b2b" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="333.6" y="70.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Line of equality</text>
+  <path d="M80.0,340.0 L112.0,339.8 L144.0,338.3 L176.0,333.6 L208.0,324.0 L240.0,307.4 L272.0,281.5 L304.0,244.2 L336.0,193.1 L368.0,125.9 L400.0,40.0 Z" fill="#f8d3cd" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80.0,340.0 C85.3,339.2 101.3,338.0 112.0,335.2 C122.7,332.5 133.3,328.4 144.0,323.4 C154.7,318.5 165.3,312.5 176.0,305.6 C186.7,298.8 197.3,291.0 208.0,282.3 C218.7,273.7 229.3,264.2 240.0,253.8 C250.7,243.5 261.3,232.3 272.0,220.4 C282.7,208.4 293.3,195.7 304.0,182.1 C314.7,168.6 325.3,154.3 336.0,139.2 C346.7,124.2 357.3,108.4 368.0,91.8 C378.7,75.3 394.7,48.6 400.0,40.0" fill="none" stroke="#27b5c2" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80.0,340.0 C85.3,340.0 101.3,340.1 112.0,339.8 C122.7,339.5 133.3,339.3 144.0,338.3 C154.7,337.2 165.3,336.0 176.0,333.6 C186.7,331.3 197.3,328.4 208.0,324.0 C218.7,319.6 229.3,314.4 240.0,307.4 C250.7,300.3 261.3,292.0 272.0,281.5 C282.7,271.0 293.3,258.9 304.0,244.2 C314.7,229.5 325.3,212.8 336.0,193.1 C346.7,173.4 357.3,151.4 368.0,125.9 C378.7,100.3 394.7,54.3 400.0,40.0" fill="none" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="308.0" y="176.1" font-size="12" text-anchor="start" fill="#27b5c2" font-weight="400">Larenta</text>
+  <text x="276.0" y="285.5" font-size="12" text-anchor="start" fill="#d9432f" font-weight="400">Meridia</text>
+  <text x="248.0" y="233.4" font-size="13" text-anchor="middle" fill="#2b2b2b" font-weight="400">a</text>
+</svg>

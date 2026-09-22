@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-label="Imposing a specific tax on fizzy drinks" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Imposing a specific tax on fizzy drinks</title><desc>Three panels: producer revenue, government tax revenue and the tax burden after a $6 specific tax shifts supply from S to S + tax.</desc>
+  <rect width="1200" height="440" fill="#ffffff"/>
+  <g transform="translate(0,0)">
+  <polygon points="70.0,199.5 240.4,199.5 240.4,318.0 70.0,318.0" fill="#f6d9a0" stroke="none"/>
+  <polygon points="70.0,224.9 197.8,224.9 197.8,318.0 70.0,318.0" fill="#b4e3e9" stroke="none"/>
+  <line x1="70.0" y1="318.0" x2="376.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="70.0" y1="318.0" x2="70.0" y2="44.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="381.0,318.0 372.0,314.2 372.0,321.8" fill="#2b2b2b"/>
+  <polygon points="70.0,39.0 66.2,48.0 73.8,48.0" fill="#2b2b2b"/>
+  <text x="58.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="223.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of fizzy drinks (000 cases)</text>
+  <text x="20.0" y="181.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 181.0)">Price per case ($)</text>
+  <text x="223.0" y="20.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" font-style="italic">(a) Producer revenue</text>
+  <line x1="70.0" y1="199.5" x2="240.4" y2="199.5" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="203.5" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">e</tspan></text>
+  <line x1="240.4" y1="199.5" x2="240.4" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="240.4" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">e</tspan></text>
+  <line x1="70.0" y1="174.1" x2="197.8" y2="174.1" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="178.1" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="197.8" y1="174.1" x2="197.8" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="197.8" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="70.0" y1="224.9" x2="197.8" y2="224.9" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="228.9" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">C</text>
+  <line x1="84.2" y1="106.3" x2="354.0" y2="267.2" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.5" y1="296.0" x2="339.8" y2="140.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.5" y1="245.2" x2="339.8" y2="89.4" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="362.0" y="271.2" font-size="13" text-anchor="start" fill="#6b6b6b" font-weight="400">D</text>
+  <text x="347.8" y="144.2" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S</text>
+  <text x="347.8" y="93.4" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S + tax</text>
+  <circle cx="240.4" cy="199.5" r="3.6" fill="#2b2b2b"/>
+  <circle cx="197.8" cy="174.1" r="3.6" fill="#2b2b2b"/>
+  <circle cx="197.8" cy="224.9" r="3.6" fill="#2b2b2b"/>
+  <text x="240.4" y="190.5" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">W</text>
+  <text x="197.8" y="165.1" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">X</text>
+  <text x="204.8" y="238.9" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Y</text>
+  <line x1="291.5" y1="165.0" x2="291.5" y2="127.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="291.5,122.2 288.2,130.2 294.9,130.2" fill="#4a3f9f"/>
+  <text x="299.5" y="147.6" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="400" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">$6</text>
+  </g>
+  <g transform="translate(400,0)">
+  <polygon points="70.0,174.1 197.8,174.1 197.8,224.9 70.0,224.9" fill="#b4e3e9" stroke="none"/>
+  <line x1="70.0" y1="318.0" x2="376.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="70.0" y1="318.0" x2="70.0" y2="44.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="381.0,318.0 372.0,314.2 372.0,321.8" fill="#2b2b2b"/>
+  <polygon points="70.0,39.0 66.2,48.0 73.8,48.0" fill="#2b2b2b"/>
+  <text x="58.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="223.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of fizzy drinks (000 cases)</text>
+  <text x="20.0" y="181.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 181.0)">Price per case ($)</text>
+  <text x="223.0" y="20.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" font-style="italic">(b) Government tax revenue</text>
+  <line x1="70.0" y1="199.5" x2="240.4" y2="199.5" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="203.5" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">e</tspan></text>
+  <line x1="240.4" y1="199.5" x2="240.4" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="240.4" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">e</tspan></text>
+  <line x1="70.0" y1="174.1" x2="197.8" y2="174.1" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="178.1" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="197.8" y1="174.1" x2="197.8" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="197.8" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="70.0" y1="224.9" x2="197.8" y2="224.9" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="228.9" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">C</text>
+  <line x1="84.2" y1="106.3" x2="354.0" y2="267.2" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.5" y1="296.0" x2="339.8" y2="140.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.5" y1="245.2" x2="339.8" y2="89.4" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="362.0" y="271.2" font-size="13" text-anchor="start" fill="#6b6b6b" font-weight="400">D</text>
+  <text x="347.8" y="144.2" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S</text>
+  <text x="347.8" y="93.4" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S + tax</text>
+  <circle cx="240.4" cy="199.5" r="3.6" fill="#2b2b2b"/>
+  <circle cx="197.8" cy="174.1" r="3.6" fill="#2b2b2b"/>
+  <circle cx="197.8" cy="224.9" r="3.6" fill="#2b2b2b"/>
+  <text x="240.4" y="190.5" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">W</text>
+  <text x="197.8" y="165.1" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">X</text>
+  <text x="204.8" y="238.9" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Y</text>
+  <line x1="291.5" y1="165.0" x2="291.5" y2="127.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="291.5,122.2 288.2,130.2 294.9,130.2" fill="#4a3f9f"/>
+  <text x="299.5" y="147.6" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="400" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">$6</text>
+  </g>
+  <g transform="translate(800,0)">
+  <polygon points="70.0,174.1 197.8,174.1 197.8,199.5 70.0,199.5" fill="#f6d9a0" stroke="none"/>
+  <polygon points="70.0,199.5 197.8,199.5 197.8,224.9 70.0,224.9" fill="#b4e3e9" stroke="none"/>
+  <line x1="70.0" y1="318.0" x2="376.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="70.0" y1="318.0" x2="70.0" y2="44.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="381.0,318.0 372.0,314.2 372.0,321.8" fill="#2b2b2b"/>
+  <polygon points="70.0,39.0 66.2,48.0 73.8,48.0" fill="#2b2b2b"/>
+  <text x="58.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="223.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of fizzy drinks (000 cases)</text>
+  <text x="20.0" y="181.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 181.0)">Price per case ($)</text>
+  <text x="223.0" y="20.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" font-style="italic">(c) The tax burden</text>
+  <line x1="70.0" y1="199.5" x2="240.4" y2="199.5" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="203.5" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">e</tspan></text>
+  <line x1="240.4" y1="199.5" x2="240.4" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="240.4" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">e</tspan></text>
+  <line x1="70.0" y1="174.1" x2="197.8" y2="174.1" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="178.1" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="197.8" y1="174.1" x2="197.8" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="197.8" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="70.0" y1="224.9" x2="197.8" y2="224.9" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="62.0" y="228.9" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">C</text>
+  <line x1="84.2" y1="106.3" x2="354.0" y2="267.2" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.5" y1="296.0" x2="339.8" y2="140.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.5" y1="245.2" x2="339.8" y2="89.4" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="362.0" y="271.2" font-size="13" text-anchor="start" fill="#6b6b6b" font-weight="400">D</text>
+  <text x="347.8" y="144.2" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S</text>
+  <text x="347.8" y="93.4" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S + tax</text>
+  <circle cx="240.4" cy="199.5" r="3.6" fill="#2b2b2b"/>
+  <circle cx="197.8" cy="174.1" r="3.6" fill="#2b2b2b"/>
+  <circle cx="197.8" cy="224.9" r="3.6" fill="#2b2b2b"/>
+  <text x="240.4" y="190.5" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">W</text>
+  <text x="197.8" y="165.1" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">X</text>
+  <text x="204.8" y="238.9" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Y</text>
+  <line x1="291.5" y1="165.0" x2="291.5" y2="127.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="291.5,122.2 288.2,130.2 294.9,130.2" fill="#4a3f9f"/>
+  <text x="299.5" y="147.6" font-size="12" text-anchor="start" fill="#2b2b2b" font-weight="400" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">$6</text>
+  </g>
+  <rect x="90" y="390" width="16" height="11" fill="#b4e3e9" stroke="#9a9a9a" stroke-width="0.7"/>
+  <text x="115.0" y="400.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Producer revenue after the tax (C x Q1)</text>
+  <rect x="90" y="409" width="16" height="11" fill="#f6d9a0" stroke="#9a9a9a" stroke-width="0.7"/>
+  <text x="115.0" y="419.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Revenue lost because of the tax</text>
+  <rect x="490" y="390" width="16" height="11" fill="#b4e3e9" stroke="#9a9a9a" stroke-width="0.7"/>
+  <text x="515.0" y="400.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Tax revenue for government</text>
+  <rect x="890" y="390" width="16" height="11" fill="#f6d9a0" stroke="#9a9a9a" stroke-width="0.7"/>
+  <text x="915.0" y="400.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Tax burden on consumers</text>
+  <rect x="890" y="409" width="16" height="11" fill="#b4e3e9" stroke="#9a9a9a" stroke-width="0.7"/>
+  <text x="915.0" y="419.0" font-size="11.5" text-anchor="start" fill="#2b2b2b" font-weight="400">Tax burden on producers</text>
+</svg>

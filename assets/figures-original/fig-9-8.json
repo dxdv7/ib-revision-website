@@ -1,0 +1,5 @@
+{
+  "label": "Figure 9.8: A carbon tax on steel",
+  "alt": "Steel market with MPC, MPC plus carbon tax, MSC and MSB, showing output falling from Q1 to Q2 but staying above Q*, with a smaller welfare loss triangle left.",
+  "caption": "Steelmaking emits CO<sub>2</sub>, so MSC lies $1,200 per tonne above MPC. Without intervention the market produces Q<sub>1</sub> = 70 million tonnes at P<sub>1</sub> = $1,600. A carbon tax of $600 per tonne shifts private cost up to MPC + carbon tax, reducing output to Q<sub>2</sub> = 55 at P<sub>2</sub> = $1,900. Because the tax is only half the external cost, Q<sub>2</sub> is still above the efficient Q* = 40 (P* = $2,200), so a smaller welfare loss triangle remains."
+}

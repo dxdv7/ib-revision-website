@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" role="img" aria-label="A subsidy on domestic coffee production" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>A subsidy on domestic coffee production</title><desc>Subsidy diagram: S(Domestic) shifts right/down to S(Domestic)+subsidy, price stays at Pw, domestic output rises from Q1 to Q3, imports shrink, and the government's subsidy cost and efficiency-loss areas are shaded.</desc>
+  <rect width="480" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of coffee (000 tonnes)</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Price of coffee ($ per kg)</text>
+  <path d="M78.0,254.2 L78.0,215.9 L181.3,215.9 L181.3,254.2 Z" fill="#e2defa" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M129.6,254.2 L181.3,254.2 L181.3,215.9 Z" fill="#c9edf1" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="78.0" y1="292.5" x2="353.4" y2="88.3" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="330.8" x2="353.4" y2="126.6" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="78.0" y1="62.8" x2="353.4" y2="267.0" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="254.2" x2="353.4" y2="254.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="129.6" y1="254.2" x2="129.6" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="129.6" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="181.3" y1="254.2" x2="181.3" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="181.3" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">3</tspan></text>
+  <circle cx="129.6" cy="254.2" r="3.6" fill="#2b2b2b"/>
+  <circle cx="181.3" cy="254.2" r="3.6" fill="#2b2b2b"/>
+  <circle cx="181.3" cy="215.9" r="3.6" fill="#2b2b2b"/>
+  <text x="70.0" y="258.2" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">w</tspan></text>
+  <line x1="155.5" y1="238.0" x2="155.5" y2="265.5" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="155.5,270.3 158.8,262.3 152.1,262.3" fill="#4a3f9f"/>
+  <text x="359.4" y="84.3" font-size="12" text-anchor="start" fill="#d9432f" font-weight="400">S (Domestic)</text>
+  <text x="359.4" y="138.6" font-size="11" text-anchor="start" fill="#d9432f" font-weight="400">S (Domestic)+subsidy</text>
+  <text x="359.4" y="271.0" font-size="12" text-anchor="start" fill="#6b6b6b" font-weight="400">D</text>
+  <text x="150.0" y="300.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Production</text>
+  <text x="150.0" y="313.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">inefficiency</text>
+  <text x="220.0" y="60.0" font-size="10.5" text-anchor="middle" fill="#4a3f9f" font-weight="400">Subsidy cost = $6 x 120,000 = $720,000</text>
+</svg>

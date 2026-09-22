@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 340" role="img" aria-label="The J-curve" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>The J-curve</title><desc>J-shaped curve of the current account balance over time: starting in deficit at point X, dipping further to a low point Y, then rising up through zero and on to an improved position at point Z.</desc>
+  <rect width="460" height="340" fill="#ffffff"/>
+  <line x1="150.0" y1="40.0" x2="150.0" y2="300.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="150.0,35.0 146.2,44.0 153.8,44.0" fill="#2b2b2b"/>
+  <line x1="150.0" y1="210.0" x2="410.0" y2="210.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="415.0,210.0 406.0,206.2 406.0,213.8" fill="#2b2b2b"/>
+  <text x="140.0" y="60.0" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">Current account</text>
+  <text x="140.0" y="76.0" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">surplus</text>
+  <text x="140.0" y="268.0" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">Current account</text>
+  <text x="140.0" y="284.0" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">deficit</text>
+  <text x="136.0" y="214.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="404.0" y="228.0" font-size="12.5" text-anchor="end" fill="#2b2b2b" font-weight="400">Time</text>
+  <path d="M180.0,234.0 C190.8,237.7 225.0,259.0 245.0,256.0 C265.0,253.0 277.5,232.8 300.0,216.0 C322.5,199.2 364.2,181.8 380.0,155.0 C395.8,128.2 392.5,71.7 395.0,55.0" fill="none" stroke="#d9432f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="180.0" cy="234.0" r="4" fill="#d9432f"/>
+  <circle cx="245.0" cy="256.0" r="4" fill="#d9432f"/>
+  <circle cx="380.0" cy="155.0" r="4" fill="#d9432f"/>
+  <text x="170.0" y="228.0" font-size="13" text-anchor="end" fill="#2b2b2b" font-weight="700">X</text>
+  <text x="245.0" y="274.0" font-size="13" text-anchor="middle" fill="#2b2b2b" font-weight="700">Y</text>
+  <text x="392.0" y="151.0" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="700">Z</text>
+</svg>

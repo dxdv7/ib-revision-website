@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 380" role="img" aria-label="The elements of the IHDI" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>The elements of the IHDI</title><desc>Tree diagram showing the Inequality-adjusted Human Development Index built bottom-up from three inequality-adjusted dimension indices: life expectancy, education, and income.</desc>
+  <rect width="780" height="380" fill="#ffffff"/>
+  <rect x="240.0" y="19.0" width="300.0" height="50.0" rx="8" fill="#f8d3cd" stroke="#d9432f" stroke-width="2.4"/>
+  <text x="390.0" y="40.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Inequality-adjusted Human</text>
+  <text x="390.0" y="55.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Development Index (IHDI)</text>
+  <rect x="45.0" y="117.0" width="190.0" height="46.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="140.0" y="136.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Inequality-adjusted</text>
+  <text x="140.0" y="151.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">life expectancy index</text>
+  <rect x="295.0" y="117.0" width="190.0" height="46.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="390.0" y="136.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Inequality-adjusted</text>
+  <text x="390.0" y="151.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">education index</text>
+  <rect x="545.0" y="117.0" width="190.0" height="46.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="640.0" y="136.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Inequality-adjusted</text>
+  <text x="640.0" y="151.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">income index</text>
+  <rect x="60.0" y="211.0" width="160.0" height="42.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="140.0" y="236.2" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Life expectancy</text>
+  <rect x="310.0" y="211.0" width="160.0" height="42.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="390.0" y="236.2" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Years of schooling</text>
+  <rect x="560.0" y="211.0" width="160.0" height="42.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="640.0" y="236.2" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Income / consumption</text>
+  <rect x="60.0" y="307.0" width="160.0" height="46.0" rx="8" fill="#f4f4f4" stroke="#6b6b6b" stroke-width="2.0"/>
+  <text x="140.0" y="333.7" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">Life expectancy at birth</text>
+  <rect x="270.0" y="307.0" width="130.0" height="46.0" rx="8" fill="#f4f4f4" stroke="#6b6b6b" stroke-width="2.0"/>
+  <text x="335.0" y="327.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">Expected years</text>
+  <text x="335.0" y="340.4" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">of schooling</text>
+  <rect x="395.0" y="307.0" width="130.0" height="46.0" rx="8" fill="#f4f4f4" stroke="#6b6b6b" stroke-width="2.0"/>
+  <text x="460.0" y="327.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">Mean years</text>
+  <text x="460.0" y="340.4" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">of schooling</text>
+  <rect x="560.0" y="307.0" width="160.0" height="46.0" rx="8" fill="#f4f4f4" stroke="#6b6b6b" stroke-width="2.0"/>
+  <text x="640.0" y="333.7" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">GNI per capita (PPP $)</text>
+  <line x1="140.0" y1="304.0" x2="140.0" y2="259.6" stroke="#d9432f" stroke-width="1.8" stroke-linecap="round"/>
+  <polygon points="140.0,256.0 137.5,262.0 142.5,262.0" fill="#d9432f"/>
+  <line x1="349.4" y1="304.4" x2="375.0" y2="258.8" stroke="#d9432f" stroke-width="1.8" stroke-linecap="round"/>
+  <polygon points="376.7,255.6 371.6,259.6 376.0,262.1" fill="#d9432f"/>
+  <line x1="441.8" y1="304.6" x2="408.8" y2="258.4" stroke="#d9432f" stroke-width="1.8" stroke-linecap="round"/>
+  <polygon points="406.7,255.4 408.2,261.8 412.3,258.9" fill="#d9432f"/>
+  <line x1="640.0" y1="304.0" x2="640.0" y2="259.6" stroke="#d9432f" stroke-width="1.8" stroke-linecap="round"/>
+  <polygon points="640.0,256.0 637.5,262.0 642.5,262.0" fill="#d9432f"/>
+  <line x1="140.0" y1="208.0" x2="140.0" y2="169.6" stroke="#d9432f" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="140.0,166.0 137.5,172.0 142.5,172.0" fill="#d9432f"/>
+  <line x1="390.0" y1="208.0" x2="390.0" y2="169.6" stroke="#d9432f" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="390.0,166.0 387.5,172.0 392.5,172.0" fill="#d9432f"/>
+  <line x1="640.0" y1="208.0" x2="640.0" y2="169.6" stroke="#d9432f" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="640.0,166.0 637.5,172.0 642.5,172.0" fill="#d9432f"/>
+  <line x1="202.7" y1="115.9" x2="318.2" y2="71.6" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="322.1,70.1 314.5,69.8 316.6,75.3" fill="#d9432f"/>
+  <line x1="390.0" y1="114.0" x2="390.0" y2="76.2" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="390.0,72.0 387.1,79.0 392.9,79.0" fill="#d9432f"/>
+  <line x1="577.3" y1="115.9" x2="461.8" y2="71.6" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="457.9,70.1 463.4,75.3 465.5,69.8" fill="#d9432f"/>
+</svg>

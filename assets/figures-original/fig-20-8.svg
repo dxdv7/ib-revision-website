@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" role="img" aria-label="The Phillips curve as usually drawn" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>The Phillips curve as usually drawn</title><desc>Downward-sloping short-run Phillips curve with inflation rate on the vertical axis and unemployment rate on the horizontal axis. Point A is 6% unemployment and 3% inflation; point B is 4% unemployment and 7% inflation.</desc>
+  <rect width="420" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="42.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="78.0,37.0 74.2,46.0 81.8,46.0" fill="#2b2b2b"/>
+  <line x1="78.0" y1="280.2" x2="384.0" y2="280.2" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,280.2 380.0,276.4 380.0,284.0" fill="#2b2b2b"/>
+  <text x="70.0" y="284.2" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Unemployment rate (%)</text>
+  <text x="20.0" y="181.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 181.0)">Inflation rate (%)</text>
+  <path d="M132.7,68.2 C134.1,74.7 138.0,94.5 141.1,107.0 C144.3,119.4 148.1,132.5 151.6,143.0 C155.1,153.5 156.9,159.2 162.1,170.0 C167.4,180.8 176.2,197.3 183.2,207.8 C190.2,218.3 195.5,224.6 204.2,233.0 C213.0,241.4 225.3,251.2 235.8,258.2 C246.3,265.2 255.1,269.6 267.3,275.0 C279.6,280.3 296.8,286.2 309.4,290.2 C322.0,294.2 337.5,297.5 343.1,299.0" fill="none" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="78.0" y1="233.0" x2="204.2" y2="233.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="237.0" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">3</text>
+  <line x1="204.2" y1="233.0" x2="204.2" y2="280.2" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="204.2" y="297.2" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">6</text>
+  <line x1="78.0" y1="170.0" x2="162.1" y2="170.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="174.0" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">7</text>
+  <line x1="162.1" y1="170.0" x2="162.1" y2="280.2" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="162.1" y="297.2" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">4</text>
+  <circle cx="204.2" cy="233.0" r="3.8" fill="#2b2b2b"/>
+  <text x="212.2" y="225.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">A</text>
+  <circle cx="162.1" cy="170.0" r="3.8" fill="#2b2b2b"/>
+  <text x="170.1" y="162.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">B</text>
+</svg>

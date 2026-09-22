@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 380" role="img" aria-label="A floating currency" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>A floating currency</title><desc>Standard demand and supply diagram for Australian dollars priced in Singapore dollars, with the equilibrium exchange rate set where the downward-sloping demand curve meets the upward-sloping supply curve.</desc>
+  <rect width="440" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="350.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="355.0,318.0 346.0,314.2 346.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="214.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of A$</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Price of A$ in S$</text>
+  <line x1="78.0" y1="69.1" x2="328.0" y2="222.3" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="222.3" x2="328.0" y2="69.1" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="145.7" x2="203.0" y2="145.7" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="149.7" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">0.90</text>
+  <line x1="203.0" y1="145.7" x2="203.0" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="203.0" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q*</text>
+  <circle cx="203.0" cy="145.7" r="3.6" fill="#2b2b2b"/>
+  <text x="334.0" y="226.3" font-size="13" text-anchor="start" fill="#6b6b6b" font-weight="400">D</text>
+  <text x="334.0" y="65.1" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S</text>
+  <text x="240.0" y="60.0" font-size="11" text-anchor="middle" fill="#6b6b6b" font-weight="400">Demand for A$ (from S$ holders)</text>
+  <text x="240.0" y="76.0" font-size="11" text-anchor="middle" fill="#d9432f" font-weight="400">Supply of A$ (from A$ holders)</text>
+  <text x="214.0" y="44.0" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">A$1 = S$0.90</text>
+</svg>

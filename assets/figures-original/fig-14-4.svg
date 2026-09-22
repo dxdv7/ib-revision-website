@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" role="img" aria-label="The relationship between investment and the interest rate" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>The relationship between investment and the interest rate</title><desc>A downward-sloping investment curve I. When the interest rate falls from 7% to 4%, investment rises from I1 to I2.</desc>
+  <rect width="420" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Level of investment (I)</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Interest rate (i, %)</text>
+  <line x1="78.0" y1="130.4" x2="163.2" y2="130.4" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="134.4" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">7%</text>
+  <line x1="163.2" y1="130.4" x2="163.2" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="163.2" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">I<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="78.0" y1="210.8" x2="248.4" y2="210.8" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="214.8" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">4%</text>
+  <line x1="248.4" y1="210.8" x2="248.4" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="248.4" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">I<tspan font-size="70%" dy="3">2</tspan></text>
+  <line x1="106.4" y1="76.8" x2="333.6" y2="291.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="163.2" cy="130.4" r="3.6" fill="#2b2b2b"/>
+  <circle cx="248.4" cy="210.8" r="3.6" fill="#2b2b2b"/>
+  <line x1="36.0" y1="136.4" x2="36.0" y2="200.6" stroke="#4a3f9f" stroke-width="1.8" stroke-linecap="round"/>
+  <polygon points="36.0,204.8 38.9,197.8 33.1,197.8" fill="#4a3f9f"/>
+  <line x1="175.2" y1="331.0" x2="232.2" y2="331.0" stroke="#4a3f9f" stroke-width="1.8" stroke-linecap="round"/>
+  <polygon points="236.4,331.0 229.4,328.1 229.4,333.9" fill="#4a3f9f"/>
+  <text x="341.6" y="295.2" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="400">I</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380" role="img" aria-label="The supply of kayaks and paddleboards" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>The supply of kayaks and paddleboards</title><desc>Two diagrams: a movement up along the kayak supply curve as price rises from P to P1, and a leftward shift of the paddleboard supply curve from S to S1 at an unchanged price.</desc>
+  <rect width="860" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Price ($)</text>
+  <text x="90.0" y="20.0" font-size="13" text-anchor="start" fill="#6b6b6b" font-weight="600" font-style="italic">Supply of kayaks</text>
+  <line x1="78.0" y1="237.6" x2="174.4" y2="237.6" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="241.6" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P</text>
+  <line x1="78.0" y1="143.8" x2="279.0" y2="143.8" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="147.8" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">1</tspan><tspan dy="-3"></tspan></text>
+  <line x1="174.4" y1="237.6" x2="174.4" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="174.4" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q</text>
+  <line x1="279.0" y1="143.8" x2="279.0" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="279.0" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan><tspan dy="-3"></tspan></text>
+  <line x1="120.6" y1="285.8" x2="347.8" y2="82.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="174.4" cy="237.6" r="3.4" fill="#d9432f"/>
+  <circle cx="279.0" cy="143.8" r="3.4" fill="#d9432f"/>
+  <text x="353.8" y="76.2" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S</text>
+  <line x1="40.0" y1="233.6" x2="40.0" y2="152.6" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="40.0,147.8 36.6,155.8 43.4,155.8" fill="#4a3f9f"/>
+  <line x1="178.4" y1="350.0" x2="270.2" y2="350.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="275.0,350.0 267.0,346.6 267.0,353.4" fill="#4a3f9f"/>
+  <line x1="508.0" y1="318.0" x2="814.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="508.0" y1="318.0" x2="508.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="819.0,318.0 810.0,314.2 810.0,321.8" fill="#2b2b2b"/>
+  <polygon points="508.0,25.0 504.2,34.0 511.8,34.0" fill="#2b2b2b"/>
+  <text x="496.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="661.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity</text>
+  <text x="450.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 450 174.0)">Price ($)</text>
+  <text x="520.0" y="20.0" font-size="13" text-anchor="start" fill="#6b6b6b" font-weight="600" font-style="italic">Supply of paddleboards</text>
+  <line x1="508.0" y1="210.8" x2="688.2" y2="210.8" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="500.0" y="214.8" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P</text>
+  <line x1="688.2" y1="210.8" x2="688.2" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="688.2" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q</text>
+  <line x1="625.8" y1="210.8" x2="625.8" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="625.8" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan><tspan dy="-3"></tspan></text>
+  <line x1="650.0" y1="291.2" x2="749.4" y2="82.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="587.5" y1="291.2" x2="686.9" y2="82.2" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="688.2" cy="210.8" r="3.4" fill="#d9432f"/>
+  <circle cx="625.8" cy="210.8" r="3.4" fill="#d9432f"/>
+  <text x="755.4" y="76.2" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S</text>
+  <text x="692.9" y="76.2" font-size="13" text-anchor="start" fill="#d9432f" font-weight="400">S<tspan font-size="70%" dy="3">1</tspan><tspan dy="-3"></tspan></text>
+  <line x1="725.0" y1="125.0" x2="675.3" y2="125.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="670.5,125.0 678.5,128.4 678.5,121.7" fill="#4a3f9f"/>
+  <line x1="658.7" y1="264.4" x2="609.1" y2="264.4" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="604.3,264.4 612.3,267.8 612.3,261.0" fill="#4a3f9f"/>
+</svg>

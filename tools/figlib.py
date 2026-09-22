@@ -3,6 +3,18 @@
 Everything here is drawn from primitives; nothing is traced from or derived
 from any published image. Diagram *conventions* (axes, downward demand,
 upward supply, dashed guides to the axes) are standard economics.
+
+IMPORTANT, do not repeat this bug: SVG/XML only predefines 5 entities
+(&amp; &lt; &gt; &apos; &quot;). HTML named entities like &rsquo; &mdash;
+&ndash; &hellip; &times; DO NOT EXIST in XML and will make the SVG fail
+to parse (silently broken in real browsers, even though some quicklook/
+preview tools render it anyway up to the bad line). Never write a named
+HTML entity into .text()/.label() strings. Use a plain literal Unicode
+character instead (') or, if the file must stay pure ASCII, a numeric
+character reference (&#8217; for a right single quote, &#8212; for an
+em dash, &#8211; for an en dash) - numeric refs are always legal XML.
+Before calling a figure done, this must pass:
+    python3 -c "import xml.etree.ElementTree as ET; ET.parse('file.svg')"
 """
 import math
 

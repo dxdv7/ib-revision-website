@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-label="Examples of poverty cycles" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Examples of poverty cycles</title><desc>Two circular poverty-cycle diagrams: a growth cycle linking low investment, low economic growth, low incomes and low savings, and a development cycle linking low incomes, low productivity, low human capital and low education/health care.</desc>
+  <rect width="760" height="360" fill="#ffffff"/>
+  <text x="160.0" y="30.0" font-size="13" text-anchor="middle" fill="#d9432f" font-weight="700">GROWTH CYCLE</text>
+  <text x="600.0" y="30.0" font-size="13" text-anchor="middle" fill="#d9432f" font-weight="700">DEVELOPMENT CYCLE</text>
+  <rect x="-15.0" y="155.0" width="150.0" height="50.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="60.0" y="176.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Low levels of</text>
+  <text x="60.0" y="191.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">investment</text>
+  <rect x="85.0" y="55.0" width="150.0" height="50.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="160.0" y="76.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Low economic</text>
+  <text x="160.0" y="91.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">growth</text>
+  <rect x="185.0" y="155.0" width="150.0" height="50.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="260.0" y="184.2" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Low incomes</text>
+  <rect x="75.0" y="255.0" width="170.0" height="50.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="160.0" y="276.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Low levels of savings</text>
+  <text x="160.0" y="291.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">(high MPC)</text>
+  <line x1="87.8" y1="152.2" x2="128.8" y2="111.2" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="132.2,107.8 124.1,111.1 128.9,115.9" fill="#d9432f"/>
+  <line x1="187.8" y1="107.8" x2="228.8" y2="148.8" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="232.2,152.2 228.9,144.1 224.1,148.9" fill="#d9432f"/>
+  <line x1="232.2" y1="207.8" x2="191.2" y2="248.8" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="187.8,252.2 195.9,248.9 191.1,244.1" fill="#d9432f"/>
+  <line x1="132.2" y1="252.2" x2="91.2" y2="211.2" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="87.8,207.8 91.1,215.9 95.9,211.1" fill="#d9432f"/>
+  <rect x="385.0" y="155.0" width="150.0" height="50.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="460.0" y="184.2" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Low incomes</text>
+  <rect x="485.0" y="55.0" width="150.0" height="50.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="560.0" y="84.2" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Low productivity</text>
+  <rect x="595.0" y="155.0" width="170.0" height="50.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="680.0" y="176.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Low levels of</text>
+  <text x="680.0" y="191.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">human capital</text>
+  <rect x="460.0" y="255.0" width="200.0" height="50.0" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2.0"/>
+  <text x="560.0" y="276.5" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">Low levels of education</text>
+  <text x="560.0" y="291.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="600">and health care</text>
+  <line x1="487.8" y1="152.2" x2="528.8" y2="111.2" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="532.2,107.8 524.1,111.1 528.9,115.9" fill="#d9432f"/>
+  <line x1="593.1" y1="107.6" x2="643.2" y2="149.4" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="646.9,152.4 642.9,144.7 638.6,149.9" fill="#d9432f"/>
+  <line x1="646.9" y1="207.6" x2="596.8" y2="249.4" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="593.1,252.4 601.4,249.9 597.1,244.7" fill="#d9432f"/>
+  <line x1="532.2" y1="252.2" x2="491.2" y2="211.2" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="487.8,207.8 491.1,215.9 495.9,211.1" fill="#d9432f"/>
+</svg>

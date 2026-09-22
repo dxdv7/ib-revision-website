@@ -1,0 +1,5 @@
+{
+ "label": "Figure 22.2: Constructing a Lorenz curve (fictional country: Vantica)",
+ "alt": "Lorenz curve for the fictional country Vantica built point by point from cumulative income shares of each quintile (4%, 13%, 28%, 52%, 100%), plotted against cumulative population shares, shown below the diagonal line of equality.",
+ "caption": "Hypothetical data for Vantica: the poorest quintile earns 4% of income, the poorest two quintiles together 13%, three quintiles 28%, four quintiles 52%, and all five 100%. Plotting each cumulative pair (20%,4%), (40%,13%), (60%,28%), (80%,52%), (100%,100%) and joining them from the origin produces the bowed Lorenz curve below the 45&deg; line of equality."
+}

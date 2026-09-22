@@ -1,0 +1,5 @@
+{
+  "label": "Figure 12.10: Game theory outcomes for Firms X and Y",
+  "alt": "Decision tree for Firm X showing worst-case outcomes (maintain price: $3M, lower price: $5M, the minimax choice) and best-case outcomes (maintain price: $7M, lower price: $9M, the maximax choice), with lowering price rational under both approaches.",
+  "caption": "Firm X does not know how rival Firm Y will react, so it can reason two ways. Under the cautious minimax approach it compares the worst case of each option &mdash; if Firm Y always undercuts, maintaining price earns $3M but lowering price earns $5M, so $5M is the best of the worst outcomes. Under the optimistic maximax approach it compares the best case of each option &mdash; if Firm Y always matches, maintaining price earns $7M but lowering price earns $9M, so $9M is the best of the best outcomes. Either way, lowering price is Firm X&rsquo;s rational choice."
+}

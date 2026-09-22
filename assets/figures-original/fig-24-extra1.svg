@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" role="img" aria-label="Tariff on olive oil imports (worked example)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Tariff on olive oil imports (worked example)</title><desc>Olive oil market diagram: S(Domestic) and D cross at the no-trade equilibrium; a horizontal Sw line at $1 shows free-trade imports, and Sw+Tariff at $1.30 shows the after-tariff price, with the efficiency-loss and dead-weight-loss-of-consumer-surplus triangles shaded.</desc>
+  <rect width="480" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of olive oil (000 litres)</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Price of olive oil ($ per litre)</text>
+  <line x1="78.0" y1="269.3" x2="353.4" y2="113.3" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="74.4" x2="353.4" y2="230.3" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="171.8" x2="250.1" y2="171.8" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="175.8" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">P<tspan font-size="70%" dy="3">e</tspan></text>
+  <line x1="250.1" y1="171.8" x2="250.1" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="250.1" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">e</tspan></text>
+  <circle cx="250.1" cy="171.8" r="3.6" fill="#6b6b6b"/>
+  <path d="M164.1,220.5 L215.7,220.5 L215.7,191.3 Z" fill="#c9edf1" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M284.5,191.3 L284.5,220.5 L336.2,220.5 Z" fill="#f8d3cd" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M215.7,191.3 L284.5,191.3 L284.5,220.5 L215.7,220.5 Z" fill="#e2defa" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="78.0" y1="269.3" x2="353.4" y2="113.3" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="74.4" x2="353.4" y2="230.3" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="220.5" x2="353.4" y2="220.5" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="191.3" x2="353.4" y2="191.3" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="164.1" y1="220.5" x2="164.1" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="164.1" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan></text>
+  <circle cx="164.1" cy="220.5" r="3.6" fill="#2b2b2b"/>
+  <line x1="215.7" y1="191.3" x2="215.7" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="215.7" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">2</tspan></text>
+  <circle cx="215.7" cy="191.3" r="3.6" fill="#2b2b2b"/>
+  <line x1="284.5" y1="191.3" x2="284.5" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="284.5" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">3</tspan></text>
+  <circle cx="284.5" cy="191.3" r="3.6" fill="#2b2b2b"/>
+  <line x1="336.2" y1="220.5" x2="336.2" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="336.2" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">4</tspan></text>
+  <circle cx="336.2" cy="220.5" r="3.6" fill="#2b2b2b"/>
+  <text x="70.0" y="224.5" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">$1.00</text>
+  <text x="70.0" y="195.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">$1.30</text>
+  <text x="359.4" y="109.3" font-size="12" text-anchor="start" fill="#d9432f" font-weight="400">S (Domestic)</text>
+  <text x="359.4" y="234.3" font-size="12" text-anchor="start" fill="#6b6b6b" font-weight="400">D</text>
+  <text x="359.4" y="195.3" font-size="11" text-anchor="start" fill="#d9432f" font-weight="400">S<tspan font-size="70%" dy="3">W</tspan>+Tariff</text>
+  <text x="359.4" y="224.5" font-size="11.5" text-anchor="start" fill="#d9432f" font-weight="400">S<tspan font-size="70%" dy="3">W</tspan></text>
+  <text x="140.0" y="300.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Efficiency</text>
+  <text x="140.0" y="313.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">loss</text>
+  <text x="255.0" y="300.0" font-size="10.5" text-anchor="middle" fill="#4a3f9f" font-weight="400">Tariff revenue</text>
+  <text x="255.0" y="60.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Dead-weight loss of</text>
+  <text x="255.0" y="73.0" font-size="10.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">consumer surplus</text>
+</svg>

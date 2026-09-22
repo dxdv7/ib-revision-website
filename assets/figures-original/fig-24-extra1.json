@@ -1,0 +1,5 @@
+{
+ "label": "Figure: Tariff on olive oil imports (worked example)",
+ "alt": "Olive oil market diagram: S(Domestic) and D cross at the no-trade equilibrium; a horizontal Sw line at $1 shows free-trade imports, and Sw+Tariff at $1.30 shows the after-tariff price, with the efficiency-loss and dead-weight-loss-of-consumer-surplus triangles shaded.",
+ "caption": "Worked example: the world price of olive oil is $1.00/litre (S<sub>W</sub>), so free trade cuts domestic output to 100,000 litres and imports rise to 200,000 litres (total demand 300,000). A 30&cent; tariff raises the price to $1.30 (S<sub>W</sub>+Tariff): domestic output rises to 160,000 litres, quantity demanded falls to 240,000, and imports fall to 80,000 litres. Consumer expenditure rises from $1.00 &times; 300,000 = $300,000 to $1.30 &times; 240,000 = $312,000, even though quantity falls; government tariff revenue = $0.30 &times; 80,000 = $24,000. The shaded triangles show the efficiency loss (production shifting to less efficient domestic growers) and the dead-weight loss of consumer surplus."
+}

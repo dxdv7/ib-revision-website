@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 420" role="img" aria-label="Figure 10.6: Logic tree explaining the relationship between PED and TR on a demand curve" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Figure 10.6: Logic tree explaining the relationship between PED and TR on a demand curve</title><desc>Logic tree: PED = 1 where TR is maximised and MR = 0; PED falls as price falls, so PED is greater than 1 to the left of that point and less than 1 to the right.</desc>
+  <rect width="620" height="420" fill="#ffffff"/>
+  <rect x="30" y="14" width="280" height="44" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2"/>
+  <text x="170.0" y="40.4" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">At the point where PED = 1</text>
+  <rect x="30" y="100" width="280" height="44" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2"/>
+  <text x="170.0" y="126.4" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">Total revenue is at its maximum</text>
+  <rect x="350" y="100" width="250" height="44" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2"/>
+  <text x="475.0" y="126.4" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">MR = 0 at that quantity</text>
+  <rect x="30" y="186" width="280" height="50" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2"/>
+  <text x="170.0" y="207.4" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">So PED = 1 exactly where</text>
+  <text x="170.0" y="223.4" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="600">MR = 0 on a straight-line demand</text>
+  <rect x="350" y="178" width="250" height="66" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2"/>
+  <text x="475.0" y="199.4" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">PED falls steadily as price</text>
+  <text x="475.0" y="215.4" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">falls along a straight-line</text>
+  <text x="475.0" y="231.4" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">demand curve</text>
+  <line x1="170.0" y1="60.0" x2="170.0" y2="93.2" stroke="#2b2b2b" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="170.0,98.0 173.4,90.0 166.6,90.0" fill="#2b2b2b"/>
+  <line x1="348.0" y1="122.0" x2="317.8" y2="122.0" stroke="#2b2b2b" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="313.0,122.0 321.0,125.4 321.0,118.6" fill="#2b2b2b"/>
+  <line x1="170.0" y1="146.0" x2="170.0" y2="179.2" stroke="#2b2b2b" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="170.0,184.0 173.4,176.0 166.6,176.0" fill="#2b2b2b"/>
+  <line x1="348.0" y1="211.0" x2="317.8" y2="211.0" stroke="#2b2b2b" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="313.0,211.0 321.0,214.4 321.0,207.6" fill="#2b2b2b"/>
+  <rect x="40" y="316" width="250" height="84" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2"/>
+  <text x="165.0" y="338.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="400">To the left of that point</text>
+  <text x="165.0" y="354.4" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="400">(higher prices, smaller quantities)</text>
+  <text x="165.0" y="369.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="400">PED is greater than 1:</text>
+  <text x="165.0" y="385.4" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="400">demand is elastic</text>
+  <rect x="330" y="316" width="250" height="84" rx="8" fill="#fdeaea" stroke="#d9432f" stroke-width="2"/>
+  <text x="455.0" y="338.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="400">To the right of that point</text>
+  <text x="455.0" y="354.4" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="400">(lower prices, larger quantities)</text>
+  <text x="455.0" y="369.9" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="400">PED is less than 1:</text>
+  <text x="455.0" y="385.4" font-size="12" text-anchor="middle" fill="#2b2b2b" font-weight="400">demand is inelastic</text>
+  <line x1="170.0" y1="238.0" x2="170.0" y2="272.0" stroke="#2b2b2b" stroke-width="2" stroke-linecap="butt"/>
+  <line x1="165.0" y1="272.0" x2="455.0" y2="272.0" stroke="#2b2b2b" stroke-width="2" stroke-linecap="butt"/>
+  <line x1="165.0" y1="272.0" x2="165.0" y2="309.2" stroke="#2b2b2b" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="165.0,314.0 168.4,306.0 161.6,306.0" fill="#2b2b2b"/>
+  <line x1="455.0" y1="272.0" x2="455.0" y2="309.2" stroke="#2b2b2b" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="455.0,314.0 458.4,306.0 451.6,306.0" fill="#2b2b2b"/>
+</svg>

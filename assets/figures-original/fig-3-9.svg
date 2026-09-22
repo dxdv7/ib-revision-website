@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 760" role="img" aria-label="Individual demand curves and the market demand curve (horizontal summing)" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Individual demand curves and the market demand curve (horizontal summing)</title><desc>Four panels with a common price axis: demand curves for Consumers A, B and C and the market demand curve found by adding their quantities at each price.</desc>
+  <rect width="840" height="760" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="50.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,45.0 74.2,54.0 81.8,54.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="358.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity</text>
+  <text x="20.0" y="184.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 184.0)">Price ($)</text>
+  <text x="231.0" y="34.0" font-size="13" text-anchor="middle" fill="#2b2b2b" font-weight="600">Consumer A</text>
+  <text x="70.0" y="280.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">2</text>
+  <text x="70.0" y="239.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">4</text>
+  <text x="70.0" y="198.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">6</text>
+  <text x="70.0" y="156.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">8</text>
+  <text x="70.0" y="115.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">10</text>
+  <line x1="78.0" y1="111.3" x2="113.5" y2="111.3" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="113.5" y1="111.3" x2="113.5" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="78.0" y1="276.7" x2="255.5" y2="276.7" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="255.5" y1="276.7" x2="255.5" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="113.5" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">100</text>
+  <text x="255.5" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">500</text>
+  <line x1="113.5" y1="111.3" x2="255.5" y2="276.7" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="113.5" cy="111.3" r="3.4" fill="#d9432f"/>
+  <circle cx="255.5" cy="276.7" r="3.4" fill="#d9432f"/>
+  <text x="263.5" y="268.7" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">D<tspan font-size="70%" dy="3">A</tspan></text>
+  <line x1="498.0" y1="318.0" x2="804.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="498.0" y1="318.0" x2="498.0" y2="50.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="809.0,318.0 800.0,314.2 800.0,321.8" fill="#2b2b2b"/>
+  <polygon points="498.0,45.0 494.2,54.0 501.8,54.0" fill="#2b2b2b"/>
+  <text x="486.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="651.0" y="358.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity</text>
+  <text x="440.0" y="184.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 440 184.0)">Price ($)</text>
+  <text x="651.0" y="34.0" font-size="13" text-anchor="middle" fill="#2b2b2b" font-weight="600">Consumer B</text>
+  <text x="490.0" y="280.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">2</text>
+  <text x="490.0" y="239.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">4</text>
+  <text x="490.0" y="198.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">6</text>
+  <text x="490.0" y="156.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">8</text>
+  <text x="490.0" y="115.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">10</text>
+  <line x1="498.0" y1="111.3" x2="515.8" y2="111.3" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="515.8" y1="111.3" x2="515.8" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="498.0" y1="276.7" x2="586.8" y2="276.7" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="586.8" y1="276.7" x2="586.8" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="515.8" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">50</text>
+  <text x="586.8" y="336.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">250</text>
+  <line x1="515.8" y1="111.3" x2="586.8" y2="276.7" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="515.8" cy="111.3" r="3.4" fill="#d9432f"/>
+  <circle cx="586.8" cy="276.7" r="3.4" fill="#d9432f"/>
+  <text x="594.8" y="268.7" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">D<tspan font-size="70%" dy="3">B</tspan></text>
+  <line x1="78.0" y1="698.0" x2="384.0" y2="698.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="698.0" x2="78.0" y2="430.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,698.0 380.0,694.2 380.0,701.8" fill="#2b2b2b"/>
+  <polygon points="78.0,425.0 74.2,434.0 81.8,434.0" fill="#2b2b2b"/>
+  <text x="66.0" y="714.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="738.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity</text>
+  <text x="20.0" y="564.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 564.0)">Price ($)</text>
+  <text x="231.0" y="414.0" font-size="13" text-anchor="middle" fill="#2b2b2b" font-weight="600">Consumer C</text>
+  <text x="70.0" y="660.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">2</text>
+  <text x="70.0" y="619.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">4</text>
+  <text x="70.0" y="578.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">6</text>
+  <text x="70.0" y="536.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">8</text>
+  <text x="70.0" y="495.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">10</text>
+  <line x1="78.0" y1="491.3" x2="131.2" y2="491.3" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="131.2" y1="491.3" x2="131.2" y2="698.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="78.0" y1="656.7" x2="344.2" y2="656.7" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="344.2" y1="656.7" x2="344.2" y2="698.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="131.2" y="716.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">150</text>
+  <text x="344.2" y="716.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">750</text>
+  <line x1="131.2" y1="491.3" x2="344.2" y2="656.7" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="131.2" cy="491.3" r="3.4" fill="#d9432f"/>
+  <circle cx="344.2" cy="656.7" r="3.4" fill="#d9432f"/>
+  <text x="352.2" y="648.7" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">D<tspan font-size="70%" dy="3">C</tspan></text>
+  <line x1="498.0" y1="698.0" x2="804.0" y2="698.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="498.0" y1="698.0" x2="498.0" y2="430.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="809.0,698.0 800.0,694.2 800.0,701.8" fill="#2b2b2b"/>
+  <polygon points="498.0,425.0 494.2,434.0 501.8,434.0" fill="#2b2b2b"/>
+  <text x="486.0" y="714.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="651.0" y="738.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity</text>
+  <text x="440.0" y="564.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 440 564.0)">Price ($)</text>
+  <text x="651.0" y="414.0" font-size="13" text-anchor="middle" fill="#2b2b2b" font-weight="600">Total market</text>
+  <text x="490.0" y="660.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">2</text>
+  <text x="490.0" y="619.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">4</text>
+  <text x="490.0" y="578.0" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">6</text>
+  <text x="490.0" y="536.7" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">8</text>
+  <text x="490.0" y="495.3" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">10</text>
+  <line x1="498.0" y1="491.3" x2="551.2" y2="491.3" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="551.2" y1="491.3" x2="551.2" y2="698.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="498.0" y1="656.7" x2="764.2" y2="656.7" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <line x1="764.2" y1="656.7" x2="764.2" y2="698.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="551.2" y="716.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">300</text>
+  <text x="764.2" y="716.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">1500</text>
+  <line x1="551.2" y1="491.3" x2="764.2" y2="656.7" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="551.2" cy="491.3" r="3.4" fill="#d9432f"/>
+  <circle cx="764.2" cy="656.7" r="3.4" fill="#d9432f"/>
+  <text x="772.2" y="648.7" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">D<tspan font-size="70%" dy="3">M</tspan></text>
+</svg>

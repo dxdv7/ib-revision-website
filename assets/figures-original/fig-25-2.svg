@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 380" role="img" aria-label="A customs union" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>A customs union</title><desc>Countries A, B and C inside a boundary marked as the common external tariff, trading freely with each other; goods from outsider D face the same tariff at every entry point.</desc>
+  <rect width="500" height="380" fill="#ffffff"/>
+  <rect x="18" y="22" width="244" height="336" rx="30" fill="#e6f5f7" stroke="#d9432f" stroke-width="5"/>
+  <circle cx="100" cy="90" r="30" fill="#fdeaea" stroke="#d9432f" stroke-width="2.4"/>
+  <text x="100.0" y="88.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">Country</text>
+  <text x="100.0" y="104.0" font-size="15" text-anchor="middle" fill="#2b2b2b" font-weight="700">A</text>
+  <circle cx="100" cy="290" r="30" fill="#fdeaea" stroke="#d9432f" stroke-width="2.4"/>
+  <text x="100.0" y="288.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">Country</text>
+  <text x="100.0" y="304.0" font-size="15" text-anchor="middle" fill="#2b2b2b" font-weight="700">B</text>
+  <circle cx="200" cy="190" r="30" fill="#fdeaea" stroke="#d9432f" stroke-width="2.4"/>
+  <text x="200.0" y="188.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">Country</text>
+  <text x="200.0" y="204.0" font-size="15" text-anchor="middle" fill="#2b2b2b" font-weight="700">C</text>
+  <circle cx="420" cy="190" r="30" fill="#f0f0f0" stroke="#6b6b6b" stroke-width="2.4"/>
+  <text x="420.0" y="188.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">Country</text>
+  <text x="420.0" y="204.0" font-size="15" text-anchor="middle" fill="#2b2b2b" font-weight="700">D</text>
+  <line x1="100.0" y1="128.8" x2="100.0" y2="251.2" stroke="#27b5c2" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="100.0,256.0 103.4,248.0 96.6,248.0" fill="#27b5c2"/>
+  <polygon points="100.0,124.0 96.6,132.0 103.4,132.0" fill="#27b5c2"/>
+  <line x1="127.4" y1="117.4" x2="172.6" y2="162.6" stroke="#27b5c2" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="176.0,166.0 172.7,157.9 167.9,162.7" fill="#27b5c2"/>
+  <polygon points="124.0,114.0 127.3,122.1 132.1,117.3" fill="#27b5c2"/>
+  <line x1="127.4" y1="262.6" x2="172.6" y2="217.4" stroke="#27b5c2" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="176.0,214.0 167.9,217.3 172.7,222.1" fill="#27b5c2"/>
+  <polygon points="124.0,266.0 132.1,262.7 127.3,257.9" fill="#27b5c2"/>
+  <text x="125.0" y="187.0" font-size="11.5" text-anchor="middle" fill="#27b5c2" font-weight="700">FREE</text>
+  <text x="125.0" y="202.0" font-size="11.5" text-anchor="middle" fill="#27b5c2" font-weight="700">TRADE</text>
+  <text x="137.0" y="46.0" font-size="12.5" text-anchor="middle" fill="#d9432f" font-weight="700">CUSTOMS UNION</text>
+  <line x1="386.6" y1="179.6" x2="133.4" y2="100.4" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="133.4,100.4 140.0,106.0 142.0,99.6" fill="#2b2b2b"/>
+  <circle cx="262.0" cy="140.6" r="5.5" fill="#ffffff"/>
+  <circle cx="262.0" cy="140.6" r="5.5" fill="#ffffff" stroke="#d9432f" stroke-width="2.4"/>
+  <line x1="386.6" y1="200.4" x2="133.4" y2="279.6" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="133.4,279.6 142.0,280.4 140.0,274.0" fill="#2b2b2b"/>
+  <circle cx="262.0" cy="239.4" r="5.5" fill="#ffffff"/>
+  <circle cx="262.0" cy="239.4" r="5.5" fill="#ffffff" stroke="#d9432f" stroke-width="2.4"/>
+  <line x1="385.0" y1="190.0" x2="235.0" y2="190.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="235.0,190.0 243.0,193.4 243.0,186.6" fill="#2b2b2b"/>
+  <circle cx="262.0" cy="190.0" r="5.5" fill="#ffffff"/>
+  <circle cx="262.0" cy="190.0" r="5.5" fill="#ffffff" stroke="#d9432f" stroke-width="2.4"/>
+  <text x="350.0" y="105.0" font-size="11.5" text-anchor="middle" fill="#d9432f" font-weight="600" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Common external</text>
+  <text x="350.0" y="120.0" font-size="11.5" text-anchor="middle" fill="#d9432f" font-weight="600" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">tariff on D&#8217;s goods</text>
+  <text x="350.0" y="274.0" font-size="11.5" text-anchor="middle" fill="#d9432f" font-weight="600" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Same tariff at every</text>
+  <text x="350.0" y="289.0" font-size="11.5" text-anchor="middle" fill="#d9432f" font-weight="600" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">point of entry</text>
+</svg>

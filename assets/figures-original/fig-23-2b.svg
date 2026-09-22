@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" role="img" aria-label="Thailand &amp;ndash; potential gains from specialization and trade" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Thailand &amp;ndash; potential gains from specialization and trade</title><desc>Thailand's PPC (rice vertical, textiles horizontal) with point x at 200 textiles, 1200 rice before specialization, and point y outside the curve at 300 textiles, 1400 rice after specialization and trade, with exports and imports marked.</desc>
+  <rect width="420" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Textiles (000 bales)</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Rice (000 tonnes)</text>
+  <line x1="78.0" y1="78.7" x2="331.6" y2="318.0" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="138.5" x2="141.4" y2="138.5" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="142.5" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">1,200</text>
+  <line x1="141.4" y1="138.5" x2="141.4" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="141.4" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">200</text>
+  <circle cx="141.4" cy="138.5" r="3.6" fill="#2b2b2b"/>
+  <text x="149.4" y="132.5" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="400">x</text>
+  <circle cx="78.0" cy="78.7" r="3.4" fill="#6b6b6b"/>
+  <line x1="78.0" y1="78.7" x2="78.0" y2="108.6" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="78.0" y1="108.6" x2="168.3" y2="108.6" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="173.1,108.6 165.1,105.3 165.1,112.0" fill="#4a3f9f"/>
+  <circle cx="173.1" cy="108.6" r="3.6" fill="#2b2b2b"/>
+  <text x="181.1" y="102.6" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="400">y</text>
+  <line x1="78.0" y1="108.6" x2="173.1" y2="108.6" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="112.6" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">1,400</text>
+  <line x1="173.1" y1="108.6" x2="173.1" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="173.1" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">300</text>
+  <text x="88.0" y="70.7" font-size="11.5" text-anchor="start" fill="#d9432f" font-weight="400">Thailand's PPC</text>
+  <text x="378.0" y="46.0" font-size="10.5" text-anchor="end" fill="#4a3f9f" font-weight="400">Exports: 200,000 rice</text>
+  <text x="378.0" y="60.0" font-size="10.5" text-anchor="end" fill="#4a3f9f" font-weight="400">Imports: 300,000 textiles</text>
+</svg>

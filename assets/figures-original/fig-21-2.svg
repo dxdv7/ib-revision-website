@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 760" role="img" aria-label="A deflationary gap/output gap" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>A deflationary gap/output gap</title><desc>Panel (a): AD/AS diagram with AD1 crossing SRAS to the left of the vertical LRAS line, at output Y1 below full-employment output Yf, showing a deflationary gap. Panel (b): a bowed-out PPC with point a plotted inside the curve.</desc>
+  <rect width="440" height="760" fill="#ffffff"/>
+  <line x1="90.0" y1="300.0" x2="380.0" y2="300.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="90.0" y1="300.0" x2="90.0" y2="55.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="385.0,300.0 376.0,296.2 376.0,303.8" fill="#2b2b2b"/>
+  <polygon points="90.0,50.0 86.2,59.0 93.8,59.0" fill="#2b2b2b"/>
+  <text x="78.0" y="316.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="235.0" y="334.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Real output (Y)</text>
+  <text x="58.0" y="177.5" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 58 177.5)">Average price level</text>
+  <line x1="135.0" y1="275.0" x2="345.0" y2="80.0" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="349.0" y="76.0" font-size="12.5" text-anchor="start" fill="#d9432f" font-weight="400">SRAS</text>
+  <line x1="305.0" y1="300.0" x2="305.0" y2="55.0" stroke="#2b2b2b" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="311.0" y="67.0" font-size="12.5" text-anchor="start" fill="#2b2b2b" font-weight="400">LRAS</text>
+  <line x1="120.0" y1="95.0" x2="300.0" y2="285.0" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="304.0" y="292.0" font-size="12.5" text-anchor="start" fill="#6b6b6b" font-weight="400">AD<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="217.7" y1="198.2" x2="217.7" y2="300.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="217.7" y="318.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Y<tspan font-size="70%" dy="3">1</tspan></text>
+  <circle cx="217.7" cy="198.2" r="3.6" fill="#2b2b2b"/>
+  <text x="217.7" y="318.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Y<tspan font-size="70%" dy="3">1</tspan></text>
+  <text x="305.0" y="318.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Y<tspan font-size="70%" dy="3">f</tspan></text>
+  <line x1="221.7" y1="356.0" x2="297.4" y2="356.0" stroke="#2b2b2b" stroke-width="1.6" stroke-linecap="round"/>
+  <polygon points="301.0,356.0 295.0,353.5 295.0,358.5" fill="#2b2b2b"/>
+  <line x1="301.0" y1="356.0" x2="225.3" y2="356.0" stroke="#2b2b2b" stroke-width="1.6" stroke-linecap="round"/>
+  <polygon points="221.7,356.0 227.7,358.5 227.7,353.5" fill="#2b2b2b"/>
+  <text x="261.4" y="372.0" font-size="11" text-anchor="middle" fill="#2b2b2b" font-weight="400">Deflationary gap</text>
+  <text x="90.0" y="18.0" font-size="14" text-anchor="start" fill="#2b2b2b" font-weight="700">(a)</text>
+  <line x1="85.0" y1="700.0" x2="380.0" y2="700.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="85.0" y1="700.0" x2="85.0" y2="440.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="385.0,700.0 376.0,696.2 376.0,703.8" fill="#2b2b2b"/>
+  <polygon points="85.0,435.0 81.2,444.0 88.8,444.0" fill="#2b2b2b"/>
+  <text x="73.0" y="716.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="232.5" y="734.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Consumer goods</text>
+  <text x="53.0" y="570.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 53 570.0)">Capital goods</text>
+  <path d="M100.0,500.0 C108.5,500.8 134.5,501.6 151.2,504.8 C167.8,507.9 184.4,512.7 199.8,518.8 C215.2,524.9 230.1,532.7 243.4,541.5 C256.7,550.2 269.2,560.5 279.8,571.5 C290.5,582.6 299.8,594.9 307.2,607.6 C314.6,620.3 320.4,634.0 324.2,647.7 C328.0,661.5 329.0,683.0 330.0,690.0" fill="none" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="322.0" y="708.0" font-size="12" text-anchor="start" fill="#6b6b6b" font-weight="400">PPC<tspan font-size="70%" dy="3">1</tspan></text>
+  <circle cx="217.5" cy="612.6" r="3.6" fill="#4a3f9f"/>
+  <text x="225.5" y="606.6" font-size="13" text-anchor="start" fill="#2b2b2b" font-weight="400">a</text>
+  <text x="85.0" y="418.0" font-size="14" text-anchor="start" fill="#2b2b2b" font-weight="700">(b)</text>
+</svg>

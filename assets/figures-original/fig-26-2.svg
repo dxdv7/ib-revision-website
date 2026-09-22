@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 380" role="img" aria-label="An increase in the demand for EC$" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>An increase in the demand for EC$</title><desc>Demand and supply diagram for the Eastern Caribbean dollar (EC$) showing the demand curve shifting rightward from D1 to D2 at the fixed exchange rate of US$0.40, creating excess demand for EC$ that the central bank meets by shifting supply from S1 to S2.</desc>
+  <rect width="460" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of EC$ (millions per period)</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Price of EC$ in US$</text>
+  <line x1="78.0" y1="109.6" x2="362.0" y2="288.2" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="73.8" x2="362.0" y2="252.5" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="258.4" x2="362.0" y2="139.3" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="78.0" y1="198.9" x2="384.0" y2="198.9" stroke="#2b2b2b" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <circle cx="220.0" cy="198.9" r="3.6" fill="#2b2b2b"/>
+  <line x1="220.0" y1="198.9" x2="220.0" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="220.0" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">1</tspan></text>
+  <line x1="223.0" y1="198.9" x2="273.8" y2="198.9" stroke="#3fb1e3" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="248.4" y="188.9" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Excess demand</text>
+  <line x1="78.0" y1="282.3" x2="362.0" y2="163.2" stroke="#d9432f" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="276.8" cy="198.9" r="3.6" fill="#2b2b2b"/>
+  <line x1="276.8" y1="198.9" x2="276.8" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="276.8" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">2</tspan></text>
+  <text x="70.0" y="202.9" font-size="11" text-anchor="end" fill="#2b2b2b" font-weight="400">0.40</text>
+  <line x1="129.3" y1="139.3" x2="173.3" y2="139.3" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="178.1,139.3 170.1,136.0 170.1,142.7" fill="#4a3f9f"/>
+  <text x="149.0" y="124.4" font-size="11" text-anchor="middle" fill="#4a3f9f" font-weight="600">D<tspan font-size="70%" dy="3">1</tspan>→D<tspan font-size="70%" dy="3">2</tspan></text>
+  <line x1="295.0" y1="169.1" x2="339.0" y2="169.1" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="343.8,169.1 335.8,165.8 335.8,172.5" fill="#4a3f9f"/>
+  <text x="319.4" y="157.2" font-size="11" text-anchor="middle" fill="#4a3f9f" font-weight="600">S<tspan font-size="70%" dy="3">1</tspan>→S<tspan font-size="70%" dy="3">2</tspan></text>
+  <text x="368.0" y="292.2" font-size="12.5" text-anchor="start" fill="#6b6b6b" font-weight="400">D<tspan font-size="70%" dy="3">1</tspan></text>
+  <text x="368.0" y="256.5" font-size="12.5" text-anchor="start" fill="#6b6b6b" font-weight="400">D<tspan font-size="70%" dy="3">2</tspan></text>
+  <text x="368.0" y="143.3" font-size="12.5" text-anchor="start" fill="#d9432f" font-weight="400">S<tspan font-size="70%" dy="3">1</tspan></text>
+  <text x="368.0" y="167.2" font-size="12.5" text-anchor="start" fill="#d9432f" font-weight="400">S<tspan font-size="70%" dy="3">2</tspan></text>
+  <text x="380.0" y="190.9" font-size="10.5" text-anchor="end" fill="#2b2b2b" font-weight="400">Fixed rate</text>
+</svg>

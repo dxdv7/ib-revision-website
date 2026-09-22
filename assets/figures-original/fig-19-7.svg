@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" role="img" aria-label="Crowding out, extreme view" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>Crowding out, extreme view</title><desc>Loanable funds market with a vertical supply curve SLF. Demand shifts right from D1 to D2, raising the interest rate from i1 to i2 with no rise in total lending QLF1; private borrowing falls to QLF2.</desc>
+  <rect width="420" height="380" fill="#ffffff"/>
+  <line x1="78.0" y1="318.0" x2="384.0" y2="318.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="78.0" y1="318.0" x2="78.0" y2="30.0" stroke="#2b2b2b" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="389.0,318.0 380.0,314.2 380.0,321.8" fill="#2b2b2b"/>
+  <polygon points="78.0,25.0 74.2,34.0 81.8,34.0" fill="#2b2b2b"/>
+  <text x="66.0" y="334.0" font-size="12" text-anchor="end" fill="#2b2b2b" font-weight="400">0</text>
+  <text x="231.0" y="366.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Quantity of loanable funds</text>
+  <text x="20.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#2b2b2b" font-weight="400" transform="rotate(-90 20 174.0)">Interest rate</text>
+  <line x1="96.0" y1="62.0" x2="296.0" y2="282.0" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="162.0" y1="62.0" x2="362.0" y2="282.0" stroke="#6b6b6b" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="236.0" y1="318.0" x2="236.0" y2="46.0" stroke="#d9432f" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="300.0" y="296.0" font-size="12.5" text-anchor="start" fill="#6b6b6b" font-weight="400">D<tspan font-size="70%" dy="3">1</tspan></text>
+  <text x="366.0" y="286.0" font-size="12.5" text-anchor="start" fill="#6b6b6b" font-weight="400">D<tspan font-size="70%" dy="3">2</tspan></text>
+  <text x="236.0" y="36.0" font-size="13" text-anchor="middle" fill="#d9432f" font-weight="400">S<tspan font-size="70%" dy="3">LF</tspan></text>
+  <line x1="78.0" y1="216.0" x2="236.0" y2="216.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="220.0" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">i<tspan font-size="70%" dy="3">1</tspan></text>
+  <circle cx="236.0" cy="216.0" r="3.6" fill="#2b2b2b"/>
+  <line x1="78.0" y1="143.4" x2="236.0" y2="143.4" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="70.0" y="147.4" font-size="11.5" text-anchor="end" fill="#2b2b2b" font-weight="400">i<tspan font-size="70%" dy="3">2</tspan></text>
+  <circle cx="236.0" cy="143.4" r="3.6" fill="#2b2b2b"/>
+  <text x="236.0" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">LF1</tspan></text>
+  <line x1="170.0" y1="143.4" x2="170.0" y2="318.0" stroke="#27b5c2" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="5 4"/>
+  <text x="170.0" y="336.0" font-size="11.5" text-anchor="middle" fill="#2b2b2b" font-weight="400">Q<tspan font-size="70%" dy="3">LF2</tspan></text>
+  <circle cx="170.0" cy="143.4" r="3.6" fill="#2b2b2b"/>
+  <line x1="143.6" y1="110.0" x2="196.8" y2="110.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="201.6,110.0 193.6,106.6 193.6,113.4" fill="#4a3f9f"/>
+  <line x1="249.1" y1="226.0" x2="302.3" y2="226.0" stroke="#4a3f9f" stroke-width="2.0" stroke-linecap="round"/>
+  <polygon points="307.1,226.0 299.1,222.6 299.1,229.4" fill="#4a3f9f"/>
+  <line x1="38.0" y1="210.0" x2="38.0" y2="153.6" stroke="#4a3f9f" stroke-width="1.8" stroke-linecap="round"/>
+  <polygon points="38.0,149.4 35.1,156.4 40.9,156.4" fill="#4a3f9f"/>
+  <line x1="226.0" y1="345.0" x2="184.2" y2="345.0" stroke="#4a3f9f" stroke-width="1.8" stroke-linecap="round"/>
+  <polygon points="180.0,345.0 187.0,347.9 187.0,342.1" fill="#4a3f9f"/>
+</svg>
