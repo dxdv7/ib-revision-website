@@ -1,0 +1,372 @@
+{
+  "1": {
+    "code": "1.1",
+    "unit": "Introduction to business management",
+    "name": "What is a business?",
+    "start": 37,
+    "end": 47,
+    "pages": 11,
+    "chars": 24218,
+    "file": "source/bus_raw/01_1.1.txt"
+  },
+  "2": {
+    "code": "1.2",
+    "unit": "Introduction to business management",
+    "name": "Types of business entities",
+    "start": 48,
+    "end": 57,
+    "pages": 10,
+    "chars": 28163,
+    "file": "source/bus_raw/02_1.2.txt"
+  },
+  "3": {
+    "code": "1.3",
+    "unit": "Introduction to business management",
+    "name": "Business objectives",
+    "start": 58,
+    "end": 64,
+    "pages": 7,
+    "chars": 19792,
+    "file": "source/bus_raw/03_1.3.txt"
+  },
+  "4": {
+    "code": "1.4",
+    "unit": "Introduction to business management",
+    "name": "Stakeholders",
+    "start": 65,
+    "end": 70,
+    "pages": 6,
+    "chars": 17447,
+    "file": "source/bus_raw/04_1.4.txt"
+  },
+  "5": {
+    "code": "1.5",
+    "unit": "Introduction to business management",
+    "name": "Growth and evolution",
+    "start": 71,
+    "end": 82,
+    "pages": 12,
+    "chars": 31775,
+    "file": "source/bus_raw/05_1.5.txt"
+  },
+  "6": {
+    "code": "1.6",
+    "unit": "Introduction to business management",
+    "name": "Multinational companies (MNCs)",
+    "start": 83,
+    "end": 86,
+    "pages": 4,
+    "chars": 5798,
+    "file": "source/bus_raw/06_1.6.txt"
+  },
+  "7": {
+    "code": "2.1",
+    "unit": "Human resource management",
+    "name": "Introduction to human resource management",
+    "start": 87,
+    "end": 96,
+    "pages": 10,
+    "chars": 23643,
+    "file": "source/bus_raw/07_2.1.txt"
+  },
+  "8": {
+    "code": "2.2",
+    "unit": "Human resource management",
+    "name": "Organizational structure",
+    "start": 97,
+    "end": 103,
+    "pages": 7,
+    "chars": 16496,
+    "file": "source/bus_raw/08_2.2.txt"
+  },
+  "9": {
+    "code": "2.3",
+    "unit": "Human resource management",
+    "name": "Leadership and management",
+    "start": 104,
+    "end": 112,
+    "pages": 9,
+    "chars": 21113,
+    "file": "source/bus_raw/09_2.3.txt"
+  },
+  "10": {
+    "code": "2.4",
+    "unit": "Human resource management",
+    "name": "Motivation and demotivation",
+    "start": 113,
+    "end": 135,
+    "pages": 23,
+    "chars": 54889,
+    "file": "source/bus_raw/10_2.4.txt"
+  },
+  "11": {
+    "code": "2.5",
+    "unit": "Human resource management",
+    "name": "Organizational (corporate) culture",
+    "start": 136,
+    "end": 145,
+    "pages": 10,
+    "chars": 25035,
+    "file": "source/bus_raw/11_2.5.txt"
+  },
+  "12": {
+    "code": "2.6",
+    "unit": "Human resource management",
+    "name": "Communication",
+    "start": 146,
+    "end": 149,
+    "pages": 4,
+    "chars": 11153,
+    "file": "source/bus_raw/12_2.6.txt"
+  },
+  "13": {
+    "code": "2.7",
+    "unit": "Human resource management",
+    "name": "Industrial/employee relations",
+    "start": 150,
+    "end": 158,
+    "pages": 9,
+    "chars": 18802,
+    "file": "source/bus_raw/13_2.7.txt"
+  },
+  "14": {
+    "code": "3.1",
+    "unit": "Finance and accounts",
+    "name": "Introduction to finance",
+    "start": 159,
+    "end": 160,
+    "pages": 2,
+    "chars": 5139,
+    "file": "source/bus_raw/14_3.1.txt"
+  },
+  "15": {
+    "code": "3.2",
+    "unit": "Finance and accounts",
+    "name": "Sources of finance",
+    "start": 161,
+    "end": 166,
+    "pages": 6,
+    "chars": 14338,
+    "file": "source/bus_raw/15_3.2.txt"
+  },
+  "16": {
+    "code": "3.3",
+    "unit": "Finance and accounts",
+    "name": "Costs and revenues",
+    "start": 167,
+    "end": 170,
+    "pages": 4,
+    "chars": 8522,
+    "file": "source/bus_raw/16_3.3.txt"
+  },
+  "17": {
+    "code": "3.4",
+    "unit": "Finance and accounts",
+    "name": "Final accounts",
+    "start": 171,
+    "end": 186,
+    "pages": 16,
+    "chars": 31530,
+    "file": "source/bus_raw/17_3.4.txt"
+  },
+  "18": {
+    "code": "3.5",
+    "unit": "Finance and accounts",
+    "name": "Profitability and liquidity ratio analysis",
+    "start": 187,
+    "end": 196,
+    "pages": 10,
+    "chars": 24626,
+    "file": "source/bus_raw/18_3.5.txt"
+  },
+  "19": {
+    "code": "3.6",
+    "unit": "Finance and accounts",
+    "name": "Efficiency ratio analysis",
+    "start": 197,
+    "end": 203,
+    "pages": 7,
+    "chars": 18761,
+    "file": "source/bus_raw/19_3.6.txt"
+  },
+  "20": {
+    "code": "3.7",
+    "unit": "Finance and accounts",
+    "name": "Cash flow",
+    "start": 204,
+    "end": 210,
+    "pages": 7,
+    "chars": 16396,
+    "file": "source/bus_raw/20_3.7.txt"
+  },
+  "21": {
+    "code": "3.8",
+    "unit": "Finance and accounts",
+    "name": "Investment appraisal",
+    "start": 211,
+    "end": 217,
+    "pages": 7,
+    "chars": 15613,
+    "file": "source/bus_raw/21_3.8.txt"
+  },
+  "22": {
+    "code": "3.9",
+    "unit": "Finance and accounts",
+    "name": "Budgets",
+    "start": 218,
+    "end": 225,
+    "pages": 8,
+    "chars": 12971,
+    "file": "source/bus_raw/22_3.9.txt"
+  },
+  "23": {
+    "code": "4.1",
+    "unit": "Marketing",
+    "name": "Introduction to marketing",
+    "start": 226,
+    "end": 232,
+    "pages": 7,
+    "chars": 17604,
+    "file": "source/bus_raw/23_4.1.txt"
+  },
+  "24": {
+    "code": "4.2",
+    "unit": "Marketing",
+    "name": "Marketing planning",
+    "start": 233,
+    "end": 238,
+    "pages": 6,
+    "chars": 14132,
+    "file": "source/bus_raw/24_4.2.txt"
+  },
+  "25": {
+    "code": "4.3",
+    "unit": "Marketing",
+    "name": "Sales forecasting",
+    "start": 239,
+    "end": 245,
+    "pages": 7,
+    "chars": 10914,
+    "file": "source/bus_raw/25_4.3.txt"
+  },
+  "26": {
+    "code": "4.4",
+    "unit": "Marketing",
+    "name": "Market research",
+    "start": 246,
+    "end": 254,
+    "pages": 9,
+    "chars": 26129,
+    "file": "source/bus_raw/26_4.4.txt"
+  },
+  "27": {
+    "code": "4.5",
+    "unit": "Marketing",
+    "name": "The seven Ps of the marketing mix",
+    "start": 255,
+    "end": 277,
+    "pages": 23,
+    "chars": 57500,
+    "file": "source/bus_raw/27_4.5.txt"
+  },
+  "28": {
+    "code": "4.6",
+    "unit": "Marketing",
+    "name": "International marketing",
+    "start": 278,
+    "end": 282,
+    "pages": 5,
+    "chars": 10142,
+    "file": "source/bus_raw/28_4.6.txt"
+  },
+  "29": {
+    "code": "5.1",
+    "unit": "Operations management",
+    "name": "Introduction to operations management",
+    "start": 283,
+    "end": 284,
+    "pages": 2,
+    "chars": 4856,
+    "file": "source/bus_raw/29_5.1.txt"
+  },
+  "30": {
+    "code": "5.2",
+    "unit": "Operations management",
+    "name": "Operations methods",
+    "start": 285,
+    "end": 290,
+    "pages": 6,
+    "chars": 14720,
+    "file": "source/bus_raw/30_5.2.txt"
+  },
+  "31": {
+    "code": "5.3",
+    "unit": "Operations management",
+    "name": "Lean production and quality management",
+    "start": 291,
+    "end": 300,
+    "pages": 10,
+    "chars": 27143,
+    "file": "source/bus_raw/31_5.3.txt"
+  },
+  "32": {
+    "code": "5.4",
+    "unit": "Operations management",
+    "name": "Location",
+    "start": 301,
+    "end": 308,
+    "pages": 8,
+    "chars": 21023,
+    "file": "source/bus_raw/32_5.4.txt"
+  },
+  "33": {
+    "code": "5.5",
+    "unit": "Operations management",
+    "name": "Break-even analysis",
+    "start": 309,
+    "end": 321,
+    "pages": 13,
+    "chars": 26699,
+    "file": "source/bus_raw/33_5.5.txt"
+  },
+  "34": {
+    "code": "5.6",
+    "unit": "Operations management",
+    "name": "Production planning",
+    "start": 322,
+    "end": 330,
+    "pages": 9,
+    "chars": 23504,
+    "file": "source/bus_raw/34_5.6.txt"
+  },
+  "35": {
+    "code": "5.7",
+    "unit": "Operations management",
+    "name": "Crisis management and contingency planning",
+    "start": 331,
+    "end": 336,
+    "pages": 6,
+    "chars": 13415,
+    "file": "source/bus_raw/35_5.7.txt"
+  },
+  "36": {
+    "code": "5.8",
+    "unit": "Operations management",
+    "name": "Research and development",
+    "start": 337,
+    "end": 345,
+    "pages": 9,
+    "chars": 21264,
+    "file": "source/bus_raw/36_5.8.txt"
+  },
+  "37": {
+    "code": "5.9",
+    "unit": "Operations management",
+    "name": "Management information systems",
+    "start": 346,
+    "end": 362,
+    "pages": 17,
+    "chars": 44828,
+    "file": "source/bus_raw/37_5.9.txt"
+  }
+}

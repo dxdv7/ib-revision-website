@@ -1,0 +1,479 @@
+5.6 Production planning 
+| Leamingoutomes 
+Learning outcomes 
+At the end of this unit, you will be able to: 
++ 
+explain what the local and global supply chain may look like for an organization 
+* 
+contrast just-in-time (JIT) and just-in-case (JIC) production planning methods 
++ 
+analyze a stock control chart, and label lead time, buffer stock, reorder level, and 
+reorder quantity 
+* 
+calculate and comment on the capacity utilization rate of an organization 
+* 
+calculate and comment on the labor productivity, capital productivity, 
+productivity rate, and operating leverage of an organization 
++ 
+evaluate a cost to buy (CTB) and cost to make (CTM) decision for an organization. 
+With the increasing complexity of the manufacturing industry due to the diversity 
+of products and services created in a globalized world, it has become ever more 
+competitive. Material requirements planning, supply chain management, inventory 
+control, employees, and physical space where the manufacturing happens need due 
+consideration, requiring companies to carry out thorough production planning. 
+Production planning describes the process of deciding how a product or service will be 
+manufactured before the actual production commences. 
+Supply chains 
+A supply chain is the network of all the individuals, organizations, resources, activities, 
+and technology involved in the creation and sale of a product. A supply chain 
+encompasses everything from the delivery of raw materials from the supplier to the 
+manufacturer through to its eventual delivery to the end consumer. 
+When it comes to developing the supply chain, a business has the option to stay local 
+or look globally. 
+Local 
+Local sourcing refers to the sourcing of products or materials from suppliers within 
+the home country. 
+Sourcing local can often come at a higher price than if the business were to look 
+globally. However, local sourcing can be easier and faster. If the business needs a quick 
+turnaround, it might make sense to source from a local supplier who can produce 
+products and deliver within a certain timeframe, rather than taking shipping times 
+into account. For example, a UK boat builder may source locally grown timber for the 
+carpentry aspects of the build as it is readily available nearby, with a short delivery time. 
+There is an argument that more businesses should support their local economy by 
+sourcing products and services from local suppliers; however, the reality is that this isn’t 
+always possible. Each country has its own resources and expertise and to advance in 
+business, it’s important to source products from high-quality and reliable suppliers, even 
+if they are based overseas. Trying to source locally when the country is not as skilled in 
+developing the products the business needs can cause a competitive disadvantage. 
+287
+
+288 
+Operations management 
+Global 
+Global sourcing refers to the practice of sourcing from the global supply chain for 
+raw materials, components, goods, and services across geopolitical boundaries. This 
+procurement strategy is something businesses all over the world use, as international 
+sourcing can help save businesses money by finding cost-effective locations to source 
+and manufacture goods. For example, a bathroom and plumbing showroom in France 
+may source bathroom fittings from The People’s Republic of China, where there are 
+major sanitary industry production bases in Guangdong, Fujian, and Zhejiang. 
+A regenerative supply chain is a concept that is becoming more prevalent in the 
+world of business. 
+The regenerative supply chain first accounts for its negative impacts such as carbon, 
+waste, and resources use. It then seeks to restore, replenish, and ultimately 
+regenerate more resources than it requires, resulting in a net benefit to people and 
+the planet. 
+Conduct some research into this concept. What examples can you find of this 
+approach in practice? 
+Just-in-time and just-in-case 
+There are two key approaches to stock control for an organization. Just-in-time is 
+considered the newer of the two (appearing after World War 1I), whereas just-in-case is 
+seen as the more traditional approach. 
+Just-in-time (JIT) 
+The central idea with JIT stock management is that companies order products 
+and stock to meet customer demand. Stock levels are intended to mirror actual 
+consumption levels to minimize waste. By only ordering necessary stock the business 
+benefits from low storage costs, allowing it to invest capital into other areas of the 
+business. For this to work, there must be an issue-free supply chain, supported by 
+accurate demand forecasting. 
+Advantages of JIT 
+* 
+Itreduces costs in production by reducing the need for storage or warehousing. As 
+the exact amount of materials needed for the immediate production schedule are 
+ordered, expenditure is optimized. 
+ Shorter production runs can be implemented as production is based on current 
+demand. This also helps to maximize production capacity. 
+* Output is based on projected demand: this reduces the issues of excess and unsold 
+products in the market, again reducing storage and carrying costs. 
+Disadvantages of JIT 
+ Accurate demand forecasting is not easy. Businesses need to have strong 
+capabilities in analyzing and forming conclusions around market trends, 
+dcvclopmcnts in relevant industries and sectors, and gauging consumer sentiment. 
+* Asthe global supply chain has become ever more interconnected, any problems 
+in the supply chain can create knock-on impacts at subsequent stages, leaving a 
+business vulnerable to delays and missed orders.
+
+Just-in-case (JIC) 
+Adopting a JIC stock management system means a more cautious approach compared 
+to JIT. With JIC, businesses build up a buffer or safety stock of items, so that they can 
+quickly respond to unexpected demand surges. The business still needs to anticipate 
+demand but will add on extra quantities ‘just-in-case’. A JIC approach works well 
+where demand is volatile or if there is supply chain disruption. 
+Advantages of JIC 
+* The additional stock can be used to meet any unexpected demand surges or 
+mitigate supply chain disruption, such as increased delivery times or suppliers that 
+have run out of certain stocks (known as a stockout). 
+* 
+Having the right stock available could be more profitable in the long run. It can generate 
+more sales and gain a competitive advantage if competitors hit a stock out. These additional 
+sales could balance the increase in carrying costs and capital invested in buffer stock. 
+* 
+Being able to respond to market changes quickly due to additional safety stock puts 
+a business in a strong position to facilitate growth. 
+Disadvantages of JIC 
+» 
+Carrying safety stock or increasing safety stock levels impacts carrying costs. For 
+example, more stock takes up warehouse space, increases storage costs, and ties up 
+capital that could be used elsewhere. 
+« 
+Stock with low turnover could date and become obsolete. This can mean either 
+destroying it or selling it at a heavy discount. 
+Stock control charts 
+Stock control charts are an important aspect of inventory management and figure heavily 
+with businesses that adopt a JIC approach. The overall goal of stock control is to maintain 
+inventory levels at a point where the total costs of holding stocks are minimized. 
+A stock control chart provides a visual representation of a firm’s inventory levels. This 
+tool is used to monitor and analyze the rate at which stocks are used, when they need to 
+be replenished, the distribution time, and delivery expectations. By using a stock control 
+chart, an operations department can make better decisions on how to manage stock levels. 
+--------- Maximum stock level 
+= 
+Order 
+% 
+quantity 
+% 
+BT 
+Re-order level 
+8 
+) 
+LT R 
+e 
+e e Minimum stock level 
+Lead | 
+Buffer 
+0 
+‘time! 
+stock 
+0 
+Month 1 
+Month2 
+ Month 3 
+Time 
+The main features of a stock control chart (such as that in Figure 5.14) are: 
+« Maximum stock level: This represents the maximum amount of stock the 
+business wants to hold at any point in time, usually based on the capacity of its 
+storage facilities. In Figure 5.14, the maximum stock level is 600 units. 
+«f Figure5.14 Atypical stock 
+control chart 
+289
+
+290 
+Operations management 
+»  Minimum stock level: This is the minimum amount of stock the business aims to 
+always maintain. 
+» Buffer stock: This is the stock available to use in case of an unexpected increase in 
+demand from customers or counteract supply shocks that may cause late deliveries 
+from suppliers. In Figure 5.14, there is buffer stock of 100 units. 
+* Reorder level: This corresponds to the level of inventory reached that then 
+triggers a reorder. 
+* Reorder quantity: This is the amount of new stock ordered for production. In 
+Figure 5.14, the reorder quantity is 500 units. 
+* Lead time: This represents the time it takes from the placing of a stock order to 
+receiving the delivery to the place of business. In Figure 5.14, the lead time is one week. 
+» Usage rate: This is the speed at which stocks are used in the production process. 
+In Figure 5.14, the usage rate for the business is 250 units every two weeks. 
+Capacity utilization rate 
+The capacity utilization rate measures the extent to which the business is realizing its 
+potential output capacity. The figure is expressed as a percentage and can be calculated 
+using this formula: 
+actual output 
+Capacity utilization = 
+x 100 
+potential output 
+Let’s take an example of a small factory producing e-scooters. The factory size and 
+production set up allows the manufacturer to produce 8,000 e-scooters per month. 
+Currently, the factory output is 2,500 e-scooters per month. We can work out the 
+capacity utilization using the formula above. 
+g 
+g 
+500 
+Capacity utilization = it 100 
+=0.3125 x 100 
+=31.25% 
+Excess or spare capacity is when a firm’s output is below the maximum possible 
+output, such in the example above. This can represent a waste of resources as the 
+organization is spending unnecessarily on its fixed assets. 
+A sensible capacity utilization target is 90 per cent: resources are being used more 
+fully, while the business still has the flexibility to have machine downtime and 
+maintenance, and to meet sudden increases in demand. 
+Conversely, a capacity shortage is when a firm’s capacity is not large enough to deal 
+with the level of demand for its products. This can lead to disappointed customers 
+through delays and loss of sales to competitors. 
+Defect rate 
+Tracking the number of defective products produced helps a business to determine 
+the financial losses these defects cause. In addition, tracking this helps businesses to 
+measure the overall quality of each product and the production process. 
+The defect rate is a measurement of how many units of production are defective out of 
+a specific number of observed units. It can be calculated using this formula: 
+Defect rate :ﬂ 
+% 100 
+output tested
+
+Let’s take an example of a business producing scented candles. The candle business 
+may decide to calculate the defect rate in its next production run of 1,500 scented 
+candles. After the production run, 18 candles were defective. Using the defect rate 
+formula, we can calculate the defect rate as below: 
+18 
+Defect rate = 
+x 100 
+1500 
+=0.012 x 100 
+=1.2% 
+While lower rates are ideal, there’s no standard acceptable defect rate across industries. 
+So companies must decide what their target defect rate is. 
+Defect rate is important because it helps businesses determine how many units per output 
+fail quality testing. This can help a business identify any problems in quality testing or 
+production, and determine how much each defect costs. Companies can also compare 
+defect rates among similar or different products to determine product profitability. 
+Productivity and leverage 
+Productivity refers to how well an organization converts input (such as labor, 
+materials, machinery, and capital) into output (goods and services). There are several 
+productivity measures that a business can calculate. 
+Labor productivity 
+Labor productivity is the measure of how much output is produced per unit of labor 
+input. It can be calculated using the following formula: 
+output per period (units 
+Labor productivity = 
+utput 
+penpetiod 
+furits) 
+number of employees at work 
+Let’s take an example of a pottery business. If the pottery firm produces 2,700 terracotta 
+pots per week and it employs 15 people, the labor productivity rate would be: 
+Labor productivity = 2700 
+= 180 units per worker per week 
+IB learner profile 
+; 
+e 
+Caring 
+Capltal prOdUCtNIty 
+Labor productivity is a key 
+Capital productivity is a measure of how well physical capital is used in the provision 
+efficiency measure for a 
+of goods and services. Physical capital includes office equipment, labor materials, 
+Lol 
+I s 
+workplaces this figure is 
+communicated in real time to 
+employees. Some employees 
+under these conditions have 
+warehouse supplies, and transportation equipment, such as cars and trucks. 
+Capital productivity is calculated using the following formula: 
+voiced their concerns on how a 
+Capital productivity _ total output 
+con.stant reminder impacts on 
+capital input 
+their wellbeing. 
+To what extent does knowledge 
+A higher capital productivity number shows that physical capital is being used 
+of real time labor productivity 
+efficiently in the creation of goods and services while a lower capital productivity 
+TS CTEdte @ Positive 
+workplace environment? 
+291 
+number shows the opposite.
+
+Operations management 
+Productivity rate 
+The productivity rate, therefore, measures the amount of output from each unit of 
+input. The formula used is as follows: 
+i 
+total output 
+Productivity rate = ——— 
+total input 
+Operating leverage 
+Operating leverage measures a company’s fixed costs as a percentage of its total costs. 
+It is used to evaluate the break-even point of a business, as well as the likely profit levels 
+on individual sales. Let's look at two scenarios: one where an organization has high 
+operating leverage, and another where it has low operating leverage. 
+A web design company has substantial fixed costs in the form of web developer 
+salaries but almost no variable costs associated with each incremental software sale. 
+This means the business has a high operating leverage. 
+A business consulting firm charges its clients on an hourly basis. This incurs variable 
+costs in the form of consultant wages. This firm has low operating leverage. 
+Operating average can be calculated using the same data as break-even analysis: selling 
+price, variable costs per unit, and fixed costs. Operating leverage can be calculated by 
+using this formula: 
+quantity x (price — variable cost per unit) 
+Operating leverage = 
+P 
+g 
+g 
+quantity x (price 
+— variable cost per unit) — fixed costs 
+For example, Alaskan Barrel Company (ABC) has the following data: 
+Variable costs = $30,000 
+Fixed costs = $60,000 
+Quantity of barrels produced = 1,000 
+Price per barrel = $100 
+With this data we can calculate the operating leverage for ABC: 
+: 
+. 
+$30000 
+Variable cost per unit = =000 
+= $30 
+1000 
+x $70 
+(1000 x $70) — $60000 
+$70000 
+"~ $70000— $60000 
+_ $70000 
+$10000 
+=7 
+Operating leverage = 
+292
+
+Table 5.11 shows the financial results for ABC. 
+Table 5.11 The financial results for ABC ($) 
+Revenue 
+100 000 
+Variable costs 
+30 000 
+Fixed costs 
+60 000 
+Net operating income 
+10000 
+ABC has a contribution margin of 70 per cent and net operating income of $10,000, 
+which gives it a degree of operating leverage of 7. ABC’s sales then increase by 20 per 
+cent, resulting in the results in Table 5.12. 
+Table 5.12 ABC'’s financial results after a 20 per cent increase in sales 
+Revenue 
+120 000 
+Variable costs 
+36 000 
+Fixed costs 
+60 000 
+Net operating income 
+24000 
+The contribution margin of 70 per cent has stayed the same, and fixed costs have not 
+changed. Because of ABC’s high degree of operating leverage, the 20 per cent increase 
+in sales translates into a more than doubling of its net operating income. 
+High operating leverage 
+In a high operating leverage situation, a large proportion of a company’s costs are fixed 
+costs. In this case, the firm earns a large profit on each incremental sale but must attain 
+sufficient sales volume to cover its substantial fixed costs. If it can do so, the entity will 
+earn a major profit on all sales after it has covered its fixed costs. However, earnings 
+will be more sensitive to changes in sales volume. 
+For example, software companies have high fixed costs in terms of labor and capital 
+equipment, and low variable costs. The major input in the production of software is skilled 
+labor such as software and graphic designers. Thus, any increase in sales of software 
+products will lead to high earnings and profits provided that fixed costs have been covered. 
+Low operating leverage 
+In a low operating leverage situation, a large proportion of a company’s sales are 
+variable costs, so it only incurs these costs when there is a sale. In this case, the firm 
+earns a smaller profit on each incremental sale but does not have to generate much sales 
+volume to cover its lower fixed costs. It is easier for this type of company to earn a profit 
+at low sales levels, but it does not earn outsized profits if it can generate additional sales. 
+For example, supermarkets have low fixed costs to cover but high variable costs. Any 
+increase in sales results in an increase in variable costs and not much increase in profits. 
+How to use operating leverage 
+When using the operating leverage measurement, constant monitoring of operating 
+leverage is more important for a firm having high operating leverage, since a small 
+percentage change in sales can result in a dramatic increase (or decrease) in profits. 
+A firm must be especially careful to forecast its sales in these situations, since a small 
+forecasting error translates into much larger errors in both net income and cash flows. 
+& 
+Supermarkets have high 
+variable costs, with food prices 
+being sensitive to external 
+factors 
+293
+
+294 
+Operations management 
+Knowledge of the level of operating leverage can have a profound impact on pricing 
+policy, since a company with high operating leverage must be careful not to set its prices 
+so low that it can never generate enough contribution margin to fully offset its fixed costs. 
+Cost to buy and cost to make 
+A business may need to decide whether it should produce goods itself 
+or buy those 
+goods in. The results can influence the decision of whether to outsource production. It 
+would not make sense for a business to produce a good if it can buy the same product 
+for a lower price, and vice versa. 
+The business will need to carry out cost to buy (CTB) and cost to make (CTM) 
+calculations, using the following formulae: 
+CTB = price x quantity 
+CTM = fixed costs + (average variable costs x quantity) 
+Let’s take an example of 
+a camping and leisure business. Imagine the business is 
+faced with a make or buy decision in relation to 5,000 camping chairs. They have the 
+following financial information available: 
+Costs to make themselves: 
+Direct materials per chair = $4 
+Direct labor = $3 
+Variable factory overhead = $2 
+Fixed factory overhead = $15,000 
+CTM = $15000 + [($4 
++ $3 + $2) x 5000] 
+= $15000 + ($9 x 5000) 
+= $60000 
+Costs to buy from supplier: 
+Price per chair = $11 
+CTB = $11 x 5000 
+= $55000 
+However, outside of the financial calculations that indicate whether the business 
+should opt for CTM or CTB results, it may also consider additional factors before 
+taking the final decision. These may include: 
+¢ 
+the quality of the finished product from both options 
+» 
+the impact on capacity utilization and ability to meet surges in demand 
+* 
+the reliability of suppliers 
+» exchange rate movements if sourcing goods from a country with a different currency. 
+Some qualitative aspects can influence the decision to buy or to make. Businesses may 
+opt to make the product or component themselves due to the following factors: 
+* A business maintains control over quality and costs if it owns production facilities 
+along the supply chain, such as a coffee shop that has integrated with an organic 
+coffee producer through a merger. In this case, the coffee shop has control over the 
+quality and costs of coffee production.
+
+» 
+In many cases, businesses will choose to produce themselves instead of 
+buying from suppliers to protect intellectual property, such as new technology 
+development. For example, if a producer has developed a product that does not 
+exist and is innovative, the producer will prefer to make it. 
+» 
+Social enterprises or businesses with strong corporate social responsibilities might 
+choose to produce the product in case they cannot source suppliers committed 
+to the same principles. For them the costs to make will not be a priority as they 
+have different objectives, such as social welfare and supporting regenerative 
+supply chains. 
+Businesses might choose to buy the product or component due to the following 
+factors: 
+« 
+If the business does not have the expertise to make the product but other 
+businesses do, it will make sense to buy the product instead of trying to make it. 
+o 
+If the costs to make a product require huge capital investment, then businesses 
+will opt for buying the product rather than making it. 
+» A company may have been successfully producing a similar or the same product 
+for a long time and has an established reputation on the market. Thus, it will make 
+business sense to decide to buy the product and establish a long-term relationship 
+with that company instead of trying to make the product. 
+Case study - The Morgan Motor Company 
+The Morgan Motor Company provides a fitting antidote to mass-produced 
+automotive manufacturing, bringing with it an exceptional mix of traditional 
+craftsmanship and appropriate modern technology. 
+Famous the world over for its unique blend of craft, heritage and pure driving 
+experience, the Morgan Motor Company has been manufacturing quintessentially 
+British vehicles in Malvern, UK, for more than 110 years. 
+With a team of 250 employees, each Morgan is hand crafted using three core 
+elements: ash, aluminium and leather. Every car is entirely unique, built to the 
+highest standards by passionate craftspeople, whose skills are handed down 
+through generations and perfected over a lifetime, bringing together heritage, 
+innovation and cutting-edge technology. 
+Today, Morgan builds around 800 cars per year. There is still an unprecedented demand 
+to own a new Morgan and this results in waiting lists for the cars. A six to twelve month 
+waiting list is not uncommon; sometimes this can run to a couple of years. 
+The factory has the capacity to produce 900 cars per year but an opportunity to 
+expand the size of the factory could be an option. Purchasing the adjoining land to 
+the current premises would allow the factory to accommodate the potential to build 
+1,400 cars per year. 
+The Morgan Motor Company also has a successful range of merchandise that fans of 
+the brand can purchase, including t-shirts, caps, scarves, jackets, sweatshirts and 
+beanies. Due to successful sales, it is now re-evaluating whether it should continue 
+to buy branded products from a supplier or bring the production in-house. The 
+details for the popular Morgan branded t-shirts are on the following page. 
+295
+

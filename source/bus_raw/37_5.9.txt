@@ -1,0 +1,914 @@
+5.9 Management information systems 
+Learning outcomes 
+At the end of this section, you will be able to: 
+* 
+define the term ‘management information system’ 
++ 
+outline what is meant by data analytics, databases, cybersecurity, and 
+cybercrime 
+* 
+suggest ways in which VR, Al, internet of things, and big data can be used by 
+businesses 
++ compare and contrast a range of customer loyalty programs 
++ 
+evaluate the use of data to manage and monitor employees 
++ examine the use of advanced computer technologies and technological 
+innovation on business decision-making and stakeholders. 
+What is a management information system? 
+Management information systems (MIS) are tools used to support business processes, 
+operations, intelligence, and technology. MIS are designed to move data and manage 
+information; in turn, data-driven reports are produced that help businesses make the 
+right decisions at the right time. 
+MIS categories 
+There are now many specialized MIS available to businesses. 
+* 
+Executive information system (EIS): Senior management use an EIS to make 
+decisions that affect the entire organization. Executives need high-level data with 
+the ability to go into the details as necessary. 
+* Marketing information system (MKIS): A marketing team uses a MKIS to report 
+on the effectiveness of past and current campaigns, and to use the lessons learned 
+to plan future campaigns. 
+* 
+Business intelligence system (BIS): Operations use a BIS to make business 
+decisions based on the collection, integration, and analysis of the collected data 
+and information. This system is like an EIS, but both lower-level managers and 
+executives use it. 
+* 
+Customer relationship management system (CRM): A CRM system stores key 
+information about customers, including previous sales, contact information, and 
+sales opportunities. Marketing, customer service, sales, and business development 
+teams often use a CRM. 
+311
+
+Operations management 
+A CRM can record a variety 
+28 
+Customer 
+Monitoring 
+of information about each 
+customer and their 
+transactions 
+Promation 
+Support 
+SAAS 
+PP 
+Interaction 
+Payment 
+* 
+Sales force automation system (SFA): This is a specialized component of a 
+CRM system that automates many tasks that a sales team performs. It can include 
+contact management, lead tracking and generation, and order management. 
+ Transaction processing system (TPS): A TPS completes a sale and manages 
+related details. On a basic level, a TPS could be a point of sale (POS) system, or a 
+system that allows a traveler to search for a hotel and include room options, such 
+as price range, the type and number of beds, or a swimming pool, and then select 
+and book it. Employees can use the data created to report on usage trends and track 
+sales over time. 
+» Knowledge management system (KMS): Customer service departments can use 
+a KMS to answer questions and troubleshoot problems. 
+* 
+Financial accounting system (FAS): This MIS is specific to departments dealing 
+with finances and accounting, such as accounts payable and accounts receivable. 
+* Human resource management system (HRMS): This system tracks employee 
+performance records and payroll data. 
+* Supply chain management system (SCM): Manufacturing companies use SCMs 
+to track the flow of resources, materials, and services from purchase until final 
+products are shipped. 
+Data analytics 
+Many businesses collect vast amounts of data every day but, in their raw form, these 
+data don’t mean anything. This is where the role of data analytics comes in. Data 
+analytics is the process of analyzing raw data to draw out meaningful, actionable 
+insights, which are then used to inform and drive smart business decisions. 
+A data analyst will extract raw data, organize it, and then analyze it, transforming 
+it from incomprehensible numbers into coherent, intelligible information. Having 
+interpreted the data, the data analyst will then pass on their findings in the form of 
+suggestions or recommendations about what the company’s next steps should be. 
+312
+
+Businesses need to be aware of the ethical concerns surrounding data collection and 
+how that information can be used. For example, insurance companies collecting data 
+about customers may result in higher insurance premiums. 
+The General Data Protection Regulation (GDPR) is the toughest privacy and 
+security law in the world. Although it was drafted and passed by the European 
+Union (EU), it imposes obligations onto organizations anywhere if they target or 
+collect data related to people in the EU. The regulation came into effect on 25 May 
+2018. The GDPR levies harsh fines against those who violate its 
+privacy and security standards, with penalties reaching into the 
+- 
+tens of millions of euros. 
+E 
+q 
+' 
+Visit the GDPR website. 
+How has the introduction of GDPR impacted the way 
+businesses gather and use the data they hold about customers? 
+Databases 
+A database refers to a collection of logically related information organized so that it can be 
+easily accessible, managed, and updated. Databases are generally accessed electronically 
+from a computer system and are usually controlled by a database management system. 
+The database administrator is the individual responsible for managing a business’ 
+databases, including database security, access control, backup, and disaster recovery. 
+Cybersecurity and cybercrime 
+For each kind of crime in the analog world, there is an equivalent in the digital world. 
+For instance, theft of property or identity can occur digitally. Hostage taking, ransom 
+holding, attacks on critical infrastructure — these crimes in the physical world have a 
+cybercrime equivalent in the virtual world. 
+There are several ways that cybercrime can hinder businesses. 
+Increased costs 
+To protect themselves, firms may incur any number of costs, including: 
+« 
+cybersecurity technology and expertise 
+ notifying affected parties of 
+a breach 
+* 
+insurance premiums 
+* 
+public relations support 
+* 
+hiring legal experts to remain compliant with cybersecurity regulations. 
+Hiscox, a well-known insurance company, reported that 6 per cent of companies paid 
+a ransom in 2019 because of ransomware attacks, totaling $381 million in losses. 
+In addition, if customers decide to sue a business as a result of their data being 
+compromised following a cyberattack, the business may have to pay damages as an 
+outcome of such civil action. 
+How might the methods 
+used in R&D be limited by 
+ethical considerations? 
+313
+
+Because of the digitization 
+of society, there is an 
+increasing reliance on 
+technology. Everything 
+from public transportation 
+to utilities uses automation 
+and networked systems 
+to keep it functioning; 
+even roads and bridges 
+have sensors. In an 
+interconnected and 
+digitally enabled world, 
+everything needs to be 
+secured. 
+The 2022 (ISC)? 
+Cybersecurity Workforce 
+Study found that 3.4 
+million more cybersecurity 
+professionals are needed 
+globally. The number of 
+new ransomware variants 
+identified in the first half 
+of 2022 increased by 
+nearly 100% compared to 
+the previous six-month 
+period. According to one 
+estimate, the global cost 
+of cybercrime will grow 
+from $8.44 trillion in 2022 
+to $23.84 trillion in 2027. 
+The Organisation for 
+Economic Co-operation 
+and Development 
+{OECD) estimates that 
+technological advances 
+will transform one billion 
+jobs in the coming 
+decade. Cybersecurity 
+workers are sought 
+after, and the field is 
+continually evolving, 
+S0 organizations must 
+provide continuing 
+education and career 
+growth opportunities. 
+As society become 
+more dependent an 
+technology, cybersecurity 
+becomes critical to 
+ensuring a sustainable 
+future, which could help 
+to change the world for 
+the better. 
+314 
+Operations management 
+Operational disruption 
+Cybercriminals can use multiple ways to disrupt a company’s normal activities, 
+from infecting computer systems with malware that erases high value information, 
+to installing malicious code on a server that blocks staff 
+or customer access to the 
+business’ website. 
+Disrupting business as usual is the favored tool of so-called ‘hacktivists’, who also 
+breach the computer systems of government agencies or multinational corporations to 
+call out a perceived wrong or increase transparency. 
+Altered business practices 
+Companies must think about how they collect and store information to ensure 
+that sensitive information isn’t vulnerable. Many companies have stopped storing 
+customers’ financial and personal information such as credit card numbers. 
+Customers are increasingly concerned with knowing how the businesses they deal 
+with handle security issues. Having clear security protocols in place can increase the 
+likelihood of customers frequenting a company’s website and going on to make a 
+purchase. 
+Reputational damage 
+Companies that fall victim to larger cyberattacks risk their brand equity and reputation 
+becoming tarnished. Trust in the business from both customers and suppliers can be 
+difficult to regain when technological infrastructure has been compromised. 
+In 2014, criminals compromised the data of JPMorgan Chase’s banking customers. 
+Hackers gained access to the names, addresses, phone numbers, and email addresses of 
+76 million household accounts and 7 million small business accounts. 
+In addition to reduced trust, it has been found that the share prices of compromised 
+companies fell an average of 3.5 per cent following an attack. 
+Lost revenue 
+As aresult of a cyberattack, businesses may experience a sudden drop in revenue, as 
+customers move elsewhere to protect themselves against cybercrime. Companies can 
+also lose money to hackers who extort their victims. 
+Stolen intellectual property 
+A company’s product designs, technologies, and go-to-market strategies are often 
+amonyg its most valuable assets. Much of this intellectual property is stored in the 
+cloud (which is explained in more detail later in this section), where it’s vulnerable to 
+cyberattacks. 
+There have been increasing numbers of high-profile cyberattacks on businesses 
+as organized crime groups become ever more sophisticated with their hacking 
+techniques.
+
+Research cyberattacks on businesses that have made the news in the past year. 
+Think about: 
+* To what degree was the business and its customer base affected? 
+* How did this impact the reputation of the business? 
+* How much did the cyberattack cost the business? 
+* What steps has the business taken to prevent future cyberattacks? 
+Critical infrastructures 
+For 
+a business to run an MIS, it needs to ensure that it has critical infrastructures in 
+place. 
+Artificial neural network 
+An artificial neural network (ANN) is an attempt to replicate the brain’s network of 
+neurons so that the computer may learn and make judgments in a human-like manner. 
+They are computational models, or algorithms. 
+Neural networks are the new, smarter way of identifying hidden patterns within data 
+sets and making predictions based on them. Neural networks have a vast array of 
+business applications and have been helping businesses in automating tasks that were 
+previously done manually. 
+Marketing and eCommerce 
+The recent rise of ‘big data’ makes ANNs highly useful for marketing. Marketers can 
+use these tools to find and reach customers more effectively, which benefits them in 
+the following ways: 
+» consumer behavior predictions 
+* 
+creating and understanding the more complex buyer segments 
+* 
+automating marketing 
+* 
+creating content. 
+These tools, given enough data, can deliver more precise insights and predictions, 
+allowing marketers to make better strategic decisions. 
+An example of this is the personalization of product recommendations in online 
+stores, such as Amazon. The system analyzes the user’s past behavior, purchases, 
+what similar products they've viewed for more directed recommendations, and other 
+actions, to provide a more comprehensive marketing strategy. 
+Retail and sales 
+By using ANNG, retail and sales-driven companies can engage in: 
+» Demand forecasting: This identifies when consumers will require a product or 
+service, and how to provide continuous product availability and on-time deliveries. 
+« 
+Sales forecasting: This identifies when and what a customer is most likely to buy. 
+As aresult, businesses can identify and understand the factors that contribute to 
+higher sales in retail stores, as well as estimate future sales numbers. 
+315
+
+316 
+Operations management 
+Finance and banking 
+Neural networks can also be applied to automate processes in banking and finance. 
+Among other things, ANNs can be used to: 
+» 
+predict future exchange rate fluctuations 
+ predict business failures 
+* 
+assess debt risk 
+» approve credit 
+* approve mortgages 
+* 
+detect fraud. 
+Citibank has set up a neural network that aims to detect fraudulent transactions on 
+credit cards. 
+Security 
+ANNSs can be used to: 
+» 
+detect fraud 
+* 
+detect and prevent malware and viruses 
+* 
+prioritize alerts to send to the relevant people 
+* 
+detect spam 
+* moderate content 
++ 
+detect distributed denial of service (DDoS) attacks. 
+A system set up to detect DDoS attacks can watch out for patterns such as many requests 
+coming from a single IP address, or many requests at once from random IP addresses. 
+Insurance 
+[nsurance companies make use of neural networks to forecast future loss ratios and 
+adjust premiums, helping to increase their profit margin. 
+Some uses of neural networks in insurance include: 
+* 
+the forecasting of future loss ratios and premiums 
+* 
+adjusting future premiums 
+* detecting fraudulent claims. 
+The insurance company Allstate uses neural networks to pick out ‘accident-prone’ 
+drivers and give them an appropriate rate. 
+Logistics 
+Neural networks are used in logistics to help with everything from packaging to shipping. 
+Neural networks can: 
+* 
+help package products 
+* be used in routing to help determine the best route for a truck driver 
+» 
+identify defects in the production line 
+* be used in dispatching to help with the packaging of items for transportation 
+* balance out an assembly line by assigning jobs to workers based on their skill sets.
+
+Data centers 
+A data center is a facility composed of networked computers, storage systems, 
+and computing infrastructure that organizations use to assemble, process, store, 
+and disseminate large amounts of data. A business typically relies heavily on the 
+applications, services, and data contained within a data center, making it a critical asset 
+for everyday operations. 
+Case study - Volkswagen 
+Volkswagen (VW) Group has announced the aim 
+of making its data center operations net carbon- 
+neutral by 2027. 
+To achieve this goal, the group has expanded 
+its computing capacities at Green Mountain, a 
+Norwegian operator of CO>-neutral data centers. 
+With this expansion, one quarter of VW's global data center operations will run 
+carbon-neutrally, the company says. This corresponds to annual CO, savings of 
+10,000 tons. 
+If VW achieves the goal for its data centers to be net carbon-neutral by 2027, this 
+would be three years earlier than foreseen in the European Green Deal, under which 
+European data center operators agreed to make their data centers climate-neutral 
+by 2030. 
+All servers at Green Mountain run on 100 per cent renewable electricity generated 
+by hydropower and are cooled naturally by the adjacent fjord. 
+‘Given the rising demand for computing power and data storage to enable 
+Volkswagen Group’s NEW AUTO strategy, a sustainable IT roadmap with 
+ambitious goals is paramount to systematically reduce our carbon footprint. With 
+data centers being the biggest contributor of carbon emissions in IT, expanding our 
+computing capacity at Green Mountain is a strong lever to make our data center 
+operations carbon-neutral by 2027 
+‘We appreciate the renewed trust Volkswagen has placed in us and are pleased to 
+support them on their journey toward full carbon-neutrality, said Tor Kristian 
+Gyland, CEO of Green Mountain. ‘Together we share the same vision of a more 
+sustainable future.’ 
+For the new site at SVG1-Rennesay, Green Mountain converted a former high- 
+security NATO ammunition storage facility into a unique 22,600 m? high-security 
+mountain hall colocation data center. The infrastructure has been designed to 
+be expanded up to 2 x 26MW, with Volkswagen using 3MW of capacity. For the 
+cooling, which in traditional data centers accounts for 40 to 80 per cent of the 
+electricity required to power the servers, SVG1-Rennesoy takes advantage of the 
+adjacent deep-water fjord. The fjord is 100 meters deep, at which depth there is a 
+constant water temperature of 8 degrees Celsius all year round. 
+Conceptual understanding: 
+Sustainability 
+As the world becomes 
+increasingly digital, data centers 
+and data transmission networks 
+are using more and more energy. 
+According to the International 
+Energy Agency (IEA), data centers 
+used between 1 per cent and 
+1.5 per cent of global electricity 
+consumption in 2021. 
+317
+
+Companies that provide 
+cloud computing services 
+own and maintain server 
+rooms all over the world 
+318 
+Operations management 
+In Norway, 98.9 per cent of electricity production is renewable, with the majority 
+generated from hydropower. Hydropower has both a minimal carbon footprint 
+and a marginal ecological impact. The Norwegian government vigorously 
+promotes the utilization of power from renewable energy sources for new 
+branches of industry, for example, in climate-neutral data centers. Tax breaks, low 
+energy prices, and stable political conditions make Norway an ideal location for 
+green IT. 
+Volkswagen says it was the first automaker to commit to the Paris climate 
+agreement back in 2018. By 2050, the company aims to be net CO, neutral. 
+In its core business, the VW Group intends to achieve a 30 per cent CO, 
+reduction by 2030. Today, more than 90 per cent of Volkswagen’s external 
+power supply for its European manufacturing sites already comes from renewable 
+energies. 
+Define the term ‘data center’. 
+2 Explain two advantages to VW of locating its data centers at Green Mountain 
+in Norway. 
+3 Discuss possible reasons why a vehicle company, such as VW, needs huge 
+amounts of computing power and data storage for its business operations. 
+Cloud computing 
+Cloud computing is the delivery of IT resources over the Internet. It is often pay-as- 
+you-go, meaning that business don’t have to buy, own and maintain physical data 
+centers and servers. Instead, they can access a range of computing services, like 
+storage, and databases from cloud providers such as Amazon Web Services (AWS). 
+Organizations from a variety of industries and of different sizes are finding that the 
+cloud has a wide range of uses. A few of these include virtual desktops, software 
+development, disaster recovery, data backup and testing, big data analytics, and 
+customer-facing web applications. 
+Video game makers have grown exponentially through cloud computing; they use the 
+cloud to deliver online games to millions of players around the world. 
+Advantages of cloud computing include the following: 
+Agility 
+Easy access to a broad range of technologies means businesses can innovate faster and 
+build things that may previously have been unachievable. 
+Lower costs 
+The cloud allows businesses to trade fixed costs (such as data centers and physical 
+servers) for variable costs, and only pay for IT services as they consume them. The 
+variable costs are much lower due to economies of scale compared to what a business 
+would have to pay on their own.
+
+Near-instant global release 
+Businesses can expand to new geographic regions and deploy globally in minutes. 
+AWS has infrastructure all over the world; so businesses can deploy applications, as an 
+example, in many physical locations with just a few clicks. 
+Virtual reality 
+Virtual reality (VR) is a computer-generated virtual world that utilizes three- 
+dimensional (3D) imagery and interactivity to create a realistic, immersive 
+environment for the user. 
+The experience typically involves a headset and other interactive devices such as 
+gloves or handheld controllers to allow users to interact with the virtual environment. 
+o 
+. 
+\ 
+Increasingly affordable headsets are bringing VR closer to mainstream usage. 
+' 
+: 
+Combined with the ability to meet with users instantly from anywhere across the 
+globe, this trend could eventually see typical business processes shifting to a VR 
+environment, making it a powerful tool in business. 
+Open-minded 
+Being open-minded is a 
+. 
+) 
+willingness to try new things, or 
+Uses of VR in business 
+to consider 
+new ideas. In which 
+VR offers great potential in business particularly within training. The ability to create 
+sl 
+dee 
+might there be an opportunity 
+true-to-life immersive scenarios is a key advantage. VR has strong applications 
+for virtual reality to play 2 
+particularly within healthcare. With the ability to reset scenarios and correct mistakes, 
+bigger role? 
+VR provides surgeons with the opportunity to practice complex procedures. 
+VR can also be utilized within manufacturing industries such as food production with 
+the ability to simulate and test each stage of the process or the capabilities of different 
+machinery. VR enables businesses to understand how performance could be maximised 
+through experimenting with various conditions and parameters, in a less expensive way 
+than conducting tests in real life. This is also a much safer and quicker alternative. 
+The opportunities in marketing and customer service are also significant. VR provides the 
+opportunity to create an immersive experience for the launch and exhibition of products 
+and services. Customers could attend launch events of new products or test drive a new 
+car in a virtual scenario, all whilst remaining in their own home. Instead of interacting 
+with chatbots, customers could contact sales assistants in virtual environments which 
+could more closely match the experience of talking with a real person. 
+Despite these advantages, it is likely that customers will still want to trial and evaluate 
+physical products, particularly if they are large or expensive. Using VR may begin to 
+form a key part of marketing plans, but in the near future it is unlikely to become a 
+direct replacement for the real experience. 
+The internet of things 
+The internet of things (IoT) describes the network of physical objects — ‘things’— that 
+are embedded with sensors, software, and other technologies for the purpose of 
+connecting and exchanging data with other devices and systems over the internet. 
+These devices range from ordinary household objects to sophisticated industrial tools. 
+The number of IoT connected devices is predicted to grow to over 22 billion by 2025. 
+The agricultural sector 
+is embracing this technology to increase productivity and yield 
+levels. Figure 5.21 shows the ways in which a connected farm uses loT. 
+319
+
+320 
+Operations management 
+Data and information from every 
+source can be collected into one 
+central user-friendly platform. 
+Sensors implanted into the ground 
+will provide details on nutrient 
+levels, moisture and even weather 
+conditions. 
+Farm animals can be monitored 
+Driverless vehicles are already starting 
+with smart collars or implants. 
+to emerge on the market. As well as 
+Sensors can keep track of 
+being used for transportation, 
+movement, health, 
+machines could be used to automate 
+fertility and productivity. 
+fertilising, harvesting and weed control. 
+A 
+Figure5.21 The connected farm 
+The [oT is reinventing the automobile by enabling connected cars. With [oT, car owners 
+can operate their cars remotely by, for example, preheating the car before the driver gets 
+in it or by summoning it by phone. Given the IoT’s ability to enable device-to-device 
+communication, cars will soon be able to book their own service appointments. 
+The connected car allows car manufacturers or dealers to turn the car ownership 
+model on its head. Historically, the manufacturer’s relationship with the car ended 
+once it was sent to the dealer. With connected cars, automobile makers or dealers 
+can have a continuous relationship with their customers. 
+Conduct your own research into connected cars and produce a short report 
+detailing how [oT is changing the ownership experience for car consumers. 
+Artificial intelligence 
+As of 2021, 86 per cent of CEOs have said that artificial intelligence (Al) in business is a 
+mainstay in their offices. Adopting it will likely mean the difference between thriving 
+and surviving. Three key domains exist where Al is utilized in business. 
+* Automation: Manually repetitive tasks are almost obsolete. Employees can now 
+help to build the business by being able to focus on tasks that add real value.
+
+ Data analytics: Analytics allow organizations to mine data to gain insights into 
+repetitive patterns for better business outcomes. 
+» 
+Natural language processing (NLP): NLP helps search engines to be more 
+intuitive and makes chatbots, which are found on most sales sites, more insightful 
+and customer centric. 
+These various aspects have been adopted differently across different business contexts. 
+Sales and customer service 
+A report by Harvard Business Review says that companies using Al for sales can 
+grow leads by more than 50 per cent, reduce call time by 60-70 per cent, and costs by 
+40-60 per cent. 
+» Demand forecasting: Al can look at when and where client demand for products 
+is set to increase and determine ways to take advantage of those trends to boost 
+sales. 
+» Lead scoring: Al uses historical data to help businesses identify and prioritize 
+leads and convert more of those hot leads into sales. 
+« 
+Sales rep chat/email bot: Chatbots are said to improve sales by up to 67 per 
+cent. They can start the conversation by tailoring a message, making it simple for 
+customers to interact right away or come back later. 
+Finance 
+» 
+Personal finance: Al is helping institutions offer financial guidance via chatbots 
+for improved wealth management solutions. 
+« Consumer finance: Al helps banks reduce fraud as it can monitor transactions 
+and target irregularities in them to determine if they are legitimate or fraudulent. 
+ Corporate finance: Al can help lower loan risk by being able to assist 
+underwriters to better predict possible defaulters and the negative financial 
+implications. 
+Supply chain management 
+A 2021 McKinsey report stated that SCM solutions based on Al will assist 
+organizations in their desire to tackle the challenges of market volatility and the 
+environmental impact of supply chains. 
+Digital marketing 
+* 
+Online advertising: Al can determine which digital platform would be best suited 
+for marketing the business. 
+« 
+Personalized user experience: Al makes it possible to understand the likes 
+and dislikes, behavior patterns, and activities of millions of people every day to 
+improve the user experience and create improved and more profitable customer 
+relationships. 
+« Al-powered chatbots: Chatbots can answer multiple customer queries 
+simultaneously and that answer can be personalized to encourage users to buy 
+right there and then. 
+ Predictive analysis: Al can predict a customer’s future actions by studying their 
+past behavior and characteristics, allowing marketers to use the data to create 
+campaigns that attract more customers and convert them into paying 
+customers. 
+321
+
+IB learner profile 
+Knowledgeable 
+We have considered how 
+artificial intelligence is aiding 
+businesses across a range of 
+sectors and functional areas. 
+Now build up a picture of how 
+the use of artificial intelligence 
+is enriching the consumer 
+experience. 
+Create your own information 
+sheet on this topic that 
+develops your understanding 
+across a broad range of 
+consumer experiences. 
+322 
+Operations management 
+Content generation: Through processing several terabytes (TB) of data and 
+analyzing thousands of pieces of content, Al can create content that looks like a 
+human wrote it. 
+Email marketing campaigns: Al can help a business tailor its message using 
+behavior and preferences as a reference point. 
+Project management 
+Automate repetitive tasks: Gartner, a tech consulting and research company 
+based in the U.S., predicted that, in 2021, Al augmentation generated $2.9 trillion in 
+business value and recovered 6.2 billion hours of worker productivity. 
+Use historical data: Al can mine historical data and use it to perform calculations 
+and predictions and make the results more accurate and effective. 
+Perform risk modeling and analysis: If things change suddenly, Al can 
+demonstrate the possible impact using data on how those similar changes 
+impacted previous projects. 
+Increase decision-making speed: Al is programmed to follow only specific, rule- 
+based workflows. This means anything standing in the way of ‘on-time delivery’ of 
+a project can be quickly addressed. 
+Optimize resource scheduling and allocation: Figuring out who is available to 
+work on a project based on their current capacity can be time-consuming. Al can 
+now perform those tasks on its own. 
+Product design and development 
+24/7 development: Robots don't need to take breaks, which facilitates the rapid 
+expansion of production capabilities to meet worldwide evolving customer 
+demands. 
+Cost reduction: Leveraging Al technologies can help organizations allocate their 
+resources more efficiently, make better forecasts, and reduce inventory costs. 
+Quick decision-making: Machines can collect and process structured and 
+unstructured data in a fraction of the time it would take humans to perform the 
+same task. The data gathered can help determine consumer activity, allowing 
+companies to anticipate future needs and make quicker production decisions. 
+Human resources 
+Talent acquisition and development: Al algorithms can screen applicants, 
+maintain databases, and arrange interviews without requiring human input. 
+Orientation of new recruits: Al can customize procedures to keep track of 
+important contact details and processes, and other tasks like verification of legal 
+documents. 
+Training recruits: Using relevant data from a job description, Al can assign 
+appropriate training to the employee. 
+Enhancing employee experience: Al can be implemented across the employee 
+lifecycle, from recruitment to HR service delivery and career pathing, resulting in a 
+personalized employee experience. 
+Big data 
+Big data refers to large, diverse data sets that, when analyzed computationally, can 
+reveal patterns, trends, and associations, especially relating to human behavior
+
+and interactions. These trends and patterns identified can then be leveraged by 
+businesses to inform business decisions. The four dimensions of big data are 
+presented in Figure 5.22. 
+Volume: There is a lot of it. 
+Velocity: It needs to be analyzed quickly. 
+Variety: It comes in many different formats. 
+Veracity: It can be difficult to understand. 
+Customer loyalty programs 
+According to Shopify, more than 90 per cent of companies have embraced some 
+type of customer loyalty program. Loyalty programs have become an effective tactic 
+for increasing revenue. The same study by Shopify identified that as many as 84 per 
+cent of consumers are prepared to stick with a brand that offers a loyalty program, 
+with 66 per cent saying their spending behavior changes with the ability to earn 
+rewards. 
+The cost to businesses of retaining customers who repeat their purchases is a lot less 
+than trying to acquire new customers. This is one of the main drivers for brands to 
+invest in loyalty and rewards programs. 
+Most customer loyalty programs fall into one of four categories: points-based, tiered, 
+paid, and value-based programs. 
+Points-based loyalty programs 
+This type of loyalty program is one of the most common. It allows customers to build 
+up points with every purchase, which can then be redeemed for free gifts, cashback 
+toward purchases, along with a variety of other perks. In addition, customers can 
+earn points from engagement on social media, birthdays, leaving reviews, or through 
+gamification. 
+<« Figure5.22 The four 
+dimensions of big data 
+To what extent is big data 
+changing what it means to 
+‘know your customers? 
+Gamification is the strategy 
+by which companies add 
+typical elements of game 
+playing (i.e., point scoring, 
+competition, etc.) to their 
+systems and services in 
+an attempt to engage and 
+stimulate users. 
+323
+
+Operations management 
+Some service companies, like 
+hairdressers and coffee shops, 
+use loyalty stamp cards 
+LOYALITY REWARDS 
+In 1793, a merchant in 
+the USA started giving 
+out copper tokens, which 
+could be collected then 
+exchanged for items 
+in the store, the first 
+loyalty program. In 1872, 
+the Grand Union Tea 
+Company started to give 
+tickets to customers. For 
+every four tickets collected, 
+the customer could 
+exchange them for one 
+pound of tea. 
+From the 1930s until 
+the late 1580s, S&H 
+Green Stamps were 
+trading stamps in the 
+USA. Customers could 
+exchange the stamps 
+for products from their 
+rewards catalogue. In 
+1972, United Airlines 
+launched the first 
+frequent-flyer program. 
+At the moment, 
+Starbucks® Rewards is a 
+popular loyalty program. 
+In 2022, there were a 
+reported 28.7 million 
+active Starbucks® Rewards 
+members, which equates 
+to a 16% year-over-year 
+growth in its loyalty 
+program since its launch. 
+324 
+0 OOO%O 
+Get your 10th visit free! 
+CALL US TODAY 
+123-456-7890 
+Room for your website info 
+Additional rooms more for promotions 
+*Gome exchuskins may appy. Oter anky valid b0 loval cusiomens. 
+© SaLowsspa 
+The UK supermarket chain, Tesco, has been operating its Tesco Clubcard scheme since 
+1995. Customers collect points on food, fuel, fashion, and more, in store and online. 
+Points can then be converted into vouchers to spend in store or with partner companies. 
+Tiered loyalty programs 
+Tiered customer loyalty programs allow customers access to different benefits 
+depending on their rank. The business may rank membership based on the amount 
+that a customer spends or the frequency of use. This provides customers with an 
+incentive: the higher their tier, the more exclusive and better rewards they’ll receive. 
+Emirates Airlines operates a Skywards rewards program. Customers build up their tier 
+miles with every flight they take, moving through the levels from Blue to Silver, to Gold, 
+and finally to Platinum. Rewards include priority check-in, airport lounge access, priority 
+baggage delivery, and chauffeur service to and from the airport, among other things. 
+Paid loyalty programs 
+Paid loyalty programs give customers immediate and ongoing benefits for a 
+participation fee. These fees may be one-off or paid on a recurring basis. 
+Amazon Prime is an example of a paid loyalty program. A monthly fee provides 
+customers with access to free delivery, Amazon music, and Amazon’s Prime Video 
+streaming service. Amazon Prime customers are the first to get access to sales events, 
+special offers, and extended discounts. 
+Value-based loyalty programs 
+The idea behind a value-based loyalty program is to connect with customers on a deeper 
+level. It involves donating a percentage of purchase costs to charity or welfare programs. 
+Advantages and disadvantages of loyalty programs 
+It is important for a business to be aware that implementing a customer loyalty 
+program comes with both advantages and disadvantages to consider. 
+Advantages 
+» With a carefully planned loyalty rewards program, a business will encourage 
+return customers. 
+* 
+Loyalty programs reward the most valued customers with what they love while 
+also having a platform to promote new items. 
+* The business gains valuable insight into their customers’ behavior and has a direct 
+platform to communicate with those customers.
+
+Disadvantages 
+* Good rewards cost the business money and time. 
+* Managing data can be difficult or costly. 
+* The business may negatively impact or anger the most valued customers if there is 
+aneed to end the program. 
+The use of data to manage and monitor employees 
+Digital technology is now as common as a pen in the modern-day workplace and has, 
+in many business environments, completely replaced it. However, despite the benefits 
+that technology and digitization bring to the workplace, unions and academics are 
+claiming that ‘digital Taylorism’ is taking root and threatening the fundamental 
+benefits of the ongoing ‘digital transformation’. 
+‘Digital Taylorism’ refers to the vast array of digital tools being used to oversee 
+workers and the business operations they are working in. Its aim is to focus on process 
+improvement, by monitoring and collecting as much data as possible, to better inform 
+decisions relating to specific goals and productivity. 
+Innovations in technology have made it increasingly easy for managers to quickly and 
+cheaply collect, process, evaluate, and act on large amounts of data. With big data, 
+Taylorism has spread across industries and business functions. 
+The problems caused by digital Taylorism 
+Employers in the logistics industry use extensive and intensive data-driven systems 
+that control fleets and employees. Sensors are used to track location, timing, driving, 
+and other aspects of performance. Complex algorithms, analytics software, and other 
+management system components generate intelligence that is then used to instruct truck 
+drivers. A study by Cornell University concluded these intense management systems 
+reduce workers’ autonomy and can ultimately lead to sleep deprivation and speeding. 
+Technology allows sophisticated performance management of employees. Businesses, 
+both large and small, use digital tools to create continuous streams of data for employee 
+appraisal. Constant monitoring and the addition of peer review to supervisor feedback 
+can create overly competitive, and sometimes hostile, dynamics between employees. 
+As discussed in section 2.4, in Taylor’s era (the late 19th and early 20th century), workers 
+were aware when they were being observed by management with stopwatches and 
+notebooks. In today’s business environment, surveillance is increasingly hidden. A 
+cashier at a fast food franchise who makes sales using a virtual cash register app on 
+their tablet may be unaware of the programs running in the background, logging 
+keystrokes, recording audio or video, transmitting data, and continuously rating 
+performance. Employees may know that their work smartphones monitor their calls, 
+texts, and internet browsing, but they may not know that the device also communicates 
+geolocation data, allowing tracking of their movement all day, every day. 
+The use of data mining to inform decision-making 
+Data mining has emerged in response to the need for organizations to find a way to 
+take advantage of the large amount of data stored in databases, from which traditional 
+analysis methods are unable to extract useful information. Data mining works 
+325
+
+Operations management 
+through technology based on algorithms that convert large amounts of raw data into 
+meaningful information and new knowledge that can be used to inform decision- 
+making. It is used for a variety of purposes, such as to improve customer experience, 
+increase profitability, and reduce risks. 
+Advantages of data mining 
+* Gathering of reliable information: It can be used in marketing research to 
+determine what products customers might be interested in and then make those 
+products available to them. 
+* 
+Identification of trends: Through the identification of correlations between 
+products, consumers, suppliers, and other aspects of the business, the organization 
+can highlight trends that might not have been identified before, or at least help it to 
+make more accurate predictions. 
+* Aids decision-making: As more data is collected, the accuracy of data mining 
+becomes greater, which helps to improve decision-making. 
+* Detection of risks and fraud: Data mining can help identify risks and fraud that 
+may not be detectable through traditional means of data analysis. 
++ Speed of analyzing large data: Data mining can be used to analyze data that was 
+previously too difficult to obtain due to the sheer volume or type of information. 
+Disadvantages of data mining 
+» Data mining tools are complex and require training to use: Data analyticsisa 
+complicated process and often requires people with training to use the tools. The 
+barrier to entry for data analytics can discourage small businesses from using this 
+technology. 
+» Data mining techniques are fallible: Data mining doesn’t always provide 
+accurate information. There are many ways to analyze data and some are more 
+accurate than others. There may be information missing from a database that is 
+needed to create a complete analysis. 
+* 
+Rising privacy concerns: This is a major disadvantage to data mining. 
+Traditionally, companies would only share personal data with other companies to 
+provide a service. Now, many people are worried that their personal information is 
+being sold to third parties without their knowledge. 
+» Data mining requires large databases: Data mining requires large databases to 
+be effective. For example, if an email list contains 100 people, the data from those 
+emails will not be enough for data mining. If the list contains 100,000 people, then 
+there will be more information available and data mining will be more successful. 
+» 
+Expensive: Data mining can be a very expensive process. For example, companies 
+must hire additional employees and technology specialists to ensure that the data 
+mining is done correctly. Many businesses must invest in advanced data mining 
+software, which can also be expensive. 
+The ethics of management information systems 
+Several ethical issues arise from MIS and technological innovation. 
+326
+
+Misuse of personal information 
+How do businesses use personal information? Everyone’s digital footprint continues 
+to grow. As people browse websites, make online purchases, post on social media, or 
+submit information and preferences via online forms, personal information is being 
+given and collected. Businesses use this information to hyper-personalize marketing 
+and product offerings. This raises the ethical dilemma of whether such data gathering 
+is violating consumers’ right to privacy. Often, consumers are required to indicate that 
+they have read the terms and conditions of the website before submitting any data. These 
+terms and conditions should explain how the business plans to use the data provided. 
+Misinformation and deep fakes 
+In the 21st century, we can keep up with real-time events and news as it breaks. Celebrities 
+and political figures share opinions on social media without checking the facts, and those 
+opinions can be further spread whether accurate or not. Online information does not 
+always go through the thorough quality control process used for published newspapers 
+and books. A business could use and accept this information when making decisions. 
+Lack of oversight and acceptance of responsibility 
+Organizations may operate a blend of their own and third-party technologies. This 
+may lead to some confusion over where the responsibility lies for governance, use of 
+big data, cybersecurity, and personal consumer information. 
+Use of Al 
+The use of Al raises ethical questions when it comes to the potential for it to replace 
+jobs, the use of facial recognition, contact tracing, and location tracking, along with 
+the potential for bias to be built in by programmers. 
+Autonomous technology 
+Self-driving cars and drone deliveries bring concerns with allowing programmed 
+technology to operate without oversight. There may be too much trust placed in the 
+technology by consumers without fully understanding it. 
+Practice questions 
+1 Identify two types of management information system (MIS) a 
+business may use. 
+(2 marks) 
+Describe what is meant by ‘data analytics’. 
+(2 marks) 
+3 Suggest two ways in which artificial intelligence might be utilized 
+in business. 
+(4 marks) 
+4 Choose two businesses that operate a loyalty program. Compare 
+and contrast the loyalty programs for both the customers and the 
+businesses involved. 
+(10 marks) 
+Conceptual understanding: 
+Ethics 
+In 2021, at UNESCO's 
+General Conference, the 193 
+Member States adopted the 
+Recommendation on the Ethics 
+of Artificial Intelligence. This aims 
+to protect and promote human 
+rights and human dignity, and to 
+be an ethical guide to building 
+respect for the rule of law in the 
+digital world. 
+What are the moral 
+implications of possessing 
+large amounts of 
+information about 
+consumer behavior? 
+327 
+

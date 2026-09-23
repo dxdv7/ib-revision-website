@@ -1,0 +1,433 @@
+176 
+Finance and accounts 
+3.8 Investment appraisal 
+Learning outcomes 
+At the end of this section, you will be able to: 
+» 
+calculate the payback period and average rate of return (ARR) 
+* 
+evaluate investment opportunities using payback period and average rate of 
+return (ARR) 
+. 
+calculate the net present value (NPV) for different investment opportunities 
+. 
+evaluate investment opportunities using net present value (NPV). 
+This section looks at capital investments and expenditures. Capital expenditures are 
+any purchases made by a business for long-term or fixed assets (assets that are used for 
+more than one year), like buildings, machinery, and equipment. 
+Investment appraisal is the process of assessing the future returns of capital 
+expenditures. Although there are several factors to consider when making decisions 
+about capital investments (such as human resources and organizational issues), 
+financial implications need to be fully understood first. 
+In this section, we will cover three quantitative investment appraisal techniques: 
+» payback period 
+* 
+average rate of return 
+. 
+net present value. 
+To apply these techniques, the following information is needed (and will be provided in 
+an examination): 
+* 
+initial capital cost of the investment 
+* 
+projected returns or net cash flows from the investment 
+» 
+life expectancy of the investment (the length of time that the investment/asset will 
+be used). 
+Activity 
+Ky runs a seaweed farm, Ky’s Kelp, and is considering the purchase of a new 
+machine to help with harvesting. There are two available machines: machine A and 
+machine B. Financial data for these two machines are outlined in the table below.
+
+Ky’s Kelp net cash flows ($) 
+Machine A 
+Machine B 
+Year 1 
+50 000 
+100 000 
+Year 2 
+100 000 
+100 000 
+Year 3 
+100 000 
+50000 
+Year 4 
+200 000 
+50000 
+Year 5 
+200 000 
+50000 
+Which machine should Ky choose? 
+Payback period 
+The payback period is the amount of time it takes to recover the initial capital costs 
+of the investment. The payback period is usually expressed in years and months. Most 
+businesses will want investments to have a payback period of under three years. The 
+shorter the payback period, the better. 
+Using the information in the activity, we can calculate how long it will take to recover 
+the initial cost of each machine using the following process. 
+STEP 1: Organize the given information and calculate cumulative net cash flows (or 
+returns) for each year. 
+Table 3.10 Ky’s Kelp cumulative net cash flows ($) 
+Machine A 
+Machine B 
+Initial cost 
+250 000 
+150000 
+Annual net 
+Cumulative 
+Annual net 
+Cumulative 
+cash flows | netcashflows| 
+cashflows 
+|netcash flows 
+Year 1 
+50 000 
+50000 
+100 000 
+100 000 
+Year 2 
+100000 
+150 000 
+100 000 
+200 000 
+Year 3 
+100000 
+250000 
+50000 
+250 000 
+Year 4 
+200000 
+450000 
+50000 
+300 000 
+Year 5 
+200000 
+650000 
+50000 
+350 000 
+STEP 2: [dentify the year when the initial cost is recovered. 
+To do this, compare the cumulative net cash flows with the initial cost in Table 3.10. 
+* 
+For machine A, the $250,000 initial cost is reached at the end of Year 3. 
+» 
+For machine B, the $150,000 initial cost is reached at some point after Year 1 but 
+before the end of Year 2. 
+STEP 3: Calculate the additional time needed (the number of months) to recover the 
+initial cost, if needed. 
+1LE
+
+The formula to calculate 
+payback period is not 
+on the formula sheet 
+provided in examinations. 
+Therefore, you need to 
+understand and be able to 
+apply the steps outlined 
+above. 
+If the annual net cash flow 
+amounts are the same, 
+then the payback period 
+can be calculated using 
+the following formula: 
+Payback period (in years) 
+initial capital cost 
+annualnet cash flow 
+178 
+Finance and accounts 
+For machine A, no additional time is needed. The initial cost of the investment of 
+$250,000 is paid back exactly at the end of Year 3. 
+For machine B, the initial cost of $150,000 is reached at some point during Year 2, 
+so we need to calculate how many months in Year 2 will be needed. After Year 1, the 
+cumulative net cash flow is $100,000. Therefore, subtracting $100,000 from $150,000, 
+requires an additional $50,000 from Year 2. 
+Dividing $50,000 by the total amount of net cash flow expected in Year 2 ($100,000) 
+indicates that an additional 0.5 years or 6 months (0.5 X 12 months) is needed to 
+recover the initial costs. 
+Another way to calculate the additional time needed is to convert the projected net 
+cash flow from Year 2 to a monthly amount by dividing the annual net cash flow by 
+12. Dividing $100,000 by 12 yields a projected monthly net cash flow during Year 2 of 
+$8,333.33. Then, take the additional amount that is needed in Year 2 to reach the initial 
+cost ($50,000) and divide that by $8,333.33 to get the number of months needed: 6 
+months. 
+STEP 4: State your answer. 
+The payback period for each machine is: 
+* Machine A:3 years 
+* 
+Machine B: 1.5 years, or 1 year 6 months. 
+Therefore, the payback period indicates that machine B is the best choice, with initial 
+costs being recovered twice as fast. It only takes 1 year 6 months to recover (pay back) 
+the initial costs of machine B, whereas machine A would take three full years. 
+Advantages and disadvantages of the payback period 
+Although the payback period can be extremely important for organizations that have 
+insufficient cash on hand and need to recover their investment costs quickly, applying 
+additional investment appraisal techniques can provide a more complete picture. For 
+example, one major limitation of the payback period is that once the initial cost is 
+reached, the net cash flows beyond the payback period are not considered. In the above 
+example, years 4 and 5 are not considered for machine A, and years 3, 4 and 5 are not 
+considered for machine B. The average rate of return considers all of the projected net 
+cash flow amounts. 
+Average rate of return 
+The average rate of return (ARR) expresses the average net cash flow of an 
+investment as a percentage of the initial capital costs. ARR considers the entire life of 
+the investment and is calculated using the following formula: 
+(total returns — capital cost) + years of use 
+capital cost 
+Average rate of return (ARR) = 
+% 100 
+Generally, businesses want investments to have an ARR greater than 10 per cent, and 
+the higher the percentage, the better.
+
+To calculate the ARR for machine A and machine B, we need to find the total returns. 
+Total returns can be calculated by adding up the expected annual net cash flows. These 
+are shown in the cumulative net cash flows column in Table 3.10. 
+The ARR for each machine is: 
+Machine A: 
+($650000 
+— $250000) + 5 
+Average rate of return (ARR) = 
+x 100 = 32% 
+$250000 
+Machine B: 
+Average rate of return (ARR) = (5350000 =551 ,0000) =3 ®x 100 = 26.67% 
+$150000 
+These calculations suggest that during the next five years, Ky’s Kelp will earn on average a 
+32 per cent return on the initial investment for machine A. It will earn on average a 27 per 
+cent return on machine B. Therefore, applying the ARR investment appraisal technique 
+suggests that machine A and not machine B (as suggested by the payback period) is the 
+better investment. Machine A would provide a higher rate of return on average for Ky. 
+However, the average rate of return has some disadvantages. One main disadvantage 
+of ARR (and to a lesser degree payback period) is that the time value of money is not 
+considered. The concept of the time value of money states that cash inflows received 
+now are worth more than cash inflows received later. 
+Net present value 
+Would you rather have $50,000 today or $50,000 three years from now? Most of us 
+would probably take the money today, as we can use it right away. Alternatively, we 
+could take that $50,000 today and invest it. At the end of three years, we would then 
+have more than $50,000 (if we invested it wisely). 
+Net present value (NPV) factors in the value of money over time. This is done by 
+reducing cash inflows received in the future by an appropriate discount factor using 
+the following formula: 
+Present value = annual net cash flow X discount factor 
+Discount factors can be found using Table 3.11. If a discount table is needed to answer 
+a question in an examination, it will be provided. 
+Once the present value amounts are determined, the NPV of the investment is 
+determined using the following formula: 
+Net present value (NPV) = > 
+"present values of return — original cost 
+In other words, the value of the investment is expressed in terms of the sum of the 
+NPVs of the net cash flows minus the initial cost. Generally, the NPV must be positive 
+to be considered, and the higher the NPV, the better. 
+To what extent are the 
+methods used to gain 
+knowledge in investment 
+appraisal ‘scientific’? 
+179
+
+Finance and accounts 
+Table 3.11 Discount table 
+These discount factors can 
+be explained through one 
+Lo 
+e 
+formula, specifically: 
+: 
+Years 
+4% 
+6% 
+8% 
+10% 
+20% 
+Al Ry 
+1 
+0.9615 
+09434 | 09259 | 09091 | 08333 
+e e 
+2 
+0.9246 
+0.8900 
+0.8573 
+0.8264 
+0.6944 
+rate and n = the number 
+3 
+0.8890 
+0.8396 
+0.7938 
+0.7513 
+0.5787 
+f 
+b 
+4 
+0.8548 
+07921 | 07350 | 0.6830 | 04823 
+Try a few examples and 
+e 
+f;rogi ;” 
+6 
+0.7903 
+0.7050 
+0.6302 
+0.5645 
+0.3349 
+able 3.11. 
+For example, the working 
+7 
+0.7599 
+0.6651 
+0.5835 
+0.5132 
+0.2791 
+to find the discount factor 
+8 
+0.7307 
+0.6271 
+0.5403 
+0.4665 
+0.2326 
+foryear 5 using an 8 per 
+Nl 
+9 
+0.7026 
+0.5919 
+0.5002 
+0.4241 
+0.1938 
+1 
+— 0.680583 
+... 
+10 
+0.6756 
+0.5584 
+0.4632 
+0.3855 
+0.1615 
+{1+ 0.08)° 
+Table 3.12 and Table 3.13 show the NPV amounts for machine A and machine B using a 
+discount rate of 10 per cent. 
+Applying the net present value investment appraisal technique suggests machine A is 
+the better investment for Ky’s Kelp. The NPV for the net cash flows for machine A is 
+higher than machine B. 
+However, applying the discount factor results in much closer amounts than if 
+comparing the total net returns without applying the discount factors to each machine. 
+For example, the total returns minus the initial cost without applying the discount 
+factor is $650,000 — $250,000 = $400,000 for machine A, and $350,000 — $150,000 = 
+$200,000 for machine B. This is because many of the higher returns for machine A 
+occur in years 4 and 5, and the net cash flow received from these years is not as 
+valuable as the net cash flows received in years 1, 2, and 3. 
+Table 3.12 Net present value of machine A 
+Initial cost 
+$250 000 
+Annual net cash flow X discount factor = present value 
+Year 1 
+$50 000 X 0.9091 = $45 455 
+Year 2 
+$100 000 X 0.8264 = $82 640 
+Year 3 
+$100 000 X 0.7513 = §75130 
+Year 4 
+$200 000 X 0.6830 = $136 600 
+Year 5 
+$200 000 X 0.6209 = $124 180 
+NPV 
+= ($45 455 + $82 640 + $75 130 + $136 600 + $124 180) — $250 000 
+= $464 005 — $250 000 
+= $214 005 
+180
+
+Table 3.13 Net present value of machine B 
+Initial cost 
+$150 000 
+Annual net cash flow X discount factor = present value 
+Year 1 
+$100 000 X 0.9091 = $90 910 
+Year 2 
+$100 000 X 0.8264 = $82 640 
+Year 3 
+$50000 
+X 0.7513 = $37 565 
+Year 4 
+$50 000 X 0.6830 = $34 150 
+Year 5 
+$50 000 X 0.6209 = $31 045 
+NPV = ($90 910 + $82 640 + $37 565 + $34 150 + $31 045) — $150 000 
+= $276 310 — $150 000 
+= $126 310 
+Although the net present value does factor in the time value of money, there are some 
+limitations that should always be considered when evaluating capital investments. 
+These are discussed in the next section. 
+Evaluating Ky’s Kelp’s investment opportunities 
+A summary of the investment appraisal calculations is shown in Table 3.14. 
+Based on the quantitative information provided and the calculations above, there are 
+advantages and disadvantages to investing in machine A and machine B. The payback 
+period is much better for machine B, but the ARR and NPV favor machine A. So, how 
+should Ky choose? Here are some additional items to consider: 
+ Does Ky's Kelp have sufficient cash on hand to meet the day-to-day expenses? 
+Does it have a low gearing ratio? Can it take on additional debt? Can Ky’s Kelp take 
+on additional risk? If the answer to any of these questions is no, then machine B 
+may be the better option, as the initial cost is less and it allows Ky to repay the 
+initial cost much quicker than machine A. 
+« 
+Will any of the stakeholder groups prefer one machine over the other? For 
+example, will one machine require additional training or more/less labor? 
+Table 3.14 Ky's Kelp investment appraisal calculations 
+Machine A 
+Machine B 
+[nitial cost 
+$250 000 
+$125000 
+Payback period 
+3 years 
+1 year 6 months 
+Average rate of return (ARR) 
+32.0% 
+26.7% 
+Net present value (NPV) 
+£214 005 
+£126 310 
+181
+
+182 
+Finance and accounts 
+* Does one machine align with the organization’s brand or objectives better than 
+the other? For example, if profit maximization is one of the main objectives for 
+Ky’s Kelp, then ARR and NPV would be more helpful than the payback period, as 
+payback period ignores profitability. 
+*  What is the impact on the environment of both machines? Does one machine 
+create more waste or require more fuel? 
+» How volatile is the seaweed market? How adaptable are the machines? For 
+example, what if consumer demand changes and requires Ky to grow a different 
+type of seaweed? Will the machines be able to adapt? 
+Limitations of investment appraisal 
+Quantitative investment appraisal techniques can provide valuable information 
+for managers and business owners, such as Ky, in evaluating investment options. 
+However, there are some limitations to these techniques, and to investment appraisal 
+techniques as a whole, that must be considered in order to fully evaluate investment 
+opportunities. 
+Stakeholder considerations: Does the company have enough cash to make the initial 
+investment? Is the company able to take more of a risk? Do employees or customers 
+prefer one investment over the other? Are there supply, ethical, or environmental 
+considerations? 
+Qualitative versus quantitative: [nvestment appraisal is a quantitative tool. It is 
+almost always better to decide based on both quantitative and qualitative factors. 
+For example, additional training or labor may be required. How will that affect the 
+morale and motivation of employees? Is one investment more in line with the brand or 
+objectives of the company? 
+The dynamic nature of business (short- versus long-term implications): 
+Projecting one year in the future is difficult, but investment appraisal often requires 
+projecting even further into the future due to the dynamic nature of business. What 
+will these investments mean for the company in the long term? Will they put it on the 
+right path to success? 
+Assumptions of investment appraisal techniques 
+[nvestment appraisal techniques make certain assumptions in their calculations. 
+Accuracy of results: Calculations are based on estimated capital costs and estimated 
+net cash flows. In many cases, these are difficult to project and can lead to inaccurate 
+results. As such, the payback period may be the most accurate, as it does not usually 
+require long-term forecasting. 
+Timing of cash flows: Neither ARR nor payback period consider when the cash is 
+coming into the business. This could be a significant factor especially if the business is 
+a seasonal operation. 
+Time value of money: Money earned today is more valuable than money earned 
+tOmorrow or years from now. This is because once money is received, businesses can 
+turn it into more money. Neither ARR nor payback period consider this. NPV attempts 
+to address this limitation.
+
