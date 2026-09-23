@@ -1,0 +1,1841 @@
+47
+The dazzling colours observed during a firework display are a result of electrons moving between
+different energy states.
+How can we model the energy states of electrons in atoms? 
+Guiding Question
+The chemical behavior of an atom is determined by its electron configuration. As we 
+cannot look inside the atom directly, we have to look elsewhere for evidence of how 
+the electrons are arranged. The analysis of light emitted from an atom gives us valuable 
+information about the electron configuration within it. It shows that an electron can 
+exist only in certain discrete energy states. This cannot be understood with reference 
+to our everyday experience and demands a new perspective. The notion of particles 
+following fixed trajectories does not apply to the microscopic world of the atom. 
+We can only give a probability description of electron behavior and use quantum 
+theory to adopt a wave description of the electron. The possible positions of an 
+electron are spread out in space in the same way as a wave spreads through space. 
+We will see how the energy states of electrons are best explained in terms of atomic 
+orbitals. These are regions in space where an electron is likely to be found. Within one 
+atom, there are an infinite number of orbitals of different shapes, sizes and energies. 
+These ideas are revolutionary. As Niels Bohr, one of the principal scientists involved 
+in the development of quantum theory said, ‘Anyone who is not shocked by quantum 
+theory has not understood it’.
+Structure 1.3.1 and 1.3.2 – Emission spectra
+Structure 1.3.1 – Emission spectra are produced by atoms emitting photons when 
+electrons in excited states return to lower energy levels.
+Qualitatively describe the relationship between colour, wavelength, frequency and energy 
+across the electromagnetic spectrum.
+Distinguish between a continuous and a line spectrum. 
+Details of the electromagnetic spectrum are 
+given in the data booklet. 
+Electrons occupy atomic 
+orbitals of different energy 
+states. The atomic orbitals 
+in an atom of neon, Ne, 
+are represented here. The 
+nucleus is shown by a flash 
+of light and the 1s orbital 
+as a yellow sphere. The 2s 
+orbital is shown as a pink 
+sphere, and the 2p orbitals as 
+blue lobes. 
+STRUCTURE1.3
+Electron configurations 
+
+
+48
+Structure 1.3.2 – The line emission spectrum of hydrogen provides evidence for the 
+existence of electrons in discrete energy levels, which converge at higher energies.
+Describe the emission spectrum of the hydrogen atom, including the relationships between 
+the lines and energy transitions to the ﬁ rst, second and third energy levels. 
+The names of the different series in the 
+hydrogen emission spectrum will not be 
+assessed.
+Inquiry 2 – In the study of emission spectra 
+from gaseous elements and from light, 
+what qualitative and quantitative data can 
+be collected from instruments such as gas 
+discharge tubes and prisms?
+Nature of Science, Structure 1.2 – How do 
+emission spectra provide evidence for the 
+existence of different elements?
+Atoms of different elements give out light of 
+distinctive colours
+Atoms of different elements give out light of a distinctive colour when an electric 
+discharge is passed through a vapour of the element. Similarly, metals can be identified 
+by the colour of the flame produced when their compounds are heated in a Bunsen 
+burner. Analysis of the light emitted by different atoms gives us insights into the 
+electron configurations within the atom.
+To interpret these results, we must consider the nature of electromagnetic radiation.
+Electromagnetic radiation is emitted in different forms of 
+differing energies
+Electromagnetic radiation comes in different forms of differing energy. The visible light 
+we need to see the world is only a small part of the full spectrum, which ranges from low-
+energy radio waves to high-energy gamma (γ) rays. All electromagnetic waves travel at the 
+same speed (c) but can be distinguished by their different wavelengths (λ) (Figure 1).
+wavelength (λ)
+crest
+crest
+trough
+(a)
+(b)
+(c)
+Flame tests on the 
+compounds of (a) sodium, 
+(b) potassium and (c) copper.
+Flame colours can 
+be used to identify 
+unknown compounds.
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+S1.3 Figure 1 Snapshot of 
+a wave at a given instant. The 
+distance between successive 
+crests or peaks is called the 
+wavelength (λ).
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+49
+Different colours of visible light have different wavelengths; red light, for example, 
+has a longer wavelength than blue light. The full electromagnetic spectrum is given in 
+Section 5 of the data booklet.
+The number of waves that pass a particular point in 1s is called the frequency ( f ); 
+the shorter the wavelength, the higher the frequency. Blue light has a higher frequency 
+than red light.
+The precise relationship is:
+c = fλ
+where c is the speed of light.
+White light is a mixture of light waves of differing wavelengths or colours. We see this 
+when sunlight passes through a prism to produce a continuous spectrum or when 
+light is scattered through water droplets in the air.
+As well as visible light, atoms emit infrared (IR) radiation, which has a longer 
+wavelength than red light, and ultraviolet radiation, which has a shorter wavelength 
+than violet light. The complete electromagnetic spectrum is shown in Figure 2.
+7 3 1027
+4 3 1027
+5 3 1027
+6 3 1027
+energy increasing
+10214
+g rays
+X-rays
+UV
+IR
+microwaves
+radio waves
+10216
+10212 10210 1028
+1026
+1024
+1022
+100
+102
+104
+106
+108 wavelength / m
+wavelength / m
+All electromagnetic 
+waves travel at 
+the same speed, 
+c = 3.00 × 108 m s–1. 
+This is the cosmic 
+speed limit as, 
+according to Einstein’s 
+Theory of Relativity, 
+nothing in the universe 
+can travel faster than 
+this in a vacuum. 
+The distance 
+between two 
+successive crests (or 
+troughs) is called the 
+wavelength (λ). The 
+frequency ( f ) of the 
+wave is the number 
+of waves that pass a 
+point in one second. 
+The wavelength and 
+frequency are related 
+by the equation 
+c = f λ where c is 
+the speed of light.
+A continuous spectrum 
+is produced when 
+white light is passed 
+through a prism. The 
+different colours merge 
+smoothly into one 
+another. The two spectra 
+below the illustration of 
+the prism show (top) a 
+continuous spectrum 
+with a series of discrete 
+absorption lines, and 
+(bottom) a line emission 
+spectrum. Details of the 
+absorption spectrum will 
+not be assessed. 
+S1.3 Figure 2  The changing 
+wavelength (in m) of 
+electromagnetic radiation 
+through the spectrum is 
+shown by the trace across 
+the top. At the short 
+wavelength end (on the left) 
+of the spectrum are gamma 
+rays, X-rays, and ultraviolet 
+light. In the center of the 
+spectrum are wavelengths 
+that the human eye can 
+see, known as visible light. 
+Visible light comprises light 
+of different wavelengths, 
+energies, and colours. At 
+the longer wavelength end 
+of the spectrum (on the 
+right) are infrared radiation, 
+microwaves, and radio waves. 
+The visible spectrum gives us 
+only a small window to see 
+the world. 
+STRUCTURE1.3
+Electron configurations 
+
+
+50
+An emission spectrum is produced when an atom moves from 
+a higher to a lower energy level 
+When electromagnetic radiation is passed through a collection of atoms, some of the 
+radiation is absorbed and used to excite the atoms from a lower energy level to a higher 
+energy level. A spectrometer analyzes the transmitted radiation relative to the incident 
+radiation and an absorption spectrum is produced (Figure 3).
+sample in high
+energy level
+sample in low
+energy level
+absorption spectrum
+emission spectrum
+S1.3 Figure 3 The origin of absorption and emission spectra. An absorption spectrum shows the 
+radiation absorbed as atoms move from a lower to a higher energy level. An emission spectrum is 
+produced when an atom moves from a higher to a lower level.
+Gases produce a characteristic emission line spectrum when they are heated to a 
+high temperature or if a high voltage is applied. Atoms are excited into a higher energy 
+level, which is unstable, so the electron soon falls back to the ground state. The energy 
+the electron gives out when it falls into lower levels is in the form of electromagnetic 
+radiation. One packet of energy, a photon, is released for each electron transition 
+(Figure 4). Photons of ultraviolet light have more energy than photons of infrared light. 
+The energy of the photon is proportional to the frequency of the radiation.
+ground state
+Electron excited
+to higher energy
+level
+excited state
+h f
+When an electron falls from the
+excited state to the ground
+state, light of a speciﬁc
+frequency f is emitted.
+E2
+E1
+The energy of the photon of light emitted (Ephoton) is equal to the energy change of the 
+electron in the atom (∆Eelectron):
+∆Eelectron = Ephoton
+It is also related to the frequency of the radiation by the Planck equation:
+Ephoton = h f
+This equation and the value of h (Planck’s constant) are given in Sections 1 and 2 of the 
+data booklet.
+This leads to:
+∆Eelectron = h f
+Electromagnetic waves 
+allow energy to be 
+transferred across the 
+universe. They also 
+carry information. 
+Low-energy radio 
+waves are used in radar 
+and television, for 
+example, and higher 
+energy gamma rays 
+are used as medical 
+tracers. The precision 
+with which we view 
+the world is limited 
+by the wavelengths 
+of the colours we can 
+see. This is why we will 
+never be able to see 
+an atom directly; it is 
+too small to interact 
+with the relatively 
+long waves of visible 
+light. What are the 
+implications of this for 
+human knowledge? 
+S1.3 Figure 4 Emission 
+spectra are the result of 
+electrons falling from an 
+excited state E2 to a lower 
+energy level E1.
+• A continuous 
+spectrum shows 
+an unbroken 
+sequence of 
+frequencies, such 
+as the spectrum of 
+visible light.
+• A line emission 
+spectrum has 
+only certain 
+frequencies of 
+light because it 
+is produced by 
+excited atoms and 
+ions as they fall 
+back to a lower 
+energy level.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+51
+This is a very significant equation because it shows that line spectra allow us to 
+glimpse inside the atom. The atoms emit photons of certain energies, which give 
+lines of certain frequencies because the electron can only occupy certain energy 
+levels. You can think of the energy levels as a staircase. The electron cannot change its 
+energy in a continuous way, in the same way that you cannot stand between steps; it 
+can only change its energy by discrete amounts. This energy of the atom is said to be 
+quantized. The line spectrum is crucial evidence for quantization: if the energy were 
+not quantized, the emission spectrum would be continuous.
+Nature of Science
+The idea that you can think of electromagnetic waves as a stream of photons, 
+or quanta, is one aspect of quantum theory. The theory has implications for 
+human knowledge and technology. The key idea is that energy can only be 
+transferred in discrete amounts or quanta. Quantum theory shows us that 
+our everyday experience cannot be transferred to the microscopic world of 
+the atom. It has led to great technological breakthroughs such as the modern 
+computer. It has been estimated that 30% of the gross national product 
+of the USA depends on the application of quantum theory. Our scientific 
+understanding has led to many technological developments. These new 
+technologies in turn drive developments in science. The implications of 
+quantum theory for the electron are discussed in more detail later (page 54). 
+Note that ‘discrete’ has a different meaning to ‘discreet’.
+As different elements have different line spectra, they can be used like barcodes to 
+identify unknown elements. They give us valuable information about the electron 
+configurations of different atoms.
+The words ‘discrete’ 
+meaning ‘separate’, 
+and ‘discreet’ meaning 
+‘unobtrusive’ both 
+come from the Latin 
+word ‘discretus’ for ‘to 
+keep separate’.
+When asked to 
+distinguish between 
+a line spectrum and a 
+continuous spectrum, 
+references should be 
+made to discrete or 
+continuous energy 
+levels and to specific 
+colours, wavelengths 
+or frequencies.  
+Elements discovered 
+from their line spectra 
+and named from their 
+ﬂ ame colours include 
+rubidium (red), caesium 
+(sky blue), thallium 
+(green), and indium 
+(indigo). Emission 
+spectroscopy was a key 
+tool in the discovery of 
+new elements.
+Nature of Science, 
+Structure 1.2 – How 
+do emission spectra 
+provide evidence for the 
+existence of different 
+elements?
+The elemental 
+composition of stars 
+can be determined 
+by analyzing their 
+spectra. The gases that 
+surround the center 
+of a star absorb some 
+wavelengths of the 
+star’s emitted radiation, 
+producing dark 
+absorption lines in the 
+spectrum. These dark 
+bands can be used to 
+identify the elements 
+present. The Sun’s 
+spectrum shows dark 
+lines that represent 
+absorbed radiation 
+due to the presence of 
+hydrogen and helium. 
+Diagram of the spectra of 
+stars, showing a set of dark 
+absorption lines, which 
+indicate the presence of 
+certain elements, such as 
+hydrogen and helium, in 
+the outer atmosphere of 
+the star. 
+STRUCTURE1.3
+Electron configurations 
+
+
+52
+The line emission spectrum of hydrogen provides 
+evidence for discrete energy levels 
+As discussed earlier, a line emission spectrum provides evidence for the electrons 
+in an atom occupying discrete energy levels. A simple picture of the hydrogen atom 
+was considered in Structure 1.2 with the electron orbiting the nucleus in a circular 
+energy level. Niels Bohr proposed that an electron moves into an orbit further from 
+the nucleus (a higher energy level) when an atom absorbs energy. This energy is given 
+out in the form of electromagnetic radiation when the electron falls back from a higher 
+to a lower energy level. In any sample of hydrogen many transitions can occur with 
+each line corresponding to a particular transition. Visible light is produced when the 
+electron falls to the second energy level (n = 2; see Figure 5).
+Visible emission spectrum of hydrogen. The energy of lines increases from left to right. They converge 
+at higher energies. Similar series are found in the UV and IR regions.
+atom emits energy by
+falling from n 5 5 to n 5 2
+electron excited
+from ground state
+to n 5 5 level
+n 5 1
+n 5 2
+n 5 3
+n 5 6
+n 5 5
+n 5 4
+S1.3 Figure 5 An electron is excited from the ground state to a higher energy level. If the unstable 
+electron then falls to a lower n = 2 energy level, visible light is emitted. 
+The transitions to the first energy level (n = 1) correspond to the highest energy change 
+and are in the ultraviolet region of the spectrum. Infrared radiation is produced when 
+an electron falls to the third or higher energy levels (Figure 6).
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+53
+6
+5
+78
+`
+4
+excited
+states
+2
+3
+1
+UV
+ground
+state
+S1.3 Figure 6 Energy levels of the hydrogen atom showing the transitions. The transition 1 →∞
+corresponds to ionization:
+H(g) → H+(g) + e–
+The pattern of the lines in Figure 6 gives us a picture of the energy levels in the atom. 
+The lines converge at higher energies because the energy levels inside the atoms are 
+closer together. When an electron is at the highest energy n = ∞, it is no longer in 
+the atom and the atom has been ionized. The energy needed to remove an electron 
+from the ground state of one mole of gaseous atoms, ions, or molecules is called the 
+ionization energy. Ionization energies can also be used to support this model of 
+the atom.
+Exercise
+Q1. Emission spectra provide evidence for:
+A 
+the existence of neutrons
+B 
+the existence of isotopes
+C 
+the existence of atomic energy levels
+D 
+the nuclear model of the atom.
+Q2. The diagram shows the lowest ﬁ ve electron energy levels in the 
+hydrogen atom.
+n 5 5
+n 5 4
+n 5 3
+n 5 2
+n 5 1
+Deduce how many different frequencies in the visible emission spectrum 
+of atomic hydrogen would arise as a result of electron transitions between 
+these levels.
+A 
+3 
+B 
+4 
+C 
+6 
+D 
+10
+Emission spectra can 
+be observed using 
+discharge tubes of 
+different gases and 
+a spectroscope. The 
+colours and relative 
+intensities of the lines 
+should be observed. 
+The wavelengths can 
+be measured. 
+Inquiry 2 – In the 
+study of emission 
+spectra from gaseous 
+elements and from 
+light, what qualitative 
+and quantitative data 
+can be collected from 
+instruments such as gas 
+discharge tubes and 
+prisms?
+STRUCTURE1.3
+Electron configurations 
+
+
+54
+Q3. The diagram shows three energy levels of an atom.
+III
+II
+I
+energy
+(a) Identify the transition that corresponds to the emission of light with the 
+shortest wavelength.
+A 
+I → II 
+B 
+II → III 
+C 
+III → I 
+D 
+III → II
+(b) Identify the emission line spectrum that results from transitions between 
+these energy levels.
+A 
+increasing frequency
+B 
+increasing frequency
+C 
+increasing frequency
+D 
+increasing frequency
+Q4. The visible emission spectrum for hydrogen includes a red line with a wavelength 
+of 657 nm corresponding to the transition 3 → 2. State if the transition from 
+4 → 2 corresponds to a higher or lower wavelength and justify your answer.
+Challenge yourself
+1. One of the wavelengths in the emission spectrum of helium occurs at 588 nm.
+Some energy levels of the helium atom are shown. The energies of the levels are 
+given in joules. Identify the transition that produces the line at 588 nm.
+energy / 10219 J
+27.64
+I
+25.80
+II
+23.00
+III
+22.42
+IV
+A 
+I → III 
+B 
+III → I 
+C 
+II→ IV 
+D 
+IV → II
+Structure 1.3.3, 1.3.4 and 1.3.5 – Electron 
+conﬁ guration
+Structure 1.3.3 – The main energy level is given an integer number, n, and can hold a 
+maximum of 2n2 electrons.
+Deduce the maximum number of electrons that can occupy each energy level.
+Structure 3.1 – How does an element’s 
+highest main energy level relate to its period 
+number in the periodic table?
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+55
+Structure 1.3.4 – A more detailed model of the atom describes the division of the 
+main energy level into s, p, d and f sublevels of successively higher energies.
+Recognize the shape and orientation of an s atomic orbital and the three p atomic orbitals.
+Structure 3.1 – What is the relationship 
+between energy sublevels and the block 
+nature of the periodic table?
+Structure 1.3.5 – Each orbital has a deﬁ ned energy state for a given electron 
+conﬁ guration and chemical environment, and can hold two electrons of opposite 
+spin.
+Sublevels contain a ﬁ xed number of orbitals, regions of space where there is a high 
+probability of ﬁ nding an electron.
+Apply the Aufbau principle, Hund’s rule and the Pauli Exclusion Principle to deduce electron 
+conﬁ gurations for atoms and ions up to Z = 36.
+Full electron conﬁ gurations and condensed 
+electron conﬁ gurations using the noble gas 
+core should be covered.
+Orbital diagrams, i.e. arrow-in-box diagrams, 
+should be used to represent the ﬁ lling and 
+relative energy of orbitals.
+The electron conﬁ gurations of Cr and Cu as 
+exceptions should be covered.
+A more sophisticated model is needed for atoms 
+with more than one electron
+Wave and particle models of light and the electron
+Although the Bohr model of the atom was able to predict the wavelengths of lines 
+in the emission spectrum of hydrogen with great success, it failed to predict the 
+spectral lines of atoms with more than one electron. The model is a simplification. 
+To develop the model of the atom further, we need to reconsider the nature of light 
+and matter.
+We saw earlier that light can either be described by its frequency, f, which is a wave 
+property, or by the energy of individual particles, E (called photons, or quanta, of light), 
+which make up a beam of light. The two properties are related by the Planck equation 
+E = h f. Both wave and particle models have traditionally been used to explain scientific 
+phenomena and you may be tempted to ask which model gives the ‘true’ description 
+of light. We now realize that neither model gives a complete explanation of light’s 
+properties – both models are needed.
+• The diffraction, or spreading out, of light that occurs when light passes through 
+a small slit can only be explained by a wave model.
+• The scattering of electrons that occurs when light is incident on a metal surface 
+is best explained using a particle model of light.
+We have outlined the 
+plum pudding and Bohr 
+models of the atom 
+even though we now 
+know they are incorrect. 
+How can a model 
+be useful even if it is 
+obviously false?
+STRUCTURE1.3
+Electron configurations 
+
+
+56
+In a similar way, quantum theory suggests that it is sometimes preferable to think 
+of an electron (or indeed any particle) as having wave properties. The diffraction 
+pattern produced when a beam of electrons is passed through a thin sheet of 
+graphite demonstrates the wave properties of electrons. To understand the electron 
+configurations of atoms, it is useful to consider a wave description of the electron.
+Nature of Science
+Scientists use models to explain processes that may not be observable. 
+The models can be simple or complex in nature but must match the 
+experimental evidence if they are to be accepted. The power of the wave and 
+particle models is that they are based on our everyday experience, but this is 
+also their limitation. We should not be too surprised if this way of looking 
+at the world breaks down when applied to the atomic scale, as this is beyond 
+our experience. The model we use depends on the phenomena we are trying 
+to explain.
+When differences occur between the theoretical predictions and 
+experimental data, the models must be modified or replaced. Bohr’s model 
+of the hydrogen atom was very successful in explaining the line spectra 
+of the hydrogen atom but could not explain the spectra of more complex 
+atoms, or the relative intensities of the lines in the hydrogen spectra. 
+It also suffered from a fundamental weakness in that it was based on 
+postulates, which combined ideas from classical and quantum physics in 
+an ad hoc manner, with little experimental justification. Ideally, models 
+should be consistent with the assumptions and premises of other theories. 
+A modification of Bohr’s model could only be achieved at the expense 
+of changing our model of the electron as a particle. Dalton’s atomic 
+model and quantum theory are both examples of such radical changes of 
+understanding, often called paradigm shifts.
+What role do 
+paradigm shifts play 
+in the progression of 
+scientific knowledge? 
+Do they play a similar 
+role in other areas of 
+knowledge? 
+Demonstration of wave–
+particle duality. An electron 
+gun is fired at a thin sheet of 
+graphite. The electrons pass 
+through the graphite and 
+hit a luminescent screen, 
+producing the pattern of rings 
+associated with diffraction. 
+Diffraction occurs when 
+a wave passes through an 
+aperture similar in size to 
+its wavelength. Quantum 
+theory shows that electrons 
+have wavelengths inversely 
+proportional to their 
+momentum (momentum is 
+the product of their mass and 
+velocity).
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+57
+The electron’s trajectory cannot be precisely described 
+Another fundamental problem with the Bohr model is that it assumes the electron’s 
+trajectory can be precisely described. This is now known to be impossible, as any 
+attempt to measure an electron’s position will disturb its motion. The act of focusing 
+radiation to locate the electron sends it hurtling off in a random direction.
+According to Heisenberg’s Uncertainty Principle we cannot know where an electron 
+is at any given moment in time – the best we can hope for is a probability picture of 
+where the electron is likely to be. The possible positions of an electron are spread out in 
+space in the same way as a wave is spread across a water surface.
+Electrons occupy atomic orbitals 
+Schrödinger model of the hydrogen atom 
+We have seen that the electron can be considered to have wave properties and that only 
+a probability description of its location is possible at a given time. Both of these ideas 
+are encapsulated in the Schrödinger model of the hydrogen atom. Erwin Schrödinger 
+(1887–1961) proposed that a wave equation could be used to describe the behavior 
+of an electron in the same way that a wave equation could be used to describe the 
+behavior of light. The equation can be applied to multi-electron systems and its 
+solutions are known as atomic orbitals. An atomic orbital is a region around an 
+atomic nucleus in which there is a 90% probability of finding the electron. The shape 
+of the orbitals will depend on the energy of the electron. When an electron is in an 
+orbital of higher energy, it will have a higher probability of being found further from 
+the nucleus.
+Challenge yourself
+2. State two ways in which the Schrödinger model of the hydrogen atom differs 
+from that of the Bohr model.
+The Uncertainty 
+Principle states that it is 
+impossible to make an 
+exact and simultaneous 
+measurement of both 
+the position and 
+momentum of any 
+given body. It can 
+be thought of as an 
+extreme example of 
+the observer effect 
+discussed on page 
+587. The significance 
+of the Uncertainty 
+Principle is that it shows 
+the effect cannot be 
+decreased indefinitely 
+by improving the 
+apparatus. There is an 
+inherent uncertainty 
+in our measurements. 
+What are the 
+implications of this for 
+the limits of human 
+knowledge?
+The progressive 
+nature of scientiﬁ c 
+knowledge about the 
+atom is illustrated 
+by the Nobel Prizes 
+awarded between 
+1922 and 1933 to 
+Bohr, Heisenberg and 
+Schrödinger. 
+The hydrogen atom shown 
+as a nucleus (a central 
+proton, pink), and an electron 
+orbiting in a wavy path 
+(light blue). It is necessary to 
+consider the wave properties 
+of the electron to understand 
+atomic structure in detail. 
+According to Heisenberg’s 
+Uncertainty Principle, the 
+exact position of an electron 
+cannot be defined; atomic 
+orbitals represent regions 
+where there is a high 
+probability of finding an 
+electron. 
+STRUCTURE1.3
+Electron configurations 
+
+
+58
+An orbital can hold two electrons of opposite spin 
+The Schrödinger model of the hydrogen spectrum does not fully explain the fine 
+details of the hydrogen spectrum. The model needs to be further refined: in addition 
+to moving around the nucleus, electrons can also be thought to spin on their own 
+axis. They can spin in either a clockwise direction, represented by an upward arrow, or 
+an anti-clockwise direction, represented by a downward arrow. Spin is an important 
+factor in electron–electron interactions. Electrons can occupy the same region of space 
+despite their mutual repulsion if they spin in opposite directions. This leads to the 
+Pauli exclusion principle, which states that an orbital can hold only two electrons, of 
+opposite spin.
+Atomic orbitals have different shapes and sizes
+The ﬁ rst energy level has one 1s orbital 
+We saw that the electron in hydrogen occupies the first energy level in the ground state. 
+This energy level can hold a maximum of two electrons. To highlight the distinction 
+between this wave description of the electron provided by the Schrödinger model and 
+the circular orbits of the Bohr atom, we say the electron occupies a 1s orbital.
+The dots in Figure 7 represent locations where the electron is most likely to be found. 
+The denser the arrangement of dots, the higher the probability that the electron 
+occupies this region of space. The electron can be found anywhere within a spherical 
+space surrounding the nucleus.
+S1.3 Figure 7 An electron in a 1s atomic orbital. The density of the dots gives a measure of the 
+probability of finding the electron in this region.
+The first energy level consists of a 1s atomic orbital, which is spherical in shape.
+Our model of the atom 
+owes a great deal to the 
+work of Niels Bohr and 
+Werner Heisenberg, 
+who worked together 
+in the early years of 
+quantum theory before 
+the Second World 
+War. But they found 
+themselves on different 
+sides when war broke 
+out. The award-
+winning play and ﬁ lm 
+Copenhagen is based on 
+their meeting in that city 
+in 1941 and explores 
+their relationship, the 
+uncertainty of the 
+past, and the moral 
+responsibilities of 
+the scientist. 
+The Pauli exclusion 
+principle states 
+that no more than 
+two electrons can 
+occupy any one 
+orbital, and if two 
+electrons are in 
+the same orbital, 
+they must spin in 
+opposite directions. 
+An orbital shows the 
+volume of space in 
+which the electron is 
+likely to be found. 
+An electron is uniquely 
+characterized by its 
+atomic orbital and 
+spin. If two electrons 
+occupied the same 
+orbital spinning in 
+the same direction, 
+they would be the 
+same electron – which 
+is impossible! 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+59
+The second energy level has a 2s and 2p sublevel
+The second energy level of the Bohr model is split into two sublevels in the 
+Schrödinger model. The 2s sublevel is one 2s orbital and can hold a maximum of two 
+electrons, and the 2p sublevel is three 2p orbitals and can hold six electrons. The 2s 
+orbital has the same symmetry as a 1s orbital but extends over a larger volume. An 
+electron in a 2s orbital is, on average, further from the nucleus than an electron in a 
+1s orbital and has higher energy.
+The three 2p atomic orbitals in the 2p sublevel have equal energy and are said to 
+be degenerate. They all have the same dumbbell shape; the only difference is their 
+orientation in space. They are arranged at right angles to each other with the nucleus 
+at the centre.
+d and f orbitals
+We have seen that the first energy level is made up of one sublevel and the 
+second energy level is made up of two sublevels. This pattern can be generalized; 
+the nth energy level of the atom is divided into n sublevels. The third energy level 
+is made up of three sublevels: the 3s, 3p and 3d. The d sublevel is made up of five 
+d atomic orbitals.
+The 2s electron orbital. Just as 
+a water wave can have crests 
+and troughs, an orbital can 
+have positive and negative 
+areas. The blue area shows 
+positive values, and the gold 
+area negative. As it is the 
+magnitude of the wave, not 
+the sign, which determines 
+the probability of finding 
+an electron at particular 
+positions, the sign is often not 
+shown. 
+Investigating orbital 
+shapes with modeling 
+clay. Full details of 
+how to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+From left to right, the py, 
+pz, and px atomic orbitals, 
+localized along the y, z, 
+and x-axes respectively (the 
+y-axis comes out of the 
+page). As they have the same 
+energy, they are said to be 
+degenerate. They form the 
+2p sublevel.
+STRUCTURE1.3
+Electron configurations 
+
+
+60
+The letters s, p, d, and f are used to identify different sublevels and the atomic orbitals 
+that comprise them. The fourth level (n = 4) is similarly made up from four sublevels. 
+The 4f sublevels are made up of seven f atomic orbitals, but you are not required to 
+know the shapes of these orbitals.
+Worked example 
+Draw the shapes of a 1s orbital and a 2px orbital.
+Solution
+x
+z
+y
+1s orbital
+2px orbital
+The five electron orbitals 
+found in the 3d sublevel. Four 
+of the orbitals are made up 
+of four lobes, centered on 
+the nucleus. 
+You are expected to 
+know the shapes and 
+names of the s and 
+p atomic orbitals, 
+but not of the d 
+atomic orbitals. 
+The labels s, p, d 
+and f relate to the 
+nature of the spectral 
+lines the model was 
+attempting to explain. 
+The corresponding 
+spectroscopic terms are 
+sharp, principal, diffuse
+and ﬁ ne.
+The shapes of a 1s 
+orbital and a 2px
+orbital. A simple two-
+dimensional drawing 
+is sufficient. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+61
+Each main energy level is divided into sublevels 
+The atomic orbitals associated with the different energy levels are shown in Figure 8. 
+This diagram is a simplification, as the relative energy of the orbitals depends on the 
+atomic number. The relative energies of the 4s and 3d atomic orbitals are particularly 
+significant and will be discussed in more detail later.
+4p
+3p
+2p
+4s
+3s
+2s
+1s
+3d
+The 3d sublevel
+falls below the 4s
+level for elements
+Z . 20.
+energy
+Degenerate orbitals of the same energy form a sublevel; three p orbitals form a 
+p sublevel, five d orbitals form a d sublevel and seven f orbitals form an f sublevel. 
+A single s orbital makes up an s sublevel.
+The number of electrons in the sublevels of the first four energy levels are shown in 
+the table.
+Level
+Sublevel
+Maximum number of 
+electrons in sublevel
+Maximum number of 
+electrons in level
+n = 1
+1s
+2
+2
+n = 2
+2s
+2
+8
+2p
+6
+n = 3
+3s
+2
+18
+3p
+6
+3d
+10
+n = 4
+4s
+2
+32
+4p
+6
+4d
+10
+4f
+14
+We can see the following from the table:
+• The nth energy level of the atom is divided into n sublevels. For example, the 4th 
+level (n = 4) is made up of four sublevels.
+• Each main level can hold a maximum of 2n2 electrons. For example, the 
+3rd energy level, can hold a maximum of 18 electrons (2 × 32 = 18).
+• s sublevels can hold a maximum of 2 electrons.
+• p sublevels can hold a maximum of 6 electrons.
+• d sublevels can hold a maximum of 10 electrons.
+• f sublevels can hold a maximum of 14 electrons.
+S1.3 Figure 8 The relative 
+energies of the atomic 
+orbitals up to the 4p sublevel. 
+Models are 
+simplifications of 
+complex systems. 
+Details of the historic 
+atomic models 
+of Dalton, Bohr, 
+Schrödinger and 
+Heisenberg will not be 
+assessed. 
+STRUCTURE1.3
+Electron configurations 
+
+
+62
+The Aufbau principle: constructing arrow-in-box diagrams 
+The electron configuration of the ground state of an atom of an element can be 
+determined using the Aufbau principle, which states that electrons are placed into 
+orbitals of lowest energy first. Boxes can be used to represent the atomic orbitals, 
+with single-headed arrows to represent the spinning electrons. The electron 
+configurations of the first five elements are shown in Figure 9. The number of 
+electrons in each sublevel is given as a superscript.
+H
+Element
+Orbital 
+diagrams
+Electron
+conﬁguration
+He
+Li
+Be
+B
+1s1
+1s2
+1s22s1
+1s22s2
+1s22s22p1
+2p
+2s
+1s
+2s
+1s
+2s
+1s
+1s
+1s
+S1.3 Figure 9 The electron configurations of the first five elements. 
+The next element in the periodic table is carbon. It has two electrons in the 2p sublevel. 
+These could either pair up, and occupy the same p orbital, or occupy separate 
+p orbitals. Following Hund’s third rule, we place the two electrons in separate orbitals 
+because this configuration minimizes the mutual repulsion between them. As the 
+2p orbitals are perpendicular to each other and do not overlap, the two 2p electrons 
+are unlikely to approach each other too closely. The electrons in the different 2p 
+orbitals have parallel spins, as this leads to lower energy. The electron configurations 
+of carbon and nitrogen are shown in Figure 10.
+Element
+Orbital diagrams
+Electron
+conﬁguration
+N
+1s22s22p3
+2p
+2s
+1s
+C
+1s22s22p2
+2p
+2s
+1s
+S1.3 Figure 10 Electron configurations of carbon and nitrogen.
+The 2p electrons begin to pair up for oxygen (1s22s22px22py12pz1) and fluorine 
+(1s22s22px22py22pz1). The 2p sub-shell is completed for neon (1s22s22px22py22pz2).
+Aufbau means ‘building 
+up’ in German.
+Hund’s rule: If more 
+than one orbital 
+in a sublevel is 
+available, electrons 
+occupy different 
+orbitals with 
+parallel spins. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+63
+Worked example 
+Deduce the electron conﬁ guration of sulfur.
+Solution
+Sulfur has an atomic number of 16. Therefore it has 16 electrons.
+Two electrons occupy the 1s: 1s2
+Two electrons occupy the 2s: 2s2
+Six electrons occupy the 2p: 2p6
+Two electrons occupy the 3s: 3s2
+Four electrons occupy the 3p: 3p4
+So the electron conﬁ guration is 1s2 2s22p6 3s2 3p4
+Exercise
+Q5. 
+List the 4d, 4f, 4p, and 4s atomic orbitals in order of increasing energy.
+Q6. 
+State the number of 4d, 4f, 4p, and 4s atomic orbitals.
+Q7. 
+Apply the orbital diagram method to determine the electron conﬁ guration 
+of calcium.
+Q8. 
+Deduce the number of unpaired electrons present in a phosphorus atom.
+Q9. 
+Deduce the number of orbitals in the n = 4 level and explain your answer.
+Challenge yourself
+3. Which of the following provide evidence to support the Bohr model of the 
+hydrogen atom?
+I.  
+The energy of the lines in the emission spectra of atomic hydrogen.
+II. The relative intensity of the different spectral lines in the emission spectrum 
+of atomic hydrogen.
+A 
+I only 
+B 
+II only 
+C 
+I and II 
+D 
+Neither I nor II
+7s
+6s
+5s
+4s
+3s
+2s
+1s
+7p
+6p
+5p
+4p
+3p
+2p
+7d
+6d
+5d
+4d
+3d
+7f
+6f
+5f
+4f
+7g
+6g
+5g
+7h
+6h
+7h
+S1.3 Figure 11 Order of filling sublevels: 
+1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p.
+Can you think of a 
+useful mnemonic to 
+help you remember 
+the order of filling 
+orbitals?
+Figure 11 shows 
+orbitals filled to 
+sublevel 7s. Follow 
+the arrows to see the 
+order in which the 
+sublevels are filled.
+STRUCTURE1.3
+Electron configurations 
+
+
+64
+The mathematical nature of the orbital description is illustrated by some simple relationships:
+• number of sublevels at nth main energy level = n
+• number of orbitals at nth energy level = n2
+• number of electrons at nth energy level = 2n2
+• number of orbitals at lth sublevel = (2l + 1) where n and l are sometimes known as 
+quantum numbers.
+Sublevel
+s
+p
+d
+f
+l
+0
+1
+2
+3
+The relative energy of the orbitals depends on the atomic 
+number 
+The energy of an orbital depends on the attraction between the electrons and the 
+nucleus and inter-electron repulsions. As these interactions change with the nuclear 
+charge and the number of electrons – that is, the atomic number – so does the relative 
+energy of the orbitals. All the sublevels in the third energy level (3s, 3p, and 3d), for 
+example, have the same energy for the hydrogen atom and only become separated 
+as extra protons and electrons are added. The situation is particularly complicated 
+when we reach the d block elements. The 3d and 4s levels are very close in energy and 
+their relative separation is very sensitive to inter-electron repulsion. For the elements 
+potassium and calcium, the 4s orbitals are filled before the 3d sublevel. Electrons are, 
+however, first lost from the 4s sublevel when transition metals form their ions, as once 
+the 3d sublevel is occupied the 3d electrons push the 4s electrons to higher energy.
+Worked example 
+State the full electron conﬁ guration of vanadium and deduce the number of 
+unpaired electrons.
+Solution
+The atomic number of vanadium gives the number of electrons: Z = 23.
+So the electron conﬁ guration is: 1s22s22p63s23p64s23d3
+Note: the 3d sublevel is ﬁ lled after the 4s sub level.
+It is useful, however, to write the electron conﬁ guration with the 3d sub-shell 
+before the 4s: 1s22s22p63s23p63d34s2 as the 3d sublevel falls below the 4s orbital 
+once the 4s orbital is occupied (i.e. for elements after Ca).
+The three 3d orbitals each have an unpaired electron. 
+Number of unpaired electrons = 3.
+The worked example asked for the full electron configuration. Sometimes it is 
+convenient to use an abbreviated form, where only the outer electrons are explicitly 
+shown. The inner electrons are represented as a noble gas core. Using this notation, the 
+electron configuration of vanadium is written [Ar] 3d34s2, where [Ar] represents the 
+electron configuration of Ar, which is 1s22s22p63s23p6.
+The abstract language 
+of mathematics 
+provides a powerful 
+tool for describing 
+the behavior of 
+electrons in the atom. 
+The shapes and 
+equations it generates 
+have elegance and 
+symmetry. What do 
+such results tell us 
+about the relationship 
+between the natural 
+sciences, mathematics, 
+and the natural world? 
+Why are many of the 
+laws in the natural 
+sciences stated using 
+the language of 
+mathematics?
+When the transition 
+metal atoms form 
+ions they lose 
+electrons from the 
+4s sublevel before 
+the 3d sublevel.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+65
+The electron configurations of the first 30 elements are shown in the table.
+Element
+Electron conﬁ guration
+Element
+Electron conﬁ guration
+1H
+1s1
+16S
+1s22s22p63s23p4
+2He
+1s2
+17Cl
+1s22s22p63s23p5
+3Li
+1s22s1
+18Ar
+1s22s22p63s23p6
+4Be
+1s22s2
+19K
+1s22s22p63s23p64s1
+5B
+1s22s22p1
+20Ca
+1s22s22p63s23p64s2
+6C
+1s22s22p2
+21Sc
+[Ar] 3d14s2
+7N
+1s22s22p3
+22Ti
+[Ar] 3d24s2
+8O
+1s22s22p4
+23V
+[Ar] 3d34s2
+9F
+1s22s22p5
+24Cr
+[Ar] 3d54s1
+10Ne
+1s22s22p6
+25Mn
+[Ar] 3d54s2
+11Na
+1s22s22p63s1
+26Fe
+[Ar] 3d64s2
+12Mg
+1s22s22p63s2
+27Co
+[Ar] 3d74s2
+13Al
+1s22s22p63s23p1
+28Ni
+[Ar] 3d84s2
+14Si
+1s22s22p63s23p2
+29Cu
+[Ar] 3d104s1
+15P
+1s22s22p63s23p3
+30Zn
+[Ar] 3d104s2
+The electrons in the outer energy level are mainly responsible for compound 
+formation and are called valence electrons. Lithium has one valence electron in the 
+outer second energy level (2s1), beryllium has two (2s2), boron has three (2s2p1), and 
+so on. The number of valence electrons follows a periodic pattern, which is discussed 
+fully in Structure 3.1. Atoms can have many other electron configurations when in 
+an excited state. Unless otherwise instructed, assume that you are being asked about 
+ground-state configurations.
+For the d block elements, three points should be noted:
+• the 3d sublevel is written with the other n = 3 sublevels because it falls below the 
+4s orbital once the 4s orbital is occupied (i.e. for elements after Ca), as discussed 
+earlier
+• chromium has the electron configuration [Ar] 3d54s1
+• copper has the electron configuration [Ar] 3d104s1.
+To understand the electron configurations of copper and chromium, it is helpful to 
+consider the electrons-in-boxes arrangements in Figure 12. As the 4s and 3d orbitals 
+are close in energy, the electron configuration for chromium, with a half-full d 
+sublevel, is relatively stable as it minimizes electrostatic repulsion, with six singly 
+occupied atomic orbitals. This would be the expected configuration using Hund’s rule 
+if the 4s and 3d orbitals had exactly the same energy. Half-filled and filled sublevels 
+seem to be particularly stable: the configuration for copper is similarly due to the 
+stability of the full d sublevel.
+4s
+3s
+3p
+3d
+chromium: [Ar]3d54s1
+copper: [Ar]3d104s1
+4s
+3s
+3p
+3d
+The term ‘valence’ is 
+derived from the Latin 
+word for ‘strength’.
+S1.3 Figure 12 The electron 
+configurations of the 3rd 
+and 4th energy levels for 
+chromium and copper.
+STRUCTURE1.3
+Electron configurations 
+
+
+66
+Exercise
+Q10. Identify the sublevel that does not exist.
+A 
+5d 
+ 
+ 
+B 
+4d
+C 
+3f 
+ 
+ 
+D 
+2p
+Q11. Which is the correct order of orbital ﬁ lling according to the 
+Aufbau principle?
+A 
+4s 4p 4d 4f 
+ 
+ 
+B 
+4p 4d 5s 4f
+C 
+4s 3d 4p 5s 
+ 
+ 
+D 
+4d 4f 5s 5p
+Q12. State the full ground-state electron conﬁ guration of the following elements.
+(a) V 
+(b) K 
+(c) Se 
+(d) Sr
+Q13. Determine the total number of electrons in d orbitals in a single iodine atom.
+A 
+5 
+ 
+ 
+B 
+10
+C 
+15 
+ 
+ 
+D 
+20
+Q14. Identify the excited state (i.e. not a ground state) in the following 
+electron conﬁ gurations.
+A 
+[Ne] 3s23p3 
+ 
+ 
+B 
+[Ne] 3s23p34s1
+C 
+[Ne] 3s23p64s1 
+ 
+D 
+[Ne] 3s23p63d14s2
+Q15. Deduce the number of unpaired electrons present in the ground state of a 
+titanium atom.
+A 
+1 
+ 
+ 
+B 
+2
+C 
+3 
+ 
+ 
+D 
+4
+Q16. Identify the atom that possesses the most unpaired electrons.
+A 
+O 
+ 
+ 
+B 
+Mg
+C 
+Ti 
+ 
+ 
+D 
+Fe
+Electron configurations of ions 
+As discussed earlier, positive ions are formed by the loss of electrons. These electrons are 
+lost from the outer sublevels. For example, the electron configurations of the different 
+aluminium ions formed when electrons are successively removed are as follows:
+• Al+ is 1s22s22p63s2
+• Al2+ is 1s22s22p63s1
+• Al3+ is 1s22s22p6
+When positive ions are formed for transition metals, the outer 4s electrons are 
+removed before the 3d electrons, as discussed earlier.
+For example, Cr is [Ar] 3d54s1 and Cr3+ is [Ar] 3d3
+The electron configurations of negative ions are determined by adding the electrons 
+into the next available electron orbital:
+S is 1s22s22p63s23p4 and S2– is 1s22s22p63s23p6
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+67
+Worked example 
+Deduce the ground-state electron conﬁ guration of the Fe3+ ion.
+Solution
+First ﬁ nd the electron conﬁ guration of the atom. Fe has 26 electrons: 
+1s22s22p63s23p64s23d6
+As the 3d sublevel is below the 4s level for elements after calcium, we write this as 
+1s22s22p63s23p63d64s2
+Now remove the two electrons from the 4s sublevel and one electron from the 
+3d sublevel.
+Electron conﬁ guration of Fe3+ is 1s22s22p63s23p63d5
+Note the abbreviated 
+electron configuration 
+using the noble gas 
+core is not acceptable 
+when asked for the full
+electron configuration. 
+Exercise
+Q17. State the full ground-state electron conﬁ guration of the following ions.
+(a) O2– 
+(b) Cl– 
+(c) Ti3+ 
+(d) Cu2+
+Q18. State the electron conﬁ guration of the following transition metal ions by 
+ﬁ lling in the boxes below. Use arrows to represent the electron spin.
+Ion
+3d
+4s
+(a)
+Ti2+
+(b)
+Fe2+
+(c)
+Ni2+
+(d)
+Zn2+
+Q19. (a) State the full electron conﬁ guration for neon.
+(b) State the formulas of two oppositely charged ions which have the same 
+electron conﬁ guration as neon.
+Q20. State the abbreviated electron conﬁ guration using the previous noble 
+gas core for:
+(a) Ni2+
+(b) Pb2+ 
+(c) S2–
+(d) Si4+
+Electron configuration and the periodic table 
+We are now in a position to understand the structure of the periodic table (Figure 13):
+• elements whose valence electrons occupy an s sublevel make up the s block
+• elements with valence electrons in p orbitals make up the p block
+• the d block and the f block are similarly made up of elements with outer 
+electrons in d and f orbitals.
+STRUCTURE1.3
+Electron configurations 
+
+
+68
+p6
+He
+Ne
+Ar
+Kr
+Xe
+I
+Rn
+1
+2
+3
+4
+5
+6
+7
+Cs
+s block
+d block
+p block
+f block
+H
+p5
+p4
+p3
+p2
+p1
+d10
+d7
+d8
+d6
+d5
+d4/
+d5
+d9/
+d10
+d3
+d2
+d1
+s2
+s1
+n
+S1.3 Figure 13 The block structure of the periodic table is based on the sublevels of the atom. H and 
+He are difficult elements to classify. Although they have electron configurations that place them in the 
+s block, their chemistry is not typical of group 1 or group 2 elements.
+The position of an element in the periodic table is based on the occupied sublevel of 
+highest energy in the ground-state atom. Conversely, the electron configuration of an 
+element can be deduced directly from its position in the periodic table.
+Here are some examples.
+• Ceasium is in group 1 and period 6 and has the electron configuration: [Xe] 6s1.
+• Iodine is in group 17 and in period 5 and has the configuration: [Kr] 5s24d105p5. 
+Placing the 4d sublevel before the 5s gives [Kr] 4d105s25p5. Iodine has 7 valence 
+electrons, in agreement with the pattern discussed on page 65.
+Exercise
+Q21. Use the periodic table to ﬁ nd the full ground-state electron conﬁ gurations 
+of the following elements.
+(a) Cl 
+ 
+ 
+(b) Nb
+(c) Ge 
+ 
+ 
+(d) Sb
+Q22. Identify the elements that have the following ground-state electron 
+conﬁ gurations.
+(a) [Ne] 3s23p2 
+ 
+ 
+(b) [Ar] 3d54s2
+(c) [Kr] 5s2 
+ 
+ 
+(d) 1s22s22p63s23p63d14s2
+Q23. State the total number of p orbitals containing one or more electrons in tin.
+Q24. How many electrons are there in all the d orbitals in an atom of barium?
+Q25. State the electron conﬁ guration of the ion Cd2+.
+Q26. State the full electron conﬁ guration of U2+.
+The ns and np 
+sublevels are filled 
+for elements in 
+period n. However 
+the (n – 1)d sublevel 
+is filled for elements 
+in period n. 
+Structure 3.1 – What 
+is the relationship 
+between energy 
+sublevels and the block 
+nature of the periodic 
+table?
+Structure 3.1 – How 
+does an element’s 
+highest main energy 
+level relate to its period 
+number in the periodic 
+table?
+Some versions of the 
+periodic table use
+ the numbering 3–7
+ for groups 13–17. In
+ this version, group 3 
+elements have three 
+valence electrons and 
+group 7 elements 
+have seven valence 
+electrons. Although 
+this is simpler, in some 
+respects it can lead 
+to problems. After 
+extensive discussions, 
+the IUPAC concluded 
+that the 1 to 18 
+numbering provides 
+the clearest and most 
+unambiguous labelling 
+system.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+69
+Challenge yourself
+4. State the electron configuration of thorium.
+5. Only a few atoms of element 109, meitnerium, have ever been made. Isolation 
+of an observable quantity of the element has never been achieved and may well 
+never be. This is because meitnerium decays very rapidly.
+(a) Suggest the electron configuration of the ground-state atom of the element.
+(b) There is no g block in the periodic table as no elements with outer electrons 
+in g orbitals exist in nature or have been made artificially. Suggest a 
+minimum atomic number for such an element.
+6. Consider how the shape of the periodic table is related to the three-dimensional 
+world we live in.
+(a) How many 3p and 3d orbitals would there be if only the x and y
+dimensions existed?
+(b) How many groups in the p and d block would there be in such a 
+two-dimensional world?
+Nature of Science
+We have seen how the model of the atom has changed over time. All these 
+theories are still used today. Dalton’s model adequately explains many 
+properties of the states of matter, the Bohr model is used to explain chemical 
+bonding, and the structure of the periodic table is explained by the wave 
+description of the electron. In science, we often follow Occam’s razor and use 
+the simplest explanation that can account for the phenomena. As Einstein said 
+‘Explanations should be made as simple as possible, but not simpler’.
+Do atomic orbitals exist 
+or are they primarily 
+useful inventions to aid 
+our understanding? 
+What consequences 
+might questions about 
+the reality of scientific 
+entities have for the 
+public perception and 
+understanding of the 
+subject? If they are only 
+inventions, how is it 
+that they can yield such 
+accurate predictions? 
+How can we model the energy states of electrons in atoms?
+Guiding Question revisited
+In this chapter we have developed models of the energy states of electrons in atoms to 
+explain atomic emission line spectra and patterns in successive ionization energies of 
+an element, and first ionizations.
+• Electromagnetic radiation can be described using a wave model or a particle 
+model. The speed of the wave (c) is related to the frequency ( f ) and wavelength
+(λ) by the expression: c = f λ
+• The existence of lines in an emission spectrum indicates that the electron can 
+only exist in discrete energy levels. The lines in the spectra converge at high 
+energies because the gaps between energy levels in the atom decrease at higher 
+energies.
+• In the Bohr model of the hydrogen atom, the electron travels in orbits of discrete 
+radii around the nucleus. This model correctly predicts the frequencies and 
+wavelengths of the line spectra but does not apply to more complex systems 
+with more than one electron.
+STRUCTURE1.3
+Electron configurations 
+
+
+70
+• According to quantum theory, an electron’s trajectory can only be described in 
+terms of probabilities and a wave model of the electron is needed.
+• Electrons in the atom occupy atomic orbitals, which are regions in which the electron 
+is most likely to be found. Two electrons of opposite spin can occupy one orbital.
+• Atomic orbitals have different shapes, sizes and energies. Orbitals of the same 
+energy form sublevels. The first energy level is made up of one sublevel, the 
+second has two sublevels and so on.
+• The ground state configuration of an atom is obtained using the Aufbau 
+principle, with electrons occupying the available orbitals of lowest energy.
+• The periodic table reflects the periodicity of the electron configuration. 
+Elements with valence electrons in s orbitals are in the s block, elements with 
+valence electrons in p orbitals are in the p block, and so on.
+• The energy of a photon (Ephoton) depends on the frequency ( f ) according to 
+Planck’s equation: 
+Ephoton = h f.
+• When an excited electron in an atom loses energy, the energy is given out as a 
+photon: 
+∆Eatom = Ephoton
+Practice questions
+1. What is the electron conﬁ guration of the Cr2+ ion?
+A 
+[Ar] 3d54s1 
+B 
+[Ar] 3d34s1 
+C 
+[Ar] 3d64s1 
+D 
+[Ar] 3d44s0
+2. Which is correct for the following regions of the electromagnetic spectrum?
+Ultraviolet (UV)
+Infrared (IR)
+A
+high energy
+short wavelength
+low energy
+low frequency
+B
+high energy
+low frequency
+low energy
+long wavelength
+C
+high frequency
+short wavelength
+high energy
+long wavelength
+D
+high frequency
+long wavelength
+low frequency
+low energy
+3. An ion has the electron conﬁ guration 1s22s22p63s23p63d10. 
+Which ion could it be?
+A 
+Ni2+ 
+B 
+Cu+ 
+C 
+Cu2+ 
+D 
+Co3+
+4. In the emission spectrum of hydrogen, which electron transition would 
+produce a line in the visible region of the electromagnetic spectrum?
+A
+n = 2 →n = 1 
+ 
+ 
+B
+n = 3 →n = 2
+C
+n = 2 →n = 3 
+ 
+ 
+D
+n = ∞→n = 1
+5. Which is correct for the line emission spectrum for hydrogen?
+A 
+Line M has a higher energy 
+than line N. 
+B 
+Line N has a lower frequency
+than line M. 
+C 
+Line M has a longer wavelength  
+M
+N
+O
+P Q R
+than line N. 
+D 
+Lines converge at lower energy.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+71
+6. Which electron conﬁ guration is correct for the selenide ion, Se2−?
+A 
+1s2 2s2 2p6 3s2 3p6 4s2 4d10 4p4
+B 
+1s2 2s2 2p6 3s2 3p6 4s2 4d10 4p6
+C 
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4
+D 
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6
+7. The electron conﬁ guration of chromium can be expressed as [Ar]4sx3dy.
+(a) Explain what the square brackets around argon, [Ar], represent. 
+(1)
+(b) State the values of x and y. 
+(1)
+(c) Annotate the diagram below to show the 4s and 3d orbitals for a 
+chromium atom. Use an arrow,  and , to represent a spinning electron.
+4s
+3d
+(1)
+(Total 3 marks)
+8. (a) List the following types of electromagnetic radiation in order of increasing 
+wavelength (shortest ﬁ rst).
+I. 
+Yellow light 
+ 
+II. Red light
+III. Infrared radiation 
+IV. Ultraviolet radiation 
+(1)
+(b) Distinguish between a continuous spectrum and a line spectrum. 
+(1)
+(Total 2 marks)
+9.
+(a) State the full electron conﬁ guration of a bromine atom. 
+(1)
+(b) Sketch the orbital diagram of the valence shell of a bromine atom 
+(ground state) on the energy axis provided. Use boxes to represent orbitals 
+and arrows to represent electrons.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+«4p»
+«4s»
+(1)
+(Total 2 marks)
+STRUCTURE1.3
+Electron configurations 
+
+
+Counting particles by 
+mass: The mole   
+1.4
+STRUCTURE
+
+

@@ -1,0 +1,2052 @@
+73
+STRUCTURE1.4
+Counting particles by mass: The mole 
+Nature of Science
+Advances in technology have led to increasingly precise ways of measuring 
+mass, as well as units derived from it, such as concentration. This means that 
+values which were previously too low to be detected can now be reported 
+accurately. This makes possible changes in regulations and laws, such as levels 
+of pollutants in fluids and of illegal drugs in the bloodstream. Authorities 
+and governments often depend on measurements such as these in making 
+judgements and enforcing the law. It is therefore essential that the data 
+collected are reliable and include clearly stated uncertainties. 
+How do we quantify matter on the atomic scale?
+Guiding Question
+Chemical change involves interactions between atoms that have fixed mass. Yet the 
+mass of an individual atom is so small that it is not practical to measure it directly in 
+a laboratory. The upper limit of precision of very high quality analytical balances is 
+generally about 1 × 10–8 kg, whereas, for example, a single atom of carbon weighs 1.99 
+× 10–26 kg.
+Clearly, we need a way to close the gap between what can be measured and what 
+is happening on the atomic scale. In this chapter we will learn how solving this 
+problem led to the development of the chemical unit of amount, the mole. The mole 
+is a fundamental unit in the SI system and is one of the most widely used tools in 
+chemistry. It allows a form of book-keeping at the atomic level, making that important 
+link between the measurable mass and the number of reacting particles.
+Structure 1.4.1 – The mole as the unit of amount
+Structure 1.4.1 – The mole (mol) is the SI unit of amount of substance. One mole 
+contains exactly the number of elementary entities given by the Avogadro constant.
+Convert the amount of substance, n, to the number of speciﬁ ed elementary entities. 
+An elementary entity may be an atom, a 
+molecule, an ion, an electron, any other 
+particle or a speciﬁ ed group of particles.
+Avogadro’s constant (NA) is given in the data 
+booklet. It has the units mol–1. 
+(Top) Entrance to the Bank of England, London, 1872. Samples of precious metals such as gold
+and silver are being checked for mass on the balance in the centre. (Bottom) A modern analytical
+instrument that measures mass to a high degree of precision, accounting for small factors such as dust
+and airflow. 
+
+
+74
+The Avogadro constant deﬁ nes the mole as the unit 
+of amount in chemistry
+We know that even with the very best experimental apparatus available, we are unable 
+to measure the mass of individual atoms in the laboratory directly. They are simply too 
+small. This is not really a problem, because all we need to do is to weigh an appropriately 
+large number of atoms to give a mass that will be a useful quantity in grams. As atoms 
+do not react individually but in very large numbers, this approach makes sense. So how 
+many atoms shall we lump together in our ‘appropriately large number’?
+Let us first consider that atoms of different elements have different masses because they 
+contain different numbers of particles, mostly nucleons in their nucleus, as discussed 
+in Structure 1.2. This means we can compare their masses with each other in relative 
+terms. For example, an atom of oxygen has a mass approximately 16 times greater than 
+an atom of hydrogen, and an atom of sulfur has a mass about twice that of an atom 
+of oxygen. The good news is that these ratios will stay the same when we increase the 
+number of atoms, so long as we ensure we have the same number of each type of atom.
+mass of 1 atom
+(arbitrary units)
+ratio of mass
+1
+1
+16
+16
+32
+Hydrogen
+Oxygen
+Sulfur
+32
+mass of 
+100 atoms
+ratio of mass
+... and so on for any ﬁxed number of atoms
+100
+1
+:
+:
+:
+:
+1600
+16
+3200
+32
+If we could take 6 .02 × 1023 atoms of hydrogen, it would have a mass of 1 g. It follows 
+from the ratios above that the same number of atoms of oxygen would have a mass of 
+16 g, while the same number of atoms of sulfur would have a mass of 32 g. We now have a 
+quantity of atoms that we can measure in grams (Figure 1).
+6.02
+3 1023
+atoms
+H
+1g
+16g
+32g
+6.02
+3 1023
+atoms
+O
+6.02
+3 1023
+atoms
+S
+The mole.
+Full details of how to 
+carry out this activity 
+with a worksheet are 
+available in the eBook. 
+100 atoms of H, O and 
+S have the same mass 
+ratio as one atom of each 
+element, 1 : 16 : 32.
+S1.4 Figure 1 6.02 × 1023
+atoms of H, O and S have 
+the same mass ratio as one 
+atom of each element. This 
+number of atoms gives an 
+amount that we can see and 
+measure in grams. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+75
+This number, accurately stated as 6.02214129 × 1023, is known as the Avogadro 
+number, and it is the basis of the unit of amount used in chemistry known as the 
+mole. In other words, one mole of a substance contains the Avogadro number of 
+particles. Mole, the unit of amount, is one of the base units in the SI system and has the 
+unit symbol mol.
+The example in Figure 1 is illustrative only, as in reality hydrogen and oxygen do 
+not occur stably as single atoms, but as diatomic molecules, H2 and O2, as explained 
+in Structure 2.2. Other substances exist as particles of different types, so the term 
+elementary entity is used to cover the broad range of possible particles. An 
+elementary entity may be an atom, a molecule, an ion, an electron, any other particle 
+or a specified group of particles.
+In 2019, the International Union of Pure and Applied Chemistry (IUPAC) published a 
+change to the definition of the mole. The new definition emphasizes that the quantity 
+‘amount of substance’ is concerned with counting entities, rather than measuring the 
+mass of a sample.
+The SI refers to the metric system of measurement based on seven base units. These are 
+metre (m) for length, kilogram (kg) for mass, second (s) for time, ampere (A) for electric 
+current, kelvin (K) for temperature, candela (cd) for luminous intensity and mole (mol) for 
+amount of substance. All other units are derived from these. The SI system is the world’s most 
+widely used system of measurement. 
+The International Bureau of Weights and Measures (BIPM according to its French initials) is 
+an international standards organization, which aims to ensure uniformity in the application 
+of SI units around the world. The BIPM officially introduced updated definitions to these base 
+units, including the mole, in 2019.
+So ‘mole’ is simply a word that represents a number, just as ‘couple’ is a word for 2 
+and ‘dozen’ is a word for 12. A mole is a very large number, bigger than we can easily 
+imagine or ever count, but it is nonetheless a fixed number. So a mole of any substance 
+contains the Avogadro number, 6.02 × 1023, of entities. It can refer to atoms, molecules, 
+ions, electrons and so on – it can be applied to any entity because it is just a number. 
+And from this, we can easily calculate the number of particles in any fraction or 
+multiple of a mole of a substance.
+Amedeo Avogadro 
+(1776–1856) was 
+an Italian scientist 
+who made several 
+experimental 
+discoveries. He 
+clariﬁ ed the distinction 
+between atoms and 
+molecules, and used 
+this to propose the 
+relationship between 
+gas volume and 
+number of molecules. 
+His ideas were not 
+accepted in his time, 
+largely due to a lack of 
+consistent experimental 
+evidence. After his 
+death, when his 
+theory was conﬁ rmed 
+by fellow Italian 
+Cannizzaro, his name 
+was given in tribute to 
+the famous constant 
+that he helped to 
+establish. 
+The mole is the 
+SI unit of amount 
+of substance. One 
+mole contains 
+exactly 6.022 × 1023
+elementary entities. 
+This number is the 
+fixed numerical value 
+of the Avogadro 
+constant, NA.
+Each sample contains one 
+mole, 6.02 × 1023 particles, of 
+a specific element. Each has 
+a characteristic mass, known 
+as its molar mass. Clockwise 
+from upper left the elements 
+are: carbon (C), sulfur (S), 
+iron  (Fe), copper (Cu) and 
+magnesium (Mg). 
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+76
+The Avogadro constant is so large a number that we cannot comprehend its scale. For example:
+• a population of 6.02 × 1023 people would need 75 trillion Earths each with the current 
+population of nearly 8 billion
+• 6.02 × 1023 pencil erasers would cover the Earth to a depth of about 500 m
+• 6.02 × 1023 drops of water would ﬁ ll all the oceans of the Earth many times over 
+Worked example 
+A tablespoon holds 0.500 moles of water. How many molecules of water are present?
+Solution
+1.00 mole of water has 6.02 × 1023 molecules of water
+So 0.500 moles of water has 0.500 mol × 6.02 × 1023 molecules
+0.500 mol = 3.01 × 1023 molecules of water
+Worked example 
+A solution of ammonia and water contains 2.10 × 1023 molecules of H2O and 
+8.00 × 1021 molecules of NH3. How many moles of hydrogen atoms are present?
+Solution
+First total the number of hydrogen atoms.
+from water, H2O: number of H atoms = 2 × (2.10 × 1023) = 4.20 × 1023
+from ammonia, NH3: number of H atoms = 3 × (8.00 × 1021) = 0.240 × 1023
+so total H atoms = (4.20 × 1023) + (0.240 × 1023) = 4.44 × 1023
+To convert atoms to moles, divide by the Avogadro constant:
+4.44
+____
+6.02 ×  1023
+____
+ 1023   = 0.738 mol H atoms
+divide by Avogadro constant, NA
+number of particles
+number of moles, n
+multiply by Avogadro constant, NA
+Using the Avogadro constant to calculate the number of particles in a sample has its uses, 
+but it still leaves us with numbers that are beyond our comprehension. What is much 
+more useful, as you have probably realized, is the link between the Avogadro constant 
+and the mass of one mole of a substance, which is based on the relative atomic mass.
+Number of particles = 
+number of moles (n) 
+× Avogadro constant 
+(NA).
+The Avogadro 
+number, 6.02 × 
+1023, is the fixed 
+numerical value 
+of the Avogadro 
+constant, NA, which 
+has the units mol–1.
+The magnitude of the 
+Avogadro constant 
+is beyond the scale 
+of our everyday 
+experience. What is 
+the difference between 
+‘data’, ‘information’ and 
+‘knowledge’?
+Experimental 
+estimation of the 
+Avogadro constant.
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+77
+Nature of Science
+Accurate determinations of the Avogadro constant require the measurement 
+of a single quantity using the same unit on both the atomic and macroscopic 
+scales. This was first done following Millikan’s work measuring the charge 
+on a single electron. The charge on a mole of electrons, known as the Faraday 
+constant, was already known through electrolysis experiments. Dividing 
+the charge on a mole of electrons, 96 485.3383 C, by the charge on a single 
+electron, 1.60217653 × 10–19 C, gives a value for the Avogadro constant of 
+6.02214154 × 1023 mol–1. Later work used X-ray crystallography of very 
+pure crystals to measure the spacing between particles and so the volume 
+of one mole. The validity of data in science is often enhanced when different 
+experimental approaches lead to consistent results. 
+Exercise
+Q1. Calculate how many hydrogen atoms are present in:
+(a) 0.020 moles of C2H5OH
+(b) 2.50 moles of H2O
+(c) 0.10 moles of Ca(HCO3)2
+Q2. Propane has the formula C3H8. If a sample of propane contains 0.20 moles 
+of C, how many moles of H are present?
+Q3. Calculate the amount of sulfuric acid, H2SO4, which contains 6.02 × 1023
+atoms of oxygen. 
+Structure 1.4.2 – Relative atomic mass and 
+relative formula mass
+Structure 1.4.2 – Masses of atoms are compared on a scale relative to 12C and are 
+expressed as relative atomic mass (Ar) and relative formula mass (Mr).
+Determine relative formula masses (Mr) from relative atomic masses (Ar).
+Relative atomic mass and relative formula 
+mass have no units. 
+The values of relative atomic masses given to 
+two decimal places in the data booklet should 
+be used in calculations.
+Structure 3.1 – Atoms increase in mass as 
+their position descends in the periodic table. 
+What properties might be related to this 
+trend?
+The isotope carbon–12 is used as the reference 
+point for comparing masses of atoms
+Relative atomic mass
+On page 74 the whole numbers used to compare the masses of the elements H, O and 
+S are approximate. This is mostly because of the existence of isotopes, atoms of the 
+same element that differ in their mass, as is explained in Structure 1.2. A sample of an 
+When multiplying or 
+dividing, the answer 
+should be given to 
+the same number of 
+significant figures as 
+the data value with 
+the least number of 
+significant figures. 
+When adding or 
+subtracting, the answer 
+should be given to 
+the same number 
+of decimal places as 
+the data value with 
+the least number of 
+decimal places.
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+78
+element containing billions of atoms will include a mix of these isotopes according 
+to their relative abundance. The mass of an individual atom in the sample is therefore 
+taken as a weighted average of these different masses.
+The relative scale for comparing the mass of atoms needs a reference point. The 
+international convention for this is to take the specific form of carbon known as the 
+isotope carbon-12 as the standard, and assign this a value of 12 units. In other words, 
+one twelfth of an atom of carbon-12 has a value of exactly 1.
+Putting this together, we can define the relative atomic mass as follows:
+relative atomic mass, Ar =   
+weighted average mass of one atom of the element 
+ 
+ 
+ 
+_________________________________________ 
+ 
+ 
+ 
+1__
+12 mass of one atom of carbon-12
+ 
+ 
+Values for Ar do not have units as it is a relative term, which simply compares the mass 
+of atoms against the same standard. As they are average values, they are not whole 
+numbers. Section 7 of the data booklet gives Ar values to two decimal places. Some 
+examples are given below.
+Element
+Relative atomic mass (Ar)
+carbon C
+12.01
+oxygen O
+16.00
+hydrogen H
+1.01
+lithium Li
+6.94
+sodium Na
+22.99
+potassium K
+39.10
+You will notice that the Ar of carbon is slightly greater than the mass of the isotope 
+carbon-12 used as the standard, suggesting that carbon has isotopes with mass 
+number greater than 12. In Structure 3.2 we discuss how relative atomic mass is 
+calculated from isotope abundances, using data from mass spectrometry.
+The table shows the increase in relative atomic mass of group 1 elements H, Li, Na and 
+K as we descend the group. Successive elements in the group also have an additional 
+energy level of electrons, which increases the atomic radius and therefore the distance 
+of the outermost electrons from the nucleus. The larger atoms tend to lose electrons 
+more easily, increasing their reactivity as metals. This is discussed in greater detail in 
+Structure 3.1.
+Challenge yourself
+1. Periodic tables usually, but not always, position hydrogen at the top of group 1. 
+What are the arguments for and against different positions for the placement of 
+hydrogen in the periodic table?
+Relative formula mass 
+We can extend the concept of relative atomic mass to compounds (and to elements 
+occurring as molecules) to obtain the relative formula mass, Mr. This simply involves 
+adding the relative atomic masses of all the atoms or ions present in its formula. Note 
+that Mr, like Ar, is a relative term and so has no units.
+Relative atomic 
+mass, Ar, is the 
+weighted average 
+mass of one atom of 
+an element relative 
+to  1___
+12 the mass of an 
+atom of carbon-12.
+Ar values are often 
+rounded to whole 
+numbers for quick 
+calculations, but when 
+using values for more 
+accurate calculations, 
+it is usually best to use 
+the exact value given 
+in section 7 of the data 
+booklet.
+Structure 3.1 – Atoms 
+increase in mass as their 
+position descends in 
+the periodic table. What 
+properties might be 
+related to this trend?
+Note that the term 
+relative molecular mass
+was previously used, 
+but can accurately 
+be applied only to 
+substances that exist 
+as molecules. The term 
+relative formula mass is 
+preferred as it is more 
+inclusive. It can be 
+applied to both ionic 
+and covalently bonded 
+entities.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+79
+Challenge yourself
+2. Three of the compounds in the photograph above are hydrated, containing 
+water of crystallization as described on page 85. Use the formulas given in the 
+caption and the masses marked on the photograph to deduce which compounds 
+are hydrated, and the full formula of each. 
+Worked example 
+Use the values for Ar in Section 7 of the data booklet to calculate the Mr
+of the following:
+(a) chlorine Cl2
+(b) ammonium nitrate NH4NO3
+(c) aluminium sulfate Al2(SO4)3
+Solution
+(a) Mr = 35.45 × 2 = 70.90
+(b) Mr = 14.01 + (1.01 × 4) + 14.01 +(16.00 × 3) = 80.06
+(c) Mr= (26.98 × 2) + [32.07 + (16.00 × 4)] × 3 = 342.17
+Relative formula 
+mass, Mr, is the sum 
+of the weighted 
+average of the atoms 
+of an element in a 
+formula unit relative 
+to  1___
+12 of an atom of 
+carbon-12. 
+Exercise
+Q4. The two most common isotopes of chlorine are 35Cl and 37Cl. The Ar of 
+chlorine is 35.45. What can you conclude about the relative abundance of 
+these two isotopes? (no calculation required)
+Q5. Calculate the Mr of the following compounds:
+(a) magnesium phosphate Mg3(PO4)2
+(b) ascorbic acid (vitamin C) C6H8O6
+(c) calcium nitrate Ca(NO3)2
+(d) hydrated sodium thiosulfate Na2S2O3.5H2O
+One mole of different 
+compounds, each showing 
+the molar mass. The chemical 
+formulas of these ionic 
+compounds are, clockwise 
+from lower left: NaCl, FeCl3, 
+CuSO4, KI, Co(NO3)2 and 
+KMnO4. 
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+80
+Structure 1.4.3 – Molar mass
+Structure 1.4.3 – Molar mass (M) has the units g mol–1.
+Solve problems involving the relationships between the number of particles, the amount of 
+substance in moles and the mass in grams.
+The relationship 
+n =  m
+__
+M 
+is given in the data booklet.
+Reactivity 2.1 – How can molar masses be 
+used with chemical equations to determine 
+the masses of the products of a reaction? 
+Molar mass is the mass of one mole of a substance
+The Avogadro constant is defined so that the mass of one mole of a substance 
+is exactly equal to the substance’s relative atomic mass or relative formula mass 
+expressed in grams. This is known as the molar mass and is given the symbol M with 
+the unit g mol–1, which is a derived SI unit. Using examples discussed already in this 
+chapter, we can now deduce the following.
+Element or compound 
+Molar mass (M)
+hydrogen H
+1.01 g mol–1
+oxygen O
+16.00 g mol–1
+chlorine Cl2
+70.90 g mol–1
+ammonium nitrate NH4NO3
+80.06 g mol–1
+aluminium sulfate Al2(SO4)3
+342.17 g mol–1
+Now we are able to use the concept of the mole to make that all-important link 
+between the number of particles and their mass in grams. The key to this is 
+conversions of grams to moles and moles to grams. The following notations are 
+used for these calculations:
+• n = number of moles (mol)
+• m = mass in grams (g)
+• M = molar mass (g mol–1)
+multiply by molar mass, M
+number of moles, n
+mass, m
+divide by molar mass, M
+The molar mass 
+of a substance is 
+its relative atomic 
+mass, Ar, or its 
+relative formula 
+mass, Mr, expressed 
+in grams. It has the 
+units g mol–1.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+81
+Worked example 
+What is the mass of the following?
+(a) 6.50 moles of NaCl 
+(b) 0.10 moles of OH– ions
+Solution
+In all these questions, we must ﬁ rst calculate the molar mass, M, to know the mass 
+of 1 mole in g mol–1. Multiplying M by the speciﬁ ed number of moles, n, will then 
+give the mass, m, in grams.
+(a) M(NaCl) = 22.99 + 35.45 = 58.44 g mol–1
+n(NaCl) = 6.50 mol
+∴m(NaCl) = 58.44 g mol–1 × 6.50 mol = 380 g
+(b) OH– ions carry a charge because electrons have been transferred, but change to 
+the mass is negligible so can be ignored in calculating M.
+M(OH–) = 16.00 + 1.01 = 17.01 g mol–1
+n(OH–) = 0.10 mol
+∴m(OH–) = 17.01 g mol–1 × 0.10 mol = 1.7g
+Dimensional 
+analysis, or the 
+factor-label method, 
+is a widely used 
+technique to determine 
+conversion factors on 
+the basis of cancelling 
+the units. This method 
+is not specifically 
+used in the examples 
+here, but the units are
+shown through the 
+calculations. This can 
+be helpful to check 
+that the units on both 
+sides of the equation 
+are balanced, and are 
+appropriate for the 
+answer, which is often 
+a useful check on the 
+steps taken. The units 
+on both sides of the 
+equation cancel to 
+be balanced. As in all 
+cases, there is no one 
+correct way to set out 
+calculations, so long as 
+the steps are clear. 
+Worked example 
+What is the amount in moles of the following?
+(a) 32.50 g (NH4)2SO4 
+(b) 273.45 g N2O5
+Solution
+Again we calculate the molar mass, M, to know the mass of one mole. Dividing the 
+given mass, m, by the mass of one mole will then give the number of moles, n.
+(a) M((NH4)2SO4) = [14.01 + (1.01 × 4)] × 2 + 32.07 + (16.00 × 4) = 132.17 g mol–1
+m ((NH4)2SO4) = 32.50 g
+∴n((NH4)2SO4) =  
+32.50 g
+____________ 
+ 
+132.17 g mol–1 = 0.2459mol
+(b) M(N2O5) = (14.01 × 2) + (16.00 × 5) = 108.02 g mol–1
+m (N2O5) = 273.45 g
+∴n(N2O5) =  
+273.45 g
+____________ 
+ 
+108.02 g mol–1 = 2.532 mol
+These simple conversions show that:
+number of moles =  
+mass
+___________
+molar mass 
+n(mol ) =  
+m (g)
+__________
+M (g mol–1) 
+This is a very useful relationship and it is better for you to understand how it is derived, 
+rather than just memorizing it.
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+82
+The diagram below summarizes the central role of the number of moles, n, in 
+converting between the number of particles and the mass in grams.
+number of
+particles
+mass in
+grams
+number of
+moles, n
+m
+u
+lt
+i
+p
+l
+y
+ 
+b
+y 
+A
+v
+o
+g
+a
+d
+r
+o 
+c
+o
+n
+s
+t
+a
+n
+t,
+ 
+N
+A
+d
+i
+v
+i
+d
+e 
+b
+y 
+m
+ol
+a
+r 
+m
+a
+s
+s,
+ 
+M
+d
+i
+v
+i
+d
+e
+ 
+b
+y
+ 
+A
+v
+o
+g
+a
+d
+r
+o
+ c
+o
+n
+s
+t
+a
+n
+t
+, 
+N
+A
+m
+u
+lt
+i
+p
+ly
+ 
+b
+y 
+m
+ol
+a
+r 
+m
+a
+s
+s,
+ 
+M
+Chemical equations show the simplest ratio of chemical entities reacting together. 
+As molar masses represent a fixed number of entities, these M values can be used 
+directly in chemical equations to calculate the relative masses that react. For example, 
+in the equation for the combustion of hydrogen, we can deduce the following:
+2H2(g)
++
+O2(g)
+→
+2H2O(l)
+reacting ratio
+2 molecules
+1 molecule
+2 molecules
+moles
+2 moles
+1 mole
+2 moles
+grams
+2 × (1.01 × 2)
+= 4.04 g
+16.00 × 2
+= 32.00 g
+2 × [(1.01 × 2) + 16.00] 
+= 36.04 g
+This simple example shows that 36.04g of water can be produced from the 
+combustion of 4.04g of hydrogen. This type of calculation is the basis of all work on 
+measuring the yield of industrial processes, considerations of atom economy and 
+other aspects of Green Chemistry. These applications are discussed in more detail in 
+Reactivity 2.1.
+Exercise
+Q6. 
+Calcium arsenate Ca3(AsO4)2 is a poison that was widely used as an 
+insecticide. What is the mass of 0.475 mol of calcium arsenate?
+Q7. 
+How many moles of carbon dioxide are there in 66 g of carbon dioxide, CO2?
+Q8. 
+How many moles of chloride ions, Cl–, are there in 0.50 g of copper(II) 
+chloride, CuCl2?
+Q9. 
+How many carbon atoms are there in 36.55 g of diamond (which is 
+pure carbon)?
+Q10. What is the mass in grams of a 0.500 mol sample of sucrose, C12H22O11?
+Q11. Which contains the greater number of particles, 10.0 g of water, H2O, or 
+10.0 g of mercury, Hg?
+Q12. Put the following in descending order of mass.
+I. 
+1.0 mol N2H4 
+II. 2.0 mol N2
+III. 3.0 mol NH3 
+IV. 25.0 mol H2
+amount =  
+mass
+______________ 
+ 
+molar mass
+ 
+n(mol) =  
+m(g)
+_____________
+M(g mol–1)
+ 
+Calculations involving 
+mass in chemistry 
+always involve 
+converting grams 
+to moles and moles 
+to grams. Think of 
+these conversions as 
+fundamental tools 
+for chemists, and so 
+make sure you are 
+fully comfortable with 
+carrying them out 
+effectively.
+Reactivity 2.1 – How can 
+molar masses be used 
+with chemical equations 
+to determine the masses 
+of the products of a 
+reaction?
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+83
+Structure 1.4.4 – Empirical and molecular 
+formulas
+Structure 1.4.4 – The empirical formula of a compound gives the simplest ratio of 
+atoms of each element present in that compound. The molecular formula gives the 
+actual number of atoms of each element present in a molecule.
+Interconvert the percentage composition by mass and the empirical formula.
+Determine the molecular formula of a compound from its empirical formula and molar mass. 
+Tool 1 – How can experimental data on mass 
+changes in combustion reactions be used to 
+derive empirical formulas?
+Nature of Science, Tool 3, Structure 3.2 – 
+What is the importance of approximation in 
+the determination of an empirical formula? 
+The empirical formula of a compound gives the 
+simplest ratio of its atoms
+Magnesium burns brightly in air to form a white solid product. If we want to know 
+how many atoms of magnesium combine with how many atoms of oxygen in this 
+reaction, we can use the central role of the mole to relate the number of reacting 
+particles to the measured mass.
+The steps in the process are:
+• calculate the moles of Mg from the measured mass of Mg used
+• calculate the moles of oxygen that reacted from the increase in mass on heating
+• express the ratio of moles Mg : moles O in its simplest form
+• the ratio of moles is the ratio of atoms, so we can deduce the simplest formula 
+of magnesium oxide.
+magnesium ribbon
+crucible
+Bunsen burner
+tripod
+or stand
+Magnesium burns with 
+a bright white flame, 
+combining with oxygen from 
+the air to form the white 
+solid magnesium oxide. 
+Apparatus used to measure 
+mass changes on burning 
+magnesium.
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+84
+An experiment for determining the empirical formula of magnesium oxide can be 
+found on this page of your eBook (see Skills box on the left). Sample processed data for 
+this experiment are given below.
+Magnesium, Mg
+Oxygen, O
+Mass / g +0.002
+0.043
+0.029
+M / g mol–1
+24.31
+16.00
+Moles / mol
+0.00177
+0.00181
+ratio moles Mg : moles O = 1 : 1.02
+So the ratio atoms Mg : atoms O approximates to 1 : 1.
+From the result of this experiment, we conclude that the formula of magnesium oxide 
+is MgO. This is known as an empirical formula, which gives the simplest whole-
+number ratio of the atoms of each element in a compound.
+Empirical formulas are often derived from combustion data such as these. As the 
+result must be a whole number ratio, some rounding of the numbers is often required, 
+as we saw above. Sometimes this may involve a further mathematical step.
+For example, data from combustion analysis gave:
+ratio of atoms Fe : atoms O = 1 : 1.5
+multiplying by 2 gives ratio of atoms Fe : atoms O = 2 : 3
+so the empirical formula is Fe2O3
+Judging when approximation is a valid process in a calculation is an important tool in 
+science. The need for approximation can sometimes indicate experimental errors. Where 
+systematic errors can be identified, modifications to the experiment can lead to increasing 
+the accuracy of the result. 
+Nature of Science
+Scientific investigations based on quantitative measurements are subject to 
+errors, both random and systematic. Analysis of the impact of these errors 
+is inherent in the practice of science. It is good practice in all experimental 
+work to record the sources of errors, consider their effect on the results, and 
+suggest modifications that aim to reduce their impact. Scientists have the 
+responsibility to communicate their results as realistically and honestly as 
+possible, and this must include uncertainties and errors.
+Worked example 
+The empirical 
+formula is the 
+simplest whole-
+number ratio of 
+the elements in a 
+compound.
+Which of the following are empirical formulas?
+I. 
+C6H6 benzene 
+II. C3H8 propane 
+III. N2O4 dinitrogen tetroxide 
+IV. Pb(NO3)2 lead nitrate
+Solution
+Only II and IV are empirical formulas, as their elements are in the simplest whole-
+number ratio.
+I has the empirical formula CH; III has the empirical formula NO2.
+Determining the 
+empirical formula of a 
+compound. Full details 
+of how to carry out 
+this experiment with a 
+worksheet are available 
+in the eBook.
+Tool 1 – How can 
+experimental data 
+on mass changes in 
+combustion reactions 
+be used to derive 
+empirical formulas?
+Nature of Science, 
+Tool 3, Structure 3.2 – 
+What is the importance 
+of approximation in the 
+determination of an 
+empirical formula?
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+85
+The formulas of all ionic compounds, made of a metal and a non-metal such as 
+magnesium oxide, are empirical formulas. This is explained in Structure 2.1. But as we 
+see in I and III in the worked example above, the formulas of some covalent compounds 
+are not empirical formulas. We will learn about molecular formulas in the next section.
+Worked example 
+A sample of urea contains 1.210 g N, 0.161 g H, 0.480 g C and 0.640 g O. 
+What is the empirical formula of urea?
+Solution
+• Convert the mass of each element to moles by dividing by its molar mass, M.
+• Divide by the smallest number to give the ratio.
+• Approximate to the nearest whole number.
+Element
+Nitrogen, N
+Hydrogen, H
+Carbon, C
+Oxygen, O
+mass / g
+1.120
+0.161
+0.480
+0.640
+M / g mol–1
+14.01
+1.01
+12.01
+16.00
+number of moles / mol
+0.0799
+0.159
+0.0400
+0.0400
+divide by smallest
+2.00
+3.98
+1.00
+1.00
+nearest whole number ratio
+2
+4
+1
+1
+So the empirical formula of urea is N2H4CO, usually written as CO(NH2)2.
+A modification of this type of question is to analyze the composition of a hydrated 
+salt. These are compounds that contain a fixed ratio of water molecules, known as 
+water of crystallization, within the crystalline structure of the compound. The water 
+of crystallization can be driven off by heating, and the change in mass used to calculate 
+the ratio of water molecules to the anhydrous salt. The formula of the hydrated salt is 
+shown with a dot before the number of molecules of water, for example CaCl2.4H2O.
+Empirical formulas and percentage composition by mass can 
+be interconverted
+Data on the composition of a compound are often given as percentage by mass. 
+Percentage data effectively give  us the mass present in a 100 g sample of the compound.
+Hydrated copper sulfate, 
+CuSO4.5H2O, is blue due 
+to the presence of water 
+of crystallization within the 
+molecular structure of the 
+crystals. The anhydrous 
+form is white, as shown 
+in the lower part of the 
+tube. Heating removes the 
+water molecules, leading to 
+the colour being lost. The 
+process is reversible, and 
+the addition of water to the 
+anhydrous crystals restores 
+their blue colour.
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+86
+Converting percentage by mass to empirical formulas
+We can use percentage by mass data in the same way as in the examples above to 
+determine the ratio of moles of each element in a compound. 
+• Divide the percentage mass of  each element by its molar mass, M, to convert it 
+to moles.
+• Divide the moles of each element by the smallest number to give the ratio of moles. 
+• Approximate to the nearest whole number. 
+Worked example 
+When working with 
+percentage figures, 
+always check that 
+they add up to 100. 
+Sometimes an element 
+is omitted from the data 
+and you are expected to 
+deduce its identity and 
+percentage from the 
+information given.
+The mineral, celestine, consists mostly of a compound of strontium, sulfur and 
+oxygen. It is found by combustion analysis to have the composition 47.70% by 
+mass Sr, 17.46% sulfur and the remainder is oxygen. What is its empirical formula?
+Solution
+First we must calculate the percentage of oxygen by subtraction of the total given 
+masses from 100.
+% O = 100 – (47.70 + 17.46) = 34.84
+Element
+Strontium, Sr
+Sulfur, S
+Oxygen, O
+% by mass
+47.70
+17.46
+34.84
+M / g mol–1
+87.62
+32.07
+16.00
+moles
+0.5443
+0.5444
+2.178
+divide by the smallest 
+1.000
+1.000
+4.001
+So the empirical formula of the mineral is SrSO4
+Fertilizers contain 
+nutrients that are 
+added to the soil, 
+usually to replace those 
+used by cultivated 
+plants. The elements 
+needed in the largest 
+quantities, so-called 
+macronutrients, 
+include nitrogen, 
+phosphorus and 
+potassium. Fertilizers 
+are often labeled 
+with an N-P-K rating, 
+such as 30–15–30, to 
+show the quantities 
+of each of these three 
+elements. The numbers 
+indicate respectively 
+the percentage by 
+mass, N, percentage 
+by mass diphosphorus 
+pentoxide, P2O5, and 
+percentage by mass 
+potassium oxide, K2O. 
+The percentage data 
+for P2O5 and K2O 
+represent the most 
+oxidized forms of 
+elemental phosphorus 
+and potassium 
+present in the fertilizer. 
+Ammonium salts are 
+the most common 
+source of nitrogen used 
+in fertilizers. 
+GENERAL PURPOSE 20-10-20
+(For continuous liquid feed programs)
+Guaranteed analysis
+Derived from: ammonium nitrate, potassium phosphate, potassium nitrate,
+magnesium sulfate, boric acid, copper EDTA, manganese EDTA, iron EDTA,
+zinc EDTA, sodium molybdate. Potential acidity: 487 lbs. calcium carbonate
+equivalent per ton. 
+F1143
+Total nitrogen (N) 
+20%
+  7.77% ammoniacal nitrogen
+  12.23% nitrate nitrogen
+Available phosphate (P2O5) 
+10%
+Soluble potash (K2O) 
+20%
+Magnesium (Mg)(Total) 
+0.05%
+  0.05% Water soluble magnesium (Mg)
+Boron (B) 
+0.0068%
+Copper (Cu) 
+0.0036%
+  0.0036% Chelated copper (Cu)
+Iron (Fe) 
+ 0.05%
+  0.05% Chelated iron (Fe)
+Manganese (Mn) 
+0.025%
+  0.025% Chelated manganese (Mn)
+Molybdenum (Mo) 
+0.0009%
+Zinc (Zn) 
+0.0025%
+  0.0025% Chelated zinc (Zn) 
+The label on a fertilizer bag shows the 
+percentage by mass of macro- and 
+micronutrients that it contains.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+87
+Challenge yourself
+3. A fertilizer has an N-P-K rating of 18-51-20. Use the information in the box 
+above to determine the percentage by mass of nitrogen, phosphorus and 
+potassium present. 
+An understanding of percentage by mass data helps to evaluate information that is 
+commonly given on products such as foods, drinks, pharmaceuticals, household 
+cleaners as well as fertilizers. For example, a common plant fertilizer is labeled as 
+pure sodium tetraborate pentahydrate, Na2B4O7.5H2O, and claims to be 15.2% boron. 
+How accurate is this claim?
+Converting empirical formulas to percentage by mass
+We can see in the example above that, even though the mineral celestine has only 
+one atom of strontium for every four atoms of oxygen, strontium nonetheless 
+accounts for 47.70% of its mass. This, of course, is because an atom of strontium has 
+significantly greater mass than an atom of oxygen, and the percentage by mass of 
+an element in a compound depends on the total contribution of its atoms. We can 
+calculate this as follows.
+Worked example 
+What is the percentage by mass of N, H and O in the compound ammonium 
+nitrate, NH4NO3?
+Solution
+First calculate the molar mass M:
+M (NH4NO3) = 14.01 + (1.01 × 4) + 14.01 + (16.00 × 3) = 80.06g mol–1
+Then for each element, total the mass of its atoms, divide by M and multiply by 100:
+% N =  14.01 × 2
+________
+80.06  × 100 = 35.00 % by mass
+% H =  1.01 × 4
+_______
+80.06  × 100 = 5.05 % by mass
+% O =  16.00 × 3
+________
+80.06  × 100 = 59.96 % by mass
+(or this last term can be calculated by subtraction from 100)
+Finally check that the numbers add up to 100%. 
+Note that rounding here means that the total is 100.01% 
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+88
+The molecular formula of a compound gives the actual number 
+of atoms in a molecule
+The empirical formula gives us the simplest ratio of atoms present in a compound, but 
+this may not be the full information about the actual number of atoms in a molecule. 
+For example, CH2 is an empirical formula but there is no molecule that exists with 
+just one atom of carbon and two atoms of hydrogen. There are many molecules with 
+multiples of this ratio, such as C2H4, C3H6 and so on. Formulas that show all the atoms 
+present in a molecule are called molecular formulas.
+The molecular formula can be deduced from the empirical formula if the molar mass 
+is known.
+(mass of empirical formula)x = M where x is an integer
+Worked example 
+Calomel is a compound once used in the treatment of syphilis. It has the empirical 
+formula HgCl and a molar mass of 472.08 g mol–1. What is its molecular formula?
+Solution
+First calculate the mass of the empirical formula:
+mass(HgCl) = 200.59 + 35.45 = 236.04 g mol–1
+(236.04)x = M = 472.08
+∴x = 2
+molecular formula = Hg2Cl2 
+A molecular model of the stimulant caffeine. The atoms are color-coded as follows: black = carbon, 
+grey = hydrogen, red = oxygen, blue = nitrogen. Can you deduce the molecular formula, the empirical 
+formula and the molar mass of caffeine?
+It is possible for 
+different compounds 
+to have the same 
+empirical formula but 
+different molecular 
+formulas. This is 
+particularly the case in 
+organic chemistry.
+The molecular 
+formula shows all 
+the atoms present 
+in a molecule. It is 
+a multiple of the 
+empirical formula. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+89
+Combustion analysis usually gives data on the mass of 
+compounds formed
+The data presented so far may suggest that combustion analysis directly gives 
+information on the relative masses of individual elements in a compound. In fact this 
+is rarely the case, but instead elements are converted into new compounds, typically 
+their oxides, by reaction with oxygen. So the primary data obtained are the masses 
+of carbon dioxide, water, sulfur dioxide and so on, which are measured by infrared 
+absorption, and are described in Structure 3.2. Processing these data simply involves 
+an extra step.
+Worked example 
+A 0.5438 g sample of a compound known to contain only carbon, hydrogen and 
+oxygen was burned completely in oxygen. The products were 1.0390 g CO2 and 
+0.6369 g H2O. The compound has a molar mass of 46.08 g mol–1. 
+Determine the empirical formula and the molecular formula of the compound.
+Solution
+First we must convert the mass of each product to moles in the usual way. From the 
+number of moles of CO2 and H2O we can deduce the number of moles of C atoms 
+and H atoms.
+n(CO2) =  
+1.0390
+_______________ 
+ 
+12.01 + (16.00 × 2) = 0.02361 mol CO2 ⇒ 0.02361 mol C atoms
+n(H2O) =  
+0.6369
+______________ 
+ 
+(1.01 × 2) + 16.00 = 0.03534 mol H2O ⇒ 0.03534 × 2
+= 0.07068 mol H atoms
+In order to know the mass of O in the original sample, we must convert the number 
+of moles of C and H atoms to mass by multiplying by their molar mass, M.
+mass C = 0.02361 mol × 12.01 g mol–1 = 0.2836 g
+mass H = 0.07068 mol × 1.01 g mol–1 = 0.07139 g
+∴ mass O = 0.5438 – (0.2836 + 0.07139) = 0.1888 g
+mol O atoms =  0.1888 g
+___________
+16.00 g mol–1 = 0.01180 mol
+Now we can proceed as with the previous examples, converting mass of O to moles 
+and then comparing the mole ratios.
+Element
+Carbon, C
+Hydrogen, H
+Oxygen, O
+mass / g
+0.1888
+moles
+0.02361
+0.07068
+0.0118
+divide by smallest
+2.00
+5.98
+1.00
+nearest whole number ratio
+2
+6
+1
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+90
+So the empirical formula is C2H6O
+Mass of empirical formula = (12.01 × 2) + (1.01 × 6) + 16.00 = 46.08 g mol–1
+(mass of empirical formula)x = M
+(46.08)x = 46.08 g mol–1 ∴x = 1
+molecular formula = C2H6O
+Exercise
+Q13. Give the empirical formulas of the following compounds:
+(a) ethyne C2H2 
+(b) glucose C6H12O6
+(c) sucrose C12H22O11 
+(d) octane C8H18
+(e) oct–1-yne C8H14 
+(f ) ethanoic acid CH3COOH
+Q14. A sample of a compound contains only the elements sodium, sulfur and 
+oxygen. It is found by analysis to contain 0.979 g Na, 1.365 g S and 1.021 g O. 
+Determine its empirical formula.
+Q15. A sample of a hydrated compound was analyzed and found to contain 
+2.10 g Co, 1.14 g S, 2.28 g O and 4.50 g H2O. Determine its empirical formula.
+Q16. A street drug has the following composition: 83.89% C, 10.35% H, 5.76% N. 
+Determine its empirical formula.
+Q17. The following compounds are used in the production of fertilizers. 
+Determine which one has the highest percentage by mass of nitrogen: 
+NH3, CO(NH)2, (NH4)2SO4.
+Q18. A compound has the formula M3N where M is a metal and N is nitrogen. It 
+contains 0.673 g of N per gram of the metal M. Determine the relative atomic 
+mass of M and so its identity.
+Q19. Compounds of cadmium are used in the construction of photocells. Show 
+which of the following has the highest percentage by mass of cadmium: 
+CdS, CdSe, CdTe.
+Q20. Benzene is a hydrocarbon, a compound of carbon and hydrogen only. 
+It is found to contain 7.74% H by mass. Its molar mass is 78.10 g mol–1. 
+Determine its empirical and molecular formulas.
+Q21. A weak acid has a molar mass of 162 g mol–1. Analysis of a 0.8821 g sample 
+showed the composition by mass is 0.0220 g H, 0.3374 g P and the remainder 
+oxygen. Determine its empirical and molecular formulas.
+Q22. ATP is an important molecule in living cells. A sample with a mass of 
+0.8138 g was analyzed and found to contain 0.1927 g C, 0.02590 g H, 
+0.1124 g N, and 0.1491 g P. The remainder was oxygen. Determine the 
+empirical formula of ATP. Its formula mass was found to be 507 g mol–1. 
+Determine its molecular formula.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+91
+Q23. A 0.30 g sample of a compound that contains only carbon, hydrogen and 
+oxygen was burned in excess oxygen. The products were 0.66 g of carbon 
+dioxide and 0.36 g of water. Determine the empirical formula 
+of the compound.
+Q24. You are asked to write your name on a suitable surface, using a piece of chalk 
+that is pure calcium carbonate, CaCO3. How could you calculate the number 
+of carbon atoms in your signature?
+Structure 1.4.5 – Molar concentration
+Structure 1.4.5 – The molar concentration is determined by the amount of solute and 
+the volume of solution.
+Solve problems involving the molar concentration, amount of solute and volume of solution. 
+The use of square brackets to represent molar 
+concentration is required.
+Units of concentration should include g dm–3
+and mol dm–3 and conversion between these.
+Tool 1 – What are the considerations in 
+the choice of glassware used in preparing a 
+standard solution and a serial dilution?
+Tool 1, Inquiry 2 – How can a calibration 
+curve be used to determine the concentration 
+of a solution? 
+The molar concentration of a solution is based on 
+moles of solute and volume of solution
+When we are working with liquids, we often focus on measuring their volume. Some 
+liquids in common use are pure substances, such as water (H2O), bromine (Br2) and hexane 
+(C6H14), but more commonly liquids are solutions containing two or more components.
+A solution is a homogeneous mixture of two or more substances, which may be solids, 
+liquids or gases, or a combination of these. The solvent is the component present in the 
+greatest quantity, in which the solute is dissolved. Some examples of solutions include:
+• solid / solid: metal alloy such as brass (copper and zinc)
+• solid / liquid: seawater (salt and water), aqueous copper sulfate (copper sulfate 
+and water)
+• liquid / liquid: wine (ethanol and water)
+• gas / liquid: fizzy drinks (carbon dioxide and water)
+In this section we will be considering solutions made by dissolving a solid solute in a 
+liquid solvent.
+solvent
+solute
+solution
+A solution is made by 
+dissolving a solute in a 
+solvent.
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+92
+For solutions, we express the amount as its concentration. The molar 
+concentration of a solution (c) is determined by the amount of solute (n) and the 
+volume of solution (V).
+molar concentration of solution (mol dm–3) =  amount of solute (mol) 
+ 
+_____________________ 
+ 
+volume of solution (dm3)  or c =  n__
+V 
+∴ amount of solute (mol) = conc (mol dm–3) × volume (dm3) or n = c V
+A useful convention in chemistry is to use square brackets to represent ‘the molar 
+concentration’ of a solution. For example, [HCl] = 1.0 mol dm–3.
+Worked example 
+A student is supplied with a solution of NaCl(aq) of concentration 0.400 mol dm–3. 
+He needs 0.250 mol of NaCl. What volume of solution, in cm3, should he use?
+Solution
+Substituting the values given into the equation: n = c V
+0.250mol = 0.400moldm–3 × V
+∴V =  
+0.250 mol
+_____________ 
+ 
+0.400 mol dm–3 = 0.625 dm3
+1 dm3 = 1000 cm3 ⇒ 0.625 dm3 = 625 cm3
+Concentration can also be expressed as mass of solute (g) per volume of solution (dm3).
+concentration of solution (g dm–3) =  
+mass of solute (g) 
+ 
+_____________________ 
+ 
+volume of solution (dm3) 
+We can use molar mass to convert grams to moles in order to obtain the molar 
+concentration.
+Worked example 
+What is the molar concentration of a solution of sodium carbonate, Na2CO3, 
+that has a concentration of 4.24gdm–3?
+Solution
+M(Na2CO3) = (22.99 × 2) + 12.01 + (16.00 × 3) = 105.99 g mol–1
+Substituting the values given in the equation: m = nM
+4.24 g = n (mol) × 105.99 g mol–1
+∴n =  
+4.24 g
+____________ 
+ 
+105.99 g mol–1 = 0.0400 mol
+∴ [Na2CO3] = 0.0400 mol dm–3
+Note that concentration 
+is specified per volume 
+of final solution, not 
+per volume of solvent
+added. This is because 
+volume changes occur 
+on dissolving the solute. 
+The molar 
+concentration of 
+a solution refers 
+to the amount of 
+solute per volume of 
+solution. It has the 
+units mol dm–3 and 
+is often shown using 
+square brackets.
+moles of solute (mol) 
+= concentration of 
+solute (mol dm–3) × 
+volume of solution 
+(dm3) 
+n = c V
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+93
+250
+200
+150
+100
+ml
+90
+100
+80
+70
+60
+50
+40
+30
+20
+10 cm3
+250
+200
+150
+100
+ml
+50
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+S1.4 Figure 2 Glassware commonly used in the laboratory. (a) conical or Erlenmeyer flask, its shape 
+makes it easy to mix liquids as the flask can be easily swirled; (b) beaker; (c) measuring or graduated 
+cylinder; (d) volumetric flask; (e) pipette; (f) burette.
+Challenge yourself
+4. When sodium hydroxide pellets (NaOH) dissolve in water, there is a decrease in 
+the total volume of the solution. Explain what might cause this. 
+Different types of laboratory glassware, some of which are identified in Figure 2. 
+In quantitative work, it is essential to select glassware that measures volume to an 
+appropriate level of precision. Most glassware is marked with a given uncertainty at a 
+specified temperature – the smaller the uncertainty, the more precise the measurement. 
+Beakers and conical flasks have very large uncertainties and are not used for precise 
+volume measurements. Different manufacturers calibrate glassware to different levels of 
+precision, but some typical values for laboratory apparatus are shown below.
+Glassware
+Volume / cm3
++ Uncertainty / cm3
+Uncertainty / %
+beaker
+50
+5
+10
+measuring cylinder
+50.0
+0.5
+1
+burette
+50.00
+0.05
+0.1
+The accuracy of a measurement is increased by using glassware with the smallest 
+adequate volume. For example, if we need 40 cm3 of liquid, we choose a measuring 
+cylinder of 50 cm3 rather than one of 100 cm3. It is also important to read the volume at 
+the bottom of the meniscus when the glassware is supported on a horizontal surface.
+The term molarity, M, 
+has been widely used 
+to express amount 
+concentration, but it is 
+falling out of common 
+usage. It will not be 
+used in IB examination 
+questions, so make 
+sure you are fully 
+familiar with the terms 
+mol dm–3 and g dm–3. 
+(Note that M is used 
+specifically to refer to 
+molar mass.)
+Tool 1 – What are the 
+considerations in the 
+choice of glassware in 
+preparing a standard 
+solution and a serial 
+dilution?
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+94
+Chemists routinely prepare solutions of known concentration, referred to as standard 
+solutions. The mass of solute required is accurately measured and then transferred 
+carefully to a volumetric flask, which is precisely calibrated for a specific volume. The 
+solvent is added steadily with swirling to help the solute to dissolve, until the final level 
+reaches the mark on the flask. Note that distilled water, not tap water, must be used as 
+the solvent in the preparation of all aqueous solutions.
+Worked example 
+Explain how you would prepare 100 cm3 of a 0.10 mol dm–3 solution of NaCl.
+Solution
+Ensure that cm3 are converted to dm3 by dividing by 1000.
+n = c V
+n = 0.10 mol dm–3 ×  100
+_____
+1000 dm3 = 0.0100 mol
+M(NaCl) = 22.99 + 35.45 = 58.44 g mol–1
+∴ mass required = 0.0100 mol × 58.44 g mol–1 = 0.584 g
+Add 0.584 g NaCl(s) to a 100  cm3 volumetric ﬂ ask, and make up to the mark with 
+distilled water.
+The increased popularity, in many countries, of bottled water over tap water for drinking has 
+raised several concerns, including the environmental costs of transport and packaging, and 
+the source of the water and its solute (dissolved mineral) content. Significant differences exist 
+in the regulation of the bottled water industry in different countries. In the USA, the Food 
+and Drug Administration (FDA) requires that mineral water should contain between 500 and 
+1500 mg dm–3 of total dissolved solids. In Europe, mineral water is defined by its origin rather 
+than by content, and the European Union prohibits the treatment of any water bottled from 
+a source. The global cost of bottled water exceeds billions of dollars annually. As the United 
+Nations General Assembly has explicitly recognized that access to safe, clean and affordable 
+drinking water is a human right, there is an urgent need for money and technology to be 
+diverted to improving tap water supplies globally to help make this a reality for all. 
+Volumetric flask showing 
+volume of 5000 cm3 and 
+uncertainty of +1.2 cm3 at 
+20 °C. What percentage 
+uncertainty is this? 
+A standard 
+solution is one of 
+accurately known 
+concentration. 
+A different unit of 
+concentration is known 
+as ppm, parts per 
+million. It denotes one 
+part per 106 parts of the 
+whole solution, and is 
+useful in describing very 
+low concentrations. 
+This unit is widely used 
+in reporting levels of 
+pollutants in air, water, 
+soil and food. For 
+example, in the USA the 
+FDA has set a maximum 
+permissible level of 1 
+part of methylmercury 
+in a million parts of 
+seafood (1 ppm). 
+Label on water bottle 
+listing the mineral content in 
+milligrams per dm3.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+95
+Dilutions of solutions reduce the concentration
+A series of dilutions of cobalt(II) chloride solutions. In coloured solutions such as these, the effect of 
+lowering the concentration of the solution can be observed. 
+As a solution is diluted, the number of moles of solute remains the same, but because 
+the volume of solution increases, the concentration decreases. In other words, the 
+number of moles n = a constant, and as n = c V ⇒c V must be constant through dilution.
+∴c1V1 = c2V2 where c1V1 refer to the initial concentration and volume, respectively,
+and c2V2 refer to the diluted concentration and volume, respectively.
+This equation provides an easy way to calculate concentration changes on dilution.
+Worked example 
+Determine the ﬁ nal concentration of a 75 cm3 solution of HCl of concentration 
+0.40 mol dm–3, which is diluted to a volume of 300 cm3.
+Solution
+c1V1 = c2V2
+c1 = 0.40 mol dm–3;V1 = 75 cm3; V2 = 300 cm3
+∴ (0.40 mol dm–3) × (75 cm3) = c2 × (300 cm3)
+c2 diluted concentration = 0.10 mol dm–3
+A quick check shows that the volume has increased four times, so the 
+concentration must have decreased four times. 
+A serial dilution is a series of dilutions of a standard solution, where the concentration 
+is reduced by a fixed amount at each step. It generates a series of solutions of known 
+concentration, e. g. 1.00 mol dm–3, 0.100 mol dm–3, 0.0100 mol dm–3, 0.00100 mol dm–3. 
+Dilution is carried out into volumetric flasks so that the final volume of the solution is 
+measured, taking account of volume changes that may occur on dilution.
+A common practice in 
+laboratory work is to 
+make a dilution from 
+a more concentrated 
+starting solution called 
+the stock solution,
+by adding solvent. For 
+all aqueous solutions, 
+distilled water, rather 
+than tap water, must 
+be used. 
+Note that in the 
+equation c1V1 = c2V2, 
+volume terms appear 
+on both sides of the 
+equation and so their 
+units will cancel. This 
+means that any units 
+of volume can be used 
+directly (there is no 
+need to convert them 
+to dm3), so long as they 
+are consistent on both 
+sides of the equation.
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+96
+100 cm3
+10 cm3
+stock solution
+solution 1
+solution 2
+serial dilution
+solution 3
+10 cm3
+10 cm3
+500 cm3
+100 cm3
+100 cm3
+A serial dilution is prepared by using a pipette to transfer 10 cm3 from the stock solution into a 100 cm3
+volumetric flask. The solution is then made up to the mark with distilled water. Repeating this process 
+generates a series of solutions, each 10 times less concentrated than the previous one. 
+This series of solutions of known concentration can be used to form a standard in a 
+technique known as ultraviolet–visible spectroscopy, which uses the direct relationship 
+between the concentration of a solution and its absorbance. The absorbance of each 
+solution is measured and the results plotted as a calibration curve. This curve is then used 
+to determine the unknown concentration of a sample containing the same solute.
+0
+5
+0
+protein concentration / mg dm–3
+0.2
+0.4
+0.6
+absorbance
+0.8
+1.0
+0.1
+0.3
+0.5
+0.7
+0.9
+10
+15
+20
+absorbance
+of sample
+concentration
+of protein
+in sample
+S1.4 Figure 3 A calibration curve can be used to find the protein concentration of a sample. 
+Challenge yourself
+5. From the shape of the calibration curve in Figure 3, what can you conclude about 
+the relationship between concentration and absorbance at higher concentration? 
+How might this affect the calculation of the unknown concentration?
+Titration is an important technique in volumetric analysis. It is used to determine 
+the concentration of a solution when it reacts exactly with another solution of known 
+concentration. Titrations typically involve reactions between acids and bases, or 
+between oxidizing and reducing agents. Precise glassware including burettes and 
+pipettes is used to obtain the precision required in measurement. These techniques are 
+discussed in Reactivity 3.1 and Reactivity 3.2.
+Preparing a 
+calibration curve for 
+spectrophotometric 
+determinations. Full 
+details of how to carry 
+out this experiment 
+with a worksheet are 
+available in the eBook.
+Tool 1, Inquiry 2 – How 
+can a calibration curve 
+be used to determine 
+the concentration of a 
+solution?
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+97
+Exercise
+Q25. Calculate the mass of potassium hydroxide, KOH, required to prepare 
+250 cm3 of a 0.200 mol dm–3 solution.
+Q26. Calculate the mass of magnesium sulfate heptahydrate, MgSO4.7H2O, 
+required to prepare 0.100 dm3 of a 0.200 mol dm–3 solution.
+Q27. Calculate the number of moles of chloride ions in 0.250 dm3 of 
+0.0200 mol dm–3 of zinc chloride, ZnCl2, solution.
+Q28. 250 cm3 of a solution contains 5.85 g of sodium chloride. Calculate the 
+concentration of sodium chloride in mol dm–3.
+Q29. Concentrated nitric acid, HNO3, is 16.0 mol dm–3. What volume of concentrated 
+acid would you need to prepare 100 cm3 of 0.50 mol dm–3 HNO3?
+Q30. Sodium sulfate, Na2SO4, reacts in aqueous solution with lead nitrate, 
+Pb(NO3)2, as follows:
+Na2SO4(aq)+ Pb(NO3)2(aq) → PbSO4(s) + 2NaNO3(aq)
+In an experiment, 35.30 cm3 of a solution of sodium sulfate reacted exactly 
+with 32.50 cm3 of a solution of lead nitrate. The precipitated lead sulfate was 
+dried and found to have a mass of 1.13 g. Determine the concentrations of the 
+original solutions of lead nitrate and sodium sulfate. State what assumptions 
+are made.
+Structure 1.4.6 – Avogadro’s law
+Structure 1.4.6 – Avogadro’s law states that equal volumes of all gases measured under 
+the same conditions of temperature and pressure contain equal numbers of molecules.
+Solve problems involving the mole ratio of reactants and/or products and the volume of gases. 
+Structure 1.5 – Avogadro’s law applies to 
+ideal gases. Under what conditions might the 
+behaviour of a real gas deviate most from an 
+ideal gas?
+Avogadro’s law directly relates gas volumes to moles
+Gases, like liquids, are fluids and it is therefore often convenient to focus on their 
+volume as a measure for quantitative work. This means we need to know the 
+relationship between gas volume and the number of moles.
+Consider the following demonstration (Figure 4) where two gas jars are each filled with 
+different gases – hydrogen (H2) in flask A and bromine (Br2) in flask B. The flasks are at 
+the same temperature and pressure and have equal volumes.
+Scientists know, from many experimental measurements on gas volumes, that the 
+number of particles in the two flasks in Figure 4 is the same. At first this might seem 
+surprising – after all, bromine molecules are much larger and heavier than hydrogen 
+molecules. But we need to consider the nature of the gaseous state. We learn on page 
+A
+B
+S1.4 Figure 4 Flask A 
+contains hydrogen molecules, 
+flask B contains bromine 
+molecules. The two flasks are 
+under the same conditions of 
+temperature and pressure.
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+98
+15, the particles in a gas are widely spaced out with negligible forces between them. 
+In simple terms, most of a gas volume is empty space. For this reason, the chemical 
+nature of the gas is irrelevant to its volume. Gas volume is determined only by the 
+number of particles, and by the temperature and pressure.
+This understanding is known as Avogadro’s law, which states that:
+Equal volumes of all gases, when measured at the same temperature and pressure, contain an equal 
+number of particles.
+Alternatively, it can be stated that equal numbers of particles of all gases, when 
+measured at the same temperature and pressure, occupy equal volumes.
+Using V for volume and n for number of moles, V ∝n
+This relationship enables us to relate gas volumes of any gas to the number of moles, 
+and so to reacting ratios in equations.
+Airbags have become a standard safety fitting in most vehicles. They are designed to act as 
+a cushion or shock absorber by inflating rapidly on sudden impact of the vehicle during 
+a collision. Airbags work on the principle of a chemical reaction triggered by the impact 
+producing a gaseous product that causes a sudden volume change. The key reaction used 
+is the conversion of sodium azide, NaN3, to nitrogen gas, N2. To avoid the production of 
+dangerously reactive sodium metal, potassium nitrate, KNO3 and silicon dioxide, SiO2, are 
+also included so that harmless silicates are produced instead. 
+Challenge yourself
+6. Use the explanation above to deduce the chemical equations for the reactions 
+taking place in a deployed airbag. 
+Illustration of an airbag and seat belt in action during a car accident. On impact, the airbag inflates and 
+the seat belt slows the forward force of the body, protecting the driver’s head and chest.
+Avogadro’s law is based on the assumptions outlined above that the particles in a gas 
+occupy negligible volume and have no forces of attraction between them. These are 
+postulates of the ideal gas model which is discussed in more detail in Structure 1.5. 
+Real gases will deviate most from this model when conditions bring the gas closer to 
+forming a liquid, that is, lower temperature and higher pressure.
+Avogadro’s law 
+states that equal 
+volumes of all 
+gases at the same 
+conditions of 
+temperature and 
+pressure contain 
+equal numbers of 
+particles. 
+V ∝n
+Structure 1.5 – 
+Avogadro’s law applies 
+to ideal gases. Under 
+what conditions might 
+the behaviour of a real 
+gas deviate most from 
+an ideal gas? 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+99
+The apparatus shows the use of electrolysis to split water into hydrogen and oxygen in the following 
+reaction: H2O(l) → 2H2(g) + O2(g). How can you explain the observed difference in volumes of the two 
+gases produced?
+Worked example 
+40 cm3 of carbon monoxide reacts with excess oxygen in the reaction:
+2CO(g) + O2(g) → 2CO2(g)
+What volume of oxygen will be used and what volume of carbon dioxide 
+is produced? 
+(Assume all volumes are measured at the same temperature and pressure.)
+Solution
+Data given in the question are shown in black, deduced data are shown in blue.
+First identify the mole ratios in the equation:
+2CO(g) + O2(g) → 2CO2(g)
+ 
+2 moles 
+1 mole 
+2 moles
+The mole ratio is equal to the ratio of reacting gas volumes, so:
+2CO(g) + O2(g) → 2CO2(g)
+40 cm3 
+20 cm3 
+40 cm3
+Therefore 20 cm3 of oxygen will be used and 40 cm3 of carbon dioxide produced.
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+100
+Worked example 
+When 10 cm3 of a gaseous hydrocarbon (a compound containing only carbon and 
+hydrogen) is burned in excess oxygen, the products consist of 30 cm3 of carbon 
+dioxide and 30 cm3 of water vapour, measured under the same conditions of 
+temperature and pressure. Determine the molecular formula of the hydrocarbon.
+Solution
+‘Excess’ oxygen indicates that the combustion reaction is complete.
+CxHy + excess O2 → CO2 + H2O 
+Given volumes: 
+10 cm3 
+30 cm3 30 cm3
+ratio of volumes / mole ratio: 
+ 1 
+ 3 
+ 3
+∴ 1 molecule hydrocarbon → 3 molecules CO2 + 3 molecules H2O
+ 
+3 C atoms 
+6 H atoms
+The molecular formula is C3H6.
+Exercise
+Q31. These four balloons are each ﬁ lled with 1 dm3 of gas. At 25 °C and 100 kPa, 
+they each contain 0.044 mol or 2.65 × 1022 atoms or molecules. Which 
+balloon is the heaviest? 
+Ar
+CH4
+H2
+N2
+Q32. A balloon contains a certain mass of argon gas. The pressure and 
+temperature are kept constant, and the same mass of neon gas is added to 
+the balloon. What happens?
+A 
+The volume of the balloon expands by two times. 
+B 
+The volume of the balloon expands by more than two times. 
+C 
+The volume of the balloon expands by less than two times. 
+D 
+None of the above.
+Q33. The following reaction takes place in the industrial production of 
+ammonia, NH3:
+N2(g) + 3H2(g) → 2NH3(g)
+What volume of hydrogen would be required to produce 30 dm3
+of ammonia?
+Q34. At a certain temperature and pressure, one mole of hydrogen gas, H2, 
+occupies a volume of 10 dm3. What would be the volume of one mole of 
+H atoms under the same conditions?
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+101
+How do we quantify matter on the atomic scale?
+Guiding Question revisited
+In this chapter we have introduced the mole as the unit of amount in chemistry.
+• One mole of any substance contains the Avogadro number of elementary entities.
+• Elementary entities can be any form of particle, including atoms, molecules, ions, 
+electrons, or a specified group of particles.
+• The Avogadro constant enables us to interconvert the number of moles and the 
+number of entities.
+• The molar mass, M, of a substance is its relative atomic mass, Ar, or relative formula 
+mass, Mr , expressed in grams. Ar and Mr are expressed relative to carbon-12, and are 
+a weighted average taking into account the abundance of isotopes.
+• The molar mass enables us to interconvert the number of moles and the mass 
+of the substance.
+• The empirical formula of a compound can be determined from its percentage 
+composition by mass. It gives the simplest ratio of atoms of elements in the 
+compound.
+• The molecular formula can be determined from the empirical formula and the molar 
+mass. It gives the actual number of atoms of each element present in a molecule.
+• The molar concentration of a solution is expressed as the moles of solute per 
+volume of solution.
+• Equal volumes of all gases at the same temperature and pressure contain the same 
+number of moles.
+How many atoms of calcium 
+are in Avogadro’s name 
+written in chalk?
+Practice questions
+1. How many oxygen atoms are in 0.100 mol of CuSO4.5H2O?
+A 
+5.42 × 1022         B    6.02 × 1022         C    2.41 × 1023         D    5.42 × 1023
+2. Four identical containers under the same conditions are ﬁ lled with gases as 
+shown below. Which container and contents will have the highest mass?
+nitrogen
+A
+oxygen
+B
+ethane
+C
+neon
+D
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+102
+3.  What is the amount, in moles, of sulfate ions in 100cm3 of 0.020moldm–3
+FeSO4(aq)?
+A 
+2.0 × 10–3         B    2.0 × 10–2         C    2.0 × 10–1         D    2.0
+4. 1.7 g of NaNO3 (Mr = 85) is dissolved in water to prepare 0.20dm3 of solution. 
+What is the concentration of the resulting solution in mol dm–3?
+A  0.01  
+B  0.1 
+C  0.2  
+D  1.0
+5. The relative formula mass of a gas is 56 and its empirical formula is CH2. 
+What is the molecular formula of the gas?
+A 
+CH2
+B 
+C2H4
+C 
+C3H6
+D 
+C4H8
+6. What is the total number of hydrogen atoms in 1.0mol of benzamide, 
+C6H5CONH2?  
+A  7   
+B  6.0 × 1023
+C  3.0 × 1024  
+D  4.2 × 1024
+7. What is the concentration of NaCl, in mol dm–3, when 10.0 cm3 of 
+0.200 mol dm–3 NaCl solution is added to 30.0 cm3 of 0.600 mol dm–3
+NaCl solution?
+A 
+0.450 
+B 
+0.300
+C 
+0.500 
+D 
+0.800
+8. On analysis, a compound with molar mass 60gmol–1 was found to contain 
+12g of carbon, 2g of hydrogen and 16g of oxygen. What is the molecular 
+formula of the compound?
+A 
+CH2O 
+B 
+CH4O
+C 
+C2H4O 
+D 
+C2H4O2
+9.  300cm3 of water is added to a solution of 200cm3 of 0.5moldm–3 sodium 
+chloride. What is the concentration of sodium chloride in the new solution?
+A 
+0.05 mol dm–3  
+B 
+0.1 mol dm–3
+C 
+0.2 mol dm–3  
+D 
+0.3 mol dm–3
+10. What is the approximate molar mass, in g mol–1, of MgSO4.7H2O?
+A 
+120 
+B 
+130
+C 
+138 
+D 
+246
+11. Which is both an empirical and a molecular formula?
+A 
+C5H12
+B 
+C5H10
+C 
+C4H8
+D 
+C4H10
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+103
+12. A hydrate of potassium carbonate has the formula K2CO3.xH2O. A 10.00 g 
+sample of the hydrated salt is heated and forms 7.93 g of anhydrous salt.
+(a) Calculate the number of moles of water in the hydrated sample. 
+(1)
+(b) Calculate the number of moles of anhydrous salt that form. 
+(1)
+(c) Determine the formula of the hydrate. 
+(1)
+(d) How could you determine when all the hydrated salt has been converted 
+into an anhydrous form? 
+(1)
+(Total 4 marks)
+13. An organic compound contains carbon, hydrogen and oxygen. The percentage 
+by mass of carbon is 62.02% and hydrogen is 10.43%.
+Determine the empirical formula of the compound, showing your working. (3)
+(Total 3 marks)
+14. Phosphorus formed an oxide by reaction with air which contained 43.6% by 
+mass phosphorus.
+(a) Determine the empirical formula of the oxide, showing the steps in your 
+calculation. 
+(3)
+(b) The molar mass of the oxide is approximately 285 g mol−1. Determine the 
+molecular formula of the oxide. 
+(1)
+(Total 4 marks)
+15. (a) A student needs to prepare 250.00 cm3 of a solution of sodium 
+hydrogencarbonate with a concentration of 0.500 mol dm–3. Explain the 
+steps in the process starting with the solid salt, and stating the apparatus 
+and glassware used. 
+(5)
+(b) Explain how, starting with the solution prepared in (a), 100 cm3 of 
+solutions with concentrations of 0.0500 mol dm–3 and 0.00500 mol dm–3
+could be prepared. 
+(4)
+(Total 9 marks)
+STRUCTURE1.4
+Counting particles by mass: The mole 
+
+
+Ideal gases 
+1.5
+STRUCTURE
+
+

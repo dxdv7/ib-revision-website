@@ -1,0 +1,2580 @@
+265
+STRUCTURE3.2
+Functional groups: classification of organic compounds 
+How does the classification of organic molecules help us to predict 
+their properties? 
+Guiding Question
+The total number of organic compounds that exists on Earth is so large that it is 
+impossible to give a definite number. In any case, it is increasing all the time as new 
+materials are synthesized. It is currently estimated that there are over 20 million 
+different organic molecules on the planet and every one of them is unique in its 
+chemical structure and specific properties.
+With such a large number of organic compounds, it is necessary to have a system for 
+classifying and naming them. In this chapter, we will learn how the presence of specific 
+functional groups allows for the classification of organic compounds into classes of 
+compounds with similar properties.
+A functional group is usually a small group of atoms attached to a carbon atom in a 
+molecule, and it gives the characteristic properties to the compound. The properties of 
+any individual compound can therefore be predicted and explained by what functional 
+groups are present and the class it belongs to.
+Given the incredible diversity of organic compounds, it is possible for compounds 
+with the same molecular formula to have different structures along with different 
+physical and chemical properties. Applying the rules for IUPAC nomenclature allows 
+unique names to be obtained for each individual compound, which also assists in their 
+classification.
+The international, 
+non-governmental 
+organization IUPAC 
+(International Union 
+of Pure and Applied 
+Chemistry), is best 
+known for its system 
+of nomenclature, and 
+is now recognized as 
+the world authority 
+in this ﬁ eld. IUPAC 
+terminology enables 
+precise communication 
+between scientists 
+across international 
+boundaries.
+The development of organic chemistry as a field of study has allowed chemists to investigate 
+increasingly complicated organic compounds, gaining new insights into their physical 
+properties and chemical reactivity. Since the first applications of computerized molecular 
+modelling in the 1960s, the steady growth in computing power has allowed for the modelling 
+of increasingly complex molecules, utilizing current knowledge of chemical bonding and the 
+intramolecular forces associated with different functional groups. With modern computers 
+and software, the 3D structures of extremely complex biological compounds, such as proteins 
+and enzymes, are now able to be modelled, giving new insights into the dynamics of protein 
+folding and enzyme catalysis. The picture shown is a computer-generated model of the 
+human catalase enzyme that shows the shape and folding of the enzyme. 
+
+
+266
+STRUCTURE3
+Classification of matter
+Structure 3.2.1 – Structural representations of 
+organic compounds
+Structure 3.2.1 – Organic compounds can be represented by different types of 
+formulas. These include empirical, molecular, structural (full and condensed), 
+stereochemical and skeletal.
+Identify different formulas, and interconvert molecular, skeletal and structural formulas.
+Construct 3D models (real or virtual) of organic molecules.
+Stereochemical formulas are not expected to 
+be drawn, except where speciﬁ cally indicated.
+Structure 2.2 – What is unique about carbon 
+that enables it to form more compounds 
+than the sum of all the other elements’ 
+compounds?
+Nature of Science, Structure 2.2 – What are 
+the advantages and disadvantages of different 
+depictions of an organic compound (e.g. 
+structural formula, stereochemical formula, 
+skeletal formula, 3D models)?
+Different types of formulas can provide different 
+information about organic compounds
+Structure 1.4 shows that chemical compounds can be represented by empirical and 
+molecular formulas which give the identities of the elements present in the compound. 
+However, for organic compounds, an understanding of how the atoms within the 
+compound are linked is often required in order to predict and explain their properties 
+and reactivity. Structural and skeletal formulas that illustrate the connections and 
+spatial arrangements between atoms are commonly used in organic chemistry.
+The empirical formula of a compound is the simplest whole-number ratio of the 
+atoms it contains (see Structure 1.4). For example, the empirical formula of ethane, 
+C2H6, is CH3. This formula can be derived from percentage composition data obtained 
+from combustion analysis. It is, however, of rather limited use on its own, as it does not 
+tell us the actual number of atoms in the molecule.
+The molecular formula of a compound is the actual number of atoms of each 
+element present. For example, the molecular formula of ethane is C2H6. It is therefore 
+a multiple of the empirical formula, and so can be deduced if we know both the 
+empirical formula and the molar mass M. The relationship can be expressed as:
+M = (molar mass of empirical formula)n
+where n is an integer.
+So, for example, if we know that the empirical formula of ethane is CH3, and its molar 
+mass M = 30 g mol−1, using the formula above:
+30 g mol−1 = (mass of CH3) so 30 = (12 + (3 × 1)), which gives n = 2
+Therefore, the molecular formula of ethane is (CH3)2 or C2H6.
+
+
+267
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+However, the molecular formula is also of quite limited value as the properties of a 
+compound are determined not only by the atoms it contains, but also by how those 
+atoms are arranged in relation to each other and in space.
+The structural formula is a representation of the molecule showing how the atoms 
+are bonded to each other. There are variations in the amount of detail this shows.
+• A full structural formula (graphic formula or displayed formula) shows every 
+bond and atom. Usually 60°, 90° and 180° angles are used to show the bonds 
+because this is the clearest representation on a two-dimensional page, although 
+it is not the true geometry of the molecule.
+• A condensed structural formula often omits bonds where they can be 
+assumed, and groups atoms together. It contains the minimum information 
+needed to describe the molecule unambiguously – in other words there is only 
+one possible structure that could be described by this formula.
+• The table below shows empirical and structural formulas applied to three 
+compounds.
+Compound
+Ethane
+Ethanoic acid
+Glucose
+Empirical formula
+CH3
+CH2O
+CH2O
+Molecular formula
+C2H6
+C2H4O2
+C6H12O6
+Full structural formula
+C
+C
+H
+H
+H
+H
+H
+H
+H
+C
+H
+C
+H
+H
+O
+O
+C
+C
+O
+H
+H
+C
+H
+O
+H
+C
+O
+H
+H
+C
+O
+H
+H
+C
+O
+H
+H
+H
+O
+H
+Condensed structural formula
+CH3CH3
+CH3COOH
+CHO(HCOH)4CH2OH
+A stereochemical formula attempts to show the relative positions of atoms and 
+groups around a central carbon in three dimensions. The convention is that a bond 
+sticking forwards from the page is shown as a solid wedge, whereas a bond sticking 
+behind the page is shown as a dashed wedge. A bond in the plane of the paper is a 
+solid line.
+goes back
+in the plane
+of the paper
+comes
+forward
+
+
+268
+STRUCTURE3
+Classification of matter
+When carbon forms four single bonds, the arrangement is tetrahedral with bond 
+angles of 109.5°. When it forms a double bond, the arrangement is triangular planar 
+with bond angles of 120°.
+H
+methanol, CH3OH
+ethene, C2H4
+C
+OH
+H
+H
+C
+C
+H
+H
+H
+H
+A skeletal formula can be regarded as a shorthand representation of a structural 
+formula. It shows all the bonds present in the molecule, except C–H bonds, and omits 
+the element symbols for carbon and hydrogen atoms. The symbols of all atoms other 
+than C and H are included along with the condensed formula of any functional groups 
+present.
+This results in a simpler visualization but it requires the user to become proficient 
+with identifying the positions of carbon atoms, along with the numbers of hydrogens 
+attached to each carbon, as this information is not readily apparent in the skeletal 
+formula.
+The skeletal structure of butane, C4H10, is compared to its full structural formula 
+below:
+C
+C
+H
+H
+H
+H
+H
+C
+H
+H
+C
+H
+H
+This point has two bonds
+attached: it represents a CH2
+This point has one bond
+attached: it represents a CH3
+H
+C–C bonds in a carbon chain are represented as offset lines in a skeletal formula. The 
+positions and numbers of carbon atoms present are identified by the points where 
+bond lines meet or end.
+Each carbon atom in an organic compound has four bonds. The number of hydrogen 
+atoms attached to each carbon can therefore be determined by subtracting the number 
+of bonds drawn to that atom from four. In the example of butane above, the point 
+at the end of the skeletal structure has one bond drawn to it, therefore it has three H 
+attached and represents a CH3 group.
+The table on the next page compares the condensed structural and skeletal formulas 
+for three organic compounds.
+
+
+269
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+Compound
+Ethanol
+Propanone
+Butanoic acid
+Molecular formula
+C2H5OH
+C3H6O
+C3H7COOH
+Full structural formula
+H
+C
+C
+H
+H
+H
+O
+H
+H
+H
+H
+H
+C
+O
+H
+C
+H
+C
+H
+H
+H
+H
+C
+H
+H
+H
+C
+H
+C
+O
+OH
+C
+Condensed structural 
+formula
+CH3CH2OH
+CH3COCH3
+CH3CH2CH2COOH
+Skeletal formula
+OH
+O
+COOH
+Sometimes we do not need to show the exact details of the hydrocarbon, or alkyl, part 
+of the molecule in a structure, so we can abbreviate this to R. For molecules which 
+contain a benzene ring, C6H6, (page 271) known as aromatic compounds, we use 
+ to show the ring.
+Worked example 
+(a) Convert the following full structural formula 
+to a skeletal formula.
+(b) Convert the following skeletal formula to a 
+condensed structural formula.
+Solution
+(a) 
+C
+C
+H
+H
+H
+H
+C
+Cl
+C
+OH
+H
+H
+1
+2
+3
+4
+• Carbon 1 has only one bond that is not to a hydrogen atom so it can be 
+represented as a point connected by a line to another point representing 
+carbon 2.
+• The double bond between carbons 2 and 3 must be represented as a 
+double line.
+• Carbon 3 has a bond to a non-hydrogen atom, Cl, which must be shown.
+• Carbon 4 has an OH group attached so this also must be shown.
+Cl
+OH
+C
+C
+H
+H
+H
+H
+C
+Cl
+C
+OH
+H
+H
+Br
+Cl
+If you can identify 
+primary, secondary 
+and tertiary carbons 
+(page 288) in a skeletal 
+formula, this should 
+help you to determine 
+the number of 
+hydrogens bonded to 
+each carbon. 
+Be careful not to 
+confuse structural and 
+skeletal formulas. When 
+a full structural formula 
+is required, the element 
+symbols of all carbon 
+and hydrogen atoms 
+must be included, 
+along with the bonds 
+between them. 
+
+
+270
+STRUCTURE3
+Classification of matter
+(b) 
+Br
+1
+4
+2
+3
+Cl
+• The point labelled 1 represents a carbon that has only one C–C bond so it 
+must have three hydrogens attached.
+• Point 2 represents a carbon with two C–C bonds and a C–Cl bond so it must 
+have one hydrogen attached.
+• Point 3 represents a carbon with two C–C bonds and a C–Br bond so it must 
+also have one hydrogen attached.
+• Point 4 is similar to point 1 and also represents a carbon that has one C–C 
+bond and three hydrogens attached.
+CH3CHClCHBrCH3
+1
+2
+3
+4
+The use of physical and computer models can assist organic chemists in visualizing the 
+three-dimensional shapes of compounds, which can also help explain their physical 
+properties and chemical reactivity.
+As we learn in Structure 1.3, common representations of atoms tend to be misleading 
+as they do not accurately depict the true scale of the nucleus compared to the overall 
+size of the atom. This is also true of modelling kits, along with ball-and-stick computer 
+models, where nuclei are depicted as spheres or balls with relatively small distances 
+between them.
+Challenge yourself
+1. Based on experimental evidence, the bond length of a carbon–carbon single 
+bond is 154 pm (1 pm = 10−12 m) and the radius of a carbon nucleus is 
+2.7 × 10−15 m. If modelling kits were made to scale, how long would the 
+plastic stick representing a single bond need to be if the carbon nucleus was 
+represented as a plastic ball with a 0.5 cm radius? 
+The two images above are different computer-generated models of dexamethasone, a drug 
+used to treat arthritis. The ball-and-stick model on the left shows the nuclei of the atoms as 
+‘balls’ and the covalent bonds as ‘sticks’. The space-filling model on the right shows the atoms 
+as overlapping spheres whose sizes correspond to the atomic radii of each atom.
+Construction of 3D 
+models and working 
+with virtual models 
+online are important 
+experiences that 
+help in gaining an 
+understanding of the 
+structural concepts 
+described in this 
+chapter. Full details of 
+a modeling activity are 
+available in the eBook.
+Nature of Science, 
+Structure 2.2 – What 
+are the advantages 
+and disadvantages of 
+diﬀ erent depictions of 
+an organic compound 
+(e.g. structural formula, 
+stereochemical formula, 
+skeletal formula, 
+3D models)?
+Students practising their 
+chemistry can find modelling 
+kits very useful in visualizing 
+the shapes of molecules they 
+encounter in class.
+
+
+271
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+In Structure 2.2, we learn that carbon atoms are able to form a variety of different 
+compounds containing single, double or triple bonds. From the examples on 
+previous pages illustrating the different structural representations of organic 
+compounds, it should become apparent that carbon is unique among the elements 
+for its ability to link to itself and form chains of bonded carbon atoms. This ability, 
+known as catenation, is one of the main reasons for the vast number of organic 
+compounds that exist. As we continue through this chapter, we will see that the 
+possibility for carbon chains to be branched, and for compounds to contain one or 
+more functional groups or substituents, further increases the incredible variety of 
+organic compounds that are possible.
+Q1. Convert the following full structural formulas to condensed structural 
+formulas.
+(a) 
+H
+C
+H
+H
+C
+CH3
+OH
+C
+H
+H
+H
+(b) 
+H
+C
+H
+H
+C
+H
+C
+H
+H
+C
+H
+H
+H
+H
+C
+H
+H
+(c) 
+C
+H
+C
+H
+C
+H
+C
+H
+H
+H
+H
+H
+(d)
+H
+C
+H
+C
+H
+C
+H
+H
+C
+H
+H
+H
+H
+C
+H
+H
+H
+C
+H
+H
+Q2. Convert the following condensed structural formulas to skeletal formulas.
+(a) CH3CH(CH3)CH3
+(b) CH2OHCH2CH2CH2Cl
+(c) CHClCHCH3
+(d) CH3C(CH3)2CH2CH3
+Q3. Convert the following skeletal formulas to condensed structural formulas.
+(a) 
+(b)
+Br
+Cl
+(c) 
+(d)
+Cl
+Cl
+Exercise
+Structure 2.2 – What is 
+unique about carbon 
+that enables it to form 
+more compounds than 
+the sum of all the other 
+elements’ compounds?
+C
+H
+H
+H
+H
+H
+H
+C
+C
+C
+C
+C
+Carbon compounds can 
+form ring structures that 
+are saturated, containing 
+only C-C single bonds, or 
+unsaturated, containing 
+C=C or C=–C bonds. Two 
+common ring structures are 
+cyclohexane, C6H12, shown 
+as a molecular model on 
+the top, and benzene, C6H6, 
+whose structure is shown 
+on the bottom. Benzene 
+is typically represented as 
+a skeletal structure with 
+the three double bonds 
+combined into
+a circle,
+
+
+272
+STRUCTURE3
+Classification of matter
+Structure 3.2.2 – Functional groups and classes 
+of compounds 
+Structure 3.2.2 – Functional groups give characteristic physical and chemical 
+properties to a compound. Organic compounds are divided into classes according to 
+the functional groups present in their molecules.
+Identify the following functional groups by name and structure: halogeno, hydroxyl, carbonyl, 
+carboxyl, alkoxy, amino, amido, ester, phenyl.
+The terms ‘saturated’ and ‘unsaturated’ should 
+be included.
+Nature of Science, Reactivity 3.2, 3.4 – How 
+can functional group reactivity be used 
+to determine a reaction pathway between 
+compounds, e.g. converting ethane into 
+ethanoic acid?
+Different classes of organic compounds contain 
+different functional groups 
+Functional groups are atoms, or groups of atoms, that are present in organic 
+compounds and are responsible for a compound’s physical properties and chemical 
+reactivity. Compounds that contain the same functional group belong to the same 
+class. For example, the class of organic compounds called carboxylic acids contain 
+the –COOH functional group.
+Table 1 below gives common classes of organic compounds along with the formula 
+and name of the functional group that defines each class. The table also includes the 
+suffix (or prefix) specific to each class when using IUPAC nomenclature to name a 
+compound as well as the general formula that describes the compounds belonging to 
+each class.
+For certain classes, the general formula has been given as CxHyOz to show the overall 
+chemical formula and also using R and R9 to represent alkyl chains that are linked by 
+functional groups. This format can help distinguish between classes such as aldehydes 
+and ketones that have the same overall formula.
+Class
+Functional 
+group
+Name of functional 
+group
+Sufﬁ x in 
+IUPAC name
+Example of 
+compound
+General 
+formula
+alkane
+-ane
+C2H6, ethane
+CnH2n+2
+alkene
+C
+C
+alkenyl
+-ene
+H2C=CH2, 
+ethene
+CnH2n
+alkyne
+C
+C
+alkynyl
+-yne
+HC≡CH, ethyne
+CnH2n−2
+alcohol
+–OH
+hydroxyl
+-anol
+C2H5OH, ethanol
+CnH2n+1OH
+ether
+R–O–R9
+ alkoxy
+-oxyalkane
+H3C–O–C2H5, 
+methoxyethane
+CnH2n+2O
+R–O–R9
+S3.2 Table 1 Important 
+classes of organic compounds 
+along with their associated 
+functional groups, IUPAC 
+suffixes and general formulas. 
+The table is continued on the 
+next page.
+
+
+273
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+continued
+Class
+Functional 
+group
+Name of functional 
+group
+Sufﬁ x in IUPAC 
+name
+Example of 
+compound
+General 
+formula
+aldehyde
+C
+O
+H
+carbonyl
+(aldehyde)
+-anal
+C2H5CHO, 
+propanal
+CnH2nO
+R–CHO
+ketone
+O
+C
+R
+R9
+carbonyl
+(ketone)
+-anone
+CH3COCH3, 
+propanone
+CnH2nO
+R–CO–R9
+carboxylic acid
+O
+O
+H
+C
+carboxyl
+(acid)
+-anoic acid
+C2H5COOH, 
+propanoic acid
+CnH2n+1COOH
+ester
+O
+O
+R
+C
+carboxyl
+(ester)
+-anoate
+C2H5COOCH3, 
+methyl 
+propanoate
+CnH2nO2
+R–COO–R9
+amide
+O
+N
+C
+H
+H
+amido
+-anamide
+C2H5CONH2, 
+propanamide
+CnH2n+1CONH2
+amine
+–NH2
+amino
+-anamine
+C2H5NH2, 
+ethanamine
+CnH2n+1NH2
+halogenoalkane*
+–F, –Cl, –Br, –I
+halogeno
+ﬂ uoro, chloro, 
+bromo, iodo 
+(preﬁ xes, not 
+sufﬁ xes. See below)
+C2H5Cl, 
+chloroethane
+CH3CH2BrCH3, 
+2-bromopropane
+CnH2n+1X
+X = F, Cl, Br, I
+arene**
+C6H5ˉ
+phenyl
+-benzene
+C6H5CH3, 
+methylbenzene
+* For halogenoalkane compounds, the halogen atoms are regarded as substituents as they have 
+taken the position of a hydrogen atom.
+When applying IUPAC nomenclature, substituents such as halogens are typically identiﬁ ed using 
+preﬁ xes: chloroethane, 2-bromopropane etc.
+** The syllabus does not require knowledge of arenes as a class of compounds, but you are 
+expected to recognize the phenyl group when it is present in a structure. The naming of 
+compounds containing a phenyl group is also not required knowledge.
+Although there will only be one systematic IUPAC name, compounds containing 
+phenyl groups often have alternative names. Methylbenzene (IUPAC name) 
+consists of a methyl group (–CH3) attached to a phenyl group (–C6H5) and it is 
+therefore also known as phenylmethane. Historically, it was known as toluene and  
+CH3
+this name is still in common use. 
+Methylbenzene is used as a solvent in many applications, including markers, paint thinners, 
+industrial cleaners and glues.
+Quickly sketching the 
+full structural formula 
+can sometimes make 
+it easier to identify the 
+functional groups and 
+structural features of an 
+organic compound. 
+
+
+274
+STRUCTURE3
+Classification of matter
+One important way of classifying organic compounds is by their saturation. 
+Compounds that are saturated only contain single bonds whereas unsaturated 
+compounds contain double or triple bonds. As we see in Reactivity 3.3 and 3.4, 
+saturated and unsaturated compounds undergo different types of reactions.
+Functional groups influence the chemical reactivity of organic 
+compounds
+In Reactivity 3.2–3.4, we learn in more detail about different chemical reactions that 
+occur for compounds with specific functional groups. Synthetic organic chemists 
+can use their knowledge of these reactions to synthesize target compounds from 
+readily available starting materials. This often requires organizing several reactions in 
+sequence so that the product of one reaction is the reactant of the next. Each step will 
+typically involve a functional group interconversion and the series of discrete steps is 
+known as a reaction pathway. 
+For example, ethene (C2H4) can be converted into ethanoic acid (CH3COOH) via a two-
+step reaction pathway where ethanol (CH3CH2OH) is formed as a product in the first 
+step and then used as a reactant in the second step. 
+C
+C
+H
+H
+H
+H
+H
+C
+C
+H
+H
+H
+OH
+H
+ethanol
+H2SO4
++ H2O
+oxidation
+ethene
+ethanoic acid
+H
+H
+H
+C
+O
+OH
+C
+Amino acids link together when condensation reactions occur 
+between their functional groups 
+The reaction of two amino acids with each other provides a specific example of how 
+functional groups on different molecules can react via a specific type of reaction to 
+give a new class of product.
+Amino acids each contain two functional groups, an amine group (–NH2) and a 
+carboxylic acid group (–COOH). As shown on the next page, these two groups are able 
+to react together in a condensation reaction in which a molecule of water is eliminated 
+and a new bond is formed between the acid group of one amino acid and the amino 
+group of the other. This bond is a substituted amide link known as a peptide bond, and 
+two amino acids linked in this way form an amide product known as a dipeptide.
+Food sources rich in 
+unsaturated fats. Fats are 
+biological compounds that 
+contain long carbon chains 
+which, in unsaturated fats, 
+include multiple double 
+bonds. The World Health 
+Organization and other 
+health agencies recommend 
+diets higher in unsaturated 
+fats than saturated fats 
+due to a decreased risk of 
+cardiovascular disease.
+Nature of Science, 
+Reactivity 3.2, 3.4 – How 
+can functional group 
+reactivity be used to 
+determine a reaction 
+pathway between 
+compounds, e.g., 
+converting ethene into 
+ethanoic acid? 
+Ethanoic acid is an important 
+industrial chemical. One 
+major use involves its 
+conversion to vinyl acetate 
+and the production of 
+polymers, such as polyvinyl 
+acetate (PVA) which is used 
+in many glues. A fun home 
+use of PVA glue is making 
+artificial slime.
+
+
+275
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+C
+N
+H
+H
+R1
+H
+C
+O
+OH
+C
+N
+H
+H
+R1
+H
+peptide
+bond
+free amino
+group (N-terminal)
+free carboxylic acid
+group (C-terminal)
+C
+O
+N
+H
+C
+R2
+H
+C
+O
+OH
+C
+N
+H
+H
+R2
+H
+C
+O
+OH
+H2O
+condensation
+We can see that the dipeptide still has a functional group at each end of the molecule, 
+with –NH2 at one end and –COOH at the other. So it can react again by another 
+condensation reaction, forming a tripeptide and eventually a chain of many linked 
+amino acids known as a polypeptide. 
+Q4. For each of the following molecules, give its class and the name of its 
+functional group:
+(a) CH3CH2COOH 
+(b) CH3CHCHCH3
+(c) CH2OHCH2CH2CH3
+(d) CH3COOCH3
+(e) CH3CH2CHO 
+(f) CH3NH(CH3)
+Exercise
+Haemoglobin is a 
+metalloprotein that transports 
+oxygen in the bloodstream. 
+The structure of haemoglobin 
+includes four subunits which 
+are folded polypeptide 
+chains.
+
+
+276
+STRUCTURE3
+Classification of matter
+Q5. Which of the following is an amide?
+A 
+CH3NH(CH3) 
+B 
+CH3CONH2
+C 
+CH3CH2NH(CH3) 
+D 
+CH3CH2COOCH3
+Q6. Which of the following is an ester?
+A 
+CH3COCH3
+B 
+CH3COCH2NH2
+C 
+CH3CH(OH)CH3
+D 
+CH3COOCH2CH3
+Structure 3.2.3 and 3.2.4 – Homologous series
+Structure 3.2.3 – A homologous series is a family of compounds in which successive 
+members differ by a common structural unit, typically CH2. Each homologous series 
+can be described by a general formula.
+Identify the following homologous series: alkanes, alkenes, alkynes, halogenoalkanes, 
+alcohols, aldehydes, ketones, carboxylic acids, ethers, amines, amides and esters.
+Nature of Science, Tool 2 – How useful are 3D 
+models (real or virtual) to visualize the invisible?
+Structure 3.2.4 – Successive members of a homologous series show a trend in physical 
+properties.
+Describe and explain the trend in melting and boiling points of members of a homologous 
+series.
+Structure 2.2 – What is the inﬂ uence of the 
+carbon chain length, branching and the nature of 
+the functional groups on intermolecular forces?
+Homologous series differ by a CH2 group
+Organic compounds are classified into ‘families’ of compounds known as 
+homologous series. The members of each such series possess certain common 
+features, as described below.
+Consider the following compounds of carbon and hydrogen where the carbons are all 
+bonded by single covalent bonds.
+C
+H
+H
+H
+CH4
+methane
+H
+C2H6
+ethane
+C
+C
+H
+H
+H
+H
+H
+H
+C3H8
+propane
+C
+C
+H
+H
+H
+C
+H
+H
+H
+H
+H
+C4H10
+butane
+C
+C
+H
+H
+H
+C
+H
+H
+C
+H
+H
+H
+H
+H
+These are members of a homologous series known as the alkanes. It can be seen that 
+neighbouring members differ from each other by –CH2–. This same increment applies 
+to successive members of each homologous series, and means that the molecular mass 
+increases by a fixed amount as we go up a series.
+
+
+277
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+Members of a homologous series can be 
+represented by the same general formula
+The four alkanes shown on the previous page can all be represented by the general 
+formula CnH2n+2.
+Other homologous series are characterized by the presence of a particular functional group, 
+and this will be shown in the general formula for the series. For example, the homologous 
+series known as the alcohols possesses the functional group –OH as shown below.
+H
+C
+C
+H
+H
+C
+H
+H
+H
+O
+H
+H
+propanol
+C3H7OH
+C
+C
+H
+H
+H
+C
+H
+H
+C
+H
+H
+H
+O
+H
+H
+butanol
+C4H9OH
+H
+C
+C
+H
+H
+H
+O
+H
+H
+ethanol
+C2H5OH
+H
+C
+H
+O
+H
+H
+methanol
+CH3OH
+The four alcohols shown above can all be represented by the general formula 
+CnH2n+1OH.
+General formulas for the homologous series of other classes of organic compounds 
+have been provided in Table 1 on pages 272–273.
+Members of a homologous series show a trend in 
+physical properties
+As successive members of a homologous series differ by a –CH2– group, they have 
+successively longer carbon chains. This is reflected in a gradual trend in the physical 
+properties of the members of the series. For example, the effect of the length of 
+the carbon chain on the boiling point of three classes of compounds, alkanes, 
+chloroalkanes and alcohols is shown in Table 2.
+S3.2 Table 2 Boiling points for the first eight members in the homologous series of alkanes, 
+chloroalkanes and alcohols.
+Alkane 
+Boiling 
+point / °C
+Chloroalkane
+Boiling 
+point / °C
+Alcohol
+Boiling 
+point / °C
+methane
+CH4
+−164
+chloromethane
+CH3Cl
+−24
+methanol
+CH3OH
+65
+ethane
+C2H6
+−89
+chloroethane
+C2H5Cl
+12
+ethanol
+C2H5OH
+78
+propane
+C3H8
+−42
+1-chloropropane
+C3H7Cl
+46
+propan-1-ol
+C3H7OH
+97
+butane
+C4H10
+−0.5
+1-chlorobutane
+C4H9Cl
+78
+butan-1-ol
+C4H9OH
+118
+pentane
+C5H12
+36
+1-chloropentane
+C5H11Cl
+108
+pentan-1-ol
+C5H11OH
+138
+hexane
+C6H14
+69
+1-chlorohexane
+C6H13Cl
+135
+hexan-1-ol
+C6H13OH
+156
+heptane
+C7H16
+98
+1-chloroheptane
+C7H15Cl
+159
+heptan-1-ol
+C7H15OH
+176
+octane
+C8H18
+125
+1-chlorooctane
+C8H17Cl
+182
+octan-1-ol
+C8H17OH
+194
+The compounds shaded in yellow exist as gases at room temperature and those shaded in green 
+exist as liquids at room temperature. 
+
+
+278
+STRUCTURE3
+Classification of matter
+The data for each class of compound in Table 2 show that boiling point increases with 
+increasing carbon number. This is because a longer chain length increases both the 
+instantaneous and induced dipoles occurring, which then results in stronger London 
+dispersion forces, and therefore stronger overall intermolecular forces, between the 
+molecules.
+Other physical properties that show this predictable trend with increasing carbon 
+number are melting point, density and viscosity.
+Functional groups affect the physical properties of 
+organic compounds
+For the alkanes listed in Table 2, the increase in boiling point is not linear, but steeper 
+near the beginning as the influence of the increased chain length is proportionally 
+greater for small molecules. For the chloroalkanes and alcohols, there is a more 
+consistent increase in boiling point with carbon chain length. This is because the 
+strongest intermolecular forces present are associated with their functional groups 
+rather than carbon chain length.
+Owing to their different polarities and resulting differences in intermolecular forces, 
+functional groups have a significant effect on physical properties. One such property is 
+volatility and the effect of different functional groups on volatility can be summarized 
+as follows.
+most volatile 
+least volatile
+alkane > halogenoalkane > aldehyde > ketone > alcohol > carboxylic acid
+London (dispersion) force
+dipole–dipole interaction
+hydrogen bonding
+increasing strength of intermolecular attraction 
+increasing boiling point 
+If we look across any row in Table 2, the compounds listed have the same number of 
+carbons but their boiling points increase in the order: alkane < chloroalkane < alcohol. 
+This is consistent with the strength of the intermolecular forces present due to the 
+different functional groups in these compounds: London dispersion forces (alkane) 
+< dipole–dipole (chloroalkane) < hydrogen bonding (alcohol). As Table 2 shows, the 
+hydrogen bonding present in alcohols is so strong that even the smallest alcohol, 
+methanol (CH3OH), is a liquid at room temperature.
+In this section we have seen that both chain length and the functional groups 
+present affect the nature of the intermolecular forces in a compound. Longer chains 
+result in increased London dispersion forces and polar functional groups result in 
+dipole–dipole interactions or hydrogen bonding. In the next section we will see that 
+branching of the carbon chain in a compound also affects intermolecular forces as it 
+results in weaker London dispersion forces. 
+The trend in boiling 
+points of the alkanes 
+is of great significance 
+in the oil industry, as 
+it makes it possible 
+to separate the many 
+components of crude 
+oil into fractions that 
+contain molecules of 
+similar molecular mass 
+on the basis of their 
+boiling points. As the 
+crude oil is heated, the 
+smaller hydrocarbons 
+boil off first while 
+larger molecules 
+distil at progressively 
+higher temperatures 
+in the fractionating 
+column. The different 
+fractions are used 
+as fuels, industrial 
+lubricants, and as 
+starting molecules in 
+the manufacture of 
+synthetic compounds.
+Volatility is a term 
+used to describe 
+the tendency of a 
+substance to vaporize. 
+Substances with strong 
+intermolecular forces 
+have a high boiling 
+point and a low 
+volatility. 
+Structure 2.2 – What 
+is the inﬂ uence of 
+the carbon chain 
+length, branching 
+and the nature of the 
+functional groups on 
+intermolecular forces?
+
+
+279
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+Q7. 
+Which of the following is a member of the same homologous series as 
+butanoic acid, CH3CH2CH2COOH?
+A 
+CH3CH2COOCH3
+B 
+CH3CH2CH3
+C 
+CH3OCH2CH3
+D 
+CH3COOH
+Q8. 
+Which of the following pairs of compounds belong to the same 
+homologous series?
+I. 
+CH3CH2Cl, CH2ClCH2CH2CH3
+II. CH3CH2Br, CH2ClCH2CH3
+III. CH3CH2Br, CH2BrCH2Br
+A 
+I only 
+B 
+I and III 
+C 
+III only 
+D 
+I, II and III
+Q9. 
+Which option ranks the compounds in order of increasing boiling point?
+A 
+CH3CH2COOH < CH3CH2CH3 < CH3CH2CH2F
+B 
+CH3CH3 < CH3COOH < CH3CH2COOH
+C 
+CH3COOH < CH3COOCH3 < CH3COCH3
+Q10. Rank the following compounds in order of increasing volatility and provide 
+an explanation for your answer.
+bromopropane (CH3CH2CH2Br); propanoic acid (CH3CH2COOH); 
+propane (CH3CH2CH3)
+Q11. Predict how the aqueous solubility of the alcohols changes with increasing 
+chain length and provide a reason for your answer.
+Exercise
+Structure 3.2.5 – IUPAC nomenclature
+Structure 3.2.5 – ‘IUPAC nomenclature’ refers to a set of rules used by the 
+International Union of Pure and Applied Chemistry to apply systematic names to 
+organic and inorganic compounds.
+Apply IUPAC nomenclature to saturated or mono-unsaturated compounds that have up to 
+six carbon atoms in the parent chain and contain one type of the following functional groups: 
+halogeno, hydroxyl, carbonyl, carboxyl.
+Include straight and branched-chain isomers.
+Unique names for organic compounds are derived 
+using IUPAC nomenclature 
+For over a hundred years, chemists have recognized the need for a specific set of rules 
+for the naming of organic compounds. Rules developed by the IUPAC generate names 
+that are logically based on the chemistry of the compounds, and so give information 
+about the functional groups present and the size of the molecules. 
+
+
+280
+STRUCTURE3
+Classification of matter
+Some guidelines for applying the IUPAC nomenclature are discussed below.
+Rule 1: Identify the longest straight chain of carbon atoms 
+The longest chain of carbon atoms gives the stem of the name as follows.
+Number of carbon atoms 
+in longest chain
+Stem in IUPAC name
+Example of compound
+1
+meth-
+CH4, methane 
+2
+eth-
+C2H6, ethane
+3
+prop-
+C3H8, propane
+4
+but-
+C4H10, butane
+5
+pent-
+C5H12, pentane
+6
+hex-
+C6H14, hexane
+Note that ‘straight chain’ refers to continuous or unbranched chains of carbon atoms – it 
+does not mean angles of 180°. Be careful when identifying the longest straight chain not 
+to be confused by the way the molecule may appear on paper, because of the free rotation 
+around carbon–carbon single bonds. For example, in Figure 1 all three structures are the 
+same straight-chain molecule pentane, C5H12, even though they may look different.
+5 C
+5 H
+Rule 2: Identify the functional group
+The functional group usually determines the specific ending or suffix to the name, 
+which replaces the ‘-ane’ ending in the parent alkane. The suffixes used for some 
+common functional groups are shown in Table 1 on pages 272–273. Note the 
+distinction between class, which refers to the type of compound, and functional group, 
+which refers to the site of reactivity in the molecule. 
+Remember that the name for the stem is derived from the longest carbon chain, which may 
+include the carbon of the functional group. Look at Table 1 on pages 272–273 and see how 
+this applies to carboxylic acids and their derivatives (esters and amides).
+The position of a functional group is shown by a number between dashes inserted 
+before the functional group ending. The number refers to the carbon atom to which 
+the functional group is attached. The chain is always numbered starting at the end that will 
+give the smallest number to the functional group.
+S3.2 Figure 1 Different 
+representations of the 
+same molecule, C5H12, 
+pentane. These can all be 
+interconverted by rotating the 
+carbon–carbon bonds.
+You are expected to 
+be familiar with the 
+nitrogen-containing 
+functional groups at 
+the bottom of Table 1 
+on page 273 (amine 
+and amide), but 
+nomenclature of these 
+classes of compounds 
+will not be assessed.
+
+
+281
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+For example:
+C1
+C2
+H
+H
+H
+H
+H
+OH H
+C
+H
+propan-2-ol
+C2
+C1
+H
+H
+H
+C
+H
+H
+C
+H
+but-1-ene
+H
+H
+As shown in the structure of but-1-ene above, here we number the carbon chain 
+starting from the right-hand side so that the number of the group will be 1 and not 3.
+Sometimes a functional group can only be in one place; in these cases we do not need 
+to give a number to show its position.
+For example, the carboxylic acid group must always be at the end of a chain so it 
+does not need a number assigned. A ketone with three carbons has only one possible 
+position for the carbonyl group so it also does not need a number assigned.
+C
+H
+H
+C
+H
+H
+C
+C
+H
+H
+H
+butanoic acid
+O
+OH
+C
+H
+H
+C
+O
+H
+C
+H
+H
+H
+propanone
+Rule 3: Identify the side chains or substituent groups
+Side chains, or functional groups in addition to the one used as the suffix, are known 
+as substituents and are given as the first part or prefix of the name. Some common 
+examples are shown in the table below.
+Class
+Functional 
+group
+Name of 
+functional 
+group
+Preﬁ x in 
+IUPAC 
+name
+Example of compound
+alkane
+methyl, 
+ethyl, 
+propyl 
+etc.
+CH3CH(CH3)C2H5, 
+2-methylbutane
+CH(C2H5)3, 3-ethylpentane
+CH(C3H7)3, 4-propylheptane
+halogenoalkane
+–F, –Cl, –Br, –I
+halogeno
+ﬂ uoro, 
+chloro, 
+bromo, 
+iodo
+C2H5Cl, chloroethane
+CH3CH2BrCH3, 
+2-bromopropane
+amine
+–NH2
+amine
+amino
+CH2(NH2)COOH, 
+2-aminoethanoic acid
+You will notice that –NH2 appears as both a possible suffix in Table 1 on pages 272–273 
+and a prefix in the table above. Usually when it is the only functional group it will take 
+the suffix, but if there are two or more functional groups in the molecule it will be a 
+prefix, as for example in amino acids.
+
+
+282
+STRUCTURE3
+Classification of matter
+As shown in the table on the previous page, the position of the substituent groups is 
+given by a number followed by a dash in front of its name showing the carbon atom to 
+which it is attached, again numbering the chain to give the smallest number to the group.
+For example:
+C1
+C2
+H
+H
+H
+H
+2-methylbutane
+H
+H
+H
+C
+C
+H
+H
+C
+H
+H
+H
+2-methylpentane
+H
+C
+H
+H
+C
+C2
+H
+H
+H
+H
+C
+H
+H
+C
+H
+H
+H
+H
+C1
+H
+If there is more than one substituent group of the same type, we use commas between 
+the numbers and the prefixes di-, tri-, or tetra- before the name. Substituents are given 
+in order of the number of the carbon atom to which they are attached; if there is more 
+than one group on the same atom they are put in alphabetical order.
+For example:
+C
+H
+H
+H
+C
+H
+1,2-dichloropropane
+Cl
+C
+H
+Cl
+H
+1-chloro-2-methylpropane
+C
+H
+H
+H
+C
+H
+C
+H
+Cl
+H
+H
+C
+H
+H
+2-bromo-2-chloropropane
+C
+H
+H
+H
+C
+Br
+Cl
+C
+H
+H
+H
+Naming esters and ethers
+Esters
+Esters form when the alkyl group of an alcohol replaces the hydrogen of a carboxylic 
+acid in a condensation reaction:
+R–COOH + R9OH → R–COO–R9 + H2O
+Esters are named in a similar way to salts, which form when a metal has replaced the 
+hydrogen of a carboxylic acid. Salts take the stem of the name from the parent acid and 
+the prefix is the cation. For example, CH3COONa is sodium ethanoate.
+In esters, the stem still comes from the parent acid but the alkyl group of the alcohol is 
+the prefix. The ester made from the reaction of ethanol with ethanoic acid will be ethyl
+ethanoate, CH3COOCH2CH3.
+H
+C
+H
+H
+C
+O
+O
+C
+H
+H
+H
+C
+H
+H
+ethyl ethanoate
+When carboxylic acids 
+lose H+ they become 
+alkanoate ions. In 
+naming esters this also 
+applies to the parent 
+acid the ester is made 
+from: methanoic acid 
+(HCOOH) becomes 
+methanoate (HCOO−) 
+in the ester; propanoic 
+acid (CH3CH2COOH) 
+becomes propanoate 
+(CH3CH2COO−) etc.
+A selection of fresh fruits. The 
+distinctive tastes and smells of 
+fruits and berries are typically 
+caused by ester compounds.
+
+
+283
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+Ethers
+Ethers consist of two alkyl chains linked by an oxygen atom (R–O–R9).
+When naming ethers:
+• the longer chain will be the stem and retains its alkane name;
+• the shorter chain is regarded as a substituent and is given the prefix alkoxy.
+H
+H
+H
+C
+H
+H
+H
+H
+C
+H
+H
+C
+O
+C
+H
+methoxypropane
+When the two chains are the same length, then one is assigned as the alkane stem and 
+the other becomes the substituent.
+H
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+O
+ethoxyethane
+  
+A selection of foods rich in carbohydrates. Carbohydrates are complex sugars with individual sugar 
+units (saccharides) joined by ether linkages.
+Ethers are used 
+commercially as 
+solvents and in 
+the production of 
+polymers. They are 
+also used for medicinal 
+purposes such as 
+antiseptics and some 
+of the first anaesthetics 
+were ethers.
+The ether monument 
+in Boston, USA. It 
+commemorates the first use 
+of ethoxyethane (diethyl 
+ether) as an anaesthetic, as 
+well as the many lives saved 
+through surgical procedures 
+only possible with the use of 
+anaesthesia.
+
+
+284
+STRUCTURE3
+Classification of matter
+Nature of Science
+Classification is an important aspect of many disciplines as it brings some 
+order to large amounts of data, and helps in the recognition of patterns and 
+trends. In organic chemistry, classification is particularly helpful given the 
+almost infinite number of compounds. The IUPAC nomenclature system 
+described earlier is broadly accepted by scientists because it provides effective 
+communication. Yet, in common with most systems of classification, there 
+are limits to its usefulness. One of these limits is in biochemistry, where 
+IUPAC nomenclature can result in seemingly complex and extended names 
+for relatively simple molecules. For example, sucrose, C12H22O11, becomes 
+(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)
+oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol. Although there 
+is a place for such terminology, it is not widely used. Classification and 
+nomenclature are artificial constructs, and when not helpful need not be used. 
+Throughout this book we will commonly use non-IUPAC names for biological 
+molecules for this reason.
+Nature of Science
+As the study of organic chemistry has grown to include increasingly large 
+and complex molecules, IUPAC nomenclature has had to adapt accordingly. 
+New rules have been introduced with the identification of complex structural 
+features that could not be named using earlier rules.
+Summary of IUPAC nomenclature
+In summary, IUPAC nomenclature has three possible parts, which are usually written 
+together as a single word. 
+Prefix
+position, number 
+and name of 
+substituents
+Stem
+number of carbon 
+atoms in longest 
+chain
+Suffix
+class of compound 
+determined by 
+functional group
+In the upcoming section on structural isomers you will encounter many examples of different 
+organic compounds that have the same molecular formula (isomers). You should use these 
+examples as an opportunity to confirm your ability to apply IUPAC rules and determine the 
+correct systematic name for each isomer. 
+Q12. For each of the following molecules, give its class and its IUPAC name.
+(a) CH3CH2CH(CH3)CH3
+(b) CH3CH(CH3)COOH
+(c) CH3COCH2CH3
+(d) CH3COOCH2CH2CH3
+(e) CH3CH2CH2OH 
+(f) CH3CH2CH2CH2CHO
+Exercise
+C
+C
+H
+O
+H
+H
+H
+C
+3
+4
+2
+1
+C
+H
+C
+H
+H
+H
+H
+H
+C
+H
+H
+3,3-dimethylbutanal
+For example:
+
+
+285
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+Q13. Give the structural formulas for the following molecules (condensed form is 
+acceptable).
+(a) methanoic acid  
+(b) hex-3-yne
+(c) pentanal 
+(d) butanone
+(e) ethoxypropane 
+(f ) 2-bromopropan-1-ol
+Q14. A student draws the structure of what they believe is 2-ethylpentane. 
+Draw the structure that is consistent with this name and then determine 
+the correct IUPAC name for this compound.
+Structure 3.2.6 – Structural isomers
+Structure 3.2.6 – Structural isomers are molecules that have the same molecular 
+formula but different connectivities.
+Recognize isomers, including branched, straight-chain, position and functional group isomers.
+Primary, secondary and tertiary alcohols, 
+halogenoalkanes and amines should be 
+included.
+Organic compounds with the same molecular 
+formula can have different structures
+The molecular formula of a compound shows the atoms that are present in the 
+molecule, but gives no information on how they are arranged. Consider for example 
+the formula C4H10. There are two possible arrangements for these atoms that 
+correspond to different molecules with different properties.
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+butane, 
+boiling point –0.5 °C
+2-methylpropane,
+boiling point –11.7 °C
+C
+H
+H
+H
+H
+C
+H
+H
+C
+H
+C
+H
+H
+H
+H
+C
+H
+H
+Such molecules, having the same molecular formula but different arrangements of the 
+atoms, are known as structural isomers. 
+Structural isomers 
+are molecules that 
+have the same 
+molecular formula 
+but different 
+arrangements of 
+the atoms. Because 
+of their different 
+structures, they 
+also have different 
+physical and 
+chemical properties.
+Molecular models of the two 
+isomers of C4H10. On the left 
+is butane (sometimes called 
+n-butane to denote a straight 
+chain), and on the right is 
+2-methylpropane.
+
+
+286
+STRUCTURE3
+Classification of matter
+Each isomer is a distinct compound, having unique physical and chemical properties. 
+As we will see, the number of isomers that exist for a molecular formula increases with 
+the size of the molecule. This is one of the reasons for the vast number of compounds 
+that can be formed from carbon.
+Alkanes can have straight chain or branched structural 
+isomers
+As we saw on the previous page, butane, C4H10,has two structural isomers, one that 
+forms a straight chain and another that has a branched structure. Pentane, C5H12, has 
+three structural isomers as shown below.
+H
+C
+H
+H
+C
+H
+H
+C
+H
+pentane
+H
+C
+H
+H
+C
+H
+H
+H
+2-methylbutane
+H
+C
+H
+H
+C
+H
+C
+H
+H
+C
+H
+H
+H
+H
+C
+H
+H
+2,2-dimethylpropane
+H
+C
+H
+H
+C
+C
+H
+H
+H
+H
+C
+H
+H
+H
+C
+H
+H
+straight chain
+one branch
+two branches
+boiling point 36.1 °C
+boiling point 27.8 °C
+boiling point 9.5 °C
+From the examples of C4H10 and C5H12 we can see a trend in the boiling points of their 
+isomers: the more branching that is present in an isomer, the lower its boiling point.
+Branching of the hydrocarbon chain influences the strength of the London dispersion 
+forces occurring between neighbouring molecules because it reduces the amount of 
+surface contact. Think, for example, how tree logs with lots of branches sticking out 
+cannot stack together as closely as a pile of logs which have no branches. In a similar 
+way, branched-chain isomers have less contact with each other than their straight-
+chain isomers. This results in weaker attractions between instantaneous and induced 
+dipoles on neighbouring molecules with weaker overall London dispersion forces and 
+lower boiling points.
+The existence of these different straight-chain and branched-chain isomers of the alkanes 
+is of great significance in the petroleum industry. It has been found that branched-chain 
+isomers generally burn more smoothly in internal combustion engines than straight-chain 
+isomers, and so oil fractions with a higher proportion of these branched-chain isomers are 
+considered to be of ‘better grade’. This is often referred to as a higher ‘octane number’ and 
+means that it fetches a higher price at the pump.
+The number of 
+isomers that exist 
+for a molecular 
+formula increases as 
+the molecular size 
+increases. In fact, the 
+increase is exponential; 
+there are 75 possible 
+isomers of C10H22 and 
+366 319 isomers of 
+C20H42! 
+
+
+287
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+Worked example 
+Draw full structural formulas for the ﬁ ve different structural isomers of hexane, C6H14.
+Solution
+When identifying structural isomers for a given formula it is best to start with the 
+longest possible chain and then progress through the possibilities with successively 
+shorter chain lengths. C6H14 has one straight chain isomer:
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+H
+There are two isomers with a ﬁ ve-carbon longest chain and one methyl branch:
+H
+C
+H
+H
+C
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+H
+H
+C
+H
+H
+H
+C
+H
+H
+C
+H
+C
+H
+C
+H
+H
+C
+H
+H
+H
+H
+H
+C
+H
+H
+There are two isomers with a four-carbon longest chain and two methyl branches:
+H
+C
+H
+C
+H
+C
+H
+H
+C
+H
+H
+H
+H
+C
+H
+H
+H
+C
+H
+H
+H
+C
+H
+C
+H
+C
+H
+H
+C
+H
+H
+H
+H
+C
+H
+H
+H
+C
+H
+H
+Challenge yourself
+2. The Subject Guide only requires you to determine isomers for compounds 
+containing up to six carbons in the longest chain. However, it can be beneficial 
+to apply your knowledge to larger compounds. See if you can identify the nine 
+structural isomers of heptane (C7H16). 
+Alkenes can have positional structural isomers
+Alkenes are a class of organic compounds that contain at least one carbon–carbon 
+double bond. For alkanes, we saw that structural isomers can occur due to branching 
+of the carbon chains. For alkenes, a different type of structural isomer can also occur, 
+where the double bond is found in different positions.
+
+
+288
+STRUCTURE3
+Classification of matter
+C4H8 has the following straight-chain isomers:
+C
+H
+C
+H
+C
+H
+H
+C
+H
+H
+H
+H
+C
+H
+C
+H
+but-2-ene
+but-1-ene
+C
+H
+C
+H
+H
+H
+H
+H
+C5H10 has the following two straight-chain isomers:
+C
+H
+C
+H
+C
+H
+C
+H
+H
+H
+C
+H
+H
+H
+H
+C
+H
+C
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+H
+H
+pent-2-ene
+pent-1-ene
+C6H12 has the following three straight-chain isomers:
+C
+H
+C
+H
+C
+H
+H
+hex-1-ene
+C
+H
+H
+C
+H
+H
+C
+H
+H
+H
+H
+hex-2-ene
+C
+H
+C
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+H
+H
+hex-3-ene
+C
+H
+C
+H
+C
+H
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+H
+Similarly, the structures of the isomers of the alkynes, which contain at least one triple 
+carbon–carbon bond, can be deduced by considering different possible positions for 
+the triple bond.
+Positional isomers for some classes of compounds can be 
+classified as primary, secondary or tertiary compounds
+Structural isomers also occur in alcohols, halogenoalkanes and amines due to 
+the position of their functional group. For these compounds, identifying different 
+positional isomers is of particular importance as they can have significantly different 
+chemical reactivity, as seen in Reactivity 3.2–3.4 for the oxidation reactions of alcohols 
+and in Reactivity 3.4 for the substitution reactions of halogenoalkanes.
+A primary carbon atom is attached to the functional group and also to at least two 
+hydrogen atoms. Molecules with this arrangement are known as primary molecules.
+For example, ethanol, C2H5OH, is a primary alcohol and chloroethane, C2H5Cl, is a 
+primary halogenoalkane.
+C
+H
+C
+H
+OH
+H
+H
+H
+primary carbon
+atom
+C
+H
+C
+H
+Cl
+H
+H
+H
+A secondary carbon atom is attached to the functional group and also to one 
+hydrogen atom and two alkyl groups. These molecules are known as secondary 
+molecules. For example, propan-2-ol, CH3CH(OH)CH3, is a secondary alcohol, and 
+2-chloroethane, CH3CHClCH3, is a secondary halogenoalkane.
+
+
+289
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+C
+H
+C
+H
+C
+H
+OH
+H
+H
+H
+H
+secondary carbon
+atom
+C
+H
+C
+H
+C
+H
+Cl
+H
+H
+H
+H
+A tertiary carbon atom is attached to the functional group and is also bonded 
+to three alkyl groups and so has no hydrogen atoms. These molecules are known 
+as tertiary molecules. For example, 2-methylpropan-2-ol, C(CH3)3OH, is a tertiary 
+alcohol, and 2-chloro-2-methylpropane, C(CH3)3Cl, is a tertiary halogenoalkane.
+C
+H
+C
+H
+C
+H
+OH
+H
+H
+H
+H
+C
+H
+H
+tertiary carbon
+atom
+C
+H
+C
+H
+C
+H
+Cl
+H
+H
+H
+H
+C
+H
+H
+Butan-2-ol (left) and 2-methylpropan-2-ol (right) are two structural isomers with the formula C4H9OH. 
+With molecular models it is easy to visualize their different structures and identify that butan-2-ol is a 
+secondary alcohol and 2-methylpropan-2-ol is a tertiary alcohol. Carbon atoms are shown in black, 
+hydrogen atoms are white and oxygen atoms are red. 
+In amines, a similar classification can be applied according to the number of alkyl 
+groups and hydrogen atoms bonded to the nitrogen atom.
+Type of amine
+Primary
+Secondary
+Tertiary
+Number of H atoms 
+attached to central N
+2
+1
+0
+Number of C atoms 
+attached to central N
+1
+2
+3
+H3C
+N
+primary
+nitrogen atom
+H
+H
+secondary
+nitrogen atom
+H3C
+N
+H
+CH3
+tertiary
+nitrogen atom
+H3C
+N
+CH3
+CH3
+
+
+290
+STRUCTURE3
+Classification of matter
+Structural isomers can have different functional groups
+There are many different types of isomers, including those in which the molecules have 
+different functional groups and so are members of different classes of compounds with very 
+different reactivities. For example, the molecular formula C2H6O describes both an alcohol 
+and an ether, with models of these functional group isomers shown in the picture below.
+Methoxymethane (left) and ethanol (right) are functional group isomers, both with the molecular 
+formula C2H6O. With the use of molecular models, it is easy to visualize the different functional groups 
+in these molecules and explain their different physical and chemical properties. Ethanol is a liquid 
+widely used in alcoholic drinks while methoxymethane is a gas used in aerosol propellants. Carbon 
+atoms are represented here as black, hydrogen atoms are white and oxygen atoms are red.
+Q15. Which of the following pairs of compounds are structural isomers?
+I. 
+CH3CH2CH2CH3, CH3CH(CH3)CH3
+II. CH3CH2CH2CH3, CH3CH2CH3
+III. CH3CH2CH2CH2OH, CH3CH(CH3)CH2OH,
+A 
+I only 
+B 
+I, II and III 
+C 
+III only 
+D 
+I and III
+Q16. Pentyne, C5H8, contains a triple bond.
+(a) Draw two positional isomers of pentyne.
+(b) Draw a third structural isomer of pentyne that is not a positional isomer 
+of the two isomers you drew for part (a).
+Q17. Which of the following compounds contains a secondary carbon?
+A 
+CH3CH2CH2CH2OH 
+B 
+CH3Cl(CH3)CH2CH3
+C 
+CH2BrCH2CH2CH2OH 
+D 
+CH3CH2CHClCH
+Q18. Draw and name the structural isomers of bromobutane, C4H9Br, and 
+identify each isomer as being primary, secondary or tertiary.
+Q19. Draw and name two different functional group isomers that can have the 
+following molecular formulas:
+(a) C3H8O 
+(b) C3H6O 
+(c) C4H8O2
+Exercise
+Nature of Science, Tool 
+2 – How useful are 3D 
+models (real or virtual) 
+to visualize the invisible?
+
+
+291
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+How does the classification of organic molecules help us to predict their properties? 
+Guiding Question revisited
+In this chapter we have learnt that:
+• Organic compounds can be grouped into classes based on their functional groups.
+• The presence of different functional groups means that different classes of 
+compounds have different physical and chemical properties.
+• Homologous series exist for each class of compound and successive members 
+of a series differ by a CH2 unit.
+• Applying IUPAC nomenclature to generate unique names for individual 
+compounds allows for further classification of organic compounds.
+• Structural isomers are compounds that have the same molecular formula but 
+different connectivities. They have unique IUPAC names as well as different 
+chemical and physical properties.
+◦Chain isomers occur when C-C bonds are connected differently to form 
+structures that are a straight chain or branched.
+◦Positional isomers contain the same functional group but it is at different 
+positions on the carbon chain. 
+◦Functional group isomers contain different functional groups. 
+Practice questions
+1. Which of the following compounds are structural isomers?
+I. 
+CH3CH2COCH3 
+II. CH3CH2CH2CHO 
+III. CH3CH(CH3)CHO
+A 
+I and III 
+B 
+I, II and III 
+C 
+I and II 
+D 
+II and III
+2. Which of the following compounds is a secondary alcohol?
+A 
+CH3CH2CH2OH 
+B 
+(CH3)2CHCH2OH
+C 
+(CH3)2C(OH)CH3
+D 
+CH3CH2CH(OH)CH3
+3. Which molecule has a secondary nitrogen?
+A 
+CH3NHCH3
+B 
+H2NCH2CH2NH2
+C 
+CH3CH2NH2
+D 
+(CH3)3N
+4. Which of the following has the molecules ordered by decreasing volatility?
+A 
+butan-1-ol, butan-2-ol, 2-methylpropan-2-ol
+B 
+butanal, butan-1-ol, butanone
+C 
+2-methylpropan-2-ol, butanone, butan-1-ol
+D 
+butanone, 2-methylpropan-2-ol, butan-1-ol 
+
+
+292
+STRUCTURE3
+Classification of matter
+5. Below are four structural isomers with molecular formula C4H9Br. 
+State the name of each of the isomers A, B, C and D.
+Carbon
+Hydrogen
+Bromine
+Key:
+A
+B
+C
+D
+ 
+(4)
+(Total 4 marks)
+6. For the organic compound shown below:
+Carbon
+Hydrogen
+Oxygen
+Key:
+(a) Identify the class of compound it belongs to. 
+(1)
+(b) Determine the IUPAC name of the compound. 
+(1)
+(Total 2 marks)
+7. Two isomers, A and B, with the molecular formula C4H9Cl are shown below:
+A
+B
+Carbon
+Hydrogen
+Chlorine
+Key:
+Determine the IUPAC name for each isomer and state whether it is a primary, 
+secondary or tertiary compound. 
+(3)
+(Total 3 marks)
+8. Propanoic acid, ethyl methanoate and methyl ethanoate all have the same 
+chemical formula, C3H6O2.
+(a) What class of compounds do ethyl methanoate and methyl 
+ethanoate belong to? 
+(1)
+(b) What is the relationship between these three compounds? 
+(1)
+(c) Draw the full structural formula for each compound. 
+(3)
+(Total 5 marks)
+
+
+293
+STRUCTURE3.2
+Functional groups: classification of organic compounds
+9. Cyclobutane, C4H8, is a colorless gas used in organic synthesis and medicinal 
+chemistry.
+H
+C
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+Two structural isomers of cyclobutane are but-1-ene and 2-methylpropene.
+(a) What class of compounds do but-1-ene and 2-methylpropene
+belong to? 
+(1) 
+(b) Draw the full structural formulas of but-1-ene and 2-methylpropene. 
+(2) 
+(c) Draw and name one other structural isomer of cyclobutane. 
+(2) 
+(Total 5 marks)
+10. Iodobutane, C4H9I, has a number of different structural isomers, each with 
+unique physical and chemical properties.  
+(a) Draw the structures of three isomers of iodobutane that represent  
+primary, secondary and tertiary isomers. 
+(3) 
+(b) Provide the IUPAC name for the secondary and tertiary isomers drawn
+in part (a). 
+(2) 
+(c) Predict and explain which of the isomers drawn in part (a) will have the 
+lowest boiling point. 
+(2) 
+(Total 7 marks)
+11. Methoxypropane, CH3OCH2CH2CH3, was once used as a general anesthetic.
+(a) Name the class of compounds that methoxypropane belongs to. 
+(1) 
+(b) Draw and name a structural isomer of methoxypropane that belongs to a 
+different class of compounds. 
+(2) 
+(c) Predict and explain whether the isomer identiﬁ ed in part (b) will have a 
+higher or lower boiling point than methoxypropane. 
+(2) 
+(Total 5 marks)
+12. Amines are organic compounds that contain a nitrogen atom with a lone pair 
+of electrons. Amines can exist as primary, secondary or tertiary isomers.
+(a) Draw the structure of a primary, secondary and tertiary amine, each  with 
+the chemical formula C3H9N. 
+(3) 
+(b) Predict and explain which of the isomers drawn in part (a) will have the 
+highest boiling point. 
+(2) 
+(Total 5 marks)
+
+
+Reactivity
+THEME
+
+

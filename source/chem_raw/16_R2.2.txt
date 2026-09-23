@@ -1,0 +1,1715 @@
+403
+REACTIVITY 2.2
+How fast? The rate of chemical change
+The rate, or kinetics, of a chemical reaction refers to the speed at which reactants are 
+converted into products during a chemical process. We will all have some familiarity 
+with this concept in everyday life. Imagine, for example, you are cooking in the 
+kitchen. As you drop an egg into hot oil in the pan, it immediately changes to a white 
+solid; meanwhile, a container of milk that was left out of the refrigerator is slowly 
+turning sour. We observe a similarly wide variation in the rate of reactions that we 
+study in the laboratory, and these data can be very useful.
+Studies of rates of reaction are of prime importance in industry because they give 
+information on how quickly products form and on the conditions that give the most 
+efficient and economic yield. They can also be useful in situations where we want to 
+slow reactions down – for example, the reactions that cause the destruction of ozone 
+in the stratosphere, or the reactions where pollutants in the air combine to produce 
+smog. At other times, it is important to know for how long a certain reaction will 
+continue – for example, the radioactive effect from radioactive waste. 
+This chapter begins with a study of reaction rates and a consideration of how these 
+are measured in different cases. Through the explanation of collision theory, we will 
+come to understand why different factors affect the rate of reactions. These factors will 
+include pressure, concentration, surface area, temperature and presence of a catalyst..
+Reactivity 2.2.1 – Rate of reaction
+Reactivity 2.2.1 – The rate of reaction is expressed as the change in concentration of a 
+particular reactant or product per unit time.
+Determine rates of reaction.
+Calculation of reaction rates from tangents 
+of graphs of concentration, volume or mass 
+against time should be covered.
+Tool 1, 3, Inquiry 2 – Concentration changes 
+in reactions are not usually measured directly. 
+What methods are used to provide data to 
+determine the rate of reactions?
+Tool 1 – What experiments measuring 
+reaction rates might use time as (i) a 
+dependent variable or (ii) an independent 
+variable?
+The launch of the first Bangladeshi geostationary communications and broadcast satellite, 
+Bangabandhu-1, on a Falcon 9 rocket from Cape Canaveral, Florida, in 2018. To produce enough 
+thrust to launch a rocket, an extremely high rate of reaction between a fuel (in this case kerosene) 
+and an oxidizing agent (liquid oxygen) is required to produce a rapid flow of exhaust gases out of the 
+combustion chamber. The ability to control and influence the rate of a chemical reaction is an essential 
+feature of all industrial chemical processes.
+How can the rate of a reaction be controlled?
+Guiding Question
+
+
+404
+REACTIVITY 2
+How much, how fast and how far?
+Rate of reaction is deﬁ ned as the rate of change in 
+concentration 
+When we are interested in how quickly something happens, the factor that we usually 
+measure is time. For example, in a sports race, the competitors are judged by the 
+time it takes them to reach the finishing line. However, if we want to compare their 
+performance in different races over different distances, we would need to express this 
+as a rate – in other words, how they performed per unit time.
+Rate takes the reciprocal value of time, so is expressed per unit time or, in SI units, per 
+second (symbol = s–1).
+rate =  1
+____
+time  =  1__s   = s–1 
+In the study of chemical reactions, we use the concept of rate of reaction to 
+describe how quickly a reaction happens. As the reaction proceeds, reactants are 
+converted into products, and so the concentration of reactants decreases as the 
+concentration of products increases. The graphs in Figures 1 and 2 show sketches of 
+typical data from reactions.
+time
+product
+concentration, [P]
+time
+reactant
+concentration, [R]
+R2.2 Figure 1 Concentration of product 
+R2.2 Figure 2 Concentration of reactant 
+against time. 
+against time.
+The rate of a reaction depends on how quickly the concentration of either reactant or 
+product changes with respect to time. It can be defined as follows:
+rate of reaction =  
+increase in product 
+concentration  
+ 
+________________ 
+ 
+time taken 
+   or    
+decrease in reactant 
+concentration  
+ 
+_________________ 
+ 
+time taken 
+ 
+Using ∆ to represent ‘change in’, [R] for concentration of reactant, and [P] for 
+concentration of product, we can express this as:
+rate of reaction =  ∆[P]
+____
+∆t  or −  ∆[R]
+____
+∆t  
+It is worth noting that, by convention, rate should be expressed as a positive value. For 
+this reason, a negative sign has been placed in front of the reactant expression which 
+would otherwise produce a negative value due to [R] decreasing over time.
+As rate = change in concentration per time, its units are moldm–3s–1.
+Note that because 
+time and rate are 
+reciprocal values, as 
+one decreases, the 
+other increases. So in 
+the example above, the 
+racer with the shortest 
+time wins the race, 
+because they had the 
+fastest rate. 
+The rate of a 
+chemical reaction 
+is the increase 
+in concentration 
+of products, or 
+the decrease in 
+concentration of 
+reactants, per unit 
+time.
+
+
+405
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Figure 3 presents graphs of two different reactions showing the change in 
+concentration of reactant against time.
+time
+A
+[R]
+B
+R2.2 Figure 3 Reactant concentration against time for two different reactions, A and B.
+We can see that the concentration of reactants is decreasing more quickly in reaction 
+A than in reaction B – the curve is steeper. The steepness, or gradient, of the curve is a 
+measure of the change in concentration per unit time, in other words, the rate of the 
+reaction.
+Because the graphs are curves and not straight lines, the gradient is not constant and 
+so can only be given for a particular value of time. We can measure this by drawing 
+a tangent to the curve at the specified time point and measuring its gradient. This is 
+shown in Figure 4 for the time at 120 s. Note that the gradient of this graph is negative 
+as the reactant concentration is decreasing, but rate is expressed as a positive value.
+20 40 60 80 100 120 140 160 180 200 220 240 260 280 300
+0
+time/s
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+1.40
+1.60
+1.80
+2.00
+2.20
+2.40
+2.60
+2.80
+3.00
+3.20
+3.40
+3.60
+[R]/mol dm23
+tangent to the curve at 120 s
+gives reaction rate at 120 s
+22.40 mol dm23 
+283 s
+5 28.48 3 1023 mol dm23 s21
+5
+R2.2 Figure 4 Measuring the gradient of the tangent to the curve at time t = 120 s. 
+The measured rate of the reaction is 8.48 × 10–3 mol dm–3 s–1 at this time. Note that, by convention, rate 
+is always expressed as a positive value.
+
+
+406
+REACTIVITY 2
+How much, how fast and how far?
+The shape of the curve indicates that the rate of the reaction is not constant during 
+the reaction, but is greatest at the start and slows down as the reaction proceeds. This 
+is illustrated in Figure 5, which shows the calculation of reaction rate at two different 
+times during a reaction.
+t = 0 s; rate = 2.9 × 10–2 mol dm–3 s–1
+t = 90 s; rate = 7.2 × 10–3 mol dm–3 s–1
+10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170
+0
+time/s
+0.10
+0.20
+0.30
+0.40
+0.50
+[R]/mol dm23
+0.60
+0.70
+0.80
+0.90
+1.00
+1.10
+1.20
+1.30
+1.40
+1.50
+1.60
+1.70
+1.80
+1.90
+2.00
+tangent to the curve at 0 s
+gives initial rate
+ 21.92 mol dm23 
+67 s
+5 22.9 3 1022 mol dm23 s21
+5
+tangent to the curve at 90 s
+gives reaction rate at 90 s
+ 21.18 
+164
+5 27.2 3 1023 mol dm23 s21
+5
+R2.2 Figure 5 Measuring the gradient of the tangent to the curve at two different times during a 
+reaction. The rate decreases as the reaction proceeds.
+The rate is greatest at the start because this is when the reactant concentration 
+is highest. The effect of concentration on reaction rate is discussed later in this 
+chapter. Because of this variation in rate as a reaction proceeds, in order to compare 
+the rates of reactions under different conditions, it is common to compare the 
+initial rate of each reaction by taking the tangent to the curve at t = 0. As we will 
+see later in this chapter, initial rate data are very useful in analyzing the effect of 
+concentration on rate.
+The rate of a reaction is not constant during a reaction, but is greatest at the start 
+and decreases as the reaction proceeds.
+You will get a more 
+accurate value for the 
+slope of the tangent if 
+you draw it as long as 
+you reasonably can, 
+so that the ‘y’ value 
+(concentration) and the 
+‘x’ value (time) are as 
+large as possible.
+Note the difference 
+between the two 
+instructions ‘draw a 
+graph’ and ‘sketch 
+a graph’. Drawing is 
+based on actual data so 
+scales must be chosen 
+appropriately and data 
+points and units clearly 
+marked; sketching is a 
+way of showing a trend 
+in the variables, without 
+reference to specific 
+data. Note that in both 
+cases, the axes must 
+be clearly labelled with 
+the dependent variable 
+on the y-axis and the 
+independent variable 
+on the x-axis.
+
+
+407
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Measuring rates of reaction uses different techniques 
+depending on the reaction 
+Choosing whether to measure the change in concentration of reactants or 
+products, and the technique with which to measure that change, really depends 
+on what is the most convenient for a particular reaction. This is different for 
+different reactions. In most cases the concentration is not measured directly, but 
+is measured by means of a signal that is related to the changing concentration. If, 
+for example, a reaction forms a coloured precipitate as a product, the change in 
+colour could be measured. If a reaction gives off a gas, then the change in volume 
+or change in mass could be measured. The raw data collected using these ‘signals’ 
+will be in a variety of units, rather than as concentrations measured in mol dm–3
+directly. This is generally not a problem, as it still enables us to determine the rate 
+of the reaction. Many of the experiments used here can be carried out using data-
+logging devices. Some examples of common techniques in relation to specific 
+reactions are discussed below.
+Nature of Science
+Although the chemical reactions between individual molecules cannot be 
+observed directly, there are many indirect methods for investigating these 
+processes in order to develop explanations for what is happening. As with all 
+of chemistry, the validity of these theories is dependent on the extent to which 
+they are supported by experimental data and their ability to make accurate 
+predictions.
+Note that the balanced 
+equation of a reaction 
+gives us no information 
+about its rate. We can 
+obtain this information 
+only from experimental 
+(empirical) data. Is 
+there a fundamental 
+difference between 
+knowledge claims 
+based on conclusions 
+from theoretical data 
+and those based on 
+experimental data?
+Change in volume of gas produced 
+This is a convenient method if one of the products is a gas. Collecting the gas and 
+measuring the change in volume at regular time intervals enables a graph to be plotted 
+of volume against time. A gas syringe can be used for this purpose. It consists of 
+a ground glass barrel and plunger. The plunger moves outwards as the gas collects 
+and the barrel is calibrated to record the volume directly. Alternatively, the gas can 
+be collected by displacement of water from an inverted burette. Note though that the 
+displacement method can only be used if the gas collected has low solubility in water. 
+Data loggers are also available for continuous monitoring of volume change against 
+time. The rate of reaction of a metal with dilute acid to release hydrogen gas can be 
+followed in this way.
+Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)
+Challenge yourself
+1. Most gases are less soluble in warm water than in cold water, so using 
+warm water may help to reduce a source of error when collecting a gas by 
+displacement of water. But what new error might this create?
+Tool 1, 3, Inquiry 2 – 
+Concentration changes 
+in reactions are not 
+usually measured 
+directly. What methods 
+are used to provide data 
+to determine the rate of 
+reactions?
+
+
+408
+REACTIVITY 2
+How much, how fast and how far?
+gas syringe
+reactants
+thermostated
+water bath
+stopper
+reactants
+water
+inverted
+burette
+TIME
+MIN
+SEC
+time
+volume of gas
+Change in mass 
+Many reactions involve a change in mass, and it may be convenient to measure this 
+directly. If the reaction is giving off a gas, the corresponding decrease in mass can 
+be measured by standing the reaction mixture directly on a balance. This method 
+is unlikely to work well where the evolved gas is hydrogen, as it is too light to give 
+significant changes in mass. The method allows for continuous readings, so a graph 
+can be plotted directly of mass against time. For example, the release of carbon 
+dioxide from the reaction between a carbonate and dilute acid can be followed in 
+this way.
+CaCO3(s) + 2HCl(aq) → CaCl2(aq) + CO2(g) + H2O(l)
+reactants
+e.g. CaCO3 1 HCl
+cotton wool to prevent
+escape of liquid 
+and solid
+digital
+balance
+time
+mass
+When you take a 
+glass of cold water 
+from the refrigerator 
+and leave it by your 
+bed overnight, you 
+may notice bubbles 
+of gas have formed 
+by morning. This is 
+because the gas (mostly 
+dissolved oxygen) has 
+become less soluble as 
+the temperature of the 
+water has increased.
+Experiments to measure 
+rate of reaction by following 
+change in volume against 
+time.
+Volume of gas against time. 
+The reaction has ended when 
+the curve reaches a plateau.
+Experiment to measure rate 
+of reaction by following 
+change in mass against time.
+Mass against time. 
+The reaction has ended when 
+the curve reaches a plateau.
+
+
+409
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Change in transmission of light: colorimetry/spectrophotometry 
+This technique can be used if one of the reactants or products is coloured and so 
+gives characteristic absorption in the visible region (wavelengths about 320–800 nm). 
+Sometimes an indicator can be added to generate a coloured compound that can then 
+be followed in the reaction. A colorimeter or spectrophotometer works by passing 
+light of a selected wavelength through the solution being studied and measuring the 
+intensity of the light transmitted by the reaction components. As the concentration 
+of the coloured compound increases, it absorbs proportionally more light, so less is 
+transmitted. A photocell generates an electric current according to the amount of light 
+transmitted and this is recorded on a meter or connected to a computer.
+CCD (charge-coupled 
+device) detector
+solution 
+in cuvette
+diffraction
+grating
+absorption
+light source
+speciﬁc 
+wavelength 
+selected
+The method allows for continuous readings to be made, so a graph of absorbance 
+against time can be plotted directly. It is possible to convert the absorbance values into 
+concentrations using a standard curve based on readings of known concentration. 
+Often, however, it is sufficient to record absorbance itself (or transmittance, which is 
+inversely proportional to absorbance) as a function against time.
+For example, the reaction between the dye crystal violet and sodium hydroxide 
+solution can be written in an abbreviated form as follows:
+CV+ + OH– → CVOH
+The initial crystal violet solution (CV+) is coloured but this slowly changes to a 
+colourless solution as the product (CVOH) is formed. So we can determine the rate of 
+product formation by measuring the decrease in absorbance that occurs as the coloured 
+reactant is depleted. The figure shows data from this reaction, with absorbance at 
+591 nm measured against time.
+A spectrophotometer 
+measures absorbance, 
+which directly relates to 
+concentration. Light of 
+a specific wavelength is 
+selected from an internal 
+source and passed through 
+the solution placed in the 
+cuvette. The transmitted light 
+passes through a diffraction 
+grating, then the diffracted 
+light is collected and changed 
+into a digital signal by the 
+charge-coupled device (CCD) 
+detector.
+Results of an experiment 
+to determine the rate 
+of reaction by following 
+change in absorbance 
+against time using a digital 
+spectrophotometer.
+
+
+410
+REACTIVITY 2
+How much, how fast and how far?
+An example of the use of a calibration curve to determine concentration from 
+absorbance data is outlined in Structure 3.1.
+Change in concentration measured using titration 
+In some reactions it may be possible to measure the concentration of one of the 
+reactants or products by titrating it against a known ‘standard’ (see Structure 1.4). 
+However, because this technique involves chemically changing the reaction mixture, 
+it cannot be done continuously as the reaction proceeds. Instead, samples must be 
+withdrawn from the reaction mixture at regular time intervals and then analyzed by 
+titration. A problem here is that the process of titration takes time, during which the 
+reaction mixture in the sample will continue to react. To overcome this, a technique 
+known as quenching can be used, where a substance is introduced which effectively 
+stops the reaction in the sample at the moment it is withdrawn. It is rather like 
+obtaining a ‘freeze frame’ shot of the reaction at a particular interval of time. In order 
+to see how concentration changes as the reaction proceeds, it is necessary to repeat 
+this process at several intervals of time.
+For example, the reaction between H2O2 and acidified KI yields I2, which can be 
+titrated against sodium thiosulfate, Na2S2O3, to determine its concentration. Sodium 
+carbonate, Na2CO3, is used to quench the reaction by neutralizing the added acid.
+H2O2(aq) + 2H+(aq) + 2I–(aq) → I2(aq) + 2H2O(l)
+Change in concentration measured using conductivity
+The total electrical conductivity of a solution depends on the total concentration of its 
+ions and on their charges. If this changes when reactants are converted to products, it 
+can provide a convenient method to follow the progress of the reaction. Conductivity 
+can be measured directly using a conductivity meter which involves immersing inert 
+electrodes in the solution. As with colorimetry, the apparatus can be calibrated using 
+solutions of known concentration so that the readings can be converted into the 
+concentrations of the ions present.
+For example, in the reaction:
+BrO3–(aq) + 5Br–(aq) + 6H+(aq) → 3Br2(aq) + 3H2O(l)
+the sharp decrease in the concentration of ions (12 on the reactants side and 0 on the 
+products side) will give a corresponding decrease in the electrical conductivity of the 
+solution as the reaction proceeds.
+Non-continuous methods of detecting change during a reaction: 
+‘clock reactions’
+Sometimes it is difficult to record the continuous change in the rate of a reaction. In 
+these cases, it may be more convenient to measure the time it takes for a reaction to 
+reach a certain chosen fixed point – that is, something observable which can be used 
+as an arbitrary ‘end point’ by which to stop the clock. The time taken to reach this 
+point for the same reaction under different conditions can then be compared and 
+used as a means of judging the different rates of the reaction. So in contrast to the first 
+five techniques of measuring rate of reaction where time is the independent variable, 
+detecting a change in a clock reaction uses time as a dependent variable.
+Tool 1 – What 
+experiments measuring 
+reaction rates might use 
+time as (i) a dependent 
+variable or (ii) an 
+independent variable?
+
+
+411
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Note that the limitation of this method is that the data obtained give only an average 
+rate over the time interval.
+For example, the following can be measured:
+• the time taken for a certain size piece of magnesium ribbon to react completely 
+with dilute acid, until it is no longer visible
+Mg(s) + 2HCl (aq) → MgCl2(aq) + H2(g)
+• the time taken for a solution of sodium thiosulfate titrated with dilute acid to 
+become opaque by the precipitation of sulfur, so that a cross viewed through 
+paper is no longer visible
+Na2S2O3(aq) + 2HCl(aq) → 2NaCl(aq) + SO2(aq) + H2O(l) + S(s)
+Exercise
+Q1. Consider the following reaction.
+2MnO4–(aq) + 5C2O42–(aq) + 16H+(aq) → 2Mn2+(aq) + 10CO2(g) + 8H2O(l)
+Describe three different ways in which you could measure the rate of this 
+reaction.
+Q2. Which units are used to express the rate of a reaction?
+A 
+mol dm–3 time 
+B 
+mol–1 dm3 time–1
+C 
+mol dm–3 time–1 
+D 
+mol time–1
+Q3. The reaction between calcium carbonate and hydrochloric acid is carried 
+out in an open ﬂ ask. Measurements are made to determine the rate of 
+the reaction.
+CaCO3(s) + 2HCl(aq) → CaCl2(aq) + H2O(l) + CO2(g)
+(a) Suggest three different types of data that could be collected to measure 
+the rate of this reaction.
+(b) Explain how you would expect the rate of the reaction to change with 
+time and why.
+Investigating rates of 
+reaction. Full details 
+of how to carry out 
+this experiment with a 
+worksheet are available 
+in the eBook.
+Recording the increase 
+in opaqueness during a 
+reaction. Sodium thiosulfate 
+(left) is a clear liquid, which 
+reacts with hydrochloric 
+acid (upper centre) to form 
+an opaque solution (right). 
+A cross (left) drawn onto 
+paper is placed under the 
+reaction beaker to allow the 
+end point to be confirmed. 
+The experiment is timed from 
+when the reactants are mixed 
+until the cross disappears 
+from sight.
+In all these reactions, 
+the goal is to 
+measure change in 
+concentration against 
+time. This allows a 
+comparison of reaction 
+rates under different 
+conditions. But because 
+the rate is dependent 
+on temperature, it is 
+essential to control 
+the temperature 
+throughout these 
+experiments. It is 
+sometimes suitable to 
+carry out the reactions 
+in a thermostatically 
+controlled water bath.
+
+
+412
+REACTIVITY 2
+How much, how fast and how far?
+Q4. The following data were collected for the reaction 
+2H2O2(aq) → 2H2O(l) + O2(g) at 390 °C.
+[H2O2] / mol dm–3
+Time / s
+[H2O2] / mol dm–3
+Time / s
+0.200
+0
+0.070
+120
+0.153
+20
+0.063
+140
+0.124
+40
+0.058
+160
+0.104
+60
+0.053
+180
+0.090
+80
+0.049
+200
+0.079
+100
+Draw a graph of concentration against time and determine the reaction rate 
+after 60 s and after 120 s.
+Reactivity 2.2.2 – Collision theory
+Reactivity 2.2.2 – Species react as a result of collisions of sufﬁ cient energy and proper 
+orientation.
+Explain the relationship between the kinetic energy of the particles and the temperature in 
+kelvin, and the role of collision geometry.
+Structure 1.1 – What is the relationship 
+between the kinetic molecular theory and 
+collision theory?
+Species react as a result of collisions 
+Kinetic energy and temperature 
+Since the early 18th century, scientists have developed theories to explain the fact that 
+gases exert a pressure. These theories developed alongside a growing understanding 
+of the atomic and molecular nature of matter, and were extended to include the 
+behaviour of particles in all states of matter. Today they are summarized as the kinetic 
+molecular theory of matter (see Structure 1.1).
+The essence of the kinetic molecular theory is that particles in a substance move 
+randomly as a result of the kinetic energy that they possess. Because of the random 
+nature of these movements and collisions, not all particles in a substance at any one 
+time have the same values of kinetic energy, but will instead have a range of values. A 
+convenient way to describe the kinetic energy of a substance is therefore to take the 
+average of these values, and this is directly related to its absolute temperature – that is, 
+its temperature measured in kelvin.
+Increasing temperature therefore means an increase in the average kinetic energy of 
+the particles of a substance. As we supply a substance with extra energy by heating it, 
+we raise the average kinetic energy of the particles and so also raise its temperature. 
+When we compare the behaviour of the particles in the three states of matter from 
+solid, through liquid, to gas, the differences are a result of this increase in the average 
+kinetic energy of the particles.
+Modelling rate of 
+reaction: collisions  in 
+the court. Full details 
+of how to carry out 
+this activity with a 
+worksheet are available 
+in the eBook.
+The Kelvin scale of 
+temperature gives a 
+natural measure of 
+the average kinetic 
+energy of molecules 
+in a gas, whereas the 
+Celsius scale is based 
+on the properties of 
+water. Are physical 
+properties such as 
+temperature invented 
+or discovered?
+A puddle of water 
+evaporates, even on a 
+cold day, because a small 
+proportion of molecules on 
+the surface have enough 
+kinetic energy to vaporize. 
+This demonstrates that the 
+particles in a substance must 
+have a range of values of 
+kinetic energy as described 
+by kinetic molecular theory.
+
+
+413
+REACTIVITY 2.2
+How fast? The rate of chemical change
+For a given substance this can be summarized as follows:
+Solid
+Liquid
+increasing kinetic energy
+increasing temperature
+Gas
+The Maxwell–Boltzmann energy distribution curve 
+The fact that particles in a gas at a specific temperature show a range in their values of 
+kinetic energy is expressed by the Maxwell–Boltzmann energy distribution curve.
+number of particles with
+kinetic energy, E
+kinetic energy, E
+Like other distribution curves, this shows the number of particles having a specific 
+value of kinetic energy (or the probability of that value occurring) plotted against the 
+values for kinetic energy. The area under the curve represents the total number of 
+particles in the sample.
+The nature of collisions between particles 
+When reactants are placed together, the kinetic energy that their particles possess 
+causes them to collide with each other. The energy of these collisions may result in 
+some bonds within the reactants being broken, and some new bonds forming. As 
+a result, products form and the reaction ‘happens’. This explanation of chemical 
+reactions is known as collision theory.
+A
+B
+C
+C
+B
+A
+A
+B
+C
+It follows that the rate of the reaction will depend on the number of collisions between 
+particles that are ‘successful’, that is, which lead to the formation of products. But a 
+very important point is that not all collisions will be successful. There are two main factors 
+that influence this:
+• energy of collision and
+• geometry of collision.
+Temperature 
+in kelvin (K) is 
+proportional 
+to the average 
+kinetic energy of 
+the particles in a 
+substance.
+The Maxwell–Boltzmann 
+energy distribution curve.
+Although their 
+names are linked in 
+the famous energy 
+distribution curve 
+discussed here, James 
+Clerk Maxwell and 
+Ludwig Boltzmann had 
+very different outlooks 
+on life. Maxwell was 
+a Scottish physicist, 
+known for his curiosity 
+and humour. His wife 
+worked alongside 
+him in many of 
+his experiments. 
+Boltzmann, an 
+Austrian, was prone 
+to depression and 
+took his own life, 
+seemingly believing 
+that his work was not 
+valued. Nonetheless, 
+as peers during the 
+19th century, they 
+reﬁ ned and developed 
+each other’s ideas, 
+culminating in the 
+distribution curve that 
+bears their two names.
+Particles react by colliding 
+with sufficient kinetic energy 
+and in the correct orientation.
+
+
+414
+REACTIVITY 2
+How much, how fast and how far?
+Energy of collision
+In order for a collision to lead to a reaction, the particles must have a certain minimum 
+value for their kinetic energy, known as the activation energy, Ea. This energy is 
+necessary for overcoming repulsion between molecules, and often for breaking 
+some bonds in the reactants before they can react. When this energy is supplied, the 
+reactants achieve the transition state from which products can form. The activation 
+energy therefore represents an energy barrier for the reaction, and it has a different 
+value in different reactions.
+products
+reactants
+ potential energy
+reaction
+coordinate
+Ea
+DH
+DH
+products
+reactants
+ potential energy
+reaction
+coordinate
+endothermic
+exothermic
+(a)
+(b)
+Ea
+We can think of the activation energy as a ‘threshold value’ – a bit like a pass mark 
+in an examination: values greater than this mark achieve a pass, lower values do not 
+achieve a pass. The activation energy threshold similarly determines which particles 
+react and which do not. So only particles that have a kinetic energy value greater than 
+the activation energy will have successful collisions. Note that particles with lower 
+values of kinetic energy may still collide, but these collisions will not be ‘successful’ in 
+the sense of causing a reaction.
+It therefore follows that the rate of the reaction depends on the proportion of particles 
+that have values for kinetic energy greater than the activation energy.
+activation energy, Ea
+The blue area shows the
+proportion of particles
+in the sample that have
+enough energy to react.
+The white area shows the proportion of
+particles in the sample that do not have
+enough energy to react.
+number of particles with
+kinetic energy, E
+kinetic energy, E
+The magnitude of the activation energy varies greatly from one reaction to another, 
+and it is an important factor in determining the overall rate of the reaction. In general, 
+reactions with high activation energy proceed more slowly than those with low 
+activation energy as fewer particles will have the required energy for a successful 
+collision. 
+Energy path of a reaction 
+with the activation energy 
+for (a) endothermic and (b)
+exothermic reactions.
+ represents the 
+transition state
+Activation energy 
+(Ea) is defined as the 
+minimum value of 
+kinetic energy that 
+particles must have 
+before they are able 
+to react. 
+Maxwell–Boltzmann energy 
+distribution curve showing 
+how the activation energy, 
+Ea, distinguishes between 
+particles that have greater or 
+lesser values of the kinetic 
+energy required to react.
+
+
+415
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Geometry of collision 
+Because collisions between particles are random, they are likely to occur with the 
+particles in many different orientations. In some reactions, this can be crucial in 
+determining whether or not the collisions will be successful, and therefore what 
+proportion of collisions will lead to a reaction.
+reactant molecules
+approach each other
+reactant molecules
+approach each other
+(a)
+(b)
+ineffective collision –  
+no reaction occurs
+effective collision –
+particles have correct
+collision geometry so
+reaction occurs
+product molecules
+formed
+reactant molecules
+separate – no product
+formed
+We can now summarize the collision theory as follows. The rate of a reaction depends 
+on the frequency of collisions that occur between particles possessing both:
+• values of kinetic energy greater than the activation energy and
+• appropriate collision geometry.
+Understanding this theory will help us to investigate and explain the factors that 
+increase the rate of reaction.
+Nature of Science
+The collision between a small number of reacting species resulting in chemical 
+change has not been observed directly. Instead, collision theory is based 
+on an application of kinetic molecular theory and theory of how chemical 
+reactions occur through bond-breaking and bond-making. In science, theories 
+generally accommodate the assumptions and premises of other theories in 
+this way. The fact that collision theory helps to explain the observed effects of 
+factors influencing the rate of reactions adds to its validity. The theory enables 
+chemists to make predictions about the impact of different factors on the rates 
+of specific reactions, which has important applications in many branches of 
+chemistry such as industry, biochemistry and environmental chemistry.
+Exercise
+Q5. Which statement is correct for a collision between reactant particles that 
+leads to reaction?
+A 
+Colliding particles must have different energy.
+B 
+Colliding particles must have the same energy.
+C 
+Colliding particles must have kinetic energy greater than the average 
+kinetic energy.
+D 
+Colliding particles must have kinetic energy greater than the activation 
+energy.
+The effect of collision 
+geometry. In (a) the particles 
+do not have the correct 
+collision geometry and no 
+reaction occurs. In (b) the 
+particles collide with the 
+correct geometry, enabling 
+products to form.
+In order to react, 
+particles must collide 
+with kinetic energy 
+greater than the 
+activation energy 
+and have the correct 
+collision geometry.
+Structure 1.1 – What 
+is the relationship 
+between the kinetic 
+molecular theory and 
+collision theory?
+
+
+416
+REACTIVITY 2
+How much, how fast and how far?
+Q6. Which of the following determine whether a reaction will occur?
+I.
+the orientation of the molecules
+II. the energy of the molecules
+III. the volume of the container
+A 
+I and II 
+B 
+I and III 
+C 
+II only 
+D 
+I, II and III
+Q7. If we compare two reactions, one which requires the simultaneous collision 
+of three molecules and the other which requires a collision between two 
+molecules, which reaction would you expect to be faster? Explain why.
+Reactivity 2.2.3, 2.2.4 and 2.2.5 – Factors that 
+inﬂ uence the rate of reaction
+Reactivity 2.2.3 – Factors that inﬂ uence the rate of a reaction include pressure, 
+concentration, surface area, temperature and the presence of a catalyst.
+Predict and explain the effects of changing conditions on the rate of a reaction.
+Tool 1 – What variables must be controlled in 
+studying the effect of a factor on the rate of a 
+reaction?
+Nature of Science, Tool 3, Inquiry 3 – How 
+can graphs provide evidence of systematic 
+and random error?
+Reactivity 2.2.4 – Activation energy, Ea, is the minimum energy that colliding 
+particles need for a successful collision leading to a reaction.
+Construct Maxwell–Boltzmann energy distribution curves to explain the effect of temperature 
+on the probability of successful collisions.
+Reactivity 2.2.5 – Catalysts increase the rate of reaction by providing an alternative 
+reaction pathway with lower Ea.
+Sketch and explain energy proﬁ les with and without catalysts for endothermic and 
+exothermic reactions.
+Construct Maxwell–Boltzmann energy distribution curves to explain the effect of different 
+values for Ea on the probability of successful collisions.
+Biological catalysts are called enzymes.
+The different mechanisms of homogeneous and 
+heterogeneous catalysts will not be assessed.
+Reactivity 2.3 – What is the relative effect 
+of a catalyst on the rate of the forward and 
+backward reactions?
+Temperature, concentration, pressure, surface 
+area and the use of a catalyst can inﬂ uence the 
+rate of reaction 
+From the collision theory, we know that any factor which increases the number of 
+successful collisions will increase the rate of the reaction. We will investigate five such 
+factors here.
+Be careful not to 
+confuse the question 
+of ‘how fast?’ a reaction 
+goes with the question 
+of ‘how far?’ it goes. 
+We are discussing only 
+the first question here. 
+The question of how 
+far a reaction goes, 
+which influences the 
+yield of the reaction, 
+will be discussed in 
+Reactivity 2.3.
+
+
+417
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Temperature 
+Increasing the temperature causes an increase in the average kinetic energy of the 
+particles. We can see this by comparing Maxwell–Boltzmann energy distribution 
+curves of the same sample of particles at two different temperatures.
+number of particles with
+kinetic energy, E
+300 K
+310 K
+kinetic energy, E
+The area under the two curves is equal as this represents the total number of particles 
+in the sample. But at the higher temperature, more of the particles have higher values 
+for kinetic energy and the peak of the curve shifts to the right. In Figure 6, we can see 
+how this shift increases the proportion of particles that have values for kinetic energy 
+greater than that of the activation energy.
+activation energy Ea 
+number of particles with
+kinetic energy, E
+300 K
+310 K
+number of particles with
+energy . Ea at 300 K
+kinetic energy, E
+number of particles with
+energy . Ea at 310 K
+So, as temperature increases, there is an increase in collision frequency due to the 
+higher kinetic energy, but more importantly, there is an increase in the number 
+of collisions involving particles with the necessary activation energy to overcome 
+the activation energy barrier. Consequently, there is an increase in the frequency 
+of successful collisions and so an increase in the rate of reaction. Many reactions 
+approximately double their reaction rate for every 10 °C increase in temperature.
+Concentration 
+Increasing the concentration of reactants increases the rate of reaction. This is 
+because as concentration increases, the frequency of collisions between reactant 
+particles increases, as shown in Figure 7. The frequency of successful collisions 
+therefore increases too.
+Maxwell–Boltzmann 
+distribution curves for a 
+sample of gas at 300 K 
+and 310 K. At the higher 
+temperature, the curve has 
+shifted to the right and 
+become broader, showing 
+a larger number of particles 
+with higher values for kinetic 
+energy.
+Specimens of the 
+extinct mammal the 
+mammoth, dated as 
+10 000 years old, have 
+been found perfectly 
+preserved in the 
+Arctic ice, whereas for 
+individual specimens of 
+a similar age found in 
+California, only bones 
+remain. This is an 
+illustration of the effect 
+of the cold temperature 
+in the Arctic decreasing 
+the rate of the reactions 
+of decay. The same 
+concept is used in the 
+process of refrigerating 
+or freezing food to 
+preserve it.
+R2.2 Figure 6 Maxwell–
+Boltzmann energy 
+distribution curves for a 
+sample of gas at two different 
+temperatures, showing the 
+higher proportion of particles 
+with kinetic energy greater 
+than the activation energy at 
+the higher temperature.
+
+
+418
+REACTIVITY 2
+How much, how fast and how far?
+low concentration
+higher concentration
+When particles are closer together
+they have a greater chance of colliding.
+We can see the effect of concentration by following the rate of a reaction as it 
+progresses. As reactants are used up, their concentration falls and the rate of the 
+reaction decreases, giving the typical rate curves we saw in Figures 1 and 2.
+Pressure 
+For reactions involving gases, increasing pressure increases the rate of reaction. 
+This is because the higher pressure compresses the gas, effectively increasing its 
+concentration. This will increase the frequency of collisions.
+low pressure
+high pressure
+In this example, the pressure has
+been increased by decreasing
+the size of the container
+R2.2 Figure 7 Effect of 
+concentration on collision 
+frequency.
+The effect of concentration 
+on the rate of reaction 
+between zinc and sulfuric 
+acid. The tube on the left 
+has a more concentrated 
+solution of the acid, the 
+tube on the right has a more 
+dilute solution. The product, 
+hydrogen gas, is seen 
+collecting much more quickly 
+in the presence of the more 
+concentrated acid.
+At the same temperature, 
+the box on the right has a 
+higher pressure and a greater 
+collision frequency.
+
+
+419
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Surface area 
+Increasing the surface area of reactants increases the rate of reaction. This is 
+important in heterogeneous reactions where the reactants are in different phases, 
+such as a solid reacting with a solution. Subdividing a large particle into smaller 
+parts increases the total surface area and therefore allows more contact and a higher 
+probability of collisions between the reactants. You may know, for example, how 
+much easier it is to start a fire using small pieces of wood, rather than a large log – it 
+is because with the small pieces there is more contact between the wood and the 
+oxygen with which it is reacting. In reactions involving solids in solutions, stirring 
+may help to increase the surface area of the solid by ensuring individual particles are 
+spread throughout the solution and do not aggregate at the bottom of the container. 
+This increases the rate of reaction.
+The effect of particle size can be demonstrated in the reaction between marble (CaCO3) 
+and hydrochloric acid. When marble chips are replaced with powder, the effervescence 
+caused by carbon dioxide release is much more vigorous.
+This effect of particle size on reaction rate can be quite dramatic. It has been 
+responsible for many industrial accidents involving explosions of flammable dust 
+powders – for example, coal dust in mines and flour in mills.
+Catalyst 
+A catalyst is a substance that increases the rate of a chemical reaction without itself 
+undergoing chemical change. Most catalysts work by providing an alternative route for 
+the reaction that has a lower activation energy.
+ Coal dust explosion 
+experiment at Altofts Colliery, 
+Yorkshire, UK. Health and 
+safety research in the UK 
+started with investigations in 
+the early 20th century into 
+safety in mines. Experiments 
+were carried out at locations 
+such as Altofts Colliery, 
+helping to determine that 
+coal dust was explosive under 
+certain circumstances.
+
+
+420
+REACTIVITY 2
+How much, how fast and how far?
+uncatalyzed
+reaction
+activation energy
+uncatalyzed reaction
+activation energy
+catalyzed reaction
+DH
+products
+reactants
+reaction coordinate
+ potential energy
+catalyzed
+reaction
+This means that without increasing the temperature, a larger number of particles will 
+now have values of kinetic energy greater than the activation energy, and so will be 
+able to undergo successful collisions. Think again of activation energy as being like the 
+pass mark in an examination: the effect of the catalyst is like lowering the pass mark. 
+This means that with the same work in the tests, a higher number of people would be 
+able to achieve a pass!
+Figure 8 uses the Maxwell–Boltzmann distribution to show how a catalyst increases 
+the proportion of particles having values of kinetic energy greater than the activation 
+energy.
+Particles with
+these low energies
+cannot react.
+kinetic energy, E
+number of particles with
+kinetic energy, E
+Ea catalyzed
+Ea uncatalyzed
+number of particles with
+energy . Ea catalyzed
+number of particles with
+energy . Ea uncatalyzed
+Catalysts bring about an equal reduction in the activation energy of both the forward 
+and the reverse reactions, so they do not change the position of equilibrium or the 
+yield (seen in Reactivity 2.3). However, because of their ability to increase the rate of 
+reactions, they influence the rate of formation of products and so play an essential 
+role in the efficiency of many industrial processes. Without catalysts, many reactions 
+would proceed too slowly, or would have to be conducted at such high temperatures 
+that they would simply not be worthwhile. This is why the discovery of the ‘best’ 
+catalyst for a particular reaction is a very active area of research, and often the exact 
+specification of a catalyst used in an industrial process is a matter of secrecy.
+Effect of a catalyst on 
+lowering the activation 
+energy of a reaction.
+R2.2 Figure 8 Effect of 
+catalyst on increasing the 
+proportion of particles able 
+to react.
+A catalyst is a 
+substance that 
+increases the rate 
+of a chemical 
+reaction without 
+itself undergoing 
+permanent chemical 
+change.
+Reactivity 2.3 – What 
+is the relative eﬀ ect of 
+a catalyst on the rate 
+of the forward and 
+backward reactions?
+
+
+421
+REACTIVITY 2.2
+How fast? The rate of chemical change
+A catalytic converter containing transition metal catalysts such as platinum, palladium and rhodium. 
+This device catalyzes reactions that convert the toxic emissions from an internal combustion engine 
+into less harmful ones. It is estimated that catalytic converters can reduce pollution emissions by 90% 
+without loss of engine performance or fuel economy.
+Every biological reaction is controlled by a catalyst, known as an enzyme. Thousands of 
+different enzymes exist as they are each specific for a particular biochemical reaction. 
+Enzymes are finding increasingly widespread uses in many domestic and industrial 
+processes, from biological detergents to acting as ‘biosensors’ in medical studies. 
+Some of these applications, such as cheese making, are centuries old, but others are 
+developing rapidly, constituting the field known as biotechnology.
+Catalysis is also an important aspect of Green Chemistry, which seeks to reduce the 
+negative impact of chemical processes on the environment. Catalysts can replace 
+stoichiometric reagents, and can greatly enhance the selectivity of processes. As they 
+are effective in very small quantities and can frequently be reused, catalysts do not 
+contribute to the chemical waste, and so they increase the atom economy.
+Challenge yourself
+2. Catalysts can be categorized as ‘homogeneous’ or ‘heterogeneous’. A 
+homogeneous catalyst is in the same phase as the reactants. For example, 
+gaseous chlorine radicals catalyze the breakdown of ozone in the stratosphere. 
+A heterogeneous catalyst, such as solid vanadium(V) oxide in the reaction 
+between gaseous sulfur dioxide and oxygen, is in a different phase to the 
+reactants. Can you identify which type of catalyst might be more difficult to 
+recover after a reaction and suggest a possible approach for doing so?
+Catalytic reforming is 
+the process by which 
+linear hydrocarbons 
+are converted into 
+branched or cyclic 
+molecules that burn 
+more smoothly. The 
+development of this 
+process is thought 
+to have played a 
+major role in the 
+Second World War. 
+Aircraft fuel using 
+such hydrocarbons 
+increased the 
+performance of the 
+European allies’ planes 
+to the point where 
+they were able to gain 
+victory in the skies.
+Biological catalysts 
+are called enzymes.
+A microscopic cross-section 
+of glands found in the 
+stomach. The pepsinogen 
+digestive enzyme is shown 
+in brown. It is converted 
+by gastric acid into the 
+active enzyme pepsin which 
+catalyzes the breakdown of 
+proteins into small units of 
+amino acids called peptides.
+The effect of a catalyst. 
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+
+
+422
+REACTIVITY 2
+How much, how fast and how far?
+Nature of Science
+Depletion of the protective ozone layer in the stratosphere has been 
+caused largely by the catalytic effects of CFCs and nitrogen oxides. These 
+chemicals are produced from a variety of sources and often have their most 
+destructive effect far from the country of their origin. International action and 
+cooperation have played an important part in reducing the effects of ozone 
+depletion, and continuing adherence by all countries to international treaties 
+is essential.
+Inquiry-based skills for investigating rate of reaction 
+Identification of controlled variables 
+Given the range of factors that can affect the rate of reaction, we must be careful to 
+identify the relevant controlled variables when planning an investigation. For example, 
+when investigating the effect of temperature on the reaction between hydrochloric 
+acid, HCl(aq), and magnesium, Mg(s), we would need to ensure that the same 
+concentration of acid is used in each trial as well as using the same sized magnesium 
+strip to control the surface area.
+When you are identifying variables to be controlled, it can be helpful to first 
+consider the factors that affect rate of reaction, such as concentration, surface area 
+and temperature, and then the specific details of your measurement technique. For 
+example, when using a light sensor to measure the rate of formation of a precipitate 
+in a reaction, you would need to ensure that the position of the sensor and light 
+source are the same during all trials. This approach is crucial in obtaining valid data 
+from an investigation.
+Evidence for systematic and random errors in graphs 
+As well as identifying the effect of a given variable on the rate of reaction, graphs can 
+also be used to provide evidence of systematic and random errors.
+independent
+random
+dependent
+perfect
+systematic
+In a perfect data set, all data points would be positioned on the trend line. A systematic error produces 
+a displaced straight line above or below the expected position. Random errors lead to points on both 
+sides of the trend line.
+Tool 1 – What variables 
+must be controlled in 
+studying the eﬀ ect of a 
+factor on the rate of a 
+reaction?
+We can evaluate the 
+fit of a trend line or 
+curve by applying 
+the coefficient of 
+determination, R2
+(pronounced ‘R
+squared’). An R2 value 
+will fall between 0 and 
+1, where 1 indicates that 
+the trend line or curve 
+passes perfectly through 
+all data points. This 
+value can be calculated 
+automatically on most 
+graph-plotting software.
+
+
+423
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Systematic errors occur when all measurements are higher, or all measurements are 
+lower, than the expected value. This leads to inaccuracy in the final results. Random 
+errors occur in individual measurements due to limitations in measurement equipment 
+(uncertainty), changes in the surroundings, misinterpreted measurements or an 
+insufficient number of repeat trials. These can lead to imprecision in collected data.
+Exercise
+Q8. 
+Which of the following statements is correct?
+A 
+A catalyst increases the rate of the forward reaction only.
+B 
+A catalyst increases the rate of the forward and backward reactions.
+C 
+A catalyst increases the yield of product formed.
+D 
+A catalyst increases the activation energy of a reaction.
+Q9. 
+Which statements are correct for the effects of catalyst and temperature on 
+the rate of reaction?
+Adding a catalyst
+Increasing the temperature
+A
+collision frequency increases
+collision frequency increases
+B
+activation energy decreases
+collision frequency increases
+C
+collision frequency increases
+activation energy increases
+D
+activation energy increases
+activation energy decreases
+Q10. In the reaction between marble (calcium carbonate) and hydrochloric acid, 
+which set of conditions would give the highest rate of reaction?
+CaCO3(s) + 2HCl → CaCl2(aq) + CO2(g) + H2O(l)
+A 
+marble chips and 1.0 mol dm–3 HCl
+B 
+marble powder and 1.0 mol dm–3 HCl
+C 
+marble chips and 0.1 mol dm–3 HCl
+D 
+marble powder and 0.1 mol dm–3 HCl
+Q11. A sugar cube cannot be ignited with a match, but a sugar cube coated in 
+ashes will ignite. Suggest a reason for this observation.
+Q12. Catalytic converters are now used in most cars to convert some components 
+of exhaust gases into less environmentally damaging molecules. One of 
+these reactions converts carbon monoxide and nitrogen monoxide into 
+carbon dioxide and nitrogen. The catalyst usually consists of metals such as 
+platinum or rhodium.
+(a) Write an equation for this reaction.
+(b) Explain why it is important to reduce the concentrations of carbon 
+monoxide and nitrogen monoxide released into the atmosphere.
+(c) Why do you think the converter sometimes consists of small ceramic 
+beads coated with the catalyst?
+(d) Suggest why the converter usually does not work effectively until the 
+car engine has warmed up.
+(e) Discuss whether the use of catalytic converters in cars solves the 
+problem of car pollution.
+Nature of Science, Tool 
+3, Inquiry 3 – How can 
+graphs provide evidence 
+of systematic and 
+random error?
+
+
+424
+REACTIVITY 2
+How much, how fast and how far?
+How can the rate of a reaction be controlled?
+Guiding Question revisited
+In this chapter we have explored collision theory and investigative techniques to show:
+• The rate of reaction is expressed as the change in concentration of a particular 
+reactant or product per unit time. It has units of mol dm–3 s–1.
+• Rate of reaction can be measured indirectly using different experimental 
+techniques. The choice of technique will depend on the changes that occur 
+during a specific reaction such as the production of a gas, the formation of a 
+precipitate, or changes in the colour or electrical conductivity of a solution.
+• The rate at a specific point in a reaction can be calculated from the gradient of a 
+tangent on a graph of concentration, volume, absorbance or mass against time.
+• For a reaction to occur, species must collide with sufficient kinetic energy and 
+proper orientation. These collisions are known as ‘successful’ collisions.
+• The minimum energy required for a successful collision is called the activation 
+energy, Ea.
+• The use of a catalyst and increases in pressure, concentration, surface area and 
+temperature lead to an increase in the frequency of successful collisions per unit 
+time and so increase the rate of a reaction.
+• Catalysts increase the rate of reaction by providing an alternative reaction pathway 
+with a lower Ea. This effect can be represented in a reaction energy profile.
+• Maxwell–Boltzmann distribution curves can be used to explain the effect of 
+changing temperature and the use of a catalyst on the probability of successful 
+collisions occurring.
+Practice questions
+1. Curve X on the graph shows the volume of oxygen formed during the catalytic 
+decomposition of a 1.0 mol dm–3 solution of hydrogen peroxide:
+2H2O2(aq) → O2(g) + 2H2O(l)
+volume of 
+oxygen formed
+time
+Y
+X
+Which change would produce curve Y?
+A 
+adding water
+B 
+adding some 0.1 mol dm–3 hydrogen peroxide solution
+C 
+using a different catalyst
+D 
+lowering the temperature
+
+
+425
+REACTIVITY 2.2
+How fast? The rate of chemical change
+2. Which changes increase the rate of the reaction below?
+C4H10(g) + Cl2(g) → C4H9Cl(l) + HCl(g)
+I. 
+increase of pressure
+II. increase of temperature
+III. removal of HCl(g)
+A 
+I and II only 
+B 
+I and III only
+C 
+II and III only 
+D 
+I, II and III
+3. Which experimental procedure could be used to determine the rate for the 
+following reaction?
+BrO3−(aq) + 5Br−(aq) + 6H+(aq) → 3Br2(aq) + 3H2O(l)
+A 
+measure the change in electrical conductivity in a given time
+B 
+measure the change in mass in a given time
+C 
+record the time taken for the formation of a precipitate
+D 
+measure the change in volume of gas produced in a given time
+4. The catalyst manganese(IV) oxide, MnO2(s), increases the rate of the 
+decomposition reaction of hydrogen peroxide, H2O2(aq). Which statements 
+about MnO2 are correct?
+I. 
+The rate is independent of the particle size of MnO2.
+II. MnO2 provides an alternative reaction pathway for the decomposition 
+with a lower activation energy.
+III. All the MnO2 is present after the decomposition of the hydrogen peroxide 
+is complete.
+A 
+I and II only 
+B 
+I and III only
+C 
+II and III only 
+D 
+I, II and III
+5. Which of the following statements is incorrect?
+A 
+The rate of a chemical reaction depends on the temperature.
+B 
+Rate and time are directly proportional.
+C 
+The rate of most chemical reactions decreases with time.
+D 
+A catalyst for a reaction increases the rate of both its forward and 
+backward reactions.
+6. A student measures the rate of a reaction by timing the appearance of a 
+precipitate that forms in aqueous solution. Which of the following factors 
+would increase the time required for the precipitate to form?
+A 
+raising the temperature
+B
+adding a catalyst
+C 
+diluting the solution
+D 
+stirring the reaction mixture
+
+
+426
+REACTIVITY 2
+How much, how fast and how far?
+Questions 7–9 refer to the reaction between magnesium carbonate and 
+hydrochloric acid, which is as follows:
+MgCO3(s) + 2HCl(aq) →MgCl2(aq) + H2O(l) + CO2(g)
+7. Which of the conditions described below will produce the fastest rate of reaction?
+A 
+2.0 mol dm–3 HCl and MgCO3 lumps
+B
+1.0 mol dm–3 HCl and MgCO3 powder
+C 
+2.0 mol dm–3 HCl and MgCO3 powder
+D 
+1.0 mol dm–3 HCl and MgCO3 lumps
+8. Which of the following measurements would not be a suitable means to 
+follow the rate of this reaction?
+A
+increase in mass of reaction mixture
+B
+increase in volume of gas produced at constant pressure
+C
+increase in pH of reaction mixture
+D
+increase in pressure of gas produced at constant volume
+9. The sketch graph below represents the result of an experiment to measure the 
+rate of this reaction.
+volume of CO2
+time
+Which of the following is the best explanation for the shape of the graph?
+A
+The rate of reaction increases with time because the acid becomes 
+more dilute.
+B
+The rate of reaction increases with time because the calcium carbonate 
+pieces become smaller.
+C
+The rate of reaction decreases with time because the acid becomes 
+more dilute.
+D
+The rate of reaction decreases with time because the calcium carbonate 
+pieces become smaller.
+10. Collision theory states that collisions between reactant molecules do not 
+always lead to the formation of product. Which of the following is the best 
+explanation for this statement?
+A
+The reactant molecules are at too low a concentration.
+B
+The reaction is at equilibrium.
+C
+The reaction needs a catalyst in order to occur.
+D
+The reactant molecules do not have sufﬁ cient energy.
+
+
+427
+REACTIVITY 2.2
+How fast? The rate of chemical change
+11. It is found that in the reaction:
+NO2(g) + CO(g) →NO(g) + CO2(g)
+an increase in temperature increases the rate of reaction. 
+Which of the statements below is the main reason for this?
+A
+The molecules collide more frequently.
+B
+The proportion of molecules with energy greater than the activation 
+energy increases.
+C
+The pressure exerted by the molecules increases.
+D
+The proportion of molecules with the correct collision geometry 
+increases.
+12. Zinc metal reacts with copper(II) sulfate solution as follows:
+Zn(s) + CuSO4(aq) →Cu(s) + ZnSO4(aq)
+Which of the following factors will increase the rate of reaction?
+I. 
+increasing the concentration of CuSO4(aq)
+II. decreasing the size of the zinc pieces
+III. carrying out the reaction at a higher temperature
+A
+I and II 
+B
+I and III 
+C
+II only
+D 
+I, II and III
+13. Which of the following units could not be used to express the rate of 
+a reaction?
+A
+mol dm–3 s
+B
+g cm–3 s–1
+C
+mol dm–3 s–1
+D
+g dm–3 s–1
+14. The atmosphere consists mostly of the gases nitrogen, N2, and oxygen, O2. 
+Under normal conditions these two gases react together to form nitrogen 
+monoxide, NO, extremely slowly.
+N2(g) + O2(g) →NO(g)
+Which statement below is the best explanation for the low rate of this reaction?
+A
+The atmosphere does not contain a catalyst for this reaction.
+B
+The reaction between nitrogen and oxygen has a very high activation 
+energy.
+C
+Oxygen molecules are more likely to collide with themselves than with 
+nitrogen molecules.
+D
+The simultaneous collision of three molecules is unlikely.
+
+
+428
+REACTIVITY 2
+How much, how fast and how far?
+15. The graph below was obtained when zinc carbonate reacted with dilute 
+hydrochloric acid under two different conditions, denoted as experiments A and B.
+mass of
+reaction mixture
+time
+B
+A
+(a) Write an equation including state symbols for the reaction occurring. 
+(2)
+(b) Explain why the mass of the reaction mixture decreases in both cases. (1)
+(c) Make reference to collision theory to explain the shape of curve A. 
+(3)
+(d) Describe the measurements that could be made from the graph to 
+compare the initial rates of the reactions in A and B. Comment on the
+results expected. 
+(3)
+(e) The concentration of hydrochloric acid used in experiments A and B 
+was the same. Suggest three possible differences in the conditions of 
+experiments A and B. 
+(3)
+(f ) For each of the conditions given in (e), explain why it would affect the rate 
+of the reaction. 
+(6)
+(g) The experiment was repeated using zinc metal in place of zinc carbonate.
+Zn(s) + 2HCl(aq) →ZnCl2(aq) + H2(g)
+Describe the differences you would expect in the results, and evaluate 
+whether this is likely to be a satisfactory method for following the rate 
+of reaction.  
+(2)
+(Total 20 marks)
+16. The ﬁ gure below shows a Maxwell–Boltzmann distribution curve for a sample 
+of a gas at two different temperatures, T1 and T2.
+number of particles with
+kinetic energy, E
+T1
+T2
+kinetic energy, E
+(a) Deduce the relative values of T1 and T2. 
+(1)
+(b) Make reference to your answer to (a) to explain the differences in the
+shape of the two graphs. 
+(2)
+(c) ‘A catalyst provides a reaction route with a lower activation energy,
+and so increases the rate of reaction.’
+
+
+429
+REACTIVITY 2.2
+How fast? The rate of chemical change
+Justify this statement by means of a suitably labelled Maxwell-Boltzmann 
+distribution curve, showing the proportion of reacting particles with and
+without a catalyst.  
+(4)
+(d) Explain why catalysts increase the rate of reaction but have no effect on:
+(i) the enthalpy change
+(ii) the stoichiometric yield of a product  
+(4)
+ 
+(Total 11 marks)
+17. The decomposition of hydrogen peroxide, H2O2 , into water and oxygen gas is 
+an exothermic reaction.
+2H2O2(aq) →2H2O(l) + O2(g)
+(a) On the axes below, sketch an energy proﬁ le for an exothermic reaction 
+and annotate the key features. 
+(3)
+potential energy
+reaction coordinate
+(b) The enzyme ‘catalase’ can be used to increase the rate of decomposition of 
+hydrogen peroxide.
+(i) Outline how the energy proﬁ le would change if catalase was added 
+to the reaction mixture. 
+(1)
+(ii) Explain why the addition of catalase would have no effect on the 
+enthalpy change of the reaction. 
+(1)
+ 
+(Total 5 marks)
+
+
+How far? The extent of 
+chemical change
+2.3
+REACTIVITY
+
+

@@ -1,0 +1,2212 @@
+457
+Reaction mechanisms refer to how chemical reactions proceed at the molecular level. 
+Many reactions involve more than one step, and in these cases the mechanism is 
+shown as a sequence where the product of one step is the reactant for the next.
+Although there are many ways in which reaction mechanisms can be classified, there 
+are only four fundamental types of reaction based on the behaviour of subatomic 
+particles.
+• Proton transfer reactions include the range of acid–base reactions and 
+neutralization.
+• Electron transfer reactions include all oxidation–reduction processes.
+• Electron-sharing reactions include reactions between radicals.
+• Electron-pair-sharing reactions include the reactions of electrophiles and 
+nucleophiles.
+We will consider each of these types of reaction in turn in this topic. As you study 
+these examples, try to keep in mind the fundamental processes occurring at the 
+molecular level. It is the particulate nature of the structure of the reactants that 
+determines the reaction mechanisms.
+Given the infinite number of different chemical reactions, it is helpful to realize that 
+they can be categorized in this relatively simple way based on the transfer or sharing of 
+subatomic particles between reactants.
+A water-titanium dioxide model produced from molecular dynamics calculations which
+simulated proton transfer for water. The structure and charge density of H2O molecules
+are shown across the centre, and the TiO2 surface is shown across the bottom. The
+atoms are colour-coded: hydrogen (white), oxygen (red) and titanium (grey). The
+charge density (electron cloud) is purple. TiO2 is a widely used catalyst in solar cells
+and fuel cells. Understanding the mechanism of its reaction with H2O is key to further 
+development of its role in photocatalytic mechanisms.
+
+
+Proton transfer reactions 
+3.1
+REACTIVITY
+
+
+459
+REACTIVITY 3.1
+Proton transfer reactions 
+The confluence of two streams in the Andes mountains in Argentina. The stream in 
+the centre is brown due to minerals and precipitates from an upstream mining site, 
+and is more acidic with pH 3.0. The stream on the left is close to neutral with pH 7.5. 
+pH values are a convenient way to express the concentration of H+ ions in a solution, 
+which is essential to understanding and predicting many acid–base properties. 
+What happens when protons are transferred?
+Guiding Question
+Hydrogen atoms are the simplest atoms, containing just one proton and one electron. 
+When they ionize by losing the electron and forming H+, all that is left is the proton. 
+H+ is therefore equivalent to a proton, and we can use these two terms interchangeably.
+When a proton is transferred in a reaction:
+• the reactant loses H+ so loses a positive charge
+• the product gains H+ and so gains a positive charge.
+This type of reaction will therefore only be possible between certain species – 
+reactants that can release H+, and products that have a lone pair that can accommodate 
+an additional H+. This behaviour is known as Brønsted–Lowry acid–base behaviour.
+In this chapter, we will identify species that can undergo proton transfer reactions, 
+and learn how these reactions can be predicted and followed with reference to 
+the pH scale. Different acids and bases share some common properties, but differ 
+in their strength depending on their equilibria in aqueous solution. It is strongly 
+recommended that you are familiar with the study of equilibria from Reactivity 2.3 
+before starting this chapter.
+Acid–base chemistry is central to topics such as air and water pollution, how climate 
+change affects the chemistry of the oceans, the action of drugs in the body, food 
+science and many aspects of cutting-edge research.
+Reactivity 3.1.1 and 3.1.2 – Brønsted–Lowry 
+acids and bases
+Reactivity 3.1.1 – A Brønsted–Lowry acid is a proton donor and a Brønsted–Lowry 
+base is a proton acceptor.
+Deduce the Brønsted–Lowry acid and base in a reaction.
+A proton in aqueous solution can be 
+represented as both H+(aq) and H3O+(aq).
+The distinction between the terms ‘base’ 
+and ‘alkali’ should be understood.
+Nature of Science, Reactivity 3.4 – Why has 
+the deﬁ nition of acid evolved over time?
+Reactivity 3.1.2 – A pair of species differing by a single proton is called a conjugate 
+acid–base pair.
+Deduce the formula of the conjugate acid or base of any Brønsted–Lowry base or acid.
+Structure 2.1 – What are the conjugate acids of 
+the polyatomic anions listed in Structure 2.1?
+
+
+460
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Brønsted–Lowry theory describes acids and bases 
+in terms of proton transfer 
+Early theories to define acids and bases
+The French chemist Lavoisier proposed in 1777 that oxygen was the ‘universal 
+acidifying principle’. He believed that an acid could be defined as a compound of 
+oxygen and a non-metal. In fact, the name he gave to the newly discovered gas oxygen
+means ‘acid-former’. This theory, however, had to be dismissed when the acid HCl was 
+proven to be made of hydrogen and chlorine only – no oxygen. To hold true, of course, 
+any definition of an acid has to be valid for all acids.
+A big step forward came in 1887 when the Swedish chemist Arrhenius suggested that 
+an acid could be defined as a substance that dissociates in water to form hydrogen 
+ions (H+) and anions, while a base dissociates into hydroxide (OH–) ions and cations. 
+He also recognized that the hydrogen and hydroxide ions could form water, and the 
+cations and anions could form a salt. In a sense, Arrhenius was very close to the theory 
+that is widely used to explain acid and base properties today, but his focus was only 
+on aqueous systems. A broader theory was needed to account for reactions occurring 
+without water, and especially for the fact that some insoluble substances show 
+base properties.
+Svante August Arrhenius (1859–1927) wrote up his ideas on acids dissociating into ions in 
+water as part of his doctoral thesis while he was a student at Stockholm University. But his 
+theory was not well received and he was awarded the lowest possible class of degree. Later, 
+his work gradually gained recognition and he received one of the earliest Nobel Prizes in 
+Chemistry in 1903.
+Arrhenius may be less well known as the first person documented to predict the possibility of 
+global warming as a result of human activity. In 1896, aware of the rising levels of CO2 caused 
+by increased industrialization, he calculated the likely effect of this on the temperature of the 
+Earth. Today, over 100 years later, the significance of this relationship between increasing CO2
+and global temperatures is recognized as a major threat to ecosystems and life on Earth.
+Nature of Science
+The evolution of theories to explain acid–base chemistry and develop general 
+principles is a fascinating tale of the scientific process in action. Some theories 
+have arisen and been disproved, such as Lavoisier’s early definition of an acid 
+as a compound containing oxygen. Falsification of an idea is an essential 
+aspect of the scientific process. Other theories have proved to be too limited in 
+application, such as Arrhenius’ theory which could not be generalized beyond 
+aqueous solutions.
+On the other hand, the Brønsted–Lowry theory has stood the test of time and 
+experimentation. This indicates that it has led to testable predictions which 
+have supported the theory, and enabled wide ranging applications to be made.
+Nature of Science, 
+Reactivity 3.4 – Why has 
+the deﬁ nition of acid 
+evolved over time?
+
+
+461
+REACTIVITY 3.1
+Proton transfer reactions
+Brønsted–Lowry theory developed from independent work 
+by two chemists 
+In 1923 two chemists, Martin Lowry of Cambridge, England, and Johannes Brønsted 
+of Copenhagen, Denmark, working independently, published similar conclusions 
+regarding the definitions of acids and bases. Their findings overcame the limitations of 
+Arrhenius’ work and have become established as the Brønsted–Lowry theory.
+This theory focuses on the transfer of H+ ions during an acid–base reaction: acids 
+donate H+, while bases accept H+. For example, in the reaction between hydrogen 
+chloride, HCl, and ammonia, NH3, to form ammonium chloride, NH4Cl, we can see 
+that HCl transfers H+ to NH3.
+HCl + NH3 ⇌ NH4++Cl–
+NH4Cl is an ionic compound containing NH4+ and Cl– ions.
+H1
+H1 transferred
+Cl2 1 NH41
+Cl2 1 NH3
+HCl acts as an acid and donates H+, NH3 acts as a base and accepts H+.
+Challenge yourself
+1. From physical properties that you observe in the photo, what might be another 
+way of classifying this reaction? 
+As we learned on page 459, H+ is a proton and the two terms can be used interchangeably.
+Therefore the Brønsted–Lowry theory can be stated as:
+• a Brønsted–Lowry acid is a proton (H+) donor
+• a Brønsted–Lowry base is a proton (H+) acceptor.
+Reaction between vapors of 
+HCl and NH3 forming the 
+white smoke of ammonium 
+chloride NH4Cl.
+HCl(g) + NH3(g) → NH4Cl(s)
+
+
+462
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Nature of Science
+Brønsted and Lowry’s work on acid–base theory is a good example of 
+what is sometimes referred to as ‘multiple independent discovery’. This 
+refers to cases where similar discoveries are made by scientists at almost 
+the same time, even though they have worked independently from each 
+other. Examples include the independent discovery of calculus by Newton 
+and Leibniz, the formulation of the mechanism for biological evolution by 
+Darwin and Wallace, and derivation of the pressure–volume relationships 
+of gases by Boyle and Mariotte. Nobel Prizes in Chemistry are commonly 
+awarded to more than one person working in the same field, who may 
+have made the same discovery independently. Multiple independent 
+discoveries are likely increasing as a result of communication technology, 
+which enables scientists who may be widely separated geographically 
+to have access to a common body of knowledge as the basis for their 
+research.
+When a discovery is made by more than one scientist at about the same 
+time, ethical questions can arise, such as whether the credit belongs to 
+one individual or should be shared, and whether there are issues regarding 
+intellectual property and patent rights. Historically, these issues have 
+been settled in very different ways in different cases. Nonetheless, the peer 
+review process in science aims to ensure that credit is correctly awarded 
+to the scientist or scientists responsible for a discovery, and that published 
+work represents a new contribution to work in that field.
+Does competition 
+between scientists 
+help or hinder 
+the production of 
+knowledge?
+Worked example 
+Deduce the Brønsted–Lowry acid and base in the following reactions. Consider 
+only the forward reactions here.
+1. NH3(aq) + H2O(l) ⇌ NH4+(aq) + OH–(aq)
+2. H2PO4–(aq) + HCO3–(aq) + ⇌ HPO42–(aq) + H2CO3(aq)
+Solution
+1.  NH3(aq) accepts H+ to become NH4+(aq) ∴ NH3(aq) is the Brønsted–Lowry 
+base.
+H2O(l) donates H+ to become OH–(aq) ∴H2O(l) is the Brønsted–Lowry acid.
+2.  H2PO4–(aq) donates H+ to become HPO42–(aq) ∴ H2PO4–(aq) is the Brønsted–
+Lowry acid.
+HCO3–(aq) accepts H+ to become H2CO3(aq) ∴ HCO3–(aq) is the Brønsted–
+Lowry base.
+A Brønsted–Lowry 
+acid is a proton 
+(H+) donor. 
+A Brønsted–Lowry 
+base is a proton 
+(H+) acceptor. 
+
+
+463
+REACTIVITY 3.1
+Proton transfer reactions
+Reacting species in Brønsted–Lowry acid–base 
+reactions form conjugate pairs
+Conjugate acid–base pairs differ by one proton
+The act of donating cannot happen in isolation – there must always be something 
+present to play the role of acceptor. In Brønsted–Lowry theory, an acid can therefore 
+only behave as a proton donor if there is also a base present to accept the proton.
+Consider the acid–base reaction between a generic acid HA and base B:
+HA + B ⇌ A– + BH+
+We can see that HA acts as an acid, donating a proton to B while B acts as a base, 
+accepting the proton from HA. But if we look also at the reverse reaction, we can pick 
+out another acid–base reaction: here, BH+ is acting as an acid, donating its proton to 
+A– while A– acts as a base accepting the proton from BH+. In other words, acid HA has 
+reacted to form the base A–, while base B has reacted to form acid BH+.
+conjugate acid–base pair
+conjugate acid–base pair
+HA + B ⇋ A– + BH+
+Acids react to form bases and vice versa. The acid–base pairs related to each other in 
+this way are called conjugate acid–base pairs, and you can see that they differ by just 
+one proton. It is important to be able to recognize these pairs in a Brønsted–Lowry acid–
+base reaction.
+One example of a conjugate pair is H2O and H3O+, which is found in all acid–base 
+reactions in aqueous solution. The reaction:
+H2O(l) + H+(aq) ⇌ H3O+(aq)
+occurs when a proton released from an acid readily associates with H2O molecules, 
+forming H3O+. In other words, protons become hydrated. H3O+ is variously called 
+the hydroxonium ion, the oxonium ion, or the hydronium ion and is always the form 
+of hydrogen ions in aqueous solution. However, for most reactions it is convenient 
+simply to write it as H+(aq). Note that in this pair H3O+ is the conjugate acid and H2O is 
+its conjugate base.
+Worked example 
+Label the conjugate acid–base pairs in the following reaction:
+CH3COOH(aq) + H2O(l) ⇌ CH3COO–(aq) + H3O+(aq)
+Solution
+CH3COOH / CH3COO2
+conjugate pair
+acid
+base
+H2O / H3O+
+conjugate pair
+base acid
+When writing the 
+conjugate acid of a 
+base, add one H+. 
+When writing the 
+conjugate base of an 
+acid, remove one H+. 
+Remember to adjust 
+the charge by the 1+
+removed or added.
+Note that H3O+(aq) and 
+H+(aq) are both used to 
+represent a proton in 
+aqueous solution.
+Lowry described the 
+ready hydration of 
+the proton as ‘the 
+extreme reluctance of 
+the hydrogen nucleus 
+to lead an isolated 
+existence’.
+
+
+464
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Deducing the formulas of conjugate acids and bases 
+In a conjugate pair, the acid always has one proton more than its conjugate base, so this 
+makes it easy to predict the formula of the corresponding conjugate for any given acid 
+or base.
+Worked example 
+1. Write the conjugate base for each of the following.
+(a) H3O+ 
+(b) NH3 
+(c) H2CO3
+2. Write the conjugate acid for each of the following.
+(a) NO2– 
+(b) OH– 
+(c) CO32–
+Solution
+1. To form the base from these species, remove one H+
+(a) H2O 
+(b) NH2– 
+(c) HCO3–
+2. To form the acid from these species, add one H+
+(a) HNO2 
+(b) H2O 
+(c) HCO3–
+The acid and base 
+in a conjugate acid–
+base pair differ by 
+just one proton.
+If we look at the polyatomic ions listed in Structure 2.1, we see that most of the ions 
+can act as Brønsted–Lowry bases by accepting H+ and forming Brønsted–Lowry acids.
+Polyatomic ion
+Conjugate acid
+hydroxide, OH–
+H2O 
+nitrate, NO3–
+HNO3
+hydrogencarbonate, HCO3–
+H2CO3 
+carbonate, CO32–
+HCO3– 
+sulfate, SO42–
+HSO4–
+phosphate, PO43–
+HPO42–
+The ammonium ion, NH4+, which is also a polyatomic ion listed in Structure 2.1, 
+cannot accept H+ to form a conjugate acid. It instead loses H+, and so acts as a 
+Brønsted–Lowry acid and forms its conjugate base, NH3. Which of the polyatomic ions 
+above can also function as a Brønsted–Lowry acid?
+Brønsted–Lowry bases are defined as any species which can accept a proton. A smaller 
+group, the alkalis, are soluble bases which dissolve in water to release the hydroxide 
+ion OH–.
+For example:
+K2O(s) + H2O(l) → 2K+(aq) + 2OH–(aq)
+CO32–(aq) + H2O(l) ⇌ HCO3–(aq) + OH–(aq)
+HCO3–(aq) ⇌ CO2(g) + OH–(aq)
+Structure 2.1 – What 
+are the conjugate acids 
+of the polyatomic ions 
+listed in Structure 2.1?
+
+
+465
+REACTIVITY 3.1
+Proton transfer reactions
+BASES
+substances
+which accept
+H1 ions
+ALKALIS
+substances
+which form
+OH2 ions in
+solution
+Exercise
+Q1. Deduce the formula of the conjugate acid of each of the following:
+(a) SO32– 
+(b) CH3NH2 
+(c) C2H5COO–
+(d) NO3– 
+(e) F– 
+(f ) HSO4–
+Q2. Deduce the formula of the conjugate base of each of the following:
+(a) H3PO4 
+(b) CH3COOH 
+(c) H2SO3
+(d) HSO4– 
+(e) OH– 
+(f ) HBr
+Q3. For each of the following reactions, identify the Brønsted–Lowry acids and 
+bases and the conjugate acid–base pairs:
+(a) CH3COOH + NH3 ⇌ NH4+ + CH3COO–
+(b) CO32– + H3O+ ⇌ H2O + HCO3–
+(c) NH4+ + NO2– ⇌ HNO2 + NH3
+Reactivity 3.1.3 – Amphiprotic species
+Reactivity 3.1.3 – Some species can act as both Brønsted–Lowry acids and bases.
+Interpret and formulate equations to show acid–base reactions of these species.
+Structure 3.1 – What is the periodic trend in 
+the acid–base properties of metal and non-
+metal oxides?
+Structure 3.1 – Why does the release of oxides 
+of nitrogen and sulfur into the atmosphere 
+cause acid rain?
+Some species can act as both Brønsted–Lowry 
+acids and bases
+You may be surprised to see water described in the answers to the Worked examples on 
+page 464 as a base (Q1, part a), and as an acid (Q2, part b), as you are probably not used 
+to thinking of water as an acid, or as a base, but rather as a neutral substance. The point 
+is that Brønsted–Lowry theory describes acids and bases in terms of how they react 
+together, so it all depends on what water is reacting with. 
+The relationship between 
+alkalis and bases. 
+Alkalis are bases that 
+dissolve in water to 
+form the hydroxide 
+ion, OH–. 
+
+
+466
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Consider the following:
+CH3COOH + H2O
+⇌ 
+CH3COO– + H3O+
+ 
+acid 
+base 
+base 
+acid
+NH3 + H2O
+⇌ 
+NH4+ + OH–
+ 
+base 
+acid 
+acid 
+base
+So with CH3COOH, water acts as a Brønsted–Lowry base, and with NH3 it acts as a 
+Brønsted–Lowry acid.
+Notice that water is not the only species that can act as both an acid and as a base. For 
+example, in the Worked example below, we can deduce similar behaviour with HCO3–.
+Worked example 
+Write equations to show HCO3– acting (a) as a Brønsted–Lowry acid and (b) as a 
+Brønsted–Lowry base.
+Solution
+(a) to act as an acid, it donates H+
+HCO3–(aq) + H2O(l) ⇌ CO32–(aq) + H3O+(l)
+(b) to act as a base, it accepts H+
+HCO3–(aq) + H2O(l) ⇌ H2CO3(aq) + OH–(aq)
+Substances that can act as both Brønsted–Lowry acids and bases in this way are 
+said to be amphiprotic. What are the features that enable these species to have this 
+‘double identity’?
+• To act as a Brønsted–Lowry acid, they must be able to dissociate and release H+.
+• To act as a Brønsted–Lowry base, they must be able to accept H+, which means 
+they must have a lone pair of electrons.
+So substances that are amphiprotic according to Brønsted–Lowry theory must possess 
+both a lone pair of electrons and hydrogen that can be released as H+.
+Challenge yourself
+2. At ambient temperature, the polyatomic ion OH–(aq) may not be considered 
+truly amphiprotic as its basic properties dominate – losing H+ in solution is 
+unlikely due to the instability of O2– in water. However, when a metal hydroxide 
+such as magnesium hydroxide is heated, it decomposes as follows:
+Mg(OH)2(s) → MgO(s) + H2O(g)
+Derive the ionic form of this reaction to analyze how the hydroxide ion is 
+showing amphiprotic behaviour here.
+An amphiprotic 
+substance is one 
+which can act as 
+both a proton 
+donor and a proton 
+acceptor.
+Amphoteros is a 
+Greek word meaning 
+‘both’. For example, 
+amphibians are 
+adapted both to water 
+and to land.
+
+
+467
+REACTIVITY 3.1
+Proton transfer reactions
+Nature of Science
+Terminology in science has to be used appropriately according to the context. 
+Amphiprotic specifically relates to Brønsted–Lowry acid–base theory, where 
+the emphasis is on the transfer of a proton. The term amphoteric, on the other 
+hand, has a broader meaning as it is used to describe a substance which can 
+act as an acid and as a base, including reactions that do not involve the transfer 
+of a proton. For example, as described in Structure 3.1, aluminium oxide is 
+an amphoteric oxide because it reacts with both dilute acids and alkalis. We 
+will see in Reactivity 3.4 that this acid–base behaviour is best described by a 
+different theory, the Lewis theory. Note that all amphiprotic substances are 
+also amphoteric, but the converse is not true. The fact that the two terms exist 
+reflects the fact that different theories are used to describe acid–base reactions.
+We can recognize trends in acidic and basic behaviour related to the periodic table. 
+Moving left to right across a period, the oxides transition from basic metal oxides 
+through amphoteric oxides which are able to react with both acids and bases, to 
+acidic oxides. For example, in period 3:
+Na2O    MgO
+basic metal oxides
+Al2O3
+amphoteric oxide
+SiO2    P4O10    SO2    Cl2O
+acidic non-metal oxides
+• The basic metal oxides react with an acid to form a salt and water.
+ 
+Na2O(s) + 2HCl(aq) → 2NaOH(aq) + 2H2O(l)
+• Al2O3 is amphoteric because it reacts both with an acid and 
+with a base to form a salt and water.
+ 
+Al2O3(s) + 3H2SO4(aq) → Al2(SO4)3(aq) + 3H2O(l)
+Al2O3(s) + 3H2O(l) + 2OH–(aq) → 2Al(OH)4–
+• The non-metal oxides form weak acids in solution.
+SO2(g) + H2O(l) ⇌ H2SO3(aq)
+ 
+H2SO3(aq) ⇌ 2H+(aq) + SO32–(aq)
+Nitrogen and sulfur both form several different oxides, known 
+as NOx and SOx, which are released from the burning of fossil 
+fuels, especially coal and heavy oil. As we see above for SO2, they 
+react with moisture in the atmosphere to form weak acids such as 
+sulfurous and nitrous acids. These weak acids can react further to 
+form stronger acids, resulting in a complex mixture of pollutants 
+in the atmosphere. For example:
+ 
+2NO2(g) + H2O(l) → HNO2(aq) + HNO3(aq)
+This lowers the pH causing acid rain, defined as when the pH 
+of precipitation has been lowered to less than 5.6. Acid rain is 
+a major environmental problem, causing a negative impact on 
+structural materials, lakes and rivers, and plant life, especially 
+coniferous forests.
+Structure 3.1 – Why does 
+the release of oxides of 
+nitrogen and sulfur into 
+the atmosphere cause 
+acid rain?
+Structure 3.1 – What is 
+the periodic trend in the 
+acid–base properties of 
+metal and non-metal 
+oxides?
+Test tubes containing normal 
+rainwater (left) and acid rain 
+(right) with universal indicator 
+solution added to show 
+acidity. The normal rainwater 
+has a pH of above 5.6, while 
+the acid rain has a lower pH: 
+in this example it is pH 4.0. 
+
+
+468
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Exercise
+Q4.  Show by means of equations how the anion in K2HPO4 is amphiprotic.
+Q5.  (a) Explain with an equation why normal rainwater is acidic because it 
+dissolves CO2 from the atmosphere.
+(b) Formulate equations to show how sulfur dioxide released into the 
+atmosphere can be oxidized to sulfur trioxide, which then dissolves in 
+water to form sulfuric acid.
+(c) Suggest why adding lime, calcium oxide, to stream water may help to 
+reduce the effects of acid rain.
+Q6.  Suggest why the elimination of burning coal as a fuel is an important goal of 
+many countries and international organizations.
+Reactivity 3.1.4 – The pH scale
+Reactivity 3.1.4 – The pH scale can be used to describe the [H+] of a solution:
+pH = –log10[H+]  [H+] = 10–pH
+Perform calculations involving the logarithmic relationship between pH and [H+].
+Include the estimation of pH using universal 
+indicator, and the precise measurement of pH 
+using a pH meter/probe.
+The equations for pH are given in the data 
+booklet.
+Tools 1, 2, 3 – What is the shape of a sketch 
+graph of pH against [H+]?
+Nature of Science, Tool 2 – When are digital 
+sensors (e.g. pH probes) more suitable than 
+analogue methods (e.g. pH paper/solution)?
+pH is a logarithmic expression of [H+]
+Chemists realized a long time ago that it would be useful to have a quantitative 
+scale of acid strength based on the concentration of hydrogen ions. As the 
+majority of acids encountered are weak, the hydrogen ion concentration 
+expressed directly as mol dm–3 produces numbers with large negative exponents. 
+For example, the H+ concentration in our blood is 4.6 × 10–8 mol dm–3. Such 
+numbers are not very user-friendly when it comes to describing and comparing 
+acids. The introduction of the pH scale in 1909 by Sorensen led to wide 
+acceptance owing to its ease of use. It is defined as follows:
+pH = –log10[H+]
+In other words, pH is the negative number to which the base 10 is raised to give the 
+[H+]. This can also be expressed as:
+[H+] = 10–pH
+• A solution that has [H+] = 0.1 mol dm–3 ⇒ [H+] = 10–1 mol dm–3 ⇒ pH = 1.
+• A solution that has [H+] = 0.01 mol dm–3 ⇒ [H+] = 10–2 mol dm–3 ⇒ pH = 2.
+Woodland devastated by 
+the effects of acid rain in 
+the Czech Republic, near 
+the border with Germany. 
+Emissions of oxides of sulfur 
+and nitrogen from industry 
+have caused this widespread 
+death of trees. This is one of 
+the most polluted parts of 
+central Europe.
+The Danish chemist 
+Søren Peder Lauritz 
+Sorensen (1868–1939) 
+developed the pH 
+concept in 1909, 
+originally proposing 
+that it be formulated 
+as pH. He did not 
+account for his choice 
+of the letter ‘p’ though 
+it has been suggested 
+to originate from the 
+German word potenz
+for power. It could 
+equally well derive 
+from the Latin, Danish, 
+or French terms for the 
+same word.
+pH = –log10[H+]
+[H+] = 10–pH
+How might 
+developments in 
+scientific knowledge 
+trigger political 
+controversies or 
+controversies in other 
+areas of knowledge?
+
+
+469
+REACTIVITY 3.1
+Proton transfer reactions
+The pH scale has distinct features 
+pH numbers are usually positive and have no units 
+Although the pH scale is theoretically an infinite scale and can extend into negative 
+numbers, most common acids and bases will have positive pH values and fall within the 
+range pH 0–14. This corresponds to [H+] in the range 1.0 mol dm–3 to 10–14 mol dm–3.
+The pH number is inversely related to [H+] 
+Solutions with a higher [H+] have a lower pH and vice versa. So stronger and more 
+concentrated acids have a lower pH, while weaker and more dilute acids have a 
+higher pH.
+pH
+[H1]
+The inverse relationship between pH and H+.
+A change of one pH unit represents a 10-fold change in [H+] 
+This means that increasing the pH by one unit represents a decrease in [H+] by 
+10 times; and decreasing by one pH unit represents an increase in [H+] by 10 times.
+Worked example 
+If the pH of a solution is changed from 3 to 5, deduce how the hydrogen ion 
+concentration changes.
+Solution
+pH = 3 ⇒ [H+] = 10–3 mol dm–3 
+ 
+ 
+pH = 5 ⇒ [H+] = 10–5 mol dm–3
+So [H+] has changed by 10–2 or decreased by a factor of 100.
+The inverse logarithmic relationship between pH and [H+] can be illustrated by following 
+the change in pH as the [H+] of a solution is increased. We can observe the following:
+• as [H+] in a solution increases, the pH value decreases
+• for each increase of 10 times in [H+], the pH will decrease by 1 unit.
+pH
+[H1]
+The inverse logarithmic relationship between pH and [H+].
+Logarithmic scales 
+are used in other 
+disciplines where 
+they can help in the 
+presentation of data. 
+In medicine, the 
+logarithmic decay of 
+levels of drugs in the 
+blood against time is 
+used. In seismic studies, 
+the Richter scale is a 
+logarithmic expression 
+of the relative energy 
+released during 
+earthquakes. In sense 
+perception, the decibel 
+scale of sound intensity 
+and the scale for 
+measuring the visible 
+brightness of stars (their 
+magnitude) are also 
+logarithmic scales.
+Note that a sketch 
+graph shows labelled 
+axes but without units. 
+The graph shows the 
+overall relationship 
+between two variables 
+but without plotted 
+data points.
+Tools 1, 2, 3 – What is 
+the shape of a sketch 
+graph of pH against 
+[H+]?
+
+
+470
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Nature of Science
+The use of a logarithmic scale to represent data enables a wide range of values 
+to be presented as a smaller range of simpler numbers. We see here that the 
+pH scale takes a range of hydrogen ion concentrations from 100 to 10–14 and 
+effectively compresses it to a much smaller scale of numbers, 0–14. On page 468, 
+we see that the use of a logarithmic scale to represent ionization energies 
+similarly makes a wide range of data easier to interpret. In cases of exponential 
+change, a log base scale shows the data as a straight line, so outliers where the 
+change is greater or less than exponential can be easily identified.
+But use of a logarithmic scale can also be misleading, as it can obscure the 
+scale of change if not interpreted correctly. For example, a small change in 
+pH represents a dramatic difference in the hydrogen ion concentration of 
+a solution. Keep this in mind when you read reports of changes in pH, for 
+example, of rainfall as a result of pollution. A reported change from pH 5.5 
+to pH 4.5 may not sound much, but in fact it represents a tenfold increase in the 
+hydrogen ion concentration – hugely significant to the acidic properties. The 
+pH of our blood is carefully controlled by chemicals called buffers to remain 
+at 7.4, and a change of only half a pH unit on either side of this can be fatal. 
+Communication of data in science takes different forms and uses different 
+scales and must always be interpreted in the context used.
+basic
+neutral
+acidic
+10214
+10213
+10212
+10211
+10210
+1029
+1028
+1027
+1026
+1025
+1024
+1023
+1022
+1021
+100 51
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+[H1] 
+                         pH
+1.0 mol dm23 KOH
+oven cleaner
+household ammonia
+milk of magnesia
+baking soda (NaHCO3)
+toothpaste
+human blood
+pure water, NaCl(aq)
+rainwater
+tomatoes
+wine, beer
+vinegar
+lemon juice
+stomach acid
+car battery acid
+1.0 mol dm23 HCl
+The pH scale at 298 K 
+and pH values of some 
+common substances. 
+
+
+471
+REACTIVITY 3.1
+Proton transfer reactions
+Measuring pH 
+An easy way to estimate pH is with universal indicator paper or solution. The 
+substance tested will give a characteristic colour, which can then be compared with 
+a colour chart supplied with the indicator. Narrower-range indicators give a more 
+accurate reading than broad-range indicators. The use of indicators is an analogue 
+method which always depends on the user’s interpretation of the colour, and so is 
+somewhat subjective. Indicators are useful for estimations and comparisons of pH, 
+rather than for precise measurements.
+The pH scale and universal indicator solution. The tubes contain solutions of pH 0–14 from left to 
+right, with added universal indicator.
+A more objective and usually more accurate means is by using a pH meter that 
+directly reads the H+ concentration through a special electrode. pH meters can record 
+to an accuracy of several decimal places. They must, however, be calibrated before 
+each use with a buffer solution and standardized for the temperature, as pH is a 
+temperature-dependent measurement.
+pH calculations
+From the equations of the relationship between pH and [H+] we can:
+• calculate the value of pH from a known concentration of H+
+• calculate the concentration of H+ from a given pH.
+The pH scale is a measure of [H+] and so may appear to be more suited for the 
+measurement of acids than bases. But we can use the same scale to describe the 
+alkalinity of a solution. As you can see below, this is because the relationship between 
+[H+] and [OH–] is inverse in aqueous solutions, and so lower [H+] means higher [OH–] 
+and vice versa. Therefore, the scale of pH numbers represents a range of values from 
+strongly acidic through to strongly alkaline.
+pH 0
+increasing [H1]
+increasing acidity
+pH 7
+neutral
+at 298 K
+pH 14
+increasing [OH2]
+increasing alkalinity
+Digital pH meter being 
+used to measure the pH of 
+a chemical solution. The tip 
+of the probe is immersed in 
+the liquid, which is weakly 
+acidic (pH 5.8). The probe’s 
+tip contains electrodes 
+that measure the electrical 
+potential of the hydrogen 
+ions, which is directly related 
+to pH.
+Use of a pH meter and 
+universal indicator to 
+measure pH. Full details 
+of how to carry out 
+this experiment with a 
+worksheet are available 
+in the eBook.
+Nature of Science, Tool 
+2 – When are digital 
+sensors (e.g. pH probes) 
+more suitable than 
+analogue methods (e.g. 
+pH paper/solution)?
+In pH calculations you 
+will need to be able to 
+work out logarithms 
+to base 10, and anti-
+logarithms. Make sure 
+that you are familiar 
+with these operations 
+on your calculator.
+
+
+472
+REACTIVITY 3
+What are the mechanisms of chemical change?
+The colours of the flowers of hydrangea plants (Hydrangea macrophyll) depend on the availability 
+of aluminium ions, Al3+, which react with the plant’s pigments. A lower pH makes aluminium ions 
+more easily absorbed, and the flowers are blue. A higher pH keeps the aluminium ions locked in 
+insoluble form unavailable to plants, and the flowers are pink. The pink flower on the left was 
+grown at pH 6.5, the blue flower on the right at pH 5.0, and the purple flower in the middle at pH 
+5.8, so both colours are present. 
+Challenge yourself
+3. Derive equations to show why aluminium sulfate, when added to water, gives a 
+cloudy appearance and has a low pH.
+4. Suggest why some gardeners water hydrangea flowers with a weak solution of 
+vinegar.
+Worked example 
+A sample of lake water was analyzed at 298 K and found to have 
+[H+] = 3.2 × 10–5 mol dm–3. Calculate the pH of this water and comment on its value.
+Solution
+pH = –log10[H+]
+= –log10(3.2 × 10–5) = –(–4.49485)
+pH = 4.49
+At 298 K this pH < 7, and the lake water is therefore acidic.
+Worked example 
+Human blood has a pH of 7.40. Calculate the concentration of hydrogen ions 
+present.
+Solution
+[H+] = 10–pH
+= 10–7.40 = 4.0 × 10–8
+[H+] = 4.0 × 10–8 mol dm–3
+Note that the 
+logarithms used in all 
+the work on acids and 
+bases are logarithms 
+to base 10 (log). Do 
+not confuse these with 
+natural logarithms, to 
+base e, (ln).
+The rule to follow for 
+significant figures in 
+logarithms is that the 
+number of decimal 
+places in the logarithm 
+should equal the 
+number of significant 
+figures in the number. 
+In other words, the 
+number to the left 
+of the decimal place 
+in the logarithm is 
+not counted as a 
+significant figure (this 
+is because it is derived 
+from the exponential 
+part of the number). 
+In this example, the 
+number given has two 
+significant figures (3.2) 
+and so the answer is 
+given to two decimal 
+places (.49).
+
+
+473
+REACTIVITY 3.1
+Proton transfer reactions
+Exercise
+Q7. 
+What happens to the pH of an acid when 10 cm3 of the acid is added to 
+90 cm3 of water?
+Q8. 
+Beer has a hydrogen ion concentration of 1.9 × 10–5 mol dm–3. What is its pH?
+Q9. 
+What is the pH of a 0.01 mol dm–3 solution of HCl which dissociates fully?
+HCl(aq) → H+(aq) + Cl–(aq)
+Q10. Lake water was found to have a concentration of H+ ions of 
+3.2 × 10–5 mol dm–3. Calculate the pH and determine if the lake water is 
+acidic, basic, or neutral at 298 K.
+Q11. Soil water found in a limestone area has a pH of 8.3. What is its 
+concentration of H+ ions?
+Q12. Suggest why it is more convenient to express acidity in pH values rather than 
+by concentration of hydrogen ions.
+Reactivity 3.1.5 – The ion product constant of 
+water
+Reactivity 3.1.5 – The ion product constant of water, Kw, shows an inverse 
+relationship between [H+] and [OH–]. Kw = [H+][OH–]
+Recognize solutions as acidic, neutral and basic from the relative values of [H+] and [OH–]. 
+The equation for Kw and its value at 298 K are 
+given in the data booklet. 
+Reactivity 2.3 – Why does the extent of 
+ionization of water increase as temperature 
+increases? 
+The ionization of water produces H+ and OH– ions
+Victoria Falls on the 
+Zimbabwe–Zambia border. 
+It is estimated that 
+6.25 × 108 dm3 of water flows 
+over the falls every second. 
+According to the ionization 
+constant discussed here, 
+for every billion of these 
+molecules only two are 
+ionized, and that proportion 
+gets even smaller at lower 
+temperatures.
+
+
+474
+REACTIVITY 3
+What are the mechanisms of chemical change?
+As the majority of acid–base reactions involve ionization in aqueous solution, it is 
+useful to consider the role of water in more detail. Water itself does ionize, albeit only 
+very slightly at normal temperatures and pressures, so we can write an equilibrium 
+expression for this reaction.
+H2O(l) 
+ H+(aq) + OH–(aq)
+Therefore 
+K =  [H+][OH−]
+_________
+[H2O]  
+The concentration of water can be considered to be constant due to the fact that so 
+little of it ionizes, and it can therefore be combined with K to produce a modified 
+equilibrium constant known as Kw.
+K[H2O] = [H+][OH−]
+Therefore Kw = [H+][OH–]
+Kw is known as the ionic product constant of water and has a fixed value at a 
+specified temperature. At 298 K, Kw = 1.00 × 10–14.
+We are using H+(aq) throughout this chapter as a simplified form of H3O+(aq). This is 
+acceptable in most situations, but do not forget that H+ in aqueous solution always exists as 
+H3O+(aq).
+Water is a pure liquid so its concentration is just a function of its density, which is 1.00 g cm–3.
+Using n =  m
+___
+M gives n(H2O) =  1000 g dm–3
+_____________
+18 g mol–1  = 55 mol dm–3
+In pure water, because [H+] = [OH–], it follows that [H+] =  √
+___
+Kw 
+So at 298 K, [H+] = 1.00 × 10–7, which gives pH = 7.00.
+This is consistent with the widely known value for the pH of water at room temperature.
+The relationship between H+ and OH– is inverse
+Because the product [H+] × [OH–] gives a constant value, it follows that the 
+concentrations of these ions must have an inverse relationship. In other words, in 
+aqueous solutions the higher the concentration of H+, the lower the concentration of 
+OH– and vice versa. Solutions are defined as acidic, neutral, or basic according to their 
+relative concentrations of these ions as shown below.
+at 298 K
+Acidic solutions are deﬁ ned as those in which 
+[H+] > [OH–]
+pH < 7
+Neutral solutions are deﬁ ned as those in which 
+[H+] = [OH–]
+pH = 7
+Alkaline solutions are deﬁ ned as those in which 
+[H+] < [OH–]
+pH > 7
+So if we know the concentration of either H+ or OH–, we can calculate the other from 
+the value of Kw.
+[H]+ =  Kw
+______
+[OH]− and [OH]− =  Kw
+____
+[H]+ 
+The value 
+Kw = 1.00 × 10–14
+at 298 K is given in the 
+data booklet. 
+Kw = [H+] [OH–] 
+
+
+475
+REACTIVITY 3.1
+Proton transfer reactions
+Worked example 
+A sample of blood at 298 K has [H+] = 4.60 × 10–8 mol dm–3.
+Calculate the concentration of OH– and state whether the blood is acidic, neutral, 
+or basic.
+Solution
+At 298 K, Kw = 1.00 × 10–14 = [H+][OH–]
+So [OH]− =  1.00 × 10–14
+__________
+4.60 × 10−8  = 2.17 × 10−7 mol dm−3
+As [OH–] > [H+] the solution is basic.
+The concentrations 
+of H+ and OH–
+are inversely 
+proportional in an 
+aqueous solution. 
+pH = –log10 [H+]
+[H+] = 10–pH
+H+(aq)
+pH
+[OH–] = 
+OH–(aq)
+Kw
+[H+]
+[H+] =
+Kw
+[OH–]
+Kw is temperature dependent
+The ionic product constant of water, Kw, was derived on page 474.
+Kw = [H+] [OH–] = 1.00 × 10–14 at 298 K
+As Kw is an equilibrium constant, its value must be temperature dependent. The 
+reaction for the dissociation of water is endothermic as it involves bond breaking. 
+This means that:
+• an increase in temperature will shift the equilibrium to the right, which will 
+increase the value of Kw. The concentrations of H+(aq) and OH–(aq) increase, and 
+so pH decreases
+• a decrease in temperature will shift the equilibrium to the left, which will 
+decrease the value of Kw. The concentrations of H+(aq) and OH–(aq) decrease, 
+and so pH increases.
+Some data to illustrate these trends are given in the table.
+Temperature / °C
+Kw
+[H+] in pure water
+( √
+___
+Kw )
+pH of pure water
+(–log10 [H+])
+0
+1.5 × 10–15
+0.39 × 10–7
+7.47
+10
+3.0 × 10–15
+0.55 × 10–7
+7.27
+20
+6.8 × 10–15
+0.82 × 10–7
+7.08
+25
+1.0 × 10–14
+1.00 × 10–7
+7.00
+30
+1.5 × 10–14
+1.22 × 10–7
+6.92
+40
+3.0 × 10–14
+1.73 × 10–7
+6.77
+50
+5.5 × 10–14
+2.35 × 10–7
+6.63
+The pH of water at 
+different temperatures. 
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+Reactivity 2.3 – Why 
+does the extent of 
+ionization of water 
+increase as temperature 
+increases?
+Because many people 
+are so familiar with the 
+value 7.00 as the pH of 
+water, it is often difficult 
+to convince them that 
+water with a pH of 
+greater or less than this 
+is still neutral. Can you 
+think of other examples 
+where entrenched 
+prior knowledge 
+might hinder a fuller 
+understanding of new 
+knowledge? Are we 
+likely to misinterpret 
+experimental data when 
+it does not fit with our 
+expectations based on 
+prior knowledge?
+
+
+476
+REACTIVITY 3
+What are the mechanisms of chemical change?
+In other words, the pH of pure water is 7.00 only when the temperature is 298 K. 
+Note that at temperatures above and below this, despite changes in the pH value, 
+water is still a neutral substance as its H+(aq) concentration is equal to its OH–(aq) 
+concentration. It does not become acidic or basic as we heat it or cool it respectively!
+The temperature dependence of Kw means that the temperature should always be 
+stated alongside pH measurements.
+Exercise
+Q13. A sample of pure water is found to have a pH of 7.3. What can you deduce 
+about the temperature at which the measurement was made?
+Q14. An aqueous solution of baking soda, NaHCO3, has a concentration of 
+OH– ions of 7.8 × 10–6 mol dm–3 at 298 K. Determine its concentration of 
+hydrogen ions.
+Q15. At body temperature, 37 °C, the value of Kw is 2.4 × 10–14. Determine the 
+concentration of H+ ions and the pH of pure water at this temperature.
+Q16. An aqueous solution has a pH of 9 at 25 °C. What are its concentrations of 
+H+ and OH– ions?
+Q17.  For each of the following aqueous solutions at 298K, calculate [OH–] from 
+[H+] or [H+] from [OH–]. Classify each solution as acidic, basic, or neutral.
+(a) [H+] = 3.4 × 10–9 mol dm–3
+(b) [OH–] = 0.010 mol dm–3
+(c) [OH–] = 1.0 × 10–10 mol dm–3
+(d) [H+] = 8.6 × 10–5 mol dm–3
+Q18. A sample of blood has [H+] = 4.6 × 10–8 mol dm–3 at 298 K. Determine its 
+concentration of OH– ions and state whether the sample is acidic, basic or 
+neutral.
+Q19. For each of the following biological ﬂ uids, calculate the pH from the given 
+concentration of H+ or OH– ions at 298 K.
+(a) bile: [OH–] = 8 × 10–8 mol dm–3
+(b) gastric juice: [H+] = 10–2 mol dm–3
+(c) urine: [OH–] = 6 × 10–10 mol dm–3
+Reactivity 3.1.6 – Strong and weak acids and 
+bases
+Reactivity 3.1.6 – Strong and weak acids and bases differ in the extent of ionization.
+Recognize that acid–base equilibria lie in the direction of the weaker conjugate.
+HCl, HBr, HI, HNO3 and H2SO4
+are strong acids, and group 1 
+hydroxides are strong bases.
+The distinction between strong 
+and weak acids or bases and 
+concentrated and dilute reagents 
+should be covered.
+Reactivity 2.3 – How would you expect the equilibrium 
+constants of strong and weak acids to compare?
+Reactivity 1.1 – Why does the acid strength of the 
+hydrogen halides increase down group 17?
+Tool 1, Inquiry 2 – What physical and chemical 
+properties can be observed to distinguish between weak 
+and strong acids or bases of the same concentration?
+
+
+477
+REACTIVITY 3.1
+Proton transfer reactions
+The strength of an acid or base 
+depends on its extent of ionization
+Brønsted–Lowry acids and bases dissociate in solution. 
+Acids produce H+ ions and bases produce OH– ions. As 
+a result, their aqueous solutions exist as equilibrium 
+mixtures containing both the undissociated form and 
+the ions. As we will see, the position of this equilibrium 
+is what defines the strength of an acid or a base.
+Consider the acid dissociation reaction:
+HA(aq) + H2O(l) ⇌ A–(aq) + H3O+(aq)
+If this acid dissociates fully, its equilibrium lies to the 
+right and it will exist virtually entirely as ions in solution. 
+It is said to be a strong acid. For example:
+HCl(aq) + H2O(l) ⇌ H3O+(aq) + Cl–(aq)
+Hydrochloric acid, HCl, is a strong acid so it dissociates fully. This means that the 
+reverse reaction can be considered to be negligible and so the reaction is usually 
+written without the equilibrium sign.
+HCl(aq) + H2O(l) → H3O+(aq) + Cl–(aq)
+If, on the other hand, the acid dissociates only partially, its equilibrium lies to the left 
+and the undissociated form dominates. It is said to be a weak acid. For example:
+CH3COOH(aq) + H2O(l) ⇌ H3O+(aq) + CH3COO–(aq)
+Ethanoic acid, CH3COOH, is a weak acid so it dissociates only partially. Here it is 
+essential to use the equilibrium sign in its dissociation reaction.
+Strong acids are good proton donors. As their dissociation reactions go virtually to 
+completion, their conjugate bases are not readily able to accept a proton. For example, 
+the strong acid HCl reacts to form the conjugate base Cl– which shows virtually no 
+basic properties.
+HCl(aq)
+strong acid
++
+H2O(l)
+base
+→
+H3O+(aq)
+conjugate acid
++
+Cl–(aq)
+conjugate base
+Weak acids are poor proton donors. As their dissociation reactions are equilibria 
+which lie to the left, in favour of reactants, their conjugate bases are readily able to 
+accept a proton. For example, the weak acid CH3COOH reacts to form the conjugate 
+base CH3COO–, which is a stronger base than Cl−.
+CH3COOH(aq)
+weak acid
++
+H2O(l)
+base
+⇌
+H3O+(aq)
+conjugate acid
++
+CH3COO–(aq)
+conjugate base
+So acid dissociation reactions favour the production of the weaker conjugate.
+In a similar way, bases can be described as strong or weak on the basis of the extent of 
+their ionization. For example, NaOH is a strong base because it ionizes fully:
+NaOH(aq) → Na+(aq) + OH–(aq)
+Common household acids 
+and bases. From left to right: 
+Drano contains sodium 
+hydroxide, vitamin C is 
+ascorbic acid, muriatic acid 
+is hydrochloric acid, white 
+vinegar contains ethanoic 
+acid and Windex contains 
+ammonia. If these were 
+all present in the same 
+concentration, what would be 
+the increasing order of their 
+pH values? 
+Strong acids and 
+strong bases ionize 
+almost completely 
+in solution. Weak 
+acids and weak bases 
+ionize only partially 
+in solution.
+
+
+478
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Its dissociation is written without equilibrium signs. Note that it is the OH– ions that 
+show Brønsted–Lowry base behaviour by accepting protons.
+On the other hand, NH3 is a weak base as it ionizes only partially, so its equilibrium 
+lies to the left and the concentration of ions is low.
+NH3(aq) + H2O(l) ⇌ NH4+(aq) + OH–(aq)
+Strong bases are good proton acceptors; they react to form conjugates that do not 
+show acidic properties. Weak bases are poor proton acceptors; they react to form 
+conjugates with stronger acidic properties than the conjugates of strong bases. Base 
+ionization reactions favour the production of the weaker conjugate.
+The strength of an acid or base is therefore a measure of how readily it dissociates in 
+aqueous solution. This is an inherent property of a particular acid or base, dependent 
+on its bonding. Do not confuse acid or basic strength with its concentration, which is a 
+variable depending on the number of moles per unit volume, according to how much 
+solute has been added to the water. Note, for example, it is possible for an acid or base 
+to be strong but present in a dilute solution, or weak and present in a concentrated 
+solution.
+Weak acids and bases are much more common 
+than strong acids and bases
+It is useful to know which of the common acids and bases are strong and which are 
+weak. Fortunately this is quite easy as there are very few common examples of strong 
+acids and bases, so this short list can be committed to memory. You will then know 
+that any other acids and bases you come across are likely to be weak.
+Acid
+Base
+common 
+examples 
+of strong 
+forms
+HCl
+hydrochloric acid
+LiOH
+lithium hydroxide
+HBr
+hydrobromic acid
+NaOH
+sodium hydroxide
+HI
+hydroiodic acid
+KOH
+potassium hydroxide
+HNO3
+nitric acid
+H2SO4
+sulfuric acid
+some 
+examples of 
+weak forms
+CH3COOH and 
+other organic acids
+ethanoic acid
+NH3
+ammonia
+H2CO3
+carbonic acid
+C2H5NH2 and 
+other amines
+ethylamine
+H3PO4
+phosphoric acid
+Note that amines such as ethylamine, C2H5NH2, can be considered as organic 
+derivatives of NH3 in which one of the hydrogen atoms has been replaced by an 
+alkyl (hydrocarbon) group. There are literally hundreds of acids and bases in organic 
+chemistry, nearly all of which are weak in comparison with the strong inorganic acids 
+listed here. Amino acids, the building blocks of proteins, as their name implies, contain 
+both the basic –NH2 amino group and the –COOH carboxylic acid group. The ‘A’ in 
+DNA, deoxyribonucleic acid, the store of genetic material, stands for ‘acid’; in this case, 
+the acidic component is phosphate groups.
+In writing the ionization 
+reactions of weak acids 
+and bases, it is essential 
+to use the equilibrium 
+sign.
+Be careful not to 
+confuse two different 
+pairs of opposites:
+• strong and weak 
+acids or bases refer 
+to their extent of 
+dissociation
+• concentrated and 
+dilute refer to the 
+ratio of solute and 
+water in the solution.
+
+
+479
+REACTIVITY 3.1
+Proton transfer reactions
+Strong and weak acids differ in the extent of their dissociation, and therefore in their 
+equilibrium constants. At equilibrium, strong acids have a high concentration of 
+product, the ionized form, and therefore have large equilibrium constants. Weak acids, 
+with low concentration of product at equilibrium, will have much smaller equilibrium 
+constants.
+The strength of a Brønsted–Lowry acid depends on the ease with which it dissociates 
+to release H+ ions. In turn this depends on the strength of the bond that has to be 
+broken to release H+. If we consider the hydrogen halides, as the halogen atom 
+increases in size going down group 17, this increases the length of the H–halogen 
+bond. Longer bonds are weaker bonds that need less energy to break. So the acid 
+strength of the hydrogen halides increases down the group: HF < HCl < HBr < HI.
+Bond length /nm
+Bond strength /kJ mol-1
+increasing 
+acid
+strength
+HF
+0.02
+568.0 
+HCl
+0.127
+432.0
+HBr
+0.141
+366.3
+HI
+0.161
+298.3
+Distinguishing between strong and weak acids and 
+bases 
+Due to their greater ionization in solution, strong acids and strong bases will contain 
+a higher concentration of ions than weak acids and weak bases. This then can be used as 
+a means of distinguishing between them. Note though that such comparisons will 
+only be valid when solutions of the same concentration (mol dm–3) are compared 
+at the same temperature. We will consider here three properties that depend on the 
+concentration of ions and so can be used for this purpose.
+Electrical conductivity 
+Electrical conductivity of a solution depends on the concentration of mobile ions. 
+Strong acids and strong bases will therefore show higher conductivity than weak acids 
+and bases – as long as solutions of the same concentration are compared. This can be 
+measured using a conductivity meter or probe, or by using the conductivity setting on 
+a pH meter.
+Reactivity 2.3 – How 
+would you expect the 
+equilibrium constants of 
+strong and weak acids 
+to compare?
+Reactivity 1.1 – Why 
+does the acid strength 
+of the hydrogen halides 
+increase down group 17?
+Tool 1, Inquiry 2 – What 
+physical and chemical 
+properties can be 
+observed to help you 
+distinguish between 
+weak and strong acids 
+or bases of the same 
+concentration?
+Conductivity of 
+strong and weak 
+acid/bases. Full details 
+of how to carry out 
+this experiment with a 
+worksheet are available 
+in the eBook.
+
+
+480
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Rate of reaction 
+The reactions of acids with bases described on page 482 depend on the concentration 
+of H+ ions. They will therefore happen at an increased rate with stronger acids.
+These different rates of reactions may be an important consideration, for example, 
+regarding safety in the laboratory, but they usually do not provide an easy means of 
+quantifying data to distinguish between weak and strong acids.
+pH 
+Because it is a measure of the H+ concentration, the pH scale can be used directly to 
+compare the strengths of acids, proved they are of equal molar concentration. The 
+stronger the acid of a fixed concentration, the lower the pH value. Universal indicator 
+or a pH meter can be used to measure pH.
+Exercise
+Q20. Ammonia, NH3, acts as a weak Brønsted–Lowry base when dissolved in 
+water.
+Write an equation for this reaction and outline what is meant by the term 
+‘weak’ in the context of the equilibrium position of this reaction.
+Q21. Which of the following 1 mol dm–3 solutions will be the poorest conductor 
+of electricity?
+A 
+HCl
+B 
+CH3COOH
+C 
+NaOH
+D 
+NaCl
+Q22. Which methods will distinguish between equimolar solutions of a strong 
+base and a strong acid?
+I. 
+Add magnesium to each solution and look for the formation of gas 
+bubbles.
+II. Add aqueous sodium hydroxide to each solution and measure the 
+temperature change.
+III. Use each solution in a circuit with a battery and lamp and see how 
+brightly the lamp glows.
+A 
+I and II only
+B 
+I and III only
+C 
+II and II only
+D 
+I, II and III
+Q23. Which acid in each of the following pairs has the stronger conjugate base?
+(a) H2CO3 or H2SO4
+(b) HCl or HCOOH
+The different rates of 
+reaction between calcium 
+carbonate and three acids 
+of different strength at the 
+same concentration. The 
+strongest acid is on the left 
+and the weakest on the 
+right. The carbonate reacts 
+with each acid to produce 
+carbon dioxide gas, which 
+can be seen as bubbles in 
+the solution. The stronger 
+the acid, the more vigorous 
+the reaction – the left test 
+tube fizzes whilst the right 
+one bubbles very gently. 
+What variables must be kept 
+constant in order for this to 
+be a valid comparison of acid 
+strength?
+
+
+481
+REACTIVITY 3.1
+Proton transfer reactions
+Reactivity 3.1.7 – Neutralization reactions
+Reactivity 3.1.7 – Acids react with bases in neutralization reactions.
+Formulate equations for the reactions between acids and metal oxides, metal hydroxides, 
+hydrogencarbonates and carbonates. 
+Identify the parent acid and base of different 
+salts.
+Bases should include ammonia, amines, 
+soluble carbonates and hydrogencarbonates; 
+acids should include organic acids. 
+Tool 1, Structure 1.1 – How can the salts 
+formed in neutralization reactions be 
+separated?
+Reactivity 1.1 – Neutralization reactions are 
+exothermic. How can this be explained in 
+terms of bond enthalpies?
+Reactivity 3.2 – How could we classify the 
+reaction that occurs when hydrogen gas is 
+released from the reaction between an acid 
+and a metal? 
+Neutralization reactions occur when acids and 
+bases react together
+Nature of Science
+Classification leading to generalizations is an important aspect of studies 
+in science. Historically, groups of substances such as acids were classified 
+together because they were shown to have similar chemical properties. Over 
+time it was recognized that many substances share these acidic properties, 
+and so the classification broadened. Similarly, grouping of compounds as 
+bases and alkalis occurred on the basis of experimental evidence for their 
+properties.
+Brønsted–Lowry acids release H+ ions, and soluble bases, alkalis, release OH– ions. 
+The reaction between H+ ions and OH– ions to form H2O is known as a neutralization
+reaction.
+H+(aq) + OH–(aq) → H2O(l)
+During the reaction, an ionic compound called a salt also forms, as the hydrogen of 
+the acid is replaced by a metal ion or another positive ion.
+For example, sodium chloride, NaCl, known as common salt, is derived from the acid 
+HCl by reaction with a base that contains Na, such as NaOH. The terms parent acid
+and parent base are sometimes used to describe this relationship between an acid, a 
+base, and their salt.
+parent base
+NaOH
+parent acid
+HCl
+H2O
+NaCl
+salt
+To what extent do the 
+classification systems 
+we use in the pursuit of 
+knowledge affect the 
+conclusions that we 
+reach?
+In acid–base theory, the 
+words ionization and 
+dissociation are often 
+used interchangeably 
+as acid dissociation 
+always leads to ion 
+formation.
+
+
+482
+REACTIVITY 3
+What are the mechanisms of chemical change?
+When acids react with reactive metals, they also form salts as the hydrogen in the 
+acid is replaced by the metal. But in these reactions, there is no transfer of a proton, 
+H+, as the hydrogen is released as the gas, H2. Here the hydrogen ions are becoming 
+electrically neutral by accepting electrons while the metal is being ionized by electron 
+loss. For example, in the reaction between magnesium metal and hydrochloric acid:
+Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)
+Mg(s) → Mg2+ (aq) + 2e– electron loss = oxidation
+2H+(aq) + 2e– → H2(g)
+electron gain = reduction
+These reactions are therefore redox reactions, and cannot be described by Brønsted–
+Lowry acid–base theory.
+acid + base → salt + water
+Metal oxides and metal hydroxides are bases which react with acids to produce a salt 
+and water.
+For example:
+HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+2CH3COOH(aq) + CuO(s) → Cu(CH3COO)2(aq) + H2O(l)
+2HBr(aq) + Mg(OH)2(aq) → 2H2O(l) + MgBr2(aq)
+Ammonia solution, NH4OH, is also a soluble base which reacts with acids to form a 
+salt and water.
+HNO3(aq) + NH4OH(aq) → NH4NO3(aq) + H2O(l)
+Reactivity 3.2 – How 
+could we classify the 
+reaction that occurs 
+when hydrogen gas 
+is released from the 
+reaction between an 
+acid and a metal?
+Coloured scanning electron 
+micrograph (SEM) of the 
+end of the abdomen of a 
+bee, showing the needle-like 
+stinger. The stinger is used to 
+inject venom. Bee stings are 
+slightly acidic, and so have 
+traditionally been treated by 
+using a mild alkali such as 
+baking soda (NaHCO3). Wasp 
+stings, on the other hand, 
+are claimed to be alkaline, 
+and so are often treated 
+with the weak acid, ethanoic 
+acid (CH3COOH), found in 
+vinegar. There is, however, 
+dispute over these claims 
+as the pH of wasp stings is 
+actually very close to neutral.
+
+
+483
+REACTIVITY 3.1
+Proton transfer reactions
+When you need to choose a base in solution to make a specific salt, it is useful to know some 
+simple solubility rules.
+• The only soluble carbonates and hydrogencarbonates are NH4CO3, Na2CO3, NaHCO3, 
+K2CO3, KHCO3, and Ca(HCO3)2.
+• The only soluble hydroxides are NH4OH, LiOH, NaOH, and KOH.
+acid + carbonate → salt + water + carbon dioxide 
+Metal carbonates and hydrogencarbonates react with acids to produce a salt, water and 
+carbon dioxide.
+For example:
+2HCl(aq) + CaCO3(s) → CaCl2(aq) + H2O(l) + CO2(g)
+H2SO4(aq) + Na2CO3(aq) → Na2SO4(aq) + H2O(l) + CO2(g)
+CH3COOH(aq) + KHCO3(aq) → KCH3COO(aq) + H2O(l) + CO2(g)
+These reactions can also be represented as ionic equations:
+2H+(aq) + CO32–(aq) → H2O(l) + CO2(g)
+H+(aq) + HCO3–(aq) → H2O(l) + CO2(g)
+The reactions involve a gas being given off, so they visibly produce bubbles, known as 
+effervescence.
+Rainwater dissolves some CO2 from the air to form a weak solution of carbonic acid, H2CO3.
+H2O(l) + CO2(g) ⇌ H2CO3(aq)
+Greater pressure, found underground in beds of limestone rock, CaCO3, causes CO2 to 
+dissolve more readily, increasing the acidity of the solution. This then reacts with the CaCO3:
+H2CO3(aq) + CaCO3(s) ⇌ Ca(HCO3)2(aq)
+CaCO3 is virtually insoluble but calcium hydrogencarbonate, Ca(HCO3)2, is soluble and 
+washes away, causing caves to form in limestone regions. Inside the cave where the pressure 
+is lower, the reaction above is reversed as less CO2 dissolves, so CaCO3 comes out of solution 
+and precipitates. This causes the formations known as stalactites and stalagmites.
+Kitchen chemistry. Baking 
+soda (NaHCO3) and vinegar 
+(CH3COOH) react together 
+in a powerful acid–base 
+reaction, releasing carbon 
+dioxide gas.
+NaHCO3(s) + CH3COOH(aq) 
+→ NaCH3COO(aq) + CO2(g) 
++ H2O(l) 
+Stalactites hanging from the 
+roof of a limestone cave in 
+Kangaroo Island, Australia. 
+Stalactites are formed from 
+CaCO3 precipitating out 
+of solution, as the water 
+dripping from the cave 
+dissolves less CO2 and loses 
+acidity.
+Neutralization 
+reactions occur when 
+an acid and base 
+react together to 
+form a salt and water. 
+They are exothermic 
+reactions.
+
+
+484
+REACTIVITY 3
+What are the mechanisms of chemical change?
+The effect of acid rain eroding marble structures on a building in New York, USA, is shown on the right. 
+The image on the left shows the structure after restoration to its original state. 
+Neutralization reactions generally form aqueous solutions of salts. The pure salt can be 
+separated by filtration followed by evaporation, as described in Structure 1.1.
+In a neutralization reaction between an acid and a base, the net reaction is the 
+formation of H2O from its ions. (The other ions are called spectator ions as they do 
+not change during the reaction and so can be cancelled out.)
+H+(aq) + OH–(aq) → H2O(l)
+For every mole of H2O that forms, 2 moles of O–H bonds are made. As bond-making 
+is an exothermic process, the overall reaction is also exothermic, releasing energy. 
+For reactions between all strong acids and strong bases, the enthalpy of neutralization, 
+expressed per mole of H2O formed, is very similar – approximately ∆H = –57 kJ mol–1, 
+reflecting the fact that the overall reaction is the same in all cases, the formation of 
+water.
+Challenge yourself
+5. Why do neutralization reactions involving weak acids or weak bases give 
+different values for their enthalpy of neutralization compared with strong acids 
+and bases?
+Neutralization reactions can be useful to help reduce the effect of an acid or a base. For 
+example, treatment for acid indigestion often involves using ‘antacids’ which contain a 
+mixture of weak bases such as magnesium hydroxide and aluminium hydroxide. In places 
+where the soil has become too acidic, the growth of many plants will be restricted. Adding a 
+weak alkali such as lime, CaO, can help to reduce the acidity and hence increase the fertility 
+of the soil.
+Reactions of rainwater 
+on CaCO3 rock give 
+rise to ‘hard water’, that 
+is water containing 
+elevated levels of Ca2+
+ions, in limestone areas.
+When rainwater 
+dissolves acidic 
+gases from industrial 
+emissions in the 
+atmosphere, its pH is 
+lowered further and it 
+is known as ‘acid rain’. 
+This causes widespread 
+damage including the 
+erosion of carbonates 
+such as marble 
+structures. 
+Tool 1, Structure 1.1 
+– How can the salts 
+formed in neutralization 
+reactions be separated?
+Indigestion tablets 
+effervescing as they dissolve 
+in a glass of water to release 
+CO2. These antacids neutralize 
+acids in the digestive system, 
+which helps to reduce pain 
+and inflammation. 
+Reactivity 1.1 – 
+Neutralization reactions 
+are exothermic. How 
+can this be explained 
+in terms of bond 
+enthalpies?
+
+
+485
+REACTIVITY 3.1
+Proton transfer reactions
+Exercise
+Q24. Write equations for the following reactions:
+(a) sulfuric acid and copper oxide
+(b) nitric acid and sodium hydrogencarbonate
+(c) phosphoric acid and potassium hydroxide
+(d) hydrochloric acid and methylamine
+Q25. Which of the following is/are formed when a metal oxide reacts with a dilute 
+acid?
+I. 
+a metal salt
+II. water
+III. carbon dioxide gas
+A 
+I only 
+ 
+B 
+I and II only 
+ 
+C 
+II and III only 
+ 
+D 
+I, II and III
+Q26. Suggest by name a parent acid and parent base that could be used to make 
+the following salts. Write equations for each reaction.
+(a) sodium nitrate
+(b) ammonium chloride
+(c) copper sulfate
+(d) potassium methanoate
+Reactivity 3.1.8 – pH curves
+Reactivity 3.1.8 – pH curves for neutralization reactions involving strong acids and 
+bases have characteristic shapes and features.
+Sketch and interpret the general shape of the pH curve. 
+Interpretation should include the intercept 
+with the pH axis and equivalence point.
+Only monoprotic neutralization reactions 
+will be assessed. 
+Structure 1.4 – Why is the equivalence point 
+sometimes referred to as the stoichiometric 
+point?
+Tools 1 and 3, Structure 1.3 – How 
+can titration be used to calculate the 
+concentration of an acid or base in solution? 
+In the following section, we will study the pH curves of the reactions between strong 
+acids and strong bases. The reactions between different combinations of strong and 
+weak acids and bases are described on pages 481–484. To make comparisons of the 
+curves easier, these examples all use:
+• 0.10 mol dm–3 solutions of all acids and bases
+• an initial volume of 50.0 cm3 of acid in the conical flask with base added from 
+the burette
+• monoprotic acids and bases which all react in a 1:1 ratio, so that equivalence is 
+achieved at equal volumes for these equimolar solutions (i.e. when 50.0 cm3 of 
+base has been added to the 50.0 cm3 of acid).
+
+
+486
+REACTIVITY 3
+What are the mechanisms of chemical change?
+pH curves can be generated from acid–base titrations
+The neutralization reactions between acids and bases described previously can be 
+investigated quantitatively using a technique called acid–base titration. Titration is 
+one of the most widely used procedures in chemistry (Figure 1). Quality control of 
+food and drink production, health and safety checks in the cosmetic industry, and 
+clinical analysis in medical services are just some examples of its use. Controlled 
+volumes of one reactant are added gradually from a burette to a fixed volume of 
+the other reactant that has been carefully measured using a pipette and placed in 
+a conical flask. The reaction between acid and base takes place in the flask until 
+the equivalence point or stoichiometric point is reached, where they exactly 
+neutralize each other. A pH meter or an indicator is used to detect the exact point at 
+which equivalence is reached.
+neutralization reaction
+happens here
+pipette
+ﬁxed volume
+of alkali measured
+and placed in ﬂask
+burette
+records volume
+of acid added
+white tile
+conical ﬂask
+When a base is added to an acid in the neutralization reaction, there is a change 
+in pH as we would expect. But this change does not show a linear relationship 
+with the volume of base added, partly due to the logarithmic nature of the pH 
+scale. The easiest way to follow the reaction is to record pH using a pH meter or 
+data-logging device as a function of volume of base added and plot these values 
+as pH curves.
+You will find that in most titrations, a big jump in pH occurs at equivalence, 
+and this is known as the point of inflection. The equivalence point is 
+determined as being half way up this jump.
+The equivalence point in a titration can also be determined using an acid–
+base indicator, which is chosen to change colour at the pH of the equivalence 
+point. 
+R3.1 Figure 1 Simple 
+titration apparatus. 
+A pH meter recording change 
+in pH during a titration. 
+The conical flask contains 
+sodium hydroxide solution, 
+NaOH(aq), and the burette 
+contains hydrochloric acid, 
+HCl, known as the titrant. 
+The change in pH with 
+volume of titrant added is 
+used to generate a pH curve. 
+
+
+487
+REACTIVITY 3.1
+Proton transfer reactions
+At the equivalence point, the acid and base have exactly neutralized each other, so the 
+solution contains salt and water only. The reacting ratio of acid to base to reach this 
+point is determined by the stoichiometry of the neutralization reaction. For example:
+HCl(aq) + NaOH(aq) → NaCl (aq) + H2O(l)
+Equivalence point when 1 mole acid : 1 mole base
+2HCl(aq) + Ba(OH)2 (aq) → BaCl2(aq) + H2O(l)
+Equivalence point when 2 moles acid : 1 mole base
+pH curve of strong acid and strong base
+For example:
+HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+pH at equivalence = 7
+The calculations in the table on the next page are a sample to show the reasons for the 
+shape of the pH curve. In this example, we assume full dissociation because these are 
+strong acids and bases. Note also that as the base is added to the acid, neutralization 
+of some of the acid occurs, while excess acid remains – until equivalence where the 
+amounts of acid and base have fully reacted. After equivalence, the mixture contains 
+excess base. As the volume changes during the addition, this must be taken into 
+account in determining the concentrations.
+As the volume of base added increases, we can see how the resulting pH changes.
+Addition of base from the 
+burette to an acid in the 
+conical flask containing 
+indicator. As the neutralization 
+reaction happens, the change 
+in the pH of the reaction 
+mixture causes a change in 
+the colour of the indicator. 
+Dropwise addition of the 
+base ensures that an accurate 
+measure of the equivalence 
+point can be made.
+Structure 1.4 – Why is 
+the equivalence point 
+sometimes referred to 
+as the stoichiometric 
+point?
+Titration can be 
+used to determine 
+the concentration of 
+one solution (acid 
+or base), when the 
+concentration of the 
+other solution in the 
+neutralization reaction 
+is accurately known.
+Tools 1 and 3, Structure 
+1.3 – How can titration 
+be used to calculate the 
+concentration of an acid 
+or a base in solution?
+Acid–base titrations 
+using a pH sensor 
+– identifying the 
+equivalence point. Full 
+details of how to carry 
+out this experiment 
+with a worksheet are 
+available in the eBook.
+
+
+488
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Volume of base added 
+0.00 cm3
+(ﬂ ask contains acid 
+only)
+25.00 cm3
+49.00 cm3
+50.00 cm3
+(contents of ﬂ ask at 
+equivalence)
+51.00 cm3
+(ﬂ ask contains excess 
+base)
+(ﬂ ask contains excess acid)
+[acid]initial = 
+0.10 mol dm−3
+[H+] = 1 × 10−1 mol dm−3
+pH = 1.0 
+n(acid initial) = c V 
+= 0.10 × 0.050 
+= 0.0050 mol
+n(base added) = c V
+= 0.10 × 0.0250 
+= 0.00250 mol
+n(acid remaining) 
+= 0.0050 − 0.00250 
+= 0.00250 mol
+n(H+) = 0.00250 mol
+new volume 
+= 0.0750 dm3
+so [H+] 
+= 0.0333 mol dm−3
+pH = 1.5
+n(acid initial) 
+= 0.0050 mol
+n(base added) 
+= c V = 0.10 × 0.0490 
+= 0.00490 mol
+n(acid remaining) 
+= 0.0050 − 0.00490 
+= 0.00010 mol
+n(H+) = 0.00010 mol
+new volume = 
+0.0990 dm3
+so [H+] 
+= 0.00101 mol dm−3
+pH = 3.0  
+All of the acid has 
+been neutralized by 
+the base; the solution 
+contains NaCl + H2O 
+only
+pH = 7.0
+n(base added) = c V
+= 0.10 × 0.0510
+= 0.00510 mol
+n(base remaining)
+= 0.00510 − 0.0050
+= 0.00010 mol
+n(OH−) = 0.00010 mol
+new volume = 
+0.101 dm3
+so [OH−] 
+= 0.00099 mol dm−3
+so [H+] = 10−11
+pH = 11.0
+The curve obtained by continuous measurement with a pH probe shows the pH curve
+of these pH changes over the full range of addition of base (Figure 2).
+pH
+25
+equivalence 
+point pH 7
+0
+50
+75
+volume of 0.10 mol dm23 NaOH / cm3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+4
+5
+3
+2
+1
+The following points can be deduced from the graph as marked:
+1  initial pH = 1, pH of strong acid
+2  pH changes only gradually until equivalence
+3  very sharp jump in pH at equivalence: from pH 3 to pH 11
+4  after equivalence, the curve ﬂ attens out at a high value, pH of strong base
+5
+pH at equivalence = 7.
+Most burettes have 0.1 cm3 as the smallest division, so on this analogue scale you should 
+record all readings to one half of this, that is ±0.05 cm3. 
+R3.1 Figure 2 pH curve for 
+strong acid–strong base.
+One drop of solution 
+delivered from a 
+burette has a volume of 
+about 0.05 cm3.
+
+
+489
+REACTIVITY 3.1
+Proton transfer reactions
+Exercise
+Q27. What is the pH of the solution formed when a strong acid is exactly 
+neutralized by a strong base? What is the name of this point in a titration?
+Q28. Give the equation for the neutralization reaction that occurs during the 
+titration of aqueous dilute nitric acid with potassium hydroxide solution. 
+If the acid is placed in the conical ﬂ ask and has a concentration of 0.01 mol dm–3, 
+what will be the intercept with the pH axis at the start of the titration?
+Q29. In a titration, the equivalence point is reached when 10.00 cm3 of 
+0.01 mol dm–3 NaOH has been added to 12.00 cm3 of HCl.
+What is the concentration of the acid?
+What happens when protons are transferred?
+Guiding Question revisited
+In this chapter we have seen:
+• A proton is [H+].
+• Brønsted–Lowry acids are proton donors and Brønsted–Lowry bases are 
+proton acceptors.
+• A conjugate acid–base pair differs by a single proton.
+• Amphiprotic species can act as both Brønsted–Lowry acids and bases.
+• The pH scale is the negative base 10 logarithm of [H+].
+• The ion product constant of water, Kw, is temperature dependent. 
+It shows the inverse relationship between [H+] and [OH–].
+• Strong acids and bases are fully ionized in solution, weak acids and bases are 
+only partially ionized.
+• Acids and bases react together in neutralization reactions to form salts. 
+The overall reaction is H+(aq) + OH–(aq) → H2O(l) which is exothermic.
+• The equivalence point in a titration is where the acid and base have exactly 
+neutralized each other in a stoichiometric ratio.
+• pH curves show the change in pH as an acid and base react together in titration. 
+• Neutralization involving a strong acid and a strong base gives a characteristic 
+pH curve. The pH at the equivalence point is 7.
+Practice questions
+1. Which is a conjugate Brønsted–Lowry acid–base pair?
+CH3COOH(aq) + H2O(l) → CH3COO–(aq) + H3O+(aq)
+A 
+CH3COO– / H3O+
+B 
+H2O / CH3COO–
+C 
+H2O / H3O+
+D 
+CH3COOH / H2O
+2. All of the following would be described as typical of an acid except:
+A 
+Produces bubbles when it reacts with calcium carbonate
+B 
+Conducts electricity
+C 
+Releases heat when it reacts with sodium hydroxide
+D 
+Has a soapy feel
+pH curves can equally 
+well be described in 
+terms of the addition 
+of an acid to a base, in 
+which case the curves 
+will be the inverse.
+volume of acid added
+pH
+Be sure to check which 
+way round the data are 
+given when answering 
+questions on this topic.
+
+
+490
+REACTIVITY 3
+What are the mechanisms of chemical change?
+3. What is the conjugate base of HSO3– ?
+A 
+H2SO3
+B SO32–
+C 
+H2O 
+D
+H2SO3–
+4. Which of the following can be described as amphiprotic?
+A 
+OH–
+B NH4+
+C 
+BeCl2
+D SO42–
+5. When equal concentrations of a strong and a weak acid are compared, 
+which of the following measurements will be the same?
+I. 
+The volume of base used to neutralize the acid
+II. The electrical conductivity
+III. The rate of the reaction with calcium carbonate
+A 
+I only 
+B I and II only
+C 
+I, II, and III 
+D None of I, II or III
+6. CH3OH is a very weak BrØnsted–Lowry acid. What is true of the ion CH3O– ?
+A 
+It is a good proton donor.
+B 
+It will be present in high concentration in CH3OH at equilibrium.
+C 
+It is a strong BrØnsted–Lowry base.
+D 
+It is a stronger BrØnsted–Lowry acid than CH3OH.
+7. Two acids, X and Y, both of concentration 0.20 mol dm–3 have pH values of 2 
+and 4 respectively. Which of the following statements is true?
+A 
+X is a stronger acid than Y.
+B 
+Y is more dilute than X.
+C 
+X contains more undissociated molecules than Y.
+D 
+Y contains a higher concentration of H+ ions than X.
+8. Which of the following statements is the deﬁ ning property of a 
+BrØnsted–Lowry base?
+A 
+donates protons 
+B produces OH– ions
+C 
+conducts electricity 
+D accepts H+ ions
+9. In the reaction CH3OH + NH2– ⇌ CH3O– + NH3 the two Brønsted-Lowry 
+acids are:
+A 
+NH2– and CH3OH 
+B NH2– and CH3O–
+C 
+CH3O– and NH3
+D CH3OH and NH3
+10. Which of the following are conjugate acid-base pairs?
+I. 
+HNO3 / NO3–
+II. H2O / OH–
+III. H2 / H+
+A 
+I only 
+B I and II
+C 
+I and III 
+D I, II and III 
+
+
+491
+REACTIVITY 3.1
+Proton transfer reactions
+11. Which of these reduces the production of acid rain?
+I. 
+removing SO2 from power station emissions
+II. neutralizing acidiﬁ ed lakes with lime
+III. switching to renewable energy sources
+A 
+I and II 
+B I and III
+C 
+II and III 
+D I, II and III
+12. The pH scale can be used to distinguish between different acids and bases in 
+the laboratory.
+(a) You are provided with ﬁ ve unlabelled bottles which are known to contain 
+0.10 mol dm–3 solutions of each of the following:
+HCOOH(aq), KCl(aq), HNO3(aq), NaOH(aq), NH3(aq)
+(i) Describe two ways in which you could measure the pH of the 
+solutions. 
+(2)
+(ii) Suggest expected pH values for each solution. 
+(3)
+(b) (i) In the laboratory, some solid sodium hydrogencarbonate was added 
+to an aqueous solution of hydrochloric acid. Formulate an equation 
+for this reaction including state symbols, and predict what you would 
+expect to observe during the reaction. 
+(5)
+(ii) The hydrogencarbonate can be described as amphiprotic.
+ Explain this statement with reference to the BrØnsted–Lowry 
+theory of acids and bases. 
+(4)
+(c) Conductivity can be used to distinguish between strong and weak acids of 
+the same concentration. Justify the claim that the use of a conductivity meter 
+is a more scientiﬁ cally acceptable approach than the use of an indicator. 
+(2)
+(Total 16 marks)
+13. (a) Deﬁ ne the terms acid and base according to the Brønsted–Lowry theory. 
+Distinguish between a weak base and a strong base. State one example of 
+a weak base. 
+(3)
+(b) Weak acids in the environment may cause damage. Identify a weak acid 
+in the environment and outline one of its effects. 
+(2)
+(Total 5 marks)
+14.  Water is an important substance that is abundant on the Earth’s surface.
+(a) State the expression for the ionic product constant of water, Kw. 
+(1)
+(b) Explain why even a very acidic aqueous solution still has some OH– ions 
+present in it. 
+(1)
+(c) State and explain the effect of increasing temperature on the value of Kw
+given that the ionization of water is an endothermic process. 
+(3)
+(d) State and explain the effect of increasing temperature on the pH 
+of water. 
+(2)
+(Total 7 marks)
+
+
+Electron transfer reactions
+3.2
+REACTIVITY
+
+

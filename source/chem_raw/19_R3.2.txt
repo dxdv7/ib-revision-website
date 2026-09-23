@@ -1,0 +1,3532 @@
+493
+REACTIVITY 3.2
+Electron transfer reactions
+Oxygen makes up only about 20% by volume of the air, yet it is the essential 
+component for many reactions. Without it, fuels would not burn, iron would 
+not rust, and we would be unable to obtain energy from our food molecules 
+through respiration. Indeed, animal life on the planet did not evolve until a certain 
+concentration of oxygen had built up in the atmosphere over 600 million years 
+ago. The term oxidation has been in use for a long time to describe these and other 
+reactions where oxygen is involved in chemical change. Closer inspection of these 
+reactions shows that species generally lose electrons when they react with oxygen 
+and so the term oxidation has been broadened to include any reaction which involves 
+the loss of electrons. Oxidation, though, can only be half of the story, as the electrons 
+which are lost cannot disappear. They must be taken away by another species which 
+we say is reduced. The transfer of electrons from one species to another is the basis for 
+all redox reactions.
+If a redox reaction is set up such that the electron transfer between the reactants can 
+only occur through an external circuit, the electrons produce an electric current. 
+A simple voltaic cell or battery works in this way and converts chemical energy 
+to electrical energy. This energy change can be reversed if electrical energy is used 
+to drive electrons to force redox reactions to take place against their spontaneous 
+flow. This process of electrolysis can be used to break down stable compounds 
+into their elements. These applications of redox reactions are collectively known as 
+electrochemical cells.
+Redox reactions have truly revolutionized our world. They form the basis of great 
+industries, such as steel-making and aluminium extraction, and it would be hard to 
+imagine life without the many battery-powered mobile devices we use every day. An 
+understanding of oxidation and reduction is therefore at the heart of the study of a 
+large branch of chemistry both in the laboratory and beyond.
+Reactivity 3.2.1 – Redox reactions
+Reactivity 3.2.1 – Oxidation and reduction can be described in terms of electron 
+transfer, change in oxidation state, oxygen gain/loss or hydrogen loss/gain.
+Deduce oxidation states of an atom in a compound or an ion.
+Identify the oxidized and reduced species and the oxidizing and reducing agents in a chemical 
+reaction.
+Include examples to illustrate the variable 
+oxidation states of transition element ions 
+and of most main group non-metals.
+Include the use of oxidation numbers in the 
+naming of compounds.
+Structure 3.1 – What are the advantages and 
+limitations of using oxidation states to track 
+redox changes?
+Structure 2.3 – The surface oxidation of 
+metals is often known as corrosion. What are 
+some of the consequences of this process?
+A nickel–cadmium battery. This battery can be recharged by reversing a spontaneous reaction of 
+electron transfer. 
+What happens when electrons are transferred? 
+Guiding Question
+
+
+494
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Different deﬁ nitions of oxidation and reduction
+Oxidation is the loss of electrons
+Oxygen is the most reactive gas in air and an essential component of many reactions. 
+The term oxidation has been in use for a long time to describe reactions where oxygen 
+is involved in chemical change. For example, magnesium metal combines with oxygen 
+to form magnesium oxide which, as discussed in Structure 2.1, is an ionic solid 
+consisting of Mg2+ ions and O2− ions. The energy released in the reaction is emitted as 
+light and heat. 
+2Mg(s) + O2(g) → 2MgO(s)
+In this oxidation reaction each magnesium atom has lost two electrons and formed a 
+doubly charged Mg2+ ion. Magnesium undergoes the same electron loss when it reacts 
+with other non-metals such as chlorine:
+Mg(s) + Cl2(g) → MgCl2(s)
+The product, magnesium chloride, consists of Mg2+ ions and Cl− ions. Each magnesium 
+atom has again lost two electrons to become an Mg2+ ion. Although no oxygen is 
+involved in the second reaction the magnesium has changed in the same way. This 
+suggests that the meaning of the term oxidation can be extended to any reactions 
+which involve the loss of electrons.
+Reduction is the gain of electrons
+Reduction traditionally referred to the extraction of a metal from its ore: the ore 
+was reduced to the metal. Copper oxide can be reduced to copper by heating it with 
+a more reactive metal.
+Mg(s) + CuO(g) → MgO(s) + Cu(s)
+Magnesium ribbon burning in 
+air. The magnesium metal is 
+oxidized to form magnesium 
+oxide (MgO).
+Magnesium reacting 
+with chlorine.
+Flames resulting from a 
+reaction between magnesium 
+metal and copper oxide. The 
+more reactive magnesium 
+reacts with the copper oxide 
+to form magnesium oxide 
+and copper metal.
+
+
+495
+REACTIVITY 3.2
+Electron transfer reactions
+The magnesium has again been oxidized and lost electrons. The copper ions have been 
+reduced and gained electrons to form Cu atoms. This suggests that reduction involves 
+the gain of electrons. Electrons have been transferred from the Mg to the Cu2+ ions. 
+More generally we can see that in all electron transfer reactions one species will lose 
+electrons and another species will gain them. Oxidation and reduction must both 
+occur together, so these reactions are also redox reactions. 
+Oxidation is hydrogen loss and reduction is hydrogen gain
+Hydrogen sulfide solution can react with oxygen to give different products.
+H2S(aq) + 2O2(g) → H2SO4(aq)
+2H2S(aq) + O2(g) → 2S(s) + H2O(l)
+It seems reasonable to say that the hydrogen sulfide has been oxidized in both cases, 
+although it has lost hydrogen rather than gained oxygen in the second reaction. As the 
+hydrogen is often removed to form water from compounds containing hydrogen, the 
+term oxidation can also be applied to the removal of hydrogen.
+Conversely, reduction refers to the addition of hydrogen. For example, chlorine is 
+reduced when it reacts with hydrogen: 
+H2(g) + Cl2(g) → 2HCl(g)
+Oxidation is an increase in the oxidation state and reduction is 
+a decrease in the oxidation state
+In reactions involving ions it is easy to identify which elements have been oxidized and 
+which reduced. In the earlier example, magnesium was oxidized as it changed from 
+atoms to ions with a positive charge, and copper ions were reduced as their charge was 
+decreased from 2+ to 0. This suggests that oxidation involves an increase in charge and 
+reduction involves a decrease in charge.
+But for some reactions, such as the reaction between hydrogen and chlorine, it is 
+quite difficult to identify electron loss as the reactions do not involve ions. This 
+is the idea behind the oxidation state introduced in Structure 3.1. The oxidation 
+state is the charge an atom would have if the compound were composed of ions. 
+Considering again the reaction between chlorine and hydrogen, both elements have 
+an oxidation state of 0 as the bonds in H2 and Cl2 are both non-polar. The product 
+HCl, by contrast, is polar, with the H possessing a partial positive charge and the 
+chlorine a partial negative charge.
+H0−H0 + Cl0−Cl0 → 2Hd+−Cld−
+Given the partial charges of the molecule, we assign H an oxidation state of +1 and 
+chlorine an oxidation state of −1.
+Chlorine is reduced as its oxidation state has decreased. Hydrogen has been oxidized 
+as its oxidation state has increased. It is now recognized that oxidation and reduction 
+occur during chemical change whenever there is a shift in electron density from one 
+atom to another. Oxidation states are a very sensitive measure of electron distribution 
+and so are an efficient tool to analyze all redox reactions.
+Oxidation is the 
+loss of electrons. 
+Reduction is the gain 
+of electrons.
+It may help you to 
+remember OILRIG: 
+Oxidation Is Loss (of 
+electrons), Reduction Is 
+Gain (of electrons). 
+Oxidation is the 
+removal of hydrogen. 
+Reduction is 
+the addition 
+of hydrogen.
+
+
+496
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Returning to the second reaction between hydrogen sulfide and oxygen:
++O0
+O0
+2S0 +
+Sδ–
+Oδ–
+2
+Hδ+
+Hδ+
+Hδ+
+Hδ+
+Given the partial charges of the hydrogen sulfide and water molecule, we assign H an 
+oxidation state of +1 and sulfur and oxygen an oxidation state of −2.
+Sulfur is oxidized as its oxidation state has increased and oxygen is reduced as its 
+oxidation state has increased. 
+H2S + O2 → S + H2O
+ 
++1 
+0 
+0 + 1 
+oxidation state
+ 
+−2 
+−2
+Oxidation and reduction are summarized below.
+Oxidation is:
+• the addition of oxygen
+• the removal of hydrogen
+• electron loss
+• an increase in oxidation state
+Reduction is:
+• the removal of oxygen
+• the addition of hydrogen
+• electron gain
+• a decrease in oxidation state
+Nature of Science
+The concepts of oxidation and reduction have evolved as they have been 
+extended from their original meaning. A large number of what were thought 
+to be diverse chemical reactions are now understood to be similar. This 
+unification of diverse experience is a common feature of science and leads to a 
+deeper understanding of nature.
+Oxidation states enable us to analyze redox reactions
+We have seen that the oxidation state of an atom in a compound is a measure of the 
+electron possession it has relative to the atom in the pure element. Oxidation states 
+allow us to keep track of the relative electron density of atoms in different compounds 
+and how these change during a reaction.
+So far in this chapter we have assigned oxidation states of elements in a compound as 
+the charges an atom would have if the compound was ionic. We saw in Structure 3.1 
+that these charges could be formalized into a set of rules.
+Worked example 
+Assign oxidation states to the metal ion in (a) [Cu(NH3)6]2+ and (b) [Cr(NH3)4Cl2]+.
+Solution
+(a) NH3 is a neutral ligand, so the charge on the complex is the same as the charge 
+on the metal ion: 
+∴ Cu = +2
+(b) Cl has a 1− charge 
+∴ Cr + (2 × −1) = +1 
+∴ Cr = +3
+Note that the charge 
+on an ion X is written 
+with the number first 
+then the charge (as a 
+superscript): e.g. X2+. 
+The oxidation state is 
+written with the charge 
+first then the number: 
+e.g. +2. 
+Oxidation occurs 
+when there is an 
+increase in the 
+oxidation state of an 
+element. Reduction 
+occurs when there 
+is a decrease in 
+the oxidation state 
+of an element. 
+Do we justify our 
+knowledge of oxidation 
+states and ionic charges 
+in the same way?
+
+
+497
+REACTIVITY 3.2
+Electron transfer reactions
+We can use these rules to deduce if an electron transfer has occurred during a reaction 
+and to identify which species has been oxidized and which species has been reduced. 
+Worked example 
+Use oxidation states to deduce which species is oxidized and which is reduced in 
+the following reactions:
+(a) Ca(s) + Sn2+(aq) → Ca2+(aq) + Sn(s) 
+(b) 4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(l) 
+(c) 2MnO4−(aq) + 6H+(aq) + 5SO32−(aq) → 2Mn2+(aq) + 3H2O(l) + 5SO42−(aq) 
+(d) 4Fe(s) + 3O2(g) + 6H2O(l) → 4Fe(OH)3(s) 
+(e) Cl2(g) + H2O(l) → HCl(aq) + HOCl(aq) 
+Solution
+Assign oxidation states to the elements in the reactants and products:
+(a)
+Ca(s) + Sn2+(aq) → Ca2+(aq) + Sn(s) 
+Oxidation 
+states 
+0 
++2 
++2 
+0
+Ca is oxidized because its oxidation state increases from 0 to +2; Sn2+ is reduced 
+because its oxidation state decreases from +2 to 0.
+(b)
+4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(l) 
+Oxidation 
+states 
+ +1(H) 
+0 
+−2(O) 
++1(H)
+ −3(N) 
+ 
++2(N) 
+−2(O)
+NH3 is oxidized because the oxidation state of N increases from −3 to +2; O2 is 
+reduced because the oxidation state of O decreases from 0 to −2.
+(c)
+2MnO4−(aq) + 6H+(aq) + 5SO32−(aq) → 2Mn2+(aq) + 3H2O(l) + 5SO42−(aq) 
+Oxidation 
+states 
+ −2(O) 
++1(H) 
+−2(O) 
++2(Mn) 
++1(H) 
++6(S)
+ +7(Mn) 
+ 
++4(S) 
+ 
+−2(O) 
+−2(O)
+MnO4−(aq) is reduced because the oxidation state of Mn decreases from +7 to +2; 
+SO32−(aq) is oxidized because the oxidation state of S increases from +4 to +6.
+(d)
+4Fe(s) + 3O2(g) + 6H2O(l) → 4Fe(OH)3(s) 
+Oxidation 
+states 
+ 
+0 
+0 
++1(H) 
++3(Fe) +1(H)
+ 
+ 
+ 
+−2(O) 
+−2(O)
+Fe(s) is oxidized because the oxidation state of Fe increases from 0 to +3; O2(g) is 
+reduced because the oxidation state of O decreases from 0 to −2.
+(e)
+Cl2 (g) + H2O(l) → HCl(aq) + HOCl(aq) 
+Oxidation 
+states 
+ 0 
++1(H) 
++1(H) 
++1(H) +1(Cl)
+  
+−2(O) 
+−1(Cl) 
+−2(O)
+Cl2 is oxidized because the oxidation state of one Cl increases from 0 to +1; but it is 
+also reduced because the oxidation state of the other Cl increases from 0 to −1.
+A redox reaction is 
+a chemical reaction 
+where changes in 
+the oxidation states 
+occur.
+Are oxidation states 
+‘real’ or are they artificial 
+constructs invented by 
+the chemist? 
+A disproportionation 
+reaction occurs when 
+the oxidation state 
+of the same element 
+both increases and 
+decreases.
+
+
+498
+REACTIVITY 3
+What are the mechanisms of chemical change?
+The limitations of the oxidation concept
+We have seen that oxidation states allow us to analyze redox reactions by identifying 
+which atoms are involved in the electron transfer. Oxidation states do, however, 
+have some limitations as, unlike ionic charge, they have little structural or physical 
+significance. The oxidation number of carbon in carbon dioxide is +4 but the carbon is 
+a covalently bonded atom. It should also be noted that the oxidation states calculated 
+in molecules with more than one atom of an element is an average value and can be a 
+non-integer.
+Worked example 
+Assign oxidation states to carbon in C3H8 and comment on your answer.
+Solution
+We assign H = +1
+Therefore, 8 × (+1) + 3 C = 0 ∴ C = − 8_
+3 = −2 2_
+3 
+This is a fractional value because it is an average for three non-equivalent 
+carbon atoms.
+H
+C
+H
+H
+H
+H
+C
+H
+H
+C
+H
+We can divide the molecule into three regions, each with a zero charge.
+For the carbon atoms in the red regions C + 3(+1) = 0 ∴ C = −3
+For the carbon atom in the blue region C + 2(+1) = 0 ∴ C = −2
+The average oxidation state =  
+(2(−3) + −2)
+__________
+3 
+ = −2 2_
+3 as expected.
+Structure 3.1 – What 
+are the advantages and 
+limitations of using 
+oxidation states to track 
+redox changes?
+Corrosion, or rust, on a 
+painted cast iron figure. 
+Rust forms when iron 
+spontaneously oxidizes by 
+water and the oxygen of 
+the air, forming iron oxide. 
+Rust flakes off the surface 
+of the iron, causing it to be 
+degraded and weakened. 
+Several studies over the past 
+30 years have shown that 
+the annual direct cost of 
+corrosion to an industrial 
+economy is approximately 
+3.1% of Gross National 
+Product (GNP).
+Structure 2.3 – The 
+surface oxidation 
+of metals is often 
+known as corrosion. 
+What are some of the 
+consequences of 
+this process?
+
+
+499
+REACTIVITY 3.2
+Electron transfer reactions
+Challenge yourself
+1. Assign oxidation states to the overall reactants and products of photosynthesis 
+to show that it is a redox reaction. The reactants are CO2 and H2O. The products 
+are C6H12O6, and O2.
+Oxidizing and reducing agents
+We have seen that redox reactions always involve the simultaneous oxidation of one 
+reactant with the reduction of another as electrons are transferred between them. The 
+reactant that accepts electrons is called the oxidizing agent because it brings about 
+oxidation of the other reactant. In the process, it becomes reduced. Likewise, the 
+reactant that supplies the electrons is known as the reducing agent because it brings 
+about reduction and so is oxidized.
+For example, in the reaction where iron (Fe) is extracted from its ore (Fe2O3):
+oxidizing  
+reducing
+agent 
+agent
+Fe2O3(s) 
++ 
+3C(s) 
+→ 
+2Fe(s) 
++ 
+3CO(g)
+ 
++3 
+0 
+0 
++2
+(The oxidation state of O is not shown as it does not change during the reaction.)
+The reducing agent C brings about the reduction of Fe (+3 →0), while C itself is 
+oxidized to CO (0 →+2). The oxidizing agent Fe2O3 brings about the oxidation of C 
+while itself being reduced to Fe. 
+Worked example 
+When an acidic solution of potassium dichromate(VI), K2Cr2O7(aq), is mixed 
+with iron(II) chloride, FeCl2(aq), Fe3+(aq) and Cr3+(aq) are produced. Identify the 
+oxidizing and reducing agents.
+Solution
+Oxidation of Fe: +2 →+3 so FeCl2(aq) is oxidized. It is the reducing agent.
+Reduction of Cr: +6 →+3 so K2Cr2O7(aq) is reduced. It is the oxidizing agent.
+Some examples of useful oxidizing and reducing agents are given below:
+• oxidizing agent: O2, O3, H+/MnO4−, H+/Cr2O72−, F2, Cl2, conc. HNO3, H2O2
+• reducing agent: H2, C, CO, SO2, reactive metals
+In a redox equation 
+the substance that 
+is reduced is the 
+oxidizing agent, 
+the substance that 
+is oxidized is the 
+reducing agent.
+
+
+500
+REACTIVITY 3
+What are the mechanisms of chemical change?
+• Note that some substances can act as an oxidizing agent in some reactions and 
+as a reducing agent in others. Water, for example, can act as an oxidizing agent 
+and be reduced to hydrogen with sodium, or act as a reducing agent and be 
+oxidized to oxygen with fluorine.
+• H2O acting as an oxidizing agent:
+2H2O(l) + 2Na(s) → 2NaOH(aq) + H2(g) 
++1 
+0
+• H2O acting as a reducing agent:
+2H2O(l) + 2F2(g) → 4HF(aq) + O2(g) 
+−2 
+0
+The ability of water to act as both an oxidizing and reducing agent makes it a useful 
+solvent for many redox reactions.
+Challenge yourself
+2. Hydrogen peroxide, H2O2, can act as an oxidizing agent and as a reducing agent. 
+With reference to the oxidation states of its atoms, suggest why this is so and 
+which behaviour is more likely.
+Systematic names of compounds use oxidation 
+numbers 
+The use of oxidation numbers in the IUPAC nomenclature for naming compounds 
+unambiguously is discussed in Structure 3.1. A Roman numeral, corresponding to the 
+oxidation state, is inserted in brackets after the name of the relevant element.
+The table shows some common examples. 
+Formula of compound
+Oxidation state 
+Name using oxidation number
+FeO
+Fe +2
+iron(II) oxide 
+Fe2O3
+Fe +3
+iron(III) oxide 
+Cu2O
+Cu +1
+copper(I) oxide
+CuO
+Cu +2
+copper(II) oxide
+MnO2
+Mn +4
+manganese(IV) oxide
+MnO4−
+Mn +7
+manganate(VII) ion
+K2Cr2O7
+Cr +6
+potassium dichromate(VI)
+Oxidation states 
+are shown with a 
+‘+’ or ‘−’ sign and 
+an Arabic numeral, 
+e.g. +2.
+Oxidation numbers 
+are shown by 
+inserting a Roman 
+numeral in brackets 
+after the name 
+or symbol of the 
+element.
+
+
+501
+REACTIVITY 3.2
+Electron transfer reactions
+Worked example 
+Deduce the name of the following compounds using oxidation numbers.
+(a) PbO2
+(b) Cr(OH)3
+(c) KMnO4
+Solution
+1. First deduce the oxidation state:
+(a) PbO2
+O = −2
+Pb = +4
+(b) Cr(OH)3
+OH = −1
+Cr = +3
+(c) KMnO4
+K = +1 and O = −2
+Mn = +7
+2. The corresponding Roman numeral is inserted after the name of the element. 
+There is no space between the name and the number, and the number is placed 
+in brackets.
+(a) PbO2
+lead(IV) oxide
+(b) Cr(OH)3
+chromium(III) 
+hydroxide 
+(c) KMnO4
+potassium 
+manganate(VII)
+The IUPAC system aims to help chemists communicate more easily in all languages by 
+introducing systematic names for compounds. However, its success in achieving this will be 
+determined by how readily it is adopted. What do you think might prevent chemists using 
+exclusively the ‘new names’? 
+Q1. Which equation represents a redox reaction?
+A NaOH(aq) + HNO3(aq) → NaNO3(aq) + H2O(l) 
+B
+Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g) 
+C
+CuO(s) + 2HCl(aq) → CuCl2(aq) + H2O(l) 
+D MgCO3(s) + 2HNO3(aq) → Mg(NO3)2(aq) + H2O(l) + CO2(g) 
+Q2. The oxidation state of iron is the same in all the following compounds 
+except which one?
+A 
+FeCl3
+B
+Fe2O3
+C 
+FeCO3
+D 
+Fe2(SO4)3
+Q3. Identify the correct descriptions of the redox reaction between 
+manganese(IV) oxide and the chloride ions:
+MnO2(s) + 2Cl−(aq) + 4H+(aq) → Mn2+(aq) + Cl2(g) + 2H2O(l)
+I. 
+H+ is the reducing agent
+II. MnO2 undergoes reduction
+III. Cl−(aq) is the reducing agent
+A 
+I and II only 
+B 
+I and III only
+C 
+II and III only 
+D 
+I, II and III
+Exercise
+
+
+502
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Q4. Assign oxidation states to all elements in the following compounds.
+(a) CH4
+(b) CuSO4
+(c) C2H4
+(d) CO
+(e) K2Cr2O7
+(f) K2CrO4
+(g) H2O2
+(h) C4H10
+Q5. Use oxidation states to deduce which species is oxidized and which is reduced 
+in the following reactions.
+(a) Sn2+(aq) + 2Fe3+(aq) → Sn4+(aq) + 2Fe2+(aq) 
+(b) 2FeCl2(aq) + Cl2(aq) → 2FeCl3(aq) 
+(c) 2H+(aq) + S2O32−(aq) → S(s) + SO2(g) + H2O(l) 
+(d) 2H2O2(aq) → 2H2O(l) + O2(g) 
+(e) I2(aq) + SO32−(aq) + H2O(l) → 2I−(aq) + SO42−(aq) + 2H+(aq) 
+Q6. The combustion of ethanol is a redox reaction.
+C2H5OH(g) + 3O2(g) → 2CO2(g) + 3H2O(l) 
+(a) Assign oxidation states to carbon in C2H5OH and comment on 
+your answer.
+(b) Discuss the application of the different deﬁ nitions of oxidation and 
+reduction in analyzing the reaction.
+Q7. Identify the oxidizing agents and the reducing agents in the 
+following reactions.
+(a) H2(g) + Cl2(g) → 2HCl(g) 
+(b) 2Al(s) + 3PbCl2(s) → 2AlCl3(s) + 3Pb(s) 
+(c) Cl2(aq) + 2KI(aq) → 2KCl(aq) + I2(aq) 
+(d) CH4(g) + 2O2(g) → CO2(g) + 2H2O(l) 
+Reactivity 3.2.2 – Half-equations
+Reactivity 3.2.2 – Half-equations separate the processes of oxidation and reduction, 
+showing the loss or gain of electrons.
+Deduce redox half-equations and equations in acidic or neutral solutions.
+Tool 1, Inquiry 2 – Why are some redox 
+titrations described as ‘self-indicating’?
+Writing half-equations for redox equations
+Although oxidation and reduction always occur together, it can be useful to separate 
+out the two processes in a redox equation and write separate equations for the 
+oxidation and reduction processes. These half-equations emphasize the electron 
+transfers that occur during the reaction. Electrons are included in both half-equations 
+to balance the charges.
+
+
+503
+REACTIVITY 3.2
+Electron transfer reactions
+Worked example 
+Deduce the two half-equations for the following reaction:
+Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s) 
+Solution
+Assign oxidation states so you can see what is being oxidized and what is reduced.
+Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s) 
+0 
++2 
++2 
+0
+The Zn is oxidized and Cu2+ is reduced.
+We write separate equations for oxidation and reduction, adding electrons to 
+balance the charges.
+oxidation: 
+Zn(s) → Zn2+(aq) + 2e−
+electrons are lost by Zn(s)
+reduction: 
+Cu2+(aq) + 2e−→ Cu(s) 
+electrons are gained Cu2+(aq)
+Note there are equal numbers of electrons in the two half-equations, so that when 
+they are added together the electrons cancel out.
+Sometimes we may know the species involved in a redox reaction, but not the 
+overall equation. We can work this out by making sure it is balanced for both atoms 
+and charges. A good way to do this is to write half-equations for the oxidation and 
+reduction processes separately and then add these two together to give the overall 
+reaction. Many of these reactions take place in acidified solutions and we therefore use 
+H2O and/or H+ ions to balance the half-equations. The process is best broken down 
+into a series of steps, as shown in the example below.
+Worked example 
+Deduce an equation for the reaction in which NO3− and Cu react together in acidic 
+solution to produce NO and Cu2+.
+Solution
+1. Write an unbalanced equation with the given reactants and products and 
+assign oxidation states to determine which elements are being oxidized and 
+which are being reduced:
+NO3−(aq) + Cu(s) → NO(g) + Cu2+(aq) 
+ 
++5 −2 
+0 
++2 −2 
++2
+In this example Cu is oxidized (0 →+2) and N is reduced (+5 →+2).
+2. Write separate half-equations for oxidation and reduction including the 
+electrons needed to account for the changes in oxidation state. Balance the 
+atoms other than H and O. In this example the Cu and N are already balanced.
+oxidation: 
+Cu(s) → Cu2+(aq) + 2e−  
+Cu: 0 → +2, 2 electrons produced
+reduction: 
+NO3−(aq) + 3e−→ NO(g)  
+N: +5 → +2, 3 electrons added
+
+
+504
+REACTIVITY 3
+What are the mechanisms of chemical change?
+3. Balance each half-equation for O by adding H2O as needed.
+In this example the reduction equation needs two more O atoms on the right-
+hand side. These are added as water molecules:
+reduction: 
+NO3−(aq) + 3e−→ NO(g) + 2H2O(l) 
+4. Balance each half-equation for H by adding H+ as needed.
+Here the reduction equation needs four H atoms on the left-hand side:
+reduction: 
+NO3−(aq) + 4H+(aq) + 3e−→ NO(g) + 2H2O(l) 
+5. Check that each half-equation is balanced for atoms and for charge.
+6. Equalize the number of electrons in the two half-equations by ﬁ nding a 
+common factor and multiplying each appropriately.
+ 
+Here the common factor is 6. The equation for oxidation must be multiplied 
+by 3, and the equation for reduction by 2. This gives six electrons in both 
+equations:
+oxidation: 
+3Cu(s) → 3Cu2+(aq) + 6e−
+reduction: 
+2NO3−(aq) + 8H+(aq) + 6e−→ 2NO(g) + 4H2O(l) 
+7. Add the two half-equations together, cancelling out anything that is the same 
+on both sides, which includes the electrons.
+3Cu(s) + 2NO3−(aq) + 8H+(aq) → 3Cu2+(aq) + 2NO(g) + 4H2O(l) 
+Note the ﬁ nal equation is balanced for atoms and charge and has no electrons.
+Summary of steps in writing redox equations.
+1. Assign oxidation states to determine which elements are oxidized and which 
+are reduced.
+2. Write separate half-equations for oxidation and reduction. Balance the atoms 
+other than H and O and add electrons to account for the changes in oxidation 
+states.
+3. Balance each half-equation for O by adding H2O as needed.
+4. Balance each half-equation for H by adding H+ as needed.
+5. Check that each half-equation is balanced for atoms and for charge.
+6. Equalize the number of electrons in the two half-equations by multiplying 
+each appropriately.
+7. Add the two half-equations together, cancelling out anything that is the same 
+on both sides.
+Challenge yourself
+3. Reactions in which the same element is simultaneously oxidized and reduced 
+are known as disproportionation reactions. Deduce the equation for the 
+reaction when I2(aq) reacts with KOH(aq) to produce KI, KIO3, and H2O, and 
+show that this is a disproportionation reaction. 
+Redox titrations are used to determine the unknown 
+concentrations in redox reactions
+As discussed in Structure 1.3, titrations are used to determine the unknown 
+concentration of a substance in solution. In redox titrations the technique is based 
+on a redox reaction between the two reactants and finds the equivalence point where 
+
+
+505
+REACTIVITY 3.2
+Electron transfer reactions
+they have reacted stoichiometrically by transferring electrons. Redox titrations are 
+carried out in much the same way as acid–base titrations, using a burette and pipette 
+to measure volumes accurately, and a standard solution of one reactant. An indicator 
+is often used to signal the equivalence point, although some redox changes are 
+accompanied by a colour change and may not need an external indicator. From the 
+volume of the solution added from the burette to reach equivalence, which is known as 
+the titre, the concentration of the other reactant can be determined. The calculations 
+are based on the equation for the redox reaction, which can be deduced from the 
+half-equations. 
+Examples of redox titrations
+Iodine–thiosulfate reaction 
+Several different redox titrations use an oxidizing agent to convert excess iodide 
+ions to iodine.
+2I−(aq) + oxidizing agent → I2(aq) + other products 
+Examples of oxidizing agents used in this way include KMnO4(aq), KIO3(aq), 
+K2Cr2O7(aq), and NaOCl(aq).
+The liberated iodine, I2(aq), is then titrated with sodium thiosulfate, Na2S2O3(aq).
+Redox equations:
+oxidation: 
+2S2O32−(aq) → S4O62−(aq) + 2e− 
+reduction: 
+I2(aq) + 2e−→ 2I−(aq) 
+Adding the half-reactions:
+2S2O32−(aq) + I2(aq) → 2I−(aq) + S4O62−(aq) 
+deep blue in
+presence of starch
+Starch can be added as an indicator just before the equivalence point is reached. It forms 
+a deep blue colour by forming a complex with free I2. As the I2 is reduced to I− during the 
+reaction, the blue colour disappears, making the equivalence point very distinct.
+At the start of an iodine titration the solution is brown in colour. A standard sodium thiosulfate solution 
+of known concentration is added to the iodine solution until it becomes a pale yellow. A few drops of 
+starch solution are added to turn it a very dark blue to sharpen the visibility of the end point. The end 
+point occurs when the last trace of blue disappears and the final solution is colourless. 
+‘Iodine solution’ is 
+made by dissolving I2
+in a solution of iodide 
+ions. A complex ion, 
+I3−(aq), is formed which 
+is more soluble in 
+water than iodine, I2, 
+which has a very low 
+solubility.
+It is valid to use I2 in 
+equations, as the I−(aq) 
+ions are spectator ions.
+
+
+506
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Worked example 
+Household bleach is an oxidizing agent that contains sodium hypochlorite, NaOCl(aq), 
+as the active ingredient. It reacts with iodide ions in acidic solution as follows:
+OCl−(aq) + 2I−(aq) + 2H+(aq) → I2(aq) + Cl−(aq) + H2O(l) 
+A 10.00 cm3 sample of bleach was reacted with a solution of excess iodide ions, 
+and the liberated iodine was then titrated with Na2S2O3. The titration required 
+38.65 cm3 of 0.0200 mol dm−3 Na2S2O3(aq). Determine the concentration of 
+OCl−(aq) in the bleach.
+Solution
+First we need the balanced equation for the titration, which can be solved by the 
+half-equation method above.
+Next we calculate the number of moles of Na2S2O3 as we know both its concentration 
+and its volume.
+n = cV
+n(S2O32−) = 0.0200 mol dm−3 ×  38.65
+_____
+1000   dm3 = 7.73 × 10−4 mol S2O32−
+From the equation on the previous page we know the reacting ratio S2O32− : I2 = 2 : 1
+∴n(I2) = 7.73 × 10−4 × 0.5 = 3.865 × 10−4 mol
+This is a back-titration as the I2 was liberated by the reaction of I− with OCl−, as 
+given in the question. The reacting ratio is OCl−(aq) : I2(aq) = 1 : 1
+∴n(OCl−) = n(I2) = 3.865 × 10−4 mol
+The concentration of the OCl− in the bleach can now be calculated.
+n(OCl−) = cV
+∴ 3.865 × 10−4 mol = c ×  10
+_____
+1000 dm3
+[OCl−] = 0.0387 mol dm−3
+Analysis of iron with manganate(VII) 
+This redox titration uses KMnO4 in an acidic solution to oxidize Fe2+ ions to Fe3+. 
+During the reaction MnO4− is reduced to Mn2+. This is accompanied by a colour change 
+from deep purple to colourless, so the reaction mixture acts as its own indicator, and 
+the equivalence point is determined.
+Redox equations:
+oxidation: 
+Fe2+(aq) → Fe3+(aq) + e−
+reduction: 
+MnO4−(aq) + 8H+(aq) + 5e−→ Mn2+(aq) + 4H2O(l)
+So the overall equation is
+5Fe2+(aq) + MnO4−(aq) + 8H+(aq) → 5Fe3+(aq) + Mn2+(aq) + 4H2O(l) 
+Determination of 
+the level of rust in a 
+rusted nail. Full details 
+of how to carry out 
+this experiment with a 
+worksheet are available 
+in the eBook.
+
+
+507
+REACTIVITY 3.2
+Electron transfer reactions
+Worked example 
+All the iron in a 2.000 g tablet was dissolved in an acidic solution. The resulting 
+solution of Fe2+(aq) ions was then titrated with KMnO4. The titration required 
+27.50 cm3 of 0.100 mol dm−3 KMnO4(aq). Calculate the percentage by mass of iron 
+in the tablet. Describe what would be observed during the reaction and how the 
+equivalence point can be detected.
+Solution
+The balanced equation for the reaction can be deduced by the half-equation 
+method above.
+The O and H are balanced by adding H2O as a product and H+(aq) as a reactant.
+5Fe2+(aq) + MnO4−(aq) + 8H+(aq) → 5Fe3+(aq) + Mn2+(aq) + 4H2O(l) 
+Next we need to know the amounts of reactants used to reach equivalence. We start 
+with KMnO4(aq) as we know both its concentration and its volume.
+n = cV
+n(MnO4−) = 0.100 mol dm−3 ×  27.50
+_____
+1000  dm3 = 0.00275 mol MnO4−
+From the equation for the reaction, we know the reacting ratio:
+MnO4− : Fe2+ = 1 : 5
+∴n(Fe2+) = n(MnO4−) × 5 = 0.00275 mol × 5 = 0.01375 mol
+M(Fe) = 55.85 g mol−1
+n =  m
+__
+M 
+∴m(Fe) = n × M = 0.01375 mol × 55.85 g mol−1 = 0.7679 g
+% Fe in tablet =  
+0.768 g
+______
+2.000 g × 100 = 38.39%
+MnO4− in the burette is purple, but a nearly colourless solution in the ﬂ ask is 
+formed as it reacts to form Mn2+. When the reducing agent Fe2+ in the ﬂ ask has 
+been used up at equivalence, MnO4− ions will not react when added after the 
+equivalence point, and the purple colour persists. 
+Redox titrations can 
+be used to analyze 
+many household 
+chemicals such as 
+food and drinks. 
+Wines, for example, 
+can be analyzed for 
+the presence of sulfur 
+dioxide, and foods for 
+vitamin C.
+The browning of fruit when 
+it is exposed to the air is an 
+oxidation reaction. It occurs 
+when phenols released in 
+damaged cells are oxidized 
+with molecular oxygen at 
+alkaline pH. The brown 
+products are tannins.  
+In titration calculations, 
+always look first for 
+the reactant where 
+you know both its 
+reacting volume and
+its concentration. 
+Start by using this 
+data to calculate the 
+number of moles. Then 
+use the reacting ratio in 
+the equation to deduce 
+the moles of the 
+other reactant. 
+Tool 1, Inquiry 2 – 
+Why are some redox 
+titrations described as 
+‘self-indicating’? 
+
+
+508
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Q8. 
+Consider the following unbalanced equation:
+MnO4−(aq) + SO32−(aq) + H+(aq) →Mn2+(aq) + SO42−(aq) + H2O(l) 
+Deduce the amount of MnO4− which reacts with 1 mol of SO32− ions.
+A 
+0.40 mol 
+B 
+3 mol 
+C 
+1.50 mol 
+D 
+7 moles
+Q9. 
+Consider the following unbalanced equation:
+MnO4−(aq) + H2O2(aq) + H+(aq) → Mn2+(aq) + H2O(l) + O2(g) 
+Deduce the amount of H2O2(aq) which reacts with 1 mol of MnO4−(aq).
+A 
+0.40 mol    
+B 
+1.25 mol 
+C 
+2.50 mol 
+D 
+5 moles
+Q10. Deduce the half-equations of oxidation and reduction for the 
+following reactions.
+(a) Ca(s) + 2H+(aq) → Ca2+(aq) + H2(g) 
+(b) 2Fe2+(aq) + Cl2(aq) → 2Fe3+(aq) + 2Cl−(aq) 
+(c) Sn2+(aq) + 2Fe3+(aq) → Sn4+(aq) + Fe2+(aq) 
+(d) Cl2(aq) + 2Br−(aq) → 2Cl−(aq) + Br2(aq) 
+Q11. Write balanced equations for the following reactions that occur in 
+acidic solutions.
+(a) I−(aq) + HSO4−(aq) → I2(aq) + SO2(g) 
+(b) I2(aq) + OCl−(aq) → IO3−(aq) + Cl−(aq) 
+(c) MnO4−(aq) + H2SO3(aq) → SO42−(aq) + Mn2+(aq) 
+Q12. A bag of ‘road salt’, used to melt ice and snow from roads, contains a 
+mixture of calcium chloride, CaCl2, and sodium chloride, NaCl. A 2.765 g 
+sample of the mixture was analyzed by ﬁ rst converting all the calcium into 
+calcium oxalate, CaC2O4. This was then dissolved in H2SO4 and titrated 
+with 0.100 mol dm−3 KMnO4 solution. The titration required 24.65 cm3 of 
+KMnO4(aq) and produced Mn2+(aq), CO2(g), and H2O(l).
+(a) What would be observed at the equivalence point of the titration?
+(b) Write the half-equation for the oxidation reaction, starting with C2O42−.
+(c) Write the half-equation for the reduction reaction, starting with MnO4−.
+(d) Write the overall equation for the redox reaction.
+(e) Determine the number of moles of C2O42−.
+(f) Deduce the number of moles of Ca2+ in the original sample.
+(g) What was the percentage by mass of CaCl2 in the road salt?
+Q13. Alcohol levels in blood can be determined by a redox titration with 
+potassium dichromate, K2Cr2O7, according to the following equation:
+C2H5OH(aq) + 2Cr2O72−(aq) + 16H+(aq) → 2CO2(g) + 4Cr3+(aq) + 11H2O(l)
+(a) Determine the alcohol percentage in the blood by mass if a 10.000 g 
+sample of blood requires 9.25 cm3 of 0.0550 mol dm−3 K2Cr2O7 solution 
+to reach equivalence.
+(b) Describe the change in colour that would be observed during the titration.
+Exercise
+
+
+509
+REACTIVITY 3.2
+Electron transfer reactions
+Reactivity 3.2.3 – Trends in ease of oxidation and 
+reduction of elements
+Reactivity 3.2.3 – The relative ease of oxidation and reduction of an element in a 
+group can be predicted from its position in the periodic table.
+The reactions between metals and aqueous metal ions demonstrate the relative ease of 
+oxidation of different metals.
+Predict the relative ease of oxidation of metals.
+Predict the relative ease of reduction of halogens.
+Interpret data regarding metal and metal ion reactions. 
+The relative reactivity of metals observed in 
+metal/metal ion displacement reactions does 
+not need to be learned; appropriate data will 
+be supplied in examination questions.
+Structure 3.1 – Why does metal reactivity 
+increase, and non-metal reactivity decrease, 
+down the main groups of the periodic table?
+Tool 1, Inquiry 2 – What observations can be 
+made when metals are mixed with aqueous 
+metal ions and solutions of halogens are 
+mixed with aqueous halide ions?
+More reactive non-metals are stronger 
+oxidizing agents
+Some oxidizing and reducing agents are stronger than others, depending on their 
+relative tendencies to lose or gain electrons. We saw in Structure 3.1 that the halogens 
+(group 17 elements) react by gaining electrons and forming negative ions, so act as 
+oxidizing agents by removing electrons from other substances. We also learned that 
+this tendency to gain electrons decreases down the group. 
+This gives the following trend:
+F2
+strongest oxidizing agent, most readily becomes reduced
+weakest oxidizing agent, least readily becomes reduced
+Cl2
+Br2
+I2
+For example, adding a more reactive halogen to a solution containing the ions of a less 
+reactive halogen (known as halide ions) leads to a reaction. For example:
+Cl2(aq) + 2KI(aq) → 2KCl(aq) + I2(aq) 
+Species which do not change during a reaction, like K+(aq) here, are called spectator 
+ions and can be cancelled out in the equation. This gives the ionic equation:
+Cl2(aq) + 2I−(aq) → 2Cl−(aq) + I2(aq) 
+As discussed in Structure 3.1, a reaction occurs because Cl atoms attract electrons more 
+strongly than I atoms do due to the smaller atomic radius of Cl. You can think of it as a 
+competition for electrons where the stronger oxidizing agent, in this case chlorine, ‘wins’. 
+Chlorine gas bubbling 
+through a clear solution of 
+potassium iodide KI(aq). The 
+solution turns brown due to 
+the formation of iodine in 
+solution, as chlorine oxidizes 
+the iodide ions and forms 
+chloride ions.
+
+
+510
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Adding a less reactive halogen to the ions of a more reactive halogen results in no 
+reaction.
+I2(aq) + 2CI−(aq) → no reaction
+As non-metals generally react by gaining electrons this pattern can be summarized: 
+more reactive non-metals are stronger oxidizing agents than less reactive non-metals.
+More reactive metals are stronger reducing agents 
+The different strengths of metals as reducing agents can be compared in a similar 
+way. We saw in Structure 2.3 that metals have a tendency to lose electrons and form 
+positive ions. They act as reducing agents – they give their electrons to another 
+substance. More reactive metals lose their electrons more readily and are stronger 
+reducing agents than less reactive metals. We saw in Structure 3.1 that the reactivity 
+of the group 1 metals increases down the group, so potassium is a stronger 
+reducing agent than sodium. More generally we can compare the reactivity of the 
+metals in displacements similar to those discussed earlier between the halogens and 
+the halide ions. 
+If we add zinc metal, for example, to an aqueous solution of copper sulfate, we see 
+a reaction (Figure 1). The blue colour of the solution fades, the pink/brown colour 
+of the copper metal appears, and there is a rise in temperature. The Cu2+(aq)ions 
+are displaced from solution as they are reduced by the more reactive Zn(s), which 
+simultaneously dissolves as it is oxidized to Zn2+(aq).
+Zn(s) + CuSO4(aq) → ZnSO4(aq) + Cu(s)
+R3.2 Figure 1 The reaction of zinc with copper(II) sulfate solution.
+Zn atoms
+1
+1
+1
+1
+1
+1
+1
+Cu atoms
+Cu21ions
+Zn21ions
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+SO422
+1
+1
+1
+1
+1
+1
+1
+Again we can write this as an ionic equation. The sulfate ions are not included because 
+they act as spectator ions and are not changed during the reaction.
+Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s)
+More reactive metals are stronger reducing agents than less reactive metals. 
+A more reactive metal is able to reduce the ions of a less reactive metal.
+More reactive 
+non-metals oxidize 
+the ions of a less 
+reactive non-metal. 
+Structure 3.1 – Why 
+does metal reactivity 
+increase, and non-metal 
+reactivity decrease, 
+down the main groups 
+of the periodic table? 
+A strip of zinc metal half 
+submerged in a solution of 
+CuSO4(aq). Solid copper that 
+appears as a pink/brown 
+solid is precipitated and the 
+blue colour of the solution 
+fades as the copper ions are 
+reduced by the zinc. 
+Zinc is a stronger reducing 
+agent than copper.
+
+
+511
+REACTIVITY 3.2
+Electron transfer reactions
+Zinc is acting as the reducing agent – it is therefore the more reactive metal. We 
+can think of it as having the reducing strength to ‘force’ copper ions to accept the 
+electrons. This can be confirmed by trying the reaction the other way round by 
+adding copper metal to a solution of zinc ions. There is no reaction because copper 
+is not a strong enough reducing agent to force electrons to reduce Zn2+(aq) ions. 
+This is another way of saying that Cu(s) is a less reactive metal, less able to push the 
+electrons onto Zn2+(aq).
+By repeating displacement reactions like these between different combinations 
+of metals and their ions, we can build up a list of relative strengths of the metals 
+as reducing agents. This is called the activity series and it enables us to predict 
+whether a particular redox reaction between a metal and the ions of another metal 
+will be feasible. Later in this chapter we will learn how to quantify these differences 
+in metal reactivity, which is of great importance in many industrial processes. For 
+example, the extraction of a metal from its ore often involves choosing a suitable 
+reducing agent by reference to this data.
+Here is a small part of the activity series of metals: 
+Mg
+Al
+Zn
+Fe
+Pb
+Cu
+Ag
+strongest reducing agent, most readily becomes oxidized
+weakest reducing agent, least readily becomes oxidized
+The thermite reaction between powdered aluminum and iron oxide to produce aluminum oxide and 
+iron. Aluminum is a stronger reducing agent than iron.
+The activity series is 
+not something that 
+needs to be learned. 
+The key point is 
+that you are able to 
+interpret it to deduce 
+the order of reactivity 
+from given data. 
+
+
+512
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Worked example 
+Refer to the activity series given on the previous page to predict whether the 
+following reactions will occur:
+(a) ZnCl2(aq) + 2Ag(s) → 2AgCl(s) + Zn(s) 
+(b) 2FeCl3(aq) + 3Mg(s) → 3MgCl2(aq) + 2Fe(s) 
+Solution
+(a) This reaction would involve Ag(s) reducing Zn2+(aq) in ZnCl2(aq). Ag(s) is a 
+weaker reducing agent than Zn, so this will not occur.
+(b) This reaction involves Mg(s) reducing Fe3+(aq) in FeCl3(aq). Mg(s) is a stronger 
+reducing agent than Fe, so this will occur. 
+We can investigate how some non-metals such as carbon and hydrogen would fit into 
+this activity series of metals by similar types of displacement reactions. Carbon is able 
+to reduce the oxides of iron and metals below it in the series, which provides one of 
+the most effective means for the extraction of these metals. The position of hydrogen 
+relative to the metals is discussed on page 514. 
+Challenge yourself
+4. Carbon can be used as the reducing agent in the extraction of iron and zinc. 
+Lead salts are produced when lead is added to dilute acids. Suggest where you 
+place the non-metals carbon and hydrogen in the activity series on page 511.
+Q14.  Use the activity series on the previous page to predict what happens when 
+zinc powder is added to an aqueous solution of sodium chloride.
+A 
+Cl2(g) is produced 
+B 
+Na(s) is produced
+C 
+ZnCl2(aq) is produced 
+D 
+No reaction
+Q15. Consider the following reactions of three unidentiﬁ ed metals P, Q and R.
+1. PCl2(aq) + 2Q(s) → P(s) + 2QCl(aq) 
+2. RCl2(aq) + 2Q(s) → R(s) + 2QCl(aq) 
+3. RCl2(aq) + 2P(s) → no reaction
+Deduce the order of increasing reactivity of the metals.
+A 
+P < Q < R  
+B
+P < R < Q
+C 
+R < P <Q 
+D 
+Q < R < P
+Q16. Use the activity series given to predict if a reaction occurs between 
+the following reactants, and write equations where relevant.
+(a) CuCl2 + Ag 
+(b) Fe(NO3)2 + Al
+(c) NaI + Br2
+(d) KCl + I2
+Exercise
+Tool 1, Inquiry 2 – 
+What observations 
+can be made when 
+metals are mixed with 
+aqueous metal ions, and 
+solutions of halogens 
+are mixed with aqueous 
+halide ions? 
+Investigating the 
+activity series. Full 
+details of how to carry 
+out this experiment 
+with a worksheet are 
+available in the eBook. 
+
+
+513
+REACTIVITY 3.2
+Electron transfer reactions
+Q17.  An activity series can be deduced from observing displacement reactions.
+(a) Use the following reactions to deduce the order of reactivity of the 
+elements W, X, Y and Z, putting the most reactive ﬁ rst.
+W + X+ → W+ + X
+Y+ + Z → no reaction
+X + Z+ → X+ + Z
+X + Y+ → X+ + Y
+(b) Which of the following reactions would you expect to occur according 
+to the activity series you established in part (a)?
+(i) W+ + Y → W + Y+
+(ii) W+ + Z → W + Z+
+Reactivity 3.2.4 – Oxidation of metals by acids
+Reactivity 3.2.4 – Acids react with reactive metals to release hydrogen.
+Deduce equations for reactions of reactive metals with dilute HCl and H2SO4.
+Acids react with metals to form salts and release 
+hydrogen 
+As discussed in Reactivity 3.1, the term salt refers to an ionic compound formed when 
+the hydrogen of an acid is replaced by a metal or another positive ion.
+For example:
+2HCl(aq) + Zn(s) → ZnCl2(aq) + H2(g)
+H2SO4(aq) + Fe(s) → FeSO4(aq) + H2(g)
+2CH3COOH(aq) + Mg(s) → Mg(CH3COO)2(aq) + H2(g)
+ZnCl2,FeSO4, and Mg(CH3COO)2 are all salts.
+Magnesium reacting with 
+dilute hydrochloric acid.
+Mg(s) + 2HCl(aq) →
+MgCl2(aq) + H2(g)
+The tiny bubbles are 
+hydrogen gas being 
+produced.
+
+
+514
+REACTIVITY 3
+What are the mechanisms of chemical change?
+We can also write these as ionic equations, showing only the species that change 
+during the reaction. For example:
+2H+(aq) + Zn(s) → Zn2+(aq) + H2(g)
+As zinc is oxidized from 0 to +2 during the reaction it is acting as the reducing 
+agent. We can think of it as having the reducing strength to ‘force’ hydrogen ions 
+to accept the electrons. As there is no reaction between copper and dilute acids we 
+can deduce that hydrogen is more reactive than copper. These results show that 
+hydrogen is below zinc and above copper in the activity series. You can demonstrate 
+the release of hydrogen from acids in simple experiments by adding a small piece 
+of metal to a dilute solution of the acid. There is a big range, however, in the 
+reactivity of metals in these reactions. More reactive metals such as sodium and 
+potassium in group 1 would react so violently that it would not be safe to perform 
+the experiment, while copper and other less reactive metals such as silver and gold 
+will usually not react at all. These results show that we can insert hydrogen between 
+copper and lead in the activity series.
+Mg
+Al
+Zn
+Fe
+Pb
+Cu
+H
+Ag
+strongest reducing agent, most readily becomes oxidized
+weakest reducing agent, least readily becomes oxidized
+These reactions of metals with acids illustrate why acids are so corrosive and why, for 
+example, it is important to keep car battery acid well away from the metal bodywork 
+of a car. This also explains why the less reactive metals such as silver and gold are so 
+valuable – they are resistant to corrosion.
+Q18. Identify the metals which will react with 0.1 mol dm−3 hydrochloric acid.
+I. Ag 
+II. Fe 
+III. Zn
+A 
+I and II only 
+B 
+I and III only
+C 
+II and III only 
+D 
+I, II and III
+Q19. Identify the products formed when a metal reacts with a dilute acid.
+I. 
+a salt  
+II. water 
+III. hydrogen gas
+A 
+I and II   
+B 
+I and III
+C 
+II and III   
+D 
+I, II and III
+Q20. Write complete and ionic equations for the following reactions.
+(a) hydrochloric acid reacting with aluminium
+(b) sulfuric acid reacting with magnesium
+(c) ethanoic acid reacting with zinc
+Exercise
+
+
+515
+REACTIVITY 3.2
+Electron transfer reactions
+Q21. Write balanced equations for the following reactions that occur in 
+acidic solutions.
+(a) Zn(s) + SO42−(conc) → Zn2+(aq) + SO2(g) 
+(b) NO3−(conc) + Zn(s) → NH4+(aq) + Zn2+(aq) 
+(c) NO3−(aq) + Cu(s) → NO(g) + Cu2+(aq) 
+(d) NO3−(conc) + Cu(s) → NO2(g) + Cu2+(aq) 
+Reactivity 3.2.5 – Comparing voltaic and 
+electrochemical cells 
+Reactivity 3.2.5 – Oxidation occurs at the anode and reduction occurs at the cathode 
+in electrochemical cells.
+Label electrodes as anode and cathode, and identify their signs/polarities in voltaic cells and 
+electrolytic cells, based on the type of reaction occurring at the electrode. 
+Voltaic and electrolytic cells are collectively known as electrochemical cells.
+electrochemical cells
+voltaic (galvanic) cells
+generate electricity from chemical reactions
+electrolytic cells
+drive chemical reactions using electrical energy
+A voltaic cell converts chemical energy to electrical energy: a spontaneous chemical 
+reaction drives electrons around a circuit. An electrolytic cell converts electrical 
+energy to chemical energy. An electric current reverses the normal directions of 
+chemical change, and non-spontaneous reactions occur. Stable compounds like 
+sodium chloride can be broken down into their reactive constituent elements. 
+The anode and cathode in electrochemical cells are defined by the chemical changes 
+that take place. Oxidation occurs at the anode and reduction occurs at the cathode in 
+both types of cell. The polarity of the cell, however, changes. The anode is the negative 
+terminal in a voltaic cell but the positive terminal in an electrolytic cell. The cathode is 
+the positive terminal in a voltaic cell but the negative in an electrolytic cell.
+Type of cell
+Voltaic
+Electrolytic
+Type of reaction
+spontaneous
+non-spontaneous
+Electrode of oxidation 
+anode
+anode
+Electrode of reduction 
+cathode 
+cathode
+Polarity of anode 
+negative 
+positive
+Polarity of cathode 
+positive 
+negative 
+Voltaic and electrolytic cells are explored in more detail in the sections that follow.
+‘An Ox and a Red 
+Cat’ may help you 
+remember the reaction 
+at the electrodes of an 
+electrochemical cell 
+(oxidation occurs at 
+the anode, reduction 
+occurs at the cathode). 
+
+
+516
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Q22. Identify the processes that occur at the positive electrode in voltaic and 
+electrolytic cells.
+Electrolytic cell
+Voltaic cell
+A
+oxidation 
+reduction
+B
+reduction
+oxidation
+C
+oxidation 
+oxidation
+D
+reduction
+reduction
+Q23. Identify the best description of the reaction that occurs at the negative 
+electrode of an electrolytic cell.
+Type of reaction 
+Voltaic cell
+A
+spontaneous
+reduction
+B
+not spontaneous 
+reduction 
+C
+spontaneous
+oxidation
+D
+not spontaneous 
+oxidation
+Exercise
+Reactivity 3.2.6 – Primary (voltaic) cells 
+Reactivity 3.2.6 – A primary (voltaic) cell is an electrochemical cell that converts 
+energy from spontaneous redox reactions to electrical energy.
+Explain the direction of electron ﬂ ow from anode to cathode in the external circuit, and ion 
+movement across the salt bridge. 
+Construction of primary cells should include: 
+half-cells containing metal/metal ion, anode, 
+cathode, electric circuit, salt bridge.
+Reactivity 1.3 – Electrical energy can be 
+derived from the combustion of fossil fuels or 
+from electrochemical reactions. What are the 
+similarities and differences in these reactions?
+Voltaic cells generate electricity from spontaneous 
+redox reactions 
+In oxidation reactions electrons are lost and in reduction reactions they are gained. If 
+the half-reactions occur at spatially separated electrodes, the electrons need to pass 
+through an external circuit between the electrodes and an electric current is produced. 
+Let us consider again the reaction we discussed on page 510 in which zinc reduced 
+copper ions. Remember that here zinc was the reducing agent and became oxidized 
+while copper ions were reduced. When the reaction is carried out in a single test tube, 
+as shown in the photo on page 510, the electrons flow spontaneously from the zinc 
+atoms to the copper ions in the solution and, as we noted, energy is released in the 
+form of heat. It is an exothermic reaction. Alternatively, we can separate the two half-
+reactions:
+oxidation: 
+Zn(s) → Zn2+(aq) + 2e−
+reduction: 
+Cu2+(aq) + 2e−→ Cu(s) 
+
+
+517
+REACTIVITY 3.2
+Electron transfer reactions
+Electrons pass from the zinc to the copper ions through the external circuit.
+This is known as a voltaic or a galvanic cell, and we will see how it is constructed in 
+the next section. The half-cells connected in this way are often called electrodes. 
+As the chemicals are not renewed during the process it is also known as a primary cell. 
+A battery normally consists of several cells connected together.
+(a)
+(b)
+Electrical energy can be produced from chemical energy (a) indirectly by the combustion of fuels or 
+(b) directly in a battery. Both involve redox reactions. Electrical energy is produced directly from the 
+oxidation of a fuel in a fuel cell. These are discussed on page 526.
+Half-cells generate electrode potentials
+There are many types of half-cell but probably the simplest is made by putting a strip 
+of metal into a solution of its ions (Figure 2).
+copper metal
+strip
+copper(II)
+sulfate solution
+zinc sulfate
+solution
+zinc metal
+strip
+R3.2 Figure 2 Copper and zinc half-cells.
+In the zinc half-cell, zinc atoms form ions by releasing electrons that will make the 
+surface of the metal negatively charged with respect to the solution (Figure 3).
+Zn(s) → Zn2+(aq) + 2e− (electrons give the electrode a negative charge)
+Zn
+atom
+solution
+zinc
+Zn21
+Zn21(aq) 1 2e2
+solution
+zinc
+Zn21
+Zn21
+Zn(s)
+2e2
+2e2
+2e2
+Reactivity 1.3 – 
+Electrical energy 
+can be derived from 
+the combustion of 
+fossil fuels or from 
+electrochemical 
+reactions. 
+What are the similarities 
+and diﬀ erences in 
+these reactions? 
+A copper half-cell consisting 
+of a piece of copper metal 
+dipped into a solution of a 
+copper salt. An equilibrium is 
+set up between the Cu metal 
+and its ions:
+Cu2+(aq) +2e−⇌ Cu(s)
+R3.2 Figure 3 Zinc atoms 
+form zinc ions by releasing 
+electrons. An equilibrium is 
+set up between the metal and 
+its solution of ions.
+
+
+518
+REACTIVITY 3
+What are the mechanisms of chemical change?
+The negative charge on the electrode attracts zinc ions which can gain electrons in 
+the reverse process:
+Zn(s) ← Zn2+(aq) + 2e−
+At a particular charge separation the rates of both processes will be the same and 
+equilibrium is reached:
+Zn(s) ⇌ Zn2+(aq) + 2e−
+The position of this equilibrium depends on the reactivity of the metal. The more 
+reactive the metal, the more the equilibrium favours the formation of ions, and the 
+greater the negative charge on the electrode. As copper is a less reactive metal, the 
+equilibrium position favours the formation of metal in its half-cell:
+Cu2+(aq) + 2e−⇌ Cu(s) 
+The copper metal strip will have fewer electrons and be less negative than the zinc 
+metal strip.
+When these two half-cells are connected by an external wire and a salt bridge, 
+electrons will have a tendency to flow spontaneously through the external circuit from 
+the more negative zinc half-cell to the less negative copper half-cell. The tendency for 
+the electrons to flow can be quantified by measuring the potential difference between 
+the two electrodes using a voltmeter.
+Zinc–copper voltaic cell showing a copper half-cell and a zinc half-cell connected by a salt bridge. 
+Electrons flow from the zinc electrode to the copper electrode through the electrical wires, while ions 
+flow through the salt bridge to complete the circuit. The voltmeter is showing 1.10 V, the potential 
+difference of this cell.
+The electrode where oxidation occurs is called the anode, in this case it is the zinc 
+electrode, and it has a negative charge:
+Zn(s) → Zn2+(aq) + 2e−
+Investigation of voltaic 
+cells. Full details of 
+how to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+Oxidation always 
+occurs at the 
+anode; reduction 
+always occurs at 
+the cathode. In 
+the voltaic cell, 
+the anode has a 
+negative charge and 
+the cathode has a 
+positive charge.
+
+
+519
+REACTIVITY 3.2
+Electron transfer reactions
+The electrode where reduction occurs is called the cathode, in this case it is the copper 
+electrode and it has a positive charge:
+Cu2+(aq) + 2e−→ Cu(s)
+Zn(s)
+Zn21(aq) 1 2e2
+Zn21(aq) 1 Cu(s)
+Net reaction: Zn(s) 1 Cu21(aq)
+Cu(s)
+Cu21(aq) 1 2e2
+Zn21
+Zn
+Cu21
+Cu
+cotton
+wool
+Oxidation
+occurs at
+the anode.
+Reduction
+occurs at
+the cathode.
+copper
+sulfate
+solution
+zinc
+sulfate
+solution
+anions
+salt bridge
+e2
+e2
+V
+voltmeter
+cathode (1)
+anode (2)
+The voltaic cell (Figure 4) must therefore have the following connections between the 
+half-cells:
+• An external electronic circuit, connected to the metal electrode in each half-cell. 
+A voltmeter can also be attached to this external circuit to record the voltage 
+generated. Electrons will flow from the negative terminal, the anode, to the 
+positive terminal, the cathode, through the wire.
+• A salt bridge completes the circuit. The salt bridge is a glass tube or strip of 
+absorptive paper that contains an aqueous solution of ions. Movement of these 
+ions neutralizes any build up of charge and maintains the potential difference. 
+Anions move in the salt bridge from the cathode to the anode. Anions move 
+in the opposite direction to the electrons in the external circuit. Cations move 
+in the opposite direction to anions in the salt bridge from the anode to the 
+cathode. The solution chosen is often aqueous NaNO3 or KNO3 as these ions 
+will not interfere with the reactions at the electrodes. Without a salt bridge, the 
+circuit is incomplete and no voltage is generated. 
+Cell diagram convention 
+We can summarize the arrangements of electrodes in a voltaic cell in a cell diagram. 
+This has the following features:
+• A single vertical line represents a phase boundary such as that between a solid 
+electrode and an aqueous solution within a half-cell.
+• A double vertical line represents the salt bridge.
+• The aqueous solutions of each electrode are placed next to the salt bridge.
+R3.2 Figure 4 
+A copper–zinc voltaic cell.
+Building voltaic 
+cells with different 
+combinations of 
+metals/metal ion 
+electrodes will help in 
+the understanding of 
+this topic.
+In general, the more 
+reactive the metal, 
+the greater the 
+build-up of 
+electrons and the 
+more negative the 
+electrode potential 
+in its half-cell.
+
+
+520
+REACTIVITY 3
+What are the mechanisms of chemical change?
+• The anode is generally put on the left and the cathode on the right, so electrons 
+flow from left to right.
+• Spectator ions are usually omitted from the diagram.
+• If a half-cell includes two ions, they are separated by a comma because they are 
+in the same phase.
+The cell diagram for the copper–zinc cell discussed earlier is:
+salt bridge 
+ 
+ 
+phase boundary
+Zn(s) u Zn2+(aq) i Cu2+(aq) u Cu(s)
+anode
+cathode
+oxidation
+reduction
+electrons ﬂow this way
+via external circuit
+Zn(s) → Zn2+(aq)+2e–
+Cu2+(aq) + 2e– → Cu(s)
+Note that the cell diagram is set out to show the direction of the two half-reactions.
+Anode
+Cathode
+Zn(s) |Zn2+(aq) : Zn(s) → Zn2+(aq) 
+Cu2+(aq) | Cu(s) : Cu2+(aq) → Cu(s)
+Different half-cells make voltaic cells with different 
+voltages 
+Any two half-cells can be connected together to make a voltaic cell. For any such cell, 
+the direction of electron flow and the voltage generated will be determined by the 
+difference in reducing strength of the two metals. In most cases this can be judged by the 
+relative position of the metals in the activity series. For example, if we connect a zinc 
+half-cell to a silver half-cell the corresponding cell reaction is:
+Zn(s) + 2Ag+(aq) → Zn2+(aq) + 2Ag(s)
+A larger voltage would be produced than with the copper half-cell discussed earlier 
+because the difference in electrode potentials of zinc and silver is greater than that 
+between zinc and copper.
+The two half-reactions are:
+Zn(s) → Zn2+(aq) + 2e−
+2Ag2+(aq) + 2e−→ 2Ag(s)
+Electrons would flow from zinc (anode), where electrons are produced, 
+to silver (cathode), where they are accepted, as shown in Figure 5.
+
+
+521
+REACTIVITY 3.2
+Electron transfer reactions
+silver nitrate
+solution
+zinc sulfate
+solution
+cathode (1)
+Zn
+Ag
+anode (2)
+salt bridge
+e2
+e2
+V
+voltmeter
+Zn(s)
+Zn21(aq) 1 2e2
+Zn21(aq) 1 2Ag(s)
+Net reaction: Zn(s) 1 2Ag1(aq)
+Ag(s)
+Ag1(aq) 1 e2
+Zn21
+Ag1
+anions
+R3.2 Figure 5 A silver–zinc voltaic cell.
+If we now make a voltaic cell with one copper electrode and one silver electrode 
+(Figure 6), the cell reaction is:
+Cu(s) + 2Ag+(aq) → Cu2+(aq) + 2Ag(s)
+and the half-reactions are:
+Cu(s) → Cu2+(aq) + 2e−
+2Ag+(aq) + 2e−→ 2Ag(s)
+The direction of electron flow is now away from copper and towards silver due to the 
+greater reducing power of copper. The copper electrode is the negative electrode of the 
+cell as it has the lower electrode potential.
+cathode (1)
+anode (2)
+Cu(s)
+Cu21(aq) 1 2e2
+Cu21(aq) 1 2Ag(s)
+Net reaction: Cu(s) 1 2Ag1(aq)
+Ag(s)
+Ag1(aq) 1 e2
+e2
+e2
+silver nitrate
+solution
+copper sulfate
+solution
+salt bridge
+V
+voltmeter
+Cu
+Ag
+Cu21
+Ag1
+anions
+R3.2 Figure 6 A silver–copper voltaic cell.
+In a voltaic cell, 
+electrons always 
+flow in the external 
+circuit from anode 
+to cathode. The 
+anode is the negative 
+electrode, and 
+the cathode is the 
+positive electrode.
+
+
+522
+REACTIVITY 3
+What are the mechanisms of chemical change?
+We can now summarize the parts of a voltaic cell and the direction of movement of 
+electrons and ions (Figure 7):
+• The anode is the negative electrode and the cathode is the positive electrode.
+• Electrons flow from anode to cathode through the external circuit.
+• Anions migrate from cathode to anode through the salt bridge.
+• Cations migrate from anode to cathode through the salt bridge.
+cathode (1)
+anode (2)
+reduction occurs
+oxidation occurs
+salt bridge
+anions
+cations
+V
+voltmeter
+e2
+e2
+reduced
+species
+e2
+e2
+oxidized
+species
+oxidized
+species
+reduced
+species
+R3.2 Figure 7 Summary of the components of a voltaic cell showing the ion and 
+electron movements.
+Nature of Science
+The Italian scientist Luigi Galvani noticed the leg muscles of a dead frog 
+twitched when they were in contact with two different metals. After many 
+experiments, he concluded that the contractions were caused by an electrical 
+fluid that was carried to the muscles in the nerves. His contemporary and 
+fellow countryman Alessandro Volta had an intuition that the source of the 
+electricity was not biological but originated instead from the interaction 
+between the two metals. He confirmed his hypothesis by building a 
+‘voltaic pile’ from pairs of metals separated by a conducting solution and 
+demonstrated that this generated an electric current. The terms galvanic cell 
+and voltaic cell are used in recognition of both men’s contribution to their 
+discovery. The role of chance observations or serendipity is often a feature of 
+scientific discovery. Scientific progress is not, however, down to luck, as the 
+significance of these observations needs to be recognized. As Louis Pasteur 
+said’ ‘Chance favours only the prepared mind’.
+Used batteries awaiting 
+recycling. Batteries contain 
+metals that can be recycled.
+Batteries are an 
+application of a voltaic 
+cell, making electrical 
+energy available as a 
+source of power. Our 
+reliance on batteries 
+increases as global 
+demand for mobile 
+electronic devices 
+such as smartphones, 
+laptops and tablets 
+continues to grow. 
+While demand for 
+batteries looks set 
+to continue, there is 
+concern over toxicity 
+and environmental 
+damage from battery 
+disposal. Batteries 
+should be recycled as 
+they contain metals 
+such as zinc, cobalt, 
+manganese, copper, 
+cadmium and iron. 
+
+
+523
+REACTIVITY 3.2
+Electron transfer reactions
+Italian physicist Count Alessandro Volta (1745–1827) demonstrates his newly invented battery or 
+‘voltaic pile’ to Napoleon Bonaparte in 1801. Constructed from alternating discs of zinc and copper 
+with pieces of cardboard soaked in brine between the metals, his voltaic pile was the first battery that 
+produced a reliable, steady current of electricity.
+Q24. Use the metal activity series on page 514 to predict which electrode will 
+be the anode and which will be the cathode when the following half-cells 
+are connected. Write half-equations for the reactions occurring at each 
+electrode.
+(a) Zn/Zn2+ and Fe/Fe2+
+(b) Fe/Fe2+ and Mg/Mg2+
+(c) Mg/Mg2+ and Cu/Cu2+
+Q25. A voltaic cell can be constructed with one half-cell consisting of Mg and a 
+solution of Mg2+ ions and the other half-cell consistingof Zn and a solution 
+of Zn2+ ions.
+(a) Draw a diagram of the cell and label the electrodes with name and 
+polarity, and the direction of electron and ion movement, and write 
+equations for the reactions occurring at each electrode.
+(b) Write the cell diagram to represent the above voltaic cell.
+Q26. Predict what would be observed if an iron spatula was left in a solution of 
+copper sulfate overnight.
+Exercise
+
+
+524
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Reactivity 3.2.7 – Secondary (rechargeable) cells
+Reactivity 3.2.7 – Secondary (rechargeable) cells involve redox reactions that can be 
+reversed using electrical energy.
+Deduce the reactions of the charging process from given electrode reactions for discharge, and 
+vice versa. 
+Include discussion of advantages and 
+disadvantages of fuel cells, primary cells and 
+secondary cells.
+Reactivity 2.3 – Secondary cells rely on 
+electrode reactions that are reversible. What 
+are the common features of these reactions?
+Secondary (rechargeable) cells involve redox 
+reactions that can be reversed
+We have so far discussed primary cells where the electrochemical reaction is 
+irreversible. The cell reactions involve the production of aqueous ions or gas 
+molecules which become dispersed during the reaction. In this section we will 
+discuss secondary cells which involve redox reactions that can be reversed using 
+electrical energy. As they can be recharged, they have a longer life than primary cells. 
+Rechargeable batteries, which contain many rechargeable cells connected together, are 
+more expensive to buy but they become more economical with use. 
+The lithium-ion battery
+One of the most promising reusable batteries is the lithium-ion battery, which benefits 
+from lithium’s low density and high reactivity (Figure 8). It can store a lot of electrical 
+energy per unit mass. As lithium metal is reactive, steps must be taken to prevent it 
+from forming an oxide layer which would decrease contact with the electrolyte. The 
+lithium cathode is placed in the lattice of a metal oxide (MnO2) and the lithium anode 
+is mixed with graphite. A non-aqueous polymer-based electrolyte is used. As discussed 
+in Reactivity 1.8, an electrolyte is a substance that does not conduct electricity in the 
+solid state, but does conduct electricity when molten or in aqueous solution as it has 
+ions which are free to move.
+LixMnO2
+polymer electrolyte
+Li (graphite)
+positive
+electrode
+negative
+electrode
+xLi1
+e2
+R3.2 Figure 8 The lithium-ion battery.
+A primary cell 
+or battery is one 
+that cannot be 
+recharged. A 
+secondary cell or 
+battery is one that 
+can be recharged.
+
+
+525
+REACTIVITY 3.2
+Electron transfer reactions
+Discharging a lithium-ion battery 
+At the negative electrode, lithium is oxidized:
+Li(polymer) → Li+(polymer) + e−
+At the positive electrode, the Li+ ion and MnO2 are reduced:
+Li+(polymer) + MnO2(s) + e−→ LiMnO2(s)
+The two half-reactions are reversed when the battery is recharged.
+Lithium-ion batteries are used in cell (mobile) phones, laptops, computers and cameras.
+Worked example 
+Rechargeable nickel–cadmium batteries are used in electronics and toys. When the 
+battery is discharged, the positive electrode is nickel hydroxide and the negative 
+electrode is cadmium hydroxide. The electrolyte is aqueous potassium hydroxide.
+During the charging process a cadmium(II) hydroxide electrode is reduced to the 
+element and a nickel(II) hydroxide electrode is oxidized to NiO(OH).
+(a) Deduce the reduction half-reaction during charging.
+(b) Deduce the oxidation half-reaction during charging.
+(c) Deduce the chemical equation for the charging process.
+(d) State the chemical equation for the discharging process and explain why the 
+process can be reversed.
+Solution
+(a) Cd(OH)2(s) + 2e−→ Cd(s): 2 electrons are needed as Cd is reduced from +2 → 0
+Cd(OH)2(s) + 2e−→ Cd(s) + 2OH−(aq): 2 OH−(aq) are needed to balance the 
+charges and the atoms
+(b) Ni(OH)2(s) → NiO(OH)(s) + e−: 1 electron is produced as Ni is oxidized from 
++2 → +3
+Ni(OH)2(s) + OH−(aq) → NiO(OH)(s) + e−: 1 OH−(aq) is needed to balance the charges
+Ni(OH)2(s) + OH−(aq) → NiO(OH)(s) + H2O(l) + e−: 1 H2O(aq) is added to 
+balance the atoms
+(c) State the half-reactions for 2 electrons:
+Cd(OH)2(s) + 2e−→ Cd(s) + 2OH−(aq)
+2Ni(OH)2(s) + 2OH−(aq) → 2NiO(OH)(s) + 2H2O(l) + 2e−
+Add the half-reactions:
+2Ni(OH)2(s) + 2OH−(aq) + Cd(OH)2(s) + 2e−
+→ 2NiO(OH)(s) + 2H2O(l) + 2e−+ Cd(s) + 2OH−(aq)
+which gives
+2Ni(OH)2(s) + Cd(OH)2(s) → 2NiO(OH)(s) + 2H2O(l) + Cd(s)
+Lithium-ion battery. This is 
+a rechargeable battery often 
+used in electrical equipment. 
+The energy is stored in 
+the battery through the 
+movement of lithium ions. 
+The first commercial lithium-
+ion battery was produced in 
+1991.
+
+
+526
+REACTIVITY 3
+What are the mechanisms of chemical change?
+(d) 2NiO(OH)(s) + Cd(s) + 2H2O(l) → 2Ni(OH)2(s) + Cd(OH)2(s)
+This reaction can be reversed as both metal hydroxides are insoluble and so 
+cannot be dispersed. A common feature of secondary cells is that the products 
+cannot be dispersed away from the electrodes.
+A fuel cell converts chemical energy directly to 
+electrical energy 
+As combustion reactions are redox reactions, they can be used to produce an electric 
+current if the reactants are physically separated. This is the basis of a fuel cell which, 
+unlike primary voltaic cells, requires a constant supply of fuel and oxygen to the 
+electrodes to produce electricity continuously as they are consumed in the process.
+The hydrogen fuel cell
+The use of the hydrogen fuel cell could reduce our dependence on fossil fuels. One mole 
+of hydrogen can release 286 kJ of heat energy when it combines directly with oxygen:
+Most of this energy can be converted to electrical energy in a fuel cell.
+Worked example 
+Deduce the two half-reactions that occur at the anode and the cathode in the 
+hydrogen–oxygen fuel cell in acid conditions.
+Solution
+At the negative electrode (anode), H2(g) is oxidized:
+2H2(g) → 4H+(aq) + 4e−
+At the positive electrode (cathode), O2(g) is reduced:
+4H+(aq) + O2(g) + 4e−→ 4H2O(l) 
+The hydrogen fuel cell is a clean 
+and efficient power source. 
+Hydrogen (red) is pumped into 
+the cell, where protons (the 
+hydrogen nuclei) are separated 
+from their electrons (yellow). 
+The electrons flow around 
+a conducting loop as an 
+electric current, which can be 
+harnessed. The hydrogen nuclei 
+(H+) pass through a membrane 
+and then combine with the 
+electrons and oxygen from the 
+air to form steam, and water is 
+the only waste product.
+Reactivity 2.3 – 
+Secondary cells rely on 
+electrode reactions that 
+are reversible. What are 
+the common features of 
+these reactions?
+
+
+527
+REACTIVITY 3.2
+Electron transfer reactions
+Challenge yourself
+5. Deduce the two half-reactions that occur at the anode and the cathode in the 
+hydrogen–oxygen fuel cell with aqueous sodium hydroxide as the electrolyte.
+Advantages and disadvantages of fuel cells, 
+primary cells and secondary cells 
+Some advantages and disadvantages of the different systems are summarized below.
+Type of cell/battery
+Advantages
+Disadvantages
+Primary 
+general 
+• inexpensive
+• convenient
+• lightweight
+• good shelf life
+• can only be used once
+• leads to a large amount of waste 
+as batteries need to be recycled
+• batteries put into landﬁ ll sites 
+have severe environmental impact
+• can only deliver small currents
+fuel cell
+• more efﬁ cient than 
+direct combustion 
+as more chemical 
+energy is converted 
+to useful electrical 
+energy
+• no pollution if 
+hydrogen is the fuel
+• low density of 
+hydrogen
+• hydrogen is a potentially 
+explosive gas
+• hydrogen must be stored and 
+transported in large/heavy 
+containers
+• very expensive
+• technical problems due to catalytic 
+failures, leaks and corrosion
+• can deliver only small currents
+• low reaction rates and therefore 
+low power output
+Rechargeable 
+/ secondary
+general
+• materials can be 
+regenerated
+• can deliver high 
+current
+lead–acid
+• can deliver large 
+amounts of energy 
+over short periods
+• heavy mass
+• lead and sulfuric acid could cause 
+pollution
+cadmium–
+nickel
+• longer life than lead–
+acid batteries
+• cadmium is very toxic
+• produces a low voltage
+• very expensive
+lithium 
+ion
+• low density of 
+lithium
+• high voltage
+• does not contain a 
+toxic heavy metal
+• expensive
+• limited life span
+
+
+528
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Q27. The reaction taking place when a lead–acid storage battery discharges is:
+Pb(s) + PbO2(s) + 2H2SO4(aq) → 2PbSO4(s) + 2H2O(l)
+(a) Use oxidation numbers to explain what happens to the Pb(s) in terms of 
+oxidation and reduction during this reaction.
+(b) Write a balanced half-equation for the reactions taking place at the 
+negative terminal during this discharge process.
+(c) Identify the property of PbSO4 which allows this process to be reversed.
+(d) State one advantage and one disadvantage of using a lead–acid battery.
+Q28. One type of fuel cell uses methanol as the fuel with an acid electrolyte. 
+The overall equation for the process is:
+2CH3OH (aq) + 3O2 (g) → 2CO2 (g) + 4H2O (l)
+(a) State the half-equations for the reactions at the negative electrode.
+(b) State the half-equations for the reactions at the positive electrode.
+(c) Suggest one advantage and one disadvantage of a methanol fuel cell 
+over a lead–acid battery as an energy source in a car.
+Q29. One type of fuel cell uses hydrogen as the fuel with hot aqueous potassium 
+hydroxide as the electrolyte. The overall equation for the process is:
+2H2(g) + O2(g) → 2H2O(l)
+(a) State the two half-equations for the reactions involving each reactant.
+(b) Hydrogen is a more expensive source of chemical energy than gasoline 
+(petrol). Explain why fuel cells are considered to be more economical 
+than gasoline engines.
+(c) State one common feature of primary, fuel and rechargeable cells.
+Exercise
+Reactivity 3.2.8 – Electrolytic cells
+Reactivity 3.2.8 – An electrolytic cell is an electrochemical cell that converts electrical 
+energy to chemical energy by bringing about non-spontaneous reactions.
+Explain how current is conducted in an electrolytic cell.
+Deduce the products of the electrolysis of a molten salt. 
+Construction of electrolytic cells to include 
+DC power source connected to anode and 
+cathode, electrolyte.
+Structure 2.1 – Under what conditions can 
+ionic compounds act as electrolytes?
+An external source of electricity can drive non-
+spontaneous redox reactions
+As we have seen, a voltaic cell takes the energy of a spontaneous redox reaction and 
+harnesses it to generate electrical energy. An electrolytic cell reverses this process: 
+it uses an external source of electrical energy to bring about a non-spontaneous 
+
+
+529
+REACTIVITY 3.2
+Electron transfer reactions
+redox reaction that would otherwise not take place. You can think of it in terms of an 
+external power supply pumping electrons into the electrolytic cell, driving reactions 
+of oxidation and reduction. As the word electro-lysis suggests, it is the process where 
+electricity is used to bring about chemical reactions which break down substances.
+The reactant in the process of electrolysis must contain mobile ions which allow the 
+current to pass between the electrodes. It is an electrolyte, which is a liquid, usually 
+a molten ionic compound or an aqueous solution of an ionic compound. As the 
+electric current passes through the electrolyte, redox reactions occur at the electrodes, 
+removing the charges on the ions and forming products that are electrically neutral. 
+The ions are therefore said to be discharged during this process. 
+An electrolytic cell
+The components of an electrolytic cell are shown in Figure 9 and described below.
+anode
+cathode
+cations are
+reduced here
+inert
+electrodes
+e2
+2
+1
+1
+2
+e2
+electrolyte
+anions
+cations
+anions are
+oxidized here
+• The source of electric energy is a battery or a DC power source. This is shown in 
+the diagram as  where the longer line represents the positive terminal and the 
+shorter line the negative terminal.
+• The electrodes are placed in the electrolyte and connected to the power supply. 
+Electrodes are made from a conducting substance – generally a metal or 
+graphite. They are described as inert when they do not take part in the redox 
+reactions. They must not touch each other as this would ‘short’ the circuit, and 
+the current would bypass the electrolytic cell.
+• Electric wires connect the electrodes to the power supply.
+Electricity can reverse the natural direction of change
+In Structure 2.1 we discussed the spontaneous reaction between sodium and chlorine 
+to produce sodium chloride:
+Na(s) +  1_
+2 Cl2(g) → NaCl(s) 
+Electrons are transferred from the sodium to the chlorine. Sodium and chloride ions 
+are formed which then bond to form a sodium chloride lattice.
+This process can be reversed if solid sodium chloride is first converted into the 
+molten state:
+NaCl(s) → Na+(l) + Cl−(l)
+An electrolyte is a 
+substance which 
+does not conduct 
+electricity in the 
+solid state but does 
+conduct electricity 
+when molten or in 
+aqueous solution as 
+it has ions which are 
+free to move.
+R3.2 Figure 9 Components 
+of an electrolytic cell.
+Investigating 
+electrolytic cells. Full 
+details of how to carry 
+out this experiment 
+with a worksheet are 
+available in the eBook.
+
+
+530
+REACTIVITY 3
+What are the mechanisms of chemical change?
+The ions are now mobile so the molten state conducts electricity and the ions act as an 
+electrolyte if placed in an electrochemical cell (Figure 10).
+2Cl2(l)
+Cl2(g) 1 2e2
+2Na1(l) 1 2e2               2Na(l)
+anode
+cathode
+graphite
+electrodes
+e2
+2
+1
+1
+2
+e2
+Na1
+Cl2
+molten NaCl electrolyte
+molten Na collects
+The battery or DC power source pushes electrons towards the negative electrode, or 
+cathode, where they are accepted as Na+ ions are reduced in the electrolyte.
+Na+(l) + e− → Na(l)
+Electrons are released at the positive terminal, the anode, as chloride ions are oxidized 
+to chlorine atoms which then form chlorine molecules.
+2Cl−(l) → Cl2(g) + 2e−
+The released electrons then move towards the positive terminal of the power source.
+Balancing the two half-reactions at the electrodes we have the overall reaction:
+2Na+(l) + 2e−+ 2Cl−(l) → 2Na(l) + 2 e−+ Cl2(g)
+2Na+(l) + 2Cl−(l) → 2Na(l) + Cl2(g)
+The chemical reactions occurring at each electrode remove the ions from the electrolyte. 
+The compound has been split into its constituent elements and electrolysis has occurred.
+Note the current is passed through the electrolyte not by electrons but by the mobile 
+ions as they migrate to the electrodes.
+Ionic compounds can also conduct electricity in aqueous solution. This is discussed 
+later in the chapter.  
+The electrolysis of molten salts
+We can generalize the results for the electrolysis of sodium chloride to other molten 
+compounds. When the electrolyte is a molten salt, the only ions present are those from 
+the compound itself, so one ion migrates to each electrode. Positive ions are reduced 
+and gain electrons at the cathode – the negative electrode – and negative ions are 
+oxidized and lose electrons at the anode – the positive electrode.
+Worked example 
+Describe the reactions that occur at the two electrodes during the electrolysis of 
+molten lead(II) bromide. Write an equation for the overall reaction and comment 
+on any likely changes that would be observed.
+R3.2 Figure 10 Electrolysis 
+of molten sodium chloride. 
+Chloride ions are oxidized at 
+the anode and sodium ions 
+are reduced at the cathode.
+Reactive metals, 
+including aluminum, 
+lithium, magnesium, 
+sodium and potassium, 
+are found naturally in 
+compounds such as 
+Al2O3 and NaCl where 
+they exist as positive 
+ions. Extraction of 
+the metal therefore 
+involves reduction of 
+these ions. This is best 
+done using electrolysis.
+Structure 2.1 – Under 
+what conditions can 
+ionic compounds act as 
+electrolytes?
+Electrodes are 
+electrically 
+conducting, 
+electrolytes 
+are ionically 
+conducting. Ionic 
+compounds can act 
+as electrolytes in the 
+molten state or in 
+solution. 
+
+
+531
+REACTIVITY 3.2
+Electron transfer reactions
+Solution
+1. Identify the ions present in the electrolyte and to which electrode they will 
+be attracted:
+PbBr2(l) → Pb2+(l) + 2Br−(l)
+ 
+to 
+to
+ 
+cathode anode
+2. Deduce the half-reactions at each electrode:
+anode: Br− is oxidized: 2Br−(l) → Br2(l) + 2e−
+cathode: Pb2+ is reduced: Pb2+(l) + 2e−→ Pb(l)
+3. Add the half-equations to obtain the overall reaction: 
+Pb2+(l) + 2Br−(l) → Pb(l) + Br2(l)
+4. Br2(g), a brown vapour with a strong smell, is produced at the anode and Pb(l), 
+a molten grey metal, is produced at the cathode.
+This can be set out in a table.
+Cathode 
+Anode 
+Ions present 
+Pb2+(l)
+2Br−(g)
+Reaction at electrode Pb2+(l) + 2e−→ Pb(l)
+lead is a liquid at the 
+temperatures used
+2Br−(l) → Br2(g) + 2e−
+bromine is a gas at the 
+temperatures used
+Observations 
+a molten grey metal is 
+produced
+a brown vapour with a 
+strong smell is produced 
+The electrolytic 
+extraction of aluminum 
+was developed almost 
+simultaneously by 
+Charles Martin Hall 
+and Paul Héroult, who 
+worked independently 
+on different sides of 
+the Atlantic. They both 
+discovered the process 
+in the same year, 1886. 
+Both were born in the 
+same year (1863) and 
+died in the same year 
+(1914).
+Lead(II) bromide has a relatively low melting point of 373 °C, but most other ionic 
+compounds have very high melting points, so electrolysis of molten compounds 
+generally involves working at high temperatures.
+Worked example 
+Molten alumini um oxide is electrolyzed in the cell shown in the ﬁ gure below. 
+The graphite-lined steel on the outside acts as the cathode and 
+graphite anodes are dipped into the molten electrolyte.
+molten aluminum
+collects on the ﬂoor
+of the cell
+molten mixture
+of aluminum oxide
+and cryolite
+tank lined with graphite cathode
+graphite anode
+1
+2
+Describe and explain what happens at the cathode and anode. Explain your answer 
+in terms of the redox reactions occurring at the electrodes, including equations in 
+your answer.
+
+
+532
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Solution
+Aluminium ions are attracted towards the negative electrode where they are 
+reduced to aluminium atoms:
+Al3+(l) + 3e−→ Al(l)
+Oxygen is produced at the anode from the oxide ions:
+2O2−(l) → O2(g) + 4e−
+Napoleon III, the 
+Emperor of France 
+from 1848 to 1870, 
+owned an aluminium 
+dinner service which 
+was said to be more 
+precious than gold. The 
+high value reﬂ ects the 
+difﬁ culty of extracting 
+the metal at the time.
+Challenge yourself
+6. Explain with chemical equations why the carbon anodes used in the electrolysis 
+of aluminium oxide need to be replaced at regular intervals. 
+7. Cryolite is added to molten aluminium oxide to increase its conductivity. 
+Explain the low conductivity of aluminium oxide.
+Q30. Identify the electrode to which potassium ions are attracted during the 
+electrolysis of molten potassium bromide.
+A 
+The anode which has a positive charge.
+B 
+The anode which has a negative charge.
+C 
+The cathode which has a positive charge. 
+D 
+The cathode which has a negative charge.
+Q31. Identify the processes that occur in an electrical circuit with an electrolytic 
+cell with a lithium iodide electrolyte.
+crucible
+–
++
+heat
+2
+3
+1
+1
+2
+3
+A
+electrode where 
+reduction occurs 
+ions migrating
+electrons moving 
+anti-clockwise
+B
+electrode where 
+oxidation occurs
+ions migrating
+electrons moving 
+clockwise
+C
+electrode where 
+reduction occurs
+electrons moving 
+anti-clockwise
+ions migrating
+D
+electrode where 
+oxidation occurs
+electrons moving 
+clockwise
+ions migrating
+Exercise
+Worker siphoning off molten 
+aluminium in an aluminium 
+processing plant. Electrolysis of 
+a solution of alumina (Al2O3) 
+dissolved in cryolite is used 
+to reduce the Al3+ ions at the 
+cathode. The molten aluminium 
+is siphoned off and cooled 
+before any further processing.
+
+
+533
+REACTIVITY 3.2
+Electron transfer reactions
+Q32. Which statement is not correct for the electrolysis of copper(II) chloride?
+A 
+Copper ions and chloride ions move through the electrolyte.
+B 
+Oxidation of chloride takes place at the anode.
+C 
+Electrons move through the external circuit.
+D 
+Oxidation of chlorine takes place at the cathode.
+Q33. Write half-equations for the electrode reactions occurring during the 
+electrolysis of the following molten salts using graphite electrodes.
+(a) KBr
+(b) MgF2
+(c) ZnS
+(d) CaCl2
+Q34. Magnesium metal is produced by the electrolysis of molten magnesium 
+chloride using inert electrodes.
+(a) Draw a fully labelled diagram of the electrolytic cell, including the polarity 
+on the electrodes and the direction of electron and ion migration.
+(b) Write equations for the reactions occurring at each electrode and the 
+overall cell reaction.
+In industrial processes. 
+another compound is 
+often added to lower 
+the melting point of 
+the compound to be 
+electrolyzed. This makes 
+the process more 
+economical. Molten 
+cryolite – a mineral form 
+of Na3AlF6 – is added to 
+reduce the melting point 
+of aluminium oxide and 
+so reduces the energy 
+requirements of the 
+process. Pure aluminium 
+oxide would not be 
+a suitable electrolyte 
+because it has a very 
+high melting point, and 
+it is a poor electrical 
+conductor even when 
+molten. 
+Reactivity 3.2.9 – Oxidation of functional groups 
+in organic compounds
+Reactivity 3.2.9 – Functional groups in organic compounds may undergo oxidation.
+Deduce equations to show changes in the functional groups during oxidation of primary and 
+secondary alcohols, including the two-step reaction in the oxidation of primary alcohols.
+Include explanation of the experimental set-
+up for distillation and reﬂ ux.
+Include the fact that tertiary alcohols are not 
+oxidized under similar conditions.
+Names and formulas of speciﬁ c oxidizing 
+agents and the mechanism will not be 
+assessed.
+Structure 3.2 – How does the nature of the 
+functional group in a molecule affect its 
+physical properties, such as boiling point?
+Reactivity 1.3 – What is the difference 
+between combustion and oxidation of an 
+alcohol?
+Oxidation of alcohols
+As discussed in Reactivity 1.3, the combustion of organic compounds breaks the 
+carbon chain.
+Worked example 
+Use oxidation numbers to show the difference in the extent of oxidation of 
+complete and incomplete combustion of propane.
+
+
+534
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Solution
+In C3H8 the average oxidation state of C is − 8_
+3 
+Complete combustion produces CO2 in which the carbon has an oxidation state of +4.
+Incomplete oxidation produces CO, in which the carbon has an oxidation state of +2, 
+and C,in which the carbon has an oxidation state of 0.
+Challenge yourself
+8. Use oxidation numbers to show the differences in the extent of oxidation in the 
+complete combustion of propane, CH3CH2CH3, and propene, CH3CHCH2. 
+More subtle oxidation can occur when an oxidizing agent selectively oxidizes only the 
+carbon atom of a functional group. Alcohols can be oxidized into other important 
+organic compounds when oxidizing agents selectively oxidize the carbon atom 
+attached to the −OH group, keeping the carbon skeleton of the molecule intact. The 
+products of these reactions are determined by whether the alcohol is a primary, 
+secondary or tertiary alcohol. The distinction between the different alcohols is 
+described in Structure 3.2.
+Various oxidizing agents can be used for these reactions, but commonly the laboratory 
+process uses acidified potassium dichromate(VI). This is a bright orange solution, 
+which is reduced to green Cr3+(aq) as the alcohol is oxidized on heating. The colour of a 
+transition metal depends on the oxidation state of the metal.
+When writing equations for these reactions it is sometimes convenient to show the 
+oxidizing agent simply as ‘+ [O]’. 
+The degree of oxidation can be related to the number of H atoms attached to the 
+carbon with the hydroxyl group. Primary alcohols have two H atoms attached to 
+the carbon with the hydroxyl group and can be oxidized in a two-step reaction. The 
+removal of the first H atom leads to the formation of the aldehyde. The second H atom 
+is removed under prolonged reaction, and a carboxylic acid is formed.
+For example: ethanol is oxidized to ethanal in one step and to ethanoic acid in two steps:
+ethanol
+primary alcohol
+H
+C
+H
+H
+C
+H
+ﬁrst H atom removed
+second H atom
+removed
+H
+OH
+ethanal
+aldehyde
+H
+C
+H
+H
+C
+O
+H
+ethanoic acid
+carboxylic acid
+H
+C
+H
+H
+C
+O
+OH
+1[O], heat
+1[O], heat
+reﬂux
+And acidified dichromate Cr2O72− is reduced to Cr3+(aq): 
+Cr2O72−reduction Cr3+(aq)
+It is possible to remove the aldehyde product as it is formed by distillation because it 
+has a lower boiling point than the primary alcohol or the carboxylic acid. Aldehydes 
+do not have hydrogen bonding between their molecules, unlike the alcohol or the acid. 
+When a bottle of wine 
+is exposed to the air, 
+bacteria slowly oxidize 
+the ethanol to ethanoic 
+acid, giving the smell 
+of vinegar – ‘vin aigre’ 
+means ‘bitter wine’ 
+in French. 
+
+
+535
+REACTIVITY 3.2
+Electron transfer reactions
+Distillation is discussed in more detail in Structure 1.1.
+If we want to produce the carboxylic acid, the aldehyde needs to react with the 
+oxidizing agent for a prolonged period of time. The reaction mixture is heated under 
+reflux which means the aldehyde condenses back into the reaction mixture when it 
+evaporates. The apparatus for reflux is shown below. 
+Secondary alcohols are oxidized to ketones by a similar process of oxidation. 
+As there is only one H attached to the carbon bonded to the hydroxyl group, this is a 
+one-step reaction.
+H
+C
+H
+H
+C
+H
+OH
+C
+H
+H
+H
+1[O], heat
+reﬂux
+reﬂux
+reduction
+H
+C
+H
+H
+C
+O
+C
+H
+H
+H
++
+H2O 
+CH3CHOHCH3
+propan-2-ol
+(CH3)2CO
+propanone
++ [O], heat
+propan-2-ol
+⎯⎯⎯→propanone 
++ 
+H2O
+CH3CHOHCH3
+(CH3)2CO
+Cr2O72–
+⎯⎯⎯→Cr3+(aq)
+Distillation apparatus is 
+used to separate liquids with 
+different boiling points. In 
+the oxidation of primary 
+alcohols, the aldehyde has 
+a lower boiling point than 
+the alcohol or the acid, and 
+so is collected as a gas and 
+passes into the condensing 
+tube, which is surrounded by 
+cold flowing water. The gas 
+condenses back to a liquid 
+which is collected in the 
+beaker at the bottom. 
+Structure 3.2 – How 
+does the nature of the 
+functional group in 
+a molecule aﬀ ect its 
+physical properties, such 
+as boiling point?
+Reflux heating using an electric mantle. The heat boils 
+the liquid, allowing the reaction to proceed at the 
+boiling point of the solvent. The tubes bring cooling 
+water to the condenser. Any vapour condenses back 
+into the reaction vessel. This arrangement is used to 
+oxidize primary alcohols to carboxylic acids.
+When you are asked 
+for the conditions for 
+the oxidation reactions 
+for primary alcohols, 
+make sure that you 
+specify the aldehyde is 
+produced by distillation 
+and the carboxylic acid 
+by reflux. 
+Reactions of alcohols. 
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+
+
+536
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Tertiary alcohols have no H atoms attached to the carbon bonded to the hydroxyl 
+group and so are not readily oxidized without breaking the carbon chain. The carbon 
+skeleton of the molecule is broken in combustion.
+H
+C
+H
+H
+C
+CH3
+OH
+C
+H
+H
+H
+1[O], heat
+2-methylpropan-2-ol
+no reaction
++ [O], heat
+2-methylpropan-2-ol ⎯⎯⎯→no reaction
+H+/Cr(VI) ⎯⎯⎯→no change in colour
+The colour change observed with potassium dichromate(VI), when it acts as an oxidizing 
+agent from orange to green, is used to distinguish primary and secondary alcohols from 
+tertiary alcohols. As there is no reaction with the tertiary alcohols, there is no colour change. 
+Alcohol
+Oxidation product
+Colour change with acidiﬁ ed K2Cr2O7(aq)
+primary alcohol
+aldehyde → carboxylic acid
+orange → green
+secondary alcohol
+ketone
+orange → green
+tertiary alcohol
+not oxidized
+no colour change
+Worked example 
+Alcoholic drinks are 
+widely consumed 
+globally. However, as 
+blood alcohol levels 
+rise, a person’s balance 
+and judgement could 
+be impaired. Most 
+countries have set 
+legal limits of alcohol 
+consumption for 
+activities such as 
+driving. Analysis of 
+ethanol concentration 
+is based on samples 
+of breath, blood 
+or urine. Common 
+techniques use the 
+oxidation reactions of 
+ethanol in fuel cells or 
+photocells (in which 
+orange Cr2O72− is 
+reduced to green Cr3+). 
+Alcohol abuse can be 
+a major contributor to 
+social and economic 
+problems in society.
+(a) Deduce the half-equations of oxidation and reduction for the reaction between 
+ethanol and acidiﬁ ed potassium dichromate(VI) to produce ethanoic acid.
+(b) Deduce the overall reaction.
+Reactivity 1.3 – What is 
+the diﬀ erence between 
+combustion and 
+oxidation of an alcohol? 
+The colour of the alcohol 
+solutions after oxidation with 
+potassium dichromate(VI) 
+solution, K2Cr2O7, which 
+is orange. Primary and 
+secondary alcohols are 
+oxidized, to carboxylic acids 
+and ketones respectively, and 
+the Cr2O72− is reduced to 
+green Cr3+. Tertiary alcohols 
+are not oxidized.
+
+
+537
+REACTIVITY 3.2
+Electron transfer reactions
+Solution
+(a) Consider ﬁ rst the oxidation: ethanol → ethanoic acid
+We need to calculate the average oxidation state of carbon in each molecule.
+The average oxidation state of C in ethanol =  
+(−6 + 2)
+_______
+2 
+ = −2
+The average oxidation state of C in ethanoic acid =  
+(−4 + 4)
+_______
+2 
+ = 0
+As both carbon atoms increase their oxidation state by +2, 4 electrons are released.
+C2H5OH(aq)→ CH3COOH(aq)+4e−
+We add 4H+ to balance the charges:
+C2H5OH(aq) → CH3COOH(aq) +4e− + 4H+(aq)
+We add H2O to balance the H and the O atoms:
+C2H5OH(aq)+ H2O(l)→ CH3COOH(aq)+4e− + 4H+(aq)
+Now consider the reduction: Cr2O72−(aq)→ 2Cr3+(aq)
+The oxidation state of Cr in Cr2O72− = +6 and the oxidation state of Cr in Cr3+ = +3
+As both chromium atoms decrease their oxidation state by 3, 6 electrons 
+are released.
+Cr2O72−(aq)  + 6e− → 2Cr3+(aq)
+Add 14H+(aq)to balance the charges:
+Cr2O72− (aq)  +6e− + 14H+(aq)→ 2Cr3+(aq)
+Add 7H2O(l)  to balance the H and O atoms:
+Cr2O72−(aq)   +6e− + 14H+(aq)  → 2Cr3+(aq)  + 7H2O(l)
+(b) To deduce the overall reaction, balance the number of electrons in the half-
+reactions:
+Cr2O72−(aq) + 6e− + 14H+(aq)→ 2Cr3+(aq)+ 7H2O(l)
+C2H5OH(aq) + H2O(l) → CH3COOH(aq) + 4e− + 4H+
+12 is a common multiple
+2Cr2O72−(aq)+12e− + 28H+(aq)→ 4Cr3+(aq)+ 14H2O(l)
+3C2H5OH(aq) + 3H2O(l) → 3CH3COOH(aq) + 12e− + 12H+ (aq)
+Adding the half-reactions and simplifying:
+2Cr2O72−(aq)    +12e−+ 28H+(aq) +3C2H5OH(aq) + 3H2O(l) 
+→ 4Cr3+(aq) + 14H2O(l) + 3CH3COOH(aq) +12e−+ 12H+(aq)
+2Cr2O72−(aq)+ 16H+(aq) + 3C2H5OH(l) → 4Cr3+(aq) + 11H2O(l) + 3CH3COOH(aq)
+
+
+538
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Challenge yourself
+9. Deduce the half-equations of oxidation and reduction for oxidation of ethanol 
+to produce ethanal with acidified potassium dichromate(VI) and state the 
+overall reaction.
+10. Deduce the half-equations for the oxidation of ethanol focusing on the change 
+of oxidation state of the carbon in the hydroxyl group.
+Q35. Identify the product when CH3CH2CH(OH)CH3 is reacted with acidiﬁ ed 
+potassium dichromate(VI).
+A 
+CH3CH2COOCH3
+B 
+CH3CH2CH2CHO
+C 
+CH3CH2COCH3
+D 
+CH3CH2CH2COOH
+Q36. Identify the compound produced when propan-1-ol is oxidized using 
+acidiﬁ ed potassium dichromate(VI), K2Cr2O7(aq), under two different 
+conditions.
+Reaction mixture heated 
+under reflux
+Product distilled as the 
+oxidizing agent is added
+A
+propanone 
+propanal
+B
+propanone 
+propanoic acid
+C
+propanoic acid
+propanal
+D 
+propanal
+propanoic acid
+Q37. Identify the compound with the highest boiling point.
+A 
+CH3CH2 CH2CH3
+B 
+CH3CH2CH2OH
+C 
+CH3OCH2CH3
+D 
+CH3CH2CHO
+Q38. Write equations for the complete combustion of butanol and pentanol.
+Q39. Predict the products of heating the following alcohols with acidiﬁ ed 
+potassium dichromate(VI) solution, and the colour changes that would be 
+observed in the reaction mixture.
+(a) butan-2-ol 
+(b) methanol (product collected by distillation)
+(c) 2-methylbutan-2-ol
+Exercise
+
+
+539
+REACTIVITY 3.2
+Electron transfer reactions
+Reactivity 3.2.10 – Reduction of functional 
+groups in organic compounds
+Reactivity 3.2.10 – Functional groups in organic compounds may undergo reduction.
+Deduce equations to show reduction of carboxylic acids to primary alcohols via the aldehyde, 
+and reduction of ketones to secondary alcohols.
+Include the role of hydride ions in the 
+reduction reaction.
+Names and formulas of speciﬁ c reducing 
+agents and the mechanisms will not be 
+assessed.
+Structure 3.1 – How can oxidation states be used 
+to show that the following molecules are given 
+in increasing order of oxidation: CH4, CH3OH, 
+HCHO, HCOOH, CO2?
+Reduction of carbonyl compounds
+It is often convenient in organic chemistry to analyze redox reactions in terms of gain and 
+loss of oxygen or hydrogen, rather than in terms of electrons. As we saw in the last section, 
+the oxidation of secondary alcohols to ketones involves the removal of two H atoms. We 
+can reverse this process: ketones can be reduced to secondary alcohols by adding two H 
+atoms. The reducing agent used provides the hydrogens in the form of H− and H+ ions. The 
+carbonyl group is polar with a partial positive charge on the carbon atom and so can be 
+attacked by species with a lone pair of electrons. As discussed in Reactivity 3.4, the hydride 
+ion, H− is acting as a nucleophile on the electron-deficient carbonyl carbon.
+Aldehydes can be reduced to primary alcohols in a similar reaction.
+Carboxylic acids can also be reduced to aldehydes. We can show these reactions using 
+‘[+ H]’ to represent reduction, in the same way as we used ‘[+ O]’ to represent oxidation 
+of alcohols. Some examples are given below.
+CH3COOH
+⎯⎯→ 
+CH3CHO
+⎯⎯→ 
+CH3CH2OH
+Conditions: heat with LiAlH4 in dry ether. The reaction cannot be stopped at the 
+aldehyde as it reacts too readily with LiAlH4.
+(CH3)2CO
+⎯⎯→ 
+(CH3)2CHOH
+The reduction reactions are summarized in the table.
+Attacking 
+species 
+Reactive site
+Functional group 
+attacked
+Functional group formed
+H− (hydride ion)
+R
+O
+C
+δ+
+carboxylic acid
+aldehyde
+primary 
+alcohol
+ketone
+secondary 
+alcohol 
+ethanoic acid
+carboxylic acid
+[+ H]
+ethanal
+aldehyde
+[+ H]
+ethanol
+primary alcohol
+propanone
+ketone
+[+ H]
+propan-2-ol
+secondary alcohol
+C
+R
+H
+H
+OH
+C
+R
+H
+R
+OH
+
+
+540
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Worked example 
+(a) Predict the product when pentan-2-one is reduced.
+(b) Predict the product when butanoic acid is reduced.
+Solution
+(a) Draw the condensed formula with 
+carbonyl group:
+CH3CH2CH2CCH3
+O
+pentan-2-one
+Add H atoms to the carbonyl group:
+CH3CH2CH2CHCH3
+OH
+pentan-2-ol
+(b) Draw the condensed formula with 
+carbonyl group:
+CH3CH2CH2COH
+O
+butanoic acid
+Replace OH group by H:
+CH3CH2CH2CH
+O
+butanal
+Aldehydes are further reduced by 
+LiAlH4 with H atoms added to carbonyl 
+group.
+CH3CH2CH2CH2
+OH
+butan-1-ol
+Worked example 
+Deduce the half-equations for the reduction of methanoic acid to methanol.
+Solution
+HCOOH → CH3OH
+The oxidation state of C in methanoic acid = −2 + 4 = +2
+The oxidation state of C in methanol = −4 + 2 = –2
+The carbon atom decreases its oxidation state by 4, so 4 electrons are needed:
+HCOOH + 4e−→ CH3OH
+Add 4H+ to balance the charges:
+HCOOH + 4H+ + 4e−→ CH3OH
+Add H2O to balance the H and the O atoms:
+HCOOH + +4e− + 4H+ → CH3OH + H2O
+Challenge yourself
+11. Deduce the half-equations for the reduction of methanal. 
+
+
+541
+REACTIVITY 3.2
+Electron transfer reactions
+In the previous sections we have seen how alcohols, aldehydes, ketones and carboxylic 
+acids can be interconverted by redox reactions. The degree of oxidation can be indicated 
+by the oxidation state of the carbon atom as shown in the previous Worked example. 
+Q40. Identify the compound which can be reduced to an aldehyde.
+A
+C
+H3C
+CH3
+O
+B
+C
+OH
+CH2
+H3C
+O
+C
+CH2
+OH
+CH2
+H3C
+D
+CH
+H3C
+CH3
+OH
+Q41. Identify the class of compounds which are produced when RCOR’ 
+are reduced.
+A 
+ROR’ 
+B 
+RCOOR’ 
+C 
+RCH(OH)R’ 
+D 
+RCOOH
+Q42. Explain how the following reduction reactions are carried out 
+in the laboratory:
+(a) propanoic acid to propanol
+(b) ethanal to ethanol
+Q43. Deduce the half-equations for the reduction of ethanal with 
+sodium borohydride.
+Exercise
+Reactivity 3.2.11 – Reduction of unsaturated 
+compounds
+Reactivity 3.2.11 – Reduction of unsaturated compounds by the addition of hydrogen 
+lowers the degree of unsaturation.
+Deduce the products of the reactions of hydrogen with alkenes and alkynes.
+Reactivity 3.4 – Why are some reactions of 
+alkenes classiﬁ ed as reduction reactions while 
+others are classiﬁ ed as electrophilic addition 
+reactions?
+Alkenes and alkynes are unsaturated hydrocarbons and undergo addition reactions
+to form a range of different saturated products. The alkenes generally react by 
+electrophilic addition as discussed in Reactivity 3.4.
+Alkenes can be reduced to alkanes by reacting with hydrogen:
+CnH2n + H2 → CnH2n+2
+Propene, for example, reacts with hydrogen in the presence of a nickel catalyst at 
+about 150 °C:
+Structure 3.1 – How 
+can oxidation states be 
+used to show that the 
+following molecules 
+are given in increasing 
+order of oxidation: 
+CH4, CH3OH, HCHO, 
+HCOOH, CO2?
+
+
+542
+REACTIVITY 3
+What are the mechanisms of chemical change?
+C
+H
+C
+H
+C
+H
+H 1 H2
+H
+H
+C
+H
+H
+H
+C
+H
+H
+C
+H
+H
+H
+⎯→
+CH3CHCH2 + H2 ⎯⎯⎯→ CH3CH2CH3
+The nickel catalyst provides a surface for the reactant molecules to come together 
+with the correct orientation. The hydrogen atoms add to the two carbon atoms 
+simultaneously and the products leave the surface once the reaction is complete.
+The hydrogenation of ethenes should be contrasted with halogenation which is an 
+electrophilic addition where the chlorine atoms are added in two separate steps. 
+Unsaturated fatty acids have one or more carbon–carbon double bonds. As double bonds 
+cannot rotate, the unsaturated carbon chains have kinks which make it more difficult for the 
+molecules to pack closely together. The intermolecular forces are weaker, and the melting 
+points are lower. Unsaturated fats are liquid oils under normal conditions. Hydrogenation 
+is used in the margarine industry to convert oils containing many unsaturated hydrocarbon 
+chains into more saturated compounds which have higher melting points. This is done so 
+that margarine will be a solid at room temperature. However, there are widespread concerns 
+about the health effects of so-called trans fats, produced by partial hydrogenation. 
+Similarly, alkynes can be reduced to alkenes and alkanes.
+C
+C
+H
+H
+H2
++
+C
+H
+H
+C
+H
+H
+C
+C
+H
+H
+H
+2H2
++
+C
+C
+H
+H
+H
+H
+H
+The number of molecules of H2 needed to convert the organic molecule to the 
+corresponding saturated molecule is related to the number of multiple bonds in the 
+molecule. The alkenes have the general molecular formula CnH2n so one molecule of 
+hydrogen reacts with the carbon–carbon double bond of the alkenes to form alkanes 
+with the general formula CnH2n+2. Similarly, alkynes with a triple bond have the general 
+molecular formula CnH2n−2 and react with two molecules of hydrogen to form the 
+saturated alkanes. 
+Q44. Outline how vegetable oils are converted to margarine and explain the 
+difference in their melting points.
+Q45. Deduce the molecular structure of the reduction products of the following.
+(a) CH3COCH3
+(b) CH3CO2H
+(c) CH2CHCl
+(d) C3H4
+Exercise
+propene
+Ni catalyst
+150 °C
+propane
+Reactivity 3.4 – Why 
+are some reactions of 
+alkenes classiﬁ ed as 
+reduction reactions 
+while others are 
+classiﬁ ed as electrophilic 
+addition reactions?
+Be careful not to 
+confuse the terms 
+hydrogenation (addition 
+of hydrogen) with 
+hydration (addition 
+of water).
+
+
+543
+REACTIVITY 3.2
+Electron transfer reactions
+What happens when electrons are transferred?
+Guiding Question revisited
+In this chapter we have explored electron transfer or redox reactions:
+• Oxidation is electron loss and reduction is electron gain. The two processes can 
+be shown in terms of half-reactions.
+• Oxidation and reduction can be identified by changes in oxidation state. A 
+species with an element whose oxidation state is increased is oxidized. A species 
+with an element with a decreased oxidation state is reduced.
+• The oxidizing agent is the species that is reduced, and the reducing agent is the 
+species that is oxidized.
+• When the electron transfer in a spontaneous reaction occurs via an outside 
+circuit, it can be used to produce an electric current. Electrons flow from anode 
+to cathode in the external circuit and ions move between the electrodes in the 
+electrolyte.
+• Only reactive metals with negative electrode potentials produce hydrogen gas 
+when added to dilute acids.
+• A primary cell produces electricity from reagents which are used up in an 
+irreversible chemical reaction. A secondary cell can be recharged as the cell 
+reaction is reversible. In a fuel cell the reagents are supplied as it operates.
+• Electricity can be used to drive non-spontaneous reactions.
+• Electrolysis can be used to break down stable compounds in the molten state. It 
+is used to extract reactive metals.
+• Reduction occurs at the cathode and oxidation occurs at the anode in both 
+voltaic and electrolytic cells.
+• Oxidation reactions in organic chemistry involve the addition of oxygen or the 
+removal of hydrogen. Alcohols and aldehydes are oxidized by oxidizing agents. 
+When oxidizing agents contain a transition metal, there is a colour change as 
+the oxidation state changes.
+• Reduction reactions in organic chemistry involve the addition of hydrogen 
+or the removal of oxygen. The alkenes and alkynes are reduced by H2 adding 
+across a C=C bond. The aldehydes, ketones and carboxylic acids are reduced by 
+reducing agents with the H− ion, which react with the partially positive charge 
+of the carbon atom in the carbonyl group.
+
+
+544
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Practice questions
+1. Which conditions are required to obtain a good yield of a carboxylic acid when 
+ethanol is oxidized using potassium dichromate(VI), K2Cr2O7(aq)?
+I. 
+add sulfuric acid
+II. heat the reaction mixture under reﬂ ux
+III. distil the product as the oxidizing agent is added
+A 
+I and II only
+B 
+I and III only 
+C 
+II and III only
+D 
+I, II and III
+2. Which species could be reduced to form NO2?
+A 
+N2O
+B 
+NO3−
+C 
+HNO2
+D 
+NO 
+3. Which statements are correct for electrolysis?
+I. 
+An exothermic reaction occurs.
+II. Oxidation occurs at the anode (positive electrode).
+III. The reaction is non-spontaneous.
+A 
+I and II only
+B 
+I and III only
+C 
+II and III only
+D 
+I, II and III
+4. 
+A student performed displacement reactions using metals W and X and solutions 
+of salts of metals W, X, Y and Z. The results are summarized in the table.
+Salt solution
+W2+
+X2+
+Y2+
+Z2+
+Metal
+W
+Reaction
+No reaction
+No reaction
+X
+Reaction
+Reaction
+No reaction
+Which of the four metals is most reactive?
+A 
+W
+B 
+X
+C 
+Y
+D 
+Z
+
+
+545
+REACTIVITY 3.2
+Electron transfer reactions
+5. Consider the following reaction.
+MnO4−(aq) + 8H+(aq) + 5Fe2+(aq) → Mn2+(aq) + 5Fe3+(aq) + 4H2O(l)
+Which statement is correct?
+A
+MnO4− is the oxidizing agent and it loses electrons.
+B 
+MnO4− is the reducing agent and it loses electrons.
+C 
+MnO4− is the oxidizing agent and it gains electrons.
+D
+MnO4− is the reducing agent and it gains electrons.
+6. Which coefﬁ cients correctly balance this redox equation?
+(a) Fe2+(aq) + MnO4−(aq) +
+(b) H+(aq) →
+(c) Fe3+(aq) + Mn2+(aq) +
+(d) H2O(l)
+a
+b
+c
+d
+A
+1
+8
+1
+4
+B
+5
+4
+5
+2
+C
+3
+4
+3
+2
+D
+5
+8
+5
+4
+7. What is the reducing agent in the reaction below?
+2MnO4−(aq) + Br−(aq) + H2O(l) → 2MnO2(s) + BrO3−(aq) + 2OH−(aq)
+A 
+Br−
+B 
+BrO3−
+C 
+MnO4−
+D 
+MnO2
+8. Which changes could take place at the positive electrode (cathode) in a 
+voltaic cell?
+I. 
+Zn2+(aq) to Zn(s)
+II. Cl2(g) to Cl−(aq)
+III. Mg(s) to Mg2+(aq)
+A 
+I and II only
+B 
+I and III only
+C 
+II and III only
+D 
+I, II and III
+
+
+546
+REACTIVITY 3
+What are the mechanisms of chemical change?
+9. What happens at the negative electrode in a voltaic cell and in an 
+electrolytic cell?
+Voltaic cell
+Electrolytic cell
+A
+oxidation
+reduction
+B
+reduction
+oxidation
+C
+oxidation
+oxidation
+D
+reduction
+reduction
+10. (a) Magnetite, Fe3O4, is an ore of iron that contains both Fe2+ and Fe3+.
+Deduce the ratio of Fe2+ : Fe3+ in Fe3O4. 
+(1)
+(b) In acidic solution, hydrogen peroxide, H2O2, will oxidize Fe2+.
+Fe2+(aq) → Fe3+(aq) + e−
+Write the half-equation for the reduction of hydrogen peroxide to 
+water in acidic solution. 
+(1)
+(c) Deduce a balanced equation for the oxidation of Fe2+ by acidiﬁ ed 
+hydrogen peroxide. 
+(1)
+(Total 3 marks)
+11. (a) The diagram shows an incomplete voltaic cell with a light bulb in 
+the circuit.
+Mg (s)
+MgSO4 (aq)
+Ag (s)
+AgNO3 (aq)
+Identify the missing component of the cell and its function. 
+(2)
+(b) Deduce the half-equations for the reaction at each electrode when 
+current ﬂ ows. 
+(2)
+(c) Annotate the diagram with the location and direction of electron 
+movement when current ﬂ ows. 
+(1)
+(Total 5 marks)
+
+
+547
+REACTIVITY 3.2
+Electron transfer reactions
+12. (a) Outline two differences between an electrolytic cell and a voltaic cell. 
+(2)
+(b) Explain why solid sodium chloride does not conduct electricity but 
+molten sodium chloride does. 
+(2)
+(c) Molten sodium chloride undergoes electrolysis in an electrolytic cell. For 
+each electrode deduce the half-equation and state whether oxidation or 
+reduction takes place. Deduce the equation of the overall cell reaction 
+including state symbols. 
+(5)
+(d) Electrolysis has made it possible to obtain reactive metals such 
+as aluminium from their ores, which has resulted in signiﬁ cant 
+developments in engineering and technology. State one reason why 
+aluminium is preferred to iron in many uses. 
+(1)
+(Total 10 marks)
+13. Fuel cells may be twice as efﬁ cient as the internal combustion engine. 
+Although fuel cells are not yet in widespread use, NASA has used a basic 
+hydrogen–oxygen fuel cell as the energy source for space vehicles.
+(a) State the half-equations occurring at each electrode in the hydrogen-
+oxygen fuel cell in an alkaline medium. 
+(2)
+(b) Describe the composition of the electrodes and state the overall cell 
+equation of a nickel–cadmium battery. 
+(3)
+(Total 5 marks)
+14. The high activity of lithium metal leads to the formation of an oxide layer on 
+the metal which decreases the contact with the electrolyte in a battery.
+(a) Suggest how this is overcome in the lithium-ion battery. 
+(2)
+(b) Describe the migration of ions taking place at the two electrodes in the 
+lithium-ion battery when it produces electricity. 
+(2)
+(c) Discuss one similarity and one difference between fuel cells and 
+rechargeable batteries. 
+(2)
+(Total 6 marks)
+
+
+548
+REACTIVITY 3
+What are the mechanisms of chemical change?
+15. Aluminium and its alloys are widely used in industry.
+(a) Aluminium metal is obtained by the electrolysis of alumina dissolved in 
+molten cryolite.
+(i) Suggest the function of the molten cryolite.
+(1)
+(ii) State the half-equations for the reactions that take place at each 
+electrode.
+(2)
+(b) Outline two different ways that carbon dioxide may be produced
+during the production of aluminium.
+(2)
+(Total 5 marks)
+16. (a) Explain why iron is obtained from its ores using chemical reducing
+agents but aluminium is obtained from its ores using electrolysis.
+(2)
+(b) Both carbon monoxide and hydrogen can be used to reduce iron ores. 
+State the equations for the reduction of magnetite, Fe3O4, with
+(i) carbon monoxide
+(ii) hydrogen.
+(2)
+(Total 4 marks)
+17. Aluminium is the most abundant metal in the Earth’s crust.
+(a) State the materials used for the positive and negative electrodes in the 
+production of aluminium by electrolysis.
+(2)
+(b) Discuss why it is important to recycle aluminium.
+(2)
+(Total 4 marks)
+18. Brass is a copper-containing alloy with many uses. An analysis is carried out to 
+determine the percentage of copper present in three identical samples of brass. 
+The reactions involved in this analysis are shown below.
+Step 1: Cu(s) + 2HNO3(aq) + 2H+(aq) → Cu2+(aq) +2NO2(g) + 2H2O(l) 
+Step 2: 4I−(aq) + 2Cu2+(aq) → 2CuI(s) + I2(aq) 
+Step 3: I2(aq) + 2S2O32−(aq) → 2I−(aq) + S4O62−(aq) 
+(a) (i) Deduce the change in the oxidation numbers of copper and 
+nitrogen in step 1.
+(2)
+(ii) Identify the oxidizing agent in step 1.
+(1)
+(b) A student carried out this experiment three times with three identical small 
+brass nails and obtained the following results.
+mass of brass = 0.456 g ± 0.001 g
+Titre
+1
+2
+3
+Initial volume of 0.100 mol dm−3 S2O32− (±0.05 cm3)
+0.00
+0.00
+0.00
+Final volume of 0.100 mol dm−3 S2O32− (±0.05 cm3)
+28.50
+28.60
+28.40
+Volume added of 0.100 mol dm−3 S2O32− (±0.10 cm3)
+28.50
+28.60
+28.40
+Average volume added of 0.100 mol dm−3 S2O32− (±0.10 cm3)
+28.50
+
+
+549
+REACTIVITY 3.2
+Electron transfer reactions
+(i) Calculate the average amount, in mol, of S2O32− added in step 3. 
+(2)
+(ii) Calculate the amount, in mol, of copper present in the brass. 
+(1)
+(iii) Calculate the mass of copper in the brass. 
+(1)
+(iv) Calculate the percentage by mass of copper in the brass. 
+(1)
+(v) The manufacturers claim that the sample of brass contains 44.2% 
+copper by mass. Determine the percentage error in the result. 
+(1)
+(Total 9 marks)
+
+
+Electron sharing reactions
+3.3
+REACTIVITY
+
+

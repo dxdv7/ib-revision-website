@@ -1,0 +1,1486 @@
+211
+STRUCTURE2.4
+From models to materials
+From early history, humans have worked to transform readily available natural 
+resources into more useful materials. Civilizations are sometimes characterized by 
+the technology they have developed to accomplish this. The Bronze Age, for example, 
+marks the time when copper was first produced from smelted ores. The extraction 
+of iron from its ores in the blast furnace is probably one of the most significant 
+developments in the Industrial Revolution of the 18th century. These technological 
+advances, however, were largely based on empirical discovery and usually came 
+without a full understanding of the underlying scientific principles.
+As the models we use to explain chemical structure and bonding have advanced, so 
+has our ability to predict the properties of materials. This has enabled us to design 
+structures for specific purposes. Materials that have transformed everyday life, such as 
+superconductors, breathable fabrics and liquid crystals, are only in existence because 
+we have been able to apply advanced bonding theory to their synthesis.
+In this chapter, we first develop a more holistic model of bonding from the three 
+discrete models of ionic, covalent and metallic bonding discussed earlier. This gives 
+us a tool, the bonding triangle, which helps to predict the properties of unknown and 
+new substances. We then describe alloys, which are mixtures of metals, as an example 
+of how changing the bonding within a structure can enhance the resulting properties 
+and uses of a material. Finally, we consider the structure of polymers, which include 
+all plastics. These materials have made such a significant impact, both in terms of 
+convenience in our lives and with respect to some of their damaging environmental 
+effects, that it is suggested the current age may become known as the Plastic Age.
+As the models we use to explain structure and bonding will continue to evolve, so will 
+our ability to develop materials fit for purpose. This innovation in material science 
+must be accompanied by the application of Green Chemistry principles to control the 
+wider impact of these developments on health and the environment.
+Structure 2.4.1 – The bonding triangle 
+Structure 2.4.1 – Bonding is best described as a continuum between the ionic, 
+covalent and metallic models, and can be represented by a bonding triangle.
+Use bonding models to explain the properties of a material.
+A triangular bonding diagram is provided in 
+the data booklet.
+Structure 3.1 – How do the trends in 
+properties of period 3 oxides reﬂ ect the trend 
+in their bonding?
+Nature of science, Structure 2.1, 2.2 – What 
+are the limitations of discrete bonding 
+categories?
+False-colour scanning electron micrograph (SEM) of a ‘hook-and-loop’ material, used as a reversible 
+fastener on clothing and fabric. It is a two-sheet nylon structure with hooks on one surface (right) and 
+loops on the other (left). When the two sheets are pressed together, the hooks attach to the loops, 
+giving a secure grip but one that can be easily undone. Hook-and-loop fasteners are an example of an 
+innovative material that has been designed by application of models of bonding and structure.
+What role do bonding and structure have in the design of materials?
+Guiding Question
+
+
+212
+STRUCTURE2
+Models of bonding and structure
+Chemical bonding is best described as a continuum 
+rather than as discrete bonding types 
+In Structure 2.1, 2.2 and 2.3 we discussed the three models of bonding – ionic, 
+covalent and metallic – as separate categories. Although there are materials that can 
+be described by one of these models alone, often such a classification is an over-
+simplification as most materials are an intermediate between these three bonding 
+types, and so show intermediate properties. We have already encountered this concept 
+in Structure 2.2 with the description of polar bonds, which show some ionic character 
+present in covalent bonds.
+Therefore, a more accurate picture of bonding is a continuum where the different 
+bonding types are present to different degrees. The simplest representation of this is 
+a triangle where each vertex represents one of the three models of bonding. Different 
+materials are then scattered through the triangle, positioned according to the relative 
+amount of each type of bonding they contain.
+ionic
+covalent
+metallic
+A simple bonding triangle showing the three main types of bonding.
+The position of an element or compound in the bonding triangle is determined from 
+its electronegativity values, as these give a measure of the tendency of an atom to gain 
+electrons, and therefore the type of bond it will form. Electronegativity values are 
+given in Section 8 of the data booklet and are shown with the symbol χ. The bonding 
+triangle uses the following axes:
+• x-axis: average electronegativity of bonded elements A and B: Σ∆ =  χA + χB
+_______
+2 
+ 
+• y-axis: electronegativity difference of bonded elements A and B: ∆χ =   χA − χB
+0.79 1.0
+1.5
+% 
+covalent
+% 
+ionic
+2.0
+2.5
+average electronegativity ∑χ = (χA + χB)
+electronegativity difference ∆χ 
+3.0
+3.5
+2
+4.0
+3.0
+8
+25
+50
+75
+100
+92
+75
+50
+25
+0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+electronegativity 
+difference 
+∆χ = (χA – χB)
+metallic
+covalent
+polar
+covalent
+ionic
+To what extent do the 
+classification systems 
+we use in the pursuit 
+of knowledge affect 
+the conclusions that 
+we reach?
+Properties of ionic and 
+covalent compounds. 
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+The bonding triangle 
+is fully described as 
+the ‘van Arkel–Ketalaar 
+triangle of bonding’ 
+after the two Dutch 
+chemists credited with 
+its development in 
+the mid-20th century. 
+Anton van Arkel ﬁ rst 
+proposed the triangle 
+and applied it mostly to 
+elements. Jan Ketelaar 
+extended his ideas to 
+more compounds. 
+Others worked in this 
+ﬁ eld and used various 
+parameters to describe 
+the properties of the 
+bonded atoms, but 
+electronegativity values 
+became the established 
+basis for determining 
+positions in the 
+triangle. 
+The bonding triangle. 
+Calculations of the 
+electronegativity 
+difference and the average 
+electronegativity of the 
+bonded atoms determine 
+the position of a material 
+in the triangle. In turn, this 
+position helps to predict the 
+properties of a material. 
+
+
+213
+STRUCTURE2.4
+From models to materials
+Elements have zero electronegativity difference between their atoms, and so are 
+positioned on the x-axis, metals on the left (low electronegativity) and non-metals 
+on the right (high electronegativity). Ionic compounds with high electronegativity 
+difference are found at the top centre, while covalent compounds with low 
+electronegativity differences are found in the lower right corner. Polar covalent 
+compounds occupy the intermediate position.
+From these positions in the triangle and knowledge of the characteristics of each 
+bonding type, we are able to deduce the expected properties of a material.
+Nature of Science
+The bonding triangle is a tool that has predictive power for the properties 
+of a substance.
+Cement and mortar: 
+investigating the 
+parameters that affect 
+their properties.
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available
+in the eBook. 
+We can illustrate the importance of electronegativity values in determining the 
+type of bonding by looking at the oxides of the elements in period 3. Oxygen has 
+an electronegativity value of 3.4, and as we move from left to right across period 3, 
+the electronegativity of the elements increases and approaches this value, as shown 
+in Figure 1.
+Na
+Mg
+Al
+Si
+elements in order of atomic number
+electronegativity
+P
+S
+Cl
+oxygen
+0
+1
+2
+3
+4
+S2.4 Figure 1 Electronegativity values of the elements of period 3 increase across the period, 
+approaching the value of oxygen.
+As the difference in electronegativity values decreases, so too does the ionic character of 
+the oxides, while the covalent character increases. This trend in bonding explains the 
+trend in physical properties of the period 3 oxides as summarized below.
+Na2O, MgO and Al2O3
+SiO2
+P4O10, SO2 and Cl2O
+properties
+high melting and boiling points, 
+electrical conductors when molten
+high melting and boiling points, 
+non-conductor of electricity
+low melting and boiling points, 
+non-conductors of electricity
+bonding
+ionic metallic oxides
+giant covalent oxide of the 
+metalloid silicon
+covalent non-metallic oxides
+This periodic trend could be predicted by considering the positions of the oxides in the 
+bonding triangle, as shown in Figure 2.
+Structure 3.1 – How 
+do the trends in 
+properties of period 3 
+oxides reﬂ ect the trend 
+in their bonding?
+
+
+214
+STRUCTURE2
+Models of bonding and structure
+0.79 1.0
+1.5
+% 
+covalent
+% 
+ionic
+2.0
+2.5
+average electronegativity ∑χ = (χA + χB)
+electronegativity difference ∆χ 
+3.0
+3.5
+2
+4.0
+3.0
+8
+25
+50
+75
+100
+92
+75
+50
+25
+0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+electronegativity 
+difference 
+∆χ = (χA – χB)
+metallic
+covalent
+polar
+covalent
+ionic
+We have described the classification of bonds into ionic, covalent or metallic as an 
+over-simplification as it can lead to incorrect predictions of physical properties. 
+For example, aluminium chloride, AlCl3, containing a metal and a non-metal, might be 
+classified as ionic, which would suggest a high melting point. Yet the melting point of 
+AlCl3 is significantly lower than that of a similar-sized ionic compound such as NaCl.
+• NaCl mp 801 °C
+• AlCl3 mp 192 °C
+When we determine the positions of these compounds in the bonding triangle (see 
+page 212), we find that AlCl3 has significant covalent character, and this explains 
+its relatively low melting point. The model of a bonding continuum in the bonding 
+triangle allows us to make more accurate predictions of properties.
+Structure 2.4.2 – Application of the bonding 
+triangle 
+Structure 2.4.2 – The position of a compound in the bonding triangle is determined 
+by the relative contributions of the three bonding types to the overall bond.
+Determine the position of a compound in the bonding triangle from electronegativity data.
+Predict the properties of a compound based on its position in the bonding triangle.
+To illustrate the relationship between 
+bonding type and properties, include 
+example materials of varying percentage 
+bonding character. Only binary compounds 
+need to be considered.
+Calculations of percentage ionic character are 
+not required.
+Electronegativity data are given in the data 
+booklet.
+Structure 2.1, 2.2, 2.3 – Why do composites 
+such as reinforced concretes, which are 
+made from ionic and covalently bonded 
+components and steel bars, have unique 
+properties?
+S2.4 Figure 2 The bonding 
+triangle showing the positions 
+of the oxides of period 3 
+elements. These positions 
+reflect the trend in their 
+bonding, and enable us to 
+predict and explain the trend in 
+their properties. 
+Nature of Science, 
+Structure 2.1, 2.2 – What 
+are the limitations 
+of discrete bonding 
+categories?
+Electronegativity 
+values → position 
+of a material in the 
+bonding triangle 
+→ prediction 
+and explanation of 
+many properties.
+
+
+215
+STRUCTURE2.4
+From models to materials
+Electronegativity data are used to determine the 
+position of a compound in the bonding triangle 
+We can calculate the position of elements and binary compounds (those containing only 
+two elements) in the bonding triangle from electronegativity values. For example, consider 
+caesium, fluorine and the compound they react together to form, caesium fluoride.
+Substance
+χaverage
+∆χ
+Position in triangle
+Cs
+0.8
+0.8 − 0.8 = 0.0
+bottom left as 100% metallic; Cs has the 
+lowest absolute electronegativity
+F2
+4.0
+4.0 − 4.0 = 0.0 bottom right corner as 100% molecular 
+covalent
+CsF
+4.0 + 0.8
+_______
+2 
+ = 2.4
+4.0 − 0.8 = 3.2
+top of the triangle as 100% ionic compound; 
+made up of the most electropositive metal 
+and most electronegative non-metal
+Worked example 
+Locate the position of the following substances in the bonding triangle:
+(a) diamond 
+(b) silicon dioxide
+(c) bronze (an alloy of copper and tin)
+Solution
+Substance
+χaverage (x-axis)
+∆χ (y-axis)
+(a) diamond
+2.6
+0.0
+(b) silicon dioxide
+1.9 + 3.4
+_______
+2 
+ = 2.65
+3.4 − 1.9 = 1.5
+(c) Cu/Sn
+1.9 + 2.0
+_______
+2 
+ = 1.95
+2.0 − 1.9 = 0.1
+Plotting these values on the axes of the bonding triangle gives their positions and 
+so their bonding type.
+0.79 1.0
+1.5
+% 
+covalent
+% 
+ionic
+2.0
+2.5
+average electronegativity ∑χ = (χA + χB)
+electronegativity difference ∆χ 
+3.0
+3.5
+2
+4.0
+silicon
+dioxide
+3.0
+8
+25
+50
+75
+100
+92
+75
+50
+25
+0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+electronegativity 
+difference 
+∆χ = (χA – χB)
+metallic
+covalent
+diamond
+bronze
+polar
+covalent
+ionic
+The position of 
+an element or 
+compound in the 
+bonding triangle 
+is determined by 
+the magnitude and 
+difference of the 
+electronegativities 
+of the constituent 
+elements.
+
+
+216
+STRUCTURE2
+Models of bonding and structure
+In the previous section, we considered the bonding in AlCl3 and NaCl. We can 
+determine the positions of these compounds in the bonding triangle, and estimate 
+their percentages of bonding type from the right-hand scale of the triangle.
+Substance
+χaverage
+∆χ
+Position in 
+triangle
+Bonding 
+NaCl
+0.9 + 3.2
+_______
+2 
+ = 2.05
+3.2 – 0.9 = 2.3
+upper centre
+ionic compound,
+approximately 75% ionic
+AlCl3
+1.6 + 3.2
+_______
+2 
+ = 2.4
+3.2 – 1.6 = 1.6
+centre, close to the 
+ionic and covalent 
+border
+polar covalent, 
+approximately 50% 
+covalent
+Composite materials, such as fibreglass and concrete, are heterogeneous mixtures 
+of at least two different materials, which are present as separate phases. As these are 
+mixtures, each component retains its individual properties. The result is a material 
+with enhanced properties designed for specific purposes.
+Adobe bricks drying in the sun 
+in Peru. 
+Construction of a stadium. Reinforcing metal bars (rebar) are fitted before 
+pouring concrete. Concrete is strong in compression but weak in tension. 
+The rebar significantly improves the tensile strength and ductility of 
+concrete structures. 
+Exercise
+Q1. Use data from Section 9 and Section 17 of the data booklet to classify the 
+bonding in the following materials:
+(a) Cl2O 
+ 
+(b) PbCl2 
+ 
+(c) Al2O3 
+ 
+(d) HBr  
+(e) NaBr
+Q2. Copper(II) oxide can be added to give glass a green or blue colour. Deduce the 
+position of copper oxide in the bonding triangle and describe the nature of its 
+structure and bonding.
+Q3. Silicon dioxide and aluminium oxide are important minerals in the Earth’s 
+crust. Use the bonding triangle to deduce their positions and so determine 
+which has the greater covalent character. 
+Composite materials 
+have been made by 
+humans for thousands 
+of years. One of the 
+earliest examples is 
+adobe bricks, which 
+are made from a 
+combination of mud 
+and an organic material 
+such as straw or dung. 
+Dried mud alone is 
+brittle, straw is very 
+strong but difficult 
+to hold in place. The 
+combination produces a 
+material which is strong 
+and easy to shape. 
+Structure 2.1, 2.2, 2.3 
+– Why do composites 
+such as reinforced 
+concretes, which are 
+made from ionic and 
+covalently bonded 
+components and steel 
+bars, have unique 
+properties? 
+
+
+217
+STRUCTURE2.4
+From models to materials
+Structure 2.4.3 – Alloys 
+Structure 2.4.3 – Alloys are mixtures of a metal and other metals or non-metals. They 
+have enhanced properties.
+Explain the properties of alloys in terms of non-directional bonding.
+Illustrate with common examples such as 
+bronze, brass and stainless steel.
+Speciﬁ c examples of alloys do not have to be 
+learned.
+Structure 1.1 – Why are alloys more correctly 
+described as mixtures rather than as 
+compounds?
+Alloys are solutions of metals with enhanced 
+properties 
+Alloys are produced by adding one metal element to another metal (or carbon) in 
+the liquid state, so that the different atoms can mix. As the mixture solidifies, ions of 
+the different metals are scattered through the lattice forming a structure of uniform 
+composition. Alloys contain metallic bonds as the delocalized electrons bind the 
+lattice. The production of alloys is possible because of the non-directional nature of the 
+delocalized electrons and the fact that the lattice can accommodate ions of different sizes.
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
++
++
++
+Alloys consist of different metal ions and a sea of delocalized electrons. 
+The smaller cations (blue) are able to fit in the spaces between the larger 
+cations (yellow) in the lattice structure.
+Making polymers.
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available
+in the eBook.
+Alloys are 
+homogeneous 
+mixtures containing 
+at least one metal, 
+and held together by 
+metallic bonding.
+Molten metal being poured from a vat at the Magnitogorsk iron and 
+steel works, one of the largest metal-working plants in Russia. The 
+production of alloys depends on mixing metals in the molten state. 
+
+
+218
+STRUCTURE2
+Models of bonding and structure
+Alloys have some properties that are distinct from their component elements due to 
+the different packing of the cations in the lattice. The regular arrangement of atoms in a 
+pure metal is interrupted in the alloy by the presence of different cations, making it more 
+difficult for atoms to slip over each other and so change the shape. The alloy is often 
+stronger, more chemically stable, and more resistant to corrosion than its component 
+elements. For example, steel, which is an alloy of iron with less than 2% carbon and 1% 
+manganese and other trace elements, can be 1000 times stronger than iron.
+pure metal
+The shape of a pure metal can be changed as
+the atoms can easily slip over each other.
+alloy
+The presence of atoms of different
+sizes disrupts the regular structure
+and prevents the atoms from
+slipping across each other.
+force
+force
+force
+Some examples of common alloys are shown in the table.
+Name of alloy
+Component metals
+Properties and uses
+steel
+iron with carbon and other 
+elements
+high tensile strength but corrodes, used 
+as a structural material
+stainless steel
+iron with other elements 
+such as nickel and chromium
+widely used in domestic and industrial 
+appliances due to strength and corrosion 
+resistance
+brass
+copper and zinc
+variety of plumbing ﬁ ttings
+bronze
+copper and tin
+coins, medals, tools, heavy gears
+pewter
+tin, antimony and copper
+decorative objects
+duralumin
+aluminium, copper and 
+manganese
+aircraft, boats and machinery due to high 
+strength and resistance to corrosion
+nichrome
+nickel and copper
+heating elements in toasters, electric 
+heaters
+solder
+lead and tin
+joining two metals together, especially in 
+electric circuitry
+sterling silver
+silver and copper
+jewelry, art objects
+Alloys, in common with other mixtures, have no fixed composition. For example, 
+‘steel’ is the general name for a mixture of iron and carbon and other metals in different 
+proportions. So, unlike compounds, alloys cannot be represented by a chemical 
+formula. Alloys form by mixing liquid metals without chemical reaction, and so the 
+components retain metallic properties such as thermal and electrical conductivity, and 
+magnetism in the case of iron-containing alloys.
+Changing the regular 
+packing in the lattice gives 
+alloys enhanced properties 
+compared with the pure 
+metal. 
+You do not need to 
+learn these examples, 
+but you should be able 
+to use examples you 
+choose to explain why 
+the structures of alloys 
+give them enhanced 
+properties compared 
+with their component 
+metals. 
+Nichrome wire, an alloy of 
+nickel and copper, is used 
+when carrying out flame 
+tests in the laboratory. It is a 
+convenient material because 
+it is resistant to oxidation at 
+high temperatures. The lilac 
+colour here indicates that the 
+sample contains potassium. 
+
+
+219
+STRUCTURE2.4
+From models to materials
+Swedish steel-making company SSAB has plans to eliminate its use of coal in its plants by 2045. The 
+company uses hydrogen, produced using clean-energy powered electrolysis, in place of coal – dramatically 
+reducing carbon pollution. The first fossil-fuel-free steel was produced in 2020, and will be brought to 
+market in 2026.
+Challenge yourself
+1. The components of a mixture can usually be separated by physical means. 
+What might be the challenges of trying to separate the metals from an alloy?
+Exercise
+Q4. An alloy is a mixture of metal with which of the following?
+A 
+a second metal or other non-metal material
+B 
+a non-metal material only
+C 
+a second metal only
+D 
+none of the above
+Q5. Which of the following is not an alloy?
+A 
+solder 
+B 
+silver 
+C 
+bronze 
+D 
+brass
+Q6. Explain how alloying can modify the structure and properties of metals.
+Q7.  What is the difference between an alloy and a composite?
+Structure 2.4.4 – Polymers 
+Structure 2.4.4 – Polymers are large molecules, or macromolecules, made from 
+repeating subunits called monomers.
+Describe the common properties of plastics in terms of their structure.
+Examples of natural and synthetic polymers 
+should be discussed.
+Structure 3.2 – What are the structural features 
+of some plastics that make them biodegradable?
+Structure 1.1 – Why 
+are alloys more 
+correctly described as 
+mixtures rather than as 
+compounds?
+Steel manufacture 
+is one of the world’s 
+largest industries and 
+is sometimes used 
+as a measure of a 
+country’s development 
+and economic 
+progress. Global steel 
+production has tripled 
+in the last 50 years, 
+with China and India 
+becoming the world’s 
+top steel-producing 
+nations. Steel is 
+the foundation of 
+buildings, vehicles and 
+industries, including 
+sustainable energy 
+technologies. Plans for 
+sustainability of steel 
+production include 
+moving towards a 
+fossil-fuel-free industry 
+by removing coal from 
+the process. Steel is 
+infinitely recyclable 
+with no loss of quality, 
+and it is estimated that 
+new steel products 
+contain on average 
+30% recycled steel. 
+
+
+220
+STRUCTURE2
+Models of bonding and structure
+The polymers described in this chapter are organic compounds, based on the covalent 
+chemistry of carbon and its unique ability to form stable bonds with itself, with 
+hydrogen and with other elements. To understand these structures, you may find it 
+helpful to first study an introduction to organic chemistry in Structure 3.2.
+Polymers are large molecules made up of repeating 
+subunits 
+Some small molecules, known as monomers, are able to react 
+together to form a linked chain held together by covalent bonds, 
+known as a polymer.
+Polymers are also known as macromolecules, as they are 
+composed of thousands of atoms and so are relatively large 
+compared with other molecules. Polymers vary in the nature of 
+the monomer, and the length and the amount of branching in the 
+chain, and so have a wide range of different properties.
+As polymers are such large molecules, we show their structure as a 
+repeating unit, which has open bonds at each end. It is put in a
+bracket with n, the number of monomers in the polymer, as a subscript.
+C
+n
+X
+X
+C
+X
+X
+(      )
+(      )
+C
+X
+X
+monomer
+the repeating unit
+C
+X
+X n
+This is an example of an addition polymer, described in Structure 2.4.5 on page 222.
+Nature of Science
+Although plastics were one of the key materials of the 20th century, the notion 
+of very large molecules was not widely accepted by the scientific community 
+until 1929. Hermann Staudinger, a German organic chemist, put forward his 
+idea of macromolecules, which he characterized as polymers. He experienced 
+widespread resistance from his academic peers who thought that the newly 
+invented plastics and natural materials such as rubber, starch, and cellulose 
+were bundles of small molecules held together by unknown intermolecular 
+forces. Staudinger’s idea that there was a covalent bond between the units had 
+little support. He was told by one of his colleagues to ‘drop the idea of large 
+molecules.’ The eventual acceptance of Staudinger’s theory was a key step in 
+our understanding that led to the practical development of polymer chemistry. 
+Science is a human activity and it sometimes takes courage to challenge the 
+accepted models of the time.
+Does competition 
+between scientists 
+help or hinder 
+the production of 
+knowledge?
+Hermann Staudinger 
+was the ﬁ rst polymer 
+chemist to be awarded 
+the Nobel Prize in 
+Chemistry in 1953 ‘for 
+his discoveries in the 
+ﬁ eld of macromolecular 
+chemistry ’.
+Polymers are widespread in living things. Molecules such as protein, starch and DNA are 
+examples of natural polymers. Understanding the relationship between the structure 
+and function of these molecules has been a major focus of biochemical research over 
+the last 100 years. Many advances in medicine, such as vaccines and drugs, have been 
+developed from knowledge of the detailed structure and interaction of these polymers.
+We can think of polymer 
+formation as similar to 
+making a chain of paper clips. 
+
+
+221
+STRUCTURE2.4
+From models to materials
+Human-made polymers, known as synthetic polymers, 
+first appeared in the 1930s when raw materials from the 
+petroleum industry became available. This rapidly led to 
+the development of a wide range of new materials known 
+as plastics, a trend which continues to this day. Plastics are 
+synthetic polymers that have widespread uses due to their 
+light weight, low reactivity, water resistance and in some 
+cases their strength. We use plastics in almost every aspect 
+of daily life including packaging, construction, clothing, 
+transportation and machinery. As a result, plastics have 
+become widely distributed in both terrestrial and marine 
+environments.
+The very features that make plastics so useful, such as their 
+unreactivity and water repellency, mean they are often 
+non-biodegradable, that is, they cannot be broken down 
+by natural processes, and so remain in the environment 
+for indefinite periods of time. Accumulation of plastics 
+in natural environments is one of the largest and most 
+pressing environmental concerns of our time.
+Global production of plastics has increased exponentially since 1950 and continues to rise. 
+It is suggested that fossilized plastics may form a distinctive stratal layer, possibly marking the 
+start of the proposed geological epoch the ‘Anthropocene’, the time of significant human 
+impact on Earth’s geology and ecosystems. A high proportion of plastics end up in the 
+oceans where they have a widespread impact on the ecosystem. It is estimated that by 2030 
+there could be 300 million tonnes of accumulated plastic in the oceans. While measures to 
+try to address this include more efficient recycling processes, biodegradable plastics, and 
+plastic-feeding microorganisms, the urgent need is to reduce the source. We can all share 
+some responsibility for decreasing our use of disposable plastics. 
+Molecular model of a 
+coronavirus spike protein 
+(shown in red) bound to 
+human cell receptors (shown 
+in blue). Binding between 
+the spike protein and the 
+receptor enables the virus to 
+enter the human cell, where 
+it replicates itself and can 
+cause disease. Analysis of the 
+structure of the viral protein, 
+a natural polymer, is critical 
+in enabling researchers to 
+develop vaccines against 
+diseases such as Covid-19. 
+Plastic waste washed up on 
+a beach in Ireland. Common 
+plastics include polythene, 
+PVC, nylon, polystyrene and 
+Kevlar®. 
+coronavirus spike protein
+human cell receptor
+
+
+222
+STRUCTURE2
+Models of bonding and structure
+A biodegradable compound can undergo breakdown by microorganisms into end 
+products that are found in nature and therefore not harmful to the environment. 
+Biodegradable plastics may be plant-based, containing starch, lignin or cellulose, 
+and are often produced from corn. The breakdown products are carbon dioxide and 
+water. Swelling of the starch grains in water can help to break down the plastic. Other 
+biodegradable plastics are based on petroleum derivatives and contain catalysts for the 
+breakdown process. Compostable plastics break down along with food and garden 
+waste in the specific conditions found in a compost pile.
+Nature of Science
+It is hard to assess the scale of the impact that plastics have had on society. 
+The manufacture of diverse plastics has brought innovation and progress to 
+our global food supply, clothing, health care and infrastructure. Yet these 
+innovations have come at a significant cost to the environment, and the long-
+term consequences are still being determined. While scientific progress is 
+responsible for both the intended and unintended consequences, it is scientists 
+who must respond to the problems. 
+Structure 2.4.5 – Addition polymers 
+Structure 2.4.5 – Addition polymers form by the breaking of a double bond in each 
+monomer.
+Represent the repeating unit of an addition polymer from given monomer structures.
+Examples should include polymerization 
+reactions of alkenes.
+Structures of monomers do not have to be 
+learned but will be provided or will need to be 
+deduced from the polymer.
+Structure 3.2 – What functional groups 
+in molecules can enable them to act as 
+monomers in addition reactions?
+Reactivity 2.1 – Why is the atom economy 
+100% for an addition polymerization 
+reaction?
+Properties of polymers.
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook. 
+Structure 3.2 – What are 
+the structural features of 
+some plastics that make 
+them biodegradable? 
+Clear plastic pellets made 
+from corn starch. The plastic 
+is biodegradable and can 
+be used for both food and 
+non-food packaging as well 
+as textiles and other materials.
+There is growing 
+evidence that some 
+microorganisms are 
+evolving to break down 
+plastic in their habitat. 
+Genetic analysis of 
+bacteria from different 
+environments has 
+found enzymes that 
+can degrade different 
+types of plastic, where 
+the number and type 
+of enzymes match 
+the amount and type 
+of plastic pollution 
+in different locations. 
+For example, in ocean 
+studies, higher levels 
+of degrading enzymes 
+were found at levels of 
+200–600 m below the 
+surface, matching the 
+higher levels of plastic 
+pollution known to 
+exist at these depths. 
+There is potential to 
+develop these microbial 
+communities for 
+targeted degradation of 
+specific polymers. 
+
+
+223
+STRUCTURE2.4
+From models to materials
+Monomers with double bonds can be used to make 
+addition polymers 
+Addition reactions occur when a multiple bond in a molecule breaks and creates new 
+bonding positions. Alkenes and alkynes are organic compounds that have double and 
+triple carbon–carbon bonds respectively, and so readily undergo addition reactions, 
+as described in Reactivity 3.4. This reactivity also means they can act as monomers in 
+forming addition polymers.
+ 
+ 
+ 
+ 
+Addition polymerization reactions lead to the synthesis of many common plastics. 
+For example, the reaction of ethene, C2H4, undergoing polymerization to form 
+poly(ethene) can be shown as follows.
+C
+n
+H
+H
+C
+H
+H
+(      )
+(      )
+C
+H
+H
+monomer
+ethene
+polymer
+polyethene
+C
+H
+H n
+Similarly, propene polymerizes to form polypropene, often called polypropylene.
+C
+n
+H
+H
+C
+H
+CH3
+(       )
+(       )
+C
+H
+H
+propene
+polypropene
+C
+H
+CH3 n
+Other common addition polymers include polychloroethene, also known as PVC, 
+and PTFE, polytetrafluoroethene, often marketed as Teflon®. Their repeating units are 
+shown below.
+(      )
+C
+F
+F
+PTFE
+C
+F
+F
+n
+(      )
+C
+H
+H
+PVC
+C
+H
+Cl n
+People cannot form a chain 
+until they unfold their arms to 
+release their hands. Similarly, 
+alkenes must break their 
+double bonds in order to join 
+together to form the polymer. 
+An addition polymer 
+is formed when the 
+double bonds of 
+monomer molecules 
+break and make 
+new covalent bonds 
+with neighbouring 
+molecules to form 
+a chain. No other 
+product is formed.
+Structure 3.2 – What 
+functional groups 
+in molecules can 
+enable them to act as 
+monomers in addition 
+reactions?
+The example with 
+propene shows that 
+it is helpful to draw 
+the structure of the 
+monomer with the 
+double bond in the 
+middle and the other 
+groups off at 90°. Then 
+it is easy to see how 
+the monomers link 
+together when the 
+double bond breaks. 
+
+
+224
+STRUCTURE2
+Models of bonding and structure
+Atom economy is a measure of the proportion of reactant that ends up in the desired 
+product, based on the reaction’s stoichiometry.
+% atom economy =  molar mass of desired product 
+ 
+ 
+_________________________ 
+ 
+ 
+molar mass of all reactants  × 100 
+Addition polymerization reactions do not generate a by-product and so convert 
+100% of reactants into product. This does not mean, however, that there is no waste 
+or environmental impact of these reactions. A reaction yield of less than 100% means 
+there will be unreacted monomer at the end of the process. Also, many polymerization 
+reactions use solvents and conditions of high temperature, pressure and/or catalysts – 
+all of which must be considered as part of an environmental assessment of the process.
+Worked example 
+Deduce the structure of the addition polymer formed from propene. You should 
+include three repeating units in the structure.
+Solution
+1. Draw three structures with the alkene double bond in the middle:
+C
+H
+H
+C
+CH3
+C
+H
+H
+C
+CH3
+C
+H
+H
+H
+H
+H
+C
+CH3
+2. Open the double bond in each molecule so that single bonds extend in 
+both directions:
+C
+H
+H
+C
+CH3
+C
+C
+C
+H
+H
+CH3 H
+H
+H
+H
+H
+C
+CH3
+Microplastics are 
+small plastic pieces 
+less than 5 mm long, 
+which harm marine 
+life and enter the food 
+chain. Microplastics 
+come from a variety 
+of sources, including 
+larger plastic debris that 
+degrades into smaller 
+and smaller pieces. 
+Microbeads are a type 
+of microplastic, mostly 
+derived from health 
+and beauty products, 
+that pass through water 
+filtration systems. 
+Reactivity 2.1 – Why 
+is the atom economy 
+100% for an addition 
+polymerization 
+reaction?
+Coloured scanning electron 
+micrograph (SEM) of particles 
+found within a cosmetic 
+facial scrub. A single shower 
+can result in 100 000 plastic 
+particles entering the ocean. 
+Legislation to ban the use of 
+microbeads is currently under 
+discussion in many countries. 
+
+
+225
+STRUCTURE2.4
+From models to materials
+Challenge yourself
+2. Draw the repeating unit in polystyrene, given that the formula of the monomer 
+is C6H5CHCH2. 
+Exercise
+Q8. What do poly(ethene) and ethene have in common?
+A 
+same molecular formula
+B 
+same empirical formula
+C 
+same physical properties
+D 
+same chemical properties
+Q9. The repeating unit of a polymer is shown:
+(               )
+C
+H
+C2H5
+C
+H
+C2H5
+C
+Cl
+H
+C
+Cl
+H
+Which structure shows the monomer used to make this polymer?
+A
+C
+C2H5
+H
+H
+C
+Cl
+H
+H
+B 
+C
+C2H5
+Cl
+H
+C
+H
+H
+H
+C
+C
+C2H5
+H
+C
+H
+Cl
+D 
+C
+C2H5
+Cl
+C
+H
+H
+Q10.  Part of the structure of a polymer is shown:
+CH
+CH3
+CH2
+CH3
+CH3
+CH
+CH2
+CH
+CH2
+Which is the monomer used to make this polymer?
+A 
+C3H6 
+B 
+C6H12 
+C 
+C3H8 
+D 
+C6H14
+Q11. Distinguish between the terms recyclable, biodegradable and reusable as 
+applied to plastics. What are the advantages and disadvantages of each of 
+these in helping to reduce the environmental impact of plastics? What other 
+ways can we help to reduce the amount of plastic waste accumulating in the 
+oceans?
+Addition polymers 
+are found almost 
+universally in daily 
+life. Poly(ethene) has 
+excellent insulating 
+properties and is 
+commonly used in 
+household containers, 
+water tanks, and piping. 
+Polypropylene is used 
+in the manufacture 
+of clothing, especially 
+thermal wear for 
+outdoor activities. PVC 
+is used in all forms of 
+construction materials, 
+packaging, electrical 
+cable sheathing etc. 
+There is controversy 
+regarding its use, 
+linked to health and 
+environmental 
+concerns, because 
+of its high chlorine 
+content which makes 
+it difficult to recycle. 
+Some countries are 
+banning the use of 
+PVC in packaging. PTFE 
+has a very low surface 
+friction so it is widely 
+used in non-stick pans. 
+It also makes up one of 
+the layers in waterproof, 
+breathable fabrics 
+such as GoreTex®. The 
+resistance of PTFE to 
+van der Waals’ forces 
+means that it is the only 
+known surface to which 
+a gecko cannot stick.
+
+
+226
+STRUCTURE2
+Models of bonding and structure
+What role do bonding and structure have in the design of materials?
+Guiding Question revisited
+In this chapter we used models of bonding to describe and explain the properties of 
+some important materials.
+• Bonding in materials is best described as a continuum rather than as discrete 
+types, and can be represented as a triangle of bonding.
+• The position of an element or compound in the bonding triangle is determined 
+from electronegativity values.
+• From the position of a substance in the bonding triangle, we can deduce its 
+bonding and predict its properties.
+• Alloys are homogeneous mixtures of metals with enhanced properties.
+• Metals are able to form alloys because of the non-directional nature of metallic 
+bonding.
+• Polymers are macromolecules composed of subunits called monomers held 
+together by covalent bonds.
+• Addition polymers form from monomers that possess a double bond which can break 
+to create new bonding positions for the attachment of neighbouring monomers.
+• Addition polymerization reactions do not yield a by-product.
+• Plastics are polymers with properties that give them widespread uses in almost 
+all aspects of society.
+• The distinct properties of plastics also cause them to accumulate in the 
+environment without being broken down.
+• Use of biodegradable plastics and recycling programs are important steps to 
+improve the processing of plastic waste, but the urgent need is to reduce the 
+global production of plastic.
+Practice questions
+1.  
+What are alloys with two components called? 
+A 
+binary alloy 
+B 
+binary compound 
+C 
+ternary alloy  
+D 
+metallic compound
+2.  
+Which of the following cannot be deduced from the position of an unknown 
+substance X in the bonding triangle?
+A 
+the chemical formula of X 
+B 
+the type of bonding in X
+C 
+the physical properties of X 
+D 
+ whether X is an element or a 
+compound
+3. 
+Which of the following is not an addition polymer?
+A 
+polyester 
+B 
+polystyrene
+C 
+poly(ethene) 
+D 
+poly(tetraﬂ uoroethene)
+4.  
+In the bonding triangle, substance X is found in the top right, substance Y is 
+found in the bottom left and substance Z is found in the bottom right.
+Answer the following, giving reasons for your answers:
+(a) Which of these substances is likely to be an element? 
+(2)
+(b) For substances X and Y, give a physical property you would expect 
+them to have in common. 
+(2)
+(c) Which substance will be the most brittle? 
+(2)
+(d) Which substance is likely to have the lowest boiling point? 
+(2)
+(Total 8 marks)
+
+
+227
+STRUCTURE2.4
+From models to materials
+5. 
+Use electronegativity values from Section 9 in the data booklet to complete 
+this table for the ﬁ ve substances given.
+Substance
+χaverage
+∆χ
+Position in triangle 
+and type of bonding
+Predicted 
+properties
+Sn
+(2)
+P4O7
+(2)
+Cd3Mg
+(2)
+MgO
+(2)
+NCl3
+(2)
+(Total 10 marks)
+6. 
+Justify why, in terms of atom economy, the polymerization reactions of 
+polypropylene could be considered ‘Green Chemistry’. 
+(2)
+(Total 2 marks)
+7.  
+Alloys of aluminium with nickel are used to make engine parts. With 
+reference to the model of metallic bonding, explain why this alloy is used 
+rather than pure aluminium. 
+(3)
+(Total 3 marks)
+8. 
+Lanthanum, La, and antimony, Sb, form compounds with bromine that have 
+similar formulas, LaBr3 and SbBr3.
+(a) Determine the type of bond present in SbBr3, showing your method. 
+Use Sections 9 and 17 of the IB data booklet. 
+(2)
+(b) Lanthanum has a similar electronegativity to group 2 metals. 
+Explain, in terms of bonding and structure, why crystalline 
+lanthanum bromide is brittle. 
+(2)
+(Total 4 marks)
+9.  
+Polymers are made up of repeating monomer units which can be 
+manipulated in various ways to give structures with desired properties.
+(a) Deduce the repeating unit of poly(2-methylpropene). 
+(1)
+(b) Deduce the percentage atom economy for polymerization of 
+2-methylpropene. 
+(1)
+(c) Suggest why incomplete combustion of plastics, such as polyvinyl 
+chloride, is common in industrial and house ﬁ res. 
+(1)
+(Total 3 marks)
+10. 
+(a) Predict the predominant type of bonding for a binary substance AB 
+in which the electronegativity of both atoms is low. Use Section 17 
+of the data booklet. 
+(1)
+(b) The type of bonding in a compound is sometimes used to classify 
+materials. Outline why this type of classiﬁ cation has limitations by 
+using magnesium diboride, MgB2, as an example. Refer to Sections 9 
+and 17 of the data booklet. 
+(2)
+(Total 3 marks)
+
+
+Classification of matter
+3
+STRUCTURE
+
+

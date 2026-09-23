@@ -1,0 +1,1807 @@
+431
+REACTIVITY 2.3
+How far? The extent of chemical change 
+An agricultural landscape in the Netherlands. Our ability to feed a growing global population has been
+dependent on our ability to mass produce plant fertilizer. Industrial scale production of ammonia, an
+essential starting material in the production of fertilizer, was made possible through an understanding
+of reversible reactions and the factors that can be used to influence them. Specifically, the Haber
+process uses high pressures and a temperature of about 450 °C to maximize the conversion of nitrogen
+and hydrogen gas into ammonia.
+How can the extent of a reversible reaction be influenced?
+Guiding Question
+Imagine that you are part of the way along an escalator (a moving staircase) that is 
+moving up, and you decide to run down it. If you can run down at exactly the same 
+speed as the escalator is moving up, you will have no net (overall) movement. So, if 
+someone were to take a picture of you at regular time intervals, it would seem as if you 
+were not moving at all. Of course, in reality both you and the escalator are moving, but 
+because there is no net change neither movement is observable. In chemical reactions 
+a similar phenomenon occurs when a reaction takes place at the same rate as its 
+reverse reaction, so no net change is observed. This is known as a state of dynamic
+equilibrium.
+In this chapter, we explore some of the features of the equilibrium state and learn how 
+this enables us to predict how far reactions will proceed under different conditions. 
+Industrial processes rely significantly on this type of study to determine the conditions 
+that will maximize the yield of product. 
+We will also see how  equilibrium law can be used to determine the equilibrium 
+constant from the stoichiometry of a reaction. This temperature-dependent constant 
+will allow us to quantify the extent of a reaction at equilibrium.
+Equilibrium studies are also important in many biochemical and environmental 
+processes, such as predicting the solubility of gases in the blood and knowing how 
+certain chemicals in the atmosphere may react together to form pollutants that 
+contribute to climate change.
+Reactivity 2.3.1 – Dynamic equilibrium
+Reactivity 2.3.1 – A state of dynamic equilibrium is reached in a closed system when 
+the rates of forward and backward reactions are equal. 
+Describe the characteristics of a physical and chemical system at equilibrium.
+A state of dynamic equilibrium is reached in a 
+closed system 
+In this section we will think about how dynamic equilibrium is reached in both a 
+physical system, in which we consider changes of state, and a chemical system, in 
+which we consider reversible chemical reactions.
+Snow and ice-covered 
+peak in the Cordillera 
+Huayhuash, Peru. Equilibrium 
+considerations help explain 
+the relationship between 
+water vapour in the clouds 
+and precipitations in the 
+form of liquid (rain) and 
+solid (snow) at different 
+temperatures and pressures.
+
+
+432
+Physical systems 
+Consider what happens when some bromine, Br2, is placed in a sealed container at 
+room temperature.
+As bromine is a volatile liquid, with a boiling point close to room temperature, a 
+significant number of particles (molecules of Br2) will have enough energy to escape 
+from the liquid state and form vapour in the process known as evaporation. As the 
+container is sealed, the bromine vapour cannot escape and so its concentration will 
+increase. Some of these vapour molecules will collide with the surface of the liquid, 
+lose energy, and become liquid in the process known as condensation.
+evaporation
+Br2(l) 
+ Br2(g)
+condensation
+Br2(g)
+initial
+at equilibrium
+Br2(l)
+Establishing dynamic equilibrium in the evaporation of bromine. Equilibrium is established when the 
+rate of evaporation equals the rate of condensation.
+The rate of condensation increases with the increase in concentration of vapour, as 
+more vapour particles collide with the surface of the liquid. Eventually, the rate of 
+condensation is equal to the rate of evaporation, and at this point there will be no net 
+change in the amounts of liquid and gas present (Figure 1). We say that the system 
+has reached equilibrium. This will only occur in a closed system, where the Br2(g) 
+cannot escape as vapour but may condense back into the liquid.
+Bromine is the only 
+non-metallic element 
+that is liquid at room 
+temperature. It is 
+extremely toxic and 
+takes its name from a 
+Greek word meaning 
+stench.
+rate
+rate of
+evaporation 5 rate of
+condensation
+rate of
+condensation
+rate of evaporation
+time
+R2.3 Figure 1 The 
+rate of evaporation 
+and condensation as 
+liquid–vapour equilibrium 
+is established in a closed 
+system. The rate of 
+evaporation is constant as 
+the surface area remains 
+the same, while the rate of 
+condensation increases as 
+the concentration of vapour 
+increases. Equilibrium is 
+established when the two 
+rates are equal. 
+Bromine stored in a 
+sealed jar. The system is in 
+dynamic equilibrium, so the 
+concentrations of liquid and 
+vapour do not change at 
+constant temperature.
+REACTIVITY 2
+How much, how fast and how far?
+
+
+433
+Chemical systems 
+Consider the reaction of dissociation between hydrogen iodide (HI) and its elements 
+hydrogen (H2) and iodine (I2). Hydrogen and hydrogen iodide are both colourless, 
+whereas iodine is released as a purple gas.
+2HI(g)  
+⇌ 
+ H2(g) 
+ +  
+  I2(g)
+colourless gas 
+colourless gas 
+purple gas
+If we carry out this reaction starting with hydrogen iodide in a sealed container, there 
+will at first be an increase in the purple colour owing to the production of iodine gas. 
+But after a while this increase in colour will stop, and it may appear that the reaction 
+too has stopped. In fact, what has happened is that the rate of the dissociation of HI 
+is fastest at the start when the concentration of HI is greatest and falls as the reaction 
+proceeds. Meanwhile, the reverse reaction, which initially has a zero rate because 
+there is no H2 or I2 present, starts slowly and increases in rate as the concentrations 
+of H2 and I2 increase. Eventually, the rate of dissociation of HI becomes equal to the 
+rate of the reverse reaction of association between H2 and I2, so the concentrations 
+remain constant. This is why the colour in the flask remains the same. At this point, 
+equilibrium has been reached. The equilibrium is described as dynamic because both 
+forward and backward reactions are still occurring.
+If we were to analyze the contents of the flask at this point, we would find that HI, 
+H2 and I2 would all be present and that if there were no change in conditions, their 
+concentrations would remain constant over time. We refer to this as the equilibrium 
+mixture.
+If we reversed the experiment and started with H2 and I2 instead of HI, we would 
+find that eventually an equilibrium mixture would again be achieved in which the 
+concentrations of H2, I2 and HI would remain constant. These relationships are shown 
+in Figure 2.
+(a) 
+(b)
+equilibrium
+HI
+concentration
+H2, I2
+time
+ 
+and 
+time
+HI
+H2, I2
+concentration
+equilibrium
+R2.3 Figure 2 Equilibrium is reached when the concentrations of reactants and products become 
+constant. Note that the same equilibrium mixture is reached whether you start (a) from a mixture of 
+H2 and I2 or (b) from pure HI.
+The equilibrium state has specific characteristics
+In studies of equilibria, we are dealing with reversible reactions – that is, reactions that 
+occur in both directions. The convention is to describe the reaction from left to right 
+(reactants to products) as the forward reaction, and the reaction from right to left 
+(products to reactants) as the backward or reverse reaction. The symbol ⇌ is used 
+to show that the reaction is an equilibrium reaction.
+The study of chemical 
+change often involves 
+both the macroscopic 
+and submicroscopic 
+scales. What might this 
+suggest about the role 
+of imagination and 
+intuition in the creation 
+of hypotheses in the 
+natural sciences?
+Heated iodine crystals in a 
+stoppered flask. Iodine is 
+a crystalline solid at room 
+temperature, but sublimes on 
+heating to form a purple gas.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+434
+forward reaction
+reactants 
+ products
+backward reaction
+The Dragon spacecraft, first launched by the American company SpaceX in 2010, uses the combustion 
+reaction between monomethyl hydrazine and the oxidizing agent dinitrogen tetroxide to produce 
+thrust and orientate the spacecraft during a mission.
+4CH3NHNH2 + 5N2O4 → 9N2 + 4CO2 + 12H2O
+The strong N≡N bonds and C=O bonds found in the products make them significantly more stable 
+than the reactants, and so the reaction can be considered non-reversible.
+The examples of physical and chemical systems discussed above have shown that at 
+equilibrium the rate of the forward reaction is equal to the rate of the backward reaction.
+These reactions have also shown some of the main features of the equilibrium state, 
+and these can now be summarized as they apply to all reactions at equilibrium.
+Characteristics of a physical and 
+a chemical system at equilibrium 
+Explanation
+1
+Equilibrium is dynamic
+The reaction has not stopped, but both forward and 
+backward reactions are still occurring at the same rate.
+2
+Equilibrium is achieved in a closed 
+system
+A closed system has no exchange of matter with the 
+surroundings, so equilibrium is achieved where both 
+reactants and products can react and recombine with 
+each other.
+3
+The concentrations of reactants 
+and products remain constant at 
+equilibrium
+They are being produced and destroyed at an equal rate.
+4
+At equilibrium there is no change 
+in macroscopic properties
+Macroscopic properties are observable properties such as 
+colour and density. These do not change as they depend 
+on the concentrations of the components of the mixture.
+5
+Equilibrium can be reached from 
+either direction
+The same equilibrium mixture will result under the same 
+conditions, no matter whether the reaction is started 
+with all reactants, all products, or a mixture of both.
+Strictly speaking, 
+all reactions can 
+be considered as 
+equilibrium reactions. 
+However, in many 
+cases, the equilibrium 
+mixture consists almost 
+entirely of products – 
+that is, it is considered 
+to have gone virtually 
+to completion. By 
+convention we use 
+the symbol → rather 
+than the equilibrium 
+symbol in these 
+cases. Combustion 
+reactions, for example, 
+are considered 
+irreversible given the 
+relative stability of the 
+products compared to 
+the reactants. In other 
+reactions there may 
+be so little product 
+formed that it is 
+undetectable and we 
+consider the reaction 
+to have effectively not 
+happened.
+Make sure that you 
+use the equilibrium 
+symbol ⇌ when 
+writing equations 
+for reactions where 
+the reverse reactions 
+are significant. For 
+example, it must be 
+used when explaining 
+the behaviour of 
+weak acids and bases 
+(Reactivity 3.1).
+At equilibrium the 
+rate of the forward 
+reaction is equal 
+to the rate of the 
+backward reaction.
+REACTIVITY 2
+How much, how fast and how far?
+
+
+435
+It is important to understand that even though the concentrations of reactant and 
+product are constant at equilibrium, this in no way implies that they are equal. In 
+fact, most commonly there will be a much higher concentration of either reactant 
+or product in the equilibrium mixture, depending both on the reaction and on the 
+conditions. For example, we can see in Figure 2 that when the dissociation of HI 
+reaches equilibrium, there is a higher concentration of HI than of H2 and I2.
+Challenge yourself
+1. A closed system is defined differently in different disciplines. In 
+thermodynamics, it means that no matter can be exchanged with the 
+surroundings, but energy can flow. To what extent can the Earth can be 
+considered a closed system?
+Think back to the moving staircase analogy in the introduction to this chapter, where 
+the top and bottom of the escalator represent reactants and products respectively. It 
+would be possible for you to be ‘at equilibrium’ near the top of the staircase, near the 
+bottom, or anywhere in between. As long as you were moving at the same speed as the 
+staircase, you would still have no net change in position.
+The proportion of reactant and 
+product in the equilibrium mixture 
+is referred to as its equilibrium 
+position. Reactions where the 
+mixture contains predominantly 
+products are said to ‘lie to the right’ 
+and reactions with predominantly 
+reactants are said to ‘lie to the left’.
+proportion in
+equilibrium mixture 
+equilibrium lies
+to the left
+equilibrium lies
+to the right
+reactants
+products
+products
+reactants
+It is, however, often useful to be able to capture this information mathematically to 
+compare the equilibrium mixtures of different reactions and the effect of different 
+conditions. In the next section we will look at how this is done.
+Nature of Science
+At equilibrium, no change is observed on the macroscopic level, although 
+particles are reacting at the submicroscopic level. These changes can be 
+deduced using techniques such as isotopic labelling, which allow the 
+progress of a specific reactant to be followed. Our power of understanding is 
+enhanced by contributions from instrumentation and sensors that may gather 
+information beyond human sense perception.
+Exercise
+Q1. Which statements are correct for a reaction at equilibrium?
+I. 
+The forward and reverse reactions both continue.
+II. The rates of the forward and reverse reactions are equal.
+III. The concentrations of reactants and products are equal.
+A 
+I and II only 
+B 
+I and III only 
+C 
+II and III only 
+D 
+I, II and III
+What are the differences 
+between theories and 
+analogies as forms of 
+explanation?
+Conceptualize 
+equilibrium with 'water 
+races'. Full details of 
+how to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+Describing the position of 
+equilibrium
+Sometimes you may 
+see the equilibrium sign 
+written with unequal 
+arrows such as 
+. This 
+is used to represent 
+the reaction that lies 
+in favour of products. 
+Likewise,
+ is used to 
+represent a reaction 
+that lies in favour of 
+reactants.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+436
+Q2. Which statement is always true for a chemical reaction that has reached 
+equilibrium at constant temperature?
+A 
+The yield of product(s) is greater than 50%.
+B 
+The rate of the reverse reaction is lower than that of the forward reaction.
+C 
+The amounts of reactants and products do not change.
+D 
+Both forward and reverse reactions have stopped.
+Q3. Which statement is not true for a mixture of ice and water at equilibrium at 
+constant temperature?
+A 
+The rates of melting and freezing are equal.
+B 
+The amounts of ice and water are equal.
+C 
+The same position of equilibrium can be reached by cooling water and 
+by heating ice.
+D 
+There is no observable change in the system.
+Reactivity 2.3.2 and 2.3.3 – Equilibrium law
+Reactivity 2.3.2 – The equilibrium law describes how the equilibrium constant, K, can 
+be determined from the stoichiometry of a reaction. 
+Deduce the equilibrium constant expression from an equation for a homogeneous reaction.
+Reactivity 2.3.3 – The magnitude of the equilibrium constant indicates the extent of a 
+reaction at equilibrium and is temperature dependent. 
+Determine the relationships between K values for reactions that are the reverse of each other 
+at the same temperature.
+Include the extent of reaction for:
+K ≪ 1, K < 1, K = 1, K > 1, K ≫ 1.
+Reactivity 3.1 – How does the value of 
+K for the dissociation of an acid convey 
+information about the strength of the acid?
+The equilibrium constant, K, can be predicted from 
+the reaction stoichiometry 
+Consider the reaction
+H2(g) + I2(g) ⇌ 2HI(g)
+If we were to carry out a series of experiments on this reaction with different starting 
+concentrations of H2, I2, and HI, we could wait until each reaction reached equilibrium 
+and then measure the composition of each equilibrium mixture. Here are some typical 
+results obtained at 440 °C.
+Experiment I
+Initial concentration / mol dm–3
+Equilibrium concentration / mol dm–3
+H2
+0.100
+0.0222
+I2
+0.100
+0.0222
+HI
+0.000
+0.1560
+REACTIVITY 2
+How much, how fast and how far?
+
+
+437
+Experiment II
+Initial concentration / mol dm–3
+Equilibrium concentration / mol dm–3
+H2
+0.0000
+0.0350
+I2
+0.0100
+0.0450
+HI
+0.3500
+0.2800
+Experiment III
+Initial concentration / mol dm–3
+Equilibrium concentration / mol dm–3
+H2
+0.0150
+0.0150
+I2
+0.0000
+0.0135
+HI
+0.1270
+0.1000
+At a glance, the data may not appear to show any pattern. However, there is a 
+predictable relationship among the different compositions of these equilibrium 
+mixtures, and the key to discovering it is in the stoichiometry of the reaction equation.
+H2(g) + I2(g) ⇌ 2HI(g)
+If we take the equilibrium concentrations and process them in the following way:
+[H
+2 = coefﬁcient of HI in the reaction equation
+1 = coefﬁcient of H2 in the reaction equation
+1 = coefﬁcient of I2 in the reaction equation
+I]
+[H ]
+[I ]
+eqm
+2
+2 eqm
+1
+2 eqm
+1
+we find the following results:
+Experiment I 
+(0.156)2
+_____________ 
+ 
+0.0222 × 0.0222 = 49.4
+Experiment II 
+(0.280)2
+____________ 
+ 
+0.035 × 0.0450 = 49.8
+Experiment III 
+(0.100)2
+_____________ 
+ 
+0.0150 × 0.0135 = 49.4
+Clearly, this way of processing the equilibrium data produces a constant value within 
+the limits of experimental accuracy. The constant is known as the equilibrium 
+constant, K. It has a fixed value for this reaction at a specified temperature.
+In fact, every reaction has its own particular value of K which can be derived in a 
+similar way. This finding is described by the equilibrium law.
+• First we use the balanced reaction equation to write the equilibrium constant 
+expression.
+For the reaction:
+aA + bB ⇌ c C + d D
+the equilibrium constant expression is
+K =  
+[C]c
+eqm[D]d
+eqm
+___________
+[A]a
+eqm[B]b
+eqm
+ 
+• The value for K can then be determined by substituting the equilibrium 
+concentrations of all reactants and products into this equation.
+As K is calculated using 
+the concentrations of 
+reactants and products, 
+it is commonly stated 
+as Kc in other sources. 
+The ‘c’ stands for 
+‘concentration’.
+The equilibrium 
+law states that 
+the equilibrium 
+constant, K, has a 
+fixed value for a 
+particular reaction 
+at a specified 
+temperature. The 
+only thing that 
+changes the value of 
+K for a reaction is the 
+temperature.
+Remember square 
+brackets [ ] are 
+commonly used to 
+show concentration in 
+mol dm–3.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+438
+Note the following:
+• The equilibrium constant expression has the concentrations of products in the 
+numerator and the concentrations of reactants in the denominator.
+• Each concentration is raised to the power of its coefficient in the balanced 
+equation. (Where the power is equal to one, it is not shown.)
+• Where there is more than one reactant or product, the terms are multiplied 
+together.
+Worked example 
+Write the equilibrixm constant expression for the following reactions.
+(i) 2H2(g) + O2(g) ⇌ 2H2O(g)
+(ii) Cu2+(aq) + 4NH3(aq) ⇌ [Cu(NH3)4]2+(aq)
+Solution
+(i)
+K = 
+  [H2O]2
+________
+[H2]2[O2] 
+(ii) K = 
+  [[Cu(NH3)4]2+] 
+ 
+____________
+[Cu2+][NH3]4  
+The magnitude of K gives information on the extent of reaction 
+Different reactions have different values of K. What does this value tell us about a 
+particular reaction?
+As the equilibrium constant expression puts products in the numerator and reactants 
+in the denominator, a high value of K will mean that at equilibrium there are 
+proportionately more products than reactants. In other words, such an equilibrium 
+mixture lies to the right and the reaction goes almost to completion. By contrast, a 
+low value of K must mean that there are proportionately fewer products with respect 
+to reactants, so the equilibrium mixture lies to the left and the reaction has barely 
+taken place.
+Consider the following three reactions and their K values measured at 550 K.
+H2(g) +    I2(g) ⇌ 2HI(g) 
+K = 2
+H2(g) + Br2(g) ⇌ 2HBr(g) 
+K = 1010
+H2(g) + Cl2(g) ⇌ 2HCl(g) 
+K = 1018
+The large range in their K values tells us about the differing extents of these reactions. 
+We can deduce that the reaction between H2 and Cl2 has taken place the most fully at 
+this temperature, while H2 and I2 have reacted the least.
+Challenge yourself
+2. Why do you think the reactions of the three halogens, Cl2, Br2 and I2, with 
+H2 have such different values for their equilibrium constant at the same 
+temperature? What can you conclude about the strength of bonding in the three 
+hydrogen halides?
+Many sources give 
+units for K which 
+are a multiple of 
+mol dm–3, depending 
+on the stoichiometry 
+of the reaction. In 
+fact, this is not fully 
+correct, as the terms 
+in the equilibrium 
+expression are really a 
+thermodynamic quality 
+known as ‘activity’ that 
+has no units. For this 
+reason, we are omitting 
+units in the values of K
+here, and you will not 
+be required to include 
+them in IB examination 
+answers.
+The equilibrium 
+constant expression 
+will only give the 
+value of K when 
+the concentrations 
+used in the equation 
+are the equilibrium
+concentrations for all 
+reactants and products. 
+Strictly speaking, 
+the subscript ‘eqm’ 
+should always be 
+used in the equation, 
+but by convention 
+this is generally left 
+out. However, make 
+completely sure that 
+the only values you 
+substitute into an 
+equation to calculate 
+K are the equilibrium 
+concentrations.
+The equilibrium 
+constant expressions 
+described here apply 
+to homogeneous 
+reactions, that is, 
+reactions where 
+reactants and products 
+are in the same phase, 
+as gases, liquids, or 
+in solution. It is good 
+practice always to 
+include state symbols 
+in your equations to 
+ensure this is being 
+applied correctly.
+REACTIVITY 2
+How much, how fast and how far?
+
+
+439
+A good rule of thumb to apply to these situations is that if K ≫ 1, the reaction is 
+considered to go almost to completion (very high conversion of reactants into 
+products), and if K ≪ 1, the reaction hardly proceeds.
+K very
+small
+equilibrium lies 
+to the left in 
+favour of reactants
+equilibrium lies 
+to the right in 
+favour of products
+K very
+large
+1
+The smaller the value of K, the further the equilibrium mixture lies to the left. The larger the value of K, 
+the further the equilibrium mixture lies to the right.
+This can be summarized as follows.
+Value of K
+Extent of reaction
+K ≪ 1
+Reaction hardly proceeds
+K < 1
+Equilibrium lies towards the reactants
+K = 1
+Signiﬁ cant amounts of both reactants and products at equilibrium
+K > 1
+Equilibrium lies towards the products
+K ≫ 1
+Reaction goes almost to completion
+Note that the magnitude of K does not give us any information on the rate of the 
+reaction. It informs us of the nature of the equilibrium mixture, but not how quickly 
+the equilibrium state will be achieved.
+The value of K can be particularly useful to consider the dissociation of an acid in 
+solution. Weak acids undergo very little dissociation so will have very low values of K
+whereas a stronger acid will dissociate to a greater extent, producing a larger value of K.
+Consider the values of Ka for the dissociation of methanoic acid, HCOOH, and ethanoic 
+acid, CH3COOH, in aqueous solution at 298 K:
+ 
+HCOOH(aq) ⇌ HCOO–(aq) + H+(aq) 
+Ka = 1.78 × 10–4
+ 
+CH3COOH(aq) ⇌ CH3COO–(aq) + H+(aq) 
+Ka = 1.74 × 10–5
+Here we can see that although the equilibrium lies to the left for both acids, HCOOH 
+undergoes a greater degree of dissociation as it has a larger value of Ka. Note that the ‘a’ 
+refers specifically to the equilibrium mixture formed by the dissociation of an acid.
+Relationships between K values for reactions that are the 
+reverse of each other at the same temperature 
+As K is defined with products in the numerator and reactants in the denominator, 
+each raised to the power of their stoichiometric coefficients in the balanced equation, 
+we can manipulate the value of K according to changes made to these terms. For this 
+discussion we will consider the generic reaction:
+aA + bB ⇌ c C + dD
+for which the equilibrium constant is:
+K =  [C]c[D]d
+_______
+[A]a[B]b 
+The magnitude of 
+the equilibrium 
+constant K gives 
+information about 
+the extent of reaction 
+at a particular 
+temperature, but 
+not about how fast 
+it will achieve the 
+equilibrium state.
+Reactivity 3.1 – How 
+does the value of K for 
+the dissociation of an 
+acid convey information 
+about its strength?
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+440
+The reverse reaction
+c C + dD ⇌ aA + bB
+defines the products as reactants and vice versa. We will denote its equilibrium 
+constant as K ′.
+K′ =  [A]a[B]b
+_______
+[C]c[D]d 
+We can see that  
+K′ =  1__
+K  
+ or 
+K′ = K–1.
+In other words, the equilibrium constant for a reaction is the reciprocal of the 
+equilibrium constant for its reverse reaction.
+Worked example 
+The equilibrium constant for the reaction
+2HI(g) ⇌ H2(g) + I2(g)
+is 0.040 at a certain temperature. What would be the value of the equilibrium 
+constant, K ′, for the reverse reaction
+H2(g) + I2(g) ⇌ 2HI(g) 
+at the same temperature?
+Solution
+The value of K′ is the reciprocal of K.
+So K′ =  1__
+K 
+or 
+K –1
+∴K′ =  1
+_____
+0.040 = 25
+This manipulation of the value of K is summarized below.
+Effect on equilibrium expression 
+Effect on K
+reversing the reaction
+inverts the expression
+1__
+K or K–1 
+Challenge yourself
+3. We can also express the relationship between K and K′ for multiples of a 
+reaction. Doubling the reaction coefficients squares the equilibrium expression, 
+K′ = K2 , and halving the reaction coefficients square roots the equilibrium 
+expression, K′′ =  √
+__
+K .
+At a given temperature, the reaction
+2SO2(g) + O2(g) ⇌ 2SO3(g)
+has a value of K = 278. Determine values of K for the following reactions at this 
+temperature.
+(a)  
+4SO2(g) + 2O2(g) ⇌ 4SO3(g)
+(b)  
+SO3(g) ⇌ SO2(g) +  1_
+2 O2(g)
+(c)  
+6SO3(g) ⇌ 6SO2(g) + 3O2(g)
+REACTIVITY 2
+How much, how fast and how far?
+
+
+441
+Exercise
+Q4. Write the equilibrium constant expression for the following reactions:
+(a) 2NO(g) + O2(g) ⇌ 2NO2(g)
+(b) 4NH3(g) + 7O2(g) ⇌ 4NO2(g) + 6H2O(g)
+(c) CH3Cl(aq) + OH–(aq) ⇌ CH3OH(aq) + Cl–(aq)
+Q5. Write the equations for the reactions represented by the following 
+equilibrium constant expressions:
+(a) K =  [NO2]2
+______
+[N2O4] 
+(b) K =  [CO][H2]3
+__________
+[CH4][H2O] 
+Q6. Write the equilibrium constant expressions for the following chemical 
+reactions:
+(a) ﬂ uorine gas and chlorine gas combine to form ClF3(g)
+(b) NO dissociates into its elements
+(c) methane, CH4, and steam react to form carbon monoxide and hydrogen.
+Q7. When the following reactions reach equilibrium at a given temperature, 
+does the equilibrium mixture contain mostly reactants or mostly products? 
+Assume that the values for K are applicable at the given temperature.
+(a) N2(g) + 2H2(g) ⇌ N2H4(g) 
+K = 7.4 × 10–26
+(b) N2(g) + O2 (g) ⇌ 2NO(g) 
+K = 2.7 × 10–18
+(c) 2NO(g) + O2(g) ⇌ 2NO2(g) 
+K = 6.0 × 1013
+Q8. At 298 K, the equilibrium concentrations in the reaction mixture:
+N2O4(g) ⇌ 2NO2(g)
+are [N2O4] = 1.62 mol dm−3 and [NO2] = 1.80 mol dm−3.
+Determine the value of the equilibrium constant, K.
+Q9. At a given temperature, the reaction
+2SO2(g) + O2(g) ⇌ 2SO3(g)
+has a value of K = 278. 
+Determine the value of K for the reverse reaction at this temperature.
+Reactivity 2.3.4 – Le Châtelier’s principle
+Reactivity 2.3.4 – Le Châtelier’s principle enables the prediction of the qualitative effects 
+of changes in concentration, temperature and pressure to a system at equilibrium. 
+Apply Le Châtelier’s principle to predict and explain responses to changes of systems at 
+equilibrium.
+Include the effects on the value of K and on 
+the equilibrium composition. 
+Le Châtelier’s principle can be applied to 
+heterogeneous equilibria such as: 
+X(g) ⇌ X(aq)
+Reactivity 2.2 – Why do catalysts have no 
+effect on the value of K or on the equilibrium 
+composition?
+Observations of shifts 
+in the position of 
+chemical equilibria. Full 
+details of how to carry 
+out this experiment 
+with a worksheet are 
+available in the eBook.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+442
+A system at equilibrium will respond when 
+subjected to a change 
+A system remains at equilibrium so long as the rate of the forward reaction equals the 
+rate of the backward reaction. But as soon as this balance is disrupted by any change 
+in conditions that unequally affects the rates of these reactions, the equilibrium 
+condition will no longer be met. It has been shown, however, that equilibria respond 
+in a predictable way to such a situation based on a principle known as Le Châtelier’s 
+principle. This states that a system at equilibrium when subjected to a change will respond 
+in such a way as to minimize the effect of the change. Simply put, this means that whatever 
+we do to a system at equilibrium, the system will respond in the opposite way. 
+Add something, and the system will react to remove it; remove something, and the 
+system will react to replace it. After a while, a new equilibrium will be established 
+and this will have a different composition from the earlier equilibrium mixture. 
+Applying the principle, therefore, enables us to predict the qualitative effect of typical 
+changes that occur to systems at equilibrium.
+Changes in concentration 
+Suppose an equilibrium is disrupted by an increase in the concentration of one of the 
+reactants. This will cause the rate of the forward reaction to increase while the backward 
+reaction will not be affected, so the reaction rates will no longer be equal. When 
+equilibrium re-establishes itself, the mixture will have new concentrations of all reactants 
+and products, and the equilibrium will have shifted in favour of products. The value of K
+will be unchanged. This is in keeping with the prediction from Le Châtelier’s principle: 
+the addition of reactant causes the system to respond by removing reactant – this favours 
+the forward reaction and so shifts the equilibrium to the right.
+Similarly, the equilibrium could be disrupted by a decrease in the concentration 
+of product by removing product from the equilibrium mixture. As the rate of the 
+backward reaction is now decreased, there will be a shift in the equilibrium in favour 
+of the products. A different equilibrium position will be achieved, but the value of K
+will be unchanged. Again, this confirms the prediction from Le Châtelier’s principle: 
+removal of product causes the system to respond by making more product – this 
+favours the forward reaction and so shifts the equilibrium to the right.
+Henri-Louis Le 
+Châtelier was a 
+French chemist who 
+published his equilibria 
+principle in 1884. 
+Among other research, 
+he also investigated 
+the possibility of 
+ammonia synthesis, 
+but abandoned his 
+efforts after suffering a 
+devastating explosion 
+in his laboratory. 
+After Haber’s later 
+elucidation of the 
+conditions required 
+in the reaction, Le 
+Châtelier realized that 
+he had been very 
+close to the discovery 
+himself. Later in his life, 
+he noted ‘It was the 
+greatest blunder of my 
+career’.
+When a system 
+at equilibrium 
+is subjected to 
+a change, it will 
+respond in such a 
+way as to minimize 
+the effect of the 
+change.
+Experiment to show the effect 
+of changing the concentration 
+of chloride ions on the cobalt 
+chloride equilibrium reaction:
+[Co(H2O)6]2+(aq) + 4Cl–(aq) ⇋
+CoCl42–(aq) + 6H2O(l)
+The flask on the left has a low 
+concentration of chloride ions, 
+giving the pink colour of the 
+complex ion with water. As the 
+concentration of chloride ions 
+is increased, the equilibrium 
+shifts to the right, changing 
+the colour from pink to blue. 
+Adding water would shift the 
+equilibrium in the opposite 
+direction. Cobalt chloride 
+is often used to test for the 
+presence of water because of 
+this colour change.
+REACTIVITY 2
+How much, how fast and how far?
+
+
+443
+The graph in Figure 3 illustrates these disruptions to equilibrium for the reaction
+N2(g) + 3H2(g) ⇌ 2NH3(g)
+H2 added
+here
+NH3 removed
+here
+equilibrium
+H2
+N2
+NH3
+equilibrium
+time
+concentrations
+equilibrium
+After H2 is added, the concentrations of N2 and H2 decrease (in a 1:3 ratio in keeping 
+with their reaction stoichiometry), while the concentration of NH3 rises (in a 2:1 ratio 
+relative to N2) as the rate of the forward reaction increases and the equilibrium shifts 
+to the right. The new equilibrium mixture has a higher concentration of products. 
+In the second part of the graph, removal of NH3 from the equilibrium mixture causes a 
+decrease in the concentrations of N2 and H2 as they react to form more NH3.
+Often in an industrial process, the product will be removed as it forms. This ensures 
+that the equilibrium is continuously pulled to the right, increasing the yield of product.
+Applying Le Châtelier’s principle, can you think what concentration changes 
+would cause an equilibrium to shift to the left? The answer is either an increase in 
+concentration of product or a decrease in concentration of reactant.
+Changes in pressure 
+Equilibria involving gases will be affected by a change in pressure if the reaction 
+involves a change in the number of molecules. This is because there is a direct 
+relationship between the number of gas molecules and the pressure exerted by a gas in 
+a fixed volume. So if such a reaction at equilibrium is subject to an increase in pressure, 
+the system responds to decrease this pressure by favouring the side with the smaller 
+number of molecules. Conversely, a decrease in pressure will cause a shift in the 
+equilibrium position to the side with the larger number of molecules of gas. A different 
+equilibrium position will be achieved but the value of K will be unchanged, so long as 
+the temperature remains the same.
+For example, consider the reaction used in the production of methanol:
+CO(g) + 2H2(g) ⇌ CH3OH(g)
+In total, there are three molecules of gas on the left side and one molecule of gas on the 
+right side. So for this reaction, high pressure will shift the equilibrium to the right, in 
+favour of the smaller number of molecules, which increases the yield of CH3OH.
+R2.3 Figure 3 Effects of 
+the addition of reactant 
+and removal of product 
+on the equilibrium 
+N2(g) + 3H2(g) ⇌ 2NH3(g). 
+When H2 is added, the rate 
+of the forward reaction with 
+N2 increases and more NH3
+is formed. The equilibrium 
+shifts to the right. When NH3
+is removed, the rate of the 
+backward reaction decreases, 
+and again, the equilibrium 
+shifts to the right producing 
+more NH3. After each 
+change, a new equilibrium 
+mixture is achieved but K
+remains constant.
+Changes in pressure 
+or volume will 
+affect the position 
+of equilibrium 
+of a reaction if it 
+involves a change in 
+the number of gas 
+molecules.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+444
+Note that many common equilibrium reactions do not involve a change in the number of 
+gas molecules and so are not affected by changes in pressure. For example, the reaction
+H2(g) + I2(g) ⇌ 2HI(g)
+has two molecules of gas on both sides of the equation. Changing the pressure for this 
+reaction will affect the rate of the reaction but not the position of equilibrium or the 
+value of K.
+Changes in temperature 
+We have noted that K is temperature dependent, so changing the temperature 
+will change K. However, in order to predict how K will change we must examine 
+the enthalpy changes (see Reactivity 1.1) of the forward and backward reactions. 
+Remember that an exothermic reaction releases energy (∆H is negative), whereas an 
+endothermic reaction absorbs energy (∆H is positive). The enthalpy changes of the 
+forward and backward reactions are equal and opposite to each other.
+So if we apply Le Châtelier’s principle, including the energy change in the chemical 
+reaction, we can predict how the reaction will respond to a change in temperature.
+Consider the reaction
+2NO2(g) ⇌ N2O4(g) 
+∆H = –57 kJ mol–1
+ 
+brown 
+colourless
+The negative sign of ∆H tells us that the forward reaction is exothermic and so releases 
+heat. If this reaction at equilibrium is subjected to a decrease in temperature, the 
+system will respond by producing heat and it does this by favouring the forward 
+exothermic reaction. This means that the equilibrium will shift to the right, in favour 
+of the product, N2O4. A new equilibrium mixture will be achieved and the value of K
+will increase. So here we can see that the reaction will give a higher yield of products at 
+a lower temperature.
+Conversely, increasing the temperature favours the backward, endothermic, reaction, 
+and so shifts the equilibrium to the left, decreasing the value of K. The reaction mixture 
+becomes a darker colour as the concentration of NO2 increases.
+The table below illustrates the effect of temperature on the value of K for this reaction.
+Temperature / K
+K for 2NO2(g) ⇋ N2O4(g)
+273
+1300
+298
+170
+Even though, in this case, a lower temperature will produce an equilibrium mixture 
+with a higher proportion of products, remember from Reactivity 2.2 that low 
+temperature also causes a lower rate of reaction. And so, although a higher yield will 
+be produced eventually, it may simply take too long to achieve this for practical and 
+economic considerations if this was an industrial-scale reaction. We will come back to 
+this point later in this chapter.
+Now consider the following reaction:
+N2(g) + O2(g) ⇌ 2NO(g) ∆H = +181 kJ mol–1
+Changes in 
+concentration, 
+pressure or volume 
+may change 
+the position of 
+equilibrium, but 
+have no effect on 
+the value of K.
+When ∆H is given 
+for an equilibrium 
+reaction, by convention 
+its sign refers to the 
+forward reaction. So 
+a negative sign for 
+∆H means that the 
+forward reaction is 
+exothermic, and the 
+backward reaction is 
+endothermic.
+Experiment to show the 
+effect of temperature on the 
+reaction that converts NO2
+(brown) to N2O4 (colourless). 
+As the temperature is 
+increased, more NO2 is 
+produced and the gas 
+becomes darker, as seen in 
+the tube on the left. With 
+a decrease in temperature 
+(the tube on the right), the 
+equilibrium shifts to the 
+right, producing more N2O2, 
+and the gas becomes paler. 
+REACTIVITY 2
+How much, how fast and how far?
+
+
+445
+In this case, we can see that the forward reaction is endothermic and so absorbs 
+heat. So here the effect of a decreased temperature will be to favour the backward 
+exothermic reaction. Therefore, the equilibrium will shift to the left in favour of 
+reactants, and K will decrease. At higher temperatures, the forward, endothermic, 
+reaction is favoured, so the equilibrium shifts to the right and K will increase.
+The table below illustrates the effect of temperature on the value of K for this reaction.
+Temperature / K
+K for N2(g) + O2(g) ⇋ 2NO(g)
+298
+4.5 × 10–31
+900
+6.7 × 10–10
+2300
+1.7 × 10–3
+Challenge yourself
+4. Use information from this section to explain why there is very little NO in the 
+atmosphere under ordinary conditions, and why severe air pollution is often 
+characterized by a brownish haze.
+The reaction N2(g) + O2(g) ⇌ 2NO(g) takes place in motor vehicles where the heat released 
+by combustion of the fuel is sufficient to cause the nitrogen and oxygen gases from the 
+air to combine. Unfortunately, the product, NO, is toxic, and, worse still, quickly becomes 
+converted into other toxins that form the components of acid rain and smog. It is therefore 
+of great interest to vehicle manufacturers to find ways of lowering the temperature during 
+combustion in order to reduce the production of NO in the reaction above.
+These examples illustrate that, unlike changes in concentration and pressure, 
+changes in temperature do cause the value of K to change. An increase in temperature 
+increases the value of K for an endothermic reaction and decreases the value of K for 
+an exothermic reaction. This is because changes in temperature have a different effect 
+on the rates of the forward and backward reactions due to their different activation 
+energies, as discussed in Reactivity 2.2. In the next chapter, we will use this fact to 
+explain why the pH of pure water is temperature dependent.
+Addition of a catalyst 
+As we learn in Reactivity 2.2, a catalyst speeds up the rate of a reaction by providing an 
+alternative reaction pathway that has a transition state with a lower activation energy, 
+Ea. This increases the number of particles that have sufficient energy to react without 
+raising the temperature.
+Because the forward and backward reactions pass through the same transition state, 
+a catalyst lowers the activation energy by the same amount for the forward and 
+backward reactions. So the rate of both these reactions will be increased by the same 
+factor, as shown in Figure 4. The catalyst will therefore have no effect on the position 
+of equilibrium, or on the value of K. In other words, the catalyst will not increase the 
+equilibrium yield of product in a reaction. It will, however, speed up the attainment 
+of the equilibrium state and so cause products to form more quickly. Catalysts are 
+generally not shown in the reaction equation or in the equilibrium constant expression 
+as they are not chemically changed at the end of the reaction and have no effect on the 
+equilibrium concentrations.
+Combustion reactions 
+are generally described 
+as exothermic, but the 
+reaction
+N2(g) + O2(g) ⇌ 2NO(g)
+is endothermic. 
+When is it appropriate 
+to refer to an ‘exception 
+to a rule’, and when 
+does the rule need to 
+be reconsidered? 
+Increasing the 
+temperature causes 
+an increase in 
+the value of K for 
+an endothermic 
+reaction and a 
+decrease in the 
+value of K for an 
+exothermic reaction.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+446
+Ea of the backward
+catalyzed reaction
+lowering of Ea
+in the presence of
+a catalyst
+Ea of forward catalyzed reaction
+reaction coordinate
+reactants
+ potential energy
+products
+catalyzed
+reaction
+reaction coordinate
+reactants
+ potential energy
+products
+Ea of
+backward
+reaction
+Ea of forward
+reaction
+uncatalyzed
+reaction
+R2.3 Figure 4 The effect of a catalyst in lowering the activation energy of both forward and 
+backward reactions.
+Catalysts are widely used in industrial processes to increase the rate of product 
+formation and are involved in every single biochemical reaction, where they are 
+known as enzymes. One of the key principles of Green Chemistry is that catalytic 
+reagents, chosen to be as selective as possible, are superior to stoichiometric reagents 
+as they are not consumed in the reaction.
+Summary 
+We can now summarize the effects of concentration, pressure, temperature and 
+catalyst on the position of equilibrium and on the value of K.
+Effect of …
+Change in position of equilibrium
+Change in value of K
+1 concentration
+changes
+no change
+2 pressure
+changes if reaction involves a change in the 
+number of gas molecules
+no change
+3 temperature
+changes
+changes
+4 catalyst
+no change
+no change
+It is worth noting that although we have only seen examples of homogeneous 
+equilibria (in the gaseous phase) in this section, we can also apply Le Châtelier’s 
+principle to heterogeneous equilibria involving reactants and products in gaseous and 
+aqueous states.
+Consider, for example, a fizzy drink b ottle which contains an equilibrium between 
+dissolved carbon dioxide and gaseous carbon dioxide.
+CO2(g) ⇌ CO2(aq)
+When the bottle is opened, releasing some of the gaseous CO2, the equilibrium shifts 
+to the left. We can see this change occur in the formation of CO2 bubbles. Once the cap 
+is placed back onto the bottle, a new equilibrium composition will be formed but the 
+equilibrium constant will remain the same.
+Reactivity 2.2 – Why 
+do catalysts have no 
+eﬀ ect on the value of K
+or on the equilibrium 
+composition?
+Catalysts do not 
+change the position 
+of equilibrium or 
+the equilibrium 
+yield of a single 
+reaction, but 
+they enable the 
+equilibrium mixture 
+to be achieved 
+more quickly.
+A particular reaction 
+at a specified 
+temperature can 
+have many different 
+possible equilibrium 
+positions, but 
+only one value for 
+the equilibrium 
+constant K.
+REACTIVITY 2
+How much, how fast and how far?
+
+
+447
+If the system remains open, the equilibrium continues to shift to the left until no 
+dissolved carbon dioxide remains and the drink becomes flat.
+Applying Le Châtelier’s principle 
+In reactions involving the manufacture of a chemical, it is obviously a goal to obtain 
+as high a conversion of reactant to product as possible. Application of Le Châtelier’s 
+principle enables chemists to choose conditions that will cause the equilibrium 
+to lie to the right and so help to achieve this. But the yield of a reaction is only part 
+of the consideration. The rate is also clearly of great significance as it would be of 
+limited value if a process were able to claim a high equilibrium yield of product, 
+but took several years to achieve this. The economics of the process will depend on 
+considerations of both the equilibrium and the kinetics of the reaction – in other 
+words, on how far and how fast the reaction will proceed. Sometimes these two 
+criteria work against each other, and so the best compromise must be reached. Two 
+case studies of industrial processes are discussed here.
+It is estimated that over 150 million tonnes of ammonia, NH3, are produced worldwide every 
+year. Approximately 80% of this ammonia is used to make fertilizers, notably ammonium 
+nitrate, NH4NO3. Other uses include synthesis of textiles such as nylon and powerful 
+explosives. In August 2020, a major explosion occurred in the Port of Beirut after 2750 tonnes 
+of confiscated ammonium nitrate was ignited by a fire in an adjacent warehouse. Accidents 
+such as this in industrial plants raise many questions regarding health and safety, storage, and 
+handling of chemicals, and the balance of responsibility between companies, governments, 
+and individuals.
+The Port of Beirut explosion killed over 200 people and caused up to $15 billion in property damage.
+The fizzing we see when 
+we open carbonated drinks 
+is caused by a shift in 
+equilibrium from aqueous 
+carbon dioxide to gaseous 
+carbon dioxide:
+CO2(g) ⇌ CO2(aq)
+Note that you are 
+not expected to learn 
+specific conditions for 
+any reaction, so there 
+is no need to focus on 
+the names of catalysts, 
+specific temperature 
+used, etc. But you 
+should be able to apply 
+an understanding of 
+equilibria to any given 
+example, and predict 
+the conditions likely to 
+be effective.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+448
+Worked example 
+The Haber process is based on the reaction:
+N2(g) + 3H2(g) ⇌ 2NH3(g) 
+∆H = –93 kJ mol–1
+Deduce the conditions that would maximize the conversion of reactants to 
+products in this reaction.
+Solution
+The following information can be derived from this equation:
+• all reactants and products are gases
+• there is a change in the number of gas molecules as the reaction proceeds: four 
+gas molecules on the left and two on the right
+• the forward reaction is exothermic so releases heat; the backward reaction is 
+endothermic so absorbs heat.
+Application of Le Châtelier’s principle to this reaction enables us to consider the 
+optimum conditions for converting reactants to products.
+• Concentration: we would need to increase the concentration of the reactants 
+nitrogen and hydrogen by adding more to the reaction vessel (in the molar 
+ratio 1:3 in accordance with their stoichiometry in the equation) and decrease
+the concentration of ammonia by removing it as it forms. These changes would 
+both shift the equilibrium to the right.
+• Pressure: as the forward reaction involves a decrease in the number of gas 
+molecules, it will be favoured by a high pressure.
+• Temperature: as the forward reaction is exothermic, it will be favoured by a 
+lower temperature. However, too low a temperature would cause the rate of 
+reaction to be uneconomically slow, and so a moderate temperature is used as a 
+compromise.
+• Catalyst: a catalyst does not affect the position of equilibrium but will speed up 
+the rate of production and so help to compensate for the moderate temperature 
+used. An iron-based catalyst is used in the Haber process.
+In fact, the Haber process achieves a conversion of H2 and N2 into NH3 of only about 
+10–20% per pass through the reactor. After separation of the NH3 product, the 
+unconverted reactants are recycled to the reactor to obtain an overall yield of about 
+95%. This recycling of unconverted reactants is commonly used in industrial processes 
+and allows processes with low equilibrium yield to be made commercially viable. 
+Designing processes that prevent or minimize waste is the first of the 12 principles of 
+Green Chemistry.
+Tractor applying a chemical solution of fertilizer to the soil. Ammonium salts such as ammonium 
+nitrate and sulfate are particularly effective fertilizers as they supply the nitrogen needed by plants 
+and are readily soluble. It is estimated that without the use of ammonium fertilizers, 2 billion 
+people would starve.
+Fritz Haber and Carl 
+Bosch developed 
+the process for the 
+industrial synthesis 
+of ammonia from its 
+elements, and the first 
+factory for ammonia 
+production opened in 
+Germany in 1913, just 
+before the First World 
+War. This development 
+enabled the continued 
+production of 
+explosives when 
+imports of nitrate, used 
+for producing nitric 
+acid and explosives 
+such as TNT, were 
+barred through 
+blockaded ports. This 
+effectively enabled 
+Germany to continue 
+its war efforts for 
+another four years. 
+Haber was awarded 
+the Nobel Prize in 
+Chemistry in 1918. 
+In many ways history 
+has recorded this as a 
+controversial choice – 
+not only had Haber’s 
+work helped to prolong 
+the war, he had also 
+been responsible for 
+the development and 
+use of chlorine as the 
+first poison gas.
+REACTIVITY 2
+How much, how fast and how far?
+
+
+449
+Nature of Science
+Scientific discoveries often have significant economic, ethical and political 
+implications. Some of these may be unintended consequences of the 
+discovery, such as the environmental degradation caused by the excess use of 
+nitrate fertilizers as an outcome of the Haber process. This raises the question 
+of who must take moral responsibility for the applications of scientific 
+discoveries. The process of science includes risk-benefit analyses, risk 
+assessment, and ethical considerations, but sometimes the full consequences 
+cannot be predicted and do not become known until much later.
+Challenge yourself
+5. Consider the atom economy of the Haber process described here using the 
+formula:
+% atom economy =  molar mass of desired product 
+ 
+ 
+_________________________ 
+ 
+ 
+molar mass of all reactants  × 100
+Explain how the atom economy is different from the reaction yield.
+In a similar manner to the Haber process, the production of methanol involves an 
+exothermic homogeneous reaction in the gaseous state with more molecules of gas on 
+the left side of the equation:
+CO(g) + 2H2(g) ⇌ CH3OH(g)
+∆H = –90 kJ mol–1
+Again, Le Châtelier’s principle can be used to consider the pressure and temperature 
+conditions that will optimize the conversion of reactants to products.
+Condition used
+Reasoning
+High pressure
+The forward reaction involves a reduction in the number of 
+molecules of gas from three molecules of reactant to one molecule 
+of product. High pressure will shift the equilibrium to the right.
+Moderate temperature
+The forward reaction is exothermic so a low temperature will 
+increase the equilibrium yield but decrease the rate. A moderate 
+temperature is used as a compromise. 
+A catalyst will also be used to increase the rate of reaction although it has no impact on 
+the position of equilibrium.
+Methanol, CH3OH, is used as a chemical feedstock to make other chemicals. A high 
+proportion is converted into methanal, HCHO, which is then converted into plastics, paints, 
+explosives, and plywood. Methanol is used as a laboratory solvent, as an antifreeze agent, 
+and in the process of producing biodiesel fuel from fats. Interest has also focused on the 
+potential of methanol as an energy storage molecule in the so-called ‘methanol economy’. 
+In on-going efforts to reduce dependence on imported fossil fuels, China has greatly 
+increased production capacity and consumption of methanol for its transportation sector. 
+In 2021, China had over 20 000 methanol taxis in operation.
+Drivers stand beside the 
+first batch of M100 (pure 
+methanol) taxis 
+in China’s Shaanxi province 
+in 2018.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+450
+The Contact process is an industrially significant reaction used to produce sulfuric acid, 
+H2SO4. One step in this process is shown below.
+2SO2(g) + O2(g) ⇌ 2SO3(g)
+∆H = –198 kJ mol–1
+As we have seen throughout this section, Le Châtelier’s principle can be used to predict the 
+conditions that will maximize the production of sulfur trioxide in this step. More sulfuric 
+acid by mass is produced worldwide than any other chemical. It has been found that the 
+production of sulfuric acid closely mirrors historical events such as major wars that affect 
+a country’s economy. For this reason, some economists use sulfuric acid production as a 
+measure of a country’s industrial strength. Sulfuric acid is used directly or indirectly in nearly 
+all industrial processes, including the production of fertilizers, detergents and paints, and in 
+ore processing, steel production, and water treatment. Approximately 250 million tonnes of 
+sulfuric acid are produced annually across all continents. 
+Exercise
+Q10. The manufacture of sulfur trioxide can be represented by the equation below:
+2SO2(g) + O2(g) ⇌ 2SO3(g)
+∆H= –198 kJ mol–1
+What happens when a catalyst is added to an equilibrium mixture from 
+this reaction?
+A 
+The rate of the forward reaction increases and that of the reverse 
+reaction decreases.
+B 
+The rates of both forward and reverse reactions increase.
+C 
+The value of ∆H increases.
+D 
+The yield of sulfur trioxide increases.
+Q11. What will happen to the position of equilibrium and the value of the 
+equilibrium constant when the temperature is increased in the following 
+reaction?
+Br2(g) + Cl2(g) ⇌ 2BrCl(g) 
+∆H = +14 kJ mol–1
+Position of equilibrium
+Value of equilibrium constant
+A
+shifts towards the reactants
+decreases
+B
+shifts towards the reactants
+increases
+C
+shifts towards the products
+decreases
+D
+shifts towards the products
+increases
+Q12. Which changes will shift the position of equilibrium to the right in the 
+following reaction?
+2CO2(g) ⇌ 2CO(g) + O2(g)
+I. 
+adding a catalyst
+II. decreasing the oxygen concentration
+III. increasing the volume of the container
+A 
+I and II only B 
+I and III only 
+C 
+II and III only 
+D 
+I, II and III
+Q13. For each of the following reactions, predict in which direction the 
+equilibrium will shift in response to an increase in pressure:
+(a) 2CO2(g) ⇌ 2CO(g) + O2(g)
+(b) CO(g) + 2H2 ⇌ CH3OH(g)
+(c)
+H2(g) + Cl2(g) ⇌ 2HCl(g)
+REACTIVITY 2
+How much, how fast and how far?
+
+
+451
+Q14. How will the equilibrium
+CH4(g) + 2H2S(g) ⇌ CS2(g) + 4H2(g)
+∆H = +ve
+respond to the following changes?
+(a) addition of H2(g)
+(b) addition of CH4(g)
+(c) a decrease in the volume of the container
+(d) removal of CS2(g)
+(e) increase in temperature
+Q15. The reaction
+2CO(g) + O2(g) ⇌ 2CO2(g) 
+∆H = –566 kJ mol–1
+takes place in catalytic converters in cars. If this reaction is at equilibrium, 
+will the amount of CO increase, decrease or stay the same when:
+(a) the pressure is increased by decreasing the volume?
+(b) the pressure is increased by adding O2(g)?
+(c) the temperature is increased?
+(d) a platinum catalyst is added?
+Q16. In the Haber process for the synthesis of ammonia, what effects does the 
+catalyst have?
+Rate of formation of NH3(g)
+Amount of NH3(g) formed
+A
+increases
+increases
+B
+increases
+decreases
+C
+increases
+no change
+D
+no change
+increases
+Q17. 
+2SO2(g) + O2(g) ⇌ 2SO3(g)
+∆H = –200 kJ mol–1
+According to the above information, what temperature and pressure 
+conditions produce the greatest amount of SO3?
+Temperature
+Pressure
+A
+low
+low
+B
+low
+high
+C
+high
+high
+D
+high
+low
+Q18. Predict how you would expect the value of K for the exothermic Haber 
+process to change as the temperature is increased. Explain the signiﬁ cance of 
+this in terms of the reaction yield.
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+452
+How can the extent of a reversible reaction be influenced?
+Guiding Question revisited
+In this chapter we have considered the following features of reversible reactions:
+• A dynamic equilibrium is reached:
+◦in a closed physical or chemical system
+◦when the rates of forward and backward reactions are equal and the 
+concentrations of reactants and products remain constant.
+• The equilibrium constant, K, can be determined from the stoichiometry of a 
+reaction and the equilibrium concentrations of reactants and products.
+• The magnitude of K indicates the extent of reaction at a given temperature.
+• The equilibrium law:
+◦states that every reaction will have a particular value of K at a given temperature
+◦can be used to quantify the composition of an equilibrium mixture.
+• Le Châtelier’s principle can be used to predict changes in equilibrium position 
+when a system is subject to changes in concentration, pressure and temperature. 
+It states that a system at equilibrium when subjected to a change will respond in such a way 
+as to minimize the effect of the change. Therefore:
+◦an increase in concentration of reactants will shift the equilibrium towards 
+the products and vice versa; K remains unchanged
+◦an increase in pressure will shift the equilibrium towards the side of the 
+reaction with the least gaseous molecules and vice versa; K remains unchanged
+◦an increase in temperature will shift the equilibrium in the endothermic 
+direction and vice versa; K changes at different temperatures
+◦the use of a catalyst has no effect on the position of equilibrium as it increases 
+the forward and backward rate by equal amounts; K remains unchanged.
+Practice questions
+1. Which statement about chemical equilibria implies they are dynamic?
+A 
+The position of equilibrium constantly changes.
+B 
+The rates of forward and backward reactions change.
+C 
+The reactants and products continue to react.
+D 
+The concentrations of the reactants and products continue to change.
+2.
+The reaction below represents the equilibrium established between gaseous 
+and aqueous carbon dioxide in a carbonated soft drinks bottle.
+CO2(g) ⇌ CO2(aq)
+The bottle is opened for a short period of time allowing some CO2(g) to 
+escape before the lid is placed back on. What is the effect of this change on 
+the position of equilibrium and the concentration of CO2(aq)?
+Position of equilibrium
+[CO2(aq)]
+A
+shifts to the left
+decreases
+B
+shifts to the right
+increases
+C
+shifts to the left
+increases
+D
+shifts to the right
+decreases
+REACTIVITY 2
+How much, how fast and how far?
+
+
+453
+3. What is the effect of an increase of temperature on the yield and the 
+equilibrium constant for the following reaction?
+2H2(g) + CO(g) ⇌ CH3OH(l) 
+∆H= −128 kJ mol–1
+Yield
+Equilibrium constant
+A
+increases
+increases
+B
+increases
+decreases
+C
+decreases
+increases
+D
+decreases
+decreases
+4. Consider the equilibrium between methanol, CH3OH(l), and methanol vapour, 
+CH3OH(g).
+CH3OH(l) ⇌ CH3OH(g)
+What happens to the position of equilibrium and the value of K as the 
+temperature decreases?
+Position of equilibrium
+Value of K
+A
+shifts to the left
+decreases
+B
+shifts to the left
+increases
+C
+shifts to the right
+decreases
+D
+shifts to the right
+increases
+5. An increase in temperature increases the amount of chlorine present in the 
+following equilibrium.
+PCl5(s) ⇌ PCl3(l) + Cl2(g)
+What is the best explanation for this?
+A 
+The higher temperature increases the rate of the forward reaction only.
+B 
+The higher temperature increases the rate of the reverse reaction only.
+C 
+The higher temperature increases the rate of both reactions but the 
+forward reaction is affected more than the reverse.
+D 
+The higher temperature increases the rate of both reactions but the reverse 
+reaction is affected more than the forward.
+6. Consider the following reversible reaction.
+Cr2O72−(aq) + H2O(l) ⇌ 2CrO42−(aq) +2H+(aq)
+What will happen to the position of equilibrium and the value of K when more 
+H+ ions are added at constant temperature?
+Position of equilibrium
+Value of K
+A
+shifts to the left
+decreases
+B
+shifts to the right
+increases
+C
+shifts to the right
+does not change
+D
+shifts to the left
+does not change
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+454
+7. Consider this equilibrium reaction in a sealed container:
+H2O(g) ⇌ H2O(l)
+What will be the effect on the equilibrium of increasing the temperature from 
+20 °C to 30 °C?
+A 
+More of the water will be in the gaseous state at equilibrium.
+B 
+More of the water will be in the liquid state at equilibrium.
+C 
+At equilibrium the rate of condensation will be greater than the rate of 
+evaporation.
+D 
+At equilibrium the rate of evaporation will be greater than the rate of 
+condensation.
+8. Which statement is correct for the equilibrium:
+H2O(l) ⇌ H2O(g)
+in a closed system at 100 °C?
+A 
+All the H2O(l) molecules have been converted to H2O(g).
+B 
+The rate of the forward reaction is greater than the rate of the reverse 
+reaction.
+C 
+The rate of the forward reaction is less than the rate of the reverse reaction.
+D 
+The pressure remains constant.
+9. Consider the following equilibrium:
+2SO2(g) + O2(g) ⇌ 2SO3(g) 
+∆H = −198 kJ mol–1
+(a) Deduce the equilibrium constant expression, K, for the reaction. 
+(1)
+(b) State and explain the effect of increasing the pressure on the yield of sulfur 
+trioxide. 
+(2)
+(c) State and explain the effect of increasing the temperature on the yield of 
+sulfur trioxide. 
+(2)
+(d) State the effects of a catalyst on the forward and reverse reactions, on the 
+position of equilibrium, and on the value of K. 
+(3)
+(Total 8 marks)
+10. The Haber process enables the large-scale production of ammonia needed to 
+make fertilizers.
+The equation for the Haber process is given below.
+N2(g) + 3H2(g) ⇌ 2NH3(g)
+The percentage of ammonia in the equilibrium mixture varies with temperature.
+percentage of NH3 in
+equilibrium mixture
+temperature
+REACTIVITY 2
+How much, how fast and how far?
+
+
+455
+(a) Use the graph to deduce whether the forward reaction is exothermic or 
+endothermic  and explain your choice. 
+(2)
+(b) State and explain the effect of increasing the pressure on the yield of 
+ammonia. 
+(2)
+(c) Deduce the equilibrium constant expression, K, for the reaction. 
+(1)
+(Total 5 marks)
+11. An example of a homogeneous reversible reaction is the reaction between 
+hydrogen and iodine.
+H2(g) + I2(g) ⇌ 2HI(g)
+(a) Outline the characteristics of a homogeneous chemical system that is in a 
+state of equilibrium. 
+(2)
+(b) Deduce the expression for the equilibrium constant, K. 
+(1)
+(c) Predict what would happen to the position of equilibrium if the pressure 
+was increased from 1 atm to 2 atm. 
+(1)
+(d) The value of K at 500 K is 160 and the value of K at 700 K is 54. Deduce 
+what this information tells us about the enthalpy change of the forward 
+reaction. 
+(1)
+(e) Determine the value of the equilibrium constant, K’, for the reverse 
+reaction at 500 K. 
+(1)
+(f ) The reaction can be catalyzed by adding platinum metal. State and explain 
+what effect the addition of platinum would have on the value of the 
+equilibrium constant. 
+(2)
+(Total 8 marks)
+REACTIVITY 2.3
+How far? The extent of chemical change
+
+
+What are the 
+mechanisms of chemical 
+change?
+3
+REACTIVITY
+
+

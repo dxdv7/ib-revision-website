@@ -1,0 +1,995 @@
+327
+Energy cycles in reactions 
+REACTIVITY 1.2
+Energy changes occur during chemical reactions as bonds are broken and new 
+bonds are formed. Energy is needed to separate particles held together by chemical 
+bonds, and energy is released when the same particles come together in a different 
+arrangement with new bonds. The net enthalpy change is the difference between 
+the two energy contributions of bond-breaking and bond-making. The reaction is 
+exothermic overall when bond formation releases more energy than is needed for 
+bond-breaking.
+The law of conservation of energy tells us that the total energy of the universe is 
+constant and cannot be changed. The energy can be converted from one form to 
+another, but no process can change its amount. This law imposes restrictions on 
+energy changes when a chemical change can occur via different routes.
+Consider the energy cycle below (Figure 1) in which A can be converted to C either 
+directly or indirectly.
+A
+B
+C
+H1
+H3
+H2
+Going around the cycle in a clockwise route from A → B → C → A, according to the 
+law of conservation of energy, the total energy change is zero: 
+∆H1 + ∆H2 − ∆H3 = 0
+Otherwise, the cycle could form the basis of a perpetual motion machine with energy 
+being generated continually by going around the cycle in one direction.
+The construction of the cycle allows us to calculate enthalpy changes to reactions 
+indirectly. ∆H3 can be calculated from ∆H1 and ∆H2:
+∆H1 + ∆H2 = ∆H3
+We can then determine enthalpy changes of hypothetical reactions and make 
+predictions about the relative stability of different compounds. The law of 
+conservation of energy imposes restrictions but also adds order. Energy cycles are a 
+key tool in understanding any chemical change. 
+R1.2 Figure 1 An energy 
+cycle.
+A chemical reaction involves the breaking and making of bonds. 300–500 kJ of heat are
+typically needed to break one mole of covalent bonds. This image shows a change in
+the bond between the atoms represented by the yellow (on the left) and the dark blue
+(in the centre).
+How does application of the law of conservation of energy help us to predict 
+energy changes during reactions? 
+Guiding Question
+
+
+328
+REACTIVITY 1
+Classification of matter
+Reactivity 1.2.1 – Bond enthalpy
+Reactivity 1.2.1 – Bond-breaking absorbs and bond-forming releases energy.
+Calculate the enthalpy change of a reaction from the given average bond enthalpy data.
+Include an explanation of why bond enthalpy 
+data are average values and may differ from 
+those measured experimentally.
+Average bond enthalpy values are given in the 
+data booklet.
+Structure 2.2 – How would you expect bond 
+enthalpy data to relate to bond length and 
+polarity?
+Reactivity 3.4 – How does the strength of 
+a carbon–halogen bond affect the rate of a 
+nucleophilic substitution reaction?
+Breaking bonds is an endothermic process
+In Structure 2.2, we see that a covalent bond is due to the electrostatic attraction 
+between a shared pair of electrons and the positive nuclei of the bonded atoms. 
+Energy is needed to separate the atoms in a bond.
+The bond enthalpy is the energy needed to break one mole of bonds in gaseous 
+molecules under standard conditions.
+The energy change, for example, during the formation of two moles of chlorine atoms 
+from one mole of chlorine molecules can be represented in a thermochemical equation.
+Cl2(g) → 2Cl(g) 
+∆H⊖ = +242 kJ mol−1
+The enthalpy change is positive as it is an endothermic process.
+The situation is complicated in molecules which contain more than two atoms. 
+More energy is needed to break the first O − H bond in a water molecule than the 
+second bond:
+H2O(g) → H(g) + OH(g) 
+∆H⊖ = +502 kJ mol−1
+OH(g) → H(g) + O(g) 
+∆H⊖ = +427 kJ mol−1
+Similarly, the energy needed to break the O−H bond in other molecules such as 
+ethanol, C2H5OH, differs from either of these values. To compare bond enthalpies for 
+bonds which occur in different environments, average bond enthalpies are used.
+The two previous equations can be combined:
+H2O(g) → H(g) + H(g) + O(g) 
+∆H⊖= (+502) + (+427) kJ mol−1
+As there are two O − H bonds we can determine the average value (E(O−H)):
+E(O−H) =  + 502 + 427
+__________
+2 
+ kJ mol−1
+=  929
+____
+2  = 464.5 kJ mol−1
+This value should be compared with the bond enthalpies given in the table on the next 
+page, which are calculated for a larger range of molecules.
+
+
+329
+REACTIVITY 1.2
+Energy cycles in reactions
+Bond
+E(X−Y) / kJ mol−1
+Bond length / 10−12 m
+H − H
++436
+74
+C − C
++346
+154
+C − H
++414
+108
+O − H
++463
+97
+C − O
++358
+143
+Cl − Cl
++242
+199
+C − Cl
++324 
+177
+H − Cl
++431
+128
+F − F 
++159
+142
+C − F 
++492
+138
+H − F 
++567
+92
+Br − Br 
++193
+228
+H − Br
++366
+141
+I − I 
++151
+267
+H − I  
++298
+160
+O − O 
++144
+148
+C=C
++614
+134
+O=O
++498
+121
+C=O
++804
+122
+As expected, multiple bonds which involve more bonding electrons generally have 
+higher bond enthalpies and shorter bond lengths than single bonds.
+All bond enthalpies refer to reactions in the gaseous state, so any enthalpy changes 
+resulting from the formation or breaking of intermolecular forces are not included.
+Bond enthalpy and polarity
+You can improve your understanding by comparing the average bond enthalpy of the 
+H−H and X−X bonds in the halogens and then comparing them to those in H−X.
+X
+Average of E(H−H) and 
+E(X−X) / kJ mol−1
+E(H−X) / 
+kJ mol−1
+E(H−X) –  (
+E(H−H) + E(X−X) 
+ 
+_______________
+2
+) / kJ mol−1
+Cl
+436 + 242
+_________
+2 
+ = +339
++431
+92
+Br
+436 + 193
+_________
+2
+ = +314.5
++366
+51.5
+I
+436 + 151
+_________
+2
+ = +293.5
++298
+4.5
+We can see that the difference in bond enthalpies between the hydrogen halide bonds 
+and the average bonds in the corresponding elements, as shown in the fourth column, 
+is greatest with chlorine and smallest with iodine. These differences can be related to 
+the polarity of the molecule with the largest difference occurring with the more polar 
+H−Cl bond. More generally we can say that the polar X−Y bond between two elements 
+X and Y is stronger than the non-polar X−X and Y−Y bonds.
+The average bond 
+enthalpy is the 
+energy needed to 
+break one mole of 
+bonds in gaseous 
+molecules under 
+standard conditions 
+averaged over similar 
+compounds.
+Note that the definition 
+of bond enthalpy 
+indicates that all the 
+species have to be in 
+the gaseous state.
+
+
+330
+REACTIVITY 1
+Classification of matter
+Electronegativities on the Pauling scale are calculated from bond enthalpy differences. 
+χA – χB =  √
+_________
+(E(A—B) −  (
+E(A—A) + (B—B) 
+ 
+_________________
+2 
+ )
+The units of energy used are eV not kJ mol−1. You are not required to know the details. 
+1 eV = 1.6 × 10–19 × 6.02 x 1023 J mol–1 = 96 kJ mol–1
+Challenge yourself
+1. Fluorine shows some anomalous properties due to its small atomic radius.
+(a) Comment on the bond enthalpy of F−F compared to the X−X bond in the 
+other halogens.
+(b) Compare the bond enthalpy of H−F with the average bond enthalpies of 
+H2 and F2.
+Making bonds is an exothermic process
+The same amount of energy is absorbed when a bond is broken as is given out when a 
+bond is formed (Figure 2). For example:
+H(g) + H(g) → H2(g) 
+∆H⊖ =  − 436 kJ mol−1
+The negative enthalpy change shows that bond-making is an exothermic process.
+X(g) 1 Y(g)
+X 2 Y(g)
+Bond-breaking,
+which involves
+separating atoms
+that are
+attracted by an 
+electrostatic
+force, requires
+energy.
+Bond-making,
+which involves
+bringing
+together atoms
+that are attracted
+by an electrostatic
+force, releases
+energy.
+potential energy, H
+R1.2 Figure 2 The energy changes that occur when bonds are broken and formed. 
+Worked example 
+Identify the endothermic process.
+A 
+2Cl(g) → Cl2(g) 
+B 
+Na(g) → Na+(g) + e−
+C 
+Na+(g) + Cl−(g) → NaCl(s) 
+D 
+Na(g) → Na(s)
+Solution
+Only one of the processes involves the separation of particles:
+Na(g) → Na+(g) + e−
+A negatively charged electron e− is separated from a positive ion Na+(g).
+Answer = B
+Structure 2.2 – How 
+would you expect bond 
+enthalpy data to relate 
+to bond length 
+and polarity?
+Endothermic 
+processes involve 
+the separation of 
+particles which are 
+held together by a 
+force of attraction.
+Exothermic 
+processes involve 
+the bringing 
+together of particles 
+which are mutually 
+attracted.
+
+
+331
+REACTIVITY 1.2
+Energy cycles in reactions
+Energy changes in reactions 
+To understand the energy changes that occur in chemical reactions, consider, for 
+example, the complete combustion of methane:
+H
+C
+H
+H
+2O
+O
++
+H
+2H
++
+O
+C
+O
+O
+H
+Energy is needed to break the C−H and O=O bonds in the reactants and is given out 
+when the C=O and O−H bonds are formed. The reaction is exothermic overall as the 
+bonds formed are stronger than those broken. Conversely, a reaction is endothermic 
+when the bonds broken are stronger than the bonds formed.
+Worked example 
+Use bond enthalpies to calculate the enthalpy of combustion of methane, the 
+principal component of natural gas.
+Solution
+1. Write down the equation for the reaction showing all the bonds. (This has 
+already been done above.)
+2. Construct a table to show the bonds which are broken and formed during the 
+reaction with the corresponding enthalpy changes.
+Bonds broken
+∆H⊖/ kJ mol−1
+(endothermic)
+Bonds formed
+∆H⊖/ kJ mol−1
+(exothermic)
+4 C−H
+4 (+414)
+2 C=O
+2 ( − 804)
+2 O=O
+2 (+498)
+4 O−H
+4 ( − 463)
+Total
+= +2652
+= −3460
+∆H⊖= +2652 − 3460 kJ mol−1 = −808 kJ mol−1
+The value calculated from the bond enthalpies should be compared with the 
+experimental value of −891 kJ mol−1 measured under standard conditions given in 
+Section 14 of the data booklet. The values are significantly different because the 
+standard state of water is liquid and the bond enthalpy calculation assumes that 
+the reaction occurs in the gaseous state. The use of average bond enthalpies is an 
+additional approximation.
+Challenge yourself
+2. Compare the value of the enthalpy of combustion of methane obtained in the 
+worked example to that in Section 14 of the data booklet and estimate the 
+strength of a hydrogen bond. 
+
+
+332
+REACTIVITY 1
+Classification of matter
+The worked example illustrates a general result:
+∆H⊖ = ΣE(bonds broken)− ΣE(bonds formed)
+∆H⊖ = ΣE(bonds broken ) − ΣE(bonds formed)
+Worked example 
+Use bond enthalpy data given earlier to calculate the enthalpy change of reaction 
+between ethene and chorine:
+C2H4(g) + Cl2(g) → CH2ClCH2Cl(g)
+Solution
+Follow the same strategy as the previous example.
+Start with a balanced chemical equation showing all the bonds:
+H
+C
+Cl
+Cl (g)
++
+H
+H
+C
+H
+H
+C
+Cl
+H
+C
+Cl
+H
+H
+Identify the bonds broken and formed and the corresponding enthalpy changes.
+Bonds broken 
+∆H / kJ mol−1 
+(endothermic)
+Bonds formed
+∆H / kJ mol−1 
+(exothermic)
+Cl−Cl
++242 
+2 C−Cl
+− 2(324)
+C=C 
++614 
+C−C 
+− (346)
+Total
+= +242 +614
+= +856
+=  − 2 (324) − (346)
+=  − 994
+ΔH⊖ = Σ E(bonds broken) −Σ E(bonds formed)
+= +856 − 994 = −138 k mol−1
+As discussed in Reactivity 1.1, some reactants need to be given an initial energy known 
+as the activation energy before they will react. This energy is needed because some 
+bonds in the reactants must break before new bonds in the products can form. The 
+rate of some reactions can be explained by the relative bond enthalpy of the bonds 
+broken. The relative strength of the carbon–halogen bond, for example, can be used to 
+explain the relative reactivity of the halogenoalkanes discussed in Reactivity 3.4. The 
+iodoalkanes are the most reactive as the C−I bond is relatively easy to break compared 
+with the other carbon–halogen bonds.
+The Earth is unique among the planets in having an atmosphere that is chemically active 
+and rich in oxygen. Oxygen, O2, and ozone, O3, both play a key role in protecting life. The 
+oxygen-to-oxygen bond in ozone is weaker than the double bond in O2 and so is broken by 
+long-wavelength ultraviolet radiation. The absorption of harmful ultraviolet (UV) radiation.in 
+the ozone layer protects the Earth’s surface.
+Reactivity 3.4 – How 
+does the strength of a 
+carbon–halogen bond 
+aﬀ ect the rate of a 
+nucleophilic substitution 
+reaction?
+
+
+333
+REACTIVITY 1.2
+Energy cycles in reactions
+Challenge yourself
+3. The bond enthalpy in ozone is +363 kJ mol−1.
+(a) Compare this bond enthalpy with the oxygen–oxygen bond enthalpies 
+tabulated on page 329 and comment on its value.
+(b) Explain why ozone (O3) can be decomposed by ultraviolet radiation with a 
+longer wavelength than that required to decompose oxygen (O2).
+Q1. Which of the following processes are endothermic?
+I. 
+H2O(s) → H2O(g)
+II. CO2(g) → CO2(s)
+III. O2(g) → 2O(g)
+A 
+I and II only 
+B 
+I and III only C 
+II and III only 
+D 
+I, II and III
+Q2. Identify the equation that represents the bond enthalpy for the H−Cl bond.
+A 
+HCl(g) → H(g) + Cl(g)
+B 
+HCl(g) →  1_
+2 H2(g) +  1_
+2 Cl2(g)
+C 
+HCl(g) → H+(g) + Cl−(g)
+D 
+HCl(aq) → H+(aq) + Cl−(aq)
+Q3. Identify the bonds that are broken in the following process.
+C2H6(g) → 2C(g) + 6H(g)
+Q4. Which of the following enthalpy changes corresponds to the bond enthalpy 
+of the carbon−oxygen bond in carbon monoxide?
+A 
+CO(g) → C(s) + O(g)
+B 
+CO(g) → C(g) + O(g)
+C 
+CO(g) → C(s) +  1_
+2 O2(g)
+D 
+CO(g) → C(g) +  1_
+2 O2(g)
+Q5. The hydrogenation of the alkene double bond in unsaturated oils is an 
+important reaction in margarine production. Calculate the enthalpy change 
+when one mole of C=C bonds is hydrogenated from the bond energy data 
+given earlier.
+A 
+−290 kJ mol−1 
+B 
+−124 kJ mol−1
+C 
++124 kJ mol−1 
+D 
++290 kJ mol−1
+Exercise
+Weather balloon being 
+inflated by a meteorologist. 
+A measuring device attached 
+below the balloon will 
+measure ozone distribution 
+to an altitude of 35–40 
+kilometres, allowing study 
+of the ozone layer at 20–30 
+kilometres. Ozone at this level 
+(formed by sunlight) absorbs 
+the dangerous types of UV 
+radiation in sunlight.
+
+
+334
+REACTIVITY 1
+Classification of matter
+Q6. Use bond enthalpy data to calculate the enthalpy change of the reaction 
+between methane and ﬂ uorine.
+C2H4(g) + F2(g) → CH2FCH2F(g)
+A 
++557 kJ mol−1
+B 
++65 kJ mol−1
+C 
+−65 kJ mol−1
+D 
+−557 kJ mol−1
+Q7. Use bond enthalpy data to calculate ∆H⊖ for the reaction:
+2H2(g) + O2(g) → 2H2O(g)
+Q8. Use the bond enthalpies given earlier to estimate the enthalpy of combustion 
+of ethanol and comment on the reliability of your result.
+Reactivity 1.2.2 – Hess’s law
+Reactivity 1.2.2 – Hess’s law states that the enthalpy change for a reaction is 
+independent of the pathway between the initial and ﬁ nal states.
+Apply Hess’s law to calculate enthalpy changes in multistep reactions.
+Hess’s law is a consequence of the law of 
+conservation of energy
+Consider again the energy level diagram below.
+potential energy
+reaction coordinate
+H2(g) 1 O2(g)
+H2O2(l)
+DH3
+DH2
+DH1
+H2O(l)     O2(g)
+1
+2
+The thermochemical equations for the three reactions are:
+H2(g) + O2(g) → H2O2(l)  
+∆H1 = −188 kJ mol−1
+H2O2(l) → H2O(l) +  1_
+2O2(g) 
+∆H2 = −98 kJ mol−1
+H2(g) +  1_
+2O2(g) → H2O(l)  
+∆H3 = −286kJ mol−1
+
+
+335
+REACTIVITY 1.2
+Energy cycles in reactions
+We can see from the figure on the previous page that ∆H1 + ∆H2 =∆H3 and can confirm 
+this by adding the first two equations:
+H2(g) + O2(g) + H2O2(l) →H2O2(l) + H2O(l) +  1_
+2O2(g) 
+∆H3 = −188 − 98 kJ mol−1
+H2(g) +  1_
+2O2(g) → H2O(l) 
+∆H3 = −286 kJ mol−1
+This shows that the overall enthalpy change that occurs when hydrogen and oxygen 
+combine to form water is the same whether the chemical change occurs in one step 
+(∆H3) or two steps (∆H1 + ∆H2).
+This result can be generalized and is known as Hess’s law: the enthalpy change for any 
+chemical reaction is independent of the route, provided the starting conditions and 
+final conditions, and reactants and products, are the same.
+These reactions form an energy cycle. In the clockwise direction shown in green in 
+Figure 3, the starting and end points are H2(g) + O2(g) so there is no net chemical 
+reaction or enthalpy change.
+H1 = –188 kJ mol–1
+H = +286 kJ mol–1
+H = –188 – 98 kJ mol–1
+H2 = –98 kJ mol–1
+H3 = –286 kJ mol–1
+H2(g) + O2(g)
+H2O2(l)
+H2O(l)    O2(l) 
+1
+2
+R1.2 Figure 3 There is no net chemical or enthalpy change as the start and end points are the same.
+As per the law of conservation of energy, the enthalpy change in a complete cycle = 0.
+0 = ∆H1 + ∆H2 − ∆H3
+This leads to:
+∆H3 = ∆H1 + ∆H2
+This shows that Hess’s law is a consequence of the law of conservation of energy; 
+otherwise it would be possible to devise cycles in which energy was created or 
+destroyed.
+Using Hess’s law
+Hess’s law states that the enthalpy change for any chemical reaction is independent of 
+the route, provided the starting and final conditions, and reactants and products, are 
+the same. The importance of Hess’s law is that it allows us to calculate the enthalpy 
+changes of reactions that we cannot measure directly in the laboratory. For example, 
+although the elements carbon and hydrogen do not combine directly to form propane, 
+the enthalpy change for the reaction:
+3C(graphite) + 4H2(g) → C3H8(g)
+can be calculated from the enthalpy of combustion data of the elements and the 
+compound (Figure 4).
+Hess’s law states 
+that the enthalpy 
+change for any 
+chemical reaction is 
+independent of the 
+route, provided the 
+starting conditions 
+and final conditions, 
+and reactants 
+and products, are 
+the same.
+Hess’s law is a natural 
+consequence of the 
+law of conservation of 
+energy. If you know the 
+law of conservation 
+of energy, do you 
+automatically know 
+Hess’s law?
+
+
+336
+REACTIVITY 1
+Classification of matter
+H1
+H3
+H2
+3C(graphite)  4H2(g)  5O2(g) 
+C3H8(g)  5O2(g) 
+3CO2(g)  4H2O(l) 
+The steps in an enthalpy cycle may be hypothetical. The only requirement is that the 
+individual chemical reactions in the cycle must balance. The relationship between the 
+different reactions is clearly shown in an energy level diagram (Figure 5).
+DH3
+DH2
+DH1
+3C(graphite) 1 4H2(g) 1 5O2(g) 
+C3H8(g) 1 5O2(g) 
+3CO2(g) 1 4H2O(l) 
+potential energy
+The general use of enthalpies of combustion in determining enthalpies of reaction is 
+discussed in more detail in the next section.
+Worked example 
+Calculate the standard enthalpy change, ΔH⊖, for the formation of sulfur dioxide 
+from the thermochemical equations (1) and (2).
+S(s) + O2(g) → SO2(g)
+S(s) + 1 1_
+2O2(g) → SO3(g) 
+ΔH⊖ = −395 kJ mol−1 
+(1)
+SO2(g) +  1_
+2O2(g) → SO3(g) 
+ΔH⊖= −98 kJ mol−1 
+(2)
+Solution
+We can think of the reaction as a journey from S(s) to SO2(g). As the standard 
+enthalpy change cannot be measured directly, we must go by an alternative route 
+suggested by the equations given.
+Reaction 1 starts from the required reactant:
+S(s) + 1 1_
+2O2(g) → SO3(g) 
+ΔH⊖ = −395 kJ mol−1 
+(1)
+Reaction 2 relates SO3(g) to SO2(g). To ﬁ nish with the required product, we reverse 
+the chemical change and the sign of enthalpy change:
+SO3(g) → SO2(g) +  1_
+2O2(g) 
+ΔH⊖ = −(−98) kJ mol−1 = +98 kJ mol−1 
+(2)
+R1.2 Figure 4
+∆H1 + ∆H2 = ∆H3, therefore 
+∆H1 = ∆H3 − ∆H2. 
+Although ∆H1 cannot be 
+measured directly, it can 
+be calculated from the 
+enthalpies of combustion of 
+carbon and hydrogen (∆H3) 
+and propane (∆H2).
+R1.2 Figure 5 Energy level 
+diagram used to obtain the 
+enthalpy of formation of 
+propane indirectly. 
+Reversing the 
+direction of a 
+reaction reverses 
+the sign of ∆H.
+The enthalpy change 
+for the decomposition 
+of metal carbonates 
+can be determined in 
+the school laboratory 
+by reacting the 
+metal carbonate and 
+the metal oxide or 
+hydrogen carbonate 
+with dilute acids using 
+Hess’s law.
+
+
+337
+REACTIVITY 1.2
+Energy cycles in reactions
+We can now combine these equations:
+S(s) + 1 1_
+2O2(g) + SO3(g) → SO3(g) + SO2(g) +  1_
+2O2(g) 
+ΔH⊖ = −395 + 98 kJ mol−1
+Simplifying:
+S(s) + 1 1_
+2O2(g) + SO3(g) →SO3(g) + SO2(g) +  1_
+2O2(g)
+ΔH⊖ = −297 kJ mol−1
+S(s) + O2(g) → SO2(g) 
+ΔH⊖ = −297 kJ mol−1
+Challenge yourself
+4. Explain why it is difficult to determine the enthalpy change of thermal 
+decomposition reactions directly. 
+Q9. The diagram illustrates the enthalpy changes for a set of reactions.
+DH = +50 kJ
+DH = +30 kJ
+DH =  –60 kJ
+S
+Q
+R
+P
+Which of the following statements are correct?
+I. 
+P → S 
+∆H = −10 kJ
+II. R → Q 
+∆H = +90 kJ
+III. P → R 
+∆H = +20 kJ
+A 
+I and II only  
+ 
+B 
+I and III only 
+C 
+II and III only  
+ 
+D 
+I, II and III
+Exercise 
+The heat produced when 
+water is added to anhydrous 
+copper(II) sulfate (white) is 
+enough to produce steam 
+and disturb the powder.
+The heat produced 
+when an anhydrous 
+salt is converted to 
+a hydrated salt can 
+be determined by 
+adding the anhydrous 
+and hydrated salt to 
+separate samples of 
+water. Full details of 
+how to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+
+
+338
+REACTIVITY 1
+Classification of matter
+Q10. The thermochemical equations for three related reactions are shown.
+CO(g) +  1_
+2O2(g) → CO2(g)
+ΔH1 = −283 kJ mol−1
+2H2(g) + O2(g) → 2H2O(l)
+ΔH2 =−572 kJ mol−1
+CO2(g) + H2(g) → CO(g) + H2O(l)
+ΔH3 = ?
+What is the value of ΔH3?
+A 
++289 kJ mol−1
+B 
+−3 kJ mol−1
+C 
+−289 kJ mol−1
+D 
+−855 kJ mol−1
+Q11. Calculate the enthalpy change, ∆H⊖, for the reaction:
+C(graphite) + 1_
+2O2(g) → CO(g)
+from the information below:
+C(graphite) + O2(g) → CO2(g) 
+∆H⊖ = −394 kJ mol−1
+CO(g) + 1_
+2O2(g) → CO2(g) 
+∆H⊖ = −283 kJ mol−1
+Q12. Calculate the enthalpy change, ∆H⊖, for the reaction:
+2NO(g) + O2(g) → 2NO2(g)
+from the information below:
+N2(g) + O2(g) → 2NO(g) 
+∆H⊖ = +180.5 kJ mol−1
+N2(g) + 2O2(g) →2NO2(g) 
+∆H⊖ = +66.4 kJ mol−1
+Q13. Calculate the enthalpy change for the dimerization of nitrogen dioxide:
+2NO2(g) → N2O4(g)
+from the following data:
+1_
+2N2(g) + O2(g) → NO2(g) 
+∆H⊖ =+33.2 kJ mol−1
+N2(g) + 2O2(g) → N2O4(g) 
+∆H⊖ = +9.16 kJ mol−1
+
+
+339
+REACTIVITY 1.2
+Energy cycles in reactions
+How does the application of the law of conservation of energy help us to 
+predict energy changes during reactions?
+Guiding Question revisited
+In this chapter we introduced the concept of energy cycles and saw how they can be 
+used to relate the enthalpy changes of related reactions. You can construct energy 
+cycles for covalent compounds with the making and breaking of covalent bonds. 
+Energy cycles can be used to predict the enthalpy changes of real or hypothetical 
+reactions and so offer insight into underlying principles of chemical change. These 
+ideas can be summarized as follows:
+• Hess’s law states that the total enthalpy change for a reaction is independent of 
+the route taken. It is a special case of the law of conservation of energy.
+• Energy cycles allow for the calculation of values corresponding to certain 
+enthalpy changes which cannot be determined directly.
+• The average bond enthalpy is the energy required to break one mole of the same 
+type of bonds in the gaseous state averaged over a variety of similar compounds.
+• Bond-breaking absorbs energy and is endothermic. Bond-making releases 
+energy and is exothermic.
+• Enthalpy of reactions calculated from bond enthalpies do not include intermolecular 
+interaction and so are only accurate for reactions in the gaseous state.
+Practice questions
+1. Consider the following reactions.
+Cu2O(s) +  1_
+2 O2(g) → 2CuO(s) 
+∆H⊖ = −144 kJ
+Cu2O(s) → Cu(s) + CuO(s) 
+∆H⊖ = +11 kJ
+What is the value of ∆H⊖, in kJ, for this reaction?
+Cu(s) +  1_
+2 O2(g) → CuO(s)
+A 
+−144 + 11  
+ 
+ 
+B 
++144 − 11  
+C 
+−144 − 11 
+ 
+ 
+D 
++144 + 11
+2. Which equation best represents the bond enthalpy of HCl?
+A 
+HCl(g) → H+(g) + Cl−(g) 
+B 
+HCl(g) → H(g) + Cl(g)
+C 
+HCl(g) →  1_
+2 H2(g) +  1_
+2 Cl2(g) 
+D 
+2HCl(g) → H2(g) + Cl2(g)
+
+
+340
+REACTIVITY 1
+Classification of matter
+3. Consider the equations below.
+CH4(g) + O2(g) → HCHO(l) + H2O(l) 
+∆H⊖ = x
+HCHO(l) +  1_
+2 O2(g) → HCOOH(l) 
+∆H⊖ = y
+2HCOOH(l) +  1_
+2 O2(g) → (COOH)2(s) + H2O(l) 
+∆H⊖ = z
+What is the enthalpy change of the reaction below?
+2CH4(g) + 3 1_
+2 O2(g) → (COOH)2(s) + 3H2O(l)
+A 
+x + y + z  
+ 
+ 
+B  2x + y + z
+C 
+2x + 2y + z  
+ 
+ 
+D 
+2x + 2y + 2z
+4. Which process has an enthalpy change that corresponds to the bond enthalpy 
+for the O−H bond?
+A 
+H2O(l) → H2(g) +  1_
+2 O2(g) 
+B 
+ 1_
+2H2O(l) →  1_
+2 H2(g) + O(g)
+C 
+ 1_
+2H2O(g) → H(g) + O(g) 
+D 
+ 1_
+2H2O(g) → H(g) +  1_
+2 O(g)
+5. What is the energy, in kJ, released when 1.0 mol of carbon monoxide is burned 
+according to the following equation?
+2CO(g) + O2(g) → 2CO2(g) 
+∆H ⊖= −564 kJ
+A 
+141 
+B 
+282 
+C 
+564 
+D 
+1128
+6. Which enthalpy changes cannot be calculated accurately using only bond 
+enthalpy data?
+I. 
+C2H6(g) +  7_
+2 O2(g) → 3H2O(l) + 2CO2(g)
+II. C2H4(g) + Br2(l) → CH2ClCH2Cl(l)
+III. 2H2(g) + O2(g) → H2O(g)
+A 
+I and II only
+B 
+I and III only
+C 
+II and III only
+D 
+I, II and III
+
+
+341
+REACTIVITY 1.2
+Energy cycles in reactions
+7. Which combination will give you the enthalpy change for the hydrogenation 
+of ethene to ethane, DH3?
+2C(s) + 3H2(g)
+2CO2(g) + 3H2(g)
++ 2O2(g)
++ 2O2(g)
+C2H4(g) + H2(g)
+C2H6(g)
+∆H2
+∆H1
+∆H4
+∆H3
+A 
+–H2 + H1 – H4
+B 
+H2 – H1 + H4
+C 
+H2 + H1 – H4
+D 
+–H2 – H1 + H4
+8. Consider the following thermochemical equations. 
+N2(g) + 3H2(g) → 2NH3(g) 
+DH1⊖ = x
+H2(g) → 2H(g) 
+DH2⊖ = y
+N2(g) → 2N(g) 
+DH3⊖ = z
+Deduce an expression, in terms of x, y and z , for the average bond enthalpy 
+for the N – H bond in ammonia. 
+(3)
+(Total 3 marks)
+9. Hydrazine is a valuable rocket fuel. The equation for the reaction between 
+hydrazine and oxygen is given below.
+N2H4(l) + O2(g) → N2(g) + 2H2O(l)
+Use the bond enthalpy values from Section 12 of the data booklet to determine 
+the enthalpy change for this reaction.
+(3)
+(Total 3 marks)
+10. Consider the reaction:
+CH4(g) + H2O(g) ⇌CO(g) + 3H2(g)
+Determine the enthalpy change, DH, in kJ. Use Section 12 of the data booklet.
+Bond enthalpy of CO = 1077 kJ mol−1
+
+
+Energy from fuels 
+1.3
+REACTIVITY
+
+

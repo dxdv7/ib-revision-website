@@ -1,0 +1,1578 @@
+105
+STRUCTURE1.5
+Ideal gases 
+How does the model of ideal gas behavior help us to predict the behavior 
+of real gases?
+Guiding Question
+Gases surround us in the atmosphere and the first experiments on gases concerned 
+the physical properties of air. Robert Boyle first experimented on the ‘springiness of 
+the air’ in the 17th century and further investigations on other properties followed in 
+the 18th century when people began to fly in hot air balloons. Simple empirical laws 
+relating pressure, volume, temperature and amount of gases were identified, with the 
+suggestion that all gases behaved in the same way.
+The gaseous state is the easiest state to describe and model. In Structure 1.1, we 
+describe a gas as a collection of widely separated particles in chaotic, random motion 
+and it is this randomness that makes the model so simple. A model of an ideal 
+gas, based on kinetic theory, can be defined in terms of a small number of axioms. 
+The volume of the gas particles and the attractive forces between the particles are 
+considered to be negligible and the pressure of a gas is due to particles colliding with 
+the walls of the container. The model, and the application of some simple physics, 
+gives accurate quantitative predictions of how gas pressure changes with temperature 
+and volume and shows that temperature is a measure of the average kinetic energy of 
+the particles.
+The initial empirical laws were, however, only approximations and more precise 
+experiments showed that real gases deviate from this ideal behavior at high 
+pressure and low temperature. These deviations highlight some limitations of the 
+initial assumptions of the ideal gas model. The volume of the gas particles and the 
+intermolecular forces cannot be ignored under all conditions.
+Structure 1.5.1 – The ideal gas model 
+Structure 1.5.1 – An ideal gas consists of moving particles with negligible volume and 
+no intermolecular forces. All collisions between particles are considered elastic.
+Recognize the key assumptions in the ideal gas model.
+An ideal gas consists of moving particles with 
+negligible volume and no intermolecular forces
+You will be familiar with some behavior of gases through everyday experiences such as 
+blowing up balloons or bicycle tyres. Perhaps you have noticed how inflated balloons 
+shrink in colder temperatures and expand when it is warmer. Experiments show that 
+all gases respond in the same way to changes in volume, pressure and temperature 
+when the mass of gas is fixed. The chemical nature of the gas makes no difference. 
+The gaseous state is the easiest state to describe using kinetic theory.
+Joseph Louis Gay-Lussac 
+(1778–1850), French chemist 
+and physicist, in a daring 
+1804 balloon ascent to 
+investigate the composition 
+of air at high altitude. He, 
+along with another chemical 
+balloonist, Jacques Charles, 
+and Robert Boyle investigated 
+the properties of the gases.
+Computer artwork of the Earth with half of its atmosphere removed. The atmosphere is a layer of gases
+surrounding the planet. It reaches approximately 100 kilometers above the Earth’s surface.
+
+
+106
+The theoretical model of an ideal gas is assumed to obey the following axioms:
+1.
+The particles in a gas have negligible volume compared with the volume the 
+gas occupies.
+2.
+There are no intermolecular forces between the particles except when the 
+molecules collide.
+3.
+Gas particles have a range of speeds and move randomly. The average kinetic 
+energy of the particles is proportional to the temperature.
+4.
+The collisions of the particles with the walls of the container and with each 
+other are elastic: kinetic energy is conserved.
+Although no real gas fits this description exactly, the application of Newton’s 
+Second Law (force = mass × acceleration) can be used to make accurate quantitative 
+predictions for the physical properties of most gases under typical conditions of 
+temperature and pressure.
+The pressure of a gas is due to gas particles colliding with the 
+walls of the container
+When a gas particle collides with the wall of a container, it bounces back with the 
+same speed (Figure 1). The collision is elastic, according to the fourth axiom above. 
+The pressure of a gas is a result of a large number of such collisions and is the same 
+on all walls. This is because the particles move randomly with no preferred direction, 
+according to the third axiom.
+The so-called Mentos-soda fountain reaction. Dissolved carbon dioxide in the soda changes quickly 
+into gas in the presence of the mint Mentos. The sudden pressure change causes the soda to be 
+ejected in a fountain of foam.
+This simple model allows us to explain the pressure changes that occur when the 
+temperature and volume of a gas changes. The volume of a gas is the total volume of its 
+container as the particles spread out to fill all available space.
+If a gas particle was 
+the size of a tennis 
+ball, it would typically 
+travel the length of a 
+tennis court between 
+collisions.
+v
+v
+S1.5 Figure 1 The pressure 
+of a gas is due to the particles 
+colliding with the wall. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+107
+• When the volume of a gas increases, the gas particles collide less frequently with 
+the walls as they must travel greater distances between collisions. This decreases 
+the pressure. The model correctly predicts that increasing the volume decreases 
+the pressure (Figure 2).
+lower
+pressure
+higher
+pressure
+Smaller volume
+Larger volume
+S1.5 Figure 2 As the volume of a gas increases, the gas particles collide less frequently with the walls 
+of the container.
+• When the temperature of a gas increases, the gas particles have increased 
+kinetic energy according to the third axiom. The collisions with the walls are 
+more energetic and more frequent as the particles are moving faster. Both these 
+factors increase the pressure.
+Challenge yourself
+1. What would happen to the pressure of a gas if molecular collisions were not 
+perfectly elastic? 
+Q1. The volume of an ideal gas in a container is increased at constant 
+temperature. What happens as a result of this change?
+A The frequency of collisions of the molecules with the container wall 
+decreases.
+B The intermolecular force between the molecules decreases.
+C The speed of the particles increases.
+D The volume of a gas particle increases.
+Q2. Identify an assumption of the ideal gas model.
+A Molecules have zero mass.
+B The forces between the molecules of the gas and the container are 
+always zero.
+C Collisions between molecules and the walls of the container are elastic.
+D The kinetic energy of a given molecule of the gas is constant.
+Exercise
+STRUCTURE1.5
+Ideal gases
+
+
+108
+Q3. The temperature of a closed gas container is increased. What happens to the 
+pressure and average speed of the particles?
+Pressure
+Average speed
+A
+increases 
+faster
+B
+decreases
+faster 
+C
+increases
+no change in speed
+D
+decreases
+no change in speed
+Q4. Which of the following are assumptions of the kinetic model of ideal gases?
+I. Particles are perfectly elastic spheres.
+II. The interactions between the particles are negligible when not colliding.
+III. The particles are in continuous random motion.
+A I and II 
+B 
+I and III 
+C 
+II and III 
+D 
+I, II and III
+Q5. Why does the pressure of an ideal gas change when the temperature 
+is increased?
+A The particles collide with each other more frequently.
+B The time of contact between the molecules and the wall is reduced.
+C The force of attraction between the molecules is reduced.
+D The particles collide with the walls of the container more frequently.
+Q6. Identify which of the four assumptions listed on page 106 applies to a 
+monatomic gas.
+Structure 1.5.2 – Real gases
+Structure 1.5.2 – Real gases deviate from the ideal gas model, particularly at low 
+temperature and high pressure.
+Explain the limitations of the ideal gas model.
+No mathematical coverage is required.
+Structure 2.2 – Under comparable conditions, 
+why do some gases deviate more from ideal 
+behavior than others?
+Real gases deviate from the ideal gas model
+There is no such thing as an ideal gas. All gases, known as real gases, deviate to some 
+extent from ideal behavior as the assumptions 1 and 2 made on page 106 do not apply 
+to real gases under all conditions.
+1. The volume of the gas particles is not negligible
+If the volume of the particles is not negligible, they travel less distance between 
+collisions with the wall (Figure 3). The collisions are more frequent than predicted by 
+the ideal gas model and the pressure is greater.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+109
+L
+v
+d
+L – d
+S1.5 Figure 3 An ideal gas particle travels distance 2L between collisions with the same wall. A real 
+gas particle, of diameter d, travels 2(L − d). Real gas particles travel shorter distances and collide more 
+frequently. The difference is most significant when L is small, which occurs at high pressures and low 
+temperatures.
+This effect is most noticeable at very high pressures and low temperatures, when 
+the particles are confined in a small volume and the distance between the particles 
+significantly reduced.
+2. There are attractive forces between the particles
+When a particle is approaching the wall of a container, attractive forces from other 
+particles pull in the opposite direction (Figure 4). This reduces the speed of the 
+colliding particle and leads to a less energetic collision with the wall. The pressure is 
+lower than for an ideal gas.
+v’
+The particle colliding with
+the wall is slowed down
+by neighboring particles
+due to intermolecular
+attractions
+v’
+S1.5 Figure 4 Intermolecular forces reduce the speed of particles approaching the wall. They reduce 
+the kinetic energy of the collision and the pressure.
+This reduction in speed is most significant when the average speed is relatively low at 
+low temperatures.
+Q7. Gases deviate from ideal gas behavior because their particles:
+A have negligible volume 
+B 
+have forces of attraction between them
+C are polyatomic  
+D 
+are not attracted to one another.
+Q8. (a) List the main features of the kinetic theory for ideal gases.
+ 
+(b) Explain the reason for the difference in behavior between real and ideal 
+gases at low temperature.
+Q9. Under what conditions of temperature and pressure are real gases likely to 
+behave like ideal gases?
+Exercise
+Structure 2.2 – Under 
+comparable conditions, 
+why do some gases 
+deviate more from ideal 
+behavior than others? 
+STRUCTURE1.5
+Ideal gases
+
+
+110
+Structure 1.5.3 and 1.5.4 – The ideal gas laws
+Structure 1.5.3 – The molar volume of an ideal gas is constant at a speciﬁ c 
+temperature and pressure.
+Investigate the relationship between temperature, pressure and volume for a ﬁ xed mass of an 
+ideal gas and analyze graphs relating these variables.
+The names of speciﬁ c gas laws will not be 
+assessed.
+The value for the molar volume of an ideal 
+gas under standard temperature and pressure 
+(STP) is given in the data booklet.
+Nature of Science, Tools 2 and 3, Reactivity 
+2.2 – Graphs can be presented as sketches 
+or as accurately-plotted data points. What 
+are the advantages and limitations of each 
+representation?
+Structure 1.5.4 – The relationship between the pressure, volume, temperature and 
+amount of an ideal gas is shown in the ideal gas equation PV = nRT and the combined 
+gas law: P1V1
+_____
+T1  =  P2V2
+_____
+T2  
+Solve problems relating to the ideal gas equation.
+Units of volume and pressure should be SI 
+only. The value of the gas constant R, the ideal 
+gas equation, and the combined gas law are 
+given in the data booklet.
+Tool 1, Inquiry 2 – How can the ideal gas law 
+be used to calculate the molar mass of a gas 
+from experimental data?
+Investigating gases
+The state of a fixed mass of gas is described by its pressure, volume and temperature. 
+To discover relationships between these variables, a number of simple experiments can 
+be performed.
+The relationship between the pressure and volume 
+If the temperature of a 
+gas is held constant, it is 
+found that increasing the 
+pressure of a fixed mass of 
+gas decreases its volume 
+(Figure 5). 
+More precisely, the pressure 
+of a gas is inversely 
+proportional to its volume, 
+and the product of pressure 
+and volume is a constant 
+(Figure 6):
+P ∝  1__
+V
+PV = a constant
+S1.5 Figure 5 As the 
+pressure on a gas is 
+increased, its volume 
+decreases proportionately.
+lower
+pressure
+higher
+pressure
+1
+1
+1
+Investigating Boyle's 
+law. Full details of 
+how to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+111
+volume
+0
+0
+0
+0
+0
+0
+pressure
+pressure
+1
+volume
+pressure
+pressure × volume 
+S1.5 Figure 6 Gas pressure is inversely proportional to its volume. 
+As we discussed at the beginning of the chapter, this relationship can be explained in 
+terms of the decreased frequency of particle collisions with the walls of the container 
+as the gas expands.
+Nature of Science
+Although many scientific discoveries, such as the gas laws, are named after the 
+key scientists involved, the theories and laws of science stand apart from the 
+individual discoverers. 
+(a) 
+(b) 
+Chip bag on airplane (a) at sea level and (b) with increased volume because of lower atmospheric 
+pressure at high altitude. Boyle’s law has applications in transport and storage. 
+A note about units of pressure
+The SI unit of pressure is the pascal (Pa) which is equivalent to 1 N m–2. Other 
+commonly used non-SI units are the atmosphere, atm, which is equal to 1.013 × 105 Pa 
+and the bar (105 Pa) which it is conveniently close to 1 atm.
+A note about units of volume
+The SI unit of volume is m3 but other units such as the dm3 or cm3 are commonly used. 
+It is important to be able to interconvert these.
+1 dm3 = 10–3 m3
+1 cm3 = 10–3 dm3
+1000 dm3 = 1 m3
+1000 cm3 = 1 dm3
+multiply by 1000
+m3
+divide by 1000
+multiply by 1000
+dm3
+divide by 1000
+cm3
+1 m3 = 1000 dm3 = 1 000 000 cm3. In the laboratory, volumes are usually measured in cm3 or dm3 and 
+often these measurements need to be converted to m3 in calculations. 
+P ∝  1__
+V 
+PV = a constant
+The relationship 
+PV = a constant is often 
+known as Boyle’s law, 
+as it was established 
+by Robert Boyle in 
+1662. It was discovered 
+independently by Edme 
+Mariotte in 1679 and is 
+also known, particularly 
+in France, as Mariotte’s 
+law. To what extent do 
+the names and labels 
+we use help or hinder 
+the acquisition of 
+knowledge in different 
+areas?
+Different countries 
+continue to use a 
+variety of units for 
+pressure, including 
+millimeters of mercury 
+(mm Hg), torr, and 
+pounds per square 
+inch (psi). 
+The liter (l or L) is 
+widely used in place 
+of dm3, and milliliter 
+(ml or mL) used in 
+place of cm3. You will 
+not be penalized for 
+using these terms in 
+an examination, but 
+they will not be used in 
+questions. It is however 
+essential that you can 
+interconvert m3, dm3
+and cm3. 
+STRUCTURE1.5
+Ideal gases
+
+
+112
+Relationship between volume and temperature 
+If the pressure is held constant, it is found that increasing the temperature of a fixed 
+mass of gas increases its volume. If the temperature is measured in degrees Celsius, it is 
+a linear relationship (Figure 7).
+temperature / °C
+0
+0
+volume
+When the straight line is extended backwards it always crosses the temperature axis, 
+with the volume = 0, at −273 °C. This suggests that there exists a minimum possible 
+temperature, namely −273 °C which is absolute zero or 0 K. If the temperature is 
+measured in kelvin, the relationship can be stated more precisely: the volume of a gas 
+is directly proportional to its absolute temperature measured in kelvin (Figure 8).
+temperature / K
+absolute zero
+volume
+0
+0
+V ∝T(K)
+V
+____
+T(K) = a constant
+S1.5 Figure 7 The volume 
+of a gas increases linearly 
+with the temperature in 
+degrees Celsius. 
+Determining the value 
+of absolute zero. Full 
+details of how to carry 
+out this experiment 
+with a worksheet are 
+available in the eBook.
+S1.5 Figure 8 Charles’ law. 
+Gas volume is proportional 
+to the absolute temperature. 
+Note the dotted line 
+represents an extrapolation, 
+as data at temperatures down 
+to 0 K are not obtainable. 
+Balloons dipped in a mixture 
+of dry ice (solid CO2) and 
+water rapidly deflate as the 
+air inside contracts at low 
+temperature. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+113
+This relationship, often known as Charles’ law, was first established by French 
+scientist Jacques Charles in the late 18th century. A demonstration of the relationship 
+is found by immersing dented table tennis balls in warm water. As the air inside the 
+ball reaches the temperature of the water, it expands, pushing the dents out on the 
+surface. As we discussed at the beginning of the chapter, it is explained in terms of the 
+increases in kinetic energy of the gas particles as the temperature increases. As each 
+particle collides with more kinetic energy, the pressure will only remain constant if 
+the frequency of the collisions decreases. This can only happen if the volume of the 
+container increases.
+A note about units of temperature
+In all calculations involving gases, it is essential to use values for temperature in kelvin 
+(K), not in Celsius (°C). Temperature in kelvin is known as the absolute temperature, 
+and is based on a scale where absolute zero, 0 K, is the point when the gas particles 
+have no kinetic energy. The conversion between the Kelvin and Celsius scales is 
+discussed in Structure 1.1.
+Absolute zero, the lowest conceivable temperature, is impossible to reach in practice as 
+it would require an inﬁ nite amount of energy to reach it. Even if you could reach it, the 
+uncertainty principle discussed in Structure 1.3 dictates that there would still be some 
+uncertainty about the momentum of the atoms and molecules. The particles would have 
+some energy – the so-called zero-point energy. The closer a substance approaches absolute 
+zero, the stranger its properties become. Liquid helium, for example, turns into a superﬂ uid, a 
+liquid that ﬂ ows without the resistance of friction. Other materials become superconductors 
+below a critical temperature: they offer no resistance to electric currents. 
+Relationship between pressure and temperature
+If the volume is held constant, increasing the temperature of a fixed mass of gas increases 
+the pressure. If the temperature is measured in kelvin, it is a proportional relationship 
+and the pressure divided by the absolute temperature is a constant (Figure 9).
+P ∝T(K)
+P
+____
+T(K) = a constant
+0
+0
+temperature / °C
+temperature / K
+pressure
+pressure
+0
+0
+S1.5 Figure 9 Gas pressure is proportional to the absolute temperature.
+Again, this relationship can be explained by the ideal gas model. An increase in 
+temperature increases the average kinetic energy of the particles. The particles 
+move faster and collide with the walls of the container with more energy and greater 
+frequency, resulting in an increase in pressure.
+V ∝T(K)
+V
+_____
+T(K) = a constant
+Without Charles, Boyle 
+and Mariotte the 
+relationships between 
+pressure, volume, 
+and temperature of a 
+gas would still exist. 
+This is very different 
+from the arts. Without 
+Shakespeare, there 
+would have been no 
+Hamlet, without Picasso, 
+no Guernica. In what 
+ways have influential 
+individuals contributed 
+to the development of 
+the natural sciences as 
+an area of knowledge? 
+Graphical techniques 
+have widespread 
+applications across 
+the syllabus, and in 
+experimental work. 
+You should be able to 
+recognize the different 
+sketch graphs that 
+illustrate the gas laws 
+and analyze graphs 
+of gas behavior to 
+determine more 
+detailed information 
+from gradients and 
+intercepts.
+Nature of Science, 
+Tools 2 and 3, Reactivity 
+2.2 – Graphs can be 
+presented as sketches 
+or as accurately-plotted 
+data points. What are 
+the advantages and 
+limitations of each 
+representation?
+STRUCTURE1.5
+Ideal gases
+
+
+114
+Pressurized cans, such as soda or beer, often carry a warning to be stored in a cool 
+place. The pressure inside the can rises at higher temperatures and could cause it 
+to explode.
+Q10. Which two values of temperature are equivalent (to the nearest degree)?
+Kelvin scale
+Celsius scale
+A
+25
+298
+B
+50
+323
+C
+283
+110
+D
+323
+50
+Q11. An ideal gas in a container of ﬁ xed volume at a temperature of 27 °C and 
+a pressure of 4.0 atm is heated. Determine the new pressure when the 
+temperature is increased by 300 °C.
+A 
+0.44 atm 
+B 
+2.0 atm 
+C 
+8.0 atm 
+D 
+44 atm
+Q12. The volume V for a ﬁ xed mass of an ideal gas was measured at constant 
+temperature and different pressures P. Identify the graph that shows the 
+correct relationship.
+A 
+P
+PV
+0
+0
+B 
+P
+PV
+0
+0
+Exercise
+The label on the aerosol 
+can warns of the dangers 
+of exposing the pressurized 
+contents to high temperature.
+P ∝T(K)
+P
+_____
+T(K) = a constant
+You need to use 
+temperature in kelvin 
+when applying these 
+relationships. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+115
+C 
+P
+PV
+0
+0
+D 
+P
+PV
+0
+0
+Q13. A 200 cm3 container contains a gas at 15 °C and 1.0  × 105 Pa. 
+The gas is then heated to 160 °C. Deduce the new pressure of the gas.
+A 
+1.1  × 105 Pa  
+B 
+1.5  × 105 Pa   
+C 
+1.1  × 104 Pa  
+D 
+1.5  × 104 Pa
+Q14. The graph shows the experimental relationship between two properties of a 
+constant amount of a gas.
+X
+Y
+0
+0
+Identify X and Y and the control variable.
+X
+Y
+Control variable
+A
+pressure (atm)
+volume (dm3)
+temperature
+B
+temperature (oC)
+pressure (Pa)
+volume
+C
+temperature (oC)
+volume (m3)
+pressure
+D 
+1/pressure (Pa−1)
+volume (cm3)
+temperature
+Q15. A student investigated the relationship between temperature and pressure 
+of a gas and produced a graph of their results.
+0
+10
+20
+30
+40
+50
+temperature / °C
+P = 0.3338T + 95.625
+60
+70
+80
+90
+90
+95
+100
+105
+pressure / kPa
+110
+115
+120
+125
+STRUCTURE1.5
+Ideal gases
+
+
+116
+(a) Describe the relationship between temperature ( T ) measured in °C 
+and pressure (P).
+(b) Use the graph to predict the temperature in °C when the pressure 
+is zero.
+(c) Comment on the accuracy of the student’s results.
+(d) Describe the expected relationship between pressure and temperature 
+when measured in K.
+(e) Explain the relationship between pressure and temperature using 
+the ideal gas model. Does the model agree completely with the 
+experimental results?
+Q16. A student investigates the pressure and volume of a ﬁ xed mass of gas at 
+two temperatures.
+25
+30
+35
+40
+45
+50
+volume / cm3
+55
+60
+65
+100
+120
+140
+160
+pressure / kPa
+180
+200
+220
+240
+260
+Curve 2
+Curve 1
+State and explain which curve corresponds to the higher temperature.
+Q17. A helium cylinder that inﬂ ates a balloon has a volume of 0.0400 m3 and a 
+pressure of 2.02 × 106 N m–2.
+(a) Calculate the volume of the balloon assuming there is no change of 
+temperature as the balloon is ﬁ lled and the pressure is atmospheric 
+pressure (1.01 × 105 N m–2).
+(b) The temperature of the air decreases with altitude. State the effect of this 
+temperature change on the helium atoms as the balloon rises.
+The molar volume of an ideal gas is a constant at a 
+speciﬁ c temperature and pressure
+The first axiom in the ideal gas model stated that the particles in a gas have negligible 
+volume compared with the volume the gas occupies. This suggests that changing the 
+identity of the gas particles would have a negligible effect on the volume of the gas. 
+This prediction is consistent with Avogadro’s law, discussed in Structure 1.4. Equal 
+volumes of all gases measured under the same conditions of temperature and pressure 
+contain equal numbers of molecules.
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+117
+One consequence of Avogadro’s law is that the volume occupied by one mole of 
+any gas must be the same for all gases when measured under the same conditions of 
+temperature and pressure. This is known as the molar volume.
+For reference purposes, the molar volume of a gas given in Section 2 of the data 
+booklet is given under standard conditions of temperature and pressure (STP). This 
+shows that when the temperature is 0 °C (273 K) and the pressure is 100 kPa, one mole 
+of a gas has a volume of 2.27 × 10–2 m3 mol–1 (= 22.7 dm3 mol–1).
+Structure 1.4 shows how the molar volume can be used to calculate the amount of gas 
+in a similar way to the use of molar mass. Here though, the calculations are simpler, as 
+all gases have the same molar volume.
+number of moles of gas (n) =  volume (V )
+____________ 
+ 
+molar volume 
+Worked example 
+Calculate the volume occupied by 0.020 g of helium at standard temperature 
+and pressure.
+Solution
+First convert the mass of helium to moles.
+n =  m
+__
+M =  0.020
+_____
+4.00  = 0.0050 mol
+Volume = 0.0050 mol × 22.7 dm3 mol–1 = 0.114 dm3
+Note that the 
+conditions of STP 
+(standard temperature 
+and pressure) are not 
+the same as those 
+used to define the 
+‘standard state’, used 
+in thermodynamic 
+data and explained in 
+Reactivity 1.1.
+STP refers to a 
+temperature of 273 K 
+and a pressure of 
+100 kPa.
+The box contains 1 mole of 
+gas. The molar volume of an 
+ideal gas is 22.7 dm3 at STP. 
+A basketball fits loosely into a 
+box having this volume. 
+number of moles of 
+gas (n) =
+volume (V) 
+ 
+______________ 
+ 
+molar volume 
+STRUCTURE1.5
+Ideal gases
+
+
+118
+The ideal gas equation and the combined gas law
+The combined gas law
+The three gas laws for a fixed mass of gas:
+P ∝  1__
+V at constant temperature
+V ∝T at constant pressure
+P ∝T at constant volume
+can be combined to give one equation:
+PV
+___
+T  = a constant
+P1V1
+____
+T1  =  P2V2
+____
+T2  where 1 and 2 refer to initial and final conditions respectively.
+Application of this combined gas law enables gas volume, pressure and temperature 
+to be calculated as conditions change for a fixed mass.
+Worked example 
+What happens to the volume of a ﬁ xed mass of gas when its pressure and its 
+absolute temperature are both doubled?
+Solution
+P1V1
+____
+T1  =  P2V2
+____
+T2  
+P2 = 2 × P1 and T2 = 2 × T1, so these can be substituted into the equation:
+P1V1
+____
+T1  =  2P1V2
+_____
+2T1  
+We can cancel P1 and T1 from both sides, and 2s on the right side, leaving
+V1 = V2
+The volume does not change.
+Worked example 
+The molar volume of a gas at STP is 22.7 dm3. Calculate the molar volume at 25.0 °C 
+at the same pressure.
+Solution
+As the pressure is not changing, we do not need to insert P1 and P2 into the 
+combined gas equation. Temperature must be converted from °C to K.
+T1 = 273 K, T2 = 25.0 + 273 = 298 K
+V1
+___
+T1 =  V2
+___
+T2 
+22.7 dm3
+________
+273 K  =  V2
+_____
+298 K 
+V2 =  298 × 22.7 dm3 
+ 
+_____________
+273 
+ = 24.8 dm3
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+119
+Challenge yourself
+2.  Consider a sample of gas at pressure P1, volume V1, and temperature T1 (K) which 
+is expanded to a new volume V2 at constant temperature T1 with a new pressure 
+P0 (Figure 10).
+P1
+V1
+Expanded at
+constant
+temperature T1
+T1
+P0
+V2
+T1
+Heated at
+constant
+volume V2
+P2
+V2
+T2
+(a) State the relationship between P1, V1, P0 and V2 for expansion at constant 
+temperature T1.
+(b) The gas is then heated at constant volume V2 to new conditions P2, V2, and T2.
+ 
+State the relationship between P0, T1, P2 and T2 when the gas is heated at 
+constant volume V2.
+(c) Deduce a relationship between the initial conditions P1, V1 and T1 and the 
+final conditions P2, V2 and T2.
+The ideal gas equation is derived from the combined gas 
+equation and Avogadro’s law
+The combined gas equation and Avogadro’s law can be combined to give:
+PV
+___
+T  ∝n
+This can be made into an equation by introducing a constant, R. This is known as the 
+universal gas constant as it does not depend on the identity of the gas.
+∴  PV
+___
+T  = nR which is usually written as PV = nRT
+This equation, known as the ideal gas equation, is given in Section 1 of the data 
+booklet. The value of R can be calculated by substituting known values into the 
+equation, such as those for the molar volume of a gas at STP.
+Worked example 
+Determine the gas constant from the molar volume of a gas at STP.
+Solution
+P = 105 Pa (N m–2), V = 2.27 × 10–2 m3, T = 273 K, n = 1
+R =  PV
+___
+nT  =  105 N m–2 × 2.27 × 10–2 m3 
+ 
+_____________________ 
+ 
+(1 mol × 273 K) 
+ 
+R = 8.31 N m K–1 mol–1 or 8.31 J K–1 mol–1
+S1.5 Figure 10 A gas 
+undergoes two changes. 
+The volume is increased at 
+constant temperature and 
+then the gas is heated at 
+constant volume. 
+Note that temperature 
+must be in kelvin in 
+these calculations. 
+However, the units of 
+volume and pressure 
+are not important, 
+so long as they are 
+consistent on both 
+sides of the equation. 
+STRUCTURE1.5
+Ideal gases
+
+
+120
+This value for R, the gas constant, is given in Section 2 in the data booklet and should 
+be used for all calculations involving the ideal gas equation.
+Use of the ideal gas equation enables us to calculate how systems respond to changes 
+in pressure, volume and temperature, and to calculate molar mass. Gas density can 
+also be determined by applying the relationship:
+density =  mass
+_______
+volume 
+These calculations usually involve simply substituting values into the equation, but the 
+use of units needs special attention. The guidelines below, based on the use of SI units 
+only, should help you avoid some of the common mistakes that arise.
+• Pressure, P: must be in Pa (N m–2); if kPa are used, multiply by 103
+• Volume, V: must be in m3; if dm3 are given, divide by 103, if cm3
+are given, divide by 106
+• Number of moles, n: this is often derived by application of n =  m
+__
+M 
+• Temperature, T: must be in kelvin; if °C is given, add 273.15
+Nature of Science
+Changes in gas pressure were predicted from the axioms of the kinetic theory 
+of the ideal gas model by considering particle collisions. These collisions are 
+not directly observable and the predictions are of limited value without the 
+evidence provided by the experimental gas laws. The laws are descriptive 
+statements derived from regular patterns in the evidence. The laws supported 
+the theory, and the theory explained the laws. This is typical of how science 
+progresses. 
+Worked example 
+A helium party balloon has a volume of 18.0 dm3. At 25 °C the internal pressure 
+is 108 kPa. Calculate the mass of helium in the balloon.
+Solution
+First ensure that all data are in SI units:
+P = 108 kPa = 108 × 103 Pa
+V = 18.0 dm3 = 18.0 × 10–3 m3
+T = 25 °C = 298 K
+PV = nRT
+108 × 103 Pa × 18.0 × 10–3 m3 = n × 8.31 J K–1 mol–1 × 298 K
+∴  n(He) = 0.785 mol
+∴  mass (He) = nM = 0.785 mol × 4.00 g mol–1 = 3.14 g
+The ideal gas equation 
+can be deduced 
+directly from the 
+assumptions listed 
+on page 106 with 
+the application of 
+simple physics. What 
+is the role of reason, 
+perception, intuition, 
+and imagination in 
+the development of 
+scientific models? 
+Many sources give 
+data for ideal gas 
+law questions in 
+non-SI units such as 
+atmospheres, which 
+require a mathematical 
+conversion. You will 
+not be expected to 
+be familiar with these 
+conversions in IB 
+examinations. 
+The ideal gas 
+equation is PV = nRT
+As this example shows, 
+if pressure is given 
+in kPa and volume is 
+given in dm3, the same 
+answer is obtained if 
+these values are used 
+directly in the ideal 
+gas equation. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+121
+Worked example 
+A sample of gas has a volume of 445 cm3 and a mass of 1.50 g at a pressure of 
+95.0 kPa and a temperature of 28.0 °C. Calculate its molar mass.
+Solution
+Substitute n =  m
+__
+M into the ideal gas equation, and rearrange to solve for M.
+M =  mRT
+____
+PV  
+Ensure all data are in SI units:
+P = 95.0 kPa = 95.0 × 103 Pa
+V = 445 cm3 = 445 × 10–6 m3
+T = 28.0 °C = 301 K
+∴  M =  1.500 g × 8.31 J K−1 mol−1 × 301 K 
+ 
+ 
+__________________________ 
+ 
+ 
+95 × 103 Pa × 445 × 10−6 m3 
+ 
+= 88.8 g mol–1 (to 3 signiﬁ cant ﬁ gures)
+Worked example 
+A gas has a density of 1.65 g dm–3 at 27 °C and 92.0 kPa. Determine its molar mass.
+Solution
+From the density data we know 1.65 g occupies 1.00 dm3
+As before 
+M =  mRT
+____
+PV  
+∴   M =  1.65 g × 8.31 J K−1 mol−1 × 300 K 
+ 
+ 
+_________________________ 
+ 
+ 
+92 × 103 Pa × 1.00 × 10−3 m3  = 44.71 g mol–1
+Challenge yourself
+3. Blowing up a balloon increases its volume as the number of particles increases. 
+What do you think would happen to this inflated balloon on the top of a very 
+high mountain? 
+Blowing up a balloon 
+increases its volume as the 
+number of particles increases.
+The molar mass of 
+carbon dioxide can 
+be experimentally 
+determined by 
+applying the ideal gas 
+equation. Full details 
+with a worksheet are 
+available in the eBook.
+STRUCTURE1.5
+Ideal gases
+
+
+122
+Q18. The ideal gas equation is pV = nRT.
+Identify the units of R when the pressure is measured in Pa, and volume is 
+measured in m3.
+A 
+J K–1
+B 
+Pa m3 K–1 mol–1
+C 
+J mol–1
+D 
+J mol K–1
+Q19. The volume of a gas was measured with a gas syringe. 0.0673 g of the gas was 
+found to occupy 41.0 cm3, measured at standard temperature and pressure 
+(25 °C and 1.0  × 105 Pa).
+What is the relative molecular mass of the gas?
+A 
+28 
+B 
+32 
+C 
+40 
+D 
+44
+Q20. A 2.50 dm3 container of helium at a pressure of 85 kPa was heated from 25 °C 
+to 75 °C. The volume of the container expanded to 2.75 dm3. What was the 
+ﬁ nal pressure of the helium?
+Q21. After a sample of nitrogen with a volume of 675 cm3 and a pressure 
+of 1.00 × 105 Pa was compressed to a volume of 350 cm3 and a pressure of 
+2 × 105 Pa, its temperature was 27.0 °C. Determine its initial temperature.
+Q22. The absolute temperature of 4.0 dm3 of hydrogen gas is increased by a factor 
+of three and the pressure is increased by a factor of four. Deduce the ﬁ nal 
+volume of the gas.
+Q23. To ﬁ nd the volume of a ﬂ ask, it was ﬁ rst evacuated so that it contained no gas 
+at all. When 4.40 g of carbon dioxide was introduced, it exerted a pressure of 
+90.0 kPa at 27 °C. Determine the volume of the flask.
+Q24. An unknown noble gas has a density of 5.84 g dm–3 at STP. Calculate its 
+molar mass, and so identify the gas.
+Q25. A 12.1 mg sample of a gas has a volume of 255 cm3 at a temperature of 
+25.0 °C and a pressure of 1300 Pa. Determine its molar mass.
+Q26. Which has the greater density at STP, hydrogen or helium?
+Q27. A cyclist pumps his tyres up very hard before a trip over a mountain pass at 
+high altitude. Near the summit one of his tyres explodes. Suggest why this 
+may have occurred.
+Exercise
+Nature of Science
+The ideal gas model explains the observable properties of gases in terms of 
+particles which cannot be directly observed. It provides a useful conceptual 
+image of gas behavior, and its predictions are approximately consistent with 
+the results.  It has some limitations as we will see on the next page. This 
+does not mean that the model should be discarded – it can still be useful but 
+we should be aware that it is an over-simplification, which does not apply 
+accurately under all conditions. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+123
+Real gases do not obey the ideal gas law PV = nRT
+under all conditions
+An ideal gas is defined as one that obeys the ideal gas law PV = nRT under all conditions.
+This means that for one mole of gas, the relationship  PV
+___
+RT should be equal to 1, and so a
+graph of  PV
+___
+RT against P for an ideal gas is a horizontal line of intercept 1 (Figure 11).
+But, as we noted earlier, there is no such thing as an ideal gas so for real gases PV ≠ nRT
+at all conditions, and the value of  PV
+___
+RT for one mole will vary. An example of the extent
+of this variation from 1 at different conditions is shown in Figure 12.
+3
+2
+1
+0
+0
+3 × 107
+200 K
+500 K
+1000 K
+ideal gas
+6 × 107
+9 × 107
+P / Pa
+PV
+RT
+We can draw the following conclusions from the graph:
+• The gas behaves most like an ideal gas at low pressure and shows the greatest 
+deviation at high pressure.
+• The gas behaves most like an ideal gas at high temperature and shows the 
+greatest deviation at low temperature.
+As discussed earlier, this is because assumptions 1 and 2 made on page 106 in defining 
+an ideal gas do not apply under all conditions.
+1. If the volume of the gas particles is not negligible,  PV
+____
+nRT > 1
+The collisions with the walls of the container are more frequent than predicted by the 
+ideal gas model and the pressure is greater,  PV
+____
+nRT > 1
+2. There are attractive forces between the particles,  PV
+____
+nRT < 1
+Attractive forces from other particles reduce the speed of the colliding particle and lead 
+to a less energetic collision with the wall. The pressure is lower than for an ideal gas 
+and  PV
+____
+nRT < 1.
+Challenge yourself
+4. (a)  Calculate the volume of 18.0 g of steam at a temperature of 500 K and 
+a pressure of 1.00 × 105 Pa and show that the volume occupied by the 
+particles is negligible.
+(b)  Show that the volume occupied by the particles is not negligible when the 
+pressure is increased to 5.00 × 107 Pa and the temperature is reduced to 400 K.
+1
+P
+PV
+RT
+S1.5 Figure 11 For one 
+mole of an ideal gas, the 
+relationship  PV
+___
+RT is a constant
+at all pressures.
+S1.5 Figure 12 The 
+deviation from ideal behavior 
+of nitrogen at different 
+temperatures and pressures. 
+Curves go above 1 when the 
+volume of the particles is not 
+negligible and below 1 when 
+the intermolecular forces 
+cannot be ignored. 
+STRUCTURE1.5
+Ideal gases
+
+
+124
+Overall, we can conclude that real gases deviate from ideal behavior when either 
+or both of the assumptions on the previous page are not valid. This occurs at high 
+pressure and low temperature. It makes sense intuitively that a gas behaves in a less 
+perfect way under these conditions, as they are closest to it changing into a liquid.
+Attempts to modify the ideal gas equation to take these factors into account and make 
+it apply accurately to real gases led to the van der Waals’ equation, which makes 
+corrections for both the volume of the particles and the intermolecular attractions. 
+Happily, for a wide range of conditions under which gases are studied, the ideal gas 
+equation is a sufficiently accurate expression, and has the big advantage that it is a 
+single equation for all gases.
+Challenge yourself
+5. Show that the van der Waals’ equation correctly predicts values of  PV
+___
+RT > 1 
+for 1 mole of gas at very high pressures.
+6. Show that the van der Waals’ equation correctly predicts values of  PV
+___
+RT < 1 
+for 1 mole of gas at very low pressures.
+Q28. Ammonia, NH3, forms a relatively strong type of intermolecular attraction 
+known as a hydrogen bond, whereas methane, CH4, does not. Explain the 
+relative deviation from ideal behavior that each gas is likely to show.
+Q29. The behavior of three gases was investigated over a range of pressures.
+0
+1
+2
+3
+4
+5
+pressure/107 Pa
+I
+II
+III
+6
+7
+8
+9
+10
+0
+0.2
+0.4
+0.6
+PV/RT
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+(a) Identify the gas with the strongest intermolecular forces and justify 
+your answer.
+(b) Identify the gas with the largest molecular volume and justify your answer.
+Exercise
+One form of the 
+van der Waals’ 
+equation is: 
+P +  n2a
+____
+V 2  (V − nb) = nRT
+where a is a measure of 
+the attraction between 
+the particles, and b is 
+the volume excluded 
+by 1 mol of particles. 
+The constants a and b
+are speciﬁ c to different 
+gases. van der Waals 
+was awarded the 1910 
+Nobel Physics Prize for 
+his work. 
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+125
+How does the model of ideal gas behavior help us to predict the behavior 
+of real gases? 
+Guiding Question revisited
+We introduced the chapter with the kinetic model of an ideal gas, which can be used 
+to explain the experimental gas laws that relate the pressure, volume and temperature 
+of a real gas under typical conditions. The limitations of the model were also identified 
+with real gases deviating from ideal behavior at high pressure and low temperatures.
+• The kinetic theory of gases defines an ideal gas as one in which the particles 
+have negligible volume and move in random chaotic motion with no 
+intermolecular forces.
+• The absolute temperature of the gas is proportional to the average kinetic 
+energy of the particles.
+• Gases exert pressure due to the impact of their collisions on the walls of 
+the container.
+• The gas laws describe the relationship between the pressure, volume and 
+temperature of gases. They are a very good approximation of real gases under 
+most conditions but strictly apply to ideal gases only.
+• The gas laws can be summarized by the combined gas law P1V1
+____
+T1  =  P2V2
+____
+T2   
+• The incorporation of Avogadro’s hypotheses leads to the ideal gas law: PV = nRT
+• The ideal gas law can be applied to predict the changes that occur when the 
+conditions of temperature, pressure or volume are changed. The molar mass of 
+a gas can be obtained by measuring the density of a gas:
+M =  (
+m
+___
+PV ) RT
+• Real gases behave differently from ideal gases especially at high pressure and 
+low temperature. These differences are due to the presence of intermolecular 
+forces which reduce the pressure compared with an ideal gas under the same 
+conditions or the non-negligible volume of the particles which increase 
+the pressure.
+Practice questions
+1. The volume of a sample of gas is increased and the temperature is 
+kept constant.
+What is the effect of this change on the particles?
+Collisions between particles
+Movement of particles
+A
+occur less often
+slower
+B
+occur with more energy
+slower
+C
+occur less often
+no change in speed
+D
+occur with more energy
+no change in speed
+STRUCTURE1.5
+Ideal gases
+
+
+126
+2. 1.0 dm3 of an ideal gas at 100 kPa and 25 °C is heated to 50 °C at constant 
+pressure. What is the new volume in dm3?
+A 
+0.50 
+B 
+0.90 
+C 
+1.1 
+D 
+2.0
+3. What is the volume of gas when the pressure on 80 cm3 of gas is changed from 
+300 kPa to 150 kPa at constant temperature?
+A 
+40.0 cm3
+B 
+80 cm3
+C 
+120 cm3
+D 
+160 cm3
+4. The volume of a sample of gas measured at 27 °C is 5.0 dm3. What is the 
+temperature when the volume is reduced, at the same pressure, to 4.0 dm3?
+A 
+−33.0 °C 
+B 
+−3.0 °C  
+C 
+21.6 °C 
+D 
+24.3 °C
+5. Identify the graph that shows the relationship between the volume and 
+pressure of a ﬁ xed amount of an ideal gas.
+A
+B
+pressure
+volume
+0
+0
+pressure
+volume
+0
+0
+C
+D
+pressure
+volume
+0
+0
+pressure
+volume
+0
+0
+6. Why does nitrogen deviate from the ideal gas law at high pressures?
+A 
+Intermolecular forces increase the volume compared to that for 
+an ideal gas.
+B 
+Increasing the pressure decreases the volume of the molecules.
+C 
+Nitrogen molecules have ﬁ nite volume.
+D 
+Collisions between molecules occur more frequently at high pressure.
+7. Identify the phenomenon that is best explained by the molecular 
+kinetic model.
+A 
+The difference between the Celsius and Kelvin temperature scales
+B 
+The value of the universal gas constant
+C 
+The ideal gases equation
+D 
+The existence of noble gases
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+127
+8. Identify the conditions when carbon dioxide is best described by the ideal 
+gas model.
+A 
+Low density and low pressure 
+B 
+Low density and high pressure
+C 
+High density and low pressure 
+D 
+High density and high pressure
+9. 4 mol of an ideal gas, X, at 25 °C is in a container of ﬁ xed volume.
+Which of the following changes would lead to the greatest increase in pressure 
+inside the flask?
+A 
+Increasing the temperature from 25 °C to 300 °C
+B 
+Adding another 2 mol of gas X into the ﬂ ask at ﬁ xed temperature
+C 
+Adding 1 mol of argon gas and increasing the temperature from 
+25 °C to 200 °C
+D 
+Removing 1 mol of gas X and increasing the temperature from 
+25 °C to 350 °C
+10. Which gas closely approaches ideal behavior at room temperature and pressure?
+A 
+carbon dioxide  
+B 
+chlorine  
+C 
+hydrogen ﬂ uoride 
+D 
+neon
+11. (a) Explain why helium behaves as an ideal gas over a wide range of 
+pressures, volumes and temperatures.
+(2)
+(b) The volume of a helium gas cylinder is 3.00 × 10–2 m3. Determine the 
+number of moles of helium in the cylinder if the pressure is 
+2.00 × 106 Pa and the temperature is 27.0 °C.
+(2)
+(c) Calculate the number of helium atoms in the cylinder and estimate the 
+average volume occupied by one gas atom in the cylinder.
+(2)
+(d) Calculate the distance between neighboring helium atoms.
+(1)
+(Total 7 marks)
+12. Airbags are an important safety feature in vehicles. Sodium azide, potassium 
+nitrate, and silicon dioxide have been used in one design of airbag.
+Two students looked at data in a simulated computer-based experiment to 
+determine the volume of nitrogen generated in an airbag.
+Sodium azide, a toxic compound, undergoes the following decomposition 
+reaction under certain conditions.
+2NaN3(s) → 2Na(s) + 3N2(g)
+Using the simulation program, the students entered the following data 
+into the computer.
+Temperature (T) / °C
+Mass of NaN3(s) (m) / kg
+Pressure (P) / atm
+25.00
+0.0650
+1.08
+(a) State the number of signiﬁ cant ﬁ gures for the temperature, mass, and 
+pressure data.
+(1)
+(b) Calculate the amount, in mol, of sodium azide present.
+(1)
+(c) Determine the volume of nitrogen gas, in dm3, produced under these 
+conditions based on this reaction.
+(4)
+(Total 6 marks)
+STRUCTURE1.5
+Ideal gases
+
+
+128
+13. The graph shows the variation in pressure (P ) with temperature (T ) for a 
+sample of 0.193 g of a gas in a container with a ﬁ xed volume of 1.0 × 10−3 m3.
+0
+50
+100
+temperature/°C
+150
+200
+250
+90
+110
+130
+150
+pressure/kPa
+170
+190
+210
+P = 0.400T + 109.200
+(a) Does the gas behave ideally under these conditions? 
+Justify your answer.
+(2)
+(b) Deduce the identity of the gas in the container.
+(2)
+(Total 4 marks)
+14. An alkane gas has a density of 1.94 g dm−1 at STP. Determine the molecular 
+mass of the gas and identify the alkane.
+(2)
+(Total 2 marks)
+15. Nitrogen monoxide, NO(g), reacts with oxygen, O2(g), to form one gaseous 
+product X.
+Syringe A contains 50 cm3 of nitrogen monoxide. Syringe B contains 50 cm3
+of oxygen gas. In the experiment, 5.0 cm3 portions of oxygen were pushed 
+from syringe B into syringe A. After each addition, the tap was closed. After 
+the gases had returned to their original temperature, the total volume of gases 
+remaining was measured. The results are shown graphically below.
+nitrogen monoxide
+3-way tap
+100
+syringe A
+75
+50
+25
+oxygen
+100
+syringe B
+75
+50
+25
+0
+10
+20
+30
+40
+50
+volume of oxygen added / cm3
+70
+75
+80
+85
+90
+95
+100
+total volume of gases
+in syringe / cm3
+STRUCTURE1
+Models of the particulate nature of matter
+
+
+129
+(a) State the total volume of oxygen remaining when the reaction 
+is complete.
+(1)
+(b) Calculate the amount of nitrogen dioxide and oxygen that react.
+(2)
+(c) State the total amount of X produced.
+(2)
+(d) Deduce a balanced equation for the reaction.
+(2)
+(Total 7 marks)
+STRUCTURE1.5
+Ideal gases
+
+
+Models of bonding 
+and structure
+2
+STRUCTURE
+
+

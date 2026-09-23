@@ -1,0 +1,1787 @@
+375
+A Taiwanese petrochemical plant. This plant is used for the production of ethene (C2H4) 
+via a process called cracking. Larger organic molecules found in natural gas and the
+naptha component of crude oil are split into smaller molecules for use in a number of 
+chemical processes such as polymerisation to make plastics. Ethene is one of the most
+widely manufactured organic compounds with about 200 million tonnes produced
+anually.
+Between 1800 and the mid 2020s, the global population grew from 1 billion to over 
+8 billion. To support this growth, large-scale production of chemicals has been 
+required to meet the demand for essential feedstock in industries such as agriculture, 
+construction, oil and gas, and pharmaceuticals. For example, each year, 250 million 
+tonnes of sulfuric acid is produced world-wide for use in the production of fertilizers, 
+steel processing, petroleum refining, and as a solvent in many industrial processes. 
+In order to effectively support this demand, chemists must understand the nature of 
+chemical change so that they are able to quantify the amounts of chemicals involved 
+and maximize the rate of and yield in their production. 
+Reactivity 2.1 explores the reacting ratios in chemical reactions, a study known 
+as stoichiometry, and how these ratios can be used to determine the quantities of 
+reactants and products. In Reactivity 2.2, we consider a range of techniques for 
+measuring the rate of a chemical process and the theory behind the factors that affect 
+it, including the role of catalysts, The application of this knowledge greatly enhances 
+the efficiency with which we can carry out chemical reactions. 
+In Reactivity 2.3, we investigate the reversible nature of chemical processes and 
+determine how we are able to increase the yield of desired products by manipulating 
+reaction conditions. Again, the use of mathematical approaches will play a key role 
+in our ability to quantify the composition of reaction mixtures and analyse chemical 
+change.
+Central to this chapter are the principles of Green Chemistry. Maximizing atom 
+economy, rate and yield whilst minimizing waste and energy consumption are key 
+tenets of this framework, and allow us to make more sustainable decisions in relation 
+to the design of chemical processes.
+Much of the content 
+in Reactivity 2 uses the 
+mathematical tools 
+given in the Skills in 
+the study of chemistry 
+chapter. There are also 
+links to related lab 
+work using these tools 
+in each chapter.
+
+
+How much? The amount of 
+chemical change
+2.1
+REACTIVITY
+
+
+377
+How much? The amount of chemical change
+REACTIVITY 2.1
+We can trace the birth of chemistry as a true science back to the first successful 
+attempts to quantify (or measure) chemical change. At the heart of this endeavour is 
+the relationship between the amount of reactants and products in a chemical equation. 
+This is known as stoichiometry.
+The term stoichiometry is derived from two Greek words – stoicheion for element and 
+metron for measure. Stoichiometry describes the reacting ratios during chemical 
+reactions. As we know that matter is conserved during chemical change, stoichiometry 
+is a form of book-keeping at the atomic level. It enables chemists to determine what 
+amounts of substances they should react together and enables them to predict how 
+much product they will obtain. The application of stoichiometry closes the gap 
+between what is happening on the atomic scale and what can be measured.
+In many ways, you can consider this chapter as a toolkit for the mathematical content 
+in much of the course. It covers the universal language of chemistry, chemical 
+equations, and their application to predict the masses, volumes and concentrations 
+of reactants and products involved, as well as tools for quantifying the efficiency of 
+these processes.
+Reactivity 2.1.1 – Chemical equations
+Reactivity 2.1.1 – Chemical equations show the ratio of reactants and products in a 
+reaction.
+Deduce chemical equations when reactants and products are speciﬁ ed.
+Include the use of state symbols in chemical 
+equations.
+Reactivity 3.2 – When is it useful to use half-
+equations?
+The Eni oil refinery located in Venice, Italy. In 2014, the global energy company Eni were the first to 
+convert a traditional oil refinery into a biorefinery that produces hydrogenated vegetable oils (HVO) 
+from raw materials such as cooking oils, animal fats and waste vegetable oil. HVO can be added to 
+diesel, also produced at the refinery, to create biodiesel in accordance with European regulations that 
+require an increasing amount of renewable sources in the production of fuels.
+Nature of Science
+The negative impacts of large-scale chemical industries such as fuel 
+production place a responsibility on scientists to continually strive for greater 
+efﬁ ciency and sustainability in the processes and products we use. This 
+approach is described by the principles of Green Chemistry that identify ways 
+to reduce or eliminate the use and generation of hazardous substances.
+How are chemical equations used to calculate reacting ratios?
+Guiding Question
+
+
+378
+REACTIVITY 2
+How much, how fast and how far?
+Chemical equations summarize chemical change 
+Antoine-Laurent Lavoisier (1743–1794) is often called the ‘father of chemistry’. Among 
+his many accomplishments, he established an understanding of combustion as a process 
+involving combination with oxygen from the air, and recognized that matter retains its mass 
+through chemical change, leading to the law of conservation of mass. He also compiled the 
+ﬁ rst extensive list of elements in his book Elements of Chemistry (1789). In short, he changed 
+chemistry from a qualitative to a quantitative science. But, as an unpopular tax collector in 
+France during the French Revolution and Terror, he was tried for treason and guillotined 
+in 1794. One and a half years after his death he was exonerated, and his early demise was 
+recognized as a major loss to France.
+The formation of compounds from elements is an example of chemical change and 
+can be represented by a chemical equation. A chemical equation is a representation, 
+using chemical symbols, of the simplest ratio of atoms, as elements or in compounds, 
+undergoing chemical change. The left-hand side of the equation shows the reactants
+and the right-hand side shows the products.
+For example:
+copper
++
+chlorine
+→
+copper(II) chloride
+Cu
++
+Cl2
+→
+CuCl2
+As atoms are neither created nor destroyed during a chemical reaction, the total 
+number of atoms of each element must be the same on both sides of the equation. This is 
+known as balancing the equation, and uses numbers called stoichiometric 
+coefficients to denote the number of units of each term in the equation. A 
+correctly balanced equation indicates the ratio of reactants and products in the 
+reaction.
+For example:
+hydrogen
++
+oxygen
+→
+water
+2H2
++
+O2
+→
+2H2O
+coefﬁ cients
+We now have an identical number of each atom on both sides of the chemical 
+equation.
+2H2
+O2
+2H2O
++
++
+When hydrogen and oxygen react to form water, the atoms are rearranged, but the number of atoms 
+of each element remains the same.
+total on left side
+total on right side
+hydrogen
+4
+4
+oxygen
+2
+2
+Note that when the coefficient is 1, this does not need to be explicitly stated.
+Antoine-Laurent Lavoisier, 
+French chemist (1743–1794).
+A chemical equation 
+shows:
+direction
+of change
+reactants  
+  products
+Chemical equations are 
+the universal language 
+of chemistry. What other 
+languages are universal, 
+and to what extent do 
+they help or hinder the 
+pursuit of knowledge?
+
+
+379
+REACTIVITY 2.1
+How much? The amount of chemical change
+Chemical equations are used to show all types of reactions in chemistry, including 
+reactions of decomposition, combustion, neutralization, and so on. Examples of these are 
+given below and you will come across very many more during this course. Learning to 
+write equations is an important skill in chemistry, which develops quickly with practice.
+Worked example 
+Write an equation for the decomposition reaction of sodium hydrogencarbonate 
+(NaHCO3) into sodium carbonate (Na2CO3), water (H2O), and carbon dioxide (CO2) 
+on heating.
+Solution
+First write the information from the question in the form of an equation, and then 
+check the number of atoms of each element on both sides of the equation.
+NaHCO3 → Na2CO3 + H2O + CO2
+total on left side
+total on right side
+sodium
+1
+2
+hydrogen
+1
+2
+carbon
+1
+2
+oxygen
+3
+6
+In order to balance this, we introduce a coefﬁ cient, 2, on the left.
+2NaHCO3 → Na2CO3 + H2O + CO2
+Finally check that the equation is now balanced for all elements.
+total on left side
+total on right side
+sodium
+2
+2
+hydrogen
+2
+2
+carbon
+2
+2
+oxygen
+6
+6
+Note that state symbols are commonly included in chemical equations as an 
+additional layer of detail to indicate the physical state of a substance: 
+solid (s), liquid (l), gas (g) or an aqueous solution (aq).
+An equation, by 
+definition, has to 
+be balanced, so do 
+not expect this to be 
+specified in a question. 
+After you have written 
+an equation, always
+check the numbers of 
+atoms of each element 
+on both sides to 
+ensure the equation is 
+correctly balanced.
+When a question 
+refers to ‘heating’ a 
+reactant or to ‘thermal 
+decomposition’, this 
+does not mean the 
+addition of oxygen, 
+only that heat is the 
+source of energy for the 
+reaction. If the question 
+refers to ‘burning’ 
+or ‘combustion’, this 
+indicates that oxygen is 
+a reactant.
+A satellite image of the 
+Fukushima Daiichi Nuclear 
+Power Plant following three 
+hydrogen explosions in the 
+wake of the 2011 Tōhoku 
+earthquake and tsunami. 
+After the earthquake 
+disrupted the electricity grid 
+in the area, the emergency 
+generators were then flooded 
+by the tsunami preventing 
+the cooling of the reactor. 
+Without a functioning 
+cooling system, the extremely 
+high temperatures around 
+the fuel rods caused the 
+breakdown of steam 
+inside the reactor to form 
+hydrogen gas which formed 
+an explosive mixture with 
+atmospheric oxygen.
+
+
+380
+REACTIVITY 2
+How much, how fast and how far?
+We can also present some chemical equations as two half-equations. In this case, each 
+half-equation identiﬁ es elements that have lost and gained electrons during a chemical 
+reaction. These processes are called oxidation and reduction respectively. Species that 
+have not been involved in electron transfer are ignored. This is discussed in more detail 
+in Reactivity 3.2.
+Nature of Science
+Early ideas to explain chemical change in combustion and rusting included 
+the ‘phlogiston’ theory. This proposed the existence of a fire-like element 
+that was released during these processes. The theory seemed to explain 
+some of the observations of its time, although these were purely qualitative. 
+It could not explain later quantitative data showing that substances actually 
+gain rather than lose mass during burning. In 1783, Lavoisier’s work on 
+oxygen confirmed that combustion and rusting involve combination with 
+oxygen from the air, so overturning the phlogiston theory. This is a good 
+example of how the evolution of scientific ideas, such as how chemical 
+change occurs, is based on the need for theories that can be tested by 
+experiment. Where results are not compatible with the theory, a new theory 
+must be put forward, which must then be subject to the same rigour of 
+experimental test.
+Exercise
+Q1. Write balanced chemical equations, including state symbols, for the 
+following reactions:
+(a) The decomposition of copper(II) carbonate powder (CuCO3) into 
+copper(II) oxide powder (CuO) and carbon dioxide gas (CO2).
+(b) The combustion of a magnesium strip (Mg) in oxygen gas (O2) to form 
+magnesium oxide powder (MgO).
+(c) The neutralization of sulfuric acid solution (H2SO4) with sodium 
+hydroxide solution (NaOH) to form aqueous sodium sulfate (Na2SO4) 
+and water (H2O).
+(d) The synthesis of ammonia gas (NH3) from nitrogen gas (N2) and 
+hydrogen gas (H2).
+(e) The combustion of methane gas (CH4) to produce gaseous carbon 
+dioxide (CO2) and water vapour (H2O).
+Q2. Write balanced chemical equations for the following reactions:
+(a) K + H2O → KOH + H2
+(b) C2H5OH  + O2 → CO2 + H2O
+(c) Cl2 + KI → KCl + I2
+(d) CrO3 → Cr2O3 + O2
+(e) Fe2O3 + C → CO + Fe
+Reactivity 3.2 – When is it 
+useful to use 
+half-equations?
+The four state 
+symbols are as 
+follows:
+Physical
+state
+State
+symbol
+solid
+(s)
+liquid
+(l)
+gas
+(g)
+aqueous
+(aq)
+When balancing an 
+equation, change 
+the stoichiometric 
+coefficient but never 
+change the subscript in 
+a chemical formula.
+
+
+381
+REACTIVITY 2.1
+How much? The amount of chemical change
+Q3. Use the same processes to balance the following more difﬁ cult examples:
+(a) C4H10 + O2 → CO2 + H2O
+(b) NH3 + O2 → NO + H2O
+(c) Cu + HNO3 → Cu(NO3)2 + NO + H2O
+(d) H2O2 + N2H4 → N2 + H2O + O2
+(e) C2H7N + O2 → CO2 + H2O + N2
+ Reactivity 2.1.2 – Using mole ratios in equations
+Reactivity 2.1.2 – The mole ratio of an equation can be used to determine:
+• the masses and/or volumes of reactants and products
+• the concentrations of reactants and products for reactions occurring in solution.
+Calculate reacting masses and/or volumes and concentrations of reactants and products.
+Avogadro’s law and deﬁ nitions of molar 
+concentration are covered in Structure 1.4.
+The values for Ar given in the data booklet 
+to two decimal places should be used in 
+calculations.
+Structure 1.5 – How does the molar volume 
+of a gas vary with changes in temperature and 
+pressure?
+Nature of Science, Structure 1.4 – In what 
+ways does Avogadro’s law help us to describe, 
+but not explain, the behaviour of gases?
+The mole ratio of an equation can be used to 
+determine the masses of reactants and products 
+As we have seen in the previous section, a chemical equation is simply an expression 
+of reactants combining in fixed ratios to form products. The most convenient way 
+to express this ratio is as moles, as that gives us a means of relating the number 
+of particles that react to the mass that we can measure. So, for example, when 
+methane, CH4, burns in air, we can conclude the following, all from the balanced 
+chemical equation:
+ 
+CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)
+Reacting ratio by mole: 
+1 mole 
+ 2 moles 
+ 
+1 mole  2 moles
+Reacting ratio by mass: 
+16.05 g 
+ 64.00 g 
+ 
+44.01 g  
+36.04 g
+80.05 g reactant 
+80.05 g product
+(The ﬁ gures for total mass of reactant and product are just a check, as we know 
+something would be wrong if they did not equate.)
+This simple interpretation of equations, going directly from coefficients to molar 
+ratios, opens the door to a wide range of calculations involving reacting masses.
+When balancing 
+equations, start with 
+the most complex 
+species, and leave 
+terms that involve a 
+single element to last.
+The term carbon 
+footprint refers to the 
+mass of carbon dioxide 
+and other greenhouse 
+gases, such as methane, 
+that an individual emits 
+in a one-year period. 
+It is often expressed 
+as the carbon dioxide 
+equivalent, or CO2e, 
+to represent the total 
+climate change impact 
+of all the greenhouse 
+gases caused by an 
+item or activity. It 
+includes emissions 
+from fuels used in 
+transport, services 
+such as heating, 
+production and 
+consumption of food, 
+and the direct and 
+indirect emissions from 
+manufactured goods 
+and construction. It is 
+extremely difficult to 
+measure all sources 
+accurately, but the 
+fundamental concept 
+uses the type of 
+calculation shown 
+here. The carbon 
+footprint is a measure 
+of an individual’s 
+consumption of 
+resources, and suggests 
+the link between this 
+and the enhanced 
+greenhouse effect.
+Remember to 
+convert between 
+mass and moles 
+using
+n =  m
+___
+M   or   m = nM
+
+
+382
+REACTIVITY 2
+How much, how fast and how far?
+Worked example 
+Calculate the mass of carbon dioxide produced from the complete combustion of 
+1.00 g of methane.
+Solution
+Write the balanced equation and deduce the mole ratio as above. Then pick out 
+from the question the terms that we need to analyze, here they are marked in red; 
+these are the species where we need to convert moles to grams.
+CH4(g) + 2O2(g) →CO2(g) + 2H2O(g)
+Reacting ratio by mole: 
+1 mole  
+ 
+ 
+1 mole
+Reacting ratio by mass / g: 16.05
+ 
+ 
+ 
+44.01
+For 1.00 g methane: 
+1.00
+ 
+ 
+ 
+x
+Now solve the ratio, shown here using cross-multiplication, to determine the value of x.
+gCH4
+_____
+gCO2 =  16.05
+_____
+44.01 =  1.00
+____
+x  
+x =  1.00 × 44.01
+__________
+16.05 
+ = 2.74 g CO2
+It is common for 
+students to waste time 
+solving questions like 
+this by doing the mole 
+to gram conversions 
+for all the species 
+represented in the 
+equation. You can save 
+yourself a lot of trouble 
+by focusing only on the 
+terms indicated in the 
+question, as shown in 
+this example.
+When using Ar values 
+given in the data 
+booklet to calculate 
+M, make sure to use 
+the two decimal places 
+provided.
+All questions on reacting ratios involve a variation of this approach:
+• write the balanced equation
+• work out the mole ratio for the species identified in the question
+• work out the reacting ratio by mass for these species, using m = nM
+• insert the data from the question and solve the ratio.
+Worked example 
+Iodine chloride, ICl, can be made by the following reaction:
+2I2 + KIO3 + 6HCl →5ICl + KCl + 3H2O
+Calculate the mass of iodine, I2, needed to prepare 28.60 g of ICl by this reaction.
+Solution
+The relevant terms from the question are I2 and ICl, so these are our focus.
+2I2 + KIO3 + 6HCl →5ICl + KCl + 3H2O
+reacting ratio by mole: 2 moles 
+ 
+ 
+ 
+ 5 moles
+reacting ratio by mass: 2 × (126.90 × 2) 
+5 × (126.90 + 35.45)
+ 
+= 507.60 g 
+= 811.75 g
+For 28.60 g ICl: 
+x 
+28.60 g
+gI2
+____
+gICl =  507.60
+______
+811.75 =  x
+_____
+28.60 
+x =  507.60 × 28.60 
+ 
+____________
+811.75 
+ g I2 = 17.88 g I2
+In exam questions, it is 
+appropriate to state the 
+final calculated value 
+to a similar number of 
+significant figures as 
+those stated in the data 
+provided.
+
+
+383
+REACTIVITY 2.1
+How much? The amount of chemical change
+The mole ratio of an equation can be used to 
+determine the volumes of gaseous reactants 
+and products 
+All the examples above use mass as a way to measure the amount, the number 
+of moles. But in the laboratory, we often work with gases, where volume is a more 
+convenient measure. As explained in Structure 1.4, gas volume is determined only by 
+the number of particles and by the temperature and pressure. This understanding is 
+known as Avogadro’s law, which states that:
+Equal volumes of all gases measured under the same conditions of temperature and pressure contain 
+equal numbers of molecules.
+Alternatively, it can be stated that equal numbers of molecules of all gases, when 
+measured at the same temperature and pressure, occupy equal volumes.
+Using V for volume and n for number of moles:
+V ∝n 
+This relationship enables us to relate gas volume (of any gas) to the number of moles, 
+and so to reacting ratios in equations.
+Nature of Science
+Avogadro’s hypothesis was not widely accepted initially. Experiments led 
+him to suggest that equal volumes of all gases at the same temperature and 
+pressure contain the same number of molecules, but data to confirm this 
+was somewhat lacking. In addition, his ideas conflicted with Dalton’s atomic 
+theory, which suggested that particles in gases could be only single atoms, not 
+molecules as Avogadro proposed. It took the logical argument of Cannizzaro, 
+nearly 50 years later, to show that Avogadro’s hypothesis could be explained, 
+and moreover used as a means to determine molecular weight. Following 
+this, the relationship between gas volume and number of molecules became 
+widely accepted and known as Avogadro’s law. History has shown that the 
+acceptance of scientific ideas by the scientific community is sometimes 
+influenced by the time and manner of their presentation, as well as by their 
+power to explain existing ideas.
+The descriptive nature of Avogadro’s law allows us to accurately predict the behaviour 
+of gases in mathematical terms but does not offer an explanation as to why they 
+behave in this manner. To do so, we must consider the underlying model of ideal gases, 
+which identifies characteristics of particles in the gaseous state.
+Ar
+CH4
+H2
+N2
+At the same conditions of 
+temperature and pressure, 
+each balloon contains the 
+same number of molecules 
+of gas.
+Avogadro’s law states 
+that equal volumes 
+of all gases at the 
+same conditions of 
+temperature and 
+pressure contain 
+equal numbers of 
+molecules: V ∝n
+Nature of Science, 
+Structure 1.4 – In what 
+ways does Avogadro’s 
+law help us to describe, 
+but not explain, the 
+behaviour of gases?
+
+
+384
+REACTIVITY 2
+How much, how fast and how far?
+Worked example 
+10 cm3 of nitrogen is reacted with excess hydrogen in the reaction:
+N2  (g) + 3H2(g) →2NH3 (g)
+What volume of ammonia would you expect to be produced? (Assume all volumes 
+are measured at the same temperature and pressure.)
+Solution
+‘Excess’ hydrogen indicates that there is enough to react with all of the nitrogen.
+First identify the mole ratios in the equation:
+N2(g) + 3H2(g) →2NH3(g)
+1 mole
+excess
+2 moles
+As the ratio of moles is equivalent to the ratio of reacting volumes, we can deduce:
+N2(g) + 3H2(g) →2NH3(g)
+10 cm3
+20 cm3
+Therefore, we expect 20 cm3 of ammonia to be produced. (Although it is not 
+asked for in this question, we could also deduce that 30 cm3 of H2 would be 
+expected to react.)
+Note that in reality, this is a reversible reaction so we would be unlikely to collect 
+20 cm3 ammonia experimentally. More detail can be found on reversible reactions 
+in Reactivity 2.3.
+Worked example 
+When 10 cm3 of a gaseous hydrocarbon (a compound containing only carbon 
+and hydrogen) is burnt in excess oxygen, the products consist of 30 cm3 of 
+carbon dioxide and 30 cm3 of water vapour, measured under the same conditions 
+of temperature and pressure. Determine the molecular formula of 
+the hydrocarbon.
+Solution
+‘Excess’ oxygen indicates that the combustion reaction is complete. Therefore all
+of the hydrocarbon would react to form only CO2 and H2O.
+ 
+CxHy + O2
+→ 
+CO2 
++ H2O
+volumes: 
+10 cm3 
+ excess 
+ 
+30 cm3  30 cm3
+ratio of volumes / moles: 
+1 
+ 
+ 
+3  
+3
+∴ 1 molecule hydrocarbon → 3 molecules CO2 + 3 molecules H2O
+ 
+3 C atoms 
+6 H atoms
+The molecular formula is C3H6.
+
+
+385
+REACTIVITY 2.1
+How much? The amount of chemical change
+All gases under the same conditions have the same 
+molar volume 
+On the basis of Avogadro’s law, the volume occupied by one mole of any gas, known as 
+the molar volume (Vm), must be the same for all gases when measured under the same 
+conditions of temperature and pressure.
+At standard temperature and pressure (STP), one mole of a gas has a volume of 
+2.27 × 10–2 m3 mol–1 (= 22.7 dm3 mol–1). The conditions at STP are a temperature of 0 °C 
+(273 K) and a pressure of 100 kPa. The value of the molar volume and the conditions for 
+STP are given in Section 2 of the data booklet.
+It is important to note that when temperature and pressure deviate from STP, the 
+molar volume will also change. An increase in temperature will increase the molar 
+volume whereas an increase in pressure will lead to a decrease in molar volume. These 
+effects are described by the combined gas law seen in Structure 1.5.
+The molar volume can be used to calculate the amount of gas in a similar way to the 
+use of molar mass earlier in this chapter. Here though, the calculations are easier, as all 
+gases have the same molar volume.
+number of moles of gas (n) = 
+volume (V)
+molar volume (Vm)
+Worked example 
+The SI unit of pressure 
+is Pa (N m–2), but the 
+bar (105 Pa) is now 
+widely used as it is 
+conveniently close to 
+1 atmosphere. Different 
+countries continue to 
+use a variety of units 
+for pressure, including 
+millimetres of mercury 
+(mm Hg), torr (Torr), 
+pounds per square inch 
+(psi), and atmosphere 
+(atm). The SI unit of 
+volume is m3, although 
+litre (l or L) is widely 
+used to represent 1 dm3.
+Calculate the volume occupied by 0.0200 g He at standard temperature and pressure.
+Solution
+First convert the mass of He to moles.
+n = m
+M  = 0.0200
+4.00  = 0.00500 mol = 0.00500 mol = 5.00 × 10–3 mol
+volume  = number of moles of gas × molar volume
+= (5.00 × 10–3 mol) × 22.7 dm3 mol–1 = 0.114 dm3
+Worked example 
+What volume of oxygen at standard temperature and pressure would be needed to 
+completely burn 1.00 mole of butane, C4H10?
+Solution
+As always, start with the balanced equation and pick out the terms from the question.
+2C4H10(g) + 13O2(g) → 8CO2(g) + 10H2O(g)
+mole / volume ratio: 
+ 1
+6.5
+So 1.00 mol butane will react completely with 6.50 mol O2.
+6.50 moles of gas at STP have volume = 6.50 mol × 22.7 dm3 mol–1 = 148 dm3
+Structure 1.5 – How 
+does the molar volume 
+of a gas vary with 
+changes in temperature 
+and pressure?
+Note that standard 
+temperature and 
+pressure (STP) is not the 
+same as the ‘standard 
+state’, which is used in 
+thermodynamic data 
+and is explained in 
+Reactivity 1.1.
+STP refers to a 
+temperature of 
+273 K and a 
+pressure of 100 kPa.
+
+
+386
+REACTIVITY 2
+How much, how fast and how far?
+Nature of Science
+Committee on Data for Science and Technology (CODATA) is an 
+interdisciplinary scientific committee of the International Council of Science. 
+It was established in 1966 to promote the worldwide compilation and sharing 
+of reliable numerical data, such as the molar volume of a gas. What might be 
+some of the responsibilities held by bodies such as CODATA?
+Challenge yourself
+1. The combustion of both ammonia, NH3, and hydrazine, N2H4, in oxygen gives 
+nitrogen and water only. When a mixture of ammonia and hydrazine is burnt 
+in pure oxygen, the volumetric N2:H2O ratio in the product gas is 0.40. Calculate 
+the % by mass of ammonia in the original mixture. What assumptions are being 
+made here? 
+A note about units of volume 
+The metric unit m3 is widely used in industrial and engineering calculations, but is too 
+large to be convenient for many volume measurements in the laboratory. Instead, dm3
+and cm3 are commonly used, so it is important to be able to interconvert these.
+divide by 1000
+multiply by 1000
+cm3
+divide by 1000
+multiply by 1000
+dm3
+m3
+Nature of Science
+Early ideas on gas behaviour were suggested from the postulates of the kinetic 
+theory, but could not advance without scientific evidence. This was provided 
+by experimental work, mainly that of Boyle and Mariotte, Charles, and Gay-
+Lussac who contributed quantitative data based on testable predictions of how 
+gases would respond to changes in temperature, volume and pressure. In a 
+fairly classic example of scientific process, the data supported the theory, and 
+the theory explained the data. As a result, there was wide acceptance of what 
+became known as ‘the gas laws’ by the 18th century.
+The m ole ratio of an equation can be used to 
+determine the concentrations of reactants and 
+products in solutions 
+Suppose we have an unlabelled bottle of hydrochloric acid, HCl, and want to know its 
+concentration. We can find out the concentration by reacting the acid with a standard 
+solution of an alkali such as sodium hydroxide, NaOH, and determining the exact 
+volumes that react together. From the stoichiometry of the reaction, when we know 
+the volumes of both solutions and the concentration of one of them, we can use the 
+mole ratio to calculate the unknown concentration as follows.
+The litre (l or L) is widely 
+used in place of dm3, 
+and millilitre (ml or mL) 
+in place of cm3. You will 
+not be penalized for 
+the use of these terms 
+in an examination, but 
+they will not be used in 
+examination questions, 
+so it is essential that you 
+know the correct use of 
+m3, dm3, and cm3.
+A standard solution 
+is a solution of 
+accurately known 
+concentration.
+
+
+387
+REACTIVITY 2.1
+How much? The amount of chemical change
+HCl(aq) 
+ +  NaOH(aq) → NaCl(aq) + H2O(l)
+mole ratio: 
+1 
+: 
+1
+volume: 
+known 
+known (by titration)
+conc.: 
+unknown = x
+known (standard solution)
+• moles NaOH can be calculated as follows:
+n(NaOH) = c(NaOH) × V(NaOH)
+• use the mole ratio in the equation:
+n(NaOH) = n(HCl)
+• ∴ concentration of HCl, x, can be calculated from:
+n(HCl) = x × V(HCl)
+This is an example of a process called volumetric analysis. Most commonly, a 
+technique called titration is used to determine the reacting volumes precisely.
+A pipette is used to measure a known volume of one of the solutions into a conical 
+flask. The other solution is put into a burette, a calibrated glass tube that can deliver 
+precise volumes into the conical flask by opening the tap at the bottom. The point at 
+which the two solutions have reacted completely, the equivalence point, is usually 
+determined by an indicator that is added to the solution in the conical flask. The 
+indicator changes colour at its end point. Specific indicators are chosen for different 
+titrations to change colour at the equivalence point. This is explained more fully in 
+Reactivity 3.1.
+Titration usually involves multiple trials to obtain a more accurate result of the 
+volume required to reach the equivalence point; this volume is known as the 
+titre. A good titratio n result gives readings which are consistent with each other 
+relative to the precision of the burette used. Most commonly, this means within 
+0.05 cm3 of each other. Remember, the uncertainty in the measurement of analogue 
+instruments is half the smallest division, usually ± 0.05 cm3 in a burette. Titration 
+is widely used in acid–base chemistry and also in redox chemistry (discussed in 
+Reactivity 3.2). Its applications include industrial chemical processing, chemical 
+research, quality control checks in the food and pharmaceutical industries, and 
+aspects of environmental monitoring.
+When recording volume measurements from a burette, it is important to remember that the 
+total volume of solution added, the titre, is calculated using an initial and final measurement. 
+Therefore, the absolute uncertainty is 0.05 cm3 + 0.05 cm3 = ± 0.10 cm3. 
+Worked example 
+25.00 cm3 of 0.100 mol dm–3 sodium hydrogencarbonate, NaHCO3, solution were 
+titrated with dilute sulfuric acid, H2SO4.
+2NaHCO3(aq) + H2SO4(aq) → Na2SO4(aq) + 2H2O(l) + 2CO2(g)
+15.20 cm3 of the acid were needed to neutralize the solution. Calculate the 
+concentration of the acid.
+The amount of 
+solute (mol) = 
+concentration 
+(mol dm–3) × volume 
+(dm3) or n = c V
+Acid–base titration. The 
+burette tap controls the flow 
+of a standard solution of 
+sodium hydroxide into the 
+conical flask which contains 
+hydrochloric acid solution 
+of unknown concentration 
+and a few drops of 
+phenolphthalein indicator. 
+The equivalence point occurs 
+when the exact volumes 
+of the two solutions have 
+reacted completely. This is 
+indicated by a color change 
+from colourless to pink.
+Burettes generally 
+read to ± 0.05 cm3, 
+so be sure to record 
+your results to this 
+precision. Readings 
+such as 0, 12.0, or 3.5 
+are not acceptable but 
+should be recorded as 
+0.00, 12.00, and 3.50 
+respectively.
+
+
+388
+REACTIVITY 2
+How much, how fast and how far?
+Solution
+We can calculate the amount of NaHCO3 as we are given both the volume and 
+the concentration.
+n = cV
+n(NaHCO3) = 0.100 mol dm–3 ×  25.00
+_____
+1000  dm3 = 2.50 × 10–3 mol
+Look at the mole ratio in the equation:
+2n(NaHCO3) = n(H2SO4)
+∴n(H2SO4) = 0.5 × (2.50 × 10–3 mol) = 1.25 × 10–3 mol
+∴c =  n__
+V =  1.25 × 10–3 mol 
+ 
+_____________ 
+ 
+15.20/1000 dm3 = 0.0822 mol dm–3
+∴ [H2SO4] = 0.0822 mol dm–3
+Here is a summary of the steps in volumetric analysis calculations:
+• If it is not already given, write a balanced equation for the reaction.
+• Look for the reactant whose volume and concentration are given and calculate 
+its number of moles from n = c V.
+• Use this answer and the mole ratio in the equation to determine the number of 
+moles of the other reactant.
+• Use the number of moles and volume of the second reactant to calculate its 
+concentration from c =  n__
+V .
+Back titration
+As the name implies, a back titration is done in reverse by returning to the end point 
+after it is passed. Back titration is used when the end point is hard to identify or when 
+one of the reactants is impure. A known excess of one of the reactants is added to the 
+reaction mixture, and the unreacted excess is then determined by titration against a 
+standard solution. By subtracting the amount of unreacted reactant from the original 
+amount used, the reacting amount can be determined.
+Worked example 
+An antacid tablet with a mass of 0.300 g and containing NaHCO3 was added to 
+25.00 cm3 of 0.125 mol dm–3 hydrochloric acid. After the reaction was complete, the 
+excess hydrochloric acid required 3.50 cm3 of 0.200 mol dm–3 NaOH to reach the 
+equivalence point in a titration. Calculate the percentage of NaHCO3 in the tablet.
+Solution
+original reaction: 
+NaHCO3(s) + HCl(aq) → NaCl(aq) + H2O(l) + CO2(g)
+mole ratio: 
+1 
+: 
+1
+First calculate the total amount of HCl added, which is a known excess.
+n(HCl total) =  25.00
+_____
+1000  dm3 × 0.125 mol dm–3 = 0.00313 mol HCl total
+
+
+389
+REACTIVITY 2.1
+How much? The amount of chemical change
+titration reaction: HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+mole ratio: 
+1 
+: 
+1
+n(NaOH) = 0.00350 dm3 × 0.200 mol dm–3 = 0.000700 mol
+n(NaOH) = n(HCl unreacted) = 0.000700 mol HCl unreacted
+∴n(HCl reacted) = 0.00313 – 0.000700 = 0.00243 mol
+∴ from the mole ratio in the ﬁ rst equation n(NaHCO3) = n(HCl) = 0.00243 mol
+M(NaHCO3) = 22.99 + 1.01 + 12.01 + (16.00 × 3) = 84.01 g mol–1
+m = nM = 0.00243 mol × 84.01 g mol–1 = 0.204 g
+percentage by mass in tablet =  0.204
+_____
+0.300 × 100 = 68.0%
+Note that there are several assumptions made in this calculation. These include the fact 
+that all the NaHCO3 did react with the acid, and that the only component of the tablet 
+that reacted with HCl was NaHCO3. You may like to think about how you could test 
+the validity of these assumptions in the laboratory.
+Exercise
+Q4. Iron ore can be reduced to iron by the following reaction:
+Fe2O3(s) + 3H2(g) → 2Fe + 3H2O(l)
+(a) How many moles of Fe can be made from 1.25 moles of Fe2O3?
+(b) How many moles of H2 are needed to make 3.75 moles of Fe?
+(c) If the reaction yields 12.50 moles of H2O, what mass of Fe2O3
+was used up?
+Q5. Lighters commonly use butane, C4H10, as the fuel.
+(a) Formulate the equation for the combustion of butane.
+(b) Determine the mass of butane that burnt when 2.46 g of water were 
+produced.
+Q6. The fuel used in booster rockets for the Space Shuttle is a mixture of 
+aluminum and ammonium perchlorate. The reaction equation is as follows:
+3Al(s) + 3NH4ClO4(s) → Al2O3(s) + AlCl3(s) + 3NO(g) + 6H2O(g)
+Calculate the mass of NH4ClO4 that should be added to this fuel mixture to 
+react completely with every kilogram of Al.
+Q7. Limestone is mostly calcium carbonate, CaCO3, but it also contains other 
+minerals. When heated, the CaCO3 decomposes into CaO and CO2. A sample 
+of 1.605 g of limestone was heated and gave off 0.657 g of CO2.
+(a) Formulate the equation for the thermal decomposition of calcium 
+carbonate.
+(b) Determine the percentage mass of CaCO3 in the limestone.
+(c) State the assumptions you are making in this calculation.
+
+
+390
+REACTIVITY 2
+How much, how fast and how far?
+Q8. 
+How many moles are present in each of the following at STP?
+(a) 54.5 dm3 CH4
+(b) 250.0 cm3 CO
+(c) 1.0 m3 O2
+Q9. 
+What is the volume of each of the following gases at STP?
+(a) 44.00 g N2
+(b) 0.25 mol NH3
+Q10. Pure oxygen gas was ﬁ rst prepared by heating mercury(II) oxide, HgO.
+2HgO(s) → 2Hg(l) + O2(g)
+What volume of oxygen, at STP, is released by heating 12.45 g of HgO?
+Q11. At STP, which sample contains more molecules, 3.14 dm3 of bromine, 
+Br2; or 11.07 g of chlorine, Cl2?
+Q12. Calcium reacts with water to produce hydrogen.
+Ca(s) + 2H2O(l) → Ca(OH)2(aq) + H2(g)
+Calculate the volume of hydrogen gas produced, at STP, when 0.200 g of 
+calcium reacts completely with water.
+Q13. Dinitrogen oxide, N2O, is a greenhouse gas produced from the 
+decomposition of artiﬁ cial nitrate fertilizers. Calculate the volume of N2O 
+produced from 1.0 g of ammonium nitrate when it reacts, at STP, according 
+to the equation:
+NH4NO3(s) → N2O(g) + 2H2O(l)
+Q14. In a titration, a 15.00 cm3 sample of H2SO4 required 36.42 cm3 of 
+0.147 mol dm–3 NaOH solution for complete neutralization. 
+What was the concentration of the H2SO4?
+Q15. Gastric juice contains hydrochloric acid, HCl. A 5.00 cm3 sample of gastric 
+juice required 11.00 cm3 of 0.0100 mol dm–3 KOH for neutralization in a 
+titration. What was the concentration of HCl in this ﬂ uid? If we assume a 
+density of 1.00 g cm–3 for the ﬂ uid, what was the percentage by mass of HCl?
+Q16. Sodium sulfate, Na2SO4, reacts in aqueous solution with lead nitrate, 
+Pb(NO3)2, as follows:
+Na2SO4(aq) + Pb(NO3)2(aq) → PbSO4(s) + 2NaNO3(aq)
+In an experiment, 35.30 cm3 of a solution of sodium sulfate reacted exactly 
+with 32.50 cm3 of a solution of lead nitrate. The precipitated lead sulfate 
+was dried and found to have a mass of 1.13 g. Determine the concentrations 
+of the original solutions of lead nitrate and sodium sulfate. State what 
+assumptions are made.
+
+
+391
+REACTIVITY 2.1
+How much? The amount of chemical change
+Reacti vity 2.1.3 – The limiting reactant and 
+theoretical yield
+Reactivity 2.1.3 – The limiting reactant determines the theoretical yield.
+Identify the limiting and excess reactants from given data.
+Distinguish between the theoretical yield and 
+the experimental yield.
+Tool 1, Inquiry 1, 2, 3 – What errors may 
+cause the experimental yield to be (i) higher 
+and (ii) lower than the theoretical yield?
+ The theoretical yield is determined by the 
+limiting reactant 
+Imagine that you are following a recipe to make 12 cookies. It calls for you to mix 
+two eggs with four cups of flour. The problem is that you only have one egg. You will 
+quickly realize that this means you can use only two cups of flour and end up with 
+only six cookies. We could say that the number of eggs limited the amount of product.
+In many chemical reactions, the relative amounts of reactants available to react 
+together will similarly affect the amount of product. The reactant that determines the 
+quantity of product is known as the limiting reactant. Other reactants will not be 
+fully used, and are said to be in excess. Identifying the limiting reactant is therefore a 
+crucial step before we can calculate the expected quantity of product. The theoretical 
+yield, which is usually expressed in grams or moles, refers to the maximum amount of 
+product obtainable, assuming 100% of the limiting reactant is converted to product.
+The concept of limiting reactant is often useful in the design of experiments and synthetic 
+processes. By deliberately making one reactant available in a greater amount than that 
+determined by its mole ratio in the balanced equation, it ensures that the other reactant is 
+limiting and so will be fully used up. For example, in order to remove lead ions in lead (II) 
+nitrate, Pb(NO3)2, from a contaminated water supply, sodium carbonate, Na2CO3, is added to 
+precipitate lead carbonate, as shown in the equation:
+Pb(NO3)2(aq) + Na2CO3(aq) → PbCO3(s) + 2NaNO3(aq)
+ 
+limiting 
+excess
+By using excess Na2CO3, this ensures that all the lead ions react and so are removed from the 
+water supply.
+Note that identification of the limiting reactant depends on the mole ratios in the 
+balanced chemical equation for the reaction. This means that if reactant quantities are 
+given in grams, they must first be converted to moles.
+A medical worker taking a 
+blood sample. Blood samples 
+can be used to test for lead 
+exposure. During the Flint 
+water crisis in the US state of 
+Michigan in 2014, after Flint 
+switched its water supply 
+to save money during a 
+financial state of emergency, 
+tens of thousands of people 
+were exposed to elevated 
+levels of lead ions in their 
+drinking water. In addition 
+to other methods, salts such 
+as Na2CO3 can be added 
+in excess to contaminated 
+water to precipitate and then 
+remove heavy metal ions 
+such as Pb2+ and Pb4+.
+The limiting reactant 
+determines the 
+amount of product 
+that can form. The 
+theoretical yield 
+is the quantity of 
+product that can 
+form from the 
+complete conversion 
+of the limiting 
+reactant.
+
+
+392
+REACTIVITY 2
+How much, how fast and how far?
+Worked example 
+Nitrogen gas (N2) can be prepared according to this reaction:
+2NH3(g) + 3CuO(s) → N2(g) + 3Cu(s) + 3H2O(g)
+If 18.1 g NH3 are reacted with 90.4 g CuO, determine the mass of N2 that can 
+be formed.
+Solution
+First we must determine the limiting reactant. We convert the mass of reactants 
+to moles, and then compare the mole ratio in the balanced equation with the mole 
+ratio of reactants given.
+n(NH3) =  
+18.1
+______________ 
+ 
+14.01 + (3 × 1.01)  = 1.06 mol NH3
+n(CuO) =  
+90.4
+___________
+63.55 + 16.00  = 1.14 mol CuO
+mole ratio from equation:
+  NH3
+_____
+CuO =  2__
+3 = 0.67
+mole ratio from given masses:
+  NH3
+_____
+CuO =  1.06
+____
+1.14 = 1.14
+As the ratio NH3 : CuO of the given masses is larger than the required ratio in the 
+equation, it means NH3 is in excess and CuO is the limiting reactant.
+This means that the amount of N2 that can form will be determined by the amount 
+of CuO. This is now similar to the earlier questions, where we write out the 
+equation and focus on the terms identiﬁ ed in the question.
+2NH3(g) + 3CuO(s) → N2(g) + 3Cu(s) + 3H2O(g)
+reacting ratio by mole: 
+3 moles 
+1 mole
+for 1.14 moles CuO: 
+1.14 
+x
+mole ratio: 
+ CuO
+_____
+N2  =  3__
+1 =  1.14
+____
+x  
+x =  1.14 × 1
+_______
+3 
+ = 0.380 mol N2
+∴ mass N2 = 0.380 × M(N2) = 0.380 × 28.02 = 10.7 g N2
+There are alternative approaches to determining the limiting reactant, such as 
+calculating which given amount of reactant would yield the smallest amount of 
+product. But in essence, all questions on limiting reactant and theoretical yield involve 
+comparing the mole ratio of given quantities of reactants with the coefficients in the 
+equation. This is a summary of the steps:
+• Write the balanced equation and focus on the mole ratio of reactants.
+• Convert the given mass of reactants to moles.
+• Compare the given mole ratios with the ratio of coefficients in the equation.
+• Identify the limiting reactant from the above ratios.
+• Calculate the moles of product from the given moles of limiting reactant.
+
+
+393
+REACTIVITY 2.1
+How much? The amount of chemical change
+Sometimes it is useful to measure how much excess reactant will remain when all 
+the limiting reactant has been used up and the reaction stops. One example of this is 
+a technique called back titration, seen in the previous section, which analyses excess 
+acid or alkali after a reaction is complete, and so indirectly measures the amount of 
+a limiting reactant. A simple example of how to calculate the excess is shown below, 
+using an example of burning CH4 when 1 mole of CH4 and 1 mole of O2 are supplied.
+CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)
+reacting mole ratio in equation: 
+1 
+2
+reactant mole ratio given: 
+1 
+1
+⇒ O2 is the limiting reactant
+mole ratio at the end of reaction: 
+0.5 
+0 
+0.5 
+1
+As the 1 mole of O2 has been identified at the limiting reactant, only 0.5 moles of CH4
+will react, leaving 0.5 moles of CH4 unreacted at the end of the reaction.
+Exercise
+Q17. 0.40 moles of magnesium are mixed with 0.20 moles of hydrochloric acid.
+Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)
+Which is correct?
+Limiting reactant
+Theoretical yield of H2 (mol)
+A
+HCl
+0.20
+B
+Mg
+0.40
+C
+HCl
+0.10
+D 
+Mg
+0.20
+Q18. 0.30 moles of hydrochloric acid are mixed with 0.30 moles of 
+calcium carbonate.
+2HCl(aq) + CaCO3(s) → CaCl2(aq) + H2O(g) + CO2(g)
+Which is correct?
+Limiting reactant
+Theoretical yield of CO2
+(mol)
+A
+HCl
+0.30
+B
+HCl
+0.15
+C
+CaCO3
+0.15
+D 
+CaCO3
+0.30
+Q19. 5 cm3 of nitrogen are reacted with 20 cm3 of hydrogen in the reaction:
+N2(g) + 3H2(g) → 2NH3(g)
+Assuming that all volumes are measured at the same temperature 
+and pressure:
+(a) What volume of ammonia would you expect to be produced?
+(b) What volume of H2 would remain unreacted?
+Tool 1, Inquiry 1, 2, 
+3 – What errors may 
+cause the experimental 
+yield to be (i) higher 
+and (ii) lower than the 
+theoretical yield?
+
+
+394
+REACTIVITY 2
+How much, how fast and how far?
+Q20. Methanol, CH3OH, is a useful fuel that can be made as follows:
+CO(g) + 2H2(g) → CH3OH(l)
+A reaction mixture used 12.0 g of H2 and 74.5 g of CO.
+(a) Determine the theoretical yield of CH3OH.
+(b) Calculate the amount of the excess reactant that remains unchanged at 
+the end of the reaction.
+Q21. The dry-cleaning solvent 1,2-dichloroethane, C2H4Cl2, is prepared by the 
+following reaction:
+C2H4(g) + Cl2(g) → C2H4Cl2(l)
+Determine the mass of product that can be formed from 15.4 g of C2H4
+and 3.74 g of Cl2.
+ Reactivity 2.1.4 – Percentage yield
+Reactivity 2.1.4 – The percentage yield is calculated from the ratio of experimental 
+yield to theoretical yield.
+Solve problems involving reacting quantities, limiting and excess reactants, theoretical, 
+experimental and percentage yields.
+The percentage yield can be calculated from the 
+experimental and theoretical yields 
+So far in this chapter, worked examples have focused on chemical reactions occurring 
+with no loss, impurities present, wastage, or incomplete reaction. In reality, all of 
+these happen to different extents in most chemical reactions, and so the theoretical
+yield is usually different from the actual or experimental yield. Below are some 
+sources of error that may cause the experimental yield to be lower or higher than the 
+theoretical yield.
+Factors that may cause the 
+experimental yield to be lower than the 
+theoretical yield
+Factors that may cause the 
+experimental yield to be higher than the 
+theoretical yield
+Side reactions occurring.
+Impurities in a product.
+The decomposition of reactants and/or 
+products.
+When a product has not been fully dried.
+Loss of product during puriﬁ cation.
+Reversible chemical reactions preventing 
+process completion. 
+(See Reactivity 2.3 for more detail.)
+An incomplete reaction 
+(this could impact the experimental yield in both directions depending on the type of reaction used).
+A separating funnel being 
+used to extract iodine 
+from an aqueous solution 
+containing other impurities 
+(the upper layer). As 
+iodine is more soluble in 
+dichloromethane (the lower 
+layer), I2 molecules will 
+migrate into it upon gentle 
+shaking of the separating 
+funnel, causing a pink 
+solution. However, some I2
+may remain in the aqueous 
+layer so the experimental 
+yield will be less than the 
+theoretical value.
+
+
+395
+REACTIVITY 2.1
+How much? The amount of chemical change
+When we compare the experimental yield with the theoretical yield, we get a measure 
+of the efficiency of the conversion of reactants to products. This is usually expressed as 
+the percentage yield, defined as follows:
+percentage yield =  experimental yield 
+ 
+________________ 
+ 
+theoretical yield  × 100
+In your own experiments, you may often be required to calculate the percentage yield 
+of product in evaluating the results. In industry, this is a very important calculation 
+used to determine the efficiency of a process, such as the synthesis of a drug in the 
+pharmaceutical industry. Many aspects of Green Chemistry focus on ways to increase 
+the yield of product by reducing wastage.
+Worked example 
+The synthesis of N2 from NH3 and CuO has a theoretical yield of 10.65 g N2 from 
+the starting amounts of reactants. Under the same conditions, an experiment 
+produced 8.35 g N2. Determine the percentage yield of the experiment.
+Solution
+percentage yield =  experimental yield 
+ 
+________________ 
+ 
+theoretical yield  × 100
+∴ percentage yield =  8.35
+_____
+10.65 × 100 = 78.4 %
+Exercise
+Q22. Calcium carbonate, CaCO3, is able to remove sulfur dioxide, SO2, from waste 
+gases by a reaction in which the two substances react in a 1:1 stoichiometric 
+ratio to form equimolar amounts of CaSO3 and CO2. When 255 g of CaCO3
+reacted with 135 g of SO2, 198 g of CaSO3 were formed. Determine the 
+percentage yield of CaSO3.
+Q23. Pentyl ethanoate, CH3COOC5H11, which smells like bananas, is produced 
+from the esteriﬁ cation reaction:
+CH3COOH(aq) + C5H11OH(aq) → CH3COOC5H11(aq) + H2O(l)
+A reaction uses 3.58 g of CH3COOH and 4.75 g of C5H11OH and has a yield 
+of 45%. Determine the mass of ester that forms.
+Q24. A student has to make a 100 g sample of chlorobenzene, C6H5Cl, from the 
+following reaction:
+C6H6 + Cl2 → C6H5Cl + HCl
+Determine the minimum quantity of benzene, C6H6, that can be used to 
+achieve this with a yield of 65%.
+Industrial plants such as 
+this oil refinery in Bangkok, 
+Thailand, need to be able 
+to track the efficiency of the 
+chemical reactions taking 
+place. Measuring the yield of 
+product is an essential part 
+of this.
+Synthesis and 
+purification of Aspirin. 
+Full details of how 
+to carry out this 
+experiment with a 
+worksheet are available 
+in the eBook.
+
+
+396
+REACTIVITY 2
+How much, how fast and how far?
+Reactivity 2.1.5 – Atom economy
+Reactivity 2.1.5 – The atom economy is a measure of efﬁ ciency in Green Chemistry.
+Calculate the atom economy from the stoichiometry of a reaction.
+Include discussion of the inverse relationship 
+between atom economy and wastage in 
+industrial processes.
+The equation for calculation of the atom 
+economy is given in the data booklet.
+Structure 2.4, Reactivity 2.2 – The atom 
+economy and the percentage yield both give 
+important information about the ‘efﬁ ciency’ 
+of a chemical process. What other factors 
+should be considered in this assessment?
+The atom economy is a measure of efﬁ ciency in 
+Green Chemistry 
+Green Chemistry is the sustainable design of chemical products and chemical 
+processes. It aims to minimize the use and generation of chemical substances that are 
+hazardous to human health and the environment. Traditionally, the efficiency of a 
+reaction has been measured by calculating the percentage yield (the proportion of the 
+desired product obtained compared to the theoretical maximum), but this is only a 
+limited measure as it gives no indication of the quantity of waste produced. A synthetic 
+route should maximize the atom economy by incorporating as many of the atoms of 
+the reactants as possible into the desired product.
+The atom economy of a reaction can be calculated from the equation provided in 
+Section 1 of the data booklet:
+% atom economy =  molar mass of desired product 
+ 
+ 
+_________________________ 
+ 
+ 
+molar mass of all reactants  × 100
+Efficient processes have high atom economies and are important for sustainable 
+development, as they use fewer natural resources and create less waste. Addition 
+polymerization reactions, for example, have an atom economy of 100% as all the 
+reacting atoms end up in the polymer and there are no side products. Many real-
+world processes, for example, in drug synthesis, use a deliberate excess of reactants to 
+increase the yield but have low atom economies.
+Worked example 
+Nickel can be produced by heating nickel oxide and carbon in the following reaction:
+NiO(s) + C(s) → Ni(s) + CO(g)
+Calculate the atom economy for the production of nickel. Give your answer to 3 
+signiﬁ cant ﬁ gures.
+Solution
+Molar mass of desired product = 58.69
+Molar mass of all reactants = (58.69 + 16.00) + 12.01 = 86.70
+% atom economy =  58.69
+_____
+86.70 ×100 = 67.7%
+The second principle of 
+Green Chemistry states 
+that synthesis design 
+should aim to maximize 
+atom economy in a 
+chemical process
+
+
+397
+REACTIVITY 2.1
+How much? The amount of chemical change
+Challenge yourself
+2. Percentage yield and atom economy are different concepts, but both can be used 
+to assess aspects of the overall efficiency of a chemical process. See if you can 
+find a reaction that has a high percentage yield under certain conditions, but a 
+low atom economy.
+In addition to atom economy and percentage yield, there are a number of other factors 
+that can be used to gauge the efficiency of a chemical process. We might, for example, 
+consider the rate at which a chemical reaction takes place (explored in Reactivity 2.2) 
+or the quantities of reagents, such as solvents and catalysts, which are not consumed 
+in the reaction. In industry, it is also important to evaluate energy usage and the 
+economic efficiency of a process.
+Exercise
+Q25.  Copper(II) sulfate, CuSO4, can be produced by reacting copper(II) carbonate 
+and sulfuric acid according to the following equation:
+CuCO3 + H2SO4 → CuSO4 + H2O + CO2
+Calculate the atom economy for the reaction. Give your answer to 
+3 significant figures.
+Q26.  Chloroethene, C2H3Cl, is the monomer used in the manufacture of polyvinyl 
+chloride. It can be produced from 1,2-dichloroethane, C2H4Cl2, by the 
+following reaction.
+C2H4Cl2 → C2H3Cl + HCl
+Calculate the atom economy for the reaction. Give your answer to 
+3 significant figures.
+Q27.  Identify which of these methods of producing hydrochloric acid, HCl, has 
+the highest atom economy.
+Method 1: 
+2NaCl(s) + H2SO4(l) → 2HCl(g) + Na2SO4(s)
+Method 2: 
+H2(g) + Cl2(g) → 2HCl(g)
+Challenge yourself
+3. The fertilizer triammonium phosphate is made from ‘phosphate rock’ by:
+1. reacting the phosphate rock with sulfuric acid, H2SO4, to produce 
+phosphoric acid, H3PO4
+2. reacting the phosphoric acid with ammonia, NH3, to give tri-ammonium 
+phosphate, (NH3)3PO4
+If the phosphate rock contains 90% by mass Ca3(PO4)2 from which the overall 
+yield of triammonium phosphate is 95%, calculate the mass of phosphate rock 
+required to make 1000 tonnes of triammonium phosphate.
+Structure 2.4, 
+Reactivity 2.2 – The 
+atom economy and 
+the percentage yield 
+both give important 
+information about 
+the ‘eﬃ  ciency’ of a 
+chemical process. What 
+other factors should 
+be considered in this 
+assessment?
+
+
+398
+REACTIVITY 2
+How much, how fast and how far?
+4. Sulfuric acid, H2SO4, is produced from sulfur in a three-step process:
+1.  
+S(s) + O2(g) → SO2(g)
+2.  
+2SO2(g) + O2(g) → 2SO3(g)
+3.  
+SO3(g) + H2O(l) → H2SO4(l) 
+Assuming 100% conversion and yield for each step, what is the minimum mass 
+of sulfur needed to produce 980 tonnes of H2SO4?
+5. The concentration of hydrogen peroxide, H2O2, in excess aqueous sulfuric acid, 
+H2SO4, can be determined by redox titration using potassium permanganate, 
+KMnO4 as follows:
+2KMnO4(aq) + 5H2O2(l) +3H2SO4 → 2MnSO4(aq) + K2SO4(aq) + 8H2O(l) + 5O2(g)
+A 10.00 cm3 sample of H2O2 solution requires 18.00 cm3 of a 0.0500 mol dm–3
+solution of KMnO4 to reach the equivalence point in a titration. Calculate the 
+concentration of H2O2 in the solution.
+6. Mixtures of sodium carbonate, Na2CO3, and sodium hydrogencarbonate, 
+NaHCO3, in aqueous solution are determined by titration with hydrochloric 
+acid, HCl, in a two-step procedure.
+1. Titrate to the phenolphthalein end point:
+Na2CO3(s) + HCl(aq) → NaHCO3(aq) + NaCl(aq)
+2. Continue titration to the methyl orange end point:
+NaHCO3(aq) + HCl(aq) → NaCl(aq) + H2O(l) + CO2(g)
+For an X cm3 sample of a sodium carbonate/sodium hydrogencarbonate mixture 
+titrated with Y mol dm–3 HCl, the respective end points are Step 1 = P cm3 HCl 
+and Step 2 = Q cm3 HCl. Derive relationships between X, Y, P, and Q to obtain 
+the concentrations of sodium carbonate and sodium hydrogencarbonate in the 
+original mixture.
+7. A sealed vessel with fixed total internal volume of 2 m3 contains 0.740 kg 
+pentane, C5H12, and oxygen only. The pentane is ignited and undergoes 100% 
+conversion to carbon dioxide and water. Subsequently the temperature and 
+pressure in the vessel are respectively 740 K and 400 kPa. Calculate the initial 
+amount and mass of oxygen in the vessel.
+How are chemical equations used to calculate reacting ratios?
+Guiding Question revisited
+In this chapter we have used chemical equations to:
+• Deduce the mole ratio of reactants and products from their coefficients in the 
+balanced equation.
+
+
+399
+REACTIVITY 2.1
+How much? The amount of chemical change
+• Determine masses, volumes and concentrations of reactants and products 
+involved in chemical reactions.
+◦When dealing with masses, mole ratios can be converted to a reacting ratio by 
+mass using 
+m = nM.
+◦For gases, Avogadro’s law can be applied to mole ratios to determine a reacting 
+ratio by volume. At STP, we can also convert between moles and volume using 
+  n =  V
+___
+Vm where Vm is the molar volume of a gas (provided in the data booklet).
+◦The volumetric analysis of solutions, often carried out using a titration, 
+requires the use of n = c V to calculate the number of moles of one reactant 
+before using the mole ratio to determine the number of moles of the other 
+reactant and then its concentration.
+• Identify the reactant that will be used up first in a reaction, the limiting reactant, 
+by comparing the mole ratio from the balanced equation to the mole ratio in the 
+quantities being reacted. The reactant not fully used is said to be in excess. As the 
+limiting reactant determines the amount of product being formed, we can use it 
+to calculate the expected amount of product, known as the theoretical yield.
+• Quantify the efficiency of a chemical process using percentage yield and atom 
+economy.
+◦Percentage yield is calculated from the ratio of experimental yield to 
+theoretical yield using the formula: 
+percentage yield =  experimental yield 
+ 
+________________ 
+ 
+theoretical yield  × 100
+◦Atom economy takes into account the amount of waste produced in a 
+reaction by comparing the molar mass of the target product to the molar 
+mass of the reactants used. This formula can be found in the data booklet:  
+% atom economy =  molar mass of desired product 
+ 
+ 
+_________________________ 
+ 
+ 
+molar mass or all reactants  × 100
+Practice questions
+1. How many oxygen atoms are in the formula of hydrated copper sulfate, 
+CuSO4.5H2O?
+A 
+2 
+B 
+4 
+C 
+5 
+D 
+9
+2. What is the sum of the coefﬁ cients when the following equation is balanced 
+using whole numbers?
+___ Fe2O3(s) + ___ CO(g) → ___ Fe(s) + ___ CO2(g)
+A 
+5 
+B 
+6 
+C 
+8 
+D 
+9
+3. In which mixture is NaOH the limiting reactant?
+A 
+0.10 mol NaOH + 0.05 mol H2SO4
+B 
+0.05 mol NaOH + 0.05 mol H2SO4
+C 
+0.20 mol NaOH + 0.05 mol HNO3
+D 
+0.20 mol NaOH + 0.10 mol HNO3
+4. Which volume, in cm3, of 0.40 mol dm–3 NaOH(aq) is required to neutralize 
+0.050 mol of H2S(g)?
+H2S(g) + 2NaOH(aq) → Na2S(aq) + 2H2O(l)
+A 
+0.25 
+B 
+0.50 
+C 
+250 
+D 
+500
+
+
+400
+REACTIVITY 2
+How much, how fast and how far?
+5. What is the maximum volume, in dm3, of CO2(g) produced when 1.00 g of 
+CaCO3(s) reacts with 20.0 cm3 of 2.00 mol dm–3 HCl(aq)?
+CaCO3(s) + 2HCl(aq) → CaCl2(aq) + H2O(l) + CO2(g)
+Molar volume of gas = 22.7 dm3 mol–1; M(CaCO3) = 100
+A
+1__
+2 × 20.0×2.0
+________
+1000  ×22.7 
+ 
+B
+20.0×2.0
+________
+1000  ×22.7 
+C
+1.0
+______
+100 ×22.7 
+ 
+ 
+D
+1.0
+______
+100 ×2×22.7 
+6. Which of the following is correct when 40 cm3 hydrogen is reacted with 10 cm3
+oxygen?
+2H2(g) + O2(g) → 2H2O(g)
+Limiting reactant
+Volume of H2O(g) produced (cm3)
+A
+H2
+40
+B
+H2
+80
+C
+O2
+10
+D
+O2
+20
+7. What mass, in g, of hydrogen is formed when 3 moles of aluminum react with 
+excess hydrochloric acid according to the following equation?
+2Al(s) + 6HCl(aq) → 2AlCl3(aq) + 3H2(g)
+A 
+3.0 
+B 
+4.5 
+C 
+6.0 
+D 
+9.0
+8. What is the percentage yield when 7 g ethene produces 6 g of ethanol? 
+C2H4(g) + H2O(g) → C2H5OH(g)
+Mr(ethene) = 28 and Mr(ethanol) = 46
+A
+6×7×100
+________
+28×46  
+B
+6×46×100
+_________
+7×28 
+ 
+C
+6×28
+_________
+7×46×100 
+D
+6×28×100
+_________
+7×46 
+ 
+9. What is the sum of all coefﬁ cients when the following equation is balanced 
+using the smallest possible whole numbers?
+___ C2H2 + ___ O2 → ___ CO2 +___ H2O
+A 
+5 
+B 
+7 
+C 
+11 
+D 
+13
+10. Chloroethene, C2H3Cl, reacts with oxygen according to the equation below:
+2C2H3Cl(g) + 5O2(g) → 4CO2(g) + 2H2O(g) + 2HCl(g)
+What is the amount, in mol, of H2O produced when 10.0 mol of C2H3Cl and 
+10.0 mol of O2 are mixed together, and the above reaction goes to completion?
+A 
+4.00 
+B 
+8.00 
+C 
+10.0 
+D 
+20.0
+11. Airbags are an important safety feature in vehicles. Sodium azide, a toxic 
+compound, undergoes the following decomposition reaction under certain 
+conditions to produce nitrogen gas which ﬁ lls the airbag.
+2NaN3(s) → 2Na(s) + 3N2(g)
+(a) Calculate the mass of sodium azide, NaN3, required to produce 80.0 dm3 of 
+nitrogen gas at STP. 
+(3)
+(b) Calculate the mass of sodium produced in this reaction. 
+(2)
+(Total 5 marks)
+
+
+401
+REACTIVITY 2.1
+How much? The amount of chemical change
+12. Nitrogen monoxide may be removed from industrial emissions via a reaction 
+with ammonia as shown by the equation below:
+4NH3(g) + 6NO(g) → 5N2(g) + 6H2O(l)
+30.0 dm3 of ammonia reacts with 30.0 dm3 of nitrogen monoxide at 100 °C. 
+Identify which gas is in excess and by how much, and calculate the volume of 
+nitrogen produced. 
+(2)
+(Total 2 marks)
+13. The percentage by mass of calcium carbonate in eggshell was determined by 
+adding excess hydrochloric acid to ensure that all the calcium carbonate had 
+reacted. The excess acid left was then titrated with aqueous sodium hydroxide.
+(a) A student added 27.20 cm3 of 0.200 mol dm–3 HCl to 0.188 g of eggshell. 
+Calculate the amount, in mol, of HCl added. 
+(1)
+(b) The excess acid requires 23.80 cm3 of 0.100 mol dm–3 NaOH for 
+neutralization. Calculate the amount, in mol, of acid that is in excess. 
+(1)
+(c) Determine the amount, in mol, of HCl that reacted with the calcium 
+carbonate in the eggshell. 
+(1)
+(d) State the equation for the reaction of HCl with the calcium carbonate 
+in the eggshell. 
+(2)
+(e) Determine the amount, in mol, of calcium carbonate in the sample 
+of the eggshell. 
+(2)
+(f) Calculate the mass and the percentage by mass of calcium carbonate 
+in the eggshell sample. 
+(3)
+(g) Deduce one assumption made in arriving at the percentage of calcium 
+carbonate in the eggshell sample. 
+(1)
+(Total 11 marks)
+14. Melamine has the following structure:
+N
+N
+H2N
+NH2
+NH2
+N
+(a) It can be produced from urea, (NH2)2CO, in the following reaction:
+6(NH2)2CO → C3H6N6 + 6NH3 + 3CO2
+Calculate the atom economy for the reaction. Give your answer to 
+3 significant figures. 
+(2)
+(b) Calculate the theoretical yield of melanine in grams produced when 
+14.0 g of urea is broken down. 
+(2)
+(c) Use your answer from part (b) to calculate the % yield of the reaction if 
+4.12 g melanine was produced experimentally.
+(1)
+If you did not get an answer to part (b), use a theoretical yield of 5.00 g melanine.
+(Total 5 marks)
+
+
+How fast? The rate of 
+chemical change
+2.2
+REACTIVITY
+
+

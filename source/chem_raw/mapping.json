@@ -1,0 +1,212 @@
+{
+  "1": {
+    "code": "S1.1",
+    "theme": "Structure 1.1",
+    "name": "Introduction to the particulate nature of matter",
+    "start": 14,
+    "end": 39,
+    "pages": 26,
+    "chars": 51004,
+    "file": "source/chem_raw/01_S1.1.txt"
+  },
+  "2": {
+    "code": "S1.2",
+    "theme": "Structure 1.2",
+    "name": "The nuclear atom",
+    "start": 40,
+    "end": 57,
+    "pages": 18,
+    "chars": 37930,
+    "file": "source/chem_raw/02_S1.2.txt"
+  },
+  "3": {
+    "code": "S1.3",
+    "theme": "Structure 1.3",
+    "name": "Electron configurations",
+    "start": 58,
+    "end": 83,
+    "pages": 26,
+    "chars": 54379,
+    "file": "source/chem_raw/03_S1.3.txt"
+  },
+  "4": {
+    "code": "S1.4",
+    "theme": "Structure 1.4",
+    "name": "Counting particles by mass: The mole",
+    "start": 84,
+    "end": 115,
+    "pages": 32,
+    "chars": 66873,
+    "file": "source/chem_raw/04_S1.4.txt"
+  },
+  "5": {
+    "code": "S1.5",
+    "theme": "Structure 1.5",
+    "name": "Ideal gases",
+    "start": 116,
+    "end": 141,
+    "pages": 26,
+    "chars": 46565,
+    "file": "source/chem_raw/05_S1.5.txt"
+  },
+  "6": {
+    "code": "S2.1",
+    "theme": "Structure 2.1",
+    "name": "The ionic model",
+    "start": 142,
+    "end": 165,
+    "pages": 24,
+    "chars": 51900,
+    "file": "source/chem_raw/06_S2.1.txt"
+  },
+  "7": {
+    "code": "S2.2",
+    "theme": "Structure 2.2",
+    "name": "The covalent model",
+    "start": 166,
+    "end": 213,
+    "pages": 48,
+    "chars": 101189,
+    "file": "source/chem_raw/07_S2.2.txt"
+  },
+  "8": {
+    "code": "S2.3",
+    "theme": "Structure 2.3",
+    "name": "The metallic model",
+    "start": 214,
+    "end": 221,
+    "pages": 8,
+    "chars": 16267,
+    "file": "source/chem_raw/08_S2.3.txt"
+  },
+  "9": {
+    "code": "S2.4",
+    "theme": "Structure 2.4",
+    "name": "From models to materials",
+    "start": 222,
+    "end": 239,
+    "pages": 18,
+    "chars": 40544,
+    "file": "source/chem_raw/09_S2.4.txt"
+  },
+  "10": {
+    "code": "S3.1",
+    "theme": "Structure 3.1",
+    "name": "The periodic table: Classification of elements",
+    "start": 240,
+    "end": 275,
+    "pages": 36,
+    "chars": 73244,
+    "file": "source/chem_raw/10_S3.1.txt"
+  },
+  "11": {
+    "code": "S3.2",
+    "theme": "Structure 3.2",
+    "name": "Functional groups: Classification of organic compounds",
+    "start": 276,
+    "end": 305,
+    "pages": 30,
+    "chars": 57107,
+    "file": "source/chem_raw/11_S3.2.txt"
+  },
+  "12": {
+    "code": "R1.1",
+    "theme": "Reactivity 1.1",
+    "name": "Measuring enthalpy changes",
+    "start": 306,
+    "end": 337,
+    "pages": 32,
+    "chars": 56916,
+    "file": "source/chem_raw/12_R1.1.txt"
+  },
+  "13": {
+    "code": "R1.2",
+    "theme": "Reactivity 1.2",
+    "name": "Energy cycles in reactions",
+    "start": 338,
+    "end": 353,
+    "pages": 16,
+    "chars": 25374,
+    "file": "source/chem_raw/13_R1.2.txt"
+  },
+  "14": {
+    "code": "R1.3",
+    "theme": "Reactivity 1.3",
+    "name": "Energy from fuels",
+    "start": 354,
+    "end": 385,
+    "pages": 32,
+    "chars": 63332,
+    "file": "source/chem_raw/14_R1.3.txt"
+  },
+  "15": {
+    "code": "R2.1",
+    "theme": "Reactivity 2.1",
+    "name": "How much? The amount of chemical change",
+    "start": 386,
+    "end": 413,
+    "pages": 28,
+    "chars": 62242,
+    "file": "source/chem_raw/15_R2.1.txt"
+  },
+  "16": {
+    "code": "R2.2",
+    "theme": "Reactivity 2.2",
+    "name": "How fast? The rate of chemical change",
+    "start": 414,
+    "end": 441,
+    "pages": 28,
+    "chars": 60952,
+    "file": "source/chem_raw/16_R2.2.txt"
+  },
+  "17": {
+    "code": "R2.3",
+    "theme": "Reactivity 2.3",
+    "name": "How far? The extent of chemical change",
+    "start": 442,
+    "end": 467,
+    "pages": 26,
+    "chars": 63493,
+    "file": "source/chem_raw/17_R2.3.txt"
+  },
+  "18": {
+    "code": "R3.1",
+    "theme": "Reactivity 3.1",
+    "name": "Proton transfer reactions",
+    "start": 468,
+    "end": 503,
+    "pages": 36,
+    "chars": 76672,
+    "file": "source/chem_raw/18_R3.1.txt"
+  },
+  "19": {
+    "code": "R3.2",
+    "theme": "Reactivity 3.2",
+    "name": "Electron transfer reactions",
+    "start": 504,
+    "end": 561,
+    "pages": 58,
+    "chars": 113267,
+    "file": "source/chem_raw/19_R3.2.txt"
+  },
+  "20": {
+    "code": "R3.3",
+    "theme": "Reactivity 3.3",
+    "name": "Electron sharing reactions",
+    "start": 562,
+    "end": 573,
+    "pages": 12,
+    "chars": 28637,
+    "file": "source/chem_raw/20_R3.3.txt"
+  },
+  "21": {
+    "code": "R3.4",
+    "theme": "Reactivity 3.4",
+    "name": "Electron-pair sharing reactions",
+    "start": 574,
+    "end": 587,
+    "pages": 14,
+    "chars": 28339,
+    "file": "source/chem_raw/21_R3.4.txt"
+  }
+}

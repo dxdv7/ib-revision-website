@@ -1,0 +1,961 @@
+563
+REACTIVITY 3.4
+Electron-pair sharing reactions
+When one reactant shares an electron pair with another reactant, this results in 
+the formation of a coordination bond. This is a common theme in many areas of 
+chemistry, including the reactions of acids and bases, transition metal ions and 
+many organic compounds. In this chapter, we will focus on two specific examples of 
+electron-pair sharing reactions involving organic compounds:
+• nucleophilic substitution of halogenoalkanes and
+• electrophilic addition of alkenes.
+Reactivity 3.4.1 – Nucleophiles
+Reactivity 3.4.1 – A nucleophile is a reactant that forms a bond to its reaction partner 
+(the electrophile) by donating both electrons.
+Recognize nucleophiles in chemical reactions.
+Both neutral and negatively charged species 
+should be included.
+Nucleophiles form bonds by donating electron 
+pairs
+A nucleophile is a reactant that forms a covalent bond to its reaction partner (the 
+electrophile) by donating both bonding electrons. Nucleophiles themselves tend to 
+be electron rich, having one or more lone pairs of electrons and they may also carry a 
+negative charge. Examples of nucleophiles include;
+Neutral: H2O, NH3, ROH (alcohols), RNH2 (amines)
+Anions: OH–, F–, Cl–, Br–, I–, CN–, R– (carbanions)
+The names nucleophile 
+and electrophile reﬂ ect 
+earlier deﬁ nitions for 
+these species that 
+were based on their 
+attraction to charges on 
+other species. The sufﬁ x 
+-phile implies ‘a strong 
+liking for’ and refers to 
+the fact that:
+• nucleophiles, typically 
+being electron rich, are 
+attracted to positive 
+charges such as that of 
+a nucleus
+• electrophiles, typically 
+being electron 
+deﬁ cient, are attracted 
+to negative charges 
+such as that of an 
+electron.
+A scanning electron microscope (SEM) image of polystyrene foam, commonly used for packaging 
+or insulation. We owe the enormous variety and impact of plastics in our world to synthesis 
+reactions that convert simple molecules such as alkenes into more complex structures. As our 
+understanding of reaction mechanisms has increased, so has our ability to control the products 
+and create materials with highly specialized properties. Polystyrene is the common name for 
+poly(1-phenylethene) which can be made into foam by adding highly volatile compounds such 
+as pentane. When heated, the pentane becomes gaseous and expands, forming air spaces, clearly 
+visible in the image above, that make up 95% of polystyrene foam. It is the presence of these air 
+spaces that gives polystyrene foam its insulating properties. Its low density also makes it a useful 
+material for applications such as ﬂ otation devices.
+What happens when reactants share their electron pairs with others?
+Guiding Question
+
+
+564
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Nucleophiles donate electron pairs to form coordination bonds
+When nucleophiles donate a pair of electrons to other species (electrophiles), a new 
+covalent bond is formed. This is illustrated in the diagram below, with the green 
+colouring of the new bond formed in the product showing that both bonding electrons 
+came from the nucleophile.
+A1
+Nuc2
+A
+Nuc
+product has a new
+covalent bond
+nucleophile
+(electron rich)
+electrophile
+(electron
+deﬁcient)
+curly arrow shows movement
+of an electron pair
+Because the nucleophile donated both electrons in forming the new covalent bond, 
+this is a coordination bond which is introduced in Structure 2.2.
+Q1. What is the essential feature of a nucleophile?
+A 
+a lone pair of electrons
+B 
+a negative charge
+C 
+a pi bond
+D 
+a positive charge
+Q2. Which of the following species can act as a nucleophile?
+I. NH3 
+ 
+ 
+II. CH4 
+ 
+ 
+III. H2O
+A 
+I, II and III
+B 
+II and III
+C 
+I and III
+D 
+I and II
+Exercise
+Reactivity 3.4.2 – Nucleophilic substitution 
+reactions
+Reactivity 3.4.2 – In a nucleophilic substitution reaction, a nucleophile donates 
+an electron pair to form a new bond, as another bond breaks, producing a leaving 
+group.
+Deduce equations with descriptions and explanations of the movement of electron pairs in 
+nucleophilic substitution reactions.
+Nu:
+substrate
+Nu = nucleophile
+R = electrophile
+x = leaving group
++
++
+R
+x
+R
+Nu
+:
+:
+:
+x :
+:
+:
+:
+Further details of the mechanisms are not 
+required at SL.
+
+
+565
+REACTIVITY 3.4
+Electron-pair sharing reactions
+Halogenoalkanes react via nucleophilic substitution
+Halogenoalkanes are polar compounds due to the fact that the halogen atom is more 
+electronegative than carbon and so exerts a stronger pull on the shared electrons in the 
+carbon–halogen bond. As a result, the halogen gains a partial negative charge (δ–), and 
+the carbon gains a partial positive charge (δ+) and is said to be electron deficient.
+C
+Cl
+d1
+d2
+Nucleophiles, such as OH–, are attracted to the electron-deficient carbon in a 
+halogenoalkane. This leads to reactions in which substitution of the halogen occurs, 
+known as nucleophilic substitution reactions.
+CH3Cl 
++ 
+OH–
+→ 
+CH3OH 
++ 
+Cl–
+ 
+chloromethane 
+methanol
+C3H7Br 
++ 
+OH–
+→ 
+C3H7OH 
++ 
+Br–
+ 
+1-bromopropane 
+propan-1-ol
+The halogen atom can be substituted by a variety of nucleophiles, and this means that 
+halogenoalkanes can be converted into many different classes of compounds. 
+This makes them very useful intermediates in organic synthesis pathways. 
+The overall reaction that occurs between a nucleophile and an electron-deficient 
+substrate molecule such as a halogenoalkane, can be illustrated using curly arrows:
+Nu:
+substrate
+Nu = nucleophile
+R = electrophile
+x = leaving group
++
++
+R
+x
+R
+Nu
+:
+:
+:
+x :
+:
+:
+:
+For the nucleophile to donate an electron pair to the substrate molecule and form a 
+new bond, another bond must break. This causes a species, known as a leaving group, 
+to break away from the substrate molecule. The leaving group is represented by an x in 
+the figure above.
+Halogens, in general, make good leaving groups as they form relatively weak bonds 
+with carbon. Their higher electronegativity also means the bonded electrons are drawn 
+towards the halogen atom, making the carbon atom electron deficient and susceptible 
+to nucleophilic attack.
+The nucleophilic substitution reactions of hydroxide ions with chloromethane and 
+1-bromopropane are illustrated below using curly arrows. Note that the bond that 
+forms and the bond that breaks, must both involve the carbon atom that is bonded to 
+the leaving group:
+HO
+H3C – CI 
+H3C – OH  +    CI– 
+δ+ δ–
+chloromethane
+methanol
+C2H5 – CH2 
+CH3H7OH  +
+Br
+HO
+Br–
+δ+
+δ–
+1-bromopropane
+propan-1-ol
+–
+The curly arrows 
+shown in the 
+mechanism represent 
+the movement of 
+electron pairs and this 
+is explained further on 
+page 567. You should 
+be able to explain how 
+these arrows relate 
+to the formation and 
+breaking of covalent 
+bonds in nucleophilic 
+substitution reactions.
+
+
+566
+REACTIVITY 3
+What are the mechanisms of chemical change?
+If the nucleophile is a neutral species, such as water, then the initial product formed 
+from the substrate molecule will be positively charged. However, this subsequently 
+deprotonates and loses an H+ to give a neutral product. If the leaving group was a 
+halide ion, this could combine with the H+ ion to form a hydrogen halide.
+R – X
+H
+H
+O
+R
+H
+X–
+H
+R – OH + H+
+–H+
++
+O
++
+Overall Equation: H2O + RX → ROH + HX
+Q3. In the reaction R–X + OH– → R-OH + X–
+X– acts as a:
+A 
+nucleophile 
+B electrophile
+C 
+reducing agent 
+D leaving group
+Q4. Explain what is meant by nucleophilic substitution, using the reaction 
+between NaOH and chloroethane to illustrate your answer.
+Q5. Use curly arrows to show how hydroxide ions react with bromomethane to 
+form methanol.
+Q6. Use Section 12 in the data booklet to predict which halide ion will be the best 
+leaving group in a nucleophilic substitution reaction.
+Exercise
+Reactivity 3.4.3 – Heterolytic ﬁ ssion
+Reactivity 3.4.3 – Heterolytic ﬁ ssion is the breakage of a covalent bond when both 
+bonding electrons remain with one of the two fragments formed.
+Explain, with equations, the formation of ions by heterolytic ﬁ ssion.
+Curly arrows should be used to show the 
+movement of electron pairs during reactions.
+Reactivity 3.3 – What is the difference 
+between the bond-breaking that forms a 
+radical and the bond-breaking that occurs in 
+nucleophilic substitution reactions?
+Heterolytic ﬁ ssion creates oppositely charged ions
+The bond-breaking that occurs in nucleophilic substitution reactions to generate 
+the leaving group involves heterolytic fission. This occurs when a covalent bond 
+breaks such that one of the products gains both of the shared electrons. Hetero- means 
+‘different’ and refers to the fact that the two products have an unequal assignment of 
+electrons from the bond.
++
++
+–
+
+
+567
+REACTIVITY 3.4
+Electron-pair sharing reactions
+In Reactivity 3.3 we learnt that homolytic fission produces two radicals as products. 
+Here we see that heterolytic fission results in the formation of oppositely charged ions. 
+When the bond contains two different atoms, the more electronegative atom will gain 
+the negative charge.
+Examples of heterolytic fission:
+Cl–Cl → Cl+ + Cl–
+H–Cl → H+ + Cl–
+In Reactivity 3.3 we also learnt that the movement of single electrons in homolytic 
+fission could be represented by single-headed curly arrows. Heterolytic fission can 
+also be illustrated by curly arrows but it is important to distinguish the important fact 
+that this type of bond breakage occurs through the movement of an electron pair. The 
+distinction is made by using a double-headed arrow (
+) to show the movement of 
+an electron pair. The tail shows where the electron pair comes from and the head of 
+the arrow shows where it is moving to.
+For example, the heterolytic ﬁ ssion of a H–Cl bond would be represented as:
++
+–
+H
+Cl
+heterolytic
+ﬁssion
+Cl
+H+
+The opposite process to heterolytic fission occurs when a nucleophile donates a pair 
+of electrons to an electrophile, forming a coordination bond. This bond formation can 
+also be represented using curly arrows:
+A1
+Nuc2
+A
+Nuc
+product contains
+a coordination bond
+nucleophile
+(electron rich)
+electrophile
+(electron deﬁcient)
+curly arrow shows movement
+of the electron pair
+Q7. Which of the following reactions best represents heterolytic ﬁ ssion?
+A 
+C + O2 → CO2
+B 
+HF → H+ + F–
+C 
+BF3 + F– → BF4–
+D 
+Br2 → Br• + Br•
+Q8. Use curly arrows to explain the difference between the homolytic and 
+heterolytic ﬁ ssion of a H–Br bond.
+Exercise
+Reactivity 3.3 – What is 
+the diﬀ erence between 
+the bond-breaking that 
+forms a radical and the 
+bond-breaking that 
+occurs in nucleophilic 
+substitution reactions?
+
+
+568
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Reactivity 3.4.4 – Electrophiles
+Reactivity 3.4.4 – An electrophile is a reactant that forms a bond with its reaction 
+partner (the nucleophile) by accepting both bonding electrons from that reaction 
+partner.
+Recognize electrophiles in chemical reactions.
+Both neutral and positively-charged species 
+should be included. 
+Electrophiles form bonds by accepting electron 
+pairs
+An electrophile is a reactant that forms a covalent bond to its reaction partner (the 
+nucleophile) by accepting both electrons. Electrophiles tend to be electron deficient, 
+or contain an electron-deficient region, so they often have a positive charge or partial 
+positive charge. Examples of electrophiles include:
+Neutral: HX (hydrogen halides), X2 (halogens), H2O, halogenoalkanes (RX)
+Cations: H+, NO2+, NO+, CH3+, R+ (carbocations)
+Nature of Science
+Definitions in science need to be broad enough to be inclusive. For example, 
+electrophiles are often described as ‘electron deficient’, but this definition 
+would exclude molecules such as bromine, Br2, that are not electron deficient 
+but can act as electrophiles in addition reactions.
+Q9. What is the essential feature of an electrophile?
+A 
+It has a lone pair of electrons.
+B 
+It can accept a pair of electrons.
+C 
+It has a negative charge.
+D 
+It has a positive charge.
+Q10. Which of the following species can act as an electrophile?
+I. HBr 
+ 
+ 
+II. Br2 
+ 
+ 
+III. NH3
+A 
+I, II and III
+B 
+II and III
+C 
+I and III
+D 
+I and II
+Exercise
+
+
+569
+REACTIVITY 3.4
+Electron-pair sharing reactions
+Reactivity 3.4.5 – Electrophilic addition of 
+alkenes
+Reactivity 3.4.5 – Alkenes are susceptible to electrophilic attack because of the 
+high electron density of the carbon–carbon double bond. These reactions lead to 
+electrophilic addition.
+Deduce equations for the reactions of alkenes with water, halogens and hydrogen halides.
+The mechanisms of these reactions will not 
+be assessed at SL.
+Reactivity 3.3 – Why is bromine water 
+decolorized in the dark by alkenes but not 
+by alkanes?
+Structure 2.4 – Why are alkenes sometimes 
+known as ‘starting molecules’ in industry?
+Addition reactions of alkenes give saturated 
+products
+Alkenes have the general formula CnH2n and are unsaturated hydrocarbons
+containing a carbon–carbon double bond.
+C
+H
+H
+H
+H
+C
+Alkenes are more reactive than alkanes because the double bond has a high electron 
+density which makes it attractive to electrophiles. The reaction occurs at the site of the 
+double bond, as one of these bonds is relatively easily broken, which creates two new 
+bonding positions on the carbon atoms. This enables alkenes to undergo addition 
+reactions with electrophiles and form a range of different saturated products.
+C
+C
+XY →
+1
+120°
+C
+C
+Y
+X
+electrophile
+X and Y have
+added accross
+double bond
+Common addition reactions of alkenes are described below. 
+Addition of water
+The reaction with water is known as hydration, and converts the alkene into an 
+alcohol. Water is actually a poor electrophile and this addition reaction requires the 
+use of a strong acid catalyst. In the laboratory, it can be achieved using concentrated 
+sulfuric acid as a catalyst.
+The overall equation for the hydration of ethene is:
+H2SO4(conc.)
+CH2CH2
+⎯⎯⎯⎯→
+CH3CH2OH
+ethene
+H2O
+ethanol
+Alkenes are 
+unsaturated 
+hydrocarbons and 
+undergo addition 
+reactions.
+
+
+570
+REACTIVITY 3
+What are the mechanisms of chemical change?
+The hydration reaction of ethene is of industrial significance because ethanol is a very 
+important solvent and is manufactured on a large scale.
+Test tubes containing solutions of chlorine, Cl2 (left), bromine, Br2 (middle) and iodine, I2 (right) in 
+water (lower layer) and cyclohexane (top layer). Being non-polar, the halogens are more soluble in 
+cyclohexane where they produce vivid colours.
+Addition of halogens
+Halogens react with alkenes to produce dihalogeno compounds. These reactions 
+happen quickly at room temperature and are accompanied by the loss of colour of 
+the reacting halogen. Note that the name and structure of the product indicate that a 
+halogen atom attaches to each of the two carbon atoms of the double bond.
+C
+H
+H
+H
+C
+H
+C
+H
+H 1 Br2 
+C
+H
+H
+H
+C
+H
+Br
+C
+H
+Br
+H
+propene
+1,2-dibromopropane
+⎯→
+Ethanol is an important component of many hand sanitizers. Health agencies recommend a minimum 
+concentration of 60% ethanol to ensure it is effective in killing bacteria and viruses.
+As mentioned on page 559, bromine water is often used to distinguish between 
+alkanes and alkenes. Alkanes react with bromine water through a radical mechanism 
+which requires the presence of UV light to initiate the reaction. However, alkenes 
+readily react with Br2 and do not require ultraviolet (UV) light, so this reaction will 
+happen in the dark.
+The modern industrial 
+process for ethanol 
+synthesis is by direct 
+catalytic hydration 
+of ethane over a 
+phosphoric acid 
+catalyst absorbed onto 
+silica (SiO2). 
+Solutions of halogens 
+have distinct colours: 
+Cl2 is green, Br2 is 
+orange/brown and I2 is 
+purple. When dissolved 
+in organic solvents, 
+these colours are 
+particularly vivid. 
+Reactivity 3.3 – Why 
+is bromine water 
+decolorized in the dark 
+by alkenes but not by 
+alkanes?
+
+
+571
+REACTIVITY 3.4
+Electron-pair sharing reactions
+Nature of Science
+A simple chemical test to distinguish between alkanes and alkenes using 
+bromine water has been outlined in this section.
+Alkenes decolorize bromine water rapidly at room temperature, whereas 
+alkanes will only do this in the presence of UV light.
+This test might be considered as an appropriate way to distinguish between the two 
+classes of compound, but it relies on qualitative data and is subjective, based on 
+the eye of the observer. Wherever possible, experiments are designed to produce 
+quantitative data that is more objective and able to be analyzed. Consider what 
+instrumentation and sensors could be used to develop these observations into more 
+rigorous tests to distinguish between saturated and unsaturated hydrocarbons.
+Addition of halogen halides
+Hydrogen halides, such as HCl and HBr, react with alkenes to produce 
+halogenoalkanes. These reactions take place rapidly in solution at room temperature.
+C
+H
+H
+C
+H
+H 1 HCl
+C
+H
+H
+H
+C
+H
+Cl
+H
+CH2CH2 + HCl ⎯→
+⎯→
+ CH3CH2Cl
+ethene
+chloroethane
+All the hydrogen halides are able to react in this way, but the reactivity is in the order 
+HI > HBr > HCl due to the decreasing strength of the hydrogen halide bond down 
+group 17. So HI, with the weakest bond, reacts the most readily.
+The examples of addition reactions provided above show that alkenes can react with 
+specific electrophiles to make different classes of organic compounds such as alcohols, 
+halogenoalkanes and dihalogenoalkanes. These products can be further converted into 
+many other classes of compounds so this makes alkenes very useful starting molecules 
+in organic synthetic pathways.
+The following diagram summarizes the important addition reactions covered in this 
+chapter and shows the different classes of compounds formed along with a specific 
+example of the reactants required for each conversion.
+C
+alkene
+alcohol
+halogenoalkane
+brown
+colourless
+dihalogenoalkane
++H2O
+(conc. H2SO4)
++Br2
++HCI
+C
+Use of bromine water to 
+distinguish between an alkane 
+(hexane) and an alkene (hex-
+1-ene). Without UV light, the 
+brown colour is decolorized 
+by the alkene but not by the 
+alkane. This is due to the 
+addition reaction that occurs 
+with the unsaturated alkene 
+but does not occur with the 
+saturated alkane. 
+Structure 2.4 – Why 
+are alkenes sometimes 
+known as ‘starting 
+molecules’ in industry?
+
+
+572
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Nature of Science
+It is hard to assess the vastness of the scale of the impact that alkanes and alkenes 
+have had on society. As fuels, alkanes have made energy widely available, and as 
+chemical feedstock, alkenes have led to the synthesis of diverse plastics. Yet these 
+innovations have come at significant cost to the environment, and the long-term 
+consequences are still being determined. While scientific progress is responsible 
+for both the intended and unintended consequences, it is scientists who must 
+respond to the problems. The issues of climate change, air pollution, and plastic 
+disposal are currently pressing areas of research and development.
+Q11. In the reaction between ethene and hydrogen chloride, CH2CH2 + HCl, the 
+product is:
+A 
+CH2ClCH2Cl 
+B 
+CH3CH3
+C 
+no reaction occurs 
+D 
+CH3CH2Cl
+Q12. Give the condensed formulas and names of the products for the following 
+reactions:
+(a) CH3CH=CHCH3 + HBr 
+(b) CH2=CH2 + conc. H2SO4
+(c) CH3CH=CH2 + Br2
+Q13. Explain how bromine water, Br2(aq), can be used to distinguish between an 
+alkane and an alkene.
+Exercise
+What happens when reactants share their electron pairs with others?
+Guiding Question revisited
+In this chapter we have seen that the donation of an electron pair from an electron-rich 
+species to an electron-deficient species results in the formation of a coordination bond. Curly 
+arrows are used to show the movement of electron pairs in these electron sharing reactions.
+• A nucleophile forms a bond by donating a pair of electrons to its reaction partner.
+• In a nucleophilic substitition reaction, a leaving group forms as another bond breaks.
+• Heterolytic fission of a covalent bond produces two oppositely charged ions
+• An electrophile forms a bond by accepting a pair of electrons from its reaction partner.
+• Alkenes undergo electrophilic addition reactions in which the carbon-carbon 
+double bond breaks.
+Electron-pair sharing reactions between nucleophiles and electrophiles were then 
+examined in the context of two important reactions of organic compounds:
+• Nucleophilic substitution reactions, with the specific example of 
+halogenoalkanes reacting with nucleophiles. 
+• Electrophilic addition reactions, with the specific example of alkenes reacting 
+with electrophiles. 
+The following tables should prove a useful summary of the various conventions 
+and definitions that have been introduced for these reactions, along with the radical 
+substitution mechanism introduced in Reactivity 3.3.
+
+
+573
+REACTIVITY 3.4
+Electron-pair sharing reactions
+Types of reactant
+Saturated
+Unsaturated
+• compounds which contain only single 
+bonds
+• for example: alkanes
+• compounds which contain double or triple 
+bonds
+• for example: alkenes, arenes
+Electrophile (electron-seeking)
+Nucleophile (nucleus-seeking)
+• a reactant that forms a covalent bond by 
+accepting both bonding electrons from 
+another reactant
+• electrophiles are typically positive ions 
+or have a partial positive charge and are 
+therefore attracted to parts of molecules 
+which are electron rich
+• for example: NO2+, H+, Br+
+• a reactant that forms a covalent bond 
+by donating both bonding electrons to 
+another reactant
+• nucleophiles have a lone pair of electrons 
+and may also have a negative charge; they 
+are therefore electron rich and are attracted 
+to parts of molecules which are electron 
+deficient
+• for example: Cl–, OH–, NH3
+2
+Cl
+2
+O
+H
+H
+H
+H
+N
+Types of reaction
+Addition
+• occurs when two reactants combine to form a single product
+• characteristic of unsaturated compounds
+• for example: C2H4 + Br2 → C2H4Br2
+H
+C
+H
+H
+C2H4 + Br2
+C2H4Br2
+C
+→
+→
+Br2
+1
+H
+H
+C
+Br
+H
+C
+Br
+H
+H
+Substitution
+• occurs when one atom or group of atoms in a compound is replaced by a 
+different atom or group
+• characteristic of saturated compounds and aromatic compounds
+• for example:
+CH4 + Cl2 → CH3Cl + HCl
+Types of bond-breaking (bond fission)
+Homolytic ﬁ ssion 
+Heterolytic ﬁ ssion
+• is when a covalent bond breaks by splitting 
+the shared pair of electrons between the 
+two products
+• produces two radicals, each with an 
+unpaired electron
+→
+1
+• is when a covalent bond breaks with both 
+the shared electrons going to one of the 
+products
+• produces two oppositely charged ions
+→
+1
+2
+1
+
+
+574
+REACTIVITY 3
+What are the mechanisms of chemical change?
+Convention for depicting organic reaction mechanisms
+Describing organic reaction mechanisms often involves showing the movement of 
+electrons within bonds and between reactants. The convention adopted for this is a 
+curly arrow, drawn from the site of electron availability, such as a pair of non-bonding 
+electrons, to the site of electron deficiency, such as an atom with a partial positive charge.
+For example:
+Y
+X
+represents the electron pair being pulled towards Y so Y 
+becomes δ– and X becomes δ+
+X
+C d1
+the nucleophile X: is attracted to the electron-deﬁ cient C (δ+)
+A ‘normal’ double-barbed arrow (
+) represents the motion of an electron pair (as 
+above). Often the mechanism involves several steps. The electrons are transferred ultimately 
+to an atom or group of atoms that then detaches itself and is known as the leaving group. We 
+used blue throughout this chapter to show curly arrows and the pull of electrons.
+Note that a single-barbed arrow (
+), known as a fish hook, represents the 
+movement of a single electron. These single arrows are often used in reactions 
+involving radicals (Reactivity 3.3).
+Practice questions
+1. Nucleophiles are species that can:
+A 
+undergo substitution reactions with alkenes
+B 
+accept an electron pair from other species
+C 
+undergo addition reactions with alkenes
+D 
+donate an electron pair to other species
+2. Which of the following species can act as an electrophile?
+I. 
+HI
+II. I2
+III. H2O
+A 
+I, II and III 
+B 
+II and III
+C 
+I and III 
+D 
+I and II
+3. Which reaction type is typical for halogenoalkanes?
+A 
+electrophilic substitution 
+B 
+electrophilic addition
+C 
+nucleophilic substitution 
+D nucleophilic addition
+4. Which compound will decolorize bromine water in the dark?
+A 
+pentane 
+B 
+cyclopentane
+C 
+pent-1-ene 
+D 
+methane
+5. What is the product in the reaction of ethene with bromine, Br2?
+A 
+bromoethane 
+B 
+1,2-dibromoethane
+C 
+1,1-dibromoethane 
+D 
+ethane
+
+
+575
+REACTIVITY 3.4
+Electron-pair sharing reactions
+6. What is the product in the reaction of ethene with HI?
+A 
+1,2-diiodoethane 
+B 
+1,1-diiodoethane
+C 
+iodoethane 
+D 
+ethane
+7. The conversion of C4H9Cl to C4H9OH involves what type of reaction?
+A 
+electrophilic addition 
+B 
+radical substitution
+C 
+electrophilic substitution 
+D 
+nucleophilic substitution
+8. (a)  Explain, in terms of electron pairs, the difference between a nucleophile 
+and an electrophile. 
+(2)
+(b) State the type of bond that is formed when a nucleophile reacts with an 
+electrophile. 
+(1)
+ 
+(Total 3 marks)
+9. Ethene, C2H4, can be converted into ethanol, C2H5OH, via a two-step reaction:
+ 
+ 
+I 
+II
+ 
+C2H4 → X → C2H5OH
+ 
+ 
+HBr (g) 
+NaOH(aq)
+(a) State the names of the reactions occurring in steps I and II. 
+(2) 
+(b) Draw the full structure and name the compound formed in step I 
+of the reaction. 
+ 
+(2) 
+ 
+(Total 4 marks)
+10. Alkenes are very useful starting materials in organic synthesis reactions as 
+they can be converted to many other classes of compounds. Some reactions 
+of but-2-ene, C4H8, are outlined in the diagram below.  
+ 
+C4H8Br2 ← C4H8 → C4H9OH 
+ 
+ 
+2,3-dibromobutane 
+          HBr 
+butan-2-ol
+ 
+ 
+ 
+X
+(a) Draw the full structure of but-2-ene. 
+(1) 
+(b) State the reagents needed to convert but-2-ene to butan-2-ol. 
+(1)
+(c) State what changes would be observed in the conversion of but-2-ene 
+to 2,3-dibromobutane. 
+(1) 
+(d) Draw the full structure and give the name of the product, X, formed in the 
+reaction of but-2-ene with HBr. 
+(2) 
+(Total 5 marks)
+11. 1-Iodopropane, C3H7I, reacts with aqueous sodium hydroxide, NaOH(aq), via a 
+nucleophilic substitution reaction to give a product with the formula C3H8O.
+(a) Give a balanced equation for this reaction. 
+(1) 
+(b) Draw the full structure and give the name of the product formed in 
+this reaction. 
+(1) 
+(c) Identify the species acting as the nucleophile and as the leaving group 
+in this reaction. 
+(2) 
+(d) Show, using curly arrows, how the reaction occurs through the breaking 
+and forming of covalent bonds. 
+(3) 
+(e) State the type of bond breaking that occurs in this reaction. 
+(1) 
+ 
+(Total 8 marks)
+
+
+Green Chemistry
+576
+Green Chemistry
+‘Green chemistry is the utilization of a set of principles that reduces or 
+eliminates the use or generation of hazardous substances in the design, 
+manufacture and application of chemical products.’
+Green Chemistry: Theory and Practice, P. T. Anastas and J. C. Warner, 
+Oxford University Press, Oxford, 1998 
+Green Chemistry is also known as sustainable chemistry and applies across the life 
+cycle of a chemical product, from design to ultimate disposal. 
+The 12 principles of Green Chemistry are:
+1. Pollution prevention
+It is better to prevent waste than to treat or clean up waste after it has been created.
+2. Atom economy
+Synthetic methods should be designed to maximize the incorporation of all materials 
+used in the process into the final product.
+3. Less hazardous chemical synthesis
+Whenever practicable, synthetic methods should be designed to use and generate 
+substances that possess little or no toxicity to people or the environment.
+4. Design safer chemicals
+Chemical products should be designed to effect their desired function while 
+minimizing their toxicity.
+5. Safer solvents and auxiliaries
+The use of auxiliary substances (e.g. solvents or separation agents) should be made 
+unnecessary whenever possible and not harmful when used.
+6. Design for energy efﬁ ciency
+Energy requirements of chemical processes should be recognized for their 
+environmental and economic impacts and should be minimized. If possible, synthetic 
+methods should be conducted at ambient temperature and pressure.
+7. Use of renewable feedstocks
+A raw material or feedstock should be renewable rather than being used up whenever 
+technically and economically practicable.
+
+
