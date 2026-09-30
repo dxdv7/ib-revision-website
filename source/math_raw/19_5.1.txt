@@ -1,0 +1,589 @@
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+5.1 Functions
+The table shows the number of assorted chocolates in a chocolate 
+box and the price of the chocolate box.
+Number of assorted chocolates
+Price of chocolate box ($)
+6
+8
+12
+12
+18
+15
+24
+18
+These "variables"—"number of assorted chocolates" and "price of 
+chocolate box"—are clearly related.
+Written as ordered pairs, the 
+relationship can be described as: 
+(6,8), (12,12), (18,15), (24,18).
+\
+A relation is a set of ordered pairs.
+The ordered pairs can also be Price of chocolate box ($)
+represented on a graph. The
+first coordinate will be placed
+on the horizontal axis and
+the second coordinate on the
+vertical axis.
+Investigation 1
+Amir loves running. Here are the contexts of six of his recent runs, 1-6, and some graphs, A-G, that might 
+describe the runs.
+Run 1: Amir runs on flat ground for 10 minutes.
+Run 2: He runs down a hill.
+o
+206
+
+Run 3: He runs 10 km.
+I
+Run 4: He runs up a mountain and back.
+Run 5: He stops to chat with a friend midway through his run.
+_________ * i\____________
+Run 6: He encounters a rough trail that slows him down on his way home.
+Horizontal distance
+Horizontal distance
+Horizontal distance
+Horizontal distance
+o
+Continued on next page
+o +•*"*'*
+■f e r o  -  ® 66
+LO
+20?
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+O E
+Horizontal distance 
+from home (metres)
+1 
+Match each run to a graph, giving two specific reasons why you know they match.
+2 
+One graph does not match any of the runs. Explain why it is not possible for this graph to represent a 
+person running overtime.
+' \ 
+A graph is one way to represent a relation between two variables. A relation is a 
+set of ordered pairs (x,y) that specifies corresponding values of the independent 
+and dependent variables. We can represent a relation between variables with a 
+context, graph, equation, table or mapping diagram, as you will see.
+Example 1
+Paula is working on an environmental project and is analysing the amount of paper used to 
+print some books. She finds out that to print one copy of a certain book 6 m2 of a particular 
+type of paper is needed.
+Let A be the set of the number of copies of the book, |1, 2, 3, 4, 5), and B the set of the amount 
+in m2 of the paper needed to print that number of copies, {6, 12, 18, m, n).
+a Find the values of m and n.
+b Write down the set of ordered pairs for this relation.
+a m = 24, n- 30
+For every book 6 m2 is needed, so for four 
+books 4 x 6 = 24 m2 is needed, and for five 
+books 5 x 6 = 30 m2 is needed.
+b fi={(l,6), (2,12), (3,18), (4,24), (5,30))
+The ordered pairs have as first coordinate 
+the number of printed copies and as second 
+coordinate the number of m2 of paper used.
+208
+
+image of 3.
+Reflect
+State the image of 4, and identify the element of A whose image is 12.
+Investigation 2
+1 Complete the second and third columns of the table. Where possible, complete the last column as well.
+o
+Continued on next page
+fcUMM —
+LO
+209
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+2 R1 from the table in part 1 is said to be a “many-to-one" mapping: more than one element from the first 
+set is mapped onto the same element from the second set.
+a How would you define these relations?
+i one-to-one 
+ii one-to-many 
+iii many-to-many
+b Classify the other relations in the table. Give a reason for each classification.
+3 In which of the four different types of mappings in part 2 is each element of the first set (input) mapped 
+onto one and only one element of the second set (output)?
+4
+5
+Factual
+Which of the relations in part 1 are functions according to the definition below?
+How can you tell that a relation is a function?
+[ \ 
+A function is a relation between two sets in which every element of the first 
+set (input, independent variable) is mapped onto one and only one element 
+of the second set (output, dependent variable).
+The relations shown in the mapping diagrams above are functions: 
+the first is a one-to-one function and the second is a many-to-one 
+function.
+International 
+mindedness
+One of the first 
+mathematicians to 
+study the concept 
+of functions was the 
+Frenchman Nicole 
+Oresme in the 14th 
+century.
+210
+
+Investigation 3
+The graphs in Investigation 1 corresponding to the different contexts are examples of functions. They show Amir’s 
+distance from home as a function of time. The graph that did not match a context is an example of a non-function. 
+Here are some more examples of functions and non-functions and different ways that we can represent them.
+1 For each pair of examples, describe how the relationship between the inputs (x-values) and outputs 
+(y-values) differs between the function and the non-function.
+2 
+Based on your descriptions, what generally is the difference between a relation that is a function and a 
+relation that is not? Make sure that your generalization is consistent with all of the examples in part 1.
+3 fFTWTffl What types of relations are functions?
+4 fFTCTffl What are the different ways that a function can be represented?
+5 tmmm How can you identify that a relation is a function from a graph, table, mapping diagram or 
+context?
+LO
+211
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+Example 2
+Consider A = {-3, -2, 0, 2) and the mapping x—> lx1 - 1. 
+a Find B, the set onto which A is mapped.
+b Determine whether or not this mapping is a function from A to B.
+a B = {-1,7,17}
+-3 —» 2(-3)2 - 1 = 17
+b This mapping is a function (a many-to-one 
+function). Every element of A is mapped 
+onto one and only one element of B.
+-2 —» 2(-2)2 - 1 =7
+0 —» 2 x 02 - 1 = -l
+2—»2x22-l=7
+1 Consider these relations. Classify them as 
+one-to-one, many-to-one, many-to-many 
+or one-to-many.
+a {(1,2), (2,3), (1,4)} 
+b {(1,2), (2,3), (3,6)} 
+c {(1,1), (2,1), (3,1)} 
+d {(1,1), (1,2), (1,3)} 
+e {(1,1), (1,2), (2,1)}
+2 State which of the following mapping 
+diagrams represent functions. In each case 
+give a reason for your answer.
+a
+3 If A = {-1, 0, 0.5, 1, 2), find B, the set to 
+which the elements of A are mapped by the 
+following relations:
+a x-»-x+l 
+b x—>2(l+x)
+c x x2 + 1
+4 a Express the mapping R in the form
+x —> ...
+b State whether or not R is a function, 
+c Write down the image of 2 under R.
+d The set A is extended to {1, 2, 3, 4, a], 
+and a —> 3. Find the value of a.
+212
+
+5 Consider the mapping y = x\
+a Find the output when the input is 
+* = -l.
+b Find the input when y = -64.
+c Let the set of inputs be A - {-1, 0, 1, 2, 3, 4). 
+Find B, the set of outputs.
+d State whether or not the mapping y = x3 
+from A to B is a function, giving a reason.
+Investigation 4
+1 
+Consider the function* —> 2* with the input set {-2, -1,0,1, 2}. 
+a What is the set of images (outputs)?
+b Represent this function on a set of axes.
+2 
+Consider the function x —» 2x where the input set is now 
+{-2,-1.5,0,1,1.5, 2}.
+a What is the set of outputs? 
+b Represent this function on a new set of axes.
+3 
+Is the function defined in part 1 the same one as defined in part 2? Why, 
+orwhy not?
+4 
+a What is the set of images forx—» 2x if the input set is
+{x g  R:-2<x<2).
+b Represent this function on a new set of axes. What is different 
+between this graph and those from parts 1 and 2?
+5 What is the set of outputs if the set of inputs is 1, all real numbers, 
+and* —> 2*.
+6 
+Now considerthe mapping/(*) =—.
+*
+a There is one value of* for which there is no possible output. Write 
+down this value of* and explain why it does not have an output, 
+b Consider the following sets. Analyse whether or not each could be the 
+input set forthis mapping rule.
+{1,2,3},{0,1,2,3},{-3,-2.5,1,1.2}, N,{xe R:*>0},{*e R:*>0},R
+c What is the biggest set of possible inputs for the mapping * —> — ? 
+Why? 
+*
+7 Think of a mapping rule in which the set of all possible inputs is {x€ R: x> 0}.
+8 H.I.HJ.UIHI Why is a function not defined by the mapping rule only?
+Factual
+How can we use a graph to decide whether the relation it 
+represents is a function?
+Factual
+How can we use the graph of a function to find its domain and 
+range as defined below?
+The domain of a function is the set of all input values. 
+The range of a function is the set of all output values.
+input (*) 
+domain
+mapped onto
+output (y)
+►
+range
+LO
+213
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+d The range is the set 
+{y: -l <y<2).
+1 a 0.5
+b {x: -2 < x < 1)
+Substitute x = -0.5 into the formula of the function: 
+y — -0.5 + 1 =0.5
+In this case the domain is —2 <x < 1, as given next to 
+the formula in the question.
+Use technology. Given that in this case the domain is 
+-2 < x < 1, the graph of this function will be the line 
+segment that starts when x = -2 and ends when x= 1.
+When x = -2, y = — 1; the point is (-2, -1).
+When x= 1, y = 2; the point is (1, 2).
+You can then sketch the graph onto paper, 
+remembering to mark the endpoints.
+The endpoints for this graph arc (-2, -1) and (1, 2).
+Once the graph is drawn, you can see its range by 
+"squashing" or projecting it onto the y-axis.
+The blue line represents the range of this function, 
+which is -1 < y < 2. 
+M©
+Example 3
+1 Consider the function y = x + 1, where -2 < x < 1. 
+a Find the image of x = -0.5.
+b Write down the domain.
+c Use your GDC to help you sketch the graph of this function, 
+d Hence, find the range of this function.
+2 Consider this graph of a relation. Note that if a graph has a solid 
+dot • then this means that the point is included in the graph.
+If there is a hollow dot o then this means that the point is not 
+included in the graph, 
+a Explain why this relation is a function, 
+b Determine its domain and its range.
+(D
+214
+
+o 2 a For every input (x) there is 
+only one output (y).
+Any vertical line drawn between the endpoints will 
+cut the graph exactly once. This means that every 
+input, x, is mapped to one and only one output, y.
+This is called the vertical line test.
+b Domain: {x: -2 <x < 1) 
+Range: (y: -1 <y < 3)
+Project the graph onto the x-axis to see that the 
+domain (the green line) is -2 <x< 1. Observe that 
+1 is not included in the domain.
+Project the graph onto the y-axis to see that the range 
+(the blue line) is -1 < y < 3.
+\
+If every vertical line drawn on the graph of a relation cuts the graph exactly 
+once, then the relation is a function. This is the vertical line test.
+1 Find the range of the function y = x + 3 
+when the domain is:
+a {-1, 0, 1, 2} b [x:-l <x<2) c R
+2 Consider the function y = -2x + 3, where 
+-1 <x< 3.
+a Find each image:
+i x = -\ 
+ii x = 3
+b Find the value of x when y = 2. 
+c Sketch the graph of this function, then 
+copy it onto paper. Indicate clearly the 
+endpoints of the graph, 
+d Hence, find the range of this function.
+3 Determine which of the following relations 
+are functions.
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+X
+-8 
+-6 
+-4 
+-2 
+0 
+2 
+4 
+6 
+8
+5 Determine whether these statements about 
+the functions in question 4 are true or false, 
+a i The point (-3, 2) lies on the graph of 
+this function.
+ii The image of x = -2 is y = 3.
+iii When x = -4, y = 0.
+b i The graph of this function crosses the 
+x-axis at (-2, 0).
+ii The point (0, -1) does not lie on the 
+graph of this function.
+iii There is only one value of x for which 
+y = -2.
+4 Find the domain and range of each of these 
+functions.
+O -
+2 -
+216
+
+c i When x = 9, y = 0.
+ii As the values of x increase, the 
+corresponding values of y decrease.
+iii The vertical line x = -7 intersects this 
+graph once.
+d i The line y = 0 cuts the graph of this 
+function twice.
+ii There are two values of x for which
+y=2.
+iii As the values of x increase, so do the 
+corresponding values of y.
+e i The line y - 0.5 intersects the graph 
+of this function twice.
+ii The line y= 1.5 intersects the graph 
+of this function twice.
+iii The value X = 2 has no image.
+Find the domain of each of these functions 
+if it is known that the range is 
+{-3,-2,-1,0, 1,2).
+x —> 2x 4- 1 
+x
+x —
+2
+y = -x + 2
+? A special application measures the
+temperature of a person and records on a 
+graph its variation from 37°C, considered 
+to be the average optimum temperature. 
+The application stops working when the 
+temperature of the person is optimum.
+State whether or not the relation 
+represented in the graph is a function, 
+giving the reason for your answer.
+State the domain and the range.
+Explain their meaning in the context of 
+the problem.
+Write down the missing coordinate for 
+each ordered pair from the graph:
+(0.2, _), (0.8, _), (_, 2), (2, _).
+State the temperature of the person at 
+the start of the application.
+After how many hours was the 
+temperature of this person equal to 37°C? 
+During what period of time did the 
+temperature of the person increase?
+Over what period did it decrease?
+Fora function/the notation y=f(x) means that x (an element of the domain, the 
+input) is mapped through the function / to y (an element of the range, the output).
+Note that:
+• f(x) is read "/of x".
+• If y - f(x) then x is said to be the independent variable and y is the 
+dependent variable.
+• Different variables and names can be used for functions, such as 
+d = v(t), m = C(n), etc.
+HINT
+Be careful\f(x) does 
+not mean11 f timesx”.
+LO
+21?
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+For example, if f(x) = 2x + 5, /(-1) represents the value of y when x = -1. 
+To find/(-l) we substitutex = -l:/(-l) = 2 x (-1) + 5 = 3.
+The point (-1, 3) lies on the graph of the function /.
+What is the value of /(0.5)? How would you find it?
+Reflect
+How do you define the graph of a function?
+Example 4
+Consider the function f(x) = x2 + 1.
+a Find the value of f(2). 
+b Find the image of x = -1.
+c Determine whether the point (5,26) lies on the graph of the 
+function /.
+a 5
+b 2
+c Yes, it does.
+To calculate/(2), substitute x = 2 in the 
+formula of the function by replacing a: with 2:
+f(2) = 22 + 1 = 5
+The image of x = -\ is found by replacing x 
+with -1 in the formula of the function:
+/(“l) = (-1 )2 + 1 = 2
+A table can be drawn in your GDC to find 
+the answers to a and b.
+If the point (3,26) lies on the graph then 
+when x = 5, y = 26. Replacing x in the 
+formula of the function with 5:
+/(5) = 52+ 1 =26
+Soy = 26, and therefore the point (5,26) 
+lies on the graph of function /.
+A model is a suitable mathematical representation of a particular 
+situation. In the next example the model is given by a formula.
+International 
+mindedness
+The word “modelling” is 
+derived from the Latin 
+word “modellus”, which 
+means a human way of 
+dealing with reality.
+Example 5
+The price, in dollars, of a motorcycle t years after purchase is modelled by 
+P(t) = 1 5 000 - 2500f, 0</< 6.
+a State the independent variable and the dependent variable, 
+b Find the value of P(0). State the meaning of P(0) in this context.
+o
+218
+
+rc Find the price of the motorcycle 1.5 years after purchase, 
+d Find the value of t for which P(t) = 6250. Interpret this value of t. 
+e Comment on the case t = 6. 
+f Sketch the graph of this function.
+a The independent variable is t (time) and 
+the dependent variable is P (the price of 
+the motorcycle).
+P(0) = 15000
+P(0) represents the price of the 
+motorcycle at purchase. 
+$11250
+d r = 3.5
+After 3.5 years the value of the 
+motorcycle is $6250.
+e The price of the motorcycle is $0.
+The coordinate pairs in this relation are of 
+the form (t, P(t)).
+The first coordinate is the independent 
+variable; the second is the dependent 
+variable.
+Substitute t = 0 into the formula for P:
+P(0) = 15 000 - 2500 x 0 = 1 5 000
+Substitute t= 1.5 into the formula for P:
+P( 1.5) = 15 000-2500 x 1.5 = 11 250
+We need to find the value of / (time) for 
+which the price is $6250:
+P{t) = 6250 
+15 000 - 2500r = 6250
+Using algebra:
+15 000-6250
+t = -
+2500
+= 3.5
+P(6) = 15 000-2500x 6 = 0
+Plot the graph of P = -2500r + 15 000 on 
+your GDC. To do so, replace the independent 
+variable by X and the dependent variable by Y. 
+Recall that 0 < t < 6.
+Label the axes and indicate some scale 
+when you copy the graph. Mark the axis 
+intercepts.
+LO
+219
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+Reflect
+______  What notations do we use for functions?
+What is an independent/dependent variable?
+How can we use the formula of a function?
+How can we represent functions?
+1 A function T(d) gives the average daily 
+temperature 7, in °C, of a certain city during 
+last January in terms of d, the day of the 
+month.
+a Explain the meaning of 7(2) = 25. 
+b State the domain of the function 7. 
+c Given the data in the table on T{d), 
+estimate a reasonable range for T(d).
+d
+2
+8
+15
+18
+22
+29
+T
+25
+22
+26
+20
+21
+28
+2 Consider the function f{x) = 10 - 4x.
+a Write down the independent variable for 
+this function, 
+b Calculate:
+i /(2) 
+ii /f-1)
+c Show that /(2.5) = 0. 
+d There is an x for which f{x) = -6. Find 
+this value of x.
+3 Consider the function g(x) =100 + 2x. 
+a Calculate^(-10).
+b These ordered pairs lie on the graph of the 
+function g. Find the missing coordinate.
+i (0, _) ii (__0) iii (_, 50)
+c Sketch the graph of the function g.
+4 The graph shows a particular function /.
+220
+a Write down the values of:
+i /(-2) 
+ii /(6)
+b Find the values of * that satisfy:
+i f(x) = 3 
+ii f(x) = 0
+c Find the set of values of x for which f(x) < 0.
+5 
+a Use your GDC to sketch these straight lines:
+i y = x+ 1 
+ii y = x iii y = -x
+iv x = -3 
+v y = 4
+b State which of these graphs represent 
+functions.
+c Describe those straight lines that can
+represent a function and those that cannot.
+6 The number of cells in a culture, N, t hours 
+after it has been established is shown in the 
+graph for 0 < t < 20.
+a The relation represented in the graph is a 
+function. Give reasons why this is the case, 
+b State the independent variable and the 
+dependent variable.
+c Estimate the initial number of cells in 
+this culture.
+d Estimate the value of N when t - 4. 
+e Estimate the value of t when N = 32. 
+f Estimate the interval of time over which 
+the number of cells varied from 64 to 128. 
+g Find the range of this function.
+

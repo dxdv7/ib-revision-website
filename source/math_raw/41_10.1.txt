@@ -1,0 +1,549 @@
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+10.1 Geometric sequences and series
+The game of chess was invented in India 
+by a man named Sissa ibn Dahir. The king,
+Shihram, was so pleased with the game that 
+he offered Sissa any reward that he wanted.
+Sissa said that he would take this reward: the 
+king should put one grain of wheat on the first 
+square of a chessboard, two grains of wheat 
+on the second square, four grains on the third 
+square, eight grains on the fourth square, and 
+so on, doubling the number of grains of wheat 
+with each square.
+How would you be able to find out the number 
+of grains of wheat on the last square of the chessboard?
+How would you be able to find the total number of grains of wheat on 
+the chessboard?
+This is one example of a geometric sequence.
+A tennis competition involves 256 players.
+Each game has two players and there is 
+only one winner of each game. In the first 
+round all 256 players will take part, in the 
+second round only the winners from the 
+first round will take part and so on. How 
+can you find out the total number of rounds 
+that take place before there is a winner?
+How can you find out the total number of 
+games that are played in the competition?
+This is also an example of a geometric 
+sequence.
+A sequence of numbers in which each term can be found by multiplying 
+the preceding term by a common ratio is called a geometric sequence.
+A geometric series is the sum of the terms of a geometric sequence.
+Investigation 1
+For each of the following sequences, find the next term and describe the rule 
+for finding the next term.
+a 
+2,4,6,8,... 
+b 1,3,9,22,... 
+c 1,1,2,3,5,...
+d 
+—3,—1.5,0,1.5, ... e 1,4,9,16,... 
+f 
+5,15,45,135,...
+How can you tell whether a sequence is geometric or not? 
+Which of these sequences are geometric?
+The Elements, Euclid’s 
+book from 300BC, 
+contained geometric 
+sequences and series.
+International 
+mindedness
+462
+
+10.1
+Investigation 2
+1 
+Complete the following geometric sequences:
+a 2,4,8,16, 
+_ b -1,3,-9, 2?,_,__,_
+c 
+6,-3, 
+_,_ d 
+1,5, 25,125
+2 
+4
+2 
+Complete this table for these sequences.
+term 2
+term 3
+term 4
+term 1
+term 2
+term 3
+4 
+^
+16 ^
+a
+— = 2
+2
+4
+8
+b
+c
+d
+3 
+What do you notice about the ratio of consecutive terms for each sequence?
+You have found the common ratio of each geometric sequence.
+Each term of a geometric sequence can be written in terms of its first term and 
+common ratio.
+Sequence a can be written in terms of its first term, 2, and common ratio, 2:
+2, 2(2), 2(2)2, 2(2)3, 2(2)4, 2(2)5,...
+4 
+Find an expression for the mh term of sequence a.
+Repeat for the other three sequences.
+5 H.I.IJJ.UIMI Can you always write a geometric sequence in terms of its 
+first term and common ratio?
+The first term of a geometric sequence is called // ], the common ratio is called
+r, and the wth term is called u .n
+r = !± = !±± = -1 =
+M, U2 Wj
+6 
+Complete the following:
+ux = ux
+u2 - uxxr - uxr 
+u^ = u2 x r - uxr x r = uxr2 
+u4 =ui*r = uxr2 xr = w,r?
+*5 =
+Un =
+? IFTCTfTI What is the formula for the mh term of a geometric sequence?
+8 ITTTffTffll How can you tell if a sequence is geometric?
+TOK
+Why is proof important 
+in mathematics?
+463
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+\
+To check whether a sequence is geometric, find the ratio of pairs of 
+consecutive terms. If this ratio is constant, it is the common ratio and the 
+sequence is geometric.
+" " 
+'N
+The ttth term in a geometric sequence is given by the formula un = u{rfl~].
+Example 1
+1 For each of these geometric sequences, write down:
+i 
+the first term, u{ 
+ii the common ratio, r 
+iii u]Q.
+a 2,6,18,54,... 
+b -3,6,-12,24,... 
+c 16,8,4,2,...
+2 Carolien is starting a new job. She earns €48000 in her first year, and her salary increases by 
+5% each year. Show that Carolien's annual salary follows a geometric sequence, and state the 
+common ratio. Calculate how much Carolien will earn in her fifth year at work.
+3 The third term of a positive geometric sequence is 63 and the fifth term is 567. Find the 
+common ratio and the first term.
+1 a
+wt = 2
+i r = — = 3
+2
+ii w iq = 2(3)9 = 39 366
+= -2
+ii w10=—3( —2)9= 1536
+u j = 16
+i r = —= 0.5
+16
+ii w1Q= 16(0.5)9 = 0.031 25
+2 uA = 48 000
+u2 =48 000 + 5%x 48 000 
+= 48 000(1 + 5%)
+= 48 000(1 + 0.05)
+= 48 000x1.05 
+So, r= 1.05
+Therefore,
+u5 = u{r4 = 48000( 1.05)4 = €58 344.30
+3 w3 = 63 
+So, u{r2 = 63 
+u5 = 567 
+So, u r4 = 567
+Remember that w3 = u^r* i 
+2 3
+.
+W5 = wirH
+464
+
+10.1
+o
+Then you can write: 
+us _ M,r4 567 
+?
+Here you can cancel the u{ and r2 to get r2
+w3 w,r~ 63
+on the left-hand side.
+r2 =9
+r = ±3
+You are told that all the terms are positive, 
+so r = 3
+Substituting back into the first equation:
+63 
+*7
+Wj = — = 7
+9
+k.
+1 The first three terms of a geometric 
+sequence are 3, 6, 12.
+a Write down the common ratio, 
+b Calculate the value of the 15th term.
+2 A marrow plant is 0.5 m long. Every week 
+it grows by 20%.
+a Find the value of the common ratio, 
+b Calculate how long the plant is after 
+12 weeks.
+c Comment on the predicted length of the 
+marrow after one year.
+3 The first four terms of a geometric sequence 
+are 27, x, 3, 1.
+a Find the value of x. 
+b Write down the common ratio, 
+c Calculate the value of the eighth term.
+4 There is a flu epidemic in Cozytown. On 
+the first day, 2 people have the flu. On the 
+second day, 10 people have the flu. On the 
+third day, 50 people have the flu.
+a Show that the number of people with 
+the flu forms a geometric sequence, 
+b Hence, assuming the conjecture is true, 
+calculate how many people have the flu 
+after one week (seven days), 
+c Hence calculate how many people will 
+have the flu after one year. Comment on 
+your answer.
+5 The second term of a geometric sequence is 
+-32 and the fourth term is -2. Given that 
+all the terms are negative, find the common 
+ratio and the first term.
+Example 2
+Mr Farmer buys machinery for US$25 000. The machinery depreciates at a rate of 
+8% per annum.
+a
+b
+Find the value of the machinery after five years.
+Find how many years it is before Mr Farmer's machinery is worth half its original 
+value.
+o
+Continued on next page
+465
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+Developing inquiry skills
+Return to the chess problem on p. 463. You should 
+now be able to find out how many grains of wheat are 
+on the last square.
+But, how can you find the total number of grains of 
+wheat on all the squares?
+You should also be able to find the number of rounds 
+of tennis played until the final.
+But, how can you find the total number of games 
+played?
+If the machinery depreciates at 8% each 
+year, then after one year it will be worth 
+only (100 - 8)% = 92% = 0.92 of its 
+original value.
+So, after five years it will be worth 
+US$25 000 x 0.925 = US$16477.04.
+Half of the original value is USS12 500
+So, 25 000 x 0.92" = 12 500
+Using your Solver, n = 8.31
+So, Mr Farmer's machinery is worth
+half its original value after 8.31 years.
+At the end of 2016 the population of a 
+city was 200000. At the end of 2018 the 
+population was 264 500.
+a Assuming that these end of year figures 
+follow a geometric sequence, find the 
+population at the end of 2017. 
+b Calculate the population at the end of 
+2020.
+c Comment on whether this increase 
+will continue. Give a reason for your 
+answer.
+One kilogram of tomatoes costs US$2.20 
+at the end of 2015. Prices rise at 2.65% 
+per year. Find the cost of a kilogram of 
+tomatoes at the end of 2019.
+Petra buys a camper van for €45 000. Each 
+year the camper van decreases in value by 
+5%. Find the value of the camper van at 
+the end of six years.
+Beau spends €15 000 buying computer 
+materials for his office. Each year the 
+material depreciates by 12%.
+a Find the value of the material after three 
+years.
+b Find how many years it takes for the 
+materials to be worth €5 000.
+466
+
+10.1
+Investigation 3
+The following are geometric sequences:
+a 1,5,25,125,625 b 6,12,24,48,96 c 2,-6,18,-54,162 
+Complete the following table for each sequence:
+mi
+r
+r2
+r2- 1
+r-1
+Sum of first 2 terms
+a
+b
+c
+«.
+r
+rJ
+r’-l
+r-1
+Sum of first 3 terms
+a
+b
+c
+U\
+r
+r4
+r4- 1
+r-1
+Sum of first 4 terms
+a
+b
+c
+ul
+r
+r5
+r5- 1
+r-1
+Sum of first 5 terms
+a
+b
+c
+See if you can find a connection between:
+• 
+the sum of the first 2 terms, r2— l,r— 1 and u}
+• 
+the sum of the first 3 terms, r3— l,r— 1 and u}
+• 
+the sum of the first 4 terms, r4- 1, r— 1 and u}
+• 
+the sum of the first 5 terms, r5 — 1, r- 1 and uy
+Using the connections you discovered, suggest a formula for the sum of the 
+first n terms of a geometric series in terms of u j, r and n. Are there any values 
+that r cannot take?
+The sum to n terms of a geometric series is written as S . The formula for S is
+S„ = £«, 
+^ = 
+r * ,
+r -1
+1 -r
+You can use either form.
+To see how we might get that formula, consider the series 1, 2, 4, 8, 
+16, 32.
+Here, u{ = 1 and r = 2. If we take the sum of this series we have 
+56 =1+2 + 4 + 8+ 16 + 32 
+(1)
+462
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+Multiply this by 2:
+2S6 = 2 +4 + 8+ 16 + 32 + 64 
+(2)
+Now do (1) - (2). You'll see that a lot of the terms cancel out: 
+56 - 256 =l-64 
+(3)
+Solving this for S6, you get S6 = 63.
+Check this against the formula:
+ia-2^ = £z64) = 63
+1-2
+-1
+If you look at (3) and compare it with the formula you will see that 
+on the left-hand side we have (1 - 2)S6, which is (1 - r)S6, and on the 
+right-hand side we have 1 - 2* 
+6, which is 1 - r6.
+So, SA =
+i - n 
+(1 ~r) ‘
+Example 3
+Find the sum to eight terms of the geometric series 7, 28, 112, 
+448, ...
+When Kenzo starts Bright Academy, the school fees are 
+JYN 2 500000 (Japanese yen). The fees increase by 2% each 
+year. Kenzo attends the school for a total of six years, 
+a Write down the common ratio.
+b Calculate the school fees in year six.
+c Calculate the total fees paid for the six years that Kenzo 
+attends Bright Academy.
+The second term of a geometric sequence is 6 and the fourth 
+term is 24. All the terms are positive, 
+a Find the first term and the common ratio.
+b Find the sum of the first 10 terms.
+1 w, =7
+28
+r = — = 4 
+7
+c c 7(4’-1) ,o o k
+So, SR =----------- = 1 52 91 5
+4-1
+2 a r- 1.02
+b u = u.r5 = 2 500 000 x 1.025
+6 1
+= JYN 2 760202
+6
+C S6 =
+(r-1) 
+(1.02-1)
+= JYN 15 770302
+1 + 2% = 1 +0.02= 1.02 
+Remember, u = w1r"~1
+n I
+468
+
+10.1
+o 3 a u2 = uyr= 6
+u = M.r3 = 24
+4 
+1
+«4 _ u/ _ 24 _ ^
+u2 
+u}r 
+6
+r2 = 4
+You do not need r = -2
+fN \D
+II 
+II
+Sv.
+>*
+because all the terms are 
+positive.
+NJ
+ii
+O'
+w. = 3
+b 510 = ^-"=3069 
+(2-1)
+TOK
+How do mathematicians 
+reconcile the fact that 
+some conclusions 
+conflict with intuition?
+1 A geometric series is 2 + 6 + 18 + ... 
+a Find the common ratio.
+b Find the sum of the first 10 terms.
+2 Aziza receives an allowance of
+EGP 2500 (Egyptian pounds) each month. 
+Every month this amount is increased 
+by 2%.
+a Find how much Aziza receives in 
+month six.
+b Calculate the total amount that Aziza 
+receives in one year.
+3 The population of a small island is 12 000. 
+The population is expected to grow by 1.2% 
+each year.
+a Find the population at the end of seven 
+years.
+Each year, every inhabitant of the island 
+receives a gift from the government.
+b Find the total number of gifts that the 
+government gives to the inhabitants 
+during these seven years.
+4 A geometric sequence has third term 8 and 
+fifth term 128.
+a Find the common ratio and the first 
+term.
+b Find the eighth term, 
+c Find the sum of the first eight terms.
+5 When Chen starts at a private school, the 
+school fees are CNY 270000 (Chinese yuan) 
+a year. Every year the fees increase by 4%.
+a Calculate the school fees for the second 
+and third years.
+b Find the total cost of the school fees, given 
+that Chen stays at the school for six years.
+6 Kyle joins a sports club. The fee for the first 
+year is €75.
+a Given that the fee is increased by 2% every 
+year, find the cost for the second year, 
+b Given that Kyle is a member of the 
+sports club lor five years, calculate how 
+much he pays in total over that period.
+7 Find the sum to nine terms of this geometric 
+series:
+24+ 36 + 54 + 81 + ...
+8 Alexa wins a prize in a lottery. She receives 
+CAD 8000 (Canadian dollars) the first 
+month, CAD 6000 the second month, CAD 
+4500 the third month and so on for a total 
+of six months.
+a Calculate how much she receives in 
+month six.
+b Calculate the total prize money for the 
+six months.
+9 Find the sum of this geometric series:
+1 + 3 + 9 + ... + 19683.
+469
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+On her 10th birthday, Yun Lu inherits some money 
+from her grandmother. She can either have US$10 
+each month now to invest in a bank which offers 
+2% interest compounded annually until she is 21, 
+or she can have US$1400 on her 21st birthday.
+How can you work out which option Yun Lu 
+should choose?
+When you invest money in a bank or other 
+financial institution, you will be given interest 
+at regular intervals such as annually, half-yearly, 
+quarterly or monthly.
+II the interest paid is simple interest, then the interest remains the 
+same for each year that you have your money in the bank.
+If the interest paid is compound interest, then the interest is added 
+to the original amount and the new value is used to calculate the 
+interest for the next period.
+Investigation 4
+For each of the following amounts deposited in a bank, calculate how much 
+interest would be paid at the end of three years.
+Amount
+Simple interest at 5%
+Compound interest at 5% 
+compounded annually
+US$100
+Year 1:5% of 100 = US$5
+Year 1:5% of 100 = US$5
+Year 2: also US$5
+Year 2: 5% of 105 = US$5.25
+Year 3: also US$5
+Year 3: 5% of 110.25 = 
+US$5.5125
+So, total is US$15
+So, total is US$15.26
+10 Giovanna works on a farm and feeds the 
+chickens each week. At the beginning the 
+farm has 500 chickens. The number of 
+chickens increases each week by 1%.
+a Find the number of chickens after 
+15 weeks.
+b Find the total number of feeds in 
+15 weeks.
+Developing inquiry skills
+Now you can find the total number of grains of wheat from the chess 
+board problem.
+You can also find the total number of games of tennis that are played.
+10.2 Compound interest, annuities, 
+amortization
+470
+

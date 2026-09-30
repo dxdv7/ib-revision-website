@@ -1,0 +1,991 @@
+Daily number of visitors to zoo
+^ ^ ^ v v SJ 
+Daily number of visitors to zoo
+■ 0-200 
+| 200-400 
+| 400-600 
+■ 600-800 
+| 800-1000 
+1000-1200 
+1200-1400 
+1400-1600
+3.3 Presentation of data
+A zoo is open 360 days in the year. The number of visitors each 
+day was recorded and displayed in several different types of 
+graph.
+< \
+Girls: 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3,
+3, 3, 4, 4, 5, 3, 5, 6, 6, 7, 7, 8, 9
+2 The ages of 100 people in a family camping 
+site are as follows:
+The manager decides to charge less for 
+people over the age of 60.
+a Find the mean age of the 100 people 
+and decide whether or not the manager 
+will lose much revenue due to this 
+decision.
+b Using an appropriate sampling method, 
+pick a random sample of 35 people and 
+find the mean age of the sample.
+c Using a systematic sampling method of 
+every third person, find the mean age of 
+your sample.
+d Comment on which method from parts 
+b and c you think will give the better 
+approximation to the population mean.
+3 The number of goals scored in 50 hockey 
+matches is as follows:
+a Find the mean number of goals scored in 
+all 50 matches.
+b Taking a random sample of 12 girls 
+and 12 boys, find the mean of these 24 
+matches.
+c Comment on whether or not your 
+sample gives a good approximation to 
+the population mean.
+Frequency
+oj C0
+o
+4^ *<
+' 
+Yl
+©
+\J1 H-
+yi 
+H-*
+yi
+yi
+Q\ H-
+ON 
+JO
+ON 
+JO
+■o 
+JO
+-o yj
+oo y>
+oj
+r
+119
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+Cumulative frequency
+H
+500 
+1000 
+1500
+Daily number of visitors to zoo
+2000
+Reflect I Which graph do you think is the most useful? 
+Discuss how the different types of graph might be interpreted.
+Developing inquiry skills
+Returning to the life expectancy and GDP data, what do you think would 
+be the best method to use fortaking a random sample of the data to use 
+for finding an estimate of the mean?
+Is the data discrete or continuous?
+Frequency histograms
+A frequency histogram is very similar to a bar chart. However, in a 
+histogram there are no spaces between the bars.
+Bar charts are useful for graphing qualitative data such as colour 
+preference, whereas histograms are used to graph quantitative data. 
+In frequency histograms, as in bar charts, the vertical axis represents 
+frequency.
+To draw a frequency histogram, you need to find the lower and upper 
+boundaries of the classes and draw the bars between these boundaries.
+International 
+mindedness
+What are the benefits of 
+sharing and analysing 
+data from different 
+countries?
+Example 9
+Belinda collected data on the time in seconds that the girls and boys in her year group took to 
+complete a 100 m run.
+The results are:
+**--------------------------------------------------------------------------------------------------------------- N
+Girls' times: 13.5, 13.8, 14.1, 14.3, 14.6, 14.7, 14.9, 15.2, 15.2, 15.3, 15.5, 15.5, 15.6, 15.7, 15.9,
+16.1, 16.1, 16.3, 16.3, 16.3, 16.4, 16.6, 16.7, 16.7, 16.9, 17.2, 17.2, 17.5, 17.6, 17.8, 17.8, 18.4,
+18.5, 18.9, 19, 
+20.1, 20,7, 21.4, 21.8, 22.5
+Boys'times: 11.5, 11.8, 12.1, 12.4, 12.4, 12.6, 13.1, 13.2, 13.2, 13.2, 13.5, 13.6, 13.7, 14, 
+14.1,
+Cv
+oo
+o\
+vO
+^1
+4*
+—
+r-'
+rr-, 
+t^. 
+^ vC
+O' 
+4^ 
+O'
+rq sc
+Tj* S6
+—
+< "t
+Tt 
+nC
+120
+
+a Complete the frequency table for this data.
+3.3
+O
+Time
+[tseconds]
+Frequency (girls)
+Frequency (boys)
+ll<t< 12
+12 </< 13
+13 < 
+14
+14</< IS
+15 < r < 16
+16 < r < l?
+17 < /< 18
+18 <t< 19
+19 <r< 20
+20 </ < 21
+21<r<22
+22 <t<23
+b Draw a frequency histogram for the girls and a frequency histogram for the boys to 
+represent this data.
+c The PE teacher was interested in comparing the times of the boys and the girls for the 
+100 m run. For both the girls and the boys, find the following information:
+Fastest time
+Lower quartile
+Median
+Upper quartile
+Slowest time
+Girls
+Boys
+Time
+[tseconds)
+Frequency (girls)
+Frequency (boys)
+11 < r< 12
+0
+2
+12 < r< 13
+0
+4
+13 </<14
+2
+8
+14< r< 15
+5
+10
+15 <r < 16
+8
+7
+16</ < 17
+10
+5
+17 < r< 18
+6
+3
+18 < < 19
+4
+0
+19 </< 20
+0
+0
+20<r<21
+2
+1
+21 < r< 22
+2
+0
+22</<23
+1
+0
+o
+Continued on next page
+121
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+11 12 13 14 15 16 17 18 19 20 21 22 23 
+Time (s)
+The x-axis will have to go from 11 
+to 23 at least.
+They-axis will have to go up as 
+far as 10 at least.
+Boys
+11 12 13 14 15 16 17 18 19 20 21 22 23 
+Time (s)
+Fastest
+time
+Lower
+quartile
+Median
+Upper
+quartile
+Slowest
+time
+Girls
+13.5
+15.4
+16.35
+17.8
+22.5
+Boys
+11.5
+13.35
+14.4
+1575
+20.5
+You can use the five values from the example to draw 
+a box-and-whisker plot to compare the data sets.
+Box-and-whisker plots are very convenient for com 
+paring sets of data. Here you can easily see that boys 
+have a faster time than girls for all five values. However, 
+the spread of data for girls and boys is fairly equal.
+You can also see that in both cases the data is not 
+symmetrical about the median. The data between the 
+median and the slowest time is more spread out than 
+the rest of the data.
+Girls
+r-ED
+-1---------- 1------------ 1----------- 1------------ 1------------ 1------------ 1------------ 1----------- 1-----------------1—
+4 
+6 
+8 
+10 
+12 
+14 
+16 
+18 20 
+22
+Time (s)
+24
+122
+
+\
+• 
+To draw a box-and-whisker plot you need five pieces of information, called 
+the five-number summary: the smallest value, the lower quartile (LQ), the 
+median, the upper quartile (UQ) and the largest value.
+• 
+An outlier is a value that is much smaller or much largerthan the other 
+values. An outlier is a point less than the LQ - 1.5 x IQR or greater than 
+the UQ+ 1.5 xIQR.
+Example 10
+Data on the shoe sizes of a group of students is shown in the table.
+Shoe size
+34
+36
+3?
+38
+39
+40
+41
+42
+49
+Females
+2
+2
+10
+8
+7
+3
+0
+0
+0
+Males
+0
+0
+3
+7
+12
+9
+3
+1
+1
+Draw a box-and-whisker plot for the females and for the males and compare the two plots.
+State whether the box plots are symmetrical.
+Comment on whether there are any outliers.
+Draw the box plots again showing any outliers clearly. Outliers are represented by crosses.
+The five-number summary for the females is 
+34, 37, 38, 39, 40.
+IQR = 39 - 37 = 2
+LQ - 1.3(2) = 37-3 = 34
+UQ + 1.5(2) =42
+So there are no outliers for the females.
+The five-number summary for the males is 
+37, 38, 39, 40, 49.
+IQR = 40- 38 = 2
+LQ - 1.5(2) = 35
+UQ + 1.5(2) =43
+So 49 is an outlier for the males.
+o
+Continued on next page
+123
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+The data for the females is more symmetrical 
+than the data for the males.
+Time (s)
+Investigation 9
+The weights, w kg, of 30 new-born babies in the Town hospital are:
+Town hospital 
+frequencies
+Weight (vv kg)
+Country hospital 
+frequencies
+1 < iv < 2
+2 < iv< 3
+3 < w<4
+4< iv< 5
+5 < iv < 6
+6 < iv < ?
+?<tv<8
+8 < w< 9
+9 < w< 10
+2 
+Draw a histogram to represent the data.
+3 
+Using the original data find the five-number summary for each hospital 
+and draw box-and-whisker plots. You use the original data because it will 
+give you exact answers and not approximations.
+4 Discuss whether you can tell whetherthere are any outliers from the 
+histogram.
+o
+124
+
+5 Compare the two box-and-whisker plots. Discuss whether either of them 
+is skewed.
+3.3
+O
+6 IJ.I.UM.HII How do box-and-whisker plots allow you to compare 
+data visually?
+? H.imumi How do you know which diagram to use to represent a 
+data set?
+\
+Interpreting a box-and-whisker plot:
+• 
+25% of values are between the smallest value and the LQ.
+• 
+25% of values are between the LQ and the median.
+• 
+25% of values are between the median and the UQ.
+• 
+25% of values are between the UQ and the largest value.
+Investigation 10
+The box-and-whisker plots show the weights, in kilograms, of 24 male poodles 
+(upper) and 24 female poodles (lower).
+Males
+Females
+-------------1 
+I 
+I’ 
+I------------- I------------- I------------- I------------- V 
+I------------- I------------- I 
+I
+15 
+17 
+19 
+21 
+23 
+25 
+27 
+29 
+31 
+33 
+35 
+37 
+39
+Weight (kg)
+1 
+Write down the median for both groups.
+2 
+Write down the IQR for both groups.
+3 
+Write down the percentage of female poodles that weigh less than 
+24 kg.
+4 
+Write down the percentage of male poodles that weigh between 26 and 
+30.5 kg.
+5
+6
+?
+Compare the two box plots and discuss the differences.
+Factual
+I Which measures of central tendency and dispersion can you 
+read from a box-and-whisker plot and from a histogram?
+Is it useful to have more than one way of representing a 
+univariate data set?
+TOK
+Can you justify using 
+statistics to mislead 
+others?
+How easy is it to be 
+misled by statistics?
+125
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+1 Theo threw a die 40 times. The numbers 
+that appeared were:
+Millie also threw a die 40 times and the 
+numbers that she threw are shown below.
+a Construct frequency tables for these two 
+sets of data.
+b Draw a histogram to represent each set 
+of data and compare the two histograms. 
+2 The number of goals scored in 25 female 
+hockey matches is as follows:
+The number of goals scored in 25 male 
+hockey matches is as follows:
+a Construct frequency tables for these two 
+sets of data.
+b Draw a histogram to represent each data 
+set and compare the two histograms.
+3 The heights, in cm, of 32 female gymnasts 
+were recorded:
+a Construct a grouped frequency table, 
+using groups of 5 cm.
+b Draw a histogram to represent this data, 
+c Draw a box-and-whisker plot to 
+represent the data.
+d State whether the data is symmetrical or 
+not. Give a reason for your answer.
+4 The times, in minutes, to complete 200 
+games of chess are shown in the table.
+a Draw a histogram to represent this data, 
+b Find the mean, median, LQ, UQ and 
+range and determine whether there are 
+any outliers.
+c Given that the quickest time was 26 
+minutes and the longest time was 84 
+minutes, draw a box-and-whisker plot to 
+represent this data.
+d Marcus took 45 minutes to complete his 
+game. Comment on whether you think 
+that he should be satisfied with this result.
+5 100 students were given 30 seconds to 
+memorize 10 objects. The results (number 
+of objects remembered) for the 50 boys and 
+50 girls are shown in the table.
+a Find the mean, median, LQ, UQ and 
+range for the boys and for the girls, and 
+determine whether there are any outliers, 
+b Draw box-and-whisker plots for the boys 
+and the girls, and compare the results, 
+c Comment on whether the data sets are 
+symmetrical.
+6556113454322245466 1 
+, 1 2 2 1 3 3 3 6 5 5 4 1 2 2 3 3 6 5 1 3 ;
+23316652441156342235
+1642231445166322 1 145 
+V_______________________ ________________________y
+Boys
+Score
+Girls
+0
+2
+1
+1
+3
+3
+3
+4
+6
+10
+5
+9
+18
+6
+12
+12
+2
+10
+3
+8
+5
+2
+9
+2
+1
+10
+2
+Time [x minutes]
+Frequency
+20 <x< 30
+36
+30 <x<40
+62
+40 <x< 50
+48
+50 <x< 60
+22
+60 <x< 20
+10
+20 <x< 80
+2
+80 <x"< 90
+5
+(
+\  
+n j
+\jj m-
+NJ O  
+O OJ
+o —
+—  NJ 
+Ol O',
+NJ NJ 
+CN 00 
+4^ 4^ 
+o ui
+f 
+\
+\JJ o
+•— UJ 
+VjJ H -
+4^
+NJ NJ 
+4^ JJ 
+NJ 4^ 
+ui O
+o o
+NJ U i 
+—  NJ 
+O
+V___
+126
+
+6 This data shows the time it took in minutes 
+for 35 students to complete a sudoku puzzle.
+a Find the mean, median, LQ, UQ and range 
+for this data and determine whether there 
+are any outliers.
+b Draw a box-and-whisker plot, 
+c If Jin took 16 minutes to complete the 
+sudoku puzzle, find the number of 
+students who took longer than him to 
+complete the puzzle.
+The box-and-whisker plot shows the results 
+from tossing a die 60 times.
+Numbers
+a Write down the median score, 
+b Find the interquartile range, 
+c Comment on whether the data is 
+symmetrical.
+The box-and-whisker plots show the scores 
+in a mathematics test for 60 boys (top) and 
+60 girls (bottom).
+Boys
+Girls
+0 
+10 
+20 30 40 50 60 70 80 90 100
+Marks
+a Write down the median score for the 
+boys and for the girls.
+b Find the interquartile range for the boys 
+and for the girls.
+c Write down the percentage of boys who 
+scored between 45 and 55. 
+d Write down the percentage of girls who 
+scored between 65 and 95. 
+e Find the number of boys who scored less 
+than 45.
+f Find the number of girls who scored 
+more than 50.
+g Comment on whether the data is 
+symmetrical.
+The box-and-whisker plot shows the 
+weights, in kilograms, of 40 pandas all of 
+the same gender.
+Weight (kg)
+a Write down the median weight, 
+b Write down the range, 
+c Find the number of pandas that weigh 
+less than 90 kg.
+d Write down the percentage of pandas 
+that weigh between 120 and 160 kg. 
+e Find the number of pandas that weigh 
+between 90 and 130 kg. 
+f If the average weight of a panda is about 
+120 kg, state what information you 
+can deduce from the 40 pandas in the 
+sample.
+Male pandas weigh, on average, between 
+80 kg and 140 kg, and females weigh, on 
+average, between 70 kg and 120 kg.
+g From the box plot, state the gender of 
+the pandas in the sample.
+12 ?
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+The cumulative frequency is the sum of all the frequencies up to a particular 
+value. To draw a cumulative frequency curve, you need to construct a 
+cumulative frequency table, with the upper boundary of each class interval 
+in one column and the corresponding cumulative frequency in another. Then 
+plot the upper class boundary on thex-axis and the cumulative frequency on 
+they-axis.
+Example 11
+The number of visitors, n, to Hailes Castle was noted 
+on 200 separate days of the year.
+a Explain how you can tell that there were fewer than 
+100 visitors on 54 of the days, 
+b Complete this table with the upper boundaries and 
+cumulative frequencies.
+c Draw a cumulative frequency curve for this data.
+d Use your cumulative frequency curve to find an estimate for the median, the lower 
+quartile and the upper quartile. (In other words, find the values on the x-axis 
+corresponding to 100, 50 and 150 on they-axis.)
+e Find an estimate for the 85th percentile.
+f If you are told that the lowest number of visitors was 25 and the highest number was 370, 
+draw a box-and-whisker plot to represent this data.
+g Determine whether there are any outliers.
+Upper boundary
+Cumulative frequency
+77 < 50
+16
+77 <100
+54
+>7 <150
+n <200
+77< 250
+77 < 300
+77 < 350
+77 <400
+Number of 
+visitors (/;)
+Frequency
+0</7<50
+16
+50 <77 <100
+38
+100 <77 <150
+50
+150 <77 <200
+36
+200 <77 <250
+32
+250 <77 <300
+19
+300 </7 <350
+6
+350 <77 <400
+3
+@
+a On 16 days there were 0 < n < 50 visitors and
+on 38 days there were 50 < 77 < 100 visitors, so
+in total there were fewer than 100 visitors on
+16 + 38 = 54 days.
+*o
+128
+
+Upper
+boundary
+Cumulative
+frequency
+n< 50
+16
+n< 100
+54
+n <150
+104
+;?<200
+140
+>7 <250
+122
+At < 300
+191
+tf<350
+192
+n < 400
+200
+Add 54 to 50 to get 104.
+Add 104 to 36 to get 140 
+and so on.
+The upper boundary is plotted 
+against the cumulative 
+frequency, and the points are 
+joined up with a smooth curve.
+r
+d Approximate values: 
+Median = 146
+To find the median, draw 
+a horizontal line from
+LQ = 95 
+UQ = 215
+200 x- 
+2
+on the y-axis to
+the curve.
+From where this line meets the 
+curve, draw a vertical line down 
+to the x-axis and read off the 
+answer.
+Similarly for the LQ
+200 x- 
+4
+and the UQ
+200 x- 
+4
+\
+/
+These are approximate values 
+because you are not told the 
+exact number of visitors each
+Continued on next page
+129
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+Approximately 247
+85% of 200= 170.
+Draw a horizontal line from 170 on 
+the y-axis until it meets the curve. 
+Draw a vertical line from that point to 
+the x-axis and read off the answer.
+g IQR = 215-95= 120 
+95 - 1.5 x 120 = -85 
+215 + 1.5 x 120 = 395 
+So there are no outliers.
+\
+To find any percentile, p%, you read the value on the curve corresponding to 
+/?% of the total frequency.
+Investigation 11
+This is the cumulative frequency curve of the weights of 100 male athletes.
+Frequency
+Weight (kg)
+International 
+mindedness
+Hans Rosling (1948 — 
+201?) was a professor 
+of international health 
+at Sweden’s Karolinska 
+Institute. He co-founded 
+the Swedish chapter 
+ofMedecinsSans 
+Frontieres, and was 
+able to clearly show the 
+importance of collecting 
+and analysing real data 
+in orderto understand 
+situations and plan for 
+the future.
+Factual I What do the horizontal lines at ?5, 50 and 25 on the vertical 
+axis represent?
+2 What percentage of the data values are below ?0 kg?
+o
+130
+
+3 
+If 90% of the athletes weigh more than x kg, how could you find the value of x?
+4 
+How accurate are the values you have found?
+5 I^CTh I How can you find out whether there are any outliers?
+6 ISM.UJ.UIUI How does the cumulative frequency curve allow you to
+analyse the data?
+1 The table shows the average times, in
+minutes, that 100 people waited for a train.
+Time [x minutes)
+Frequency
+0 <x< 2
+5
+2 <x< 4
+11
+4<x< 6
+23
+6 <x< 8
+31
+8 <x< 10
+19
+10 <x< 12
+8
+12 <x< 14
+3
+a Construct a cumulative frequency table 
+for this data.
+b Sketch the cumulative frequency curve, 
+c Use your graph to find estimates for the 
+median and interquartile range, 
+d Find the 10th percentile.
+The train company will refund the fare if 
+customers have to wait 11 minutes or more 
+for a train.
+e Determine how many customers can 
+claim for a refund of their fare.
+2 Nuria recorded the number of words in a 
+sentence in one chapter of her favourite 
+book. The results are shown in the table.
+Number of words (x)
+Frequency
+0 <x<4
+5
+4<x< 8
+32
+8 <x< 12
+41
+12 <x< 16
+28
+16 <x< 20
+22
+20 <x< 24
+12
+24<x< 28
+2
+28 <x< 32
+3
+a Construct a cumulative frequency 
+table for this data, 
+b Sketch the cumulative frequency curve, 
+c Use your graph to find estimates for the 
+median and interquartile range, 
+d Determine whether there are any outliers, 
+e Find the 90th percentile, 
+f The smallest sentence had 1 word and 
+the longest sentence had 31 words.
+Draw a box-and-whisker plot to 
+represent this data.
+g A children's book has, on average, 8 
+words in a sentence and an adult book 
+has, on average, 15 words in a sentence. 
+State the type of book you think Nuria is 
+reading, justifying your answer.
+3 A tourist attraction is open 350 days of the 
+year. The number of visitors each day for 
+the 350 days was recorded and the results 
+are shown in the table.
+Number of visitors [n]
+Frequency
+100 < w< 200
+24
+200 </?< 300
+36
+300</7<400
+68
+400 </7< 500
+95
+500 
+< 600
+23
+600 </7< 200
+38
+200</?<800
+16
+a Draw a suitable graph to represent this 
+data.
+b Use your graph or the data to find 
+estimates for the median and 
+interquartile range.
+c Determine whether or not there are any 
+outliers.
+131
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+20
+10
+100 200 300 400 500 600 700 
+Length (cm)
+The cumulative frequency curve shows the
+lengths, in cm, of 100 snakes in a zoo.
+a Write down estimates for the median, 
+the lower quartile and the upper 
+quartile.
+b The smallest snake is 9 cm long and the 
+longest is 650 cm long. Draw a box-and- 
+whisker plot to represent this data.
+c Construct a frequency table for the 
+lengths of the snakes.
+d Find estimates for the mean and standard 
+deviation of the lengths of the snakes.
+Using the cumulative frequency curve, 
+write down estimates for: 
+the median
+i the interquartile range
+ii the 90th percentile.
+Determine whether there are any 
+outliers.
+100 
+90 
+80
+d The smallest number of visitors was 185 
+and the largest number was 792. Draw 
+a box-and-whisker plot to represent this 
+data.
+If the number of tourists is fewer than 350 
+in a day, then the attraction loses revenue, 
+e Determine the number of days on which 
+the attraction loses revenue.
+4 The table shows the number of points 
+that 120 students received on their IB 
+diploma.
+Number of points (/?)
+Boys
+Girls
+21 <x< 24
+2
+1
+24<x<2 7
+8
+5
+27 <x< 30
+10
+8
+30 <x< 33
+15
+18
+33 <x< 36
+9
+12
+36 <x< 39
+8
+5
+39 <x<42
+4
+8
+42 <x< 45
+4
+3
+a Draw suitable graphs to represent this 
+data.
+b Use your graphs to compare the results 
+for the boys and the girls, 
+c Mary and Martin both score 29 points. 
+Compare their points with the other 
+students of their gender.
+-i—i—i—i—i—i—i—i—i—i—»
+20 40 60 80 100 120 140 160 180 200
+Cumulative frequency
+CO 
+-Ck 
+U1 
+O) 
+- J
+o  
+o  
+o  
+o  
+o
+Cumulative frequency
+cn
+132
+

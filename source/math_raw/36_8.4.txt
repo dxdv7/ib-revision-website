@@ -1,0 +1,1367 @@
+8.4 TheMest
+Maisy noticed that the sun shines more on one side of her garden 
+than the other. She wanted to know whether this had any effect on 
+the heights of the tulips on either side of the garden. She measured 
+20 tulips from each side of the garden. The data is shown in the table.
+1 How can Maisy compare the two sets of data?
+2 Discuss whether it would be fair to look at the mean values 
+only. If not, give a reason.
+3 Discuss whether you think that the spread of the data should 
+also be taken into consideration. Give a reason for your answer.
+4 Consider whether the two sets of data must be the same size or 
+not.
+The best way to compare these two sets of data is to use a Mest.
+William Gosset was employed by Guinness to improve the taste 
+and quality of their beer. In order to monitor the quality of the 
+hops that were used in the brewing process, he invented the 
+Mest. He published under the pen name "Student". Hence, it is 
+sometimes referred to as Student's /-test.
+The /-test is used for two data sets that are measuring the same 
+thing (like the tulips above), and only applies to normally 
+distributed data. There is a formula that is used to calculate it, but 
+you won't need to use it as your GDC will do the work for you.
+First of all, you need to set up your null and alternative 
+hypotheses.
+The null hypothesis is that the two means, 3c and xr are equal:
+Length, in 
+cm, of tulips 
+on right side
+Length, in 
+cm, of tulips 
+on leftside
+21
+24
+21
+25
+26
+25
+25
+26
+28
+32
+24
+29
+22
+31
+22
+22
+29
+26
+28
+28
+28
+22
+2?
+22
+21
+28
+23
+28
+24
+30
+24
+31
+22
+29
+26
+28
+26
+28
+25
+32
+The alternative hypothesis is that the two means are not equal. For 
+a two-tailed test this just means checking that x] * xr For a one-tailed 
+test, it means checking either that 3c is less than x2 or that it is greater 
+than xr
+For a two-tailed test, H^ xx *x2
+For a one-tailed test, : x{ > x2 or ^ < x2
+For Maisy's tulips, the null and alternative hypotheses would be:
+Hq: The mean of the tulips on the right side is the same as the mean of 
+the tulips on the left side.
+H(: The mean of the tulips on the right side is not the same as the 
+mean of the tulips on the left side.
+Using your GDC you will be able to find the /-statistic and the /?-value. 
+To do the /-test with your GDC, put your data into two lists. Go to 
+Statistics, Tests, 2-sample / Test, data (input), choose the correct 
+alternative hypothesis, pooled (yes), enter. You will see the /-value and 
+the p-value. However, in examinations you will only use the /7-value.
+402
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+Once you have found the p-value, you can compare it with the 
+significance level just like you did in the x2 test.
+If the /rvalue is greater than the significance level then you accept the 
+null hypothesis; if it is smaller, then you do not accept the null hypothesis.
+The /-test is mainly conducted at the 5% significance level though, like 
+the x1 ^st, it can also be conducted at the 1% or 10% significance levels.
+The /-value is -3.07 and the /7-value is 0.003 92.
+0.003 92 < 0.05, so the null hypothesis is rejected: there is a difference 
+in the heights of the tulips on either side of the garden.
+Example ?
+Mr Arthur gives his two chemistry groups the same test. He wants to 
+find out whether there is any difference between the achievement levels of 
+the two groups.
+The results are:
+Group 1
+54
+62
+62
+43
+85
+69
+23
+81
+42
+92
+55
+59
+68
+22
+Group 2
+23
+62
+58
+46
+91
+48
+82
+81
+62
+24
+52
+66
+a Write down the null and alternative hypotheses, 
+b Find the /-value and /7-value for a /-test at the 5% significance level, 
+c Write down the conclusion to the lest.
+a Hq: x { = x2 (there is no difference
+between the grades in Group 1 and the 
+grades in Group 2)
+Hp x, *x2 (there is a difference between 
+the grades in Group 1 and the grades in 
+Group 2)
+b /-value =-0.235,/7-value = 0.816
+c 0.816 > 0.05, so you accept the null 
+hypothesis: there is no significant 
+difference between the two groups.
+Notice that the two groups do not need to 
+be the same size.
+This will be a two-tailed test as you want to 
+know whether Group 1 is better or worse 
+than Group 2.
+Example 8
+An oil company claims to have developed a fuel that will increase the 
+distance travelled for every litre of fuel.
+Ten scooters are filled with one litre of normal fuel and ten scooters 
+are filled with one litre of the new fuel. The distances, in km, 
+travelled on the one litre by each scooter are as follows:
+Original fuel
+36
+38
+44
+42
+45
+39
+48
+51
+38
+43
+New fuel
+43
+39
+51
+49
+53
+48
+52
+46
+53
+49
+408
+
+a Write down the null and alternative hypotheses, 
+b Find the /-value and /7-value for a /-test at the 5% significance level, 
+c Write down the conclusion to the test.
+a Hq: x x =x 2 (there is no difference
+between the distance travelled with the 
+original and new fuels)
+Uy x} <x2 (the distance travelled with 
+the original fuel is less than the distance 
+travelled with the new fuel) 
+b /-value = -2.83, /7-value = 0.005 61 
+c 0.005 61 < 0.05, so you do not accept the 
+null hypothesis: the company's claim is 
+correct.
+Note that this is a one-tailed test as you are 
+only considering that the distance travelled 
+with the original fuel is less than the 
+distance travelled with the new fuel.
+Reflect
+How do we test for validity with statistical inferences?
+TOK
+What counts as understanding 
+in mathematics?
+1 Petra noticed that one of her apple trees 
+grew in the shade and the others did not. 
+She wanted to find out whether apples from 
+the tree in the shade weighed less than 
+those in the sun. She picked nine apples 
+from each tree and weighed them in grams.
+Tree in
+shade
+?5
+82
+93 ??
+85 78
+91
+83
+92
+Tree not
+in shade
+?4
+81
+95 79
+95
+82
+93
+88 90
+a Write down the null and alternative 
+hypotheses.
+b State whether this a one-tailed test or a 
+two-tailed test.
+c Find the /-value and /7-value for a /-test 
+at the 10% significance level, 
+d Write down the conclusion to the test.
+2 Fergus heard that babies born in the 
+country weigh more than babies born in 
+the town. He contacted two mid wives, one 
+who delivered babies in the country and 
+one who delivered babies in the town, and 
+asked them for the weights, in kg, of the 
+babies that they had delivered during the 
+previous week.
+Country
+babies
+2.8
+3.2
+2.2
+3.5
+3.0
+2.9
+4.1
+3.9
+Town
+babies
+3.1
+3.5
+2.8 3.7
+4.2
+2.6
+3.2
+2.9
+3.8
+a Write down the null and alternative 
+hypotheses.
+b State whether this a one-tailed test or a 
+two-tailed test.
+c Find the /-value and /7-value for a /-test 
+at the 10% significance level, 
+d Write down the conclusion to the test.
+3 Jocasta picked some runner beans from two 
+different plants and measured them, in cm. 
+She wanted to find out whether there was 
+any difference in the lengths of the beans 
+from the two plants.
+Length of 
+beans on 
+plant 1
+19 23 21 25 24 18 25 18 24 16
+Length of 
+beans on 
+plant 2
+27 24 25 28 25 27 24 26 22 23
+409
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+a Write down the null and alternative 
+hypotheses.
+b State whether this a one-tailed test or a 
+two-tailed test.
+c Find the /-value and p-value for a /-test 
+at the 5% significance level, 
+d Write down the conclusion to the test.
+4 The lifetimes of two different types of 
+light bulb were tested to find out whether 
+one was better than the other or not. The 
+numbers of hours are listed in the table.
+Bulb
+1
+1236 1350 1489 2052 1986 1825 2134 1985
+Bulb
+2
+1562 1432 1262 2145 1829 1982 1629 1265
+a Write down the null and alternative
+hypotheses.
+b State whether this a one-tailed test or a 
+two-tailed test.
+c Find the /-value and p-value for a /-test 
+at the 5% significance level, 
+d Write down the conclusion to the test.
+5 The weights, in kg, of the 11 -year-old boys 
+and girls in Grade 6 were recorded to find out 
+whether the boys weighed less than the girls.
+Boys’weights
+Girls’ weights
+33
+35
+32
+39
+35
+43
+36
+45
+41
+39
+32
+44
+38
+38
+34
+32
+36
+31
+a Write down the null and alternative 
+hypotheses.
+b State whether this a one-tailed test or a 
+two-tailed test.
+c Find the /-value and /?-value for a /-test 
+at the 5% significance level, 
+d Write down the conclusion to the test.
+6 A pharmaceutical company claims to have 
+invented a new remedy for weight loss. It 
+claims that people using this remedy will 
+lose more weight than people not using the 
+remedy. A total of 20 people are weighed 
+and tested. Ten people are given the new 
+remedy and the other ten are given a 
+placebo. After two months the people are 
+weighed again and any weight loss, in kg, is 
+noted in the table below.
+New
+remedy
+1.2 2.4 1.6 3.5 3.2 4.6 2.5 0.8 1.2 3.9
+Placebo 0.6 0.0 1.0 1.3 2.1 0.2 1.9 2.4 0.3 1.0
+a Write down the null and alternative 
+hypotheses.
+b State whether this a one-tailed test or a 
+two-tailed test.
+c Find the /-value and p-value for a /-test 
+at the 1% significance level, 
+d Write down the conclusion to the test.
+7 The lengths, in cm, of sweetcorn cobs in 
+fields on either side of a main road are 
+measured to find out whether there is any 
+difference between them.
+Field 1
+12
+18
+15
+21
+22
+24
+19
+23
+25
+Field 2
+19
+21
+23
+16
+18
+22
+23
+16
+19
+a Write down the null and alternative 
+hypotheses.
+b State whether this a one-tailed test or a 
+two-tailed test.
+c Find the /-value and p-value for a /-test 
+at the 10% significance level, 
+d Write down the conclusion to the test.
+Developing inquiry skills
+It has already been confirmed that the trees in the opening problem are 
+normally distributed, so you can perform a /-test on the data.
+410
+
+o State your null and alternative hypotheses.
+Write down whether this a one-tailed test or a two-tailed test.
+Perform a Mest at the 5% significance level. 
+Write down the conclusion to the test.
+Chapter summary
+• The product moment correlation coefficient of the ranks of a set of data is called Spearman’s 
+rank correlation coefficient. The IB notation is r .s
+• A value of 1 means the set of data is strictly increasing and a value of-1 means it is strictly decreasing. 
+A value of 0 means the data shows no monotonic behaviour.
+• The advantages of Spearman’s over the PMCC are: 
+d It can be used on data that is not linear.
+:> It can be used on data that has been ranked even if the original data is unknown or cannot be 
+quantified.
+3 It is not greatly affected by outliers.
+• &x2 test f°r independence can be performed to find out whether two data sets are independent of 
+each other or not. It can be performed at various significance levels. In the examination it will only 
+be tested at the 1%, 5% or 10% significance level.
+• The number of degrees of freedom is v= (rows - 1) (columns - 1).
+• Expected values must be greater than 5. If there are expected values less than 5 then you will 
+need to combine rows or columns.
+• The formula for the X2 test is X2 = 
+expected values.
+• If the /J-value is greater than the significance level (0.01, 0.05 or 0.10) then you accept the null 
+hypothesis; if it is less than the significance level then you do not accept the null hypothesis.
+• If the x2 test statistic is less than the critical value then you accept the null hypothesis; if it is 
+greater than the critical value then you do not accept the null hypothesis.
+• In a x2 goodness of fit test, v= (n - 1).
+• The Mest is used for two data sets that are measuring the same thing, and only applies to 
+normally distributed data.
+zLL
+4 u
+whereare the observed values and/e are the
+Developing inquiry skills
+Thinking about the opening problem:
+• Discuss how what you have learned in this chapter has helped you to 
+answerthe questions.
+• 
+Discuss how you decided whetherthe data was biased or not.
+• Write down which statistical tests you were able to use from this chapter.
+• 
+State what claims you can make about the trees.
+• 
+Discuss what information you managed to find.
+Continued on next page
+411
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+• 
+Discuss what assumptions you made.
+• 
+Comment on any other things that you wondered about.
+Thinking about the inquiry questions from the beginning of this chapter:
+• 
+Discuss whether what you have learned in this chapter has helped 
+you to think about an answer to these questions.
+• 
+Consider whetherthere are any that you are interested in and would 
+like to explore further, perhaps for your internal assessment topic.
+Chapter review
+Click here fora mixed 
+review exercise
+1 Prabu took a note of the heights of 12 
+of her classmates and timed how many 
+seconds it took them to run the 100-metre 
+dash. Her data is shown in the table.
+Height, cm
+Time, s
+151
+1 P.5
+153
+18
+153
+16.5
+154
+16
+155
+15.4
+159
+13.2
+162
+14
+164
+13.2
+164
+13.2
+168
+12.5
+IPS
+12
+181
+12
+a Calculate Spearman's rank correlation 
+coefficient (r ) for this data.
+' s'
+b Interpret the value of rs and comment 
+on its validity.
+2 Ibrahim belongs to a tennis club. He watched 
+a match played by each of the top eight 
+tennis players and recorded the number of 
+aces that they hit. The results are:
+Tennis rank
+1
+2
+3
+4
+5
+6
+7
+8
+Number of aces
+10
+7
+4
+6
+5
+5
+3
+1
+a Explain why it might not be appropriate 
+to use the PMCC in this case.
+b Calculate Spearman's rank correlation 
+coefficient (r ) for this data.
+c Interpret the value of rs and comment 
+on its validity.
+3 The colours of the eggs laid by three 
+different types of hens were recorded.
+Hen
+Leghorn
+Brahma
+Sussex
+White eggs
+5
+23
+14
+Brown eggs
+25
+7
+16
+Phoebe was interested to find out whether 
+the colour of the eggs was independent of 
+the type of hen. She decided to perform a x2 
+test at the 5% significance level on her data.
+a Write down the null and alternative 
+hypotheses.
+b Show that the expected value of a 
+Leghorn laying a white egg is 14.
+c Write down the number of degrees of 
+freedom.
+d Find the x2 test statistic and the /rvalue.
+e The critical value is 5.991. State the 
+conclusion for this test.
+4 Bert wanted to find out whether there 
+was any relationship between gender and 
+favourite colour of car. He collected data 
+from 100 people and performed a x2 test at 
+the 10% significance level.
+Colour
+Black
+White
+Red
+Silver
+Male
+15
+6
+18
+9
+Female
+16
+14
+7
+15
+a Write down the null and alternative 
+hypotheses.
+b Show that the expected number of 
+males whose favourite colour of car is 
+white is 9.6.
+412
+
+c Write down the number of degrees of 
+freedom.
+d Find the x2 tesl statistic and the p-value.
+e The critical value is 6.251; state the 
+conclusion for this test.
+5 Each of the 140 members of a running 
+club trains once a week in order to run 
+a half-marathon. The number who train 
+each day is shown in the table.
+Day
+Sun
+Mon
+Tue
+Wed Thu
+Fri
+Sat
+Observed
+frequencies
+21
+15
+17
+18
+16
+21
+32
+a If the members are free to run on any 
+day of the week, write down the table 
+of expected values.
+b Write down the number of degrees of 
+freedom.
+The critical value is 12.592.
+c Determine the results of a goodness of 
+fit test at the 5% significance level to 
+find out whether the data fits a uniform 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+6 Benny tosses a fair die 90 times. The 
+results arc:
+Number on die
+1
+2
+3
+4
+5
+6
+Frequency
+13
+15
+17
+16
+14
+15
+a Find the expected frequencies, 
+b Write down the number of degrees of 
+freedom.
+The critical value is 15.086.
+c Determine the results of a goodness of fit 
+test at the 1% significance level to find 
+out whether Benny's data fits a uniform 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+7 Marilu tosses two unbiased coins 60 times. 
+The number of tails that she gets is shown 
+in the table.
+Number of tails
+0
+1
+2
+Frequency
+12
+34
+14
+a Show that the expected frequency for 
+getting 0 tails is 15.
+b Find the table of expected frequencies.
+c State whether there are any expected 
+values less than 5.
+d Write down the number of degrees of 
+freedom.
+e Determine the results of a goodness of 
+fit test at the 5% significance level to 
+find out whether the data fits a binomial 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+The critical value for this test is 5.991.
+f State the conclusion for the test and 
+give a reason for your answer.
+8 The heights of 14-year-old girls are 
+normally distributed with a mean of 
+158 cm and standard deviation of 4 cm. 
+Giorgio measures 500 14-year-old girls and 
+his results are shown in the table.
+Height,
+xcm
+x<
+152
+152 <x 
+<156
+156 <x 
+<160
+160 <x 
+<164
+x>
+164
+Frequency
+12
+133
+201
+109
+45
+a Find the table of expected frequencies.
+b State whether there are any expected 
+values less than 5.
+c Write down the degrees of freedom.
+d Determine the results of a goodness of 
+fit test at the 10% significance level to 
+find out whether the data fits a normal 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+The critical value for this test is 7.779.
+e State the conclusion for the test and 
+give a reason for your answer.
+9 Mrs Nelson gave her two Grade 12 classes 
+the same history test. She wanted to find 
+out whether one class was better than the 
+other or not. The results of the test are:
+Class
+1
+29 63 42 88 95 52 23 61 82 26 51 48
+Class
+2
+65
+28 85 49 59 91 68 24 82 56
+a Write down the null and alternative
+hypotheses.
+b State whether this a one-tailed test or a 
+two-tailed test.
+c Find the /-value and /rvalue for a /-test 
+at the 5% significance level.
+d Write down the conclusion to the test.
+413
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+Exam-style questions
+10 PI: The head-teacher of Green High School 
+h wished to advertise that the [B results 
+obtained from her students were better 
+than those from the nearby Amber 
+Academy. She examined the previous 
+year's results and chose 12 students 
+from the Academy and 12 students from 
+her High School. She then tabulated the 
+IB results for these students as follows.
+Amber
+Academy
+Green HS
+31
+42
+45
+26
+43
+35
+39
+40
+31
+40
+43
+35
+40
+30
+36 41
+39
+41
+3?
+42
+36 44 40 41
+a Write down the null and alternative 
+hypotheses. 
+(2 marks)
+b State whether this a one-tailed test or 
+a two-tailed test. 
+(1 mark)
+c Perform a /-test at the 5%
+significance level. 
+(3 marks)
+d Write down the conclusion to the 
+test. 
+(2 marks)
+11 PI: A sample of ten 11-year-old students, 
+h and ten 16-year-old students were each 
+given a questionnaire to determine how 
+many books each of them had read in 
+the previous year. The aim was to find 
+out whether older students generally 
+read fewer books than younger 
+students. The results obtained were 
+summarized as follows.
+11 year 
+olds
+18
+10
+3
+15
+12
+14
+15
+4
+20
+8
+16 year 
+olds
+6
+2
+14
+5
+14
+12
+3
+9
+4
+2
+a Write down the null and alternative 
+hypotheses. 
+(2 marks)
+b Perform a /-test at the 5%
+significance level. 
+(3 marks)
+c Write down the conclusion to the 
+test. 
+(2 marks)
+12 PI: Two types of mobile phones were 
+h analysed to see whether there was a 
+difference in their respective battery 
+longevity. The phones were charged 
+to full, then used normally until their 
+batteries reduced to zero. The times taken 
+(in seconds) for the batteries to discharge 
+are shown in the following table.
+Mobile 1
+1250
+1010
+1500
+1350
+1310
+1400
+900
+1550
+Mobile 2
+850
+200
+1130
+1330
+990
+1440
+880
+1100
+a Write down the null and alternative 
+hypotheses. 
+(2 marks)
+b Perform a /-test at the 10%
+significance level. 
+(3 marks)
+c 
+Write down the conclusion to the
+test. 
+(2 marks)
+13 PI: Eight people of varying ages undertook 
+2m a small test to see whether there was 
+any correlation between age and 
+reaction times (given in seconds).
+The following table shows each of their 
+results.
+Age
+32
+24
+85
+11
+43
+66
+18
+21
+Reaction
+time
+0.35 0.20 0.20 0.30 0.25 0.45 0.15 0.20
+a Write down a table of ranks for this 
+data. 
+(3 marks)
+b Calculate Spearman's rank
+correlation for this data. (2 marks) 
+c Briefly state what this result tells you.
+(2 marks)
+d If the experiment were to be repeated, 
+suggest two steps that could be taken 
+to ensure the ensuing results were of 
+greater validity. 
+(2 marks)
+14 PI: Neeve conducts a test to determine 
+h whether there is any correlation between 
+a person's age and the number of hours 
+they spend watching television per week.
+Age
+8
+42
+12
+81
+45
+14
+39
+42
+31
+40
+28
+24
+No. of
+hours
+20
+15
+30
+2
+25
+28
+19
+14
+16
+21
+26
+20
+a Write down a table of ranks for this 
+data. 
+(3 marks)
+b Calculate Spearman's rank
+correlation. 
+(2 marks)
+c Neeve concludes that your age affects
+how much TV per week you tend 
+to watch. Using your calculations, 
+comment on whether or not Neeve 
+is correct. Suggest what conclusions 
+you are able to make from your 
+calculations. 
+(3 marks)
+414
+
+15 PI: The following diagrams illustrate the relationships between six different sets of variables. 
+h In each case, match the diagram to the correct PMCC and Spearman's rank descriptions.
+(6 marks)
+Diagram
+Description
+A
+1 PMCC = 0.8, Spearman = 1
+B
+2 PMCC = 1, Spearman = 1
+C
+D
+3 PMCC = -1, Spearman = -1
+4 PMCC = -0.8, Spearman = - I
+5 PMCC = 0, Spearman = 0
+415
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+F
+6 PMCC = 0.05, Spearman = 0.05
+16 PI: A survey of 300 people of different ages 
+h was undertaken in which they were 
+asked which type of burger they 
+preferred to eat. A summary of the 
+results is given in the table below.
+Chicken
+Beef
+Vegetarian
+Totals
+11-18
+years
+10
+14
+21
+45
+19-30
+years
+18
+8
+34
+60
+30-50
+years
+12
+12
+16
+40
+50+
+years
+14
+8
+8
+30
+Totals
+54
+42
+P9
+1P5
+Using the x2 test, at the 5% significance level, 
+work through parts a-d to determine whether 
+type of burger favoured is independent of age. 
+The critical value for the test is 12.59.
+a State the null hypothesis and the 
+alternative hypothesis. (2 marks) 
+b Find the number of degrees of
+freedom. 
+(1 mark)
+c Calculate the x2 test statistic and the 
+p-value for this data. 
+(3 marks)
+d State any conclusions obtained,
+justifying your answer. (2 marks) 
+IP P2: A survey was performed in a particular 
+Li country in order to determine whether 
+there was any evidence to support the 
+claim that smoking is dependent on age. 
+A summary of the results is given in the 
+table below.
+Smoker
+Non-smoker
+Totals
+16-25 years
+31
+59
+90
+26-60 years
+19
+99
+118
+Totals
+50
+158
+208
+416
+a Copy and complete the table showing 
+the expected frequencies.
+Smoker
+Non-smoker
+Totals
+16-25 years
+90
+26-60 years
+118
+Totals
+50
+158
+208
+(3 marks)
+b Using the x2 test with the assistance 
+of technology, test at the 1% 
+significance level, whether smoking is 
+independent of age.
+You should state your null and 
+alternative hypotheses and draw 
+conclusions based on the evidence 
+obtained. The critical value for the 
+test is 6.64. 
+(7 marks)
+18 PI: A survey of 266 people was conducted 
+b to determine whether there was any 
+connection between an individual's 
+gender and the type of movie they 
+prefer. A summary of the results is given 
+in the table below.
+Thriller
+Romantic Historical Horror Comedy
+Totals
+Male
+68
+23
+11
+36
+36
+124
+Female
+32
+24
+11
+14
+12
+93
+Totals
+100
+42
+22
+50
+48
+266
+Using the x2 test, at the 5% significance 
+level, work through parts a-d to determine 
+whether movie preference is independent 
+of gender. The critical value for the test 
+is 9.49.
+a State the null hypothesis and the 
+alternative hypothesis. (2 marks)
+b Find the number of degrees of
+freedom. 
+(1 mark)
+c Calculate the x2 test statistic and the 
+/7-value for this data. 
+(3 marks)
+d State any conclusions obtained,
+justifying your answer. (2 marks)
+
+19 PI: Max tosses four coins a total of 80 times.
+■™ The following table shows the
+distribution of the number of heads 
+obtained in each toss of four coins.
+Number of
+heads
+0
+1
+2
+3
+4
+Frequency
+10
+24
+26
+1?
+3
+a Using the binomial distribution B(4, 
+0.5), find the expected probabilities 
+of obtaining 0, 1, 2, 3 or 4 heads 
+respectively. 
+(2 marks)
+b Perform a goodness of fit test at the 5% 
+significance level to find out whether 
+the data fits a binomial distribution. You 
+should state the null and alternative 
+hypotheses and justify any conclusions 
+found. The critical value for this test 
+is 9.49. 
+(7 marks)
+20 P2:264 of the best mathematics students 
+h from Slovakia were invited to take part 
+in a national mathematics competition. 
+After their papers were marked, each 
+student was awarded a mark out of 
+100. The following table shows the final 
+results.
+Mark obtained
+Frequency
+0 < x < 20
+1
+20 < x < 40
+10
+40 < x < 60
+114
+60 < x < 80
+105
+80 <x< 100
+34
+In the previous year's competition, the 
+data followed a normal distribution, with 
+mean 62 and standard deviation 16.
+a Copy and complete the following 
+table of expected marks.
+Mark
+obtained
+Probability
+Expected
+frequency
+0 < x < 20
+20 < x < 40
+40 <x< 60
+60 < x < 80
+80 <x< 100
+(3 marks)
+b Use the x2 distribution at the 5% 
+level of significance to test the 
+hypothesis that the same distribution 
+holds this year.
+You should state the null and 
+alternative hypotheses and re-write 
+your frequency table if any values are 
+found to be less than 5.
+You should justify any conclusions 
+found. 
+(11 marks)
+The correct critical value may be selected 
+from the following table, where X2(5o/o) is
+the value such that P(Ar > X2(5%)) = 0.05.
+Degrees of freedom
+*2(S%]
+1
+3.84
+2
+5.99
+3
+2.82
+4
+9.49
+5
+11.07
+417
+Statistics and 
+probability
+
+Modelling and investigation activity
+Rank my maths!
+The task
+In this task you will be designing an experiment that 
+will compare the rankings given by different students in 
+your class to determine how similar they are and what 
+agreement there is
+Approaches to learning: Collaboration, 
+Communication
+Exploration criteria: Personal engagement (C), 
+Use of mathematics (E)
+IB topic: Spearman’s rank
+The experiment
+Select one student in your group to be the experimenter. The other 
+students in your group will be the subject of the experiment.
+The experimenter is going to determine whether there is any similarity 
+between the tastes of the other students in their group by asking them to 
+rank a set of selections from the least to the most favourite.
+Would you expect the rankings of the students in your group to be 
+the same, similar or completely different?
+What would help you to predict who might have similar tastes (where 
+the strongest correlation would be)?
+Under what circumstances might the rankings be similar and under 
+what circumstances might they be different?
+In your group, discuss:
+What could you use the Spearman's rank method to test?
+418
+
+     
+it it it ft ftt
+it it ft ft ft { 
+it ft ft ft 
+ft ft ft ft ft
+The experimenter should prepare their own set of selections for the other 
+members of the group to compare in the area they have chosen to investigate. 
+They should make a prediction about how strong they think the rank correlation 
+will be between the other students with regards to the experiment they are doing. 
+The experimenter will give their set of selections to the group.
+The other students will rank the set of selections from favourite (1) to least 
+favourite (ft), where n is the number of selections.
+What does the experimenter need to be aware of when providing instructions? 
+The experimenter should record the rankings in a table.
+The students who are doing the ranking should not collaborate or 
+communicate with each other.
+Why is this important?
+The results
+Now find the Spearman rank correlation between the students.
+Do the students display strong correlations?
+Are the results what were expected?
+Discuss as a group why the original hypothesis may have been accurate or 
+inaccurate.
+Write a conclusion for the experiment based on the 
+results you have found.
+You may wish to consider what Spearman's rank 
+value would mathematically be considered to be high.
+It is possible to test the significance of a relationship 
+between the two rankings.
+Extension
+Investigate hypothesis testing for a Spearman's 
+rank value.
+419
+Modelling and investigation activity
+
+• • *- n %
+How can you find the price of a car 
+given that the price varies inversely 
+with the age of the car?
+What is the maximum volume of a 
+box made from a piece of card with 
+squares cut from each corner?
+How can you predict where a javelin 
+will land? How can you find out when 
+its speed is fastest?
+Modelling relationships with 
+functions: power functions
+If you are trying to use mathematics to model 
+the path of a javelin, the shape of a bridge or the 
+maximum volume of a container, for example, 
+then you will need to study equations of curves. 
+This chapter looks at ways of modelling real-life 
+scenarios with curves and fitting equations to 
+these curves, in order to predict the height of the 
+curve (telling you, for example, the height of the 
+javelin below) and the distance spanned by a curve 
+(telling you the distance the javelin travels).
+Concepts
+■ Relationships
+■ Modelling
+Microconcepts
+■ Domain and range of a function
+■ Features of a parabola: symmetry, vertex, 
+intercepts, equation of axis of symmetry
+■ Forms of a quadratic: general form and 
+intercept form
+■ Messy data
+■ Cubic graphs and power functions
+■ Points of intersection
+■ Direct and inverse variation
+■ Optimization problems
+How long does it take an object 
+to fall, given that the distance 
+varies directly with the square 
+of the time taken?
+420
+
+Oliver is practising his basketball skills. 
+What shape is the path of the ball?
+Sketch a path for the ball from Oliver's 
+hands to the basketball hoop.
+Sketch a path for the ball from Oliver's 
+hands to the hoop when he is standing 
+o further away from the hoop 
+closer to the hoop.
+What do you notice about the shape of 
+the ball's path when Oliver is standing in 
+each position? What changes and what 
+is the same?
+• How can you model the path of a 
+basketball from Oliver's hands to the 
+hoop from any point on the court?
+• How can the model help you to 
+predict whether a ball will go into 
+the hoop or not?
+> What information do you need to 
+build this model?
+> What assumptions would you 
+need to make in your model?
+• How can you find the maximum 
+height that the ball reaches? Will 
+this height always be the same?
+Developing inquiry skills
+Write down any similar inquiry questions you might ask in 
+orderto model the path of something in a different sport; 
+for example, determining where an archer’s arrow will land, 
+deciding whether a tennis ball will land within the baseline 
+or considering whether a high-jumper will passoverthe bar 
+successfully.
+What questions might you need to ask in these scenarios 
+which differ from the scenario where Kazuki is playing 
+basketball?
+Think about the questions in this opening problem and 
+answer any you can. As you work through the chapter, 
+you will gain mathematical knowledge and skills that will 
+help you to answerthem all.
+i 
+if
+(-----------------------7SZ
+You should know how to:
+Skills check
+LUCK here TOr help 
+with this skills check
+1 Expand brackets:
+1 Expand 
+a (2x+3)(x-4)
+eg (x+ 3)(x- 2) = x2 + x- 6
+b (7x-5)(2x+3)
+2 Factorize an expression:
+2 Factorize a 2x2 + 5x + 2
+eg 3x2 - 1 lx - 4 = (3x + 1) (x - 4)
+b 5x2 + 13x — 6
+3 Substitute coordinates into an equation:
+3 a If y- 2x2 - 3x + c,
+eg If y = 2x2 + 4x + c, find the value of c at
+find the value of c at the point (2, -1).
+the point (1,3). Substitute (1,3) into
+b If y = 5x2 + x + ct
+y = 2x2 + 4x + c
+find the value of c at the point (1,-5).
+3 = 2(1)2 + 4(1 )+c
+OJ
+1
+to
+1
+4»
+II
+-3 = c
+421
+

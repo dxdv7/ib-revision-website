@@ -1,0 +1,654 @@
+6.1
+6.1 Measuring correlation
+A functional relationship exists between variables when there 
+is a formula (or function) that relates one variable to the other, so 
+that all the data points lie on the same line or curve (the graph of 
+the formula).
+A statistical relationship means that there is not such a direct relation 
+ship, but the data points, when plotted, may indicate a tendency to be 
+close to some line or curve.
+Investigation 1
+1 In each of the following situations, investigate whether there is a 
+functional relationship or a statistical relationship between the pair of 
+variables.
+International 
+mindedness
+In 1956, Australian 
+statistician, Oliver 
+Lancaster made the 
+first convincing case 
+for a link between 
+exposure to sunlight 
+and skin cancer 
+using statistical tools 
+including correlation 
+and regression.
+a The gross domestic product (GDP) and the literacy rate in a country 
+over a period often years.
+b The electricity consumed in a house and the cost of the electricity bill 
+for the month of February.
+c The number of electrical appliances in a house and the cost of the 
+electricity bill for a particular month.
+d The number of matches won in a football league and the number of 
+points accumulated.
+e The number of matches played in a football league and number of 
+points accumulated.
+f The side length of a square and area of the square.
+2 
+a Write down two examples of a pair of variables that have a functional
+relationship.
+b Write down two examples of a pair of variables that have a statistical 
+relationship.
+3 
+For each of the situations given in part 1, if you were to plot a set of 
+data points in a scatter graph, how would you expect the data points to 
+be positioned if there was a functional relationship? And if there was a 
+statistical relationship?
+4 n.imuiMi How can real-life situations be modelled?
+Reflect
+How is correlation different from a functional relationship?
+HINT
+Remember from 
+Chapter 3 that 
+correlation can be 
+classified in terms of 
+its direction (positive 
+or negative) and its 
+strength (zero, weak, 
+moderate or strong).
+It is possible to classify a correlation in terms of the form shown by the 
+points in a scatter graph. If the data points all lie close to a line, then 
+the correlation is said to be linear. 
+y
+This is an example of linear correlation. It might, for 
+example, represent the relationship between the ages 
+of the runners in a race and their times for the race.
+2G5
+X
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+This is an example of non-linear correlation. It y 
+might, for example, show the number of germ 
+cells in a dish in a laboratory as time passes.
+X
+If the data points all lie on a straight line, then y 
+the correlation is said to be a perfect linear
+correlation. 
+. 
+• 
+•
+This is an example of a perfect linear correlation. 
+• 
+#
+In perfect correlation, the data points lie on the -I---------------------------------------- ► x
+graph of a function or their coordinates are linked 
+through a formula.
+This is an example of perfect non-linear 
+yt 
+• • •
+correlation. It might, for example, show the 
+/ 
+*#
+relationship between horizontal distance and 
+• 
+•
+height when a ball is thrown in the air. 
+# 
+#
+X
+Reflect
+What is perfect correlation?
+What is perfect linear correlation?
+How does a scatter graph tell you the type of correlation?
+1 For each of the situations described in 
+b y
+Investigation 1 part 1, state whether there is:
+i correlation
+ii linear correlation.
+2 For each diagram, state (if possible) the
+direction (positive/negative), form (linear/ 
+non-linear) and strength (strong/moderate/ 
+weak/zero) of the relationship. 
+c y
+a y *
+266
+
+6.1
+d '
+f y
+X
+e y
+g y
+X
+• •
+X
+Remember from Chapter 3 that even when there appears to be a 
+correlation between two variables, this does not necessarily mean that 
+one variable causes the other. In other words, correlation does not 
+imply causation.
+Example 1
+State whether the following statements are true or false.
+a The IB grades achieved by a student are an effect of the 
+predicted grades given by their teachers, 
+b The height of a person is a cause of their weight, 
+c The number of ice creams sold is a cause of high temperatures, 
+d Smoking is a cause of lung cancer.
+TOK
+What is the difference 
+between correlation and 
+causation?
+To what extent do these 
+different processes 
+affect the validity of the 
+knowledge obtained?
+a False
+The predicted grades may well be correlated with
+the final grades, but that does not mean that the
+predicted grade causes the final grade.
+b False
+There are many other factors in addition to
+height that affect weight.
+c False
+The two are correlated, but the causation is likely
+to be in the other direction.
+d True
+This has been shown to be true independent of
+the correlation between the two variables.
+26?
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+So far you have classified relations qualitatively, that is:
+• linear or non-linear
+• positive/negative/weak/strong/moderate/no correlation.
+Now you will study a method to classify the correlation quantitatively.
+Investigation 2
+Consider these scatter graphs. 
+A y*
+B y
+X
+X
+c y
+----------------------------------------------------------- ► X
+1 Explain why the correlation shown in each of these scatter graphs can be 
+classified as linear.
+2 
+Describe the strength of correlation in each scatter graph. What do you notice?
+3 
+How would you distinguish the strength of the correlation in the three situations?
+Suppose there was a number between -1 and 1 that describes the direction 
+and strength of the correlation. It could be positive or negative according to 
+the direction, and nearer to 1 or nearer to 0 according to the strength.
+4 Match the following values of this number to the graphs at the start of the 
+investigation using your judgment of the correlation. Note that one of the 
+numbers does not match any of the graphs.
+a 0.8 
+b -0.9 c 0.9 
+d 0.85
+There are several ways to classify the strength of a correlation numerically. 
+One of these is Pearson’s product moment correlation coefficient. 
+Pearson’s product moment correlation coefficient, r, is a measure of the 
+linear correlation between two variables x andy, and can take a value 
+between -1 and 1 inclusive.
+Here are some examples of data sets and their rvalues:
+y
+Weak positive linear correlation: r-0.3
+x
+268
+
+6.1
+y
+Strong positive linear correlation: r-0.9
+X
+y
+Moderate negative linear correlation: r = —0.6
+-l------------------------------------------- ►x
+The correlation coefficient, r, indicates how close the points fall to a straight 
+line and whether the correlation is positive or negative.
+Reflect I How can you quantitatively describe a relationship shown in a 
+scatter plot?
+International
+mindedness
+Karl Pearson (185?- 
+1936) was an 
+English lawyer and 
+mathematician. His 
+contributions to 
+statistics include 
+the product-moment 
+correlation coefficient 
+and the chi-squared 
+test.
+He founded the 
+world’s first university 
+statistics department at 
+the University College 
+of London in 1911
+The formula to find Pearson’s product moment correlation coefficient is
+s
+r = ——f where s is the covariance (a measure of how two variables vary
+5 v 
+x-v
+Vy
+together) and s. and s. are the standard deviations of x andy respectively.
+x y
+* = 2> (£*)G» '^ = JZ*2 (I*)2 and = \iZy2
+(S-v)
+Note that:
+EXAM HINT
+In examinations you 
+will only be expected 
+to use technology to 
+find the value of r. You 
+do not need to learn 
+these formulae; they 
+are presented here to 
+help you explore how 
+things work.
+• When finding r, the order of the variables is not important.
+• The correlation coefficient; r, has no units.
+Example 2
+The table gives test results in mathematics and biology for eight students.
+Mathematics (x)
+20
+25
+28
+30
+32
+3?
+42
+48
+Biology (y)
+24
+20
+22
+21
+25
+28
+30
+32
+a
+b
+c
+Plot the data points on a set of axes.
+Comment on any correlation you can see on the graph.
+Find Pearson's product moment correlation coefficient for this data and compare it with 
+your answer to part b.
+Continued on next page
+269
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+1 For each scatter plot, state whether you would use Pearson's product moment correlation 
+coefficient to measure the strength of the correlation.
+a yA 
+C yk
+x
+x
+b y
+X
+2 A small study involving 10 children is conducted to investigate the correlation between gestational 
+age at birth (in weeks) and birth weight (in grams). The results are shown in the table.
+Age at birth 
+(weeks)
+34.6
+36
+39.3
+42.4
+40.3
+41.4
+39.7
+41.1
+37
+42.1
+Birth weight (g)
+1895
+2028
+2837
+3826
+3258
+3660
+3350
+3300
+3000
+3900
+a Plot the data points on a scatter graph. Label the axes, 
+b Find Pearson's product moment correlation coefficient, r. 
+c Comment on the correlation.
+270
+
+6.1
+3 A biologist is studying the relationship between height above sea level and the numbers of 
+certain species of plant at that particular height over an area of 100 m2. The table shows the 
+information collected.
+Height (metres)
+0
+100
+200
+450
+500
+POO
+900
+1000
+Number of plants
+1
+2
+5
+8
+8
+10
+12
+13
+a Plot the data points on a scatter graph. Label the axes, 
+b Find Pearson's product moment correlation coefficient, r. 
+c Comment on the correlation.
+4 The heights (in metres) and the weights (in kilograms) of 10 basketball players are given in 
+the table.
+Height (m)
+1.98
+2.11
+2.06
+2.08
+2.13
+1.96
+1.93
+2.02
+1.83
+1.98
+Weight (kg)
+93
+IIP.9
+104.3
+95.3
+113.4
+84
+86.2
+99.8
+83.9
+9P.5
+a Plot the data points on a scatter graph. Label the axes, 
+b Find Pearson's product moment correlation coefficient, r. 
+c Comment on the relationship between the coefficient and the graph.
+Investigation 3
+1 Consider these four data sets.
+a Plot the data points on a scatter graph, 
+b Comment on the correlation.
+c Find the value of r, Pearson’s product moment correlation coefficient, 
+d What do you notice? How would you relate the value of rto the strength of the correlation? 
+2 Consider another four data sets.
+X
+2
+3
+4
+5
+6
+P
+8
+9
+y
+13
+8
+12
+P
+10
+11
+6
+5
+X
+2
+3
+4
+5
+6
+P
+8
+9
+y
+12.5
+9
+11
+8
+10
+10
+P
+6
+o
+Continued on next page
+271
+Statistics and 
+probability
+
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+O Set 3
+Set 4
+For each set:
+a Plot the data points on a scatter graph, 
+b Comment on the correlation.
+c Find the value of r, Pearson’s product moment correlation coefficient, 
+d What do you notice? How would you relate the value of rto the strength of the correlation? 
+3 
+What does a value of r close to 1 or -1 tell you about the correlation?
+X
+2
+3
+4
+5
+6
+?
+8
+9
+y
+12
+10
+10.5
+9
+9.3
+9
+8.2
+?
+X
+2
+3
+4
+5
+6
+?
+8
+9
+y
+11
+10.5
+10
+9.5
+9
+8.5
+8
+?.5
+Reflect
+What does a positive or negative value of r tell you about the 
+correlation?
+Here is a table to help you interpret a correlation from its rvalue.
+rvalue
+Correlation
+0 < |r| < 0.25
+Very weak
+0.25 <\r\ <0.5
+Weak
+0.5 < |r| <0.75
+Moderate
+0.75 < |r| < 1
+Strong
+TOK
+“Everything that can be 
+counted does not count. 
+Everything that counts 
+cannot be counted” 
+(Albert Einstein).
+What counts as 
+understanding in 
+mathematics?
+1 Label each of these scatter plots with one of c y 
+the following values of r: -0.6, 1, 0.9.
+a xt
+X
+b y
+• •
+X
+-----------------------------------------------►x
+2 Label each of these scatter plots with one of 
+the following values of r: 0, 0.7, -0.9.
+a y •
+X
+272
+
+6.1
+b y
+c
+y
+4 A school grading system ranges from 0 to 10. 
+The table shows, for 10 students, the number 
+of hours they study on average per week, s, 
+and their grades, g.
+s
+32
+30
+40
+48
+35
+50
+52
+60
+43
+50
+9
+4
+4
+6
+?
+6
+?
+8
+9
+6
+10
+-----------------------------------------------►x
+3 Label each of these scatter plots with one of 
+the following values of r: -1, 0.5, -0.3. 
+a yf
+• •
+• •
+------------------------------------------- ►x
+c
+y
+X
+a Find Pearson's product moment 
+correlation coefficient, r, for this data.
+b Describe the correlation, 
+c Comment on the effect on the grade of 
+studying for more hours.
+5 Different weights were attached to a vertical 
+spring and the lengths of the spring 
+measured. The table summarizes the results.
+Weight
+(g]
+0
+10
+30
+50
+90
+110
+150
+200
+220
+250
+Length
+(cm)
+0
+0.5
+2
+3
+6
+6.5
+8
+10
+12
+16
+a Find Pearson's product moment 
+correlation coefficient, r, for this data, 
+b Comment on the correlation.
+Investigation 4
+1 Consider this data set:
+X
+1
+2
+3
+3
+4
+5
+6
+?
+8
+10
+y
+1
+3
+2
+14
+4
+3
+6
+?
+5
+15
+a Calculate Pearson’s product moment correlation coefficient for this 
+data. Comment on the correlation.
+b Plot the data points on a scatter graph. What do you notice about the 
+distribution of the points?
+2 Now remove the point (3,14) from the data set in part 1. Find the correlation 
+coefficient for the new data set and comment on the correlation.
+Continued on next page
+273
+Statistics and 
+probability
+
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+3 
+Now remove the point (10,15) from the data set in part 1. Find the 
+correlation coefficient for the new data set and comment on the correlation.
+4 Finally, remove both points (3,14) and (10,15) from the data set in part 1. Find 
+the correlation coefficient for the new data set and comment on the correlation.
+The points (3,14) and (10,15) here are called outliers. Outliers were introduced 
+in Chapter 3, and you learned how to identify them from a data set by using the 
+upper and lower quartiles and the interquartile range. Once you have identified 
+any outliers in a data set, you can then consider whether they might affect the 
+correlation and whether they should be removed. From what we have just seen, 
+an outlier that does not follow the general trend has more of an effect on the 
+correlation coefficient than one that does.
+5 
+How does an outlier affect the correlation coefficient? How 
+should you deal with them?
+Reflect
+_______ I What is an outlier?
+Why might there be outliers in a data set?
+For each of the following data sets: 
+a Plot the points on a scatter diagram.
+b Find Pearson's product moment correlation coefficient, r, for the data, 
+c Identify any outliers. Describe whether or not they follow the data trend, 
+d Calculate the change in the value of r if outliers are removed.
+Developing inquiry skills
+Thinking back to the problem at the start of the chapter, is it 
+appropriate to find the correlation coefficient for this set of 
+data points? Why? If so, find it.
+Describe the correlation again. What does it mean in terms of the 
+context?
+Do you think that the IMR is an effect of the number of vaccine 
+doses received?
+274
+

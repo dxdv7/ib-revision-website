@@ -1,0 +1,821 @@
+7.3
+7.3 Representing combined
+probabilities with diagrams and 
+formulae
+In Section 7.2 you found probabilities by representing combined 
+events in a sample space diagram or a Venn diagram. There are other 
+ways to find probabilities of combined events, which can add to your 
+problem-solving skills.
+Investigation 8
+1 
+Retrieve your data from the triangular prism 
+investigation in Section 7.1.
+2 
+Collaborate in a pairto use your 100 trials to find 
+experimental probabilities of the events A, B, C,
+D and E of the prism falling face down on these 
+faces respectively.
+3 
+In a pair, each put your own data for your 50 trials into one of the columns of a table:
+First outcome
+Second outcome
+Combined outcome
+B
+C
+BC
+A
+A
+AA
+E
+C
+EC
+C
+B
+CB
+...
+...
+...
+...
+...
+4 Would the event A4 be as likely as or less likely than the event-4? Use subjective probability and 
+reasoning to justify your answer.
+5
+6
+Factual
+What is the experimental probability of the combined eventA4?
+Factual
+What is the relationship between your answer to 5 and the experimental probability of A? Is 
+this relationship exact or approximate?
+7 
+Repeat steps 4 and 5 for other combined events such as BD etc. If necessary, you may wish to 
+collaborate by sharing data from the whole class on an online spreadsheet.
+8 
+Can you generalize your findings by completing: “The probability of event X and event Y 
+both occurring is..."
+(Your generalization is true only for independent events, which are explored later in this section.)
+9 H.I.fJJ.UIMI By what other methods, apart from diagrams, can combined probabilities be found?
+319
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+In this section you will use Venn diagrams to investigate and represent laws 
+of probability and you will use this language, these symbols and definitions:
+Name
+Symbol applied 
+to event(s]
+Informal
+language
+Formal definition
+Intersection
+AnB
+UA and B”
+Events A and B both
+occur
+Union
+AuB
+“A or B”
+Events A or Bor both
+occur
+Complement
+A'
+“Not A”
+Event A does not occur
+Conditional
+A\B
+“A given B"
+Event A occurs, given 
+that event B has occurred
+Example 9
+A student is chosen at random from this class. If E 
+is the event "the student takes ESS" and G is the 
+event "the student takes geography", then find these 
+probabilities and interpret what they mean:
+a ?(En G) and P(G n E) b P(£uG) and P(Gu£) 
+c P(F) 
+d P(£|G) and P(G|£).
+a P(E n G) = P(G n£) = -^- is the
+probability that a randomly chosen 
+student studies both ESS and 
+geography.
+b P(E u G) = P(G u E) = 2 + 3 + 1 + 3 = — is
+11 11
+the probability that a randomly chosen 
+student studies ESS or geography or
+both.
+Only one student takes both ESS and 
+geography. This example illustrates that 
+E n G means exactly the same as G n E. In 
+general, such terms are always the same.
+Similarly, E u G means the same as G u E 
+hence P(£ u G) = P(G u E) is always true.
+c
+P(£') = -pj- is the probability that a
+randomly chosen student does not 
+study ESS.
+d P(E|G) = 
+= the probability that a
+randomly chosen students studies ESS 
+given that he/she studies geography.
+whereas P(G| E) =----------= —.
+1 
+2+3+1 
+6
+There are 5 students outside the ESS oval.
+P(E') = 1 - — = — is another way to find the 
+11 11
+probability required.
+Since it is given that G has occurred, the 
+sample space is now G, not U.
+320
+
+7.3
+These are not equal since the information 
+given changes the sample space. This 
+example shows that the statement 
+P(E\G) = P(G\E) is not generally true.
+Only 1 student studies ESS and geography 
+hence P(E\G) = Notice how this contrasts
+• i 
+6
+with P(E) = —.
+11
+Just as areas of mathematics like trigonometry or sequences have 
+formulae, so does probability. In this investigation you will see some 
+relationships that you can generalize as laws of probability.
+Investigation 9
+The following Venn diagrams represent how many students study art or biology in four different classes, 
+using the sets A and B.
+Fill in the probabilities for each Venn diagram and investigate your answers.
+1
+2
+3
+4
+5
+6
+?
+8
+Venn diagram
+PM)
+PM') PM) + 
+PM')
+P(B) PM) + 
+P(S)
+P(AuB) P(AnB)
+P(/4) + P(B) 
+-P(AnB)
+Class of 2019
+6
+Class of 2018
+O
+'
+CD
+00
+Class of 2017
+(CD.
+Class of 2016
+U
+6
+o
+Continued on next page
+321
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+^ Answer these questions and discuss your answers in a group.
+1 What relationship is shown in column 3?
+2 This relationship is true in general. Why?
+3 What relationship exists between the probabilities in columns 6 and 8?
+4 This relationship is true in general. Why?
+How can you tell that two events cannot both occur?
+Factual
+6 Which class shows mutually exclusive events?
+? For which class can the relationship you wrote for question 3 be simplified? 
+8 Complete the table to summarize and justify what you have discovered.
+Left-hand side of a 
+law of probability
+—
+Right-hand side
+When true?
+?(A u B)
+=
+P(A) + P(£)- ...
+Always
+P (AnB)
+=
+0
+Only if A and Bare 
+events.
+Therefore, P(A u B)
+=
+P(A) + P(£)
+‘N
+Two events A and B are mutually exclusive if they cannot both occur. Hence:
+• 
+Knowing that A has occurred means you know that B cannot, and that 
+knowingthat B occurs means you know that A cannot.
+• 
+The occurrence of each event excludes the possibility of the other.
+• 
+Consequently, P(A n B) = P(B n A) = 0.
+A and A' are complementary events. This means that
+• A and A' are mutually exclusive.
+• 
+P(A) + P(A') = 1
+Laws of probability can be used in the calculation of probabilities 
+of combined events and also to make and justify statements about 
+combined events.
+TOK
+When watching crime 
+series, reading a book 
+or listening to the news, 
+the evidence of DNA 
+often closes a case. If 
+it was that simple, no 
+further detection or 
+investigation would be 
+needed. Research the 
+“Prosecutor's fallacy”.
+How will reason contrast 
+with emotion in making 
+a decision based solely 
+on DNA evidence?
+Example 10
+Catarina explores the names of the students in her class of 15 students.
+She sorts through the data from all 15 students and determines the sets A and B:
+A = {Students with exactly two vowels in their given name)
+= {Clara, Tomas, Fanygu, Rea, James)
+B = {Students with exactly three vowels in their given name)
+= {Barbora, A chi lie, Malena, Daniel, Oliver, Rikardo)
+o
+322
+
+7.3
+Represent Catarina's information on a Venn diagram. 
+A student from the class is chosen at random.
+b Find P(A), P(£) and P(A n £).
+c State with a reason whether events A and B are mutually exclusive, 
+d Hence write down P(A u B).
+P(A nB) = 0
+The sample space has 1 5 students; 
+however, you are only given 1 1 names. 
+Hence the remaining students have 
+been denoted SI, S2, S3 and S4 for 
+completeness.
+c The events A and B are mutually exclusive 
+since P(A n B) = 0.
+d P(A u5) = —+ —= —
+15 
+15 
+15
+Having exactly two vowels in a given 
+name excludes the possibility that there 
+are exactly three vowels.
+Apply the addition law of probability for 
+mutually exclusive events.
+Example 11
+Catarina further explores the number of siblings of the students in her class of 15 students. 
+She writes down another set in addition to those from Example 10:
+C= {Students with at least one sibling} = {Alexandra, Isabella, Lukas, Paula, Oliver, Rikardo) 
+a Draw sets B and C on a Venn diagram.
+A student from the class is chosen at random, 
+b Find P(£), P(C) and P(B n C).
+c State with a reason whether events B and C are mutually exclusive, 
+d Hence write down P(BuC).
+All 15 students can now be represented 
+in the Venn diagram.
+Continued on next page
+323
+Statistics and 
+probability
+
+d P(BuC) = - + --- 
+15 
+15 
+15
+?(B nC) = —
+c The events B and C are not mutually 
+exclusive since P(B n C) * 0.
+Having three vowels in your given name 
+does not exclude the possibility that 
+you have at least one sibling.
+Apply the addition law for events that 
+are not mutually exclusive.
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+6 
+2 
+6 2,
+P (B) = — = — P(C) = — = — and 
+15 5 
+15 5
+1 A fair decahedral die numbered 1, 2, 3, 
+10
+is thrown and the number noted.
+The events A, "throw a square number", 
+and B, "throw a factor of six", are 
+represented on the Venn diagram below:
+a Find P(A), P(£), P(A n B) and P(A u B).
+b Hence show that
+P(A u B) = P(A) + P(£) - P(A n B).
+c State with a reason whether events A 
+and B are mutually exclusive.
+2 A fair dodecahedral die numbered 1, 2, 3, 4, 
+8, 9, 16, 27, 32, 81, 243 and 729 is thrown 
+and the number noted.
+The events C, "throw an odd number", 
+and D, "throw an even number", are 
+represented on the Venn diagram below:
+a Find P(C), P(D), P(Cn D) and P(Cu D). 
+b Hence show that P(CuD) = P(C) + P(D). 
+c State with a reason whether events C 
+and D are mutually exclusive.
+3 A school is inspecting 24 student lockers 
+before the start of the new academic year 
+to see if they have been left tidy. It is found 
+that some lockers have some food items left 
+inside and some lockers have stationery items 
+inside. Lockers 2, 5, 7, 8, 11, 17, 18 and 19 all 
+have food items and lockers 1, 3, 4, 11, 13,
+15, 17, 20 and 21 all have stationery items.
+a Draw this information on a Venn 
+diagram.
+b State with a reason whether events "a 
+randomly chosen locker contains foot 
+items" and "a randomly chosen locker 
+contains stationery items" are mutually 
+exclusive.
+c Find the probability that a locker selected 
+at random has at least one type of item 
+left inside.
+4 Finn explores the ages of the people in his 
+family. He represents his family's ages with 
+the set U={2, 3, 4, 6, 8, 9, 10, 12, 14, 15,
+16, 25, 35, 55, 65).
+a Draw U and each of the following sets 
+on a Venn diagram:
+A = {even numbers), B = (multiples of 3), 
+C = {prime numbers) and D = {numbers 
+greater than 30).
+b Finn chooses a family member at random. 
+Use your diagram to determine which, if 
+any, of A, B, C or D can form a mutually 
+exclusive pair of events.
+tN |
+II
+O |
+324
+
+7.3
+You have learned the concept of mutually exclusive events. In the 
+following investigation you learn about independent events. These 
+terms are easy to confuse with each other.
+\
+Two events A and B are independent if the occurrence of each event does 
+not affect in any way the occurrence of the other.
+Equivalently, knowing that A has occurred does not affect the probability 
+that B does, and knowing that B occurs does not affect the probability that A 
+does.
+Two events A and B are dependent if they are not independent.
+TOK
+What do we mean by a 
+“fair" game? Is it fair that 
+casinos should make a 
+profit?
+Investigation 10
+Fill in the probabilities for each Venn diagram and investigate your answers.
+1 
+2 
+3 
+4 
+5
+6
+Venn diagram
+P (A)
+P (B)
+P (AnB)
+P(A\B)
+P(y4|iJ)P(B)
+P (AnB)
+P (B)
+Class of 2019
+u
+6
+Class of 2018
+Q0-
+Class of 2017
+U 
+________ _
+000.
+Class of 2016
+u
+6
+o
+Continued on next page
+325
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+P(5 M) =
+a P (S) =
+6 + 2
+8
+6 + 2 + 3 + 9 
+20
+2
+5
+This quantifies the probability that a 
+randomly chosen student from the entire 
+class studies Spanish. P(S|M) quantifies 
+the probability that a randomly chosen 
+student from the students who study 
+mathematics studies Spanish.
+Answer these questions and discuss your answers in a group.
+1 
+What relationship exists between the probabilities in columns 4 and 6? This relationship is true in general.
+2 
+In which of the four cases above does knowing that a student studies biology affect the probability that 
+they study art? How can you tell?
+3 
+In which of the four cases above does knowing that a student studies biology not affect the probability 
+that they study art? How can you tell?
+Use your answers to 2 and 3 to find which of the following Venn diagrams represent pairs of independent events.
+Class of 2015 
+Class of 2014 
+Class of 2013
+U 
+---
+---- N8
+( 6
+f 2 )
+3 )
+U 
+—
+( 10 (
+5 )
+------"-N?
+1 J
+U 
+----
+( 2 
+a\
+f 12 j
+6
+"X8
+1
+4 Complete the table to summarize and justify what you have discovered.
+Left-hand side of a
+law of probability 
+=
+Right-hand side
+When true?
+P(A\B)
+=
+P(AnB)
+Always
+Therefore, P(A n B)
+=
+Always
+?(A\B)
+=
+P(A)
+Only ifi4 and B are 
+events
+Therefore, P(A n B)
+=
+P(A) X
+Only iM and Bare 
+events
+These laws of probability can be used in making and justifying 
+statements about combined events.
+Example 12
+This Venn diagram shows the number of students in a class 
+who study Spanish and the number of students who study 
+mathematics.
+Determine whether S and M are independent events by:
+a calculating and considering the values of P(S) and P(S|Af) 
+b calculating and considering the values of P(S) x P(A1) and P(S n M).
+©
+i n  | m  
+II
+I fA
+NJ
++
+IN
+326
+
+7.3
+O
+Since P(S)= P(S|Af), S and M are 
+independent events.
+2 
+5 
+2
+Since P(5) x P(M) = — x — = — =
+5 
+20 
+20
+P(SnM),S and M are independent events.
+Knowing that the randomly chosen student 
+studies mathematics does not affect the 
+probability that the student studies Spanish.
+This is an equivalent way to show the 
+events are independent.
+Now that you have learned about mutually exclusive events and 
+independent events, you can gain knowledge and understanding about 
+how these terms differ.
+Investigation 11
+At each stage, compare and contrast your ideas and results with a classmate.
+1 Find the probabilities:
+r
+u
+P(A)=
+P (A') =
+P (AnA') =
+P(A\A') =
+2 H-imumi Are complementary events always mutually exclusive? How do you know?
+3 
+Are complementary events always independent events? How do you know?
+4 Identify a Venn diagram from the previous investigation that represents two mutually exclusive events 
+that are not independent.
+5 Identify a Venn diagram from the previous investigation that represents two independent events that are 
+not mutually exclusive.
+r 
+\
+Write down your own three positive integers x,y and /rand 
+use them to fill in this Venn diagram, which represents two 
+events A and B.
+V
+Factual
+8
+9
+10
+Are A and B mutually exclusive? Are they independent?
+Can non-mutually exclusive events be independent?
+Adapt your Venn diagram by replacingy with y + 1 but leaving ny,x and nx alone.
+Are A and B mutually exclusive? Are they independent? 
+n.imuiMi Can non-mutually exclusive events be dependent?
+If C represents the event “throw a 2 on a cubical die” and D the event “throw an odd number 
+on a cubical die”, are these events mutually exclusive? Are they independent?
+Given the event C, write down your own event that excludes the possibility of C happening.
+11 GHJEJ Are your events independent?
+Continued on next page
+322
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+Factual
+12
+13
+Can mutually exclusive events be independent?
+If D represents the event “toss a head on a fair coin”, would Cand D be mutually exclusive? 
+Would they be independent?
+Given the event C, write down your own event that is independent of C happening.
+14
+15
+16
+Factual
+Factual
+Are your events mutually exclusive?
+Must independent events be mutually exclusive? 
+Choose the correct word to complete each sentence:
+Complementary events are
+sometimes / never / always
+mutually exclusive events
+Dependent events are
+independent events
+Mutually exclusive events
+dependent events
+Independent events are
+mutually exclusive events
+You can use the laws of probability to justify other statements.
+Example 13
+For a consumer survey, 2371 adults are asked questions. An adult is chosen at random from 
+those taking part.
+C is the event "the adult likes coffee".
+D is the event "the adult is called David".
+a You are given that C and D are independent events. Explain why this is the case, 
+b Given that P(C) = 0.8 and P(D) = 0.007, interpret your answers in context in each of the 
+following. Find:
+i P(CnD) 
+ii P(CuD).
+c Determine whether C and D are mutually exclusive. Justify your answer.
+a Having any given name does not affect 
+the probability of liking coffee in any 
+way.
+Recall and apply the definition of indepen 
+dent events. You could also say liking coffee 
+does not affect the probability of having any 
+particular name.
+b i P(CnD) = 0.8 x0.007 = 0.0056 
+Choosing a coffee drinker called David is 
+less likely than choosing a David and less 
+likely than choosing a coffee drinker.
+Since you are given that C and D 
+are independent, you can use 
+?(Cn D) = P(C) xP(D).
+ii P(C u D) = 0.8 + 0.007 - 0.0056 
+= 0.8014
+Choosing a coffee drinker or someone 
+called David is more likely than choosing 
+a David and more likely than choosing a 
+coffee drinker.
+Apply the formula:
+P(CuZ)) = P(C) + P(D) - P(CnD).
+c C and D are not mutually exclusive 
+because P(Cn D) ^ 0.
+Write a complete and clear reason.
+328
+
+p(s|/) =
+2 + 6
+b P(/) = n(l) _ 
+2 + 6
+nlU) ~~ 15 + 5 + 2 + 6
+P(5):
+/7(S) _ 
+5 + 2 
+7
+77(a) ~~ 15 + 5 + 2 + 6 ~~ 28
+4
+Write down the appropriate formula and 
+fill in the numbers from the Venn diagram 
+to show complete working out that is easy 
+to check.
+Recall that ?(S\I) means you know the 
+student chosen does speak Italian. So 
+there are 8 students to consider, 2 of 
+whom speak Spanish.
+f P(5)xP(/):
+1 2
+— X —
+4 7
+14
+Since P(S|7) = P(S), S and 7 are independent.
+Write a complete and clear reason.
+P(7|S) = P(7) and P(InS) = P(7) x P(S) are 
+equivalent explanations.
+For these pairs of events, state whether 
+they are mutually exclusive, independent 
+or neither.
+a A = throw a head on a fair coin
+B = throw a prime number on a fair die 
+numbered 1,2, 3, 4, 5, 6 
+b C = it will rain tomorrow 
+D = it is raining today 
+c D = throw a prime number on a fair die 
+numbered 1,2, 3, 4, 5, 6: E = throw an 
+even number on the same die 
+d F = throw a prime number on a fair die 
+numbered 1, 2, 3, 4, 5, 6: G = throw an 
+even number on another die 
+e G = choose a number at random from 
+{1,2, 3,4, 5, 6, 7, 8, 9, 10) that is at 
+most 6, H = choose a number from the 
+same set that is at least 7
+M = choose a number at random 
+from {1, 2, 3, 4, 5, 6, 7, 8, 9, 10) that is 
+no more than 5, H = choose a number 
+from the same set that is 4 or more 
+S = choose a Spanish speaker at random 
+from a set of students represented by the 
+set below, T = choose a Turkish speaker 
+at random from this set
+Example 14
+The Venn diagram shows the number of students in a class who can 
+speak Spanish, Italian, both these languages and neither language.
+A student is chosen at random from the class.
+Let S and / be the events "choose a Spanish speaker" and "choose 
+an Italian speaker" respectively.
+Find:
+a P(S) 
+b P(7) 
+c P(5|7) 
+d P(/|S) e P(7n5)
+Hence determine whether S and / are independent.
+f P(5)xP(/).
+CO | NJ
+II
+4^ I -
+<n | 
+II
+oo
+CO
+«N | h>
+fN
+II
+Cu
+~a
+NJ
+X
+<N
+O'}c
+Ph
+o>
+329
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+2 In a survey carried out in an airport, it is 
+found that the events A: "a randomly chosen 
+person has an Australian passport" and V: "a 
+randomly chosen person has three vowels in 
+their first name" are independent. It is found 
+also that P(A) = 0.07 and P( V) = 0.61.
+Find P(A u V) and interpret its meaning.
+3 A class of undergraduate students were asked 
+in 2016 their major subject and whether 
+they listen to music on their commute to 
+university. S is the set of science majors and 
+M is the set 
+of students 
+who listen to 
+music on their 
+commute.
+a Find P(S) x P(M) and P(Sn Af), and hence 
+determine whether 5 and M are inde 
+pendent events, stating a reason for your 
+answer.
+b The same questions were asked in a 
+survey in 2017 with the results given in 
+the Venn diagram below.
+Find P(S) and P(S|Af) and hence 
+determine 
+whether 5 
+and M are 
+independent 
+events, stating a 
+reason for your 
+answer.
+4 Students are surveyed about languages spoken. 
+You are given the following Venn diagram 
+that represents the events A: "a randomly 
+chosen person 
+can speak 
+Arabic" and R: "a 
+randomly chosen 
+person can speak 
+Russian".
+You are given also that A and R are
+1 2
+independent events with P(A) = —, P(R) = —
+and n(U) = 56.
+8
+a Draw the Venn diagram showing the 
+numbers in each region, 
+b Hence find the probability that a student 
+selected at random from this group speaks 
+no more than one of the languages.
+5 The letters of the word MATHEMATICS are 
+written on 11 separate cards as shown below:
+M
+A
+T
+H
+E
+M
+A
+T
+1
+C
+S
+a A card is drawn at random then
+replaced. Then another card is drawn.
+Let A be the event the first card drawn is 
+the letter A.
+Let M be the event the second card 
+drawn is the letter M. Find: 
+i P (A) 
+ii P(Af|i4)
+iii P(AnM).
+b In a different experiment, a card is drawn 
+at random and not replaced. Then 
+another card is drawn. Re-calculate the 
+probabilities that you found in part a.
+6 A group of 50 
+investors own 
+properties in 
+north European 
+cities. The 
+following Venn 
+diagram shows 
+how many 
+investors own properties in Amsterdam, 
+Brussels or Cologne. One of the investors is 
+chosen at random.
+a Find P(B \ A). 
+b Find P(C| A).
+c Interpret your answers for a and b. 
+d You are given that P(C \ B) = and 
+p(a |c ) = K Calculate the remaining 
+regions shown in the Venn diagram.
+330
+

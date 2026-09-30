@@ -1,0 +1,782 @@
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+7.5 Modelling random behaviour: 
+random variables and probability 
+distributions
+In the rest of this chapter you will apply your knowledge and 
+understanding of combined events to model random behaviour in 
+various processes that occur in real life.
+Recall from Chapter 3 that discrete data is either data that can be 
+counted, for example the number of cars in a car park, or data that 
+can only take specific values, for example shoe size.
+Continuous data can be measured, for example height, weight and 
+time.
+For example if a cafe has four coffee percolators, the number of 
+percolators that fail on a given day, X, is a quantity that changes 
+randomly according to the durability and reliability of the machinery.
+In contrast, the weight of a bag of coffee, Y, varies randomly according 
+to the weighing and packaging processes in the factory. These are both 
+examples of random variables: the value of these variables changes 
+according to chance. The value of Y is a measurement that can take 
+any real number in an interval.
+We use the following terminology for random variables that are countable.
+Example: Let X represent the number of percolators failing on a given 
+day.
+Terminology
+Explanation
+A is a discrete random variable.
+Discrete: X can be found by counting.
+Random: X is the result of a random process.
+Variable: X can take any value in the domain 
+{04,2,3,4}.
+A first step in acquiring knowledge about X is to fill in a table:
+Number of failing 
+percolators (x)
+0
+1
+2
+3
+4
+T3
+II
+IIo
+P(*= 1)
+*
+II
+"C
+*
+II
+?(X = 4)
+The five probabilities must add to one, and they must each satisfy 
+0<P(Z = x) < 1.
+Knowing them establishes the probability distribution of X since the 
+table then shows how the entire probability of 1 is distributed to each 
+value of the random variable in its domain.
+\
+A discrete probability distribution is the set of all possible values of a discrete 
+random variable (a subset of Z) together with their corresponding probabilities.
+TOK
+A model is used 
+to represent a 
+mathematical situation 
+in this case. In what 
+ways may models help 
+or hinder the search for 
+knowledge?
+338
+
+7.5
+Investigation 13
+Finding and representing discrete probability distributions.
+One fair tetrahedral die with faces numbered 1,2,3 and 4 is thrown. Let A denote the value of the number thrown. 
+1 Complete the table to show the probability distribution of A:
+a
+1
+2
+3
+4
+P(A = a)
+2 Draw a bar chart to represent the probability distribution of A and make a general statement for P(A = a).
+Two fair tetrahedral dice with faces numbered 1, 2, 3 and 4 are thrown. Let B denote the sum of the two 
+values thrown.
+3 Use combined events to complete the table to show the probability distribution of B:
+b
+2
+3
+4
+5
+6
+2
+8
+P(B = b)
+4 Draw a bar chart to represent the probability distribution of Band make a general statement for P (B = b) 
+using a piecewise function.
+5
+6
+7
+8 
+9
+Compare and contrast the shapes of the bar charts for ^4 and for B.
+Compare and contrast the probability distributions of A and B.
+fFTOIfil How could you use your answer to 3 to predict the number of times B is at least 6 in 200 trials? 
+n.imuini How can you represent a discrete probability distribution?
+How can you find a discrete probability distribution?
+In the following investigation you will discover and explore an example 
+of a discrete probability distribution with useful and surprising applications 
+in real life.
+Investigation 14
+Discovering a discrete random distribution
+Imagine a list giving the populations of 262 countries. Let 7 be the first digit in the number of people in a 
+randomly chosen country.
+1 
+Make your own subjective judgment of the probability distribution of Z. What would the
+domain of Zand its shape be? Share this judgment in a pairand then with your class.
+Now consider the data giving the population of 262 countries found here: https://www.cia.gov/library/ 
+publications/the-world-factbook/rankorder/2119rank.html
+Collaborate with others to complete a frequency table as follows for the 262 populations:
+First digit
+1
+2
+9
+Frequency
+Continued on next page
+339
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+Hence construct a bar chart to show experimental probabilities for Z 
+2 
+How does your barchart compare to your answer for 1?
+Let Kbethe first digit of number in the measure of the area of a randomly chosen country.
+Repeat 1 and 2 with the area of each country found here https://www.cia.gov/library/publications/the-world- 
+factbook/rankorder/2147rank.html
+3
+4
+Factual
+Use your knowledge of functions to propose a model for these sets of data.
+H.I.MJ.UIMI How may a discrete probability distribution be determined, 
+apart from the method you gave in the previous investigation?
+; >
+A discrete probability distribution function f(t) assigns to each value of the
+random variable its corresponding probability: f(t) = P( T = t). 
+f(t) is commonly referred to by the abbreviation “pdf”.
+Example 17
+a Show that the function f(t) = t-2
+15- te Z, 3 < t < 7, defines a discrete probability
+distribution by constructing a table of values, 
+b If P(T= t) = f{t), represent the distribution as a bar chart.
+t
+3
+4
+5
+6
+7
+m
+1
+2
+3
+4
+5
+15
+15
+15
+15
+15
+Substitute each value of t from the 
+domain given.
+b
+1+2+3+4+5 f t-2 .
+Since------------------= 1, f{t) =------defines a
+15 
+15
+probability distribution on the domain given.
+Probability distribution of T
+Show that the values of the function 
+add to 1.
+Label the graph completely in order to 
+communicate what it represents.
+340
+
+7.5
+Example 18
+A fair cubical die and a fair tetrahedral die are thrown. The discrete random variable S is 
+defined as the sum of the numbers on the two dice.
+a Construct the probability distribution of S as:
+i 
+a table of values 
+ii 
+a bar chart iii a piecewise function,
+b Hence find the probabilities:
+i 
+P(S>2) 
+ii 
+P(5 is at most 6) iii P(5<6I5>2).
+a
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+6
+7
+8
+3
+4
+5
+6
+7
+8
+9
+4
+5
+6
+7
+8
+9
+10
+Draw a sample space diagram.
+i
+s
+2
+3
+4
+5
+6
+7
+8
+9
+10
+l
+2
+3
+l
+l
+1
+3
+2
+1
+P <S = s)
+24
+24
+24
+6
+6
+6
+24
+24
+24
+Read off the probability of each 
+event P(.S = s) in turn from the 
+sample space diagram.
+Probability distribution of S
+s
+III
+f(s) =
+5-1
+24
+\_
+6
+11-5
+24
+2 < 5 < 4
+5 < 5 < 7 where s e N. 
+8<5< 10 
+23
+b i P(S > 2) = 1----- = —
+24 
+24
+H P(.S<6) = —+ - + - + - + - = — 
+24 
+12 
+8 
+6 
+6 
+12
+iii P(S < 615 > 2) = P(S < 6 n 5 > 2)
+P(S > 2)
+13
+P(3 < S < 6) _ 24 = 13 
+P(5 > 2) 
+23 
+23
+24
+Do not forget to label both axes.
+Making a general statement 
+helps represent the probability 
+distribution function concisely.
+Take care to interpret "at most 
+6" correctly.
+Use the formula for conditional 
+probability and find the 
+intersection of the two sets.
+o
+Continued on next page
+341
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+s
+2
+3
+4
+5
+6
+7
+8
+9
+10
+P(S - s)
+1
+24
+2
+24
+3
+24
+1
+6
+1
+6
+1
+6
+3
+24
+2
+24
+1
+24
+You are not obliged to use the 
+formula: a diagram can be used 
+to give an equivalent solution. 
+Many students find this method 
+easier.
+P( 3 < S < 6) can be found as — + — + — + - = —
+24 
+24 
+6 
+6 
+24
+the diagram. The whole sample space of P(S < 6lS >
+from 
+2) is
+P(S > 2) = —, hence 
+24
+P(S < 615 > 2)
+P(3 < 5 < 6) 
+P(S > 2)
+13
+24
+23
+24
+n
+23
+1 Consider these three tables. State which 
+table(s) could not represent a discrete 
+probability distribution, giving reasons.
+5 < t < 10, defines a discrete probability 
+distribution by constructing a table of 
+values.
+3 f(x) = —, xe {1, 5, 7, k], defines a discrete
+19
+probability distribution. Find the value of k.
+4 Sarah researches multiple births in a clinic, 
+where she keeps records over a period
+of years of the genders of triplets born 
+there. There are eight possible sequences 
+of genders in a set of triplets, for example 
+MFM.
+a Construct the sample space of all 
+possible sequences.
+b Assuming P(Male) = P(Female) = 0.5, 
+construct the probability distribution table 
+of the random variable F= the number of 
+females born in a set of triplets.
+5 The probability distribution of a discrete 
+random variable A is defined by this table:
+a
+5
+8
+9
+10
+11
+12
+P (A=a)
+0.5
+0.05
+0.04
+0.1
+0.2
+P(/4=12)
+Find:
+a P(4 = 12) 
+b P(8 < A< 10)
+c P(A is no more than 9) 
+d P(A is at least 10) e P(4>8U<11).
+6 Nico and Artem are designing a card game. 
+In their pack of cards, each card has 2,
+1, 0 or 5 printed on it. A card is selected 
+from the pack and the number on the card 
+defines a random variable X.
+Nico states that the probability distribution 
+of the game is as follows:
+X
+2
+1
+0
+5
+P(X=x)
+0.3
+0.2?
+0.25
+0.1
+342
+
+7.5
+a Explain why Nico is wrong, 
+b Artem correctly states that the 
+probability distribution is
+X
+2
+1
+0
+S
+P(X=x)
+0.28
+0.2
+P
+3 P
+Find the value of p.
+7 Part of the discrete probability distribution 
+of the discrete random variable T with 
+domain {1,2, 3, 4, 5) is shown in the bar 
+chart.
+Probability distribution of T
+Given that P(T = 4) = 4P(7 =5), construct 
+the probability distribution table for T.
+Example 19
+The probability distribution of a discrete random variable U is defined by 
+P(U=u) = k(u - 3)(8 — u), u e {4, 5, 6, 7).
+a Find the value of k and hence draw the table of the probability distribution of U. 
+b In 100 trials, calculate the expected value of each possible outcome of U.
+c Find the mean of the values of U found in these 100 trials assuming the frequencies of 
+each outcome of U are given by your expected values in b. 
+d Interpret your answer.
+u
+4
+5
+6
+7
+P (U=u)
+4k
+6k
+6k
+4k
+4k + 6k + 6k + 4k = 20k = 1 => k = —,
+20
+hence
+Represent the probability distribution in a 
+table.
+Use the fact that the probabilities must 
+add to 1 on the domain of the pdf.
+u
+4
+5
+6
+7
+P (U = u)
+1
+5
+3
+10
+3
+10
+1
+5
+b The expected number of occurrences
+of u = 4 is 100xi = 20. Similarly, the
+expected number of occurrences of 5, 6 
+and 7 are 30, 30 and 20 respectively.
+Use the formula: expected number of 
+occurrences of A = n P(A).
+o
+Continued on next page
+343
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+A grouped frequency table for these 
+expected number of occurrences is
+Each number of occurrences is a 
+frequency.
+u
+4
+5
+6
+7
+Expected 
+frequency of u
+20
+30
+30
+20
+Hence the mean value of U with these 
+frequencies is
+20x4 + 30x5 + 30x6 + 20x7 _ 550 _ ^ 
+100 ~~100 ~~
+Use the formula for the population 
+mean:
+I'M
+fj = —-----where n =
+n 
+i=i
+d 5.5 is not a number in the domain of Recall the definition of the mean as a 
+the probability distribution function. measure of central tendency. 
+Nevertheless, it models the central value 
+of U expected in a data set of 100 trials.
+You can express the calculation in part c of the previous exercise more 
+briefly as:
+20x4 + 30x5 + 30x6 + 20x7 
+, 20 r 30 „ 30 
+„ 20
+-------------------------------------= 4 x----- + 5 x----- + 6 x----- + 7 x-----
+100 100 100 100 100
+=4x-+5x—+6x-+7xi 
+5 
+5 
+5 
+5
+Notice that this is the sum of the product of each value of the random 
+variable with its corresponding probability, or V u?(U = «). This leads to
+u
+a further generalization for all discrete random variables:
+\
+The expected value of a discrete random variable X is E{x) = \i = ]T*P(A' =x )
+X
+Example 20
+A newsagent in Oxford takes delivery of six copies of a Scottish newspaper each Sunday.
+The newsagent has a regular order from her customers for three newspapers but sales vary 
+according to current events, sport etc. The newsagent has collected data over several years to 
+help predict her sales, creating a probability distribution table for the random variable 5, the 
+number of Scottish newspapers sold on Sunday.
+s
+2
+3
+4
+5
+6
+P (S = s)
+0.05
+0.39
+0.29
+0.22
+0.05
+Hence find the expected number of newspapers sold and interpret its meaning in context.
+o
+344
+
+o
+7.5
+E<S) = 2>P(S = s) =
+Apply the formula for the expected
+s
+value.
+2x0.05 + 3x0.39 + 4x0.29 + 5x0.22 + 6x0.05
+= 3.83
+On average, the newsagent should expect to
+sell more than 3 newspapers although 3 is the
+Draw conclusions from the given
+most likely outcome.
+information.
+There is more than a 50% chance that she will
+sell more than her regular order.
+Investigation 15
+Consider the distribution in Example 18: “A fair cubical die and a fair tetrahedral die 
+are thrown. The discrete random variable S is defined as the sum of the numbers 
+on the two dice.” Consider an experiment in which 100 values of S are calculated in 
+100 trials.
+Predict the average of these 100 values of S by:
+a deducing from the shape of the barchart representation
+b application of the formula for the expected value of a discrete random variable
+c constructing a data set of 100 values of S with a spreadsheet and finding its 
+mean by entering these formulae and dragging Al, B1 and Cl down to the 
+100th row.
+Discuss.
+2 ITBTCTffffl What does the expected value of a discrete random variable 
+predict about the outcomes of a number of trials?
+Many countries organize national lotteries in which adults buy a ticket 
+giving them a chance to win one of a range of cash prizes. Profits are 
+often invested in "good causes". For example, the UK National Lottery 
+has distributed over UKE37 billion through thousands of grants to 
+good causes including sport, art and health projects since 1994.
+ft is possible to use the expected value formula to manage the prize 
+structure of a lottery in order to maintain profitability.
+345
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+Prize
+Probability
+Cash value per winner (UK£)
+1st (Jackpot]
+1
+45057474
+542102?
+2nd
+1
+7 509 579
+44 503
+3rd
+1
+144415
+1018
+4th
+1
+2180
+84
+5th
+1
+97
+25
+6th
+1
+10.3
+Free ticket
+Looking at the cash prizes only for simplicity, we can find the expected 
+winnings as follows:
+Expected cash winnings =
+5 421 027 x----- l------- + 44 503 x------ ------ + 1018x----- -----
+45 057 474 
+7 509 579 
+144 415
++ 84 x —!— + 25 x — * 0.430 
+2180 
+97
+This would appear to show that you would expect to make a profit (or 
+a positive gain) playing this lottery! However you do have to buy the 
+ticket first, which costs UKL2.00 so you should expect a loss (a negative 
+gain) of UKE1.57. The attraction of the game is based on the desire to 
+win a large prize or contribute to good causes. But it should not be a 
+surprise that you would expect to make a loss on any one game.
+TOK
+Do you rely on intuition 
+to help you make 
+decisions?
+If A' is a discrete random variable that represents the gain of a player, then if 
+E(Af) = 0,the game is fair.
+Example 21
+Some students have a meeting to design a dice game to raise funds for charity as part of a 
+CAS project. Some of the decisions made in the meeting are lost.
+This incomplete probability distribution table remains:
+x (prize in US$)
+1
+2
+4
+6
+?
+11
+1
+1
+p<*=*)
+40
+4
+8
+346
+
+7.5
+f 
+67
+The students also recall that E(X) = — and that the probability distribution function 
+generalizes to a linear model.
+a Determine the missing entries in the table and hence find the probability distribution function, 
+b Find the smallest entry fee the students could set for playing the game in order to predict a 
+profit. Comment on the advantages and disadvantages of a number of possible entry fees.
+a Let the missing probabilities be 
+represented by a and b.
+_ , , 11 1 1 7 .
+Then a + b = 1---------------= —, also
+40 
+4 
+8 
+20
+, 
+11 , 
+1 
+, 
+„ 
+1 
+67
+lx — + 2x- + 4ii+6p + 7x- = —
+40 
+4 
+8 
+20
+7 
+17
+Hence a + b = — and 4a + 6b = —.
+20 
+10
+So a = - and b = —.
+5 
+20
+The completed table is :
+x (prize in USS)
+1
+2
+4
+6
+7
+P(X=x)
+11
+40
+10
+40
+8
+40
+6
+40
+5
+40
+Hence f(x) = ?(X = x) = -^(12-x)
+b E(X): 77
+20
+US$3.85 so charging a player
+US$3.85 would be a fair game. Therefore 
+charging US$3.86 would predict a small 
+profit, but this could easily give a loss. 
+Perhaps charging US$4.00 would be more 
+practical and it would predict a larger profit.
+Representing the unknown quantities 
+with a variable and writing down true 
+statements involving them is a problem 
+solving strategy.
+The probabilities must add to 1. You can 
+apply formula for the expected value.
+Solve the system of simultaneous 
+equations.
+Look for a pattern in the probability 
+distribution table or alternatively apply the 
+general equation for a linear function 
+y = mx -I- c.
+Apply the formula for the expected value 
+and reflect critically.
+1 The discrete random variable B has 
+probability distribution function given by 
+P(B = b)= k(4 - b) for b = 0, 1, 2, 3. Find k 
+and E(B).
+2 Apply your probability distribution table
+from Exercise 71 question 4 to find the
+expected number of male births in a set of
+triplets. Interpret your result.
+3 A handbag contains seven coins and three 
+keys. Two items are taken out of the handbag 
+one after the other and not replaced. Find 
+the expected number of keys taken out of the 
+handbag.
+4 A handbag contains five coins, four keys 
+and eight mints. Two items are taken out 
+of the handbag one after the other and 
+not replaced. Find the expected number of 
+mints taken out of the handbag.
+347
+Statistics and 
+probability
+

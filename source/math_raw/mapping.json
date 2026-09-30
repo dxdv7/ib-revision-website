@@ -1,0 +1,522 @@
+{
+  "1": {
+    "code": "1.1",
+    "unit": "Measuring space: accuracy and 2D geometry",
+    "name": "Measurements and estimates",
+    "start": 12,
+    "end": 14,
+    "pages": 3,
+    "chars": 5541,
+    "file": "source/math_raw/01_1.1.txt"
+  },
+  "2": {
+    "code": "1.2",
+    "unit": "Measuring space: accuracy and 2D geometry",
+    "name": "Recording measurements, significant digits and rounding",
+    "start": 15,
+    "end": 18,
+    "pages": 4,
+    "chars": 7288,
+    "file": "source/math_raw/02_1.2.txt"
+  },
+  "3": {
+    "code": "1.3",
+    "unit": "Measuring space: accuracy and 2D geometry",
+    "name": "Measurements: exact or approximate?",
+    "start": 19,
+    "end": 24,
+    "pages": 6,
+    "chars": 12498,
+    "file": "source/math_raw/03_1.3.txt"
+  },
+  "4": {
+    "code": "1.4",
+    "unit": "Measuring space: accuracy and 2D geometry",
+    "name": "Speaking scientifically",
+    "start": 25,
+    "end": 30,
+    "pages": 6,
+    "chars": 9973,
+    "file": "source/math_raw/04_1.4.txt"
+  },
+  "5": {
+    "code": "1.5",
+    "unit": "Measuring space: accuracy and 2D geometry",
+    "name": "Trigonometry of right-angled triangles and indirect measurements",
+    "start": 31,
+    "end": 40,
+    "pages": 10,
+    "chars": 14768,
+    "file": "source/math_raw/05_1.5.txt"
+  },
+  "6": {
+    "code": "1.6",
+    "unit": "Measuring space: accuracy and 2D geometry",
+    "name": "Angles of elevation and depression",
+    "start": 41,
+    "end": 57,
+    "pages": 17,
+    "chars": 32019,
+    "file": "source/math_raw/06_1.6.txt"
+  },
+  "7": {
+    "code": "2.1",
+    "unit": "Representing space: non-right angled trigonometry and volumes",
+    "name": "Trigonometry of non-right triangles",
+    "start": 58,
+    "end": 70,
+    "pages": 13,
+    "chars": 18290,
+    "file": "source/math_raw/07_2.1.txt"
+  },
+  "8": {
+    "code": "2.2",
+    "unit": "Representing space: non-right angled trigonometry and volumes",
+    "name": "Area of a triangle formula: applications of right- and non-right angled trigonometry",
+    "start": 71,
+    "end": 76,
+    "pages": 6,
+    "chars": 7225,
+    "file": "source/math_raw/08_2.2.txt"
+  },
+  "9": {
+    "code": "2.3",
+    "unit": "Representing space: non-right angled trigonometry and volumes",
+    "name": "3D geometry: solids, surface area and volume",
+    "start": 77,
+    "end": 104,
+    "pages": 28,
+    "chars": 38007,
+    "file": "source/math_raw/09_2.3.txt"
+  },
+  "10": {
+    "code": "3.1",
+    "unit": "Representing and describing data: descriptive statistics",
+    "name": "Collecting and organizing univariate data",
+    "start": 105,
+    "end": 120,
+    "pages": 16,
+    "chars": 28332,
+    "file": "source/math_raw/10_3.1.txt"
+  },
+  "11": {
+    "code": "3.2",
+    "unit": "Representing and describing data: descriptive statistics",
+    "name": "Sampling techniques",
+    "start": 121,
+    "end": 126,
+    "pages": 6,
+    "chars": 12567,
+    "file": "source/math_raw/11_3.2.txt"
+  },
+  "12": {
+    "code": "3.3",
+    "unit": "Representing and describing data: descriptive statistics",
+    "name": "Presentation of data",
+    "start": 127,
+    "end": 140,
+    "pages": 14,
+    "chars": 19972,
+    "file": "source/math_raw/12_3.3.txt"
+  },
+  "13": {
+    "code": "3.4",
+    "unit": "Representing and describing data: descriptive statistics",
+    "name": "Bivariate data",
+    "start": 141,
+    "end": 157,
+    "pages": 17,
+    "chars": 31404,
+    "file": "source/math_raw/13_3.4.txt"
+  },
+  "14": {
+    "code": "4.1",
+    "unit": "Dividing up space: coordinate geometry, lines, Voronoi diagrams",
+    "name": "Coordinates, distance and the midpoint formula in 2D and 3D",
+    "start": 158,
+    "end": 164,
+    "pages": 7,
+    "chars": 10812,
+    "file": "source/math_raw/14_4.1.txt"
+  },
+  "15": {
+    "code": "4.2",
+    "unit": "Dividing up space: coordinate geometry, lines, Voronoi diagrams",
+    "name": "Gradient of a line and its applications",
+    "start": 165,
+    "end": 173,
+    "pages": 9,
+    "chars": 12796,
+    "file": "source/math_raw/15_4.2.txt"
+  },
+  "16": {
+    "code": "4.3",
+    "unit": "Dividing up space: coordinate geometry, lines, Voronoi diagrams",
+    "name": "Equations of straight lines: different forms of equations",
+    "start": 174,
+    "end": 185,
+    "pages": 12,
+    "chars": 18177,
+    "file": "source/math_raw/16_4.3.txt"
+  },
+  "17": {
+    "code": "4.4",
+    "unit": "Dividing up space: coordinate geometry, lines, Voronoi diagrams",
+    "name": "Parallel and perpendicular lines",
+    "start": 186,
+    "end": 197,
+    "pages": 12,
+    "chars": 20737,
+    "file": "source/math_raw/17_4.4.txt"
+  },
+  "18": {
+    "code": "4.5",
+    "unit": "Dividing up space: coordinate geometry, lines, Voronoi diagrams",
+    "name": "Voronoi diagrams and the toxic waste dump problem",
+    "start": 198,
+    "end": 213,
+    "pages": 16,
+    "chars": 33361,
+    "file": "source/math_raw/18_4.5.txt"
+  },
+  "19": {
+    "code": "5.1",
+    "unit": "Modelling constant rates of change: linear functions",
+    "name": "Functions",
+    "start": 214,
+    "end": 228,
+    "pages": 15,
+    "chars": 18056,
+    "file": "source/math_raw/19_5.1.txt"
+  },
+  "20": {
+    "code": "5.2",
+    "unit": "Modelling constant rates of change: linear functions",
+    "name": "Linear models",
+    "start": 229,
+    "end": 242,
+    "pages": 14,
+    "chars": 22070,
+    "file": "source/math_raw/20_5.2.txt"
+  },
+  "21": {
+    "code": "5.3",
+    "unit": "Modelling constant rates of change: linear functions",
+    "name": "Arithmetic sequences",
+    "start": 243,
+    "end": 254,
+    "pages": 12,
+    "chars": 21868,
+    "file": "source/math_raw/21_5.3.txt"
+  },
+  "22": {
+    "code": "5.4",
+    "unit": "Modelling constant rates of change: linear functions",
+    "name": "Modelling",
+    "start": 255,
+    "end": 272,
+    "pages": 18,
+    "chars": 31156,
+    "file": "source/math_raw/22_5.4.txt"
+  },
+  "23": {
+    "code": "6.1",
+    "unit": "Modelling relationships: linear correlation of bivariate data",
+    "name": "Measuring correlation",
+    "start": 273,
+    "end": 282,
+    "pages": 10,
+    "chars": 14556,
+    "file": "source/math_raw/23_6.1.txt"
+  },
+  "24": {
+    "code": "6.2",
+    "unit": "Modelling relationships: linear correlation of bivariate data",
+    "name": "The line of best fit",
+    "start": 283,
+    "end": 295,
+    "pages": 13,
+    "chars": 20697,
+    "file": "source/math_raw/24_6.2.txt"
+  },
+  "25": {
+    "code": "6.3",
+    "unit": "Modelling relationships: linear correlation of bivariate data",
+    "name": "Interpreting the regression line",
+    "start": 296,
+    "end": 310,
+    "pages": 15,
+    "chars": 29345,
+    "file": "source/math_raw/25_6.3.txt"
+  },
+  "26": {
+    "code": "7.1",
+    "unit": "Quantifying uncertainty: probability, binomial and normal distributions",
+    "name": "Theoretical and experimental probability",
+    "start": 311,
+    "end": 318,
+    "pages": 8,
+    "chars": 15489,
+    "file": "source/math_raw/26_7.1.txt"
+  },
+  "27": {
+    "code": "7.2",
+    "unit": "Quantifying uncertainty: probability, binomial and normal distributions",
+    "name": "Representing combined probabilities with diagrams",
+    "start": 319,
+    "end": 326,
+    "pages": 8,
+    "chars": 14885,
+    "file": "source/math_raw/27_7.2.txt"
+  },
+  "28": {
+    "code": "7.3",
+    "unit": "Quantifying uncertainty: probability, binomial and normal distributions",
+    "name": "Representing combined probabilities with diagrams and formulae",
+    "start": 327,
+    "end": 338,
+    "pages": 12,
+    "chars": 21065,
+    "file": "source/math_raw/28_7.3.txt"
+  },
+  "29": {
+    "code": "7.4",
+    "unit": "Quantifying uncertainty: probability, binomial and normal distributions",
+    "name": "Complete, concise and consistent representations",
+    "start": 339,
+    "end": 345,
+    "pages": 7,
+    "chars": 14840,
+    "file": "source/math_raw/29_7.4.txt"
+  },
+  "30": {
+    "code": "7.5",
+    "unit": "Quantifying uncertainty: probability, binomial and normal distributions",
+    "name": "Modelling random behaviour: random variables and probability distributions",
+    "start": 346,
+    "end": 355,
+    "pages": 10,
+    "chars": 17081,
+    "file": "source/math_raw/30_7.5.txt"
+  },
+  "31": {
+    "code": "7.6",
+    "unit": "Quantifying uncertainty: probability, binomial and normal distributions",
+    "name": "Modelling the number of successes in a fixed number of trials",
+    "start": 356,
+    "end": 367,
+    "pages": 12,
+    "chars": 26466,
+    "file": "source/math_raw/31_7.6.txt"
+  },
+  "32": {
+    "code": "7.7",
+    "unit": "Quantifying uncertainty: probability, binomial and normal distributions",
+    "name": "Modelling measurements that are distributed randomly",
+    "start": 368,
+    "end": 390,
+    "pages": 23,
+    "chars": 46987,
+    "file": "source/math_raw/32_7.7.txt"
+  },
+  "33": {
+    "code": "8.1",
+    "unit": "Testing for validity: Spearman's, hypothesis testing and test for independence",
+    "name": "Spearman's rank correlation coefficient",
+    "start": 391,
+    "end": 394,
+    "pages": 4,
+    "chars": 6973,
+    "file": "source/math_raw/33_8.1.txt"
+  },
+  "34": {
+    "code": "8.2",
+    "unit": "Testing for validity: Spearman's, hypothesis testing and test for independence",
+    "name": "Chi-squared test for independence",
+    "start": 395,
+    "end": 409,
+    "pages": 15,
+    "chars": 31268,
+    "file": "source/math_raw/34_8.2.txt"
+  },
+  "35": {
+    "code": "8.3",
+    "unit": "Testing for validity: Spearman's, hypothesis testing and test for independence",
+    "name": "Chi-squared goodness of fit test",
+    "start": 410,
+    "end": 414,
+    "pages": 5,
+    "chars": 11591,
+    "file": "source/math_raw/35_8.3.txt"
+  },
+  "36": {
+    "code": "8.4",
+    "unit": "Testing for validity: Spearman's, hypothesis testing and test for independence",
+    "name": "The t-test",
+    "start": 415,
+    "end": 429,
+    "pages": 15,
+    "chars": 31376,
+    "file": "source/math_raw/36_8.4.txt"
+  },
+  "37": {
+    "code": "9.1",
+    "unit": "Modelling relationships with functions: power functions",
+    "name": "Quadratic models",
+    "start": 430,
+    "end": 435,
+    "pages": 6,
+    "chars": 9296,
+    "file": "source/math_raw/37_9.1.txt"
+  },
+  "38": {
+    "code": "9.2",
+    "unit": "Modelling relationships with functions: power functions",
+    "name": "Problems involving quadratics",
+    "start": 436,
+    "end": 447,
+    "pages": 12,
+    "chars": 18776,
+    "file": "source/math_raw/38_9.2.txt"
+  },
+  "39": {
+    "code": "9.3",
+    "unit": "Modelling relationships with functions: power functions",
+    "name": "Cubic models, power functions and direct and inverse variation",
+    "start": 448,
+    "end": 458,
+    "pages": 11,
+    "chars": 20068,
+    "file": "source/math_raw/39_9.3.txt"
+  },
+  "40": {
+    "code": "9.4",
+    "unit": "Modelling relationships with functions: power functions",
+    "name": "Optimization",
+    "start": 459,
+    "end": 469,
+    "pages": 11,
+    "chars": 18591,
+    "file": "source/math_raw/40_9.4.txt"
+  },
+  "41": {
+    "code": "10.1",
+    "unit": "Modelling rates of change: exponential and logarithmic functions",
+    "name": "Geometric sequences and series",
+    "start": 470,
+    "end": 478,
+    "pages": 9,
+    "chars": 14257,
+    "file": "source/math_raw/41_10.1.txt"
+  },
+  "42": {
+    "code": "10.2",
+    "unit": "Modelling rates of change: exponential and logarithmic functions",
+    "name": "Compound interest, annuities, amortization",
+    "start": 479,
+    "end": 490,
+    "pages": 12,
+    "chars": 18991,
+    "file": "source/math_raw/42_10.2.txt"
+  },
+  "43": {
+    "code": "10.3",
+    "unit": "Modelling rates of change: exponential and logarithmic functions",
+    "name": "Exponential models",
+    "start": 491,
+    "end": 494,
+    "pages": 4,
+    "chars": 7500,
+    "file": "source/math_raw/43_10.3.txt"
+  },
+  "44": {
+    "code": "10.4",
+    "unit": "Modelling rates of change: exponential and logarithmic functions",
+    "name": "Exponential equations and logarithms",
+    "start": 495,
+    "end": 507,
+    "pages": 13,
+    "chars": 26343,
+    "file": "source/math_raw/44_10.4.txt"
+  },
+  "45": {
+    "code": "11.1",
+    "unit": "Modelling periodic phenomena: trigonometric functions",
+    "name": "An introduction to periodic functions",
+    "start": 508,
+    "end": 512,
+    "pages": 5,
+    "chars": 8816,
+    "file": "source/math_raw/45_11.1.txt"
+  },
+  "46": {
+    "code": "11.2",
+    "unit": "Modelling periodic phenomena: trigonometric functions",
+    "name": "An infinity of sinusoidal functions",
+    "start": 513,
+    "end": 518,
+    "pages": 6,
+    "chars": 9089,
+    "file": "source/math_raw/46_11.2.txt"
+  },
+  "47": {
+    "code": "11.3",
+    "unit": "Modelling periodic phenomena: trigonometric functions",
+    "name": "A world of sinusoidal models",
+    "start": 519,
+    "end": 532,
+    "pages": 14,
+    "chars": 21609,
+    "file": "source/math_raw/47_11.3.txt"
+  },
+  "48": {
+    "code": "12.1",
+    "unit": "Analyzing rates of change: differential calculus",
+    "name": "Limits and derivatives",
+    "start": 533,
+    "end": 538,
+    "pages": 6,
+    "chars": 9546,
+    "file": "source/math_raw/48_12.1.txt"
+  },
+  "49": {
+    "code": "12.2",
+    "unit": "Analyzing rates of change: differential calculus",
+    "name": "Equations of tangent and normal",
+    "start": 539,
+    "end": 543,
+    "pages": 5,
+    "chars": 8320,
+    "file": "source/math_raw/49_12.2.txt"
+  },
+  "50": {
+    "code": "12.3",
+    "unit": "Analyzing rates of change: differential calculus",
+    "name": "Maximum and minimum points and optimization",
+    "start": 544,
+    "end": 557,
+    "pages": 14,
+    "chars": 25667,
+    "file": "source/math_raw/50_12.3.txt"
+  },
+  "51": {
+    "code": "13.1",
+    "unit": "Approximating irregular spaces: integration",
+    "name": "Finding areas",
+    "start": 558,
+    "end": 575,
+    "pages": 18,
+    "chars": 21203,
+    "file": "source/math_raw/51_13.1.txt"
+  },
+  "52": {
+    "code": "13.2",
+    "unit": "Approximating irregular spaces: integration",
+    "name": "Integration: the reverse process of differentiation",
+    "start": 576,
+    "end": 591,
+    "pages": 16,
+    "chars": 23880,
+    "file": "source/math_raw/52_13.2.txt"
+  }
+}

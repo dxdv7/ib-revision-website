@@ -1,0 +1,1394 @@
+2.3
+2.3 3D geometry: solids, surface 
+area and volume
+This cube is known as the Necker cube 
+and shows the edges of the cube without 
+any depth cues.
+When you stare at the cube frame for 
+a while, you will be able to see two 
+different images.
+When you draw a diagram of a solid 
+you need to draw the edges that are not 
+visible with dotted lines. Using square 
+paper can help you draw the parallel and 
+congruent edges.
+This cube is called the impossible cube 
+and was invented by the Dutch artist 
+M. C. Escher.
+Why do you thinkthe cube is called 
+impossible?
+What is impossible about it?
+0
+Shapes with three dimensions (length, width and 
+height) are called solids.
+A polyhedron is a solid composed of polygonal 
+faces that connect along line segments called 
+edges. Edges meet at a point, called a vertex 
+(plural vertices).
+TOK
+What are the platonic 
+solids and why are 
+they an important 
+part of the language of 
+mathematics?
+Investigation 8
+1 Six solids are given below.
+In your small group, compare the solids, discuss their similarities and differences and complete the table. 
+Sketch each solid.
+What elements can you use to describe these solids?
+Which of these solids are polyhedra? Are there solids that are not?
+o
+Continued on next page
+69
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Solid
+Name
+Solid description
+Sketch of solid
+Main elements
+A
+Triangular
+6 vertices
+Cl
+Height [h]
+prism
+2 equal triangular
+Elements of the
+faces
+A1
+L J B1
+base: side and cor-
+X V7
+3 rectangular
+\c
+responding height,
+Wy
+faces
+/ \
+ortwo sides and an
+9 edges
+A
+B
+angle between
+2 What are some real-life examples of the solids in the table?
+Investigation 9
+1 Six solids are given below.
+In your small group, compare the solids, discuss their similarities and differences and complete the 
+table.
+Sketch each solid.
+What elements can you use to describe these solids?
+Solid
+Name
+Solid Description
+Sketch of Solid
+Main Elements
+A
+Rectangular
+pyramid
+5 vertices
+1 rectangular base
+5 triangular faces (the 
+opposite faces congruent)
+8 edges
+E
+/V \ 
+// 1 
+/ / 1
+/ /__
+X'd
+A
+B
+Height [h] 
+Elements of the 
+base: length and 
+width
+2 What are some real-life examples of the solids in the table?
+? 0
+
+2.3
+The base of a pyramid is a polygon, and the three or more triangular faces of 
+the pyramid meet at a point known as the apex. In a right pyramid, the apex is 
+vertically above the centre of the base.
+The labelled figure below is a square-based pyramid, but there are also triangular- 
+based pyramids (tetrahedrons), hexagonal-based pyramids and so on.
+r~ aPex
+height /^n6Ularf3Ce 4
+// /
+Uase
+Square-based pyramid 
+Tetrahedron
+Hexagonal-based pyramid
+There is a close relationship between pyramids and cones. The only 
+difference is that the base of a cone is a circle.
+A sphere is defined as the set of all points in three-dimensional space that are 
+equidistant from a central point. Half of a sphere is called a hemisphere.
+Cone 
+Sphere 
+Hemisphere
+International 
+mindedness
+The stones used to make 
+the pyramids in Egypt 
+were constructed with a 
+13-knot rope replicating 
+the shape of a 3-4-5 
+triangle to ensure sides 
+meeting at right angles.
+Example 17
+Sketch a right rectangular pyramid.
+Use square paper if possible as it is easier to draw
+the parallel and congruent segments with equal
+length, such as [AB] and [DC], and [AD] and [BC]
+/
+Also note that all invisible edges, like [AD] and
+D//
+/ 
+//
+/*
+ft
+c
+[DC], and other invisible segments, like [AC] and 
+[BD], are drawn with dotted lines.
+The height [EO] should be perpendicular to [AC] 
+and [BD].
+Label all vertices.
+„ -
+' C
+/
+8
+1 Sketch a cube with sides 3 cm.
+2 Sketch a prism with length 5 cm and a 
+regular hexagonal face with sides 3 cm and 
+length 5 cm.
+3 a Sketch a rectangular-based pyramid with 
+base dimensions 3 cm by 4 cm and slant 
+height 3 cm.
+b Sketch a rectangular-based pyramid 
+with base dimensions 3 cm by 4 cm and 
+vertical height 5 cm.
+71
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Example 18
+Cuboid ABCDEFGH has dimensions 4 cm, 5 cm and 6 cm 
+as shown.
+Find
+a the length of the diagonal [DF] 
+b the size of BDF.
+You can use the Pythagorean theorem and trigonometry to calculate 
+lengths and angles in 3D shapes.
+Example 19
+ABCDEFGH is a cuboid with dimensions 4 cm, 5 cm and 6 cm as 
+shown.
+M and N are the midpoints of [DH] and [BF] respectively.
+Find NEM.
+o
+72
+
+2.3
+a tan EBO = OE
+OB
+OB = sl82 + 52
+Since EO is the height of the pyramid, 
+the angle between [EB] and the base is 
+EBO.
+Consider the right triangle AEBO; you 
+can use the tan ratio to find EBO.
+O is the midpoint of [CB|.
+EBO = tan'1
+10 
+&9 
+v 2 )
+= 64.7° (3 sf)
+b BfiC = 2 BfeO
+BEO = 180° — (90° + 64.7467...°) = 25.2533...° 
+BEC = 50.5° (3 sf)
+c tanEMO= —= —
+OM 4
+EMO = tan
+^1 = 59.0° (3 sf)
+The line [EO] bisects BEC.
+M is the midpoint of [AC], so OM = 4 cm.
+cos N EM = -EN2+EM2-MN2 
+2x EN x EM
+MN2 = AB2 + AD2 = 41 
+EN2 = EF2 + FN2 = 34 
+EM2 = EH2 + HM2 = 25
+( 34 + 25-41 A
+NEM = cos
+2x^34 x>/25
+= 72.0° (3 sf)
+Consider AEMN. You can use the cosine 
+rule to find NEM.
+MN = BD
+| EN I is the hypothenuse of AEFN.
+|EM] is the hypothenuse of AEHM.
+Substitute the lengths into the formula 
+for the cosine rule.
+Example 20
+A rectangular pyramid ABCDE has a base with dimensions 8 cm 
+and 5 cm and vertical height 10 cm. O is the centre of the base 
+and is directly below the apex E.
+Find the size of the angle
+a between the edge |BE| and the base ABDC of the pyramid 
+b between the edges [EB] and [EC] 
+c EMO, where M is the midpoint of [AC].
+©
+to
+?3
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+1 A cuboid ABCDEFGH with dimensions 6 m 
+by 6 m by 10.5m is shown in the diagram 
+below. Sketch the cuboid and mark the 
+angles described below. Find:
+a the length of [DF] 
+b the size of the angle between |DF) and 
+base ABCD
+c the size of the angle between [DF] and 
+face DCGH.
+10.5 m
+2 A glass case in the shape of a regular 
+triangular prism ABCDEF has a base with 
+side 3 cm and height 12 cm. H is the 
+midpoint of [BC], and G is the midpoint of 
+[AB]. Sketch the prism and mark the angles 
+described below. The case is to enclose an 
+art piece in the shape of a triangle attached 
+at D, G and I.
+a the angle between [DC] and the base DEF 
+b the length of [GI] 
+c the length of [DG].
+A heap of grain is shaped as a cone ADCF 
+with height 5 m and base radius 2 m, as 
+shown on the diagram. A and C are points 
+on the circumference of the circular base of 
+the cone and AOC = 120°.
+Sketch the cone and label the angles 
+described below. Find:
+a the angle between [AF] and the base of 
+the cone
+the slant height of the heap 
+the angle between [AF] and [CF]. 
+F
+A cylinder with height 11 cm and radius 
+3 cm is shown in the diagram. D and O 
+are the centres of the circular faces of the 
+cylinder. A and C are two points on the 
+circle with centre O, and CAO = 20°. Point 
+B is on the edge of the top face of the circle. 
+The lines |AB] and |OD) are parallel.
+Find:
+d the length of [AC] 
+e the length of |BC |
+f the angle between [BC] and the base 
+with centre O.
+11 cm
+3 cm
+7 4
+
+2.31
+Nets of solids
+Investigation 10
+A net is a two-dimensional representation of a three-dimensional object.
+2 
+Match the nets with the corresponding solids from Table 2.
+3 
+Name each solid.
+Imagine making cuts along some edges of a solid and opening it 
+up to form a Hal figure. The flat (plane) figure is called a net of the 
+solid. Each two-dimensional net of a solid can be folded into a three- 
+dimensional solid, as in the diagram below.
+Example 21
+State which of the following nets can make a 
+cube.
+?S
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+O The nets labelled a, b, e and f can be folded 
+into a cube, whereas the ones labelled c and 
+d cannot.
+Check by cutting out the patterns and 
+assembling them into a cube. Can you 
+explain why the nets c and d cannot make 
+a cube?
+Not all nets can be folded into a 3D figure, although they may have the 
+correct number of faces.
+Investigation 11
+The diagram shows the nets of some boxes without lids.
+1 
+If you cut out each net, fold it into a box, and fill the box with 
+cubes, how many cubes would it take to fill the box? Make 
+a prediction first, and then find the number of cubes. You 
+may want to cut out the nets and fold them into boxes.
+2 
+What strategy did you use to find the number of cubes 
+that would fill each box? Are there different possible 
+strategies to find this number?
+3 
+Given a net, generate a formula for finding the number 
+of cubes that will fill the box created by the net. How is 
+your generalization related to the volume formula for a 
+rectangular prism (V = length x width x height) ?
+4 
+Imagine another box that holds twice as many cubes as 
+Box A. What are the possible dimensions of this new box 
+with a doubled volume?
+Volume of a cuboid = length x width x height = area of the base x height
+Volume of prisms and cylinders
+For some solids, called prisms, the base 
+is of the same shape and size as any 
+cross-section (slice) of the solid made 
+with a plane that is parallel to the base.
+TOK
+Why are symbolic 
+representations of 
+three-dimensional 
+objects easier to 
+deal with than visual 
+representations?
+What does this tell us 
+about our knowledge of 
+mathematics in other 
+dimensions?
+\
+To find the volume of a prism, use the formula 
+V= area of cross-section x height
+7 6
+
+2.31
+This method can be used to find the volume of all prisms whether 
+rectangular, triangular, hexagonal, octagonal or having irregularly 
+shaped bases with congruent cross-sections.
+Example 22
+Babreka (The Kidney) is a lake in the Rila mountains, 
+Bulgaria, with the shape of a kidney. Its area is 
+85 000 m2, and the average depth is 28 m. Estimate 
+the volume of water in the lake, in m\
+V= area of cross-section x height
+We assume that the water in the lake has a
+3D shape with uniform cross-sections that
+V=85000x28
+have the shown kidney shape.
+V= 2 380 000 m3
+The depth of the lake is the same as the
+height of the water.
+A cylinder is a special case of a prism, with a circular cross-section.
+The volume of a cylinder where the radius of the circular
+\
+cross-section is r and the height is h is nr2h.
+h\
+Example 23
+Calculate the volume of the cylinder with radius 2 cm 
+and height 7.5 cm.
+a
+7.5 cm
+Volume = n x 22 x 7.5 = 94.2 cm* (3 sf)
+Area of cross-section = nr2.
+Example 24
+Find the volume of the triangular prism 
+whose base is an isosceles triangle where 
+the equal sides are 12 cm and the angle 
+between them is 130°. The height of the 
+prism is 15 cm.
+Continued on next page
+??
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+O
+f, 12 x 12 x sinl30°
+V =---------------------- x 15
+2
+To find the volume you need to find the 
+area of the triangular base, for which you
+= 827 cm3 (3 sf)
+can use the area formula.
+Remember that the volume is measured in 
+cubic units.
+1 A swimming pool with the 
+dimensions shown is filled 
+with water. The cost to fill the 
+pool is $0.15 per cubic metre 
+of water. Find the cost of 
+filling the pool.
+2 A ornament is made in the 
+shape of a triangular prism. 
+The ornament is made 
+from mahogany, which 
+has a density of 0.71 g/cm3. 
+Calculate the mass of the 
+ornament.
+3 A solid metal cylinder has the 
+following dimensions.
+The cylinder is melted down 
+into 2 cm cubes.
+How many cubes can be 
+made?
+4 Nasim fills a measuring jug 
+with 310 cm3 of water. She 
+pours the water into a cylin 
+drical vase with radius 4 cm. 
+Find the height of water in cm.
+5 The volume of a regular 
+hexagonal prism is 2800 cm3. 
+The height of the prism is
+14 cm. Find the side of the 
+hexagonal base in cm.
+TOK
+How is mathematical 
+knowledge considered 
+from a sociocultural 
+perspective?
+78
+
+2.3
+Volume of pyramids, cones and spheres
+Investigation 12
+1 
+Comparing the volume of prisms and pyramids
+Take a plastic prism and a plastic pyramid with the same height and the same base. Fill the pyramid with 
+water and pour into the prism. Repeat until the prism is filled to the top.
+a What is the relationship between the volume of a prism and the volume of a pyramid with the same 
+base area and height? Make a conjecture about the formula for the volume of a pyramid. Write it down.
+2 Comparing the volume of cylinders, cones and spheres
+Take a plastic cone, a plastic sphere and a plastic cylinder with the same height and radius. If we take a 
+close look at the sphere , we can see that h = 2r. Using water (or rice or popcorn), experiment with filling 
+the 3D shapes to determine the relationships between their volumes.
+a What is the relationship between the volume of a cylinder and the volume of a cone with the same 
+radius and height? Make a conjecture about the formula for the volume of a cone. Write it down, 
+b What is the relationship between the volume of a cylinder and the volume of a sphere with the same 
+radius and height? Make a conjecture about the formula for the volume of a sphere. Write it down, 
+c Did you find another relationship between the volumes of two of the solids? Make a conjecture and 
+write it down.
+Shape
+Pyramid
+Prism
+Cone
+Cylinder
+Sphere
+Volume
+V = -(base area x h)
+base area x h V=— nr2h
+3
+7tr2xh
+V = -7rr3
+3
+• 
+The volume of a pyramid is a third of the volume of a prism with the same base and height.
+• 
+The volume of a cone is a third of the volume of a cylinder with the same radius and height. The 
+volume of the cone is also the same as a pyramid with the same base area and height.
+• 
+The volume of a sphere is four times the volume of a cone with the same radius and with height that 
+is twice the radius.
+?9
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Example 25
+Calculate the volume of each solid.
+a V = i(4 x 3.5 x 7.4) = 34.5 cm’ (3 sf)
+Use V = i(base area x height)
+b height = U.52-3.22 = 1 1.0458... cm*
+Use the Pythagorean theorem to find 
+the vertical height of the cone.
+V = -j i x 3.22 x 1 1.04 58... = 118 cm’ (3 sf)
+Use V = -7tr2h to find the volume.
+3
+3
+Example 26
+A cylindrical can holds three tennis balls. Each ball 
+has a diameter of 6 cm, which is the same diameter 
+as the cylinder, and the cylinder is filled to the top. 
+Calculate the volume of space in the cylinder not taken 
+up by the tennis balls.
+Volume of cylinder = n x 31 
+2 x 18 = 508.9 cm3
+Sphere: radius = 3 cm
+Volume of 1 ball = — n x 33 = 113.1 cm3
+3
+The cylinder has 
+radius 3 cm and 
+height 18 cm.
+Volume of 3 balls = 339.3 cm3
+Space = 508.9 - 339.3 = 396 cm3 (3 sf)
+International 
+mindedness
+Diagrams of the 
+Pythagorean theorem 
+occur in early Chinese 
+and Indian manuscripts. 
+The earliest references to 
+trigonometry are in Indian 
+mathematics.
+1 Calculate the volume of:
+a a cylinder with radius 3 cm and height 
+23 cm
+b a sphere with radius 2 cm 
+c a cone with radius 2.1 cm and height 7.3 an
+d a hemisphere with radius 3.1 cm 
+e a rectangular pyramid with length 8 cm, 
+width 5 cm and vertical height 
+17 cm.
+80
+
+2.3
+2 A family is replacing the cylindrical hot 
+water boiler of the house. They cannot 
+change the height of the boiler but they 
+can double its diameter. If the previous 
+tank could hold 100 litres, can we predict 
+what the new tank will hold? What would 
+happen if the diameter of the tank is tripled?
+3 Palabora Mine, Phalaborwa, is a South 
+African copper mine. A total of 4.1 million 
+tonnes of copper have been extracted from 
+this mine. In the image shown, Dillon 
+Marsh, a South African artist, has combined 
+photography and computer imaging to 
+visualize the total copper output of the mine.
+The copper sphere in the image is placed 
+on the ground from which it was extracted, 
+and represents a scale model of the copper 
+removed from the mine. Find the radius 
+of the copper sphere, given that 1 m3 of 
+copper weighs about 8930 kg.
+Surface area of solids
+Investigation 13
+Surface area of a prism
+1 Take two standard sheets of paper for printing.
+Fold one of then along the longer side so that you make four congruent 
+rectangles, and fold the other one along the shorter side so that you make four 
+congruent rectangles. Fold each sheet to make two open-ended prisms and use 
+tape to connect the edges.
+a Find the surface areas of the prisms without considering their bases. Will 
+the two surface areas be different or the same? 
+b Try to generate a formula for the surface area of any prism without the 
+bases.
+1 |
+c What would be the formula for the surface area of any prism with the bases 
+(the total surface area)?
+Surface area of a cylinder
+2 Take two standard sheets of paper for printing. Bend one of then along the longer side so that you make 
+a cylinder, and bend the other one along the shorter side so that you make another cylinder. Use tape to 
+connect the edges.
+a Find the surface areas of the cylinders without the areas of the bases. Are the curved surface areas 
+the same or different? Make a conjecture about how the two surface areas compare and write it 
+down.
+b Make a conjecture about how to find the surface area of any cylinder, with radius r and height h, 
+without the bases.
+c Make a conjecture about howto find the surface area of any cylinder, with radius rand height h, with 
+the bases.
+Continued on next page
+81
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+O Surface area of a pyramid
+3 
+A net of a rectangular pyramid is given (with the base). Fold along the dotted 
+lines and use tape to connect the edges.
+a Find the surface area of the pyramid without the base and write it down.
+b Make a conjecture about howto find the surface area of any pyramid 
+without the base and write it down.
+c Make a conjecture about how to find the surface area of any pyramid with 
+the base (the total surface area) and write it down.
+Surface area of a cone
+4 A net of a cone is given (with the base). Fold the net to make a cone and use tape 
+to connect the edges.
+HINT
+The curved surface of a cone is a sector of a circle. What is the radius 
+of this circle? What is the circumference of this circle? What is the 
+area of the circle? Can we find the area of the circle sector?
+n_____________________________________________________ /
+a Find the surface area of the cone without the base and write it down, 
+b Make a conjecture about howto find the surface area of any cone without the base and write it down, 
+c Make a conjecture about how to find the surface area of any cone with the base (the total surface 
+area) and write it down.
+d WWTWTfffTl What is the same about finding the surface areas of various solids? What is different?
+Surface area is measured in square units, eg cm2 and m2.
+To calculate the surface area of a cylinder, open out the curved surface 
+into a rectangle:
+To find the curved surface area (CSA) of a cylinder use the formula CS A = 2nrh. 
+To find the total surface area of a cylinder, find the curved surface area and 
+add on the areas of the two bases:
+82
+
+2.3 b
+1 Total surface area = 2nrh + 2/rr2
+The formula for the surface area (SA) of a sphere is
+S A = 4 nr2
+The curved surface area of a cone uses the length of 
+the slanted height /:
+CSA = n rl
+To find the total surface area of the cone, add 
+the area of the circular base:
+SA = nrl+ nr2
+To find the total surface area of a pyramid, add 
+together the areas of all the faces.
+Example 2?
+Find the total surface area of a rectangular-based 
+pyramid whose base has dimensions 10 m and 8 m, 
+and where the slant heights for the faces ABE and BCE 
+are 12 m and 13 m, respectively.
+Base area = 10 x 8 = 80
+To find the total surface area of the pyramid
+you need to add the areas of all faces.
+10 x 12
+ABE area =--------- = 60
+The pyramid has two pairs of congruent
+2
+faces: ABE and DCE; BCE and ADE.
+8x13
+BCE area =--------= 52
+2
+Total surface area = 80 + 2 x 60 + 2 x 52
+= 304 m2
+Example 28
+A cone has radius 5 cm and a total surface area of 300 cm2, rounded to the nearest 
+integer.
+Find:
+a the slant height, /, of the cone 
+b the height, h, of the cone.
+o
+Continued on next page
+83
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+O
+a 300 = k  x5x/ + n x52
+Total surface area = 2nrh + 2nr2
+/ = 14.0985...= 14.1 cm (3 sf)
+Substitute the given values and then use your GDC to 
+find the slant height, /. If you are not given a diagram, 
+sketch the cone for yourself so that you can reason 
+about what is given and what you need to find.
+c
+a ..............V-l....... v— y b
+V. 
+0 
+f=5cm y
+b h2 = P-r2
+Now that you know the radius and the slant height
+h = 414.09 8 5...2 — 52 = 13.2 cm (3 sf)
+you can find the cone height, h, from the triangle 
+OBC by using the Pythagorean theorem.
+Remember to use the unrounded value for / when 
+you calculate the value of h.
+1 Find the surface area of each of the following 
+solids:
+a a cylinder with radius 2.5 cm and height 7.3 cm 
+b a cone with radius 3.5 cm and height 12 cm.
+2 Find the surface area of the following solids:
+11 m
+3 Find the surface area of a hemisphere with 
+radius 4 cm and volume 30 cm3.
+4 A silo has a cylindrical part and a roof 
+that is a hemisphere. The radius of the 
+cylinder is 3 m and its height is 12 m.
+a Find the volume of the silo, 
+b The entire silo is to be painted. Find how 
+much paint is needed if 1 L of paint covers 
+8.5 m2 of surface.
+Developing your toolkit
+Now do the Modelling and investigation 
+activity on page 92.
+84
+
+21
+Chapter summary
+The sine rule
+• 
+For any AABC, where a is the length of the side opposite A, b is the 
+length opposite Band c is the length of the side opposite C:
+a _ b _ c sin A _ sin B _ sin C 
+sin A sin# sinC d 
+b 
+c
+Cosine rule
+• 
+For AABC, where a is the length of the side opposite A, b is the length of 
+the side opposite B and c is the length of the side opposite C:
+a2 = b2 + c2 - 2be cos A 
+b2 = a2 + c2 - laccosB 
+c2 = a2+ b2 - lab cos C
+Triangle area formula
+• The area of any triangle AABC is given by the formulae
+area = —besin A or area=-tfcsin# or area = -absin C 
+2 2 2
+Parallelogram area formula
+• The area of any parallelogram ABCD is given by the formula area
+Sector
+• 
+A sector is a portion of a circle lying between 
+two radii and the subtended arc.
+Sector area formula
+a x 
+#/rr2
+• Area ot sector =-------
+360
+where r is the radius of the circle and 6 is 
+the central angle in degrees.
+Solids
+• A prism is a solid shape that has the same 
+shape or cross-section all along its length.
+• A prism takes its name from the shape of its cross-section
+ab sin C
+85
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+The base of a pyramid is a polygon, and the three or more triangular faces of the pyramid meet at a 
+point known as the apex. In a right pyramid, the apex is vertically above the centre of the base.
+The figures below are examples of a square-based pyramid, a tetrahedron (triangular-based 
+pyramid) and a hexagonal-based pyramid.
+apex
+triangular face
+Square-based pyramid 
+Tetrahedron 
+Hexagonal-based pyramid
+There is a close relationship between pyramids and cones. The only difference is that the base of a 
+cone is a circle.
+A sphere is defined as the set of all points in three-dimensional space that are equidistant from a 
+central point. Half of a sphere is called a hemisphere.
+Cone
+Sphere
+Hemisphere
+• Volume of a cuboid = length x width x height = area of the base x height
+• 
+To find the volume of a prism, use the formula
+• V- area of cross-section x height
+• 
+The volume of a cylinder where the radius of the circular cross-section is r and the height is h is 
+nr2h
+Shape
+Pyramid
+Cone
+Sphere
+Volume
+V = i(base areaxheight)
+V = -nr2h
+3
+V = -nr'
+3
+The volume of a cone is a third of the volume of a cylinder with the same radius and 
+height.
+The volume of a cone is the same as a pyramid with the same base area and height.
+The volume of a sphere is four times the volume of a cone with the same radius and with height 
+that is twice the radius.
+86
+
+2g
+To find the curved surface area of a cylinder use the formula CS A = 2nrh.
+To find the total surface area of a cylinder, find the curved surface area and add on the areas of the 
+two circular ends:
+Total surface area = 2nrh + 2nr2 
+The formula for the surface area of a sphere is S A = 4nr2
+The curved surface area of a cone uses the length of the 
+slanted height /:
+CSA = nrl
+To find the total surface area of the cone, add the area of the 
+circular base:
+SA = 7tr/+ nr2
+To find the total surface area of a pyramid, add together the areas 
+of all the faces.
+Developing inquiry skills
+Look back at the opening problem. The radius of Mount Everest is approxi 
+mately 16 km, and the average snow depth is approximately 4 m. Estimate 
+the amount of snow on Mount Everest.
+E
+8?
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Chapter review
+1 Find the area of a triangular area having 
+two sides of lengths 90 m and 65 m and an 
+included angle of 105°.
+2 An aircraft tracking station spots two aircraft. 
+It determines the distance from a common 
+point O to each aircraft and the angle 
+between the aircraft. If the angle between 
+the two aircraft is 52° and the distances from 
+point O to the two aircraft are 58 km and
+75 km, find the distance between the two 
+aircraft. Write down your answer correct to 
+1 decimal place.
+3 A ship leaves port A at 10am travelling 
+north at a speed of 30 km/hour. At 12pm, 
+the ship is at point B and it adjusts its 
+course 20° eastward.
+a Determine how far the ship is from the 
+port at 1pm when it is at point C. Write 
+down your answer correct to the nearest 
+integer.
+b Determine the angle CAb .
+4 A sector of a circle has a radius of 5 cm and 
+central angle measuring 45°. Find the area 
+of the sector and the length of the arc.
+5 A circular sector has radius 4 cm and a 
+corresponding arc length of 1.396 cm 
+rounded to the nearest thousandth of a 
+centimetre. Find the area of the sector.
+6 Shown in the diagram are six concentric 
+circles with centre O, where OA = 10 cm,
+OB = 20 cm, OC = 30 cm, OD = 40 cm,
+OE = 50 cm and OF = 60 cm.
+Find:
+a the length of arc AG 
+b the length of arc BH 
+c the length of arc Cl 
+d Describe the relationship between the 
+lengths of arcs AG, BH and Cl, and 
+find the lengths of arcs [DJ] and [EK] 
+without calculating.
+Click here for a mixed 
+review exercise
+e Determine the area of sector OFL.
+7 The surface area to volume ratio (SA:V) is 
+an important measure in biology. Living 
+cells can only get materials (like glucose and 
+oxygen) in and can only get waste products 
+out through the cell membrane. The larger 
+the surface area of the cell membrane in 
+relation to the cell volume the faster the cell 
+is "serviced".
+a Calculate the surface area, volume and 
+surface area to volume ratio (SA:V) for 
+each of the shapes below.
+i Cubes
+Side
+1cm
+2 cm
+4cm
+Surface area
+Volume
+Surface area to 
+volume ratio, SA:V
+ii Spheres
+Diameter
+1cm
+2 cm
+4 cm
+Surface area
+Volume
+Surface area to volume 
+ratio, SA:V
+88
+
+2
+iii Cylinders
+Diameter x length
+1cm
+x 1cm
+1cm
+x2cm
+1cm
+x4cm
+Surface area
+Volume
+Surface area to 
+volume ratio, SA:V
+iv Cuboids
+Base side x length
+1cm x
+1cm
+1 cm x
+2 cm
+lcmx
+4 cm
+Surface area
+Volume
+Surface area to 
+volume ratio, SA:V
+b State what conclusion you have reached 
+about the best shapes (and size) for cells 
+to take to achieve a higher surface area 
+to volume ratio (SA:V).
+8 A bolt is made of steel and has dimensions 
+shown in the diagram below.
+2 cm
+r<S>1
+Find the:
+a volume of the bolt 
+b surface area of the bolt.
+9 Buildings A and B are rectangular prisms 
+with height 8 m, as shown in the diagram. 
+The length of building A is 10 m, and its 
+width is 7.5 m. The length of building B 
+is 22 m, and its width is 11 m. The two 
+buildings intersea, and the intersection 
+forms a prism with a square base of 5 m. 
+Find the volume of the composite building.
+10 A triangular prism ABCDEF has edges 
+AB = BC = 6cm, AC = 4cm and 
+BD = 8 cm.
+Calculate the area of AACD. Give your 
+answer correct to 1 decimal place.
+11 A regular dodecahedron has edges of 2 cm. 
+Calculate the surface area.
+12 Cube ABCDEFGH has an edge length of 
+6cm. 1J and K are the midpoints of edges 
+[EF], [FG] and [FB] respectively. Vertex F 
+has been ait off, as shown in the diagram, 
+by removing pyramid DKF. Find the 
+remaining volume and surface area of the 
+aibe.
+H
+89
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Exam-style questions
+13 PI: A triangular field has boundaries of 
+h length 170 m, 195 m and 210 m.
+a Find the size of the largest interior 
+angle of the field. 
+(3 marks)
+b Hence find the area of the field, 
+correct to 3 sf. 
+(3 marks)
+14 PI: To walk from his house (A) to his 
+m school (C), Oscar has a choice of
+walking along the straight roads AB 
+and BC, or taking a direct shortcut (AC) 
+across a field.
+Find how much shorter his journey will 
+be if he chooses to take the shortcut.
+A
+(3 marks)
+15 PI: The diagram shows a triangular field ABC. 
+h A farmer tethers his horse at point A 
+with a rope of length 85 m.
+B
+A 
+C
+300 m
+Find, correct to 3 sf., the area of the 
+field that the horse cannot reach.
+(6 marks)
+16 PI: In the following diagram, the plane 
+h figure ABCD is part of a sector of a 
+circle.
+OA = AB = 8 cm and AOD = 0°.
+o
+Given that the area of ABCD is 200 cm2, 
+determine the value of 0. Give your 
+answer correct to the nearest degree.
+(5 marks)
+1? PI: The diagram shows a quadrilateral 
+L ABCD.
+c
+a Find the perimeter of the
+quadrilateral. 
+(5 marks)
+b Find the area of the quadrilateral.
+(3 marks)
+18 PI: In AABC, ACB = 67°, AB = 6.9 cm and 
+L BC = 5.7 cm.
+a Calculate angle BAC. (3 marks) 
+b Hence find the area of AABC.
+(3 marks)
+19 PI: A small pendant ABCD is made from
+five straight pieces of metal wire as 
+shown in the diagram.
+B
+Calculate the total length of wire required 
+to make the pendant.
+(7 marks)
+90
+
+2
+20 PI: An icc cream cone consists of a circular 
+cone and a hemisphere of ice cream, 
+joined at their circular face.
+The hemisphere has radius 4 cm and 
+the cone's perpendicular height is 9 cm.
+a Find the total volume of the ice 
+cream and cone, giving your answer 
+in terms of n. 
+(4 marks)
+b Find the total surface area, giving 
+your answer to 3 sf. 
+(5 marks)
+21 PI: The diagram shows a hexagonal prism 
+h of height 12 cm.
+The edges of each hexagonal face have 
+length 4 cm.
+4 cm
+a Draw a net of the prism. (2 marks) 
+b Calculate the volume of the prism.
+(3 marks)
+c Calculate the total surface area of the 
+prism. 
+(2 marks)
+22 PI: Alan and Belinda stand on horizontal 
+h ground, 115m apart.
+Alan sees a bird in the sky at an angle 
+of elevation of 27° from where he is 
+standing.
+Belinda sees the same bird at an angle 
+of elevation of 42°.
+Alan and Belinda are standing on the 
+same side of the bird, and they both lie 
+in the same vertical plane as the bird.
+a Determine the direct distance of 
+Alan to the bird. 
+(4 marks)
+b Determine the altitude at which the 
+bird is flying. 
+(2 marks)
+23 PI: ABCDE is a square-based pyramid.
+The vertex E is situated directly above 
+the centre of the lace ABCD.
+AB = 16 cm and AE = 20 cm.
+E
+a Calculate the angle between the line 
+[AE] and the plane face ABCD.
+(4 marks)
+b Calculate the angle between the 
+plane face BCE and the face ABCD.
+(4 marks)
+c Calculate the angle between the line 
+[AE] and the line [EC]. 
+(2 marks)
+d Find the volume of the pyramid.
+(2 marks)
+e Find the total surface area of the 
+pyramid. 
+(3 marks)
+91
+Geometry and 
+trigonometry
+
+Modelling and investigation activity
+Three squares
+/-------------------------------------------------
+Approaches to learning: Research, Critical 
+thinking
+Exploration criteria: Personal engagement 
+(C), Use of mathematics (E)
+IB topic: Proof, Geometry, Trigonometry
+v_______________
+/---------------------------------------------------------------------------------------- \
+The problem
+Three identical squares with side length 1 are adjacent to one another. A 
+line connects one corner of the first square to the opposite corner of the 
+same square, another line connects to the opposite corner of the second 
+square and a third line connects to the opposite corner of the third square, 
+as shown in the diagram.
+A
+Find the sum of the three angles a, fi and (p.
+Exploring the problem
+Look at the diagram.
+What do you think the answer may be?
+Use a protractor if that helps.
+How did you come to this conjecture?
+Is it convincing?
+This is not an accepted mathematical truth. It is a conjecture, based on 
+observation.
+You now have the conjecture a + ft + &= 90° to be proved 
+mathematically.
+Direct proof
+What is the value of a?
+Given that a + 
+<p= 90°, what does this tell you about a and j3 + 0?
+What are the lengths of the three hypotenuses of AABC, AABD and 
+AABE?
+Hence explain how you know that AACD and AACE are similar.
+What can you therefore conclude about CAD and CEA?
+Hence determine why ACB = CAD + ADC and conclude the proof.
+92
+
+Proof using an auxiliary line
+An additional diagonal line, [CF], is drawn in the second square, and the 
+intersection point between [CF] and [AE] is labelled G:
+A 
+F
+Explain why BAC = a.
+Explain why EAF = 0.
+If you show that GAC = p, how will this complete the proof? 
+Explain how you know that AG AC and AABD are similar. 
+Hence explain how you know that GAC = BDA = ji.
+Hence complete the proof.
+Proof using the cosine rule
+The diagram is extended and the additional vertices of the large rectangle are 
+labelled X and Y and the angle is labelled 6:
+B 1 C 1 D 1 
+£ 
+1 
+1 Y
+Explain why XEY = /3.
+Calculate the lengths of [AE] and [AY].
+Now calculate AEY (6) using the cosine rule. 
+Hence explain how you know that p + 0 = 45°. 
+Hence complete the proof.
+Extension
+Research other proofs on the Internet.
+You could also try to produce a proof yourself.
+You do not have to stop working when you have the 
+proof.
+What could you do next?
+In the task in Chapter 8 you will use Spearman’s rank. 
+As future extension work, you could use the methods 
+in that task to rank these proofs and discuss the 
+results.
+93
+Modelling and investigation activity
+
+Representing and describing data: 
+descriptive statistics
+H How can a football coach determine 
+whether a particular strategy is
+likely to be successful?
+How can a 
+headteacher 
+determine 
+whether 
+teaching in 
+the school has 
+been effective?
+o
+How can you persuade a 
+potential customer that 
+your product is better 
+than the competition?
+How can we tell if the oceans 
+are warming?
+94
+Statistics is concerned with the collection, 
+analysis and interpretation of quantitative data. 
+Statistical representations and measures allow 
+us to represent data in many different forms to 
+aid interpretation. Both statistics and probability 
+provide important representations which enable 
+us to make predictions, valid comparisons and 
+informed decisions.
+f-------------------------------------------------------------- \
+How can scientists determine whether a 
+new drug is likely to be a successful cure?
+Concepts
+■ Representations
+■ Validity
+Microconcepts
+■ Population
+■ Bias
+■ Samples, random samples, sampling 
+methods
+■ Outliers
+■ Discrete and continuous data
+■ Histograms
+■ Box-and-whisker plots
+■ Cumulative frequency graphs
+■ Measures of central tendency and 
+dispersion
+■ Skewness
+■ Scatter graphs
+■ Correlation
+v________ __________________________ /
+
+Turkey
+Japan
+u
+Spain
+*
+: «-
+# Clilr <
+RoUnrt
+t
+>-i
+HonhKonui
+• China K9s »
+------ — 
+MHDCCO
+rv “ 
+<T-~-‘'“toot Brazi1
+Bangladesh 
+_ . • ^ 
+M
+4k 
+•«S5 
+®
+• »•■ 
+«.»— 
+Philippines , 
+• 
+w
+cwtoaw^ 
+Indonesia *— 
+*-*r
+■ Myanmar 
+.
+V .
+tf- T
+USA*
+Russia
+Ethiopia
+• “
+■ lumlM
+Kenya
+*~x>' • Q
+» *••«••’* A 
+C
+u 
+• _,
+.u» T.wnmn 
+Nigeria
+v* 
+•*""
+£ Uganda '«.^ a, 
+•Q
+D«m.Rep # 
+• 
+*cm.di.w
+A At^amstan
+ArgUe
+HEAJH & INCOME 
+OF NATIONS 
+IN 2015
+This graph compares 
+life expectancy & GOP per capita 
+for all 182 nations 
+d by the UN.
+COLOUR BY REGION
+SEE BY POPULATION
+1 000 
+million
+•- POOR
+INCOME
+RICH -
+www.gapminder.org
+a free fact-basal wortdvie’A
+® i?
+Name four pieces of information represented in this 
+graph.
+How do you think this data could have been 
+collected? How exact do you think it might be?
+Identify any relationships in the graph.
+Do you find anything surprising in the graph?
+Do you need to use all the data for analysis or can 
+you just use a sample of the data?
+Describe the scale on the x-axis. Why do you think it 
+has been done like that?
+Developing inquiry 
+skills
+Write down any similar inquiry questions 
+you might ask to investigate the relationship 
+between two different quantities, for 
+example, GDP per capita and infant mortality 
+or life expectancy and population.
+How are these questions different 
+from the ones used to investigate life 
+expectancy and income?
+Think about the questions in this opening 
+problem and answer any you can. As you 
+work through the chapter, you will gain 
+mathematical knowledge and skills that 
+will help you to answerthem all.
+Below is a graph of GDP per capita (gross domestic product per person) 
+and life expectancy taken from Gapminder (www.gapminder.org). 
+Click the icon to access the complete set of data.
+INCOME LEVELS »
+ure expectancy (years)
+50 
+55 
+60 
+65 
+70 
+75 
+80
+95
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+1 2 3 4 5 
+Number of children
+2 Obtain simple statistics from discrete data, 
+including the mean, median, mode and 
+range.
+eg Find the mean, median, mode and 
+range of the following data:
+2, 2, 3, 4, 6, 6, 6, 7, 8, 9 
+Mean = 5.3 Median = 6 
+Mode = 6 Range = 7
+3 Set up axes for graphs using a given scale.
+You should know howto:
+1 Collect data and represent it in bar charts, 
+pie charts, pictograms and line graphs, 
+eg The numbers of children in 20 families 
+are shown in the table:
+Represent this information in: 
+a a pictogram 
+b a bar chart
+c a pie chart.
+a © = 1 child
+Before you start
+1
+© © © ©
+2
+©©©©©©©©
+3
+© © © © ©
+4
+© ©
+5
+©
+Number of children
+Frequency
+1
+4
+2
+8
+3
+5
+4
+2
+5
+1
+Age
+Frequency
+0
+4
+1
+5
+2
+8
+3
+6
+4
+2
+O-
+Frequency
+O  N5 
+-fc* O  00 O
+96
+

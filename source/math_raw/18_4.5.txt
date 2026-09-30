@@ -1,0 +1,958 @@
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+4.5 Voronoi diagrams and the toxic 
+waste dump problem
+There are five airports in a state, represented by dots 
+on the diagram. The coloured regions on the diagram 
+indicate the points which are closest to a given airport. 
+For example, Airport 5 is the closest one to all points 
+in the purple region, and Airport 2 is the closest one 
+to the points that are in the green region. What do 
+you think this diagram can be used for? What kinds of 
+questions can it help answer?
+This is an example of a Voronoi diagram, named after the 
+mathematician Georgy Voronoy (1868-1908). Voronoi 
+diagrams have a large number of applications nowadays, such as in 
+science, technology and visual art.
+Reflect
+What does a Voronoi diagram show?
+; \ 
+The regions that include the closest points to a given point are called 
+cells, and the given points are called sites. The diagram above shows five 
+sites—the five airports—and five cells—the five coloured regions. The lines 
+separating the regions are called boundaries or edges.
+Investigation 13
+Three hospitals A, B and C lie inside a square of side length 
+10 units, which marks the boundaries of the town. The sides 
+of the square are formed by the lines a := Q,x = 10 ,y= 0 
+andy= 10.
+Use technology or graph paper to complete the investigation.
+1 On a coordinate system, draw the lines with equations.x= 0, 
+x= 10,y = 0 and y= 10 to mark the boundaries of the town.
+Hospitals A and B have coordinates (1, 8) and (8, 8).
+2 Locate them on the coordinate system and label them with 
+A and B.
+3 Locate the midpoint of [ AB | and label it with M1. Draw 
+the perpendicular bisector of [AB].
+4 Hospital C has coordinates (3,2). Locate the midpoint of 
+[AC] and label it with M2. Draw the perpendicular bisector 
+for A and C of [AC].
+A
+B
+c
+123456789 10
+Hospitals A, B and C located within the 
+town's boundaries
+5 Locate the midpoint of [BC] and label it with M3. Draw the perpendicular bisector of [BC].
+6 Would the perpendicular bisector of [AB] intersect the perpendicular bisector of [AC]? Explain why or why not.
+Would the perpendicular bisector of [ AB ] intersect the perpendicular bisector of [BC] ? Explain why or why not 
+Would the perpendicular bisector of [AC] intersect the perpendicular bisector of [BC] ? Explain why or why not. 
+Would all three perpendicular bisectors intersect in one point or not? Explain. 
+I
+190
+
+? Where would the boundaries of the Voronoi diagram be?
+8 ffTTiffWfffTl What does the boundary of a Voronoi diagram represent?
+9 Use the pentagon tool to shade in a different colour each region separated by the Voronoi diagram 
+boundaries.
+10 Which point is equally distant from the three hospitals A, B and C? Is there more than one such point?
+11 Samar’s house is located at point (4,5). Determine which hospital is closest to her house.
+12 ffffiTWCTfTl What does the Voronoi diagram show?
+13 CBHyWfTl Why is a vertex always equidistant from three sites?
+14 HAWAII Ml How many edges meet at a vertex of a Voronoi diagram?
+TOK
+John Snow used 
+Voronoi diagrams 
+to show that the 
+Broad Street cholera 
+outbreak that killed 
+816 people in London 
+in 18S2-60 was due 
+to contaminated water 
+and not air.
+\
+The boundaries of the cells in a Voronoi diagram are formed by the perpendic 
+ular bisectors of the line segments joining the sites. Usually all other lines 
+that do not form boundaries to the cells are erased when the construction of 
+the diagram is complete.
+; \
+A point at which cell boundaries meet in a Voronoi diagram is called a vertex.
+A vertex is equidistant from the three surrounding sites.
+Investigation 14
+There are three fire stations, A, B and C, in a town. The coordinates of the fire 
+stations are A( 1,4), B( 1,0) and C(4, 3).
+In order to improve response times, the township has installed a new 
+centralized fire response system, which allows a dispatchers send a fire 
+truck from the nearest fire station to the location of the fire. How should the 
+township be divided into regions so that there is one fire station in each region 
+and this fire station is the closest one to each house in the region?
+Use technology or graph paper to complete the investigation.
+1 
+Plot the fire stations A and B on coordinate axes, either by hand or using a 
+software package.
+2 
+Draw the perpendicular bisector of [ AB | and gently shade those points 
+nearest to A. How would you divide the township into two regions if fire 
+station C is not yet in operation?
+3 
+Add fire station C to the diagram, then find the equations of the 
+perpendicular bisectors of [AC] and [BC] and add these to the diagram. 
+How would you divide the township into three sections when the three fire 
+stations A, B and C are fully operational?
+4 The township is relocating fire station D within its territory. Station D will 
+have location (5,1). Divide the township into four regions for the four fire 
+stations A, B, C and D.
+TSS
+Many software packages 
+allow you to draw and 
+obtain the equations 
+of perpendicular 
+bisectors directly. If 
+not using software, a 
+perpendicular bisector 
+can be constructed 
+using a compass and 
+a ruler or by finding its 
+equation and sketching it.
+EXAM HINT
+In an exam you will 
+not be asked to draw a 
+perpendicular bisector 
+unless you already 
+have its equation.
+5 
+Why does adding the fire stations one by one make sense for creating a 
+town map?
+6 
+What is the incremental algorithm?
+191
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+It can be difficult to draw 
+all the perpendicular 
+bisectors at the same time 
+and then create a Voronoi 
+diagram, especially if the 
+number of sites is more 
+than three. The diagram 
+shows that even with just 
+four points (sites) there 
+are difficulties in deciding 
+which perpendicular 
+x bisectors to use to form 
+boundaries of the cells.
+The incremental algorithm described below avoids this problem by 
+adding each of the sites one at a time.
+Incremental algorithm for constructing Voronoi
+diagrams
+Method
+1 Plot the points A and B on coordinate axes, either by hand or using 
+a software package. Draw the perpendicular bisector of line segment 
+[AB] and gently shade the region of points nearest to A.
+2 Add point C to the diagram, then find the equations of the 
+perpendicular bisectors of [AC] and [BC] and add these to the 
+diagram.
+3 The incremental algorithm:
+I Begin with the perpendicular bisector which lies between the 
+new site C and the site in whose cell this vertex currently lies.
+ii Move along this line until you reach an intersection with 
+another of the perpendicular bisectors between the new site and 
+an existing one. (This will also be on a boundary of the previous 
+Voronoi diagram.)
+iii Leave the intersection along this other perpendicular bisector in 
+the direction that lies entirely in the cell surrounding another 
+of the sites. (This will be the direction that creates a convex 
+polygon around the new site.)
+iv The algorithm stops either when you return to your starting point 
+(if the cell is bounded) or if there are no more intersections (if 
+the cell is unbounded). In this case you may need to reverse the 
+direction of the algorithm to ensure all sides have been found.
+4 Shade the three regions making up the new Voronoi diagram.
+5 Having completed the diagram for the three sites A, B and C, you 
+can now add the next site, D. Repeat steps 2 and 3. This time there 
+will be two intersection points with the perpendicular bisectors of 
+[BD] and [AD].
+TOK
+Is mathematics 
+independent of culture?
+TS7
+Usually a final 
+version of the Voronoi 
+diagram will have 
+the perpendicular 
+bisectors removed so 
+that only the edges of 
+the regions remain.
+192
+
+4.5
+Reflect
+What is the incremental algorithm?
+In these questions, unless told to calculate 
+the equations of the perpendicular bisectors, 
+you can construct the lines with a pair of 
+compasses, by eye or by using software.
+1 By finding the perpendicular bisectors 
+between each pair of points, use the 
+incremental algorithm to complete the 
+Voronoi diagrams for the given sites.
+a (1,1), (3,1), (2,3) 
+b (1.1), (3,1), (3,5)
+2 A neighbourhood has three bookstores 
+located at A( 1,1), B(5,1) and C(5, 5).
+a Construct the Voronoi diagram for the 
+three bookstores A, B and C either by 
+hand or using a software package, 
+b Determine the closest bookstore to Kari, 
+whose house is located at (1,4).
+A fourth bookstore was built recently at 
+point D(3, 5).
+c Construct the Voronoi diagram for the 
+four bookstores A, B, C and D either by 
+hand or using a software package, 
+d Determine whether there is another 
+bookstore that is now closest to Kari's 
+house. If so, determine which one.
+The toxic waste dump problem
+This problem is to find the point on the Voronoi diagram that is as far 
+as possible from any of the sites. It is called the toxic waste dump 
+problem because one application might be to find where waste can be 
+deposited so that it is as far as possible from habitation.
+Investigation 15
+Toxic waste is to be deposited between three towns A, B and C.
+Find the point that is the farthest from all three towns.
+1 On a copy of the Voronoi diagram draw a circle that will pass 
+through points A, E and D. Identify the centre of this circle.
+2 Draw another circle through points A, B and E. Identify the 
+centre of this circle.
+3 Draw a third circle through points A, B and C. Identify the 
+centre of this circle.
+4 Write down what you notice.
+5 Explain using the diagram below why there will always be three points 
+(sites) equidistant from a vertex of a Voronoi diagram which has three 
+edges incident to it.
+6 Explain why the circle with V3 as a centre which passes through A will 
+also passthrough B and C.
+7 Determine the radius of each of the three circles from parts 1,2 and 3. 
+Identify the circle with the largest radius.
+8 Determine the location of the toxic waste deposit so that it is farthest from 
+the surrounding towns A, B, C, D and E.
+o
+Continued on next page
+193
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+9 Explain why another site [town] cannot be inside the largest circle, assuming that no new sites are 
+added.
+10 
+Where is the point that gives the solution to the toxic waste problem?
+11 BTTHOTfTl What applications are there for the solutions of the toxic waste problem?
+12 
+Why are vertices of a Voronoi diagram the only points that give the solution to the toxic 
+waste problem (assuming a location between the towns is sought)?
+EXAM HINT
+Within a Voronoi diagram the solution to the toxic waste problem will be at an 
+intersection of cell boundaries or on the boundary of the diagram. In exams the 
+solution will always be one of the internal vertices rather than a boundary edge.
+Example 31
+A town has four coffee shops. An entrepreneur wishes to open a new shop in the 
+town but would like it to be as far as possible from all the other four coffee shops. 
+Where should he put it?
+Consider the Voronoi diagram below showing the positions of the four coffee shops on a set 
+of coordinate axes: A(l,6), B(2,2), C(8,2) and 0(8,5), where one unit represents 1 km.
+a Find the coordinates of the vertices P and 
+Q in the Voronoi diagram, 
+b Determine where a fifth shop should 
+be sited so as to be as far as possible 
+from any other shop, and how far this 
+will be.
+a P is the point where x = 5 and y = 3.5 
+meet: (4, 3.5)
+The perpendicular bisector of |AB| 
+is -x + 4y= 14.5.
+Three perpendicular bisectors meet at each 
+of the vertices. Finding the intersection of 
+any two perpendicular bisectors will be 
+sufficient to find the vertex.
+Any two of these equations need to be 
+calculated by finding the midpoint and 
+gradient.
+194
+
+o
+The perpendicular bisector of [AD] is 
+Ix-y = 26.
+The perpendicular bisector of [BD] is 
+2x + y= 13.5.
+The coordinates of Q are (4.39, 4.72).
+b Centred at P: PD = J(5-3.5)1 2+(8-5)2 
+= 3.35
+Centred at Q:
+QA = yj( 6-4.72)' +(4.39-l)2 = 3.62
+The new coffee shop should therefore be 
+built at point Q.
+The coordinates can then be found 
+algebraically or by using a GDC.
+The solution will be at whichever of the 
+points P and Q is farthest from the three 
+sites nearest to them.
+Only one length for each vertex needs to 
+be checked as the other two sites will be an 
+equal distance from the vertex.
+Reflect
+How do you find the distance from a site to a
+vertex?
+Where is the point that gives the solution to the toxic waste 
+problem?
+How do you find the point that gives the solution to the toxic 
+waste problem?
+International-mindedness
+Which do you think is superior: the Bourbaki 
+group analytical approach or the Mandelbrot 
+visual approach to mathematics?
+1 In a town three schools A, B and C are 
+located at the points with coordinates 
+A(l,3), B(6,4) and C(6,1).
+It is decided that a new school should be 
+built as close as possible to a point which is 
+farthest from all three existing schools.
+a Explain why this point will be at the 
+intersection of the perpendicular bisectors 
+of line segments [AB], [BC] and [AC], 
+b Find the equations of the perpendicular 
+bisectors of line segments [AB] and [BC]. 
+c Hence find the coordinates of the point 
+where the new school should be built, 
+d Determine how far the new school will 
+be from each of the other schools.
+At a fair there are three hamburger stands,
+A, B and C. The fairground is in the shape 
+of a rectangle with dimensions 100 m by 
+50m. The bottom-left comer of the field 
+can be regarded as the origin of a coordinate 
+system, with the diagonally opposite corner 
+as (100, 50). The hamburger stands are at 
+the points A(20, 30), B(80, 30) and C(40,10).
+a Find the equations of the perpendicular 
+bisectors of:
+i A and C 
+ii B and C.
+People will always go to the hamburger 
+stand that is closest to them.
+b Draw the Voronoi diagram that 
+represents this situation.
+195
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+c Find the region of the fairground which 
+is closest to:
+i stand C 
+ii stand A.
+d A fourth hamburger stand is to be added 
+to the fairground at a point as far as 
+possible from the other three stands.
+i State the coordinates of the position at 
+which it should be built.
+ii Determine how far the new stand will 
+be from the other hamburger stands.
+3 A town can be considered as a rectangle 
+which runs 10 km east to west and 8 km 
+north to south. A coordinate grid is placed 
+on a map of the town with the origin in 
+the south-west corner. There are four 
+schools in the town, A, B, C and D, whose 
+coordinates are A(2, 5), B(3, 3), C(8,6) and 
+D(8, 1).
+Children go to the school that is closest 
+to their home when measured in a direct 
+line.
+An estate agent wishes to construct a 
+diagram that shows in which school's 
+catchment area a house lies.
+a Find the perpendicular bisector of [AB].
+b Show the positions of A and B and their 
+perpendicular bisector on a diagram of 
+the town.
+The perpendicular bisectors of [AC] and 
+[BC] are y = -6x + 35.3 and y =
+3 
+3
+c Construct the Voronoi diagram, using 
+the incremental algorithm, for the three 
+schools A, B and C.
+d i Find the perpendicular bisectors of
+[BD) and [CD] and show these on the 
+diagram.
+ii Complete the diagram required by the 
+estate agent.
+e Find the coordinates of the two vertices 
+where three edges meet.
+f A fifth school is to be built in the town as 
+far as possible from the other schools. Give 
+the coordinates of the point at which 
+it should be built if it was to meet this 
+requirement.
+g On the diagram already drawn, add the 
+fifth school at the position found in part f 
+and sketch the new Voronoi diagram. 
+There is no need to find equations for the 
+new perpendicular bisectors.
+Chapter summary
+In two-dimensional (2D) space, the midpoint, jM, 
+of the line segment joining points
+Afx^y,) and B(x,,y,) is M
+• In three-dimensional (3D) space, the location of any point A is 
+determined by an ordered triple of coordinates (x, y, z), where 
+each coordinate determines the location along the x-,y- and z-axis 
+respectively.
+• In 3D space, the midpoint, M, of the line segment joining points 
+A(xl,yl,zl) andB(*2,y2,z2) is
+(x{+x2 y,+y2 z.+z^
+l 2 ' 2 ' 2 /
+• In 2D, the distance between two points A(x1,y]) and B(xvy2) is
+d = y]{x2-x, ):+(y2-y, )2.
+• In 3D, the distance between two points A (xl,yl,Zl) and 
+B(x2,yrz2) is AB = J(*2 - )2 + (y2 - y, )2 + (z2 ~ )" •
+Developing 
+your toolkit
+Now do the 
+Modelling and 
+investigation 
+activity on page 
+202.
+196
+
+• The gradient of a line is a measure of the steepness of the line. The 
+bigger the gradient, the steeper the line. It is also known as the slope. 
+Usually, the gradient (slope) of a line is denoted by the letter m.
+B(x2,y2)
+z' 
+i
+i
+i
+•i,
+"2
+A (xlty,)
+• m = ———
+• When the line goes upward towards the right the gradient is a 
+positive number.
+• When the line goes downward towards the right the gradient is a 
+negative number.
+• Zero gradient: When a line is horizontal its gradient is zero.
+• Undefined gradient: When a line is vertical it does not have a defined 
+gradient.
+• The gradient of a line describes its steepness and direction.
+• Equations of lines given in point-gradient form or general form can be 
+rearranged in the form below, which is called the gradient-intercept form:
+y=mx+k, where m is the gradient and k is the value ofyforx=0.
+• The shortest distance from a point A to a straight line (BC) is 
+the length of the line segment [AD], where D lies on (AB) and 
+[AD]_L(AB).
+• In a Voronoi diagram, the regions which include the closest points to a 
+given point are called cells, and the given points are called sites. The 
+lines separating the regions are called boundaries or edges.
+• The boundaries of the cells in a Voronoi diagram are formed by the 
+perpendicular bisectors of the line segments joining the sites. Usually 
+all other lines that do not form boundaries of the cells are erased 
+when the construction of the diagram is complete.
+• A point at which cell boundaries meet in a Voronoi diagram is called a 
+vertex. A vertex is equidistant from the three surrounding sites.
+Developing inquiry skills
+Look again at the problem at the beginning of the chapter. Can you use 
+your knowledge of perpendicular bisectors and Voronoi diagrams to 
+divide the territory into three regions so that each region contains all 
+points that are closest to one island?
+Can you now find the areas of these regions? You can use technology. 
+Is such an area allocation fair?
+19?
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Chapter review
+1 Rewrite the following equations in point- 
+gradient form:
+a -x + y = 2 b y-3 = -2(x-8)
+c 2x + 4 y = -~
+3
+2 Find the points of intersection of the lines 
+with equations:
+a y = -~x-7 and y = -5x4 10 
+b y - 1 = -{x- 4) and y = 0 
+c -x+ 3y = -2 and --^x-y = 2.
+3 Determine what kind of quadrilateral is 
+formed by the following points:
+M(-2,-l), L(1,3),T(5,0) and H(2,-4).
+4 Three lines with equations y = -x + 3,
+1 
+21 
+, 
+5 
+1.
+y = -x---- and y = -x— intersect at
+8 
+8 6 
+2
+three points and form a triangle. Find: 
+a the coordinates of these three points 
+b the lengths of the sides of the triangle 
+c the perimeter of the triangle.
+5 Line [OB], shown in the diagram, 
+represents Petya's walk to work.
+a Find the number of km that Petya 
+walks in 1 hour.
+b Maria also walks to work. She walks 
+5 km in 1.6 hours.
+Determine who walks faster. Assume 
+they each walk at a constant rate. 
+Justify your conclusion, 
+c Write down equations of the lines 
+describing Petya's and Maria's walks.
+l
+Find the equation of a line parallel to:
+a the line y = -—x + 5 and passing 
+4
+through (0,0)
+b the line 0.5x - 3y = 8 and passing 
+through (-3, -1).
+6-
+4 -
+o .
+o
+o .
+1 -
+1 0
+__ ;
+2
+E
+i
+3 7
+c Line with equation -20x + 55y = 22
+(--------------------
+Click here for a mixed
+review exercise
+V_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+6 A student has graphed some equations 
+incorrectly. Determine which equations 
+have been incorrectly graphed, the error 
+in graphing and the equations of the lines 
+that have been graphed instead.
+Draw the graph of the correct line if there 
+is an error.
+a Line with equation y - 5x - 3
+E
+—
+1 
+2 
+3 
+4 
+5 
+6 
+7
+Lime (hours)
+198
+
+4
+8 Find the equation of a line perpendicular to: 
+a the line x + 3y = 0 and passing through
+point (-3,2)
+b the line y = -3x +0.75 and passing 
+through (1,1.5).
+9 Three farmhouses are to be powered by 
+wind. The farms are located at A(60,20), 
+B(220,120) and 0(240,40), where the 
+coordinates are in metres. A wind turbine 
+is to be placed at the point equidistant 
+from the farms A, B and C. Find:
+a i the equation of the line (AB)
+ii the midpoint of line segment [AB]
+iii the equation of the perpendicular 
+bisector of line segment [AB]
+b i the equation of the line (AC)
+ii the midpoint of line segment [AC]
+iii the equation of the perpendicular 
+bisector of line segment [AC]
+c i the equation of the line (BC)
+ii the midpoint of line segment | BC ]
+iii the equation of the perpendicular 
+bisector of line segment |BC).
+d Determine the coordinates of the point 
+T that is equidistant from the farms A,
+B and C.
+The blade of a wind turbine is 25 m long. 
+Current regulations require that the distance 
+between the turbine and a house be at least 
+three times the length of the blade.
+e Determine whether the wind
+turbine meets current regulations for 
+installation at point T.
+f Determine the area that one wind 
+turbine needs to function. Give your 
+answer to the nearest integer.
+10 The map of a rectangular province is 
+shown with the positions of four landing 
+platforms for helicopters. The points A,
+B, C and D, which represent the landing 
+platforms, are placed on a coordinate 
+grid centred at one of the corners of the 
+province. (Each unit along a coordinate 
+axis is 100 miles.)
+Emergency medical teams are flown to 
+any point in the province as needed.
+When an emergency occurs, the medical 
+team that is based closest to the location of 
+the emergency will fly out to the location.
+a Construct a Voronoi diagram for the 
+four sites A, B, C and D.
+A neighbouring province asks whether 
+the medical team based at point B(2,6) 
+can also help out in their province. The 
+director replies that it would be possible 
+if the team is currently covering a smaller 
+area than at least two of the other medical 
+teams.
+b Find where the perpendicular bisector 
+of [AD] meets the line y - 4.
+c Find the area of the cells surrounding:
+i A ii B iii C iv D.
+Hence stale whether or not the medical 
+team based at A will be able to support 
+the other province.
+Exam-style questions
+11 PI: The point M is the midpoint of points
+A and B. If A (4, -6,10) and M (7, 3, -5), 
+find the coordinates of the point B.
+(5 marks)
+12 PI: The line L has equation y = 3x - 5.
+For the lines given below, state with 
+reasons whether they are parallel to L, 
+perpendicular to L, or neither. (6 marks)
+i y = ^x-l 
+ii -6x+2y + 8 = 0
+v x + 3y + 9 = 0
+199
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+13 PI: The coordinates of point P are (-3, 8)
+and the coordinates of point Q are 
+(5, 3). M is the midpoint of |PQ]. 
+a Find the coordinates of M. (2 marks) 
+Lj is the line which passes through P 
+and Q.
+b Find the gradient of Ly (2 marks)
+The line L7 is perpendicular to L and 
+passes through M.
+c i Write down the gradient of Lv 
+ii Write down, in the form y = mx + c, 
+the equation of Lr 
+(3 marks)
+14 PI: A ski resort is designing two new ski 
+h lifts. One lilt connects station B at the
+base of a mountain and station P at the 
+top of a ski run. The other lift connects 
+station P with station Q, which is at the 
+top of another ski run.
+The three stations are placed on a 
+three-dimensional coordinate system 
+(measured in metres). The coordinates 
+of the stations are B = (0,0,0), P = (500, 
+400, 300) and Q = (900,600,700).
+A skier wishes to reach the top of the 
+run located at P from the base of the 
+mountain.
+a Determine the distance covered by 
+the skier on the ski lift from the base 
+of the mountain to P. (2 marks) 
+In order for a skier to reach the top of 
+the ski run at Q they must take the lift 
+from the base of the mountain to P, and 
+then take a separate lift from P to Q.
+b Determine the total distance covered 
+by a skier on the ski lifts from the 
+base of the mountain to Q. (3 marks)
+15 PI: The swimming pool at West Park
+h  
+contains 500 000 litres of water when it
+is full. The pool can be drained of water 
+at a constant rate of 50 000 litres per 
+hour.
+a Write an equation for the volume 
+(V litres) of water remaining in the 
+pool t hours since draining began.
+(1 mark)
+At 8:00am the pool is full of water and 
+the drain is opened.
+b Determine the time when the pool is 
+25% full of water. 
+(3 marks)
+The swimming pool at East Park 
+contains 800000 litres of water when 
+it is full, and can be drained at a rate 
+of 100000 litres per hour. At 8:00am 
+(when the drain is opened at West Park 
+pool), the drain is also opened at the 
+East park pool.
+c Calculate the time when the pool at 
+West Park contains the same amount 
+of water as the pool at East Park.
+Find also the volume of water in 
+each pool at this time. (4 marks) 
+16 PI: Lines L and Ly are given by the 
+equations L}:ax—3y = 9 and 
+2
+L * y = -x + 4.
+2 
+3
+The two lines are perpendicular, 
+a Find the value of a. 
+(3 marks)
+b Hence, determine the coordinates of 
+the intersection point of the lines.
+(2 marks)
+1? P2:The cuboid ABCOFPDE has vertices 
+h with coordinates shown in the diagram.
+z
+a Find the surface area of the cuboid.
+(2 marks)
+b Find the length of the diagonal [BE].
+(2 marks)
+Diagonals [AD] and [BE] intersect at 
+the point M.
+c i Find the coordinates of M.
+ii Find AMB. 
+(7 marks)
+200
+
+18 PI: A Canadian bank charges its customers 
+h a fixed commission fee of $ a Canadian 
+dollars (CAD) if they wish to exchange 
+CAD into euros (€).
+The bank then uses the exchange rate 
+$l:€r to convert the remaining amount.
+Michael converts 1200 CAD and 
+receives €765 from the bank.
+Janet exchanges 500 CAD and receives 
+€315 from the same bank.
+a Find the values of i a ii r.
+(6 marks)
+b If Michael and Janet had put their 
+Canadian dollars together first 
+and then exchanged it all in one 
+transaction, calculate the amount in 
+euros, to the nearest cent, that they 
+would have received. (2 marks) 
+19 PI: A new airport, S, is to be constructed 
+Zm at some point along a straight road, R, 
+such that its distance from a nearby 
+town, T, is the shortest possible.
+The town, T, and the road, R, are 
+placed on a coordinate system where 
+T has coordinates (80,140) and R has 
+equation y = x - 80. All coordinates are 
+given in kilometres.
+a Determine the coordinates of S, the 
+new airport. 
+(6 marks)
+b Find the distance between the town 
+and the new airport. 
+(2 marks)
+20 P2: Four mathematicians live on the bottom 
+h floor of a circular tower of radius 10 m. 
+They sit 5 m from the centre of the 
+circle equally spaced around it as shown 
+in the diagram.
+Each mathematician scatters papers, 
+with equations written on them, on the 
+floor around them but always ensures 
+that their papers are nearer to themself 
+than to another mathematician.
+a Copy the above diagram and sketch 
+a Voronoi diagram on it, showing 
+where each mathematician's papers 
+can be situated. 
+(2 marks)
+b Calculate the area of the floor that 
+each mathematician uses. (2 marks)
+Another mathematician joins the group 
+and sits at the centre of the circle. All 
+of the other mathematicians rearrange 
+their papers according to the same rule 
+as before.
+c Make another copy of the original 
+diagram and sketch on it a new 
+Voronoi diagram to represent the 
+new situation. 
+(4 marks)
+d Find the area of floor that the fifth 
+mathematician ends up using.
+(2 marks)
+e Calculate the area of floor that each 
+of the original four mathematicians 
+now uses. 
+(2 marks)
+f State how many points on the floor 
+there are that are equidistant from 
+any three mathematicians. (1 mark)
+(-------------------
+Click here for further
+l^exam practice
+201
+Geometry and 
+Functions 
+trigonometry
+
+Modelling and investigation activity
+Real-life Voronoi
+Approaches to learning: Thinking skills: 
+Evaluating, Critiquing, Applying 
+Exploration criteria: Presentation (A), 
+Personal engagement (C), Use of mathe 
+matics (E)
+IB topic: Voronoi diagrams
+Voronoi diagrams
+In this chapter you have been introduced to Voronoi diagrams.
+Voronoi diagrams have been used here to answer questions about distance and area:
+1 Distance: finding points that are equidistant to several sites or a path that stays 
+far away from sites, or determining where something can be located so that it is 
+as far as possible from existing sites.
+Which questions from the chapter could be listed in this group?
+2 Area: considering the territories and regions of influence of animals or retail 
+outlets or food places.
+Which questions from the chapter could be listed in this group?
+You can use Voronoi diagrams to answer similar questions that you generate 
+yourself in explorations.
+v_________________________________________________________________ >
+202
+
+Exploration
+As part of your exploration you will need to provide an aim and a 
+context for your choice of topic.
+First write down all potentially interesting areas to consider for an 
+exploration.
+You are now going to try to create an exploration that you could use 
+Voronoi diagrams to answer.
+Consider the type of questions that are possible and combine this with 
+something from your list of ideas.
+Write the aim and context for your choice.
+It may be helpful to think about how you would write the problem as a 
+textbook question for someone else to answer.
+Think about the following questions:
+• Can you give a clear rationale for your choice of topic?
+• Is the aim clearly stated?
+• Do you have clearly articulated parameters for the problem?
+• Is the aim manageable and completable within a sensible page limit and 
+timeframe?
+• Are you going to be able to find the relevant information?
+You could now solve the problem you have created using the incremental 
+algorithm introduced in this chapter.
+Which method is best for answering your question given the available 
+information and the form that this information is given in?
+Could a computer software package (such as Geogebra) be used?
+Or could the question be answered by hand using a compass and ruler for 
+construction or by superimposing on a grid and using the equation of a 
+perpendicular bisector?
+Extension
+Find out about "nearest neighbour interpolation".
+This is an important application of Voronoi diagrams 
+where the aim is to interpolate values of a function 
+at points close to sites, given the value at those sites. 
+This could be used, for example, to estimate or predict 
+pollution or precipitation levels when you know the 
+pollution or precipitation readings only at particular 
+sites in a region.
+203
+Modelling and investigation activity
+
+How long will it take a pump 
+to fill a swimming pool?
+All of these questions are about situations that 
+can be represented by a mathematical model. 
+These models will allow you to study relationships 
+between the variables and to make predictions.
+Conceptual lenses
+■ Change
+■ Modelling
+Microconcepts
+■ Function
+■ Domain
+■ Range
+■ Graph of a function
+■ Linear models and their parameters
+■ Rate of change
+■ Direct variation
+■ Inverse function
+■ Arithmetic sequence, arithmetic series
+■ Common difference
+■ General term
+■ Sum of series
+■ Simple interest
+■ Prediction
+■ Extrapolation
+■ Interpolation
+Modelling constant rates of 
+change: linear functions
+A rental car costs a fixed amount 
+plus $f per kilometre. How can I find 
+the maximum number of kilometres 
+that can be driven with $A?
+How much do you have to invest in your 
+bank account to grow your savings so 
+you can buy that yacht? And how much 
+does the interest rate matter?
+204
+
+Stefan drives taxis part-time, usually driving between 10 
+and 40 km per day. Currently, on each day that he drives 
+he earns a fixed value of $20 plus $2.50 for every kilometre 
+that the taxi's meter is on. Stefan wants to increase his 
+annual profit so that it is equal to the annual average 
+salary of $44 000. He is thinking of increasing the profit per 
+kilometre by $0.30 per month for the next year.
+What will his daily profit be if he drives 10, 20, 30 or 40 km?
+How will his profits change if he increases the 
+profit per kilometre by $0.30 after one month?
+How can you model the daily profit for 
+different values of profit per kilometre?
+Will he reach the average annual salary in 
+one year's time?
+If not, how long will it take?
+What assumptions do you need to make to 
+answer this question?
+Developing inquiry skills
+Write down any similar inquiry questions you 
+could ask and investigate for another business or 
+charging structure. What information would you 
+need to find?
+Before you start
+Think about the questions in this opening problem 
+and answer any you can. As you work through the 
+chapter, you will gain mathematical knowledge 
+and skills that will help you to answer them all.
+y
+1
+y=-x-2
+2
+You should know how to:
+1 Solve linear equations and inequalities. 
+6x>2x — 4
+4x > -4 
+(subtract 2x)
+x>-\ 
+(divide by 4)
+3 Find the equation of a line from a graph.
+fj m
+flI
+205
+

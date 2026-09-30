@@ -1,0 +1,807 @@
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+5 Alexandre is designing a game. A spinning 
+arrow rotates and stops on one of the regions 
+A, B, C or D as shown in the diagram.
+Alexandre proposes the prizes shown in the 
+table and that the game should cost US$5 
+to play.
+Letter
+A
+B
+C
+D
+Prize
+US$3
+US$7
+US$5
+US$2
+Determine whether Alexandre's game is fair 
+and justify your answer.
+6 Ten thousand US$10 lottery tickets are sold. 
+One ticket wins a prize of US$5000, five 
+tickets each win US$1000, and ten tickets 
+each win US$200. Find: 
+a the probability of winning each prize in 
+the lottery
+b the expected gain from one ticket 
+c the price of a ticket to make the lottery a 
+fair game.
+7 Two fair tetrahedral dice with faces 
+numbered 1,2,3 and 4 are thrown. The 
+discrete random variable D is defined as the 
+product of the two numbers thrown.
+a Find the probability distribution table 
+of D.
+b Find P(D is a square number I D < 8). 
+c In a CAS fundraising game, a prize of 
+US$12 is won if D is odd, and a prize of 
+US$6 is won if D is even. Find the price 
+of a ticket to ensure this is a fair game.
+8 Xsquared Potato Crisps runs a promotion 
+for a week. In 0.01% of the hundreds of 
+thousands of bags produced there are gold 
+tickets for a round-the-world trip. Let B 
+represent the number of bags of crisps 
+opened until a gold ticket is found.
+a Find P(£= 1), P(B = 2) and P(B = 3). 
+b Hence show that the probability 
+distribution function of B is 
+f(b) = P(B = b) = 0.0001 (0.9999)*"1 
+c State the domain of f(b). 
+d Determined to win a ticket, Yimo buys 
+10 bags of crisps. Find the probability 
+that she finds a gold ticket after opening 
+no more than 10 bags.
+Developing inquiry skills
+Read again the second question from the opening scenario.
+Can this question be modelled by a discrete probability distribution?
+How could you find its probability distribution? What assumptions would 
+have to be made?
+7.6 Modelling the number of successes 
+in a fixed number of trials
+You learned in Section 7.5 that a probability distribution function can 
+be found as a generalization of a random process.
+An example of the process you will learn about in this section is found 
+in the work of cognitive psychologists Daniel Kahneman and Amos 
+Tversky (1972).
+348
+
+Start
+o
+Continued on next page
+English polymath Sir Francis Galton invented a machine 
+closely linked to Pascal’s triangle.
+In the Galton board, a ball is dropped into a vertical grid 
+based on a tessellation of regular hexagons. Pegs force 
+the ball to move down to the left or down to the right to 
+reach the next level of the grid as shown.
+At the end of the hexagonal grid the balls exit and stack 
+up in vertical “bins”. You may explore this process with 
+technology here: https://www.mathsisfun.com/data/ 
+quincunx.html or here https://www.geogebra.org/rn/ga8J6qDE.
+1 
+At each peg, how many choices are there for the direction of a 
+ball?
+2 
+How many different paths can the ball take to finish in the same 
+place as that shown?
+3 
+Show that the number of ways that the ball can finish
+in positions a, b, c,..., h follow the same pattern as Pascal’s 
+triangle.
+4 
+Which positions in the Galton board is the ball least likely to 
+finish in?
+l
+1 
+1
+1 2 1 
+13 
+3 
+1
+1 
+4 
+6 
+4 
+1
+One question they posed in a survey was:
+"All families of six children in a city were surveyed. In 72 families, 
+the exact order of births of boys and girls was GBGBBG. What is your 
+estimate of the number of families surveyed in which the exact order 
+of births was BGBBBB?"
+The median estimate was 30—suggesting the participants in the 
+survey judged that GBGBBG was more than twice as likely an outcome 
+as BGBBBB. Psychologists have studied this "representativeness 
+fallacy" in research on subjective judgments and biases.
+You will learn in this section the mathematics needed to model 
+situations like this; a family of six children can be modelled as a 
+sequence of six independent trials (births) in which the probability of a 
+female birth is constant (0.5) over the six trials.
+There are different ways to represent, experience and understand 
+the processes behind quantifying the probabilities in this kind of 
+experiment. Two examples are Pascal's triangle and the Galton board.
+Investigation 16
+In France in 1665, Blaise Pascal published the pattern partially shown.
+349
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+5 
+Which positions in the Galton board is the ball most likely to finish in?
+6 
+What do the numbers in Pascal’s triangle count?
+7 
+Why is Pascal’s triangle symmetrical?
+A convenient way to experience the possible gender outcomes of a family of various sizes is by flipping a 
+coin six times.
+The numbers in Pascal's triangle are binomial coefficients. You can 
+calculate them with technology.
+Make a prediction of the next two rows and their sums and check your 
+answers with technology.
+\
+The binomial coefficients in row (n + 1) of the triangle are represented by the 
+following notation: C'J, C" C" ...Cw, ..., C" ,, C" , where
+o 
+o r 2' r 
+n-l ti
+C =----—— and n\ = n x (n - 1) x {n - 2) x ... x 3 x 2 x 1.
+r\(n-r)\
+International 
+mindedness
+The Dutch scientist 
+Christian Huygens, 
+a teacher of Leibniz, 
+published the first book 
+on probability in 165?.
+For example,
+5!
+2!(5-2)!
+5x4x3x2x1 
+(2xl)x3x2xl
+Carry out 10 trials of flipping a coin six times, recording each trial as a 
+sequence of H (heads) and T (tails). Compare your results with others 
+in your class.
+• How many of your trials resulted in outcomes like HTHTTH, which 
+appear more random than THTTTT?
+• Discuss this claim: "The probability of a total of three heads in six 
+trials is more than the probability of a total of one head in six trials". 
+Justify your answer.
+Investigation 17
+In this part, represent all probabilities as fractions. Do not simplify the 
+fractions.
+A fair coin is tossed twice. Let X be the discrete random variable equal to 
+the number of heads tossed in two trials of the fair coin. Use a tree diagram 
+to represent all the possibilities in the sample space and hence find the 
+probabilities to complete the probability distribution table.
+X
+0
+1
+2
+P(X=x)
+350
+
+7.6
+O Repeat the above for three trials and then four trials.
+1
+Factual
+triangle?
+What is the connection between your results and Pascal’s
+2 
+Predict the probability distribution table for five trials.
+3 n.imi.iMi Would the probability distribution tables for 0 trials and 1 
+trial be consistent with the pattern in Pascal’s triangle?
+You can use your probability distributions from questions 1,2 and 3 and the 
+binomial coefficients definition to make general statements for the probability 
+distribution function.
+4 
+Complete: “Let X be the discrete random variable equal to the number of 
+heads tossed in n trials of a fair coin.
+ThenP(AT=x) =----------------------------------- forxe {0, 1,
+5 
+The experiment is changed so that the coin is not fair and it is thrown five 
+times. P(H)=p,P(T) = \- p.
+Complete the general statement "?{X=x) =----------- forxe (0, 1, 
+—)”
+This investigation leads to the formal definition of the binomial 
+distribution:
+' \
+In a sequence ofn independent trials of an experiment in which there are 
+exactly two outcomes “success” and “failure” with constant probabilities 
+P(success) = p, P(failure) = 1 - p, if X denotes the discrete random variable 
+equal to the number of successes in n trials, then the probability distribution 
+function of A'is
+?(X=x) = C”px(\ -p)n‘x,xe {0, 1, 2.......n\
+These facts are summarized in words as “X \s distributed binomially with 
+parameters/? and p” and in symbols as X~ B(//, p).
+You can use the binomial distribution to reflect on the questions at the 
+start of this section.
+Reflect
+Use the binomial distribution to find the probability of having exactly 
+three boys in a family of six. Compare and contrast your answer with the 
+probability of the outcome GBGBBG.
+Which part of the formula for the binomial distribution counts the number of 
+successes in//trials?
+What is true about the number of trials and the probability of success in each 
+binomial experiment?
+In examinations, binomial probabilities will be found using technology.
+351
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+Example 22
+A multiple choice quiz has six questions each of which has four equally likely options 
+A, B, C and D to choose from. If answers are guessed and if X represents the number of 
+correct answers, find:
+a P(*=2) 
+b P{X<2) 
+c P(X < 2) 
+d P(3<A'<6).
+Assuming the guesses are equally likely and
+Examine the context to see whether it
+made independently of each other, X can be
+fits the requirements of the binomial
+modelled by a binomial distribution with
+distribution.
+parameters 6 and —. Hence X ~ B(6, —).
+If it does, state the distribution and its
+4 
+4
+parameters clearly before answering the
+a P(*=2) = 0.297
+question.
+Use technology to find the probability 
+required. P(X = x) = C“0.25v(0.75)6-*
+Express your answer to three significant
+b P(*<2) = P(X = Q) + P(X= 1) + P{X = 2)
+figures.
+P(*<2) = 0.831
+This event can be expressed as a sum of 
+three mutually exclusive events. This sum
+c P(X<2) = P(X=0) + P(X= 1)
+can be found faster using technology.
+P(*<2) = 0.534
+d P(3<^<6) = P(3<Ar< 5)
+Take care to apply the strict inequality 
+correctly.
+P(3 < A' < 6) = 0.169
+Write the inequality in the form needed for 
+applying technology.
+It is essential to examine the context of a problem in order to 
+understand whether the binomial distribution is an appropriate 
+model to apply. To determine whether a context can be modelled by a 
+binomial distribution, ask:
+• What is the random variable counting?
+These trials should be independent of each other, which means 
+that knowing what happens in one trial does not change the 
+probabilities in any other trial.
+• How many trials are there? This is the parameter n.
+• What is the probability of success in each trial? It should always 
+be the same. This is the parameter p.
+TOK
+Play the game of the 
+St Petersburg Paradox 
+and decide how much 
+would you pay to play 
+the game.
+Example 23
+For each situation state if the random variable is distributed binomially. If so, find the 
+probability asked for.
+a
+A coin is biased so that the probability of a head is 0.74. The coin is tossed seven times. A 
+is the number of tails. Find P(A = 5).
+o
+352
+
+7.6
+C^b A bag contains 12 white chocolates and 7 dark chocolates. A chocolate is selected at
+random and its type noted and then eaten. This is repeated five times. B is the number of 
+dark chocolates eaten. Find P(B = 4).
+c A bag contains 10 red dice, 1 blue die and 7 yellow dice. A die is selected at random and 
+its colour noted and replaced. This is repeated 12 times. C is the number of yellow dice 
+recorded. Find P(C< 6).
+d Ciaran plays a lottery in which the probability of buying a winning ticket is 0.001. E is the 
+number of tickets Ciaran buys until he wins a prize. Find P(E < 7).
+a Each toss of the coin is independent of the 
+others. There are exactly two outcomes 
+and a fixed number of trials. Therefore 
+A ~ B(7, 0.26).
+P(A = 5) = 0.0137
+b Since the probability of selecting a dark 
+chocolate is dependent on what was 
+selected in previous trials, the trials are 
+not independent. Hence the binomial 
+distribution is not an appropriate model 
+for B.
+c Since the die is replaced at each trial, the 
+probability of success is constant and equal
+to Therefore C ~ B(12, —
+18 *8
+P(C<6) = 0.861
+d There is not a fixed number of trials nor 
+are the trials independent so the binomial 
+distribution is not an appropriate model for E.
+Write down the distribution. This clarifies 
+your thoughts and you will receive 
+method marks in the examination since 
+you have demonstrated your knowledge 
+and understanding.
+Use technology to find the binomial 
+probability.
+Write the answer to three significant 
+figures.
+Use technology to find the binomial 
+probability.
+Write the answer to three significant 
+figures.
+The binomial distribution can be applied in problem-solving situations.
+Example 24
+Solve the problems, stating any assumptions and interpretations you make.
+a
+b
+In a family of six children, find
+i 
+the probability that there are exactly three girls
+ii the probability that exactly three consecutive girls are born.
+A study shows that 0.9% of a population of over 4000000 carries a virus. Find the 
+smallest sample from the population so that the probability of the sample having no 
+carriers is less than 0.4.
+o
+Continued on next page
+353
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+O
+a
+Assuming that boy and girl are the only two 
+outcomes, then the probability of each is 0.5 if 
+the gender of each child is independent of the 
+other. Let G represent the number of girls, then 
+G ~ B(6, 0.5) and 
+P(G = 3) = 0.3125
+Understanding the context 
+is the first step in solving the 
+problem.
+State the distribution.
+Write down the event and find 
+the probability with technology.
+ii Three consecutive girls are born:
+GGGBBB
+BGGGBB
+BBGGGB
+BBBGGG
+Each of these four outcomes has probability
+Use a diagram to represent the 
+entire sample space.
+P(Three consecutive girls are born) = 4 x| —P
+2y
+= 0.0625
+16
+Both answers can be expressed 
+exactly in this case.
+This is considerably smaller than 0.3125 since there 
+are many more combinations of three girls that are 
+not consecutive than are.
+Examine your result critically 
+and check that it is feasible.
+b In a population of this size the binomial distribution 
+is an appropriate model since sampling without 
+replacement does not alter the probability of 
+choosing a carrier significantly. If C is the number of 
+carriers chosen in a sample of size n then 
+C~B(n, 0.009).
+Find the smallest value of n so that P(C = 0) < 0.4.
+State the assumptions.
+Write down the distribution. 
+Translate the problem into an 
+inequality.
+n = 102 is the minimum value required.
+Solve using technology.
+Interpret the output from 
+technology. The sequence 
+is decreasing and 102 is the 
+first value of n for which the 
+probability is less than 0.4.
+1 For each context, determine whether the 
+binomial model can be applied. If it can, 
+write down the distribution in the form X ~ 
+B(n, p). If it cannot, state why.
+a A fair die numbered 1, 2, 3 and 4 is 
+thrown seven times. Find the probability 
+that an even number is obtained exactly 
+three limes.
+354
+
+7.6
+b A box contains six green dice, three red 
+dice and three white dice.
+A die is selected at random from the box. 
+The die's colour is noted and it is not 
+replaced. This experiment is repeated 
+four times. Find the probability that a 
+green die is selected fewer than 
+three times.
+c A die is selected at random from the 
+same box, its colour noted and the die 
+replaced. This experiment is repeated 
+four times. Find the probability that a 
+green die is selected fewer than 
+three times.
+d Jasmine is packing her bag for a four- 
+day music festival. The weather forecast 
+for each of the days states that the 
+probability of rain is a constant value 
+of 30%. Find the probability that it will 
+rain on at least two of the four days, 
+e In a soccer match, seven substitute players 
+are available for selection during the 
+match. FIFA rules state that a maximum 
+of three substitutions can be made in a 
+match. Find the probability that exactly 
+three substitutions are made in a match.
+2 A fair coin is flipped six times. Calculate the 
+probability of obtaining:
+a exactly three heads
+b no more than four heads
+c at least three heads and fewer than six.
+3 Silk scarves are produced in a factory. 
+Quality control investigations find that 0.5% 
+of the scarves produced have flaws, which 
+reduce their value. A sample of 30 scarves
+is selected from the factory. Calculate the 
+probability that the sample has:
+a exactly one flawed scarf 
+b no flawed scarves 
+c more than three flawed scarves.
+4 Paul works Monday to Friday for a car 
+recovery service in Mathcity. His records 
+show that on any given day, the probability 
+that he is called to recover a car in an area 
+outside the city limits is 0.17. Calculate the 
+probability that:
+a In one working week, Paul has to
+recover a car outside the city limits more 
+than three times.
+b Paul has to recover a car outside the city 
+limits more than three times on two 
+consecutive weeks.
+5 A weather station in a remote area is 
+powered by 10 solar panels, which op 
+erate independently of each other. The 
+manufacturers state that each solar panel 
+has a probability of failure of 0.085% in any 
+given week. The weather station needs at 
+least six of the solar panels to be working in 
+order to function.
+a Find the probability that the weather 
+station will not fail in a week, 
+b The weather station is inspected and 
+any necessary maintenance is carried 
+out every six weeks. Find the probability 
+that the weather station will still be 
+functioning when inspected.
+6 Alexandre uses his spinning arrow to design 
+another game. Only if the spinner stops
+in regions A or C is a prize is awarded. If 
+the game is played eight times, find the 
+probability that:
+a exactly five prizes are awarded 
+b fewer than five prizes are awarded 
+c five prizes or fewer are awarded.
+7 Zeke is exploring a biased coin. He tells 
+Francesco that the probability of throwing 
+a head on a coin he has designed is 0.964. 
+However, the probability of throwing 
+exactly four heads with this coin in five 
+trials is approximately the same as the 
+probability of the same event but with a fair 
+coin. Francesco does not believe this is true. 
+Demonstrate that Zeke is correct.
+355
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+In Section 7.5 you learned about the expected value of a discrete 
+random variable X: E(2Q = p = ^xP(X = x).
+X
+You can use this to find the expected value when X is distributed 
+binomially with parameters n and p. In the following investigation 
+there are two other approaches.
+Investigation 18
+A A subjective perspective
+lana tosses a fair coin 20 times and counts the number of heads.
+1 
+On average, what is the number of heads she would expect? What if she tossed the coin 
+32 times? Discuss in a group.
+2 
+I7TCTH1 What if she tosses a biased coin with P(Head) = 0.7 fifty times? What number of heads 
+would she expect?
+3 H.I.MJ.UIMI Can you generalize your answers to make a conjecture on the expected number of heads 
+for n tosses ifP(Head) =p? Discuss your justification in a group.
+B An experimental perspective
+A 8 
+C
+D E
+0
+9.53674E-07 
+0 p= n=
+1
+1.90735E-05 1.91E-05 0.5 20
+2 0.000181198 0.000362 mu= 10
+3 0.001087189 0.003262
+4 0.004620552 0.018482
+5 0.014785767 0.073929
+6 0.036964417 0.221786
+7 0.073928833 0.517502
+8 0.120134354 0.961075
+9 0.160179138 1.441612
+10 0.176197052 1.761971
+02 Binomial probability distribution B(20,p)
+0.15
+0.1
+0.05
+.1
+I..
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+4 Use a spreadsheets represents - B (n, p) as a probability distribution table and a barchart by 
+following these steps. Save your spreadsheet for use in the next investigation!
+• 
+In column A type the numbers 0,1,2.......20 down to cell A21 to show the possible outcomes of the
+experiment.
+• 
+Fill in cells Dl, D2, El and E2 as shown above to set up the parameters of the distribution.
+• 
+Type “= BIN0M.DIST(A1,$E$2,$D$2,FALSE)” in cell B1. This is the probability of the event 
+P(S = 0) whereS~B(20, p).
+• 
+Type “ = APB 1" in cell Cl.
+• 
+Copy and drag cells B1 and C1 down to row 21 to complete the probability distribution table.
+• 
+Type “ = sum(Cl:C21)” in cell E3 and “mu =" in cell D3.
+• 
+Add a chart to display the domain of A on the x-axis and the corresponding probabilities on the
+y-axis.
+o
+356
+
+Which cell displays E(X)?
+Change the values of p and of n to test your conjecture from part (a) a.
+f^CTTTI How do the parameters of the binomial distribution affect the expected value of the binomial 
+random variable?
+8 H.I.MJ.UIMB How does the expected value of the binomial random variable relate to the formula forthe 
+expected number of occurrences?
+In statistics you learned about the measures of central tendency 
+(mean, median and mode), and measures of dispersion (range, 
+interquartile range and standard deviation).
+You have learned that the mean of the binomial distribution X~B (n, p) 
+is E{X) = np. Now you will explore its variance. The variance is the square 
+of the standard deviation, and the standard deviation compares each data 
+point with the mean.
+TOK
+During the mid-1600s, mathematicians Blaise Pascal, Pierre de Fermat and Antoine 
+Gombaud puzzled overthis simple gambling problem:
+Which is more likely: rolling at least one six on four throws of one dice or rolling at 
+least one double six on 24 throws with two dice?
+Investigation 19
+A Making visual comparisons of the spread: empirical evidence
+With your spreadsheet from the previous investigation, alter the values of p and of n. Hence explore the 
+effect these parameters have on the spread of the distribution. You may find it useful to collaborate with 
+another student to compare and contrast, or just use Ctrl+Z when a parameter has been changed.
+• 
+Compare and contrast the spread of A,~ B(20,0.1 5) with that of A'-B(20,0.5).
+• 
+Compare and contrast the spread of X-B(20,0.1 5) with that of X-B(20,0.85).
+• 
+Compare and contrast the spread of A' ~ B(5,0.85) with that of A' ~ B(20,0.85).
+1 
+By changing the probability of success, how can you maximize the spread fora fixed number
+of trials? Describe the reasons why your answer has this effect.
+2 EEHJ By changing the number of trials, how can you make the spread greater for a fixed probability 
+of success? Describe the reasons why your answer has this effect.
+3
+B
+Factual
+Which parameters of X- B(/7, p) affect variance?
+Looking for patterns and making a conjecture: inductive reasoning
+You can investigate the variance with technology to see the effect of changing the probability and keeping 
+the number of trials fixed as follows:
+o
+Continued on next page
+35?
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+1 
+2
+3
+4
+?|
+Tbii,
+Formula u<n)« 
+initial Terms 
+nO 
+nMax 
+nStep 
+Ceiling Value
+* |A xval B blnom
+E ■
+=
+=seqgen(binomp
+i
+0
+0.0256 P
+0.6
+2
+1
+0.1536 var
+EEd
+I
+2
+0.3456
+4
+3
+0.3456
+%
+4
+0.1296
+a
+a\-gt2 
+I«Im
+D1 is the cell where the probability 
+parameter can be changed.
+Use the steps menu->statistics->stat 
+calculations->one variable statistics. The cell 
+reference G6 is where OX is found.
+Use technology to collect data to complete the following table. You may 
+repeat for other values of n.
+Write down a conjecture for the variance of X-B(4, p).
+Write down a conjecture for the variance of X~ B(/7, p).
+I Is your conjecture consistent with your answers for 1,2 and 3?
+Factual
+How do the binomial distribution parameters model the 
+spread and central tendency of the binomial distribution?
+Example 25
+Two machines in a lightbulb factory are being inspected because quality control raised concerns. 
+Managers have found that the probability that the first machine produces a defective lightbulb is 
+0.3, and that the probability that the second machine produces a defective bulb is 0.2.
+Inspectors take a sample of six bulbs from the first machine and five from the second, and 
+use X ~ B(6, 0.3) and K~ B(5, 0.2) to model the number of defective lightbulbs in the 
+samples from the first and second machines respectively.
+Compare and contrast the central tendency and spread of these binomially distributed 
+random variables.
+\
+IfX~B(n,p) thenE{X)=np and Var(2Q =np( \ -p).
+X ~ B(4,p)
+P
+Variance 
+of a :
+0
+0.1
+0.2
+0.9
+1
+E(A") = 6 x 0.3 = 1.8 and E(Y) = 5 x 0.2 = 1
+Apply the formula E(A) = np.
+X has the higher expected value: on average
+Interpret your results.
+almost twice as many defective bulbs are
+predicted to appear in the sample of 6 than in
+the sample of 5.
+*
+i
+I i
+358
+
+7.6
+O
+Variance of X = 6 x 0.3 x 0.7 = 1.26 and
+Apply the formula
+Variance of Y = 5 x 0.2 x 0.8 = 0.8
+variance of X = np( 1 - p).
+There is more spread predicted in the values
+of the number of defective bulbs from the first
+Interpret your results.
+machine.
+1 Given X ~ B(6, 0.29) find the probabilities: 
+a P(X = 4) b P(X<4) c P(l<*<4) 
+d P(X*2) e P(X<4\XZ 2).
+f Use your answers to determine whether 
+X < 4 and X £ 2 are independent events, 
+g Find E(2Q. h Find the variance of X.
+2 A fair octahedral die numbered 1, 2, 
+8 is
+thrown seven times.
+Let Q denote the number of prime numbers 
+thrown. Find:
+a the probability that at least three prime 
+numbers are thrown 
+b E(Q)
+c the variance of Q.
+3 
+a A biased coin is coloured red on one
+side and black on the other. The 
+probability of throwing red is 0.78. In 10 
+throws of the coin, find the probability 
+that:
+i 
+exactly three blacks are thrown
+ii the number of reds thrown is more 
+than three but fewer than seven.
+Let A represent the event "fewer than three 
+blacks are thrown" and B "more than seven 
+blacks are thrown".
+b Find the probabilities P(A), P(B), P(A\B). 
+Hence determine if the events A and B are:
+O © 
+©
+One game consists of throwing 10 balls. 
+Assume David has no skill whatsoever at 
+aiming and that a ball thrown must fall 
+through one of the holes.
+a Find the probability that David scores at 
+least five points in a game, 
+b David plays six games. Find the
+probability that he scores no points in at 
+least two games.
+5 Zeke explores his biased coin in more 
+detail. He designs a spreadsheet to simulate 
+five throws of his biased (red) coin. The 
+probability of a head is 0.964. He also 
+throws a fair (black) coin five times. He 
+collects data for 614 trials as shown below. 
+The image also shows the outcome of the 
+614th trial.
+heads
+0 1
+2
+3 
+4 
+5 1
+1 
+frequency
+0 0
+0
+5 94 515 |
+®®®®©; = 
+®®CD©©;r'
+0 
+100 200 300 400 500 600
+heads
+0 1
+2
+3
+4 
+5
+frequency
+18 104 196 193
+94 
+11
+c independent 
+d mutually exclusive.
+4 David plays a game at a fair. He throws a 
+ball towards a pattern of 10 holes in this 
+formation. The aim of the game is to have 
+the ball fall into the red hole to win a point.
+Let R and B represent the number of heads 
+in five throws of the red coin and five 
+throws of the black coin respectively.
+a Find E(R) and E(B) and interpret your 
+results.
+b Find the variance of R and the variance 
+of B and interpret your results.
+359
+Statistics and 
+probability
+

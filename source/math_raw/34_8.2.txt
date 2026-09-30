@@ -1,0 +1,1423 @@
+8.2 test for independence
+So far you have been looking at 
+samples of data and working out 
+summary statistics related to the 
+sample.
+For example, if a scientist takes 20 
+plants from a field and measures their 
+heights, she can use this data to find 
+the mean or standard deviation of this 
+particular sample of the plants.
+What does this tell us about the mean 
+or standard deviation of all the plants in 
+the field?
+What might the accuracy of the 
+prediction depend on?
+Most of the work in statistics as a discipline involves collecting a 
+sample and, from it, estimating:
+• parameters; for example, the mean or correlation coefficient of a 
+whole population, when all you have are these values for a sample 
+of the population
+• the distribution of the population; for example, whether or not 
+the population is normally distributed (see Chapter 7).
+Hypothesis testing
+In statistics a hypothesis is a statement about the unknown 
+parameters or features of a data set.
+The aim of a statistical test is to try to find out whether the data 
+supports your hypothesis. If it does, this is an example of statistical 
+inference: you have inferred something from the statistics of the 
+sample you are considering.
+Our initial hypothesis is called the null hypothesis and is written as H().
+Every hypothesis has an alternative hypothesis that will be accepted 
+if H() is rejected; we write this as Hr
+For example, if we were interested in whether a population mean is 
+20 cm or more than 20 cm we could write:
+H0:/i = 20, H1:/<>20
+Investigation 2
+You need to test whether a coin is fair or biased in favour of either heads or 
+tails. You decide to do an experiment in which you toss the coin 10 times to 
+see what happens.
+o
+Continued on next page
+38?
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+1 
+a Without doing any calculations, write down a range of values for the
+number of heads to appear in the 10 tosses that will make you reject 
+the null hypothesis that the coin is fair, 
+b Also without doing any calculations, write down a range of values for the 
+number of heads to appear in the 10 tosses for which you would not reject 
+the null hypothesis but still might be suspicious that the coin is not fair. If 
+this is the case, how might you be able to reduce your suspicions?
+2 
+a Use the binomial distribution to work out the probability of the events
+listed in la happening if the coin is fair, 
+b Do you feel that this probability is small enough that you could reject 
+the null hypothesis if one of the events listed occurred?
+3 
+In hypothesis testing it is important that you can test your null hypothesis 
+mathematically. Suppose the probability of getting a head is p.
+a Explain why you would choose your null hypothesis to be H(): p = 0.5 
+ratherthan H():p* 0.5.
+b For your chosen null hypothesis, write down the alternative hypothesis.
+4 
+The events, such as those in la, for which the null hypothesis is rejected 
+are called the critical region. Statisticians will not normally reject a null 
+hypothesis unless the probability of an outcome occurring in the critical 
+region is less than 0.05. This means that data would appear by chance in 
+the critical region even when H() is true less than 5% of the time. This is 
+referred to as a 5% significance level.
+a Write down the significance level of your test, 
+b Find the significance level for a different choice of critical region. Would 
+you prefer this one overthe one chosen previously? Justify your answer, 
+c Comment on the symmetry of your critical regions and discuss 
+whether they have to be symmetrical.
+5 
+a Deduce whether you can ever be sure thatthe coin is biased; explain
+your answer.
+b Suppose the result of your experiment fell just outside the critical region. 
+Explain whether or not this means that the null hypothesis is true.
+6 H.I.UJ.UIMI What is meant by the significance level of a hypothesis test? 
+? H.I.UJ.UIMI What is the purpose of hypothesis testing?
+Saanvi is a member of a sports club. She has 
+noticed that more males play squash than 
+females, and is interested to find out whether 
+there is any relationship between gender 
+and favourite racket game. She sent around 
+a survey to the other members in the club 
+to find out which game they prefer: tennis, 
+badminton or squash. The results of the survey 
+are shown in the table.
+388
+
+Male
+Male
+Male
+Female
+Female
+Female
+Tennis
+Badminton
+Badminton
+Badminton
+Badminton
+Tennis
+Tennis
+Squash
+Squash
+Badminton
+Squash
+Badminton
+Squash
+Squash
+Squash
+Tennis
+Badminton
+Squash
+Squash
+Squash
+Badminton
+Tennis
+Tennis
+Badminton
+Squash
+Tennis
+Squash
+Squash
+Badminton
+Badminton
+Squash
+Tennis
+Tennis
+Tennis
+Badminton
+Tennis
+Squash
+Tennis
+Tennis
+Badminton
+Squash
+Squash
+Badminton
+Tennis
+Tennis
+Badminton
+Tennis
+Badminton
+Tennis
+Squash
+Badminton
+Tennis
+Tennis
+Badminton
+Badminton
+Squash
+Squash
+Squash
+Badminton
+Squash
+Saanvi wants to know whether or not the choice of game is 
+independent of gender.
+A x2 test for independence shows whether two data sets are 
+independent of each other or not. It can be performed at various 
+significance levels.
+Saanvi decides to perform a x1 test f()r independence at the 5% signifi 
+cance level to find out whether the preferred game is independent of 
+gender or not.
+Her null hypothesis, H(), is:
+H0 : Preferred racket game is independent of gender.
+Her alternative hypothesis is:
+Hj : Preferred racket game is not independent of gender.
+Investigation 3
+Complete the following table. This is the table of observed frequencies, and 
+is called a contingency table.
+Sport
+Tennis
+Badminton
+Squash
+Totals
+Male
+10
+Female
+Totals
+60
+1 
+Calculate the probability that a person chosen at random is male.
+2 
+Calculate the probability that a person chosen at random likes tennis best.
+3 
+If these two probabilities are independent, find the probability that a 
+person chosen at random is male and likes tennis best.
+4 There are 60 people in total. If the events are independent, find the 
+expected number of males who like tennis best.
+EXAM HINT
+In the examination 
+it will only be tested 
+at the 1%, 5% or 10% 
+significance level.
+TOK
+The use ofp-values 
+and null hypothesis 
+testing is “surely the 
+most bone-headedly 
+misguided procedure 
+ever institutionalized 
+in the rote training of 
+science students.”
+— William Rozeboom
+In practical terms, is 
+saying that a result is 
+significant the same 
+as saying it is true?
+These are called the expected frequencies,/^.
+o
+Continued on next page
+389
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+5 Complete the table of expected frequencies.
+Sport
+Tennis
+Badminton
+Squash
+Totals
+Male
+Female
+Totals
+Note that the expected frequencies must be greater than 5. If there are 
+expected frequencies less than 5 then you will need to combine rows or 
+columns.
+In the table of expected frequencies, the totals of the rows and columns are 
+fixed to match the numbers of males and females and players of each sport in 
+the sample. In this example:
+Sport
+Tennis 
+Badminton 
+Squash
+Totals
+Male
+33
+Female
+27
+Totals
+19
+20
+21
+60
+6 
+Find the smallest number of entries that you need to calculate by multi 
+plying probabilities before you can fill in the rest of the table from the 
+numbers already there.
+7 
+If your table had three rows and three columns, find the smallest number 
+of entries that you would need to calculate by multiplying probabilities.
+8 
+If your table had three rows and four columns, find the smallest number of 
+entries that you would need to calculate by multiplying probabilities.
+9 
+Find the smallest number of entries if the table had n rows and m 
+columns.
+This number is called the degrees of freedom, often written as V. This is 
+because you only have a “free” choice for the numbers that go into that many 
+cells. Afterthat, the remaining numbers are fixed by the need to keep the 
+totals the same.
+10 I332E333HJ What does the number of degrees of freedom represent?
+EXAM HINT
+You will not need to 
+do this in exams, 
+but you may need 
+to in your internal
+assessments.
+__________________
+The formula for the degrees of freedom is
+v=(rows- 1) (columns - 1) 
+In examinations, v will always be greater than 1.
+Investigation 3 (continued]
+To decide whether two variables are likely to be independent it is necessary 
+to compare the observed values with those expected. If the observed values 
+are a long way from the expected values then you can deduce that the two 
+variables are unlikely to be independent and reject the null hypothesis. But o
+390
+
+how do you measure how far away they are, and, if you have a measure, 
+how do you decide when the difference is large enough to reject the null 
+hypothesis?
+11 Looking back at the results, which categories are furthest from the 
+expected values? Which are closest?
+12 Find the sum of the differences between the observed and expected 
+values in the tables above and comment on how suitable this would be as 
+a measure of how far apart they are.
+13 Comment on an advantage of squaring the differences before adding 
+them.
+14 Comment on a disadvantage of using this sum as a measure of the 
+distance between the observed and expected values.
+In order to make sure that differences are in proportion, it would be better 
+to divide each difference squared by the expected value (as long as the 
+expected value is not too small).
+This calculation will give you the X2 test statistic.
+The x2 test statistic is
+2 ^y(fo-fv)2
+/Ccalc / . r
+Je
+where are the observed values and are the expected values.
+Ifthis number is largerthan a critical value then reject the null hypothesis. If 
+it is smaller than the critical value then accept the null hypothesis.
+EXAM HINT
+In examinations 
+you will use your 
+GDC to find this 
+value. Goto Matrix, 
+enter the number 
+of rows and the 
+number of columns 
+(not including the 
+totals, if included 
+in the question). 
+Enter the data and 
+store the matrix. 
+Next go to Stat tests, 
+chi-squared 2-way 
+test, enter the letter 
+that you stored the 
+matrix under and 
+press OK. You will 
+seethe chi-squared 
+value, the /?-value 
+and the number of 
+degrees of freedom.
+1 Misty was interested to find out whether 
+preference for car colour was dependent on 
+gender. She asked 80 of her friends and the 
+results are shown in the table.
+Colour
+of car
+White
+Black
+Red
+Blue
+Totals
+Male
+6
+14
+10
+8
+38
+Female
+12
+8
+9
+13
+42
+Totals
+18
+22
+19
+21
+80
+a Show that the expected number of 
+males who prefer black cars is 10.45 
+b Show that the expected number of 
+females who prefer white cars is 
+9.45.
+2 Max was watching people coming out of a 
+take-away coffee shop. He was noting down 
+the gender and whether they had bought a 
+small, medium or large coffee. The results 
+were:
+Coffee
+size
+Small
+Medium
+Large
+Totals
+Female
+22
+16
+18
+56
+Male
+12
+14
+28
+54
+Totals
+34
+30
+46
+110
+a Show that the expected number of 
+males who buy a small coffee is 16.7. 
+b Show that the expected number of 
+females who buy a large coffee is 23.4.
+c Find the x2 value.
+c Find the x2 value.
+391
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+3 Brenda works in a pet shop. She watches the 
+rabbits, guinea pigs and hamsters to see if they 
+eat the lettuce or carrots first. Her results are:
+Pet
+Rabbits
+Guinea
+P'gs
+Hamsters
+Lettuce
+16
+16
+28
+Carrots
+34
+18
+18
+a Show that the expected number of 
+rabbits who eat carrots first is 26.9.
+b Show that the expected number of 
+hamsters who eat lettuce first is 21.2 
+c Find the %2 value.
+4 Ziyue asked her year group how they
+travelled to school. Her results are shown in 
+the table.
+Transport
+Car
+Bus
+Bicycle
+Walk
+Male
+12
+12
+28
+8
+Female
+21
+13
+15
+11
+a Show that the expected number of 
+males who come by bicycle is 21.5. 
+b Show that the expected number of 
+females who come by car is 16.5. 
+c Use your GDC to find the %2 value.
+Investigation 3 (continued]
+15 Use the entries in the tables from earlier in the investigation for the 
+observed and expected frequencies to find the %2 test statistic. Complete 
+the following:
+/„
+4
+<fo~0
+<f0-02
+(L-fJ
+U
+10
+10.45
+-0.45
+0.2025
+0.193?...
+y
+^ /«
+For a 5% significance level the critical value is chosen so that the probability 
+of the test statistic being greater than this value if the two variables are 
+independent is 0.05.
+16 Will the critical value be larger or smaller for a 1% significance level than 
+for a 5% significance level?
+The size of the critical value also depends on the number of degrees of 
+freedom. With a larger table, and hence more degrees of freedom, more 
+numbers are being added to create the test statistic. In examinations you will 
+always be given the critical value if you need to use it.
+The critical value for two degrees of freedom at the 5% significance level is
+1? Use this value and your test statistic to decide whether or not to accept the 
+null hypothesis. 
+*
+392
+
+18 Use your GDC with the observed values given above and verify your 
+previously obtained value for the test statistic.
+Your GDC also gives you a /7-value. This is the probability value. If the /7-value 
+is smaller than the level of significance then you do not accept the null 
+hypothesis.
+19 Use the /7-value that you found on your GDC and the significance level of 
+5% to reach a conclusion on Saanvi’s test.
+20 
+How would you use the result of the chi squared test to 
+determine whether two variable are independent or not?
+21 
+What is the purpose of the %2 test?
+TOK
+How can a mathematical 
+model give us knowledge 
+even if it does not yield 
+accurate predictions?
+You can use either the test statistic and the critical value or the 
+/7-value and the significance level to reach a conclusion. You may 
+only be given one of these values (the critical value or the significance 
+level), so you should know how to use both.
+Example 2
+Eighty people were asked for their favourite genre of music: pop, classical, 
+folk or jazz. The results are in the following table.
+Genre
+Pop
+Classical
+Folk
+Jazz
+Totals
+Male
+18
+9
+4
+7
+38
+Female
+22
+6
+7
+7
+42
+Totals
+40
+15
+11
+14
+80
+A x2 test was carried out at the 1% significance level. The critical value for this test 
+is 11.345.
+\
+• 
+If the x2 test statistic is less than the critical value then you accept the 
+null hypothesis. If it is greater than the critical value then you do not 
+accept the null hypothesis.
+xLk < critical value => accept H0
+zLc > critical value => reject H0
+• 
+If the /7-value is greaterthan the significance level (0.01, 0.05 or 0.10) 
+then you accept the null hypothesis. If it is less than the significance 
+level then you do not accept the null hypothesis.
+/7-value > 0.05 => accept H0 
+/7-value < 0.05 => reject H0
+a Write down the null and alternative hypotheses, 
+b Show that the expected value for a female liking pop is 21. 
+c Write down the number of degrees of freedom.
+o
+Continued on next page
+393
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+d Find the x2 test statistic and the p-value.
+e State whether the null hypothesis is accepted or not, giving a reason for your answer.
+a HQ : Favourite music genre is inde-
+pendent of gender
+H. : Favourite music genre is not
+independent of gender
+b E(female liking pop) = P(female) x
+42 40
+P(likes pop) x total = — x— x80 = 21
+80 80
+c v = (2 - 1 )x(4 - 1) = 3
+Remember that you do not count the Totals
+d x2 ~ 1-622... and p = 0.654...
+row or column.
+e 0.654 > 0.01 or 1.622 < 1 i .345 and
+so you accept the null hypothesis:
+favourite music genre is independent of
+gender.
+Example 3
+American bulldogs are classified by height, h, as Pocket, Standard or XL. Pockets have 
+h < 42 cm high, Standards have 42 < h < 50 and XLs have 50 < h < 58. At a dog show, 
+Marius measures and weighs 50 dogs. He is interested to find out whether class of dog is 
+independent of weight and decides to perform a x2 test at the 5% significance level. The 
+results are shown in the table.
+Height
+Weight
+Height
+Weight
+Height
+Weight
+36
+30
+42
+38
+50
+39
+37
+33
+42
+39
+51
+41
+37
+36
+43
+36
+51
+42
+38
+31
+43
+44
+52
+45
+38
+38
+44
+42
+52
+45
+39
+32
+44
+48
+52
+51
+39
+39
+45
+46
+53
+53
+39
+42
+46
+49
+54
+55
+40
+41
+46
+38
+54
+48
+40
+43
+46
+42
+54
+56
+40
+38
+47
+46
+55
+58
+41
+38
+47
+50
+55
+51
+41
+44
+47
+52
+56
+54
+41
+46
+48
+49
+56
+53
+41
+45
+48
+48
+56
+55
+41
+47
+48
+42
+57
+58
+49
+53
+57
+59
+394
+
+a Find the mean weight of the 50 dogs, 
+b Complete the following contingency table:
+Class
+Pocket
+Standard
+XL
+< mean
+> mean
+c Write down the null and alternative hypotheses, 
+d Write down the number of degrees of freedom.
+e Show that the expected number of XL dogs that weigh less than the mean is 8.16.
+f Find the x2 test statistic and the /7-value, 
+g Comment on your answer.
+a Mean weight = 44.96
+Class
+Pocket
+Standard
+XL
+< mean
+13
+8
+3
+£ mean
+3
+9
+14
+c HQ : Class of dog is independent of weight.
+Hj : Class of dog is not independent of weight, 
+d v — 2
+e — x — = 8.16 
+50 50
+f x2 = 13.4 and /7-value = 0.001 25 
+g 0.001 25 < 0.05, therefore do not accept the null 
+hypothesis.
+1 Pippa sends out a questionnaire to 50 
+of her classmates asking what their 
+favourite sport is. She wants to conduct 
+a x2 test al the 10% significance level 
+to find out whether favourite sport is 
+independent of gender.
+The results are as follows:
+basketball, basketball, cycling, 
+football, football, football, football, 
+cycling, cycling, cycling, basketball.
+a Set up a contingency table to display the 
+results.
+b Write down the null and alternative 
+hypotheses.
+Males: cycling, cycling, basketball, football, 
+football, football, basketball, basketball, 
+basketball, basketball, football, football, 
+football, cycling, cycling, basketball, 
+basketball, basketball, basketball, basketball, 
+cycling, cycling, cycling.
+Females: football, football, football, 
+basketball, basketball, cycling, basketball, 
+basketball, basketball, cycling, cycling, 
+cycling, football, football, football, cycling,
+c Write down the number of degrees of 
+freedom.
+d Find the x2 value and the /walue. 
+e Check that expected values are greater 
+than 5.
+The critical value is 4.605. 
+f Write down the conclusion of the test, 
+g Comment on whether the /7-value 
+supports this conclusion.
+395
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+2 A survey was conducted to find out which 
+type of bread males and females prefer. 
+Eighty people were interviewed outside 
+a baker's shop and the results are shown 
+below.
+Bread
+White
+Brown
+Corn
+Multi 
+grain
+Totals
+Male
+14
+10
+7
+8
+39
+Female
+17
+6
+6
+12
+41
+Totals
+31
+16
+13
+20
+80
+Using the x2 test at the 5% significance 
+level, determine whether the favourite type 
+of bread is independent of gender.
+a State the null hypothesis and the 
+alternative hypothesis, 
+b Show that the expected frequency for 
+female and white bread is approximately 
+17.9.
+c Write down the number of degrees of 
+freedom.
+d Write down the x2 test statistic and the 
+/rvalue for this data.
+The critical value is 7.815. 
+e Comment on your result.
+3 Three hundred people of different ages 
+were interviewed and asked which genre 
+of film they mostly watched (thriller, 
+comedy or horror). The results are shown 
+below.
+Film
+type
+Thriller
+Comedy
+Horror
+Totals
+0-20
+years
+13
+26
+41
+80
+20-50
+years
+54
+48
+28
+130
+51+
+years
+39
+43
+8
+90
+Totals
+106
+112
+77
+300
+Using the x2 test at the 10% significance 
+level, determine whether the genre of film 
+watched is independent of age.
+a State the null hypothesis and the 
+alternative hypothesis.
+b Show that the expected frequency for 
+preferring horror films between the ages 
+of 20 to 50 years is 33.4. 
+c Write down the number of degrees of 
+freedom.
+d Write down the x2 test statistic and the 
+/7-value for this data, 
+e Comment on your result.
+4 Three different flavours of dog food were 
+tested on different breeds of dogs to see 
+whether there was any connection between 
+favourite flavour and breed. The results are 
+shown in the table below.
+Flavour
+Beef
+Chicken
+Lamb
+Totals
+Boxer
+14
+6
+8
+28
+Labrador
+17
+11
+10
+38
+Poodle
+13
+8
+14
+35
+Collie
+6
+5
+8
+19
+Totals
+50
+30
+40
+120
+Perform a x2 test at the 5% significance 
+level to test whether favourite flavour is 
+independent of breed of dog.
+a State the null hypothesis and the 
+alternative hypothesis, 
+b Write down the table of expected 
+frequencies.
+c Combine the results for collie and poodle 
+so that all expected values are greater 
+than five and write down the new table 
+of observed values.
+d Write down the x2 test statistic and the 
+/7-value for this data.
+The critical value is 9.488.
+e Comment on your result for a 5% 
+significance level.
+5 Sixty people were asked what their favourite 
+flavour of chocolate was (milk, pure, white). 
+The results are shown in the table below.
+Flavour
+Milk
+Pure
+White
+Totals
+Male
+10
+1?
+5
+32
+Female
+8
+6
+14
+28
+Totals
+18
+23
+19
+60
+39B
+
+A x2 test at the 1 % significance level is 
+set up.
+a State the null hypothesis and the 
+alternative hypothesis, 
+b Write down the number of degrees of 
+freedom.
+c Write down the x2 test statistic and the 
+/7-value for this data.
+The critical value is 9.210. 
+d Comment on your result.
+6 Nandan wanted to know whether or 
+not the number of hours spent on social 
+media had an influence on average 
+grades (GPA). He collected the following 
+information:
+Grade
+Low
+GPA
+Average
+GPA
+High
+GPA
+Totals
+0-9 hours
+4
+23
+58
+85
+10-19
+hours
+23
+45
+32
+100
+>20 hours
+43
+33
+9
+85
+Totals
+?0
+101
+99
+220
+He decided to perform a x2 tesl the 
+10% significance level to find out 
+whether there is a connection between 
+GPA and number of hours spent on social 
+media.
+a State the null hypothesis and the 
+alternative hypothesis.
+b Show that the expected frequency for 
+0-9 hours and a high GPA is 31.2.
+c Write down the number of degrees of 
+freedom.
+d Write down the x2 test statistic and the 
+/7-value for this data.
+The critical value is 7.779. 
+e Comment on your result.
+? Hubert wanted to find out whether the 
+number of people walking their dog was 
+related to the time of day. He kept a record 
+covering 120 days and the results are 
+shown in the following table.
+Time of 
+day
+Morning
+Afternoon
+Evening
+Totals
+0-5
+people
+8
+6
+18
+32
+6-10
+people
+13
+8
+23
+44
+>10
+people
+21
+2
+16
+44
+Totals
+42
+21
+5?
+120
+Test, at the 5% significance level, whether 
+there is a connection between time of 
+day and number of people walking their 
+dog. The critical value for this test is 
+9.488.
+8 Carle has a part-time job working at a 
+corner shop. He decides to see whether 
+there is a connection between the 
+temperature and the number of bottles 
+of water sold. His observations are in the 
+table below.
+Tempera 
+ture
+< 21°C
+21°C-30°C
+>30°C
+Totals
+<30
+bottles
+14
+23
+12
+49
+30-60
+bottles
+10
+31
+12
+58
+>60
+bottles
+8
+26
+9
+43
+Totals
+32
+80
+38
+150
+Test, at the 1% significance level, whether 
+there is a connection between temperature 
+and the number of bottles of water sold.
+a State the null hypothesis and the 
+alternative hypothesis, 
+b Write down the number of degrees of 
+freedom.
+c Write down the x2 test statistic and the 
+p-value for this data.
+The critical value is 13.277. 
+d Comment on your result.
+39?
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+9 Samantha wanted to find out whether 
+there was a connection between the type of 
+degree that a person had and their annual 
+salary in dollars. She interviewed 120 
+professionals and her observed results are 
+shown in the following table.
+Degree
+BA
+MA
+PhD
+Totals
+< US $60 000
+17
+8
+4
+29
+US$60 000- 
+US$120 000
+14
+19
+9
+42
+> US $120 000
+8
+14
+27
+49
+Totals
+39
+41
+40
+120
+Test, at the 5% significance level, whether 
+there is a connection between degree and 
+salary.
+a State the null hypothesis and the 
+alternative hypothesis, 
+b Write down the number of degrees of 
+freedom.
+c Write down the x2 lesl statistic and the 
+/?-value for this data.
+The critical value is 9.488. 
+d Comment on your result.
+Developing inquiry skills
+Let the measurement of the largest height of the trees in the opening 
+problem be h. Divide the trees into small, medium and large, where 
+small trees have h < 4.5 ill, medium, 4.5 < h < 5.0 m, and large 
+h> 5.0 m.
+Use these categories to form a contingency table for the trees in 
+areas A and B, and test at the 5% significance level whether the 
+heights of the trees are independent of the forest area they were 
+taken from.
+Does the conclusion of the test support the hypothesis that the trees 
+from area A, on average, are taller than those from area B? Justify your 
+answer.
+8.3 ^goodness of fit test
+Investigation 4
+Jiang wonders whetherthe die he was given is fair. He rolls it 300 times. His 
+results are shown in the table.
+Number
+Frequency
+1
+35
+2
+52
+3
+4?
+4
+71
+5
+62
+6
+33
+o
+T0K
+How have technological 
+innovations affected the 
+nature and practice of 
+mathematics?
+398
+
+1 Write down the probability of throwing a 1 on a fair die.
+2 If you throw a fair die 300 times, how many times would you expect to 
+throw a 1?
+3 Write down the expected frequencies for throwing a fair die 300 times.
+Number
+Expected frequency
+1
+2
+3
+4
+5
+6
+4 
+Do you need to combine any rows on yourtable?
+Since all the expected frequencies are the same, this is known as a uniform 
+distribution.
+5 ki in'im Is the formula for the x1 test suitable to test whether Jiang's 
+results fit this uniform distribution?
+The null hypothesis is HQ: Jiang's die satisfies a uniform distribution.
+6 Write down the alternative hypothesis.
+7 
+Given that the critical value at the 5% significance level for this test is
+— (f — f)2
+11.07, use the formula for the x2 test, XL, = X r ' .to find out
+Jc
+whether Jiang’s results could be taken from a uniform distribution.
+Normally you would solve this using your GDC, which may ask you to enter 
+the degrees of freedom.
+8
+Factual iWhatisthe number of degrees of freedom in ax2 goodness of fit 
+test? (Consider in how many cells you have free choices when completing 
+the expected values table.)
+9 Write down the number of degrees of freedom for this test.
+10 Using your GDC, find the test statistic and the p-value.
+11 What is your conclusion from this test?
+12 ffiTiffffiFfffl What is the purpose of the goodness of fit test?
+These types of lest are called "goodness of fit" tests as they are 
+measuring how closely the observed data fits with the expected 
+data for a particular distribution. The test for independence using 
+contingency tables is an example of a goodness of fit test, but you can 
+test for the goodness of fit for any distribution.
+\
+In ax2 goodness of fit test, the number of degrees of freedom is v= (n- 1).
+399
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+Example 4
+The students in Year 8 are asked what day of the week their birthdays are on this year. 
+The table shows the results.
+Day
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Frequency
+12
+14
+18
+1?
+15
+15
+14
+a Write down the table of expected values, given that each day is equally likely, 
+b Conduct a x2 goodness of fit test at the 5% significance level for this data, 
+c The critical value is 12.592. Write down the conclusion for the test.
+Day
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Frequency
+15
+15
+15
+15
+15
+15
+15
+b HQ : The data satisfies a uniform distribution.
+Hj : The data does not satisfy a uniform distribution.
+V= (7- 1) = 6
+Using GDC, x2 = 1.60 and /rvalue = 0.953. 
+c 0.95 > 0.05 or 1.60 < 12.592, so you can accept the null hypothesis: the data does 
+satisfy a uniform distribution.
+1 Terri buys 10 packets of Skittles and counts 
+how many of each colour (yellow, orange, 
+red, purple and green) there are. In total 
+she has 600 sweets.
+According to the Skittles website, the 
+colours should be evenly distributed with 
+20% of each colour in a bag.
+The results for Terri's 10 bags are:
+Colour
+Frequency
+Yellow
+104
+Orange
+132
+Red
+98
+Purple
+129
+Green
+13?
+a Find the expected frequencies, 
+b Write down the number of degrees of 
+freedom.
+c Determine the results of a goodness of fit 
+test at the 5% significance level to find 
+out whether Terri's data fits a uniform 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+The critical value for this test is 9.488. 
+d State the conclusion for the test and give 
+a reason for your answer.
+2 There are 60 students in Grade 12. Mr Stewart asks them which month their birthdays are in, 
+and the results are shown in the table.
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Frequency
+3
+5
+4
+6
+5
+6
+4
+?
+8
+6
+3
+3
+The months in which people have birthdays are uniformly distributed.
+400
+
+a Write down the table of expected values.
+b Write down the number of degrees of 
+freedom.
+c Determine the results of a goodness of 
+fit test at the 10% significance level to 
+find out whether the data fits a uniform 
+distribution. Remember to write down the 
+null and alternative hypotheses.
+The critical value for this test is 17.275.
+d State the conclusion for the test and give 
+a reason for your answer.
+3 Sergei works in a call centre. One week he 
+answers 840 calls. The number of calls that 
+he answers each day are shown in the table.
+Day
+Mon
+Tues Wed Thurs
+Fri
+Sat ------1
+Sun
+Frequency
+148
+98
+103
+106
+93
+204
+90 |
+The calls are uniformly distributed.
+a Show that the expected value of the 
+number of calls each day is 120. 
+b Write down the number of degrees of 
+freedom.
+find out whether the data fits a uniform 
+distribution. Remember to write down the 
+null and alternative hypotheses.
+The critical value for this test is 12.592.
+d State the conclusion for the test and give 
+a reason for your answer.
+4 The last digit on 500 winning lottery tickets 
+is recorded in the table.
+Last digit
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Frequency 44 53 49 61 47 52
+39
+58
+42 45
+a Each number should be equally likely to 
+occur. Write down the table of expected 
+values.
+b Write down the number of degrees of 
+freedom.
+c Determine the results of a goodness of 
+fit test at the 10% significance level to 
+find out whether the data fits a uniform 
+distribution. Remember to write down the 
+null and alternative hypotheses.
+The critical value for this test is 14.684.
+c Determine the results of a goodness of 
+fit test at the 5% significance level to
+d State the conclusion for the test and give 
+a reason for your answer.
+Example 5
+The scores for IQ tests are normally distributed with a 
+mean of 100 and standard deviation of 10. Cinzia gives an 
+IQ test to all 200 IB Diploma Programme students in the 
+school. Her results are shown in the table.
+Cinzia wants to test whether these results are also 
+normally distributed and performs a %2 goodness of fit test 
+at the 10% significance level.
+a Write down her null and alternative hypotheses, 
+b Find the expected values.
+c If any expected values are less than 5 then rewrite 
+both tables.
+Score, x
+Frequency
+x<90
+5
+90 <*< 100
+14
+100 <x< 110
+74
+110 <x< 120
+58
+120 <x< 130
+34
+130<x
+15
+d Write down the number of degrees of freedom. 
+The critical value is 6.251.
+e Find the x2 test statistic and the /?-value, and state the conclusion for the test.
+a HQ : The scores are normally distributed with 
+mean of 100 and standard deviation of 10.
+Hj : The scores are not normally distributed with 
+mean of 100 and standard deviation of 10.
+Continued on next page
+401
+Statistics and 
+probability
+

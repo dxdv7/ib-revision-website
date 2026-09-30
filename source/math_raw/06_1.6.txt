@@ -1,0 +1,991 @@
+1.6
+1.6 Angles of elevation and 
+depression
+Since ancient times, sailors and surveyors have measured angles 
+to determine measurements that are inaccessible directly, such as 
+the heights of trees, clouds or mountains, and distances to coasts or 
+buildings.
+In the problem about measuring the 
+height of a tree from the previous 
+section, angle BAG is the angle between 
+the line of sight of the observer to the 
+top of the tree and a horizontal line 
+[AB] from their eye level. This angle is 
+called the angle of elevation.
+Similarly, when the object is below the horizontal line at eye level, an 
+angle of depression is formed, as shown on the diagram below.
+Observer
+\
+The angle of elevation is the angle between the horizontal and the observer’s 
+line of sight to the object when the observer is looking upwards.
+The angle of depression is the angle between the horizontal and the 
+observer’s line of sight to the object when the observer is looking downwards.
+Reflect
+Why are angles of elevation and depression useful?
+33
+Geometry and
+Number and algebra 
+trigonom etry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+Investigation 12
+In this investigation you will take measurements of accessible distances and angles, and then use them to 
+calculate inaccessible heights. You will measure angles with a device called a clinometer and then perform 
+the calculations. But first you have to make the clinometer yourself.
+1 
+Making a clinometer
+A clinometer is an instrument for measuring angles above or below a horizontal line (angles of elevation or 
+depression). A metal tube allows the user to sight the top (or the base) of an object, and a protractor-like 
+device on the side measures the angle.
+To construct a clinometer you will need:
+• 
+drinking straw (instead of a metal tube)
+• 
+protractor
+• 
+string
+• 
+washer
+• 
+sticky tape
+• 
+tape measure.
+2 Clinometer assembly
+Attach the drinking straw to the top straight 
+edge of the protractor with tape.
+Attach the washer to one end of the string, 
+and attach the string to the 0 marking on 
+the top edge of the protractor and let it hang 
+at least 5 cm below the curved edge of the 
+protractor so that it can swing freely.
+You are done! Now try it out.
+3 
+Using your clinometer 
+Start by holding the clinometer so that the straw is parallel to the ground.
+Slowly tilt the straw up until you can see the very top of the object that you are measuring through the 
+straw.
+Have your partner record the angle measure that the string passes through. Your measure should be 
+between 0° and 90°.
+a Choose a tree or other tall object nearby whose height you are going to measure, 
+b Move away from the object until you can see the top of the object through the straw of your 
+clinometer.
+c One person should look through the clinometer at the top of the object you are measuring. The other 
+person reads the angle that the string defines. Record this measurement. Rememberthatthe number 
+will be between 0° and 90°.
+34
+
+1.6
+O
+d Next, measure the distance to the object from the point on the ground at which the angle was 
+measured. Record this measurement.
+Measurement
+Measure 
+of angle of 
+elevation
+Measure of
+distance to 
+the object
+Calculated 
+height of the 
+object
+Eye-level
+height
+Total height of the 
+object
+1
+2
+3
+4
+5
+B
+e Measure the height from the ground to the eye level of the person measuring the angle, 
+f Draw a clear and labelled diagram and write on it the information you have collected, 
+g Use the measurements you obtained to do the relevant calculations to find the height, 
+h After you have found out how high the object is from eye level, add the person's eye-level height to 
+that number. This should give you the total height of the object.
+i 
+You can do a few sets of measurements and compare your results. What factors do you think could 
+have affected the accuracy of your measurements and final result?
+Suppose you are standing on the third floor of a building and want to find the distance to a building 
+across the street. What information would you need and what measurements would you need to take in 
+order to calculate this distance? Suppose you do have the necessary information and have obtained the 
+measurements. Draw a diagram and explain how you would find the distance. How would you calculate 
+the angle of depression if you know the side measurements?
+Factual
+How are angles of elevation/depression calculated?
+PfliffTTflETl Why are angles of elevation/depression useful?
+Example 18
+A ramp, |BC], is to be constructed to give wheelchair access to the door of a house 1.35 m 
+above the ground. Safety regulations require that the angle of the ramp be less than 8°.
+a Draw a diagram and label the vertices and the sides, 
+b Find the length of the ramp [BC], where ABC = 8°. 
+c Find the distance AB, giving your answer to 1 dp.
+35
+Geometry and
+Number and algebra 
+trigonom etry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+BC = 1.35 
+sin 8°
+BC = 9.70 m (3 sf)
+c tan B= 5EE22I1 
+Adjacent
+tan 8° =
+o_ 1.35
+AB 
+1.35
+AB = tan 8°
+so AB = 9.61 m (3 sf)
+* Opposite
+Use tan B= —------- and solve for AB.
+Adjacent
+Example 19
+From his studio window at point A, which 
+is 6.50 m above the ground, Tomchik 
+views the top and the base of a building 
+on the opposite side of the street. The 
+angles of elevation and depression of the 
+top and the base of the building are 55° 
+and 18° respectively. Find the height of 
+the building he is viewing, giving your 
+answer correct to 2 dp.
+From AABD,
+Opposite
+For AABD, we use tan BAD -
+„ 
+Opposite
+tan BAD = —v------
+Adjacent
+Adjacent
+. 
+| go 6.50
+tan 18° -
+AB
+AB = 20.00 m (2 dp)
+as we know that BD = AE = 6.50 m and
+BAD = 18°.
+From AABC,
+„ * - Opposite 
+tan BAC -
+Opposite
+For AABC, we use also tan BAD-
+Adjacent
+Adjacent
+as we now know that AB = 20 m and
+tan 55° = —
+20
+CB = 20 tan 55°
+BAC = 55°.
+CB = 28.56 m (2 dp)
+Then the height of the building is
+28.56+ 6.50 = 35.06 m
+To find the height of the building you need 
+to add the lengths of sides [CB] and [DB|.
+36
+
+1.6
+1 The angle of depression from the top of a 
+cliff to a boat at sea is 17°. The boat is 450 m 
+from the shore.
+a Draw a diagram representing the situation, 
+b Find the height of the cliff, giving your 
+answer rounded to the nearest metre.
+2 Your family wants to buy an awning for a 
+French window that will be long enough 
+to keep out the sun when it is at its highest 
+point in the sky. The height of the French 
+window is 2.80 m. The angle of elevation 
+of the sun from this point is 70°. Find how 
+long the awning should be. Write down 
+your answer correct to 2 dp.
+3 Scientists measure the depths of lunar 
+craters by measuring the length of the 
+shadow cast by the edge of the crater using 
+photos. In a photograph, the length of the 
+shadow cast by the edge of the Moltke 
+crater is about 606 metres, given to the 
+nearest metre. The sun's angle of elevation
+is 65°. Find the depth of the crater, giving 
+your answer rounded to the nearest metre.
+4 The height of a building is 72 m. Find the 
+angle of elevation from a point on ground 
+level that is 55 m away from the base of 
+the building.
+5 From a boat 160 m out at sea, the angle of 
+elevation to the coast is 18°. The angle of 
+elevation to the top of a lighthouse on the 
+coast is 22°.
+a Draw a diagram representing the 
+situation.
+b Find the height of the lighthouse.
+Investigation 13
+1 Complete the following table.
+Angle
+Section of a circle with this angle
+Length of the corresponding arc
+360°
+o
+2m
+270°
+180°
+90°
+<
+45°
+Z\
+1°
+-——1
+a°
+o
+Continued on next page
+37
+Geometry and
+Number and algebra 
+trigonom etry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+2 
+A window, which is a semicircle of radius 12 cm, is divided into six 
+congruent sections, as shown in the diagram.
+Find the length of the arc of the entire semicircular window.
+3 
+Find the length of the arc of one of the six sections of the window.
+4 
+If the window is divided into sections with a central angle of 1°, find the 
+length of the arc of such a window section.
+5 
+Find the length of the arc of a window section if its central angle were a°.
+6 
+Generate a formula for finding the length of the arc of a circle with central angle cx° and radius r, based on 
+your conclusions above.
+? 
+How are the arc length and circumference of a circle related?
+Length of arc formula
+The length of the arc of a sector of a circle with radius rand central angle
+. 
+2nr nr
+a0 is a x-------ora x-----.
+360 
+180
+TOK
+What does it mean to say 
+that mathematics is an 
+axiomatic system?
+Example 20
+Find the length of the arc of a circle with radius 2 cm and central 
+angle 120°.
+The length of the arc can be 
+found in two ways.
+a i x 2n(2)
+One way would be to use the
+fact that 120° is - of 360°,
+3
+which means that the length
+= 4.19cm (3 sf)
+of the arc will be - of the
+3
+circumference of a circle with
+radius 2 cm, thus -x2/r(2) or
+4.19an (3 sf).
+b 120x-^- = 120x
+180 180
+= 4.19cm (3 sf)
+Another way would be to 
+directly use the formula:
+120 x 
+or 120 x 
+which
+180 180
+again results in 4.19cm (3 sf).
+Developing 
+your toolkit
+Now do the 
+Modelling and 
+investigation 
+activity on 
+page 46.
+38
+
+1.6
+1 Determine the length of each arc with 
+radius rand central angle a given below.
+Give your answer correct to 2 dp. 
+a r = 5 cm, a= 70° 
+b r= 4cm, a= 45° 
+c r- 10.5cm, a- 130°
+2 A clock is circular in shape with diameter
+25 cm. Find the length of the arc between 
+the markings 12 and 5, rounded to the 
+nearest tenth of a centimetre.
+3 The London Eye is 
+a giant Ferris wheel 
+in London. It is 
+the tallest Ferris 
+wheel in Europe, 
+with a diameter 
+of 120 m. The 
+passenger capsules 
+are attached to the 
+circumference of 
+the wheel, and the 
+wheel rotates at
+26 cm per second.
+Find:
+a the length that a passenger capsule 
+would travel if the wheel makes a 
+rotation of 200°
+b the time, in minutes, that it would 
+take for a passenger capsule to make a 
+rotation of 200°
+c the time, to the nearest whole minute, 
+that it would take for a passenger 
+capsule to make a full revolution.
+4 A door with width 4.20 m
+has an arc as shown in
+the diagram. Find:
+a the radius of the arc, 
+to the nearest cm
+b the length of the arc, 
+to the nearest cm.
+Chapter summary
+Measurement
+• Measurements help us to compare objects and understand how they relate to each other.
+• Measuring requires approximating. If a smaller measuring unit is chosen then a more accurate 
+measurement can be obtained.
+• When you measure, you first select a property of the object that you will measure. Then you choose 
+an appropriate unit of measurement for that property. And finally, you determine the number of units.
+Estimation
+• Estimation (or estimating) is finding an approximation as close as possible to the value of a 
+measurement by sensible guessing. Often the estimate is used to check whether a calculation 
+makes sense orto avoid complicated calculations.
+• Estimation is often done by comparing the attribute that we measure to another one or by sampling.
+Accuracy
+• A value is accurate if it is close to the exact value of the quantity being measured. However, in most 
+cases it is not possible to obtain the exact value of a measurement. For example, when measuring 
+your weight, you can get a more accurate measurement if you have a balance scale that measures 
+to a greater number of decimal places.
+Continued on next page
+39
+Geometry and
+Number and algebra 
+trigonom etry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+• The left and the right ends of an interval in which an exact value of a measurement lies are 
+respectively called the lower bound and the upper bound.
+• The lower bound and the upper bound are half a unit below and above a rounded value of a 
+measurement. Thus the upper bound is calculated as the rounded measurement + 0.5 unit and the 
+lower bound is the rounded measurement - 0.5 unit.
+• Since measurements are approximate there is always error in the measurement results.
+A measurement error is the difference between the exact value and the approximate value, ie
+Measurement error= VA - V,.
+A E
+Percentage error =
+Va
+x 100%, where V. is the approximate value and V is the exact value.
+ri 
+C
+• Rounding of intermediate results during multistep calculations reduces the accuracy of the final 
+answers. Thus, make sure to round your final answer only.
+Speaking scientifically
+• Numerical expressions consist only of numbers and symbols of operations (addition, subtraction, 
+multiplication, division and exponentiation), whereas algebraic expressions contain numbers, 
+variables and symbols of operations.
+• If the exponent, n, is a positive integer, it determines how many times the base, #, is multiplied by 
+itself. For example, 82 means 8x8.
+• If the exponent, n, is a negative integer it determines how many times to divide 1 by the base, a. For
+example, 8~2 means \ or ——.
+82 
+8x8
+Standard form
+• In standard form (also known as scientific notation), numbers are written in the form a x 10”, 
+where a is called the coefficient or mantissa, with 1 <#<10, and n is an integer.
+• You may have noticed that your graphic display calculator gives any results with lots of digits in scientific 
+notation. However, instead of writingthe results in the form a x 10", it gives them in the form aEn, where 
+n is an integer. For example, 3 x 105 will be written as 3E5, and 3.1 x 10-3 as 3. IE-3.
+• To convert from decimal to scientific notation on your GDC, change the Mode from Normal to 
+Scientific. Thus, all of your number entries will be immediately converted to scientific calculator 
+notation. To convert to correct scientific notation, you will need to replace E with 10, eg 5E2 
+should be written as 5 x 102.
+Trigonometry of right-angled triangles
+• Pythagorean theorem: For every right-angled triangle c2 = a2 + b2t 
+where c is the hypotenuse, and a and b are the other two sides. The 
+hypotenuse is the longest side and is opposite the right angle.
+• If you know two of the sides of a right-angled triangle you can 
+always determine the third side.
+• The converse of the Pythagorean theorem: If for a triangle c2 = a2 -F b2, where a, b and c are its sides, 
+then it must be a right-angled triangle.
+• The converse of the Pythagorean theorem is useful, as if you know the three sides of a triangle you 
+can determine whether the triangle has a right angle or not.
+40
+
+Developing inquiry skills
+Does the measure of B AC depend on the length of [BD] 
+or how high the observer stands above the ground?
+How can you use ABC to find the measure of B AC?
+Which is the arc of visibility for an observer at point B?
+Does the length of the arc of visibility depend on B AC? 
+Assume that the radius of the Earth is 6370 km. 
+a Calculate the measure of B AC if
+BD = 10m. 
+C
+b Calculate the measure ofBAC if BD = 382m. 
+c Express the measure of B AC if BD = h km. 
+d Calculate the length of the arc of visibility for BD = 10 m. 
+e Calculate the length of the arc of visibility for BD = 382 m. 
+f Calculate the length of the arc of visibility for BD = h km. 
+What other assumptions are you making?
+Trigonometric ratios
+• The ratios of the sides of right-angled triangles are called trigonometric ratios. Three common 
+trigonometric ratios are the sine (sin), cosine (cos) and tangent (tan). These are defined for 
+acute angle A in the right-angled triangle below:
+* Opposite
+n 
+sin A =------—------------
+Hypotenuse
+Opposite
+<> Adjacent
+cos A =------- -------------
+Hypotenuse
+a Opposite
+tan A = ——----------
+Adjacent
+• If at least one side and one non-right angle are known in a right-angled triangle, then all other 
+angles and side lengths can be determined.
+• Trigonometric ratios are very helpful in solving practical problems. Distances that are inaccessible 
+can be indirectly measured through use of trigonometry.
+Angles of elevation and depression
+• The angle of elevation is the angle between the horizontal and the observer’s line of sight to the 
+object when the observer is looking upwards.
+• The angle of depression is the angle between the horizontal and the observer’s line of sight to the 
+object when the observer is looking downwards.
+The length of the arc of a sector of a circle with radius r and with central angle a° is a x 2nr
+360'
+41
+Geometry and
+Number and algebra 
+trigonom etry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+Chapter review
+1 (Group) work) Make a list of 10 human 
+activities that are impossible to perform 
+without measuring. Share the list with 
+your peers. Discuss in your small group 
+why measurement matters and how 
+measuring and measurements are used in 
+these activities.
+2 Find the value of the following algebraic 
+expressions when a - 1.25 and b = 3.365. 
+Give your answers correct to 3 sf.
+a 2a + 2b 
+k y/a + b
+ab
+c \la2 +b2 - 2ab
+3 Researchers at Ghent University in 
+Belgium have etched a tiny world map (on 
+a scale of 1 to one trillion) onto an optical 
+silicon chip. They reduced the Earth's 
+40000 km circumference at the equator 
+down to 40 micrometres, or about half the 
+width of a human hair, to fit it on the chip, 
+a Using scientific notation, write down
+the length of the Earth's circumference 
+as represented on the chip, 
+b Find how many times bigger the
+Earth's circumference is compared to its 
+length on the chip.
+4 In 2008, the European Union set a carbon 
+emissions target of 130 grams of CO, per 
+km for passenger cars. Assuming all cars 
+met this regulation, calculate the upper 
+and lower bounds of the amount of CO, 
+in grams that would have been released
+if people used cars to travel a distance 
+equivalent to the total circumference of 
+the Earth, 40 000 km.
+5 We used the relationship between the 
+squares built on the sides of a right-angled 
+triangle to discover the Pythagorean 
+theorem. Does the same relationship apply 
+if we draw semicircles on the sides of the 
+right-angled triangle? Find the area of 
+each semicircle shown in the following 
+diagram and draw a conclusion.
+Click here for a mixed
+review exercise
+v_______ _______
+6 A rectangular pool measures 7.5 m by 15 m. 
+a Find the length of the diagonal, correct
+to the nearest cm.
+Vasil measures the diagonal to be 16 m. 
+b Find the percentage error in his
+measurement. Give your answer to 3 sf.
+7 Raja is laying tiles on a path that forms 
+the diagonal of a square garden. If Raja is 
+told that the length of the diagonal path is 
+100^2 ft, determine the perimeter of the 
+garden, in feet.
+8 The roof of a house seen from the front is 
+an isosceles triangle AABC with base 14.5 m 
+and sides of length 8.5 m. Find how high 
+above line [BC] the vertex A is.
+A
+9 A ramp is placed from a ditch to a main 
+road, which is 0.60 m above the ditch. If the 
+length of the ramp is 3.65 m, determine the 
+distance between the bottom of the ramp 
+and the road.
+10 A satellite is orbiting the Earth at a height 
+of 800 km. Assume the radius of the Earth 
+to be 6370 km.
+a Draw a diagram representing the 
+situation.
+b Find the distance from the satellite to 
+the Earth's horizon, giving your answer 
+to the nearest km.
+42
+
+11 When fire occurs in high-rise buildings, 
+the fire-fighters cannot use the regular 
+stairs or lifts. They can reach higher 
+floors using ladders. If the angle of a 
+ladder to the ground can be at most 50°, 
+determine:
+a the length of the ladder that can be 
+extended from the ground and reach 
+a height of 20 m
+b the height that a 15 m ladder can
+reach if extended from a fire truck. The 
+height of the fire truck is 4.15 m.
+Calculate your answers to the nearest cm.
+12 From the top of a 150 m high-rise building, 
+two cars on the same road below the 
+building are seen at an angle of depression 
+of 45° and 60° on each side of the tower. 
+Find the distance between the two cars, 
+correct to the nearest metre.
+13 A surveyor wanted to measure the height 
+of a mountain peak. She took a straight 
+road leading to the mountain and 
+measured the angle of elevation from point 
+A on the ground to the top of the mountain 
+D as 33°. She drove 0.5 km further towards 
+the mountain and measured the angle of 
+elevation again as 40°.
+a Make a labelled diagram that 
+represents the situation.
+b Find the height of the mountain to the 
+nearest metre.
+14 A customer brings a special window 
+frame, shown in the following diagram, to 
+a glass shop. The wood frame has inside 
+dimensions FG = 80 cm and PIF = 136 cm. 
+Calculate the length of the arc HI, if the 
+centre of the circle of the arc is the midpoint 
+of FG.
+Exam-style questions
+15 PI: The diagram below shows a cuboid of 
+dimensions 5 cm, 6 cm and 12 cm.
+X is the midpoint of side HG, and Y is 
+the midpoint of side DC.
+x
+a Find the length AY. 
+(2 marks)
+b Find the size of angle XAY. (2 marks)
+16 PI: A cylinder has radius 1.8 cm and 
+height 14.5 cm.
+a Calculate the volume of the cylinder, 
+giving your answer to 3 sf.
+(2 marks)
+b Calculate the total surface area of 
+the cylinder, giving your answer to 
+3 sf. 
+(2 marks)
+IP PI: A pendant is made in the shape of a 
+h circular sector OAB, with angle 
+AOB = 40° and radius 7 cm.
+0
+Find the perimeter of the pendant.
+(4 marks)
+43
+Geometry and
+Number and algebra 
+trigonom etry
+
+The distance from the Earth to 
+Proxima Centauri, the nearest star, is 
+4.014x 1013 km.
+a Find the time it takes (in minutes) 
+for light from the Sun to reach the 
+Earth. 
+(3 marks)
+b Find the time (in years) it takes for 
+light from Proxima Centauri to reach 
+the Earth. Assume that one year is
+equivalent to 365 days. 
+(3 marks)
+c Given that light from the Andromeda 
+galaxy takes approximately 2.5 
+million years to reach us, find how 
+far (in km) Andromeda is from the 
+Earth. 
+(3 marks)
+PI: Einstein's equation relating mass and 
+energy is given by the formula E = me2, 
+where m is the mass of an object and 
+c = 3x 10s ms-1, the speed of light, 
+a Find how much energy is present in 
+a 1 kg mass. (1 kg ms-1 = 1 joule)
+(2 marks)
+b Given that a standard light bulb uses 
+60 joules of energy every second, 
+calculate how long (in years) such 
+a light bulb could be powered by 
+a 1 kg mass, if all the mass was 
+converted to energy. (3 marks)
+PI: In an electric circuit, the resistance 
+(R ohms) of a component may be
+V
+calculated using the formula R = —,
+where V is the potential difference 
+across the component and I is the 
+current through the component.
+The potential difference is measured as 
+6 V to the nearest volt, and the current 
+is measured as 0.2 A to the nearest 
+tenth of an ampere, 
+a Calculate lower and upper bounds 
+for the resistance. 
+(3 marks)
+b The actual value of the resistor is 30 Q. 
+Calculate the maximum possible 
+percentage error that could be 
+obtained. 
+(2 marks)
+PI: From the top of a cliff 120 m high,
+Josie sees two small boats in the 
+distance.
+P2: Simplify the following algebraic
+expressions.
+10x3 x 3x4
+3 
+2X-6
+(3 marks)
+x2 x 4x’~3
+b
+(3 marks)
+c V3x3 x 12x° x 4x5
+(3 marks)
+d ^
+(*r
+(3 marks)
+PI: Elea is 1.6 m tall. She stands on the 
+same horizontal level as the base of a 
+tree. The height of the tree is 23.5 m, 
+and it is 100m away from Elea.
+Find the angle of elevation of Elea's 
+line of sight to the top of the tree.
+(4 marks)
+PI: A mathematics student decides to use
+, 355
+an approximation to /rot----.
+113
+Calculate his percentage error in using 
+this value, giving your answer in 
+standard form. 
+(3 marks)
+PI: Sharon stands on the top of a cliff 90 in 
+high.
+The angle of elevation from Sharon to 
+a flying kittiwake is 15°.
+The angle of depression from Sharon 
+to a yacht on the sea is 19°.
+Given that the kittiwake is flying 
+directly above the yacht, find the 
+distance between the yacht and the 
+kittiwake. 
+(6 marks)
+PI: A straight ladder of length 7.1 m rests 
+against a vertical wall.
+A person climbing the ladder should be 
+"safe" as long as the foot of the ladder 
+makes an angle of between 70° and 
+80° with the horizontal ground. 
+Determine the minimum and 
+maximum heights that the ladder can 
+safely lie against the wall. (4 marks)
+PI: The speed of light is approximately 
+3x10* ms-1.
+The distance from the Earth to the Sun 
+is 1.496 x10s km.
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+PO
+in 
+OJ
+CD
+44
+
+1
+One boat lies at an angle of depression 
+of 39° and the other at an angle of 
+depression of 31°. Given that Josie 
+and both ships lie in the same vertical 
+plane, how far apart are the ships?
+(6 marks)
+2? P2: The formula for the volume of a sphere
+■■ 
+. 
+. 
+4k  r3
+is given as V = ——, where r is the
+radius of the sphere, 
+a If the radius of a particular sphere 
+is 3.5 cm, measured to the nearest 
+tenth of a centimetre, find lower 
+and upper bounds for its volume.
+(4 marks)
+b Another sphere is designed to have 
+a volume of 500 cm3, to the nearest 
+10 cm3.
+Find the boundaries between which 
+its radius must lie. 
+(6 marks)
+28 PI: The shape of an E. coli bacterium may
+h be approximated by a cylinder of
+diameter 1.3 x 10-6 m and length 
+4.5 x 10-6 m.
+a Find the volume of the bacterium.
+(2 marks)
+b For practical purposes, the volume 
+is assumed to be 2 x 10-17 m.
+Find the percentage error when 
+assuming this value. 
+(2 marks)
+29 PI:
+■
+a Find the average (mean) mass of all 
+three particles, giving your answer 
+in standard form to 3 sf. (2 marks) 
+b A helium atom consists of two 
+protons, two neutrons, and two 
+electrons.
+The following table gives the masses 
+(in kg) of the various particles which 
+make up an atom.
+Particle
+Mass (kg)
+Neutron
+1.675 x 10~27
+Proton
+1.673 x lO'27
+Electron
+9.109 x 10 ^
+Find the mass of a helium atom, 
+giving your answer in standard form 
+to 3 sf. 
+(2 marks)
+c Determine the ratio of electron 
+mass to neutron mass, giving your 
+answer in the form 1 where x is 
+accurate to 3 sf. 
+(2 marks)
+d Calculate the percentage error in 
+taking the mass of an electron to be 
+1 x 1 Q-*> kg. 
+(2 marks)
+30 PI: In the diagram shown above, ABCD is 
+h a plane figure, where both BC and AD 
+are arc lengths of a circle centred at 0. 
+Length OA = 5 cm and AB = 8 cm.
+Find the perimeter of the figure ABCD.
+(6 marks)
+31 PI: For parallel resistors in an electrical 
+h circuit, the total resistance RJOJ is given
+by the formula —— = — + —.
+/?t o t  
+R2
+R{ = 7.2 O, measured to the nearest tenth 
+of an ohm, and R2 = 3.60, also measured 
+to the nearest tenth of an ohm.
+a Find the lower and upper bounds 
+for the total resistance. (6 marks) 
+b If the actual total resistance is 2.400, 
+find the range of percentage errors 
+that could be obtained for RJOJ.
+(4 marks)
+45
+Geometry and
+Number and algebra 
+trigonom etry
+
+Modelling and investigation activity
+Back of an envelope
+Approaches to learning: Research, Thinking 
+skills: Evaluate, Critiquing, Applying 
+Exploration criteria: Personal engagement (C), 
+Reflection (D), Use of mathematics (E)
+IB topic: Approximation, Estimation and Errors
+r ^ 
+How much water do you use?
+How much water could you save?
+If you combine simple approximations, such as the ones in this chapter, and 
+elementary arithmetic, you can find reasonably good estimates to answer all sorts 
+of interesting questions.
+Did you know?
+This type of calculation is often called a "back of the 
+envelope” calculation because it is so simple that you 
+could write it down on the back of an envelope!
+How much water do you use?
+Discuss:
+• Which of your daily activities use water?
+• How much water does each use?
+• In an average week what does your household use water for? Write down 
+all the uses you can think of.
+• How many times does your family do each activity in an average week? 
+Research how many litres of water are used for each activity that you and 
+your family do.
+46
+
+1
+Use the figures collected so far to estimate the average number of litres of 
+water used by your household in an average week.
+Comment on your findings so far.
+How reliable are these estimates?
+What may have caused some errors? Are these errors significant? How could 
+you adjust your figures to account for this?
+Now calculate the estimated average amount of water used by households in 
+your class in a week.
+How does your household's water usage compare to others in your class?
+You could also now estimate the average amount of water used by a household 
+in one year in your school.
+What information would you need for this?
+Comment on your findings.
+Estimate how many households there are in your country.
+How might you do this?
+Estimate the amount of water used for domestic tasks in your country in one
+day, one week and one year.
+Check your estimates against official figures.
+How accurate were you?
+What is your percentage error?
+How could you make your results more accurate?
+What assumptions have you made in calculating your figures?
+How do you think the official figures are calculated?
+How much water can you save?
+Discuss:
+• Which activity uses the most water in your household?
+• Is this what you expected?
+• What could you do to reduce the amount of water used 
+in your household?
+Select one of the things you could do. 
+Estimate how much water your household 
+could save in one year if it did this. 
+Estimate how much water could be saved 
+in your country in one year if every 
+household in your country did this.
+Extension
+Devise your own "back of the envelope" style question.
+What other questions could you answer in a similar way?
+47
+Modelling and investigation activity
+
+Representing space: non-right 
+angled trigonometry and volumes
+Concepts
+This chapter deals with finding measures of angles 
+and distances in right and non-right triangles, 
+and calculating the area of 2D and the volume 
+of 3D geometric shapes. These techniques are 
+used in astronomy to measure the distance to 
+nearby stars, in cartography to measure distances 
+between landmarks and in navigation to 
+determine the courses of ships and aircraft.
+How are the exact locations of landmarks 
+established in mapmaking?
+■ Space
+■ Representation
+Microconcepts
+■ Area of a triangle and other 2D figures
+■ Area of a sector
+■ 3D solids: right cylinder; pyramid; right 
+cone; sphere; hemisphere
+■ An angle between two lines, and between a 
+line and a plane
+■ Volume
+■ Surface area of 3D figures
+What part of your lawn can a sprinkler 
+water and how does it depend on the 
+angle of the sprinkler’s rotation?
+
+In 1856 The Great Trigonometric Survey of 
+India measured the height of Mount Everest 
+(known in Napali as Sagarmatha and in Tibetan 
+as Chomolungma). The surveyors measured the 
+distance between two points at sea level and then 
+measured the angle from each of these two points to 
+the top of the mountain.
+The summit of Mount Everest is labeled E, the two 
+points A and B are roughly at sea level and are 
+33 km apart.
+If E = 90°, what would be the maximum
+possible height of Mount Everest?
+• Why do you think it took so long to 
+determine the elevation of Mount 
+Everest?
+• Why do you think surveyors prefer 
+to measure angles, but not lengths of 
+sides?
+• What assumptions are made?
+Developing inquiry skills
+Write down any similar inquiry questions you might ask 
+if you were asked to find the height of a tree, the distance 
+between two towns or the distance between two stars. 
+What questions might you need to ask in these scenarios 
+that differ from the scenario where you are estimating the 
+height of Mount Everest?
+Think about the questions in this opening problem and 
+answer any you can. As you work through the chapter, you 
+will gain mathematical knowledge and skills that will help 
+you to answerthem all.
+Before you start
+You should know how to:
+1 Use the properties of triangles, including 
+the Pythagorean theorem.
+eg Find the length 
+AB in this triangle. 
+AB2 3 4
+ = BC2 - AC2 
+AB2 = 52 - 22 
+AB2 = 21 
+AB = V2T 
+= 4.58 cm
+2 cm
+Skills check
+Click here for help 
+/iHr
+with this skills check
+1 In each of these right triangles, find 
+the length of side x.
+9 km
+x km
+2 Trigonometric ratios in right triangles
+a 2 
+A 
+yj 21 
+A 2
+eg sin B-—r cos B =-----, tan B =-7=
+5 
+5 
+V2T
+3 Find the area of a triangle if a side and the 
+height towards it are given.
+4 Determine the third angle in a triangle if 
+two angles are known.
+2 For the triangles in question 1, find the size 
+of angle y.
+3 Find the area of a triangle with base 6cm 
+and height 12.5cm.
+4 In AABC, B = 135° and C = 25°.
+Find A-
+49
+

@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>The derivative as the gradient of a tangent</h3>
+<div class="formula-box">The gradient of a secant (chord) joining two points on a curve gives the average rate of change between them. As the second point moves closer to the first, the gradient of the secant approaches the gradient of the tangent at that point &mdash; this is the instantaneous rate of change. The derivative of f(x), giving the gradient of the tangent at any point x, is denoted f&prime;(x) or dy/dx. For a linear function, the derivative of y = mx is m, and the derivative of y = c (a constant) is 0.</div>
+<div class="callout example"><span class="c-label">Worked example</span>State the derivative (gradient) of the functions y = 7 and y = &minus;5x.<br>y = 7 is a constant function (y = c with c = 7), so its derivative is dy/dx = 0 &mdash; the line is horizontal.<br>y = &minus;5x is of the form y = mx with m = &minus;5, so its derivative is dy/dx = &minus;5 &mdash; the constant gradient of the line.</div>
+
+<h3>The power rule for differentiation</h3>
+<div class="formula-box">If f(x) = ax<sup>n</sup>, then f&prime;(x) = anx<sup>n&minus;1</sup>, where a is a constant coefficient and n is an integer. To find the gradient of the curve at a specific point, substitute the x-value into f&prime;(x).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the derivative of f(x) = 3x<sup>4</sup>, then find the gradient of the curve at the point where x = 2.<br>f&prime;(x) = 4 &times; 3x<sup>4&minus;1</sup> = 12x<sup>3</sup><br>At x = 2: f&prime;(2) = 12(2)<sup>3</sup> = 12(8) = 96<br>The gradient of the curve at x = 2 is 96.</div>
+
+<h3>Differentiating a polynomial</h3>
+<div class="formula-box">To differentiate a sum of terms, differentiate each term separately using the power rule: if f(x) = ax<sup>n</sup> + bx<sup>m</sup> + c, then f&prime;(x) = anx<sup>n&minus;1</sup> + bmx<sup>m&minus;1</sup> + 0, since the derivative of a constant term is 0.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find dy/dx for y = x<sup>3</sup> + 2x + 1, then find the gradient of the curve at x = 2.<br>dy/dx = 3x<sup>2</sup> + 2(1)x<sup>0</sup> + 0 = 3x<sup>2</sup> + 2<br>At x = 2: dy/dx = 3(2)<sup>2</sup> + 2 = 3(4) + 2 = 14<br>The gradient of the curve at x = 2 is 14.</div>
+
+<h3>Differentiating terms written as negative powers</h3>
+<div class="formula-box">Before differentiating a term written as a fraction, rewrite it using a negative exponent: a / x<sup>n</sup> = ax<sup>&minus;n</sup>. Then apply the power rule f(x) = ax<sup>n</sup> &rArr; f&prime;(x) = anx<sup>n&minus;1</sup> as usual (the resulting exponent will be one less than the negative exponent you started with).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find dy/dx for y = 2/x + x, then find the gradient of the curve at x = 2.<br>Rewrite: y = 2x<sup>&minus;1</sup> + x<br>dy/dx = (&minus;1)(2)x<sup>&minus;1&minus;1</sup> + 1 = &minus;2x<sup>&minus;2</sup> + 1<br>At x = 2: dy/dx = &minus;2(2)<sup>&minus;2</sup> + 1 = &minus;2/4 + 1 = &minus;0.5 + 1 = 0.5<br>The gradient of the curve at x = 2 is 0.5.</div>
+
+<h3>Marginal cost as a derivative</h3>
+<div class="formula-box">In applied contexts, if C(x) models total cost as a function of the quantity produced, x, then the derivative C&prime;(x), called the marginal cost, gives the approximate cost of producing one more unit. It is found by differentiating each term of C(x) using the power rule.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A company's daily cost of producing x motorcycle helmets is modelled by C(x) = 600 + 7x &minus; 0.0001x<sup>3</sup> for 0 &le; x &le; 150 (in US dollars). Find C&prime;(x), then find the marginal cost of producing 20 helmets and the marginal cost of producing 80 helmets.<br>C&prime;(x) = 0 + 7 &minus; 0.0003x<sup>2</sup> = 7 &minus; 0.0003x<sup>2</sup><br>C&prime;(20) = 7 &minus; 0.0003(20)<sup>2</sup> = 7 &minus; 0.0003(400) = 7 &minus; 0.12 = 6.88<br>C&prime;(80) = 7 &minus; 0.0003(80)<sup>2</sup> = 7 &minus; 0.0003(6400) = 7 &minus; 1.92 = 5.08<br>The marginal cost is US$6.88 per helmet at x = 20, and US$5.08 per helmet at x = 80.</div>
+</div>

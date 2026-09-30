@@ -1,0 +1,431 @@
+4 
+a Use your GDC to graph these results.
+b Calculate the value of PMCC for this data and comment on your results, 
+c Complete the following table showing the ranks for each of the data points.
+A
+B
+C
+D
+E
+F
+G
+H
+T rank
+1
+Y rank
+8
+d Use your GDC to graph these results.
+e Calculate the value of PMCC for this data and comment on your results, 
+f Discuss the features of the data that led to this value.
+The PMCC of the rank values is called Spearman’s rank correlation coefficient.
+5
+6 
+7
+Factual
+Factual
+What type of data is used for Spearman’s?
+What type of data is used for Pearson’s?
+What do correlation coefficients tell you about the relationship between two
+variables?
+The product moment correlation coefficient of the ranks of a set of data is 
+called Spearman’s rank correlation coefficient. The IB notation is r^.
+Spearman's correlation coefficient shows the extent to which one 
+variable increases or decreases as the other variable increases.
+\
+An rs value of 1 means the set of data is strictly increasing, and a value of-1 
+means it is strictly decreasing. Data that is only increasing or only decreasing 
+is known as monotonic.
+A value close to 0 suggests that the data is not consistently increasing or 
+decreasing.
+Example 1
+1 Find Spearman's rank correlation coefficient for the following sets of data.
+Time spent training, A' hours
+23
+34
+17
+23
+29
+45
+Time to run 2 km, y min
+12
+10
+14
+11
+11
+8
+Number of pets, x
+1
+2
+3
+4
+5
+Time spent each week caring 
+for them, y hours
+6
+7
+8
+8
+16
+o
+Continued on next page
+383
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+2 A student was asked to rank nine different makes of burger in terms of which she liked best 
+to which she liked least. She put 1 for the one she liked best and 9 for the one she liked least. 
+These rankings and the costs of the burgers are given in the table.
+Burger
+A
+B
+C
+D
+E
+F
+G
+H
+1
+Taste rank
+?
+3
+4
+6
+1
+9
+2
+5
+8
+Cost, US S
+3.50
+P.45
+6.50
+4.50
+8.50
+2.65
+3.95
+4.35
+1.45
+a Explain why you cannot use Pearson's in this example.
+b Find Spearman's rank correlation coefficient for this data and comment on your answer.
+1 a The ranks are
+X
+4.5
+2
+6
+4.5
+3
+1
+y
+2
+5
+1
+3.5
+3.5
+6
+r =-0.956
+s
+So, there is a strong, negative 
+correlation. The more hours that you 
+train the faster you can run the 2 km.
+b The ranks are
+X
+5
+4
+3
+2
+1
+y
+5
+4
+2.5
+2.5
+1
+r =0.975
+s
+So, there is a strong, positive 
+correlation. The more pets you have 
+the more hours it takes each week to 
+look after them.
+2 a Because the ranks are given rather 
+than quantifiable data, 
+b Ranking the costs, you get:
+Taste
+?
+3
+4
+6
+1
+9
+2
+5
+8
+Cost
+P
+2
+3
+4
+1
+8
+6
+5
+9
+and rs = 0.8. So, there is a moderately 
+strong relationship between the taste 
+and the cost of the burgers.
+If we order the values of x by their size, we 
+get their rank.
+When more than one piece of data have 
+the same value the rank given to each is the 
+average of the ranks. For example, the two 
+values of x equalling 23 here would have 
+ranks 4 and 5; hence, each is given a rank
+2
+The ranked data is put into a GDC and the 
+PMCC obtained.
+Often, when one of the variables increases 
+at a fixed rate, for example measurements 
+taken at one minute intervals, the order of 
+the ranks will be the reverse of the order of 
+the data.
+Spearman's rank correlation coefficient is only valid for the data given 
+in the question. If some data points are similar then any small changes 
+could affect the value of r$. 
+What practical problems
+can or does mathematics 
+tru to solve?
+384
+TOK
+
+n 
+i 
+i 
+i 
+i 
+r*- X
+1 
+2 
+3 
+4 
+5 
+6 
+7
+1 Write down the value of Spearman's rank 
+correlation coefficient for each of the sets of 
+data shown.
+a
+y
+7
+6- 
+5- 
+4 - 
+3 - 
+2 - 
+1 -
+A group of students is asked to rank six 
+snack foods by taste and value for money. 
+The ranks are averaged and recorded in the 
+following table.
+Calculate Spearman's rank correlation 
+coefficient for the data and comment on 
+your results.
+3 Find Spearman's rank correlation coefficient 
+for the following data sets.
+4 A sports scientist is testing the relationship 
+between the speed of muscle movement 
+and the force produced. In 10 tests the 
+following data is collected.
+Force (N/kg)
+d.5
+Point
+• A - (0.25,30.4)
+• B« (0.51,25.1)
+• C- (0.69.20)
+• D - (1.09.15.6)
+A•
+c
+D•
+l
+c___
+► G • Si J
+0
+i
+5 
+| 
+1 5
+2 5
+_Lf 3
+1
+5 4
+• E-(1.52,13.4)
+• F-(2.02.13.4)
+• G-(2.43,11.2)
+• H - (2.67,10.2)
+• I - (2.93,10.8)
+• J-(3.17,10.3)
+• K-(-0.29,25.07)
+• L - (3.09, -2.44)
+Explain why it might not be appropriate 
+to use the PMCC in this case.
+Calculate Spearman's rank correlation 
+coefficient (rs) for this data.
+Interpret the value of rs and comment 
+on its validity.
+X
+10
+12
+9
+6
+3
+14
+8
+y
+12
+11
+8
+5
+?
+14
+9
+X
+0
+5
+10
+15
+20
+25
+30
+y
+23
+18
+10
+9
+?
+?
+?
+Pop 
+corn
+Crisps
+Choco 
+late bar
+Chews
+Chocolate- 
+chip cookie
+Taste
+2
+4
+1
+5
+3
+Value
+5
+3
+2
+4
+1
+385
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+? Consider the following data set:
+Point
+• A - (0.82,0.86)
+• B = (1.28,1.56)
+• C-(1.78,1.22)
+• D - (1.46,0.62)
+• E = (2.46,0.84)
+• F = (2.48, 1.76)
+• G - (2.02,1.82)
+• H - (3.02,1.42)
+• I = (2.98,0.62)
+• J = (7.46,4.98)
+For this data, calculate the PMCC:
+i with the outlier J
+ii without the outlier J.
+Calculate Spearman's rank correlation 
+coefficient:
+i with the outlier J
+ii without the outlier J.
+Comment on the results.
+J•
+3 F
+A
+3 c'► •
+E
+1
+►___
+•
+•
+•.
+5 A class took a mathematics test (marked 
+out of 80) and an English test (marked out 
+of 100), and the results are given in the 
+following table.
+Maths
+15 25 32 45 60 22 24 28 28 29 29
+English 44 42 42 49 52 44 54 59 69 28 89
+a Calculate the PMCC for this data and 
+comment on the result.
+b Use graphing software to plot these 
+points on a scatter diagram and 
+comment on your result from a. 
+c Calculate Spearman's rank correlation 
+coefficient for this data and comment on 
+your result.
+d State which is the more valid measure of 
+correlation, and give a reason.
+6 In a blind tasting, customers are asked to rank 
+six different brands of coffee in terms of taste. 
+These rankings and the costs of the different 
+brands are given in the following table.
+a Explain why you cannot use PMCC in 
+this case.
+b Find Spearman's rank correlation
+coefficient for this data and comment on 
+your answer.
+Brand
+A
+B
+C
+D
+E
+F
+Taste rank
+1
+2
+3
+4
+5
+6
+Cost
+450
+360
+390
+320
+350
+300
+The advantages of Spearman’s rank correlation coefficient over the PMCC are:
+• 
+It can be used on data that is not linear.
+• 
+It can be used on data that has been ranked even if the original data is 
+unknown or cannot be quantified.
+• 
+It is not greatly affected by outliers.
+Developing inquiry skills
+Can you use the PMCC or Spearman’s rank correlation coefficient to 
+compare the data in the opening scenario of this chapter, which looked at 
+tree heights in different forest areas?
+Why, or why not?
+Developing 
+your toolkit
+Now do the 
+Modelling and 
+investigation 
+activity on page 
+418.
+386
+

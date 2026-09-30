@@ -1,0 +1,845 @@
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+13.1 Finding areas
+Velocity-time graphs
+The graph shown below is a velocity-time graph for the journey of an 
+object. The time taken from the start of the journey is represented on the 
+horizontal axis and the velocity of the object is represented on the vertical 
+axis.
+This object travels at a constant velocity 
+of 8 km/h for 4 hours and then it travels a 
+further 2 hours with a steadily decreasing 
+velocity until it reaches 0 km/h.
+What distance did this object travel during the entire journey?
+The graph is a piecewise linear function. To answer the question each 
+part will be considered separately.
+First 4 hours
+The velocity is 8 km/h.
+In 1 hour it travels 8 km therefore in 4 hours it travels 
+8 x 4 = 32 km.
+What is the relationship between 32 and the area under the 
+graph in this first part?
+The green square shown in the graph above represents 1 km. 
+Why?
+2 
+3 
+4 
+5 
+6
+Time {hours)
+Last 2 hours
+How many green squares will fit under the second part of the 
+piecewise function?
+Find the area under the graph.
+The shape is triangular. Applying the formula for the area of a 
+triangle:
+8km/hx2h rtI
+-------------- = 8 km
+2
+Total distance travelled = 32 km + 8 km = 40 km
+i 
+i 
+i 
+i
+1 
+2 
+3 
+4 
+5
+time (hours)
+550
+
+Reflect
+travelled?
+How does the area under a velocity-time graph relate to the distance
+Now, if the velocity-time graph were curved, how would you calculate 
+the area?
+In this chapter you will study different methods to find or approximate 
+areas between the graph of a function and the x-axis.
+Example 1
+For this velocity-time graph, find the distance travelled.
+t (sec)
+When v = 0:
+-5r+ 10 = 0 then t=2
+When t = 0: 
+v(0) = 10
+Area = —x 10x2 = 10 
+2
+Distance travelled is 10 m.
+The distance travelled is equal to the area under the 
+velocity-time graph.
+v,
+To calculate the width 
+of the triangle, find the 
+point where the graph 
+cuts the r-axis.
+(0,10)
+To calculate the height, 
+find the point where the 
+graph cuts the v-axis.
+At this point t = 0.
+(2,0)
+Substitute into the area formula using b-2 and 
+h= 10.
+551
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+Example 2
+Find the area under the graph.
+1.5tf = 3 => # = 2
+Find the value of a, where y = 1.5* and y = 3
+2x3
+intersect.
+Area of triangle = —-— = 3
+Area of rectangle =3x3 = 9
+Add the area of the triangle and the area of the
+Area under graph =3 + 9=12
+rectangle.
+1 The graph below shows how the velocity of 
+a car changes during the first 60 seconds of 
+a journey.
+Find the distance travelled during the 
+60 seconds.
+2 For each velocity-time graph, find the 
+distance travelled.
+552
+
+13.1
+3 For each graph, find the shaded area.
+4 a Sketch the graph of the function
+/(x) = 0.5x + 3.
+b Shade the region enclosed between the 
+graph of / the x-axis and the vertical lines 
+x= 1 and x = 6.
+c Find the area of the shaded region.
+5 
+a Sketch the graph of the function
+f(x) = -2x + 6.
+b Shade the region enclosed between the 
+graph of f the vertical line x = 0 and the 
+x-axis.
+c Find the area of the shaded region.
+6 
+a Sketch the graph of the piecewise linear
+function
+fM = \x. 0 < x < 5 
+[5, 5 < x < 9
+b Shade the region under the graph of f(x) 
+and above the x-axis. 
+c Find the area of the shaded region.
+r
+553
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+0.5 
+1 
+1.5 
+2 
+0
+Investigation 1
+1 
+Consider the area bounded by the graph of the function 
+f(x) =x2+ 1, the vertical linesx=0,x=2 and thex-axis.
+Estimate the area of the shaded region. Is your estimate 
+an overestimate or an underestimate of the actual area?
+Discuss your method with a classmate.
+2 
+In this investigation you will be using rectangles or vertical 
+strips to estimate this area. At the end of the investigation you 
+can check how close your estimate was to the actual area.
+• The graph shows four rectangles with the same width. The area 
+underthe graph of the function/(x) =x2+l between the 
+vertical linesx=Of x= 2 is also shown.
+• What is the width of the rectangles? How do you calculate it?
+• What is the relationship between the height of each rectangle 
+and the graph of the function?
+• Find the heights of each of these rectangles.
+• Find the area of each of these rectangles and then find the sum 
+of the areas of these rectangles.
+• Is this an underestimate or an overestimate of the actual area? Why? The sum of these areas will be a 
+lower bound of the area of the shaded region. This will give an underestimate of the area.
+3 
+This graph also shows four rectangles with the same width.
+The area underthe graph of the function f(x) =x2+ 1 
+between the vertical linesA’=0,x=2 is also 
+shown.
+• What is the width of each of these rectangles?
+• Find the heights of each of these rectangles.
+• Find the area of each of these rectangles and then find the 
+sum of the areas of these rectangles.
+• Is this an underestimate or an overestimate of the actual area? Why?
+• If Ls represents the lower bound, A represents the actual area and U represents the upper bound, write an 
+inequality relating Ls, (7s.and A.
+In each of the following graphs there are six rectangles. The area underthe graph of f(x) =x2 + 1 
+between the vertical lines a *= 0,x =2 and thex-axis is also shaded.
+^  in 
+^  
+co 
+c m 
+t h
+554
+
+13.1
+Continued on next page
+Rectangle
+Width
+Height
+Area
+*i
+*2
+*3
+*4
+*6
+Us=
+• What do you notice? Are the lower and upper bounds closer to each other than when you had four 
+rectangles? How do you think these estimates can be improved?
+• Write a new inequality relatingUs and A.
+Look at the following graphs. The number of rectangles, n, has been increased in each case.
+Ls and t/sare also given.
+• Approximate the area under the curve by considering a lower bound and an upper bound. Why do you 
+think that more rectangles are being used?
+• Complete the following tables to organize the information. You can create a table with your GDC to 
+calculate the heights of the rectangles. How would you calculate the widths? Remember that they are all 
+equal.
+• Lower bound with six rectangles:
+Rectangle
+Width
+Height
+Area
+R2
+*3
+*4
+*6
+Ls =
+• Upper bound with six rectangles:
+= M n 
+<«t
+00
+II
+’'t
+Tt-
+II
+o<N
+II
+555
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+n = 50, L5 = 4.5872, Us = 4.7472
+«=100, Ls = 4.6268, ^, = 4.7068
+0.5 
+1 
+1.5 
+2
+What can you say about the values of Ls as /; increases? 
+What can you say about the values of Usas >7 increases? 
+Here are some more values for //, and Us.
+A Riemann sum, named 
+after 19th century 
+German mathematician 
+Bernhard Riemann, 
+approximates the area 
+of a region, obtained 
+by adding up the areas 
+of multiple simplified 
+slices of the region.
+We are trying to find a 
+method to evaluate the 
+area under a curve. 
+“The main reason 
+knowledge is produced 
+is to solve problems.” 
+To what extent do 
+you agree with this 
+statement?
+What happens when n tends to infinity (gets larger and larger)? What can you say about the value of A?
+When/isa non-negative function for a<x<b, J /(x)d\ gives the area under 
+the curve fromx=a\ox=b. 
+*
+V
+J/(x)dv is read as “the definite integral betweenx-a and x-bly
+a
+The numbers is called the lower limit of integration and b is called the upper 
+limit of integration.
+Investigation 1 (continued)
+6 In the investigation, what is the lower limit of integration? What is the upper limit of integration? Is the 
+function positive between the lower and the upper limits? How would you represent A using definite 
+integral notation?
+n
+Ls
+Us
+500
+4.6586?
+4.6?46?
+1000
+4.66267
+4.6708?
+10000
+4.6662?
+4.6670?
+TOK
+International 
+mindedness
+556
+
+Example 3
+a Write down a definite integral that gives 
+the area of the shaded region, 
+b Find the value of the definite integral.
+f(x) = -x + 6
+13.1
+How do areas under curves within a given interval relate to the definite integral and to 
+lower and upper rectangle sums on the same interval?
+Reflect
+What is a definite integral?
+4
+a |(-x + 6)ch:
+i
+The lower limit is x = 1.
+The upper limit is x = 4.
+The function is/(x) =-x+ 6.
+f 
+1
+b |(-A' + 6)dx = —x (2 + 5) x3 = 10.5
+i 
+^
+The shape is trapezoidal.
+Bases are:
+/>,=/< 1)=-1 +6 = 5 
+b2 = /(4) =-4 + 6 = 2
+Height = 3
+Substitute into the area of a 
+trapezoid formula.
+Example 4
+For the definite integral J (x + 4)dx:
+-i
+a State clearly the function being integrated, the lower limit of integration and the upper 
+limit of integration.
+b Sketch the graph of the function. Shade the region whose area the definite integral 
+represents.
+c Find the value of the definite integral by using an area formula.
+h
+a The function is f(x) = x + 4.
+Given that this is a linear function, you should expect
+The lower limit is x = -1 and
+the graph to be a line segment in the interval
+the upper limit is x = 3.
+-1 <*< 3.
+©
+Continued on next page
+CD y
+55?
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+You can use technology to see the graph.
+i i i i i i i i i i : i i i i i i i i i j
+As the function is positive in the given interval, the 
+definite integral represents the area between the 
+graph and the x-axis.
+The shape is trapezoidal. The bases of the trapezoid 
+are b{ and br
+bx = /(-l)=-l + 4 = 3
+b2=f( 3) = 3 + 4 = 7
+Height = 3 - (-1) = 4
+b
+J (x + 4)dx = - X (3 + 7) X 4 = 20
+Substitute into the area of a trapezoid formula.
+1 a Write down a definite integral that gives 
+the area of each of the following regions.
+b Calculate the definite integrals from 
+part a using existing area formulae.
+2 Find the value of the following definite 
+integrals by using existing area formulae. 
+In each case sketch the function in an 
+appropriate interval and shade the region 
+whose area the definite integral represents 
+6
+a J(x + l)cH
+2
+4
+b j*(-2x+ 8)dx
+0
+0
+c J(-0.5x + 4)dx
+-2
+558
+
+13.1
+Example 5
+Calculate the definite integral J(x2 + l)dx
+0
+Compare your answer with the value found for A in 
+Investigation 1.
+Is imagination more important 
+than knowledge?
+J(x2 + l)dx = — (4.67 to 3 sf).
+n
+This value is the same as the one found for A, 
+the area under the graph of the function 
+f(x) = x2 + 1 between the vertical lines x = 0 
+and x = 2, in Investigation 1.
+Method 1
+Draw the graph of the function with your 
+GDC.
+Find the area.
+Then enter the lower and upper bounds.
+La
+LOWER = 0 
+UPPER = 2
+jdx = 4.666666667
+The definite integral is equal to 4.67.
+Method 2
+Evaluate the definite integral.
+Example 6
+Consider the region A enclosed between the curve y = -x(x - 3) and the x-axis.
+a Write down the definite integral that represents the area of A. 
+b Find the area of A.
+o
+Continued on next page
+559
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+O
+a
+i-x(x-3)dx
+0
+b A = 4.5
+You first have to identify the region using your GDC.
+In this case the lower and upper bounds are not given but 
+from the graph it can be seen that these are the roots of the 
+parabola.
+Find the roots.
+x = 0 is one of the roots, 
+the lower bound of the 
+definite integral.
+x= 3 is the other root, 
+the upper bound of the 
+definite integral.
+Once you have identified the region, write down the definite 
+integral.
+1 For each of the following diagrams:
+i 
+Write down the definite integral that 
+represents the area of the shaded 
+region.
+ii Find the area of the shaded region.
+x = 1 x= 1.5
+560
+
+2 In each of the following:
+i 
+Write down the definite integral that 
+represents the enclosed area.
+ii Find the area.
+a y = x2, the x-axis and the vertical lines 
+x = 2 and x = 4
+b y = 2x, the x-axis and the vertical 
+lines x = -1 and x= 1
+c y =------- and the x-axis in the
+1 + x2
+interval -1 < x < 1
+d y =— and the x-axis in the interval 
+x
+0.5 < x < 3
+e f(x) =-(x- 3)(x + 2), the vertical axis 
+and the vertical line x = 1
+f /(x) =-(x- 3)(x + 2), the vertical axis 
+and the horizontal axis 
+g /(x) =-(x-3)(x+2) and the 
+horizontal axis
+h /(x) = -x2 + 2x + 15 and the vertical 
+lines x = -2 and x = 4.5 
+i f(x) = -x2 + 2x + 15 and the line y - 0 
+j f(x) = 3 - e*, the vertical line x = - l 
+and the x-axis
+k y=(x + 2)3 + 5 and the coordinate 
+axes.
+Consider the curve y = -x2 + 4. 
+a Find the zeros of this curve, 
+b Find the point where this curve cuts the 
+y-axis.
+Below is shown the graph of a piecewise 
+function /made up by a horizontal line 
+segment and part of the parabola y = -x2 + 4. 
+The area under the graph of/and above the 
+x-axis has been shaded.
+c Find the area under the graph of fin the 
+interval -5 < x < 0.
+d i Write down an expression for the 
+area under the graph of/and above 
+the x-axis for x > 0. 
+ii Find the area.
+e Find the area of the whole shaded 
+region.
+561
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+Example ?
+The area of the region bounded by the graph of 
+f(x) =x1 
+2 + 3, the x-axis and the vertical lines 
+x = -1 and x = a with a > -1 is equal to 12. 
+Find the value of a.
+X = -1
+x = a
+a = 2
+The unknown, a, is the upper bound of this 
+area.
+First write down the definite integral
+a| (x2 + 3)dx = 12.
+-i
+Use technology to find the value of a.
+1 The area of the region bounded by the 
+graph of f(x) = -(x + 1 )(x - 5), the x-axis, 
+the y-axis and the vertical line x = a where 
+a > 0 is equal to 24. Find the value of a.
+2 The area of the region bounded by the 
+graph of f(x) = 2~x and the x-axis between 
+x = -3 and x = a where a > -3 is equal to 9. 
+Find the value of a. Give your answer 
+correct to four significant figures.
+3 The area of the region bounded by the
+graph of f(x) = x + — and the x-axis between 
+x
+x = a and x = 3 where 0 < a < 3 is equal to 6. 
+a Describe this region using a partially 
+shaded diagram.
+b Find the value of a. Give your answer 
+correct to four significant figures.
+a 
+r-j
+4 Given that J x2dx = - where a > -2:
+a Find the value of a.
+b Describe the region whose area is defined 
+by the definite integral on a partially 
+shaded diagram on a set of axes.
+b
+5 Given that J (l -I- x3 )dx = 2 where b > -1:
+-i
+a Find the value of b.
+6
+b Describe the region whose area is defined 
+by the definite integral on a partially 
+shaded diagram on a set of axes.
+f I---- 7 j 16
+Given that J v* +1 dx = —where t > -1: 
+i 
+3.
+a Find the value of t.
+b Describe the region whose area is defined 
+by the definite integral on a partially 
+shaded diagram on a set of axes.
+562
+
+o
+Continued on next page
+Investigation 2
+12
+1 
+Consider the curve y = —,wherel<x<6.
+The area of the region enclosed between the graph of f{x) = —x
+and the x-axis in the interval 1 <x< 6 will be called S.
+Write down an expression for S and find its value. Give your 
+answer correct to two decimal places.
+2 
+Consider the trapezoid ABCD.
+• What is the relationship between the base AB of the
+trapezoid ABCD and the graph of the function f(x) = —?
+x
+• What is the relationship between the base DC of the
+trapezoid ABCD and the graph of the function f(x) = — ?
+x
+• Find the area of the trapezoid ABCD. Is this value an overesti 
+mate or an underestimate of 5? What is the error in this 
+approximation?
+3 
+To find a better approximation to the value of S you can subdivide 
+the shaded area into strips with equal width. The area of every strip 
+can be approximated with the area of a trapezoid and then all these 
+areas added.
+The graph shows the shaded area subdivided into five strips.
+First, you will find the area of trapezoids 7^, 7\f Ty T4 and Ty
+You will approximate the value of S by adding up the areas of 
+these five trapezoids.
+• The height of each of these trapezoids (or the width of the 
+strips) is equal to 1 unit. Flow is it found?
+• Letthe parallel sides of the trapezoids bey0,yvyvyvyA and 
+y5 where yQ is the length of AB andy5 is the length of DC. Flow 
+can you calculate the lengths ofyQ,ylty2,yvy4 andy5?
+• The table on the next page will help you organize the 
+calculations. Use a table on your GDC to complete it.
+Numerical integration
+You will now study a new numerical method to estimate areas 
+between a curve and the x-axis in a given interval. Numerical 
+integration is used, among other techniques, when we do not have a 
+mathematical function to describe the area. Instead we have a set of 
+points.
+However, throughout the investigation we will use a function to 
+illustrate this new method.
+563
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+Trapezoid
+Base 1 (foj)
+Base 2 (b2)
+h
+A = ±(bl+b1)h
+r>
+y0=m = Y = 12
+yx=
+1
+T2
+yi=
+y2=
+1
+r,
+y2 ~
+y~i=
+1
+yr
+y4=
+1
+y*=
+y5 = /(6) = ^ = 2
+o
+1
+Sum of the areas of the five trapezoids
+• Is this estimation better than the estimate for S found in 1? Why? How could you improve this 
+value? Why?
+4 
+Now, you will approximate the value of 5 by adding up the area of n = 8 trapezoids.
+• What is the height of each of the trapezoids now? How did you find this value?
+• Show that the sum of the area of the eight trapezoids is now equal to 21.8?, correct to two 
+decimal places. Draw a table similarto the one from part 3 to organize the calculations.
+• What is the error made with this approximation?
+5 What can you say about the error made in the approximation when the number of trapezoids, n, tends to 
+infinity?
+6 
+Ho w  does the sum of the areas of trapezoids defined by a curve approximate the area 
+under the curve within a given interval?
+Trapezoidal rule
+In the previous investigation you saw that the definite integral
+b
+J f(x)dx, the area of the region bounded by the curve y = f(x) and the
+a
+x-axis over the interval a<x<b, can be approximated by the sum of 
+the areas of trapezoids.
+For example, when n = 4, the height of each of the trapezoids is h = -——.
+4
+Recall that
+y0 yx =/(*,). y2 =/(*2). y3 =/<*,) and y4 =f(b) so that
+jf(x)dxs^(y0+yl)x^- + ^(yl + yi)x^- + ^(yi + y,)x^p + ^(j>, +>>4)x
+V------------- V------------- J v------------- v------------- ' v------------- V------------- * v------------- V-----
+Area of T, 
+Area of T2 
+Area of 7\ 
+Area of T4
+The right-hand side can be simplified because there is a common factor
+b-a
+4
+1 
+b-a
+— x-----
+2 
+4
+564
+
+d 
+\ b &
+J/(x)ckS-X—_[(y0+^ ) + (>/, +y2) + (>,2+ys) + (y!+),4)]
+a
+The sum inside the square brackets can be simplified to: 
+b 
+\ b d
+j/(x)djf s -X —-{y0 + 2(yt + y2 + y,) + y4}
+4
+More generally,
+The trapezoid rule is J f(x)dx = ^ x —- x {y0 + yn + 2(yt + y2 +... + y„_,)}
+where the interval a <x<b is divided into n intervals of equal width.
+What is the value of x when i= 0?
+i
+What is the value of x. when / = nl
+i
+What is the meaning of ^~a in this formula?
+n
+Reflect
+I What geometric methods can be used to approximate integrals?
+Example 8
+Estimate the area under a curve over the interval 4 < x < 12, with x- and v-values given 
+in the following table.
+X
+4
+6
+8
+10
+12
+y
+5
+13
+10
+3
+4
+1
+In this example, there is no formula of the
+Area of trapezoid 1 = — (5 + 13)x2 = 18
+form y =f(x). You need to find the area of 
+each trapezoid and then sum these areas.
+Area of trapezoid 2 = — (13+10)x2 = 23
+The table suggest that there are four
+2
+trapezoids.
+Continued on next page
+565
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+Area under the curve = 18 + 23+ 13 + 7 = 61
+Example 9
+Estimate the area under the graph of /(x) = e' over the interval 
+0 < x < 1 using five trapezoids.
+@
+X
+0
+0.2
+0.4
+0.6
+0.8
+1
+y
+1
+e°-2
+e04
+e0-6
+e0.8
+e
+je* dx = ^x0.2x(l + 2(e°2 + e°4 + e°6 + e°8) + e)
+= 1.7240... 
+S 1.72
+Draw a table of values.
+Substitute into the trapezoid rule using 
+a - 0, b - 1, n = 5, and with heights of 
+1-0
+trapezoids =-----= 0.2.
+Example 10
+The cross-section of a river is shown here.
+If the water is flowing at 0.8 m/s use the 
+trapezoidal rule, with seven trapezoids, to find 
+an approximation for the volume of water 
+passing this point in one minute. All lengths 
+are in metres.
+56B
+
+13.1
+A
+B
+c
+D
+E
+F
+G
+H
+(0.4)
+(1. 3)
+(2, 1)
+(3, 0.4)
+(4, 1)
+(5,2)
+(6, 3.4)
+(7,4)
+Use the trapezoidal rule to find the area
+The lengths of the parallel lines are given
+under the curve:
+by the y-coordinates in the table.
+^Ixl(4 + 4+2(3 + l + 0.4 + l + 2 + 3.4))
+The trapezoidal rule is applied to these
+2
+values.
+= -x 29.6 = 14.8 m2
+2
+Cross-sectional area of river is:
+28- 14.8= 13.2 m2
+Volume of water per minute:
+Volume of water is the amount that passes
+= 13.2x0.8x60*634 m3
+per second multiplied by 60.
+1 Estimate the area under a curve over the 
+interval 1 < x < 9, with the x- and y-values 
+given in the following table.
+X
+i
+3
+5
+7
+9
+y
+5
+7
+6
+10
+4
+2 Estimate the area under a curve over the 
+interval 0 < x < 6, with the x- and y-values 
+given in the following table.
+X
+0
+1.5
+3
+4.5
+G
+y
+1
+4
+2
+5.5
+0
+3 Estimate the area under a curve over the 
+interval -1 < x < 4, with the x- and y-values 
+given in the following table.
+X
+-1
+0.25
+1.5
+275
+4
+y
+5
+7
+3.5
+6
+8
+4 Estimate the area under the graph of y = f(x) 
+using the data points given in the diagram.
+5 Estimate the area under the graph of y - f(x) 
+using the data points given in the diagram.
+6 Estimate the area between each curve and 
+the x-axis over the given interval, using the 
+specified number of trapezoids. Give your 
+answers to four significant figures.
+a f(x) = \fx, interval 0 < x < 4 with n = 5 
+b f(x) = 2X, interval -1 < x < 4 with n-4
+c f(x) = — + 1, interval 2 <x< 5 with n = 6 
+x
+d y = -0.5x(x- 5)(x+ 1), interval 0 <x< 5 
+with n = 5
+7 Consider the region enclosed by the 
+curve y = -2(x- 3)(x- 6) and the x-axis. 
+a Sketch the curve and shade the region, 
+b i Write down a definite integral that
+represents the area of this region, 
+ii Find the area of this region.
+56?
+Calculus
+

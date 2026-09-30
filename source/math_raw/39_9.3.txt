@@ -1,0 +1,626 @@
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+9.3 Cubic models, power functions 
+and direct and inverse variation
+Here is an illustration of part of a rollercoaster.
+It is in the shape of the graph of a cubic function.
+Reflect
+How are graphs of cubic functions different to 
+graphs of quadratic functions?
+Are there any similarities between the graphs of quadratic 
+and cubic functions?
+Cubic models
+; \
+Cubic functions are polynomial functions where the highest power ofx is three.
+For example,/(x)=tfx3 +fox2+ cx+d;tf*0 and b, c, de Mis a cubic 
+function.
+Reflect
+State what type of equation this would be if a = 0.
+Investigation 7
+On your GDC, plot the graphs of y=/(x) for the following cubic functions.
+a f(x) = 2x3 
+b /(x)=x3-2x+ 6
+c f(x) = (x- 5)3 
+d /(x) =-3(x+ 1 )3
+e f(x) = 2x3 + x2+x+ 1 
+f f(x) = 2x3 - 3x2- 1 lx+6
+g /(x)=-x3-4x2-x  + 6
+Once you have plotted all of them, answer the following questions.
+Factual | State the number of turning points that different cubic 
+equations have. Does every cubic equation have the same number of 
+turning points?
+How do the number of turning points of a cubic function 
+differ from the number of turning points of a quadratic function?
+f^ffHlAre the graphs of cubic functions symmetrical? If so, describe 
+what type of symmetry they have.
+Do the graphs of cubic functions all have a maximum and 
+minimum turning point?
+What are the number of roots that different cubic equations 
+have? Does every cubic equation have the same number of roots?
+Factual What are the parameters for a generic cubic function?
+/(x) = tfx3 + bx2 + cx+d\ a * 0
+440
+
+9.3
+7 
+By comparing each graph with its equation:
+a find which parameter gives they-intercept
+b determine which parameter affects the width of the graph (try different 
+values of this parameter to see if the graphs get wider or narrower) 
+c state which parameter(s) you need to change, and how you need 
+to change them, to reflect the graph in they-axis.
+Hint: sketch/(x) = 2x3 and /(x) = -2x3, then /(x) =x3 + 3x2 -x- 3 
+and f(x) =-x3-3x2+x + 3.
+8 fjfTTHCTHl From your discoveries in this investigation, which features 
+of a graph do the parameters alter?
+" \ 
+Not all cubic functions have a maximum and a minimum turning point. Some 
+have neither. Also, cubic functions can have one, two or three roots.
+Transferring the graph of a cubic function 
+by hand from the GDC to paper
+You need to be careful when copying the graph from your GDC onto 
+paper.
+First of all, you need to draw your axes and remember to label them 
+and put the scale in. The x-values represent the domain and the 
+y-values the range.
+Make sure that any x- and y-intercepts are in the correct place on the graph. 
+Also, the maximum and minimum values need to be in the correct place.
+You can also use the table of values on the GDC to plot the coordinates 
+of some more points that lie on the curve if necessary.
+Example 10
+Sketch the graphs of y = f(x) for the following functions.
+On your sketch, label the coordinates of points where the graphs intercept 
+the axes, and any maximum or minimum points.
+a /(x) = (x-2)3 
+b f{x) = x3 - 7x2 + 4x - 12
+You can see from your GDC that this curve:
+• does not have any maximum or minimum points
+• cuts the y-axis at the point (0,-8)
+• cuts the x-axis at (2,0).
+Draw suitable axes and mark these points on.
+You can take a few more points from the table of values to 
+help you complete the graph.
+eg (-1,-27), (1,-1), (3, 1) and (4,8)
+Plot your points and draw a smooth line through the 
+points.
+Continued on next page
+441
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+O
+You can sec from your GDC that this curve:
+• has a maximum point at (0.306, -11.4)
+• has a minimum point at (4.36, -44.7)
+• cuts they-axis at (0, -12)
+• cuts the x-axis at (6.67, 0).
+These four points are probably enough to help you sketch 
+the curve, but you can look at other points from the table 
+of values if you need to.
+Draw suitable axes and mark these points on. Then sketch 
+the curve.
+Investigation 8
+1 
+On your GDC, plot graphs of the following functions.
+a y= 2x3+l 
+b y=x3-4x2-x+4
+2 
+On each graph, perform the vertical line test and deduce whether or not the expressions in question 1 are 
+functions—ie if all vertical lines cut the graph in one place only, then it is a function.
+On each graph, perform the horizontal line test and deduce whether or not the expressions in question 1 
+are one-to-one—ie if all horizontal lines cut the graph in only one place then it is a one-to-one function.
+Factual If a function is one-to-one then it has an inverse. Which of the graphs drawn have inverses?
+5 
+Plotthe liney = xon the same axes.
+6 H.I.HJ.UIMB How is the graph and its inverse linked by the line3/=x?
+? Can you plot a graph of the inverse function?
+\
+For a one-to-one cubic function/(x), you can sketch the inverse function 
+(x) by reflecting the graph ofy=/(x) in the liney = x.
+Example 11
+Find the inverse of the following functions. Sketch each function with 
+its inverse to confirm that they are symmetrical about the liney = x.
+a /(x) = x3 -2 
+b /(x) = 4(x + 1 )3 +5
+a x —> cubed —> -2 = /(x)
+Performing the reverse operations: 
+/"' (x) = cuberoot <- + 2 <- x
+So, (*) = \](* + 2)
+442
+
+9.3
+b
+Performing the reverse operations:
+(x) = <—1 <— cube root <- +4 <—5 <- x
+So, 
+(x) =
+Sketch the graphs of y =/(x) for the following 
+functions.
+Label the coordinates of points where the 
+graphs intercept the axes, and any maximum 
+or minimum points.
+1 /<x) = (x + 3)3
+2 f(x) = x3-2x2-x + 3
+3 f(x) = 2x3 - 2x2 - 12x
+4 f(x) = 3(x + 2)3 - 4
+5 f(x) = 3x(x — 4) (x + 1)
+Plot each function and reflect it in the liney = x 
+to find the inverse function. Write down the 
+equation of the inverse function in each case.
+a f(x) = x3 + 3 
+b /(x) = 4x3
+c f(x) = 2x3 + 1
+Sketch the graph of f(x) = x3 - 6x2 + 3x + 10.
+a Find the coordinates of the x-intercepts 
+and the y-intercept. 
+b Find the coordinates of the vertices, 
+c Write down the coordinates of the point 
+of rotational symmetry, 
+d The graph is reflected in the y-axis. Write 
+down the new equation.
+443
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+Investigation 9
+An open box is made from a piece of card measuring 12 cm by 10 cm, 
+with squares of sidexcm cut from each corner.
+12
+x
+TOK
+How can a mathematical 
+model give us know 
+ledge even if it does 
+not yield accurate 
+predictions?
+1 Explain why the width of the box is (10 — 2x) cm, the length is 
+(12 - 2x) cm and the height is x cm.
+2
+3
+4
+5
+Find the equation for the volume, V, of the open box in terms ofx. 
+Plot a graph of Vagainst x, using a suitable domain and range.
+Find the x-intercepts.
+Factual
+What are the upper and lower limits for the size ofx in the context 
+of this problem? Explain why.
+Factual
+_______ What are the coordinates of the local maximum and local
+minimum values of the graph?
+Factual
+Which of these is not a possible value forthe volume of the 
+box? Justify your answer.
+8 
+Given a certain value ofx, could you use this model to predict what the 
+volume of the box would be? What limitations would you have?
+9 fWiffTOIffl Using your answerto question 8, do you thinkthat, in 
+general, cubic models could be used to predict information about real-life 
+situations?
+Example 12
+A can of cat food has volume V= 200 cm3.
+The radius of the can is r cm and the height is hcm.
+a Explain why nr2h = 200.
+b Rearrange the equation from part a to make h the subject, 
+c Find an expression for the total surface area S of the can. 
+d Substitute your expression for h (from part b) into your expression for S (from 
+part c) and hence show that S = 2nr2
+r
+e Using suitable scales for your axes, plot the graph of this equation, 
+f Find the minimum surface area of the can and the value of r for which this occurs.
+444
+
+A can of cat food can be modelled as a cylinder. 
+The volume of a cylinder is given by V = nr2h. 
+Since we are told that V= 200, it follows that 
+Kr2h = 200.
+200 
+nr1
+S = 2nr2 + 2nrh
+b h =
+d S = 2nrl + 2/rr
+c o 2 , 400 
+S = 2/rr +-----
+200
+nr1
+f 189.3 cm2 when r= 3.17
+Divide through by nr2.
+S - (2 x area of circle at end) 
++ (curved surface area)
+Simplify the second term.
+This is the minimum point on the 
+graph._______________________
+You always need to keep in mind the following diagram when finding the 
+best-fit curve for messy data. Sometimes it may be better to use a linear, 
+cubic or other power function to find the best model for the data.
+1 An open-top box is made from a piece of 
+card measuring 8 cm by 6cm with squares 
+of side xcm cut out of the corners.
+a Find an expression for the volume V of 
+the open box in terms of x. 
+b Plot a graph of V against x. 
+c Find the x-intercepts.
+d State what the x-intercepts tell you 
+about the possible range of values for x. 
+e Find the local maximum and minimum 
+values of V.
+i Explain why, in real life, V cannot be equal 
+to one of the values you found in part e.
+445
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+2 A section of a toy rollercoaster is in the 
+shape of a cubic curve with equation 
+f(x) = -x3-2x2 + 5-X + 5, where f(x) is the 
+height in metres.
+a Plot the graph of y = f(x). 
+b Find the local maximum and minimum 
+values of the function, 
+c Calculate the difference in height 
+between the maximum and minimum 
+points.
+3 The number of fish, N, in a lake between 
+2005 and 2019 is modelled using the 
+formula
+N(x) = -0.025*3 + 0.8x2 - 6.75x + 60
+where x is the number of years after 2005. 
+a Plot the graph of N (x) for 0 < x < 20. 
+b Find the number of fish in the pond 
+after 12 years.
+c Find the minimum number of fish in the 
+lake.
+4 A pandemic can be modelled by the equation 
+f(x) = (x - 15)3 + 4000 where x is the number 
+of weeks after the outbreak started and f(x) is 
+the number of cases reported.
+a Plot the graph off(x) between x=0 and 
+x= 50.
+b Does the graph have a local maximum 
+or minimum value?
+c Find the number of cases when x=20 
+and when x = 40.
+d State whether this is a suitable model for 
+the scenario, and justify your answer.
+5 The temperature on a winter day can be 
+modelled by the equation
+/(/) = -0.0066/3 + 0.16r2 + 0.025/ - 2.76 
+where / is the time in hours and /(/) is the 
+temperature in °C.
+a Plot the graph of /(/) between x = 0 and 
+x- 24.
+b Find the local maximum and minimum 
+temperatures.
+c Find the temperature at 10 am.
+6 The number of bacteria, B, in a particular 
+culture at time x minutes is conjectured to 
+be given by the formula 
+B(x) = 5.17 + 1.25*- 0.06*2 + 0.000 83x3
+a Write down the initial number of 
+bacteria.
+b Find the local maximum and minimum 
+number of bacteria.
+c State whether this is a suitable model or 
+not and justify your answer.
+? The height, dcm, that a toy rollercoaster 
+reaches after / seconds can be modelled 
+by the function d(t) = 0.2/3 - 2/2 + 5.8/+ 5. 
+Explain whether or not this is a 
+realistic model and justify your answer.
+8 The temperature, t°C, over a 24-hour 
+period beginning at 7.00 pm on Monday 
+evening is represented by the function 
+/(x) = 23.5 - 1.72/ + 0.2/2- 0.005 6/3 where 
+/ is the number of hours that have passed 
+since 7.00pm.
+a State the highest and lowest
+temperatures in this 24-hour period, 
+b Find the temperature at 5.00am on 
+Tuesday morning.
+Regulations state that a hospital should be 
+at a maximum temperature of 22°C.
+If the temperature rises above this, the air 
+conditioning system should be 
+switched on.
+c Assuming that the temperature in 
+the hospital is the same as the outside 
+temperature when the air conditioning 
+system is off, find the number of hours 
+over the 24-hour period during which the 
+air conditioner must be switched on. Give 
+your answer in hours, correct to 1 dp. 
+d Comment on whether this model would 
+be useful to predict the temperature in 
+the hospital at 1.00am on Wednesday 
+morning. Justify your answer.
+446
+
+9.3
+Finding points of intersection
+Example 13
+At the school sports day, Petra has to throw a shot-put. The path of the shot-put follows 
+a parabolic curve given by the equation/(r) = 1.75 -h 0.75/- 0.062 512, where / is the time 
+(in seconds) that has elapsed since the shot-put left Petra's hand, and /(/) is the height of the 
+shot-put (in metres) above the ground.
+a Find the height of the shot-put after 5 seconds, 
+b Find the times when the height of the shot is 3 metres.
+a /(5) = 1.75 + 0.75(5) - 0.062 5(5)2 
+= 1.75 + 3.75 - 1.5625 
+= 3.9375 m
+x= 2 andx = 10
+The shot is 3m above the ground when /= 2s and 
+t = 10s.
+Substitute / = 5 into the 
+equation for/(r).
+The easiest way to find the times 
+when the height of the shot is 
+3 metres is to use your GDC.
+Graph the functions
+f(x) = 1.75 + 0.75* - 0.062 5x2
+and g(x) = 3.
+The values of x where f(x) = g(x) 
+give the times, /, when the 
+height of the shot is 3 m.
+Plot graphs of y =f(x) and
+3 The path of an arrow can be
+| TOK
+y = g (x) for the following
+modelled by the quadratic
+pairs of functions, and find
+function
+Does studying the
+the coordinates of the point
+/(/) =-4.34/2 + 25.77/+ 1.8
+graph of a function
+where each pair intersect.
+where / is the time in seconds
+contain the same
+a f(x) = x5 - x3 + x and
+and /(/) is the height in
+level of mathematical
+n
+1*
+metres.
+rigour as studying the
+b /(x) = 2x~2 + 4 and g(x) = 6
+Find the times when the
+function algebraically?
+c /(x) =x3 - 2x2 + 1 and
+height is 10 metres.
+g(x) = 3x+ 1
+4 A company's profits, in US $,
+The path of a ball is modelled
+are modelled by the equation
+by the equation
+f(x) = -0.9x2 + 52x - 360,
+f(x) =-3.53x2+ 13.7X+ 1.75
+where x is the number of units 
+sold each week.
+where /(x) is the height of the
+ball in metres and x is the time
+Find the number of units sold
+in seconds.
+to make a profit of US $300
+Find the times when the 
+height of the ball is 8 metres.
+per week.
+44?
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+Direct and inverse variation
+In Chapter 5 you learned about direct variation.
+In this section you will be looking further at direct variation, and also 
+at inverse variation.
+\
+The symbol for variation is «= and it stands for tt = kx ...” (that is, k multiplied
+by the variable which follows).
+For direct variation, y ocxn ory = kxtt
+c . 
+. . 
+1 
+k
+For inverse variation, — ory = —
+In the following examples and exercises you will find out that variation 
+provides an alternative to the use of functions when representing real- 
+life situations.
+International 
+mindedness
+Which do you think 
+is superior: the 
+Bourbaki group 
+analytical approach 
+orthe Mandelbrot 
+visual approach to 
+mathematics?
+Example 14
+The distance, d metres, that a rock falls varies directly with the square of the 
+time taken, t seconds.
+a If the rock falls 6 metres in 2 seconds, write an equation for d in terms of t. 
+b Find the distance the rock has fallen after 5 seconds.
+a dt1 
+2
+The first step is always to write the
+inO
+Si 
+ll
+NJ
+statement with the variation symbol and
+6 = k{2)2
+then write it as an equation involving
+k= 1.5
+Notice that this gives us a quadratic
+The equation is d= 1.512.
+equation for d in terms of t.
+Substitute the given values into the 
+equation to find k.
+b d= 1.5<5)2= 1.5(25) = 37.5 metres
+Substitute t= 5 into your equation and find 
+the distance d.
+1 The price of a taxi fare, %p AUD, varies 
+directly with the number of kilometres, 
+n, travelled. The fare for travelling
+12 kilometres is $21 AUD. Write an 
+equation connecting p and n, and hence 
+find the fare for travelling 40 kilometres.
+2 The distance, d metres, that a ball rolls 
+down a slope varies directly with the square
+of the time, t seconds, it has been rolling 
+for. In 2 seconds the ball rolls 9 metres.
+a Write an equation connecting d and r. 
+b Find how far the ball rolls in 5 seconds, 
+c Find the time it takes for the ball to roll 
+26.01 metres.
+3 The volume of a sphere varies directly with 
+the cube of its radius. A certain sphere has 
+radius 3 cm and volume 113.1 cm3.
+Find the volume of another sphere with 
+radius 3 cm.
+448
+
+Investigation 10
+1 A local authority pays their workers depending on the number of hours 
+that they work each week. If the workers are paid €22 per hour, complete 
+the following table:
+Number of hours
+20
+25
+30
+35
+40
+Pay in €
+Plot a graph of this information on your GDC.
+Describe how a worker’s pay varies with the number of hours 
+worked.
+2 The local authority has decided to put artificial grass tiles on a football field.
+If four people are available to lay the grass tiles, it takes them two hours to 
+complete the work.
+Fill in this table showing the number of people available and the number of 
+hours it takes to complete the work.
+Number of people
+1
+2
+4
+6
+8
+12
+Number of hours
+2
+Plot a graph of this information on your GDC.
+■FBufil How do the number of hours to complete the work vary with the 
+number of people available?
+4 ffiTiTHCTETl For problems which involve direct and inverse variation, 
+how does understanding the physical problem help you to choose the 
+correct mathematical function to model the problem with?
+Example 15
+The number of hours N taken to build a wall varies inversely with the number 
+of people x who are available to work on it.
+a When three people are available the wall takes two hours to build. Find the time 
+it takes to build the wall when four people are available to work on it. 
+b Given it takes three hours to build the wall, state how many people worked on it.
+1 
+k
+For inverse variation, the variable is written
+a Noc and hence N = —
+X 
+X
+as — or x~l which is a power function.
+k
+N -2 when x = 3 so 2 = - 
+3
+Find the value of k using the given
+k = 6
+information.
+6
+Substitute the value of k you found into the
+N = —
+X
+equation for N.
+N = — = 1.5
+4
+0
+Continued on next page
+449
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+O
+So, it takes 1.5 hours to build the wall when
+Now find N when x = 4.
+four people work on it.
+b 3 = —
+Substitute N= 3 into the equation
+X
+N = — which you found in part a.
+3x = 6
+X
+6 - 
+x = - = 2
+3
+So, two people were available to build the wall.
+Reflect
+Explain why direct variation and inverse variation are related to 
+modelling real-life scenarios with mathematics.
+1 In a lottery draw, the amount of money 
+US %m awarded to each winner varies 
+inversely with the number of winners w.
+If there are 20 winners, each receives US $150. 
+a Write an equation connecting m and w. 
+b Determine how much each of 15 winners 
+would receive in prize money.
+2 The number of hours h that it takes to build 
+a model varies inversely with the number 
+of people p who work on it.
+It takes two hours for six people to build 
+the model.
+a Write an equation connecting h and p. 
+b Find out how long it will take 10 people 
+to build the model.
+c The model needs to be ready for an 
+exhibition which will take place in four 
+hours' time. Calculate the number of 
+people needed to build the model to 
+ensure it is ready on time.
+3 The variable y varies inversely with the 
+square of x. y = 3 when x = 4.
+a Write an equation connecting y and x. 
+b Find y when x = 6. 
+c Find x when y = 12.
+4 The volume V of a gas varies inversely with 
+the pressure p of the gas.
+The pressure is 20 Pa when its volume is 
+180 m3.
+Find the volume when the pressure is 
+90 Pa.
+5 A group of children attend a birthday party. 
+The number of pieces of candy c that each 
+child receives varies inversely with the 
+number of children n.
+You are given that when there are 16 
+children, each one receives 10 pieces of candy. 
+Find the number of pieces of candy each 
+child receives when there are 20 children.
+6 The intensity of a sound wave varies 
+inversely with the square of the distance 
+you are standing away from it.
+a Given that you are initially standing 
+25 m away from the sound source, and 
+then move so that you are 50 m away, 
+find the factor by which the intensity of 
+the sound has decreased, 
+b You then move from 50 m away, to only 
+40 m away. Determine how the sound 
+intensity has changed on this occasion.
+? The variable y varies inversely with the 
+square root of x.
+When x = 16, y = 3. 
+a Find the value of y when x = 4.
+b Find the value of x when y = -.
+2
+450
+

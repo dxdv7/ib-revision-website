@@ -1,0 +1,542 @@
+Developing inquiry skills 
+(8)
+Click the icon for the full set of life expectancy and GDP data. What can 
+you say about the spread of data in both lists?
+What are the standard deviations for life expectancy and GDP per capita?
+Do these values imply that the points are all close to the mean values or not?
+3.2 Sampling techniques
+Here is some of the data on the number of airports in 
+various countries from the CIA factbook for 2013. You 
+can find the full table in the ebook.
+Country
+Number of 
+airports
+Country
+Number of 
+airports
+Country
+Number of 
+airports
+United States
+13 513
+Somalia
+61
+Lebanon
+8
+Brazil
+4093
+Chad
+59
+Turks and 
+Caicos Islands
+8
+Mexico
+1?14
+Ethiopia
+5?
+Togo
+8
+Canada
+146?
+Yemen
+5?
+Sierra Leone
+8
+Russia
+1218
+Suriname
+55
+Burundi
+?
+Argentina
+1138
+Morocco
+55
+Equatorial
+Guinea
+?
+Bolivia
+855
+French
+Polynesia
+54
+Rwanda
+?
+Colombia
+836
+Nigeria
+54
+Kuwait
+?
+Paraguay
+?99
+Uzbekistan
+53
+Moldova
+?
+Indonesia
+6?3
+Austria
+52
+Falkland
+Islands (Islas 
+Malvinas)
+?
+South Africa
+566
+Afghanistan
+52
+Benin
+6
+Papua New 
+Guinea
+561
+Belize
+4?
+Kosovo
+6
+Germany
+539
+Uganda
+4?
+Micronesia,
+Federated
+States of
+6
+China
+50?
+Israel
+4?
+Western
+Sahara
+6
+...
+...
+...
+...
+...
+...
+113
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+It is possible to use all this data for analysis. However, it would be 
+easier if you could just take a sample of the data instead.
+A population is the whole group from which you may collect data.
+A sample is a small group chosen from the population.
+Simple random sampling is selecting a sample completely at random. For 
+example, using a random number generator or picking numbers from a hat. 
+Systematic sampling is, for example, taking every fifth entry starting at a 
+random place.
+In the table of airports, all the data is from a website and is called the 
+population. How can you take a random sample of this data to use 
+for analysis?
+Investigation ?
+1 
+Using the data in the table, use technology to find the mean number of 
+airports.
+Using the spreadsheet of data in the ebook, click on the arrow next to the 
+I AutoSum icon and select Average. Then highlight all the entries and 
+press Enter. If you are using your GDC then you need to enter all the data 
+into a list, select Statistics, start calculations, one-variable statistics,
+1 list, enter the name you gave the list and press OK.
+2 
+Which of the following methods do you think will give you a random 
+sample? Using the spreadsheet or your GDC, find the mean in each case 
+and give a reason why you think it does or does not give a random sample.
+a Take the first 50 countries. Which type of sample do you think this 
+is? Discuss whether it will be a good representation for the mean, 
+b Take the first 25 countries and the last 25 countries. Which type 
+of sample do you thinkthis is? Discuss whether it will be a good 
+representation for the mean.
+c Take every fifth country. Which type of sample do you think this is?
+Discuss whether it will be a good representation forthe mean, 
+d Use the random number generator on your GDC to pick out 30 
+countries. Which type of sample do you think this is? Discuss 
+whether it will be a good representation for the mean.
+To use the random number generator on the GDC, select Probability, 
+Random, Integerfl, total number of countries, number of countries 
+you want to select), eg lnteger(l,450,9) will give you a list of nine 
+random integers between 1 and 450. Be careful to check that none 
+of the integers are repeated. If so, you will have to select some more 
+numbers at random to make up yourtotal. 
+e Put the names of all the countries into a hat and pick out 50 
+countries at random.
+f Ask your friends which country they are from and use those countries.
+O
+114
+
+o 3 
+Which methods in part 2 do you think will give the most reliable 
+estimates of the population mean? Explain your answer.
+4 
+How do you know whether the data is biased?
+5 
+f^TCTTTl What is biased data? What is a reliable result?
+6 U323332J3J How can you decide whether or not the results are biased 
+or reliable?
+'N
+Convenience sampling is getting data by selecting people who are easy to 
+reach, for example people at a school, club, etc. It does not include a random 
+sample of participants and so the results could be biased.
+A biased sample is one that is not random—for example, researching 
+spending habits on cars and only interviewing people exiting a garage.
+Example ?
+The following data shows the IQs of 200 people:
+56
+62
+65
+68
+69
+70
+71
+71
+75
+77
+79
+79
+81
+81
+81
+83
+84
+85
+85
+\
+85
+86
+86
+86
+87
+87
+87
+87
+87
+87
+87
+88
+88
+88
+88
+88
+89
+89
+89
+89
+89
+89
+89
+89
+89
+89
+89
+89
+91
+92
+92
+92
+92
+93
+93
+93
+93
+93
+93
+94
+94
+94
+94
+94
+94
+94
+95
+95
+95
+95
+95
+95
+96
+96
+96
+96
+96
+96
+96
+97
+97
+97
+98
+98
+98
+98
+98
+98
+98
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 101 101 101 101 101 101 101 101 101 101 102 102 102
+102 103 103 103 103 104 104 104 104 104 105 106 106 107 107 107 107 107 107 107
+107 107 107 108 108 108 109 110 110 110 110 112 112 113 113 113 114 114 115 115
+117 118 119 121
+121
+125 128 129 129 131 134 135 136 137 140 141 143 145 148 156
+V_______________________________________________________________________________________________ y
+a Find the mean of the IQs.
+b Find the mean of the first 20 numbers and the last 20 numbers.
+Comment on the type of sample this is and any advantages and/or disadvantages it may have.
+c Find the mean of the subset of the data consisting of every fifth IQ.
+Comment on the type of sample this is and any advantages and/or disadvantages it may have.
+d Find the mean of a random sample of 30 IQs.
+Comment on the type of sample this is and any advantages and/or disadvantages it may have.
+e Comment on which of these methods gives the best approximation to the mean of all 
+200 IQs. 
+Q
+Continued on next page
+115
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+a 99.74 
+b 104
+This is a biased sample since it is not 
+random. It is easy to use but unreliable.
+c 98.725
+This is systematic sampling since every 
+fifth entry is selected. It gives a good 
+representation of the mean. It is easy to 
+use and is not time-consuming.
+d 101.7
+This is a random sample. Each time 
+a random sample is chosen, different 
+numbers will be selected. The advantage 
+is that the selection is truly random.
+The disadvantage is that it will select 
+different numbers each time and can be 
+time-consuming.
+e In this case the systematic sample 
+gave the closest value to the mean.
+It is also quite a simple method to use.
+Put the data into a frequency table and find 
+the mean.
+You can start at any number and choose 
+every fifth number until you have 40 
+numbers in total.
+Everyone will have a slightly different 
+answer for this depending on the starting 
+place.
+For example, using randomly generated 
+integers, the selection that appeared was:
+26, 194, 38, 77, 142, 174, 27, 153, 34, 
+176, 36, 40, 67, 122, 84, 148, 162, [38], 
+43, 132, 90, 98, 133, 166, 175, 103,
+136, 185, 196, 64
+38 is repeated, so another random number 
+must be generated. This is 10. Find the 
+corresponding number in the list and then 
+find the mean of the selected numbers.
+Quota sampling is setting certain quotas for your sample, for example 
+selecting a sample of eight boys and eight girls.
+For example, the school canteen is considering introducing a 
+new lunch menu and would like feedback from the students. The 
+school has 250 boys and 300 girls and so the canteen manager 
+decides to interview 25 boys and 30 girls to find out their opinion 
+of the new menu. He stands at the entrance to the canteen and 
+interviews the first 25 boys and 30 girls who come into the 
+canteen.
+This is called a quota sample. It is not random. It can be biased and 
+unreliable. The advantage is that it is inexpensive, easy to perform and 
+saves time.
+However, it is more reliable than convenience sampling where people 
+are selected based on availability and may not be representative of the 
+population. This type of sampling produces a non-probability sample 
+and can also be biased and unreliable.
+116
+
+Stratified sampling is selecting a random sample where numbers in certain 
+categories are proportional to their numbers in the population.
+For example, if 20% of students in a school were in Grade 7, then you 
+would choose 20% of your sample from Grade 7. The 20% must be a 
+random sample and not a convenience sample.
+Example 8
+Mandy asks all the students in her school to take a memory test. The students have to 
+remember as many objects as they can from the 20 that Mandy shows them. The results 
+are shown in the table.
+Class 2 (20 students)
+16,15,13,15,12,8,18,16,12,11,14,12,16,9,11,10,17,13,14,13
+Class 8 (27 students)
+19,15,16,14,11,16,18,15,13,12,10, 8, 20,14,17,12,10, 7,19, 20, 
+13,12,16,16,16,15,11
+Class 9 (23 students)
+12,14,15,8, 2,13,15,19,16,13,11,10,12,12, 20,15,11,10, 2,13,16, 
+15,15,
+Class 10 (26 students]
+9,10,10,12,18,16,12,15,11,11,14,16,19,19,11,15,12,13,13,14, 
+13,13,9,10,8,15
+Class 11 (30 students)
+16,15,15,16,16,18,11,12,13,9,10,11,16,12,15,12,12,15,15,15,
+18, 20,16,12,12,15,14,14,14,14
+Class 12 (24 students]
+9,11,16,14,13,13,18,19,12,10,11,9,16,16,18,14,15,15,16,13, 
+13,12,18,19
+a In order to take a stratified sample of 40 students from the 150 in total, show that Mandy 
+needs to select five students from Class 7.
+b Determine how many students Mandy needs to select from each of the other classes.
+20
+a ---- x 40 = 5.333...« 5 students
+150
+To select the 5 students, Mandy needs 
+to use a random number generator to 
+pick 5 numbers from the list for Class 7.
+b From class 8 Mandy needs to select 7 
+students.
+27
+----x 40 = 7.2, so 7 students from Class 8
+150
+Here again Mandy needs to select the
+7 students using a random number 
+generator.
+From class 9 Mandy needs to select 6 students.
+Similarly for the other classes.
+From class 10 Mandy needs to select 7 students.
+Note that due to rounding, the total is
+From class 11 Mandy needs to select 8 students.
+From class 12 Mandy needs to select 6 students.
+only 39.
+11 2
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+163, 160,
+>—
+CO
+149, 151, 159, 158, 162, 161, 156, 155, 154, 150, 151,
+160, 159, 158, 156, 156, 155, 156, 157, 158, 158, 157
+151, 163, 165, 158, 155, 156, 159, 160, 161, 165, 159, 155, 156, 158,
+158, 157, 155, 154, 152, 150, 163, 159, 158, 155, 156, 162, 158
+I 55, 156
+151, 158, 155, 156, 155, 158, 159, 160, 154, 153, 148, 156, 149, 150, 
+157, 156, 157, 156, 154, 155, 158, 153, 155, 150, 158, 160
+Class 7 (28 students): 
+Class 8 (30 students):
+Class 9 (26 students): 
+Class 10 (24 students): 
+Class 11 (25 students): 
+Class 12 (27 students):
+l_________
+a Find the mean height of the whole school.
+b Use an appropriate sampling method to collect a sample of 50 students and find the mean 
+of the sample. Comment on whether or not your sample is unbiased.
+Investigation 8
+A dog kennel has 120 dogs. The ages of the dogs are:
+1 
+1 1 1 1 1 1 1 1 12222222233333 333^
+33333 333444444444444455555
+55555 555555555556666666662
+2 222 
+2 2 22288888888899999 10 10 10
+10 11 11 11 11 12 12 12 13 13 13 14 14 15 16 16
+V___________________________________________________________________________________
+1 How many dogs are in the population?
+2 Represent the ages of the dogs and the frequencies in a table.
+3 Which average can you read from the table?
+4 Find the mean age of the dogs.
+5 Discuss which method for finding the mean is easier: from the raw data or from the frequency table.
+6 
+Why can it be helpful to organize data in a table?
+2 Describe how you would take a sample of 40 dogs.
+8 WWTCTfffTl How can you decide whether your sample is unbiased?
+9 Take a systematic sample of every five dogs, then find the mean of the sample.
+10 Calculate the number of dogs of each age in a stratified sample of 40 dogs. Use the same method as in 
+Example 8. Discuss why you do not get exactly 40 dogs using this method.
+11 H.M.H.UIMB How do you decide on the best sampling method to use?
+1 The heights, to the nearest cm, of the students in a school are as follows:
+o
+0 0
+cc
+XT'
+v-n
+•-J
+vO OC 
+in in
+V/I \J\ 
+O  v/l
+Qs vs 
+V  in
+Os OC 
+Tt Vs
+sO o
+Vs vO
+Ul V/l 
+sjJ V/l
+V/l
+Os OO
+vO v \  
+VS v s
+00 Os 
+Vs 
+VS
+\0 Vs
+\C
+VS Vs
+<N <N 
+V s Vs
+v/l v-n 
+— 4*
+VS O ' 
+V
+V/l
+Ol
+v/l
+Vin
+v/i
+.
+4^
+v-n
+00
+v-n
+v/l
+v-n v-n 
+*-J oj
+v-n v-n
+— in 
+in in
+ov r- 
+rt in
+in in 
+in in
+SO sO
+in in
+r- rrs, 
+in in
+4^ v-n 
+0 0 0 0
+in o  
+in
+m — 
+in in
+\J} Ul 
+0 0
+VO (N 
+in in
+in in
+in in. 
+in in
+118
+

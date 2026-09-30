@@ -1,0 +1,1104 @@
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+Developing inquiry skills
+Looking back at the problem at the start of the chapter, find 
+the mean point for this set of data points.
+Find the equation of the least squares regression line. Draw the 
+line on the scatter diagram, clearly labelling the mean point.
+Is it reliable to use this line to estimate the IMR if a country 
+had 9 vaccine doses specified? And if the country had 16 
+vaccine doses specified? Why? If you think the IMR value will be reliable, find it.
+6.3 Interpreting the regression line
+Investigation 9
+1 
+For each of the following scenarios, state the value of the gradient and the 
+y-intercept of the regression line, and interpret their meaning in the stated 
+context.
+a A survey undertaken in a school asked how many hours per week a 
+student spends on social media, x, and sleeping,y. It was found that 
+there is a linear correlation between the variables, and the equation of 
+the regression line of y on x isy = 50 - 2x. 
+b A group of boys aged between 5 and 8 years had their hand lengths 
+measured. It was found that there is a linear correlation between the 
+age in years,x, and the hand length in centimetres,y. The regression 
+line isy= 1.7x+ 1.5.
+2 
+What can the gradient of the regression line tell us about 
+the correlation?
+3 fliTiWTTflfTl How can you explain that the y-intercept of the line of best 
+fit may not be relevant in a given context?
+Developing inquiry skills
+Returning to the opening problem, what do the gradient and the
+y-intercept of the regression line mean in the context of the problem?
+TOK
+Can all data be 
+modelled by a known 
+mathematical function?
+Developing 
+your toolkit
+Now do the 
+Modelling and 
+investigation 
+activity on page 
+296.
+1 Decide whether the following statements 
+are true or false.
+a When the gradient of the regression line 
+is positive, the correlation is strong, 
+b A negative linear correlation will be mod 
+elled by a line with a negative gradient, 
+c The independent variable, x, can never 
+take the value zero because this would 
+mean extrapolation.
+2 For each of the following scenarios:
+i 
+State the value of the gradient of the 
+regression line and interpret its 
+meaning.
+ii State the value of the y-intercept of 
+the regression line and interpret its 
+meaning if relevant, giving a reason if 
+there is no meaning.
+288
+
+a A number of students were asked for 
+their average grade at the end of the 
+last year of high school x, and their 
+average grade at the end of their first 
+year at university, y. On calculating the 
+regression line for the resulting data, the 
+result was y = -2.50 + 1.04*.
+b It is found that the relationship between 
+the height in centimetres, x, and the 
+weight in kilograms, y, of a group of 
+15-year-old students can be modelled 
+with the regression line y = -70 + 0.87*.
+c A car salesman wants to study the 
+relationship between the time in years 
+after a particular type of car is bought, *, 
+and the value of the car in USS, y. The 
+regression line is found to be 
+y =-2 50*+9000.
+3 Different weights are suspended from a spring 
+and the length of the spring measured. The 
+results are shown in the table.
+Weight (,vg)
+100 150 200 250 300 350 400
+Length of 
+spring (ycm)
+26
+35
+32
+32
+48
+49
+52
+a Find the correlation coefficient, r. 
+b Comment on the correlation.
+c The equation of the regression line ofy 
+on * is y = ax + b.
+i 
+Find the value of a. Comment on its 
+meaning.
+ii Find the value of b and interpret its 
+meaning if relevant. If not relevant, 
+explain why.
+Chapter summary
+• A correlation can be classified in terms of its direction (positive or negative) and its 
+strength (zero, weak, moderate, strong).
+• If the points on a scatter graph lie close to a line, then the correlation is said to be linear
+• Causation indicates that an event is the result of the occurrence of another event. A high 
+correlation between two variables does not imply that one variable causes the other.
+• Pearson's product moment correlation coefficient, r, is a measure of the linear correlation between two 
+variables, giving a value between -1 and 1 inclusive. The table summarizes how to interpret the value of r.
+rvalue
+Correlation
+0 < |r| < 0.25
+Very weak
+0.25 <|r|< 0.5
+Weak
+0.5 < |r| <075
+Moderate
+075 < |r| < 1
+Strong
+• Extreme or distant data points are called outliers.
+• A line of best fit is a line drawn on a scatter diagram that shows the trend followed by the points.
+This line can then be used to make predictions.
+• To draw a line of best fit by eye:
+3 Find the mean point, whose coordinates are calculated by finding the mean of thex-values and 
+the mean of they-values. Plot this point on the scatter diagram. It will be used as a reference 
+point to draw the line.
+3 Draw a line through the mean point that balances the number of points above the line with the 
+number of points below the line.
+Continued on next page
+289
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+A residual is the difference between the actual y-value and the predicted y-value; residuals are the 
+errors made when using the lines of best fit to make predictions.
+• The least squares regression line is the line of best fit that has the smallest possible value for the 
+sum of the squares of the residuals.
+• If x is the independent variable and y is the dependent variable then the least squares regression 
+line is also called the regression line ofy on x.
+• A function whose graph is made up of line segments is called a piecewise linear function.
+Developing inquiry skills
+Has what you have learned in this chapter helped you to 
+answer the questions from the beginning of the chapter 
+about the relationship between the total number of 
+vaccine doses specified for infants aged less than one 
+year and the IMR for a group of countries in 2009?
+How could you apply your knowledge to investigate 
+the relationships between other pairs of variables?
+Here are some you could think about. What information 
+would you need to find?
+• The relationship between per capita gross national 
+income (in US$) and life expectancy (in years) in different countries.
+• The relationship between the percentage of the female population aged IB and older with no 
+education and fertility rates.
+• The relationship between the age of a student and the total amount of time spent on homework 
+each week.
+Thinking about the inquiry questions from the beginning of this chapter:
+• Discuss whether what you have learned in this chapter has helped you to think about an answer to 
+these questions.
+• Consider whetherthere are any questions that you are interested in and would like to explore 
+further, perhaps for your internal assessment topic.
+Chapter review
+1 Statements I, II, III, IV and V represent des 
+criptions of the correlation between two 
+variables.
+I Strong positive linear correlation
+II Weak positive linear correlation
+III No correlation
+IV Weak negative linear correlation
+V Strong negative linear correlation
+Decide which of these statements best 
+represents the relationship between
+(
+Click here for a mixed
+review exercise 
+v_____ ______
+the two variables shown in each of the 
+following scatter diagrams.
+290
+
+6
+2 Label each of the following scatter diagrams 
+with a value for the correlation coefficient, 
+r, from this list: 0.86, -1, -0.9, 0, 1, -0.99.
+a
+y
+X
+f y
+H-------------------------------------------------------------► x
+3 In a greenhouse, nine plants of the same 
+species were chosen at random. Their heights 
+and the times in months since they were 
+planted are shown on the scatter diagram.
+75
+70
+65
+60
+Height of plant 
+(cm) 55 
+50
+45
+0123456789 10 
+Time since planting (months)
+b y
+x
+a Plot the point M(6,60), which represents 
+the mean time since planting and the 
+mean height.
+b Draw a suitable line of best fit. 
+c Hence estimate the height of a plant of this 
+species that was planted 6.5 months ago.
+d Explain why your answer to part c is 
+reliable.
+291
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+4 The table shows the relationship between 
+the maximum temperature (x, in °C) and the 
+number of visitors to an amusement park (y, 
+in thousands) over ten consecutive days.
+Temperature
+(a-°C)
+Number of visitors 
+[y thousands)
+24
+3.5
+23.6
+3.4
+25
+3.6
+26
+3.44
+25.6
+3.52
+2?
+3.35
+26.5
+3.42
+23
+3.6?
+23.5
+3.6
+28
+3.2
+a Find Pearson's product moment 
+correlation coefficient, r, for this data, 
+b Comment on what the value of r
+suggests about the relationship between 
+the two variables.
+c Find the regression line of y on x.
+d Explain whether it is reliable to use 
+this equation to estimate the number 
+of visitors on a day with a maximum 
+temperature of 40°C.
+5 It was found that the best-fit model for a set 
+of data points is defined by
+/<*) =
+jlOO + x 
+[-2*+ 250
+0< x<50 
+50 < x < 100
+a Find the values of:
+i /(30) 
+ii f(S0)
+b Draw the graph of /. 
+c Find the range of /.
+6 A company wants to advertise in Spanish football stadiums and is studying whether there is 
+any relationship between the position of a team in the league (p) and the average attendance 
+at their stadium (a). The company collected data from nine of the first ten teams as shown in 
+the table.
+Position [p]
+1
+2
+3
+4
+6
+?
+8
+9
+10
+Average 
+attendance [a]
+69 1?0
+?? 944
+44? 19
+32816
+2144?
+39 643
+20150
+16430
+5363
+a Find the correlation coefficient, r, for the variables p and a. 
+b Comment on the value of r.
+The equation of the regression line for a on p is a = mp + c. 
+c i Write down the value of m.
+ii Interpret the value of m in the context of the problem, 
+d Write down the value of c.
+e Find the estimated average attendance for the team in fifth place in the league.
+The head of the company wants to use this equation to estimate the average attendance for 
+the team that comes 15th in the league.
+f Explain why this estimate might not be reliable.
+7 The physics and mathematics teachers are 
+analysing whether there is any association 
+between the percentage scores that the Y12 
+class obtained in last term's tests. The results 
+of some of the students are shown in the 
+table.
+Physics (x)
+22
+35
+39
+40
+42
+52
+60 62
+22
+25 28
+83
+Mathematics
+(y)
+30 32
+42
+38
+43
+50
+62 60 20
+23 69
+25
+a Find Pearson's product moment 
+correlation coefficient, r, for this data.
+292
+
+6
+b Describe the correlation between the 
+percentage scores in the physics and 
+mathematics tests.
+c Explain why it is appropriate to find the 
+regression line of y on x.
+d Find the regression line of y on x. State the 
+domain on which it has been defined. 
+Minta scored 55% in the physics test but 
+was absent for the mathematics test. The 
+mathematics teacher uses the regression 
+line to estimate the percentage score Minta 
+would have obtained.
+e Find the estimated percentage score for 
+Minta in mathematics. Give your answer 
+correct to 2 significant figures.
+During the physics test Ernesto was not 
+feeling well and scored 25% in the test. His 
+score in mathematics was 93%.
+f Comment on whether the teachers 
+should leave this data point in their 
+analysis. Explain how this data point 
+would affect the correlation.
+Exam-style questions
+8 
+PI: Choose from the following list to accur 
+ately describe the correlation between two 
+data sets which have each of the given 
+Pearson's product moment correlation co 
+efficients: perfect positive; strong positive; 
+weak positive; zero; weak negative; strong 
+negative; perfect negative.
+i 
+1 
+ii -0.8 
+iii 0.4
+iv -0.4 
+v 0
+9 
+P2: Eight pieces of paired bivariate data
+h (x, y) are given in the table below.
+X
+1
+2
+3
+4
+5
+6
+7
+9
+y
+9
+8
+?
+6
+5
+5
+5
+2
+Each data pair (x, y) represents the 
+grade a student gained in maths (x) and 
+the grade they gained in art (y).
+a Draw, on graph paper, a scatter 
+diagram to represent this data, using 
+a scale of 1 cm for 1 unit on both 
+the x- and the y-axis. 
+(4 marks)
+b By considering the scatter diagram, 
+use two words to describe the linear 
+correlation. 
+(2 marks)
+c I Calculate the mean of the
+x-values. 
+(2 marks)
+ii 
+Calculate the mean of the
+y-values. 
+(2 marks)
+iii Mark the point (x, y) on
+the scatter diagram using the 
+symbol®. 
+(1 mark)
+d Draw the line of best fit "by eye" on 
+the scatter diagram. 
+(2 marks)
+e If the x-value is known to be 8, use 
+the diagram to estimate (to one 
+decimal place) they-value. Show on 
+the diagram how this estimate was 
+obtained. 
+(2 marks)
+10 PI: Paired bivariate data (x, y) that is strongly 
+■■ correlated has a y-on-x line of best fit
+y = mx + c. When x = 70, an estimate for 
+y is 100. When x= 100, an estimate for 
+y is 140. The data represents students' 
+scores on a test in geography, x, and on a 
+test in environmental systems, y.
+a Find the values of:
+i 
+m 
+ii c. 
+(3 marks)
+b State whether there is positive or
+negative correlation. 
+(1 mark)
+c The value of x is 90. Find the value 
+ofy. 
+(3 marks)
+d When x = 60 find an estimate for 
+the value ofy, given that this is 
+interpolation. 
+(2 marks)
+11 PI: The temperature, T°C, of liquid in a 
+SL chemical reaction is a function of time
+t, where t is measured in seconds and is 
+the time since the experiment started. 
+The function is given by
+40 + 2t 0 < / < 30
+130 — / 30<f<60. 
+a Write down the initial temperature 
+of the liquid. 
+(1 mark)
+b Find the temperature of the liquid 
+after 60 seconds. 
+(1 mark)
+c Find the maximum temperature 
+that the liquid reaches. 
+(1 mark)
+d i Sketch a graph of T as a function 
+of t. 
+(2 marks)
+ii Find the time interval during
+which the temperature of the 
+liquid is greater than or equal to 
+80°C. 
+(4 marks)
+293
+Statistics and 
+probability
+
+PI: Ten teenagers were asked their age and 
+the number of brothers and sisters they 
+have. The data is shown in the scatter 
+diagram below, where x represents the 
+teenager's age and y represents the 
+number of brothers and sisters that 
+they have.
+5n
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20
+Age
+a Use the scatter diagram to complete 
+the following table.
+X
+13
+14
+15
+16
+16
+12
+18
+18
+19
+19
+y
+4
+2
+1
+(3 marks)
+b Calculate Pearson's product moment 
+correlation coefficient for this data.
+(2 marks)
+c Give two reasons why it would not 
+be valid to use this scatter diagram 
+to estimate the number of brothers 
+and sisters a 25-year-old might 
+have. 
+(2 marks)
+P2: A ramp in a skate park can be modelled 
+by a piecewise linear function. Each 
+section of the ramp is a straight line, 
+and the coordinates (measured in 
+metres) of the endpoints of the sections 
+are shown.
+(8,0.9)
+The middle section of the ramp is 
+horizontal.
+The formula for this piecewise linear 
+function is given by
+mx 
+0 <x<k
+f(x) = - / 
+k<x< 5
+px + q 5 <x< r.
+Find the values of:
+i m 
+ii 
+/ 
+iii k
+iv a 
+v 
+b 
+vi p
+vii q viii r. 
+(11 marks)
+13
+14 
+P2: A school kept records of the winning times, t, in seconds, in the male 100 m sprint over 
+h the years. The data is given in the following table.
+Yeary
+2005
+2006
+2002
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+Time t
+12.8
+12.2
+12.2
+13.0
+12.6
+10.8
+12.4
+12.5
+12.3
+12.2
+12.3
+a For this data, calculate Pearson's product moment correlation coefficient. (2 marks) 
+b For the data of the winning times, find the lower and upper quartiles and
+hence, with a reason, identify an outlier. 
+(4 marks)
+c Remove the outlier from the data and then calculate Pearson's product moment
+correlation coefficient for the remaining 10 pairs of data values. 
+(2 marks)
+d State how the description of the linear correlation has changed due to
+removing the outlier. 
+(1 mark)
+e For this new data, calculate the line of best fit for t on y. 
+(2 marks)
+f Hence, in the year of the removed outlier, predict what the winning 
+time would have been if the extremely fast athlete (probably
+related to Usain Bolt) had not been at the school that year. 
+(2 marks)
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+♦
+♦---------- --------+
+♦
+♦ 
+♦
+♦ 
+♦
+Number of siblings 
+»-* 
+ro 
+co 
+■£»
+—
+♦—
+l-K
+CO
+294
+
+6
+15 PI: For 20 paired pieces of bivariate data 
+h (x, y) with a Pearson's product moment
+correlation coefficient of r= 0.93, a 
+line of best fit of y on x is calculated 
+as y = 0.5lx + 7.5. The data represents 
+students' scores on a maths test, x, and 
+on a physics test, y.
+The mean of the x data is x = 100.
+a If an x-value of 120 is known,
+estimate the corresponding y-value, 
+assuming that this is interpolation.
+(2 marks)
+b Find the mean of the v-data, y.
+(2 marks)
+c Describe in two words the type of 
+linear correlation that is shown by 
+this example. 
+(2 marks)
+d A teacher knows a y-value and wants 
+to find the corresponding x-value. 
+State which linear regression line 
+should be used to find an estimate 
+for the x-value. 
+(1 mark)
+16 P2: Ten pairs of twins take an intelligence 
+h test. In each pair of twins, one twin
+is female and the other is male. The 
+bivariate data on the test scores is given 
+in the table below.
+Female 100 110
+95
+90
+103 120
+9?
+105
+89
+111
+Male
+98
+10?
+95
+89
+100 112
+99
+101
+89
+109
+a Find Pearsons product moment 
+correlation coefficient, r, for this 
+data. 
+(2 marks)
+b State, in two words, a description of 
+the linear correlation in this data.
+(2 marks)
+c Letting the male score be
+represented by x and the female 
+score by y, find the equation of the 
+regression line of
+i y on x
+ii x on y. 
+(4 marks)
+d Another pair of female/male twins 
+are discovered. The male scored 105 
+on the test but the female was too 
+ill to take it. Estimate the score that 
+she would have obtained, giving 
+your answer to the nearest integer.
+(1 mark)
+e Yet another pair of female/male 
+twins are discovered. The female 
+scored 95 on the test but the male 
+refused to take it. Estimate the score 
+that he would have obtained, giving 
+your answer to the nearest integer.
+(1 mark)
+f If, for a further pair of male/female 
+twins, the male scored 140 on 
+the test, explain why it would be 
+unreliable to use a line of best fit to 
+estimate the female's score.
+(1 mark)
+17 P2: Paired bivariate data (x, y) is given in 
+h the table below. The data represents 
+the heights (x metres) and lengths (y 
+metres) of a rare type of animal found 
+on a small island.
+X
+2.4
+3.6
+2.8
+1.8
+2.0
+2.2
+3.0
+3.4
+y
+3.0
+4.0
+3.0
+1.?
+2.0
+2.3
+3.1
+2.?
+a i Calculate Pearson's product
+moment correlation coefficient 
+for this data.
+ii 
+In two words, describe the linear 
+correlation that is exhibited by 
+this data.
+iii Calculate the y-on-x line of best
+fit. 
+(6 marks)
+Another four specimens of this rare 
+animal are found on a nearby smaller 
+island. This extra data is given in the 
+table below.
+X
+2.3
+2.?
+3.0
+3.5
+y
+4.1
+1.5
+4.2
+1.5
+b i Calculate Pearson's product
+moment correlation coefficient 
+for the combined data of all 12 
+animals.
+ii In two words, describe the linear 
+correlation that is exhibited by 
+the combined data.
+iii Suggest a reason why it would 
+not be particularly valid to 
+calculate the y-on-x line of best 
+fit for the combined data.
+(5 marks)
+295
+Statistics and 
+probability
+
+Modelling and investigation activity
+y
+10
+Bulgaria total population
+Graphs of functions: 
+describing the “what” 
+and researching the 
+“why”
+Bulgaria population data
+V5 S% V N9' V 
+V V ^ ^ ‘v1 f f f
+Year
+This graph includes two essential elements:
+• 
+a title
+• x- and y-axis labels with units.
+Using sources
+You can use your general knowledge, printed sources and Internet 
+sources to research data. Different sources can often give different 
+explanations, and not all sources are valid, useful or accurate.
+How do you know if a source is reliable?
+Use Internet research to find out more precisely what happened at the 
+key dates shown on the Bulgaria population graph.
+Keep a record of any sources that you use.
+Could you use the graph to predict what might happen to the 
+population of Bulgaria in the future? Explain your answer.
+Worldwide Wii console sales
+; Via-ve tte
+^/Vefliore «" w .
+Approaches to learning: Thinking skills, 
+Communicating, Research 
+Exploration criteria: Presentation (A), 
+Mathematical communication (B), Personal 
+engagement (C)
+IB topic: Graphs, Functions, Domain
+to in 
+co 
+cm
+Population
+296
+
+6
+Research what is meant by “global mean temperature anomaly".
+This data is based on deviations from the base average for 1951 to 1980.
+On the graph in red, the 5-year moving average trend line is included. 
+What is a 5-year moving average?
+On the second graph is a linear trend line.
+What is a linear trend line?
+This is a potentially 
+controversial topic with 
+many opinions and 
+theories. How can you 
+protect against your own 
+biases?
+What are the advantages and disadvantages of 
+each of the representations of the data shown?
+Describe the data, note any interesting points 
+or trends and to try to explain and investigate 
+why the trends may be as they are.
+Extension
+Find and research a graph from the news or an academic 
+journal on one of your subjects or another source. 
+Describe and explain the trends and the reason for the 
+shape of the graph.
+Now display or print out the graph.
+Write a series of questions for other students to answer 
+that encourage them to describe and explain the graph.
+Initially without research write a paragraph about this graph, 
+then research the reasons for the shape of this graph.
+Global mean temperature anomaly
+y Global mean temperature anomaly (Land and Ocean) 1880 to 2017
+1.2
+What is the domain?
+When is the graph rising (Increasing)? 
+When is the graph falling (decreasing) ? 
+What is the shape of the graph? 
+Describe and explain.
+Temperature anomaly (°C)
+29?
+Modelling and investigation activity
+
+How can a lawyer make sure that 
+a jury understands evidence 
+based on probabilities?
+How can a biologist predict how 
+likely it is that a sample offish will 
+have a certain average length?
+Probability enables us to quantify the likelihood 
+of events occurring and evaluate risk. This chap 
+ter looks at the language of probability, how to 
+quantify probability and the basic tools you need to 
+solve problems involving probability. This chapter 
+also explores how to use probability distributions 
+to model problems where individual outcomes 
+are varied but the overall pattern of outcomes is 
+predictable.
+How can a geneticist quantify 
+the chance that a child may 
+inherit the same colour of eyes 
+as his father?
+Concepts
+■ Representation
+■ Quantity
+Microconcepts
+■ Concepts of trial, outcome, equally likely 
+outcomes, relative frequency, sample 
+space and events
+■ Probability: events, complementary 
+events, combined events, mutually 
+exclusive events, conditional probability, 
+independent events
+■ Venn diagrams, tree diagrams, sample 
+space diagrams and tables of outcomes
+■ Discrete random variables
+■ Binomial distribution
+■ Normal distribution
+How can an airline manage its booking system 
+to allow overbooking for profitability while 
+treating its customers fairly?
+Quantifying uncertainty: 
+probability, binomial and normal 
+distributions
+298
+
+Daniel Kahneman (Nobel Prize winner 
+in economic science) and Amos Tversky 
+(cognitive and mathematical psychologist) 
+spent decades collaborating and researching 
+together. Below is an adaptation of one 
+of the questions they set to a group of 
+students:
+Two taxi companies operate in Mathdty: 
+Blackcabs and Yellowrides.
+85% of the cabs in the city work for 
+Blackcabs and are coloured black.
+The rest of the cabs in the city work for 
+Yellowrides and are coloured yellow.
+A taxi was involved in a hit-and-run accident at night. A witness told 
+the police that the taxi was yellow. The court carried out a series of 
+tests of the reliability of the witness, asking her to identify the colour of 
+a random sequence of taxis. The witness correctly identified each one 
+of the two colours 80% of the time and failed 20% of the time.
+1 What is the probability that the taxi involved in the accident was 
+yellow?
+2 Karolina carries out a traffic survey in Mathdty. She sits at an 
+interchange and notes the colour of the first six cabs that pass her. What 
+number of yellow cabs is she most likely to observe?
+• What types of diagram can be used to represent the problem?
+• What assumptions did you make?
+Developing inquiry skills
+Write down any similar inquiry questions you might ask if you were asked to predict the 
+reliability of the witness if 50% of the cars in the city were Yellowrides or if another taxi 
+company, Blue Taxis, also operated in Mathcity.
+What questions might you need to ask in these scenarios?
+Think about the questions in this opening problem and answer any you can. As you 
+work through the chapter, you will gain mathematical knowledge and skills that will 
+help you to answer them all.
+299
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+Before you start
+You should know howto:
+1 Find simple probabilities
+A number is chosen at random from the 
+set {1, 2, 3......100).
+Find the probability of choosing a cube 
+number.
+Cube numbers in the set are: 1, 8, 27, 64.
+4
+Probability of a cube number =---- = 0.04
+100
+Click here for help 
+with this skills check
+Skills check
+1 A number is chosen at random from the set 
+{1, 2, 4, 3, 9, 10, 11, 16, 17, 25, 26, 27). 
+Find the probability that a number is: 
+a prime b odd c a square number.
+2 Find the mean from a grouped frequency 
+table without technology
+eg
+Xl
+4
+?
+00
+10
+f,
+2
+1
+5
+?
+Mean = I f
+125
+15
+8.33
+2 A student investigates whether there 
+is a relationship between gender and 
+prevalence of smoking.
+She collects this data:
+Smoker
+Non-smoker
+Male
+12
+4?
+Female
+6
+51
+A person is chosen at random from the 
+survey. Find the probability that they are: 
+a female b a male smoker 
+c a non-smoker.
+Xi
+1
+2
+3
+6
+11
+f,
+9
+?
+3
+2
+1
+Find the mean value of x.
+7.1 Theoretical and experimental 
+probability
+Probability is synonymous with uncertainty, likelihood, 
+chance and possibility. You can quantify probability through 
+three main approaches: subjective, experimental and theoretical.
+300
+
+Subjective probability
+You may judge that you are more likely to get to school on time if 
+you take a particular route, based on your experience with traffic. 
+Subjective probabilities are based on past experiences and opinions 
+rather than formal calculations.
+Investigation 1
+1 a Discuss the likelihood of these outcomes.
+A: The team winning the 
+FIFA World Cup in 2030 
+will be from the Americas.
+B: It will rain tomorrow.
+C: Humans will reach 
+Mars by 2050.
+D: Choosing one digit at
+E:The world will be
+F: The sequence
+random from the decimal
+free of all dictators
+999999 is found
+expansion of you
+within the next 10
+somewhere in the first
+6
+get 6.
+years.
+thousand digits of pi.
+b Display your answers by plotting them on this probability scale:
+o
+—  o
+l h
+1
+(impossible to occur) (just as likely to occur (certain to occur)
+as not)
+2 
+Compare, contrast, discuss and justify your answers within a small 
+group.
+You may find disagreements with others, based on your opinions, experience 
+or beliefs.
+3 
+When is it easierto reach a common agreement on the value of a 
+subjective probability?
+Experimental probability
+You should use these terms when discussing and quantifying probabilities:
+\
+Experiment: A process by which you obtain an observation 
+Trials: Repeating an experiment a number of times 
+Outcome: A possible result of an experiment 
+Event: An outcome or set of outcomes
+Sample space: The set of all possible outcomes of an experiment, always 
+denoted by U
+International 
+mindedness
+Probability theory was 
+first studied to increase 
+the chances of winning 
+when gambling. The 
+earliest work on the 
+subject was by Italian 
+mathematician Girolamo 
+Cardano in the 16th 
+century.
+301
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+These terms are illustrated in the following example.
+Erin wants to explore the probability of throwing a prime number 
+with an octahedral die. She designs an experiment that she feels is 
+efficient and bias-free. Erin places the die in a cup, shakes it, turns the 
+cup upside down, and reads and records the number thrown.
+Erin repeats her experiment until she has completed 50 trials. She 
+knows that the outcome of each trial can be any number from 
+U= (1, 2, 3, 4, 5, 6, 7, 8) and that the event she is exploring can be 
+described as a statement: "throw a prime with an octahedral die" or a set 
+of outcomes that make the statement true: {2, 3, 5, 7).
+Erin can either write P(throw a prime) to represent the probability of 
+her event occurring or P(A) if A denotes the set {2, 3, 5, 7}.
+A crucial assumption in many 
+problems is that of equally likely 
+outcomes.
+A consequence of the geometry of 
+the shapes shown here is that they 
+form fair dice. Each outcome on a 
+fair die is as equally likely as any 
+other.
+Investigation 2
+1 Use card to build a triangular prism where the constant cross-sectional 
+area is a right-angled triangle.
+2 
+In your class, decide how to label the faces with A, B, C, D and E.
+• 
+Which face(s) do you predict are least likely to land face down when 
+your prism is thrown?
+• 
+Which are most likely?
+• 
+Discuss in a group and try to rank the five outcomes in order of 
+likelihood.
+3 
+Throw your prism for 50 trials and record the frequency of each outcome. 
+Store your data so that it can be used for further investigation in Section ?.3.
+One way to quantify probability is with relative frequency, also known as 
+experimental probability. The general formula for the relative frequency of an 
+event A after //trials is:
+302
+

@@ -1,0 +1,455 @@
+1.5
+1.5 Trigonometry of right-angled 
+triangles and indirect 
+measurements
+Investigation 9
+1 
+Puzzle One:
+What do you notice about the three squares 
+built on the sides of the right-angled 
+triangle A ABC, where angle C = 90°?
+Can you state the relationship 
+between the sides [AB], [BC] 
+and [AC] of the triangle? If you 
+cannot copy the shapes exactly, then use 
+scissors to cut out copies of the red, blue 
+and green squares, and see whether you 
+can fit the green and blue squares exactly 
+overthe red one. You may cut up the blue 
+and green squares along the internal lines 
+to create smaller squares or rectangles.
+2 
+Puzzle Two:
+There are 11 puzzle pieces: 8 right-angled 
+triangles and 3 squares of different sizes.
+Cut out copies of the puzzle pieces and arrange them in the two frames.
+Frames:
+o
+Continued on next page
+23
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+Is there more than one way to arrange the puzzle pieces into the two frames? What is the relationship 
+between the areas of the frames?
+What is the relationship between the areas of the three puzzle squares? What relationship between the 
+sides of the right-angled triangles is revealed by the two puzzles?
+3 
+What is the relationship between the sides of any right-angled triangle?
+The Pythagorean theorem
+For every right-angled triangle c2 = a2 + b2, 
+where c is the hypotenuse, and a and b are b 
+the other two sides. The hypotenuse is the 
+longest side and is opposite the right 
+angle.
+A
+\c
+■
+a
+ id you know?
+The Pythagorean theorem is named after the Greek mathematician 
+Pythagoras, who lived in the 6th century BC and is credited with the first 
+recorded proof of the theorem.
+The theorem was known to some cultures well before Pythagoras; the 
+ancient Egyptians knew about the 3-4-5 right-angled triangle (a triangle 
+with sides 3,4 and 5 units), and they knew howto measure a right angle by 
+stretching a rope with equally spaced knots. The Egyptian surveyors (called 
+“rope stretchers”) used knotted cords to make measurements for building 
+and restoring the boundaries of fields after the flooding of the River Nile.
+24
+
+1.5
+\
+If you know the lengths of two of the sides of a right-angled triangle you can 
+always determine the length of the third side.
+Example 12
+Calculate the length of [ AB ] in the right-angled triangle 
+A ABC, where CB = 15 cm and AC = 7 cm.
+7
+Using the Pythagorean theorem:
+AB2 + 72= 152
+AB =Vl 52 -72
+Rearrange to find AB.
+= 13.3cm (13.2666...)
+Remember to give the final answer to 3 sf unless 
+a different accuracy is specified in the question.
+\
+The converse of the Pythagorean theorem states: If for a triangle c2 = a2 + b2, 
+where a, b and c are its sides, then it must be a right-angled triangle.
+The converse of the Pythagorean theorem is also useful, as if you know the 
+three sides of a triangle you can determine whether the triangle has a right 
+angle or not.
+Example 13
+Determine whether or not a triangle with sides 6cm, 8cm and 9cm is a right-angled triangle.
+Is 92 = 62 + 82 true?
+Since 81 * 100 we conclude that this 
+triangle does not have a right angle.
+To determine whether a triangle with sides 
+6cm, 8cm and 9cm has a right angle, use 
+the converse of the Pythagorean theorem. 
+Check whether 92 = 62 + 82.
+Example 14
+Sam's vegetable garden is a triangle. His plan shows that the plot is a right-angled triangle. 
+Sam measures the sides of his vegetable garden as 17 m, 144 m and 145 m. Show that the 
+plot is indeed a right-angled triangle.
+Is 1452 = 1442 + 172 true?
+Since 21025 = 20736 + 289, Sam can 
+conclude that his plot is a right-angled 
+triangle.
+To determine whether his plot is a right- 
+angled triangle with sides 17 m, 144 m and 
+145 m, use the converse of the Pythagorean 
+theorem. Check whether 1452 = 1442 + 172.
+25
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+Did you know?
+The existence of irrational numbers is attributed to a Pythagorean, Hippasus 
+(5th century BC). He proved that the length of the hypotenuse of a right- 
+angled triangle with sides 1 and 1, is an irrational number.
+The irrational numbers are numbers that are not rational. And rational
+p
+numbers are numbers that can be written as a quotient — of two integers
+p and q, where q * 0. The legend claims that Hippasus was exiled for his 
+discovery of the irrational numbers.
+TOK
+Is it ethical that 
+Pythagoras gave his 
+name to a theorem that 
+may not have been his 
+own creation?
+1 Find the length of the unknown side in 
+each of the following right-angled triangles. 
+Round your answers to 1 dp.
+a a
+C 
+A
+2 Determine whether or not the triangles with 
+the following sides are right-angled triangles:
+a 9 cm, 40 cm, 41 cm 
+b 10 m, 24 m, 26 m
+C 10, 10, n/200 
+d 11.2, 7.5, 8.3
+3 The spiral in the figure is made by starting 
+with a right-angled triangle with both legs 
+of length 1 unit.
+a Find the hypotenuse of the first triangle. 
+Then, the second right-angled triangle is 
+built with one leg measuring 1 unit and the 
+other leg being the hypotenuse of the first 
+triangle.
+b Find the hypotenuse of this second triangle. 
+A third right-angled triangle is built on the 
+second triangle's hypotenuse, again with 
+the other leg measuring 1 unit.
+c Find the hypotenuse of the third triangle. 
+The process is continued in the same fashion 
+and the hypotenuse of the final triangle is 
+denoted by x. 
+d Find the length of x.
+4 A right-angled triangle has a hypotenuse of 
+8.2 cm and another side length of 4.3 cm. 
+Draw a diagram. Calculate the area of the 
+triangle. Give your answer correct to 1 dp.
+26
+
+1.5
+Investigation 10
+The right-angled triangles AABC and AADE shown in the diagram below are such that [CB] _L [AB], [ED] 
+_L [AD] and BAC = 30°. The lengths of the sides are AC = 15.0 cm, CB = 2.5 cm, AB = 13.0 cm,
+AE = 10.0 cm, ED = 5.0 cm and AD = 87 cm, given to 1 dp.
+C
+Diagram not to scale.
+A 
+D 
+B
+1
+2
+3
+4
+5
+6
+2
+8
+9
+10
+11
+Factual
+I For each side of AABC and AADE determine whether it is a hypotenuse, opposite to BAC 
+or adjacent to BAC. On your diagram, label each side of the two triangles with Opp, Adj or Hyp.
+Place each measure of the sides of AABC and AADE in the appropriate cell in the table.
+Opp
+Adj
+Hap
+Opp/Hyp
+Adj/Hyp
+Opp/Adj
+AABC
+AADE
+Calculate the ratios Opp/Hyp, Adj/Hyp and Opp/Adj for each triangle. Give your answers correct to 1 dp. 
+Place each ratio in the appropriate cell in the table.
+Compare the corresponding ratios for the two triangles. Write down your conclusions.
+The right-angled triangles AFGH and AFIJ shown in the diagram on 
+the right are such that [HG] J_ [FG], [JI] _L [FI] and GFH = 60°. 
+The lengths of the sides are FH = 15.0 cm, FG = 2.5 cm, FJ = 10.0 cm 
+and FI = 5.0 cm, given to 1 dp.
+Find the lengths of [HG] and [JI].
+Factual I For each side of AFGH and AFIJ, determine whether it 
+is a hypotenuse, opposite to GFH or adjacent to GFH. On your 
+diagram, label each side of the two triangles with Opp, Adj or Hyp.
+H
+Place each measure of the sides of AFGH and AFIJ in the appropriate cell of the table below.
+Calculate the ratios Opp/Hyp, Adj/Hyp and Opp/Adj for each triangle. Give your answers correct to 1 dp. 
+Place each ratio in the appropriate cell in the table.
+Opp
+Adj
+Hyp
+Opp/Hyp
+Adj/Hyp
+Opp/Adj
+AFGH
+AFIJ
+Compare the corresponding ratios for AFGH and AFIJ. Compare these ratios with the ratios that you 
+calculated for AABC and AADE. Is the conclusion different from the one you arrived at for triangles 
+AFGH and AFIJ? If so, how?
+CBIffTTflfTI What can you say about the ratios of corresponding pairs of sides in similartriangles? 
+How does changing the acute angles in the triangle affect the ratios of the sides?
+27
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+Trigonometric ratios
+Trigonometry (from Greek tricjonon, "triangle", and metron, "to 
+measure") studies relationships between sides and angles of triangles. 
+Astronomers in the 3rd century noted for the first time what you saw
+Adjacent Opposite
+in your investigation, that the ratios-----------------,-----—---------and
+Hypotenuse Hypotenuse
+Opposite
+Adjacent 
+acute angles.
+are constant for all right-angled triangles with the same
+TOK
+How certain is the 
+shared knowledge of 
+mathematics?
+The ratios of the sides of a right-angled triangle are called trigonometric 
+ratios. Three common trigonometric ratios are the sine (sin), cosine (cos) 
+and tangent (tan). These are defined for acute angle Ain the right-angled 
+triangle below:
+C
+Opposite
+B
+j Opposite
+sin A =---- —---------
+Hypotenuse
+- Adjacent
+cos A=--------------------
+Hypotenuse
+,an/i= Opposite 
+Adjacent
+In the definitions above, “Opposite” refers to the length of the side opposite 
+angle A, “Adjacent” refers to the length of the side adjacent to angle A, and 
+“Hypotenuse” refers to the side opposite the right angle.
+Some people use the mnemonic SOH-CAH-TOA, pronounced “soh-kuh-toh-uh”, 
+to help them remember the definitions of sine, cosine and tangent. The table 
+below shows the origins of SOH-CAH-TOA.
+Abbreviation
+Verbal description
+Definitions
+SOH
+Sine is Opposite over Hypotenuse
+? 
+Opposite
+sin A =----- —-----------
+Hypotenuse
+CAH
+Cosine is Adjacent over Hypotenuse
+* 
+Adjacent
+cos A - Hypotenuse
+TOA
+Tangent is Opposite over Adjacent
+* Opposite 
+tan A = Adjacent
+Reflect
+What are trigonometric ratios?
+28
+
+sin A = 
+A = sin
+A - 36.9°, correct to 3 sf.
+. ; Opposite
+sin A =---—----------
+Hypotenuse
+- Opposite
+Use sin A =-----------------. Once we know the
+Hypotenuse
+trigonometric ratio, we can calculate angle A 
+by using the sin-1 function on the GDC and
+finding sin-1 ^ j. Remember to give your
+answer to 3 sf unless otherwise specified.
+Adjacent
+Since we want to find the length of side
+cos FHG - Hypotenuse
+[GH] we use the cosine. We use
+GH
+cos 52 =----
+14
+ms f h c, = Adjacent
+Hypotenuse
+GH = 14 cos 52°
+We substitute the values for FHG and the
+= 8.62 cm (3 sf)
+hypotenuse in the cosine ratio and do the
+calculations.
+>
+If at least one side and one non-right angle are known in a right-angled 
+triangle, then all other angles and side lengths can be determined.
+29
+Example 16
+Shown here is the right-angled triangle AFGH, where 
+FH = 14cm, FHG = 52° and angle FGH = 90°. Find the 
+length of side [GH].
+1.5
+Example 15
+Find the size of >4 in triangle AABC, where angle ABC = 90°
+| V*J
+Number and algebra
+
+\
+Trigonometric ratios are very helpful in solving practical problems. Distances 
+which are inaccessible can be indirectly measured through use of 
+trigonometry.
+Investigation 11
+The distance between two landmarks A and B (trees or 
+other) cannot be measured directly as there is a building 
+standing between them. How could you find the distance 
+AB?
+Group work:
+1 Find two landmarks A and B (trees or other) such that 
+you cannot measure the distance between A and B dir 
+ectly. For example, there may be a building or a tall wall 
+between them and only the top of A is visible from B.
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+Example IP
+Emma is standing in front of a big tree. She measures her 
+distance from the tree as AB = 15 m. She also measures 
+A = 40°. Find the length BC. State what other information 
+Emma needs in order to calculate the height of the tree.
+AB = 15 m and A = 40°.
+tan 40° = —
+15
+CB = 15 tan 40°
+= 12.6m (3 sf)
+Note that to obtain the height of the tree 
+Emma will have to add to CB her height, 
+which is represented by EA and DB. 
+c
+A can be measured with an instrument 
+called a clinometer, as shown in the image 
+below.
+Straw
+View through 
+-here
+45°
+String and weight
+Use tan A -
+Opposite
+Adjacent
+30
+
+1.5
+2 
+Mark a line from B perpendicularto |AB] using 
+a piece of string.
+3 
+Mark two points C and D on this line. Stand 
+at point D, with your partner standing at point 
+C. Your partner now walks parallel to [AB] (or 
+perpendicularto [BD]) until you decidethat your 
+partner is directly between yourself and landmark 
+A. Mark this point F.
+4 
+Measure the lengths of [DB], [DC] and [FC].
+nu AM
+5 
+Calculate the length of [AB] from —- = —.
+DC FC
+Choose two different points for C and D, and repeat steps 3 to 5, this time swapping roles with your partner. 
+Did you get the same result for the distance between A and B when you chose different points for C and 
+D? Think of some sources of error in this experiment that may explain any differences you obtained. 
+How could you check whether the person at C indeed walked perpendicularly to [DB] in step 3?
+6 
+Now, measure ADB and use trigonometric ratios to find the distance AB. Can you find AB by using 
+different trigonometric ratios? If so, calculate AB twice. Did you get the same result for AB?
+What might be some sources of error in finding AB using trigonometric ratios?
+7 
+Compare the values for AB found in parts 5 and 6. Which of the two methods do you think produces a 
+more accurate result for the distance AB? Why?
+Could you think of other methods to find the distance AB indirectly?
+8 
+What kind of real-life questions can be answered by using trigonometric ratios?
+1 Determine the length of the unknown sides 
+for each of the right-angled triangles below:
+b
+2 A ladder [KM] is 8.5 m long. It leans against 
+a wall so that LKM = 30°and AKLM is a 
+right-angled triangle.
+M
+31
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+a Find the distance KL. 
+b Find how far up the wall the ladder 
+reaches.
+c The instructions for use of the ladder 
+state that it should not lean against 
+a wall at more than 55°. Find the 
+maximum height up the wall that the 
+ladder can reach.
+3 A hiker, whose eye is 1.6 metres above 
+ground, stands 50 metres from the base of 
+a vertical cliff. The angle between the line 
+connecting her eye and the top of the cliff 
+and a horizontal line is 58°. 
+a Draw a diagram representing the 
+situation.
+b Find the height of the cliff.
+Developing inquiry skills
+Imagine that you are standing at point B, which is the length of [BD] 
+above the ground.
+International 
+mindedness
+The word “sine” 
+started out as a totally 
+different word and 
+passed through Indian, 
+Arabic and Latin before 
+becoming the word that 
+we use today.
+Which line segment in AABC do you think represents your line of sight 
+to the horizon?
+Why do you think AABC is a right-angled triangle?
+Assume thatthe radius of the Earth is 6370 km.
+How can you use what you have learned in this section to calculate the 
+distance to the farthest object that you can see?
+a If BD = 10 m, what would be the distance to the farthest object 
+that you can see?
+b If BD = 382 m, what would be the distance to the farthest object 
+that you can see?
+c Write an expression that represents the distance to 
+the farthest object you can see, if BD = h km.
+What other assumptions are you making?
+32
+

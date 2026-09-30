@@ -1,0 +1,825 @@
+0123456789 10 11 12 
+Month
+4 Develop a model
+Maria graphed her data using technology 
+and noticed the data resembles a sinusoidal 
+function with a period of 12 months. She then 
+applied the knowledge you learned in the 
+previous section to calculate the parameters:
+, ,„a»-min = 15.5--47 
+11 2 2
+12
+^ _ max + min _ 15.5+ -47 _ | 5 
+2 ~ 2
+11.3"**^^
+11.3 A world of sinusoidal models
+In this section you will apply your knowledge and understanding of 
+periodic functions to explore whether a certain context can be modelled 
+by a sinusoidal function. As an example, consider the following:
+1 Situation: Maria is planning an ecosystems trip to Verkhoyansk, 
+a Russian town near the Arctic Circle, in order to study the 
+permafrost. She knows that Verkhoyansk has a very cold climate 
+and that the temperatures vary greatly.
+2 Problem: To aid her planning, Maria wants to predict:
+a At what times in the year does the temperature change fastest? 
+This has implications for the clothing she needs to pack.
+b At what dates will the temperature be between -20°C and 
+-5°C? This has implications for the design of her experiments.
+3 Data: Maria gathered this data from the internet:
+Month
+Average temperature, #C
+1
+-4?
+2
+-43
+3
+-30
+4
+-13
+5
+2.4
+6
+12.9
+?
+15.5
+8
+11.1
+9
+2.5
+10
+-14.5
+11
+-35.9
+12
+-42
+TOK
+Sine curves model 
+musical notes and the 
+ratios of octaves. Does 
+this mean that music is 
+mathematical?
+511
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+5 Test the model using technology
+Maria notices that the data follows the orien 
+tation of a cosine graph reflected in the x-axis 
+so she proposes that y = -31.25cos(30x) - 15.75 
+would be an appropriate model and she tests it 
+with technology.
+Maria reflects on the fact that the model seems 
+to be the correct shape but not in the correct 
+position. She then remembers that the maximum 
+value of cos x occurs at x = 0; however, her data 
+set starts at x= 1.
+So Maria represents January with x = 0,
+February with x= 1 and so on in order 
+to make the function easier to apply.
+Finally, Maria is satisfied with her 
+model.
+6 Apply the model
+a From the graph, Maria sees that 
+between the x-coordinates of 2 
+and 4 the gradient of the graph 
+increases by approximately 15°C per 
+month and between 8 and 10 there 
+is a decrease of approximately 1 5°C per month. So, during 
+the periods March-May and September-November she can 
+expect considerable changes in temperature and needs to pack 
+accordingly.
+b Allowing for the x-axis starting at 0, Maria can 
+estimate that between 3.74 and 4.67 months the 
+temperatures will be between -20°C and -5°C.
+Since
+0.74 x 31 « 23 and 0.67 x 30 « 20
+this corresponds to the dates 23 March and 
+20 April. Similarly, 9.33 and 10.26 correspond 
+to 10 September and 8 October.
+Reflection
+The data used represents average monthly temperature. Therefore, the 
+predictions cannot be considered any more precise than an average 
+is, even if the graph of the function fits the data well. As a consequence, 
+the dates found are only guidelines. The advantage of this model 
+lies in simplicity not precision. Maria could more reasonably focus her 
+planning on the end of March and April and the start of September and 
+October than on precise dates.
+512
+
+Investigation 4
+Aim: Collaborate to create a world map annotated with temperature graphs 
+across different latitudes and longitudes in order to look for patterns, practise 
+the modelling process and considertemperature data in a global perspective. 
+Three longitudinal lines for 80CW, 20°E and 110°E have been added to this 
+map of the world in order to guide the sample of temperature data from large 
+vertical landmasses. Pick one or more lines.
+80°W 
+20°E 
+110°E
+In a group, choose cities close to your line with a wide range of latitudes. For 
+example, Ushuaia is the most southerly city in the world and Quito is very 
+close to the equator. Choose one city each and follow the steps 3,4 and 5 of 
+Maria's permafrost example.
+Then apply the model to predict a the temperature in your chosen city on 31 
+October this year; b the temperature in your chosen city on your 40th birthday.
+1
+Factual
+Which of a and b is a more valid answer and why?
+Collaborate: Collect all your graphs together in order to look for patterns in 
+temperature data models in relation to latitude. Use technology to create a 
+presentation of a sequence of temperature graphs to present to your peers.
+2 bfr t h u mb In which longitudes does the sinusoidal model fit best? Are 
+there any cities in which the sinusoidal model is less useful? What factors 
+influence the data apart from latitude?
+Factual
+How does latitude affect the amplitude, period and principal 
+axis of the models?
+Factual I When using technology to present a sequence of functions, is it 
+always best to use the window chosen by default by the device? Explain 
+your answer.
+When using technology, how does the choice of viewing 
+window affect your ability to communicate patterns effectively?
+6 Which natural phenomena can you think of that could be modelled by 
+sinusoidal functions?
+11.3^^
+TOK
+Trigonometry was 
+developed by 
+successive civilizations 
+and cultures.
+To what extent is 
+mathematics a product 
+of human social 
+interaction?
+Developing 
+your toolkit
+Now do the 
+Modelling and 
+investigation 
+activity on page 
+520.
+513
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+X
+10
+11
+12
+13
+14
+15
+16
+12
+18
+19
+20
+y
+13.4
+11.2
+8.3
+5.2
+4.1
+5.2
+8.5
+11.8
+12.2
+11.5
+8.3
+b Find a model for the data using a function of the form y = asin(bx) + d.
+2 a This data set represents water depth measurements at the mouth of a harbour. Tis 
+measured in hours from midnight and d in metres. Plot the data set.
+T
+0
+1
+2
+3
+4
+5
+6
+2
+8
+9
+10
+11
+12
+d
+10
+9.68
+8.55
+2
+5.45
+4.32
+4
+4.32
+5.45
+2
+8.55
+9.68
+10.1
+b Show that a sinusoidal function models this data.
+c Sam's boat needs the water to be at least 6 m deep in order for it to safely enter the
+harbour. Predict the range of hours between which he can sail in and out of the harbour.
+3 a This data set represents measurements of part of a sound wave. Time, t, is measured in 
+seconds and D in decibels. Use technology to plot the data set.
+t
+0
+1.5x10 4 3x10 4 4.5 xlO4
+GxlO'4
+P.5 x 10 4 9x10 4 0.00105
+0.0012
+0.00135
+D
+0
+0.4029
+0.2325
+0.9421
+0.9961
+0.8263
+0.6029
+0.2365
+-0.125 -0.5569
+b Find a model for the data using a function of the form 
+y = a sin(bx) + d.
+c Hence predict the decibels of the sound alter 0.00011 seconds, 
+d Hence predict the decibels of the sound after 0.002 seconds.
+e Comment on which of your answers to c and d are more reliable, giving a reason for your 
+answer.
+4 Pam is researching old steam engines. The following diagram shows a representation of a 
+mechanism she is exploring.
+AB is fixed at 2.4m and BD is fixed at 7.7m. D can move only horizontally back and forth as 
+B moves anticlockwise around the circle. AD is the distance from the point D to the centre of 
+the circle, a is the angle DAB.
+The following data is collected.
+a
+1.06
+12.2
+18.2
+26.6
+45.9
+22.1
+100
+149
+124
+196
+224
+252
+222
+295
+AD
+10.1
+10.0
+9.94
+9.22
+9.12
+8.10
+6.91
+5.54
+5.31
+5.32
+5.29
+6.61
+2.62
+8.38
+514
+
+11.3
+a Suggest and investigate a sinusoidal model for the data.
+Pam realizes that the context can be represented in another way:
+b Calculate AD in terms of the angles a and j3 and the lengths of AB and BD, using the cosine rule, 
+c Hence or otherwise comment critically on the fit of your model.
+5 The times of sunrise and of sunset in 
+Reykjavik, Iceland, on the 1st of each 
+month are represented in this table using 
+hours and minutes.
+Month (/)
+Rise
+Set
+0
+11.20
+15.42
+1
+10.09
+1?.13
+2
+8.3?
+18.43
+3
+6.4?
+20.16
+4
+5.01
+21.49
+5
+3.24
+23.2?
+6
+3.05
+23.5?
+?
+4.34
+22.34
+8
+6.09
+20.4?
+9
+?.35
+19.00
+10
+9.09
+1?.13
+11
+10.44
+15.49
+a Calculate the times in decimal notation.
+Explain why this is necessary, 
+b Find sinusoidal models for sunrise r(t) 
+and for sunset s(t).
+c Draw the graph of d(t) = s(t) - r(t), hence 
+estimate:
+i 
+the number of days in the year with 
+at least 18 hours of daylight
+ii the fraction of a year with at least 12 
+hours of daylight but no more than 18.
+6 Karim collects sunrise data for Cairo 
+on the 15th of each month from www. 
+sunrisesunset.com and represents them in 
+this table as decimals.
+Month (t)
+Rise
+0.5
+6.8?
+1.5
+6.58
+2.5
+6.08
+3.5
+5.48
+4.5
+5.03
+5.5
+4.88
+6.5
+5.0?
+?.5
+5.3?
+8.5
+5.65
+9.5
+5.95
+10.5
+6.33
+11.5
+6.?2
+a Find a sinusoidal model for the sunrise r(t). 
+b Karim wishes to take time-lapse
+photographs at the Pyramid of Cheops on 
+the Giza Plateau on the outskirts of Cairo. 
+He wants to arrive there at least one hour 
+before sunrise to set up his equipment and 
+to capture a range of images as the sun 
+rises. However, he does not want to arrive 
+any earlier than 5.00am. Predict from your 
+model between which dates he can arrive.
+515
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+2 Zaida analyses the motion of a circular fan in order to calculate the speed at which it rotates. 
+She places a coloured dot on one of the fan blades as shown and tracks its position with 
+video tracking software, placing the origin at the centre of the fan. Zaida's laptop runs out of 
+memory; however, she manages to collect the data shown:
+Time (t) in secs
+y-coordinate of 
+green dot (cm)
+0
+0
+0.01
+15
+0.02
+25.98026211
+0.03
+30
+0.04
+25.98026211
+0.05
+15
+0.06
+3.6P5 x 10“15
+a Find a model of the y-coordinate of the green dot as a function of time, 
+b Hence calculate the speed of the fan.
+Chapter summary
+• Periodic functions help you to model a set of data in the special case where there is a repeating 
+pattern of identical y-values.
+• The period of the function is the length of the shortest 
+interval for which the function values when repeated give 
+the entire graph.
+• Two examples of periodic functions aref(x) = sin x and 
+g(x)=cos x. They both have range -1<y< 1 and are 
+examples of sinusoidal functions. Both have period 360°.
+• 
+In a sinusoidal function with range min <y < max,
+. 
+. 
+, 
+. 
+... 
+min + max
+the principal axis is the line y =-----------------and the
+amplitude is the vertical distance from this line to any 
+turning point of the function, as shown in this example.
+• The graph offy(x) = 3 cos(2x) + 1 shown here has 
+maximum value 4 and minimum value -2. Its principal 
+axisy= 1 is shown by f4(x) = 1. The amplitude is 
+represented by the segment AB which has length 3 units.
+The period of/3(x) is 180°.
+• The parameters a, b and d in the functions f(x) =asin(bx)
++ d and^(x) = a cos(bx) + d enable you to predict the 
+amplitude, period and principal axis respectively.
+• 
+To apply a sinusoidal model of the form f(x) =as\n(bx) +
+d orcj(x) = a cos (bx) +d to a data set, the amplitude, period 
+and principal axis must be estimated from the data.
+516
+
+11
+Developing inquiry skills
+Return to the opening problem. You were given a graph showing the 
+average monthly temperature for Riga compiled over a period of 
+two years and a graph showing the number of babies born on each day 
+of June 1978 in the USA.
+Now that you have learned about sinusoidal models, you can reflect on 
+the fact that a sinusoidal model fits only one of these sets of data well. 
+Which one?
+Why is that?
+What kind of phenomena can be modelled by periodic functions?
+What kind of phenomena can be modelled by sinusoidal models?
+Chapter review
+Click here for a mixed 
+review exercise
+1 Solve the equation -0.4 cos t +1 = 1.3 where 
+301° <t <700°.
+a{x) =f{x) xg(x), b(x) =f(x) +g(x), 
+c(x) = f(g(x)) and d(x) = g(f(x)).
+2 For the following graphs, find the equation 
+of the function.
+3 
+4J
+1
+y
+4
+X
+AAA
+-4
+b 4 i
+1
+AAA
+<y
+-360 
+' 
+' 0
+-4
+c 
+^^
+i
+/ 90 
+' m
+yV 
+5
+X
+-360 
+' 
+' 0
+-4
+Given f(x) = 3x and
+90 
+360
+g(x) = -2cosx, consider
+the functions
+Find the period, amplitude and equation of 
+the principal axis for any of these functions 
+that are periodic.
+The graph of a sinusoidal function/(x) on the 
+domain [-360°, 360°] is shown below.
+There is a maximum at (270, 3) and a 
+minimum at (180,-1). 
+a Find the equation of the function.
+b The equation f(x) = [i has exactly five 
+solutions. Find the value of fi.
+A water wave passes a sensor in a physics 
+laboratory. As the wave passes, the depth of 
+the water in metres (d) after time t seconds 
+is modelled by the function 
+d= 18.3 - 0.47cos(20.9/). 
+a What are the maximum and minimum 
+values of d?
+b Find the first time after 19 seconds at 
+which the depth is 18 m.
+517
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+6 Teodora examines old photos of the Neue 
+Elbbriicke bridge in Hamburg. She finds 
+out that the three sections shown are 
+each 102 m long and she estimates that 
+the vertical distance from the surface of 
+the road to the top of the bridge is 16 m 
+and that the road is 6 m above the river. 
+She uses this information to model the 
+bridge with functions as shown below:
+a Find a sinusoidal model of the bridge 
+and draw a diagram like Teodora's.
+b Hence or otherwise find an estimate for 
+the coordinates of the points shown.
+Exam-style questions
+? PI: Consider the curve given by the
+■ /
+equation y = 4.1 + 2.3cos :
+^ •
+a Find the minimum and maximum 
+values for y. 
+(2 marks)
+b Find the first two positive values of x
+for which 2.5 = 4.1 + 2.3cos
+(3 marks)
+PI: The following shows a portion of the 
+graph of y = p + qcos(rx).
+9 
+PI: A sinusoidal function is given by the
+L equation y = 20sin (4x) for 0° < x < 180°.
+a Sketch the graph ofy =/(x). (3 marks) 
+b State the equation of the principal 
+axis of the curve. 
+(1 mark)
+c Using technology, solve the
+inequality/(x) < -5. 
+(4 marks)
+10 PI: The following diagram shows a sinusoidal 
+h curve of the form y = ps\n(qx + r).
+Determine the values of the constants 
+p, q and r. 
+(8 marks)
+11 PI: A sinusoidal wave is given by the 
+im equation y = 5.7 + 0.3cos( 12.5x).
+a Write down the amplitude of the 
+wave. 
+(1 mark)
+b Find the minimum value of y and first 
+the value of x for when this occurs.
+(3 marks)
+c Find the period of the wave. (2 marks)
+Determine the values of the constants 
+p, q and r. 
+(6 marks)
+12 PI: Below is a portion of the graph of 
+Li y = p ~ 4sin(rx) (p > 0,q > 0, r > 0).
+518
+
+11
+a On the same axes, sketch the graph 
+of y = p + ^s\n(rx) 
+(2 marks)
+b Determine the values of the
+constants p, q and r 
+(7 marks)
+13 PI: A sinusoidal curve y = a + bs\n{cx) (a > 0, 
+m b > 0, c> 0) has two concurrent
+maximum points at coordinates (60°, 5) 
+and (300® 5).
+Given that it also has an amplitude of 
+2 units, determine the values of a and b, 
+and determine the least possible value 
+of c. 
+(8 marks)
+14 P2: Over the course of a single December 
+h day in Limassol, Cyprus, the highest
+temperature was found to be 22°C. The 
+lowest temperature was 12°C, which 
+occurred at 03.00am
+If t is the number of hours since 
+midnight, the temperature T may 
+be modelled by the equation 
+T = As\n(B(t - Q) + D. 
+a Find the values of A, B, C and D.
+(9 marks)
+b Hence, by using technology, find 
+for how many hours the daily 
+temperature was above 20°C.
+(4 marks)
+519
+Functions
+
+Modelling and investigation activity
+The sound of 
+mathematics!
+Approaches to learning: Research, Critical 
+thinking, Using technology 
+Exploration criteria: Mathematical commu 
+nication (B), Personal engagement (C), Use 
+of mathematics (E)
+r----------------------------------------------------------------------------------
+Brainstorm
+In small groups, brainstorm some ideas that link music and mathematics. 
+Construct a mindmap from your discussion with the topic “MUSIC" in the centre. 
+Share your mindmaps with the whole class and discuss.
+This task concentrates on the relationship between sound waves and 
+trigonometric functions.
+Research
+Research how sound waves and trigonometric 
+functions are linked.
+Think about:
+How do vibrations cause sound waves?
+How do sound waves travel?
+What curve can be used to model a sound wave?
+The fundamental properties of a basic sound wave are
+its frequency and its amplitude.
+What is the frequency of a sound?
+What units is it measured in?
+What is the amplitude of a sound?
+520
+
+11
+Use what you studied in this chapter to answer these questions:
+If you have a sine wave with the basic form y = a sin(bt), where t is 
+measured in seconds, how do you determine its period, frequency and 
+its amplitude?
+What do the values of a and b represent? What doesy represent in 
+this function?
+With this information, determine the equivalent sine wave for a 
+sound of 440 Hz.
+Technology
+There are a large number of useful programs that you can use to 
+consider sound waves.
+Using these programs it is possible to record or generate a sound and 
+view a graphical representation of the sound wave with respect to time. 
+If you have a music department in your school and/or access to such a 
+program, you could try this.
+Design an investigation
+Using the available technology and the information provided here, 
+what could you investigate and explore further?
+What experiment could you design regarding sounds?
+Disucss your ideas with your group.
+What exactly would be the aim of each investigation, exploration or 
+experiment that your group thought of?
+Select one of the ideas in your group and plan further.
+What will you need to think about as you conduct this exploration? 
+How will you ensure that your results are reliable?
+How will you know that you have completed the exploration and 
+answered the aim?
+Did you know?
+This is in fact the sine wave 
+equation for the note A.
+Extension
+Trigonometric functions also occur in many other areas 
+that aid your understanding of the physical world.
+Some examples are:
+• temperature modelling
+• tidal measurements
+• the motion of springs and pendulums
+• the electromagnetic spectrum.
+They can be thought of in similar terms of waves with 
+different frequencies, periods, amplitudes and phase 
+shifts too.
+Think about the task that you have completed here and 
+consider how you could collect other data that can be 
+modelled using a trigonometric function. You could use one 
+of the examples here or research your own idea.
+521
+Modelling and investigation activity
+
+Analyzing rates of change: 
+differential calculus
+Calculus is a mathematical tool for studying 
+change. This chapter will focus on differentiation, 
+which looks at how quickly one variable is 
+changing with respect to another.
+Change is all around us. Examples in physics 
+include change of position, velocity, density, 
+current and power; in chemistry we have 
+rates of reaction and in biology the growth of 
+bacteria; in economics rates include marginal 
+cost and profit; in sociology we might want to 
+measure the speed at which a rumour spread or 
+periodic changes in fashion. All of these can be 
+applications of differentiation. But how do we go 
+about measuring these changes?
+Concepts
+■ Change
+■ Relationships
+Microconcepts
+■ Limit
+■ Rate of change
+■ Derivative
+■ Increasing and decreasing functions
+■ Related rate of change
+■ Tangent line
+■ Normal line
+■ Local maximum and minimum
+V_______ _________
+How much should a new car cost?
+How fast can an athlete throw 
+a javelin?
+How can a trader determine 
+whether profit margins are 
+increasing or decreasing?
+How fast can a signal travel 
+along a fibre-optic cable?
+
+A firm conducts a survey in order to find the 
+optimum price for a new product. The results 
+are shown in the table:
+Price (US$.v)
+Percentage who would 
+buy at this price (d)
+5
+68
+10
+55
+15
+43
+20
+33
+25
+22
+30
+14
+35
+8
+40
+4
+The firm decides that a demand equation is needed to model these
+results. Two models are suggested: a power model of the form d - -x
+and an exponential model of the form d = a(c)x.
+• Plot the data on your GDC.
+• Explain why these two models might be suitable.
+• Find best fit equations for each of the models.
+• The business would like to maximize its profit. What other 
+information would it need?
+• If this information were available, how might you work out the 
+maximum value of a profit function?
+• The marketing team have a model that links extra demand with 
+the amount of money spent on advertising. How can this be 
+incorporated into your model?
+Developing inquiry skills
+What other information might you need to work out the profit?
+What could the company do in orderto persuade more people to buy the 
+product?
+How might this affect the model?
+Think about the questions in this opening problem and answer any 
+you can. As you work through the chapter, you will gain mathematical 
+knowledge and skills that will help you to answerthem all.
+523
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+Before you start
+Skills check
+Click here for help 
+with this skills check
+You should know howto:
+1 Expand brackets
+For example, expand and simplify 
+(2x - 3)(x + 4)
+= 2x2 + 8x- 3x- 12 
+= 2x2 + 5x- 12
+2 Find the equation of a line
+eg Find the equation of the line with 
+gradient 5 passing through the point
+(2, 1).
+1 = 5(2) + c 
+c = -9 y = 5x - 9
+3 Find the area and volume of solids
+eg Find the curved surface area and 
+volume of a cylinder with radius 3 cm and 
+height 5 cm.
+Curved area = 2n x 3 x 5 = 94.25 cm2 
+Volume = n x 32x 5 = 141.4 cm3
+4 Laws of indices 
+eg
+5 Find maximum and minimum values of a 
+function using your GDC 
+eg Find the coordinates of the maximum 
+value of y = x3 - 8x2 + 15x
+Maximum
+x-1.2136971 y-8.2088207
+(1.21, 8.21)
+1 Expand the following: 
+a (x - 5) (3x + 2) 
+b x(2x - 1 )(3x + 5)
+2 Find the equation of the line perpendicular 
+to the line y = 2x - 3 and passing through 
+the point (3, 4).
+3 Find the total surface area and the volume 
+of a cone with radius 4 cm and vertical 
+height 6 cm.
+4 Simplify the following:
+5 Find the minimum value of 
+y = x4- 5x3 - 4x2 + 20, 0 < x < 2
+524
+

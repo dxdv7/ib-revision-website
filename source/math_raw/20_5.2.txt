@@ -1,0 +1,813 @@
+The cost of renting a car is given by the 
+formula C(k) = 150 + 5k, where C is the cost 
+in dollars and k is the distance travelled in 
+kilometres from the pick-up point, 
+a Find the cost of renting the car for 
+30 km.
+b Find C(72).
+A group of friends rent a car and pay 
+$1275. They go to Reyes, a village which is 
+k kilometres from where they pick up the 
+car.
+c Determine the distance between Reyes 
+and the pick-up point.
+The velocity v ms-1 of a moving body at 
+time t seconds is given by v(t) = 50 - St. 
+a Calculate v(0) and explain its meaning, 
+b Find the velocity of the body after 
+2 seconds.
+c Find the time at which the velocity is 
+15.6 ms-1.
+d Determine the time when the body 
+comes to rest.
+International 
+mindedness
+What is the relationship 
+between real-world problems 
+and mathematical models?
+5.2 Linear models
+Investigation 5
+1 In a chemistry experiment, a liquid is heated and its 
+temperature observed. The graph shows the temperature 
+of the liquid, T°C, t minutes after the experiment starts, 
+up to the end of the experiment.
+Describe how the temperature changes throughout the 
+experiment. How much does Tchange for every one- 
+minute increase in t?
+This is the rate of change of Twith respect to t.
+2 In another experiment a liquid is being cooled and its 
+temperature observed. The graph shows the temperature 
+of the liquid, T#Cf t minutes after the experiment starts, 
+up to the end of the experiment.
+Describe how the temperature changes throughout the 
+experiment. What is the rate of change of Twith respect 
+to t?
+3 Consider these linear functions:
+f(x) = 2x+ 1 
+g(x)=-3x+2
+h{x) = 3
+... ® 66
+OJ
+LO
+221
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+For each function:
+a What is the rate of change of the dependent variable with respect to the independent variable? 
+b When the independent variable increases, what is the behaviour of the dependent variable? 
+Now complete the table:
+Linear function
+Graph of the 
+function
+Rate of change of dependent 
+variable with respect to 
+independent variable
+As the independent 
+variable increases, the 
+dependent variable ...
+f(x) = 2x+ 1
+g(x)=-lx+2
+5
+ii
+'OJ
+4 CfliffyiTOl How is the rate of change of the dependent variable represented on the graph and in the 
+function?
+5 
+What does the gradient of a linear function represent?
+6 H.l.UJ.UIMI When the rate of change is negative, what happens to the dependent variable as the 
+independent variable increases?
+\
+A linear model has the general form/fx-) = mx+c, where m and c are constants. 
+The graph of a linear model is therefore a straight line. Recall that m is the 
+gradient of the line and cis they-intercept.
+Note that not all processes have a constant rate of change, but when they do 
+they can be modelled with a linear function.
+\
+The rate of change of a function is the increase/decrease in the dependent 
+variable for every unit by which the independent variable increases.
+\
+An increasing linear function has a positive rate of change. A decreasing 
+linear function has a negative rate of change.
+Example 6
+In a chemistry experiment, a liquid is heated 
+and its temperature observed. The graph shows 
+the temperature of the liquid, T°C, t minutes 
+after the experiment starts, up to the end of the 
+experiment.
+a Stale the length of the experiment, 
+b Estimate the initial temperature of the 
+liquid.
+c Estimate the rate of change of the 
+temperature of the liquid, 
+d Suggest a formula to model the variable T in 
+terms of t.
+222
+
+' A different chemistry experiment lasts 8 minutes. A liquid is heated and its temperature rises 
+at a constant rate. The initial temperature of the liquid is 40°C and the final temperature is 
+320°C.
+e Find the formula for 7in terms of t for this experiment.
+a 10 minutes
+b 20°C
+c 30°C per minute
+d 7=30f + 20
+e 7=35r + 40
+The graph shows the temperature up to the end of 
+the experiment, so the experiment lasts 10 minutes.
+This can be read off the graph by looking at the point 
+at which t = 0 (ie the start of the experiment). The 
+point (0,20) is the 7-intercept of the graph.
+The rate of change is the same as the gradient of the 
+line. The line passes through the points (0,20) and
+80-
+(2,80), so the gradient is m = —^ = ^ = 30. 
+2-0 2
+From the graph this is clearly a linear model, so it 
+has the form 7 = mt + c. You found c in part b and m 
+in part c.
+If the temperature rises at a constant rate then the 
+process can be represented by a linear model, so 
+7 = mt + c.
+We are told that when t = 0, 7 = 40, and also that 
+when t= 8, T= 320. Therefore the points (0,40) and 
+(8, 320) both lie on the graph of this function.
+From the first point, c= 40.
+Method 1:
+Use the gradient formula.
+320-40
+m =----------
+8-0
+Method 2:
+= 33.
+Substitute the point (8, 320) into the equation 
+7 = mt + 40.
+320 = 8m + 40, so m = 35.
+We have seen in Example 6 that the same function, f(x) =mx + c, has 
+been used to model two different situations. When the experiment 
+changes, the formula changes.
+The variables in this formula are x, the independent variable, and f(x) 
+or y, the dependent variable.
+In the equation, m and care constants. However, for each different 
+situation, the values of m and c may be different. They are called
+parameters.
+To define a linear function you need to know the values of the two 
+parameters m and c.
+... ® 66
+OJ
+LO
+223
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+Reflect
+In Example 6, what is the value of cin the model in part d? What does 
+this represent on the graph and in the context of the experiment?
+In Example 6, what is the value of m in the model in part d? What does this 
+represent on the graph and in the context of the experiment?
+How do the parameters m and c of a linear model help us to interpret the model? 
+How are variables different from parameters?
+Example ?
+A water tank drains at a constant rate. It contains 930 litres of water 3.5 minutes after 
+it started to drain. It takes 50 minutes for the tank to empty. Let W be the amount of 
+water in the tank (in litres) t minutes after it started to drain.
+a Find a model for W(t), the amount of water in the tank at any time after it started to 
+drain. Write down the rate at which the water tank is emptying, 
+b Write down the amount of water in the tank when it starts to drain, 
+c Use your model to find the amount of water in the tank after 30 minutes.
+a W(t) = -20f + 1000
+The tank drains at 20 litres per minute.
+b 1000 litres 
+c 400 litres
+If the tank drains at a constant rate then the 
+amount of water can be modelled by a linear 
+function:
+W(t) = mt + c 
+(1)
+The information given can be displayed as 
+follows:
+Time
+(t minutes)
+Amount of
+water 
+(kV litres]
+Point on the graph 
+of the function
+3.5
+930
+(3.5,930)
+50
+0
+(50,0)
+Substituting each point into equation (1) 
+gives:
+3.5m + c= 930 
+50m + c = 0
+Technology can be used to solve these 
+simultaneous equations.
+This gives m = -20, c = 1000.
+The rate at which the tank drains is given by m.
+When it starts to drain, t = 0.
+Substitute t= 30 into the formula:
+W(30) = -20 x 30 + 1000 = 400
+224
+
+Reflect
+Describe the steps involved in finding the equation of a linear 
+function using technology.
+When can we use a linear function to model a real-life situation?
+Why is a model useful?
+Does a graph without 
+labels have meaning?
+1 State which of the following are linear 
+functions.
+a f(x) = 3
+c h(x) = — + 3 
+x
+b = 5-2x 
+d t(x) = 5(x - 2)
+2 For each context in a-d below:
+i Identify the independent and 
+dependent variables and their units, 
+where appropriate.
+ii Determine whether a linear function 
+can be used to model the relationship 
+between the two variables, and if so, 
+state the rate of change.
+Parking at an airport is charged at $18 
+for the first hour parked and $12.50 for 
+each subsequent hour.
+The population of fish in a lake declines 
+by 7% each year.
+Italy charges a value-added tax (VAT) of 
+22% on all purchases. The amount of 
+tax you pay depends on the amount of 
+your purchase (in euros).
+Sal's Ski Resort notices the following 
+trend in sales of daily passes:
+Daily high 
+temperature (°C)
+-4
+-1
+3
+?
+Number of daily 
+passes sold
+430
+406
+374
+342
+a State whether these linear functions are 
+increasing, decreasing or neither.
+i f(x) = l+4x 
+ii g(x)=-2 + 0.5x
+iii h(x) = 3 - x 
+iv s(x) = -1
+b Sketch the functions from part a. Show 
+clearly their intersections with the axes. 
+(The intersection with the x-axis occurs 
+when y = 0; the intersection with the 
+y-axis occurs when x = 0.)
+The table shows values for a function
+y=f(*)-
+X
+1
+3
+5
+?
+y=f(x)
+2
+6
+10
+15
+Determine whether or not the function 
+defined in the table is linear.
+The table shows some values for a linear 
+function f(x) = mx + c.
+X
+1
+3
+5
+7
+X
+II
+2s
+5
+6.5
+b
+9.5
+a Write down the value of b. 
+b Find the value of m. 
+c Find /(0).
+A school had 1000 students in 2016 and 
+1150 students in 2019. The number of 
+students in the school has been increasing 
+at a constant rate since 2015. Assuming that 
+this continues to happen:
+a Find a model for N(t), the number 
+of students at the school t years after 
+2015.
+b Determine the number of students at the 
+school in 2015.
+A linear function f is such that /(1) = 5 and 
+/(5) = 1.
+a Find the formula for the function /. 
+b Find/(-3).
+... ® 66
+OJ
+LO
+225
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+8 The graph shows the velocity v of a moving 
+body, in metres per second, at time t 
+seconds.
+Write down the initial velocity of the 
+moving body.
+After how many seconds does the body 
+stop moving?
+Find the rate of change of the velocity 
+with respect to time.
+Find a model for v(t).
+\
+In a relationship between two variables, if one variable is a constant multiple 
+of the other then they are said to be directly proportional.
+Investigation 6
+1 For each of the following functions:
+i Find its formula, ii Sketch its graph on an appropriate domain, 
+a The circumference C of a circle in terms of its radius r.
+b The number of pounds in weight, p, relating to a weight in kilograms, k. 
+Note that 1 kg is equivalent to 2.2 pounds.
+c The price P you pay in Happy Shop in terms of the regular price R if 
+there is a sign that says “Today you pay 15% less for every single item".
+d The volume of a certain type of wood in terms of the weight:
+Volume (V dm3)
+1
+2
+3
+Weight (Wkg)
+0.9
+1.8
+27
+2 What can you say about the relationship between the variables involved in 
+each of the situations in part 1?
+3
+4
+5
+What can you say about the graphs of these functions?
+What is the form of the formula for each graph?
+h .i.uj .uiui What type of graph represents two variables in direct 
+proportion?
+A linear model with formula y = mx relates two variables, x and y, that are in 
+direct variation (proportion).
+• 
+The graph has a y-intercept of 0.
+y
+• 
+The gradient is the constant of proportionality, m = —, for any point
+x
+(x,y) on the graph.
+226
+
+This type of linear model is used in conversion graphs.
+Example 8
+This is a conversion graph from pounds to 
+kilograms.
+Use the graph to convert 20 pounds into 
+kilograms.
+Find the number of kilograms equivalent to 
+1 pound.
+Hence, write down the gradient of this line. 
+Find a model for k(x), where k(x) is the 
+number of kilograms and x is the number of 
+pounds.
+Use your model to convert: 
+i 17 pounds into kilograms
+ii 25 kilograms into pounds.
+a 9 kg
+b 1 pound = 0.45 kg
+c m = 0.45
+d k(x) = 0.45*
+e i 7.65 kg 
+ii 55.6 pounds
+Reading off from the graph: when 
+x= 20, k = 9.
+Kilograms 5
+Reading off from the graph, the answer 
+would be a little less than 0.5.
+Looking for greater precision, it is clear 
+that as the graph is a line that passes 
+through the origin, the variables are directly 
+proportional.
+Let p be the value we are looking for.
+Both (20,9) and (1 ,p) lie on this graph, so 
+9 p
+— = - = p, and so p - 0.45.
+20 1
+The gradient of the line is 0.45 (the 
+constant of proportionality).
+The equation is of the form k = mx, and 
+m = 0.45.
+£(17) = 0.45 x 17 = 7.65 
+25 = 0.45x, so x= 55.6
+... W 66
+OJ
+LO
+22?
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+1 The graph shows the equivalence between 
+Pounds Sterling (UK£) and US Dollars (US$).
+a Write down the coordinates of a point on 
+the graph that gives you some accurate 
+information about the relationship, 
+b Using your point from part a, find the 
+gradient of the line.
+c Find the formula for the model u(x), 
+where u(x) is the number of US$ and x is 
+the number of UK£.
+d Use your model to find:
+i the exchange rate from UK£ to US$
+ii the amount in UK£ equivalent to 
+US$100.
+2 It is given that 5 miles = 8 km. The figure 
+shows a conversion graph of miles into 
+kilometres.
+a Find the value of Cl. 
+b Write an equation to express the
+number of kilometres, k, in terms of the 
+number of miles, m.
+Investigation ?
+1 a Consider all the points for which the second coordinate (y) is equal to 6 units less than the first
+coordinate (x). Write down this relation as a function, wherey is written in terms ofx. 
+b Consider all the points for which the sum of the two coordinates is equal to 4. Write down this relation 
+as another function, where y is written in terms ofx 
+c Plot the functions from parts a and bon the same set of axes on your GDC. 
+d There is a point that satisfies both relations simultaneously.
+i 
+What is this point on the graph you have plotted?
+ii What are the coordinates of this point?
+iii If you are given only the point and the equations of both functions (but not their graphs), how 
+would you check that this point lies on the graphs of both functions?
+2 
+Now considerf(x) =X+ 5 and#(x) = 7x+ 3.
+a Plot both functions on the same set of axes on your GDC. 
+b Is there any point that satisfies both equations simultaneously? 
+c Suppose the coordinates of this point Pare (a, b). Complete the following:
+If (a, b) lies on the graph of/then its coordinates satisfy the equation of/and/? = _______ (1)
+If (a, b) lies on the graph of# then its coordinates satisfy the equation of# and b = _______ (2)
+As the b in equations (1) and (2) is the same, you can derive the value of a by equating (1) and (2).
+i 
+What is the value of a?
+ii What is the value of b?
+iii Write down the coordinates of P.
+d How would you check that the point P lies on both graphs?
+3 
+What does the intersection of two lines represent?
+228
+
+Example 9
+a Sketch the graphs of f(x) = 2x+ 3.5 and g(x) = 0.5* + 7. 
+b Hence, find the intersection point of the two graphs.
+b (2.33,8.17)
+You can use technology to draw the 
+graphs. You might need to change the 
+level of zoom.
+Method 1:
+Technology can be used to find the 
+intersection point graphically.
+Method 2:
+Given that both are linear functions, you 
+can solve simultaneous equations in two 
+unknowns algebraically.
+y = 2x+ 3.5 means 2x-y = -3.5
+y = 0.5x+ 1 means 0.5x-y = -7
+1 Find the intersection point for each of the 
+following pairs of functions.
+a f(x) = x - 1, cj(x) = 2x 
+b f(x) = 2x + 3, g(x) = 1 - 4x
+2 The managers of a factory are trying to 
+determine what to charge for an item they 
+make. The demand for the item (a measure 
+of how many are likely to sell) can be 
+modelled by D(p) = 800 - 2p, where p is the 
+selling price in dollars. The supply for the 
+item (the number that can be made) can be 
+modelled by S(p) = 3p.
+Sketch both functions on the same set of 
+axes.
+Find the equilibrium point for this item. 
+(The equilibrium point is where supply 
+and demand are equal.)
+Comment on the situation in which the 
+selling price is $ 100.
+Contrast your answer in part c to what 
+happens when the price is $250.
+229
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+3 Some friends are planning to rent a car 
+during their holiday. They have two options: 
+Option A: US$5 per kilometre.
+Option B: A fixed cost of US$150 plus 
+US$2.30 per kilometre, 
+a Find the cost of renting the car if they 
+travel 100 km under: 
+i Option A ii Option B.
+b Write down, for each option, an expression 
+for the cost of renting the car in terms of 
+the number of kilometres travelled, x.
+They know that above a certain number of 
+kilometres, k, Option A is more economical 
+than Option B. 
+c Find the value of k.
+4 Consider the functions/(x) = 2x+ 1 and 
+g(x) = mx+ 3, where m is a constant. The 
+graphs of these functions intersect at the 
+point (-5,-9). 
+a Find the value of m. 
+b Find the point of intersection of the 
+graph of g with the x-axis.
+HINT
+The equation of the x-axis is y = 0.
+\_________________________________
+In Investigation 6 you found that the formula C= 2nr gives the circum 
+ference, C, of a circle in terms of its radius, r. This means that given 
+the radius, by using this formula you can find the circumference.
+The radius is the independent variable and the circumference the 
+dependent variable.
+If you were given that the circumference is equal to 10 cm, how could 
+you find the radius?
+And if you were given that the circumference is equal to 15 cm, what 
+would be the radius?
+TOK
+By 2000 BC, 
+mathematicians in 
+Babylon, Egypt and India 
+had a good knowledge 
+of mathematical models 
+and used them to 
+predict astronomical and 
+environmental events.
+There is only one circumference for a given radius. Is there only one 
+radius for every circumference?
+\
+A one-to-one function /that maps A onto B will have an inverse function/-1 
+that maps B onto A. Iff(x) =ythen/-1(y) =x.
+Consider this example:
+f 
+f'1
+A----------------------------------------► B 
+Am-------------------------------------- B
+Here, /is a one-to-one function from A to B.
+The inverse relation, /-1, is a function that maps every element of 
+B onto its corresponding element from A. For example, /(1) = 6, 
+therefore/-1 (6) = 1.
+What is the value of /-1(18)? Can you explain its meaning?
+If the image of x through /isy, what is the image of y through /-l?
+230
+
+Example 10
+The graph shows a function f 
+a Use the graph to find:
+i f(2)
+H /->(9).
+b Solve the equation f~'(a) = 1.
+©
+1 For the functions b, c and d from 
+Investigation 6:
+a Explain why each has an inverse 
+function.
+b Find the formula of each inverse 
+function.
+2 State which of the following functions has 
+an inverse, giving a reason in each case.
+a 
+f
+► 8
+0 +•*"*'*
+■fero... ® 66
+OJ
+LO
+231
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+3
+4
+b
+f
+A ------------------------------ ► B
+c f(x) = x + 1 maps A = {-2, -1,0, 1,2) 
+onto a set J5.
+d f(x) = 1 +x2 maps A = {-1, 0, 1,2) 
+onto a set B.
+The diagram shows a function/.
+f
+A -------------------------------► B
+a Explain why/-1 exists, 
+b Write down the values of:
+i /(l) ii f(2) Hi /-»(0) iv /-»(2). 
+c Construct a mapping diagram for/"1.
+The graphs show four linear functions.
+5 ■
+•3
+2
+i.
+-5 - 4 - 3 -2 -
+:
+4
+5
+-9 -
+q
+,\
+-5-
+a State which of these are one-to-one 
+functions, giving a reason in each case, 
+b Describe the difference between a linear 
+function that has an inverse and one 
+that does not.
+5 The diagram shows the graph of a function / 
+from A to B.
+a Write down the set A. 
+b Write down the set B. 
+c State whether /is a one-to-one function, 
+giving a reason for your answer, 
+d Find, if appropriate, the values of:
+' 
+/(l) 
+i' /(-l)
+Mi /'Ml) 
+iv /-'(-l)
+232
+
+6 
+Determine whether the following 
+b Any linear function has an inverse
+statements are true or false. 
+function.
+a A many-to-one function does not have 
+an inverse function.
+Investigation 8
+1 Consider the function/^) =2x+4.
+a Explain why/has an inverse function/-1, 
+b Complete the table for/and/-1.
+X
+y=f(x)
+*—!-—*y - /(*)
+(x,f(x)) lies on 
+the graph off
+y—12-+x = f-'(y)
+(y<f~l(y)) 'ies on 
+the graph off1
+-4
+A(—4,)
+A'(,-4)
+-2
+B(-2)
+B'(-2.)
+0
+C(,0]
+C'(0.)
+0
+D(0.)
+D'(,0)
+1
+6
+1—>6
+E(l, 6)
+6 
+■‘r>—>1
+E'(6, 1)
+3
+F(3,_)
+F'(_,3]
+c The points E and E' have already been plotted
+on the given set of axes. 
+y
+i Draw the graph off(x) = 2x + 4.
+Also, clearly plot and label the other five points 
+on the graph of/that were found in part b.
+10 -
+8 -
+E
+ii Plot and label the other five points on the graph 
+of/-1 that were found in part b.
+o ■
+d What can you say about the type of graph f~] is?
+How would you find more points on this graph?
+Write down at least three more points on the graph 1
+z ■
+«>E'
+0 -8 - 6
+4 -2 0
+*
+L
+e
+i
+i
+10
+off~\then complete the graph of/-1. 
+e What can you say about the position of the point
+B' with respect to the position of the point B? And 
+what about the position of C' with respect to C? 
+f There is one point that lies on both graphs. What is 
+it? What do you notice about the coordinates of
+-z -
+A -
+-6 -
+-8 -
+-10 -
+this point?
+This point also lies on the line that bisects the first and third quadrants, the identity line. What is 
+the equation of this line? Draw it with a dotted line on the set of axes. How would you describe the 
+positions of the graphs of/and/-1 with respect to the identity line?
+Continued on next
+o
+page
+««t . ... ® 66
+OJ
+LO
+233
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+The circumference of a circle is a function 
+of its radius: C(r) = 2nr. Find C~](S) and 
+interpret the meaning of this value in context.
+Draw the inverse function of each of the 
+following functions.
+y
+-10 -8
+The domain of the inverse function/-1 is the range of the function / 
+The range of the inverse function /-1 is the domain of the function/
+g Now explain how you would draw the graph of/”1 
+if you are given the graph of/ 
+h What is the equation of the inverse function/"1?
+The diagram shows the graph of a function #. Some points on 
+its graph have already been marked, 
+a Explain why# has an inverse function,#-1, 
+b Complete the table:
+Function
+Domain
+Range
+9
+4"1
+Draw the graph of#-1. You may use the points A, B, C 
+and D and the identity line to start plotting some points 
+on the graph of#-1.
+5 -
+A -
+D
+o _
+o
+o .
+c
+-i-
+5 -4 -3 - 2 -
+/
+3
+r
+5
+B
+Q _
+A
+J
+-4 -
+-5 -
+3
+4
+Factual
+How can we find the graph of the inverse function?
+How can the graph of the inverse function help us to find properties of the function?
+f
+10 -8 -
+v 
+1
+; 
+i
+\ 4
+6 8 1
+f
+---- I----
+6 -4 -
+oo o ^
+234
+

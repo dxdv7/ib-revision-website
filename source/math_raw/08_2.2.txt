@@ -1,0 +1,265 @@
+2.2
+Example 10
+Find the area of a parallelogram ABCD with BC = 7.4 cm, 
+AB = 12.3 cm and B = 39°.
+Area of AABC = — x 12.3 x 7.4 x sin39°
+You can find the area of AABC by using the
+2
+Area of AABC = 28.6403... cm2
+area of a triangle formula.
+Since AABC = A ADC (because of three
+equal sides) they will have equal areas.
+Area of ABCD = 2 x 28.6403... = 57.3 cm2
+The area of the parallelogram will be twice
+(3 sf)
+the area of AABC.
+The area of any parallelogram ABCD is given 
+by the formula
+area = ab sin C
+Example 11
+A roof is in the shape of an isosceles triangle APRQ where 
+PQ = RQ, P= 61° and PR = 12 cm. Find the area of APRQ.
+,*o>
+ll
+IIo
+o
+Since APRQ is isosceles and PQ = RQ,
+Q= 180° -2x61° = 58°
+p = R = 6l°.
+PQ 
+12
+Find the third angle by using the angle sum 
+theorem.
+sin 61° sin 58°
+PQ = sin 61 °x 12 
+=12.3759...
+sin 58°
+Use the sine rule to find the length of [PQ].
+Area = — x 12 x 12.3759... x sin61°
+Use the area formula to find the area of
+2
+Area = 64.9 cm2 (3 sf)
+APRQ.
+63
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+To be able to determine the area of a triangle you need to know two 
+sides and an inscribed angle, two angles and a side, or the three sides 
+of the triangle.
+Example 12
+Find the area of a triangular vegetable garden with sides 
+AB = 15 m, AC = 7 m and BC = 12 m.
+cos C = 122 -+ 7 -152 
+2x12x7
+C = cos
+2 \
+122 + 72 -15 
+v 2x12x7
+= 100.980...°
+Area = - x 12 x 7 x sin 100.980...° 
+2
+Area =41.2 m} (3 sf)
+To use the area formula, you need to find 
+one of the angles of the triangle.
+You can use the cosine rule to find C.
+Now you can use the area formula to 
+calculate the area of ABC.
+Example 13
+The floor of a gazebo has the shape of a regular octagon with 
+side length 1.2 m and is made of eight congruent triangles.
+Find the area of the floor.
+Area of the floor = 8 x area of AAOB.
+360°
+AOB = 
+=45°
+8
+To find the area of A AOB, you first need to find
+AOB.
+- 
+- 
+180°-45°
+BAO-ABO- 
+-67.5°
+To find the other two angles of AAOB you
+2
+need to use the angle sum theorem and
+AO 
+1.2
+consider that AAOB is isosceles.
+Then use the sine rule to find the length 
+of [AO].
+sin 67.5° ~ sin 45°
+AO = sin 67.5° x———= 1.56787... m 
+sin45°
+Area = 8x-x 1.56787... x 1.56787... x sin 45°
+To find the area of the octagonal floor you
+2
+Area = 6.95 m2 (3 sf)
+need to multiply the area of AAOB by 8.
+64
+
+2.2
+1 Find the area of each of the following 
+triangles:
+4 Find the area of a parallelogram ABCD with 
+BC = 7.4 cm, BAO 44.5° and ACB = 91°.
+Find the area of each of the following 
+triangles:
+a a = 13.6cm, b = 9.2 cm and C = 49° 
+b c= 19m, A = 33° and 5 = 42.5° 
+c a- 25 cm, b = 1 cm, c = V59 cm
+A gardener leaves a triangular plot of his 
+garden for a plant nursery. The two sides 
+of the triangular plot are AC = 23.5 m and 
+AD = 15 m.
+5 A regular hexagon is inscribed in a circle 
+with radius 9 cm. Find the area of the 
+hexagon.
+A garden is shaped in the form of a regular 
+heptagon (seven-sided), MNSRQPO.
+A circle with centre T and radius 25 m 
+circumscribes the heptagon as shown in the 
+diagram below. The area of AMSQ is left for 
+a children's playground, and the rest of the 
+garden is planted with flowers. Find the area 
+of the garden planted with flowers.
+a If DC = 29 m, find the area of the plot 
+designated for the plant nursery, 
+b 0.5 kg of herb seeds will cover an area of 
+150 m2. Determine the mass of seeds, in 
+kg, needed to plant the plot with herbs.
+65
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Investigation 7
+A sprinkler located at the centre of a lawn sprays water a 
+distance of 20 m as it rotates through a certain angle. What 
+area of the garden lawn can be watered by the sprinkler? 
+Write your answers correct to 3 sf.
+1 
+Find the area of the garden lawn that can be watered by 
+the sprinkler if it is set to rotate at an angle of 180°.
+2 
+Find the area of the garden lawn that can be watered by 
+the sprinkler if it is set to rotate at an angle of 60°.
+3 
+Find the area of the garden lawn that can be watered by 
+the sprinkler if it is set to rotate at an angle of 1°.
+4
+5
+6 
+?
+Find the area of the garden lawn that can be watered by the sprinkler if it is set to rotate at an angle of cx°.
+Could you generate a formula for finding the area of the garden lawn that can be watered by a sprinkler 
+that projects water out r metres and is set to rotate at an angle a?
+Factual
+What is the formula for the area of a sector? 
+How is the area of sector formula derived?
+International 
+mindedness
+Why are there 360 
+degrees in a complete 
+turn? Why do we use 
+minutes and seconds 
+for time?
+Any central angle in a circle is a fraction of 360°, so the area of a sector 
+will be a fraction of the area of the circle.
+"Mathematicians admire 
+elegance and simplicity 
+above all else, and the 
+ultimate goal in solving 
+a problem is to find the 
+method that does the 
+job in the most efficient 
+manner.” —Keith Devlin
+What is elegance 
+and simplicity in 
+mathematical proof?
+T0K
+66
+
+2.2
+Example 14
+A crop sprinkler irrigates a circle with radius 5 m. Find the area of 
+the sector BAC with radius 5 m and central angle 120° as shown 
+in the diagram. Give your answer to 3 sf.
+Area of sector =
+1 20° X /T x 5 
+360°
+= 26.2 m2 (3 sf)
+Substitute r = 5 and 6= 120° into the 
+formula for the area of the sector.
+Example 15
+The area of a sector BAC with radius 13 cm is 30/r cm2. Find x, the 
+size of the central angle of sector BAC.
+C
+xn x 132
+30/r =-----------
+360
+Use the formula for the area of a sector, and 
+substitute the given values for the area and 
+the radius.
+30 x 360
+x- 
+-63.9° (3 sf)
+Then use your GDC to calculate x.
+169
+Example 16
+The sector AOB has radius 4 cm and central angle 75°.
+Determine the area of the segment enclosed by chord [AB| and 
+the subtended arc.
+75°x n x42
+Area of sector =---------------= 10.4719... cm2
+360°
+Find the area of the sector AOB.
+Area of triangle = -x4x4xsin75° = 7.7274... cm2
+Find the area of the triangle AOB.
+Area enclosed = 10.4719... - 7.7274...
+= 2.74 cm2 (3 sf)
+6?
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+1 Determine the areas of the sectors with 
+radius rand central angle 0given below. 
+Give your answers correct to 3 sf.
+a r = 6 cm, 0 = 70° 
+b r = 3 cm, 0 = 49° 
+c r = 10.5 cm, 0= 122°
+2 
+a A sector with central angle 140° and
+radius 9 cm is cut from a wooden circle. 
+Find the area of the sector.
+b A sector with radius 10 cm and central 
+angle x° has area 48/r cm2.
+Find the size of the angle x°.
+c A sector with radius x cm and central 
+angle 50° has area 8/r cm2.
+Find the length of the radius x.
+3 Determine the area of the shaded region 
+of a wooded patch in a circular park if the 
+radius of the circle is
+a 8 cm b 12cm.
+4 Find the area of the segment enclosed by 
+chord [BC] and the subtended arc with 
+radius 4 cm and central angle 55°.
+C
+5 A landscaper builds a regular hexagonal patio 
+in a circular garden. The area not covered by 
+the patio will be covered in grass.
+The radius of the garden is 1.5 m.
+Find the area covered by grass in the 
+garden.
+Intemational-mindedness
+Japanese mathematician Seki Takakazu calculated /rto ten decimal places in the 
+l?th century.
+68
+

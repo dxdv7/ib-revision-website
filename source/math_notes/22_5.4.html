@@ -1,0 +1,13 @@
+<div class="notes-section">
+<h3>Building a linear model from two data points</h3>
+<div class="formula-box">A linear model has the form f(x) = mx + c, where m is the gradient and c is the y-intercept. Given two data points (x<sub>1</sub>, y<sub>1</sub>) and (x<sub>2</sub>, y<sub>2</sub>), the gradient is m = (y<sub>2</sub> &minus; y<sub>1</sub>) / (x<sub>2</sub> &minus; x<sub>1</sub>), and c is found by substituting one point into y = mx + c.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A shipping company charges $40 to ship a 5 kg package and $100 to ship a 20 kg package. Let C be the cost in dollars and w the weight in kg.<br>m = (100 &minus; 40) / (20 &minus; 5) = 60 / 15 = 4<br>Substitute (5, 40): 40 = 4(5) + c, so c = 40 &minus; 20 = 20<br>Model: C = 4w + 20<br>Estimated cost to ship a 12 kg package: C = 4(12) + 20 = $68</div>
+
+<h3>Direct variation models</h3>
+<div class="formula-box">When two quantities are in direct proportion (variation), the model has the form y = mx, with no fixed constant term (the line passes through the origin), where m is the constant rate of change.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The exchange rate is UK&pound;1 = AUD1.73. Let p be the amount in UK&pound; and a(p) the equivalent amount in AUD.<br>Model: a(p) = 1.73p<br>Amount equivalent to UK&pound;70: a(70) = 1.73 &times; 70 = AUD121.10</div>
+
+<h3>Using a model within its domain: interpolation and extrapolation</h3>
+<div class="formula-box">Interpolation means using a model to estimate a value within the domain (range of x-values) of the data used to build it; this is generally reliable. Extrapolation means estimating a value outside that domain; this can be unreliable, since the linear pattern may not continue.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A leaking water tank is measured at t = 2 minutes (w = 1900 litres) and t = 4 minutes (w = 1800 litres). Using these two points:<br>m = (1800 &minus; 1900) / (4 &minus; 2) = &minus;100 / 2 = &minus;50<br>Substitute (2, 1900): 1900 = &minus;50(2) + c, so c = 2000<br>Model: w = &minus;50t + 2000, with domain based on the data, roughly 2 &le; t &le; 9<br>Interpolation at t = 5 (within the domain): w = &minus;50(5) + 2000 = 1750 litres &mdash; a reliable estimate.<br>Extrapolation at t = 45 (far outside the domain): w = &minus;50(45) + 2000 = &minus;250 litres &mdash; a negative volume is impossible, showing that extrapolating far beyond the data is unreliable.</div>
+</div>

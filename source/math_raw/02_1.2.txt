@@ -1,0 +1,239 @@
+1.2 Recording measurements, 
+significant digits and rounding
+Investigation 3
+When using measuring instruments, we are able to determine only a certain 
+number of digits accurately. In science, when measuring, the significant 
+figures in a number are considered only those figures (digits) that are 
+definitely known, plus one estimated figure (digit). This is summarized as “all 
+of the digits that are known for certain, plus one that is a best estimate”.
+1 Read the temperature in degrees Fahrenheit from this scale.
+TOK
+What might be the ethical 
+implications of rounding 
+numbers?
+1111111111111111111111111111111
+96 
+97 
+98 
+99 
+100 
+101 
+102
+What is the best reading of the temperature that you can do? How many
+digits are significant in your reading of this temperature?
+2 A pack of coffee is placed on a triple-beam balance scale and weighed. The 
+image below shows its weight, in grams.
+■ TT- , 
+: 
+, 
+I i i I I I I
+| 0 
+20 
+40 
+60 
+80 
+100 gf
+Riders
+Find the weight of the pack of coffee by carefully determining the reading 
+of each of the three beam scales and adding these readings. How many 
+digits are significant in your reading of this weight?
+Factual
+What is the smallest unit to which the weight of the pack of 
+coffee can be read on this scale?
+4 
+A laboratory technician compares two samples that were measured as 
+95.220 grams and 23.63 grams. What is the number of significant figures 
+for each measurement? Is 95.220 grams the same as 95.22 grams? If not, 
+how are the two measurements different?
+5 B.I.IJSBB1HI What do the significant figures tell you about the values 
+read from the instrument? What do the significant figures in a 
+measurement tell you about the accuracy of the measuring instrument?
+6 H.imuiMi How do the reading of the measuring instrument and the 
+measuring units limit the accuracy of the measurement?
+2
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+Decimal places
+You may recall that in order to avoid long strings of digits it is often 
+useful to give an answer to a number of decimal places (dp). For 
+example, when giving a number to 2 decimal places, your answer 
+would have exactly two digits after the decimal point. You round 
+the final digit up if the digit after it is 5 or above, and you round the 
+final digit down if the digit after it is below 5.
+Significant figures
+Measuring instruments have limitations. No instrument is advanced 
+enough to determine an unlimited number of digits. For example, a 
+scale can measure the mass of an object only up until a certain decimal 
+place. Measuring instruments are able to determine only a certain 
+number of digits precisely.
+The digits that can be determined accurately or with some degree 
+of reliability are called significant figures (sf). Thus, a scale that 
+could register mass only up to hundredths of a gram until 99.99 g 
+could only measure up to 4 digits with accuracy (4 significant 
+figures).
+Example 1
+For each of the following, determine the number of significant 
+figures.
+21.35, 1.25, 305, 1009, 0.00300, 0.002
+21.35 has 4 sf and 1.25 has
+Non-zero digits are always
+3 sf.
+significant.
+305 has 3 sf and 1009 has 4 sf.
+Any zeros between two 
+significant digits are significant.
+In 0.00300 only the last two
+A final zero or trailing zeros
+zeros are significant and the
+in the decimal part only are
+other zeros are not. It has
+3 sf.
+0.002 has only 1 sf, and 
+all zeros to the left of 2 are 
+not sf.
+significant.
+Rounding rules for significant figures
+The rules for rounding to a given number of significant figures are 
+similar to the ones for rounding to the nearest 10, 100, 1000, etc. 
+or to a given number of decimal places.
+EXAM HINT
+In exams, give your 
+answers as exact or 
+accurate to 3 sf, unless 
+otherwise specified in 
+the problem.
+8
+
+1.2
+Example 2
+Round the following numbers to the required number of significant figures:
+a 0.1235 to 2 sf 
+b 0.2965 to 2 sf
+c 415.25 to 3 sf 
+d 3050 to 2 sf
+a 0.1235 = 0.12 (2 sf)
+Underline the 2 significant figures. The next
+digit is less than 5, so delete it and the digits to
+the right.
+b 0.2965 = 0.30 (2 sf)
+The next digit is greater than 5 so round up.
+Write the 0 after the 3, to give 2 sf.
+c 415.25 = 415 (3 sf)
+Do not write 415.0, as you only need to give 3 sf.
+d 3050 = 3100 (2 sf)
+Write the zeros to keep the place value.
+Rounding rule for n significant figures
+If the (n + 1 )th figure is less than 5, keep the mh figure as it is and 
+remove all figures following it.
+If the (n + 1 )th figure is 5 or higher, add 1 to the /7th figure and 
+remove all figures following it.
+In either case, all figures after the /7th one should be removed if they 
+are to the right of the decimal point and replaced by zeros if they are 
+to the left of the decimal point.
+1 
+Round the following measurements to 3 
+significant figures.
+a 
+9.478 m 
+b 5.322 g
+c 
+1.8055cm 
+d 6.999 in
+e 
+4578 km 
+f 13 178 kg
+2 Round the numbers in question 1 parts a 
+to d to 2 dp.
+3 Determine the number of significant figures 
+in the following measurements:
+a 0.102 m 
+b 1.002 dm
+c 105 kg 
+d 0.001020 km
+e 1 000000 pg
+4 Find the value of the expression
+12.35 + 21.14 + 1.075 
+---------------==----------------- and give your
+n/3.5-1
+answer to 3 significant figures.
+Example 3
+A circle has radius 12.4cm. Calculate: 
+a the circumference of the circle 
+b the area of the circle.
+Write down your answers correct to 1 dp.
+o
+Continued on next page
+9
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+a C = 2 x n x 12.4
+Use the formula for circumference of a circle,
+= 77.9cm (1 dp)
+C = 2/rr.
+The answer should be given correct to 1 dp, 
+so you have to round to the nearest tenth.
+b A = n( 12.4)1 
+2 3 4 5 6 7 8 9
+Use the formula for area of a circle, A = nr2.
+= 483.1 cm2 (l dp)
+The answer should be given correct to 1 dp, 
+so you have to round to the nearest tenth.
+Investigation 4
+The numbers of visitors to the 10 most popular national parks in the United 
+States in 2016 are shown in the table.
+10 Most Visited National Parks (2016)
+Park
+Recreational Visits \
+1. Great Smoky Mountains NP
+11312786
+2. Grand Canyon NP
+5969811
+3. Yosemite NP
+5028868
+4. Rocky Mountain NP
+4517585
+5. Zion NP
+4295127
+6. Yellowstone NP
+4257177
+7. Olympic NP
+3390221
+8. Acadia NP
+3303393
+9. Grand Teton NP
+3270076
+10. Glacier NP
+2946681
+1 
+Which park had the most visitors? How accurate are these figures likely 
+to be?
+2 
+Round the numbers of visitors given in the table to the nearest 10 000.
+3 
+Are there parks with an equal number of visitors, when given correct to 
+10 000? If so, which are they?
+4 
+Round the number of visitors, given in the table, to the nearest 100 000.
+5 
+Are there parks with an equal number of visitors, when given correct to 
+100 000? If so, which are they?
+6 
+Round the numbers of visitors given in the table to the nearest 1000 000.
+7 
+Are there parks with an equal number of visitors, when given correct to 
+1 000 000? If so, which are they?
+8 
+Determine how many times the number of visitors of the most visited park 
+is bigger than the number of visitors of the least visited park. Which parks 
+are they?
+9 
+Determine how many times the number of visitors of the most visited park 
+is bigger than the number of visitors of the second most visited park. ^
+10
+

@@ -1,0 +1,833 @@
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+HINT
+There are many websites that will give the derivative of a function as an equation 
+and indeed some calculators do this as well. These are not allowed in exams. 
+However, in examinations, it will be expected that you use your GDC to find 
+numerical values for the derivatives at given points and also to draw the graph 
+of the derivative. This widens the range of functions that you might need to 
+find the gradient for. Unless told otherwise, always use your GDC if it makes 
+answering the question simpler.
+Example 6
+Consider y = x + ^ t x * 1. 
+x - 1
+Find the gradient of the curve at the points where x = 2 and x= 3.
+-3 and -0.75
+The gradient is found using the numerical
+derivative function on your GDC.
+1 Find the gradient of the following curves at the point where x= 3.
+b y = x\nx c f(x) = 2x-\ 
+x + 3
+r + 5
+e y-xe2x f g(x) = (x2 - 3)(x- 1)
+12.3 Maximum and minimum points 
+and optimization
+Investigation 4
+The number of bacteria, B, in thousands, in a culture at time, t minutes, is 
+given by the formula:
+B(t) = 0.00314x3 - 0.1926x2 + 2.848x + 5
+a Sketch the graph of B(t) = 0.00314x3 - 0.1926,v2 + 2.848X+ 5 for 
+0 </<40.
+b Find #'(/)•
+c Find the values of / when there are the most and the least bacteria.
+d Find the gradient of the function at the two points found in part b.
+e Calculate the gradient of the function at a point just before and just after 
+the values of / found in part b.
+f Use your results to explain the difference between the local maximum and 
+the local minimum.
+g 
+How do stationary points help solve real-life problems?
+International 
+mindedness
+Maria Agnesi, an 
+18th century, Italian 
+mathematician, 
+published a text on 
+calculus and also 
+studied curves of the 
+2
+form v = —r + a . 
+X2
+TOK
+How can you justify the 
+rise in tax for plastic 
+containers eg plastic 
+bags, plastic bottles etc 
+using optimization?
+536
+
+You can also use technology and solve f{x)=Olo find the value of 
+stationary points.
+\
+Fora function f(x), if/'(c) =0, then the point (c,f(c)) is called a stationary 
+point as the instantaneous rate of change is 0 at that point.
+If the signs of the gradients are different on both sides of the stationary point 
+then it means it is either a maximum or minimum point.
+In many cases, we are interested in when a function reaches its maximum or 
+its minimum as in real-life cases these points can be important. For example, 
+if it is a function of profit versus the number of products produced, we would 
+like to know where the profit is a maximum.
+A stationary point can be a local maximum point or a local minimum point.
+At a local maximum or minimum point f'(x) = 0.
+' ^
+If the sign of the derivative goes from negative to 
+_0
+positive, there is a minimum point. 
++ /
+If the sign of the derivative goes from positive to / 
+negative, there is a maximum point. 
+Maximum Minimum
+"h in t
+The local maximum 
+or local minimum 
+points may not be the 
+maximum or minimum 
+values of the graph.
+Example ?
+Consider the curve 5 = 3/3 + 212 - 4t + 2.
+a Find —. 
+df
+b On the same axes, sketch s = 3f3 + 2t2 - At + 2 and its derivative.
+c Solve the equation — = 0.
+H dr
+d State the feature of 5 = 3/3 -t- 2/2 - 4/ + 2 indicated by these points, 
+e If the domain of the function is restricted to -2 <t<2, find the actual maximum and 
+minimum values of the function.
+ds
+a — = 
+d t
+b
+= 9/ 2 +4t-
+S
+-4
+Using the usual rules for differentiating but 
+with the new notation.
+You can either plot the curve found in part 
+a or use the derivative function on the GDC
+to do so.
+-2 .5 -
+1 L5
+l\l\ °.5°
+a.5
+i1 1 5
+/
+\
+/ ds/d = 9^ ► 4t
+4
+Use your GDC to find the roots of
+9t2 + 4t - 4 = 0.
+>
+S = 3f
+o
+Continued on next page
+53?
+Calculus
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+O
+c f = -0.925, 0.481
+d Each of these values of t the curve gives a 
+stationary point, one is a local maximum 
+point and the other a local minimum point, 
+e 26 and -6
+This observation provides an alternative 
+method for solving part c: using the GDC to 
+find the maximum and minimum points on 
+the original curve.
+The maximum and minimum values 
+(sometimes called the global maximum and 
+minimum) are at the end points of the curve.
+Example 8
+Consider the curve y = x + — ,x * 0.
+x
+a Find an expression for
+dx
+b Sketch the curve.
+c Find the coordinates of any local maximum or minimum points, 
+d Find the gradient of two points, close to but on either side of the minimum point, 
+e Explain why this shows that the point found is a local minimum.
+a
+dy = 1_ J_
+dx x2
+c Local maximum point is (-1, -2). 
+Local minimum point is (1, 2).
+dv
+d x = 0.5, — = 1 - 4 = -3 
+dx
+* = 1.5, ^ a 1-0.444 = 0.556 
+dx
+e Gradient changes from negative to 
+positive.
+These points can be found either by solving 
+dy
+— = 0 or by finding the points directly from 
+dx
+the GDC.
+Any points will do as long as there are 
+no discontinuities or other turning points 
+between them and the local maximum or 
+minimum.
+538
+
+1 Jules throws a stone into the air. The 
+height of the stone can be modelled by the 
+equation/(0 = 1 + 7.251- 1.875t2 where t is 
+the time, in seconds, that has passed since 
+the stone was thrown, and f(t) is the height 
+of the stone, in metres.
+a Find/'(f).
+b Find the stationary point and the time 
+when this occurred, 
+c Show that this is a maximum point.
+2 A company's profits, in thousands of 
+dollars, can be modelled by the function:
+P(x) = 0.08x3 - 1.9x2 + 12.5x, where x is 
+the number of units sold (in millions) each 
+week.
+a Sketch a graph of P(x) for 0 < x < 15. 
+b Calculate the average rate of change 
+between x = 2 and x = 3, including the 
+units. Explain the meaning of the value 
+you find.
+c Calculate the instantaneous rate of 
+change at x = 3, x = 8 and x = 13. Explain 
+the meaning of these values, 
+d State the values for which the instan 
+taneous rate of change is positive. State 
+the values of x for which the instan 
+taneous rate of change is negative. 
+Explain the meaning of each of these 
+results.
+e Write down the values of x for which 
+the instantaneous rate of change is zero. 
+Justify your answer, 
+f Find the maximum and minimum 
+values and show that these are 
+maximum and minimum values.
+3 The path of a shot-put can be modelled by 
+the function /(f)=l.75 + 0.75f- 0.0625f2, 
+where r is the time (in seconds) and f(t) is 
+the height of the shot-put (in metres) above 
+the ground.
+Find the maximum height of the shot-put 
+and the time when this occurred.
+4 The profit $P that Yarona makes each day is 
+dependent on the number of brownies, n, 
+that she bakes.
+Her daily profit can be modelled by the 
+function P(n) = -0.056tf2 + 5.6n - 20.
+Find the maximum profit that Yarona 
+makes in a day and the number of brownies 
+she needs to sell to make this profit.
+5 A business buys engine parts from a 
+factory. The business is currently deciding 
+which of three purchasing strategies to use 
+for the next stage of its development.
+Its researchers produce models for each of 
+the strategies. P is the expected profit 
+(in €10 000) and n is the number of parts 
+it buys (in 1000s). The largest number of 
+parts the factory can sell to the business is 
+5000 and there is no minimum.
+a For each model find the maximum profit 
+and the number of parts the business 
+needs to buy to make this profit, 
+b State which strategy it should adopt.
+i P = 0.5/? +1.5 + —^— 
+n + 1
+.. „ w3 5 n1 ,
+3 
+2
+... _ 
+w3 
+5n2 .
+in P =----------+ 3n
+24 
+8
+6 John is a keen cyclist and is planning a 
+route in the Alps. The profile of the route 
+he would like to take can be modelled by 
+the function:
+y = -0.08 lx4 + 0.89x3 - 2.87x2 + 3x, 0 <x < 6, 
+where y (x 100 m) is the height of the point 
+on the route that is a horizontal distance 
+x (x 10 km) from his starting point.
+Plot the graph and find the maximum 
+height John will climb to on this route.
+International-mindedness
+The Greeks’ mistrust of zero meant 
+that Archimedes’ work did not lead 
+to calculus.
+539
+Calculus
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+Optimization
+Many practical problems involve finding maximum or minimum 
+values. For example, we may want to maximize an area or minimize 
+cost. Such problems are called optimization problems.
+Example 9
+A can of dog food contains 500 cm3 of food. The manufacturer wants to receive 
+the maximum profits by making sure that the surface area of the can has optimal 
+dimensions. Let the radius of the can be rcm and the height, h cm.
+Find the dimensions of the can that will have the minimum surface area.
+V = nr2h = 500 
+500
+So, h = nr
+Surface area, S = 2 nrh + 2nr2
+S = 2 nr 500
+->
+nr ) + 2nr2 ■
+1000 + 2 nr2
+= 1000r_1 + 2nr2
+— = -1000r~2 + 4;rr 
+dr
+— = 0 at maximum or minimum point 
+dr
+So, - 1 OOOr “ 2 + 4,t r = 0 
+Using your solver, r = 4.3 
+d ^
+Check — at r = 4 and r = 5 
+dr
+At r = 4, — = -12.2 and at r = 5, 
+dr
+In order to make maximum profits, the surface 
+area of the can needs to be as small as possible. 
+You are given the volume of the can and you 
+use this to find an expression for the height in 
+terms of the radius.
+This expression can be substituted into the 
+formula for the surface area. Then you have 
+an equation in terms of r only.
+You can then graph the function to find the 
+local minimum point or you can find the
+j ^
+derivative and let — = 0 and solve for r. 
+dr
+dr
+The derivative goes from negative to 
+positive and so it is a minimum turning 
+point.
+Therefore, the best dimensions for the 
+can are radius = 4.3 cm and 
+height = 8.6 cm.
+540
+
+Investigation 5
+1 
+A semicircular water trough has surface 
+area 10 m2 as shown.
+Explain why troughs can be designed 
+that have the same surface area but 
+different volumes.
+2 
+Find the formula for the outside surface 
+area in terms of r and h.
+3 
+As you increase r, describe what must happen to h to keep the surface 
+area at 10 m2. Does the volume of the trough increase as r increases? 
+Describe what happens to the volume.
+4 
+Rearrange your formula from part 2 to make h the subject.
+5 
+Find the formula for the volume of the trough. Why can you not find the 
+maximum volume of the trough yet?
+6 
+Substitute your expression for h from 4 to show that V = 5r - — kr\
+7 
+Draw a sketch or use your GDC to plot the graph of f(r) = 5r-^nr\
+8 
+How do you know that the trough has a maximum volume? How does the 
+maximum value relate to f(r) = 5r-^/rri?
+9 
+Find f(r) and solve/'(r) = 0. What does your solution represent?
+10 Find the maximum volume of the trough.
+11 Explain how you can check that it is indeed the maximum value.
+12 
+How does finding the maximum or minimum values help in 
+solving real-life problems?
+Optimization is covered
+in Chapter 9, but this
+does not include
+differentiation, 
+v_______________________ 
+TOK
+Does the fact that Leibniz 
+and Newton came 
+across the calculus at 
+similartimes support the 
+argument of Platonists 
+over Constructivists?
+-\
+If a function to be optimized has only one variable then either a GDC or 
+differentiation can be used directly to find the maximum or minimum point.
+If a function to be optimized has more than one variable then a constraint 
+must also be given. This constraint can then be written as an equation and 
+substituted into the function to eliminate one of the variables.
+1 An open cylinder has a volume of 400 cm3. The 
+radius of the base is r cm and the height is h cm.
+a Show that nr2h = 400.
+Sketch the graph of
+„ 
+2 
+800
+A = nr~ +------ .
+b Write down an expression for the surface 
+area, A, of the open cylinder, 
+c Show that this can be written as A = nr1 +
+e Find the minimum area and the value 
+of r when this occurs, 
+f Verify that it is a minimum point.
+541
+Calculus
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+2 The total surface area of a closed cylinder is 
+5000 cm2.
+Find the dimensions of the cylinder that 
+maximize its volume and state this maximum 
+volume.
+Verify that it is a maximum point.
+3 A vegetable garden is in the shape of a rec 
+tangle. The garden is surrounded by 100 m 
+of fencing.
+a If the width of the garden is x metres,
+find an expression for the length.
+b Show that the area of the garden is
+A = x(50 - x) m2.
+„ c. , dA 
+c Find —.
+dx
+d Find the maximum area and the
+dimensions of the garden at this point.
+4 A cone has radius, r cm, and height 
+(18 -r) cm.
+Find the maximum volume of the cone and 
+the values for the radius and height that 
+give this volume.
+5 A rectangular piece of card measures 20 cm 
+by 24 cm. Equal squares of side x cm are cut 
+out of each corner.
+The rest of the card is folded up to make a box. 
+a Find the volume of the box in terms of x. 
+b Find the value of x for which the volume 
+is a maximum and find the maximum 
+volume.
+6 A closed cylinder has a volume of 300 cm3, 
+a If the radius of the base is r cm and the
+height is h cm, find an expression for the 
+volume.
+b Find an expression for the total surface 
+area in terms of r.
+c Find the minimum surface area and the 
+values for r and h that give this area.
+7 The profit, $P, that a firm makes per day 
+can be modelled by the function
+P(n) = -0.092n2 + 33.3/t - 313, where n 
+represents the number of goods sold per day.
+Find the maximum profit and the value of n 
+when this occurs.
+8 A company's weekly profit, in dollars, in 
+relation to the number of units sold each 
+week, x, can be modelled by the function 
+f(x) = -0.9x2 + 52* - 360.
+Find the maximum profit and the value of x 
+when this occurs.
+Developing your toolkit
+Now do the Modelling and 
+investigation activity on page 546.
+Chapter summary
+• 
+The gradient of a tangent is the limit of a secant.
+• 
+The average rate of change between two points is the same as the gradient of the secant between 
+the two points.
+• 
+The instantaneous rate of change at a point is the gradient of the tangent at that point.
+• 
+The gradient function is called the derivative and it is denoted by f (x).
+• 
+The derivative of/(x) with respect to x is written as /' (x).
+• 
+An alternative notation for f'(x) is — or, if different variables are used, — or — etc.
+dx 
+d/ dt
+• 
+The derivative of/(x) -axu is/'(x) = anxn~l, ns Z.
+o
+542
+
+• 
+To find the derivative of a polynomial, you have to find the derivative of each term separately.
+) For example, iff(x) = axn + bxn~] + cx+d, then/'(x) = anx,l~] +b(n- 1) x"“2 + c.
+3 Remember that the derivative of y = mx is m and the derivative of y = c is 0.
+3 Note these last two also follow the same rule as the first if you write nix as mx] and c as cx°.
+• 
+A function is increasing iff'(x) > 0, is stationary iff'(x) = 0 and is decreasing iff'(x) < 0.
+• 
+Usually the prime notation,/'(x), is used when the question is about functions and the fractional
+notation, is used for curves. 
+dx
+• 
+There are no set rules however.y' = 2x- 1 and — are both correct, though less frequently seen.
+dx
+• 
+The derivative of a function at any point represents the gradient of the tangent at that point.
+• 
+The equation of the normal is perpendicular to the equation of the tangent.
+• 
+If two lines are perpendicular then the product of their gradients is -1.
+ci 
+fo
+• 
+If the gradient of a tangent is then the gradient of the normal is —.
+b 
+a
+• 
+For function/(x), iff'(c) = 0, then the point (c,f(c)) is called a stationary point as the 
+instantaneous rate of change is 0 at that point.
+• 
+If the signs of the gradients are different on both sides of the stationary point then it means it is 
+either a maximum or minimum point.
+• 
+In many cases, we are interested in when a function reaches its maximum or its minimum as in 
+real-life cases these points can be important. For example, if it is a function of profit versus the 
+number of products produced we would like to know where the profit is a maximum.
+• 
+A stationary point can be a local maximum point or a local minimum point.
+• 
+At a local maximum or minimum point f'(x) = 0.
+) The local maximum or local minimum points may not be the maximum or minimum values of 
+the graph.
+> 
+If the sign of the derivative goes from negative to positive, there is a 
+minimum point.
+> 
+If the sign of the derivative goes from positive to negative, there is a 
+maximum point.
+• 
+If a function to be optimized has only one variable then either a GDC or 
+differentiation can be used directly to find the maximum or minimum point.
+• 
+If a function to be optimized has more than one variable then a constraint must also be given. This 
+constraint can then be written as an equation and substituted into the function to eliminate one of 
+the variables.
+Maximum Minimum
+Developing inquiry skills
+Return to the opening problem. Has what you have learned in this chapter 
+helped you to answerthe questions?
+What information did you manage to find?
+What assumptions did you make?
+How will you be able to construct a model?
+What otherthings did you wonder about?
+543
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+Chapter review
+1 Find the derivative of each of the following 
+functions with respect to x and find the 
+value of the gradient of the tangent to the 
+curve at x= 1.
+a f(x) = 6 
+b y = 3x + 5 
+c g (x) = 2x2 - 4x - 1 
+d y = 6x3 - 3x2 + x - 7
+e /(x) = —+ 3x-9
+f /(x) = -^- + 2x2 + 8
+2 Find the equation of the tangent and 
+normal to the curve f(t) = 0.5r2 - 3t + 2 at 
+the point where t = 4.
+3 The gradient of the tangent to the curve 
+f(x) = x2 - 5x - 4 at point A is 1.
+Find the coordinates of point A.
+4 The gradient of the normal to the curve
+f(x) = 3x2 + 4x - 3 at point B is i.
+2
+Find the coordinates of point B.
+5 Jacek is practising on his skateboard.
+His journey along the track can be 
+modelled by a curve with equation 
+f(t)= 10.667 - 1.667t + 0.041 It2, where 
+t is the time in seconds and f(t) is the 
+distance in metres.
+a Find f (t).
+b Find12) and f (32) and comment on 
+these values.
+c Find the time when Jacek is at the
+minimum point on the track and explain 
+how you know that it is a minimum.
+6 A can of cat food has volume V= 300 cm3. 
+The radius of the can is r cm and the height 
+is h cm.
+a Show that nr2h = 300.
+b Find an expression for the total surface 
+area 5 of the can.
+c
+d
+e
+Click here for a mixed 
+review exercise
+Substitute an expression for h (from 
+part a) into your expression for S 
+(from part b) and hence show that
+5 = 2 7rr2 + 600
+Find dS 
+d r
+Find the minimum value of S and the 
+values of r and h when this occurs and 
+show that it is a minimum value.
+Exam-style questions
+7 PI: A ball is thrown from the top of a cliff. The 
+h path of the ball may be modelled by the
+equation y = -0.05x2 + 13x + 82 (x £ 0), 
+where x is the horizontal distance from 
+the foot of the cliff and y is the height 
+above the foot of the cliff.
+a Find an expression for
+(2 marks)
+b Hence find the maximum height 
+reached by the ball. 
+(3 marks)
+c Justify that the height you found in 
+part b is a maximum point.
+(3 marks)
+8 P2: A rectangular piece of paper, measuring 
+L 40 cm by 30 cm, has a small square of
+side length x cm cut from each corner. 
+The flaps are then folded up to form an 
+open box in the shape of a cuboid.
+a Show that the volume V of the 
+cuboid may be expressed as 
+V= 1200x - 140x2 + 4x3. 
+(3 marks)
+b Find an expression for
+(2 marks)
+c Hence show that the cuboid will 
+have a maximum volume when
+x2-yx + 100 = 0. 
+(2 marks)
+d Using technology, find the maximum 
+possible volume of the cuboid.
+(4 marks)
+544
+
+9
+PI: The following table shows the
+temperature (I) in a town, measured 
+hours (h) after midnight.
+Hours after 
+midnight
+Temperature
+T(°C)
+0
+8
+5
+11
+10
+12.5
+15
+12
+20
+9.5
+24
+2
+It is suggested that T and h are 
+connected by the relationship 
+T = ah2 + bh + c, where a, b and c 
+are constants.
+a Determine the values of a, b and c.
+(4 marks)
+. 
+. r dr
+b Find an expression for —.
+(2 marks)
+c Use your expression for — to
+d h
+determine at what time during the 
+day the temperature is at its highest.
+(2 marks)
+d Referring to your answer to part c, 
+suggest one reason why a quadratic 
+model may not be accurate in this 
+instance. 
+(1 mark)
+10 PI: Using your GDC, find the stationary 
+h points on the curve y = 2X4 + 0.2x3 - 8x2 
++ 5x + 3, giving each coordinate to 3 sf.
+(6 marks)
+11 PI: A curve is given by the equation
+y - 2x' lx2 + 2x + 5.
+a Determine the coordinates on the 
+curve where the gradient is -3. You 
+must show all your working, and 
+give your answers as exact fractions.
+(6 marks)
+b Find the range of values of x for 
+which the curve is decreasing.
+(2 marks)
+12 PI: Find the equation of the normal to
+■_ %
+the curve y = 2 - — at the point
+wherex= 1. 
+(7 marks)
+13 PI: The gradient of the tangent to the 
+L function with equation y = ax2 + bx + 3 
+at the point (2, -1) is 8. Find the value 
+of a and the value of b. 
+(7 marks)
+14 P2: Two numbers x and y are related by the 
+b equation x + y = 20.
+a Find the maximum possible value 
+oixy. 
+(3 marks)
+b Find the minimum possible value of 
+x2+y2. 
+(5 marks)
+c Justify that your answer to part b is 
+a maximum value. 
+(3 marks)
+545
+Calculus
+
+Modelling and investigation activity
+River crossing
+Approaches to learning: Thinking skills: 
+Evaluate, Critiquing, Applying
+Exploration criteria: Personal engagement 
+(C), Reflection (D), Use of mathematics (E) 
+IB topic: Differentiation, Optimization
+The problem
+You are standing at the edge of a slow-moving river which is one 
+kilometre wide. You want to return to your campground on the 
+opposite side of the river. You can swim at 3 km/h and run at 8 km/h.
+You must first swim across the river to any point on the opposite bank. 
+From there you must run to the campground, which is 2 km from the 
+point directly across the river from where you start your swim.
+What route will take the least amount of time? 
+v_______________________________________________________ /
+Visualize the problem
+Here is a diagram of this situation:
+ZKM
+(B) x CO Z-x
+1 m
+RIVER
+Yow(A)
+CAMP GROUND (D)
+Discuss what each label in the diagram represents.
+546
+
+Solve the problem
+What is the length of AC in terms of x?
+Using the formula for time taken for travel at a constant rate of speed from this 
+chapter, write down an expression in terms of x for:
+1 the time taken to swim from A to C
+2 the time taken to run from C to D.
+Hence write down an expression for the total time taken, T, to travel from A to 
+D in terms of x.
+You want to minimize this expression (find the minimum time taken).
+Find —. 
+dx
+d T
+Now solve — = 0 to determine the value of x that minimizes the time taken. 
+dx
+How do you know this is a valid value?
+For this value of x, find the minimum time possible and describe the route.
+Assumptions made in the problem
+The problem is perhaps more accurately stated as:
+You are standing at the edge of a river. You want to return to your campground 
+which you can see further down the river on the other side. You must first swim 
+across the river to any point on the opposite bank. From there you must run to 
+the campground.
+What route will take the least amount of time?
+Look back at the original problem.
+What additional assumptions have been made in the original question?
+What information in the question are you unlikely to know when you are 
+standing at the edge of the river?
+What additional information would you need to know to determine the 
+shortest time possible?
+The original problem is a simplified version of a real-life situation. Criticize the 
+original problem, and the information given, as much as possible.
+Extension
+In an exploration it is important to reflect critically on any assumptions made and 
+the subsequent significance and limitations of the results.
+Consider the open-box problem in 05 of Exercise 12F on page 542 and Example 9 
+involving the “volume of a cylindrical can" on page 540 and/or some of the questions 
+in Exercise 12F on pages 541—2.
+If you were writing an exploration using these problems as the basis or inspiration of 
+that exploration, then:
+• What assumptions have been made in the question?
+• What information in the question are you unlikely to know in real life?
+• How could you find this missing information?
+• What additional information would you need to know?
+Criticize the questions as much as possible!
+542
+Modelling and investigation activity
+
+Approximating irregular 
+spaces: integration
+What do the graphs of functions that have the 
+same derivative have in common? How do 
+they differ?
+This chapter explores integration, the reverse 
+of differentiation. The area of an island and 
+the amount of glass needed for the windows 
+of a building can be represented by integrals. 
+Integrals give you a way to estimate the values 
+of areas that cannot be found using existing 
+area formulae.
+How can you estimate the area 
+covered by oil spills out at sea?
+Concepts
+■ Space
+■ Approximation
+Microconcepts
+■ Lower limit
+■ Upper limit
+■ Definite integrals
+■ Area under a curve
+■ Trapezoidal rule
+■ Numerical integration
+■ Antiderivatives
+■ Indefinite integral
+■ Constant of integration
+O
+How can you find the amount of 
+glass in this building?
+548
+
+San Cristobal is the easternmost island of 
+the Galapagos. Here is a map of the island.
+It is claimed that the total area of the island 
+is 558 km2. How can you test this value?
+Use a rectangle to estimate the area of the 
+island.
+How did you use the map scale?
+Does your result underestimate or 
+overestimate the claimed area? Why?
+How could you improve your estimate?
+0 
+4 
+8 km
+Leon Dormido
+Puerto 
+Baquerizo 
+Moreno
+Cerro
+Isla
+Lobos
+White Rose Bay
+Developing inquiry skills
+Write down any similar inquiry questions you might 
+ask to model the area of something different; for 
+example, the area of a national part, city of lake in 
+your country.
+Think about the questions in this opening problem 
+and answer any you can. As you work through the 
+chapter, you will gain mathematical knowledge and 
+skills that will help you to answer them all.
+549
+

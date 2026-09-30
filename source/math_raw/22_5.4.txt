@@ -1,0 +1,1111 @@
+Developing inquiry skills
+Will the taxi driver reach the 
+average annual salary in one 
+year’s time? If not, how long 
+will it take?
+What assumptions do you 
+need to make to answerthis 
+question?
+Developing 
+your toolkit
+Now do the 
+Modelling and 
+investigation 
+activity on page 
+260. '
+5.4 Modelling
+Investigation 13
+A water tank is leaking. The amount of water in the tank was measured three times after it started to leak. The 
+table shows the measurements.
+Time [tminutes)
+2
+4
+9
+Amount of water [w litres)
+1900
+1800
+1500
+1 
+Using technology, plot the information from the table on a set of axes.
+2 
+What can you say about the positions of the points? What do you think would be a good model to fit this 
+data? Why?
+Explain how you decided to choose your model. It is important to justify why you have chosen a 
+particular model.
+Find an equation for your model using technology. Plot your model on the same set of axes as in part 1.
+3 
+How could your model be useful? What results would it help to find?
+Continued on next page
+1 Calculate the simple interest on a loan of:
+a $9000 at a rate of 5% pa over three 
+years (pa means per annum) 
+b $10000 at a rate of 8.5% pa over 18 
+months (18 months is 1.5 years) 
+c $6500 at a rate of 7% pa over 3 years 
+and 5 months.
+2 Find the amount of money borrowed if after 
+seven years the simple interest charged is 
+$9000 at a rate of 7.5% per annum.
+3 Find the rate of simple interest 
+charged if UKE1840 is earned after 
+5 years on a deposit of UKE8000.
+4 Stephen deposits $8600 in a bank account 
+that pays simple interest at a rate of 6.5% 
+per annum. Find how long it will take for 
+Stephen's money to double.
+5 True or false: The formula A = 1000 + 30/7
+n
+can be used to calculate the final amount 
+in an investment account that pays 0.3% 
+simple interest pa on a capital sum of $1000.
+« . t . ... ® 66
+LO
+24?
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+4 What is your estimate forthe amount of water in the tank after 3 minutes? What is your estimate forthe 
+amount of water in the tank after 15 minutes?
+Why are these estimates?
+5 
+Do you think that your predictions are reliable? Are 3 and 15 in the domain of the given data?
+Is it reasonable to use your model to estimate the amount of water in the tank after 40 minutes? Why or 
+why not?
+6 
+Is it reasonable to think that between the first and the third measurement times there was a moment at which 
+there were 1300 litres of water in the tank? Explain.
+Extrapolation means estimating 
+a value outside the range of the 
+given data.
+Interpolation means estimating 
+a value within the range of the 
+given data.
+In Investigation 13, which predictions involved interpolation and 
+which extrapolation? Which do you think were more reliable?
+Reflect
+What is the difference between interpolation and extrapolation? 
+Why do we need to consider the reasonableness of results within the context? 
+Why is interpolation more reliable than extrapolation?
+The diagram shows the mathematical modelling process.
+Reject
+There are three main stages in the mathematical modelling process that you 
+need to apply:
+• 
+Given a real-world problem, develop and fit the model.
+• 
+Test and reflect upon the model.
+• 
+Use the model to analyse and interpret data and to make predictions.
+Have you applied these stages when working on Investigation 13?
+In which stage did you:
+• determine a reasonable domain and range for the model?
+• comment on the appropriateness and reasonableness of the model?
+• recognize the dangers of extrapolation?
+248
+
+Example 19
+In a chemistry experiment, a liquid is heated and the temperature is recorded at 
+different times. Some results are shown in the table.
+(D
+Time [X minutes)
+4
+6
+8
+10
+Temperature [y °C)
+130.0
+209.8
+290.3
+369.2
+a Plot a graph of this data on your GDC. 
+b Choose an appropriate model. Justify your decision, 
+c Determine a reasonable domain and range for your model, 
+d Find an equation for the model. Plot it on your graph, 
+e Comment on your model, 
+f Use your model to estimate:
+i 
+the temperature of the water 4.5 minutes after the experiment started
+ii the temperature of the water 20 minutes after the experiment started, 
+g Comment on the predictions made in part f.
+b The points seem to be aligned, so a linear 
+model would be appropriate, 
+c Domain: [x: 4 < x < 10)
+Range: [y: 130 <y< 369.2)
+The equation of the model is
+y= 39.9x- 30.0
+(or y = 39.905* - 29.51).
+To determine a reasonable domain and 
+range for your model, look at the table or 
+graph on the GDC and identify the interval 
+of values over which each of the two 
+variables is defined:
+Time is between 4 and 10, and temperature 
+is between 1 30 and 369.2.
+Based on the position of the points, we may 
+assume that the model is linear and of the 
+form y = mx + c.
+Your GDC gives the values of the gradient 
+and the y-intercept.
+o
+Continued on next page
+fcUMM —
+... ® 66
+LO
+249
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+e The model fits the data points well, 
+f i 150
+ii 769
+The answer to i is appropriate as t = 4.5 
+is within the domain on which the 
+model has been defined, whereas in ii 
+the model has been extrapolated and 
+this may be risky as the linear tendency 
+may not continue after 20 minutes; 20 
+is not within the domain on which the 
+model has been defined.
+Method 1:
+Your GDC can be used to estimate the 
+temperature (y value) graphically.
+Method 2:
+Substitute x - 4.5 in the equation:
+y = 39.905 x 4.05 - 29.51 = 150
+Similar methods can be used to estimate the 
+temperature of the water 20 minutes after 
+the experiment started.
+Investigation 14
+Lucy is researching shipping companies for her business to use. She ships between 200 and 500 kg of 
+products each week. Ted’s Transport charges a flat rate of $ 15.99 per kg plus a flat fee. She knows that her 
+friend used Ted’s Transport and paid about $2800 to ship 120 kg of belongings.
+Model this situation by following the diagram of the modelling process on page 248.
+1 
+Pose a real-world problem:
+What question(s) might you ask here?
+2 
+Develop a model:
+a What are the independent and dependent variables in this situation? 
+b Explain why a linear model is appropriate for this situation, 
+c Find an equation for your linear model in gradient-intercept form.
+3 
+Test the model:
+The following week, Lucy makes her first shipment of 310 kg and pays $5031.90. Is this consistent with 
+your model? If not, revise the model, giving reasons for how you choose to revise it.
+4 Apply your model:
+The following week, Lucy budgets $4500 for shipping. What is the maximum weight she can ship, to the 
+nearest kilogram? (When applying a model, we predict the value of one variable given a known value for 
+the other. It also allows us to make decisions, such as setting budgets.)
+5 
+Reflect on your model:
+a What is C(0), and what is its meaning in the context of the problem?
+b What is a reasonable practical domain and associated range if Lucy uses the model to predict weekly 
+shipping costs?
+e h .i.u j .u iu i Why is modelling useful? What does a model allow us to do?
+250
+
+Garden
+y metres
+x metres
+1 Consider all rectangles with perimeter equal 
+to 20 cm. Let the base of the rectangle be 
+x cm and the height of the rectangle be 
+y cm.
+a Complete the table with values for x and y.
+X
+9
+0.5
+0.1
+y
+5
+8
+b Find a model to express the height of the 
+rectangle (y) in terms of its base (x).
+c i State the domain of the function 
+defined in part b.
+ii State the range of the function defined 
+in part b.
+d Sketch the function defined in part b. 3
+e State the rate of change of y with respect to 
+x, and interpret it in this context.
+2 A fence is to be built around a rectangular 
+garden against one wall of a farmhouse.
+The total length of fence is 70 metres, and 
+it will enclose three sides of the garden as 
+shown in the diagram.
+a Complete the following table of 
+values for x and y.
+Width (xm)
+5
+8
+20
+34
+Length [y m)
+b Plot the points from the table on your 
+GDC. State a good model for the length 
+of the garden.
+c Plot your model on the GDC. 
+d State whether it is reasonable to use 
+your model to find the length when 
+the width of the garden is 36 metres, 
+explaining your answer, 
+e Find the domain and range for this model.
+The sales of a company, S million dollars, x 
+years after it opened are shown in the table.
+x (years)
+2
+6
+10
+5 (million dollars)
+8
+11.3
+15.1
+a Plot a graph of this data on your GDC.
+b Choose an appropriate model for the sales 
+of the company. Justify your decision.
+c Find an equation for the model. Plot the 
+model on the GDC.
+d Comment on your model, 
+e Hence estimate:
+i the sales of the company 7 years after 
+it opened
+ii the sales of the company 15 years 
+after it opened.
+TOK
+What is the relationship between real-world 
+problems and mathematical models?
+Returning to the opening problem, how have you used the 
+modelling process discussed in this section to investigate it?
+Developing inquiry skills
+( D U ) C 0 3 ’ 3 - , Q )  
+“H
+... ® 66
+LO
+251
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+Chapter summary
+• A relation is a set of ordered pairs.
+• A function is a relation between two sets in which every element of the first set (input, independent 
+variable] is mapped onto one and only one element of the second set (output, dependent variable).
+• The domain of a function is the set of all input values.
+• The range of a function is the set of all output values.
+• 
+For a function f the notation y =f(X) means that x (an element of the domain, the input) is 
+mapped by the function/toy (an element of the range, the output).
+• A linear model has the general form f(X) = mx + c, where m and c are constants. The graph of a 
+linear model is a straight line.
+• A linear model with formulay=/7lX'relates two variables,xandy, that are in direct variation (proportion).
+• A one-to-one function/that maps set A onto set B will have an inverse function/"1 that maps B 
+onto A Iff(X) =y then f~l(y) =x.
+• A sequence of numbers is a list of numbers (of finite or infinite length) arranged in an order that 
+obeys a certain rule. Each number in the sequence is called a term.
+• The terms of a sequence can be added together. Adding the terms of a sequence gives a series.
+• The Greek letter Z, called "sigma”, is often used to represent a sum of values:
+= 2>, = «,+«2+«,+...+«„
+• A sequence in which the difference between each term and its previous one remains constant is 
+called an arithmetic sequence. This constant value is called the common difference of the sequence.
+• The general term (or /2th term) of an arithmetic sequence with first term U{ and common 
+differencedis ut=u{ + (n - \ )d, where ne Z + .
+• The sum, Sfj, of the first n terms of an arithmetic sequence U (, U2, U y ... can be calculated using
+yi
+the formula Sn = —(w, + w,r).
+• The formula for simple interest is I=Cxrxn, where
+Cis the capital (or principal) 
+r is the interest rate 
+n is the number of interest periods 
+/is the interest.
+• Extrapolation means estimating a value outside the range of the given data. Interpolation means 
+estimating a value within the range of the given data
+Developing inquiry skills
+Has what you have learned in this chapter helped you to answer the
+questions from the beginning of the chapter about the taxi driver's profit?
+How could you apply your knowledge to investigate other business
+charging structures? What information would you need to find?
+Thinking about the inquiry questions from the beginning of this chapter:
+• 
+Discuss whether what you have learned in this chapter has 
+helped you to think about an answerto these questions.
+• 
+Consider whetherthere are any questions that you are interested 
+in and would like to explore further, perhaps for your internal assessment topic.
+252
+
+Chapter review
+1 The diagram shows the graph of a relation 
+R that maps set A onto set B. 
+y
+2 "
+1 -
+* CO -
+1
+2 -i 0
+-1 -
+•
+:
+:
+►
+-2 '
+-3 -
+a Write down R as a set of ordered pairs, 
+b Explain why R is a function from A to B.
+c Write down the domain of this 
+function.
+d Write down the range of this function.
+2 State which of these graphs do not 
+represent a function. Give a reason for 
+your choice.
+3 For each of these functions defined by 
+their graphs:
+i 
+Determine whether it is many-to- 
+one or one-to-one.
+ii 
+Write down the domain.
+iii Write down the range.
+■fero -  ® 66
+Lf>
+253
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+4 The function f{x) = mx + b is defined by the 
+mapping diagram shown.
+x 
+f{x)
+a Find the values of m and b. 
+b Find the value of/(3). 
+c Find the value of c.
+5 Consider the function f{x) = -2x + 5 where 
+-3 <x<4.
+a Write down the domain, 
+b Find /(-3). 
+c Find x if fix) = 4. 
+d Sketch the graph of this function, 
+e Hence, find the range.
+6 Find the domain of the function y = 3 - x 
+if it is known that the range is the set 
+[-2, -1,0, 0.5, 3).
+7 Consider the function f(x) =0.5x- 3. 
+a Write down the domain of/.
+b Sketch the graph of /. Mark clearly on 
+your sketch the axis intercepts.
+c Hence, find the range of /.
+d Determine whether or not these points 
+lie on the graph of /:
+i A( 1,—2.5)
+ii B( 100,46)
+8 The diagram shows the graph of a function 
+y=f{x).
+a Write down the values of:
+i f(4) 
+ii /(-6) 
+iii /(6)
+b Find a : if:
+i f(x)=-1 
+ii f(x) = -5 
+iii f(x) = 2
+c The point A(t, 3) lies on the graph of /.
+Write down the value of t. 
+d Find the set of values of x for which
+m < 0.
+254
+
+9 In a certain city a travel card has a value of 
+$150. Every time the card is used, $2.50 is 
+deducted from the card, 
+a Write down a formula for T(x), the 
+amount of money remaining on the 
+card after it has been used x times.
+b Find 7(6) and explain its meaning.
+c Find the number of times the card has 
+been used when it has $105 remaining.
+d Find:
+i the domain of the function 7
+ii the range of the function 7.
+10 Ezequiel walks from the park to home. 
+After 7 minutes, he is 200 metres from 
+home and after 10 minutes he is 80 metres 
+from home. Assume that Ezequiel is 
+walking at a constant speed.
+a Find a model for the distance, d, from 
+where Ezequiel is to home in terms of 
+the time he has been walking, t.
+b Determine how far it is between the park 
+and Ezekiel's home.
+c Determine how long it takes Ezekiel to 
+get to home from the park.
+d Sketch the graph of d against t for a 
+suitable domain.
+11 A linear function/is such that f(2) = 0 and 
+f(-2)=-1.
+a Find the formula for the function /. 
+b Find /(5).
+12 The exchange rate from Pounds Sterling 
+(UK£) to Australian Dollars (AUD) is 
+UK£1 = AUDI.73.
+a Find the number of AUD equivalent to 
+UK£70.
+b Sketch a conversion graph for UK£ to 
+AUD.
+c Find a model a(p), where a is the 
+amount of money in AUD 
+corresponding to UK£p. 
+d Find d( 100) and explain its meaning, 
+e Find Cl~]{50) and explain its meaning.
+13 Find the intersection point of the graphs 
+of the functions/(x) =-x+ 5 and
+#(x) = 0.5x + 4.
+14 Determine which of these functions have 
+an inverse function. Give a reason.
+a f(x) =x2 
+b f(x) = 5x + 1
+c f(x) = 3 
+d f{x) = Jx
+15 A car leaves Sun City and takes the road 
+towards Mars City, which is 200 km away 
+from Sun City. The car moves at a constant 
+speed of 70 km per hour. At the same time a 
+truck leaves Mars City on the same road but 
+in the opposite direction. The truck moves 
+at a constant speed of 60 km per hour.
+a Find an equation for the distance from 
+the car to Sun City, c km, in terms of 
+the time x in hours since the car left 
+Sun City.
+b Find an equation for the distance from 
+the truck to Sun City, t km, in terms of 
+the time x in hours since the truck left 
+Mars city.
+c Find how long it takes for the car and 
+the truck to be at the same distance 
+from Sun City. Find this distance.
+16 The diagram shows the graph of the 
+function /.
+Use the graph to answer the following 
+questions.
+a Find the values of:
+i /(4) 
+ii /-'(4)
+255
+Lf>
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+b Solve the equations:
+i f(x) = -7 
+ii tl(x) = l
+c Write down the domain and the range 
+of the function f~v(x). 
+d Draw the graph oiy=f~l (x).
+17 The first term of an arithmetic sequence is 
+Wj = 5 and the common difference is d- 2.5. 
+a Find u2 and uy
+b Write down the general term un of this 
+sequence.
+c Find the the smallest value of n for 
+which u > 377.
+n
+18 Consider the arithmetic series
+5 = 20 + 20.4 + 20.8 + ... + 37.6. 
+a Find the number of terms in this series, 
+b Find the value of S.
+19 a Write down an expression for Sn,
+the sum of the first n terms of the 
+arithmetic series 
+105 4* 100 + 95 + ...
+b Hence, find the value of n for which
+S = 1140.
+n
+20 Consider this sequence of figures
+Figure 1 
+Figure 2 
+Figure 3
+Figure 1 contains three line segments, 
+a Find the number of line segments in 
+Figure 7.
+b Given that Figure n contains 251 line 
+segments, show that n = 125.
+c Find the total number of line segments 
+in the first 100 figures.
+21 A sequence is given by afj = -1 On + 3.
+a Show that this sequence is arithmetic, 
+b Find the smallest k for which ak < -1000.
+22 Deby borrows UK£1800 and wants to pay it 
+back over three years. She has two options: 
+Option 1: Pay simple interest of r% pa. 
+Option 2: Pay a flat rate of 18% of the 
+borrowed amount.
+a Determine how much money Deby 
+would have to pay back if she chose 
+option 2.
+b Find the value of r that makes Deby pay 
+back the same amount for either option.
+23 Transfers from the airport to a passenger's 
+house have different prices. Here is a table 
+with some journey lengths (in km) and 
+their respective prices ($).
+Journey length (km]
+10
+25
+36
+Price ($)
+450
+810
+1200
+a Plot a graph of this data on your GDC.
+b Choose an appropriate model for the 
+price of the journey.
+c Hence find an equation for the model. 
+Comment on your model.
+d Use your model to estimate the price of 
+the journey when the passenger lives
+i 27 km from the airport
+ii 40 km from the airport.
+e Comment on the appropriateness of 
+your predictions from part d.
+Exam-style questions
+24 PI: Find the range of each of the following
+functions.
+a f(x) = 5x+ 1, domain
+{x g R: —5 < a * < 5} 
+(2 marks)
+b f(x) = 4 - 2x, domain
+[x = -\, 0, 1, 2, 3, 4} 
+(2 marks)
+c f(x) = x2, domain {xe IR: 0 < x < 10)
+(2 marks)
+d f(x) = 250 - 12.5x, domain
+(x g  R: 0 <x< 10) 
+(2 marks)
+25 PI: A taxi company's charge for a single 
+h taxi journey can be calculated using
+the formula C = 2.8 + 1.6d, where C 
+is the cost (in pounds) and d is the 
+distance travelled (in km).
+a Draw a graph of distance against 
+cost for any journey up to 8 km.
+(3 marks)
+b State what the value 2.8 represents 
+in the context of the question.
+(1 mark)
+c State what the value 1.6 represents 
+in the context of the question.
+(1 mark)
+256
+
+d State the range of the graph you 
+have drawn. 
+(2 marks)
+e Using your graph, or otherwise, 
+find how far a passenger could 
+travel by spending £10. 
+(2 marks)
+PI: The mh term, u , of an arithmetic
+tV
+sequence is given by the formula 
+u = 23 + In.
+n
+a State the first term of the sequence.
+(1 mark)
+b Find the 50th term of the sequence.
+(2 marks)
+c Explain why 1007 is not a term in 
+this sequence. 
+(3 marks)
+P2: Denise organises a party for her work 
+colleagues. The cost to rent a local hall 
+is $430 for the evening. She then has 
+to budget for food, which will cost 
+approximately $14.50 per person.
+a Write down a formula connecting 
+the total cost of the evening ($C) 
+with the number of people 
+attending (P). 
+(2 marks)
+b Find the total cost for the evening if 
+25 people attend. 
+(2 marks)
+c Given that Denise has a maximum 
+budget of $1000, find the greatest 
+number of people she is able to 
+invite. 
+(3 marks)
+d In the end, only 16 people will 
+attend. Calculate how much each 
+person should be charged so that 
+Denise covers her costs. (3 marks)
+PI: A function f(x) is defined by f(x) = 3x- 10.
+a Given that the range of f(x) is 
+5 < f{x) < 50, find the domain of 
+f(x). 
+(4 marks)
+b Find the inverse function,f~l(x).
+(2 marks)
+c State the range of the inverse
+function. 
+(2 marks)
+PI: Zoran decides to go into business 
+selling comic books. He decides to pay 
+a local company to design a website 
+for him at a one-off cost of $850.
+With this website, he hopes to earn 
+approximately $1200 per month. Zoran 
+has no other costs involved.
+a Write down a formula connecting 
+Zoran's total profits ($P) with the 
+time (T months) after he starts his 
+business. 
+(2 marks)
+b Using this model, determine (to the 
+nearest whole month) how long it 
+will take for Zoran to make a total 
+profit of $5000. 
+(3 marks)
+30 PI: One month, a currency exchange rate 
+showed that €1 (euro) = $1.23 (US 
+dollars).
+a Draw a graph of the currency 
+exchange rate, with euros along 
+the x-axis and US dollars along the 
+y-axis. The range of your graph 
+should go up to approximately 
+$100. 
+(3 marks)
+b Using the graph, find (approxi 
+mately) how much $75 is worth in 
+euros. 
+(2 marks)
+c Using the graph, find (approxi 
+mately) how much €30 is worth in 
+US dollars. 
+(2 marks)
+PI: State which of the following graphs 
+represent functions, giving reasons for 
+your answers.
+r>»
+CNJ I
+CD
+CNJ
+■■
+Lf>
+25?
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+32 PI: Ben buys a new car at the same time as 
+h Charlotte. Ben pays £25 600 for his car
+and Charlotte pays £18 000 for hers. 
+Ben's car depreciates at a rate of £1150 
+per year, while Charlotte's depreciates 
+at a rate of £480 per year.
+Use technology to determine how long 
+it will take for Ben and Charlotte's cars 
+to have the same value. Find the value 
+of their cars at this time. (7 marks)
+33 PI: A function is given by f(x) = 128x- 15, 
+L -3 < x < 15.
+a Determine the value of /
+(2 marks)
+b Determine the range of the
+function /. 
+(4 marks)
+c Determine the value of a such that 
+f(a) = 1162.6. 
+(2 marks)
+34 PI: Jacob buys an oil painting at auction. 
+2m He has it evaluated at various times 
+after the initial purchase.
+After 5 years, the painting is worth 
+£1575.
+After 12 years, the painting is worth 
+£2100.
+After 20 years, the painting is worth 
+£2700.
+One model for the value (£V) of the 
+painting after t years is given by 
+V-a + bt, where a and b are constants.
+a Use technology to determine the 
+price Jacob paid for the painting.
+(2 marks)
+b Determine the values of the
+constants a and b. 
+(3 marks)
+c Hence, calculate how much the 
+painting should be worth after 50 
+years. 
+(2 marks)
+d Explain whether you think this 
+model is realistic or not, giving your 
+reasons. 
+(2 marks)
+35 PI: State:
+h i the domain, and ii the range for each 
+of the following functions.
+
+36 PI: The dose D (in milligrams, mg) of a 
+h certain medicine for a child of mass 
+m kg is determined by the equation 
+D = am + b, where a and b are 
+constants.
+For a child of mass 20 kg the correct 
+dose is 115 mg, and for a child of mass 
+25 kg the correct dose is 137.5 mg.
+a Determine the value of a and the 
+value of b. 
+(3 marks)
+b Find the correct dose that should be 
+given to a child with mass 23 kg.
+(2 marks)
+c Suggest reason(s) why the equation 
+may not be appropriate for deter 
+mining the dosage required for an 
+adult with mass 100 kg. (2 marks)
+37 P2:The temperature conversion formula to 
+h change degrees Celsius (C) to degrees
+9 c
+Fahrenheit (F) is given by F = — + 32.
+a Find the temperature in °F that is 
+equivalent to a temperature of 0°C.
+(I mark)
+b Determine which temperature is 
+the same when measured in both 
+degrees Fahrenheit and degrees 
+Celsius.
+(3 marks)
+c Find a formula that can be used 
+to change degrees Fahrenheit to 
+degrees Celsius. 
+(3 marks)
+d In a given year, the temperatures 
+on the island of Menorca ranged 
+from 46.4°F to 84.2°F. Find the 
+equivalent range of temperatures in 
+degrees Celsius. 
+(4 marks)
+38 PI: The price of renting a car (£C) from 
+n "Cars-R-Us" for d days is given by the
+formula C= 30 + 12.5d.
+The price of renting a car (£C) from 
+"Car-nage" for d days is given by the 
+formula C= 70 + 8.3 5d.
+Abel wishes to rent a car for the 
+duration of his holiday.
+He decides to rent from "Car-nage" as it 
+will be cheaper for him.
+a What is the minimum length of 
+Abel's holiday? 
+(3 marks)
+b If Abel's holiday is between 14 and 
+21 days, find an inequality which 
+shows the range in which Abel's car 
+rental bill will lie. 
+(4 marks)
+Lf>
+259
+Number and algebra 
+Functions
+
+Modelling and investigation activity
+The Towers of Hanoi
+The problem
+A
+B
+Approaches to learning: Thinking skills, 
+Communicating, Research 
+Exploration criteria: Mathematical 
+communication (B), Personal engagement 
+(C), Use of mathematics (E)
+IB topic: Sequences
+The aim of the Towers of Hanoi problem is to move all the disks from peg A to peg C following these rules:
+1 
+Move only one disk at a time.
+2 
+A larger disk may not be placed on top of a smaller disk.
+3 
+All disks, except the one being moved, must be on a peg.
+For 64 disks, what is the minimum number of moves needed to complete the problem?
+Explore the problem
+Use an online simulation to explore the Towers of Hanoi problem for 3 
+and 4 disks.
+What is the minimum number of moves needed in each case?
+Solving the problem for 64 disks would be very time-consuming, so 
+you need to look for a rule for n disks that you can then apply to the 
+problem with 64 disks.
+Try and test a rule
+Assume that the minimum number of moves follows an arithmetic 
+sequence.
+Use the minimum number of moves for 3 and 4 disks to predict the 
+minimum number of moves for 3 disks.
+Check your prediction using the simulator.
+Does the minimum number of moves follow an arithmetic sequence?
+Find more results
+Use the simulator to write down the number of moves when n = 1 and 
+n = 2.
+Organize your results so far in a table.
+Look for a pattern. If necessary, extend your table to more values of n.
+260
+
+Try a formula
+Return to the problem with 4 disks.
+Consider this image of a partial solution to the problem. The large disk on peg 
+A has not yet been moved.
+Consider your previous answers.
+What is the minimum possible number of moves made so far?
+How many moves would it then take to move the largest disk from peg A to
+peg C?
+When the large disk is on peg C, how many moves would it then take to move 
+the 3 smaller disks from peg B to peg C?
+How many total moves are therefore needed to complete this puzzle?
+Use your answers to these questions to write a formula for the minimum 
+number of moves needed to complete this puzzle with n disks.
+This is an example of a recursive formula. What does that mean?
+How can you check whether your recursive formula works?
+What is the problem with a recursive formula?
+Try another formula
+You can also try to solve the problem by finding an explicit formula that 
+does not depend on you already knowing the previous minimum number.
+You already know that the relationship is not arithmetic.
+How can you tell that the relationship is not geometric?
+Look for a pattern for the minimum number of moves 
+in the table you constructed previously. 
+Extension
+Hence write down a formula for the minimum number 
+of moves in terms of n.
+Use your explicit formula to solve the problem with 64 
+disks.
+What would a solution look like for 4 pegs? 
+Does the problem become harder or easier? 
+Research the “bicolor” and “magnetic” versions 
+of the Towers of Hanoi puzzle.
+Can you find an explicit formula for other 
+recursive formulae (eg Fibonacci)?
+■wy t o l ... W 66
+LD
+261
+Modelling and investigation activity
+
+Modelling relationships: linear 
+correlation of bivariate data
+1
+In general, is there a relationship 
+between the number of children in a 
+family and the family’s income?
+Concepts
+■ Modelling
+■ Relationship
+Microconcepts
+■ Linear correlation
+■ Bivariate data
+■ Pearson’s product moment correlation 
+coefficient
+■ Outliers
+■ Line of best fit
+■ Regression line equation
+■ Prediction
+■ Interpreting regression coefficients
+Do you have to be 
+tall to be a good 
+basketball player?
+In this chapter you will be studying a method 
+to model the statistical relationship between 
+two variables such as height and weight, and to 
+quantify how closely they are associated.
+In this city there is a strong correlation between the 
+number of ice creams sold during a week and the 
+amount of rubbish. Does this mean that the number 
+of ice creams sold is the cause of the increased 
+rubbish?
+____________________________________________________
+If a student does well in mathematics, 
+does that mean they will do well in 
+another subject?
+262
+
+The table shows the total number of vaccine 
+doses specified for infants aged less than one year 
+along with the infant mortality rate (IMR; infant 
+deaths per thousand) for a group of countries in 
+2009.
+Country
+Total number of
+vaccine doses
+IMR
+Country
+Total number of
+vaccine doses
+IMR
+Sweden
+12
+2.25
+France
+19
+3.33
+Japan
+12
+2.29
+Czech Republic
+19
+3.29
+Iceland
+12
+3.23
+Belgium
+19
+4.44
+Norway
+12
+3.58
+United Kingdom
+19
+4.85
+Denmark
+12
+4.34
+Spain
+20
+4.21
+Finland
+13
+3.42
+Portugal
+21
+4.28
+Malta
+15
+3.25
+Luxemburg
+22
+4.56
+Slovenia
+15
+4.25
+Cuba
+22
+5.82
+South Korea
+15
+4.26
+Austria
+23
+4.42
+Singapore
+12
+2.31
+Ireland
+23
+5.05
+New Zealand
+1?
+4.92
+Greece
+23
+5.16
+Germany
+18
+3.99
+Netherlands
+24
+4.23
+Switzerland
+18
+4.18
+Canada
+24
+5.04
+Israel
+18
+4.22
+Australia
+24
+4.25
+Italy
+18
+5.51
+United States
+26
+6.22
+Data from https://chemtrailsevilla.files.wordpress.com/2011/06/54222928-infant-mortality-rates-regress-
+w-higher-no-of-vaccine-doses.pdf
+What do the figures in the second and fifth 
+columns tell you?
+What do the figures in the third and sixth 
+columns tell you?
+What can you say about the United States in 
+particular?
+What do you expect the relationship to be 
+between the total number of vaccine doses 
+specified and the IMR? Why?
+Plot the points on a graph, with the number of 
+vaccine doses specified on the horizontal axis 
+and the IMR on the vertical axis. Comment on 
+the correlation.
+What do you wonder?
+Developing inquiry 
+skills
+Write down any similar inquiry questions you 
+could ask to investigate the relationship between 
+another pair of variables, such as IMR and family 
+income, or IMR and family size. What information 
+would you need to find?
+Think about the questions in this opening problem 
+and answer any you can. As you work through the 
+chapter, you will gain mathematical knowledge 
+and skills that will help you to answer them all.
+2B3
+
+1 2 3 4 5 6 7 
+No correlation.
+\ !
+Before you start
+You should know howto:
+1 Interpret the gradient of a straight line.
+What is the gradient of the liney = -0.25x + 30 
+and what does this mean?
+The gradient is m = -0.25. This means that for 
+every unit that x increases, y decreases by 0.25.
+2 State the type of correlation from a scatter graph.
+Strong and positive correlation.
+Weak and negative correlation.
+123456789 10
+123456789 10
+Skills check 
+l
+Click here for help 
+with this skills check
+Interpret the gradient of each of these 
+straight lines, 
+a y = 3x-20
+b y = --x +100 
+2
+State the type of correlation shown in 
+each of these scatter graphs.
+a y >
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+■'O 
+CT> 
+OO
+m  
+N J 
+W  
+U l 
+O )
+S ) W
+^ O I O ) > J C O I O  
+O s ^
+264
+

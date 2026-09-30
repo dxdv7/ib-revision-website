@@ -1,0 +1,907 @@
+10.4
+? The time, in minutes, that it takes Terry to 
+solve a crossword puzzle in the newspaper 
+each day is shown in the table.
+Day
+1
+2
+3
+4
+5
+6
+?
+Time
+45
+40
+36
+31
+2?
+22
+1?
+a Plot these points on your GDC. 
+b Determine whether this is a linear decay 
+or an exponential decay, 
+c Find a suitable equation to represent this 
+data.
+Use your equation to estimate how long it 
+will take Terry to complete the crossword 
+puzzle on day 10.
+TOK
+The phrase “exponential 
+growth” is used popularly 
+to describe a number of 
+phenomena.
+Do you think that 
+using mathematical 
+language can distort 
+understanding?
+10.4 Exponential equations and 
+logarithms
+Investigation 12
+Recall from Chapter 5 that if f(a) = b, then f~](b) =a. 
+Suppose f(x) = 10*. Complete this mapping table:
+a
+f(a) = 10"
+0
+1
+2
+3
+1 Explain using the mapping, the equation or a graph of/(x) why its inverse 
+function exists.
+2 Complete the mapping for the inverse function:
+b
+f-'(b)
+1
+10
+100
+1000
+We call the inverse off(x) = 10*the logarithmic function,g(x) = log]Qxor 
+log*.
+Here, 10 is called the base of the logarithm. Any positive number can be used as a 
+base for logarithms, but the only ones you need to know about are 10 and e.
+o
+Continued on next page
+48?
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+3 
+Use your GDC to complete this table:
+Exponent form
+Logarithm form
+102=100
+logl() 100 = 2
+103 =
+C'j
+iF
+o
+OOo
+II
+104 =
+log10 10000 =
+105 =
+log|() 100000 =
+c2 =
+loge 7.389 =
+e3 =
+logc 20.086 =
+e4 =
+loge 54.598 =
+e5 =
+logc 148.413 =
+A disease spreads accordingto the modely = 1 O', where t is the time in days.
+4 
+Find the number of people who are infected initially.
+5 
+Calculate how many people are infected after five days.
+6 
+Find out how long it takes for 3 000 000 people to be infected.
+? H.MJJ.UIMI How are logarithms related to exponential functions?
+8 H.I.UJ.UIMI What kind of problems can you solve using logarithms?
+' \ 
+Logarithms represent the inverse functions of exponential functions.
+If 10* =bthen log]Qb=x, and if ev=/?then logcb = \nb=x.
+On your GDC, log10 is called "LOG" and loge is called "LN", which 
+stands for "natural logarithm".
+Example 13
+a Find x if 10A = 12. 
+b Find x if In x = 3.
+a 10* = 12 can be written as log)0 12 = x
+Using your GDC, log|Q 12 = 1.079
+So x = 1.079
+b In x = 3 is the same as Iogc x = 3
+So e3 = x
+x = 20.1
+Investigation 13
+You have all heard about earthquakes being measured on the “Richter scale”, 
+but do you really know what this means?
+The Richter scale is not a linear scale but a logarithmic scale. So, if one earthquake
+has a value of 5.2 and another has a value of 6.4, then the second one is
+1012 = 15.85 or about 16 times stronger than the first one (1.2 = 6.4 - 5.2). 
+a
+International 
+mindedness
+Logarithms do not have units 
+but many measurements 
+use a log scale such as for 
+earthquakes, the pH scale 
+and human hearing.
+488
+
+10.4
+So, using a logarithmic scale, an increase (or decrease) of 1 means an actual 
+increase (or decrease) of the thing being measured of 10. A change of 2 on 
+the scale would mean an actual change of 100.
+Complete the following table to find out how many times stronger each 
+subsequent earthquake is than an initial earthquake measuring 5.2 on the 
+Richter scale.
+First earthquake 
+measurement
+Second earthquake 
+measurement
+Number of times 
+stronger
+5.2
+5.8
+5.2
+6.9
+5.2
+2.5
+5.2
+8.1
+5.2
+8.2
+Explain why logarithms can be useful in measuring some things.
+Discuss with your partner and share.
+n.i.ujmn What kind of situations do logarithms model? Give examples.
+1 The length of a pumpkin plant, in metres, 
+can be modelled by the equation f(x) = e* 
+where x is the time in weeks after the 
+pumpkin is planted.
+a Find the initial length of the pumpkin 
+plant.
+b Find the number of weeks it takes for 
+the plant to reach 10 metres.
+2 The spread of a virus can be modelled by 
+the equation f(x) = 10*, where x is the time 
+in weeks.
+a Find how many people have the virus 
+after two weeks.
+b Find the number of weeks it takes for 
+500 people to have the virus, 
+c Find the number of weeks it takes for 
+2000 people to have the virus.
+3 
+a Find the value of 2 + log 3.
+b Find the value of x when log (x) = l. 
+c Find the value of x when log (x) = 3.
+4 
+a Find the value of 0.5 + In 3. 
+b Find x if In(x) = 4.2.
+c Find x if 3* = 5.
+5 A funny joke is spreading through the 
+office. The speed that it is spreading can 
+be modelled by the equation/(x) = 4 + e* 
+where x is the time in minutes and 
+x>0.
+a Find out many employees heard the joke 
+initially.
+b Find how many minutes it took before 
+150 employees heard the joke.
+Developing your toolkit
+Now do the Modelling and investigation activity on page 496.
+489
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+Chapter summary
+• A sequence of numbers in which each term can be found by multiplying the preceding 
+term by a common ratio is called a geometric sequence.
+• 
+A geometric series is the sum of the terms of a geometric sequence.
+• 
+To check whether a sequence is geometric, find the ratio of pairs of consecutive terms. If this ratio 
+is constant, it is the common ratio and the sequence is geometric.
+• The mh term in a geometric sequence is given by the formula ujj = uirn“l.
+• The sum to n terms of a geometric series is written as S . The formula for S is
+® 
+n 
+n
+U\(r" ~ 1) 
+r -1
+K,0-r”)
+1 - r
+,r* 1
+You can use either form.
+• 
+In general, if you invest a present value of PV, the rate is r % compounded annually, and the 
+number of years is n, then the future value (FV) is found by the following formula:
+( r V
+FV = PV 1 +-----
+V 100
+• The compounding period is the time period between interest payments. For example, for interest 
+compounded quarterly, the compounding period is three months.
+• 
+If PKisthe present value, FV'the future value, rthe interest rate, nthe number of years and A" the 
+compounding frequency, or number of times interest is paid in a year (ie k= 1 for yearly, k-2 for 
+half-yearly, k- 4 for quarterly and k — 12 for monthly), then the general formula for finding the 
+future value is
+/ 
+\kxn
+FV = PV 1 + —---- I
+V 
+A x100 J
+• Inflation measures the rate that prices for goods increase over time and, as a result, how much 
+less your money can buy.
+• An inflation adjustment is the change in the price of an article that is a direct result of inflation.
+• An annuity is a fixed sum payable at specified intervals, usually annually, over a period, such as 
+the recipient’s life, in return for a premium paid either in instalments or in a single payment.
+The formula for working out an annuity is
+FV = Ax '<1 + r)"-l)'
+where PVisthe future value, A is the amount invested each year, r is the interest rate and n is the 
+number of years.
+The formula for working out monthly payments for annuities is
+P =
+rPV
+l-(l + r) "
+where Pis the payment, r is the rate, PVisthe present value and n the number of years. 
+• The formula to find the payments for amortization is
+A = PV r( 1 + r)H 
+0 + r)"-l
+where A is the amount, PV is the present value, r is the rate and n is the number of periods.
+490
+
+10
+• 
+An exponential function has a number, called the base, raised to a power; the independent or input 
+variable is the power.
+• 
+The general equation is of the form f(x) =kax+c, a> 0, k *0. This has the horizontal asymptote 
+y = cand crosses the y-axis at the point (Q,k + c).
+• 
+e is an irrational number with a value of 2.718 28...
+• 
+Exponential functions can be used to model real-life situations where there is a constant 
+percentage change.
+• 
+Logarithms represent the inverse functions of exponential functions.
+• 
+If 1 Ov=b then log} Q b=x, and if e*=b then loge b = In b=x.
+Developing inquiry skills
+At the beginning of this chapter you were 
+asked “Can you predict the smallest 
+height that no athlete will ever be able to 
+jump over?”
+Has what you have learned in this chapter 
+helped you to answer the question?
+What information did you manage to find?
+What assumptions did you make?
+How will you be able to construct a 
+model?
+Will this be different for men and women?
+If so, explain why?
+What other things did you wonder about?
+You were also asked these questions at the beginning of the chapter:
+• 
+How long will it take you to become a millionaire if you receive US$1 the first month, US$2 the 
+second month, US$4 the third month, US$8 the fourth month and so on?
+• 
+How can you find an equation to model the slope of a skateboard track? Ora ski slope?
+• 
+How can you work out which rate gives you the most interest on your savings?
+• 
+How can you work out the monthly payments on a loan?
+• 
+If the temperature of a cup of tea reduces at a given rate, will it ever reach 0°C?
+Has what you have learned in this chapter helped you to think about an answerto most of these 
+questions?
+Are there any that you are interested in and would like to explore further, perhaps for your IA topic?
+491
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+Chapter review
+Click here for a mixed 
+review exercise
+1 The first four terms of a geometric 
+sequence are 2, 5, 12.5 and 31.25. 
+a Find the common ratio.
+b Find the eighth term, 
+c Find the sum of the first eight terms.
+2 Saul bought a new bicycle for US$350. 
+Every year the value of the bicycle 
+decreased by 12%. Find the value of the 
+bicycle at the end of five years.
+3 Molly bought a flat. At the beginning of 
+the third year, the value of Molly's flat had 
+increased to €363 000. At the beginning of 
+the fifth year, the value had increased to 
+€439230.
+a Calculate the rate of increase.
+b Calculate how many euros Molly 
+originally paid for the flat, 
+c Find how much the flat is worth at the 
+beginning of the ninth year.
+4 A geometric sequence has terms
+2, 6, 18......118 098.
+a Calculate the number of terms in this 
+sequence.
+b Find the sum of the corresponding series.
+5 The school fees increase each year by the 
+rate of inflation. When Barnaby joined the 
+school, the fees were UK£9500. At the end of 
+the first year the rate of inflation was 1.16%. 
+a Find the cost of the school fees for the
+second year.
+The following year the rate of inflation 
+was 1.14%.
+b Find the cost of the school fees for the 
+third year.
+6 Wei invested SGD 3000 (Singapore dollars) 
+in a bank that paid 2.35% interest per year 
+compounded monthly.
+a Find how much Wei had in the bank 
+after six years.
+b Find the number of years before he had 
+SGD 5000 in the bank.
+7 Marek invested PLN 4500 (Polish zloty) in 
+a bank that paid r% interest per annum 
+compounded quarterly. After six years he 
+had PLN 5179.27 in the bank. Find the 
+interest rate.
+8 Silvia is left an annuity of US$4000 in her 
+uncle's will. The annuity is for five years 
+at 4% per annum and is to be paid out 
+monthly. Find the monthly payments.
+9 Nathalie borrows €6500 for a motorcycle. 
+The loan is for five years at 2.5% interest 
+per annum. Find how much Nathalie's 
+monthly payments are.
+10 The population of rabbits can be modelled 
+by the function f(x) = 24 000 x 1.12* 
+where x is the time in years.
+a Find the number of rabbits after five years, 
+b Calculate how long it will take for the 
+population of rabbits to double.
+11 The temperature, T°C, of a cup of soup 
+can be modelled by the equation
+T(x) =21 +74 x (1.2)“*, where x is the 
+time in minutes.
+a Find the initial temperature, 
+b Find the temperature after 10 minutes.
+c Find how many minutes it takes for the 
+soup to reach 40°C.
+d Write down the room temperature.
+12 An exponential equation is/(x) =4 x 2.3*+ 16. 
+a Write down the equation of the
+horizontal asymptote.
+b Write down the coordinates of the point 
+where the curve cuts the y-axis.
+13 The spread of a disease can be modelled by 
+the equation y = 4 + e*, where x is the time 
+in days.
+a Find the number of people with the 
+disease after seven days, 
+b Find the number of days it takes for 
+25 000 people to be affected.
+492
+
+10
+14 The height, in metres, of a runner bean 
+plant increases each week according to the 
+formula h(t) = 0.25 + log 21, where t is the 
+time in weeks.
+a Find the height of the plant after four 
+weeks.
+b Find the number of weeks it takes for 
+the plant to reach a height of 2 m.
+Exam-style questions
+15 PI: k1, 6 + k, 12 - k are consecutive values 
+h of a sequence \an, n > 0}.
+Find the value of k for which [aj is 
+a non-constant arithmetic sequence, 
+stating its general term. 
+(6 marks)
+16 PI: A company is considering producing 
+V a new product. The new production
+requires the installation of new 
+machines and equipment. For this 
+purpose, the company wants to borrow 
+money by selling bonds, each priced 
+at US $100 000, lasting fora 10-year 
+period. The interest which the company 
+pays to the bondholders is 5% per year. 
+Calculate the amount of interest to be 
+paid per bond over the 10-year period 
+in each of the following cases. Give 
+your answers exactly, or correct to two 
+decimal places where necessary.
+a Simple interest is charged. (2 marks)
+b Interest is compounded annually.
+(2 marks)
+c Interest is compounded monthly.
+(2 marks)
+1? P2: In this question, give all answers to two 
+h decimal places.
+Carlos decides to take out a loan of 
+20 000 Peruvian Soles (SOL) to buy 
+a car. His bank offers two options to 
+finance the loan.
+Option A: A five-year loan with 
+an annual interest rate of 12.8% 
+compounded quarterly. No deposit 
+required.
+Option B: A five-year loan with an 
+annual interest rate of r% compounded 
+monthly. Terms of the loan require a 
+10% deposit and monthly repayments 
+of SOL 400.
+a If Carlos chooses option A, find:
+i 
+the repayment he makes each 
+quarter
+ii 
+the total amount he pays back
+iii the total interest he pays on the
+loan. 
+(5 marks)
+b If Carlos chooses option B, find:
+i 
+the total amount Carlos pays to 
+the bank
+ii 
+the annual interest rate, r.
+(5 marks)
+c State which option Carlos should 
+choose. Justify your reasoning.
+(2 marks)
+18 PI: Consider the graph of the exponential 
+function /defined by f(x) = 16 - 4 x 2~x.
+a State the domain of /. 
+(1 mark)
+b State the zero of/. 
+(1 mark)
+c State the y-intercept of the graph of/.
+(1 mark)
+d State the range of /. 
+(1 mark)
+e State the interval where /is positive.
+(I mark)
+f State the equation of the horizontal 
+asymptote of/. 
+(1 mark)
+19 PI: In a controlled experiment, the tem- 
+h  
+perature T°C of a liquid, t hours after the
+start of the experiment, is T= 25 + e0 4f, 
+0<t< 12.
+a Sketch the graph of the temperature 
+T = T(t) for 0 < t < 12. 
+(2 marks)
+b State the temperature halfway 
+through the experiment, to the 
+nearest 0.1 °C. 
+(1 mark)
+c Find the time at which the temperature 
+of the liquid reaches 100°C. Give your 
+answer in hours and minutes, to the 
+nearest minute. 
+(3 marks)
+493
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+P2: A controlled experiment took place 
+in a laboratory. Biologists estimated 
+the number of microbes N present in 
+a culture t days after the start of their 
+experiment. The first results obtained 
+are shown in the top two rows of the 
+table below.
+f
+3
+5
+10
+15
+20
+N
+115
+128
+480
+900
+1600
+log N
+a Complete the last row of the table.
+(2 marks)
+b Draw a graph of logN against t, 
+using appropriate scales. (4 marks) 
+c Hence, state the type of model that 
+best fits the data displayed in part b.
+(1 mark)
+d Dr Wise claim that the number of 
+microbes can be modelled by 
+N(t) =AxB‘.
+Explain why Dr Wise is correct.
+(4 marks)
+e Hence, determine the values of 
+the parameters A and B of Dr 
+Wise's model, showing all your 
+calculations. 
+(5 marks)
+21 PI: In a research laboratory, biologists 
+studied the growth of a culture of 
+bacteria. From the data collected hourly, 
+they concluded that the culture increases 
+in number according to the formula 
+N(t) = 35 x 1.85'
+where N is the number of bacteria 
+present and t is the number of hours 
+since the experiment began.
+Use the model to calculate:
+a the number of bacteria present at the 
+start of the experiment (1 mark) 
+b the number of bacteria present 
+after four hours, giving your 
+answer correct to the nearest whole 
+number of bacteria 
+(2 marks)
+c the time it would take for the
+number of bacteria to exceed 1000.
+(2 marks)
+Due to lack of nutrients, the culture 
+cannot exceed 1000 bacteria.
+494
+d State the domain of validity of the 
+model. 
+(1 mark)
+22 PI: Mr Williams is about to retire, and he 
+m needs to decide how his pension should
+be paid. His pension provider offers him 
+three payment options:
+Option 1: US $10 000 each year for 10 
+years.
+Option 2: US $2500 in the first year, 
+and then the amount increases by US 
+$2000 in each subsequent year for a for 
+a total of 10 years.
+Option 3: US $100 in the first year, 
+and then the amount doubles in each 
+subsequent year for a for a total of 10 
+years.
+Determine which option has the 
+greatest total value. Justify your answer 
+by showing all appropriate calculations.
+23 P2: A large city is concerned about
+li pollution and decides to look at the 
+number of people using taxis.
+At the end of the year 2010, there were 
+50 thousand taxis in the city. At the end 
+of the nth year after 2010, the number 
+of 1.1"-1.
+a i Find the number of taxis in the 
+city at the end of 2015. (2 marks) 
+ii Assuming that this model 
+remains valid, find the year in 
+which the number of taxis is 
+double the number of taxis at 
+the end of 2010. 
+(2 marks)
+At the end of 2010 there were 2 million 
+people in the city who used taxis, n years 
+later, the number of million people ?n 
+who use taxis is given by P = 2 x 1.01/,_1.
+b Assuming that this model remains 
+valid, find the value of P at the end 
+of 2020, giving your answer to the
+nearest thousand. 
+(3 marks)
+Let R be the ratio of the number of 
+people using taxis to the number of 
+taxis. At the end of 2010, R was 43.6 : 1.
+c Find the ratio R at the end of
+i 
+2015 
+(2 marks)
+ii 2020. 
+(2 marks)
+d Comment on the values found in
+parte. 
+(1 mark)
+|I ’ S
+
+10
+24 P2: The diagram shows three graphs.
+a State:
+i 
+the ^-intercept of y = f(x) (1 mark)
+ii the coordinates of the point 
+where C cuts thex-axis. (1 mark)
+b Determine an equation for C in the 
+form y = g(x). 
+(4 marks)
+c Write down:
+i 
+the equation of the horizontal 
+asymptote to the graph of y = f(x)
+(1 mark)
+ii the equation of the vertical 
+asymptote to the graph of y = g(x).
+(1 mark)
+d Hence state the domain ofg. (1 mark) 
+e Solve the equation f(x) + g(x) = 0.
+(2 marks)
+25 PI: Katharina and Carolina go to a swimming 
+h pool. They both swim the first length of 
+the pool in 2 minutes 6 seconds.
+The time that Katharina takes to swim 
+each subsequent length is 5 seconds 
+more than she took to swim the 
+previous length.
+The time that Carolina takes to swim 
+each subsequent length is 1.04 times 
+that which she took to swim the 
+previous length.
+a i State the time Katharina takes 
+to swim the third length, 
+ii Show that Carolina takes 2 
+minutes and 16 seconds (to the 
+nearest second) to swim the 
+third length. 
+(5 marks)
+Katharina and Carolina swim a total 
+of 10 lengths of the pool. They start at 
+exactly at the same time.
+b Show that Katharina completes the 
+10 lengths before Carolina.
+(4 marks)
+c Hence state the value of the time 
+difference, correct to the nearest 
+second, between their total times.
+(1 mark)
+26 P2: Mr Garcia is offered a 10-year contract 
+m with a starting annual salary of 20 
+million Colombian pesos (COP) and 
+yearly increases of 5% on the previous 
+annual salary.
+a Justify that Mr Garcia's annual 
+salaries over the 10-year period 
+form a geometric sequence, and 
+state its common ratio. (2 marks) 
+b Determine Mr Garcia's annual salary 
+during the third year of his contract.
+(2 marks)
+c Find the total amount Mr Garcia 
+will earn during his 10 years at the 
+company, correct to the nearest 
+thousand pesos. 
+(3 marks)
+After considering the company offer, Mr 
+Garcia asks for a different payment plan. 
+He wants to start with the same annual 
+salary, but have fixed annual pay rises of 
+x thousand pesos (COP). The company 
+financial manager agrees to this new 
+payment scheme if the total amount for 
+the 10 years remains the same as it was 
+the original payment offer, 
+d Determine the value of x, correct to 
+the nearest peso, that satisfies the 
+financial manager's conditions.
+(5 marks)
+e Hence, determine the number of 
+years for which the second plan 
+gives Mr Garcia a higher income 
+than the first. 
+(4 marks)
+495
+Number and algebra 
+Functions
+
+Modelling and investigation activity
+A passing fad?
+Approaches to learning: Communication, 
+Research
+Exploration criteria: Mathematical 
+communication (B), Reflection (D), Use 
+of mathematics (E)
+IB topic: Exponentials and logarithms
+Fortnite was released by Epic Games in July 2017 and quickly grew in popularity.
+Here is some data for the total number of registered players worldwide from 
+August 2017 to June 2018:
+Date
+August 201?
+November
+201?
+December
+201?
+January
+2018
+June 2018
+Months since launch, t
+1
+4
+5
+6
+11
+Number of registered 
+players, P (millions)
+1
+20
+30
+45
+125
+The data is taken from the press releases of the developers, Epic Games. 
+Is this data reliable?
+Are there any potential problems with the data that has been collected? 
+What other data might be useful?
+496
+
+Plotting this data on your GDC or other graphing software gives this graph:
+y
+140
+20-
+Describe the shape of the graph.
+What could be some possible explanations for this growth?
+Model the data
+Why might it be useful to find a model that links the number of players of 
+Fortnite against the number of months since the launch of the game?
+Who might this be useful for?
+Let t be the number of months since July 2017.
+Let P be the number of players in millions.
+Assume that the data is modelled by an exponential function of the form 
+P = a • & where a and b are constants to be found.
+Use the techniques from the chapter or previous tasks to help you. 
+Consider different models by hand and using technology.
+How do these models differ? Why?
+Which one is preferable? Why?
+What alterations could be made to the model?
+Use the model to predict the number of users for the current month.
+Do you think this is likely to be a reliable prediction?
+How reliable do you think the models are at 
+predicting how many Fortnite players there 
+are now? Justify your answer.
+Research the number of players there are in 
+this current month who play Fortnite.
+Compare this figure with your prediction based 
+on your model above. How big is the error?
+What does this tell you about the reliability 
+of your previous model?
+Plot a new graph with the updated data and 
+try to fit another function to this data.
+Will a modified exponential model be a 
+good fit?
+If not, what other function would be a better 
+model that could be used to predict the 
+number of users now?
+Extension
+Think of another example of data that you think may 
+currently display a similar exponential trend (or 
+exponential decay).
+Can you collect reliable and relevant data for your example? 
+Find data and present it in a table and a graph.
+Develop a model or models for the data (ensure that your 
+notation is consistent and your variables are defined). You 
+could use technology or calculations by hand.
+For how long do you think your model will be useful for 
+making predictions?
+Explain.
+Number of players (millions)
+cn 
+oo o  
+nj
+o o  o  o  
+o
+49?
+Modelling and investigation activity
+
+0 
+4 
+8 
+12 
+16 
+20
+Month
+s 
+" 
+" \
+Given the times of high and low tides 
+on a given day, how could you decide 
+when there would be enough water in a 
+harbour to enter with a boat?
+Riga average temperature in degrees Celsius 
+2014 and 2015
+( \
+How can a biologist model the
+changes of populations in a 
+predator-prey system?
+Many natural and human-made, phenomena 
+repeal themselves regularly over time. Tides rise 
+and fall the sun rises and sets, the moon changes 
+its appearance, a clock's pendulum swings, crystals 
+vibrate when an electrical current is applied. All of 
+these things happen in a predictable fashion.
+Concepts
+■ Modelling
+■ Representation
+Microconcepts
+■ Periodic functions
+■ Sinusoidal functions
+■ Features of sinusoidal functions: 
+amplitude, period and the principal axis
+t 
+\
+How can you model features of 
+weather systems that change with 
+time and geographical location?
+If there is a full moon tonight, how 
+can we predict when the next new 
+moon will occur?
+Modelling periodic phenomena: 
+trigonometric functions
+Average temperature
+498
+
+June 1978 birthdays
+The graph on the previous page shows the average monthly tem 
+perature for Riga, Latvia, compiled in 2014 and 2015. The graph 
+on the right shows the number of babies born on each day of June 
+1 978 in the USA.
+• What patterns can you see in these graphs?
+• To what extent is your perception of these patterns dependent 
+on the viewing window that has been chosen for you?
+• How often do any repeating patterns repeat?
+• What reasons could there be for any 
+repeating patterns and the shape of the 
+functions?
+If you developed models for these data 
+sets, what would you expect to happen 
+outside the domain of your functions?
+Before you start
+Developing inquiry skills
+Which other climate phenomena could have a 
+repeating pattern? What questions could you ask for 
+your country? What data would you need?
+Think about the questions in this opening problem 
+and answer any you can. As you work through the 
+chapter, you will gain mathematical knowledge and 
+skills that will help you to answer them all.
+You should know how to:
+1 Calculate the length of the shortest side in 
+triangle ABC.
+C
+Since C = 27°, AB will be the shortest side.
+AB = 1 lsin 27° = 4.99 cm to 3sf
+2 Use technology to solve the equation 
+x3 - x = 1 Ox2 - 200 where x > 5. 
+a Graph each side of the equation as a function, 
+b Find the coordinates of the point(s) required.
+-1584.4
+c Write the solution correct to three 
+significant figures: x= 9.56.
+Skills check
+1
+Click here for help 
+with this skills check
+Calculate all the angles and sides in 
+the triangle PQR where R= 90°, PQ 
+= 13m and QR = 5 m.
+Karolina stands 73 m from the base 
+of an apartment block and measures 
+the angle of elevation to her 
+apartment as 43°. What is the height 
+of Karolina's apartment?
+Use technology to solve the 
+equations:
+a 2X - 17 = -1 Ox - x2 where x < 0 
+3
+b 19 + t-U = t where t > 0.
+499
+

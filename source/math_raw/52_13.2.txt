@@ -1,0 +1,962 @@
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+c Estimate the area of this region using six 
+trapezoids.
+d Find the percentage error made with the 
+estimation made in part c.
+8 Consider the region enclosed by the graph 
+of the function f(x) = 1 + e*, the x-axis and 
+the vertical lines x = 0 and x = 2. 
+a Sketch the function /and shade the 
+region.
+b i Write down a definite integral that 
+represents the area of this region, 
+ii Find the area of this region. Give your 
+answer correct to four significant 
+figures.
+c Estimate the area of this region using 
+five trapezoids. Give your answer correct 
+to four significant figures, 
+d Find the percentage error made with the 
+estimation found in part c.
+Developing inquiry skills
+In the opening scenario for this chapter you looked at how to estimate 
+the area of an island.
+How could you improve your estimation of the area of the island using 
+what you have studied in this section?
+How close is your estimate to the claimed area? Why is your answer an 
+estimate?
+TOK
+Galileo said that the 
+universe is a grand book 
+written in the language 
+of mathematics.
+Where does mathematics 
+come from? Does it start 
+in our brains or is it part of 
+the universe?
+13.2 Integration: the reverse 
+process of differentiation
+You have so far found areas under curves between two 
+given values. For example, you have seen how to find the 
+area enclosed between y = x2 + 1, the x-axis and the vertical 
+lines x= 1 and x= 3.
+HINT
+The area of the 
+shaded region is
+j(x2 + l)ck=-H.
+You are now going to find expressions for areas when one 
+of the limits is fixed and the other is variable.
+568
+
+HINT
+As the value of x increases from 1 to 3, the area of the 
+shaded region also increases.
+There is a function, the area function, which maps every 
+value of x to the area of the shaded region.
+What is the formula of the area function?
+And what would the area function be in a different region?
+\_______________________________________________ ./
+Consider a positive and continuous functiony=f(t) 
+over the interval a < t< b. The area enclosed between 
+the graph ofy =/(f)» the t-axis and the vertical lines 
+t=ci and t—x where a<x< b is defined by
+X
+Mx) = jf(t)dt.
+a
+In this investigation you will find the relationship 
+between the two major branches of calculus: 
+integration and differentiation.
+Investigation 3
+1 
+Consider the area under the graph of/(f) = 3 between t = a and 
+t = x, where a < x.
+Show that the area function is A(x) = 3x— 3 a.
+2 
+Consider the area under the graph of/(/) = / between / = a and 
+t = x, where a < x. Show that the area function can be written
+X2 fl2
+as A(x) = —-----—. Draw the graph of the function /and shade
+y
+AO = 3
+f = a 
+t = x t = b
+t
+the area enclosed between this graph and the /-axis over the 
+interval a <t<x.
+3 
+Consider the area under the graph of /(f) = 2/ between t = a and t = x, where a < x. Show that the area 
+function can be written as A(t)=x2- a2. Draw the graph of the function/and shade the area enclosed 
+between this graph and the /-axis over the interval a < t<x.
+4 
+The results from 1 to 3 are summarized in the first two columns from the table shown below. The last two 
+columns will be completed later.
+m
+A(x)
+F(x)
+A(x)
+f(t) = 3
+A(x) = 3x- 3 a
+ii
+*
+F(x)-F(a)
+f(t) = t
+f(t) = 2t
+A(x)=x2-a2
+o
+Continued on next page
+569
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+O
+• The expressions for A (x) have been written as the difference between two terms. The first term is 
+a function ofx and the second term is constant. What do the two terms have in common?
+Let the first term in each of the expressions for A(x) be a new function F(x).
+• Complete the third column of the table with the corresponding expressions for F(x). The first row 
+has been completed for you.
+• For which value of ft are the expressions for F(x) and,4(x) equal? What area would be represented 
+by F(x) when a takes this value? How would you represent this area using definite integrals?
+• Complete the fourth column of the table by writing A(x) in terms of F(x). The first row has been 
+completed for you.
+• Below are shown the graphs of/(f) = 3 and F(x) = 3x.
+• What is the gradient of the graph of F at every x? How does this relate to the graph off?
+• For each of the two remaining functions f, find an expression forthe gradient of the function Fax 
+every x. What can you say about the relationship between the gradient function of F and the function/?
+• Now consider the function/! t) = 3f + 1. What would be F(x) in this case? What is the relationship 
+between the graph of F(x) and the graph of/?
+• If you are given that the area function is F(x) =x3, how would you find the formula of/?
+5 id.imuiui How does integration relate to differentiation?
+If/(f) > 0 is a continuous function, the area enclosed
+\
+Integration
+between the graph of/and the x-axis over the interval
+X
+a < f <x can be found with the definite integral J/(f)df.
+f(x) 
+F(x)
+x 
+a
+Also |/(f)df = F(x) - F(a) where F'(x) =/(x).
+Differentiation
+If F(x) is a function where F'(x) = f(x), we say that F(x) 
+is an antiderivative off
+The process of finding an antiderivative is called antidifferentiation.
+International 
+mindedness
+The fundamental 
+theorem of calculus
+shows the relationship 
+between the derivative 
+and the integral and 
+was developed in 
+the 1 Pth century by 
+Gottfried Leibniz and 
+Isaac Newton.
+For example,
+F{x) = 3xis an antiderivative oi f(x) = 3 because F'(x) = 3.
+F(x) = — - 3 is an antiderivative of f(x) = x because F'(x) = x.
+570
+
+13.2
+F(x) = x2 + 1 is an antiderivative of f(x) = 2x because F'(x) = 2x. 
+Can you think of an antiderivative for f(x) = 3x2?
+What is an antiderivative of a function?
+How is the antiderivative related to the definite integral?
+How do "believing that” 
+and “believing in” differ? 
+How does belief differ 
+from knowledge?
+Example 11
+a Find an antiderivative of y = 4 + 2x.
+@
+4y
+b Find a function y = g(x) when the gradient function is — = 3x.
+dx
+a F(x) = 4x + x2
+An antiderivative of y = 4 + 2x is a function F 
+whose derivative is 4 + 2x.
+The derivative of 4x is 4.
+The derivative of x2 is 2x.
+The derivative of 4x + x2 is 4 + 2x.
+b g(x) = \ .5x2
+If the gradient function of y = ^(x) is 3x then 
+f(x) = 3x.
+Function g is a function whose derivative is 3x.
+The derivative of 1.5x2 is 3x.
+Example 12
+x
+Consider the definite integral j(3 - 2t)dt where 0 < x < 1.5.
+0
+a Draw on a diagram the function f(t) = 3-2/ and shade the area represented by J(3-2/)d/.
+0
+X
+b By using antiderivatives find an expression for J(3 — 2/)d/ in terms of x.
+a y
+m=3 - 21
+t = x
+You can use your GDC to draw the graph.
+HINT
+Remember that 
+0 < x < 1.5.
+Shade the area under the graph of / between / = 0 and 
+t = x.
+o
+Continued on next page
+5?1
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+O
+X
+b J(3-2r)d/ = 3x-x2
+0
+Find an antiderivative of f(t) = 
+derivative is /(/) = 3-21.
+3 - 2t, a function whose
+The derivative of 3/ is 3.
+The derivative of t2 is 21.
+The derivative of 31 - t2 
+is 3 - 21.
+F(x) = 3x - x2
+HINT
+Use the formula for the 
+area of a trapezoid to 
+check that this answer
+is correct.
+L 
+J
+F( 0) = 0
+F(x)-F( 0) = 3x-x2
+1 a For each of the following, show that F(x)
+is an antiderivative of f(x).
+i f(x) = 1 and F{x) = x
+ii f(x) = 1 and F(x) = x + 3
+iii f(x) = 1 and F(x) = x - 6
+b Find two further antiderivatives for 
+f(x) = 1.
+c Write down the general form of an 
+antiderivative oif(x) = 1.
+2 a For each of the following, show that F(x)
+is an antiderivative of f(x).
+i f(x) = 2x and F(x) = x2
+ii f(x) = 2x and F(x) = x2 + I
+iii f(x) = 2x and F{x) =x2 - 4
+b Find two further antiderivatives for 
+f(x) = 2x.
+c Write down the general form of an 
+antiderivative of f(x) = 2x.
+3 a For each of the following, show that F(x)
+is an antiderivative of f(x).
+x2
+i f(x) = x and F(x) = —
+x2
+ii f(x) =x and F(x) = — + 2.5
+x2
+iii f(x) = xand F(x) = — - 12
+b Write down the general form of an 
+antiderivative of f(x) =x.
+4 a For each of the following, show that F(x)
+is an antiderivative of f(x).
+i f(x) = 2x + 1 and F(x) =x2 +x
+ii f(x) = 2x + 1 and F(x) = x2 +x - 3.2
+iii f(x) = 2x + 1 and F(x) = x2 + x + 4
+b Write down the general form of an
+antiderivative of f(x) = 2x + 1.
+5 Find a function y = g(x) when the gradient
+dx
+6 Find a function y =g(x) when the gradient
+function is — = -2. 
+dx
+? Find a function y = g(x) when the gradient
+function is — = —.
+dx 2
+8 Find an antiderivative of f(x) -x2.
+9 Find the area function, A(x), in each of the 
+following situations.
+a Xa
+572
+
+13.2
+10 Consider the graph of the function
+X
+f(t) = 4 over the interval 0 < t < x. Find |4dr.
+0
+11 Consider the graph of the function 
+f(t) = 2t + 1 over the interval 0 < t < x.
+X
+Find J(21 + l)df.
+0
+12 Consider the graph of the function
+A‘
+f(t) = 4tover the interval 2 <t<x. Find J4rdr.
+Investigation 4
+1 On the same set of axes, sketch the graphs of
+y-x2 
+y=x2+1 
+y-x2-2 
+y=x2 + 3
+over the interval -4<x<4.
+• How can you describe their relative position?
+• Find the gradient of each of these curves at * = 1. What do you notice?
+• Now find the gradient of each of these curves at x = -2. What can 
+you say about these answers?
+• What is the gradient of each of these curves at any x?
+• Find another curve for which the gradient at x is the same as the 
+gradient of any of the curves from 1.
+• How would you write the formula of any curve with the gradient the 
+same as the gradient of the curves from 1?
+• All these curves make up a family of functions that are 
+antiderivatives of 2x. Why is this?
+The notation used to indicate this family of functions is J 2xdx = x2 + c, 
+where cis a constant.
+o
+Continued on next page
+573
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+- This is read as “the integral of 2x with respect to x is x1 
+2 3
+ + cn.
+• What is the value of c when the antiderivative isy = x2 + 1 ? What is 
+the constant of integration when the antiderivative isy=x2?
+• What is the derivative of x2 + c with respect to x?
+2 What is the family of functions that are antiderivatives of/(x) = 3? What do 
+their graphs have in common? Write this family of functions using integral 
+notation.
+3 What does the integral Jxdx represent? Calculate it.
+4 H.l.MU.IMI How does an indefinite integral define a family of 
+antiderivatives?
+\
+IfF'(x) =f(x) then j*/(x)dx = F(x) + c where ceR.
+The expression J/(x)dx is called an indefinite integral and J /(x)dx is read
+as “the integral of/with respect to x".
+Note: c is called the constant of integration.
+Reflect
+What does an indefinite integral represent? 
+How is an antiderivative related to an indefinite integral?
+Example 13
+a Find the family of antiderivatives of f(x) = 5. 
+b Find J4xdx.
+a F(x) = 5x + c where ce R
+These are the functions Ffor which F'(x) = 5.
+b 2x2 + c where ce R
+This represents the family of antiderivatives
+of 4x, the functions whose derivatives are 4x.
+This is 2x2 + c.
+1 Find the family of antiderivatives of 2.
+2 Find the family of antiderivatives of x + 1.
+3 Find all the functions whose derivatives are 
+equal to -1.
+4 Find all the functions whose derivatives are 
+equal to 2x.
+5 Calculate the following indefinite integrals, 
+a Jldx b J6dx c j^dx
+574
+
+6 Calculate the following indefinite integrals,
+a 
+Jxdx 
+b J2xdx
+c 
+|5xdx 
+d 
+J-^-xdx
+e jaxdx (a is a non-zero constant)
+7 Calculate the following indefinite integrals,
+a 
+J x2 dx 
+b 
+J 3x2 dx 
+c j 4x2 dx
+d f-x2dx 
+e f—dx 
+f 
+f—x2dx
+g jax2 dx (a is a non-zero constant)
+8 Calculate the following indefinite integrals.
+a
+J x3 dx 
+b
+| 
+dx
+c
+J2x3 dx
+d
+f—x3dx e
+f — dx
+f
+I-*5 dx
+J 5
+J 3
+J
+g
+Jox3 dx (a is a non-zero constant)
+In questions 5 to 8 you may have noticed that all the functions were of 
+the form axn.
+\
+sjyn+1
+f ax" dx = —— +c where a and n are constants, at- 0 and nt -1. n is an 
+J 
+n +1
+integer.
+This is an integration rule and is called the power rule.
+Reflect
+Why is the condition n t -1 given in the power rule?
+Example 14
+Find f—dx 
+J 4
+f v
+b Find J (— + 3x - l)dx.
+f 4
+c Find J — dx.
+j x j x
+—dx = — + c 
+4 
+24
+f/x 
+^ lv i * 
+3x
+(— + 3x-l dx = — +-------
+J 2 
+^ 
+1
+x + c
+Apply the power rule with
+a = — and n = 5.
+4
+HINT
+Do not forget the 
+constant of integration.
+f—dx = f—x5 dx = — x
+J A 
+j A 
+A
+x5+l 
+1 
+x6
+------- + C = — x ---- + c
+5 + 1 
+4 
+6
+As the derivative of a sum is the sum of the 
+derivatives, calculate an antiderivative for each 
+term by applying the power rule and then add 
+the three terms up.
+J 1 
+1
+x2+1
+x-------
+2 2 + 1
+1 }
++ c. = -x + c. 
+1 6
+6
+Continued on next page
+575
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+c
+. 
+, 
+_ X 
+3X“
+3x ax = 3 x----- + c =-----+ c,
+1+1 2 2 2
+J-ldx = -x + c^
+Apply the power rule 
+a = 4; n = -2
+4 
+x"2+l
+f — dx = f 4x~2 
+= 4 x -------+ c
+J x2 J 
+-2 + 1
+(-------------------------------\
+HINT
+CyC^c^ are three 
+constants that added up 
+give another constant c.
+Reflect
+What is the integral of a sum of multiples of powers of x? 
+How can you tell that the indefinite integrals are correct?
+1 Find the following indefinite integrals.
+JlOcbc
+b [o.6x2dx
+fx’dx
+d |(7-2x)dx
+|(1 + 2a -)(1x
+f J(5 + x-^x2)dx
+f 
+3x2
+J (-x + -^- + 0.5)dx
+r 
+XJ
+h j(l-x + —)dx
+J(x2 "X + 4)dx
+j j ix-2dx
+J
+1 f (4x + -^-)dx
+J 
+X
+2 For f(x) = x1 - ^ + 4, find:
+a /'(*) b J/(x)dx
+3 Find J(f-3f2)df.
+4 Find J(4f3 -3t + l)dr.
+5 Find all the functions Ffor which the 
+gradient equals 3 + x - —.
+6 Find all the functions Ffor which the 
+gradient is y = -x + 0.5x2.
+7 a Expand (x+l)(x-2).
+b Hence, find all the functions y - f(x) for 
+dv
+which — = (x + 1) (x - 2). 
+dx
+8 Find the indefinite integral of the function
+#(x ) = x3--4+1-
+r
+Example 15
+a The curve y = f(x) passes through the point (1, 3). The gradient of the curve is given
+by f'(x) = 2 + —. Find the equation of the curve.
+b
+If dy 
+2
+— = 2x - 4x and y = -1 when x = 3, find y in terms of x. 
+dx
+576
+o
+
+13.2
+l\
+. 2
+a f(x) = J(2 + ^)dx = 2x + -x^- + c
+Apply the power rule to find an 
+antiderivative of /'(x).
+x2
+f(x) = 2x + — + c
+6
+l2
+/(1) = 2x1 + — + c
+6
+If the curve passes through the point (1,3) 
+then /(1) = 3.
+3 = 2 + — + c
+6
+_ 5
+C " 6
+x2 5 
+f(x) = 2x + — + —
+6 6
+b y 
+(2x - 4x2) dx = x2 - 
++ c
+Integrate — to find y in terms of x. 
+dx
+, 
+,2 4x3’
+-1 = 3---------+ c
+Use the fact that y = -1 when x = 3 to find the
+3
+-1 = 9-36 + c
+value of the constant c.
+c= 26
+2 4x3
+y = x------ + 26
+3
+Example 16
+Find the cost function, C(x), when the marginal cost is M(x) = 1 + 2x and the fixed
+cost is US$40.
+C(x) = x + x2 + 40
+The cost function is an antiderivative of the 
+marginal cost function.
+To find C(x), integrate M(x)
+|(1 + 2x) dx = x + x2 + c
+The fixed cost is used to find the constant of 
+integration.
+C(0) = 40 then
+0 + 02 + c = 40 and c = 40
+52?
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+1 The derivative of the function/ 
+is given by f(x) = 3x + Ax2. The 
+point (-1,0) lies on the graph 
+of/. Find an expression for/
+7 A company's marginal cost 
+function is M(x) = x - 
++ 1
+and the fixed cost is US$145.
+^ T . 
+, dv 
+x2
+2 It is given that — = x + — + 2 
+dx 
+5
+and that y = 3 when x = 4. Find 
+an expression for y in terms of x.
+3
+4
+It is given that f'(x) = 3 - x and 
+/<2)= l.Find/(x).
+It is given that f\x) = 3x2
+and f(0) = 2. Find/(x).
+5 It is given that
+— = 0.2x + 3x2 +1 and that 
+dx
+y = -1 when x = 1. Find the 
+value of y when x= 0.5.
+Find the cost function.
+8 A company's marginal cost 
+function is M(x) = 3 - 4x + x2 
+and the fixed cost for the 
+company is US$1000. Find the 
+cost function.
+9 A refrigerator factory's 
+marginal revenue function 
+is M(t) = t2 - 80, where t is 
+the number of refrigerators 
+produced by the factory and 
+the revenue is given in US$.
+The factory earns US$ 567,000 
+in revenue from selling 120 
+refrigerators.
+International 
+mindedness
+Ibn Al Haytham, born in 
+modern-day Iraq in the 
+10th century, was the 
+first mathematician to 
+calculate the integral 
+of a function in order 
+to find the volume of a 
+paraboloid.
+Developing 
+your toolkit
+Now do the 
+Modelling and 
+investigation 
+activity on page 
+584.
+6 The derivative of the function 
+/ is given by f'(x) = -x + 3. The 
+point (-2,0) lies on the graph 
+of/.
+a Find an expression for / 
+b Find /(2).
+a Find the revenue function,
+m.
+b Find the factory's total 
+revenue from producing 
+1 50 refrigerators.
+TDK
+Why do we study 
+mathematics?
+What’s the point?
+Can we do without it?
+Chapter summary
+• When/ is a non-negative function for a<x<b, J f(x)dx
+a
+gives the area under the curve fromx=atox=b.
+• If v(t) is a velocity-time function and v(t) >0 over the interval 
+oftimetf <f</?then
+b
+distance travelled = J v{t)dt.
+a
+• The trapezoid rule is
+\ftx)dx s 1 X — X [y0 + yn + 2(y, +y2+... + yn_t)}
+sr 
+Z 
+H
+where the interval a<x< b is divided into n intervals of equal width.
+• Consider a positive and continuous function y=f(t) over the interval a<t<b. The area enclosed 
+between the graph ofy=/(f), the f-axis and the vertical lines t-a and t=xwhere a<x<b is
+X
+defined by A(x) = J/(f)df.
+O
+578
+
+Iff(t) > 0 is a continuous function, the area enclosed between the graph of/ 
+andthex-axis over the interval a<t<x can be found with the definite integral
+X 
+X
+| f(t)dt. Also jf(t)dt = F(x)-F(a) where F'(x) =/(x).
+Integration
+L
+f(x)
+F(x)
+<XJ?
+Differentiation
+If F(x) is a function where F'(x) = f(x), we say that F(x) is an antiderivative off 
+The process of finding an antiderivative is called antidifferentiation.
+If F'(x) =/(x) then J/(x)dx = F(x) + c where c e R.
+The expression J f(x)dx is called an indefinite integral and J f(x)dx is read as Hthe integral of/ 
+with respect tox”.
+HINT
+c is called the constant of integration
+ax
+n +1
+- + c where a and n are constants, a*0 and n^-1.
+| ax" dx
+This is an integration rule and is called the power rule.
+Developing inquiry skills
+Write down any further inquiry questions you could ask and investigate 
+how you could find the areas of irregular shapes and curved shapes.
+Chapter review
+Click here fora mixed 
+review exercise
+For each of the following shaded regions:
+i 
+Write down a definite integral that 
+represents the area of the 
+region.
+ii Hence or otherwise, find the area of 
+these shaded regions.
+2 For each of the following regions:
+i 
+Write down a definite integral that 
+represents the area of the region.
+ii Hence or otherwise, find the area of 
+these shaded regions.
+579
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+3 For each of the following regions:
+i 
+Write down a definite integral that represents the area of the region.
+ii Find the area of the region.
+580
+
+13
+4 For each of the following definite integrals:
+i 
+On a diagram shade the region that 
+they represent.
+ii Find their value.
+4 
+2
+a j \[x dx 
+b | x2dx
+0 
+-2
+3
+c J ~(x -2)(x -4)dx
+2.5
+4
+d J-<x-2)(x-4)dx
+2
+3
+g J(x2 -2x + 3)dx
+-2
+5 Consider the region A enclosed between the 
+graph of y = -(x + 1) (x - 4) and the x-axis.
+a Write down a definite integral that 
+represents the area of A.
+b Find the value of this area.
+6 Consider the curve y = x(x - 4)2. Let A be 
+the region enclosed between this curve 
+and the x-axis.
+a Write down the ^-intercepts of this curve, 
+b Write down a definite integral that 
+represents the area of A. 
+c Find the value of this area.
+7 Consider the curve y = x3. Let A be the 
+region enclosed between this curve, the 
+x-axis and the vertical line x = 2.
+a Write down the x-intercept of this curve, 
+b Sketch the curve and clearly label A.
+c Write down a definite integral that 
+represents the area of A.
+d Find the value of this area.
+8 Consider the graph of the function 
+/(x) = (x+ 2)2 + 1.
+The region bounded by the graph of /, 
+the x-axis, the y-axis and the vertical line 
+x = b with b > 0 has an area equal to 42. 
+a Sketch the region, 
+b Find the value of b.
+9 The table below shows the coordinates 
+(x, y) of five points that lie on a curve
+y=fW-
+X
+1
+3.25
+5.5
+7.75
+10
+y=f(x)
+3
+9
+?
+12
+5
+Estimate the area under the curve over the 
+interval 1 <x< 10.
+10 Estimate the area under the graph of
+f(X) = -Jx-2 over the interval 2 < x < 4 
+using five trapezoids. Give your answer 
+correct to four significant figures.
+11 Consider the graph of the function 
+f(t) = -12 + 2t where f(t) > 0.
+a Draw the graph of the function/and 
+shade the area enclosed between this 
+graph and the t-axis over the interval 
+0 < / < x.
+b Find an expression for the area
+under the graph of /over the interval 
+0 < t < x.
+12 Consider the graph of the function f(t) = 41
+X
+over the interval 3 < t < x. Find J 4r dr.
+3
+13 Calculate J(2 + x)dx.
+r 
+x3
+14 Find J (1 + x - —) dx.
+15 Line L passes through the points (-0.25,0) 
+and (1,10). Consider the region bounded 
+by the graph of line L for -0.25 < x < 1, the 
+curve y=(x- 4)2 + 1 for 1 < x < 6 and the 
+x-axis. The region is shown below.
+a Find the area under the graph of L 
+for -0.25 <x< 1.
+581
+Calculus
+
+13
+APPROXIMATING IRREGULAR SPACES: INTEGRATION
+16
+b Write down an expression for the 
+area under the curve y = (x - 4)2 + 1 
+for 1 <x<6.
+c Hence, find the area of the shaded 
+region.
+The diagram shows the graph of three 
+linear functions, #, /and h.
+a Find the equation of each of these 
+functions.
+18 a Estimate the area A under the graph of
+f(x) = e“*~ over the interval 0 < x < 1 
+using five trapezoids. Give your answer 
+correct to four significant figures.
+b i Write down a definite integral that 
+represents A.
+ii Hence, find the actual area. Give 
+your answer correct to four 
+significant figures.
+c Find the percentage error made with 
+the estimation found in part a.
+Exam-style questions
+19 PI: Find J(5 — 12x2 + 4xl) Ax, simplifying
+your answer as far as possible. (4 marks)
+20 PI: The derivative of the function/is given by
+^ 
+3
+f'(x) = — x2 + x + 3 and the curve y = f(x)
+passes through the point
+The three functions are antiderivatives of 
+y=t(x).
+b Find the equation of y = t(x). 
+c Find jV(x)dx.
+1? Estimate the area under the graph of
+y = f(x) in the interval l .5 < x < 5 using the 
+data points given in the diagram.
+Find an expression for/. 
+(6 marks)
+21 P2: a Find the coordinates of the points of
+■■ 
+intersection of the graphs of y = 6x - x2
+and y = 10 - x. 
+(4 marks)
+b On the same axes, sketch the graphs 
+of y = 6x - x2 and y = 10 - x.
+(2 marks)
+c Find the exact value for the area 
+bounded by the two curves.
+(7 marks)
+22 PI: A particle P is travelling in a straight 
+■■ line. After t seconds, the particle has
+velocity v = 0.6t2 + 4t + 1 m/s for t £ 0.
+a Find an expression for the
+displacement of the particle from the 
+origin after
+t seconds. 
+(2 marks)
+b Hence, find the distance travelled by 
+the particle during the third second 
+of motion. 
+(3 marks)
+582
+
+X
+PI: Consider the curve v =-----(x-10) .
+10v ;
+The area A is defined as the region 
+bounded by the curve and the x-axis.
+a Sketch the curve, clearly showing the 
+area defined as A. 
+(3 marks)
+b Write down a definite integral that 26 
+represents A 
+(1 mark) ■■
+c Find the exact value of A.
+(5 marks)
+25 PI: The diagram below shows an area 
+h bounded by the x-axis, the line x = 6,
+the line y = 2x - 2 and the curve y =
+36
+24 P2:aBy using technology, find the 
+h coordinates of the points of intersection
+of the graphs of y - x3 and y - tfx.
+(4 marks)
+b On the same axes, sketch the graphs
+of y = x3 and y = yfx. 
+(2 marks)
+c Find an exact value for the total area 
+bounded by the two curves.
+(6 marks)
+a Using technology or otherwise, find 
+the coordinates of points A, B, C 
+and D. 
+(4 marks)
+b Show that the shaded area is exactly 
+10 units2. You must show all of your 
+working. 
+(6 marks)
+P2: Consider the area enclosed by the 
+curve y = 5 - ^ and the positive 
+x- and y-axis.
+a Sketch the curve, shading the area 
+described above. 
+(3 marks)
+b Using the trapezium rule with five 
+strips, determine an approximation 
+for the shaded area. 
+(5 marks)
+c Explain why your answer to part b 
+will be an underestimate. (2 marks) 
+d Using integration, determine the 
+exact value of the shaded area.
+(4 marks)
+e Find the percentage error of your 
+approximation, compared with the 
+exact value. 
+(2 marks)
+Click here for further 
+exam practice
+3
+i---- r
+4
+rs
+583
+Calculus
+

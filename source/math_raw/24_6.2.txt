@@ -1,0 +1,1042 @@
+6.2 The line of best fit
+Investigation 5
+The table gives the age of a person, x, and the number of movies this person 
+watched last year,y.
+X
+15
+20
+24
+25
+30
+35
+40
+45
+46
+50
+y
+8
+7
+10
+9
+15
+14
+15
+1?
+15
+20
+1 Plot the data points on a scatter diagram, using an appropriate scale on 
+each of the axes.
+2 
+Explain why it is appropriate to model the data points with a straight line.
+3 
+Draw a line that you think would be a good model for this set of data points. 
+This line will have to nearly fit all of the points. It is known as a line of best fit.
+4 Compare your line with a line drawn by a classmate. How are they the 
+same? How are they different?
+5 
+Find the mean point of this data set, where the A'-coordinate is the mean of 
+allthex-valuesandthe y-coordinate is the mean of all the y-values. Plot it 
+on the scatter diagram and label it M.
+6 
+Now draw a new line on the graph that passes through M and has as 
+many of the data points above the line as below it. Does it match your line 
+from part 3?
+? Would you use this new line to estimate the number of movies that might 
+be watched by a 48-year-old person? Why? How? Show your working on 
+the scatter diagram.
+8 
+When and how can a line of best fit be used to model a set
+of data points?
+TOK
+How can causal 
+relationships be 
+established in 
+mathematics?
+A line of best fit is a line drawn on a scatter diagram that shows the trend
+followed by the data points. This line can then be used to make predictions.
+To draw a line of best fit by eye:
+a Find the mean point, whose coordinates are calculated by finding the 
+mean ofthex-values and the mean of they-values; it is the point (x,y). 
+Plot this point on the scatter diagram. It will be used as a reference point 
+to draw the line.
+b Draw a line through the mean point that balances the number of points 
+above the line with the number of points below the line.
+275
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+Example 3
+Let us look again at the test results in mathematics and biology from Example 2.
+Mathematics (x)
+20
+25
+28
+30
+32
+3?
+42
+48
+Biology (y)
+24
+20
+22
+21
+25
+28
+30
+33
+a Find the mean of the mathematics test results, 
+b Find the mean of the biology test results.
+c Plot and label the mean point on your scatter diagram and use it to draw a line of best fit 
+by eye.
+d Hence predict the biology test result for someone who got 40 in their mathematics test.
+a x = 32.75 
+b y = 25.25
+Calculate both means using your GDC.
+Plot the mean point (32.75, 25.25) 
+on the scatter diagram. Draw a line 
+of best fit through the mean point so 
+that there is roughly an equal number 
+of points above and below the line.
+Do not forget to label the mean 
+point, M.
+d 28
+Find the y-coordinate for the point at 
+which the line of best fit crosses the 
+line x = 40.
+1 For each set of data:
+i 
+Plot the points on a scatter diagram.
+ii Describe the type of correlation.
+iii Find the mean of x and the mean of y.
+iv Plot and label the mean point on your 
+diagram and draw a line of best fit by 
+eye through the mean point.
+X
+10
+11
+12
+13
+14
+15
+16
+17
+18
+20
+y
+18
+20
+19
+21 24 23 24 26
+27 32
+X
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+y
+15
+13
+10
+7
+6
+4
+5
+2
+3
+0
+276
+
+6.2
+2 The table shows the area (a, in millions of 
+square feet) of ten shopping malls, along 
+with the annual number of visitors (v, in 
+millions).
+a
+2.7
+2.2
+1.8 2.6
+1.8 2.2 2.2
+2
+1.4
+1
+V
+28
+22
+26
+25
+23
+22
+22
+21
+20
+18
+a Plot a scatter diagram for this data, 
+b Describe the correlation.
+c Find the mean area of the shopping 
+malls.
+d Find the mean annual number of 
+visitors.
+e Plot and label the mean point on the 
+scatter diagram.
+f Draw a line of best fit by eye through 
+the mean point.
+3 The table shows the gross domestic product (GDP) (x) and the average number of books read 
+per person in a year (y) for 15 countries.
+X
+?904
+10326
+2616
+1138?
+12 645
+14528
+20122
+22122
+28166
+29861
+54304
+44189
+42651
+466?8
+50169
+y
+2.2
+2.9
+3.0
+4.0
+4.6
+5.4
+6.0
+8.5
+9.?
+10.3
+12.0
+15.0
+16.3
+16.8
+1?.0
+a Plot a scatter diagram for this data, 
+b Describe the correlation, 
+c Find the mean GDP.
+d Find the mean number of books read per person in a year, 
+e Plot and label the mean point on the scatter diagram, 
+f Draw a line of best fit by eye through the mean point.
+Investigation 6 
+y
+10 -
+In this investigation you will see that a line of best fit drawn by
+t,:y -0 81x + 2.36/
+eye through the mean point can be improved.
+8 -
+1 What do you think “improve” means in this context?
+/ > X
+r /
+2 The scatter graph shows a set of eight data points and also 
+6-
+/y
+/ •
+—
+0.65v+'. .08
+two lines of best fit. One of these lines models this set of 
+5 .
+points betterthan the other. Which line do you think is a 
+4
+y
+better fit to the data? Why?
+  
+To find a better answer we need to introduce the concept of 
+2 -
+residuals. 
+1.
+01
+l
+3 t-
+1 
+1
+8 
+9 10
+\
+A residual is the difference between the actual y-value and the predicted 
+y-value. Therefore, residuals are the errors made when using lines of best fit 
+to make predictions.
+277
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+Investigation 6 (continued]
+The line that will be the best model for this set of data points will be the one 
+that makes these residuals as small as possible.
+3 The row in the table corresponding to the first point has been completed 
+for you. Complete the rows for the other seven points.
+Point
+X
+y
+Predicted y using L{
+Residual usingL{
+Predicted)'using L2
+Residual using L2
+(1.3)
+1
+3
+0.81x1 + 2.36 = 3.1?
+3 - 3.1? =- 0.1?
+0.65 x 1 + 3.08 = 3.?3
+3 - 3.?3 =— 0.?3
+(2.5)
+2
+(3,3)
+3
+(4.2)
+4
+(5,5)
+5
+(6.9)
+6
+(2,2)
+?
+(8,9)
+8
+(2.5)
+When x = 2, the 
+residual for the solid line 
+is 5-3.98 =1.02
+To find which of the two lines fits these data points better, the sum of the squares of the residuals must be 
+minimized. The criterion used is called the least squares criterion.
+4 Complete this table. Calculate the sum of the squares of the residuals where it says Z.
+Point
+Residual using L
+Square of residual using L
+Residual using L2
+Square of residual using L2
+(1.3)
+-0.1?
+0.028 9
+-0.73
+0.5329
+(2,5)
+(3,3)
+(4,2)
+(5,5)
+(6,9)
+(2,2)
+(8,9)
+i=
+i=
+5 Again, if you are looking for the line that produces the smallest possible value for the sum of the 
+squares of the residuals, what estimate would you give fory whenx = 1.5? And whenx= P.5? Which 
+equation have you used to estimate these values? Why?
+6 
+If you were given two lines of best fit, would you be able to choose which of the two lines is better for 
+modelling the data? How would you make your choice? Explain briefly.
+? H.imUIMB How is the least squares regression line different from other lines of best fit?
+\
+The least squares regression line is the line of best fit that has the smallest 
+possible value forthe sum of the squares of the residuals.
+278
+
+For example, the line of best fit here is the least squares 
+regression line when a2 + b2 + c2 is a minimum.
+Ifx is the independent variable andy is the dependent variable 
+then the least squares regression line is also called the 
+regression line ofy onx.
+The equation of the regression line ofy on* is
+y-y = -^-I(x-x)
+(O
+where* andy are the means of thexandy data values 
+respectively,
+=5>-(2»(2» and(02 = E**
+(I*)2
+6.2
+(1,2)
+4)
+""c.
+(5 3)
+EXAM HINT
+In examinations you will only 
+be expected to use technology 
+to find the equation of the 
+regression line.
+Example 4
+For the set of data points {(1,2), (3,4), (5,3)), find the regression line of y on x by 
+using the formulae.
+©
+y = 0.25*+ 2.25
+To what extent can you 
+reliably use the equation 
+of the regression line to 
+make predictions?
+Use a table like this to calculate the 
+expressions needed for the formulae:
+X
+y
+*y
+X2
+1
+2
+2
+1
+3
+4
+12
+9
+5
+3
+15
+25
+Xx=9
+Xy=9
+'Lxy= 29
+Xx 2 = 35
+(2»(5»
+n
+9x9
+= 29-------- = 2
+3
+(02=Z*2-
+(T»2
+= 35-----= 8
+3
+6
+Continued on next page
+5k  CD 
+in 
+CO 
+CM
+279
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+y - 3 = — (x - 3), and by expanding we get 
+8
+y = 0.25* + 2.25
+Example 5
+At a coach station, the maximum temperature in °C (x) and the number of bottles of 
+water sold (y) were recorded over 10 consecutive days. The collected data is summarized 
+in the table.
+Day
+1
+2
+3
+4
+5
+6
+2
+8
+9
+10
+X
+20
+19
+21
+21.3
+20.2
+20.5
+21
+19.3
+18.5
+18
+y
+140
+130
+140
+145
+143
+145
+145
+125
+120
+123
+a Plot the data points on a scatter diagram, 
+b Comment on the correlation, 
+c Find the equation of the regression line of y on x. 
+d Draw the regression line on the scatter diagram.
+e The temperature is predicted to be 19.5°C. Estimate how many bottles of water should be 
+stocked according to this regression line.
+y
+150
+no
+•
+16 16.5 17 17.5 18 18.5 19 19.5 20 20.5 21 21.5 22
+b It is a strong positive correlation.
+Your GDC can be used to plot 
+the data points.
+rn
+II
+ON | rr\
+II
+cK
+II
+O | rr\
+II
+I*
+280
+
+6.2
+1 The travel times in minutes (x) and the 
+prices in euros (y) of ten different train 
+journeys between various places in Spain 
+are shown in the table.
+X
+128
+150
+102
+140
+140
+98
+25
+130
+80
+132
+y
+25.95
+40
+24.85
+31.8 30.2 28.95 21.85 34.5 23.25
+26
+a Calculate the value of r. Comment on 
+the correlation.
+b Write down the equation of the 
+regression line of y on x. 
+c Find the mean travel time.
+5 minutes they were asked to name the 
+objects they remembered. The times 
+they took to remember those names (in 
+minutes) were recorded. The results are 
+shown in the table.
+Objects
+remembered (x)
+12
+16
+9
+10
+14
+18
+12
+15
+12
+15
+Time taken (y)
+1.9
+2.2
+1.2
+2
+2
+2.5
+2.3
+2.2
+2.4
+2.4
+a Calculate the value of r. Comment on 
+the correlation.
+b Write down the equation of the 
+regression line of y on x.
+d Find the mean price, 
+e Plot the data points on a scatter
+diagram together with the regression 
+line of y on x, clearly marking and 
+labelling the mean point.
+2 A memory test was given to a group of 
+ten people. Each of them was shown 
+images of 20 different objects, then after
+Find the mean number of objects 
+remembered.
+Find the mean time taken to remember 
+the objects.
+Plot the data points on a scatter 
+diagram along with the regression line 
+of v on x, clearly marking and labelling 
+the mean point.
+281
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+3 The heights in metres (a ) and weights in 
+kilograms (y) of ten male gorillas are shown 
+in the table.
+A
+1.9
+1.83
+1.81
+l.?9
+l.?4
+1.91
+1.93
+1.86 1.81
+1.95
+y
+275
+26?
+260
+25?
+258
+2?2
+2?3
+268
+261
+2?3
+a Calculate the value of r. Comment on 
+the correlation.
+b Write down the equation of the least 
+squares regression line for this data.
+c Find the mean height for this group of 
+male gorillas.
+d Find the mean weight for this group of 
+male gorillas.
+e Plot the data points on a scatter 
+diagram together with the regression 
+line of y on a , clearly marking and 
+labelling the mean point.
+4 The headmaster of a secondary school is
+investigating whether there is any relationship 
+between a student's age (x) and the monthly 
+average number of absences for that age group 
+(y). The data collected is shown in the table.
+A
+12
+13
+14
+15
+16
+1?
+18
+y
+4.2
+4
+3.9
+3.5
+3.4
+3.4
+3.2
+a Calculate Pearson's product moment 
+correlation coefficient for this data. 
+Comment on the correlation, 
+b Write down the equation of the 
+regression line of y on x. 
+c Find the mean point of this data, 
+d Plot the data points on a diagram along 
+with the regression line of y on x, clearly 
+marking and labelling the mean point, 
+e Hence determine how many absences per 
+month you might expect from an 11-year- 
+old, and comment on the reliability of the 
+prediction.
+Investigation ?
+A provincial health department is studying whether there is any relationship between the number of beds in 
+public hospitals and the daily cost per patient. It has collected data from eight hospitals in the province as 
+shown in the table.
+Number of beds (a )
+300
+200
+180
+250
+450
+330
+500
+510
+Daily cost per patient (y)
+40
+45
+50
+43
+38
+40
+37
+35
+1 
+Plot the points on a scatter graph. Label the axes.
+2 
+Find Pearson's product moment correlation coefficient, r. Describe the relationship between these two 
+variables.
+3 Based on the value of r, is a linear model appropriate for the relationship between these two variables? 
+Explain why it is appropriate to find the regression line ofy on x.
+4 Find the regression line ofy on A' and draw the line on the scatter plot.
+5 Determine a reasonable domain and range for your model, the regression line ofy on x.
+6 What would be more reliable: using the regression line to estimate the daily cost per patient in a hospital 
+in the same province that has 280 beds or in a hospital that has 600 beds? Why?
+7 When is it safe to make predictions using the regression line ofy on a ? When is it risky to make predictions 
+using the regression line ofy on a ?
+8 n.imuiMB How can you use a line of best fit?
+Reflect
+When is it appropriate to use a line of best fit?
+282
+
+6.2
+Reflect
+Why might extrapolation be risky?
+Example 6
+A random sample of 12 students is taken to see whether there is a linear relationship 
+between height in cm (x) and shoe size (y). The data collected is shown in the table.
+Height (xcm)
+160
+18?
+1?5
+180
+186
+1?0
+185
+1?2
+1?4
+180
+165
+1?0
+Shoe size (y)
+3?
+42
+39
+38
+40
+38
+41
+39
+38
+40
+3?
+39
+a Plot the data points on a scatter diagram. Comment on the correlation, 
+b Explain why it is appropriate to find the regression line of y on x. 
+c Find the regression line of y on x. Draw the line on the scatter diagram, 
+d Hence estimate the shoe size of a student who is 163 cm tall. Explain why this is a valid 
+process.
+e Explain why it is not reliable to use the regression line of y on x to estimate the shoe size 
+of a student who is 1 50 cm tall.
+f Explain why it is not appropriate to use the regression line of y on x to estimate the height 
+of a student whose shoe size is 38.
+a
+b
+c
+Your GDC can be used to plot the data 
+points.
+X
+Height (cm)
+There is strong positive linear correlation.
+It is appropriate because the correlation is 
+strong and linear. (It would also be appropriate 
+if the correlation were moderate.)
+y = 0.1 54x + 12.0
+Your GDC can be used to find the 
+regression line of y on x.
+Height (cm)
+Continued on next page
+283
+Statistics and 
+probability
+
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+150 cm is beyond the data range. This would 
+be an extrapolation.
+The regression line of y on x should only be 
+used to estimate values of y when x is given, 
+and not the other way round.
+Shoe size
+42
+41
+40
+39
+38
+37
+36
+d 36.9, which would round to a shoe size of 37.
+The process is valid because 162 cm is within 
+the data range {x: 160 <x< 187).
+Method 1:
+Your GDC can be used to estimate the 
+shoe size from the graph.
+When x = 162, y = 36.9.
+Method 2:
+Substitute x = 162 in the equation: 
+y = 0.154 x 162 + 12.0= 36.9 
+Method 3:
+Read off the graph, although this 
+method is sometimes less accurate:
+(162.36 9)yi
+155 160 165 170 175 180 185 190 195 
+Height (cm)
+1 The CEO of a publishing company wants to 
+know whether there is a linear association 
+between the number of pages in a book (x) 
+and the number of errors (y) found in the 
+book. Ten books were chosen at random, 
+and the information is shown in the table.
+X
+100 130 120 80 220 260 290 300 200 150
+y
+8
+10
+13
+10
+12
+13
+15
+16
+9
+10
+a Plot the data points on a scatter graph. 
+Label the axes.
+b Describe the correlation. Hence, explain why 
+it is appropriate to find the regression line, 
+c Find the regression line of y on x.
+d Hence estimate the number of errors in a 
+book that has 280 pages, 
+e Comment on whether it would be reliable 
+to use this equation to estimate the number 
+of errors in a book that has 400 pages.
+284
+2 A group of 10 employees at a factory were 
+given a number (x) of training sessions. 
+They were then asked to complete a task. 
+The times taken to complete this task (y) 
+were recorded, measured in minutes. The 
+results are shown in the table.
+Number of 
+sessions (x)
+3
+4
+5
+3
+7
+7
+8
+9
+9
+8
+Time taken 
+(y min)
+10
+15
+14
+12 7
+12
+6
+5
+6
+4
+a Find the correlation coefficient, r. 
+b Comment on the relationship between 
+the number of training sessions and the 
+time taken to complete the task, 
+c Find the equation of the regression line 
+of y on x.
+d Hence estimate how long it would take 
+an employee to complete the task if they 
+were given six training sessions.
+
+3 There is a moderate positive linear correlation 
+between variables x and y. The regression line 
+for y on x is y = 2x + 1, and it was determined 
+from a table of values where x is such that 
+y<x< 12.
+a Explain why it is appropriate to find the 
+equation of the regression line, 
+b Explain why it is not reliable to use the 
+regression line to estimate the value of y 
+when x = 0.
+c Explain why it is reliable to use the 
+regression line to estimate the value of y 
+when x= 10.
+d Explain why it is not valid to use the 
+regression line to estimate the value of x 
+when v = 20.
+Piecewise linear functions
+A real-world problem may not always be representable by a simple 
+linear function. It is often possible, though, to break a problem down 
+into elements that can each be modelled by a linear function.
+" \ 
+A function whose graph is made up of line segments is called a piecewise 
+linear function.
+For example, if we think of someone walking at a constant 
+speed and then stopping at a coffee shop for a drink, a graph 
+of distance travelled (y) against time (x) would look like 
+this.
+This function, f is defined by two pieces:
+TOK
+We can often use 
+mathematics to model 
+everyday processes.
+Do you think that this 
+is because we create 
+mathematics to emulate 
+real life situations or 
+because the world 
+is fundamentally 
+mathematical?
+• When 0 < x < 20, the formula is f(x) = x+ 10.
+• When x > 20, the formula is/(x) = 30.
+This can be summarized in the following way:
+„ x + 10 0 < x < 20
+/W= [30 x > 20
+How would you use this formula to find/(23) and/(10.5)?
+Example ?
+For the piecewise function
+m= 4
+-x + 7
+-2 < x < 3 
+3 < x < 7
+a Find:
+i 
+f(0) 
+ii /(6)
+b State the domain, 
+c Plot the graph.
+o
+Continued on next page
+285
+Statistics and 
+probability
+
+a i /(0)=4
+ii /(6) = 1
+b Domain is [x: -2 < x < 7}
+-4 
+-2 0 
+2 
+4 
+6 
+8
+Investigation 8
+Nadia is walking from home to school. Sometimes she is on her own, and 
+sometimes she is walking with one or more friends, so her pace varies. The 
+table shows her distance from home [y, in hundreds of metres) x minutes 
+after she left home.
+Time walking 
+(Amin)
+1
+2
+4
+5
+6
+7
+8
+10
+12
+14
+1?
+22
+Distance from 
+home [y x 100 m)
+0.5
+1.5
+3
+4.5
+5
+7
+8
+8.5
+9
+9.5
+10
+11
+1 
+Plot the data points on a scatter diagram using an appropriate scale. Label 
+the axes.
+2 
+How far is Nadia’s school from home?
+3 
+How long did she take to get from home to school?
+4 Comment on Nadia’s journey. Can you model the whole journey with one 
+function?
+5 Find a model to fit these data points. Explain why you have chosen this 
+model. How did you deal with the change of pace?
+6 Use your model to find Nadia’s distance from home after 9 minutes and 
+after 3 minutes.
+7 C2BS332H1 How do we decide whether a piecewise linear model is 
+needed?
+You first need to work out which part of the 
+definition of /applies for x = 0.
+As x = 0 lies in -2 < x < 3, /(0) = 4.
+x = 6 belongs to the interval 3 < x < 7, 
+so substitute x = 6 into the formula 
+/<*)=-* + 7.
+Recall that the domain is the set of inputs 
+for which the function is defined. In this 
+case, the function is defined for -2 < x < 3 
+and 3 <x< 7.
+Your GDC can be used to plot the graph.
+You will need to enter the formula for each 
+of the two pieces as different lines.
+You can start by setting the standard 
+window, but you may need to adjust this.
+6
+MODELLING RELATIONSHIPS: LINEAR CORRELATION OF BIVARIATE DATA
+N ) 
+GO 
+4 * 
+CP ^
+286
+
+6.2
+1 For each of the following piecewise linear 
+functions:
+i State the domain.
+ii Plot the graph.
+iii Find/(3) and/(-3).
+a
+/<*) =
+Jl + x
+[9 - X
+-3 < x < 4 
+4 < x < 10
+a
+b
+/<*) = \x x>0 
+[-x x<0
+2 Determine the definition of the piecewise 
+linear function shown in each of the graphs.
+3 Consider the following sets of data points. 
+Decide in which cases you would choose 
+a piecewise linear model to fit the data 
+points.
+4 For any part of question 3 that was suitable 
+for modelling with a piecewise linear function:
+a Draw this model "by eye", 
+b Estimate the value of y when x = 12.
+5 Consider the set of data points in the table.
+X
+1
+3
+4
+6
+?
+9
+10.5 12 13
+15
+14
+1?
+16
+18
+y
+5.3 4.8 4 4.2
+3.4
+3.1
+3
+2
+4
+?.3
+8
+11.5 11
+15
+a Plot these points on a scatter diagram, 
+b Find a piecewise linear model that best 
+fits these data points, 
+c Draw your model on the same set of 
+axes used for part a. 
+d Hence estimate the value of y when: 
+i x=8 ii x= 15.5
+28 7
+Statistics and 
+probability
+

@@ -1,0 +1,640 @@
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+2.1 Trigonometry of non-right 
+triangles
+Right triangle trigonometry can be used to solve problems involving 
+right triangles. But many geometry problems involve non-right 
+triangles.
+For example, AABC where AB = 10cm,
+A = 45° and B = 30° is one such 
+triangle.
+A
+C
+Reflect
+sides?
+How can you determine the measures of the unknown angle and
+Investigation 1
+1 
+A surveyor measures a plot of land in the 
+form of a triangle AABC as shown in the 
+diagram. She measures a = 5 m, b= 7 m 
+and C— 8in, and A = 38.2°, B = 60.0° 
+and C = 81.8°, given to 1 dp.
+Place all relevant information at the 
+appropriate places in the diagram above.
+2 
+Calculate the ratios —L^—rj —and —Give your answers to 1 dp
+sin A sin B 
+sin C
+and place them in the table below.
+AABC
+a
+b
+c
+sin A
+sin B
+sinC
+Compare the three ratios. What do you notice?
+3 AABC is shown in the diagram below.
+Draw the height of [ CH | from vertex C towards side [ AB |. Label the 
+height h.
+o
+50
+
+2.1
+4 The height [CH] divides AABC into two right triangles: AACH andABCH. 
+Note that A belongs to AACH, and # belongs to ABCH.
+Write an equation in terms of sin A and h using right triangle trigonometry: 
+sin A =
+5 Write an equation in terms of sin # and h using right triangle trigonometry: 
+sin #=
+6 Write each of the equations from parts 4 and 5 in the form.
+/!=...
+7 Equate the right-hand side expressions from the two equations in part 6.
+8 Write an equation equivalent to your equation in part 7, regrouping first 
+with sin A and then with sin #.
+9 H.i.m.umi Do you think that if you had drawn the height from B to 
+AC instead, you would have come to the same conclusion about the
+c 
+a
+ratios------ — and------—? Why or why not?
+sin C sin A
+10 
+What is the relationship between the sine rule and the sine 
+ratio in a right triangle?
+The sine rule
+For any AABC, where a is the length of the side opp-
+\
+osite A, b is the length opposite #, and c is the length 
+of the side opposite C: 
+ci
+/fix.
+/
+a 
+* 
+a /
+a 
+b 
+c 
+sin A 
+sin# 
+sinC /
+—--- - = —---- = —or--------=---------=--------- h
+sin a sin d smi 
+u 
+v 
+L
+b
+The a - 
+^ 
+- C form
+sin A sin# 
+sinC .
+sin A sin B sin C
+The----------=----------- =----------- form of
+a 
+b 
+c
+of the sine rule is used to calculate the 
+length of a side given two angles and an 
+opposite side.
+the sine rule is used to calculate an 
+angle given two sides and an opposite 
+angle.
+Id Nv
+/
+/\4 
+NS\
+l\ NN'Ss\
+b
+b
+The sine rule is true for any triangle, including right-angled 
+triangles.
+TOK
+If sine, cosine and 
+tangent are ratios in a 
+right triangle, how can 
+we use them on angles 
+greater than 90 degrees?
+51
+Geometry and 
+trigonom etry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Example 1
+In AQRS, QR = 15 m, SR = 6.5 m and S= 125°. Find Q. Give your answer correct to 3 s.f.
+Example 2
+A ship S is on a bearing of 120° from port A and 042° from port B. 
+The distance between ports A and B is 15.2 miles.
+Find the distance between the ship and each port.
+
+2.1
+O
+A = 180°- 120° = 60°
+Use angle rules to find A and S.
+S= 180° -(42° + 60°) = 78°
+AS 
+BS 
+15.2
+Use the sine rule to find the lengths.
+sin 42° ~~ sin 60° ~~ sin 78°
+BS
+AS = sin 42° x---- -— = 10.4 miles (3 sf)
+sin 60°
+BS = sin60° x - 
+13.5 miles (3 sf)
+sin 78°
+1 Find the unknown angle for each AABC. 
+Give your answers correct to 3 significant 
+figures.
+A
+a Find A where a - 12.5 cm, b- 15.4 cm 
+and B= 68°.
+b Find Bwhere b = 42.8 cm, c - 30.6 cm 
+and C= 41°.
+c Find C where a = 7.2 m, c- 5.1 m 
+and A = 70°.
+2 In AABC, AC = 8 cm, C- 101° and B= 32°. 
+Find the lengths of [AB] and [BC].
+3 A ship is sailing due north. The captain 
+sees a lighthouse 12 km away on a bearing 
+of 036°. Later, the captain observes that 
+the bearing of the lighthouse is 125°. How 
+far did the ship travel between these two 
+observations?
+The sine rule can be used to solve practical problems involving distances 
+which are impossible to measure.
+Example 3
+A park service plans to build a bridge [AC] over a 
+reservoir. A and B are two points on the shore of 
+the reservoir, such that the distance AB = 14 m,
+A = 102° and B= 58°.
+Calculate the length of the bridge [AC] to the 
+nearest metre.
+o
+Continued on next page
+53
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+O
+C= 180°-(58°+ 102°) =20°
+Before you use the sine rule, you need to 
+find C.
+AC 
+14
+Now apply the sine rule.
+sin 58° sin 20°
+14
+AC = sin 58° x-------- = 35 m (nearest metre)
+sin 20°
+The answer is rounded to the nearest metre 
+at the accuracy level set by the question.
+Did you know?
+In surveying, this method of determining the location of a point and 
+distance to it by measuring the angles from two known points at either 
+end of a fixed segment is called triangulation.
+The surveyor’s instrument for measuring horizontal and vertical angles 
+is called a theodolite.
+International-mindedness
+Triangulation was used in an 
+argument between England and 
+France overthe curvature of the 
+Earth. Research the curvature of the 
+Earth calculated in the 1 Pth century.
+Example 4
+Two people at points A and B observe a sailboat at position C. 
+The distance between points A and B on the shoreline is 20 m.
+The first observer measures A = 65° and the second observer 
+measures 5=42°.
+Find the distance from C to the shoreline (AB).
+C= 180°-(65°+ 42°) = 73°
+Before you apply the sine rule you need to 
+find G
+BC 
+20
+Apply the sine rule to obtain the distance 
+from C to B or from C to A.
+sin65° " sin73°
+BC = sin65° x 20 
+=18.9543...
+sin 7 3°
+A
+To find the distance from C to [AB], use the 
+right triangle ABCD to find CD, where 
+[CD] JL[ABJ.
+^2o"m 
+--- -42^
+B
+sin 42° = 
+CD
+18.9543...
+CD = sin 42° x 18.9543... = 12.7 m (3 sf)
+Use the sine ratio in the right triangle ABCD 
+to calculate CD.
+54
+
+2.1
+Investigation 2
+Using triangulation
+Triangulation is often used in surveying.
+It involves measuring two angles and the 
+length of one side in a triangle and then 
+using these measurements to calculate the 
+lengths of the othertwo sides.
+Each of the calculated distances is then used 
+as sides in anothertriangle to calculate the 
+distances to another point, which in turn can 
+start anothertriangle. This is done to form a 
+chain of triangles connecting the origin point 
+to another point as needed. The chain includes 
+as many triangles as necessary to reach the 
+destination point or segment whose measure 
+has to be obtained.
+1 
+A surveyor measures the distance between two points A and B to be 350 m. She identifies visible 
+landmarks at points C, D and E, shown on the map. She wants to find the distance DF.
+Use a protractor to find ABC and BAG on the map. Calculate the length of |BC|.
+2 
+Use a protractor to measure BCD and CBD. Use these measurements and the length of [BC] from part 1 
+to find the lengths of [CD| and [BD].
+3 
+In ACDE, measure two angles. Find the length of [DEJ.
+4 
+Measure two angles and calculate the length of [DF].
+5 
+Are all of the calculated side lengths in parts 1-3 needed to find DF? If not, which one is not needed?
+6 
+MN is a distance between two other landmarks, which cannot be directly measured. Use your protractor 
+and information from above to find MN.
+7 
+Although triangulation is a smart method to determine distances and is much used by surveyors, it is not 
+very useful when the objects are far away, as the stars are.
+Why do you think that triangulation might not work for places that are too far away, like the stars?
+Investigation 3
+Determining a distance by the method of parallax
+The phenomenon of parallax
+Hold your hand out in front of you and hold up your finger and view it with your left eye first and then with 
+your right eye, while your other eye is closed. Your finger will appear to move against the background. This is 
+a phenomenon called parallax.
+Next you will apply the method of parallax to measure the distance from your eyes to a finger that you hold 
+up with arm stretched out in front of you. [Instead of measuring the distance from your eyes to your finger, 
+you could measure the distance to a tree or another landmark outside.]
+o
+Continued on next page
+55
+Geometry and 
+trigonometry
+
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Sticky dot 2
+1 
+Place a sticky dot on the wall in front of you roughly at eye level. Close your right eye and look with your 
+left eye and align your index finger with the sticky dot on the wall as you hold your arm outstretched 
+in front of you. Now without changing position, look with your right eye at your index finger. Ask your 
+partner to place a sticky dot at the place on the wall now hidden by your finger.
+The situation is represented in the diagram below.
+r
+Sticky dot 1
+2 
+Measure RLF and LRF with your angle-measuring tool. What do you notice about them?
+3 
+Measure the distance LR between your left and right eyes.
+4 
+Calculate the distance between F and [LR].
+Investigation 4
+Measuring the distance to a star by using 
+the parallax effect
+1 
+Astronomers use the parallax effect to measure 
+distances
+to nearby stars. To measure the distance from the 
+Earth to
+a star A, they would use a diagram such as the one 
+shown.
+S represents the position of the Sun, and E ^ and 
+E2 represent the positions of the Earth, as it orbits 
+around the Sun, approximately six months apart (say 
+the Earth’s position in June and December). E AS 
+(or E7AS) is called the parallax angle (P). It is half 
+EjAE,, which can be measured from the shift of the 
+star A against the background of more distant stars.
+Why do you think that astronomers measure the 
+parallax angle E] AS ratherthan AEjS or A^S?
+2 
+Astronomers measure distances to stars by using the
+distance between the Sun and the Earth as a basic unit. They call it an astronomical unit (1 AU).
+Show that when the parallax angle P = 45°, the distance from the Sun to the star A is 1 AU.
+3 
+Use AAE 1 S to write down the distance AS in terms of the parallax angle P and the distance between the 
+Sun and the Earth, SE (1 AU).
+9 r-
+56
+
+2.1
+4 
+Show that when a star A has parallax angle P = 1 °, the distance from the Sun to A is about 5? All, 
+rounded to the nearest integer.
+5 
+A star A has a parallax angle of 1 X 10“4°. Find the distance of the star to the Earth. Give your answer to 
+the nearest thousand AU.
+6 
+Why is it that the parallax effect can be used to measure the distances to nearby stars, but is not suitable 
+for measuring distances to stars that are very far away?
+Three satellites are located at points A, B and 
+C where, a = 7 km, b = 12 km and c— 14 km, 
+as shown on the diagram of AABC.
+How can you determine the angles of the 
+triangle? How would you go about it?
+Investigation 5
+1 A surveyor measures a plot of land in the form of 
+a- 5 km, £= 7 km and c= 8 km, and A = 38.
+Use the given information to complete the table below:
+a2
+b2
+c2
+2ac cosB
+lab cos C
+2 be cos A
+a2 + b2- 
+2ab cosC
+b2 + c2- 
+2be cosA
+a2 + c2 
+lac cosB
+a triangle AABC as shown in the diagram. She measures 
+2°, B = 60.0° and C = 81.8°, given to 1 dp.
+2
+3
+Compare the entries in the different columns. Do you notice a pattern? What can you conclude?
+Look at AABC shown in the diagram on the right.
+The height of AABC, [CH], is drawn from vertex C 
+towards side [ AB ] and labelled with h.
+Point H divides side c into two segments, x and c-x. 
+Use the Pythagorean theorem to write an equation 
+in terms of h, frandx.
+C
+4 Use the Pythagorean theorem to write another equation in terms of h, a and c - x.
+5 Solve each equation from parts 3 and 4 for h2.
+6 Equate the two right-hand side expressions from part 5.
+7 Solve the equation from part 6 in terms of a2
+8 Use AAHC to write an expression for x in terms of b and A.
+9 Substitute your expression for* from part 8 in the equation from part ?. The result is called the cosine 
+rule.
+10
+What is the relationship between the cosine rule and the Pythagorean theorem in a right
+triangle?
+5?
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+Cosine rule
+For AABC, where a is the length of the side opposite
+N
+A, b is the length of the side opposite B, and c is the
+length of the side opposite C: 
+c. 1 N\a
+a2- b2 + c2 - 2bccosA 
+/
+b2 — g2 c2 — 2gc cos B 
+£
+cK
+c2= g2 + b2 - 2ab cos C
+b
+TOK
+It has often been said 
+that the Euler relation, 
+e*+ 1 =0, is the most 
+beautiful equation in 
+all of mathematics. 
+What is meant by 
+beauty and elegance in 
+mathematics?
+The g2 = b2 + c2 - 2be cos A form of 
+the cosine rule is used to calculate a side 
+given two sides and the angle between 
+them.
+a b2 +c2 -a2 e
+The cos A =--------------- form of the
+2bc
+cosine rule is used to calculate an angle 
+given all three sides.
+/
+Is
+b
+b
+The cosine rule is true for any triangle, including right-angled triangles.
+Example 5
+Find the angles of AABC given that a = 14 m, b- 12 m and c-1 m.
+cos A -
+A - cos
+122 +72 -142 
+2x12x7
+.(122 +72 -142 ^
+' ---------------- =91.0° (3 sf)
+2x12x7
+cosB = 142 + 72 -122 
+2x14x7
+To find the angles of AABC use the
+cos <4 = m±£-Z!!l. cosS = “llSzl and
+2 ac
+forms of the cosine rule.
+cos C =
+2 be
+g2+b2-c2 
+2 ab
+Since the accuracy level has not been set in the 
+question, all angle measures are given to 3 sf.
+58
+
+A = cos
+14+7-12
+2x14x7
+= 59.0° (3 sf)
+cos C =
+C = cos
+142 + 122 - 72 
+2x14x12
+142 + 122 - 72 
+2x14x12
+= 30.0° (3 sf)
+Example 6
+Find the length of a lake, CB, given the 
+distances AB = 290 m and AC = 225 m and 
+the angle A =72°.
+CB2 = 2902 + 2252 - 2 x 225 x 290 cos 72 
+CB2 = 94 398.2...
+CB = ^94 398.2... = 307 m
+Use the a2 = b2 + c2 - 2bc cos A form of the 
+cosine rule as you are given two sides and 
+the included angle.
+Give the final answer to 3 sf.
+You may need to apply the cosine and sine rules to find the 
+information you need to solve problems.
+Example ?
+Towns A, B, and C form AABC with sides BC = 8 km and 
+AC = 1 3 km and angle C= 50°.
+Find A and B.
+Continued on next page
+59
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+AB2 = 82 + 132 - 2 x 13x8 cos 50° = 99.3001...
+First use the c2 = a2 + b2 - 2ab cos C form of
+AB = V99.3001...
+AB = 9.96494... = 9.96 km (3 sf)
+the cosine rule to calculate the length of 
+[AB].
+sinA 
+sin 50°
+Once you find AB, we can use the sine rule 
+to determine A and B.
+8 
+9.96494...
+• i o 
+Sin 50°
+sin A = 8 x-------------
+Remember not to use rounded values in
+9.96494...
+intermediate calculations as that may result
+A - sin ' f 8x Sin5° ) - 45.8° (3 sf)
+in an inaccurate final answer.
+^ 
+9.96494...)
+Finally use the fact that angles in a triangle
+B = 180°- (45.7558...°+ 50°) =84.2° (3 sf)
+add up to 180°.
+1 Use the given information to find all sides 
+and angles in each triangle.
+a a - 12 cm, b = 6.5 cm and c-1 cm 
+b a - 11 mm, b- 14 mm and c= 18 mm 
+c c = 22 m, A = 25° and B= 83°
+2 Use the given information to find all sides 
+and angles in each triangle.
+3 A surveyor has to determine the distance 
+between points A and B that lie on opposite 
+banks of a river. Another point C is 450 m 
+from A, on the same side of the river, such 
+that BAC = 45° and ACB = 55°. Find the 
+distance from A to B to the nearest metre.
+4 A hiker leaves camp and walks 5 km on a 
+bearing of 058°. He stops for a break, then 
+continues walking for another 8 km on
+a bearing of 103°. He stops again before 
+heading straight back. Find the distance 
+back to camp from the second stop.
+5 The straight-line distance between two 
+cities A and B is 223 km. The straight-line 
+distance between cities A and C is 152 km. 
+The straight-line distance between cities B 
+and C is 285 km.
+Find the angles between each of the three 
+cities.
+6 To find the third side of AABC with
+AB = 40 cm, BC = 25 cm and BAC = 35°, 
+Velina and Kristian offered the following 
+suggestions:
+Kristian suggested: "Use the cosine rule as 
+you are given two sides and one angle."
+Velina suggested: "Use the sine rule as you 
+are given two sides and an angle opposite to 
+one of them."
+State whose method is correct and justify 
+your statement. Hence, solve the triangle.
+60
+
+c
+o
+Continued on next page
+Developing inquiry skills
+Look again at the opening problem. The Great Trigonometric 
+Survey used an instrument called a theodolite to measure 
+the angles from points A and B to the summit E.
+BAE= 30.5° and ABE = 26.2°.
+Points A and B are 33 km apart.
+Find the height of Mount Everest to the nearest metre.
+2.2 Area of a triangle formula: 
+applications of right- and 
+non-right angled trigonometry
+Four triangles are given below. Determine the area of each triangle 
+if possible. If the area cannot be determined, state what additional 
+information is needed so that it can be done.
+8 cm
+_.90° 
+N.X
+20 cm
+Investigation 6
+Consider a plot of land in the shape of AABC with given sides a and cand angle B 
+The height h is drawn from C towards [AB |, so that h_L | AB).
+1 
+Write an expression for the area of AABC in terms of side c and the height h.
+2 
+Consider ABHC. Write an expression for h in terms of a.
+3 
+Substitute your expression for h from part 2, in your expression for the area from 
+part 1, and hence show that.
+1
+area of AABC = —acsin B 
+2
+61
+Geometry and 
+trigonometry
+
+2
+REPRESENTING SPACE: NON-RIGHT ANGLED TRIGONOMETRY AND VOLUMES
+4 
+What would the formula from part 3 look like if b, cand sin A or#, /?and 
+sin C are given? Write down these other forms of the area formula.
+5 
+What is the relationship between the formula 
+1
+area = -ac sin B and the formula for the area of a right triangle: 
+area = -x base x height?
+Area can be measured in 
+square units, but also in 
+“packets” like hectares or 
+acres.
+Which countries use 
+bigha, mou,feddan, rai, 
+andtsubo?
+\
+The area of any triangle AABC is given by the formulae
+area = -bcsinA or area = -acsinBor area = — absinC 
+2 2 2
+International 
+mindedness
+Example 8
+A farmer owns a triangular plot AABC, where the lengths 
+are AB = 120 m and BC = 240 m, and B = 130°.
+Find the area of the plot to the nearest integer.
+C
+area = — x 120 x 240 x sin 1 30°
+Use the formula area = — acsmB.
+2
+2
+area = 11 031 m2
+Round the area to the nearest integer.
+Example 9
+The area of AABC is 29.6 cm2, B-2 5° and BC = 7 cm. 
+Find the length of side |AB|.
+B 
+7 m 
+C
+29.6 = — x7x ABxsin25°
+Use the formula area = — acsin B.
+2
+2
+AB = 
+-'6— ^ - = 20.0 cm (3 sf)
+Round the answer to 3 sf.
+7 x sin25°
+62
+

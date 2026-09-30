@@ -1,0 +1,384 @@
+1.3
+10 
+Determine how many times the number of visitors of the most
+visited park is bigger than the number of visitors of the third most visited park.
+11
+How did rounding help you compare the numbers of park
+visitors?
+12 ESISfflSJ What are the limitations of a measurement reading in 
+terms of accuracy?
+13 
+How is rounding useful?
+1 Round each of the following numbers as 
+stated:
+a 
+8888 
+to 3 sf
+b 
+3.749 
+to 3 sf
+c 
+27318 
+to 1 sf
+d 
+0.00637 
+to 2 sf
+e 
+V62 
+to 1 dp
+2 Round the numbers in the table to the 
+given accuracy.
+Number
+Round
+to the
+nearest
+ten
+Round
+to the
+nearest
+hundred
+Round
+to the
+nearest
+thousand
+a
+2815
+b
+25391
+c
+316429
+d
+932
+e
+8 253
+3 Round the following amounts to the 
+given accuracy:
+a 502.13 EUR to the nearest EUR
+b 1002.50 USD to the nearest thousand 
+USD
+c 12 BGN to the nearest 10 BGN 
+d 13 51.368 JPY to the nearest 100 JPY
+4 A circle has radius 33 cm. Calculate the 
+circumference of the circle. Write down 
+your answer correct to 3 sf.
+5 The area of a circle is 20cm2 correct to 2 sf. 
+Calculate the radius of the circle correct to
+2 sf.
+6 Estimate the volume of a cube with 
+side 4.82 cm. Write down your answer 
+correct to 2 sf.
+1.3 Measurements: exact or 
+approximate?
+Accuracy
+The accuracy of a measurement often depends on the measuring units 
+used. The smaller the measuring unit used, the greater the accuracy. If 
+I use a balance scale that measures only to the nearest gram to weigh 
+my silver earrings, I will get 11 g. But if I use an electronic scale that 
+measures to the nearest hundredth of a gram, then I get 11.23 g.
+TOK
+To what extent do 
+instinct and reason 
+create knowledge?
+Do different geometries 
+(Euclidean and non- 
+Euclidean) refertoor 
+describe different worlds? 
+Is a triangle always made 
+up of straight lines? Is the 
+angle sum of a triangle 
+always 180°?
+11
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+The accuracy would also depend on the precision of the measuring 
+instrument. If I measured the weight of my earrings three times, 
+the electronic scale might produce three different results: 11.23 g, 
+11.30 g and 11.28 g. Usually, the average of the available measures 
+is considered to be the best measurement, but it is certainly not 
+exact.
+Each measuring device (metric ruler, thermometer, theodolite, 
+protractor, etc.) has a different degree of accuracy, which can 
+be determined by finding the smallest division on the instrument. 
+Measuring the dimensions of a rug with half a centimetre accuracy 
+could be acceptable, but a surgical incision with such precision most 
+likely will not be good enough!
+\
+A value is accurate if it is close to the exact value of the quantity being meas 
+ured. However, in most cases it is not possible to obtain the exact value of a 
+measurement. For example, when measuring your weight, you can get a more 
+accurate measurement if you use a balance scale that measures to a greater 
+number of decimal places.
+Investigation 5
+The yard and the foot are units of length in both the British Imperial and 
+US customary systems of measurement. Metal yard and foot sticks were 
+the original physical standards from which other units of length were 
+derived.
+In the 19th and 20th centuries, differences in the prototype yards and feet 
+were detected through improved technology, and as a result, in 1959, the 
+lengths of a yard and a foot were defined in terms of the metre.
+In an experiment conducted in class, several groups of students worked on 
+measuring a standard yardstick and a foot-long string.
+1 Group 1 used a ruler with centimetre and millimetre units and took two 
+measurements: one of a yardstick and one of a foot-long string. Albena, 
+the group note taker, rounded off the two measurements to the nearest 
+centimetre and recorded the results for the yard length as 92 cm and 
+for the foot length as 29 cm. Write down the possible values for the 
+unrounded results that the group obtained. Give all possible unrounded 
+values for each measure as intervals in the form a <x<b.
+International 
+mindedness
+SI units
+In 1960,the 
+International System 
+of Units, abbreviated 
+SI from the French, 
+“systeme International", 
+was adopted as a 
+practical system of 
+units for international 
+use and includes 
+metres for distance, 
+kilograms for mass and 
+seconds fortime.
+2 Group 2 used a Vernier caliper, which is able to measure lengths to tenths 
+of a millimetre. They also took measurements of a yardstick and of a 
+piece of string a foot long. Velina, the group note taker, rounded off the 
+two measurements to the nearest millimetre and recorded the results as 
+91.5 cm and 31.5 cm. Write down the possible values for the unrounded 
+results that the group obtained. Give all possible unrounded values for 
+each measure as intervals in the form a<x<b.
+12
+
+1.3
+3 
+Can you explain why the intervals in parts 1 and 2 include 
+the endpoint a but exclude the endpoint b?
+4 H.i.ijy.uiMB Based on your conclusions in parts 1 and 2, make a 
+conjecture about the interval in which the exact value should lie. How big 
+is this interval in relation to the unit used? How would you determine the 
+left and the right ends of the interval?
+\
+The left and the right ends of an interval in which an exact value of a measurement 
+lies are respectively called the lower bound and the upper bound.
+\
+The lower bound and the upper bound are half a unit below and above a 
+rounded value of a measurement. Thus the upper bound is calculated as 
+the rounded measurement + 0.5 unit, and the lower bound is found as the 
+rounded measurement - 0.5 unit.
+Did you know?
+The exact values of one yard and one foot are defined by an international 
+agreement in 1959. A yard was defined as 0.9144 metres exactly, and a foot 
+was defined as 0.3048 metres exactly.
+Example 4
+a Jane's weight is 68 kg to the nearest kg. Determine the upper and lower bounds of her weight, 
+b Rushdha's height is measured as 155 cm to the nearest cm. Write the interval within 
+which her exact height lies.
+a The upper and lower bounds are 68.5
+The range of possible values for Jane's
+and 67.5, respectively.
+weight is 68 ± 0.5 kg.
+b 154.5 <h< 155.5
+The range of possible values for Rushdha's 
+height is 155 ± 0.5cm.
+Example 5
+Majid ran 100 metres in 11.3 seconds. His time is measured to the nearest tenth of a second. 
+Determine the upper and lower bounds of Majid's running time.
+Lower bound = 11.3 - 0.05 = 11.25
+Lower bound is 11.3 - 0.5 unit, and upper 
+bound is 11.3 + 0.5 unit.
+Upper bound = 11.3 + 0.05= 11.35
+Majid's time is given to the nearest tenth 
+of a second. A unit is a tenth of a second or 
+0.1 sec, and 0.5 unit is 0.05 sec.
+13
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+Example 6
+A rectangular garden plot was measured as 172 m by 64 m. Determine the lower and 
+upper bounds of its perimeter.
+171.5 < L < 172.5
+63.5 < W< 64.5
+Then the lower bound of the perimeter is 
+2 x (171.5 + 63.5) = 470, and the upper bound 
+of the perimeter is 2 x (172.5 + 64.5) = 474.
+Thus 470< P < 474.
+For the lower bound of the perimeter, use 
+the shortest possible lengths of the sides: 
+the measured values - 0.5 m; for the upper 
+bound, use the longest possible lengths: the 
+measured values + 0.5 m.
+Find the range of possible values for the 
+following measurements, which were 
+rounded to the nearest mm, tenth of m, 
+and hundredth of kg respectively:
+a 24 mm b 3.2 m c 1.75 kg
+A triangle has a base length of 3.1 cm and 
+corresponding height 4.2 cm, correct to 
+1 decimal place. Calculate the upper and 
+lower bounds for the area of the triangle as 
+accurately as possible.
+3.1 cm
+3 With 72 million bicycles, correct to the 
+nearest million, Japan is at the top of the list 
+of countries with most bicycles per person. 
+On average, Japanese people travel about
+2 km by bicycle, correct to the nearest km, 
+each day. Calculate the upper bound for the 
+total distance travelled by all the bicycles in 
+Japan.
+4 To determine whether a business is making 
+enough profit, the following formula is used:
+5
+where P is relative profit, S is sales and C 
+is costs. If a company has $340 000 worth 
+of sales and $230000 of costs, correct to 2 
+significant figures, calculate the maximum 
+and minimum relative profit to the 
+appropriate accuracy.
+\
+Since measurements are approximate there is always error in the measurement 
+results. A measurement error is the difference between the exact value (Vp) 
+and the approximate value (VA), ie
+Measurement error = V - Vr.
+A E
+Investigation 6
+Tomi and Massimo measured the length of a yardstick and the length of a 
+foot-long string and obtained 92.44 cm for the length of a yard and 31.48 cm 
+for the length of a foot.
+TOK
+Do the names that we 
+give things impact how 
+we understand them?
+14
+
+1.3
+1 
+Given that the exact value of 1 yard is 91.44 cm and of 1 foot is 30.48 cm, 
+find the measurement error in the results obtained by Tomi and Massimo.
+Tomi thinks that the two measurements were equally inaccurate. Massimo
+thinks that one of the two measurements is more accurate than the other.
+2 
+Who do you agree with: Tomi or Massimo? Why? Explain.
+Massimo decides to find the magnitude of his measurement error as a
+percentage of the measured length.
+3 
+Write down the error in measuring the length of 1 yard as a fraction of the 
+exact length of 1 yard. Give your answer as a percentage.
+4 
+Write down the error in measuring the length of 1 foot as a fraction of the 
+exact length of 1 foot. Give your answer as a percentage.
+5 
+In what ways could expressing measurement errors as a 
+percentage of the exact value be helpful?
+6 
+How could measurement errors be compared?
+The percentage error formula calculates the error as a percentage of 
+the measured quantity. For example, a weight measured as 102 kg 
+when the exact value is 100 kg gives a measurement error of 2 kg and 
+2
+percentage error ol = 2%. A weight measured as 27 kg when the
+exact value is 25 kg gives the same measurement error of 2 kg but a 
+2
+percentage error of — = 8%.
+\
+Percentage error = Va-Vb
+x 100%, where 
+is the approximate value
+and V- is the exact value.
+t
+Example ?
+The fraction — is often used as an approximation of n. 
+7
+a How close (to how many decimal places) does ^ approximate /r?
+b Find the percentage error of this approximation, giving your answer to 2 dp.
+22
+a —-n- 0.001264...
+7
+Measurement error = V - Vc, where V. is the
+A 
+E 
+A
+22
+approximate value and V is the exact value.
+*
+Thus — approximates n to 2 dp.
+o
+Continued on next page
+15
+Geometry and
+Number and algebra 
+trigonometry
+
+MEASURING SPACE: ACCURACY AND 2D GEOMETRY
+O
+22
+b Percentage error =
+71
+1
+x 100%
+Percentage error =
+x 100%
+K
+Be careful to take the absolute value of the
+— 0.04%
+fraction as the percentage error is always a
+positive number!
+In multistep calculations, you must be careful not to round figures 
+until you have your final answer. Premature rounding of initial or 
+intermediate results may lead to an incorrect answer.
+TOK
+How does the perception 
+of the language being used 
+distort our understanding?
+Example 8
+Calculate the density of a cube of sugar weighing 2.45 grams, where the side of the cube is 
+1.2 cm, correct to 1 dp.
+Volume = (1.2)2 
+3 = 1.728 cm3 
+2.45
+Density =
+.728
+.41782... g/cm3 
+1.4 g/cm3 (correct to 1 dp)
+If you first rounded the mass to 1 dp, then 
+calculated the volume to 1 dp and then 
+divided, you would obtain:
+2.5
+1.7 = 1.47058 ... g/cm3,
+= 1.5 g/cm3 (correct to 1 dp) 
+This gives a percentage error of 
+1.5-1.41782... x 100% = 5.80%
+1.41782...
+Make sure to avoid premature rounding!
+" 
+" 
+'N
+Rounding of intermediate results during multistep calculations reduces the
+accuracy of the final answers. Thus, make sure to round your final answer only.
+1 Find the percentage error in using 3.14 
+instead of t t .
+2 In 1856, Andrew Waugh announced Mount
+Everest to be 8840 m high, after several 
+years of calculations based on observations 
+made by the Great Trigonometric Survey. 
+More recent surveys confirm the height as 
+8848 m. Calculate the percentage error made 
+in the earlier survey.
+Eratosthenes estimated the circumference 
+of the Earth as 250 000 stadia (the length of 
+an athletic stadium). If we assume he used 
+the most common length of stadia of his 
+time, his estimate of the circumference of 
+the Earth would be 46 620 km. Currently, 
+the accepted average circumference of the 
+Earth is 40030.2 km. Find the percentage 
+error of Eratosthenes' estimate of the 
+circumference of the Earth.
+16
+

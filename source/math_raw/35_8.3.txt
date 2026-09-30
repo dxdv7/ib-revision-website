@@ -1,0 +1,527 @@
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+Score, x
+Probability
+Expected score
+x<90
+0.1587
+31.?
+90 <x< 100
+0.3413
+68.3
+100 <x< 110
+0.3413
+68.3
+110 <x< 120
+0.1359
+27.2
+120 <x< 130
+0.0214
+4.28
+130<x
+0.00135
+0.270
+c The last two scores are both less than 5, even 
+when added together, and so you will have to 
+combine them with the one above.
+Use the normal cdf function on 
+your GDC to find the probability 
+and then multiply your answer by
+200.
+4.28 + 0.270 is still less than 5.
+d
+e
+Observed and expected values are now:
+Score, x
+Observed
+score
+Expected
+score
+x<90
+5
+31.7
+90 <x< 100
+14
+68.3
+100<x< 110
+74
+68.3
+110<x
+107
+31.7
+X2 value is 245 and the /7-value is 7.89 x 10-53. 
+The /7-value is less than 0.10 and so the null 
+hypothesis is rejected: the scores are not normally 
+distributed with mean of 100 and standard 
+deviation of 10.
+Also, the critical value for v = 3 at 
+the 10% significance level is 6.251. 
+245 > 6.251, so the null hypothesis 
+is rejected.
+1 Marius works in a fish shop. One week he 
+measures 250 fish before selling them. His 
+results are shown in the table.
+Length of fish, x cm
+Frequency
+9 <x< 12
+5
+12 <x< 15
+22
+15 <x< 18
+71
+18 <x< 21
+88
+21 <x< 24
+52
+24<x< 27
+10
+27 <x< 30
+2
+Marius is told that the lengths of the fish 
+should be normally distributed with a mean 
+of 19 cm and standard deviation of 3 cm, so
+he decides to perform a x2 goodness of fit 
+test at the 5% significance level to find out 
+whether the fish that he measured could 
+have come from a population with this 
+distribution.
+a Write down his null and alternative 
+hypotheses.
+b Find the probability that a fish is 
+between 9 cm and 12 cm. 
+c In total, 250 fish were measured.
+Calculate how many fish you expect to 
+be between 9 cm and 12 cm. 
+d Complete the table of expected values 
+for 250 normally distributed fish with a 
+mean of 19 cm and standard deviation of 
+3 cm.
+402
+
+Length offish, 
+xcm
+Probability
+Expected
+frequency
+9 <x< 12
+0.009 386
+2.35
+12 <x< 15
+0.0814
+20.3
+15 <x< 18
+18 <x< 21
+21 <x< 24
+24<x< 22
+0.043 96
+10.99
+27 <x< 30
+0.003 21
+0.922
+Two of the expected frequencies are less 
+than 5.
+e Discuss what you have to do in this case. 
+Remember that this may be encountered 
+in internal assessments, but will not be 
+in examinations.
+f Rewrite the original table and the 
+table of expected values so that all the 
+expected values are greater than 5. 
+g Write down the number of degrees of 
+freedom.
+h Find the x2 value and the p-value.
+The critical value is 9.488. 
+i Write down your conclusion for this test.
+2 The weights of sample group are normally 
+distributed with a mean of 52 kg and 
+standard deviation of 3 kg.
+The district nurse weighs 200 people and 
+her results are shown in the table.
+Weight, 
+w kg
+w<45 45 < U'< 50
+50 < w< 55 55<iv<60 w > 60
+Frequency
+12
+44
+82
+53
+9
+a Complete the expected frequency table.
+Weight, 
+iv kg
+iv <45
+45<iv<50 50<iv<55 55<iv<60 w > 60
+Expected
+frequency
+1.96
+48.54
+07?
+b Rewrite the table of observed frequencies 
+so that all the expected frequencies are 
+greater than 5 and find the corresponding 
+expected frequencies, 
+c Write down the number of degrees of 
+freedom.
+d Determine the results of a goodness of 
+fit test at the 5% significance level to 
+find out whether the data fits a normal 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+The critical value for this test is 5.991. 
+e State the conclusion for the test and give 
+a reason for your answer.
+3 The grades for an economics exam for 300 
+university students are as follows.
+Grade, xX
+A'<50 50<a< 60 60 <A< ?0 ?0<a<80
+a  >80
+Frequency
+8
+?2
+143
+?1
+6
+The grades are normally distributed with a 
+mean of 65% and standard deviation of 7.5%.
+a Complete the expected frequency table.
+Grade, xX
+A <50
+50<a< 60
+60 <a < ?0 ?0<a < 80
+a > 80
+Expected
+frequency
+6.8
+68.92
+6.8
+b Write down the number of degrees of 
+freedom.
+c Determine the results of a goodness of 
+fit test at the 10% significance level to 
+find out whether the data fits a normal 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+The critical value for this test is 7.779.
+d State the conclusion for the test and give 
+a reason for your answer.
+4 The heights of elephants are normally 
+distributed with a mean of 250 cm and 
+standard deviation of 11 cm. Two hundred 
+and fifty elephants are measured; the 
+results are shown in the table.
+Height,
+//cm
+// < 235
+235 <>h 
+<245
+245^/7
+<255
+255^/7
+<265
+h > 265
+Frequency
+10
+69
+88
+63
+20
+a Complete the expected frequency table.
+Height, 
+h cm
+h<
+235
+235 <// 
+<245
+245 <//
+<255
+255 <i h 
+<265
+h > 265
+Expected
+frequency
+21.6
+b Write down the number of degrees of 
+freedom.
+c Determine the results of a goodness of 
+fit test at the 5% significance level to 
+find out whether the data fits a nonnal 
+distribution. Remember to write down the 
+null and alternative hypotheses.
+The critical value for this test is 9.488.
+d State the conclusion for the test and give 
+a reason for your answer.
+403
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+5 The lifespan of light bulbs is normally distributed with a mean lifespan of 1200 hours and 
+standard deviation of 100 hours. Four hundred light bulbs are tested and the results are 
+shown in the table.
+Lifespan, h 
+hours
+*<1000
+1000 <*<1100
+1100<*< 1200
+1200 <*<1300
+1300<*< 1400 * > 1400
+Frequency
+24
+52
+92
+164
+42
+26
+a Complete the expected frequency table.
+Lifespan, h 
+hours
+*<1000
+1000 <*<1100 1100 <*<1200 1200 < * < 1300
+1300 < * < 1400 * > 1400
+Expected
+frequency
+9.1
+b Write down the number of degrees of freedom.
+c Determine the results of a goodness of fit test at the 5% significance level to find out whether 
+the data fits a normal distribution. Remember to write down the null and alternative 
+hypotheses.
+The critical value for this test is 11.070.
+d State the conclusion for the test and give a reason for your answer.
+Example 6
+Using what you learned in Chapter 7, Find the probability 
+when you toss three coins of obtaining: 0 heads, exactly 
+1 head, exactly 2 heads, 3 heads.
+Hagar losses three coins 200 times and makes a note of the number 
+of heads each time. Her results are as follows.
+Number of heads
+Frequency
+0
+28
+1
+67
+2
+83
+3
+22
+TOK
+To what extent can 
+shared knowledge 
+be distorted and 
+misleading?
+She is interested in finding out whether her results follow a 
+binomial distribution and performs a y2 goodness of fit test at the 
+5% significance level.
+a Using the terms of B (3, 0.5) and the fact that Hagar tossed the 
+coins 200 times, find the expected values for the number of heads, 
+b Comment on whether any of these values are less than 5. 
+c Write down the null and alternative hypotheses and the degrees 
+of freedom.
+The critical value is 7.815.
+d Find the y2 value and the /7-value, 
+e Write down the conclusion for this test.
+404
+
+o
+Number of
+heads
+Expected frequency
+0
+200x0.125 = 25
+1
+200x0.325 = 25
+2
+200x0.325 = 25
+3
+200x0.125 = 25
+b They are all greater than 5. 
+c H(): The number of heads follows a 
+binomial distribution.
+Hj : The number of heads does not 
+follow a binomial distribution, 
+d The x2 value is 2.426... and the /7-value 
+is 0.4886...
+e 2.426... < 7.815, so the null hypothesis 
+is accepted. Or, 0.4886... > 0.05, so the 
+null hypothesis is accepted. The number 
+of heads follows a binomial distribution.
+International 
+mindedness
+The physicist Frank 
+Oppenheimer wrote:
+“Prediction is dependent 
+only on the assumption 
+that observed patterns 
+will be repeated.”
+This is the danger of 
+extrapolation. There are 
+many examples of its 
+failure in the past: for 
+example share prices, 
+the spread of disease 
+and climate change.
+1 Percy sews three seeds in each of 50 different 
+pots. The probability that a seed will 
+germinate is 0.75. The number of seeds that 
+germinated in each pot is shown in the table.
+Number of seeds germinating
+0
+1
+2
+3
+Frequency
+5
+10
+15
+20
+a Using the binomial expansion B(3, 0.75), 
+find the expected probabilities of 0, 1,2 
+or 3 seeds germinating.
+b Write down the table of expected 
+frequencies.
+c State whether or not there are any 
+expected values less than 5.
+d Write down the number of degrees of 
+freedom.
+e Determine the results of a goodness of 
+fit test at the 5% significance level to 
+find out whether the data fits a binomial 
+distribution. Remember to write down the 
+null and alternative hypotheses.
+The critical value for this test is 5.991.
+2 The number of boys in 100 families 
+with three children is shown in the table.
+Number of boys
+0
+1
+2
+3
+Frequency
+16
+23
+32
+19
+a If the probability of having a boy is 0.5, 
+use the binomial expansion B(3, 0.5) to 
+find the expected values, 
+b State whether or not there are any 
+expected values less than 5. 
+c Write down the number of degrees of 
+freedom.
+d Determine the results of a goodness of 
+fit test at the 1 % significance level to 
+find out whether the data fits a binomial 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+The critical value for this test is 11.345. 
+e State the conclusion for the test and give 
+a reason for your answer.
+f State the conclusion for the test and give 
+a reason for your answer.
+405
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+3 Esmerelda tosses two unbiased dice 250 times. 
+She records the number of 6s that she tosses.
+Number of 6s
+0
+1
+2
+Frequency
+135
+105
+10
+a Use the binomial expansion B(2, —) to
+6
+complete the table of expected values.
+Number of 6s
+0
+1
+2
+Expected frequencies
+6.94
+b State whether there are any expected 
+values less than 5.
+c Write down the degrees of freedom, 
+d Determine the results of a goodness of 
+fit test at the 5% significance level to 
+find out whether the data fits a binomial 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+The critical value for this test is 5.991.
+e State the conclusion for the test and give 
+a reason for your answer.
+4 A multiple-choice test has five questions.
+Each question has four answers to choose 
+from.
+a Find the probability of getting any one 
+question correct.
+Five hundred students sit the test and the 
+results are shown in the table.
+Number correct, n
+0
+1
+2
+3
+4
+5
+Frequency
+38
+66
+122
+132
+51
+36
+b Using the binomial expansion B(5, 0.25), 
+find the expected probabilities of having 
+0, 1, 2, 3, 4 or 5 questions correct, 
+c Complete the table of expected 
+frequencies.
+Number correct, n
+0
+1
+2
+3
+4
+5
+Expected frequency
+2.32
+d State whether there are any expected 
+values less than 5.
+e Write down the number of degrees of 
+freedom.
+f Determine the results of a goodness of 
+fit test at the 5% significance level to 
+find out whether the data fits a binomial 
+distribution. Remember to write down 
+the null and alternative hypotheses.
+The critical value for this test is 9.488.
+g State the conclusion for the test and give 
+a reason for your answer.
+Reflect What does the goodness of fit test do?
+Developing inquiry skills
+Area A
+Area B
+Small [h < 4.5)
+3
+9
+Medium (4.5 < h < 5.0)
+2
+9
+Large [h > 5.0)
+14
+6
+From previous research it is known that this species of tree as a whole follows 
+a normal distribution with a mean of 4.9 m and a standard deviation of 0.5 m. 
+Test the trees from each of the forest areas separately and see whetherthe 
+observed values are consistent with both samples being taken from this 
+distribution.
+Combine the trees from both areas and carry out the test again.
+What do your results suggest about the likelihood of the trees from area A 
+being taller than those from area B?
+406
+

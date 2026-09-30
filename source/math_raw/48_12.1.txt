@@ -1,0 +1,322 @@
+12.1
+12.1 Limits and derivatives
+The graph below shows how the profits of a company increase with 
+the number of widgets it sells.
+TOK
+What value does the 
+knowledge of limits 
+have?
+From previous work on linear functions you will know that the rate 
+at which the profit increases for each new widget made (profit per
+v . 2100-500 ,„TTrwr
+widget) is-------------= 10 USS per widget.
+160-0
+This is equivalent to the gradient of the curve. If the curve had a 
+steeper gradient, the profit per widget would be higher; if the gradient 
+had a less steep gradient, the profit per widget would be lower.
+Hence the rate of change of one variable with respect to another is 
+equivalent to the gradient of the line.
+This is easy to calculate when the functions are linear. The following 
+investigation will consider how the gradient of a curve at a point might 
+be calculated.
+Investigation 1
+Considerthe curve y=x2 shown below.
+1 a Give the range of x for which the gradient of the curve is 
+i negative ii positive iii equal to zero.
+b At which point is the gradient of the curve greatest, A or B?
+o
+Continued on next page
+525
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+The tangent to a curve at a point is the straight line that just touches, but does 
+not cross, the curve at that point.
+2 
+a On your GDC or on other software plot the curvey=x2 and draw the 
+tangent at the point (1,1), as shown below.
+b Zoom in to the point (1, 1). What do you notice about the gradient of 
+the tangent and the gradient of the curve at the point of contact? 
+c Use your GDC or online software to draw tangents toy-x2 at the points 
+listed below and, in each case, write down the gradient of the tangents.
+X
+-3
+-2
+-1
+0
+1
+2
+3
+Gradient of 
+tangent atx
+2
+d What do you think the gradient of the tangent atx= 5 is? 
+e What do you think the gradient of the tangent atx = -8 is? 
+f Can you find a general expression for the gradient of the tangent to 
+y=x2atthe point on the curve with coordinates (x, x2)?
+g To justify your expression in part f, find the slope of the chord from 
+point A (1, 1) to a point B (1.1, 1.21). 
+h Find the slope of the chord from point A (1, 1) to a point 
+B (1.01, 1.0201).
+i 
+Find the slope of the chord from point A (1, 1) to a point 
+B (1.001, 1.002001).
+j What happens to the slope the closer point B gets to point A? 
+k Does this value fit your expression in part f ?
+The line joining points A and B is called a chord.
+The line through points A and B is called a secant.
+The average rate of change from A to B is the same as 
+the gradient of the line AB.
+As B moves closer to A, the gradient of the line AB gets 
+closer to the gradient of the tangent at A.
+The gradient of a secant identifies the average rate of 
+change while the gradient of a tangent identifies the 
+instantaneous rate of change.
+526
+
+The gradient of a tangent is the limit of a secant.
+The average rate of change between two points is the same as the gradient of 
+the secant between the two points.
+The instantaneous rate of change at a point is the gradient of the tangent at 
+that point.
+\
+" "
+The gradient function is called the derivative and it is denoted by f'(x).
+The derivative of/(x) with respect to x is defined as /'(x).
+(j y
+An alternative notation for f'(x) is — or, if different variables are used, 
+ds dV 
+to
+— or — etc.
+dr dr
+Investigation 2
+1 
+Write down the gradients of the following functions:
+y= 3,y=-5,y=8,y=-l 0 
+a What is the gradient ofy=c? 
+b What is the derivative of y = c?
+2 
+Write down the gradients of the following functions:
+y=3x,y = -7x,y = 4x,y=x 
+a What is the gradient ofy — mx? 
+b What is the derivative of y = mx?
+3 a i Using technology, find the gradients of the tangents to
+/(x) = 2x2 at x--2, -1, 0, 1,2.
+ii Find a general expression for the derivative off(x) = 2x2 at any point x. 
+b i Using technology, find the gradients of the tangents to
+f(x) = 3x2atx=-2, -1, 0, 1, 2.
+ii Find a general expression for the derivative of/(x) = 3x2 at any point x. 
+c State an expression for the derivative off(x) = ax2.
+4 a i Using technology, find the gradients of the tangents to
+/(x)=x3atx=-2, -1, 0, 1, 2.
+ii Find a general expression forthe derivative off(x) =x3 at any point x. 
+b i Using technology, find the gradients of the tangents to
+f(x) = 2x3 atx=-2, -1, 0, 1, 2.
+ii Find a general expression forthe derivative of/(x) = 2x3 at any pointx. 
+c State an expression for the derivative of f(x) = ax3.
+5 a State the derivative fory = x4.
+b Generalize the derivatives fory=xt}. 
+c Generalize the derivatives fory = axn.
+6 H.M-H.'JMI What does the derivative of a function at any point represent?
+International 
+mindedness
+The — notation was
+dx
+used by German mathe 
+matician, Gottfried 
+Leibniz in the l?th 
+century
+HINT
+There are many
+interactive demos that
+you can use to find
+these answers.
+_______ ___ _______ /
+52?
+Calculus
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+\
+The derivative off(x) = axtl isf'(x)=anxn~ \neZ.
+To find the derivative of a polynomial, you have to find the derivative of 
+each term separately.
+For example, \ff(x) = axtt + bxn~l + cx+d, then 
+/' (x) = anxn~l +b(n- 1 )xn~2 + c.
+Remember that the derivative ofy = mx is m and the derivative ofy=c is 0.
+HINT
+Note the last two also
+follow the same rule as
+the first if you write mx
+as mx1 and c as cx°.
+v_________________ y
+Example 1
+Find the derivatives of the following functions and find the gradient of the tangent at 
+the point where x=2:
+1 y= 3X4 
+2 y = 5x3 
+3 y = 2x2 + 3x - 5
+, 
+2 
+3
+4 y = x3 + 2x+l 
+5 y = -+x,x^0 
+6 y = —r, x *0
+X 
+X
+For parts 3 and 5:
+a Sketch the function and its derivative on the same axes and say whether the function is 
+increasing or decreasing at the point where x = 2.
+b Write down the range of values of x for which the function is increasing.
+1
+^=12*3
+dx
+3 x 4x*~l
+When x= 2,
+^ = 12(2)}= 12(8) = 96 
+ck
+«y = 15*2
+dx
+To find the gradient of the tangent at 
+x = 2, substitute 2 for x in the 
+derivative. Your GDC will also give 
+you the numerical value of the 
+derivative at any point.
+5 x 3*3-1
+a At x = 2, the gradient is positive and so is 
+increasing.
+b x > -0.75
+2 x 2x2-1 + 3 x lx1"1 - 0
+The gradient of y = mx is m. So, the 
+derivative of y = 3x is 3.
+The gradient of y = c is 0. So, the 
+derivative of y = -5 is 0.
+This can be found by either 
+finding the minimum point of 
+f(x) = 2x2 + 3x - 5 or by finding where 
+f(x) > 0.
+528
+
+o
+4 “ = ix2 + 2 
+dx
+dy
+When x= 2, — = 14 
+dx
+5 — + x = 2x 1 + x, — = -2x-2 + 1 = —- + 1 
+x 
+dx 
+x
+When x = 2, — = 0.5 
+dx
+a At x = 2, the gradient is positive and so is 
+increasing.
+In order to use the rule for differentiation 
+you need to first write the expression 
+using negative indices.
+- = 2x~'. so ^ = 2 x -lx-1-1 
+x 
+dx
+and the derivative of x is 1.
+b x> 1.41, x< -1.41
+■ Equation l:y-2/x+x
+■ Equation 2: y--2/xM
+Again the range in which the curve is 
+increasing can be found by finding the 
+maximum and minimum points using 
+a GDC or by finding where f(x) > 0.
+6
+dx 
+x
+When x = 2, ^ = -0.75 
+dx
+—7 = 3x 2, so = 3 x -2x~2_1 
+X2 
+dx
+Reflect I What is the relationship between the gradient of a curve and the sign 
+of its derivative?
+\
+A function is increasing if/v(x) >0, is stationary iff'(x) = 0 and is decreasing if
+/'(*)< 0.
+Usually the prime notation,/'(x), is used when dealing with functions and the
+fractional notation, —, is used when dealing with curves.
+&x
+There are no set rules, howeverjy' and — are both correct, though less 
+frequently seen. 
+c^v
+International 
+mindedness
+French mathematician 
+Joseph Lagrange, 
+a close friend of 
+Leonhard Euler, 
+introduced the f'(x) 
+notation in the 18th 
+century.
+529
+Calculus
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+The following exercise contains a mixture of both notations. 
+Remember that they both indicate that the function gives the gradient, 
+or rate of change, of the variable.
+i 
+Find the derivative of each of the 
+following functions with respect 
+to X.
+ii Find the gradient of the tangent 
+at the point where x = 1 and state 
+whether the function is increasing 
+or decreasing at this point.
+iii Write down the range of values 
+of x for which the function is 
+increasing.
+a y = 6 
+b y = 4x
+c f(x) = 3x1 
+2 * d f(x) = 5x2 - 3x
+e f(x) = 3X4 + 7x- 3
+International 
+f fW — 5a4 - 3x2 + 2x - 6
+mindedness
+g y = 2x --
+The seemingly abstract
+X
+concept of calculus
+h y = —+ 4x -3
+allows us to create
+mathematical models
+i y = (2x - 1 )(3x + 4)
+that permit human
+j f(x) =2x(xh-Ax- 5)
+feats, such as getting a
+7
+man on the Moon. What
+k y = — + Sx4 - 6x2 + 2
+does this tell us about
+X
+the links between
+mathematical models
+and physical reality?
+Using differentiation in everyday life problems 
+Example 2
+1 In economics the marginal cost is the cost of producing one more unit. This can be 
+approximated by the gradient of a cost curve.
+A company produces motorcycle helmets and the daily cost function can be modelled as
+C(x) = 600 + 7x- 0.000 lx* for 0 < x < 150 where x is the number of motorcycle helmets 
+produced and C the cost in US dollars.
+a Write down the daily cost to the company if no helmets are produced, 
+b Find an expression for the marginal cost, C'(x), of producing the helmets, 
+c Find the marginal cost of producing i 20 helmets and ii 80 helmets, 
+d State appropriate units for the marginal cost.
+2 A hammock can be modelled by the function f(x) = 2x2 + 3x - 4. A mosquito, travelling in 
+a straight line of gradient 11, touches the hammock at point A.
+Find the coordinates of A.
+1 a US$ 600
+b C'(x) = 1 - 0.0003X2
+c i C'(20) = 6.88 
+ii C'(80) = 5.08
+d US$ per helmet
+530
+

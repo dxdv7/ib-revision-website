@@ -1,0 +1,17 @@
+<div class="notes-section">
+<h3>Power rule for integration</h3>
+<div class="formula-box">&int; ax<sup>n</sup> dx = (ax<sup>n+1</sup>) / (n+1) + C, where a and n are constants, a &ne; 0, n &ne; &minus;1, and C is the constant of integration.</div>
+<div class="callout example"><span class="c-label">Worked example</span>a Find &int; 6x<sup>2</sup> dx.<br>&int; 6x<sup>2</sup> dx = 6x<sup>3</sup>/3 + C = 2x<sup>3</sup> + C<br>b Find &int; 4x<sup>&minus;3</sup> dx.<br>&int; 4x<sup>&minus;3</sup> dx = 4x<sup>&minus;2</sup>/(&minus;2) + C = &minus;2x<sup>&minus;2</sup> + C = &minus;2/x<sup>2</sup> + C</div>
+
+<h3>Integrating a sum of terms</h3>
+<div class="formula-box">&int; [f(x) + g(x)] dx = &int; f(x) dx + &int; g(x) dx. Integrate each term separately using the power rule, then add a single constant of integration, C.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find &int; (3x<sup>2</sup> &minus; 4x + 5) dx.<br>&int; 3x<sup>2</sup> dx = x<sup>3</sup><br>&int; &minus;4x dx = &minus;2x<sup>2</sup><br>&int; 5 dx = 5x<br>&int; (3x<sup>2</sup> &minus; 4x + 5) dx = x<sup>3</sup> &minus; 2x<sup>2</sup> + 5x + C</div>
+
+<h3>Evaluating a definite integral</h3>
+<div class="formula-box">&int;<sub>a</sub><sup>b</sup> f(x) dx = F(b) &minus; F(a), where F is any antiderivative of f, i.e. F&prime;(x) = f(x).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate &int;<sub>1</sub><sup>3</sup> (2x + 1) dx.<br>An antiderivative is F(x) = x<sup>2</sup> + x<br>F(3) = 3<sup>2</sup> + 3 = 12<br>F(1) = 1<sup>2</sup> + 1 = 2<br>&int;<sub>1</sub><sup>3</sup> (2x + 1) dx = F(3) &minus; F(1) = 12 &minus; 2 = 10</div>
+
+<h3>Area under a curve using integration</h3>
+<div class="formula-box">If f(x) &ge; 0 for a &le; x &le; b, the area enclosed between the curve y = f(x), the x-axis, and the vertical lines x = a and x = b is given by Area = &int;<sub>a</sub><sup>b</sup> f(x) dx.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the area enclosed between the curve y = x<sup>2</sup> + 1, the x-axis, and the vertical lines x = 1 and x = 3.<br>Area = &int;<sub>1</sub><sup>3</sup> (x<sup>2</sup> + 1) dx<br>An antiderivative is F(x) = x<sup>3</sup>/3 + x<br>F(3) = 27/3 + 3 = 9 + 3 = 12<br>F(1) = 1/3 + 1 = 4/3<br>Area = F(3) &minus; F(1) = 12 &minus; 4/3 = 32/3 = 10.67 units<sup>2</sup> (2 dp)</div>
+</div>

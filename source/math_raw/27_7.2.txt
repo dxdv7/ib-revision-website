@@ -1,0 +1,629 @@
+7.2
+7.2 Representing combined 
+probabilities with diagrams
+You have taken the first steps in the quantification of probabilities, 
+experienced random experiments and investigated how to make 
+predictions in the world of chance by applying formulae.
+Probability situations themselves have a structure that you can 
+represent in different ways, for example in problems where two or 
+more sets are combined in some way.
+Investigation 6
+For each situation, think about how best to represent the situation with a 
+diagram.
+Compare and contrast your diagrams with others in your class then solve the 
+problems.
+Situation 1
+In a class survey on subject choices, Isabel, Clara, Coco, Anastasiia and 
+Fangyu all state that they study biology. Isabel, Clara, Fangyu and Tomas all 
+study chemistry whereas Barbora, Coco and Achille study neither biology nor 
+chemistry.
+1 
+Find the probability that a student chosen randomly from this 
+class studies both biology and chemistry.
+2 
+Create your own probability question using your representation of the 
+situation and have another student answer it.
+Situation 2
+One example of a Sicherman die is a fair cubical die 
+with this net:
+It is thrown together with a fair octahedral die whose 
+faces are numbered 1, 2, 3,4, 5, 6, ? and 8.
+6
+8
+4
+1
+5
+3
+3
+4
+5
+Factual
+Find the probability that the number obtained by adding the 
+two numbers thrown on each die is prime.
+Find and describe a pattern in your representation of this situation and 
+acquire some knowledge from your pattern.
+What advantages are there in using a diagram in problem 
+solving with combined probabilities?
+Two frequently used representations of probability problems are 
+Venn diagrams and sample space diagrams.
+" \
+A Venn diagram represents the sample space in a rectangle. Within the 
+rectangle, each event is represented by a set of outcomes in a circle or an 
+oval shape and is labelled accordingly.
+311
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+Example 4
+In a class survey, Rikardo, Malena, Daniel, Maria, India and James reported that they study 
+environmental systems and societies (ESS). India, Pietro, Mathea and Haneen said that they 
+study geography. Rikardo and James were the only ones who reported that they studied 
+Spanish whereas Sofia and Yulia studied none of the subjects mentioned in the survey. 
+Represent the data in a Venn diagram.
+Each event is represented by an italic capital 
+letter.
+U represents the entire sample space. In set 
+terminology, this is called the universal set.
+This diagram can be simplified to show the 
+number of students in each region.
+Example 5
+Use the Venn diagram in Example 4 to find the probabilities that a student chosen randomly 
+from this class:
+a studies ESS 
+b studies ESS but not Spanish
+c studies all three subjects 
+d studies exactly two of the subjects.
+n(E) 2 + 3+1 
+6
+P(E) represents the probability of the event
+n(U) 
+11 
+11
+"the student chosen at random is from the
+set E”.
+b ±
+There are a total of four students within the
+1 1
+ESS oval but outside the Spanish oval.
+c 0
+The diagram clearly shows that there are no
+students who study all three subjects.
+d 2
+The diagram clearly shows that two
+11
+students—Rikardo and James—study
+Spanish and ESS, whereas one student—
+India—studies both geography and
+ESS. These are the only three students
+who study exactly two of the subjects
+surveyed.
+312
+
+7.2
+Example 6
+In a class of 26 students, it is found that 10 study geography, 16 study history and 4 study 
+neither history nor geography.
+a Calculate the number of students who study both history and geography, 
+b Hence find the probability that a student selected at random from this class studies exactly 
+one of these subjects.
+The probability that a randomly selected 
+student studies exactly one of the subjects is 
+12 + 6 _ 18 _ 9
+26 ”26” 13
+Since the information given asks for 
+the number who study both subjects, 
+you can draw a Venn diagram with two 
+intersecting sets as shown.
+Representing the unknown with x is an 
+appropriate problem-solving strategy.
+Completely filling in the Venn diagram 
+with all the information given is 
+another problem-solving strategy.
+Since 4 study neither history nor 
+geography the sum of these three 
+regions must be 22.
+Simplify and solve the equation.
+Modify the Venn diagram using your 
+answer to part a.
+From the Venn diagram read off the 
+information needed to calculate the 
+answer.
+(16 - x) + x + (10 - x) = 22 
+=> 26 — x = 22
+=> x = 4
+1 A survey of 117 consumers found that 81 
+had a tablet computer, 70 had a smartphone 
+and 29 had both a smartphone and a tablet 
+computer.
+a Find the number of consumers surveyed 
+who had neither a smartphone nor a 
+tablet.
+b Find the probability that when choosing 
+one of the consumers surveyed at 
+random, a consumer who only has a 
+smartphone is chosen, 
+c In a population of 10000 consumers, 
+predict how many would have only a 
+tablet computer.
+313
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+2 In a class of 20 students, 12 study biology,
+15 study history and 2 students study 
+neither biology nor history.
+a Find the probability that a student selected 
+at random from this class studies both 
+biology and history.
+b Given that a randomly selected student 
+studies biology, find the probability that 
+this student also studies history, 
+c In an experiment, a student is selected at 
+random from this class and the student's 
+course choices are noted. If the experi 
+ment is repeated 60 times, find the 
+expected number of times a student who 
+studies both biology and history is chosen.
+3 In a survey, 91 people were asked about 
+what devices they use to listen to music. In 
+total, 59 people used a streaming service to 
+listen to music, 44 used a mobile device and 
+29 used vinyl. Also, 22 people used both
+a streaming service and a mobile device, 9 
+used both a mobile device and vinyl and 20 
+people used only a streaming service. Finally, 
+8 people said they used all three devices.
+a Draw this Venn diagram with numbers 
+assigned to the eight regions.
+Hence find the probability that a person 
+chosen at random from those surveyed: 
+b listens to music on exactly one device 
+c listens to music on exactly two devices.
+4 A garage keeps records of the last 94 
+cars tested for roadworthiness. The main 
+reasons for failing the test are faulty 
+tyres, steering or bodywork. In total, 34 
+failed for tyres, 40 failed for steering and 
+29 failed for bodywork. 11 cars failed for 
+other reasons. 7 cars failed for both tyres 
+and steering, 6 for steering and bodywork 
+and 11 for bodywork and lyres. The 
+owner of the garage wishes to calculate 
+the number of cars that failed for all three 
+reasons.
+a Draw a Venn diagram to represent 
+the information, using x to represent 
+the number of cars failing for all three 
+reasons.
+b Hence calculate the value of x. 
+c Hence find the probability that a car 
+selected at random from this data set 
+failed for at least two reasons.
+\
+A sample space diagram is a useful way to represent the whole sample space 
+and often takes the form of a table.
+Example 7
+It is claimed that when this pair of Sicherman dice is thrown, 
+and the two numbers obtained added together, the probability 
+of each total is just the same as if the two dice were numbered 
+with 1, 2, 3, 4, 5 and 6. Verify this claim.
+314
+
+o Sample space diagram for the total of two 
+dice numbered 1, 2, 3, 4, 5 and 6:
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+6
+?
+8
+3
+4
+5
+6
+?
+8
+9
+4
+5
+6
+?
+8
+9
+10
+5
+6
+?
+8
+9
+10
+11
+6
+7
+8
+9
+10
+11
+12
+Sample space diagram for the two 
+Sicherman dice:
+1
+2
+2
+3
+3
+4
+1
+2
+3
+3
+4
+4
+5
+3
+4
+5
+5
+6
+6
+7
+4
+5
+6
+6
+7
+7
+8
+5
+6
+7
+7
+8
+8
+9
+8
+7
+8
+8
+9
+9
+10
+8
+9
+10
+10
+11
+11
+12
+1
+In both tables, ?(T= 2) = ?(T= 12) = —
+36
+p<r= 3) = p (T= ii) = 2l  = _L
+36 
+18
+?(T=4) = P(T= 10) = _L = J_
+36 
+12
+P(r=5) = P<r=9) = jL = I 
+36 
+9
+P(T = 6) = P{T= 8) = JL 
+36
+and P(T= 7) = A = I 
+36 
+6
+The probability of each total is the same for 
+each pair of dice, so the claim is true.
+Form a sample space diagram for each 
+experiment. Enter each total in the table as 
+shown.
+Then find the probability of each outcome 
+in the sample space, representing the total 
+as T.
+State your conclusion.
+Once time has been invested in drawing a diagram, it can be used to 
+quantify many different probabilities.
+Example 8
+Use the sample space diagram in Example 7 to find the probability 
+that the total found by throwing two Sicherman dice is:
+a at most 4
+b a factor of 24
+c at least 8. 
+Continued on next page
+TOK
+How does a knowledge 
+of probability theory 
+affect decisions we 
+make?
+315
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+O
+6 1 
+a — = - 
+36 
+6
+b
+17
+36
+c 11-A.
+36 “ 12
+The sample space diagram for the total of two 
+dice numbered 1, 2, 3, 4, 5 and 6 is easier to use.
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+8
+7
+8
+3
+4
+5
+6
+7
+8
+9
+4
+5
+6
+7
+8
+9
+10
+5
+6
+7
+8
+9
+10
+11
+6
+7
+8
+9
+10
+11
+12
+Shade in or highlight the outcomes required to 
+help count them.
+1 Jakub designs a fair cubical die numbered 
+with the first six prime numbers. He throws 
+his die and a fair tetrahedral (four-sided) 
+die numbered with the first four square 
+numbers and writes down the difference 
+between the two numbers, D. Find the 
+probability that D is:
+a a prime number b a square number.
+2 
+a Two fair cubical dice are rolled in a
+game. The score is the greater of the two 
+numbers. If the same number appears 
+on both dice, then the score is that 
+number. Find the probability that the 
+score is at most 4.
+b In 945 trials of this game, find the 
+expected frequency of the event "the 
+score is at least 4".
+3 Alex throws a fair tetrahedral die numbered 
+1, 2, 3 and 4 and an octahedral (eight-sided) 
+die numbered 1, 2, 3, ..., 8. He defines M as 
+the product of his two numbers. Find:
+a P(Misodd) 
+b P(M is prime)
+c P(M is both odd and prime).
+Bethany has two fair six-sided dice that she 
+throws. She defines N as the product of her 
+numbers. Find:
+d P(TVisodd) e P(N is more than 13) 
+f P(N is a factor of 36).
+g Bethany and Alex can see that the 
+probability that M is odd equals the 
+probability that N is odd and try to 
+find more events that have the same 
+probabilities in each of their experiments. 
+Find at least one such event.
+4 Genetic material contained in pairs of human 
+chromosomes determine whether a child 
+is male or female. Males have the pair XY 
+chromosomes and females XX. Inheriting the 
+XY combination causes male characteristics to 
+develop and XX causes female characteristics 
+to develop. Sperm contain an X or Y with 
+equal probability and an egg always contains 
+an X. An infant inherits one chromosome 
+determining gender from each parent.
+a Complete the following Punnet square to 
+show the possible outcomes of pairs of 
+chromosomes that can be inherited:
+Chromosome inherited from mother
+X
+X
+Chromosome 
+inherited from father
+X
+XX
+Y
+XY
+b Hence show that the probability a child 
+is born female is 0.5.
+31B
+
+Do you agree with the statement for 
+each type of representation?
+Venn diagram
+Sample space 
+diagram
+Involves construction 
+of a rectangular figure 
+and you filling in (cal 
+culated) numbers
+Yes
+Yes
+Represents how two 
+or more sets relate to
+each other
+Enables you to com 
+bine elements of two 
+sets in many ways
+Enables you to com 
+bine elements of three 
+sets in many ways
+...
+...
+...
+...
+Investigation ?
+1 
+In a class of 11 students, students 1, 2, 3,4, 5 and 6 all study art. Students 
+3,4, 7, 8,9 and 10 all study biology. Choose a diagram to represent this 
+information and find the probability that a student selected randomly from 
+this class studies biology but not art.
+2 
+Two fair cubical dice A and B have faces numbered 1, 2, 3,4, 5 and 6 and 
+3,4, 7,8,9 and 10 respectively. The dice are thrown and the total noted. 
+Choose a diagram to represent this information and find the probability 
+that the total is a square number.
+Ask yourself: from what I have learned in this section, what are all the 
+similarities and all the differences between Venn diagram and sample 
+space diagram representations of combined events involving sets?
+Share your ideas in a group.
+3 
+Construct and share a list of similarities and differences.
+How can we decide how best to represent events given in 
+the context of combined events involving sets?
+A well-known French 
+gambler, Chevalier 
+de Mere consulted 
+Blaise Pascal in Paris 
+in 1650 with questions 
+about some games of 
+chance.Pascal began 
+to correspond with his 
+friend Pierre Fermat 
+about these problems 
+which began their 
+study of probability.
+Diego inspects the music collection in his 
+study. He finds that he has albums by artists 
+A, B, C, G, H, R, Q, L and M on CD and 
+albums by artists B, C, V, D, E, H, I, J and M 
+on vinyl.
+Diego chooses an artist at random. Find 
+the probability that he does not have a 
+choice of formats on which to listen to his 
+artist's music.
+International 
+mindedness
+Statement about representation
+31?
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+2 Two boxes A and B contain numbered cards 
+as shown below:
+B
+? 6 ?
+Two cards are chosen at random, one from 
+each box and the number obtained from 
+box B is raised to the power of the number 
+obtained from box A. Find the probability that 
+the number obtained is a factor of 5764801.
+3 Assuming that the probabilities of a kitten 
+being born male or female are the same, 
+what is the probability that in a litter of 
+four kittens there are two males and two 
+females?
+4 Pierfranco designs a game.
+• He throws a fair coin with one side 
+labelled X and the other labelled Y.
+• If the outcome is X, a number is chosen 
+at random from the set (5, 10, 15, 20,
+25, 30, 45[.
+• If the outcome is Y, the computer simul 
+ation chooses from the set {30, 40, 50,
+60, 70, 80, 90).
+Pierfranco scores a point if the outcome is a 
+multiple of 6.
+Find the expected number of points 
+Pierfranco would score if he played the 
+game 54 times.
+Developing inquiry skills
+In the first opening scenario, imagine 100 trials. 
+How many outcomes would you expect in each 
+area shown on this diagram?
+Cab yellow?
+A
+3
+00
+0
+Rea throws two fair cubical dice numbered 
+1, 2, 3, ..., 6. Let R be the total of the 
+numbers obtained by Rea.
+Teodora throws a fair tetrahedral die num 
+bered 1, 2, 4 and 8 and a fair five-sided die 
+numbered 1, 2, 3, 4 and 5. Let the total of 
+the numbers obtained by Teodora be T.
+Determine which event is more likely: R = 5 
+or T= 5.
+These dice compete in the "Dice world cup". 
+A pair of dice is thrown and the highest 
+number wins. The semifinals are A vs B and 
+C vs D. The winners of each semifinal go in 
+to the world cup final.
+A 
+B
+3
+3
+3
+3
+3
+3
+D
+1
+5
+5
+l
+5
+1
+Construct sample space diagrams to find the 
+probabilities of the outcomes of each 
+semifinal.
+318
+

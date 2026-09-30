@@ -1,0 +1,29 @@
+<div class="notes-section">
+<h3>The sine rule &ndash; finding a side</h3>
+<div class="formula-box">For any triangle ABC, where a, b, c are the side lengths opposite angles A, B, C respectively: a / sin A = b / sin B = c / sin C. Use this form when you know two angles and one side (AAS or ASA) and need to find another side.</div>
+<div class="callout example"><span class="c-label">Worked example</span>In triangle ABC, a = 10 cm, A = 40&deg; and B = 60&deg;. Find side b.<br>b / sin B = a / sin A<br>b = a &times; sin B / sin A = 10 &times; sin 60&deg; / sin 40&deg;<br>b = 10 &times; 0.8660 / 0.6428<br>b = 13.5 cm (3 s.f.)</div>
+
+<h3>The sine rule &ndash; finding an angle</h3>
+<div class="formula-box">Rearranged for angles: sin A / a = sin B / b = sin C / c. Use this form when you know two sides and an angle opposite one of them (SSA) and need to find another angle.</div>
+<div class="callout example"><span class="c-label">Worked example</span>In triangle ABC, a = 12 cm, b = 9 cm and A = 55&deg;, with a &gt; b. Find angle B.<br>sin B = b &times; sin A / a = 9 &times; sin 55&deg; / 12<br>sin B = 9 &times; 0.8192 / 12 = 0.6144<br>B = sin<sup>&minus;1</sup>(0.6144) = 37.9&deg; (3 s.f.)<br>Since a &gt; b, B must be acute, so this is the only solution.</div>
+
+<h3>The ambiguous case of the sine rule</h3>
+<div class="formula-box">When using the sine rule to find an angle from two sides and a non-included angle (SSA), if the known side opposite the given angle is shorter than the other given side (specifically when b sin A &lt; a &lt; b), two different triangles can be formed. Both the calculator value B and its supplement (180&deg; &minus; B) may be valid solutions, provided the resulting angle sum is still less than 180&deg;.</div>
+<div class="callout example"><span class="c-label">Worked example</span>In triangle ABC, a = 7 cm, b = 10 cm and A = 40&deg;. Find all possible values of angle B.<br>sin B = b &times; sin A / a = 10 &times; sin 40&deg; / 7 = 0.9184<br>B<sub>1</sub> = sin<sup>&minus;1</sup>(0.9184) = 66.7&deg; (3 s.f.)<br>B<sub>2</sub> = 180&deg; &minus; 66.7&deg; = 113&deg; (3 s.f.)<br>Check: 40&deg; + 113&deg; = 153&deg; &lt; 180&deg;, so both triangles are valid.<br>There are two possible triangles: B = 66.7&deg; or B = 113&deg;.</div>
+
+<h3>The cosine rule &ndash; finding a side</h3>
+<div class="formula-box">For triangle ABC: a&sup2; = b&sup2; + c&sup2; &minus; 2bc cos A (and the equivalent forms for b&sup2; and c&sup2;). Use this form when you know two sides and the included angle between them (SAS) and need to find the third side.</div>
+<div class="callout example"><span class="c-label">Worked example</span>In triangle ABC, b = 8 cm, c = 10 cm and A = 55&deg;. Find side a.<br>a&sup2; = b&sup2; + c&sup2; &minus; 2bc cos A<br>a&sup2; = 8&sup2; + 10&sup2; &minus; 2(8)(10) cos 55&deg;<br>a&sup2; = 64 + 100 &minus; 160 &times; 0.5736 = 72.2<br>a = &radic;72.2 = 8.50 cm (3 s.f.)</div>
+
+<h3>The cosine rule &ndash; finding an angle</h3>
+<div class="formula-box">Rearranged for angles: cos A = (b&sup2; + c&sup2; &minus; a&sup2;) / (2bc). Use this form when you know all three sides (SSS) and need to find any angle.</div>
+<div class="callout example"><span class="c-label">Worked example</span>In triangle ABC, a = 9 cm, b = 7 cm and c = 5 cm. Find angle A.<br>cos A = (b&sup2; + c&sup2; &minus; a&sup2;) / (2bc) = (7&sup2; + 5&sup2; &minus; 9&sup2;) / (2 &times; 7 &times; 5)<br>cos A = (49 + 25 &minus; 81) / 70 = &minus;7 / 70 = &minus;0.100<br>A = cos<sup>&minus;1</sup>(&minus;0.100) = 95.7&deg; (3 s.f.)</div>
+
+<h3>Area of a triangle</h3>
+<div class="formula-box">The area of any triangle ABC is given by Area = (1/2)bc sin A, or equivalently Area = (1/2)ac sin B, or Area = (1/2)ab sin C, where the angle used is always the one included between the two sides used. Use this formula when two sides and the included angle are known (SAS).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A triangular plot of land has sides a = 10 m and b = 14 m with an included angle C = 48&deg;. Find its area.<br>Area = (1/2)ab sin C = 0.5 &times; 10 &times; 14 &times; sin 48&deg;<br>Area = 70 &times; 0.7431 = 52.0 m&sup2; (3 s.f.)</div>
+
+<h3>Finding a side from the area of a triangle</h3>
+<div class="formula-box">If the area and one angle of a triangle are known together with one adjacent side, the area formula Area = (1/2)ab sin C can be rearranged to solve for the unknown side: a = 2 &times; Area / (b sin C).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The area of triangle ABC is 29.6 cm&sup2;, B = 25&deg; and BC = 7 cm. Find the length of side AB.<br>Area = (1/2) &times; BC &times; AB &times; sin B<br>29.6 = 0.5 &times; 7 &times; AB &times; sin 25&deg;<br>AB = 2 &times; 29.6 / (7 &times; sin 25&deg;) = 59.2 / 2.958<br>AB = 20.0 cm (3 s.f.)</div>
+</div>

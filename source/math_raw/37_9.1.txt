@@ -1,0 +1,310 @@
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+A dolphin jumps above the surface of the 
+ocean. The path of the jump can be modelled 
+by the equation
+f(x) = -0.0937 5x2 + 1.875* - 3.375 
+where:
+• x represents the horizontal distance, in 
+metres, that the dolphin has travelled 
+from the point where it left the water
+• f(x) represents the vertical height, in 
+metres, of the dolphin above the surface 
+of the water.
+How can you find out how far the dolphin 
+jumped and how high it jumped?
+When a dolphin jumps out of the water, what does the path of its 
+jump look like?
+To investigate the dolphin's jump, you could use your GDC to plot a 
+graph of the equation that is used to model the path of the jump. By 
+finding the coordinates of certain points on the graph, you could tell 
+how far and how high the dolphin jumped.
+This section shows you how to do this.
+y
+Quadratic functions are polynomial 
+functions where the highest power of 
+x is two.
+zu ■
+iU -
+For example, /(x) = ax2 + bx+c;
+0 -1 0 °/ 
+-10'-
+-
+/
+10 2u 3’0 ^ A 
+a *0 and a, b, ce Mis a quadratic
+The graph of a quadratic function is 
+called a parabola.
+r-ov
+Reflect
+State what type of function this would be if a = 0. 
+How are quadratic graphs different from linear graphs?
+How are they the same?
+The maximum or minimum point on the graph of a quadratic function is called 
+the vertex.
+International 
+mindedness
+Frenchman Nicole 
+Oresme was one of the 
+first mathematicians to 
+considerthe concept of 
+functions in the 14th 
+century. The term 
+“function” was intro 
+duced by the German 
+mathematician 
+Gottfried Leibniz in the 
+l?th century, and the 
+notation was coined by 
+a Swiss mathematician, 
+Leonard Euler, in the 
+18th century.
+Reflect
+Describe how to find the domain of a function from its graph. 
+Describe how to find the range of a function from its graph.
+9.1 Quadratic models
+422
+
+International 
+mindedness
+The Shulba Sutras in 
+ancient India and the 
+Bakhshali manuscript 
+contained an algebraic 
+formula for solving 
+quadratic equations.
+Transferring a graph from GDC to paper
+You may be asked to sketch the graph of a function on paper. You need to 
+be careful when copying the graph from your GDC onto the paper.
+When you "sketch" a graph, you do not need to be as accurate as when 
+you have to "draw" a graph on graph paper, but your sketch should:
+• show the general shape of the graph accurately
+• label the coordinates of any axes intercepts
+• label the coordinates of any vertices.
+First you need to draw your axes and remember to label them and put at 
+least one number on the axes for a scale. The x-values give the domain of 
+the function and they-values give the range.
+The A-intercepts are the points where the graphy = f( x) cuts the A-axis. 
+They are also called the zeros of the function, because they are theA-values 
+where y = /(A) =0.
+You could also find the A'-intercepts by using the quadratic formula:
+-b ± yjb2 - 4ac
+X =
+2a
+They-intercept occurs where y = /(0).
+Example 1
+Plot the graph of f(x) =-0.5x2 + 7.5a - 18 and then sketch this on paper. 
+Your sketch should:
+• show the general shape of the graph accurately
+• label the coordinates of any axes intercepts
+• label the coordinates of any vertices.
+Also state the domain and range of this function.
+Continued on next page
+423
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+O y-intercept is (0,-18)
+The zeros are at x = 3 and x= 12.
+So, (3,0) and (12,0) are also points on the graph. 
+The vertex is (7.3,10.125).
+Range of/is {y e Kly < 10.125)
+Read the ^-intercept from your GDC. You 
+may need to adjust the viewing window 
+in order to do this.
+Use CALC or Analyse Graph on your GDC 
+to find the zeros of the function.
+Find the coordinates of the vertex using 
+CALC or Analyse Graph.
+Draw and label your axes. You must draw 
+the shape of the graph correctly and label 
+the points where the graph cuts the axes, 
+as well as the vertex. Since you are asked 
+for a sketch, you do not need to put a full 
+scale on the axes, but you should have at 
+least one number on each axis.
+You can evaluate the function /at any 
+real value of x, so the domain is the set of 
+all real numbers.
+The vertex of the graph is a maximum 
+and is at (7.5, 10.125), so the maximum 
+value of the function/is 10.125.
+' \ 
+The line of symmetry of a quadratic graph is called the axis of symmetry.
+If the A'-coordinates of the x-intercepts arex] and a\, then the equation of the 
+axis of symmetry is
+X. +Xy 
+X = —1—- 
+2
+International 
+mindedness
+Over 2000 years ago, 
+Babylonians and 
+Egyptians used 
+quadratics to work with 
+land area.
+Example 2
+You can also use the formula above to find the equation of the axis of symmetry.
+Find the equation of the axis of symmetry for the graph of/(x) = -0.5x2 + 7.5a:- 18, which 
+you studied in Example 1.
+The x-intercepts of the graph arex= 3 and
+You found these using your GDC in
+x= 12.
+Example 1.
+The equation of the axis of symmetry is
+x
+This is using the formula x = ''
+3 + 12 
+15 __
+x =------= — = 7.5.
+with x, = 3 and x = 12.
+2 2
+424
+
+9.1
+1 Plot the graph of y = f(x) for the following 
+functions, and then sketch them on paper.
+On each sketch, mark the coordinates of 
+the vertex and the points where the graph 
+intercepts the axes, and state the domain 
+and range of each function.
+a /(x) = 2x2 + 5x + 2 
+b f(x) = -x2 + 6x + 7 
+c f{x) = 3x2 - x - 4 
+d f(x) = -5x2 - 4x + 12
+2 Consider the graph given by the equation
+y = 0.4x2 - 2x - 8.
+a Find the coordinates where the graph 
+crosses the x-axis.
+b Find the coordinates of the intercept 
+with the y-axis.
+c Find the equation of symmetry of the 
+curve.
+d Find the point of intersection of this 
+curve with the curve given by the 
+equation y = -5x3.
+\
+Remember, we solved f(x) =g(x) in Chapter 5.
+At the beginning of this section you studied the equation of the 
+path of a dolphin as it jumps out of the water. The path was 
+modelled by the equation f(x) = -0.09375*2 + 1.875x- 3.375. Use 
+what you have learned to find out how high the dolphin jumped 
+and how far it jumped.
+Investigation 1
+1 a By looking at the graph off(x) =x2 shown below, state the two values 
+of x which both mapto/(x) =4.
+TOK
+We have seen the 
+involvement of 
+several nationalities 
+in the development 
+of quadratics in the 
+chapter.
+To what extent do 
+you believe that 
+mathematics is a 
+product of human 
+social collaboration?
+b
+Find the two values of x which both map to/(x) = 16.
+Continued on next page
+425
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+2 Use your GDC to plot the graphs of y = f(x) for the functions 
+f(x) =-x2 + 2x- 3 and/(x) =x2- \4x+ 40. For each function, 
+find two values ofx in the domain that both map to the same value of 
+f(x) in the range.
+3
+4
+Factual What is the general shape of the quadratic function?
+B32E03331 How does the graph of a quadratic function show you that, 
+for a given value y in the range, there will generally be more than one 
+value ofxforwhich/(x) = y?
+Quadratic functions are called many-to-one functions.
+Factual
+I Why are quadratic functions called many-to-one functions?
+H.I.IJJ.UIMI How are quadratic functions different from linear functions? 
+Consider your answer to question 5.
+How do you sketch the graph of an inverse function?
+Is it possible to find the inverse of a quadratic function?
+Do many-to-one functions have inverse functions?
+Factual
+Many-to-one functions do not have inverses.
+Parameters of a quadratic function
+\
+For the function f (x) = ax2 + bx+c,a*Q,a is the coefficient ofx2, b is the
+coefficient ofx, and c is the constant.
+a, b and fare called the parameters of the function.
+Example 3
+Write down the values of a, b and c in the following functions, 
+a f(x) = 2x2 + 3x - 4 
+b f(x) = x2 - 5x + 2 
+c f(x) = 6 - 4x + 3x2
+a a-2,b-^ and c = -4
+b a = 1, b = -5 and c - 2
+If there is no coefficient before x2 or x, then
+it is 1.
+c a = 3, b - -4 and c- 6
+Watch out for equations where the
+order of x2, x or the constant have been
+rearranged.
+426
+
+Developing inquiry skills
+Look back at the opening problem forthis chapter. Oliver was 
+trying to throw a basketball through a hoop.
+What type of function could you use to model the path of the 
+basketball?
+Investigation 2
+1 Plot the graphs of the following quadratic functions on your GDC and use this to help 
+you complete the table below:
+a y=x2 + 4x-5 
+b y=x2 + 4x+3 
+c y--x2+x + 2
+d y=2x2-8x-10 
+e y=-2x2 +3x+ 9 
+f y = 4x2-8x+3
+Equation
+Value of a
+Value of b
+Value of c
+y-intercept
+Is there a maximum 
+or minimum point?
+a
+1
+4
+-5
+(0,-5)
+minimum
+b
+c
+d
+e
+f
+Factual | How does the sign of a in a particular quadratic function determine whether a vertex is a 
+maximum or minimum?
+3 H.i.m.uim What is the connection between the value of rand they-intercept?
+The parameters of a quadratic function determine whether the vertex is a 
+maximum or minimum and the value of the y-intercept.
+Given a general quadratic function of the 
+form /(x) = ax2 + bx + c, write down the 
+values of a, b and c for each of the following 
+functions.
+a /(x) = x2 - 4x + 2 b 
+c /(x) = -2x2 + x + 1 d 
+e f(x) =-10 + x+ 5x2
+/(x) = 3 - 2x + 2x2 
+/(x) = -x2 + 2x - 3
+The graph of y = ax2 + bx + c passes 
+through the points (0,-9) and (-1,9).
+Given that the equation of symmetry of the 
+graph is x = 4, find the values of 
+a, b and c.
+42 7
+Functions
+

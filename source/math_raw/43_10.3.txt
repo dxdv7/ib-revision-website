@@ -1,0 +1,280 @@
+10.3
+The functions we have been graphing do not cross the x-axis. As the 
+value of x decreases they get closer and closer to the axis but never 
+cross it. So, the x-axis is called an asymptote. Its equation isy = 0.
+Investigation 10
+The temperature of a cup of coffee is modelled by the equation/(x) = 65 (1.9)~x 
++ 20, where f(x) is the temperature in °C and x is the time in minutes.
+1 
+Using technology, sketch the graph of/(x) = 65(1.9)~*+ 20 for 0<x< 12.
+2 
+Describe how you can find the initial temperature of the coffee.
+3 
+Add the line x=4 to your graph. What does the intersection of these two 
+lines represent?
+4 
+Add the line/(x) = 50 to your graph. What does the intersection of these 
+two lines represent?
+5 MMCTH1 What does the intersection of two graphs represent?
+6 
+What is the equation of the horizontal asymptote? Explain 
+what this represents.
+Now remember two things from Section 10.2:
+• When something changes by a constant percentage, we can model it 
+as a geometric sequence.
+• The mh term of a geometric sequence is 
+Can you see how
+this relates to the general equation of an exponential function?
+Exponential functions can be used to model real-life situations where there is 
+a constant percentage change.
+Investigation 11
+1 Sketch the following functions using technology and complete the table:
+a f(x) = y 
+b /(x) = 0.5*
+c 
+/(x) = 2* + 3 
+d /(x) = 0.4*—2
+e 
+/(x) =2(3*) + 1 
+f /(x) = 4(2*) — 5
+g /(X) = 3(0.5)*—2
+Value 
+of k
+Value
+Oftf
+Value
+ofc
+y-intercept
+Equation of 
+asymptote
+Increasing or 
+decreasing
+a
+1
+3
+0
+(0.1)
+y=o
+increasing
+b
+c
+d
+e
+f
+4
+2
+-5
+(0.-1)
+y=-s
+increasing
+g
+o
+Continued on next page
+483
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+2 
+What is the connection between the value of c and the equation of the 
+horizontal asymptote?
+3 
+What is the connection between the values for k and c and the coordinates 
+ofthey-intercept?
+4 What is the connection between the value for a and whether the function 
+is increasing or decreasing?
+5 
+Describe how you can decide which variable is independent and which is 
+dependent.
+6 
+What does the horizontal asymptote represent? How can 
+you decide if a function has a horizontal asymptote?
+? What are the parameters of an exponential function?
+8 
+Now sketch the function/(x) = 3~A and compare it with your sketch for part a.
+9 
+Explain the difference between growth and decay.
+\
+The function f(x) = £tfA + chasthe horizontal asymptotey = cand crosses 
+they-axis at the point (0,fc + c).
+International 
+mindedness
+The word “exponent” 
+was first used in 
+the 16th century by 
+German monk and 
+mathematician Michael 
+Stifel. Samuel Jeake 
+introduced the term 
+indices in 1696.
+Example 10
+For each of the following functions, find:
+i 
+the equation of the horiz.ontal asymptote
+ii the coordinates of the point where the curve cuts the y-axis
+iii state whether the function is increasing or decreasing, 
+a f(x) = 3A + 2
+b f(x) = 5 x0.2A- 3
+a i The horizontal asymptote has
+2 is the value for c
+equation y = 2.
+ii The curve cuts the y-axis at the point
+k = 1 and c = 2, so, 1+2 = 3
+(0,3).
+iii The function is increasing because 3 is
+greater than 1.
+b i The horizontal asymptote has
+-3 is the value for c
+equation y = -3.
+ii The curve cuts the y-axis at the point
+k = 5 and c = -3, so 5 - 3 = 2
+(0.2).
+iii The function is decreasing because
+0.2 lies between 0 and 1.
+484
+
+10.3
+For the following equations, find: 
+a the ^-intercept
+b the equation of the horizontal asymptote
+c state whether the function shows growth 
+(increasing) or decay (decreasing).
+1 /(x)=4*+l 
+3 fix) = e2*
+5 fix) = 3(2)-*- 5 
+? f(x) = 5(2)°-5*-l
+2 /(x) = 0.2*- 3 
+4 /(x) = 301*+2 
+G /(x) =4(0.3)2*+ 3 
+8 /(x) = 2(0.4)*- 1
+Example 11
+Bailey invests US$2000 in a bank that pays interest at a rate of 4.5% per annum 
+compounded monthly.
+a Sketch a graph to model how much Bailey has in the hank after x years.
+b Deduce whether an exponential model is a reasonable choice to model how much she has 
+in the hank.
+c Calculate how much money Bailey has in the hank after four years.
+d Calculate how long it will take for her to have US$3000 in the hank.
+b Yes, because the independent variable 
+is the exponent.
+c US$2393.63
+If US$y represents how much Bailey 
+has in the bank, and x represents the 
+time in years, then the formula to use is:
+y = 2000 l + 4.5
+1200
+or
+y = 2000(1.003 75)1-
+Put x= 4 into the equation or use your GDC.
+Sketch the line y = 3000 and find the point of 
+intersection.
+d 9.03 years, so after 10 years she will 
+have US$3000 in the hank.
+Example 12
+Saul buys a tractor for US$51 000. The price of the tractor reduces 
+by 8% each year.
+a
+b
+Find the price of the tractor after four years.
+Find the number of years until the tractor is worth half its 
+original value.
+Continued on next page
+485
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+O
+a If the price reduces by 8% each year then the multiplying 
+factor will be 100% - 8% = 92%, which can be written as 
+0.92.
+So, after four years, it will be worth 51 000 x 0.924 = 
+US$36 536.04
+b Half of 51 000 = 25 500, so 51 000 x 0.92" = 25 500, which 
+gives n = 8.31 years.
+1 The increase in the length of an ivy plant, 
+in metres, is modelled by the equation
+f(x) =2(1.1)*, where x is the time in weeks.
+a Find the initial length of the ivy plant, 
+b Find the length after 10 weeks, 
+c Find how long it takes for the plant to 
+reach a length of 10 metres.
+2 A radioactive material has been spilled 
+on farmland and the quantity remaining 
+can be modelled by the equation
+f(x) = 130(0.85)*, where x is the time in 
+years and f(x) is the mass in grams.
+a Find the initial mass of the material, 
+b Find the mass after four years, 
+c Write down the equation of the 
+horizontal asymptote to the graph, 
+d Calculate how many years it takes before 
+only half the material remains.
+3 The temperature, T°C, of a cup of hot 
+chocolate can be modelled by the equation 
+T(x) = 70(1.45)“*+ 21, where x is the time 
+in minutes.
+a Sketch the graph of T(x) for 0 <x< 12. 
+b Find the initial temperature of the hot 
+chocolate.
+c Find the temperature after five minutes, 
+d Find the number of minutes it takes for 
+the hot chocolate to reach 50°C. 
+e Write down the equation of the 
+horizontal asymptote of the graph, 
+f Write down the temperature of the 
+room.
+4 The value of a car depreciates each year. 
+When new, the car is worth UK£36 000. 
+The following year it is worth UI<£34200.
+a Find the percentage decrease in value, 
+b Given that this percentage decrease 
+remains constant, find the value of the 
+car after six years.
+c Find the number of years it will take for 
+the car to have a value of UI<£20000. 
+d Write down the equation of the 
+horizontal asymptote.
+5 The kangaroo population in Australia, in 
+2017, was 50000000. The following year it 
+was predicted to be 55 000000.
+a Find the percentage increase, 
+b Given that this percentage increase 
+remains constant, find the number of 
+kangaroos in 2020.
+c Determine the year during which the 
+population of kangaroos doubles.
+6 The length, in cm, of a plant is measured each 
+week and the results are shown in the table.
+Week
+1
+3
+5
+7
+9
+11
+13
+15
+17
+Length
+5
+7
+11
+15
+23
+31
+45
+64
+92
+a Plot these points on your GDC.
+b Determine whether this is a linear 
+growth or an exponential growth.
+c Find a suitable equation to represent this 
+data.
+d Hence estimate the length after 10 weeks 
+and state whether this is a reasonable 
+estimate.
+486
+

@@ -1,0 +1,218 @@
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+11.1 An introduction to periodic 
+functions
+Periodic functions help you to model 
+a set of data in the special case 
+where there is a repeating pattern of 
+identical y-values. For example, the 
+periodic functions shown to the right 
+come from the study of electricity. The 
+values of the pink function quantify 
+power (watts) and the values of 
+the green quantify current (amps).
+The independent variable is time in 
+milliseconds.
+In the following investigation you will explore 
+a physical structure that gives rise to a periodic 
+function.
+For example, a new Ferris wheel attraction is 
+planned for Alphapark to carry passengers in pods. 
+Safety laws require that the operators of the wheel 
+must know the exact position of each pod: the 
+extent to which it is above or below the x-axis and 
+the extent to which it is to the right or left of the 
+y-axis.
+You will model this context physically, and then 
+with mathematics.
+TOK
+Notice that the values of the functions repeat regularly. The entire 
+graph is a series of congruent shapes, which form a continuous curve. 
+The period of the function is the length of the shortest interval 
+for which the function values when repeated give the entire graph. 
+Hence the period of the power function is 1 millisecond and of the 
+current 2 milliseconds, as shown in the diagram by the dashed lines. 
+This means that the relationship between time and power repeats itself 
+each millisecond, and the relationship between time 
+and current repeats itself every 2 milliseconds.
+Is there always a trade 
+off between accuracy 
+and simplicity?
+Investigation 1
+Part A: Construction of a spaghetti curve
+You will need: spaghetti (or drinking straws), 
+protractor, string, ball of colourful wool, 
+scissors, glue and poster paper. Work in 
+groups of two or three.
+1 At one end of the paper, construct a circle 
+on a set of axes with a radius of one 
+spaghetti length.
+o
+500
+
+11.1
+2 
+Use a protractorto measure and mark every 30° around the circle.
+3 
+To the right of the circle draw a graph with an x-axis that is about 6.5 spaghetti lengths long and a y-axis 
+2 spaghetti lengths tall.
+4 
+Place the string around the circle with the end at 0°. Mark the 30° marks onto the string. Then put the 
+string on the x-axis of the right-hand set of axes and transferee marks labelling every 30°.
+5
+6
+Place a piece of spaghetti from the origin 
+to the 30° mark on the circle. Take another 
+piece of spaghetti and measure the vertical 
+distance from the pod (P) to the .Y-axis. Cut 
+the piece of spaghetti where it crosses the 
+x-axis and glue this piece at 30° on the x-axis 
+of the graph as shown. (Diagram not to scale.)
+i
+Now repeat for 30°, 60° and so on, until you
+have gone completely around the circle to 360°. If the pod is above the x-axis of the circle, then place the 
+spaghetti above the x-axis of the graph; otherwise place it below the x-axis.
+7 Take the wool and glue it to the graph on your poster from zero degrees, along the top of the spaghetti 
+pieces to form a smooth curve.
+Part B: Reflection on the properties of your spaghetti curve
+Your spaghetti curve is a periodic function. Write down its period.
+What do the y-values of your spaghetti curve represent in the context of the Ferris wheel?
+Factual
+Factual
+Factual I What are the maximum and minimum values of your curve and at what values of x do they 
+occur? At what values of x is the value of your curve zero?
+Graph the functionf(x) = sin x on your GDC. Compare and contrast your spaghetti curve with the curve 
+shown on your GDC.
+Represent the angle shown in the right-angled triangle formed by the 
+pod, the origin and the intersection with the x-axis as 0and let the 
+radius of the circle be 1.
+5
+6
+Factual
+Find the height of the pod above the x-axis in terms of 6.
+Factual
+For what values of 0 is your answer to 5 valid?
+Now imagine the pod moving overthe y-axis so that 0 is greaterthan 
+90° but less than 180°.
+7 ifriHUhia Compare and contrast the position of the pod when 
+0= 146° and when G= 34°.
+What does this suggest about sin34° and sin 146°?
+501
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+8 
+Apply the formula for the area of a triangle to the two triangles shown here. What does this 
+prove for sin 34° and sin 146°?
+9 ffWiTHCTffl How can you define the sine of an obtuse angle in terms of the sine of an acute 
+angle?
+Factual
+When the pod is at position P, use geometry and 
+trigonometry to find how far it is below the x-axis.
+12 
+How can you interpret the negative values of sin 0 when 0 is greater than 180° but less 
+than 360° in the context of the Ferris wheel?
+13 H.1.WJWW How can you extend the concept of the trigonometric ratio sin 0in a right-angled triangle 
+to give all values of the periodic function/(x) = sin x?
+You have discovered the properties of the periodic function f(x) = sin x. 
+There are five other trigonometric ratios that are also periodic 
+functions. In the next investigation you will explore one of these 
+functions.
+502
+
+11.1
+Investigation 2
+Part A: Construction of a new spaghetti curve
+You will make a new periodic graph. Follow the same steps as in Investigation 
+1 part A, except this time measure the horizontal distance from the pod (P) to 
+the y-axis. If the pod is to the right of the y-axis, assign a positive sign, if to the 
+left of the y-axis, assign a negative sign.
+Part B: Reflection on the properties of your new spaghetti curve
+1 
+Compare and contrast your function with that off(x) = sin x.
+2 n.imuiMi Why should your new periodic function be periodic?
+Now use your GDC to graphc](x) = cos A'and h(x) = tan x. Compare and 
+contrast the graphs of these functions and your new spaghetti curve.
+3
+Factual I Which of#(x) = cos x and h(x) = tan x model your new 
+spaghetti curve?
+What are the maximum and minimum values of your curve and 
+at what values of x do they occur? At what values of x is the value zero?
+h .i.uj .uimi Why is your new spaghetti curve modelled so well by one 
+of these functions but not the other?
+6 lUoimuflEiB How can you define the cosine of an obtuse angle in terms 
+of the cosine of an acute angle?
+\
+Definition: f(x) = sin xandg(x) = cos xare examples of sinusoidal functions.
+You can use technology to solve simple trigonometric equations in a 
+given domain and hence solve problems.
+Example 1
+Given that the radius of the Ferris wheel planned for Alphapark is 70 m and 
+that 0 represents the angle measured anticlockwise from the x-axis, find all the 
+angles for which the pod P is:
+a a distance of 40 m vertically above the x-axis
+b a distance of 20 m horizontally from the y-axis.
+sin# = — can be graphed on the 
+70
+domain 0° < 0< 360°:
+Sketching a labelled diagram is a good problem 
+solving strategy.
+The diagram shows that there are two possible 
+positions of the pod that are 40 m above the 
+x-axis.
+The problem involves the vertical distance, hence 
+sin is the right trigonometrical function to apply.
+This fact is consistent with the given quantities 
+in the right-angled triangle sketched: the 
+hypotenuse and the side opposite to the angle.
+Continued on next page
+503
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+-1.5
+There are two values 0 for which the 
+pod is 40 m above the x-axis: 34.8° and 
+145° correct to three significant figures.
+Make sure the viewing window shows the 
+domain and the range of the function so that 
+you can identify all solutions.
+It is essential that you ensure your GDC is in 
+degree mode at all times for both calculations 
+and for graphing.
+Find the intersections of the sine curve with 
+the line y = 4/7 in order to find the solutions. 
+Reflect that this solution is consistent with 
+the diagram sketched at the start. The GDC 
+rounded the angles to 3 sf, however, if the 
+angles were given to 1 dp, the values would be 
+34.8° and 143.2°, which add to 180° as required 
+by the diagram.
+A sketch shows there are four solutions to be 
+found.
+The problem involves the horizontal distance, 
+hence cos is the right trigonometrical function to 
+apply.
+This fact is consistent with the given quantities 
+in the right-angled triangle sketched: the 
+hypotenuse and the side adjacent to the angle.
+domain 0° < 0< 360°:
+There are two values of 0 for which the 
+pod is 20 m to the right of the y-axis: 
+and 73.4° and 287° correct to three 
+significant figures.
+Altogether, there are four values of 
+0 for which the pod is 20 m from the 
+y-axis: 73.4°, 107°,253°and 287° 
+correct to three significant figures.
+Reflecting on the context of the problem helps 
+you understand that more solutions can be 
+found from the graph. When the pod is to 
+the left of they-axis, the value of the cosine 
+function is negative.
+Only now is the solution consistent with the 
+context of the problem.
+504
+

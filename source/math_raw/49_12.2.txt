@@ -1,0 +1,280 @@
+o
+2 
+/'(*)= 4v+3
+4x + 3 = 11 
+4x = 8 
+x=2
+f(x) =2(2)2 + 3(2) - 4= 10
+So, the coordinates of A are (2,10).
+First, find the derivative.
+You know that the derivative is the same as 
+the gradient of the tangent. Therefore, equate 
+the derivative to 11 and solve for x.
+Now substitute 2 for x into the original 
+equation.
+1 The area, A, of a circle of radius r is given 
+by the formula A- nr2.
+. , dA 
+a Find —. 
+dr
+b Find the rate of change of the area with 
+respect to the radius when r= 2.
+2 The profit, US$P, made from selling 
+cupcakes, c, is modelled by the function 
+P = -0.056c’2 + 5.6c-20.
+. d P 
+a Find —. 
+dc
+b Find the rate of change of the profit with 
+respect to the number of cupcakes when 
+c= 20 and c= 60.
+c Comment on your answers for part b.
+3 The distance of a bungee jumper below 
+his starting point can be modelled by the 
+function f(t) = 80r2 - 160r, 0 < t < 2, where 
+t is the time in seconds.
+a Find f(t).
+b State the quantity represented by 
+c Find f(0.5) and f(l.5) and comment on 
+the values obtained.
+d Find /(2) and comment on the validity of 
+the model.
+4 Points A and B lie on the curve 
+f(x) = x3 + x2 + 2x and the gradient 
+of the curve at A and B is 3.
+Find the coordinates of points A and B.
+5 The outline of a building can be modelled 
+by the function h = 2x - 0. lx2 where h is the 
+height of the building and x the horizontal 
+distance from the start of the building.
+An observer stands at the point A. The angle 
+of elevation from his position to the highest 
+point he can see on the building is 45°.
+Calculate the height above the ground 
+of the highest point he can see on the 
+building.
+12.2 Equations of tangent 
+and normal
+The equation for the tangent to a curve at a given point can be easily 
+found using the gradient to the curve and the coordinates of the 
+point.
+531
+Calculus
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+Example 3
+The side of a hill can be modelled by the function /(*) = -0.02x2 + 3.4* for certain 
+values of*.
+a Sketch the graph of f(x) = -0.02*2 + 3.4*.
+There is a monastery at the top of the hill which could be an interesting tourist attraction. So, 
+it is decided to build a funicular railway to reach to almost the top of the hill. The funicular 
+can be modelled by the tangent to the curve where *= 50.
+b Find the derivative of /(*) = -0.02*2 + 3.4*. 
+c Find the gradient of the tangent at the point where * = 50. 
+d Find /(*) when * = 50.
+e Hence, find the equation of the tangent at *= 50 and sketch this on the graph.
+/'(*) =-0.04* + 3.4
+/'(50) =-0.04(50) + 3.4= 1.4
+So, 1.4 is the gradient of the tangent at *= 50.
+/(50) =-0.02(50)2 + 3.4(50) = 120
+Using y = mx + c, 120 = 1.4(50) + c
+So, c = 50.
+Therefore, the equation of the tangent is 
+y = 1.4*+ 50
+Substitute 50 for * into the derivative. 
+You can also use your GDC to find this 
+value.
+Substitute 50 for*into the original 
+function to find /(50). Your GDC will 
+also give you the equation of the 
+tangent.
+532
+
+Investigation 3
+Part of a pond is in the shape of a parabola which can be modelled by the 
+function
+c/ \ 8 2 8
+fix) =-----x +-x.
+90 
+3
+The local authority decides to build a 
+path on either side of the pond. The 
+two paths will meet at the drinking 
+fountain that is already in place at a 
+point with coordinates (15, 29).
+It is decided that the most economical 
+way to achieve this is to build paths 
+that just touch the side of the pond 
+at 5 m and 25 m from the edge, as 
+shown in the diagram. These paths 
+would then be tangents to the curve.
+1 How can the local authority work 
+out the equations forthese paths?
+How can they be certain that the 
+paths will meet at the drinking fountain?
+8 8
+Using technology, sketch the graph of f(x) = - — x2 + -x.
+8 
+8
+4 Find the derivative of f(x) =-------x2 + - x.
+90 
+3
+5 What does this represent?
+6 Find the gradient of the tangent to the curve when x= 5. 
+? Find the value off(x) whenx= 5.
+8 Hence, find the equation of the tangent when x= 3.
+9 Use technology to draw this line on your graph.
+10 Repeat this process forx= 2 5.
+Now that you have the equations of the two tangents, how can you find out 
+where they meet?
+Do they meet at the location of the drinking fountain? 
+li 
+What is the relation between the gradient of a tangent at a
+given point and the derivative of a function at the same point?
+The derivative of a function at a point on 
+its graph represents the gradient of the 
+tangent at that point.
+The normal line is perpendicular to the 
+tangent line.
+Normal line to curve
+TOK
+Who do you think should 
+be considered the 
+discoverer of calculus?
+533
+Calculus
+
+12
+ANALYZING RATES OF CHANGE: DIFFERENTIAL CALCULUS
+For example, on a bicycle the spokes 
+are at right angles to the tyre at the 
+point of contact. Hence the direction 
+of the road will be a tangent to the 
+wheel at the point of contact and the 
+spoke at that point will be a normal 
+to the point of contact.
+Reflect
+What is a normal to a curve?
+HINT
+If two lines are 
+perpendicularthen 
+the product of their 
+gradients is-1.
+If the gradient of the
+tangent is j, then the 
+gradient of the normal
+a
+Example 4
+Find the equation of the normal to the curve with equation f(x) = 2x3 4 + 3x- 2 at the point 
+where x = 1.
+/(l)=2(l)5+3(l)-2 = 3
+Find the y-coordinate of the point.
+The point is (1, 3).
+f'(x) = 6x2 + 3
+Next find f'(x).
+/’(1) = 6( 1 )2 + 3 = 9
+Find /'(1) to work out the gradient of the
+The gradient of the tangent line is 9.
+tangent line.
+Gradient of normal line =---------- ^---------
+tangent gradient
+Gradient of the normal line =
+9
+II
+1
+SO+-
++
+Substitute the point (1, 3) into the equation of 
+the normal line.
+c = 3 !
+9
+The equation of the normal is
+1 
+^ l
+y = —x + 3- 
+9 
+9
+Example 5
+The gradient of the normal to the curve with equation f(x) = kx* - 2x + 1 at the point (1, b)
+is . Find the values of k and b.
+4
+f'(x) = 3 kx2 - 2
+If the gradient of the normal is —, then
+4
+the gradient of the tangent is 4.
+6
+534
+
+o
+So,
+The derivative is the gradient of the tangent
+/'(l) = 3*(l)2-2 = 4
+at any point. Here the point isx = 1. So, you 
+put x = 1 into the derivative and equate it to
+3k = 6
+4, which is the gradient of the tangent at that
+k = 2
+point.
+/(l) = 2(1)3 - 2(1) + 1 = 1
+To find b you need to substitute 1 for x into
+So, b = 1
+the original equation.
+1 Find the equation of the tangent to the 
+curve with equation f(x) = 2x2 -4 at the 
+point where x= 3.
+2 Brian makes a seesaw for his children from 
+part of a log and a plank of wood. The shape 
+of the log can be modelled by the equation 
+f(x) = -x2 + 2xfor certain values of x.
+The plank of wood is a tangent to the log at 
+the point where x = 1.
+Find the equation of the plank.
+3 A cyclist is cycling up a hill. The path of the 
+bicycle on the hill can be modelled by part 
+of the function /(x) = -2x2.
+a Find the gradient of the wheel at the 
+point where x = 1.
+b Find the gradient of the spoke that is 
+perpendicular to the wheel when it 
+touches the hill at the point where x - 1.
+4 Find the equation of the normal to the curve 
+with equation f(x) = 3x2 - 4x + 5 at the point 
+(1,4).
+5 Find the equation of the tangent and the 
+normal to the curve with equation
+y = x4 - 6x + 3 at the point where x = 2.
+6 The edge of a lake can be modelled by part 
+of the function f(x) =x2.
+A fountain is to be placed in the lake at the 
+point where the equations of the normals at 
+x-2 and x = -2 meet.
+Find the equations of the normals and the 
+point where the fountain will be placed.
+? The perimeter of a park can be modelled by 
+part of the function f(x) = -0.1 12a -2 + 5.6x.
+a Sketch the graph of this function.
+The local authority wants to place a 
+memorial statue inside the park. They 
+decide to place it where the two normal 
+lines to the curve at x = 15 and x = 35 meet, 
+b Find the equations of the two normal 
+lines.
+c Find the point of intersection of the 
+two normal lines.
+d State whether or not this a suitable 
+place for the memorial. Explain your 
+answer.
+8 The gradient of the tangent to the curve 
+with equation f(x) = ax2 + 3x- 1 at the 
+point (2, b) is 7. Find the values of a and b.
+9 The gradient of the tangent to the 
+function with equation f(x) = x2 + kx + 3 
+at the point (1, b) is 3. Find the values of 
+k and b.
+10 The gradient of the normal to the function 
+with equation y = ax2 + bx + 1 at the point 
+(1,-2) is 1. Find the values of a and b.
+535
+Calculus
+

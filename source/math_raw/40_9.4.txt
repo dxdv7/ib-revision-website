@@ -1,0 +1,609 @@
+Developing inquiry skills
+Now that you have learned different ways to model data from real-life 
+situations, what type of function do you think would be the best way to 
+model the path of Kazuki’s basketball?
+Can you find sufficient data points to model the path of the ball?
+Can you use the official height of a basket to help find points?
+Is it possible to find a general equation that will fit all possibilities?
+9.4 Optimization
+Investigation 11
+A gardener has 24 metres of fencing to make a vegetable plot.
+1 If the length of the plot is x metres and the width \sy metres, 
+show that y= 12 -x.
+2
+3
+4
+5
+6
+Find an expression for the area A of the vegetable plot in terms ofx. 
+Plot a graph of A against* on your GDC.
+| What is the maximum value of A?
+| What dimensions of the plot give the maximum area?
+Factual
+Factual
+Factual | Why are the dimensions you found in question 5 described as 
+the optimum solution?
+? H.I.UJ.UIMI What does it mean to optimize a real-life situation? Is the 
+optimal result always a maximum?
+' \ 
+Different models can be used to optimize real-life problems.
+When you are finding an optimal value, it can be a maximum value or a 
+minimum value.
+Example 16
+Find the minimum surface area of a closed cylinder with volume 500 cm3.
+II
+K.
+Rearrange the volume formula to make h
+500 = nr2h
+(i)
+the subject.
+t 500
+" “ 2 
+nr
+A - 2nr2 + 2nrh
+(2)
+Surface area is the curved surface area plus
+the area of the top and bottom circles. 
+.o
+Continued on next page
+451
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+A = Inr1 + Ik v
+500 ^ 
+7tr2)
+A = 2 nr
+1000 
++------
+r
+Substitute (1) into (2) and simplify.
+The minimum surface area is 348.7 cm3 and 
+this occurs when r = 4.30 cm.
+Use your GDC to graph this equation.
+Find the minimum value for r and A from 
+your graph using the "minimum" function 
+on your GDC.
+1 Given that x-y = 6, find the 
+minimum value of xy.
+2 A box is made from a piece of 
+card measuring 6 cm by 9 cm 
+with squares of side xcm cut 
+out of the corners.
+a Show that the formula for 
+the volume, Kent3, is 
+\/=4x3- 30x2 + 54x. 
+b Plot a graph of the function 
+and hence find the maxi 
+mum volume.
+3 Akshat owns a cake shop.
+On a single day, the profit 
+US $P that Akshat makes is 
+dependent on the number of 
+cupcakes c that he bakes.
+The profit can be 
+modelled by the function 
+P(c) = -0.056c2 + 5.6c - 20.
+Plot the graph of P against c. 
+Find Akshat's maximum 
+daily profit, and the number 
+of cakes he needs to bake in 
+order to make a maximum 
+profit.
+4 A company's profits, US $/, are 
+modelled by the equation 
+/(*)=-0.9x2 + 52x- 360, 
+where x is the number of units 
+sold each week.
+Find the maximum profit.
+TOK
+How much do you 
+agree with the following 
+statement?
+“Any technological 
+influence is just a 
+matter of speed and the 
+quantity of data which 
+can be processed."
+452
+
+5 The number of bacteria B, in 
+millions, living in a particular 
+culture after time x minutes 
+is given by the formula
+B(x) = 5.17+ 1.25x-0.06x2 + 
+0.000 83x3
+Find the maximum and 
+minimum number of bacteria 
+in the culture.
+6 The total surface area of a 
+closed cylinder is 5000cm2. 
+Find the dimensions of the 
+cylinder which will maximize 
+its volume, and state this 
+maximum volume.
+Developing 
+your toolkit
+Now do the 
+Modelling and 
+investigation 
+activity on page 
+458.
+Chapter summary
+• Quadratic functions are polynomial functions where the highest power ofx is two. 
+For example, f(x) =ax2 + bx + c; tf^Oandtf, b, ce R, is a quadratic function.
+• The maximum or minimum turning point on the graph of a quadratic function is called
+the vertex.
+• The x-intercepts are also called the zeros of the function, because they are the x-values where
+y=f(x)=o.
+• You can find the coordinates of the x-intercepts by looking at where the graph of the function cuts 
+the x-axis.
+You could also find the x-intercepts by using the quadratic formula:
+v _ -b ± yjb2 -4ac 
+X —
+2a
+• They-intercept occurs wherey =/(0).
+• The line of symmetry of a quadratic graph is called the axis of symmetry.
+• Ifthex-coordinates of the x-intercepts arex] andx7 then the equation of the axis of 
+symmetry is
+x, +x2
+x = —----- -
+2
+• Many-to-one functions do not have inverses.
+• 
+A quadratic function is a many-to-one function.
+• 
+For the function/(x) = ax2 + bx+c\ a ^ 0, a is the coefficient ofx2, b is the coefficient of x, and c 
+is the constant.
+a, b and care called the parameters of the function.
+The parameters of a quadratic function determine whether the vertex is a maximum or minimum, 
+and the value of the y-intercept.
+Suppose (m, 0) and (/7,0) are the x-intercepts ofthe quadratic graphy=/(x).
+f m+n f( m + n V|
+The vertex ofthe graph has coordinates , —~—* J | —~— , .
+Two different ways that you can write a quadratic equation are: 
+General form: f(x)=ax2 + bx+c,a* 0 
+Intercept form: f(x) = a(x-m)(x- n),a*0
+o
+Continued on next page
+453
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+• When you are given the graph of a quadratic function, you can find the function by entering the 
+coordinates of three points on the graph into your GDC and then using quadratic regression.
+• Cubic functions are polynomial functions where the highest power ofx is three.
+For example,/(x) = ax* +bx2 + cx+ d;a*Q and a, bt c, de Mis a cubic function.
+• 
+Not all cubic functions have a maximum and a minimum point. Some have neither. Also, cubic 
+functions can have one, two or three roots.
+• 
+For a one-to-one cubic function/^), you can sketch the inverse function f~] (x) by reflecting the 
+graph ofy=f(x) in the liney=x.
+• 
+A power function is a function of the form /(x) = kxtl where k, n e R.
+The symbol for variation is ©c and it stands for “ = k X ..(that is, k multiplied by the variable 
+which follows).
+For direct variation, y x" ory = kx)l
+r . 
+1 
+k
+For inverse variation, V00—ory = —
+x 
+x
+• Different models can be used to optimize real-life problems.
+• When you are finding an optimal value, it can be a maximum value or a minimum value.
+Developing inquiry skills
+Kazuki throws the basketball up and it passes through the hoop on its 
+way down.
+Describe how you could plot some points on the basketball’s path of 
+motion and use them to find a best-fit function to model the path.
+Comment on whether it would be more suitable to model the path of 
+Kazuki's basketball using a quadratic or a cubic function. Show your 
+working and justify your answer.
+Flow many quadratic functions could be used to model different paths 
+between Kazuki and the hoop, given that the ball successfully passes 
+through the hoop?
+List the factors which might determine the particular path he chooses to 
+throw the ball on.
+Describe any limitations to modelling the path of the ball in this way.
+454
+
+Chapter review
+Click here fora mixed 
+review exercise
+1 On paper, sketch the graphs of: 
+a f(x) =x2 - 2
+b f(x) = x2 - 5x + 4.
+On your sketches, label the coordinates of 
+the vertex and any axes intercepts.
+2 The perimeter of a picture is 400 cm.
+a The length of the picture is x cm. Find 
+the height in terms of x.
+b Find an equation for the area, A cm2, of 
+the picture.
+c On paper, sketch this graph using a 
+suitable domain and range.
+d Find the x-intercepts and explain what 
+these represent.
+3 For the equation f(x) =x2 + 6x - 7 find: 
+a the values of a, b and c
+b the coordinates of the y-intercept 
+c the coordinates of the x-intercepts 
+d the equation of the axis of symmetry 
+e the coordinates of the vertex.
+4 Mimi throws a javelin. The path of the 
+javelin is a parabola and is modelled by the 
+equation f(x) =-0.008 16x2 + 0.372x + 1.8, 
+where/(x) is the height of the javelin in 
+metres and x is the horizontal distance in 
+metres.
+a On paper, sketch the graph of the path 
+that the javelin flies.
+b Find the height of the javelin when 
+x= 20 metres.
+c Find the maximum height of the 
+javelin.
+d Find the point where the graph of the 
+function crosses the x-axis and explain 
+what this represents.
+5 Anmol throws a stone in the air. The 
+height of the stone, /*(/) metres, at time 
+t seconds is modelled by the equation 
+h(t) = -2.262 5x2 + 8.575X + 1.9.
+a Find the y-intercept and explain what 
+this represents.
+b Find the maximum height of the stone.
+c Find the rate of change in metres per 
+second between x = 1.8 and x = 1.9 and 
+decide whether the rate of change is 
+increasing or decreasing.
+d Find the time when the stone lands 
+back on the ground.
+6 For the following equations, find:
+i 
+the coordinates of the x-intercepts
+ii the equation of the axis of symmetry
+iii the coordinates of the vertex.
+a /(x) = 3(x- 2)(x- 4)
+b f(x) = 4(x+ 1) (x — 5)
+7 Find the equations of the following
+quadratic graphs.
+455
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+8 An open cylinder has a volume of 400 cm3.
+The radius of the base is r cm and the height
+is h cm.
+a Explain why rcr2h = 400.
+b Rearrange the equation in part a to 
+make h the subject.
+c Write down an expression for the 
+surface area, A, of the open cylinder.
+d Show that this can be written as
+. 2 800
+A = xr +----r
+e Plot the graph of A = nr1
+r
+f Find the minimum area and the value 
+of r when this occurs.
+9 Sketch the following cubic functions on 
+paper, showing clearly the coordinates of 
+any x- and y-intercepts. 
+a f(x) = 2x3 - 1 
+b /(x) = (x- l)(x + 1) (x - 3)
+10 Find the equations of the following graphs.
+11 The number of lilies, N, in a certain pond 
+between the year 2000 and the year 2020 
+can be modelled using the equation 
+N(x) = -0.04x3 + 0.9x2 - lx + 70 where x is 
+the number of years after 2000. 
+a Plot the graph of N{x) = -0.04x3 + 0.9x2 
+- 7x + 70 for 0 < x ^ 20.
+b Find the number of lilies after 5 years.
+c Find the number of lilies after 12 years.
+d Find the maximum number of lilies 
+and the year that this occurs.
+e Find the minimum number of lilies and 
+the year that this occurs, 
+f Find when there are 60 lilies in the pond.
+12 The height of the handrail of a small bridge 
+can be modelled by the equation
+/(x) = 0.267x- 0.008 89x2 where f(x) is the 
+height of the handrail above the walkway in 
+metres, and x is the horizontal distance from 
+the start of the bridge in metres.
+The local authority wants to put a 
+horizontal line of decorative lights at a 
+height of 1 metre above the walkway. The 
+two ends of the lights will be attached to 
+the handrail.
+a Sketch the graph modelling the hand 
+rail, /(x) = 0.267x - 0.008 89x2 for 
+0 < x < 30 and 0 < y < 5.
+b Sketch the graph of y = 1 on the same 
+screen.
+c Find the coordinates of the points where 
+the lights are attached to the handrail.
+d Find the length of the lights needed.
+13 The distance, d km, that a train travels 
+varies directly with the speed, 5 km/h, of 
+the train.
+a Given that the train travels 100 km 
+in 1.25 hours, write an equation 
+connecting d and s.
+b Find the distance the train has travelled 
+after 2 hours.
+c Find how long it takes for the train to 
+travel 300 km.
+14 The number of slices of pizza, p, that a 
+child receives varies inversely with the 
+number of children, n, sharing it.
+a Given that two children receive 
+six slices each, write an equation 
+connecting p and n.
+b Find the number of slices that three 
+children receive.
+c Find the number of children if each 
+receives three slices.
+456
+
+Exam-style questions
+15 PI: Boris plays a game of tennis. He serves 
+£i from the base line to his opponent,
+Steffi.
+The path of the ball may be modelled 
+by the quadratic curve 
+H(x) = 2.103 + 0.1455*- 0.01932x2 
+for 0<x<X.
+a Find the maximum height of
+the ball during its motion. (2 marks)
+b The height of the net is 1.07 m. Boris is 
+standing on the baseline of the court, 
+at a horizontal distance of 11.98 m 
+from the net. Show that the ball just 
+passes over the net. 
+(2 marks)
+c Suggest a maximum value for X and 
+explain why this would be a sensible 
+value to take. 
+(3 marks)
+16 PI: The gravitational force (in Newtons),
+2m exerted on an object by the Earth, varies 
+inversely with the square of the object's 
+distance from the centre of the Earth. 
+The radius of the Earth may be estimated 
+to be 6370 km, and an astronaut with
+a mass of 100 kg weighs approximately 
+980 N on the Earth's surface.
+Find the approximate weight of the 
+astronaut when he is 11 km above the 
+Earth's surface. 
+(4 marks)
+17 P2: Mannie starts working as a police 
+■i constable at the age of 20. He works
+for 40 years and retires at the age of 60. 
+His annual salary, P (in thousands of UK 
+pounds), is given by the formula 
+P(t) = 0.0045(/- 30)3 + 0.121 5(r - 30)2 
++ 0.3585/ + 23, where / is the number of 
+years Mannie has been working for the 
+police force.
+a Find Mannie's starting salary.
+(2 marks)
+b Find Mannie's maximum salary over 
+the course of his working life
+(2 marks)
+c Find the times (to the nearest whole 
+number of years) when Mannie's 
+salary was UKE35 000. 
+(3 marks)
+d Over what proportion of his working 
+life was Mannie's salary increasing?
+(3 marks)
+18 PI: The following table illustrates the mean daily temperature for the city of Paphos in Cyprus 
+■■ over the course of 12 months.
+Month
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Temperature (°C)
+13
+13
+14
+17
+20
+23
+25
+26
+24
+22
+18
+15
+a Find the best fit quadratic equation through these points. 
+(3 marks)
+b Using your equation, estimate for how long the average temperature lies
+above 16°C. 
+(2 marks)
+c By comparing your quadratic equation with the given data, suggest two reasons why a 
+quadratic model may be inaccurate for analysing this particular weather pattern.
+(2 marks)
+19 PI: The population P of ferrets in a ferret 
+h sanctuary after / months is given by 
+P(t) = 21 + 2.91/ - 0.087/2 + 0.0007/3.
+a Sketch the graph of P against / for 
+the first 80 months. 
+(2 marks)
+b Find the maximum ferret population 
+during the first two years. (1 mark) 
+c Find the time(s) when the ferret 
+population is under 40. 
+(4 marks)
+20 PI: The length (/) of a violin string varies 
+h inversely with the frequency (/) of its 
+vibrations.
+A violin string 13 cm long vibrates at a 
+frequency of 400 Hz.
+Find the frequency of a 10 cm violin 
+string. 
+(4 marks)
+s---------------------
+Click here for further 
+^exam practice
+45?
+Functions
+
+Modelling and investigation activity
+Hanging around!
+Approaches to learning: Thinking skills:
+Create, Generating, Planning, Producing
+Exploration criteria: Presentation (A), Personal 
+engagement (C), Reflection (D)
+IB topic Quadratic modelling, Using technology
+(-------------------------------------------------------------------------------------------- \
+Investigate
+Hang a piece of rope or chain by its two ends. It must be free hanging 
+under its own weight. It does not matter how long it is or how far apart the 
+ends are.
+What shape curve does the hanging chain resemble?
+How could you test this?
+Import the curve into a graphing package
+A graphing package can (it an equation of a curve to a photograph. 
+Take a photograph of your hanging rope or chain.
+What do you need to consider when taking this photo graph? 
+Import the image into a graphing package.
+Carefully follow the instructions for the graphing package you are 
+using.
+The image should appear in the graphing screen.
+458
+
+Fit an equation to three points on the curve
+Select three points that lie on the curve.
+Does it matter which three points you select?
+Would two points be enough?
+In your graphing package, enter your three points as x- and y-coordinates.
+Now use the graphing package to find the best fit quadratic model to your 
+three chosen points.
+Carefully follow the instructions for the graphing package you are using.
+Test the fit of your curve
+Did you find a curve which fits the shape of your image exactly?
+What reasons are there that may mean that you did not get a perfect fit?
+The shape that a free-hanging chain or rope makes is actually a catenary and 
+not a parabola at all. This is why you did not get a perfect fit.
+Research the difference between the shape of a catenary and a parabola.
+International 
+mindedness
+The word “catenary” 
+comes from the Latin 
+word for “chain”.
+Extension
+Explore one or more of the following—are they quadratic?
+C---------------------------------------\
+The cross section of a 
+football field
+_________________________  
+The curve of 
+a banana
+The path of a football when 
+kicked in the air—here you 
+would need to be able to 
+use available software to 
+trace the path of the ball 
+that is moving
+A well-known 
+landmark— 
+perhaps the 
+Sydney Harbour 
+Bridge or the 
+arches at the 
+bottom of the 
+Eiffel Tower.
+Other objects that look like a 
+parabola—for example, the arch 
+of a rainbow, water coming from 
+a fountain, the arc of a satellite 
+dish.
+\_________________________________ y
+459
+Modelling and investigation activity
+
+How can you find an equation to 
+model the slope of a skateboard 
+track? Ora ski slope?
+If the temperature of 
+r a cup of tea reduces 
+at a given rate, will 
+it ever reach 0°C?
+o
+How can you work 
+out the monthly 
+^ payments on a loan?
+The reduction in temperature of a hot drink, the 
+slope of a skateboard track, compound interest, 
+depreciation of the value of a car, even the half- 
+life of radioactive decay all give rise to curves. This 
+chapter looks at ways of modelling these curves 
+with equations in order to predict various outcomes.
+How can you work out which 
+rate gives you the most 
+interest on your savings?
+How long will it take you to become 
+a millionaire if you receive US$1 
+the first month, US$2 the second 
+month, US$4 the third month,
+US$8 the fourth month and so on?
+Concepts
+■ Change
+■ Modelling
+Microconcepts
+■ Exponential functions
+■ Horizontal asymptotes
+■ Geometrical sequences and series
+■ Common ratio
+■ Compound interest
+■ Annual depreciation
+■ Annuity and amortization
+■ Growth and decay
+■ Logarithms
+Modelling rates of change: 
+exponential and logarithmic 
+functions
+Tfnmtprmmrwn
+fnurr
+ILL
+mm
+460
+
+Since the Olympic Games began, the height 
+that sportsmen and women have been able 
+to jump in the pole vault has increased.
+Can you predict the smallest height that no 
+athlete will ever be able to jump over?
+What information will you need?
+What assumptions will you have to make?
+How will you be able to construct a model?
+Will this be different for men and women? If 
+so, why?
+Think about these questions, then write down your answers and 
+discuss them with a classmate.
+What further information do you think that you will need? What 
+other things do you notice? What do you wonder?
+Developing inquiry skills
+Think about the questions you would need to ask to model other sorts of 
+activity and achievements, like the shortest time for a marathon or the 
+longest long jump.
+461
+

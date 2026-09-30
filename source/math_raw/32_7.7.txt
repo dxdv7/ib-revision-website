@@ -1,0 +1,1806 @@
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+6 In a mathematics competition, students try 
+to find the correct answer from five options 
+in a multiple choice exam of 25 questions. 
+Alex decides his best strategy is to guess all 
+the answers.
+a State an appropriate model for the 
+random variable A = the number of 
+questions Alex gets correct.
+Find the probability that the number of 
+questions that Alex gets correct is:
+b at most five c at least seven 
+d no more than three, 
+e Write down E(/4) and interpret this 
+value.
+f Find the probability that Alex scores 
+more than expected.
+g In the test, a correct answer is awarded 
+4 points. An incorrect answer incurs a 
+penalty of 1 point. If Alex guesses all 
+questions, find the expected value of his 
+total points for the examination, 
+h Four students in total decide to guess all 
+their answers. Find the probability that 
+at least two of the four students will get 
+seven or more questions correct.
+? Calcair buys a new passenger jet with 538 
+seats. For the first flight of the new jet 
+all 538 tickets are sold. Assume that the
+probability that an individual passenger 
+turns up to the airport in time to take their 
+seat on the jet is 0.91. 
+a Write down the distribution of the 
+random variable T = the number of 
+passengers that arrive on time to take 
+their seats, stating any assumptions you 
+make.
+b Find P(7= 538) and interpret your 
+answer.
+c Find P(Tz 510) and interpret your 
+answer.
+d Calcair knows that it is highly likely that 
+there will be some empty seats on any 
+flight unless it sells more tickets than 
+seals. Find the smallest possible number of 
+tickets sold so that P(T£ 510) is at least 0.1. 
+e Determine the number of tickets Calcair 
+should sell so that the expected number 
+of passengers turning up on time is as 
+close to 538 as possible, 
+f For this number of tickets sold, find 
+P(T= 538) and P(7> 538). Interpret 
+your answers.
+8 You are given X ~ B(n, p). Analyse the 
+variance of X as a function of p to find the 
+value of p that gives the most dispersion 
+(spread) of the probability distribution.
+Developing inquiry skills
+Look back at the opening scenarios.
+Can you solve one of the questions in the opening scenario with the 
+binomial distribution? If so, what assumptions would you have to make?
+?.? Modelling measurements that 
+are distributed randomly
+In this section you will model an example of a continuous random 
+variable.
+For example, consider the height Y metres of an adult human chosen 
+at random. Recall from Section 7.5 that Kis a measurement and would 
+therefore be an example of continuous data.
+We use the following terminology for random variables that are found 
+by measuring:
+360
+
+Time
+Batteries lasting relatively long or short periods of time 
+are rare.
+If a set of continuous data can be modelled with this 
+shape, we say that the data is distributed normally or 
+that the data follows a normal distribution.
+The frequency histogram is broadly symmetric and can 
+be modelled by the "bell-shaped" curve shown.
+/7\
+f V
+\k
+60
+45
+Frequency 35 
+15 
+0
+Figure 1
+For example, 300 batteries are tested in a quality control 
+exercise. The lifetime of each battery is measured to the 
+nearest second.
+The lifetime of a battery chosen at random, L, is a 
+continuous random variable.
+International-mindedness
+The normal curve is also known as the 
+Gaussian curve, and is named after the 
+German mathematician, Carl Friedrich 
+Gauss (1???-1855), who used it to 
+analyse astronomical data. This is seen 
+on the old 10 Deutsche Mark notes.
+8 
+10 
+12 
+14 
+16 
+18 
+20 
+22
+Time
+Figure 1 represents the 300 data points.
+Figure 2
+Figure 2 represents the same data set.
+In this section you will make only subjective judgments of how well 
+data follow the normal distribution. In the next chapter, you will learn 
+techniques with which to make more objective judgments.
+In the following investigation, you will explore whether some data sets 
+are distributed normally or not.
+Terminology
+Explanation
+Yis a continuous 
+random variable.
+Continuous: Ycan be found by measuring and is therefore 
+a real number.
+Random: Tisthe result of a random process.
+Variable: Ycan take anu value in a domain that is a subset 
+of/?.
+(Fhas domain 0.67 m<Y<2.72 m according to the 
+Guinness book of world records.)
+_ CN
+_ O
+OO '
+361
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+Investigation 20
+For this investigation, if a data set has a symmetric bell shape, consider that it follows a 
+normal distribution. Click the icon to view the data set.
+You are going to analyse W, the length of the wing from the carpal joint to the wing tip, of 4000 blackbirds. 
+This data is in column E of the spreadsheet.
+1
+Factual
+Is Wb discrete random variable?
+Representing and exploring the data: procedure
+E
+F 
+G
+H
+1 
+J
+L.
+*
+L
+Wing
+Weight Day
+Month
+Year 
+Time
+133
+95
+21
+12
+2006
+14
+134
+106
+25
+11
+2012
+9
+144
+135
+125
+29
+1
+1994
+9
+112
+135
+113
+5
+2
+1994
+10
+114
+135
+111
+12
+2
+1994
+8
+116
+134
+105
+15
+2
+1994
+8
+118
+136
+111
+11
+2
+2004
+8
+120
+127
+103
+23
+2
+2004
+13
+122
+127
+102
+26
+2
+2004
+9
+124
+126
+104
+25
+2
+2004
+11
+126
+125
+97
+26
+2
+2004
+9
+128
+135
+102
+27
+2
+2004
+10
+130
+135
+126
+27
+2
+2004
+15
+132
+135
+121
+2
+3
+2004
+12
+134
+125
+88
+27
+5
+2004
+14
+136
+123
+90
+8
+6
+2004
+17
+138
+135
+101
+30
+6
+2004
+13
+140
+129
+100
+7
+9
+2004
+8
+142
+129
+98
+4
+3
+2005
+16|
+]
+144
+129
+97
+6
+3
+2005
+14
+146
+132
+107
+28
+12
+2005
+10
+In cell L2 (green) type 
+“= min(E2:E4001)”.
+In cell L3 (blue) type 
+“=max(E2:4001)”.
+These give the maximum and minimum 
+values of W in this sample of 4000. 
+Type 112,114 and 116 as shown and 
+drag down to 146 in cell L21.
+These will give your class intervals for a 
+histogram. These are referred to as bins 
+by the software.
+Histogram
+Input
+i------- :----- 1
+Input Range:
+SES2:$ES400l|
+IS]
+0*
+Cancel
+fim Range:
+SIS4:SIS21
+M
+1 
+J
+® labels
+Help
+Output options
+O fiutput Range:
+r
+as|
+(•) New Worksheet py:
+c
+j
+0 New Workbook
+[~~] Pareto (sorted histogram)
+  Cumulative Percentage
+  £hart Output
+Now click on DATA on the top of your 
+screen and Data Analysis on the far right. 
+Choose Histogram from the list.
+Complete the dialogue box as shown.
+The software will put the data into class 
+intervals. The output will begin:
+This means thatthe 
+frequency oflVinthe 
+interval) 112, 114] 
+is l,the frequency in 
+(118, 120] is 
+28 etc.
+114 
+1
+116 
+3
+118 
+5
+120 
+28
+Use the output to create a histogram of the 4000 values of W.
+2 
+Does the histogram for W show a symmetric bell-shaped curve?
+3 
+Can it be modelled by a normal distribution?
+Repeat the procedure for E, life expectancy at birth. The data for 224 countries can be found here 
+https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html
+4 
+Is Ta continuous random variable?
+5 ICTffnl Does the histogram for Tshow a symmetric bell-shaped curve?
+6 
+ICTWhI Can it be modelled by a normal distribution?
+362
+
+?.?
+Repeat the procedure using other data sets that interest you.
+?
+Factual
+Which of these measurements do you feel could be modelled by a normal distribution?
+• 
+babies’birth weight
+• 
+ages of mother of new baby
+• 
+number of hairs on head of a new baby
+• 
+number of toes on a new baby
+• 
+annual salary of adults aged between 20 and 25 years
+• 
+life expectancy in Sweden
+• 
+the number of births on each day of January 1928 in the USA
+• 
+ages of people in Haiti
+• 
+journey time of a delivery van
+• 
+heights of sunflowers
+• 
+annual salary of professional footballers
+• 
+10 scores of 2501 undergraduate students.
+8 h .i.u j .u imi In which contexts would you expect the normal distribution to be an appropriate model?
+Now that you have experienced the hell-shaped curve used to model 
+normally distributed data in different contexts, you can learn how 
+it is applied to data with different measures of central tendency and 
+spread.
+Investigation 21
+Notation: The data in Figure 1 is distributed normally with parameters 16.1 and 2.082.
+You write this as L ~ N( 16.1, 2.082).The same data set is represented in the diagram below along with 
+the curves that model three other data sets of 300 batteries sampled in the quality control exercise: 
+P~N(16.1, 52), Q ~ N(26.1, 52) and fl~N(36.1, 42).
+Reflect on how the parameters of these normal distributions affect the location and shape of the 
+curves.
+Relate the answers to the following four questions to the parameters of the distribution.
+1
+2
+IFTOIffl Which of the data sets has the greatest mean?
+Factual
+Which of the data sets has the lowest mean?
+o
+Continued on next page
+363
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+3
+4
+5
+Factual
+Factual
+Which of the data sets has the widest spread?
+Which of the data sets has the narrowest spread?
+How can you predict the axis of symmetry from X ~ N(f4, G2)?
+You can explore further either by using 
+geometry software,
+or by usinga GDC.
+In either case, alter the sliders and observe the effect that changing the 
+parameters has on the shape of the curve.
+6 
+What do the parameters of X ~ N(/7, <T2) model?
+You have learned and applied discrete probability distributions to 
+contexts in Sections 7.5 and 7.6. Some facts relevant to this section are 
+summarized here:
+This bar chart represents
+Facts
+X- B<11, 0.5)
+0.25 -
+Figure 3
+• The shape of the bar chart is symmetric about 
+the mean value of 5.5.
+0.2 -
+• P(X - x) decreases the more the value of x
+differs from the mean.
+0.15 -
+• Events such as P(3 < X < 5) can be found
+0.1 -
+from P(* = 3) + ?(X=4) + ?(X= 5) ie
+0.05 -
+adding the heights of the bars shown.
+• The total of all the heights of the bars is 1, the 
+total probability.
+0
+1 2
+3
+1
+4
+i
+5
+i
+6
+i
+7
+•
+8
+i 
+i 
+i
+9 10 11
+Notice that the probability P(3 < X< 5) is related to an area in the bar chart.
+Similarly, with our representation of the continuous battery data, 
+probabilities can be found, as shown in the following investigation.
+Intemational-mindedness
+French mathematicians Abraham De Moivre and Pierre Laplace were involved in the 
+early work of the growth of the normal curve.
+De Moivre developed the normal curve as an approximation of the binomial theorem 
+in 1733 and Laplace used the normal curve to describe the distribution of errors on 
+1783 and in 1810 to prove the central limit theorem.
+364
+
+Investigation 22
+Recall that the lifetime of a battery chosen at random is L.
+1 
+Write down an estimate of the mean battery lifetime.
+In total, there are 300 data points, of which 60 are black.
+2 
+Write down estimatesforP(18<L<20),P(l2 <L< 14) and 
+P(14<L< 18).
+3 
+How does the shape of the dot plot help you make these 
+estimates?
+4 
+Is counting data points accurate and efficient in general?
+Notice that Figures 3 and 4 use areas to find the probabilities. 
+Probabilities from the normal distribution are always found by 
+using technology or symmetry to find an area underthe curve. 
+The total area underthe normal distribution curve is 1.
+For example,
+Given X ~ N(7, 1.52), you can find the probability 
+P(*< 8) =0.778 as shown.
+It is useful to bear in mind the symmetry of the curve in orderto 
+find related probabilities.
+5 
+In the diagram above, why does the fact that 8 >7 guarantee
+8 
+10 
+12 
+14 
+16 
+18 
+20 
+22
+Time
+thatP(*<8) >0.5?
+6 
+Use the graph to find P(* > 8), P(X < 6), P(X > 6) and P(6 < * < 8).
+Check your answers with technology.
+7 
+Let X ~ N( 10, 1.72). Use technology to find the following probabilities:
+P( 10— 1.7< *< 10+ 1.7),P(10-2x 1.7 < *< 10 + 2x 1.7),P(10-3x 1.7< X< 10 + 3X 1.7). 
+Copy this diagram three times, complete the labelling of the regions and shade in the areas that represent 
+your answers.
+You are given that in X ~ N(//, CT2), // is the mean and <7is the standard deviation.
+8 
+Repeat 7 with your own values of// and a. What do you notice? Write your findings in a table and 
+compare your results with those of others in your class.
+lfX~N(/<, O'2), then:
+P(//- <7< X < 
+//+<7) =
+Approximately___ % of the
+data lies within _standard 
+deviations of the mean
+P(p-2a<x<
+11 + 2(7) =
+Approximately___ % of the
+data lies within _standard 
+deviations of the mean
+P(//- 3<t < X <
+// + 3<t ) =
+Approximately___ % of the
+data lies within___ standard
+deviations of the mean
+9 How do you know when you can find normal distribution probabilities without technology? 
+10 How do you know when you must find normal distribution probabilities with technology?
+365
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+You can now apply your knowledge and understanding of the normal 
+distribution to find probabilities and to solve problems.
+Example 26
+T is the waiting time in seconds for a customer care 
+representative of TechCo to respond to a customer's first question 
+in an online chat session. You are given that T~ N( 19.1, 32). Find:
+a P(T< 17) 
+b P(T < 21) 
+c P(r>20.3)
+d the expected number of times the waiting lime is less than 
+21 seconds in a sample of 107 chats collected by TechCo 
+management.
+a P(T< 17) =0.0620 
+b The answer to a can be 
+represented on a sketch:
+Noticing that 17 and 19 
+are both 2 units from 
+the mean enables you to 
+use the symmetry of the 
+curve.
+Hence P(T> 21) =P(T< 17)
+So P(T< 21) = 1 —P(7< 17) 
+= 0.938
+Apply the symmetry 
+of the curve and 
+complementary events. 
+Note that
+P(T< 21) = P(T< 21). In 
+fact, < and < and > and 
+£ are interchangeable in 
+events with continuous 
+random variables.
+c P(T> 20.3) * 
+y68 =0.16
+d 107 x0.938= 100.36
+Approximately 100 chats are 
+predicted to have a waiting time 
+of less than 21 seconds for the first 
+question to be responded to.
+This follows from 
+applying the fact that 
+20.3 is one standard 
+deviation from the mean.
+Apply and interpret the 
+formula for the expected 
+number of occurrences.
+TOK
+Do you think that 
+mathematics is a useful 
+way to measure risks?
+To what extent do 
+emotion and faith play 
+a part in taking risks?
+366
+
+?.?
+Example 2?
+The lengths of trout in a fish farm are normally distributed with a mean of 
+39 cm and a standard deviation of 6.1 cm.
+a Find the probability that a trout caught in the fish farm is less than 35 cm long, 
+b Cliff catches five trout in an afternoon. Find the probability that at least two of the trout 
+are more than 35 cm long. State any assumptions you make, 
+c Find the probability that a trout caught is longer than 42 cm given that it is longer than 40 cm. 
+d Determine if the events L > 42 and L > 40 are independent.
+a Let L represent the length of a randomly selected
+Write down the random variable.
+trout. Then L ~ N(39, 6.11 2 * * 5
+).
+the distribution and the event
+P(L < 35) can be found on your GDC:
+to clarify your thoughts and to
+P(L< 35) =0.256
+demonstrate your knowledge and 
+understanding.
+Use technology to find the 
+probability and give the answer 
+to three significant figures.
+b Let C represent how many of the five fish are more
+Five fish caught can be
+than 35 cm long.
+represented as five trials.
+Then C~ B(5, 0.744), assuming that the length of
+Write down the distribution.
+each fish caught is independent of the others.
+using
+P(C > 2) can be found on your GDC:
+1 -0.256 = 0.744 as the
+P(C>2) = 0.983
+probability of success.
+c P(L>42|L>40)= P{L>42)
+Apply the formula for conditional
+P(L > 40)
+probability.
+P(L > 42|L >40) =0.716
+p,^)=P(>,nB>
+P (B)
+Since P(L > 42|L > 40) = 0.716 and
+Apply the definition of
+P(L > 42) = 0.31 1, the events are not independent.
+independent events. If ?(A\B) =A 
+then A and B are independent.
+1 The length of a local bus journey from
+Anrai's home to school is a normally
+distributed random variable T{ with mean
+31 minutes and standard deviation
+5 minutes. Sketch the following events on 
+three separate diagrams:
+a P(T; £ 31) 
+b P(29 < T;< 32)
+c P(T/<36).
+2 The length of an express bus journey 
+from Anrai's home to school is a normally 
+distributed random variable T£ with mean 
+25 minutes and standard deviation 3 
+minutes. Sketch the following events on 
+three separate diagrams:
+a P(Te >31) 
+b P(29<Te <32)
+c P(Te <36).
+367
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+3 A large sample of bottles of shampoo are 
+inspected. The contents of the bottles S is 
+distributed normally with mean 249 ml and 
+standard deviation 3 ml.
+a Sketch a diagram to represent this 
+information.
+b Hence estimate the probability that a 
+randomly selected bottle of shampoo 
+will contain less than 246 ml. 
+c Verify your answer using technology, 
+d The bottle is labelled "Contents 250 ml". 
+Predict the number of bottles in a sample 
+of 200 that will contain at least the 
+amount claimed.
+4 Data is collected from a large number of 
+rush hour commuter trains.
+The time T for all the passengers to board a 
+train is distributed normally with mean 186 
+seconds and standard deviation 14 seconds.
+a Sketch a diagram to represent this 
+information.
+7 a Match these five histograms with the correct box-and-whisker diagram.
+b Hence estimate the probability that for 
+a randomly selected commuter train 
+it will take at least 214 seconds for all 
+passengers to board, 
+c Verify your answer using technology, 
+d Hence predict the number of rush hour 
+trains in a sample of 176 that will take 
+longer than 200 seconds to be fully 
+boarded.
+5 T~ N(17.1/3.12). Estimate these 
+probabilities without technology: 
+a P(T< 17.1) b P(T< 14)
+c P(7> 20.2) 
+d P( 14 < T< 23.3)
+e P(7< 7.8) 
+f P(T< 23.317> 20.2).
+6 Q ~ N(4.03, 0.72). Find these probabilities 
+with technology:
+a P(Q < 4) 
+b P(Q < 3.4)
+c P(Q > 5) 
+d P(3.5 < Q < 4.5)
+e P(Q<4.9IQ> 2.9).
+b Identify the one histogram of a data set that follows the normal distribution, 
+c State, with a reason, which statement is true:
+p: A data set whose histogram is symmetric can be represented by a symmetric box-and- 
+whisker diagram.
+q: A data set that follows the normal distribution must have a symmetric box-and-whisker 
+diagram.
+r: A data set with a symmetric box-and-whisker diagram must be normally distributed.
+368
+
+?.?
+In this section you have learned how to find probabilities of the form 
+P(a < X < b)where A' is a normally distributed random variable and the 
+values of a and of b are known.
+It is also possible to find the values of a and of b if, instead, P(a <X<b) 
+is known. This reverse process is illustrated in the next example.
+Example 28
+The weights W of cauliflowers purchased by a supermarket 
+from their suppliers are distributed normally with mean 821 g 
+and standard deviation 40 g. The heaviest 8% of cauliflowers are 
+classified as oversized and re-packaged. Find the range of weights 
+of cauliflowers classified as oversized. Express your answer correct 
+to the nearest gram.
+P(W<a) = 1 -0.08 = 0.92
+Cauliflowers weighing at least 
+877 g will be classified as 
+oversize.
+A sketch helps you orientate 
+your reasoning in the correct 
+place and is a good problem 
+solving strategy.
+You can see already that the 
+lower limit for classification 
+as oversized, labelled a, must 
+be greater than 821.
+Use complementary events to 
+find P(W<a).
+This gives you the input 
+necessary for the inverse 
+normal function on your GDC.
+Interpret the result to state 
+the range.
+International 
+mindedness
+Belgian scientist 
+Lambert Quetelet 
+applied the normal 
+distribution to human 
+characteristics 
+(I’homme moyen) 
+in the 19th century.
+He noted that 
+characteristics such 
+as height, weight and 
+strength were normally 
+distributed.
+1 The weight of a bag of rice is distributed 
+normally with mean 998 g and standard 
+deviation 10 g. It is known that 20% of the 
+packs weigh less than rg.
+Find the value of r.
+2 The weight of a pack of three bananas is 
+distributed normally with mean 372 g and 
+standard deviation 13 g. It is known that 
+17% of the packs weigh more than t g.
+Find the value of t.
+3 The weight of bags W measured in grams at 
+an airport is distributed normally with mean 
+22 129 g and standard deviation 300 g.
+a Identify the correct statement(s) about 
+the upper quartile of the weights of the 
+bags Qy
+s : Q3 can be found by solving 
+P(W > Q3) = 0.75.
+t: Q3 can be found by solving 
+P( W > Q3) =0.25.
+u : Q3 can be found by solving 
+P(W< Q3) = 0.75.
+b Hence calculate the interquartile range 
+of W.
+369
+Statistics and 
+probability
+
+7
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+4 The speeds of cars passing a point on a 
+highway are analysed by the police force.
+It is found that the speeds follow a normal 
+distribution with mean 115.7 km/h and 
+standard deviation 10 km/h.
+a Find the probability that a car chosen at 
+random will be travelling between 
+110 km/h and 120 km/h.
+b A sample of eight cars is taken. Find the 
+expected number of the sample that are 
+travelling between 110 km/h and 
+120 km/h.
+c Find the probability that in the sample of 
+eight, more than five cars are travelling 
+between 110 km/h and 120 km/h. State 
+the assumptions you must make.
+5 An electronics company produces batteries 
+with a lifespan that is normally distributed 
+with a mean of 182 days and a standard 
+deviation of 10 days.
+a Find the probability that a randomly 
+selected battery lasts longer than 190 days, 
+b In a sample of seven batteries chosen 
+for a quality control inspection, find the 
+probability that no more than three of 
+them last longer than 190 days.
+c If a battery is guaranteed to last up to 
+165 days, find the probability that the 
+battery will cease to function before the 
+guarantee runs out.
+d Hence predict the number of batteries in 
+a batch of 10 000 that would not last the 
+duration of the guarantee.
+6 The distance travelled to and from work each 
+day by employees in a central business district 
+is modelled by a normal distribution with 
+mean 16 km and standard deviation 5 km.
+a Find the probability that a randomly 
+chosen employee travels between 13 km 
+and 15.3 km each day. 
+b 13% of employees travel more than 
+x km each day to and from work. Find 
+the value of x.
+c Records show that when snow falls,
+91% of employees who live further than 
+14 km from the central business district 
+will fail to get to work. Predict how 
+many of the 23 109 employees will fail 
+to get to work on a snow day.
+? A nurse has a daily schedule of home 
+visits to make. He has two possible routes 
+suggested to him by an app on his phone 
+for the journey to his first patient, Nur. 
+Assume that the journey times are normally 
+distributed in each case.
+Route A has a mean of 42 minutes and a 
+standard deviation of 8 minutes.
+Route B has a mean of 50 minutes and a 
+standard deviation of 3 minutes.
+a Identify the advantages and 
+disadvantages of each route, 
+b The nurse starts his journey at 8.15am 
+and must be at Nur's house by 9.00am. 
+State the route he should take, 
+c If on five consecutive days, the nurse 
+leaves home at 8.15am and takes route A, 
+find the probability that he arrives at Nur's 
+house:
+i 
+by 9.00am on all five days
+ii by 9.00am on at least three of the 
+five days
+iii by 9.00am on exactly three 
+consecutive days.
+8 Catarina finds a set of ages X measured in 
+years that follow a normal distribution with 
+mean 70 years and variance 25 years. She 
+represents the data with a box-and-whisker 
+diagram.
+a Calculate the upper quartile of X. 
+b Hence determine whether the length of 
+the box represents more than, less than 
+or equal to 10 years.
+Developing your toolkit
+Now do the Modelling and investigation activity on page 376.
+370
+
+?
+Chapter summary
+• Experiment: A process by which you obtain an observation
+• Trials: Repeating an experiment a number of times
+• Outcome: A possible result of an experiment
+• Event: An outcome or set of outcomes
+• Sample space: The set of all possible outcomes of an experiment, 
+always denoted by U
+• The formula for the theoretical probability ?(A) of an event A is: 
+P(A)=f-^—^ where n(A) is the number of outcomes that make A
+v ' m
+happen and n( U) is the number of outcomes in the sample space.
+Whenever P(.4) represents a subjective, experimental or theoretical
+probability, then 0 < P(,4) < 1.
+• A Venn diagram represents the sample space in a rectangle. Within 
+the rectangle, each event is represented by a set of outcomes in a 
+circle or an oval shape and is labelled accordingly.
+• A sample space diagram is a useful way to represent the whole 
+sample space and often takes the form of a table.
+• Two events A and B are mutually exclusive if they cannot both occur. 
+Hence:
+) Knowing that A has occurred means you know that B cannot, and 
+that knowing that B occurs means you know that A cannot.
+> 
+The occurrence of each event excludes the possibility of the other.
+) Consequently, P(A n B) = ?(B n A) = 0.
+• A and A' are complementary events. This means that
+> A and A' are mutually exclusive.
+> P(4) + P(/4')= 1.
+• Two events ,4 and B are independent if the occurrence of each event 
+does not affect in any way the occurrence of the other.
+• Equivalently, knowing that A has occurred does not affect the 
+probability that B does, and knowing that B occurs does not affect 
+that probability that A does.
+• Two events A and B are dependent if they are not independent.
+• A tree diagram is another way to represent all the possible outcomes 
+of an event. The end of each branch represents a combined event.
+• The complementary probability law P(^4) = 1 - P(A') can give you a 
+short way to solve problems.
+• A discrete probability distribution is the set of all possible values 
+of a discrete random variable (a subset of Z) together with their 
+corresponding probabilities.
+Continued on next page
+371
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+• A discrete probability distribution function f(() assigns to each value 
+of the random variable its corresponding probability:/^) = P(T= /). 
+f(t) is commonly referred to by the abbreviation “pdf".
+• The expected value of a discrete random variable X is E (X) = fi
+= £xP(* = x).
+x
+• If A' is a discrete random variable that represents the gain of a player, then 
+ifE(A) =0, the game is fair.
+The binomial coefficients in row (n + 1) of the triangle are 
+represented by the following notation:
+W W p tl 
+/-iH
+S,LrL2......S1** >i-i
+>t =
+r*n l . 
+f1'
+,C , where C =~,---------;
+n 
+^ rl(n-r) and
+n\ = nx(n- I)x(«-2)x...x3x2x 1.
+• In a sequence of /7 independent trials of an experiment in which 
+there are exactly two outcomes “success” and “failure” with constant 
+probabilities P(success) = p and P(failure) = 1 —p, if A' denotes 
+the discrete random variable equal to the number of successes in n 
+trials, then the probability distribution function of A' is
+P(X=x) = C”p*(l -p)n~x,xe{0, 1, 2, n)
+• These facts are summarized in words as “X is distributed binomially 
+with parameters n and p” and in symbols as X- B (/7, p).
+• IfX-B(n,p) then E(X) = np and Var(X) = np{ 1 -p).
+• The normal distribution enables you to model many types of data sets 
+from science and society that involve measurements of continuous 
+data.
+• The parameters of the normal distribution are p and o2. You write “X 
+follows a normal distribution with parameters p and O'2” or X-N(p, 
+a2). Equivalently, you can state Xfollows a normal distribution with 
+mean p and standard deviation a.”
+• The graph of the normal distribution is a symmetric bell-shaped curve 
+with these properties:
+^ The axis of symmetry is x = p 
+) The total area under the curve is 1 
+^ P(p-o<X<p + o)~ 0.68 
+o P(p-2(7<X<p+ 2d) = 0.95 
+3 P(p-3a<X<p+3o) = 0.997
+) These properties enable you to find probabilities. In other cases, 
+technology must be used.
+Developing inquiry skills
+Look back at the opening scenario, do any of the situations involve the 
+normal distribution? If so, do you have enough information to solve them?
+372
+
+?
+Chapter review
+1 To win a prize in a competition a door 
+number in an apartment block is chosen at 
+random from the numbers 1 to 1 50. Find 
+the probability that the door number is:
+a a square number 
+b at least 100 
+c divisible by 5 
+d no more than 11.
+2 The discrete random variable K has 
+probability distribution function given by 
+?(K = k) = p( 3 - k)2 for k = 0, 1,2, 3, 4. 
+Find p and E(K).
+3 The discrete random variable D is 
+distributed as shown in this table:
+d
+0
+1
+2
+3
+4
+P (D = d)
+0.3
+p + q
+0.15 p-q p + 2q
+a Given that E(D) = 1.7, find p and q. 
+b Find P(D = 3ID > 1).
+4 A packet of seeds contains 65% green 
+seeds and 35% red seeds. The probability 
+that a green seed grows is 0.85 and that
+a red seed grows is 0.74. A seed is chosen 
+at random from the packet. Calculate the 
+probability that the seed 
+a grows
+b is green and grows 
+c is red or it grows.
+5 
+a Find the probability of the outcome
+"throw at least one six" when a fair 
+cubical die is thrown 1, 2, 3, 4, 5, ..., w 
+times.
+b Hence find the least value of n for 
+which P(throw at least one six in 
+n throws) > 99.5%.
+6 B and C are independent events.
+P(B nC)= 0.1 and P(B n C) = 0.4. Find 
+P(B'uC).
+? The sides of a fair cubical die are
+numbered 2, 3, 3, 4, 4 and 5. The die is 
+thrown twice and the outcomes are added 
+to give a total T.
+a Construct a table for the probability 
+distribution of T.
+f---------------------
+Click here fora mixed
+review exercise 
+v_______ _______
+b A game is designed so that if T is prime,
+a prize of US$T is won. If T is a square
+number, the player must pay US$x.
+If T is any other number, no prize or
+payment is made. Find the value of
+US$x so that the game is fair.
+8 Assume that the weights of 18-year-old 
+males in a population follow a normal 
+distribution with mean 65 kg and standard 
+deviation 11 kg.
+a Find the probability that a randomly 
+chosen male weighs more than 70 kg.
+b Find the interquartile range of the 
+weights in the population.
+c Find the weight exceeded by 7.3% of 
+the population.
+d Eight boys are chosen at random from 
+the population. Find the probability 
+that at most three of them weigh at 
+least 70 kg.
+e In a sample of 1000 taken from the 
+population, estimate how many 
+would weigh below 60 kg.
+9 A box contains four blue balls and three 
+green balls. Judith and Gilles play a game 
+with each taking it in turn to take a ball 
+from the box, without replacement. The 
+first player to take a green ball is the winner, 
+a Judith plays first. Find the probability
+that she wins.
+The game is now changed so that the ball 
+chosen is replaced after each turn. Judith 
+still plays first.
+b Determine whether the probability of 
+Judith winning has changed.
+Exam-style questions
+10 PI: A box contains 16 chocolates, of which 
+three are known to contain nuts.
+Two chocolates are selected at random. 
+Of the two chocolates selected, find the 
+probability that
+a exactly one chocolate contains nuts
+(3 marks)
+373
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+b at least one chocolate contains nuts.
+(3 marks)
+Give your answers as fractions.
+P2: Hamid must drive through three sets of 
+traffic lights in order to reach his place 
+of work.
+The probability that the first set of lights 
+is green is 0.7.
+The probability that the second set of 
+lights is green is 0.4.
+The probability that the third set of 
+lights is green is 0.8.
+It may be assumed that the probability 
+of any set of lights being green is 
+independent of the others, 
+a Find the probability that all three 
+sets of lights are green. (2 marks) 
+b Find the probability that only one 
+set of lights is green. 
+(3 marks)
+c Given that the first set of lights is red 
+(ie not green), find the probability 
+that the following two pairs of lights 
+will be green. 
+(2 marks)
+d Find the probability that at least one 
+set of lights will be green. (3 marks)
+PI: Jake and Elisa are given a mathematics 
+problem.
+The probability that Jake can solve it is 
+0.35.
+If Jake has solved it, the probability that 
+Elisa can solve it is 0.6. Otherwise, the 
+probability that Elisa can solve it is 0.45.
+a Draw a tree diagram to illustrate the 
+above question, showing clearly the 
+probabilities on each branch.
+(3 marks)
+b Find the probability that at least 
+one of the students can solve the 
+problem. 
+(2 marks)
+c Find the probability that Jake solves 
+the problem, given than Elisa has.
+(4 marks)
+PI: A and B are events such that P(A) = 0.3, 
+P(B) = 0.65 and P(Ak jB) = 0.7.
+By drawing a Venn diagram to illustrate 
+these probabilities, find
+a 
+P(A'n£) 
+(2 marks)
+b 
+P(AuB') 
+(2 marks)
+c P(AnB)' 
+(2 marks)
+14 PI: In a survey, 48 people were asked about
+h their holidays over the past year. It
+was found that 32 people had taken a 
+holiday in Europe, and 25 people had 
+taken a holiday in the USA.
+Everyone surveyed had been to at least 
+Europe or the USA.
+a Determine how many people had 
+taken a holiday in both Europe and 
+the USA. 
+(2 marks)
+b Find the probability that a randomly 
+selected person had been to Europe, 
+but not the USA. 
+(3 marks)
+c Explain why the events "taking 
+a holiday in Europe" and "taking 
+a holiday in the USA" are not 
+independent events. 
+(3 marks)
+15 P2: The Venn diagram illustrates the
+m number of students taking each of the 
+three sciences: physics, chemistry and 
+biology.
+A student is randomly chosen from the 
+group.
+Find the probability that
+a the student studies chemistry or 
+biology 
+(2 marks)
+b the student studies neither physics 
+nor biology 
+(2 marks)
+c the student studies physics, given 
+that they study chemistry (2 marks) 
+d the student studies biology, given 
+that they study physics 
+(2 marks)
+e the student studies physics, given 
+that they do not study biology.
+(2 marks)
+i-
+■■
+m 
+|
+H ■ I
+374
+
+16 PI: A and B are independent events, such 
+L that P(v4) = 0.3 and P(B) = 0.5.
+Find the following probabilities, 
+a P(AnB) 
+(2 marks)
+b P(Ak jB) 
+(2 marks)
+c P(B'nA) 
+(2 marks)
+d ?(B\Af) 
+(3 marks)
+1? PI: The probability that Steve the striker 
+h scores in any given football match is 
+0.28.
+Four matches over the course of a 
+season are selected at random.
+a Find the probability that Steve 
+scores in at least one of the four 
+matches. 
+(3 marks)
+b Find the probability that Steve 
+scores in exactly one of the four 
+matches. 
+(2 marks)
+c Find the probability that Steve 
+scores in at least two of the four 
+matches. 
+(3 marks)
+18 PI: In Victorian England, the probability of 
+h a child born being male was 0.512.
+In a family of 10 children, find the 
+probability that
+a there were exactly 6 boys (3 marks)
+b there were no boys 
+(2 marks)
+c there were more girls than boys.
+(2 marks)
+19 P2: The discrete random variable X has the 
+■■ following probability distribution.
+X
+0
+0.5
+1
+1.5
+2
+13
+><
+II
+k
+2
+k
+k2
+2 k2
+k
+2
+20 PI: The times taken by Blossom to walk 
+h from her home to her local cafe are
+normally distributed, with a mean time 
+of 35 minutes and a standard deviation 
+of 3.4 minutes.
+a Find the probability that, on a 
+randomly selected day. Blossom's 
+journey takes longer than 37 
+minutes. 
+(2 marks)
+b Find the probability that on a 
+randomly selected day, Blossom's 
+journey takes between 34 and 36.5 
+minutes. 
+(3 marks)
+Blossom walks to her cafe on 25 
+separate occasions.
+c On how many occasions should she 
+expect the journey to take less than 
+30 minutes? 
+(3 marks)
+21 PI: The masses of cans of baked beans are 
+h normally distributed, with a mean mass
+of 415 g and standard deviation 12 g.
+a The probability that a randomly 
+selected can of beans has a mass 
+greater than mg is 0.65. Find the 
+value of m. 
+(3 marks)
+b A can of beans is randomly selected. 
+It is known that the mass of the 
+can is more than 420 g. What is the 
+probability that it weighs more than 
+422.5 g? 
+(4 marks)
+c Ashok buys 144 cans of beans from 
+the supermarket.
+What is the probability that at least 75 of 
+them have a mass of less than 413.5 g?
+(4 marks)
+a Find the value of k. 
+(4 marks)
+b Determine the exact value of the 
+mean of the distribution. (4 marks) 
+c Find the exact value of P(X £ 1.25).
+(3 marks)
+375
+Statistics and 
+probability
+
+Modelling and investigation activity
+Random walking!
+r
+Approaches to learning: Critical thinking 
+Exploration criteria: Mathematical commu 
+nication (B), Personal engagement (C), Use 
+of mathematics (E)
+IB topic: Probability, Discrete distributions
+A
+(----------------------------------------------------------------------------------------\
+The problem
+A man walks down a long, straight road. With each step he either moves 
+left or right with equal probability. He starts in the middle of the road. If he 
+moves three steps to the left or three steps to the right, he will fall into a 
+ditch on either side of the road. The aim is to find probabilities related to 
+the man falling into the ditch, and in particular to find the average number 
+of steps he takes before inevitably falling into the ditch.
+Explore the problem
+Use a counter to represent the man and a "board" to represent the 
+scenario:
+TAILS 
+HEADS
+START
+DITCH
+DITCH
+376
+
+?
+Toss a coin.
+Let a tail (T) represent a left step and a head (H) represent a right step.
+Write down the number of tosses/steps it takes for the man to fall into the ditch. 
+Do this a total of 10 times.
+Calculate the average number of steps taken.
+Construct a spreadsheet with the results from the whole class.
+Calculate the average number of steps taken from these results.
+How has this changed the result?
+Do you know the actual average number of steps required?
+How could you be certain what the average is?
+Calculate probabilities
+Construct a tree diagram that illustrates the probabilities of falling into the 
+ditch within five steps.
+Use your tree diagram to answer these questions:
+What is the probability associated with each sequence in which the man falls 
+into the ditch after a total of exactly five steps?
+What is the probability that the man falls into the ditch after a total of exactly 
+five steps?
+What is the minimum number of steps to fall into the ditch?
+What is the maximum number?
+What is the probability that the man falls into the ditch after a total of exactly 
+three steps?
+Explain why all the paths have an odd number of steps.
+Let x be the number of the steps taken to fall into the ditch.
+Copy and complete this table of probabilities:
+1
+2
+3
+4
+S
+6
+?
+8
+9
+10 11
+12
+....
+P(X = x)
+Look at the numbers in your table.
+Can you see a pattern?
+Could you predict the next few entries?
+Simulation
+30
+You could use the table together with the formula E(X) = ^x?(X = x) to try to
+i
+find E(X), the exact theoretical answer to the problem posed.
+However, since there is an infinite number of values of x, calculating the 
+expected number of steps to fall into the ditch would be 
+very complicated.
+An alternative approach is to run a computer simulation 
+to generate more results, and to calculate an average from 
+these results.
+Extension
+Once you have a code written you could easily 
+vary the problem.
+You can write a code in any computer language available 
+that will run this simulation as many times as needed. 
+This will allow you to improve on the average calculated 
+individually and as a class.
+Although this would not be a proof, it is convincing if 
+enough simulations are recorded.
+What variations of the problem can you think of?
+You may also be able to devise your own 
+probability question which you could answer 
+using simulation.
+3??
+Modelling and investigation activity
+
+Are your preferences for food positively 
+or negatively correlated with their 
+nutritional value? Or neither?
+378
+A newspaper reports: “Scientific study 
+shows people with more friends live 
+longer” How do they figure this out?
+How can a teacher (or th 
+whether two different versions of a 
+test were equally difficult?
+Do the heights of the students at your 
+school really follow a bell-shaped 
+normal distribution?
+All of these questions require the collection 
+of data. The data can then be analysed 
+and presented in ways that allow you to 
+understand and interpret the question more 
+clearly. You might, for example, think that 
+the data should fit a particular pattern; how 
+could you test that?
+Concepts
+■ Relationships
+■ Validity
+Microconcepts
+■ Contingency tables
+■ Observed frequencies, expected 
+frequencies
+■ Null hypothesis, alternative hypothesis
+■ Significance level
+■ Degrees of freedom
+■ probability values (^-values)
+■ x2 test f°r independence, goodness of fit
+■ t-test
+■ Spearman’s rank correlation
+V_______________ ___________________ /
+Testing for validity: Spearman’s, 
+hypothesis testing and %2 test for 
+independence
+
+Scientists are concerned with the effect of air 
+pollution on the growth of trees. They measured 
+the heights in metres of 24 young trees of the same 
+species in each of two different forest areas. The 
+results are shown in the table.
+It is claimed that the trees in area A are, on average, 
+taller than those in area B. How could you test this 
+claim?
+How can the scientists ensure that their samples were 
+not biased?
+Which statistics can you calculate from the data?
+How could you display the data to help test the claim? 
+Do you think there is enough evidence 
+in these samples to make any claims 
+about the tree heights in general?
+Which tests can the scientists use to find 
+out whether air pollution has had an 
+effect on the growth of trees in either 
+forest?
+How valid will the results of these tests be?
+Which test will be the most reliable?
+Will scientists be able to use the results of 
+these tests to give feedback on the effect of 
+air pollution on the growth of the trees?
+S.30
+5.12
+5.64
+4.23
+5.26
+4.92
+3.90
+4.21
+3.24
+4.82
+4.38
+5.02
+5.55
+5.12
+4.91
+4.82
+4.27
+5.85
+4.82
+4.84
+6.00
+5.48
+3.89
+5.14
+4.44
+5.24
+4.61
+4.95
+4.53
+4.96
+4.88
+3.12
+4.04
+5.61
+4.42
+4.02
+4.23
+6.14
+5.12
+4.12
+4.83
+5.10
+4.46
+5.23
+5.12
+5.25
+4.64
+5.06
+Developing inquiry skills
+Write down any similar inquiry questions you might 
+ask to decide whether a statement about two other 
+data sets was true or not. Your variables might be, 
+for example, the heights of children, orthe sizes of 
+pebbles on a beach, orthe fuel consumption of cars. 
+What would you need to think about in each case? 
+Think about the questions in this opening problem and 
+answer any you can. As you work through the chapter, 
+you will gain mathematical knowledge and skills that 
+will help you to answerthem all.
+Before you start
+Click here for help 
+[fj
+You should know howto:
+Skills check
+with this skills check
+1 Find the probability of independent
+1 The numbers 1,2, 3, 4 5, 6 are written on
+events.
+cards.
+eg A fair die and an unbiased coin are
+S is the event of picking a square number.
+thrown. Show that the probability of
+E is the event of picking an even number.
+getting a 6 on the die and a head on the
+Show that E and 5 are independent.
+coin are independent events.
+2 Find the probabilities from a normal
+2 The diameters of washers are normally
+distribution.
+distributed with mean 35 mm and standard
+eg The heights of a sample of people
+deviation 3 mm.
+are normally distributed with a mean of
+Find the probability that a washer chosen
+156 cm and standard deviation of 7 cm.
+at random has a diameter of less than
+Find the probability that the height of a
+36 mm.
+person chosen at random from the sample
+is between 152 cm and 161 cm.
+3 Calculate binomial probabilities.
+3 List the probabilities of all possible
+eg List the probabilities of all possible
+outcomes for a B(4, 0.8) distribution.
+outcomes fora B(3, 0.7) distribution.
+3?9
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+Ranking data
+For each of the following lists, rank the 
+items in order of how much you like them, 
+with a "1" being the one you like most and 
+a "6" the one you like least.
+You must rank them all, and ties are not 
+allowed!
+8.1 Spearman’s rank correlation 
+coefficient
+Subject
+Rank
+Maths
+English
+PE
+Art
+Science
+Drama
+Film genre
+Rank
+Sci-fi
+Romance
+Documentary
+Comedy
+Adventure
+Thriller
+Sport
+Rank
+Soccer
+Basketball
+Tennis
+Baseball
+American football
+Table tennis
+Now, find someone to compare your choices with.
+In the following table, write down your ranks for the same items. 
+Then, in the other columns, work out the difference between your 
+ranks (d), and the square of the difference (d2).
+Finally, add up the totals in the last column {d2).
+Item
+You
+Them
+d
+d2
+Total:
+Once you have this total, do the following:
+• multiply it by 6
+• divide the answer by 210
+• subtract the answer from 1.
+Your answer should be a number between -1 and +1.
+Which other mathematical calculation in statistics has an answer 
+between -1 and +1?
+International 
+mindedness
+Charles Pearson 
+(1863-1945) was an 
+English psychologist 
+who developed rank 
+correlation, usually shown 
+as the Greek letter p 
+(rho) or, rs, as a tool for 
+psychiatry.
+380
+
+What do you think an answer close to -1 means? 
+What do you think an answer close to +1 means? 
+What do you think an answer close to 0 means? 
+What can you say about your answer?
+Consider the following sets of data:
+Hours of study,*
+0
+1
+2
+3
+4
+5
+6
+2
+8
+Test results, y
+43
+50
+52
+20
+68
+25
+81
+28
+92
+Now consider this data:
+A scatter graph of the data is 
+shown here, and Pearson's 
+correlation coefficient is 0.97. 
+So, there is a strong, positive 
+relationship between the hours 
+of study and the test results.
+Number of 
+minutes, x
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Temperature 
+of oven,y°C
+0
+140
+165
+125
+180
+180
+180
+180
+180
+180
+A scatter graph of this data is 
+shown here, and Pearson's 
+correlation coefficient is 0.73. So, 
+there is only a moderate, positive 
+relationship between the number 
+of minutes and the temperature 
+of the oven. However, the scatter 
+graph indicates that there is an 
+exponential relationship between 
+the data points. Pearson's only 
+measures for linear relationships. 
+So, is there another test to find 
+the strength of relationships that 
+are not linear?
+381
+Statistics and 
+probability
+
+8
+TESTING FOR VALIDITY: SPEARMAN’S, HYPOTHESIS TESTING ANDTEST FOR INDEPENDENCE
+Investigation 1
+Mould is grown in eight different petri dishes with different amounts of nutrients (A), and the area of the dish 
+covered in mould after 48 hours (Y) is recorded. The results are given in the table and also shown on the graph.
+2 
+Calculate the Pearson's product moment correlation coefficient (PMCCJ for this data and comment on 
+your results.
+Now give each data point a rank, which is the position of the point if the data were listed in order of size for 
+each of the variables. For example, H would be ranked 1 for both X and Y. (It does not matter if we rank from 
+largest to smallest, like this, or from smallest to largest; the result will be the same.)
+3 
+a Complete the following table showing the ranks for each of the data points.
+A
+B
+C
+D
+E
+F
+G
+H
+X rank
+1
+Y rank
+1
+b Use your GDC to graph these ranks, 
+c Calculate the value of PMCC for these ranks.
+d Comment on your result, relating it to the particular shape of the graph.
+In another experiment the temperature (T) is varied and the area of the petri dish covered after 48 hours 
+(Y) is recorded.
+T 
+Y
+4.95
+4.50
+10.49
+4.86
+16.40
+4.36
+19.80
+3.86
+23.90
+3.38
+22.20
+3.14
+32.30
+3.06
+36.40
+0.22
+F•
+r
+A ^
+G•
+D•
+C.
+E•
+—
+3
+»
+—
+•
+———
+——
+123456789
+X
+Y
+5.68
+6.00
+1.04
+0.50
+2.22
+0.26
+4.20
+2.84
+3.66
+1.44
+6.22
+8.20
+4.22
+4.20
+8.00
+8.60
+1 
+Use your GDC to graph these results.
+382
+

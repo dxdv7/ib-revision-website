@@ -1,0 +1,312 @@
+11.2
+1 Given that the radius of the Ferris wheel 
+planned for Alphapark is 70 m and that 
+0 represents the angle measured anti 
+clockwise from they-axis, find all the angles 
+for which the pod P is:
+a a distance of 30 m from the x-axis 
+b a distance of 20m to the right of the y-axis.
+2 
+a Solve the following equations.
+i sin 0J = cos 0[ for 0° < 6{ < 360°
+ii sin 02 = 0.8 for 0° < 02 < 360°
+iii cos 03 = -0.1 for 0° < 03 < 360°
+b Hence find the coordinates of the pod 
+on the Alphapark Ferris wheel for each 
+value of 0]f 07 and 03 found in part a.
+3 Jakub models the average monthly 
+temperature 7 degrees Celsius in Warsaw 
+with the function 7 = -11 cos(30f) + 7.5 on 
+the domain 0<£<ll.fis time measured in 
+months, with 7(0) representing the average 
+temperature in January.
+a Predict the average temperature in May. 
+b Predict when the average temperature 
+would be zero.
+4 Zuzanna models the depth D metres of sea 
+water in a harbour h hours after midnight 
+with the function £>= 1.8 sin(30r) + 12.3.
+a Predict the depth of water in the harbour 
+at 5.30am.
+b Predict when the depth of water in the 
+harbour will be 10.9 m.
+Developing inquiry skills
+Return to the opening problem. Do the functions appearto be periodic? If so, 
+state their period.
+Identify the type of function you could use to model this data.
+11.2 An infinity of sinusoidal functions
+In the previous section, we dealt with one Ferris wheel, and used a 
+radius of 70 m to represent it. How would the graph change if the Ferris 
+wheel were twice as tall?
+When you alter the parameters k, r and cof the function/(x) = kerx + c, 
+an infinity of different exponential models are created. Similarly, 
+when you alter the parameters a, b and d of the sinusoidal functions 
+f(x) = # sin(/7x) + d and g(x) = acos(bx) + d you create an infinite number 
+of sinusoidal models.
+In this section you will explore how to model this and other more 
+general sinusoidal phenomena.
+TOK
+Solving an 
+equation has given 
+you an answer 
+in mathematics, 
+but how can an 
+equation have an 
+infinite number of 
+solutions?
+\
+Definition: In a sinusoidal function with range min <y < max, the principal
+. . , 
+min + max , , 
+. 
+...
+axis is the line y =--------------, the horizontal line located exactly in the
+middle of the range of the function, and the amplitude is the vertical distance 
+from this line to any maximum or minimum points of the function.
+505
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+-6.67
+Explore: Use dynamic geometry software or your GDC to create images like these 
+and widen your exploration to include positive and negative values of a, b and d.
+Why are there 
+360 degrees in a 
+complete turn?
+For example,
+f(x) = sinx and g (x) = cosx both have:
+• range -1 <y < 1
+• domain xeR
+• period 360°
+• principal axis y = 0
+• amplitude 1.
+T ' 
+*
+ne iunction n(X) = ^ sin^xj - i nas: 
+range -5 <y< 1 
+domain xe R 
+period 180°
+principal axis y =-------= -2
+amplitude 3.
+Investigation 3
+1 Use technology to graph each set of functions and fill in the table:
+y = 2sin(x)
+y = 2sin(3x)
+y = 2sin(3x) + 1
+Amplitude
+Period
+Principal axis
+y=0.8cos(x)
+y = 0.8cos| ^ j
+y = 0.8cos| 
+3
+Amplitude
+Period
+Principal axis
+TOK
+&
+50G
+
+11.2
+Write down more functions of the form f(x) = a s\n(bx) + d and
+g(x) = a cos(bx) + d. Try to predict the amplitude, period and principal axis
+before you graph with technology.
+2 ICTWHl Find the amplitude, period and principal axis of
+y= 3.7 sin(2x) -2. Predict without technology and confirm with technology.
+3 
+Find the amplitude, period and principal axis of
+y = —1.6 cos(0.25x) + 5. Predict without technology and confirm with 
+technology.
+4 fCTHWl Identify the correct statements about the sinusoidal functions 
+f(x) = a sin (bx) +d and g(x) =ci cos(bx) + d with range min <y < max. 
+a i The amplitude is \a\, ii The amplitude is a.
+b i a = max - min
+ii \a\ ~ -max - min
+c The period is equal to: i b ii 360°
+H
+in
+d The principal axis has equation: i y=|d|
+360°
+b
+ii y-d
+e i d = max + mm
+ii \d\ :
+max + mm
+2 
+1 ' 2
+5 IFffffffl What effect does changing the sign of a have on the orientation 
+of the graph?
+6 H.I.UJ.UIMI How does changing the parameters of a sinusoidal function 
+change its graph?
+Example 2
+The graph of a function of the form 
+y = -20cos(3x) is shown on Clara's GDC.
+a Write down the amplitude of the function 
+and justify your answer, 
+b Write down the period of the function and 
+justify your answer.
+a Since the vertical distance from the 
+principal axis to any turning point is 
+20 the amplitude is 20.
+b It can be seen that the period is 120° 
+from the graph. This is confirmed by the
+formula for the period = 
+= \ 20\
+The graph is a reflection of the standard 
+cosine graph in the x-axis; the amplitude is 
+the same as that of y = 20cos(3x).
+120° is the length of the shortest interval 
+in which the values of the function when 
+repeated give the entire graph.
+50?
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+Example 3
+Simon explores tidal patterns by measuring the depth of water at the end of a pier. He finds 
+that the data can be modelled by the function f(x) = asin(bx) + d where x is the number of 
+hours after 12 midnight. Simon's laptop crashes, but he finds a paper with some of his data:
+Time
+Coordi 
+nates
+Descrip 
+tion
+3.00am
+(3,11.2)
+Maximum
+9.00am
+(9,5)
+Minimum
+a Determine the values of a, b and d in Simon's model, 
+b Interpret the values of a, b and d in context.
+a The principal axis is y = 1= 8.1. Hence
+Apply the formulae for the principal
+2
+d is 8.1.
+axis and the amplitude.
+The amplitude is ~~~—- = 3.1. Hence a is 3.1.
+One half of a cycle is 9 - 3 = 6 hours long.
+Hence the period is 12 hours.
+* = ^ = 30
+12
+Apply the formula for the period.
+Hence Simon's model is
+This can be verified with technology—
+f(x) = 3.1sin(30x) + 8.1.
+it gives the exact graph shown above.
+b d = 8.1 is the average depth of the water.
+Reflect back to the original context.
+a = 3.1 is the maximum amount by which the 
+depth differs from 8.1.
+b = 30 means that the function repeats
+30 times in a domain of 360 hours. It is more 
+useful to state that the tidal pattern repeats 
+every 12 hours.
+TOK
+“Beauty is the first test; there is no permanent place in the world for ugly mathe 
+matics,”—Godfrey Harold Hardy (18PP—194P), a Professor of Geometry at the 
+University of Oxford has been called the most important British pure mathematician 
+of the first half of the 20th century.
+What do we mean by elegance in mathematical proof?
+508
+
+11.2
+1 For each function, predict the amplitude, 
+the period, the equation of the principal 
+axis and the range, 
+a f(x) = 3sin(4x) + 1 
+b f(x) = 0.5sin(0.5x) - 3 
+c f(x) = 7.1 cos(3x) + 1
+d
+/
+f(x) = -5 cos
+V
++ 8.1
+2 For the following graphs, determine 
+the numerical values of the unspecified 
+constants:
+y = a sin(3x) + 1
+y = asm{bx) + d
+3 For the following graphs, determine 
+the numerical values of the unspecified 
+constants:
+a 
+4 Ay
+y - 2 cos(bx) - 2
+y = a cos(x) + d
+y = acos(bx) + d
+4 a A function in the form y = t + scos(rx) is 
+shown. The point Q is a maximum and 
+P is a minimum. Use this information to 
+find the values of t, s and r.
+509
+Functions
+
+11
+MODELLING PERIODIC PHENOMENA: TRIGONOMETRIC FUNCTIONS
+b
+5 a
+b
+This function models the temperature 
+in a refrigerator unit. Given that y is 
+measured in degrees Celsius and x is time 
+measured in hours, determine which 
+of t, sand r are related to the following 
+quantities:
+i the average temperature in the 
+unit
+ii the difference between the minimum 
+temperature in the unit and the 
+average temperature
+iii the time taken for the unit to 
+complete an entire cycle of operation.
+A function in the form y = as\n(bx) + d is 
+shown. The point A is a maximum and 
+B is a minimum. Use this information to 
+find the values of a, b and d.
+This function models the height above or 
+below sea level of a part of a renewable 
+energy generator. Given that y is measured 
+in metres and x is time measured in 
+minutes, interpret each of the values of a, 
+b and d.
+6 Pam explores ocean level patterns in 
+fluenced by currents by measuring 
+how far the water level varies above and 
+below a point on an oil rig. She finds that 
+the data can be modelled by the function 
+f(x) = rcos(sx) where x is the number of 
+hours after 12 midnight. Due to safety 
+concerns, Pam can only observe the first 
+two minimum points and she defines the 
+principal axis asy = 0.
+Time
+Coordinates
+Description
+5.00am
+(2.5-10)
+Minimum
+11am
+(2.5,—10)
+Minimum
+a Sketch a graph of Pam's model for the 
+domain 0 <x < 15.
+b Determine the values of r and s in Pam's 
+model.
+7 The parameters of the function
+g(x) = acos(bx) + d are determined by 
+throwing dice. A fair tetrahedral die 
+numbered 1, 2, 3, 4 determines the value of 
+a and of b. A fair three-sided die numbered 
+1, 2, 3 determines the value of d.
+Find the probability that the resulting 
+function has a maximum value greater 
+than 5.
+Developing inquiry skills
+If one of the functions in the opening problem can be modelled by 
+a sinusoidal function, does it have the formy = tf sin(/?x) +dor 
+y=acos(bx) +d?
+510
+

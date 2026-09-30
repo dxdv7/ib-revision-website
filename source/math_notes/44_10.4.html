@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Solving a<sup>x</sup> = b using logarithms</h3>
+<div class="formula-box">If a<sup>x</sup> = b, then x = log b / log a (any consistent base, e.g. base 10 or base e), where a &gt; 0, a &ne; 1, and b &gt; 0.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Solve 3<sup>x</sup> = 5 for x.<br>Taking logarithms of both sides: log(3<sup>x</sup>) = log 5<br>x log 3 = log 5<br>x = log 5 / log 3<br>x = 0.69897 / 0.47712<br>x = 1.465 (3 dp)</div>
+
+<h3>Solving growth and decay models for time</h3>
+<div class="formula-box">If N(t) = N<sub>0</sub> &times; b<sup>t</sup>, then to find the time t at which N reaches a target value: b<sup>t</sup> = N / N<sub>0</sub>, so t = log(N / N<sub>0</sub>) / log b.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A bacteria culture is modelled by N(t) = 200 &times; 1.15<sup>t</sup>, where N is the number of bacteria and t is the time in hours. Find the time taken for the population to reach 800.<br>800 = 200 &times; 1.15<sup>t</sup><br>4 = 1.15<sup>t</sup><br>t = log 4 / log 1.15<br>t = 1.386294 / 0.139762<br>t = 9.92 hours (3 sf)</div>
+
+<h3>Converting between logarithmic form and exponential form</h3>
+<div class="formula-box">log<sub>a</sub> b = x is equivalent to a<sup>x</sup> = b. In particular, log x means log<sub>10</sub> x, so log x = b means x = 10<sup>b</sup>; and ln x means log<sub>e</sub> x, so ln x = b means x = e<sup>b</sup>.</div>
+<div class="callout example"><span class="c-label">Worked example</span>a Find x if log x = 2.5.<br>x = 10<sup>2.5</sup><br>x = 316.23 (2 dp)<br>b Find x if ln x = 3.<br>x = e<sup>3</sup><br>x = 20.09 (2 dp)</div>
+
+<h3>Laws of logarithms</h3>
+<div class="formula-box">log(ab) = log a + log b (product law)<br>log(a / b) = log a &minus; log b (quotient law)<br>log(a<sup>n</sup>) = n log a (power law)</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given log 2 = 0.301 and log 3 = 0.477 (3 dp), find log 6, log(2/3) and log 9.<br>log 6 = log(2 &times; 3) = log 2 + log 3 = 0.301 + 0.477 = 0.778<br>log(2/3) = log 2 &minus; log 3 = 0.301 &minus; 0.477 = &minus;0.176<br>log 9 = log(3<sup>2</sup>) = 2 log 3 = 2 &times; 0.477 = 0.954</div>
+
+<h3>Change of base formula</h3>
+<div class="formula-box">log<sub>a</sub> b = log b / log a = ln b / ln a. This lets you evaluate a logarithm to any base using a GDC, which only has LOG (base 10) and LN (base e) keys.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate log<sub>5</sub> 12.<br>log<sub>5</sub> 12 = log 12 / log 5<br>log<sub>5</sub> 12 = 1.079181 / 0.698970<br>log<sub>5</sub> 12 = 1.544 (3 dp)</div>
+</div>

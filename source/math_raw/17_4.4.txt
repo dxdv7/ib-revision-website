@@ -1,0 +1,648 @@
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+g Find the temperature in degrees Celsius 
+if the temperature is 83°F. 
+h Find the temperature in degrees
+Fahrenheit if the temperature is -10°C. 
+i Explain how you could rearrange the 
+terms of the equation you obtained in 
+part b so that it gives the relationship of 
+C and F in the form F = m{C + k}.
+5 A landscape architect has planned four new 
+paths in a park. The paths are straight lines 
+as shown on the diagram below. Find the 
+equations of the paths L., Lr L, and L4.
+6 Maria works as a part-time waitress in the 
+summer and earns $30 per day plus 2% of 
+all food and drink sales for the day. 
+a Write an equation to represent her daily 
+earnings. A, in USD, in relation to the 
+amount, x, in USD, of all sales of food 
+and drinks during the day.
+b Determine the gradient. Interpret its 
+meaning.
+c Determine the y-intercept. Interpret its 
+meaning.
+d Draw the graph of the line representing 
+Maria's earnings A.
+e Find what Maria's earnings would be 
+if the amount of food and drinks sold 
+during a certain day were $2400.
+Developing inquiry skills
+Look back at the opening problem for the chapter. You were trying to 
+divide the territorial waters between three islands.
+How can you find equations for the lines that connect each pair of 
+islands?
+4.4 Parallel and perpendicular lines
+A large farm is managing a crop dusting operation, which involves 
+spraying crops with protection products from multiple agricultural 
+aircraft. How could the crop dusting controller make sure that the 
+agricultural planes do not collide?
+178
+
+Investigation 9
+The graphs of the trajectory lines L{, Ly Ly Ly L5 
+and L6 of six agricultural planes are given in the 
+diagram.
+1 
+Examine the lines Ly l.v Ly Ly L5 and L6. List 
+any common characteristics shared by two or 
+more lines.
+Lines (green), L,(black) and L5(blue) have the 
+following equations:
+Lx:y=X+ 1
+L2:y=-2x-3
+. 1 .
+L,: y = -x + 4 
+5 J 2
+2 
+Find the equations of the lines Ljpurple), Ljorange) and Ljlime). Give the equations in the form 
+y = mx + k, where m is the gradient and/: is the y-intercept.
+3 
+Use the equations of lines Lj, Ly Ly Ly L_ and Lb to complete the table below.
+Line
+Gradient
+y-intercept
+Li
+L2
+L5
+L6
+Examine the gradients and they-intercepts of the lines.
+4 H.liUJ.UIMI If two lines are parallel, what is the relationship between their gradients? What about perpen 
+dicular lines and their gradients? What can you tell about they-intercepts of parallel or perpendicular lines?
+5 H.imuiMi Can you tell from the equations of two lines whether they are parallel, perpendicular or neither?
+Parallel lines and their gradients
+Line L ] has gradient m} and line L2 has 
+gradient mr
+If Lj is parallel to Lv written || Lv then 
+m =mr The converse is also true: If 
+wi1=w2thenL1||L2.
+For example, the lines shown in the 
+diagram both have a gradient of-3, but 
+they have differenty-intercepts.
+179
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Reflect
+Why does it make sense that two parallel lines should have equal
+gradients?
+Perpendicular lines and their
+y
+-
+gradients
+£L .
+Lt
+Line L ] has gradient m j and line L2 has 
+gradient/;/,.
+If Lj is perpendicular to Lv written -L
+3.
+9 _
+then mJ X w, = -1 [m( and m, are negative
+i -
+reciprocals of each other and mx = ——}.
+m2
+The converse is also true: If///. X m=-1
+2 -
+r
+3\ 4
+5
+then Lj ± Lr
+For example, the lines shown in the diagram above have negative 
+reciprocal gradients of ^ and -3, and they have different y-intercepts.
+Example 21
+The trajectory lines L] and L2 of two cargo ships are given. In each case determine whether 
+the lines are parallel or if they will intersect:
+a passing through points (2,4) and (-1,-2); and /,, passing through points (0,-4) and (2,0) 
+b L passing through points (0.5,-1) and (-7,-1.5); and L, passing through points (-4,0) 
+and (3,2).
+. 
+.. 
+-2-4 .
+a L gradient =------ = 2
+1 -1-2
+Find the gradients for each pair of lines 
+and check whether they are equal.
+T 
+A* 
+0+4 
+_
+L, gradient =-----= 2
+2 2-0
+Since L{ gradient = L, gradient, LjIlL,.
+r 
+-1.5+1 
+1
+b L. gradient =--------= —
+-7-0.5 
+15
+y 
+.. 
+2-0 
+2
+L, gradient =-----= —
+3 + 4 
+7
+Since L{ gradient and L, gradient are not 
+equal, lines Lx and L2 intersect.
+Example 22
+A roof structure is to be supported by a perpendicular bracket. The roof line L] passes through 
+points (-6,2) and (-1,4); and the bracket line L2 passes through points (3, 5) and (5,0).
+Determine whether the bracket line is perpendicular to the roof line. 
+A
+180
+
+r 
+4“2 
+2
+gradient =------= —
+-1 + 6 
+5
+Find the gradients of the two lines and 
+determine whether they are negative
+. 
+,. 
+0-5 
+5
+L1 gradient =-----= —
+2 
+5-3 
+2
+reciprocals.
+Since gradient x L2 gradient = -1, Lx -L Lr
+Example 23
+A tractor pulls a plough to make three parallel straight grooves for 
+planting seeds. The graph of one of the grooves L] is given in the 
+diagram.
+a Determine the equation of a groove L1 parallel to L] such that 
+it passes through the origin O.
+b Determine the equation of a third groove that is equally 
+distanced from L] or L1.
+X
+a L( passes through (0,2) and (1,-2) and 
+therefore has run 1 and negative rise 
+-4, and thus the gradient is -4. The 
+y-intercept is (0,2), so the equation of 
+Lj is y = -Ax + 2. A parallel groove L^ 
+passing through O will then have an 
+equation y = -Ax.
+b Another equally distanced groove would 
+have an equation y = -Ax + 4 or y = -Ax - 2.
+First determine the equation of the given 
+line Ly
+Example 24
+A machine is set to make parallel cuts on wooden boards. The cuts are made along two straight
+3 — x
+lines Lx and Lr Line L1 has equation y = 6. Line Ljhas gradient ——. Find x.
+3_x - o
+Equate the gradients of the parallel lines.
+4
+Line L2 is horizontal and its gradient is 0.
+o
+II
+1
+r<"\
+* = 3
+181
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Example 25
+A plane flies along a straight line L with equation y = 2x- 5. Determine the equation of 
+the line L2 which represents the trajectory of another plane flying at the same altitude that 
+should not intersect L and should pass through point (3,-1).
+Line L, will have equation y = 2x + k.
+We substitute the coordinates of 
+(3,-1):-1 =2x3 + *
+k--7
+Therefore, L2 has equation y = 2x - 7.
+The two trajectories must be parallel so that 
+they do not intersect. Since parallel lines 
+have equal gradients, will have the same 
+gradient as Ly
+To determine k, substitute the coordinates 
+of point (3,-1) in the equation of Lv
+Example 26
+An architect plans a quadrilateral structure in the form of a parallelogram. The following four 
+points are the vertices of a quadrilateral: P(-l, 3), Q(-2, 5), M(0,4) and N( 1,2).
+a Determine whether quadrilateral PQMN is a parallelogram, 
+b Find whether the diagonals are perpendicular.
+♦ 
+4-5 
+1
+a gradient,.., =-----= —
+B QM 0 + 2 2
+2-3 
+1
+gradient,,, =-----= —
+PN 1 +1 2
+gradient,,, = _2 + l= 2 
+gradients = jo= 2
+To find out whether PQMN is a parallel 
+ogram, determine whether the opposite 
+sides are parallel or not. It is always a 
+good idea to sketch the quadrilateral to 
+help you identify the opposite sides. Then 
+check whether the pair [QM] and [PN] 
+and the pair [QP] and [MN] are parallel.
+To do that, find the gradient of each line.
+Thus the opposite sides lie on lines with 
+equal gradient, and therefore PQMN is a 
+parallelogram.
+b gradient^ - 
+1
+gradient.., = -—-= 1
+The gradients are negative reciprocals 
+(-1 x 1 = -1), so the diagonals are 
+perpendicular.
+To determine whether the diagonals [QN] 
+and [MP] are perpendicular, calculate the 
+gradients of the diagonals and determine 
+whether they are negative reciprocals.
+Reflect
+How do you determine whethertwo lines are parallel or 
+perpendicular?
+182
+
+1
+2
+3
+Find the gradient of a line which is parallel 
+to each line with the given equation: 
+a y = -x + 6 
+b x-7
+c x- 3>y= 5 
+d y = -^{x-1)
+Find the gradient of a line which is 
+perpendicular to each of the following lines:
+a y = -3x+ll 
+b -- + 2y = 0
+4 J
+c y = -3
+d y = 2(*-l)
+Lj and L2 are the trajectories of two 
+ships moving in straight lines. Determine 
+whether the ships' trajectories are 
+perpendicular, parallel or neither:
+a Line passes through the points (0,-4) 
+and (-1,-7); and line L2 passes through 
+the points (3,0) and (-3,2).
+b Line L{ has equation 2y--x + 3 = 0, and 
+line L has equationy -3 = 0.25(x- 1).
+c Line Lj has equation y = --x-1, and 
+line L2has equation x-y = 4.
+4 Determine whether the straight air routes 
+with equations x - ^ = -3 and x = -5 are
+intersecting or not. If they are intersecting, 
+find the point of intersection.
+5 A ski resort is building two parallel straight
+ski slopes for children. One of them has a
+gradient of The other ski slope will pass
+through points (2,-3) and (s,-5). Find the 
+value of s.
+6 A straight connecting street segment is 
+built perpendicular to an existing street
+with equation y = ^x + 3. Determine the
+equation of the line of the new street 
+segment, which passes through point 
+B(-l,-0.2).
+? A fish farm builds a breeding basin in the 
+form of a quadrilateral ABCD, with 
+A(—3, — 1), B(2,0), C(5, 3) and D(0,2). 
+Show that the quadrilateral ABCD is a 
+parallelogram.
+Investigation 10
+Two towns, C and D, are to be serviced by a new railroad.
+Town C has coordinates (2,10), town D has coordinates 
+(10,14) and the new railroad line L has equation y=2.x+ 3, 
+as shown in the diagram. A train station is to be built on the 
+railroad line L to be used by both towns’ inhabitants.
+1 
+Connect points C and D. Write down the equation of 
+line [CD].
+2 
+[CD] intersects the railroad line L at point E(x,y).
+Point E (x,y) lies on the line L. Using the equation of 
+line L, write down an expression forthey-coordinate 
+of the intersection point E.
+3 
+Point E(x,y) lies on the line [CD]. Using the equation 
+of line [CD], write down an expression forthey-coordinate of the intersection point E.
+4
+5
+Find the value of the ^-coordinate of point E by equating the two expressions from parts 2 and 3 for the 
+y-coordinate of point E.
+Find the value ofthey-coordinate of point E.
+o
+Continued on next page
+183
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+6 A committee compares point E and point F(6, 1 5) to determine a location forthe train station.
+Give one reason in support of and one reason against locating the train station at point E.
+? Next, the committee examines point M, the midpoint of [CDJ, as a possible location forthe station.
+Find the coordinates of point M. Could point M be a suitable location for the train station? Explain why or 
+why not.
+8 The committee rejects points E, F and M as possible locations forthe train station, and decides to find 
+the exact point on the railroad line L that is equally distant from towns C and D.
+Trace line segment [CD] and line L on a patty paper. Fold the patty paper so that point C overlaps with 
+point D. Discuss with your partners how to find points that are equidistant from C and D. One such point 
+is M,the midpoint of [CD). What other points are also equally distant from C and from D?
+9 All points that are equally distant from C and D lie on a line N. Determine the equation of this line.
+10 Determine the intersection point T of line L and line N. Explain why point T is equally distant from town 
+C and from town D and also lies on the railroad line.
+11 Is T the only point satisfying the conditions for the train station location set by the committee? Or, are 
+there other such points? How many such points are there?
+Reflect
+Why are all points lying on the perpendicular bisector of a line 
+segment equidistant from the two endpoints of the segment?
+Investigation 11
+On graph paper draw line L. Draw point B on L and point A, 
+which is not on the line L. Fold the graph paper so that the 
+parts of line L overlap and point A is exactly on the formed 
+crease. Now fold along the new crease. Label the point 
+where the crease intersects with line L as O. Identify point 
+Bj on the crease [BO], so that B10 = BO. Explain why 
+line L is the perpendicular bisector of segment BBj.
+The perpendicular bisector of the line segment joining A(2,2) 
+and B(4,6) is shown on the graph.
+1 ■gmoMB Whatisthe midpoint of [ AB ] ? 
+What is the equation of the perpendicular 
+bisector of [AB]?
+The perpendicular bisector of line segment
+[AB], shown on the diagram, is line [EF|.
+2 
+n.imuHi Why are the points 
+labelled as M, C, D, E and F equally 
+distant from each endpoint A and B?
+3 
+EDE33EI Will all points lying on 
+[EF] be equidistant from points A and B?
+4 
+Will a point equidistant from 
+two points lie on the perpendicular bisector 
+of the segment connecting the two points?
+HINT
+The perpendicular 
+bisector of the line 
+segment joining two 
+points is the line 
+that passes through 
+the midpoint of the 
+line segment and is 
+perpendicular to it.
+184
+
+Example 2?
+Find the equation of the perpendicular bisector of the line segment whose endpoints are 
+A( 1,-1) and B(5,-3).
+Midpoint M !_i! 
+= m(3,-2)
+< 2 2 ,
+t 
+-3-(-l) 
+2 
+1
+gradients - ^ 
+4~ 2
+A perpendicular bisector always passes 
+through the midpoint of the line segment. 
+Find the midpoint, M, of the line segment
+[AB] using the formula 
+A| +--~, 
+■■ j.
+y = 2x + k
+-2 = 2x3 + k
+k = -8
+Then find the equation of a line which is 
+perpendicular to [AB] and passes through 
+point M.
+To find the equation, first find the gradient of 
+line segment [AB].
+The equation of the perpendicular bisector 
+of [AB] isy = 2x- 8.
+The gradient of the perpendicular bisector is
+the negative reciprocal of 
+which is 2.
+k is found by substituting the coordinates of 
+point M in the equation.
+Example 28
+A border canal divides two countries. Bridge [AB] connects the 
+two sides of the canal and is perpendicular to its banks.
+Point C(10, 17) is the midpoint of the bridge [AB], as shown in the 
+diagram. The equation of the line [AB] isy = 0.5a * + 6. Find the 
+equation of the border line that equally divides the bridge and the 
+canal between the two countries.
+Line Fis perpendicular to [AB] and
+The border line, F, that equally divides the
+passes through C. Then the equation of
+bridge and the canal between the two countries
+line F will be y = -2x + b.
+is the perpendicular bisector of line [ AB|. The 
+perpendicular bisector F passes through point
+C, the midpoint of [AB].
+17 = -2x(10 ) + b
+It will have a gradient that is the negative
+b = 17
+reciprocal of 0.5, which is -2.
+Line F has equation y = -2x + 37.
+b is found by substituting the coordinates of
+C( 10, 17) iny = -2x + b.
+185
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Investigation 12
+David is hiking. He is currently located at point A(25, 90). He wants to take 
+the shortest path to reach highway L, which follows a straight line with 
+equation y = ~x-\-5.
+He takes a straight perpendicular path to the highway.
+1 
+Draw the perpendicular from A to line L.
+2 
+Find the equation of the perpendicular path that David takes to the highway.
+3 
+Find the coordinates of the point, B, at which the perpendicular path 
+meets the highway.
+4 
+Point D(30,1 5) is on the highway. Showthat AB < AD.
+5 Why is AB the shortest distance from A to the highway?
+'N
+The shortest distance from a point A to a straight line (BC) is the segment 
+| AD|, where D lies on (BC) and [AD| _L (BC).
+Reflect
+Why is the perpendicular passing through a given point to a given 
+line the shortest distance from this point to the line?
+TOK
+Do you think that 
+mathematics is just 
+the manipulation of 
+symbols under a set 
+of rules?
+Example 29
+A robot vacuum cleaner is located 
+at A(4,10). It currently cleans by 
+moving along a straight line from 
+point A to point B(19, 5). The 
+robot charging station is located at 
+point E(6, 3). The vacuum cleaner 
+will have to return to point E to 
+recharge before it reaches point 
+B. It is programmed so that it 
+will turn towards E at a point 
+D on [AB] such that [ED] is the 
+shortest distance from E to [ AB|. 
+Find the coordinates of point D.
+,. 
+, 
+5-10 
+5 
+1
+grad,em,. = —= -n = -5
+1 , 
+y = —x + k 
+J 3
+10 = --x 4 + £
+3
+Equation of [AB]: y - -^x + 11^
+To identify point D on |AB| such that [ED] is the 
+shortest distance from E to |AB|, use the fact that 
+the shortest distance from a point to a line is the 
+perpendicular drawn from the point to the line. 
+Thus you have to find the equation of the line 
+perpendicular to [ AB| and passing through E. 
+Then find the intersection point of line [ AB| and 
+its perpendicular line through E.
+186
+
+The perpendicular to [AB] will have an 
+equation of the form
+y = 3x + k 
+3 = 3x6 + k 
+£ = -15
+The equation of the line perpendicular 
+to I AB] isy = 3x- 15.
+3x—15 = --x + ll- 
+3 
+3
+1 
+1
+3-x = 26- 
+3 
+3
+x=7.9
+y = 8.7
+Therefore point D has coordinates 
+(7.9, 8.7).
+To find the equation of the line [AB], find the 
+gradient and substitute it and the coordinates 
+of A or B in the point-gradient or gradient- 
+intercept form.
+To determine k of the perpendicular to [AC] line, 
+substitute the coordinates of point E.
+Finally, determine the intersection point D of 
+line [ AB] and its perpendicular line passing 
+through E. Equate the expressions fory from 
+each of the two equations, and solve for the 
+value x, which will be the x-coordinate of D. Use 
+technology or an algebraic method. Substitute 
+this x value in one of the two equations and find 
+the corresponding y value.
+As always, it is a good idea to draw a sketch that 
+can help you reason and answer the question.
+Reflect
+How do you find the shortest distance between a point and a line 
+defined by two points?
+Example 30
+Two towns are located at point A(2, 20) and point B(14, 24), and a nearby road R is a straight 
+line with equation -x + y = 4. A new taxi firm wants to find a location for a taxi station on 
+the path R, so that the combined distance from the taxi station to the two towns A and B is 
+shortest.
+Continued on next page
+18?
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+a Draw a perpendicular from B to line R. 
+b Mark the intersection point C of road R and the 
+perpendicular through B. 
+c Find E on [BC] such that BC = CE.
+Point F(10,14) lies on line R.
+d State the relationship between the lines FC and BE. 
+e Show that AF + BF = AF + FE. 
+f From AAFE, explain why AE < AF + FE.
+AE intersects road R at point D.
+g Show that D is the point on road R such that the 
+combined distance from it to the two towns A and B is 
+shortest.
+h Find the coordinates of D.
+a,
+b
+c We measure BC = 4.2 from the graph.
+We then find point E on (BC), on the opposite 
+side of R from B, such that EC = 4.2.
+188
+
+o
+d (FC) is the perpendicular bisector of (BE) since 
+(FC) -L (BE) and BC = CE.
+e FB = FE since (FC) is the perpendicular bisector of 
+(BE); thus AF + BF = AF + FE. 
+f From AAFE, AE < AF + FE because of the triangle 
+inequality—the fact that one side of a triangle is 
+always shorter than the sum of the other two sides, 
+g [AE] and line R intersea at point D. Since AE is shorter 
+than AF + FE, for any F, and AE = AD + DB, AD + DB 
+will be the shortest combined distance and D the 
+location for the taxi station.
+h From the graph: D(14.6, 18, 6)
+1 Two friends, Alison and Bernard, are 
+walking along two different roads. The 
+roads can be represented by the lines with 
+equationsy = -x+ 410 and y = ^x-100.
+Alison is on the first road at the point with 
+coordinates (0,410) and Bernard is at the 
+point with coordinates (50,-75). 
+a Verify that Bernard is on the road with 
+equation y = ^x-100.
+b Find the coordinates of the point of 
+intersection of the two roads.
+3 Find the shortest distance from a 
+hotel located at (2,4) to a straight 
+with equation 3x + 5y + 8 = 0.
+4 Two towns are located at points A(2,-2) 
+and B(8, 5). A new school is to be built on a 
+straight road with equation -x +7y = -4. 
+Find the location of the school so that it is 
+equidistant from the two towns.
+5 A triangular park has vertices at A(-1,-1), 
+B(4,4) and C(7, — 1). A fountain is to be 
+built that is equidistant from all vertices. 
+Find the location D of the fountain.
+2 Find the equation of the perpendicular 
+biseaor of each of the following line segments: 
+a the line segment joining A(2, 2) and 
+B(4, 6)
+b [CD], if the equation of the line passing 
+through C and D is x + y = 3 and the 
+midpoint of [CD] is (2,1).
+Developing inquiry skills
+How could you use what you have learned in this section to find points 
+that are an equal distance from two of the islands? What is significant 
+about these points?
+Can you find a point that is equally distant from all three of the islands?
+189
+Geometry and 
+Functions 
+trigonometry
+

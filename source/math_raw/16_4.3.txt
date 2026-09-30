@@ -1,0 +1,613 @@
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+iii 
+with a starting point at the top 
+B((310, 48) and an end at 0(0,0)
+iv P4 with a starting point at the top 
+B, (230, 56) and an end at 0(0,0)
+On a pair of axes, graph each line, 
+label it, and mark it with the respective 
+colour.
+Determine the angle of inclination, a, of 
+slope Pr
+4.3 Equations of straight lines: 
+different forms of equations
+Investigation ?
+A ship is located at point A(4, 6). The ship is moving
+along a straight line with gradient 0.5 as shown in the
+graph.
+1 
+Use the graph of the line to determine the coordinates of 
+three other points that the ship will pass through on its 
+way.
+2 
+Substitute point A(4,6) and the given gradient in the 
+gradient formula to determine: 
+a they-coordinate of the ship if itsx-coordinate is 5 
+b the x-coordinate of the ship if its y- coordinate is -4.
+3 
+How can you substitute a given point and a given 
+gradient in the gradient formula to obtain an equation 
+that describes the relationship between the x- and 
+^-coordinates of the straight line with the given gradient 
+that passes through the given point?
+4 Substitute the point A(4, 6) and the given gradient in the gradient formula. Remove the parentheses and 
+rewrite the equation in the form 0 = ...
+5 
+Using the equation in part 4, find the coordinates of the point at which the line of the ship's movement 
+intersects they-axis.
+6 
+How can you use the equation that you wrote in part 4 to check whether a given point lies on the line?
+7 
+What would the equation of a line that passes through (4,6) and (10,6) look like? What do you notice 
+about all points on a horizontal line?
+8 
+What would the equation of a line that passes through (4,6) and (4,10) look like? What do you notice 
+about all points on a vertical line?
+Equation of a line
+Point-gradient (point-slope) form
+If a known gradient m of a line and a known point (xyy.) on that line
+are substituted in the gradient formula, the relationship m = -—— gives
+x-xx
+the equation of the line.
+166
+
+The formy -y} = m(x-xx) is called the point-gradient 
+(point-slope) form.
+Standard (general] form
+The form ax + by + c = 0, where a, b, ce R, is called the standard or 
+general form.
+Equation of a horizontal line
+All horizontal lines have equations y = C, where C is 
+a constant.
+The line in the diagram has equation y = 2, and each 
+point on this line has y-coordinate 2.
+-10 
+12 
+3
+y
+3
+-2-----------------
+ki-----
+i------------------i-------- t-------- r->- X
+Equation of a vertical line
+All vertical lines have equations x = C, where Cis a constant.
+The line in the diagram has equation x = 3, 
+y
+and each point on this line has x-coordinate 3.
+4 
+2
+-2
+-4
+-6
+1
+2 : i 4
+International 
+mindedness
+The development of 
+functions involved 
+mathematicians 
+from many countries, 
+including France 
+(Rene Descartes), 
+Germany (Gottfried 
+Wilhelm Leibniz) 
+and Switzerland 
+(Leonhard Euler).
+Example 11
+Find the equation of the line:
+a that has gradient 3 and passes through point A( 1,7) 
+b that passes though points A( 1,3) and B(2, 5).
+Write down the equations in point-gradient form. 
+Draw the lines.
+a The point-gradient form of the equation
+Substitute the given gradient and
+of the line isy - 7 = 3(x- 1).
+coordinates of the given point in the point- 
+gradient (point-slope) form
+y-yx =m(x-xl)
+To draw the graph of line y - 7 = 3x - 3
+Your GDC can be used to draw the graph of
+on the GDC, rearrange the equation as 
+y = 3x + 4.
+a line.
+Ao
+Continued on next page
+IB?
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+m = ----- = 2
+2-1
+The point-gradient form of the equation 
+of the line is y - 3 = 2(x - 1).
+The graph of the line is below:
+Similarly, substitute the coordinates of 
+a point and the gradient in the point- 
+gradient (point-slope) form, but before 
+doing so you need to calculate the gradient 
+of the line using the coordinates of the two 
+given points.
+When you substitute the gradient and one 
+of the points in the point-gradient form, 
+note that you could use the coordinates of 
+either of the two given points.
+Example 12
+Draw the line 3a  + y + 3 = 0.
+Identify and plot two points, A and B, that 
+are on the line.
+Point
+x-coordinate
+y-coordinate
+A
+1
+y=—3 — 3(1) =-6
+B
+-2
+y = - 3-3(-2) = 3
+To find a point on the line you could 
+choose a value for one of the coordinates, 
+substitute it in the equation and find the 
+other coordinate.
+o
+168
+
+o A(l,-6) and B(-2, 3) are on the line. 
+(AB) is the graph of the line.
+Then you plot these points and draw a line 
+through them.
+Example 13
+Points A and B lie on the straight-line boundary 
+between two plots of land. Write the equation of the 
+line passing through points A and B. A tree is located 
+at point C(25, 30).
+Determine whether the tree is on the boundary line.
+10-8 1
+m =-------= -
+12-6 
+3
+The equation of the line is y-8 = ^(x-6)
+given in point-gradient form.
+To determine whether point C is on the 
+boundary line or not, check whether when 
+we substitute the coordinates of point P in 
+the equation, the left side of the equation 
+will equal the right side.
+25-8 ^ 1(30—6) since 17*8
+Therefore the tree is not on the boundary line.
+From the graph you could determine the 
+coordinates of the two points, A(6,8) and 
+B(12,10), after which you can calculate the 
+gradient and then substitute the gradient 
+and coordinates of either A or B in the 
+point-gradient form.
+169
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Example 14
+A sailing boat is moving along a straight line with equation -2.5x + y = 3.
+a Determine whether a tanker located at point A(3, -2) is on the trajectory of the sailing 
+boat.
+b Find the exact y-coordinate of the port of arrival for the sailing boat if the x-coordinate 
+is 10.
+a -2.5 x (3) + (-2) =-9.5
+Substitute the coordinates of A(3, -2) in the
+Point A is not on the line as -9.5 * 3.
+left-hand side of the equation -2.5x + y = 3 and
+check whether the left side equals the right side.
+b -2.5 (10) +y = 3
+If a point is on the line then its y-coordinate is
+y = 3 + 25
+found by substituting the given x-coordinate
+y = 28
+into the equation.
+Reflect
+Could there be two different points with the same x-coordinate but 
+differenty-coordinates such that both points lie on a given line?
+TOK
+Are algebra and geometry 
+two separate domains of 
+knowledge?
+Find, in point-gradient form, the equation 
+of the straight line:
+a with gradient 3 and passing through a 
+point (1,4)
+b with gradient -5 and passing through 
+(7,-4)
+c with gradient — and passing through 
+(-1,3)
+d passing through points (-1,4) and (1,8).
+Draw the graph of each of the following 
+lines:
+a y — 1 = -0.5(x + 2) b y =--x+4
+- 1 
+c y + 2x = - 
+2
+A ski resort planner works on designing ski 
+slopes. Find the equations of the following 
+slopes in the form of straight lines, and 
+hence draw them:
+b a slope with gradient - and passing 
+through (7,-2)
+c a slope passing through (-3,1) and (2,0) 
+d a slope passing through points (2,0) and 
+(-1,-2).
+4 Determine without graphing whether 
+A(-4,-5) lies on the lines with equations:
+a y = -x-9 b 5x + 4y = 9
+5 Frances runs along a straight line with 
+equation y = ^x + 4. She starts at point C 
+and finishes at point D. Find:
+a the y-coordinate of point C if x = 6 
+b the x-coordinate of point D if y = 9.
+a a slope with gradient 4 and passing 
+through (-2,5)
+170
+
+Investigation 8
+The graphs of lines L,,L2, L3 and L4 are given.
+1 a Identify the points at which line
+L J intersects the x-axis and the y-axis. 
+b Determine the gradient of Lj. 
+c Find the equation of line Ly Give the 
+equation in point-gradient form, 
+d Rewrite the equation in the formy = ox+/?, 
+where a G Q and b e Q.
+2 a Identify the points at which line
+intersects the x-axis and the y-axis. 
+b Determine the gradient of Ly and hence 
+find the equation of line Ly Give the 
+equation in point-gradient form, 
+c Rewrite the equation in the form y = ax+b, where a e Q and /; e Q.
+3 
+Examine each equation from parts Id and 2c in relation to its gradient and axes intercepts.
+4 H.I.IJ-I.UIMB How do the values of a and b in your equations in the form y = ax + b relate to the 
+gradient and the axes intercepts?
+Write down your conjecture about what a and b represent.
+5 
+The equations of lines L1 and L4 are Ly.2x+y= 1 and L^.X-y-4 = 0.
+Write the equations in the formy = ax+b, where a e Q and b e Q.
+Check whether you can confirm your conjecture from part 4 with the equations of lines L, and L y Write 
+down your conclusions.
+\
+Other forms of an equation of a line: 
+gradient-intercept form
+Equations of lines given in point-gradient form or general form can be 
+rearranged in the form below, which is called the gradient-intercept form: 
+y = mx+k, where m is the gradient and k is the value ofy forx=0
+Intercepts: x-intercept and y-intercept
+The point at which the graph intersects the x-axis 
+is called the x-intercept, and the point at which 
+the graph intersects the y-axis is called the
+y-intercept.
+Note that the x-intercept has zero for its y-coordinate, 
+and the y-intercept has zero for its x-coordinate.
+1?1
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Example 15
+Find the equation of the line: 
+a with gradient -2 and passing through (-4, 3) 
+b passing through (-2,-1) and (6,-5).
+Write down the equations in the gradient-intercept form y = mx + k, where m is the gradient 
+and k is the y-coordinate of the y-intercept.
+a y = -2x + k
+3 = -2 (-4) + k
+k = - 5
+The equation of the line is y = -2x - 5.
+Substitute the gradient in the gradient- 
+intercept form y = mx + k, where m is the 
+gradient and k is the y-coordinate of the 
+y-intercept.
+Then find k by substituting the coordinates 
+of the point for x and y.
+-5-(-l) -4 
+1
+b m =---- -i = — = —
+6-(-2) 
+8 
+2
+Substitute the value of k in the gradient- 
+intercept form.
+Find the gradient m first by substituting
+1 .
+y = —x + k
+2
+the coordinates of the two points in the 
+gradient formula.
+-l = -\(-2) + k
+Then substitute the value of the gradient 
+and the coordinates of one of the points in
+k =-2
+1
+the gradient-intercept form y = mx + k to 
+find k.
+The equation ol the line is y = --x-2.
+Example 16
+A straight country road with equation y = -0.75* + 11.5 intersects two state highways with 
+equations x = 0 and y = 0. A beverage shop owner wants to open two new shops exactly at 
+the intersections of the country road with the state highways.
+a Draw the graph of the line representing the country road, 
+b Find the exact locations of the two new beverage shops, 
+c Find the distance between these beverage shops.
+o
+172
+
+b When x=0, y= 11.5
+Wheny = 0, x= 15.3 (15.3333...) 
+The locations of the two shops are 
+(0,11.5) and (15.3,0).
+c \ll 5.3333...2 +1 1.52 
+= 19.2 (19.1666...)
+To find the locations of the two shops you 
+need to find the x- and y-intercepts of the 
+line.
+To find the y-intercept, substitute x = 0 
+in the equation of the line and solve 
+for y.
+To find the x-intercept, substitute y = 0 
+in the equation of the line and solve 
+for x.
+Example 17
+Draw the graphs of the following lines: 
+a 5x + 3y = 10 
+b y = ~x-\- 4
+i
+a For x = 0, 3y = 10, so y = 
+■
+Thus the y-intercept is fo, —
+For y = 0, 5x = 10 so x = 2.
+First find two points, A and B, on 
+the line. To find each point you 
+could choose a value for one of 
+the coordinates, substitute it in the 
+equation and find the other coordi 
+nate. Such a point will be on the line.
+Thus the x-intercept is (2,0).
+A line drawn through the two intercepts is 
+the graph.
+Then you plot A and B and draw a 
+line through the points.
+Continued on next page
+173
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+b The ^-intercept of the line with equation
+y = ~x-1-4 is A(0,4). The x-intercept is B( 12,0).
+A line drawn through the two points is the 
+graph.
+You could also use the gradient to 
+find another point on the line. Start
+from (0,4). Note that the gradient is
+—, which means that for a run of
+3 units the rise is -1 unit. Starting 
+at A(0,4) move one unit down to 
+point C (rise -1) and then 3 units 
+horizontally to point D (run 3). 
+Draw a line through points A and D 
+to obtain the graph.
+Example 18
+Two straight roads have equations y = 3x +15 and y = -2x +5. A traffic light has to be 
+installed at their intersection point. Find the coordinates of the intersection point of 
+the two roads.
+One way to find the coordinates of the intersection 
+point is algebraically:
+3x +15 = -2x + 5 
+5x = -10 
+x--2
+Then y = 9 and the intersection point is (-2,9). 
+Alternatively, plot both lines using your GDC.
+Since the intersection point lies on 
+both lines and thus satisfies both 
+equations, we set the right-hand 
+side of one of the equations equal 
+to the right-hand side of the other 
+one.
+174
+
+Example 19
+Bike & Bloom sells flower bouquets. The equation modelling the total cost, C, of making a 
+number of bouquets, x, is C= 6000 + 12x, where C is given in Danish Krona, DKK.
+a Find the gradient of the line representing the equation, 
+b Interpret the meaning of the gradient, 
+c Determine the y-intercept.
+d Could the total cost per month be zero if no bouquets are made? 
+The total cost in a certain month is 112 720 DKK. 
+e Draw on the same axes the graph of:
+i the line representing a cost of 112 720 DKK
+ii the equation modelling the total cost, C.
+f Find the number of bouquets made if the cost is 112 720 DKK.
+Gradient = 72
+It means that for any additional bouquet 
+made the increase in cost is 72 DKK. 
+This also means that 72 is the cost of 
+producing one bouquet, 
+y-intercept is (0,6000)
+No. Even if zero bouquets are made in 
+the month, the total cost is 6000 (eg rent 
+or other fixed expenses), 
+i and ii
+150000 -
+n 110 70m .
+/ 11 AH') 000 1 1070m
+’
+1
+'
+nnnnn
+/
+I
+-10000
+-20500 U
+— 
+r
+10000
+T-*X
+112 720 = 6000+ 72x 
+x = 1482.222...
+1483 bouquets are made during the 
+month.
+The assumption here is that the cost of each 
+bouquet is the same.
+Part f can be approached algebraically or 
+graphically.
+If you use graphs, the intersection point of
+the two graphs from part e will help you
+answer the question:
+the x-coordinate gives you the number of
+bouquets.
+Algebraically, equate y = 6000 + 72xand 
+y = 112720 and then solve for x.
+175
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Example 20
+Brooklake town had only 50 social housing units when the new social 
+programme started. Since then it has been adding new social housing units 
+at a steady rate. Now, 17 years later, the town has a total of 322 social housing 
+units.
+a Find the rate of increase in social housing units per year.
+b Write an equation for the total number of housing units, h, that the town 
+had in relation to the number of years, x, that have passed since the social 
+programme started.
+c Draw the graph of the line representing this equation, 
+d Determine the gradient of the line. Interpret its meaning, 
+e Determine they-intercept of the line. Interpret its meaning, 
+f Determine how many social housing units the town had 13 years after 
+starting the programme.
+g Predict the number of social housing units that the town will have 22 years 
+after starting the programme. State your assumptions, 
+h Determine the year in which the town added its 200th social housing unit 
+after the programme began.
+TOK
+“The object of 
+mathematical 
+rigour is to 
+sanction and 
+legitimize the 
+conquests of 
+intuition.” Jacques 
+Hadamard
+Do you think 
+that studying 
+the graph of a 
+function contains 
+the same level 
+of mathematical 
+rigour as studying 
+the function 
+algebraically?
+a
+b
+m -
+h — 
+h = 
+50 = 
+k = 
+h= 1
+Hlz!£ = i6
+17-0 
+MX + k
+16* + k 
+16x0 + /:
+50
+If we plot the given 
+information, the 
+y-coordinates of the points 
+(0, 50) and (17, 322) 
+represent the number of 
+housing units at year 0 
+and at year 17.
+6x + 50
+The rate of increase in 
+housing units is the 
+gradient of the line 
+connecting these two 
+points.
+1?6
+
+Gradient is 16, which is the number of 
+housing units added each year.
+(0,50), which means that there were 50 
+housing units when the town started the 
+social programme.
+h = 16 x 13 + 50 = 258 housing units at the 
+end of the 13th year.
+h = 16 x 22 + 50 = 402 housing units at the 
+end of the 22nd year.
+We assume that they continue to add units 
+at the same rate: 16 units a year.
+16 x x+ 50 = 200 
+x = 9.375
+The 200th unit will be added in the 10th 
+year after the programme began.
+We need to round up as 
+more than 9 years were 
+needed to build the 200th 
+housing unit.
+1 Find, in gradient-intercept form, the 
+equation of the line:
+a with gradient 3 and y-intercept (0,-2) 
+b with gradient -4 and passing through 
+(—1/5)
+c passing through (-1,-1) and (2,-3).
+4 Albena lives in Belgium. She travels 
+to the USA where the temperature is 
+measured in degrees Fahrenheit. She 
+wants to know how hot it is in °C if the 
+thermometer shows 83°F.
+Use the fact that water boils at 100°C and 
+212°F, and that water freezes at 0°C and
+Determine the x- and y-intercepts of the 
+following lines:
+a y = 5x 
+b y - -0.4* + 3
+c -Q.2x + y = 1
+32°F.
+a i Plot the two points representing the 
+given information on a pair of axes 
+labelled °F (x-axis) and °C (y-axis).
+3 An air traffic controller examines four flight 
+routes represented by straight lines given in 
+A-D below.
+A y -1 = -1 (x + 4) B y = 0.5*+3 
+C 2x + y - 5 = 0
+D line with a gradient of 2 and passing 
+through (-1,3)
+a Draw the graphs of the four lines on the 
+same pair of axes, 
+b Determine:
+i the x- and y-intercepts of route A
+ii the intersection point of routes A and B.
+c Show that routes C and D have the same 
+y-intercept.
+ii Sketch the line passing through these 
+two points.
+b Write an equation for the relationship 
+between C and F, where F represents 
+degrees Fahrenheit and C represents 
+degrees Celsius. Write your equation in 
+the form C = mF + k.
+c Write down the gradient of the 
+equation.
+d Interpret the meaning of the gradient.
+e Write down the y-intercept of the line 
+representing this equation.
+f Interpret the meaning of the y-intercept.
+177
+Geometry and 
+Functions 
+trigonometry
+

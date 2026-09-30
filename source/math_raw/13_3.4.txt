@@ -1,0 +1,1338 @@
+Developing inquiry skills 
+(^)
+Return to the opening problem for the chapter. How can you best present 
+the data on life expectancy and GDP?
+3.4 Bivariate data
+Monica and her friends are training for a charity run. She is 
+interested to find out whether the height of the runners has any 
+effect on the time taken to complete the race. You can see her 
+data in Investigation 12.
+Bivariate data has two variables; univariate data has only one variable. 
+With bivariate data you have data on two different variables collected from 
+the same individuals that you wantto compare to see whetherthere is any 
+correlation between the two variables.
+TOK
+Why are there different 
+formulae forthe same 
+statistical measures, 
+such as mean and 
+standard deviation?
+Mr Price was interested to find out whether the number of past 
+papers that his students completed had an effect on the grade they 
+obtained in their final examination. The data he collected is shown 
+below.
+Number of 
+past papers
+2
+6
+5
+1
+4
+8
+3
+12
+?
+4
+2
+8
+10
+9
+Examination 
+grade (%)
+48
+?0
+61
+45
+58
+85
+55
+96
+80
+56
+43
+88
+92
+89
+He plots all these points on a graph to see whether there is any 
+correlation between the two variables. The number of past 
+papers is the independent variable and this is plotted on the 
+x-axis. The examination grade is the dependent variable and 
+this is plotted on the y-axis.
+The pattern of dots or crosses will give him an indication of how 
+closely the variables are related.
+Do you think that the two variables are related?
+How closely do you think they are related?
+What advice would you give to students who have to take 
+examinations?
+133
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+Types of correlation
+i
+0
+3
+:a ® [
+a
+a
+0
+■
+. H
+^------
+6-
+Correlation can be positive. When 
+the independent variable increases, 
+so does the dependent variable.
+Correlation can be negative. 
+When the independent vari 
+able increases, the dependent 
+variable decreases.
+There can also be no 
+correlation. This occurs 
+when the points are 
+scattered randomly.
+Correlation can also be described as strong, moderate or weak.
+Example 12
+The table gives the heights and weights of 10 camels.
+Weight (kg)
+450
+600
+500
+750
+750
+650
+900
+600
+650
+800
+Height (m)
+1.45
+1.6
+1.5
+1.85
+1.9
+1.75
+2.0
+1.7
+1.65
+1.8
+a Draw a scatter graph to represent this information, 
+b Comment on the relationship.
+Height (m)
+TOK
+To what extent can we 
+rely on technology to 
+produce our results?
+134
+o
+
+o
+b There appears to be a strong, positive relationship between 
+the height and the weight: the taller the camel, the more it 
+weighs.
+Investigation 12
+Twelve students trained every week for a S km charity run. Their heights, h cm, and the times, t minutes, it 
+took them to complete the run are shown in the table.
+Height (//)
+150
+163
+155
+148
+154
+141
+162
+148
+121
+152
+153
+145
+Time (f)
+22
+18
+20
+25
+21
+32
+19
+24
+15
+22
+21
+30
+1 Draw a scatter graph to show this information. The height is the independent variable and goes on the 
+horizontal axis; the time taken to complete the run is the dependent variable and goes on the vertical 
+axis. Place a cross at each point, eg at (150, 22), (163,18) etc.
+2 
+Now that you have a visual picture, do you think that these variables are related?
+3 
+If so, how would you describe the relationship?
+4 
+What are scatter diagrams useful for?
+Example 13
+The table shows the number of members in each of nine families and the number of 
+pets the family has.
+Number of members
+2
+3
+4
+4
+5
+5
+6
+2
+8
+Number of pets
+1
+0
+3
+2
+5
+4
+4
+2
+5
+a Draw a scatter graph to represent this data, 
+b Describe the correlation between the two variables.
+c State, with a reason, whether you think that one variable "causes" the other.
+Family members
+b The correlation is positive and moderate, 
+c No, the number of members in a family is not
+caused by the number of pets a family has, and vice 
+versa.
+135
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+Example 14
+The table shows the number of schools and the number of restaurants in a town over a 
+40-year period.
+Year
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+2015
+2020
+Number of schools
+12
+13
+15
+15
+16
+12
+12
+18
+19
+Number of restaurants
+28
+30
+33
+34
+36
+36
+38
+39
+40
+a Draw a scatter graph of the number of schools and the number of restaurants, 
+b Describe the correlation between the two variables, 
+c State whether you think that one set of variable "causes" the other, 
+d State a possible reason why the number of schools and the number of restaurants 
+increased over the 40-year period.
+40 -
+Qf) -
+6
+■
+T
+Restaurants 20 -
+10 -
+———
+——————
+11 
+12 13 14 15 
+16 17 18 19 20
+Schools
+b There is a strong positive correlation, 
+c Not really.
+d The population in the town could be increasing over 
+the years, which could require more schools and 
+more restaurants.
+Example 15
+The table shows the temperature in °C and the time in days taken for cream to turn sour.
+Temperature (°C)
+4
+8
+12
+16
+20
+24
+28
+Time in days
+15
+13
+9
+6
+4
+2
+1
+a Draw a scatter graph to represent this data, 
+b Describe the correlation between the two variables, 
+c State whether one variable "causes" the other.
+a 
+201
+IE
+Number of days in
+CD
+E _
+a
+B
+III
+a
+i
+j
+1
+T(
+1 
+1
+0 
+15 
+20 2
+jmperature (°C)
+1 w
+5 
+30
+136
+
+Investigation 13
+Consider the following data sets and the correlations that were found:
+A: The number of hours spent training for a race and the time taken to complete the race has a strong 
+negative correlation.
+B: The age of participants in a race and the time taken to complete the race has a moderate positive correlation. 
+C: The number offish in a garden pool and the number of trees in the garden has a strong positive correlation.
+D: The speed of a car and its horsepower has a moderate positive correlation.
+E: The temperature and the number of hats sold has a weak negative correlation.
+1 
+In which sets do you think that one variable has an influence on or “causes” the other?
+2 
+In which examples is there a moderate or strong correlation but one variable does not cause the other?
+3 EBEJ What is causation?
+4 
+Does correlation imply causation?
+1 For the following scatter graphs, describe the type of correlation and the strength of the
+b
+relationship.
+■ 1
+a
+a
+ffl
+1 »
+1 1
+a
+-
+■
+■
+L
+pi
+«
+■
+p
+3.4 l”TT~
+There is a strong negative correlation: the higher the 
+temperature, the lower the number of days for the 
+cream to sour.
+The increase in temperature could very well be the 
+reason that the cream turns sour more quickly.
+Factual
+a a
+■ ® 
+a 
+a
+13?
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+2 The table gives the heights, in cm, and weights, in kg, of 11 football players selected at 
+random.
+Height (// cm]
+161
+173
+154
+181
+172
+184
+176
+169
+165
+180
+173
+Weight (tv kg]
+74
+7 6
+61
+80
+7 6
+88
+79
+7 6
+75
+83
+75
+a Plot the points on a scatter diagram.
+b Comment on the type of correlation. Interpret what this means in terms of the football players, 
+c State whether the correlation might indicate a causation in this instance. Justify your answer.
+3 The table shows the size, in inches, of 10 laptop screens and the cost, in euros, of the laptop.
+Size (inches]
+11.6
+11.6
+13.3
+14
+14
+14
+15
+15.6
+15.6
+15.6
+Cost (euros)
+145
+170
+700
+450
+370
+175
+320
+500
+420
+615
+a Plot the points on a scatter diagram, 
+b Describe and interpret the correlation.
+c State whether you think that the size has an influence on the cost.
+4 Twelve students took tests in English and mathematics. The results are shown in the table.
+English
+44
+66
+71
+33
+87
+90
+55
+76
+65
+95
+40
+58
+Mathematics
+71
+75
+58
+63
+55
+87
+54
+58
+77
+54
+56
+51
+a Plot the points on a scatter diagram, 
+b Describe the correlation.
+c State whether you think that the grade for the English test has an influence on the grade 
+for the mathematics test.
+5 The data in the table shows the position in the league and the number of goals scored for each 
+team in a hockey league.
+Position
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Goals scored
+52
+50
+47
+44
+43
+37
+36
+24
+16
+12
+10
+7
+a Plot the points on a scatter diagram, 
+b Describe the correlation.
+c State whether you think that the position in the league has an influence on the number of 
+goals scored.
+138
+
+Developing inquiry skills (^)
+Developing 
+your toolkit
+For the life expectancy and GDP data, use technology 
+to draw a scatter graph of the data.
+Is there any correlation between the two variables?
+Is there any causal connection between life expectancy and
+Now do the 
+Modelling and 
+investigation activity 
+on page 146.
+GDP?
+Chapter summary
+• Univariate data has only one variable.
+• There are two main types of data: qualitative and quantitative.
+• Qualitative data is data that is not given numerically, for example favourite ice cream flavour. 
+Quantitative data is numerical and is classified as discrete or continuous.
+• Discrete and continuous data can be organized into frequency tables or grouped frequency tables.
+• For continuous data, the classes must cover the full range of the values and must not overlap.
+• Discrete data is either data that can be counted, for example the number of cars in a car park, or 
+data that can only take specific values, for example shoe size.
+• Continuous data can be measured, for example height, weight and time.
+• The most common measures of central tendency are the mean, median and mode.
+• The mode of a data set is the value that occurs most frequently. There may be no mode or several 
+modes.
+• The median of a data set is the value that lies in the middle when the data values are arranged in 
+size. When there are two middle values, the median is the midpoint between the two values.
+• The mean of a data set is the sum of all the values divided by the number of values.
+tt
+For a discrete data set of n values the formula is x = xr
+For a frequency data set the formula is x =——^ fix..
+• Outliers are extreme data values that can distort the results of statistical processes.
+• Measures of dispersion measure how spread out a data set is.
+• The range is found by subtracting the smallest number from the largest number.
+• The standard deviation, a, gives an idea of how the data values are related to the mean. The 
+standard deviation is also known as the root-mean-squared deviation and its formula is
+• The variance is the standard deviation squared, (a )2.
+o
+Continued on next page
+139
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+• The interquartile range (IQR) is the upper quartile, Qy minus the lower quartile, Q .
+• When the data is arranged in order, the lower quartile is the data point at the 25th percentile and 
+the upper quartile is the data point at the 25th percentile.
+• The mean of a set of numbers island the standard deviation is 0\ If you add k to or subtract k 
+from each of the numbers, then the mean becomesxi k and the standard deviation remains 
+0\ If you multiply each number by k then the mean becomes kxx and the standard deviation 
+becomes |A:| x o\
+• The population is the whole group from which you can collect data.
+• A sample is a small group chosen from the population.
+• Simple random sampling is selecting a sample completely at random, for example by using a 
+random number generator or picking numbers from a hat.
+• Systematic sampling is, for example, taking every fifth entry starting at a random place.
+• Convenience sampling is getting data from people who are easy to reach, for example the 
+members of a school, club, etc. It does not select a random sample of participants and so the 
+results could be biased.
+• A biased sample is one that is not random, for example researching spending habits on cars and 
+only interviewing people exiting a garage.
+• Quota sampling is setting certain quotas for your sample, for example selecting a sample of eight 
+boys and eight girls.
+• Stratified sampling is selecting a sample where the numbers in certain categories are proportional 
+to their numbers in the population. For example, if 20% of students in a school were in Grade 2, then 
+you would choose 20% of your sample from Grade 2.
+• To draw a box-and-whisker plot you need five pieces of information: the smallest value, the lower 
+quartile (L0), the median, the upper quartile (UQ) and the largest value.
+• An outlier is a point less than the LQ - 1.5 x IQR orgreaterthan the UQ -f 1.5 x IQR.
+• Interpreting a box-and-whisker plot:
+) 25% of the values are between the smallest value and the LQ.
+> 25% of the values are between the LQ and the median, 
+o 25% of the values are between the median and the UQ.
+3 25% of the values are between the UQ and the largest value.
+• The cumulative frequency is the sum of all the frequencies up to a particular value. To draw a 
+cumulative frequency curve, you need to construct a cumulative frequency table, with the upper 
+boundary of each class interval in one column and the corresponding cumulative frequency in 
+another. Then plot the upper boundary on the x-axis and the cumulative frequency on the y-axis.
+• To find any percentile, p%, you read the value on the curve corresponding to p% of the total 
+frequency.
+• Bivariate data has two variables; univariate data has only one variable.
+• With bivariate data you have paired data on two variables that you want to compare to see whether 
+there is any correlation between the two variables.
+• Correlation can positive or negative, or there may be no correlation, and correlation can also be 
+described as strong, moderate or weak.
+140
+
+Developing inquiry skills
+Return to the opening problem.
+• Has what you have learned in this chapter helped you to answerthe 
+questions?
+• What information did you manage to find?
+• What assumptions did you make?
+• How will you be able to construct a model?
+• What other things did you wonder about?
+Thinking about the inquiry questions from the beginning of this chapter:
+• Has what you have learned in this chapter helped you to think about 
+an answerto most of these questions?
+• Are there any questions that you would like to explore further, perhaps 
+for your internal assessment topic?
+Chapter review
+1 State whether the following sets of data are 
+discrete or continuous, and, in each case, 
+construct a frequency table, 
+a The number of apples in a 1 kg bag:
+Click here for a mixed 
+review exercise
+The number of hours Grade 12 students 
+sleep:
+2 Find the mean, median and mode for the 
+following data sets. State which measure of 
+central tendency is best to use in each case, 
+a The heights of 15 dogs, in cm:
+b The lengths of pencils, in cm:
+f---------------------------------------------\
+7.4 8.5 
+9.6 
+7.1 14 
+13.5 8.8
+7.4 11.2 13.6 12.8 14.2 9.8
+V_____________________________________ J
+c The shoe sizes of Grade 6:
+3 The data table shows the lengths of 120 pike 
+fish.
+Length of pike (/cm)
+Frequency
+20 </< 30
+2
+30</<40
+12
+40</< 50
+23
+50</<60
+46
+GO < / < ?0
+28
+20 </< 80
+9
+a Write down the modal class, 
+b Find estimates for the median, mean and 
+standard deviation.
+c Draw a histogram to represent the data.
+4 The marks, out of 50, for a history test have 
+a mean of 38 and a standard deviation of 7. 
+To get a percentage mark, Mr Thoughtful 
+doubles all the marks. Write down the new 
+mean and the new standard deviation.
+r  
+\
+r-*
+00 O
+O' oo 
+O
+00 <N
+r» o
+O' O'
+O'
+oc ^
+V____ y
+U1
+u i Oc
+oc O'
+-4 -4
+SO h-
+m m
+Ul
+oc 4^
+uj oj 
+"~4 \J}
+Tj- 
+vO 
+m rn
+f 
+>
+in
+vo r-
+00 VO 
+O ' 00
+o oc 
+00 oo
+O VO 
+\D in. 
+r- in
+V 
+J
+141
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+5 Mr Pringle sells vegetables at the market. The 
+number of tomatoes in a bag has a mean
+of 10 and a standard deviation of 1. On his 
+birthday, Mr Pringle gives everyone who 
+buys a bag of tomatoes three extra tomatoes. 
+Write down the new mean and the new 
+standard deviation on Mr Pringle's birthday.
+6 Ursula measures the heights of 35 tulips in 
+her garden. The data she gathered is:
+a Find the mean and standard deviation 
+and comment on your answer.
+b Find the range and interquartile range, 
+c Write down the median, LQ, UQ, smallest 
+value and largest value and check whether 
+there are any outliers, 
+d Draw a box-and-whisker plot to 
+represent the data.
+2 The grouped frequency table shows the 
+number of hours of voluntary service 
+completed by the 200 students at a 
+community high school.
+a Construct a cumulative frequency table 
+for this data.
+b Plot the points and draw the cumulative 
+frequency curve.
+c Use your curve to find approximate 
+values for the median and the 
+interquartile range.
+The lowest number of hours was 8 and the 
+greatest number was 76. 
+d Draw a box-and-whisker plot to 
+represent the data.
+8 Mr Farmer has 50 chickens. He collects data 
+on the temperature and the average number 
+of eggs that the chickens lay.
+a Draw a scatter graph to represent this 
+information.
+b Describe the correlation.
+c Comment on whether the temperature 
+has an effect on the number of eggs laid.
+Exam-style questions
+9 PI: The grouped frequency table below 
+h shows the results of a statistics test 
+taken by 70 students.
+a State the modal class for the data.
+(1 mark)
+b Find an estimate for the mean.
+(3 marks)
+c Find an estimate for the standard 
+deviation. 
+(2 marks)
+d A similar class took the same test. 
+Their mean mark was 45% and the 
+standard deviation was 19.5. 
+Compare the marks of the two 
+classes, stating your conclusions
+(2 marks)
+Test result x%
+Frequency
+0 <x< 20
+8
+20 <x< 40
+1?
+40 <x< 60
+25
+60 <x< 80
+13
+80 <x< 100
+2
+Number of hours [x]
+Frequency
+0<x< 10
+8
+10 <x< 20
+16
+20 <x< 30
+41
+30<x<40
+54
+40 <x< 50
+36
+50 <x< 60
+22
+60 <x < 70
+12
+20 <x < 80
+6
+Temperature (°C)
+Number of eggs
+14
+43
+15
+44
+16
+48
+12
+46
+18
+50
+19
+48
+20
+50
+21
+52
+22
+53
+23
+55
+I t"> 
+O' 
+<N cn co
+£>• 
+^ tsj
+vO W ui
+^  
+tsj
+VO OJ
+^ VJ W M 
+V j s i NJ to
+oo oo NJ 
+OO O' — NJ
+^ WJ WJ tO
+M U1 o  M
+oJ KJ KJ
+•— vyi sO •—
+o OC ^ -H
+tN fS
+O  OC 
+O  
+M fN ro Tt
+V_____ _______ J
+142
+
+10 P2: The weights (in grams) of 25 mice were 
+h recorded as follows.
+10, 11, 12, 12, 13, 14, 14, 14, 14, 15,
+15, 15, 16, 16, 16, 17, 18, 18, 19, 19,
+19, 20, 20, 20, 21
+a Find the mean weight of the mice.
+(2 marks)
+b Find the median weight of the mice.
+(2 marks)
+c Find the interquartile range.
+(4 marks)
+d The weight of another mouse was 
+added to the data but found to be an 
+outlier.
+Find the least possible weight this 
+new mouse could be, given that it is 
+heavier than each of the others.
+(2 marks)
+11 P2: The following tables show the mean daily temperatures, by month, in both Tenerife and 
+m Malta.
+Malta
+Month
+Mean daily temperature (°C)
+January
+16
+February
+16
+March
+17
+April
+20
+May
+24
+June
+28
+July
+31
+August
+31
+September
+28
+October
+25
+November
+21
+December
+IP
+Tenerife
+Month
+Mean daily temperature (°C]
+January
+19
+February
+20
+March
+21
+April
+21
+May
+23
+June
+25
+July
+28
+August
+29
+September
+28
+October
+26
+November
+23
+December
+20
+a Find the mean temperature over the course of the year for Tenerife. 
+(2 marks)
+b Find the standard deviation of temperatures in Tenerife. 
+(2 marks)
+c Find the mean temperature over the course of the year for Malta. 
+(2 marks)
+d Find the standard deviation of temperatures in Malta. 
+(2 marks)
+e By referring directly to your answers from parts a-d, make contextual comparisons 
+about the temperatures in Tenerife and Malta throughout the year. 
+(4 marks)
+12 PI: A population of ferrets has mean age 
+h 5.25 years and standard deviation 1.2 
+years.
+a Find the mean age of the same 
+population of ferrets 3 years later.
+(2 marks)
+b Find the standard deviation of the 
+same population of ferrets 2 years 
+later, justifying your answer.
+(2 marks)
+13 PI: The following table shows the 
+h population sizes of England, Wales, 
+Scotland and Northern Ireland.
+Region
+Population (millions)
+England
+54.8
+Wales
+3.10
+Scotland
+5.37
+Northern Ireland
+1.85
+143
+Statistics and 
+probability
+
+3
+REPRESENTING AND DESCRIBING DATA: DESCRIPTIVE STATISTICS
+A polling company wishes to ask 
+questions of a stratified sample of the 
+UI< population, and decides that a 
+sample size of 5000 people would be 
+appropriate.
+Determine how many people from each 
+region they should choose. (6 marks)
+14 PI: The box-and-whisker diagram shows 
+■i the average times taken for a class of 
+students to walk to school.
+15 
+22 
+27 
+37 
+45
+I------1------ 1------- 1--------- 1---- 1------- 1----------1------- 1---- 1------- 1------- 1--------- '
+0 
+5 
+10 
+15 
+20 
+25 
+30 35 
+40 45 
+50 
+55 
+60
+a Find the range. 
+(2 marks)
+b Find the interquartile range.
+(2 marks)
+c Find the percentage of students who 
+took between 1 5 and 37 minutes to 
+walk to school. 
+(1 mark)
+d It was found that another student 
+who took 60 minutes to walk to 
+school.
+Determine whether this time would 
+be counted as an outlier. (3 marks)
+15 PI: Ben practises playing the Oboe daily.
+■
+■■ The time (in minutes) he spends on
+daily practice over 28 days is as follows:
+10, 15, 30, 35, 40, 40, 45, 55, 60, 62,
+64, 64, 66, 68, 70, 70, 72, 75, 75, 80,
+82, 84, 90, 90, 105, 110, 120, 180 
+a 
+Find the median time. 
+(2 marks)
+b 
+Find the lower quartile. 
+(2 marks)
+c 
+Find the upper quartile. 
+(2 marks)
+d 
+Find the range. 
+(2 marks)
+e 
+Determine whether there are any
+outliers in the data. 
+(4 marks)
+f Draw a box-and-whisker diagram for 
+the above data, marking any outliers 
+as required. 
+(3 marks)
+16 P2: Ava practises the piano daily.
+■™ The time (in minutes) she spends on
+daily practice over 75 days is as follows.
+Time [t minutes)
+Frequency
+0 <x< 15
+4
+15 <x< 30
+5
+30 <x< 45
+12
+45 <x< 60
+24
+60 <x< 75
+18
+75 <x< 90
+7
+90 <Af< 100
+5
+a State the modal class. (1 mark) 
+b Find the class in which the median 
+time lies. 
+(2 marks)
+c Construct a cumulative frequency 
+table for this data. 
+(3 marks)
+d Sketch the cumulative frequency 
+curve. 
+(2 marks)
+e Use your curve to find estimates 
+for the median and interquartile 
+range. 
+(4 marks)
+17 P2: The following table shows the salaries 
+h of the members of a small private 
+business.
+Position
+Salary ($)
+Director
+120 000
+Line Manager 1
+80 000
+Line Manager 2
+80 000
+Analyst 1
+25 000
+Analyst 2
+25 000
+Analyst 3
+25 000
+Analyst 4
+25 000
+Analyst 5
+25 000
+Analyst 6
+25 000
+Analyst 7
+25 000
+Analyst 8
+25 000
+a Calculate the mean salary. (2 marks) 
+b Find the median salary. (2 marks) 
+c Calculate the interquartile range.
+(2 marks)
+144
+
+Analyst 8 decides to argue for a pay rise, 
+d Suggest which measure of average 
+(mean, median or mode) Analyst 
+8 should use to support their case. 
+Justify your answer. 
+(2 marks)
+e Suggest which measure of average 
+(mean, median or mode) the 
+managing director might use to 
+counter the claim that Analyst 8 
+should be paid more. Justify your 
+answer. 
+(2 marks)
+f Comment on which measure 
+of average would be fairest as a 
+representative salary for employees 
+in this company. Justify your answer.
+(2 marks)
+18 PI: a Define, as fully as you can, the terms
+h  
+random sampling, stratified sampling
+and systematic sampling. (5 marks) 
+b A researcher wishes to investigate 
+the size of rats in a London 
+Underground station.
+i Suggest one reason why systematic 
+sampling should not be used.
+(2 marks)
+ii Determine whether random or 
+stratified sampling would be more 
+appropriate in this investigation. 
+Justify your answer. (2 marks)
+19 P2: The following raw data is a list of the
+h height of flowers (in cm) in Eve's garden.
+26.5, 53.2, 27.5, 33.6, 44.6, 39.5, 24.9,
+45.1, 47.8, 39.3, 33.1, 38.7, 44.1, 22.3,
+44.1, 30.5, 25.5, 35.9, 37.1, 40.2, 23.3,
+36.2, 34.8, 37.3
+b Find an estimate for the mean 
+height, using the frequency table.
+(2 marks)
+c Find an estimate for the variance, 
+using the frequency table. (2 marks) 
+d Find an estimate for the standard 
+deviation, using the frequency table.
+(2 marks)
+e Eve's neighbour's garden was also 
+surveyed.
+It was found that the flowers in the 
+neighbour's garden had a mean 
+height of 32.1 cm and standard 
+deviation 7.83 cm.
+Compare the heights of the flowers 
+in the two gardens, drawing specific 
+conclusions. 
+(3 marks)
+20 PI The population of Frankfurt in 
+h Germany was found to be 718 824.
+A company chose a random sample 
+of 1200 residents of Frankfurt to ask 
+for comments on the city's proposed 
+integrated transport system.
+611 of the sample chosen were female.
+a Calculate an estimate for the number 
+of females in Frankfurt. 
+(2 marks)
+b The company decided to repeat their sur 
+vey, but this time chose to use a stratified 
+sample rather than a random sample.
+c Suggest two possible types of strata 
+(apart from gender) that would be 
+sensible for the company to use.
+(2 marks)
+a Copy and complete the following 
+grouped frequency table.
+Height [xcm]
+Frequency
+20 <x< 25
+25 <x< 30
+30 <x< 35
+35 <x< 40
+40 <x< 45
+45 <*< 50
+50 <x< 55
+(3 marks)
+145
+Statistics and 
+probability
+
+Modelling and investigation activity
+What’s the difference?
+Approaches to learning: Thinking skills, 
+Communicating, Collaborating, Research 
+Exploration criteria: Presentation (A), 
+Mathematical communication (B), Personal 
+engagement (C), Reflection (D), Use of 
+mathematics (E)
+IB topic: Statistics, Mean, Median, Mode, 
+Range, Standard deviation, Box plots, 
+Histograms
+(-----------------------------------------------------------------------------------
+Example experiment
+Raghu does an experiment with a group of 25 students.
+Each member of the group does a reaction test and Raghu records their 
+times.
+Raghu wants to repeat the experiment, but with some change.
+He then wants to compare the reaction times in the two experiments.
+Discuss:
+How could Raghu change his experiment when he does it again?
+With each change, is the performance in the group likely to improve, stay 
+the same or get worse?
+Alternatively, Raghu could use a different group when he repeats the 
+experiment.
+What different group could he use?
+With each different group, is the performance likely to improve, stay the 
+same or get worse?
+146
+
+Your experiment
+Your task is to devise an experiment to test your own hypothesis.
+You will need to do your experiment two times and compare your results.
+Step 1: What are you going to test? State 
+your aim and hypothesis.
+Write down the aim of your experiment and your 
+hypothesis about the result.
+Why do you think this is important?
+What are the implications of the results that you may find?
+Make sure it is clear what you are testing for.
+Step 3: Do the experiment and collect the 
+data.
+Construct a results sheet to collect the data.
+Give clear, consistent instructions.
+£
+Step 4: Present the data for comparison 
+and analysis.
+How are you going to present the data so that the two 
+sets can be easily compared?
+How are you going to organize the summary statistics of 
+the two data sets so that you can compare them?
+Do you need to find all of the summary statistics covered 
+in this chapter?
+Step 6: Conclusions and implications.
+What are the conclusions from the experiment?
+Are they different from or the same as your hypothesis? 
+To what extent? Why?
+How confident are you in your results? How could you be 
+more certain?
+What is the scope of your conclusions?
+How have your ideas changed since your original 
+hypothesis?
+Step 2: How are you going to collect the 
+data? Write a plan.
+• What resources/sites will you need to use?
+• How many people/students will you be able 
+to/need to collect data from to give statistically 
+valid results?
+• Exactly what data do you need to collect? How are 
+you going to organize your data? Have you done a 
+trial experiment?
+• Are there any biases in the way you present the 
+experiment? How can you ensure that everyone 
+gets the same instructions?
+• Is your experiment a justifiable way of testing your 
+hypothesis? Justify this. What are the possible 
+criticisms? Can you do anything about them?
+• Is the experiment reliable? Is it likely that someone 
+else would reach a similar conclusion to yours if 
+they used the same method?
+y
+Step 5: Compare and analyse.
+Describe the differences between your two sets of data.
+Make sure that your conclusion is relevant to your aim 
+and hypothesis stated at the beginning.
+Extension
+• How could you test whether the spread 
+(rather than the average) of the data has 
+changed significantly?
+• How could you analyse changes in individual 
+results, rather than whole class changes?
+• Investigate the “difference in means test”.
+14?
+Modelling and investigation activity
+
+Dividing up space: coordinate 
+geometry, lines, Voronoi diagrams
+This chapter explores two- and three-dimensional 
+space and the relationship between points and 
+lines in space. It includes finding the midpoint 
+and distance between two points, intersection of 
+lines and equations of lines, and explores their 
+uses in air control to track aircraft, in technology, 
+such as programming a robot cleaner to find the 
+shortest distance from the line of its movement to 
+the charging station, or in urban planning to find 
+the best location for a train station. The chapter 
+also looks at dividing space for the purposes of 
+solving practical problems such as depositing 
+toxic waste or the fair division of fishing territory 
+among islands.
+Concepts
+■ Space
+■ Relationships
+Microconcepts
+■ Gradient
+■ Equations of straight lines
+■ Perpendicular lines
+■ Parallel lines
+■ Perpendicular bisectors
+■ Points of intersections of lines
+■ Coordinates of midpoint in 3D; distance in 3D
+■ Voronoi diagrams
+■ Area of Voronoi diagrams
+How could a town with four fire stations be 
+divided into regions so that the nearest fire 
+truck is dispatched to the fire location?
+148
+
+An island has control of all economic resources 
+within its territorial waters. These resources 
+may include fishing, mining, or offshore oil 
+exploration.
+The positions of three small islands are shown.
+• How could you model the positions of the 
+three islands?
+• How could you use your model to decide 
+how to divide the territorial waters between 
+the islands?
+• What information do you 
+need to be able to answer 
+this question?
+• What assumptions would 
+you need to make?
+• What factors might 
+influence how you would 
+divide the waters between 
+the islands?
+Developing inquiry skills
+Write down any similar inquiry questions you might ask if you were 
+asked to divide an area between different landmarks—for example, 
+deciding which fire station should assume responsibility for different 
+areas of a town or deciding which hospital iscloserto your home?
+Are any of these questions similarto the ones used to investigate 
+how territorial waters are being divided between three islands? 
+Think about the questions in this opening problem and answer any 
+you can. As you work through the chapter, you will gain mathematical 
+knowledge and skills that will help you to answer them all.
+Before you start
+You should know how to:
+1 Solve equations of one variable, 
+eg Solve for x\
+* + (->)_ 3
+2
+x - 1 = -6
+x = -5
+Skills check
+1 Solve for x:
+a 2(x- 5) = -3
+b x-1-1
+2 
+3
+r Click here for help
+^ with this skills check
+2 Plot 2D coordinates of points.
+eg Place on a coordinate system the points 
+(3,-1), (-2,-5), (1,-4) and (0,-2).
+3 Substitute into an equation, 
+eg y = 2x - 1
+Find the value of y if x = 3.
+2 Place the following points on a pair of 
+coordinate axes: A(l,3), R(-2,-5),
+C(l,-5), D(-3,1), E(0,4), F(-4,0).
+3 
+a y = -5x + 3
+Find the value of y if x = -1. 
+b y=l-(x-1)
+Find the value of y if x = —
+4 Use the Pythagorean theorem.
+eg Find the third side of a right-angled 
+triangle with hypotenuse 7 and side 2.
+4 A right-angled triangle has hypotenuse 10 cm 
+and a side of length 6 cm. Find the length of 
+the third side.
+149
+

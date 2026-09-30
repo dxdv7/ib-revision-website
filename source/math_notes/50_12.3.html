@@ -1,0 +1,17 @@
+<div class="notes-section">
+<h3>Finding stationary points</h3>
+<div class="formula-box">A stationary point of f(x) occurs where f&prime;(x) = 0. Solve this equation to find the x-coordinate(s), then substitute back into f(x) to find the corresponding y-coordinate(s).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the stationary points of f(x) = x<sup>3</sup> &minus; 3x<sup>2</sup> &minus; 9x + 5.<br>f&prime;(x) = 3x<sup>2</sup> &minus; 6x &minus; 9<br>Set f&prime;(x) = 0: 3x<sup>2</sup> &minus; 6x &minus; 9 = 0<br>x<sup>2</sup> &minus; 2x &minus; 3 = 0<br>(x &minus; 3)(x + 1) = 0, so x = 3 or x = &minus;1<br>f(3) = 27 &minus; 27 &minus; 27 + 5 = &minus;22<br>f(&minus;1) = &minus;1 &minus; 3 + 9 + 5 = 10<br>Stationary points: (&minus;1, 10) and (3, &minus;22)</div>
+
+<h3>Classifying stationary points using the second derivative</h3>
+<div class="formula-box">At a stationary point x = c: if f&Prime;(c) &gt; 0, it is a local minimum; if f&Prime;(c) &lt; 0, it is a local maximum; if f&Prime;(c) = 0, the test is inconclusive and a sign table must be used instead.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Classify the stationary points of f(x) = x<sup>3</sup> &minus; 3x<sup>2</sup> &minus; 9x + 5 found above, at x = &minus;1 and x = 3.<br>f&Prime;(x) = 6x &minus; 6<br>f&Prime;(&minus;1) = 6(&minus;1) &minus; 6 = &minus;12 &lt; 0, so (&minus;1, 10) is a local maximum<br>f&Prime;(3) = 6(3) &minus; 6 = 12 &gt; 0, so (3, &minus;22) is a local minimum</div>
+
+<h3>Classifying stationary points using a sign table</h3>
+<div class="formula-box">If the sign of f&prime;(x) changes from negative to positive across x = c, then (c, f(c)) is a local minimum. If it changes from positive to negative, it is a local maximum. If the sign does not change, the point is not a local extremum.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Classify the stationary point of f(x) = x<sup>4</sup> at x = 0, given that f&Prime;(0) = 0.<br>f&prime;(x) = 4x<sup>3</sup>, so f&prime;(0) = 0<br>Just left of 0 (x = &minus;1): f&prime;(&minus;1) = 4(&minus;1)<sup>3</sup> = &minus;4 (negative)<br>Just right of 0 (x = 1): f&prime;(1) = 4(1)<sup>3</sup> = 4 (positive)<br>The sign changes from negative to positive, so (0, 0) is a local minimum</div>
+
+<h3>Optimization problems</h3>
+<div class="formula-box">To optimize a quantity subject to a constraint: write the quantity to be optimized as a function of one variable using the constraint to eliminate the other variable(s), then solve (quantity)&prime; = 0 and classify the result.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A rectangular vegetable garden is enclosed by 100 m of fencing. Let the width be x metres. Find the dimensions that maximize the area, and state the maximum area.<br>Perimeter: 2x + 2y = 100, so y = 50 &minus; x<br>Area: A = xy = x(50 &minus; x) = 50x &minus; x<sup>2</sup><br>dA/dx = 50 &minus; 2x<br>Set dA/dx = 0: 50 &minus; 2x = 0, so x = 25<br>y = 50 &minus; 25 = 25<br>A = 25 &times; 25 = 625 m<sup>2</sup><br>d<sup>2</sup>A/dx<sup>2</sup> = &minus;2 &lt; 0, confirming a maximum<br>Maximum area = 625 m<sup>2</sup>, when the garden is a 25 m by 25 m square</div>
+</div>

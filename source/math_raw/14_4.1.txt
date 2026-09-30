@@ -1,0 +1,368 @@
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+4.1 Coordinates, distance and the 
+midpoint formula in 2D and 3D
+Investigation 1
+Two hikers walk towards each other on a straight path. 
+The hikers walk on a horizontal plane and want to meet 
+halfway between their current locations.
+The hikers locate their current positions in relation to the 
+information centre O, shown on the coordinate system. 
+Hiker A is 6 metres north and 5 metres west, and 
+hiker B is 19 metres east and 20 metres north.
+1 Locate the starting positions of the two hikers on 
+the coordinate system, and label the points with 
+A and B.
+2 On the coordinate system, locate and label point 
+C, such that A ABC is a right-angled triangle and 
+C = 90°. Draw the line segments [AC], [BC] and 
+[AB].
+y (metres)
+West
+North
+30 -
+ZD "
+10 ■
+1U "
+0 "
+0 Information centre
+1
+15 -1 0 -5 0
+t
+10 1
+i 
+i
+5 
+20 25
+-0 '
+-iu ■
+-15 -
+East
+x (metres)
+South
+3 Determine the length of [AC] in metres.
+4 Determine the length of [BC] in metres.
+5 On the coordinate system, locate and label point N, which is halfway between points A and C. 
+Determine the coordinates of point N.
+6 On the coordinate system, locate and label point P, which is halfway between points B and C. 
+Determine the coordinates of point P.
+? From point N draw a perpendicular line /to [AC]. Determine the coordinates of the intersection point of 
+line / with [AC].
+8 From point P draw a perpendicular line / to [BC]. Determine the coordinates of the intersection point of 
+line/with [AC].
+The two lines / and / intersect at point M on [ AB]. M is called the “midpoint” of [AB].
+9 Explain why M is the point halfway between A and B.
+10 Explain how you found the coordinates of the midpoint M.
+11 
+How would you find the midpoint of a line segment connecting any two points?
+In a two-dimensional [2D] space, the midpoint, M, of the line segment joining 
+points\(xyyx) and B(*2, y2), isM j **2-, y' +y* j.
+International 
+mindedness
+Cartesian coordinates are 
+named afterthe Frenchman 
+Ren6 Descartes.
+Example 1
+The points A(-3, 5) and B(0,7) lie on the diameter of a circle. Find the coordinates of the 
+centre of the circle.
+150
+
+o The coordinates of the centre will be
+Use the formula for finding the coordinates
+= (—1*5, 6).
+of the midpoint of the segment [AB],
+1 2 2 )
+(x,+x2 y,+y2)
+{ 2 ' 2 J
+Example 2
+Find the value of* if M(-3,1.5) is the midpoint between A(x, 5) and B(-l, 10).
+To find the x-coordinate of point A, use the
+—*—- = -3
+2
+formula for finding the coordinates of the
+x- 1 =-6
+midpoint of the segment [AB], ^ A1 ^ x2, 
+j,
+x = -5
+and substitute the values of the known
+^-coordinates.
+In a three-dimensional (3D) space, 
+the location of any point A is 
+determined by an ordered triple 
+of coordinates (x, y, z), where 
+each coordinate determines the 
+location along the x-,y- and z-axis 
+respectively.
+Investigation 2
+A rock climber R is standing at a point with coordinates (60,80,
+0) and is about to start climbing a rock. Another rock climber S is 
+standing at a point with coordinates (0,0,400). All coordinates are 
+given in metres.
+1
+2
+3
+4
+How many metres above the horizontal plane would the 
+midpoint M between climbers R and S be?
+Explain how you would find the coordinates of the midpoint M 
+between points R and S.
+Factual
+How could you find the coordinates of the midpoint 
+of a segment connecting any two points A(x{,y{, z{) and 
+B(x2,yrz2)?
+lai'i.m.TiiMi How does the formula for the coordinates of the 
+midpoint of a segment in three dimensions relate to the same 
+formula in two dimensions?
+151
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+In 3D space, the midpoint, M, of the line segment joining points A (xJ, y , z{)
+and B(x2,y2, z2) is M f*L±i Ml , Ml \
+Example 3
+A cuboid ABCOAjBjCjOj has dimensions 4x5x2. The vertices of the base have the 
+following coordinates: A(4,0,0), B(4, 5,0), C(0, 5,0) and 0(0,0,0).
+a Sketch a coordinate system in 3D and the cuboid ABCOAjB^Oj. Determine the 
+coordinates of the vertices A(, Br Cj and 0(.
+b Determine the coordinates of the midpoint M of diagonal | AC11. 
+c Explain whether or not you would expect | AC(| and [A(CJ to have the same midpoint.
+a
+z t
+3 -
+o . 0,
+C,
+Since the given coordinates are in 3D, 
+you will need to draw three perpendicular 
+coordinate axes, Ox, Oy and Oz.
+A -
+12 3/!
+i 
+i 
+\ / \
+/ 1/
+0
+c y
+/ 0 /
+Ai
+3 /
+B. /
+A .
+X
+A
+B
+A,(4,0,2); B,(4,5,2); C,(0, 5,2); 0,(0,0,2)
+Keep in mind that each coordinate triple 
+is ordered in the sequence (x, y, z).
+b M ^4 + 0 0 + 5 0 + 2^ 
+. c ..
+,2-2-2 J=M<i2-5-'>
+Use the 3D midpoint formula to 
+determine the coordinates of point
+M^*i+x2 y,+yi z,+Zij
+c Yes. This is justified by either verifying 
+that the midpoint of [A1C] is M(2,2.5, 1) 
+or noting that [ACJ and [AjC] are 
+diagonals of the rectangle ACCjAj. Since 
+the intersection point of the two diagonals 
+of a rectangle divides each of them in half, 
+[ACj] and [AjC] should have the same 
+midpoint M.
+152
+
+Find the midpoint M of the given points:
+a D j 2.^ ) and F (V2,3.5)
+b A(-l, 5,-4.2) and B(7,8.5,-11)
+Determine the midpoint of the line segment 
+between A and B shown below:
+2 - 
+l -
+-3 
+-2
+-1 o 
+-1 -
+-2 -
+-3-
+-4
+-5
+-T-> X
+Find the coordinates of point C on segment
+[AB] , shown below, such that the length of
+[AC] is — of the length of [AB].
+For the cuboid below: 
+a write down the coordinates of point B 
+b write down the coordinates of point A 
+c find the coordinates of the midpoint, M, 
+of the diagonal [AO] of the cuboid.
+z ,
+4 -
+/ 0 -
+1 -
+J 0
+3
+/
+7
+* J
+r
+2
+J
+A
+4 7
+X
+b
+-5 J
+Coordinates of points are useful for finding distances. The two 
+investigations on the next page provide two examples of finding 
+distances in the 2D plane and in 3D space.
+153
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Investigation 3
+Line segment [EG] represents a bridge over a river with
+endpoints located atE(10, 30) and G(60,20).
+On the coordinate system AEFG is such that EFG = 90°.
+1 
+Find the lengths of segments [EF] and [FG].
+2 
+Use the Pythagorean theorem to find the length of [EG].
+3 
+How have you used the coordinates of points E and G 
+to determine the lengths of [EF| and [FG|, and then to 
+calculate the length of [EG]?
+4 
+Use the Pythagorean theorem to write a formula for the 
+length of [EG] connecting points E(Xj, y]) and G(xv y2).
+In 2D, the distance between two points A (Xj, yx) and B (x2, y2) is
+d = yJ{x2-X i )"+(y2-^ f-
+Investigation 4
+A traffic camera is located at point H( 70, 80, 80) 
+on a tower near the bridge [EG], where E( 10, 30,0) 
+and G(60, 20, 0).The perpendicular, [HI], is drawn 
+from point H to the ground, at point I.
+On the coordinate system AHIG is such that 
+HIG = 90°.
+1 
+Find the x- and y-coordinates of point I.
+2 
+Find the length of [HI].
+3 
+Use the coordinates of G and I to find the 
+distance [GI].
+4
+5
+6
+Find the distance 11IG] of the traffic camera to 
+the end of the bridge, G.
+How did you use the coordinates 
+ofpointsEand G to find HI, GI and HG?
+Factual
+How could you extend the distance 
+formula in 2D to three dimensions? How could you 
+find the distance between any two points 
+A(Xj, y , Zj) and B(x2, y2, z2)? Test whether 
+your formula works in this real-life example.
+y
+? E3E333EI How does the distance formula in three dimensions relate to the same formula in two 
+dimensions?
+In 3D, the distance between two points A(xr y]f z]) and B(x7, y2, z7) is
+AB = yl(x2 - xt)'' + (y2 -yt )2 + (z2 - z,)’’.
+154
+
+Example 4
+A storage box for garden tools in the shape of a cuboid, OCDRFBAQ, is shown in the 
+diagram. The vertex A has coordinates (2, 3,4). All coordinates are given in metres. 
+Determine:
+a the coordinates of vertices R, C, B and Q 
+b the maximum length of a garden tool that can fit 
+in the storage box
+c the height, RQ, of the storage box 
+d the angle between the diagonals [BR] and [BQ].
+a R(2,0,0)
+C(0,3,0)
+B(0, 3,4)
+Q(2,0,4)
+b BR = sj(2-0)1 
+2 +(0-3)2 +(0-4)2
+BR = 729 = 5.38516...
+Thus 5.39 metres is the maximum length 
+of a tool that can be kept in the box.
+c RQ = 2 metres
+" RfiQ-sin,(if)
+RBQ = sin~'|-3=
+VV29 J
+RBQ = 21.8°(21.8014...)
+Point R has the same x-coordinate as A, and 
+its y- and z-coordinates are 0.
+Point C is on the y-axis and its y-coordinate 
+is the same as that of A.
+Point B has the same x- and y-coordinates 
+as C and the same z-coordinate as A.
+Point Q has the same x- and y-coordinates 
+as R and the same z-coordinate as A.
+The longest tool that can be kept in the box 
+would be as long as the diagonal [BR].
+Use the 3D distance formula to calculate BR and 
+BQ: d = 
+;1-xl)" +(y2 -y,)’ +(z2
+You could find the size of angle RBQ by 
+using the right triangle ARBQ and the fact
+that sin RBQ =
+1 Find the distance between each pair of 
+points given below:
+a A(4,—3) and B(—1.5,5) 
+b A( 1,-2,10) and B(-4,0,3).
+2 The distance between two towns P and 
+Q is 2 km. On a coordinate system, 
+town P has coordinates (x, 7) and Q has 
+coordinates (3, 5). The values of the 
+coordinates are given in kilometres. Find 
+the value of x.
+155
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+3 The vertices of a sail are plotted on a pair 
+of coordinate axes and have the following 
+coordinates: A(-4,6), B(6,2) and C(-8,-4). 
+Show that the triangular sail A ABC, is 
+shaped as a right-angled triangle.
+4 A fountain has a circular shape. The diameter 
+of the circle has endpoints A( 1,7) and B(-2,1). 
+Find the circumference of the fountain.
+5 Kari makes a kite in the form of a parallelo 
+gram, EDGF, as shown in the diagram. Its 
+diagonals [DF] and [EG] intersect at point 
+H. She plots the vertices on a coordinate 
+system with the following coordinates:
+D(3,6), G( 1, 3), H(4,y) and E(x,6). Find 
+the values of x and y.
+D 
+E
+6 A tracking station lies at the origin of a 
+coordinate system with the x-axis due east, 
+the y-axis due north and the z-axis vertically 
+upwards. Two aircraft have coordinates 
+(20,25,11) and (26,31,12) relative to the 
+tracking station.
+a Find the distance between the two 
+aircraft at this time.
+b The radar at the tracking station has a 
+range of 40 km. Determine whether it 
+will be able to detect both aircraft.
+Developing inquiry skills
+Look back at the opening problem for the chapter. You were trying to 
+divide the territorial waters between three islands.
+The positions of the islands can be modelled on a graph grid.
+The linesx= 0, x= 100, y = 0 andy= 80 mark the boundary of 
+international waters and distances are given in kilometres. The islands 
+are given exclusive fishing rights within these boundaries. The territory 
+has to be divided between the islands so that each island is the closest 
+one to any point in its given area.
+How can you find the distances between each pair of the islands?
+156
+

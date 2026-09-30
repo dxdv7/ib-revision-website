@@ -1,0 +1,693 @@
+10.2
+US$500
+Year 1:
+Year 2:
+Year 3:
+Total =
+US$2000
+Year 1:
+Year 2:
+Year 3:
+Total=
+Factual
+Which pays out more interest: simple or compound? Explain why.
+What is the connection between compound interest and 
+geometric sequences?
+If you invest US$100 in a bank that offers 5% interest compounded 
+annually, then:
+• At the end of year 1 you have 100 + 5% = 100(1 + 0.05) = 1001 1 +
+100
+( 
+5 'l1 + 5% of loof
+1 1+----
+l 100 J1 
+l
+| + 5% of loof
+l 100 J1 
+l
+5
+100
+5
+Too
+5
+100
+= 100 1 + 100
+And so on. At the end of year n you would have 100 1 + 100
+In general, if you invest a present value of PV, the rate is r% compounded 
+annually, and the number of years is n, then the future value (FV) is found 
+by the following formula:
+FV = PV
+r
+1 +----
+l 100)
+Example 4
+Peter invests AUD 2000 (Australian dollars) in a bank that offers simple interest at a 
+rate of 3% per annum.
+Paul invests AUD 2000 in another bank that offers 2.9% interest compounded annually, 
+a Calculate how much money they each have in the bank after 10 years, 
+b Determine after how many years they will each have at least AUD 5000 in their accounts.
+a Peter:
+3% of 2000 = AUD 60 
+60 x 10 = 600
+Continued on next page
+471
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+So at the end of 10 years, Peter has AUD 600 +
+his original AUD 2000 = AUD 2600
+Paul:
+Using the formula, Paul has 
+FV = 2QQo(\+—)
+l 100J
+FV = AUD 2661.85 
+b Peter:
+3% of 2000 = AUD 60
+So, Peter earns AUD 60 interest each year.
+In order to have AUD 5000, Peter will have to 
+make 5000 - 2000 = AUD 3000 interest.
+So, it will take -°QQ = 50 years before he has 
+60
+AUD 5000 in the bank.
+Paul:
+Using the formula:
+5000 = 200()f 1 + ——1
+l 100J
+So n = 32.05
+It will take Paul just over 32 years to have 
+AUD 5000 in the bank.
+1 Merel and Misty each have €5000 to invest. 
+Merel invests her money in a bank that 
+pays 4.5% simple interest each year. Misty 
+invests her money in a bank that pays 4.4% 
+interest compounded annually.
+Calculate who has more money at the end 
+of 15 years.
+2 Visay invests LAK 500000000 (Lao Kip) in 
+a bank that pays 3.2% interest compounded 
+annually.
+a Calculate how much Visay has in the 
+bank after eight years, 
+b Determine how many years it will take 
+for his money to double.
+3 Silvia invests UK£4500 in a bank that pays 
+r% interest compounded annually. After 
+five years, she has UK£5066.55 in the bank.
+a Find the interest rate.
+b Calculate how many years it will take for 
+Silvia to have UK£8000 in the bank.
+4 Sal wants to buy a scooter that costs 
+US$1500. He deposits US$1000 in a bank 
+that pays 7.5% interest compounded annually.
+Calculate how long it will take before he 
+can buy the scooter.
+5 Huub invests €5000 in a bank that pays 
+1.2% interest compounded annually.
+a Find how much money he has in the 
+bank after five years.
+He then removes the money from this bank 
+and puts it all into another bank that pays a 
+higher interest rate compounded annually.
+After a further five years, Huub now has 
+€5675.33 in the bank.
+b Find the interest rate for the second bank.
+472
+
+10.2
+Investigation 5
+A bank pays interest at 6 % per annum compounded every half-year.
+1 
+How many times a year does it pay interest?
+2 
+What percentage interest does it pay each time?
+3 
+Complete the following table:
+6% interest per annum
+Number of times 
+interest is paid
+Percentage 
+each time
+Compounded yearly
+1
+6%
+Compounded half-yearly 
+Compounded quarterly 
+Compounded monthly
+2
+3%
+r% interest per annum
+Compounded yearly 
+Compounded half-yearly 
+Compounded quarterly 
+Compounded monthly
+1
+r%
+4 
+Find the formula for the (future value) FVfora (present value; PV 
+invested for n years at r% interest compounded half-yearly.
+5 
+Find the formula for the FVfor a PV invested for n years at r% interest 
+compounded quarterly.
+6 
+Find the formula for the FVfor a PV invested for n years at r% interest 
+compounded monthly.
+? H.I.UJ.UIMI In terms of time periods and the principal how is the 
+compound interest calculated?
+The compounding period is the time period between interest payments.
+For example, for interest compounded quarterly, the compounding period is 
+three months.
+If PV is the present value, FVthe future value, r the interest rate, n the 
+number of years and k the compounding frequency, or number of times 
+interest is paid in a year (ie k = 1 for yearly, k = 2 for half-yearly, k- 4 for 
+quarterly and k- 12 for monthly), then the general formula for finding the 
+future value is
+FV = PV 1+-
+fcxlOO
+kxti
+4?3
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+You can also use the Finance app on your GDC.
+Example 5
+1 Rafael invests BRL 5000 (Brazilian real) in a bank offering 2.5% interest compounded 
+annually.
+a Calculate the amount of money he has after five years.
+After the five years, Rafael withdraws all his money and puts it in another bank that offers 
+2.5% interest per annum compounded monthly.
+b Calculate the amount of money that he has in the bank after three more years.
+2 Alexis invests RUB 80000 (Russian ruble) in a bank that offers interest at 3% per annum 
+compounded quarterly.
+a Calculate how much money Alexis has in the bank after six years, 
+b Calculate how long it takes for his original amount of money to double.
+1 a FV = 500011+ 2,5
+l, lxioo;
+= BRL 5657.04
+( 
+2.5 Y«
+b FV = 5657.04 t +---------
+^ 
+12 x 100 )
+= BRL 6097.16
+Or, using the Finance app on your GDC: 
+a N = 5 
+1% = 2.5 
+PV =-5000 
+PMT = 0 
+FV =
+PpY = 1 
+CpY = 1
+Move the cursor back to FV and press 
+enter to get the answer.
+b N = 3 
+1% = 2.5 
+PV = -5657.04 
+PMT = 0 
+FV =
+PpY = 1 
+CpY = 12
+Move the cursor to FV and press enter.
+PV = 5000, r = 2.5, k= 1, n= 5
+PV= 5657.04, r = 2.5, k = 12, n = 3
+PV is usually negative because you have 
+given it to the bank.
+PMT is periodic money transfers (also called 
+annuity payment) and you do not need it 
+here.
+PpY is periods in the year; when you are 
+dealing with years, this is always 1.
+CpY is compounding periods: 1, 2, 4 or 12 
+depending on how often interest is paid.
+474
+
+10.2
+2 a FV = 80 000 1 +
+4x100 
+= RUB 95 713.08
+b 160 000 = 80 000 1-
+V 4x100 
+Using the Finance app: 
+n - 23.19
+So it would take 23 years for his 
+money to double.
+N = 6 
+1% = 3 
+PV = -80000 
+PMT = 0 
+FV =
+PpY = 1 
+CpY = 4
+Move the cursor back to FV and press enter.
+Double the original amount is RUB 160 000 
+N =
+1% = 3 
+PV = -80000 
+PMT = 0 
+FV = 160000 
+PpY = 1 
+CpY = 4
+Move the cursor back to N and press enter.
+1 Ambiga invests MYR 8000 (Malaysian 
+ringgits) in a bank offering interest at a 
+rate of 4.6% per annum compounded 
+monthly.
+a Calculate the amount of money Ambiga 
+has in the bank after seven years.
+b Calculate how long it will take for her 
+money to double.
+2 A bank is offering a rate of 3.4% per 
+annum compounded quarterly. Mrs Safe 
+invests €3500 in this bank.
+a Calculate the amount of money she has 
+after six years.
+Mr Secure invests €x in this bank. After 
+six years, the amount in his bank is €4000. 
+b Calculate the value of x, correct to the 
+nearest euro.
+c Calculate the number of years it would 
+take for Mr Secure's money to double.
+3 Rik invests SGD 40 000 (Singaporean 
+dollars) in an account that pays 5% 
+interest per year, compounded half-yearly.
+a Calculate how much he has in the 
+bank after four years.
+The bank then changes the interest rate to 
+4.9% per annum, compounded monthly.
+b Calculate how much Rik has in the 
+bank after another four years.
+4 Mr Chen invests CNY 20 000 (Chinese 
+yuan) in a bank that offers interest at a rate 
+of 3.8% per annum compounded quarterly. 
+Mrs Chang also invests CNY 20 000 in a 
+bank that offers interest at a rate of 3.9% 
+per annum compounded yearly.
+Calculate who has earned more interest 
+after five years.
+475
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+5 Peter invests UKE400 in a bank that 
+offers interest at a rate of 4% per annum 
+compounded monthly.
+a Calculate how much money he has in 
+the bank after 10 years.
+b Calculate how long it takes for his 
+money to double.
+6 Yvie invests US$1200 in a bank that 
+offers interest at a rate of r% per annum 
+compounded monthly. Her money doubles 
+in 10 years. Find the value for r.
+7 Colin, Ryan and Kyle each have €1500 to 
+invest. Colin invests his money in a bank that 
+offers 2.6% interest compounded quarterly. 
+Ryan invests his money in a bank that offers 
+2.55% interest compounded monthly. Kyle 
+invests his money in a bank that offers 2.75% 
+interest compounded annually.
+a Calculate who has the most money in 
+their account after six years, 
+b Find how long it will take before Ryan 
+has €2500.
+c Find how long it will take for Kyle to 
+double his money.
+Inflation measures the rate that prices for goods increase over time 
+and, as a result, how much less your money can buy.
+An inflation adjustment is the change in the price of an article that 
+is a direct result of inflation.
+Example 6
+The inflation rate of a country was calculated as 4.48% per annum.
+a Given that the same rate continues for the next five years, work out the percentage 
+increase due to inflation at the end of the five years.
+b A computer game costs US$35 today. Calculate what you would expect it to cost next year 
+due to an inflation adjustment.
+a Over five years, US$1 will become
+\5
+4 48 i
+l + —:— 
+= 1.245, so the percentage
+100 )
+increase is 24.5%.
+b The computer game will cost
+35 x 1.0448 = 36.568, or US$36.57.
+What happens if you want to make payments at regular intervals?
+An annuity is a fixed sum payable at specified intervals, usually 
+annually, over a period, such as the recipient's life, in return for a 
+premium paid either in instalments or in a single payment.
+476
+
+10.2
+Investigation 6
+Abraham wants to save up so that he can retire early. He decides to save 
+US$5000 every year in an annuity that pays 4% interest compounded 
+annually. If he wants to retire in 20 years' time, determine how you can work 
+out how much he will have in the annuity at the end of the 20 years.
+Complete the following spreadsheet:
+Year
+Add 5000
++ 4% interest
+1
+5000
+5200
+2
+10 200
+10 608
+3
+15608
+16232.32
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+How much more is this than 20 x 5000? 
+Discuss the benefits of saving money regularly.
+T0K
+“Debt certainly isn’t 
+always a bad thing.
+A mortgage can help 
+you afford a home. 
+Student loans can be 
+a necessity in getting 
+a good job. Both are 
+investments worth 
+making, and both come 
+with fairly low interest 
+rates’’—Jean Chatzky
+Do all societies view 
+investment and interest 
+in the same way?
+What is your stance?
+The formula for working out an annuity is
+FV-.A^i
+r
+where FVis the future value, A is the amount invested each year, r is the 
+interest rate and n is the number of years.
+You can rearrange this formula if you want to calculate any of the 
+other unknowns.
+Fortunately, your GDC works all this out for you!
+You can use the PMT button on the finance icon of your GDC.
+477
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+Example ?
+Anmol decides to save for a yacht. He would like to have TRY 1 000000 (Turkish lira) 
+at the end of 10 years. He saves every year in an annuity that pays 4% interest. Calculate 
+how much he has to save each year.
+N= 10
+1% = 4
+*3<
+IIO
+PMT =
+FV =1000000
+n 
+FV{r)
+PpY = 1
+P = -----------
+(1 + r)" -1
+CpY = 1
+Move the cursor to PMT and press Enter 
+(or ALPHA ENTER)
+This gives a PMT of TRY 83 290.94.
+So, he will have to save TRY 83 290.94 
+every year for the next 10 years.
+The formula for working out monthly payments is P =-----------
+1 - (1 + r)
+where P is the payment, r is the rate, PV is the present value and n is 
+the number of months.
+Fortunately, you do not need to remember this formula because you 
+can use your calculator in the exams.
+Example 8
+Trintje has been left an annuity of €5000 in a will. The annuity is for five years at 8% 
+per annum to be paid out monthly.
+Find the monthly payments.
+N = 60 
+1% = 8/12 
+PV =5000 
+PMT =
+FV = 0 
+PpY = 1 
+CpY = 1
+Move the cursor to PMT and press Enter (or 
+ALPHA ENTER)
+This gives PMT = €101.38. So, Trintje receives 
+€101.38 each month for five years.
+Because the money is paid each 
+month, you have to multiply the 
+number of years by 12.
+The interest rate per month is 
+8/12 = 0.666...%
+478
+
+10.2
+These are examples of annuities.
+Reflect
+Discuss the pros and cons of an annuity.
+1 Sarah-Jane starts saving for her pension. 
+She puts UK£1500 into an annuity each 
+year. Given that the annuity pays 3.5% 
+interest, calculate how much she will 
+have saved after 30 years. Is this a good 
+investment?
+2 Pedro puts MXN 2500 (Mexican pesos) 
+into an annuity that pays 2.8% interest 
+per annum every month for five years. 
+Calculate how much he has saved at the 
+end of the five years.
+3 Stijn has been left an annuity of €25000 in 
+a will. The annuity is for 10 years at 6% per 
+annum to be paid out annually. Work out the 
+amount that Stijn receives each year.
+4 Fiona has won an annuity of US$6000. It is 
+for five years at 4.8% per annum to be paid 
+out monthly. Find the monthly payments. 
+Contrast the benefits of the full US$6000 in 
+one payment or the annuity.
+5 Mikey wants to receive an annuity of UK£500 
+a month for five years. The monthly interest 
+rate is 0.8%. Determine the present value of 
+the annuity.
+6 You have US$20000 and want to get 
+a monthly income for 10 years. If the 
+monthly interest rate is 0.9%, find how 
+much you would receive each month. 
+Comment on why you think that you 
+would do this.
+There are also similar examples but in the following cases the value of 
+the item decreases each term. This is called amortization.
+Investigation ?
+Pirn borrows US$1000 from a bank that charges 4% interest compounded 
+annually. He wants to pay the loan back in six months in monthly instalments. 
+The bank informs Pirn that he must pay US$168.62 back each month.
+1 
+Work out how much he has to pay in total.
+If the interest is 4% compounded annually, then that would be 2% for half a 
+year.
+2 
+Work out 2% of US$1000.
+3 
+Explain why the amount that Pirn pays back in total is less than US$1000 + 
+2% of US$1000.
+Pirn sets up a spreadsheet to monitor his payments.
+He pays US$168.62 each month, but the bank also charges interest each 
+month on the amount owed.
+4 
+If the interest rate is 4% per annum, work out what it is per month.
+5 
+Calculate the interest for the first month.
+6 
+Describe how you worked out how much is paid off the loan each month.o
+Continued on next page
+429
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+? The spreadsheet shows the first two lines of Pirn’s payments. Fill in the 
+next few lines.
+Amount
+owed
+Payment
+Interest
+Payment - 
+interest
+Remaining loan
+1000
+168.62
+3.33
+165.29
+83471
+83471
+168.62
+278
+165.84
+668.82
+After six months, the remaining loan should be US$0.
+The formula to find the payments is
+(1 + r)“ -1
+where A is the amount, PVis the present value, r is the rate and n is the 
+number of periods.
+Fortunately, you do not need to remember this formula because you 
+can use your calculator in the exams.
+You can use your GDC to work out payments, and so on.
+You can also use any of the online websites such as www.amortization- 
+calc.com or www.bankrate.com to calculate payments, and so on. You 
+can adjust the length of time for the loan or the interest rate to see 
+what effect this has.
+Example 9
+Tejas takes out a loan of €35 000 for a car. The loan is for 10 years at 1 % interest 
+per month. Find how much he has to repay each month.
+N = 120
+1% = 1
+PV= 35 000
+PMT =
+FV = 0
+PpY = 1
+CpY = 1
+Using your GDC, this gives PMT = €502.15.
+So, Tejas has to pay €502.15 each month for 10
+years.
+480
+
+10.3
+1 Sami takes out a loan of €150000 to buy 
+a boat. The loan is for 20 years at 5% per 
+annum.
+a Find how much he must pay each 
+month.
+b Another loan was for 10 years at 5% 
+per annum. Determine how much Sami 
+would pay each month.
+c For each of these calculations find out 
+the difference in the monthly payments 
+and the amount of interest paid.
+2 Mr and Mrs Jones take out a mortgage
+of UK£350 000 for a house. The mortgage is 
+for 30 years at 2.3% per annum. Find their 
+monthly repayments and discuss whether 
+this is a reasonable amount.
+3 Zak takes out a loan of €2000 at 4%.
+He repays the loan in five end-of-year 
+instalments. Find his yearly payment.
+4 A car costs US$28 000. Benji takes out a 
+loan at 10% per annum for five years. 
+Calculate the amount that Benji must 
+pay each month and comment on your 
+answer.
+Developing inquiry skills
+You should now be able to work out the answerto the original 
+problem at the beginning of this section. What do you think that 
+Yun Lu should do?
+10.3 Exponential
+The temperature, T, of a cup of 
+tea is modelled by the function 
+T(x)= 21 + 55(1.9)-*, where 
+T is measured in °C and x in 
+minutes.
+How long will the tea stay warm?
+What information do you need to 
+know?
+Will the temperature of the tea ever 
+reach 0°C?
+Can you find out the temperature 
+at different times?
+models
+T0K
+“A government's ability 
+to raise and lower short 
+term interest rates is 
+its primary control over 
+the economy”—Alex 
+Berenson
+How can knowledge 
+of mathematics result 
+in individuals being 
+exploited or protected 
+from extortion?
+481
+Number and algebra 
+Functions
+
+10
+MODELLING RATES OF CHANGE: EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+Investigation 8
+1 
+Using technology, sketch the following functions:
+a f(x) = 2* 
+b f(x) * 1.5* 
+c f{x) = 0.5*
+d /(x) =0.3* 
+e /(x) = e*
+In part e, e is a special numberthat we will discuss shortly.
+2 
+Sort the functions into two groups, increasing and decreasing.
+3 
+For the function f(x) = e*, what value of x gives f(x) = c? Use this to find 
+the value of e from your graph.
+These are all examples of exponential functions.
+International 
+mindedness
+The term “power” was 
+used by the Greek 
+mathematician Euclid 
+for the square of a line.
+\
+An exponential function has a number, called the base, raised to a power.
+The independent or input variable is the power.
+The general equation is of the form f(x) = kax + c, a> 0, k± 0
+Reflect
+How can you tell from its equation whether an exponential function 
+is increasing or decreasing?
+Which of the graphs you drew could represent a cooling temperature? Which 
+could represent the growth of bacteria?
+Which type of exponential equation represents growth, and which decay?
+e is an irrational number with a value of 2.218 28...
+Investigation 9
+Fill in the following table by using technology to find the gradients of the 
+lines that are tangents to the given curves at the given points. Recall that the 
+gradient of the tangent line gives the rate of change of a function.
+Curve
+y = 2*
+y- ev
+y = 3*
+y
+Rate
+y
+Rate
+y
+Rate
+X
+II
+2
+1.386
+x = 2
+4
+x=3
+x = 4
+How does the value of the base in an exponential function affect the rate of 
+change?
+What is special about the number e in this context?
+482
+

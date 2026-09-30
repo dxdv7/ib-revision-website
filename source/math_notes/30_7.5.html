@@ -1,0 +1,13 @@
+<div class="notes-section">
+<h3>Discrete probability distributions</h3>
+<div class="formula-box">For a discrete random variable X, the probability distribution assigns a probability P(X = x) to every possible value x in its domain. The probabilities of all possible values must sum to 1: &Sigma;P(X = x) = 1, with 0 &le; P(X = x) &le; 1 for every x.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A discrete random variable X has domain {1, 2, 3, 4} with P(X = x) = kx for each x (so P(X=1) = k, P(X=2) = 2k, P(X=3) = 3k, P(X=4) = 4k). Find k, then state the full distribution.<br>Sum of probabilities: k + 2k + 3k + 4k = 10k<br>10k = 1, so k = 0.1<br>P(X=1) = 0.1, P(X=2) = 0.2, P(X=3) = 0.3, P(X=4) = 0.4</div>
+
+<h3>Expected value of a discrete random variable</h3>
+<div class="formula-box">E(X) = &Sigma;x &times; P(X = x), the mean value of X predicted over many repetitions of the random process, found by multiplying each possible value of X by its probability and summing the results.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A game gives cash prizes with this probability distribution: prize X ($): 0, 5, 10, 50 with P(X=x): 0.50, 0.30, 0.15, 0.05. Find E(X) and interpret the result.<br>E(X) = 0(0.50) + 5(0.30) + 10(0.15) + 50(0.05)<br>E(X) = 0 + 1.5 + 1.5 + 2.5 = 5.5<br>On average a player wins $5.50 per game in the long run.</div>
+
+<h3>Fair games and expected gain</h3>
+<div class="formula-box">If X represents a player's net gain (value won minus the cost to play), the game is fair when E(X) = 0. If E(X) &gt; 0 the game favours the player on average; if E(X) &lt; 0 it favours the organiser.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using the game above, E(prize) = $5.50. A ticket to play costs $6. Find the expected gain, and find the ticket price that would make the game fair.<br>Gain = prize &minus; cost, so E(gain) = E(prize) &minus; cost = 5.5 &minus; 6 = &minus;0.5<br>E(gain) = &minus;$0.50, so the game is not fair and favours the organiser.<br>A fair game requires E(gain) = 0, so the fair ticket price equals E(prize) = $5.50</div>
+</div>

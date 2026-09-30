@@ -1,0 +1,482 @@
+7.4
+Developing inquiry skills
+Which of the events in the first opening scenario are independent? Which 
+are mutually exclusive?
+7.4 Complete, concise and 
+consistent representations
+You can use diagrams as a rich source of information when 
+solving problems. Choosing the correct way to represent a 
+problem is a skill worth developing. For example, consider 
+the following problem:
+In a class of 15 students, 3 study art, 6 biology of 
+whom 1 studies art. A student is chosen at random.
+How many simple probabilities can you find? How 
+many combined probabilities can you find?
+Let A represent the event "An art student is chosen at 
+random from this group" and B "A biology student is chosen 
+at random from this group".
+Represent this information as follows in a Venn diagram to see 
+more detail:
+The rectangle represents the sample space 
+U for which P(U) = 1, the total probability.
+The diagram allows us to find
+P(B|j4) = 
+P(B'\A) = etc easily.
+The Venn diagram can be adapted to show 
+the distribution of the total probability in four 
+regions that represent mutually exclusive
+events: P{A nB) = —, PM'n B) = —,
+15 
+15
+P(AnF) = — and P(A,nB,) = —.
+15 
+15
+If you represent the problem only as text, the simple 
+probabilities P(A) = i and P(B) = ^ can be found easily
+but calculating these do not show you the whole
+picture of how the sets relate to each other,
+vi____________________  ______________________y
+TOK
+In TOK it can be useful to draw a 
+distinction between shared knowledge 
+and personal knowledge. The IB use a 
+Venn diagram to represent these two 
+types of knowledge. If you are to think 
+about mathematics (or any subject, in 
+fact) what could go in the three regions 
+illustrated in the diagram?
+* We know 
+because..."
+Hence the probability that a randomly chosen student studies
+7
+neither biology nor art is P(A'nB') = —. The simple probability
+331
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+P(£) = ?(A nB) + P(/4'n B) = 
+^ is represented as a union of two
+mutually exclusive events in the Venn diagram.
+The Venn diagram can be therefore be used to find all the simple, 
+combined and conditional probabilities.
+Represent the problem as a tree diagram by 
+first choosing one student from the group and 
+determining whether they study art or not.
+The probabilities in this process can be represented 
+as a tree with the two events A and A'.
+A
+P(A)=4 /
+5 /
+4 \
+W = T\
+5 \
+To construct the next part of the tree, imagine
+ww-i ,
+a student who does study art and consider
+whether this student studies biology or not.
+This involves writing the same conditional
+P(A) = ~ / <\Sn
+probabilities as found in the Venn diagram.
+/ 
+P(0'|A) = -| ff
+P{B\A) = - 
+, 
+i
+3^BP{AnB) = P(A)P(B\A) = ±
+Similarly, complete the rest of the tree as
+shown.
+/*<
+Then apply the multiplication law
+PM\-— / 
+0
+of probability to find the probability
+5/ 
+P(B'\A) = - s' P(^nB,) = P(WM)=-
+represented at the end of each "branch" of 
+the tree. For example,
+P(A nB) = P(y4)P(£U) = - x- = —.
+v 1 7 
+53 
+15
+\ 
+P(BU') = — 
+1
+PM1) = !\ 
+12PM1 n 0) = PM')P(BM') = v
+The total probability of 1 is seen to be
+5 \ 3
+distributed along the branches of the tree by
+applying the multiplication law of probability
+p(g. | > S' P(A' r\ B') = P(/T)P(B' 1 A') = ^
+for the other combined events.
+Notice that the simple probability 
+P(B) = P(A n B) + ?(A'n B) = — + — = — can be found
+from the probabilities at the end of two branches of 
+the tree diagram.
+A tree diagram is another way to represent all the possible 
+outcomes of an event. The end of each branch represents 
+a combined event.
+International-mindedness
+In 1933 Russian mathematician Andrey 
+Kolmogorov built up probability theory from 
+fundamental axioms in a way comparable 
+with Euclid's treatment of geometry that forms 
+the basis for the modern theory of probability. 
+Kolmogorov's work is available in an English 
+translation titled The Foundations of Probability 
+Theory.
+332
+
+Since the dice are replaced in the box, the proba 
+bility of choosing a red die on the second draw is 
+the same as choosing a red on the first. The same 
+argument applies to all the other pairs of combined 
+events. Hence the probability of any particular 
+choice on the second choice is independent of the 
+first.
+The probability of two reds is — x ^
+1 1—, similarly 
+4
+100
+the probability of two blues and two greens are 
+1
+and — respectively.
+These three events are mutually exclusive, so 
+you can add them to find the combined probability 
+required.
+The first set of branches of the tree represent the 
+colour possibilities of the first die chosen. The 
+second set of branches represent the second, so 
+there is an implicit time axis from left to right.
+P(the colours of the two dice are the same)
+-i JL 1 - 38
+~4 
+100 
+25 ~ 100
+0.38
+Malena’s representation
+R
+B
+G
+4
+9
+25
+Malena’s application and interpretation
+The horizontal R, B, G represent the colour possi 
+bilities of the first die chosen, the vertical letters 
+the second.
+Malena reasoned that she would expect 50 red dice 
+on the first choice, and of these 50,25 would be 
+followed by a second red since the second choice is 
+independent of the first. Similarly, she reasoned that 
+out of an expected 30 blue die from the first throw, 9 
+would be followed by a second blue.
+Malena reasoned that a total of 25 + 9 + 4 trials in 
+which two identical colours were chosen would lead 
+to a theoretical probability of 38 out of 100.
+Dani was puzzled by this at first, but he could see 
+after a while that Malena had created a slightly unu 
+sual looking Venn diagram. It was clearto them both 
+from Malena’s diagram that the sets are all mutually 
+exclusive.
+--------------------o
+Continued on next page
+Investigation 12
+Situation 1
+A CAS project aims to raise funds by organizing a simple lottery. A number of coloured dice are placed in a box: 50 
+red dice, 30 blue and 20 green. To play the lottery, a die is chosen at random from the box and its colour noted. It 
+is then replaced in the box and another die is chosen at random. If the two colours are the same, a small prize is 
+awarded. The organizers of the project, Dani and Malena, want to know the probability of winning a prize in the most 
+efficient way. They represent and interpret the information given by the lottery in two different ways.
+Consider and reflect on the different approaches.
+Dani’s representation
+Dani’s application and interpretation
+O 
+co 
+3d 
+cd 
+Co 
+% o  
+cd 
+^
+333
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+O
+1
+Factual
+Which representation involves less drawing and writing?
+2 I33J0320J Which diagram best represents how the stages of the game develop overtime?
+Situation 2
+Then the CAS project organizers changed the rules as follows. A number of coloured dice are placed in a box: 
+SO red dice, 30 blue and 20 green. To play the lottery, a die is chosen at random from the box and its colour 
+noted. It is not replaced in the box and another die is chosen at random. If the two colours are the same, a 
+small prize is awarded.
+Fill in the missing probabilities to find the probability of winning a prize.
+Dani’s representation
+Dani’s application and interpretation
+The probabilities on the second set of branches 
+represent the fact that since the die chosen 
+in the first choice has not been replaced, the 
+sample space has changed in size. Hence the 
+probability of a red on the second choice given that 
+a red was chosen at first can be represented as 
+i 49
+P{R, /?.) = — and so on.
+21 1 
+99
+Since the dice are not replaced in the box, the 
+probability of choosing any particular colour on the 
+second draw is dependent on what the first choice
+was. For example, P(tf2|/?,) = — since one red
+die has been chosen from the 50 red dice and not 
+replaced, hence there are 99 remaining to choose 
+from.
+The probability of two reds is
+1 
+49 
+49
+— x — =----- = 0.247, similarly the probability
+2 
+99 
+198
+?? 
+19
+of two blues and two greens are------and —-
+330 
+???
+respectively.
+These three events are mutually exclusive, so 
+we can add them to find the combined probability 
+required.
+P(the colours of the two dice are the same) 
+49 
+7? 
+19 
+??
+=-----+ — +----- = — = 0.???
+198 
+330 
+??? 
+99
+??
+The answer — is exact. However, to make the
+99
+comparison with 0.38 we must approximate to three 
+significant figures.
+This example shows that changing from replacing 
+the dice to not replacing the dice in fact reduces the 
+probability of choosing two dice of the same colour 
+in this problem.
+3 
+What feature of choosing without replacement makes a Venn diagram a poor choice as a 
+representation?
+4 EiliTfljHjETl What feature of choosing without replacement makes a tree diagram a good choice as a 
+representation?
+5 
+How can we know when best to represent a problem with a tree diagram?
+334
+
+You can choose a diagram to make your calculation easier and more 
+efficient. Also, sometimes you can choose how you calculate a probability 
+to make it easier and more efficient, as shown in the following example:
+Example 15
+A box in an electronics store contains nine volt batteries of different colours. There are 
+five red, six blue and seven orange. Two batteries are chosen to power up a radio that 
+requires two batteries. Find the probability that both the batteries are different colours.
+Interpret the context to make sure you are applying 
+the maths correctly.
+Draw a tree diagram, labelling all the branches.
+Take care to fill in the probabilities correctly to 
+show that the batteries are not replaced.
+The answer can be found in two ways:
+P( Batteries are different colours)
+= P(RB or RO or BR or BO or OR or OB)
+5 
+6 
+5 7 
+6 
+5
+= ----- X-------+------X------+-------X------+
+18 17 
+18 17 
+18 17
+6_ 7_ 
+1_ _5_ 
+_7_ 
+6 
+107
+18 17 
+18 17 
+18 17 
+153
+Or
+P(Batteries are different colours)
+= 1 - P(Batteries are identical colours)
+, 
+5 
+4 
+6 
+5 
+7 
+6 
+107
+18 17 18 17 
+18 17 
+153
+Notice that the second method involves finding 
+only three combined probabilities whereas the first 
+method involves finding six.
+\
+The complementary probability law P(A) = 1 - P(A') can give you a short 
+way to solve problems.
+The batteries are selected without 
+replacement since two batteries are 
+needed to power up the radio.
+Example 16
+Mark buys his t-shirts from exactly two suppliers: 2aT and 
+Netshirls, and he only buys two colours—grey and blue. 
+He buys 73% of his t-shirts from 2aT. Moreover, 16% of 
+his 2aT t-shirts are grey, and 80% of his Netshirts t-shirts 
+are grey.
+a Copy and complete the tree diagram, 
+b Calculate the probability that a t-shirt randomly 
+chosen by Mark one morning is grey, 
+c Given that Mark chooses a grey t-shirt, determine the 
+probability it was supplied by Netshirts.
+2aT
+Netshirts
+©
+Blue
+o
+Continued on next page
+335
+Statistics and 
+probability
+
+?
+QUANTIFYING UNCERTAINTY: PROBABILITY, BINOMIAL AND NORMAL DISTRIBUTIONS
+O
+= 0.73 x 0.16 + 0.27 x 0.8 = 0.3328 
+C P(Netshirts|grey)^P(NetshirtSandgrey>
+0.3328
+The question states that the events 
+are complementary so the diagram 
+can be filled in.
+Two mutually exclusive events are 
+added to find the probability that 
+Mark chooses a grey shirt.
+Apply the formula. Notice that 
+you have already calculated the 
+probabilities needed.
+1 Denise can catch a local bus or an express 
+bus to take her to work each day. The 
+probability she catches the local bus 
+is 0.8. If she catches the local bus, the 
+probability that she is on time for work is 
+0.5. If Denise catches the express bus, the 
+probability that she is on time for work is 
+0.95.
+a Copy and complete the tree diagram below:
+0.95
+On time 
+Late
+On time 
+Late
+b Hence calculate the probability that 
+Denise will be late for work.
+2 A jewellery box contains 13 gold earrings, 10 silver earrings and 12 titanium earrings. Two 
+earrings are drawn at random with replacement. Find the probability that they are made of 
+different metals.
+3 Chevy plays a game with four fair cubical dice numbered {1,2,3,4,5,6). She throws the four 
+dice 160 times and finds that the event "throw at least one 6" occurs 77 times. She wonders 
+what the theoretical probability is. She finds the answer after critically considering these four 
+representations of the problem. Identify the best representation and justify your answer. 
+Identify the worst representation and justify your answer.
+Tree diagram with each
+A quick and easy
+Tree diagram with each of
+A quick and easy
+of the four throws repre-
+calculation.
+the four throws represented
+application of probability
+sented as below, giving
+as below, giving a total of 16
+laws.
+a total of 1296 branches
+branches
+y\
+. 1 2
+4 x — = —
+6 
+3
+^6
+^6'
+336
+
+Developing inquiry skills
+Apply what you have learned in this section to 
+represent the first opening problem with a tree 
+diagram.
+Hence find the probability that a cab is identified as 
+yellow.
+Apply the formula for conditional probability to find 
+the probability that the cab was yellow given that it 
+was identified as yellow.
+How does your answer compare to your original 
+subjective judgment?
+4 A supermarket uses two suppliers, C and 
+D, of strawberries. Supplier C supplies 
+70% of the supermarket's strawberries. 
+Strawberries are examined in a quality 
+control inspection (QCI); 90% of the 
+strawberries supplied by C pass QCI and 
+95% of the strawberries from D pass QCI.
+A strawberry is selected at random.
+a Find the probability that the strawberry 
+passes QCI.
+b Given that a strawberry passes QCI, 
+find the probability that it came from 
+supplier D.
+c In a sample of 2000 strawberries, find 
+the expected number of strawberries 
+that would fail QCI.
+d The supermarket wants the probability 
+that a strawberry passes QCI to be 0.93. 
+Find the percentage of strawberries that 
+should be supplied by D in order to 
+achieve this.
+5 Chevy plays a game in which she throws a 
+pair of fair cubical dice numbered {1, 2, 3, 
+4, 5, 6) 24 times. Find the probability that 
+she throws at least one double six.
+6 A factory produces a large number of 
+electric cars. A car is chosen at random 
+from the production line as a prize in a 
+competition. The probability that the car is 
+blue is 0.5. The probability that the car has 
+five doors is 0.3. The probability that the 
+car is blue or has five doors is 0.6. Find the 
+probability that the car chosen is not a blue 
+car with five doors.
+Pietro solves this problem with a Venn 
+diagram but Maria solves it with a tree 
+diagram. They both get the correct answer. 
+Solve the problem both ways. Discuss 
+and then state which is the most efficient 
+method.
+? A choir contains 1 5 girls and 9 boys. The 
+choirmaster randomly selects four singers 
+from the choir to be interviewed by a 
+newspaper. Find the probability that at least 
+one boy is in the four singers selected.
+33?
+Statistics and 
+probability
+

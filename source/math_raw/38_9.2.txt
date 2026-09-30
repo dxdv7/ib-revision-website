@@ -1,0 +1,615 @@
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+9.2 Problems involving quadratics
+Example 4
+A rectangular mirror has perimeter 260 cm.
+a The length of the mirror is x cm. Find the height of the mirror in 
+terms of x.
+b Find an equation for the area of the mirror, A cm2, in terms of x. 
+xcm
+c Plot a graph of your equation for the area of the mirror, showing area A on the y-axis and 
+length xon the x-axis. Choose a suitable domain and range, 
+d Find the coordinates of the points where the graph intercepts the x-axis. 
+e State what these two values of x represent, 
+f Hence find the equation of the graph's line of symmetry, 
+g State what the equation of the line of symmetry tells you in this context.
+a Let the height of the rectangle be y cm. 
+2x + 2y = 260 
+x + y = 130 
+y= 130 -x
+b Area = length x height 
+A = xy
+A=x( 130-x)
+Label the height y cm and form an 
+equation in x and y for the perimeter of 
+the rectangle.
+Substitute y = 130 - x which you found 
+in part a.
+Use the ZOOM function on your 
+GDC to locate the turning point. A 
+reasonable domain would be from 0 to 
+1 50, and range from 0 to 4500.
+d The x-intercepts are (0,0) and (130,0).
+e The x-coordinates 0 and 130 are the upper 
+and lower limits between which the value of x 
+must lie.
+Use your GDC to find the zeros of the 
+function.
+f The line of symmetry is x = 0 + 130
+x = 65
+You find the line of symmetry by adding 
+the x-intercepts together and halving the 
+answer.
+g This is the value of x which gives the largest 
+area of the mirror.
+The axis of symmetry passes through the 
+vertex of the graph, which is a 
+maximum in this case.
+428
+
+9.2
+1 A rectangular picture frame has perimeter 
+70cm.
+a The width of the frame is x cm. Find an 
+expression, in terms of x, for the height 
+of the frame.
+b Find an equation for the area of the 
+frame, A cm2, in terms of x.
+c Plot the graph which shows how A 
+varies with x. Use a suitable domain and 
+range. Hence sketch the graph on paper, 
+d Find the x-intercepts of the graph in part c. 
+e Slate what these two values of x represent, 
+f Hence find the equation of the graph's 
+line of symmetry, and state what this 
+tells you in the context of the problem.
+2 The first four terms of an arithmetic 
+sequence are:
+6 10 
+14 18
+a Show that the sum to n terms can be 
+written as In1 + An. 
+b If the sum to n terms is 880, write a 
+quadratic equation to represent this 
+information. Rearrange to equal 0 and 
+plot a graph of this equation on your 
+GDC. Hence, sketch the graph on paper, 
+showing the coordinates of the vertex 
+and axes intercepts, 
+c Find the positive x-intercept, 
+d State what information the positive 
+x-intercept tells you about the sequence.
+3 A company produces and sells books.
+The weekly cost, in euros, for producing x 
+books is €(0.1x2 + 400).
+The weekly income from selling x books is 
+€(-0.12x2 + 30x).
+a Show that the weekly profit, P(x), can be 
+written as P(x) = -0.22x2 + 30x- 400.
+b Plot a graph of this equation and 
+hence sketch it on paper, showing the 
+coordinates of the vertex and axes 
+intercepts.
+c State what the x-intercepts represent in 
+the context of the problem, 
+d Find the equation of the axis of symmetry 
+of the graph, and state what this tells you 
+in the context of the problem.
+4 The path of a football can be modelled by 
+the quadratic equation
+h(x) = -0.0125x2 + 0.65x - 3.45
+where h(x) is the height of the football in 
+metres, and xis the horizontal distance of 
+the football in metres.
+a Plot a graph of this equation and 
+hence sketch it on paper, showing the 
+coordinates of the vertex and axes 
+intercepts.
+b Find the x-intercepts and explain what 
+these values represent, 
+c Find the equation of the axis of
+symmetry, and state what this tells you 
+in the context of the problem.
+5 A ball is thrown vertically upwards.
+The path of the ball can be modelled by the 
+equation h(t) = 12/ - At2 where h(t) is the 
+height of the ball after t seconds, 
+a Plot a graph of this equation and 
+hence sketch it on paper, showing the 
+coordinates of the vertex and axes 
+intercepts.
+b Find the /-intercepts and explain what 
+these values represent, 
+c Find the equation of the axis of
+symmetry, and state what this tells you 
+in the context of the problem.
+Investigation 3
+1
+In Example A, we looked at how the area, A, of a rectangular mirror varied 
+as the length, x, of the mirror varied.
+We found that the two variables were linked by the equation
+A = x( 130-x).
+Continued on next page
+429
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+Factual
+sthe graph of A againstxsymmetrical?
+How could you use the coordinates of the points where 
+the graph cuts the x-axis to find the equation of the axis of symmetry? 
+Find the equation of the axis of symmetry in this case, 
+c 
+How you can use the equation of the axis of symmetry to
+find the y-coordinate of the maximum point? Find the y-coordinate of 
+the maximum point in this case.
+IV.I.fjJ.UIMI How does the symmetry of a parabola allow us to solve 
+real-life problems?
+Suppose (m, 0) and (/?,0) are the x-intercepts of the quadratic graph y=f(x).
+The vertex of the graph has coordinates
+Example 5
+The side view of a suspension bridge can be modelled by the equation 
+f(x) = 0.000972 2a 2 - 1.167a  where a  is the horizontal distance in metres 
+and/(a ) is the depth in metres.
+a Plot the graph of the function.
+b Find the coordinates of the points where the graph crosses the x-axis. 
+c Use these values to write down the equation of the axis of symmetry, 
+d Use part c to find the y-coordinate of the minimum, 
+e Describe, in this context, what the minimum point represents.
+a
+0 
+100 200 300 400 500 600 700 800 900 10001100120013001400
+-50 
+-100 
+-150 
+-200 
+-250 
+-300 
+-350 
+-400 
+y
+b 0.000972 2a 2-1.1 67a  = 0 
+a (0.000972 2a  - 1.167) = 0
+A = 0 or a  “—— = 1200 
+0.000972 2
+Intercepts are (0,0) and (1200,0)
+Set /(a ) = 0 to find the x-intercepts.
+430
+
+9.2
+„ 0 + 1200
+C x =-----------= 600
+y
+Given intercepts x} and x2, the axis of
+x. +x.
+symmetry is * = -L^ —.
+d y=/(600) = 0.000972 2(600)2- 1.167(600)
+This is f(x'+*21
+y = -350
+\ 
+2 J
+e The lowest point of the suspension bridge.
+Investigation 4
+At a New Year celebration, Piotr sets off a firework rocket from a platform which 
+is 1 m above the ground.
+The path of the firework is described by a quadratic function with equation 
+f(t) = -0.2t2 + 2t + 1, where / > 0 represents the time, in seconds, since the 
+firework took off, and f(t) represents the height, in metres, of the firework 
+above the ground.
+Piotr wants to estimate the maximum height that his firework reaches and 
+how long it will take before it lands on the ground.
+1 IFTCTffl What are the two different methods that could be used to 
+find the maximum height of the firework? Use either method to find the 
+maximum height in this case.
+2 Find the positive f-intercept and explain what this value represents in this 
+context.
+3 
+Why it is useful to model real-life situations such as the
+path of a firework using a quadratic?
+Factual I Can a model give an accurate position of the firework 
+20 seconds after takeoff?
+Example 6
+Patrick tries to kick a rugby ball over the crossbar 
+of a goal. The feet of the goalposts are 13 m away 
+from the point where he kicks the ball.
+The vertical height of the ball (in metres) is approximately modelled 
+by the function
+f(x) = —0.1x2+ 1.5*
+where * is the horizontal distance, in metres, of the ball from the point 
+where it was kicked.
+TOK
+We can successfully 
+use mathematics 
+to model real-world 
+processes. Is this 
+because we create 
+mathematics to mirror 
+the world or because 
+the world is intrinsically 
+mathematical?
+a Find the maximum height of the rugby ball.
+o
+Continued on next page
+431
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+y
+10
+8-
+6-
+4
+2
+y - -O.lx1 
+2 + 1.5x
+a 5.63 metres (3 sf)
+b (0,0). Patrick kicks the ball from 
+ground level.
+Ball passes through the point 
+(13,2.6), so it does pass over the 
+crossbar.
+Plot y =/(x) on your GDC.
+Use your GDC to find the maximum point.
+Use your GDC to find the y-intercept. Since 
+the initial vertical height of the ball is zero, 
+the ball must initially be on the ground.
+Find the y-coordinate at the point where 
+x = 13. If it is less than 2.5 m then the ball 
+passes under the crossbar; if it is greater than 
+2.5 m then the ball passes over the crossbar.
+1 For each of the following equations, find 
+i the vertex and ii the equation of the 
+axis of symmetry.
+a f(x) = x2 - 4x + 2 b f(x) = 3 - 2x + 2x2 
+c /(x)=-2x2+x + 1 d f(x) = -x2 + 2x - 3 
+e f(x) = -10 + x + 5x2
+2 Zander is playing a game of baseball. He 
+hits the ball and the height of the ball is 
+modelled by the formula
+y = -0.018x2 + 0.54x + 1.0 
+where y is the height of the ball, in metres, 
+and x > 0 is the horizontal distance in metres, 
+a Find the maximum height that the ball 
+reaches.
+b Find the positive value for x when the 
+graph crosses the x-axis and explain 
+what this value represents, 
+c Find the y-intercept and explain what 
+this represents.
+3 Omar is on the school shot-put team.
+The path of the shot-put is modelled 
+by a quadratic function with equation 
+y = 1.5 + 0.75x - 0.05x2, where y is the 
+height of the shot-put in metres and 
+x> 0 is the horizontal distance travelled 
+in metres.
+a Find the maximum height that the shot- 
+put reaches.
+b Write down the equation of the axis of 
+symmetry.
+c Find the positive value for x when the 
+graph crosses the x-axis and explain 
+what this value represents, 
+d Find the y-intercept and explain what 
+this value represents.
+^5b Find the coordinates of the y-intercept. Explain what this tells 
+you about the height from which Patrick kicks the ball, 
+c Given that the crossbar is 2.5 metres above the ground, determine whether 
+the ball passes over the crossbar. Justify your answer.
+432
+
+The width of the frame is xcm. Find an 
+expression, in terms of x, for the height 
+of the frame.
+Find an expression for the area, A cm2, 
+in terms of x.
+Plot the graph of A against x.
+Find the x-intercepts.
+Find the y-intercept.
+Find the equation of the axis of 
+symmetry.
+Find the coordinates of the vertex.
+Write down the maximum area of the 
+picture frame, and the dimensions of the 
+picture frame that give this maximum 
+area.
+8 A bullet is fired from the top ol a cliff 
+overlooking the sea. The path of the bullet 
+may be modelled by the equation 
+y = -0.0147x2 + 2x+ 96 (x>0) where x is 
+the horizontal distance from the foot of the 
+cliff and y is the vertical distance from the 
+foot of the cliff.
+a State the height of the cliff, 
+b Find the maximum height reached by 
+the bullet.
+c Find the distance the bullet lies from the 
+foot of the cliff, when it hits the water.
+? A rectangular picture frame has perimeter 
+100 cm.
+4 Ziyue is the goalkeeper in his football team. 
+He takes a free kick from the goal and the 
+path of the ball is modelled by the function 
+f(x) = -0.06x2 + 1.2* where f(x) is the height 
+of the ball, in metres, and x is the horizontal 
+distance travelled by the ball, in metres.
+a Find the maximum height that the ball 
+reaches.
+b Write down the equation of the axis of 
+symmetry.
+c Find the x-intercepts and explain what 
+these values represent.
+5 A ramp in a skateboard park is modelled 
+by a curve with equation
+f(x) = 10.67 - 1.67x + 0.041 lx1
+where x is the horizontal distance in metres
+and f(x) is the height above the ground in
+metres.
+a Find the maximum depth of the run. 
+b Find the x-intercepts and explain what 
+these values represent.
+6 Jin throws a stone into the air. The height of 
+the stone above the ground can be modelled 
+by the equation/(f) = 1 + 7.25f- 1.87512 
+where t is the time, in seconds, that has 
+passed since the stone was thrown, and f(t) 
+is the height of the stone, in metres.
+a Find the maximum height that the stone 
+reaches.
+b Determine how long it takes for the 
+stone to land on the ground.
+Different ways of writing a quadratic function
+How can you use quadratic functions to decide whether or not the 
+person lands in the safety net?
+r I
+r •
+International 
+mindedness
+How do you use the 
+Babylonian method of 
+multiplication?
+Try 36 x 14.
+a> 
+c l n
+era
+433
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+Investigation 5
+1 Expand the brackets of the following functions:
+a /(a ) = 2(a -3)(a -7) b f(x) = {x-2)(x+\) c /(a ) = -2(a +2)(a + 5).
+2
+3
+Factual
+Are all the functions listed in question 1 quadratic functions? Justify your answer.
+Plot the graphs of the three functions listed in question 1, and then complete the table.
+Function
+A-intercepts
+Coordinates 
+of vertex
+Equation of the 
+axis of symmetry
+/(*) = 2(x-3)(*-7)
+f(x) = (x-2)(x + 1)
+f(x)=-2(x+2)(x+5)
+4
+5
+Factual
+How would you find the A-intercepts for any quadratic function?
+Use your results from question 4 to explain why it is easier to find the A'-intercepts
+of a quadratic function when it is written in the form f(x) = a(x-p)(x-q) (this form is called
+intercept form), rather than when it is in the form f(x) =ax2 + bx+c.
+6
+7
+H.I.UJ.UIMI Why is it useful to write quadratic functions in different forms?
+Factual | What is the equation of the axis of symmetry and the coordinates 
+of the vertex of the quadratic function f(x) = a{x-p){x-q)?
+Example 7
+a Plot the graph of y = f(x) for f(x) = 4(a - 5)(x+ 3).
+For parts b, c and d, you may only use your GDC to check your answer, 
+b Find the A-intercepts. 
+c Find the equation of the axis of symmetry, 
+d Find the coordinates of the vertex.
+You may need to adjust the domain and range 
+on your GDC in order to see the vertex and the 
+A-intercepts clearly.
+©
+434
+
+9.2
+O
+b
+4(x- 5)(x + 3) = 0
+Set /(x) = 0 and solve for x.
+(x- 3) = 0 or (x+ 3) = 0
+So, x = 5 or x = -3
+You can verify your answers by looking at the 
+x-intercepts on your GDC.
+c
+5 + (-3) 
+.
+x = —1—- = 1
+The axis of symmetry runs through the
+i
+midpoint of the x-intercepts.
+*=5+(-3>=i
+2
+d
+(1.-64)
+Substitute x = 1 into the equation of the 
+function.
+Example 8
+Sketch, on paper, the graph of y=f(x) for the function f(x) = -2x2 + 8x + 24 showing clearly 
+the x- and y-intercepts and the coordinates of the maximum or minimum point.
+You should only use your GDC to verify your answer.
+/(x) = -2(x- 6)(x + 2)
+Find the y-intercept when x = 0 
+y = -2(-6)(2)=24
+Find the x-intercepts when f{x) = 0 
+-2(x- 6)(x + 2) = 0 
+x - 6 = 0 or x + 2 = 0 
+x = 6 or x = -2
+, 
+r . 
+6 + ("2)
+Midpoint of x-mtercepts = —-—- = 2
+f(2) =-2(2-6) (2+ 2) = 32
+So (2,32) are the coordinates of the 
+maximum value.
+f(x) = -2(x-f>)(X< 2)
+JU -
+orvC
+to -
+5 -4 - 3 /-2 -i 0 
+in .
+■
+8
+on .
+on _
+oU -
+First, write the equation in intercept form. 
+Find the y-intercept.
+Find the x-intercepts.
+Find the x-coordinate of the vertex. 
+Find the y-coordinate of the vertex.
+Plot these points and join them up with a 
+smooth curve.
+435
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+Given the equation y=f(x) for each of the 
+following functions: 
+a Find the intercept with the y-axis.
+b Find the intercepts with the x-axis.
+c Find the coordinates of the vertex.
+d Find the equation of the axis of symmetry.
+e Sketch the graph of the function on paper, 
+showing clearly the x- and y-intercepts 
+and the coordinates of the maximum or 
+minimum point.
+i 
+f(x) = (x-5)(x-9)
+ii 
+f(x) =2{x+3)(x- 1)
+Hi /(*)=-3(x-l)<*-3)
+iv f(x)=-2(x+ l)(x-2)
+v 
+f(x) = (2x + \ )(x- 1)
+HINT
+Be careful with this function as
+one coefficient ofx is not 1.
+V_________________________ /
+Two different ways that you can write a quadratic function are:
+General form: f(x) =ax2 + bx+c, a*0 
+Intercept form: f (x) = a(x-m)(x-n), a± 0
+Reflect
+What are the key features of a quadratic function?
+How do the different ways of writing a quadratic function affect how you find 
+the key features?
+TOK
+How would you choose 
+which formula to use?
+When is intuition helpful 
+in mathematics? When 
+is intuition harmful in 
+mathematics?
+Finding the equation of a given curve
+Investigation 6
+Here are some graphs of quadratic functions.
+o
+436
+
+negative?
+Write down coordinates of the vertex of each graph a to f.
+Write down coordinates of the x- and y-intercepts for each graph a to f.
+Follow these instructions.
+• 
+Open a spreadsheet in your GDC.
+• 
+For graph a, input the x-coordinate of the vertex into column A and the y-coordinate of the vertex into 
+column B.
+• 
+Repeat, on a new line, for each of the axes intercept coordinates you found.
+• 
+Go to Menu - Statistics - Stat calculations - Quadratic regression.
+• 
+Check the “X List" takes the data from column A, and the “Y List" takes the data from column B.
+• 
+Select OK.
+• 
+Now you will see the values for the parameters a, b and c for the best fit quadratic equation through 
+the three points you entered. Check the sign of a matches the shape of graph a.
+• 
+Write down the equation of graph a.
+Repeat this for the other graphs b to f.
+H.I.UJ.UIUI How many points on a quadratic graph do you need in orderto find the parameters? 
+Investigate by inputting different numbers of points.
+When you are given the graph of a quadratic function, you can find the 
+function by entering the coordinates of three points on the graph into your 
+GDC and then using quadratic regression.
+Example 9
+Find the equation of the following graph.
+There are two methods you can use to do this on your GDC.
+^  
+L O 
+N
+ 
+»-*■
+43?
+Functions
+
+9
+MODELLING RELATIONSHIPS WITH FUNCTIONS: POWER FUNCTIONS
+Method 1: Using Quadratic regression
+You need to identify three clear points on
+You can take any three points on the graph as
+the curve.
+long as they are exact.
+The easiest points to find here are the 
+x-intercepts and the y-intercept:
+Remember to give names to your lists.
+(2,0), (-4,0) and (0,-12)
+The parabola is given by the equation
+f(x) = 1.5x2 + 3x - 12.
+In your GDC, put the x-values in list 1 and the 
+y-values in list 2.
+Then go to Statistics - Stat calculations - 
+Quadratic regression. Here you see the 
+parameters for a, b and c.
+Method 2: Using Simultaneous equation solver
+Curve passes through (2,0), (-4,0) and 
+(0,-12).
+First, find the three points on the curve as you 
+saw in Method 1.
+Substituting these points into the equation:
+0 = a(2)2 + 2£ + c 
+=$ 4a + 2b + c=0
+For each of the three points, substitute the 
+x- and y-coordinates into the general equation 
+of a parabola, y = ax2 + bx + c.
+0 = a(-4)2 - 4b + c 
+=> 16a - 4b + c = 0
+This gives you three simultaneous equations 
+in a, b and c.
+-12 = a(Q)2 + 0b + c
+=>-12=c
+f(x) = \ .5x2+lx- 12
+Solve these equations on your GDC to give the 
+solution.
+Find the equations of the following graphs.
+438
+
+Developing inquiry skills
+Look again at the opening problem where Oliver throws a basketball 
+through a hoop.
+Which three points are you able to find in the path of the basketball? 
+How could you use these points to model its path?
+439
+Functions
+

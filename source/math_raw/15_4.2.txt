@@ -1,0 +1,501 @@
+4.2 Gradient of a line and its
+applications
+Stairs are usually built of a number of equal steps, and each step 
+has a horizontal part [DE], called a tread (run), and a vertical part 
+[EF], called a riser (rise). The entire horizontal length of the stairs, 
+[AB], is called a total run, and the entire height of the stairs, [BC], 
+is called a total rise. The imaginary line that connects the tips of 
+the steps, [AC], is called a pitch line.
+What do you think makes the pitch line of some stairs steeper 
+than that of others?
+What is the relationship between the run and rise of a step and 
+the total run and total rise of the stair?
+What is the relationship between the run and rise of a step and 
+the pitch line?
+Investigation 5
+Some stairs are steeper than others. Four different stairs are given in the diagrams below. Their pitch lines 
+are marked with dotted blue lines. One square on the grid has a side of 1 unit.
+Stair 1
+Stair 2
+Stair 3
+Stair 4
+1 Complete the following table for each of the four stairs.
+Stair#
+Step rise 
+[units]
+Step run 
+(units)
+« . rise
+Ratio:----
+run
+Pitch line steepness
+(Compare each pitch line to the one of
+stair 1: same, steeper or less steep?]
+Stair 1
+Stair 2
+Stair 3
+Stair 4
+2 
+Compare the ratios for the four stairs and the steepness of their pitch lines. What do you 
+notice? Write down your observations.
+3 
+If there is a stair with rise 0, what would the pitch line be like? Could such a stair exist? 
+Could a stair with run 0 exist?
+4 CHiffJWni How could the steepness of any line be determined?
+15?
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Gradient of a line
+The gradient of a line is a measure of 
+the steepness of the line. The bigger the 
+gradient, the steeper the line. It is also 
+known as the slope. Usually, the gradient 
+(slope) of the line is denoted by the 
+letter/;/.
+B(x2,y2)
+y/T 1 
+Iii
+i,
+"2 " ■M
+A(x •y.)
+*2
+*1
+m = ——— 
+*2-*\
+Reflect
+In the formula m = ———
+x*-*i
+which is the run and which is the rise?
+TOK
+Around the world you will 
+often encounter different 
+words for the same item, 
+such as gradient and slope, 
+trapezium and trapezoid, or 
+root and surd.
+Sometimes more than one 
+type of symbol might have 
+the same meaning.
+To what extent does the 
+language we use shape the 
+way we think?
+Example 5
+Determine the gradient of the line joining 
+the points A(4,1) and B(8, 3).
+3-1 _ 1
+Use the formula m - ———
+8-4 
+2
+a -2-x .
+or the formula m = run
+rise 2 
+1
+or m =---- = — = -
+Note that the rise is 2 or the length of [CB],
+run 4 
+2
+and the run is 4 or the length of [AC].
+Reflect
+Does the gradient of a straight line depend on which two points 
+A and B you use to calculate it?
+Positive and negative gradients of straight lines
+When the line goes upward 
+towards the right the gradient is 
+a positive number.
+158
+
+When the line goes downward 
+towards the right the gradient 
+is a negative number.
+run is a positive number
+A/y. i/.\ V* 
+>
+C
+T 
+X;
+?-*i
+•
+i
+i y2 ~ y\
+^rise ii
+negative number
+B(x2,y2)
+\
+Zero gradient: When a line is horizontal its gradient is zero.
+Undefined gradient: When a line is vertical it does not have a defined gradient.
+Reflect
+What makes the gradient of a vertical line undefined? 
+What information does the gradient of a line give you?
+The gradient of a line describes its steepness and direction.
+Example 6
+Determine the gradients of the lines shown below:
+159
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+b m = 0.4
+b A(0,- 
+horiz
+until
+1 -
+n -
+-1) is a point on the line. Imagine moving right 
+ontally by one unit and then moving vertically
+4
+you meet the line. For a run of 1 unit the rise is —.
+10
+u
+HR-
+0 5
+1.
+t) 2 5
+u.a
+Example ?
+a Determine the gradient of the horizontal 
+line that passes through point D(l,2). 
+b Show that the gradient of the vertical 
+line that passes through point D(l,2) is 
+undefined.
+y
+a Points A(0, 2) and D(1,2) are on the
+Choose two points on the horizontal
+horizontal line passing through D.
+line and calculate the gradient using the
+2-2 
+0 
+n
+1- 0 
+1
+formula.
+b Points D(l,2) and F(l,5) are on the
+Similarly, choose two points on the vertical
+vertical line passing through D.
+line and substitute their coordinates into the
+_ 5-2 _ 3 
+_ 1-1 ” 0
+The gradient is undefined.
+gradient formula.
+Example 8
+Find the gradient of a line (AB) passing through A(—2, — 11) and B(0,-5) 
+using a GDC.
+o
+160
+
+o Enter the ^-coordinates and the ^-coordinates 
+of the two points into your GDC.
+Then use the functions on your GDC to find 
+the value of the gradient.
+The gradient of the line (AB) is 3.
+The functions on your GDC can be used 
+to enter coordinate values and to find the 
+gradient of a line, given two points on that 
+line.
+Example 9
+A funicular railway has several stations along its steep track. Station A with coordinates 
+(30,60) is 60 metres above Station Zero at ground level. Station B has coordinates (230,/?). 
+All coordinates are given in metres. The gradient of the railway segment [AB] is 0.60. Find 
+the height of station B above the ground.
+0.6= "-60
+230-30
+Use the gradient formula and substitute 
+the known coordinates of A and B into the
+„ „ h - 60
+0.6 =--------
+200
+formula.
+h-60 = 120
+h= 180
+Station B is 180 metres above ground level.
+1 Find, in each case, the set of possible 
+coordinates of a point A which lies on a: 
+a horizontal line passing through
+B(—4, -8)
+b vertical line passing through B(-3,7).
+2 Find the gradients (slopes) of the lines 
+passing through the following pairs of 
+points:
+a A(2,3) and B(— 1,4) 
+b A(—11,2) and B(2,7)
+c A(-1.3, 2.2) and B -O.3J
+3 Find the gradients of the stairs for which 
+information is given in the table below:
+Stair #
+Step rise (cm]
+Step run (cm)
+Gradient
+Stair 1
+12
+25
+Stair 2
+10
+20
+Stair 3
+15
+18
+a State which stair has the greatest gradient, 
+b State which stair has the least gradient.
+4 Draw the graph of the straight line: 
+a passing through (0,0) and (-3,6) 
+b passing through (-1,2) and (-3,-5).
+Find the gradient of the line: 
+a passing though (-1,-1) and (3,2)
+f-1
+b passing through (0, 2.5) and
+V
+A skier travels downhill along two slopes: 
+one with gradient -3 and the other with
+gradient —. State which slope is the
+steeper, justifying your answer.
+? MegaLift plans ski slopes and lift stations 
+along the slopes. Find the height of a ski lift 
+station B(490,/?), which is on a slope with 
+gradient 0.35 and which passes through 
+a lower lift ski station A(90,10). All 
+coordinates are given in metres.
+161
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Gradient as unit rate
+Today, 37 euros (EUR) is 
+exchanged for 45 dollars 
+(USD). If we plot the 
+point (37,45) on a pair of 
+coordinate axes and connect 
+the point with the origin 
+0(0,0), how can the graph 
+help you find the exchange 
+rate?
+Investigation 6
+Tomi is planning to rent a bicycle for up to a week. He finds two bicycle rental 
+shops Bikers’ Village and Bike & Joy, which rent bicycles per week. Bikers’ 
+Village charges 10 GBP per week plus 0.5 GBP per km cycled. Bike & Joy 
+charges 20 GBP per week plus 0.1 GBP per km cycled.
+1 Use the information to complete the table below.
+Number of km 
+cycled
+Rent for a bicycle from
+Bikers’Village (GBP)
+Rent for a bicycle from
+Bike & Joy (GBP)
+10
+15
+21
+15
+20
+25
+30
+2 
+Use technology to draw the lines representing the rent for a bicycle from 
+each store for up to a week. Draw the lines on the same pair of axes, where 
+x is the number of km cycled andyisthe rent in GBP
+3 
+Which of the two options is cheaper for 20 km? And which is cheaper for 
+40 km? For what distance cycled is the rental cost the same?
+4 Which shop should Tomi rent from? Would his decision depend on the 
+number of kilometres he will ride the bicycle? Explain.
+5 
+Determine the gradients of the two lines.
+6 
+What does the gradient of each line represent in the 
+context of this question and why?
+A third bicycle rental shop Town on Bike is about to open and wants to make 
+an offer for renting a bicycle that is less expensive than the current two 
+available offers.
+o
+162
+
+? Write a proposal about what Town on Bike could charge as a weekly 
+fee and per km cycled so that their offer is less expensive than the two 
+available ones without charging much lower prices than the other two 
+rental shops.
+8 Use technology to draw the line representing the price scheme of your 
+proposal and to justify it. Use the same pair of axes you used to draw the 
+other two lines from part 2.
+Example 10
+Scan and Nicole walk every day without taking any breaks during the walks. Sean walks 
+4 km per hour and Nicole walks 9 km in 2 hours.
+a i Complete the table below.
+Time (hours)
+Distance Sean walked (km)
+Distance Nicole walked (km)
+1
+4
+2
+9
+6
+ii 
+Graph the lines representing Sean's and Nicole's daily walks on the same pair of axes, 
+where x is the number of hours walked and v is the distance covered in km.
+iii Determine the gradient of each line.
+One Sunday, Nicole gives Sean a head start of 1.5 km, after which they time their walks.
+b i Complete the table below, assuming that they both keep their rate of walking from 
+part a.
+Time (hours)
+Distance Sean walked (km)
+Distance Nicole walked (km)
+1
+5.5
+2
+9
+3
+4
+5
+ii
+iii
+Draw the lines representing Sean's and Nicole's walks on the same pair of axes, 
+where x is the number of hours walked and y is the distance walked in km.
+Determine the number of hours it will take Nicole to catch up with Sean after she 
+starts her walk. How will you determine this from the graphs of the lines?
+o
+Continued on next page
+163
+Geometry and 
+Functions 
+trigonometry
+
+DIVIDING UP SPACE: COORDINATE GEOMETRY, LINES, VORONOI DIAGRAMS
+Time
+iii The line representing Sean's walk has a 
+gradient of 4. The line representing Nicole's 
+walk has a gradient of 4.5 since she walks 
+4.5 km per hour.
+You can also determine the gradient for
+rise
+each line by calculating---- for each
+line.
+Time
+(hours)
+Distance Sean 
+walked [km]
+Distance Nicole 
+walked (km)
+1
+5.5
+4.5
+2
+9.5
+9
+3
+13.5
+13.5
+4
+12.5
+18
+5
+21.5
+22.5
+ii 
+30- 
+25 ■
+20-
+Distance walked (km) , _ 
+lo -
+10 -
+5 - 
+(0,1.5)
+0
+iii The two lines intersect at a point with 
+x-coordinate 3, so Nicole will catch up 
+with Sean alter 3 hours. They values are 
+equal when x= 3 hours.
+1 
+2 
+3 
+4 
+5 
+6
+Time
+164
+
+1 Safety regulations for wheelchair ramps 
+mandate that the maximum gradient 
+of the ramps should not exceed 0.08. 
+Calculate the gradient of the triangular 
+ramp AAOB ([AB] J_ IOB]) shown below, 
+and determine whether it conforms to the 
+safety regulations.
+2 A town website advertises summer jobs 
+for students. A student is trying to decide 
+between a job as a city guide and a job at 
+a flower shop. The job as a city guide pays 
+$40 per day plus a monthly metro card with 
+$120 value. The job at the flower shop pays 
+$60 a day.
+Compare the payments for the two jobs, 
+a Complete the table below:
+Number of 
+days worked
+City guide 
+(USD)
+Flower shop 
+(USD)
+1
+160
+60
+5
+10
+b Draw the lines representing the payments 
+for each job. On the same pair of axes, 
+where x is the number of days worked 
+and y is the payment in dollars, 
+c Explain how the student should decide 
+which job to take based on the number 
+of days they plan to work during the 
+month.
+3 US roof regulations state that asphalt tiles 
+can only be used for roofs with a minimum 
+gradient of 0.17. The roof shown in the 
+diagram has width 7 m and rise 1.6 m.
+Find:
+a the roof run 
+b the roof gradient.
+4
+r
+c Determine whether the roof satisfies 
+the requirements for using asphalt tiles. 
+Justify your conclusion.
+Road signs showing the steepness of hills 
+are often given as percentages, as in the one 
+shown below, where the figure is derived 
+using the formula 
+rise (vertical change) ^ {QQ^ 
+run (horizontal change)
+a For a certain road the vertical change 
+is 5 m for a horizontal change of 20 m. 
+Determine the percentage that would be 
+written on the sign for this road.
+b Which is the steeper road—the one with 
+a sign indicating 10% incline or another 
+with a sign indicating 1 5%?
+c Determine the vertical change corres 
+ponding to a horizontal change of 5 km for 
+a road with sign indicating 15% incline.
+5 The ski slopes in the Scotch Pine Ski Resort 
+are marked by colour as an indicator of the 
+incline. The colours used are green, blue, 
+red and black. Green is used for slopes with 
+less than 20% incline, blue for 20-25%, 
+red for 25-40% and black for above 40% 
+incline.
+a Classify the following slopes as blue, 
+green, red or black:
+i 
+Py with a horizontal change of 450 m 
+and a vertical change of 280 m that 
+passes through 0(0, 0)
+ii ?2 with a horizontal change of 150 m 
+and a vertical change of 50 m that 
+passes through 0(0, 0)
+165
+Geometry and 
+Functions 
+trigonometry
+

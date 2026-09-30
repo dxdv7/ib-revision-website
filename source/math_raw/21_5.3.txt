@@ -1,0 +1,798 @@
+c Complete the table:
+d Draw the graph of/-1 on the same set of 
+axes used in part a.
+e Find the coordinates of the point that 
+lies on the graph of/-1 and on the line 
+y = x.
+4 The one-to-one function /maps A = {x: x > 0} 
+onto B=[y:-l <y < 2};/( 1) = 0.5 and 
+/(0) = 2.
+a Write down the domain and the range of 
+f~], the inverse function of /. 
+b Write down the value of f~](0.5). 
+c Determine whether /is an increasing or 
+a decreasing function, 
+d Solve the equation f~l(x) = 0.
+Developing inquiry skills
+How will the taxi driver’s profit change if he increases the 
+profit per kilometre by $0.30 after one month?
+How can you model the daily profit for different values of 
+profit per kilometre?
+5.3 Arithmetic sequences
+Investigation 9
+Pablo starts his first full-time job at the age of 24. In his first year he earns $3250 per month after taxes, or 
+$39 000 per year. He is given a salary schedule that shows how his salary will increase overtime:
+Years in job
+1
+2
+3
+4
+5
+Annual salary ($)
+39 000
+39900
+40 800
+41200
+42 600
+Continued on next page
+Function
+Domain
+Range
+r
+0<x<3
+r1
+3 Consider f(x) = -2.5x + 5 for 0 <x< 3.
+a Draw the graph ol /on a pair of axes.
+Use the same scale on both axes, 
+b Point A lies on the graph of /and has 
+coordinates (3, b). Find the value of b.
+... ® 66
+CO
+LO
+235
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+Find the difference between consecutive terms as you did before, completing the third row of the table. 
+Call the sequence of Pablo’s payments [bj. What is b}? What do you predict b7 will be?
+What is different here from the previous situation? What is the same?
+How do you determine whether a sequence is arithmetic without graphing it?
+We can also write the salaries for each year in a list, like so:
+39 000, 39 900,40 800,41 POO, 42 600
+We call this a sequence, an ordered list of numbers. We call each number a term. It is helpful to have a way 
+to write, for example, “the 13th number in this sequence”. We use a letter and number combination for this, 
+such as a{y So, in the sequence above, 
+ax = 39 000 (also called the first term) 
+a1 = 39 000 (the second term)
+^ = 40 800 
+and so on.
+In general, an is the nth term. The entire sequence is denoted by [aj.
+1 
+Write down the fifth term of the sequence above as a number and in the notation.
+Sequences often have patterns that help us to predict them.
+2 
+Use technology to graph the sequence [a } as a set of points. Use the number of the term (1, 2, 3, ...) as 
+the independent variable and the term in the sequence as the dependent variable. For example, the first 
+point would be (1, 39 000).
+What do you notice about the graph? Why do you think this is so?
+3 
+A sequence that forms a straight-line graph is called arithmetic. How might we identify a sequence as 
+arithmetic without graphing it? Make a conjecture.
+4 Complete the table by calculating the difference between every pair of consecutive terms. The first is 
+done as an example. What do you notice? Does this support your conjecture?
+Years in job 
+(term number)
+1
+2
+3
+4
+5
+Annual salary (term)
+39 000
+39 900
+40 800
+41200
+42 600
+Difference between terms
+—
+39900 - 39000 
+= 900
+5 
+a What is the gradient of the line formed by plotting the points of the sequence?
+How can it be predicted from the terms of the sequence? 
+b What is they-intercept of the line associated with the sequence?
+How can it be predicted from the terms of the sequence? 
+c Find the equation of the line associated with this sequence. Graph this line. Verify that it passes 
+through the points that you plotted.
+d BTTBflnim What advantages does representing Pablo’s annual salary with a sequence have over 
+representing it with a linear function?
+6 
+Pablo decides to buy a car, but has to take out a bank loan to do so. Every month the bank charges him 
+interest (a fee for the loan that he must pay). The table shows the amount that Pablo must pay each month.
+Month
+1
+2
+3
+4
+5
+Payment ($)
+55
+52
+49
+46
+43
+Difference
+Factual
+■NJ
+o cr o>
+236
+
+8 
+If a sequence is arithmetic, how are the parameters of the corresponding linear function 
+related to the first term and the difference between terms of the sequence?
+9 
+Use the pattern in the sequence [aj to predict Pablo’s annual salary if he stays in the same job and 
+retires at the age of 65. You may find it helpful to complete the table:
+Age
+24
+25
+26
+2?
+...
+64
+65
+Number of term [n]
+1
+2
+3
+4
+Number of differences 
+added (d = 900]
+0
+1
+2
+...
+Term [a j
+39 000
+39000 + 900
+= 39900
+39 000 + 2x 900
+= 40800
+10
+How can we systematically calculate the nth term of an arithmetic sequence?
+General sequences
+A sequence of numbers is a list of numbers (of finite or infinite length) 
+arranged in an orderthat obeys a certain rule.
+Each number in the sequence is called a term. The mh term, where n is a 
+positive integer, can be represented by the notation u .
+For example, 3, 6, 9, 12, 15, ... is a sequence. 
+What is the rule?
+The first term is 3, the second term is 6 and so 
+on, so we can say = 3, 
+= 6, and so on.
+Note that a sequence can be thought of as a 
+function from Z+ to R, where the notation un
+is equivalent to u\n).
+Example 11
+For each of the sequences
+i 
+2,4,6,8,10,... ii 1,-,
+2 3 4
+a Write down a general formula for the nth term.
+HINT
+Sometimes other letters 
+are used to represent 
+the mh term of a 
+sequence,likeafjtbn,...
+b Find the 12th term.
+a
+u = 2 n
+n
+This is the sequence of positive even numbers.
+The terms can be written as 2 x 1, 2 x 2, 2 x 3, ...
+1
+1 u — —
+Every term of this sequence is a positive integer 
+multiplied by 2.
+1 
+H
+tt
+The denominators are the counting numbers.
+b
+24
+Substitute n- 12 into the formula of the sequence: 
+n12 = 2 x 12 = 24
+1
+U\2 = —
+12
+. i 
+i —
+12
+... ® 66
+CO
+LO
+23?
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+1 Write down the next three terms in each 
+sequence.
+a 
+3, 8, 13, 18, ... 
+b 
+1, 2, 3, 5, 8, ...
+c 
+2, 3, 5, 8, 12, ... 
+d 
+1, 2, 4, 8, ...
+ii,ii 
+f 
+1 
+2 3 4
+e 
+1,-1, 1,-1, 1, ... 
+f
+2 3 4 5
+g 100, 75, 50, 25, ...
+2 Write down the first three terms of these 
+sequences. Remember that n e Z+.
+a w = 77 + 1 
+btf= 3/7+1
+n 
+n
+c b = 2n 
+dr =4-0.5/7
+n 
+n
+3 Write down a general formula for the nth 
+term of each sequence.
+a 1,4,9,16,... 
+b 1,8,27,64,...
+c 1,2, 3, 4,... 
+d 2,1,-,-,-,...
+3 2 5
+4 Consider the sequence k m = 3 + 4x («-1).
+a Find tr.6
+b Find the position n in which the number 
+207 appears in the sequence \un). 
+c Find the value of n for which u =111.
+n
+d Determine whether or not 400 is a term 
+of this sequence.
+Arithmetic sequences and series
+\
+A sequence in which the difference between each term and its previous one 
+remains constant is called an arithmetic sequence.
+This constant difference is called the common difference of the sequence.
+Investigation 10
+1 Which of these sequences are arithmetic sequences? Forthose that are arithmetic, what is the common 
+difference in each case?
+a 2,4,6,8,10,... 
+c 1,10,100,1000,...
+e —1, —0.5, 0, 0.5, ...
+g 1,3,4,?, 11,... 
+i an= 3/7+1 
+k t ”= 4- 0.5/7
+b 10,12,14,16,... 
+d 10,8,6,4,...
+h u =5/7 + 2 
+n
+j b =2"
+I 
+r =n2 3 4
+2 Write down:
+a the first five terms of a sequence in which the difference between each term and the previous term is 
+always equal to 4
+b the first five terms of a sequence in which the common difference is equal to -3 
+c the first four terms of an arithmetic sequence in which the first term is 2 and the common difference 
+is-0.5.
+3 
+The sum of the terms of an arithmetic sequence is called an arithmetic series, 
+a Which of these sums are arithmetic series? How can you tell?
+i 
+S4 =1+7+13+19
+ii 
+S4 = 5 + 2.5+ 1.25 + 0.0625
+iii S5 = 9- 7- 5 — 3-1
+b Write down an arithmetic series with six terms in which the first term is equal to 4 and the common 
+difference is equal to 0.20.
+4 H.imuiMi How do you distinguish an arithmetic sequence or series from other sequences or series?
+238
+
+An arithmetic sequence with first term and common difference d 
+can be generated as shown:
+u2 = w, + d
+w3 = w, + d + d = w, + 2d 
+uA =ul+d + d + d = Ui+ld 
+u5=ul+d + d + d + d = ul+4d
+What would the expression be for «6? What do you notice about the 
+number that multiplies d?
+Following the pattern, u = w, + (n - 1 )d.
+The general term (or nth term) of an arithmetic sequence with first term u} 
+and common difference d is u =u +(n- l)d, where tie Z+.
+Example 12
+The first term of an arithmetic sequence is 5 and its common difference is -. 
+a Find the second and third terms of this sequence.
+b Write down an expression for the mil term.
+49
+c Determine whether or not - is a term of this sequence, 
+d Find the first term of this sequence that is greater than 25.
+(D
+17 
+19
+a u2 = —, 
+w3= —
+3 
+3
+b un = 5 + (n -1) x -
+49
+c — is the 18th term 
+3
+d 205
+»,=5
+Every new term is found by adding - to the 
+previous term.
+T. r 
+c 2 
+17 
+17 
+2 
+19
+Therefore, uy = 5 + — = — and w, = — + — = —.
+3 
+3 
+3 
+3 
+3
+Substitute 5 for u, and — for d in the formula
+1 
+3
+for the general term.
+49
+It — is a term ot this sequence then there
+49
+will be an n for which u„ = —:
+3
+5 + (w-l)x^ = -y
+« —1 = 17
+49 .
+Since n - 18 is a positive integer, — is in the 
+sequence. 
+3
+You can see this on your GDC.
+o +•*"*-*
+■fero... ® 66
+CO
+LO
+239
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+Example 13
+Consider the finite arithmetic sequence -3, 5, 
+1189.
+a Write down the common difference, d. 
+b Find the number of terms in the sequence.
+TOK
+Is all knowledge 
+concerned with 
+identification and use of 
+patterns?
+a d= 8
+The common difference is the difference 
+between any two consecutive terms:
+d = 5-(-3) = 8
+b w = 150
+Method 1:
+The general term of this sequence is 
+u(j = -3 + (n - 1) x 8.
+We also know that u = 1189.
+n
+So -3 + (w - l)x8 = 1189
+Use your GDC to solve for n.
+Method 2:
+Use the GDC to create a table of all of 
+the terms and then scroll down until you 
+see the value 1189. However, this may 
+take you longer than Method 1 when the 
+value of n is big (as in this example).
+1 The first term of an arithmetic sequence is 
+-10 and the seventh term is -1.
+a Find the value of the common 
+difference.
+b Find the 15th term of this sequence.
+2 The mh term of a sequence is defined by 
+bfj = n(2 n + 1).
+a Find the values of by b2 and by 
+b Show that this sequence is not 
+arithmetic.
+3 The first terms of an arithmetic sequence 
+are 5, 9, 13, 17, ...
+a Write down the general term for this 
+sequence.
+b Determine whether or not 116 is a term 
+in this sequence.
+4 In an arithmetic sequence, w3 = 12 and 
+u{0 = 40. The common difference is d.
+a Write down two equations in ux and d 
+to show this information.
+b Find the values of ux and d. 
+c Find the 100th term.
+5 When a company first started it had 85 
+employees. It was decided to increase 
+the number of employees by 10 at the 
+beginning of each year.
+a Find the number of employees during 
+the second year and during the third 
+year.
+b How many employees will this company 
+have during the 10th year? 
+c After how many years will the company 
+have 285 employees?
+240
+
+6 In Investigation 9, Pablo made monthly 
+payments to his bank for a loan. The 
+payments for the first five months were 
+$55, $52, $49, $46, $43. 
+a Write down an expression for the mh 
+term of this sequence, 
+b Find the amount of Pablo's 12th 
+payment.
+c Determine when Pablo will make 
+his last payment.
+d Find the amount of the last payment.
+? A sequoia tree that was 2.6 m tall when 
+it was planted in 1998 grows at a rate of 
+1.22 m per year.
+a Write down a formula to represent the 
+height of the tree each year, with a] 
+representing the height in 1998. 
+b Find the height of the tree in 2025. 
+c The tallest living sequoia tree, the
+General Sherman tree in the US Sequoia 
+National Park, has a height of 84 m. In 
+what year would the tree planted in 
+1998 reach this height if it continues to 
+grow at the same rate?
+8 Consider the finite arithmetic sequence
+1000, 975, 950......-225.
+a Write down the common difference, 
+b Find the 10th term, 
+c Find the number of terms in the 
+sequence.
+9 The diagram shows part of the graph of a 
+sequence uf].
+u(n)
+*
+---- ▼
+2
+r
+r i
+a Explain why this sequence is arithmetic, 
+b Write down the common difference of 
+this sequence.
+c Write down the first term of the sequence, 
+d Write down the general term of the 
+sequence.
+e Determine whether or not the point 
+(20,36) lies on the graph of this sequence.
+10 Pedro is bored and is making patterns with 
+sticks. Pattern 1 was made with four sticks, 
+pattern 2 with seven sticks and so on.
+a Write down the number of sticks needed 
+to make pattern 5 and pattern 6. 
+b Find the number of sticks needed to 
+make pattern 20.
+c Find the pattern number for the pattern 
+made with 127 sticks.
+11 Consider the arithmetic series 
+5= 1 + 3 + 5 + 7 + ... + 61.
+a Find the number of terms in this series, 
+b Write the series using sigma notation, 
+c Find the value of S.
+««t . ... ® 66
+CO
+LO
+241
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+Investigation 11
+1 Consider the arithmetic sequence 1,2,3,4,..., 100. We are going to find the sum of these 100 terms, 5100. 
+Swo = 
+1+ 
+2+ 
+3+ 4+ 
++ 97 + 98+ 99+ 100, 
+and also
+5I00 = 100+ 99+ 98+ 97+ — + 
+4+ 
+3+ 
+2+ 
+1. Why?
+Adding these two equations, we get
+25,00 = 101 + 101 + 101 + 101+ 
++101 + 101 + 101 + 101
+This is 100x101
+Therefore 25100= lOOx 101,so5IOO = 
+101 = 5050.
+In the calculation 5l00 = 
+101 y where does the 100 come from? Where does the 101 come from?
+Describe how you have found S100.
+2 
+Apply the method from part 1 to find 5100 for the arithmetic sequence 3, 5, 7,9, ...
+Show that 5100= 10200.
+3 
+Now considerthe arithmetic sequence 1,4, ?,..., 148. 
+a Show that the sequence has 50 terms.
+b Find S5Q.
+4 
+Now consider the series
+Sn = uj + (uj + d) + (uj + 2d) + (uj + 3d) + ... + (uj + (/7 — 1 )d)
+5 
+Based on the previous examples, what formula do you suggest to find Sf? (Follow the same 
+steps as in part 1.)
+6 
+How does the formula for the sum of the first n terms of an arithmetic sequence use 
+symmetry?
+>
+The sum, 5;, of the first n terms of an arithmetic sequence u{, u2, Uy ... can 
+be calculated using the formula Sn = — (//, + un).
+Note that if we replace ufj with + (n - 1 )d, the formula can be 
+written as
+s„ =^(Mi +wi +(«-lW) = ^(2«, +(n-l)d).
+TOK
+How is intuition used in 
+mathematics?
+Example 14
+1 Calculate the sum of the first 20 terms of the series 60 + 57 + 54 + ...
+2 a Find the sum of the arithmetic series (-10) + (-6) + (-2) + ... + 90. 
+b Find the least number of terms that must be added to the series
+(-10) + (-6) + (-2) + ... to obtain a sum greater than 100.
+242
+
+1 520 = 6 30
+2 a S =1040
+26
+b 11 terms
+The common difference is 57 - 60 = -3, and 
+the first term is 60, so substitute d = -3, n = 20 
+and uj = 60 into the formula:
+S20 =^(2x60 + (20-l)(-3)) = 630
+This is an arithmetic series with common 
+difference 4. The first and last terms are given, 
+so we can use the formula Sn = — («, + un) if we 
+can find n.
+The general term for the sequence is 
+u = -10 + (n - 1) x 4. Setting u = 90 gives 
+n - 26.
+So S2lt =y(-10 + 90) = 1040.
+The sum of the terms (in terms of n) is 
+Sn =^(2x(-10) + («-l)x4) = ^(-20 + («-l)x4)
+and this must be greater than 100:
+-^(-20 + (k -1)x 4)>100
+Use the GDC to make a table of values with 
+the formula for 5 .
+n
+Adding 10 terms gives a sum of 80, and adding 
+11 terms gives 110, so n = 11.
+Sigma notation and series
+>
+The terms of a sequence can be added together. Adding the terms of a 
+sequence gives a series.
+If u]tuvuv un is a sequence, then +«2 + h3+ ... + Ufi is a series.
+S denotes the sum ofthe first //terms of a series: S =w, +n^ + w,+ ... +u .
+n 
+n 1 
+2 
+3 
+n
+The Greek letter X, called “sigma”, is often used to represent a sum of values:
+n
+S„=£m,.=h,+Kj  + «,+... + m„.
+/=1
+n
+is read as “the sum of all u. from /= 1 to i=n”.
+i=i
+For example, for the sequence 2, 4, 6, 8, 10.......= 2, S2 = 2 + 4,
+5. = 2 + 4 + 6, SA = 2 + 4 + 6 + 8 and so on, and S. = 2 + 4 + 6 + 8 can be
+3 
+4 
+4
+4
+written as Y 2i.
+TOK
+Is mathematics a 
+language?
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+Example 15
+4
+a Write the expression ]T (2/ + 3) as a sum of terms
+X = I
+b Calculate the sum of these terms.
+a £(2;+ 3)
+4
+It is important to remember that ^(2/ + 3)
+= (2 x 1 + 3) + (2 x 2 + 3) + (2 x 3 + 3)
+is a sum. There will be four terms in
++ (2x4 + 3)
+this sum. The first term is found by
+substituting / = 1 in the expression 2/+ 3,
+and the last term by substituting i = 4.
+b 5 + 7 + 9+11= 32
+The sum can be found with the GDC.
+Example 16
+Write the series 1+3 + 5 + 7-1-9+11 using sigma notation.
+There are six terms in this series, which
+M=1
+means that the index will vary from 1 to 6.
+This is the sequence of odd numbers:
+un = 2n - 1, so that - 1, u2 = 3, w3 = 5, ...
+1 Find the sum of the first 17 terms of the 
+arithmetic series 15+ 15.5 + 16 + 16.5 + ...
+2 Find the sum of the first 20 terms of the 
+arithmetic series 6 + 3 + 0- 3- 6- ...
+3 Find the sum of the first 30 multiples of 8.
+4 Consider the series 52 + 62 + 72 + ... + 462. 
+a Find the number of terms.
+b Find the sum of the terms.
+5 Consider the arithmetic series 
+S = 1 +8+ 15 + ...
+n
+a Write down an expression for S in 
+terms of n.
+b Find the value of n for which S = 5500.
+n
+6 An arithmetic series has = 4 and d = -3.
+a Write down an expression for Sn in 
+terms of n. 
+b Find S10.
+c Find the smallest n for which S < -250.
+n
+7 Montserrat is training for her first race.
+In her first training week she runs 3 km, 
+and in the second training week she runs 
+3.5 km. Every week she runs 0.5 km more 
+than the previous one.
+a Find how many kilometres Montserrat 
+runs in her 10th training week, 
+b Calculate the total number of kilometres 
+that Montserrat will have run by her 
+15th training week.
+8 Consider the arithmetic sequence 
+5, a, 14, b, ...
+a Find the common difference, 
+b Find the values of a and b. 
+c Find S1Q.
+d Find the least value of n for which S > 500.
+244
+
+9 The first three terms of an arithmetic
+sequence are 2k + 1, -k+ 10 and k- 1.
+a Show that k = 4.
+b Find the values of the first three terms 
+of this sequence.
+c Write down the common difference of 
+the sequence.
+d Find the sum of the first 20 terms of 
+the sequence.
+Simple interest
+Capital is the money that you put in a savings institution or a bank. If 
+you put money in a bank, the bank will pay you interest on this money.
+If you borrow money from a bank or savings institution, then you 
+have to pay them interest.
+The interest is the extra amount you pay or earn. Its value depends on 
+the capital.
+Simple interest is the simplest way to calculate interest. Of course, 
+there are other ways.
+As an example, Wang wants to borrow $1000 for three years at a rate 
+of 4% per year.
+The interest that Wang will have to pay for 1 year is 4% of 1000:
+0.04 x 1000.
+The interest that Wang will have to pay for 2 years is (0.04 x 1000) x 2. 
+The interest that Wang will have to pay for 3 years is (0.04 x 1000) x 3. 
+This is how the formula for simple interest is built.
+\
+The formula for simple interest is / = CX r x n, where 
+Cisthe capital (or principal) 
+r is the interest rate 
+n is the number of interest periods 
+/isthe interest.
+In the example above, how much money will Wang have to repay to 
+the bank after three years?
+Investigation 12
+1 Capital of $1000 is invested in a bank account at a simple interest rate of 3% per annum.
+a Complete the table for the amount of money in the bank account after n years (assuming no 
+withdrawals).
+Number of years
+0
+1
+2
+3
+4
+n
+Amount in bank ($)
+Continued on next page
+10 Consider the sum S = ^(3/ +1), where x
+i=3
+is a positive integer greater than 3.
+a Write down the first three terms of the 
+series.
+b Write down the number of terms in the 
+series.
+c Given that S = 520, find the value of x.
+fcUMM —
+... ® 66
+CO
+LO
+245
+Number and algebra 
+Functions
+
+5
+MODELLING CONSTANT RATES OF CHANGE: LINEAR FUNCTIONS
+O
+2
+b What can you say about the difference in money between two consecutive years? What can you 
+say about this sequence of numbers? What are the variables? What values does the independent 
+variable take?
+A capital amount C is invested in a bank account at a simple interest rate of r% per annum.
+a Complete the table for the amount of money in the bank account after n years (assuming no withdrawals).
+Number of years
+0
+1
+2
+3
+4
+n
+Amount in bank ($A)
+b What can you say about the difference in money between two consecutive years? What is the relationship 
+between this value and the type of account? What can you say about this sequence of numbers? What are 
+the variables? What values does the independent variable take?
+3 The amount of money in a particular bank account that pays r% simple interest per annum can be 
+calculated with the following formula:
+A =1200 + 60/7
+n
+What does Ar mean? What is the capital in this bank account?
+What is the value of r?
+4 fWlffTTffffl What is a suitable model for simple interest?
+Example 17
+An amount of UKE5000 is invested at a simple interest rate of 3% per annum for a 
+period of 8 years.
+a Calculate the interest received after 8 years, 
+b Find the total amount in the account after the 8 years.
+a UKE1200
+In this example, C= 5000, r= 0.03 
+(3% is written as 0.03) and n = 8.
+Using the formula I = C x r x n,
+/= 5000x0.03 x8 = 1200
+b UKE6200
+The total amount is found by adding the 
+interest to the capital:
+5000+ 1200 = 6200
+Example 18
+Riddhi invests $4000 in a bank account at a simple interest rate of 7.3% per year. 
+Find the number of years it takes for Riddhi's money to double.
+14 years
+C = 4000, and we are looking for it to double.
+We therefore need the interest earned to be
+/ = 8000 - 4000 = 4000. Using the simple interest
+formula:
+4000 = 4000 x 0.073 x n, so n = 13.69.
+Since interest is only applied after each whole 
+year, it will be 14 years before the capital doubles.
+246
+
