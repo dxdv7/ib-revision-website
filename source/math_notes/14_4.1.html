@@ -1,21 +1,21 @@
 <div class="notes-section">
 <h3>Distance between two points in 2D</h3>
-<div class="formula-box">d = &radic;[(x<sub>2</sub> &minus; x<sub>1</sub>)<sup>2</sup> + (y<sub>2</sub> &minus; y<sub>1</sub>)<sup>2</sup>], the distance between points A(x<sub>1</sub>, y<sub>1</sub>) and B(x<sub>2</sub>, y<sub>2</sub>).</div>
-<div class="callout example"><span class="c-label">Worked example</span>Find the distance between A(4, &minus;3) and B(&minus;1.5, 5).<br>d = &radic;[(&minus;1.5 &minus; 4)<sup>2</sup> + (5 &minus; (&minus;3))<sup>2</sup>]<br>= &radic;[(&minus;5.5)<sup>2</sup> + (8)<sup>2</sup>]<br>= &radic;[30.25 + 64]<br>= &radic;94.25<br>= 9.71 (3 sf)</div>
+<div class="formula-box" data-term="Distance formula">\[d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\]the distance between points \(A(x_1, y_1)\) and \(B(x_2, y_2)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the distance between \(A(4, -3)\) and \(B(-1.5, 5)\).<br>\[d = \sqrt{(-1.5 - 4)^2 + (5 - (-3))^2}\]\[d = \sqrt{(-5.5)^2 + (8)^2}\]\[d = \sqrt{30.25 + 64}\]\[d = \sqrt{94.25}\]\[\boxed{d = 9.71 \text{ (3 sf)}}\]</div>
 
 <h3>Midpoint of two points in 2D</h3>
-<div class="formula-box">M = ((x<sub>1</sub> + x<sub>2</sub>) / 2, (y<sub>1</sub> + y<sub>2</sub>) / 2), the midpoint of the segment joining A(x<sub>1</sub>, y<sub>1</sub>) and B(x<sub>2</sub>, y<sub>2</sub>).</div>
-<div class="callout example"><span class="c-label">Worked example</span>Points A(&minus;3, 5) and B(0, 7) lie on the diameter of a circle. Find the coordinates of the centre.<br>The centre is the midpoint M of [AB].<br>M = ((&minus;3 + 0) / 2, (5 + 7) / 2)<br>= (&minus;1.5, 6)</div>
+<div class="formula-box" data-term="Midpoint formula">\[M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)\]the midpoint of the segment joining \(A(x_1, y_1)\) and \(B(x_2, y_2)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Points \(A(-3, 5)\) and \(B(0, 7)\) lie on the diameter of a circle. Find the coordinates of the centre.<br>The centre is the midpoint \(M\) of \([AB]\).<br>\[M = \left(\frac{-3 + 0}{2}, \frac{5 + 7}{2}\right)\]\[\boxed{M = (-1.5, 6)}\]</div>
 
 <h3>Finding an unknown coordinate using the midpoint formula</h3>
-<div class="formula-box">If M(x<sub>M</sub>, y<sub>M</sub>) is the midpoint of A(x<sub>1</sub>, y<sub>1</sub>) and B(x<sub>2</sub>, y<sub>2</sub>), then x<sub>M</sub> = (x<sub>1</sub> + x<sub>2</sub>) / 2 and y<sub>M</sub> = (y<sub>1</sub> + y<sub>2</sub>) / 2 can each be solved for an unknown coordinate.</div>
-<div class="callout example"><span class="c-label">Worked example</span>M(2, 4) is the midpoint of A(x, 1) and B(7, 7). Find x.<br>Using the x-coordinate formula: (x + 7) / 2 = 2<br>x + 7 = 4<br>x = &minus;3<br>Check with the y-coordinate: (1 + 7) / 2 = 4, which matches y<sub>M</sub> = 4</div>
+<div class="formula-box">If \(M(x_M, y_M)\) is the midpoint of \(A(x_1, y_1)\) and \(B(x_2, y_2)\), then \(x_M = \frac{x_1 + x_2}{2}\) and \(y_M = \frac{y_1 + y_2}{2}\) can each be solved for an unknown coordinate.</div>
+<div class="callout example"><span class="c-label">Worked example</span>\(M(2, 4)\) is the midpoint of \(A(x, 1)\) and \(B(7, 7)\). Find \(x\).<br>Using the \(x\)-coordinate formula:<br>\[\frac{x + 7}{2} = 2\]\[x + 7 = 4\]\[\boxed{x = -3}\]Check with the \(y\)-coordinate:<br>\[\frac{1 + 7}{2} = 4\]which matches \(y_M = 4\)</div>
 
 <h3>Distance between two points in 3D</h3>
-<div class="formula-box">d = &radic;[(x<sub>2</sub> &minus; x<sub>1</sub>)<sup>2</sup> + (y<sub>2</sub> &minus; y<sub>1</sub>)<sup>2</sup> + (z<sub>2</sub> &minus; z<sub>1</sub>)<sup>2</sup>], the distance between points A(x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>) and B(x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>).</div>
-<div class="callout example"><span class="c-label">Worked example</span>A storage box has vertices including B(0, 3, 4) and R(2, 0, 0), all coordinates in metres. Find the length of diagonal BR, the maximum length of a tool that fits in the box.<br>BR = &radic;[(2 &minus; 0)<sup>2</sup> + (0 &minus; 3)<sup>2</sup> + (0 &minus; 4)<sup>2</sup>]<br>= &radic;[4 + 9 + 16]<br>= &radic;29<br>= 5.39 m (3 sf)</div>
+<div class="formula-box" data-term="3D distance formula">\[d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}\]the distance between points \(A(x_1, y_1, z_1)\) and \(B(x_2, y_2, z_2)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A storage box has vertices including \(B(0, 3, 4)\) and \(R(2, 0, 0)\), all coordinates in metres. Find the length of diagonal \(BR\), the maximum length of a tool that fits in the box.<br>\[BR = \sqrt{(2 - 0)^2 + (0 - 3)^2 + (0 - 4)^2}\]\[BR = \sqrt{4 + 9 + 16}\]\[BR = \sqrt{29}\]\[\boxed{BR = 5.39 \text{ m (3 sf)}}\]</div>
 
 <h3>Midpoint of two points in 3D</h3>
-<div class="formula-box">M = ((x<sub>1</sub> + x<sub>2</sub>) / 2, (y<sub>1</sub> + y<sub>2</sub>) / 2, (z<sub>1</sub> + z<sub>2</sub>) / 2), the midpoint of the segment joining A(x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>) and B(x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>).</div>
-<div class="callout example"><span class="c-label">Worked example</span>A cuboid has a diagonal with endpoints A(4, 0, 0) and C<sub>1</sub>(0, 5, 2), coordinates in metres. Find the midpoint M of this diagonal.<br>M = ((4 + 0) / 2, (0 + 5) / 2, (0 + 2) / 2)<br>= (2, 2.5, 1)</div>
+<div class="formula-box" data-term="3D midpoint formula">\[M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}, \frac{z_1 + z_2}{2}\right)\]the midpoint of the segment joining \(A(x_1, y_1, z_1)\) and \(B(x_2, y_2, z_2)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A cuboid has a diagonal with endpoints \(A(4, 0, 0)\) and \(C_1(0, 5, 2)\), coordinates in metres. Find the midpoint \(M\) of this diagonal.<br>\[M = \left(\frac{4 + 0}{2}, \frac{0 + 5}{2}, \frac{0 + 2}{2}\right)\]\[\boxed{M = (2, 2.5, 1)}\]</div>
 </div>

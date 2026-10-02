@@ -1,17 +1,17 @@
 <div class="notes-section">
 <h3>Combinations, nCr</h3>
-<div class="formula-box">nCr = n! / (r! &times; (n &minus; r)!), where n! = n &times; (n &minus; 1) &times; (n &minus; 2) &times; ... &times; 2 &times; 1, and nCr counts the number of ways to choose r successes from n trials.</div>
-<div class="callout example"><span class="c-label">Worked example</span>Calculate 6C2.<br>6C2 = 6! / (2! &times; 4!) = (6 &times; 5) / (2 &times; 1) = 30 / 2 = 15</div>
+<div class="formula-box" data-term="Combinations formula">\(\binom{n}{r} = \dfrac{n!}{r!(n-r)!}\), where \(n! = n \times (n-1) \times (n-2) \times \ldots \times 2 \times 1\), and \(\binom{n}{r}\) counts the number of ways to choose \(r\) successes from \(n\) trials.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Calculate \(\binom{6}{2}\).<br>\[\boxed{\binom{6}{2} = \frac{6!}{2! \times 4!} = \frac{6 \times 5}{2 \times 1} = \frac{30}{2} = 15}\]</div>
 <h3>Binomial probability distribution: P(X = x)</h3>
-<div class="formula-box">If X ~ B(n, p), then P(X = x) = nCx &times; p<sup>x</sup> &times; (1 &minus; p)<sup>n&minus;x</sup>, for x = 0, 1, 2, ..., n, where n is the fixed number of independent trials, p is the constant probability of success on each trial, and x is the number of successes.</div>
-<div class="callout example"><span class="c-label">Worked example</span>A multiple-choice quiz has 8 questions, each with 4 equally likely options. X is the number of correct guesses, so X ~ B(8, 0.25). Find P(X = 3).<br>P(X = 3) = 8C3 &times; 0.25<sup>3</sup> &times; 0.75<sup>5</sup><br>8C3 = 56, 0.25<sup>3</sup> = 0.015625, 0.75<sup>5</sup> = 0.2373046875<br>P(X = 3) = 56 &times; 0.015625 &times; 0.2373046875 = 0.208 (3 sf)</div>
+<div class="formula-box" data-term="Binomial probability formula">If \(X \sim B(n, p)\), then \(P(X = x) = \binom{n}{x} p^x (1-p)^{n-x}\), for \(x = 0, 1, 2, \ldots, n\), where \(n\) is the fixed number of independent trials, \(p\) is the constant probability of success on each trial, and \(x\) is the number of successes.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A multiple-choice quiz has 8 questions, each with 4 equally likely options. \(X\) is the number of correct guesses, so \(X \sim B(8, 0.25)\). Find \(P(X = 3)\).<br>\[P(X = 3) = \binom{8}{3} \times 0.25^3 \times 0.75^5\]\[\binom{8}{3} = 56, \ 0.25^3 = 0.015625, \ 0.75^5 = 0.2373046875\]\[\boxed{P(X = 3) = 56 \times 0.015625 \times 0.2373046875 = 0.208 \ (3 \text{ sf})}\]</div>
 <h3>Cumulative binomial probability</h3>
-<div class="formula-box">P(X &le; x) = P(X = 0) + P(X = 1) + ... + P(X = x), found by summing the individual binomial probabilities from 0 up to x.</div>
-<div class="callout example"><span class="c-label">Worked example</span>X ~ B(5, 0.4). Find P(X &le; 2).<br>P(X = 0) = 0.6<sup>5</sup> = 0.07776<br>P(X = 1) = 5C1 &times; 0.4 &times; 0.6<sup>4</sup> = 5 &times; 0.4 &times; 0.1296 = 0.2592<br>P(X = 2) = 5C2 &times; 0.4<sup>2</sup> &times; 0.6<sup>3</sup> = 10 &times; 0.16 &times; 0.216 = 0.3456<br>P(X &le; 2) = 0.07776 + 0.2592 + 0.3456 = 0.683 (3 sf)</div>
+<div class="formula-box" data-term="Cumulative binomial probability">\(P(X \le x) = P(X = 0) + P(X = 1) + \ldots + P(X = x)\), found by summing the individual binomial probabilities from 0 up to \(x\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>\(X \sim B(5, 0.4)\). Find \(P(X \le 2)\).<br>\[P(X = 0) = 0.6^5 = 0.07776\]\[P(X = 1) = \binom{5}{1} \times 0.4 \times 0.6^4 = 5 \times 0.4 \times 0.1296 = 0.2592\]\[P(X = 2) = \binom{5}{2} \times 0.4^2 \times 0.6^3 = 10 \times 0.16 \times 0.216 = 0.3456\]\[\boxed{P(X \le 2) = 0.07776 + 0.2592 + 0.3456 = 0.683 \ (3 \text{ sf})}\]</div>
 <h3>Mean of a binomial distribution</h3>
-<div class="formula-box">If X ~ B(n, p), then E(X) = &mu; = n &times; p.</div>
-<div class="callout example"><span class="c-label">Worked example</span>X ~ B(20, 0.25). Find E(X).<br>E(X) = 20 &times; 0.25 = 5</div>
+<div class="formula-box" data-term="Mean of binomial distribution">If \(X \sim B(n, p)\), then \(E(X) = \mu = n \times p\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>\(X \sim B(20, 0.25)\). Find \(E(X)\).<br>\[\boxed{E(X) = 20 \times 0.25 = 5}\]</div>
 <h3>Variance and standard deviation of a binomial distribution</h3>
-<div class="formula-box">If X ~ B(n, p), then Var(X) = n &times; p &times; (1 &minus; p), and the standard deviation is &radic;(Var(X)) = &radic;(n &times; p &times; (1 &minus; p)).</div>
-<div class="callout example"><span class="c-label">Worked example</span>X ~ B(15, 0.6). Find the variance and standard deviation of X.<br>Var(X) = 15 &times; 0.6 &times; 0.4 = 3.6<br>Standard deviation = &radic;3.6 = 1.90 (3 sf)</div>
+<div class="formula-box" data-term="Variance of binomial distribution">If \(X \sim B(n, p)\), then \(Var(X) = n \times p \times (1-p)\), and the standard deviation is \(\sqrt{Var(X)} = \sqrt{n \times p \times (1-p)}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>\(X \sim B(15, 0.6)\). Find the variance and standard deviation of \(X\).<br>\[Var(X) = 15 \times 0.6 \times 0.4 = 3.6\]\[\boxed{\text{Standard deviation} = \sqrt{3.6} = 1.90 \ (3 \text{ sf})}\]</div>
 </div>

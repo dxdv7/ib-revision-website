@@ -1,25 +1,25 @@
 <div class="notes-section">
 <h3>Function notation and evaluating f(x)</h3>
-<div class="formula-box">For a function f, the notation y = f(x) means that x (an element of the domain, the input) is mapped by f to y (an element of the range, the output). To evaluate f at a given input, substitute that value for x everywhere it appears in the formula.</div>
-<div class="callout example"><span class="c-label">Worked example</span>Given f(x) = 2x&sup2; &minus; 3x + 1, find f(4).<br>f(4) = 2(4)&sup2; &minus; 3(4) + 1<br>f(4) = 2(16) &minus; 12 + 1<br>f(4) = 32 &minus; 12 + 1 = 21</div>
+<div class="formula-box" data-term="Function notation">For a function \(f\), the notation \(y = f(x)\) means that \(x\) (an element of the domain, the input) is mapped by \(f\) to \(y\) (an element of the range, the output). To evaluate \(f\) at a given input, substitute that value for \(x\) everywhere it appears in the formula.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given \(f(x) = 2x^2 - 3x + 1\), find \(f(4)\).<br>\[f(4) = 2(4)^2 - 3(4) + 1\]\[f(4) = 2(16) - 12 + 1\]\[\boxed{f(4) = 21}\]</div>
 
 <h3>Classifying a relation as a function</h3>
 <div class="formula-box">A relation is a set of ordered pairs. A function is a relation in which every element of the domain (input) is mapped onto exactly one element of the range (output). A relation can be one-to-one, many-to-one, one-to-many, or many-to-many; only one-to-one and many-to-one relations are functions.</div>
-<div class="callout example"><span class="c-label">Worked example</span>Classify the relation {(1,2), (2,3), (1,4)}.<br>The input 1 is mapped to two different outputs, 2 and 4.<br>This is a one-to-many relation.<br>Since input 1 does not map to exactly one output, this relation is NOT a function.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Classify the relation \(\{(1,2), (2,3), (1,4)\}\).<br>The input 1 is mapped to two different outputs, 2 and 4.<br>This is a one-to-many relation.<br>Since input 1 does not map to exactly one output, this relation is <strong>NOT</strong> a function.</div>
 
 <h3>Domain and range of a function</h3>
-<div class="formula-box">The domain of a function is the set of all possible input (x) values. The range of a function is the set of all possible output (y) values produced by the function on that domain.</div>
-<div class="callout example"><span class="c-label">Worked example</span>A function is defined by y = 2x &minus; 1, for &minus;3 &le; x &le; 2. Find its domain and range.<br>Domain: &minus;3 &le; x &le; 2 (given directly)<br>f(&minus;3) = 2(&minus;3) &minus; 1 = &minus;7<br>f(2) = 2(2) &minus; 1 = 3<br>Since the function is increasing, Range: &minus;7 &le; y &le; 3</div>
+<div class="formula-box" data-term="Domain and range">The domain of a function is the set of all possible input (\(x\)) values. The range of a function is the set of all possible output (\(y\)) values produced by the function on that domain.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A function is defined by \(y = 2x - 1\), for \(-3 \le x \le 2\). Find its domain and range.<br>Domain is given directly: \(-3 \le x \le 2\)<br>\[f(-3) = 2(-3) - 1 = -7\]\[f(2) = 2(2) - 1 = 3\]Since the function is increasing:<br>\[\boxed{-7 \le y \le 3}\]</div>
 
 <h3>The vertical line test</h3>
 <div class="formula-box">If every vertical line drawn on the graph of a relation cuts the graph at most once, the relation is a function. If any vertical line cuts the graph more than once, the relation is not a function, because that input would have more than one output.</div>
-<div class="callout example"><span class="c-label">Worked example</span>Does the relation x&sup2; + y&sup2; = 25 pass the vertical line test at x = 3?<br>Substitute x = 3: y&sup2; = 25 &minus; 9 = 16<br>y = 4 or y = &minus;4<br>Since x = 3 gives two outputs, the vertical line x = 3 cuts the graph twice.<br>This relation FAILS the vertical line test, so it is NOT a function.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Does the relation \(x^2 + y^2 = 25\) pass the vertical line test at \(x = 3\)?<br>Substitute \(x = 3\):<br>\[y^2 = 25 - 9 = 16\]\[y = 4 \text{ or } y = -4\]Since \(x = 3\) gives two outputs, the vertical line \(x = 3\) cuts the graph twice.<br>This relation <strong>FAILS</strong> the vertical line test, so it is <strong>NOT</strong> a function.</div>
 
 <h3>Domain restrictions for algebraic functions</h3>
-<div class="formula-box">For a function defined by a formula, the largest possible domain excludes any x-value that makes the formula undefined. Common restrictions: the denominator of a fraction cannot equal zero, and the expression under a square root cannot be negative.</div>
-<div class="callout example"><span class="c-label">Worked example</span>Find the largest possible domain of f(x) = &radic;(x &minus; 5).<br>The expression under the square root cannot be negative:<br>x &minus; 5 &ge; 0<br>x &ge; 5<br>Domain: x &ge; 5</div>
+<div class="formula-box">For a function defined by a formula, the largest possible domain excludes any \(x\)-value that makes the formula undefined. Common restrictions: the denominator of a fraction cannot equal zero, and the expression under a square root cannot be negative.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the largest possible domain of \(f(x) = \sqrt{x - 5}\).<br>The expression under the square root cannot be negative:<br>\[x - 5 \ge 0\]\[\boxed{x \ge 5}\]</div>
 
 <h3>Finding the inverse of a function algebraically</h3>
-<div class="formula-box">To find the inverse f<sup>&minus;1</sup> of a function f: write y = f(x), swap x and y, then solve the resulting equation for y. The result is y = f<sup>&minus;1</sup>(x). The domain of f becomes the range of f<sup>&minus;1</sup>, and the range of f becomes the domain of f<sup>&minus;1</sup>.</div>
-<div class="callout example"><span class="c-label">Worked example</span>Find the inverse of f(x) = 3x &minus; 4.<br>Let y = 3x &minus; 4<br>Swap x and y: x = 3y &minus; 4<br>Solve for y: x + 4 = 3y<br>y = (x + 4) / 3<br>So f<sup>&minus;1</sup>(x) = (1/3)x + 4/3<br>Check: f(f<sup>&minus;1</sup>(x)) = 3[(x+4)/3] &minus; 4 = (x+4) &minus; 4 = x, which is correct.</div>
+<div class="formula-box" data-term="Inverse function">To find the inverse \(f^{-1}\) of a function \(f\): write \(y = f(x)\), swap \(x\) and \(y\), then solve the resulting equation for \(y\). The result is \(y = f^{-1}(x)\). The domain of \(f\) becomes the range of \(f^{-1}\), and the range of \(f\) becomes the domain of \(f^{-1}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the inverse of \(f(x) = 3x - 4\).<br>\[y = 3x - 4\]\[x = 3y - 4\]\[x + 4 = 3y\]\[\boxed{f^{-1}(x) = \frac{x+4}{3}}\]Check:<br>\[f(f^{-1}(x)) = 3\left(\frac{x+4}{3}\right) - 4 = (x+4) - 4 = x \checkmark\]</div>
 </div>
