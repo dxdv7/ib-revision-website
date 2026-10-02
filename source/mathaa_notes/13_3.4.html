@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Pascal's triangle and the pattern of a binomial expansion</h3>
+<div class="formula-box">For a positive integer \(n\), the expansion of \((x+y)^n\) has \(n+1\) terms, each of degree \(n\). The powers of \(x\) decrease from \(n\) to \(0\) while the powers of \(y\) increase from \(0\) to \(n\). The coefficients of the terms are the entries in row \(n\) of Pascal's triangle, where the first and last entries of every row equal \(1\), and every other entry is the sum of the two entries diagonally above it in the row before.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Use Pascal's triangle to expand \((2k - 3)^5\).<br>Row \(5\) of Pascal's triangle gives the coefficients \(1, 5, 10, 10, 5, 1\), so with \(x = 2k\) and \(y = -3\):<br>\[(2k-3)^5 = (2k)^5 + 5(2k)^4(-3) + 10(2k)^3(-3)^2 + 10(2k)^2(-3)^3 + 5(2k)(-3)^4 + (-3)^5\]\[\boxed{(2k-3)^5 = 32k^5 - 240k^4 + 720k^3 - 1080k^2 + 810k - 243}\]</div>
+
+<h3>Factorial notation</h3>
+<div class="formula-box" data-term="Factorial notation">For a positive integer \(n\), \(n!\) (read "\(n\) factorial") is the product of the first \(n\) positive integers:<br>\[n! = n(n-1)(n-2)\cdots 3 \cdot 2 \cdot 1\]with the special definition \(0! = 1\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Simplify \(\dfrac{8!}{5!}\).<br>\[\frac{8!}{5!} = \frac{8 \times 7 \times 6 \times 5!}{5!}\]\[\frac{8!}{5!} = 8 \times 7 \times 6\]\[\boxed{\frac{8!}{5!} = 336}\]</div>
+
+<h3>The binomial coefficient</h3>
+<div class="formula-box" data-term="Binomial coefficient">For non-negative integers \(n\) and \(r\) with \(n \geq r\), the binomial coefficient \(\binom{n}{r}\) (also written \(^nC_r\)) is defined by<br>\[\binom{n}{r} = \frac{n!}{r!(n-r)!}\]It gives the entry in row \(n\), position \(r\) of Pascal's triangle (counting both rows and positions from \(0\)), and is symmetric: \(\binom{n}{r} = \binom{n}{n-r}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\binom{7}{3}\).<br>\[\binom{7}{3} = \frac{7!}{3!4!}\]\[\binom{7}{3} = \frac{7 \times 6 \times 5}{3 \times 2 \times 1}\]\[\boxed{\binom{7}{3} = 35}\]</div>
+
+<h3>The binomial theorem</h3>
+<div class="formula-box" data-term="Binomial theorem">For a positive integer \(n\),<br>\[(x+y)^n = \sum_{r=0}^{n} \binom{n}{r}x^{n-r}y^r\]\[(x+y)^n = \binom{n}{0}x^n + \binom{n}{1}x^{n-1}y + \binom{n}{2}x^{n-2}y^2 + \cdots + \binom{n}{n}y^n\]This gives the complete expansion of \((x+y)^n\) directly, without needing to construct Pascal's triangle.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Use the binomial theorem to expand \((x-2y)^4\).<br>\[(x-2y)^4 = \binom{4}{0}x^4 + \binom{4}{1}x^3(-2y) + \binom{4}{2}x^2(-2y)^2 + \binom{4}{3}x(-2y)^3 + \binom{4}{4}(-2y)^4\]\[\boxed{(x-2y)^4 = x^4 - 8x^3y + 24x^2y^2 - 32xy^3 + 16y^4}\]</div>
+
+<h3>Finding a specific term in an expansion</h3>
+<div class="formula-box" data-term="General term of a binomial expansion">In the expansion of \((x+y)^n\), the term containing \(y^r\) (the \((r+1)\)th term) is<br>\[T_{r+1} = \binom{n}{r}x^{n-r}y^r\]This lets a single term be found directly, without expanding the whole binomial.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the term containing \(a^3\) in the expansion of \((2a-3b)^9\).<br>The power of \(a\) is \(9-r\), so \(9-r=3\) gives \(r=6\).<br>\[T_7 = \binom{9}{6}(2a)^3(-3b)^6\]\[T_7 = 84 \times 8a^3 \times 729b^6\]\[\boxed{T_7 = 489888\,a^3b^6}\]</div>
+
+<h3>The term independent of x</h3>
+<div class="formula-box">In an expansion such as \(\left(ax^p + \dfrac{b}{x^q}\right)^n\), the general term is<br>\[T_{r+1} = \binom{n}{r}(ax^p)^{n-r}\left(\frac{b}{x^q}\right)^r\]The term independent of \(x\) (the constant term) is found by setting the exponent of \(x\) in \(T_{r+1}\) equal to \(0\) and solving for \(r\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the term independent of \(x\) in the expansion of \(\left(2x^2 - \dfrac{1}{x}\right)^9\).<br>\[T_{r+1} = \binom{9}{r}(2x^2)^{9-r}\left(-\frac{1}{x}\right)^r\]The exponent of \(x\) is \(2(9-r) - r = 18 - 3r\), so \(18 - 3r = 0\) gives \(r = 6\).<br>\[T_7 = \binom{9}{6}(2x^2)^3\left(-\frac{1}{x}\right)^6\]\[T_7 = 84 \times 8x^6 \times x^{-6}\]\[\boxed{T_7 = 672}\]</div>
+</div>

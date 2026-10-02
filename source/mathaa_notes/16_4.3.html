@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>The logarithmic function</h3>
+<div class="formula-box" data-term="Definition of a logarithm">For \(b > 0\) and \(b \neq 1\), the logarithmic function with base \(b\) is the inverse of the exponential function with base \(b\):<br>\[y = \log_{b}x \quad \text{if and only if} \quad x = b^{y}\]The domain of \(y = \log_{b}x\) is \(x > 0\) and its range is all real numbers. The y-axis (\(x = 0\)) is a vertical asymptote of the graph.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the domain of \(f(x) = \log_{5}(12 - 3x)\).<br>\[12 - 3x > 0\]\[12 > 3x\]\[\boxed{x < 4}\]</div>
+
+<h3>Evaluating logarithms using the definition</h3>
+<div class="formula-box">To evaluate \(\log_{b}x\), set the expression equal to \(y\) and rewrite it in exponential form \(b^{y} = x\). Then use the fact that if \(b^{m} = b^{n}\), then \(m = n\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate (a) \(\log_{2}\left(\frac{1}{32}\right)\) and (b) \(\log_{27}9\) without using a calculator.<br>(a)<br>\[y = \log_{2}\left(\frac{1}{32}\right)\]\[2^{y} = 2^{-5}\]\[\boxed{y = -5}\]<br>(b)<br>\[y = \log_{27}9\]\[27^{y} = 9\]\[3^{3y} = 3^{2}\]\[3y = 2\]\[\boxed{y = \frac{2}{3}}\]</div>
+
+<h3>Common and natural logarithms</h3>
+<div class="formula-box">The common logarithm has base \(10\) and is written \(\log x\) (the base is omitted). The natural logarithm has base \(e\) and is written \(\ln x\); it is the inverse of \(y = e^{x}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate (a) \(\log 10000\), (b) \(\ln\left(\frac{1}{e^{4}}\right)\) and (c) \(10^{\log 6}\).<br>(a)<br>\[\log 10000 = \log(10^{4})\]\[\boxed{\log 10000 = 4}\]<br>(b)<br>\[\ln\left(\frac{1}{e^{4}}\right) = \ln(e^{-4})\]\[\boxed{\ln\left(\frac{1}{e^{4}}\right) = -4}\]<br>(c)<br>\[\boxed{10^{\log 6} = 6}\]</div>
+
+<h3>Basic properties of logarithms</h3>
+<div class="formula-box" data-term="Basic properties of logarithms">For \(b > 0\) and \(b \neq 1\):<br>\[\log_{b}1 = 0 \qquad \log_{b}b = 1\]\[\log_{b}(b^{x}) = x \qquad b^{\log_{b}x} = x\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Simplify (a) \(\log_{9}(9^{7})\), (b) \(5^{\log_{5}13}\) and (c) \(\log_{6}1\).<br>\[\boxed{\log_{9}(9^{7}) = 7}\]\[\boxed{5^{\log_{5}13} = 13}\]\[\boxed{\log_{6}1 = 0}\]</div>
+
+<h3>Laws of logarithms</h3>
+<div class="formula-box" data-term="Laws of logarithms">Given \(M > 0\), \(N > 0\) and any real number \(k\), for \(b > 0\) and \(b \neq 1\):<br>\[\log_{b}(MN) = \log_{b}M + \log_{b}N\]\[\log_{b}\left(\frac{M}{N}\right) = \log_{b}M - \log_{b}N\]\[\log_{b}(M^{k}) = k\log_{b}M\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>(a) Write \(\log_{b}\left(x^{3}\sqrt{y}\right)\) as a sum of simple logarithms.<br>\[\log_{b}\left(x^{3}\sqrt{y}\right) = \log_{b}(x^{3}) + \log_{b}\left(y^{\frac{1}{2}}\right)\]\[\boxed{= 3\log_{b}x + \frac{1}{2}\log_{b}y}\]<br>(b) Write \(4\ln x - 3\ln y\) as a single logarithm.<br>\[4\ln x - 3\ln y = \ln(x^{4}) - \ln(y^{3})\]\[\boxed{4\ln x - 3\ln y = \ln\left(\frac{x^{4}}{y^{3}}\right)}\]</div>
+
+<h3>Change of base formula</h3>
+<div class="formula-box" data-term="Change of base formula">For positive reals \(a\), \(b\), \(x\) with \(a \neq 1\) and \(b \neq 1\):<br>\[\log_{b}x = \frac{\log_{a}x}{\log_{a}b}\]In particular, using common or natural logarithms:<br>\[\log_{b}x = \frac{\log x}{\log b} = \frac{\ln x}{\ln b}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Use the change of base formula to evaluate \(\log_{7}50\), giving the answer to 4 significant figures.<br>\[\log_{7}50 = \frac{\log 50}{\log 7}\]\[\boxed{\log_{7}50 \approx 2.010}\]</div>
+</div>

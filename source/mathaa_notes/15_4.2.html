@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>The number e as a limit</h3>
+<div class="formula-box" data-term="Definition of e">The number \(e\) is the irrational constant defined as the limit<br>\[e = \lim_{n \to \infty}\left(1+\frac{1}{n}\right)^n\]To twelve decimal places, \(e \approx 2.718281828459\). It arises naturally when a quantity is compounded continuously rather than at discrete intervals.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\left(1+\dfrac{1}{n}\right)^n\) for \(n=4\) and for \(n=100\), and state what value these approach as \(n \to \infty\).<br>\[\left(1+\frac{1}{4}\right)^4 = (1.25)^4\]\[\boxed{(1.25)^4 \approx 2.441406}\]\[\left(1+\frac{1}{100}\right)^{100} = (1.01)^{100}\]\[\boxed{(1.01)^{100} \approx 2.704814}\]As \(n \to \infty\), these values approach \(\boxed{e \approx 2.718281828459}\)</div>
+
+<h3>Continuously compounded interest</h3>
+<div class="formula-box" data-term="Continuous compound interest formula">As the number of compounding periods per year \(n \to \infty\), the compound interest formula \(A = P\left(1+\dfrac{r}{n}\right)^{nt}\) approaches continuous compounding:<br>\[A(t) = Pe^{rt}\]where \(P\) is the principal, \(r\) is the annual interest rate (as a decimal), and \(t\) is the time in years.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the amount after 10 years if $1000 is invested at an annual rate of 5.25%, compounded continuously.<br>\[A(10) = 1000e^{0.0525(10)}\]\[A(10) = 1000e^{0.525}\]\[\boxed{A(10) \approx \$1690.46}\]</div>
+
+<h3>The natural exponential function</h3>
+<div class="formula-box" data-term="Natural exponential function">The natural exponential function is defined by<br>\[f(x) = e^x\]Its domain is all real numbers, \(x \in \mathbb{R}\), and its range is all positive real numbers, \(y>0\). Its graph passes through \((0,1)\), has horizontal asymptote \(y=0\), and is an increasing (growth) curve since \(e>1\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>State the domain, range, y-intercept and horizontal asymptote of \(f(x) = e^x\), and hence of \(g(x) = e^x + 3\).<br>The graph of \(g\) is \(f\) shifted up \(3\) units, so its asymptote also shifts up \(3\) units, and \(g(0) = e^0+3 = 4\).<br>\[\boxed{f: \text{domain } x\in\mathbb{R}, \text{ range } y>0, \text{ asymptote } y=0}\]\[\boxed{g: \text{asymptote } y=3, \text{ range } y>3, \text{ y-intercept } (0,4)}\]</div>
+
+<h3>Continuous exponential growth and decay</h3>
+<div class="formula-box" data-term="Continuous growth/decay model">If an initial quantity \(P\) grows or decays continuously at a rate \(r\) over time \(t\), the amount is<br>\[A(t) = Pe^{rt}\]If \(r>0\) the quantity grows (continuous growth); if \(r<0\) the quantity decays (continuous decay).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A new jet costs $150 million and loses value continuously according to \(A(t) = 150e^{-0.053t}\), where \(A(t)\) is its value in millions of dollars after \(t\) years. Find its value after 5 years.<br>\[A(5) = 150e^{-0.053(5)}\]\[A(5) = 150e^{-0.265}\]\[\boxed{A(5) \approx \$115 \text{ million}}\]</div>
+
+<h3>Comparing discrete and continuous compounding</h3>
+<div class="formula-box">For the same principal \(P\), rate \(r\) and time \(t\), continuous compounding always gives a greater amount than compounding a finite number of times per year, since<br>\[e^{rt} = \lim_{n \to \infty}\left(1+\frac{r}{n}\right)^{nt} > \left(1+\frac{r}{n}\right)^{nt}\]for any finite \(n\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>$2000 is invested at an annual rate of 4% for 6 years. Compare the amount after 6 years when compounded annually versus compounded continuously.<br>Annually:<br>\[A = 2000(1.04)^6\]\[\boxed{A \approx \$2530.64}\]Continuously:<br>\[A = 2000e^{0.04(6)}\]\[\boxed{A \approx \$2542.50}\]</div>
+</div>
