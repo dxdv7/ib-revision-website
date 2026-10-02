@@ -1,0 +1,86 @@
+{
+  "1": {
+    "name": "Algebra and function basics",
+    "start": 1,
+    "end": 44,
+    "chars": 74169,
+    "file": "source/mathaa_raw/01_Algebra_and_function_basics.txt"
+  },
+  "2": {
+    "name": "Functions, equations, and inequalities",
+    "start": 45,
+    "end": 70,
+    "chars": 44325,
+    "file": "source/mathaa_raw/02_Functions_equations_and_inequalities.txt"
+  },
+  "3": {
+    "name": "Sequences and series",
+    "start": 71,
+    "end": 112,
+    "chars": 63735,
+    "file": "source/mathaa_raw/03_Sequences_and_series.txt"
+  },
+  "4": {
+    "name": "Exponential and logarithmic functions",
+    "start": 113,
+    "end": 148,
+    "chars": 65085,
+    "file": "source/mathaa_raw/04_Exponential_and_logarithmic_functions.txt"
+  },
+  "5": {
+    "name": "Trigonometric functions and equations",
+    "start": 149,
+    "end": 190,
+    "chars": 65360,
+    "file": "source/mathaa_raw/05_Trigonometric_functions_and_equations.txt"
+  },
+  "6": {
+    "name": "Geometry and trigonometry",
+    "start": 191,
+    "end": 234,
+    "chars": 71294,
+    "file": "source/mathaa_raw/06_Geometry_and_trigonometry.txt"
+  },
+  "7": {
+    "name": "Statistics",
+    "start": 235,
+    "end": 306,
+    "chars": 146960,
+    "file": "source/mathaa_raw/07_Statistics.txt"
+  },
+  "8": {
+    "name": "Probability",
+    "start": 307,
+    "end": 348,
+    "chars": 84242,
+    "file": "source/mathaa_raw/08_Probability.txt"
+  },
+  "9": {
+    "name": "Differential calculus 1",
+    "start": 349,
+    "end": 398,
+    "chars": 89556,
+    "file": "source/mathaa_raw/09_Differential_calculus_1.txt"
+  },
+  "10": {
+    "name": "Differential calculus 2",
+    "start": 399,
+    "end": 430,
+    "chars": 52292,
+    "file": "source/mathaa_raw/10_Differential_calculus_2.txt"
+  },
+  "11": {
+    "name": "Integral calculus",
+    "start": 431,
+    "end": 474,
+    "chars": 61119,
+    "file": "source/mathaa_raw/11_Integral_calculus.txt"
+  },
+  "12": {
+    "name": "Probability distributions",
+    "start": 475,
+    "end": 518,
+    "chars": 90644,
+    "file": "source/mathaa_raw/12_Probability_distributions.txt"
+  }
+}

@@ -1,0 +1,2268 @@
+    
+  
+  
+Differential.calculus 2 
+B 
+e 
+b ) 
+RBW an 
+| Y\ A 
+- 
+\ 
+\ 
+Y el T 
+A 
+‘ 
+\‘ 
+\ 
+W 
+! 
+    
+ 
+1\ 
+\ 
+{ 
+\ 
+\ 
+\! 
+\ 
+\ 
+     
+w 
+L\ 
+\‘ |\ 
+| %
+
+400 
+Differential calculus 2 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« finding the derivative of a composite function 
+« finding the derivative of a function that is in the form of a product or quotient 
+« finding the derivative of exponential and logarithmic functions 
+« solving problems requiring a solution that is an optimum; that is, a 
+maximum or minimum (optimisation). 
+The primary purpose of Chapter 9 was to establish some fundamental concepts 
+and techniques of differential calculus. Chapter 9 also introduced some 
+applications involving the differentiation of functions: finding maxima and 
+minima of a function; kinematic problems involving displacement, velocity, 
+and acceleration; and finding equations of tangents and normals. The focus of 
+this chapter is to expand our set of differentiation rules and techniques and to 
+deepen and extend the applications introduced in Chapter 9 - particularly using 
+methods of finding extrema in the context of finding an ‘optimum’ solution to a 
+problem. We start by investigating the derivatives of two important functions. 
+Derivatives of exponential and 
+logarithmic functions 
+To make a conjecture for the derivatives of the functions y = e*and 
+y = Inx, 
+we will use the same informal approach that worked in the previous chapter 
+for determining the derivative of y = cosx. We start by using some graphing 
+technology (for example, a GDC) to graph the derivative of the function and 
+then examine the graph’s shape to make a persuasive conjecture for the rule 
+for the derivative. We then check the rule for a few selected values to help to 
+confirm our conjecture. 
+rivative of the 
+exponential functi 
+  
+Let’s review some important facts about exponential functions. An exponential 
+function with base b is defined as fix) = b*, b > 0 and b # 1. The graph of 
+f 
+passes through (0, 1), has the x-axis as a horizontal asymptote, and, depending 
+on the value of the base of the exponential function b, will either be a 
+continually increasing exponential growth curve, as shown in Figure 10.1, or a 
+continually decreasing exponential decay curve, as shown in Figure 10.2. 
+In Chapter 4 we learned that the exponential function e*, sometimes written as 
+‘exp x} is a particularly important function for modelling exponential growth 
+x 
+and decay. The number e was defined in Section 4.2 as the limit of (1 + %) 
+as 
+x — 00. Let’s make a conjecture for the derivative of e* by looking at its graph 
+on our GDC.
+
+©,1) 
+o 
+x 
+Figure 10.1 Exponential growth curve: flx) = b for b > 1. 
+Asx— 00, fix) — o0; fis an increasing function 
+  
+Figure 10.2 Exponential decay curv    
+As x— o0, fix) — 0 fis a decreasing function 
+Look at Figure 10.3. The graph of the derivative of e* appears to be identical to 
+e*itself. That is, %{e") = e*. Let’s make further use of a GDC to compare 
+results for the derivative’s value computed by the GDC with the value of the 
+rule from our conjecture for selected values of x. 
+  
+  
+ix) = b for0<b<1. 
+  
+Plotl 
+Plot2 
+Plot3 
+\Yige(X) 
+YYo= 
+  
+  
+  
+  
+  
+9 
+(ox)|x=1 
+(€)1 
+4 (o|x=3 
+& 
+   
+2.71828 
+2.71828 
+20,0855 
+20.0855 
+  
+ 
+  
+  
+  
+  
+  
+ 
+4 
+356 
+& e lxms.37 
+e 
+4315.64 
+0.011109 
+d & e lats 
+s 
+0.011109 
+  
+   
+  
+  
+Derivative of the exponential function 
+Iffix) = e* then f(x) = e* In Leibniz nutzlion,i‘s") S 
+The derivative of the exponential function is the exponential function. More 
+precisely, the slope of the graph of fix) = e* at any point (x, e¥) is equal to the 
+y-coordinate of the point. 
+  
+Now that we have found the derivative of y = e*, let’s find the derivative of 
+its inverse, y = Inx, x > 0. We start by using our GDC to view a graph of the 
+derivative of fix) = Inx and also construct a table of ordered pairs (x, f'(x)). 
+  
+Plotl 
+Plot2 
+Plot3 
+\iE1n(X)H 
+Y 
+Y 
+Y 
+Y 
+Y 
+\¥7= 
+   
+   
+   
+  
+  
+Plotl_Plotz 
+Plotd 
+ 
+ 
+ 
+  
+sl 
+N 
+ 
+ 
+  
+  
+  
+  
+  
+X 
+[Y2 
+P ERROR 
+I 
+2 
+5 
+3 
+133333 
+1 
+25 
+5 
+2 
+6 
+“T6667 
+=0 
+  
+  
+Figure 10.4 Graphing the derivative of y = Inx 
+ 
+1 
+| 
+  
+  
+Plotl 
+Plot2 
+Plot3 
+   
+e 
+=nDeriv(Yi, X, 
+Y = 
+\Y: 
+ 
+  
+  
+ 
+ 
+  
+Figure 10.3 Graphing the 
+derivative of ¢* 
+Note that in the GDC 
+images above, the graph of 
+y = e¥is displayed in thin 
+style and the graph 
+A 
+fy 
+= —~(e¥) is displayed 
+ofy = e 
+s 
+displaye 
+in bold style. 
+Note that in the GDC 
+images on the left, the 
+second graph screen has 
+the graph of y = Inx 
+turned off, so that only 
+the graph of the derivative 
+of y = Inxis displayed. 
+401
+
+Derivative of the natural 
+logarithm function 
+Iffix) = Inx, then 
+09 =L 0 
+in Leibniz 
+N 
+notaunna(lnx) == 
+402 
+Differential calculus 2 
+In the table, each value in the Y, column is the gradient of the tangent to 
+y = Inx at the given value for x. From the graph of the derivative, and especially 
+from the table, we conjecture that the derivative of Inx is % Lets use a GDC to 
+evaluate the derivative of Inx and graph the function of % and see if they match. 
+  
+TETRY 
+d 
+£1(:0= 
+g (1n(x)) 
+1 
+X] 
+T6TRY 
+£2(x)=% 
+1- k 
+o 
+  
+-6.67) 
+ 
+  
+ 
+ 
+  
+< 
+-6.67| 
+ 
+ 
+  
+Figure 10.5 GDC screens showing the derivative of I x and 
+Therefore, %(lnx) = i 
+Summary of differentiation rules 
+Derivative of " 
+flx) = x" = f'tx) = nx""! 
+Derivative of sinx 
+fix) = sinx = f'(x) = cosx 
+Derivative of cosx 
+fix) = cosx = f/(x) = —sinx 
+Derivative of X 
+fix) = e¥ = 
+) = e* 
+  
+Derivativeoflnx 
+flx) = Inx = 
+) =+ 
+Example 10.1 
+Differentiate each of the following functions. 
+  
+@=5-2 
+®g=-" 
+ ©y-6-n%) 
+Solution 
+o9 
+= 
+5y 
+5.4y 
+_1ld, 
+@) fo= dx(S) 
+ZdX(e) 
+(b) gx) 
+de(].nx) 
+— 
+(= 
+I 
+=10/=2¢ 
+2 
+= B 
+_ i 
+2x 
+dy_d 
+d( 
+(e’)) 
+(c) e a(G) 
+5 In{= 
+=0— i(lne3 — Inx) 
+dx 
+= *%(lnez) S %(lnx) 
+d 
+1 
+SR 
+d)c( 
+g 
+X 
+T 
+5 
+m— 
+x
+
+Example 10.2 
+Find the equation of the line tangent to each function at the specified value 
+of x. Express the equation exactly. 
+@) y=e*+1 
+x=1 
+(b) y=lnx 
+x=4 
+e 
+Solution 
+(a) Whenx =1,y =e! + 
+1 = e + 
+L. The point of tangency 
+is (1, e + 1). 
+j—')vc = e* = 
+slope of tangent line = e! 
+= e 
+Substitute into point-slope form of a line: y — y; = m(x — xy) 
+y— (e + 
+1) = elx — 1) = equation of tangent line is y = ex + 1 
+A graph of the curve and the result for the tangent line on a GDC 
+provides evidence that the result is correct. 
+  
+  
+Plotl 
+Plot2 
+Plot3 
+Yl=e 
+" (X)+1 
+sYige  (X)+1 
+“YoEex+l 
+b 
+YYo= 
+Y= 
+1 
+¥=3.7182818 
+    
+  
+  
+  
+  
+  
+  
+(b) When x = 4, y = In4. The point of tangency is (4, In4). 
+i 
+dx 
+Substitute into point-slope form of a line: y — y, = m(x — x,) 
+S slope of tangent line = L 
+x 
+4 
+y=Ind= i( 
+— 4) = equation of tangent line is y = ix —1+In4 
+Again, a graph of the curve and the result for the tangent line provides 
+evidence that the result is correct. 
+  
+Plotl_PlotZ 
+Plotd 
+YI=In(X) 
+(2f25k-1+1n( 
+   
+  
+x=4 
+¥=1.3862944 
+ 
+ 
+ 
+ 
+  
+[5G (IR 
+1. Write down the derivative of each function. 
+@ y=5-e 
+(b) y=x+ Inx 
+©y=2 
+(d) y = 2elnx 
+(e) y= %(e" + 2cosx) 
+(f) y=12e+Inx 
+403
+
+404 
+Differential calculus 2 
+2. Find the equation of the tangent to the given curve at the specified value 
+of x. Express the equation exactly, in the form y = mx + c. 
+gi=mll 
+4 
+(b)y=xt+te 
+x=0 
+x=10] 
+  
+@) y= 
+(c) yzglnx 
+x=e 
+3. Find the coordinates of any stationary points on the curve y = x — e*. 
+Classify any such points as a maximum, minimum, or neither, giving 
+reasons for your answer. 
+4. Show that the curve y = x — Inx has no points of inflection. 
+5. Find the equation of the normal line to the curve y = 3 + sinx at the 
+. 
+T 
+point where x = = 
+6. Consider the function y = e* — x3. 
+(a) Find f(x) and f"(x). 
+(b) Find the x-coordinates (accurate to three significant figures) for any 
+points where f'(x) = 0. 
+(c) Indicate the intervals for which f(x) is increasing and the intervals 
+for which f(x) is decreasing. 
+(d) For the values of x found in part (b), state whether that point on the 
+graph of fis a maximum, minimum, or neither. 
+(e) Find the x-coordinate of any inflection point(s) for the graph of f. 
+(f) 
+Indicate the intervals for which f{x) is concave up, and indicate the 
+intervals for which f(x) is concave down. 
+7. A line with gradient m passes through the origin and is tangent to the 
+graph of y = Inx. Find the value of m. 
+The chain rule 
+‘We know how to differentiate functions such as fix) =/x and g =x3+2x—3, 
+but how do we differentiate the composite function fig(x)) = 
+v B+ 2x— 37 
+The rule for computing the derivative of the composite of two functions 
+  
+(a ‘function of a function’), is called the chain rule. Because most functions 
+that we encounter in applications are composites of other functions, it can 
+be argued that the chain rule is the most important, and most widely used, 
+differentiation rule. 
+Table 10.1 shows some examples of functions that we can differentiate with the 
+rules that we have learned thus far, and further examples of functions that are 
+best differentiated with the chain rule.
+
+  
+Differentiate without the chain rule 
+Differentiate with the chain rule 
+  
+  
+  
+ 
+y = cosx 
+y = cos2x 
+=3+ 5x 
+y=V3x % 5x 
+y=Inx 
+y=Inll -3 
+- 
+- 
+S 
+LT 
+ 
+ 
+  
+Table 10.1 Functions that can be differentiated with and without the chain rule 
+  
+Bl e 
+i 
+  
+  
+iating a composite fu    
+The chain rule says, in a very basic sense, that given two functions, the derivative 
+of their composite is the product of their derivatives - remembering that a 
+derivative is a rate of change of one quantity (variable) with respect to another 
+quantity (variable). For example, the function y = 8x + 6 = 2(4x + 3) is the 
+composite of the functions y = 2u and u = 4x + 3. Note that the function y is in 
+terms of u, and the function u is in terms of x. How are the derivatives of these 
+. 
+b_ 
+b 
+du_ 
+oo 
+three functions related? Clearly, E =8, d_ =2and a = 4. Since 8 = 2 
+- 4, the 
+u 
+ot 
+ly _dy 
+du 
+. 
+derivatives relate such that — = W o In other words, rates of change multiply. 
+u 
+d 
+If we think of derivatives as rates of change, the relationship g d—y 
+. il—‘)': can 
+be illustrated by a practical example. Consider the pair of levers in Figure 10.6, 
+with lever endpoints U and U’ connected by a segment that can shrink and 
+stretch but always remains horizontal. Hence, points U and U’ are always the 
+same distance, u, from the ground. 
+X 
+F 
+u'u 
+B 
+* 
+    
+  
+Figure 10.6 
+Two 
+levers with horizontal connection between U and U’ 
+As point Y moves down, points U and U’ move up, and point X moves down 
+but at different rates. Let dy, du, and dx represent the change in distance from 
+the ground for the points Y, U, and X, respectively. Because YF, = 6 and 
+UF, = 2, then if point Y moves such that dy = 3, then du = 
+1. Since UF, = 4 
+and XF, = 2, then if point U’ moves so that du = 2, then dx = 
+1. 
+  
+   
+Y 
+¥ ground 
+Figure 10.7 dx, du, and dy represent the change in distance from the ground for X, Uy and Y 
+405
+
+For the polynomial 
+function in 
+Example 103, we could 
+have differentiated the 
+function in expanded 
+form by differentiating 
+term by term rather than 
+differentiating the factored 
+form by the chain rule. 
+%Zi{léx‘ — 82 +1) 
+= 64x3 — 16x 
+‘This confirms the result. 
+tis not always easier to 
+differentiate powers of 
+polynomials by expanding 
+and then differentiating 
+term by term. For 
+example, it is far better to 
+find the derivative of 
+7= (3x + 58 bythe 
+chain rule. 
+406 
+Differential calculus 2 
+Combining these two results, we can see that for every 6 units that Y’s distance 
+changes, X’s distance will change 1 unit. That is, ay = 6. Therefore, we can 
+write — = —— 
+. == = 3.2 = 6. In other words, the rate of change of 
+y with 
+dx 
+ du 
+dx 
+respect to x is the product of the rate of change of 
+y with respect to u and the 
+rate of change of u with respect to x. 
+Example 10.3 
+The polynomial function y = 16x* — 8x2 + 1 = (4x — 1) is the composite 
+d 
+of y = u?and u = 4x? — 1. Use the chain rule to find Ey’ the derivative of y 
+with respect to x. 
+| 
+Solution 
+:uzzd—yZZM 
+y 
+du 
+u:4x2*1$d—u:8x 
+b 
+b 
+Applying 
+the 
+chain rule: = = = 
+. S = 
+2.8 
+pplying 
+the chain ri 
+ed.x 
+"W 
+T 
+u-8x 
+=2(4x2—1)-8x 
+= 64x3 
+— 16x 
+‘We often write composite functions using nested function notation. For 
+example, the notation f{g(x)) denotes a function composed of functions fand 
+g such that g is the ‘inside’ function and fis the ‘outside’ function. For the 
+composite function 
+y = (4x? — 1)2 in Example 10.3, the inside function is 
+g(x) = 4x? — 
+1 and the outside function is fiu) = u2 Looking again at the 
+solution for Example 10.3, we see that we can choose to express and work out 
+the chain rule in function notation rather than in Leibniz notation. 
+  
+  
+Leibniz notation 
+Function notation 
+& 
+d 
+YD du_ e 
+il/[grx);]:f'm)-g(x;:m-sx 
+dr 
+du 
+dx 
+dx 
+— 
+B 
+=f(gw)- g 
+= 2(4x2 — 1) - 8x 
+=204x?— 1)- 8x 
+e 
+— 16 
+= 64x’ — 16x 
+- 
+* 
+ 
+ 
+   
+Table 10.2 Leibniz and function notation for using the chain rule to differentiate y = (4x* — 1) 
+This leads us to formally state the chain rule in the two different notations. 
+Chain rule 
+Ify = fiw is a function in terms of u and u = g(x) is a function in terms of x, then the function 
+= figtn) is differentiated as follows: 
+dy 
+d 
+Ey = %% 
+(Leibniz form) 
+u 
+or, equivalently, 
+dy_d 
+— 
+ATy 
+3o /i) = flgu) g0 
+(function notation form)
+
+The chain rule needs to be applied carefully. Consider the function notation 
+form for the chain rule %[ ﬁg(x))l = f'(gx)) 
+- g'x). Although it is the product 
+of two derivatives, it is important to point out that the first derivative involves 
+the function f differentiated at g(x) and the second is function g differentiated at 
+dy 
+d 
+x. The chain rule written in Leibniz form, oA 
+4 
+. d_u, is easily remembered 
+u 
+dx 
+because it appears to be an obvious statement about fractions - but they are 
+dy 
+g du 
+& 
+not fractions. The expressions e and — are derivatives or, more precisely, 
+u 
+x 
+limits, and although du and dx essentially represent very small changes in the 
+variables u and x, we cannot guarantee that they are non-zero. 
+The function notation form of the chain rule offers a very useful way of saying 
+the rule ‘in words’ and thus, a very useful structure for applying it. 
+fis outside function 
+gis inside function 
+N/ 
+a = a[ﬂgm] 7f(gm gx) 
+derivative of outside function 
+X 
+derivative of inside function 
+with inside function unchanged 
+The chain rule in words: 
+derivative of _ 
+derivative of outside function 
+« . derivative of 
+composite ~ with inside function unchanged ~ inside function 
+Although this is taking some liberties with mathematical language, the 
+mathematical interpretation of the phrase ‘with inside function unchanged’ is that 
+the derivative of the outside function, f, is evaluated at g(x), the inside function. 
+Example 10.: 
+Differentiate each function by applying the chain rule. Start by decomposing 
+the composite function into the outside function and the inside function. 
+(a) y = cos2x 
+(b) y=v3x2 + 5x 
+_ 
+1 
+(c) y=In(1 
+— 3x) 
+(d)yfm 
+e 
+————————————————— 
+Solution 
+(a) y = flgl) = cos2x 
+ outside function is fiu) = cosu 
+inside function is g(x) = 2x 
+dy 
+d 
+In Leibniz form: d_il: 
+= é 
+. % 
+= (—sinu) - 2 = —2 sin(2x) 
+‘The chain rule is our 
+most important rule 
+of differentiation. It is 
+an indispensable tool 
+in differential calculus. 
+Forgetting to apply the 
+chain rule when it needs 
+to be applied, or applying 
+it improperly, is a 
+«common source of errors 
+in calculus computations. 
+Itis important to 
+understand it, practise it, 
+and master it. 
+407
+
+Differential calculus 2 
+Alternatively, in function notation form: 
+d 2 — flow) - ¢ = [—sin(2x] 
+- 2 = —2 sin(2x) 
+dx 
+) 
+derivative of outside function 
+D 
+derivative of inside function 
+with inside function unchanged 
+“ 
+(b) y = flgw) = V3x2 + 5x outside function is flu) =V = u> f'u) = %u" 
+inside function is gx) = 3x + 5x 
+dy 
+1 
+L, 
+e =fllgw) 
+- g0 = E(Sx 
++ 5%)7% 
+- (6x + 5) 
+(/72 W 
+1.3 
+dx  oBx2+ 50 
+2/3x7 
++ 5x 
+_ 
+o 
+. 
+b 
+T 
+| 
+(c) y=fig) = In(1 — 3x) outside function is fiu) = Inu 
+for=g 
+inside function is gix) = 
+1 — 3x 
+Y~ figony - goo = 
+L 
+-3 
+dx 
+s 
+&y__ 
+3 
+3 
+= 
+r 
+& 
+I35z 
+O 
+w1 
+  
+  
+  
+= 
+R 
+| - 
+; 
+e L 
+oy 
+(d) y = figwx) 
+AT 
+outside function is fu) 
+=, = 
+u™' 
+f'w) 
+u 
+inside function is g(x) = 3x + x 
+d: 
+ay = flgw) - g 
+= —B3x2 + x)2- (6x + 1) 
+dy 
+6x+1 
+A& 
+G+ 
+Example 10.5 
+Find the derivative of the function y = (2x + 3) by: 
+(a) expanding the binomial and differentiating term by term 
+(b) using the chain rule. 
+Solution 
+(@) 
+y=0@x+3)7=@2x+3)2x+ 372 
+= (2x + 3)(4x2 + 12x + 9) 
+B 
+A E 
+| R 
+R 
+D 
+G2 
+S 6.8 B4 
+= 8x> + 36x2 + 54x + 27 
+dy 
+— =24x2 
++ 72x + 54 
+dx 
+* 
+408
+
+(b) y = flgw) = 2x + 3)? 
+y=fu =u*=fw=3u? 
+u=gx)=2x+3=glx)=2 
+= 6(2x + 3)2 
+=6(4x2+ 12x + 9) 
+=24x2 + 72x + 54 
+Example 10.6 
+For each function f(x), find f"(x). 
+(@) foy =sin2x 
+ (b) f 
+=sinx? 
+(¢) fy = e 
+(d) fioy = V(7 — 527 
+e 
+Solution 
+(a) The expression sin’x is an abbreviated way of writing (sinx)2. 
+Hence, if fix) = glh(x)) = (sinx)?, then the outside function is gu) = u?, 
+and the inside function is h(x) = sinx. 
+By the chain rule, f'(x) = g/(h(x)) 
+- h'(x) 
+= 2(sinx)! 
+- cosx 
+‘Therefore, 
+f(x) = 2 sinx cosx 
+(b) The expression sinx? is equivalent to sin(x2), and is not (sinx). 
+Hence, if fix) = glh(x)) = sin(x?), then the outside function is g(u) = sinu, 
+and the inside function is h(x) = x2. 
+By the chain rule, f'(x) = g'(h(x)) 
+- h'(x) 
+= cos(x?) - 2x 
+Therefore, 
+fx) = 2x cos(x?) 
+(¢) fix) = glh(x)) = e 
+ outside function is g(u) = e* 
+inside function is h(x) = sinx 
+By the chain rule, f'(x) = g/(h(x)) 
+- h'(x) 
+Therefore, 
+ixi=tesz=cosy 
+(d) First change from radical form to rational power form. 
+foo = Y7 
+= 5x% = (7 — 50} 
+Endeavour to write 
+. 
+. 
+functions in a way that 
+fix) = glhx) = (7 — 50° 
+outside function is g(u) = u* 
+eliminates any confusion 
+inside function is h(x) = 7 — 5x 
+::_ﬁ‘;dzgzz:ﬁ::“mt 
+By the chain rule, f'(x) = g(h(x)) 
+- h'(x) 
+example, write sin(x) 
+2 
+L 
+rather than sinx% 
+= 
+oY 
+Gh) 
+1 + Inx rather than 
+R 
+. 
+Inx + 155 + Vx rather 
+Therefore, 
+B e 
+O 
+than VX + 5;1n(4 — x2) 
+37 — 50} 
+37— 5x) 
+rather than Ind — x2, 
+409
+
+410 
+Differential calculus 2 
+Exercise 10.2 
+1. Find the derivative of each function. 
+  
+(a) y=(3x— 8% 
+b)) y=+vi—x 
+(c) y=Inx2 
+dy=2 sin(g) 
+(&) y=2+4)72 
+) y=e> 
+@7 
+®) y=cos’x 
+@) y=e®—2x 
+e 
+1 
+- 
+- 
+= 
+R == B 
+PO 
+M) 
+y=Inkx>—9) 
+. Find the equation of the tangent to the given curve at the specified value 
+of x. Express the equation exactly in the form y = mx + c. 
+(@) y=0x*—103 
+b= 
+() y=v3x2-2 
+x=3 
+(c) y = sin2x 
+x=a 
+. An object moves along a line so that its position, s, relative to a starting 
+point at any time ¢ = 0 is given by s(t) = cos(t* — 1). 
+(a) Find the velocity of the object as a function of . 
+(b) Find the object’s velocity at t = 0. 
+(c) 
+In the interval 0 <t < 2.5, find any times (values of t) for which the 
+object is stationary. 
+(d) Describe the object’s motion during the interval 0 < t < 2.5. 
+d; 
+. Find ay for each function. Use your GDC to check your answer. 
+  
+@y=VEtmFl 
+()= 
+© y=G+vx)’ 
+— 
+ecost 
+> 
+2 
+S 
+@y=e 
+(e) y = (Inx) 
+) y Vol 
+. Find the equation of (i) the tangent, and (ii) the normal to each curve at 
+the given point. 
+@) y=   
+s 
+at(3,2) 
+(b) y=V1+4ax 
+at(2,3) 
+(c) y=In4x — 3) 
+at(1,0) 
+. Consider the trigonometric curve y = si.n(Zx — %T) 
+dzy 
+7 
+(b) Find the exact coordinates of any inflection points for the curve in 
+the interval 0 < x < 7. 
+Y 
+(a) Find -~ and 
+dx
+
+The product and quotient rules 
+The product 
+rule 
+  
+With the differentiation rules that we have learned thus far, we can differentiate 
+some functions that are products. For example, we can differentiate the 
+function fix) = (x> + 3x)(2x — 1) by expanding and then differentiating the 
+polynomial term by term. In doing so, we are applying the sum and difference, 
+constant multiple, and power rules from the previous chapter. 
+Sl =2+ 3x)2x — 1) = 2x3 + 5x2 — 3x 
+d 
+d 
+d 
+fo= 25(){3) & Sa(xz) — 35(){) 
+floo = 6x2+10x— 3 
+The sum and difference rule states that the derivative of a sum or difference 
+of two functions is the sum or difference of their derivatives. Perhaps the 
+derivative of the product of two functions is the product of their derivatives. If 
+we try this with the above example we get 
+f'(X):%(XZ‘F:ix)'%(ZX*1):(2)(1’3)42:4)(‘*’5. 
+However, 4x + 6 # 6x2 + 10x — 3, so this is clearly incorrect. 
+The derivative of a product of two functions is not the product of their 
+derivatives. However, there are many products, such as y = (4x — 3)%x — 1)* 
+and f{x) = xsinx, for which it is either difficult or impossible to write the 
+function as a polynomial. In order to differentiate functions like this we need a 
+product rule. 
+Product rule 
+If y is a function in terms of x that can be expressed as the product of two functions, u and v, that 
+are also in terms of x, then the product y = uv can be differentiated as follows: 
+G 
+Gl 
+Gl 
+g 
+Efa(u‘/)*ua‘fva 
+Equivalently, if y = fix) 
+- g(x), then 
+d 
+(Ti = iﬁx) 
+. g\x}] = fix) - gx) + g0 - fx) 
+A formal proof of the product rule is beyond the scope of this book. The 
+following examples show how to apply the product rule in a variety of 
+situations. 
+41
+
+Differential calculus 2 
+Example 10.7 
+Use the product rule to compute the derivative of the function 
+y =2+ 3x)2x—1). 
+Solution 
+Let u(x) = x2 + 3xand v(x) = 2x — 1. Then y = u(x) 
+- v(x)or y = uv 
+du 
+dv 
+== 
+A 
+e 
+2x + 3and 
+By the product rule (in Leibniz form) 
+d_d 
+dv , 
+du 
+s 
+=u—+v—=x2+ 
+2SI 
+S @xE 
+i 
+PG 
+v 
+(Zeis) 
+2x—1)-(2x 
++3) 
+= (2x2 + 6x) + (4x? + 4x — 3) 
+=6x2+10x—3 
+This result agrees with the derivative we obtained earlier from differentiating 
+the expanded polynomial. 
+Example 10.8 
+~| 
+Given y = x%sinx, find = 
+|¢ 
+Solution 
+Lety = fix) 
+- gbx) = x?sinx = fix) = x? and g(x) = sinx 
+f'tx) = 2x and g'(x) = cosx 
+By the product rule (function notation form), 
+dy _4q 
+.y 
+o 
+= 
+- 
++ 
+f 
+[fo - g) = fix - gx) + g0 - fx) 
+= x2. cosx + (sinx) 
+- 2x 
+d I x2cosx + 2x sinx 
+As with the chain rule, it is helpful to remember the structure of the product 
+rule in words. 
+first factor 
+second factor 
+AN 
+& %[ﬂx) - g 
+= flo 
+- g 
++ goo - fx) 
+productof two 
+ __ 
+first 
+derivative of + second X derivative of 
+functions, i.e. factors ~ factor 7 second factor ' factor 
+first factor 
+412
+
+Example 10.9 
+Find the exact coordinates of any stationary points, and any inflection 
+points, for the curve y = xe*. Classify any stationary points as a maximum, 
+minimum, or neither. 
+Solution 
+Recall from Chapter 9 that stationary points occur where the first derivative 
+is zero and that inflection points (where concavity changes) may occur 
+where the second derivative is zero. 
+il—‘f S Li [fo 
+- goo] = fix) 
+- gx) + g 
+- f1x) 
+d 
+d 
+d 
+=9 
+A (X ey 
+epi=tv=(Cr i eie= 
+(V) 
+R S 
+e 
+a*xe 
+er=0=e 
+A 
+#a* 
+when 
+x = 
+Whenw=I=1ly==el= *% 
+Therefore the curve has a stationary point at (* i 7%). 
+Fe 
+Eyz s %(xex +e)= %(xe‘) + ie" 
+= (xe* + ) + e 
+8 
+et 2= 0 
+et D=0 
+2 = 0 
+when 
+x= -2 
+Pt 
+e =0 = eXx 
+B LA 
+An inflection point will occur at x = —2 if the sign of the second derivative 
+changes (i.e. concavity changes) at that point. Find the sign of E}; at test 
+points x = —3 and 
+x = 0. 
+dy 
+1 
+Atx=-3,— 
+2 
+=e¥-3+2=—-L-<0 
+dx? 
+€2 
+dzy 
+Atx=0,—==¢e%0+2)=2>0 
+dx? 
+The second derivative undergoes a sign change at x = —2, hence there is an 
+inflection point on the curve at that point. 
+Whenx = —2,y= —2e2= *% 
+e 
+Therefore, the curve has an inflection point at (*2, = %) 
+e 
+‘We can use the second derivative test to classify the stationary point ( S %) 
+dy 
+1 
+. 
+Atx = 71’@ =e(—1+2)==>0= curveis concaveupatx = —1. 
+e 
+Therefore, the stationary point (7 i, *%) is a minimum point for the curve. 
+It's good practice to perform a graphical check of our results on a GDC. 
+The graph on the GDC not only visually confirms our results but also 
+informs us that (7 i *%) is an absolute minimum. 
+  
+Yi=Xe (X) 
+  
+x=-1 
+¥=-.3678794 
+  
+  
+Yi=Xe (X) 
+ 
+X=-2 
+Y=-.2706706 
+178 3678704412 
+9/l 
+2/€ 5706705665 
+  
+  
+ 
+ 
+  
+Figure 10.8 GDC screens for 
+solution to Example 10.9 
+413
+
+414 
+Differential calculus 2 
+The quotient rule 
+In part (d) of Example 10.4 in Section 10.2, we used the chain rule to find the 
+  
+derivative of the rational function y = 
+by expressing the function as 
+1 
+X2+ x 
+x+3, 
+= 1 
+Although we can write the function as y = (x + 3)2x — 1)~' and then apply 
+both the product rule and the chain rule, it seems worthwhile to have a quotient 
+rule to differentiate such functions more directly. 
+  
+y = (3x2 + x)-1. Can we apply the same approach to differentiating y = 
+Quotient rule 
+If y s a function in terms of x that can be expressed as the quotient of two functions, u and v, that 
+are also in terms of %, then the quotient y = 2 can be differentiated as follows: 
+ydu_, dv 
+G 1(5) 
+v 
+dx 
+. 
+oo 
+_fw 
+Equivlently ify =5 then 
+dy d[fn] _ g0 fw 
+— foo- 
+g 
+[x'X] T e 
+A full proof is beyond the scope of this course. As with the chain rule and the 
+product rule, it is helpful to recognise the structure of the quotient rule by 
+remembering it in words. 
+  
+(denominator) X (deri"aﬁ"e Of) - (numerator)( derivative Of) 
+(derivative of ) _ 
+numerator 
+denominator. 
+quotient 
+(denominator)? 
+Example 10.10 
+x+3 
+dy 
+  
+Gi 
+, find = 
+1veny 
+dx 
+] 
+Solution 
+5O 
+= 
+T 
+e 
+e 
+1:>u x+3andv=2x—1 
+du 
+dv 
+e 
+) 
+dx 
+ddx 
+By the quotient rule (Leibniz form), 
+Ldu_dv 
+d_}':i(g): 
+& 
+dx_x—D-1-(x+3)-2 
+dx 
+dx\v 
+vz 
+(P2 
+_2x—1-2x-6 
+(22 
+7 
+AR 
+(O E)E
+
+Example 10.11 
+\:| 
+Given y = ﬁ, find -~ by using: 
+  
+dx 
+(a) 
+the quotient rule 
+(b) the chain rule. 
+| 
+Solution 
+_fo_ 
+_ 
+. 
+(a) y7@7 2x73¢f(x)— land 
+g 
+=2x—3 
+f®)=0andgx) =2 
+By the quotient rule (function notation form), 
+  
+  
+  
+Y_d ﬁx)] _ 8w S0 —fv- 
+g 
+dx 
+ dx[gWX). 
+[g)? 
+_@2x=3-0-1.0 
+(PRS2 
+dy_ 
+2 
+dx 
+(= 2P 
+(b) y = figw) = 2x17 5= (DXE0 1 
+outside function is fiu) = u~! 
+= flu)=—u? 
+inside function is gx) = 2x — 3 
+By the chain rule (function notation form), 
+d 
+Ey ST RS 2,3 
+) 
+Y2 
+dx 
+(EsaIZ 
+As Example 10.11 illustrates, when required to differentiate a quotient you can 
+choose to rewrite the quotient y = % asy = uv~!, and then the chain rule 
+and/or the product rule instead of the quotient rule. 
+Example 10.12 
+For each function, find its derivative by using 
+(i) 
+the quotient rule 
+(ii) another method. 
+O 
+@ fo=5—%5 
+DXl 
+Bx2 
+  
+  
+(b) g0 = 
+415
+
+v=0x—5"isa 
+composite function, so 
+we'll need the 
+o 
+dv 
+h 
+le to find —— 
+chain rule to 
+find 
+= 
+Note the use of brackets. 
+‘When using the quotient 
+rule, it is a good idea to 
+enclose all factors and 
+derivatives in brackets. 
+Also, be extra careful 
+with the subtraction in 
+the numerator, which 
+causes many errors 
+when using the quotient 
+rule. 
+416 
+Differential calculus 2 
+  
+  
+  
+Solution 
+5 
+S 3= 2 
+OIOFCEPEEEE= 
+du 
+udv 
+f,(x):d_y: 
+de _3-5.-3-0Gr-2:0 
+dx 
+v? 
+(RXES512 
+_6x—15—6x+4 
+(Ockib)2 
+(L1 
+= 
+ey 
+(ii) Rewrite fix) as a product and apply the product rule with the chain 
+rule. PRl ) 
+= 
+et 
+fo=y 
+T 
+(B2 0odts) 
+=u=3x—2andv=(x— 
+5" 
+O %(uv) e u% + v:—; 
+=(Bx—2- %[(2): = S 
+4 @ = B3R =5 
+= (3% — 2)[—(2%x— 5)2. 2]+ 32x— 5)! 
+= ((Fa =R a00ke = G 
+AR a{one = S 
+= (2x — 52[(—6x + 4) + 32x — 5) 
+=(2x— 52—6x + 4 + 6x — 15] 
+T 
+=G> 
+(b) () gm=y= 
+  
+  
+Apply chain rule 
+to %[(ZX = GF| 
+Factorise out HCF 
+OR(PoEE e 
+dy 
+dx 
+_3x2-5—(5x—1)-6x 
+e = o= COMRR Co S 
+ko it o Vit L s O 
+gt 
+dx 
+(3x2)? 
+_ 15x2 — 30 + 6x 
+Ox4 
+_3x(=5x+2) 
+9xt 
+_ —lyar 
+g 
+e
+
+(ii) Use algebra to split the numerator: 
+Db | 
+5 G 
+BxE 
+BYZES 
+Y2 
+  
+lez 
+3 
+  
+8 = 
+_5dy_Lld 
+g 
+3dx(x 
+) 
+3dxbc 
+) 
+S 
+| 
+3( 
+o) 
+3( 
+Dxa) 
+5 
+Sl 
+2 
+5x 
+SOk 
+R 
+v 
+—n = 
+2 
+85 
+3 
+B2 
+B 
+Bxe 
+  
+As Example 10.12 demonstrates, before differentiating a quotient, consider 
+whether it is worthwhile to perform some algebra that may allow you to 
+differentiate more efficiently. 
+By 
+=1 
+(they are reciprocals). However, it is not possible to split the denominator and express as two 
+s 
+323 
+2 
+Sl 
+ey ot 
+) 
+: 
+1" would apply either the quotient rule, or the product rule with the function 
+  
+‘The function h(x) =   initially looks similar to the function gin Example 10.12 part (b) 
+  is not equivalent to 
+Hence, in order to differentiate 
+  
+hix) = 
+rewritten as h(x) = 3x(5x — 1), using the chain rule to differentiation the factor (5x — 1)~1. 
+|5 G 
+TELR (0K 
+1. Find the derivative of each function. 
+  
+@ y= e 
+(c) y=xInx 
+() y= e; 
+(g) y=0x— 1Dx*+1) 
+0 === 
+(k) y = (x? — DIn(3x) 
+  
+  
+b)) y=x/T—x 
+(d) y = sinx cosx 
+_ o 
+il 
+® y=r— 
+_ sinx 
+hy= 
+= 
+G 
+0 =572 
+O y=—t 
+sin?x + cos’x 
+2. Find the equation of the tangent to the given curve at the specified value 
+of x. Express the equation exactly in the form y = mx + c. 
+= 
+=2 
+P 
+* 
+=k 
+= 
+®) y=23+ 
+x=1 
+(©) y=x/x2—3 
+x=2 
+417
+
+Differential calculus 2 
+To find the derivative of 
+. 
+sinx 
+tanx, express it as—— 
+osx 
+and apply the quotient 
+10, 
+rule. 
+418 
+. Consider the function h(x) = 
+. The function h is defined as h(x) = 
+. Consider the function fix) = 
+) 
+e 
+  
+(a) Find the exact coordinates of any stationary points. 
+(b) Determine whether each stationary point is a maximum, minimum, 
+or neither. 
+(c) What do the function values approach as (i) x — oo (ii) x — —o0? 
+(d) Write down the equation of any asymptotes for the graph of h(x). 
+(e) Make an accurate sketch of the curve, indicating any extrema and 
+points where the graph intersects the x- and y-axes. 
+. Find the equation for the tangent and the normal to the graph of 
+  
+1 
+. 
+= 
+at the 
+point where x = —3. 
+o 
+. A curve has equation y = x(x — 4)%. 
+(a) For this curve, find: 
+(i) 
+the x-intercepts 
+(ii) 
+the coordinates of the maximum point 
+(iii) the coordinates of the point of inflection. 
+(b) Use your answers to part (a) to sketch a graph of the curve for 
+0 < x < 4, clearly indicating the features you have found in part (a). 
+. Find the equation of (i) the tangent (ii) the normal to each curve at the 
+given point. 
+  
+(a)y:ﬁ 
+at(3,2) 
+b) y=x/T+x 
+ at(0,0) 
+Or=y 
+a(y) 
+. The tangent to the graph of y = 3xy/1 + 2x at the point (4, 36) intersects 
+the x-axis at point A and intersects the y-axis at point B. Find the exact 
+coordinates of A and B. 
+2x—4 
+—4x+5 
+  
+(a) Find the derivative of h, h'(x). 
+(b) Without using your GDC, find the exact coordinates of any points 
+on the graph of i where there is a horizontal tangent. 
+(c) Use your GDC to confirm your results for part (b). 
+. Find the equation of both the tangent and the normal to the curve 
+y = x tanx at the point where x = %r 
+  
+S| 
+(x+1)3 
+(c) Does the graph of fhave an inflection point at x = 3.8? 
+Give reasons for your answer. 
+Sl 02013 8) 
+(x+ 14 
+  
+(a) Show thatf'(x) = 
+(b) Show that f"(x) =
+
+Optimisation 
+Many problems in science and mathematics involve finding the maximum or 
+minimum value (optimum value) of a function over a specified or implied 
+domain. The development of calculus in the 17th century was motivated to 
+a large extent by maxima and minima (optimisation) problems. One such 
+problem led Pierre de Fermat (1601-1665) to develop his principle of least 
+time: a ray of light will follow the path that takes the least (or minimum) time. 
+The solution to Fermat's principle lead to Snell’s law; or the law of refraction. 
+The solution is found by applying techniques of differential calculus, which can 
+also be used to solve other optimisation problems involving ideas such as least 
+cost, maximum profit, minimum surface area, and greatest volume. 
+We have learned the theory of how to use the derivative of a function to locate 
+points where the function has a maximum or minimum (i.e. extreme) value. 
+It is important to remember that if the derivative of a function is zero at a 
+certain point, it does not necessarily follow that the function has an extreme 
+value (relative or absolute) at that point - it only means that the function has a 
+horizontal tangent (stationary point) at that point. An extreme value may occur 
+where the derivative is zero or at the endpoints of the function’s domain. 
+  
+Figure 10.9 shows the graph of flx) = x* — 8x3 + 18x2 — 16x — 2. 
+The derivative of f(x) is f'(x) = 4x* — 24x? + 36x — 16 = 4(x — H(x — D2 
+The function has horizontal tangents at both x = 
+1 and x = 4 since the 
+derivative is zero at these points. However, an extreme value (absolute 
+minimum) occurs only at x = 4. It is important to confirm — graphically or 
+algebraically - the precise nature of a point on a function where the derivative 
+Figure 10.9 GDC screen showing 
+is zero. Some different algebraic methods for confirming that a value is a 
+the graph of 
+maximum or minimum will be illustrated in the examples that follow. 
+Ja) = xt = 8 
++ 1852 — 16x — 2 
+ 
+ 
+  
+It is also useful to not ignore that one can often find extreme values (extrema) 
+without calculus (e.g. using a minimum command on a graphics calculator). 
+Calculator or computer technology can be very helpful in modelling, solving 
+or confirming solutions to optimisation problems. However, it is important to 
+learn how to apply algebraic methods of differentiation to optimisation problems 
+because it may be the only efficient way to obtain an accurate solution. 
+Let’s start with a relatively straightforward example. We can use the steps in the 
+solution to develop a general strategy that can be applied to more sophisticated 
+problems. 
+Example 10.13 
+Find the maximum area of a rectangle inscribed in an isosceles right-angled 
+triangle whose hypotenuse is 20 cm long. 
+419
+
+General strategy for 
+solving optimisation 
+problems 
+Step 1: Draw a diagram 
+that accurately illustrates 
+the problem. Label all 
+Kknown parts of the 
+diagram. Using variables, 
+label the important 
+unknown quantity (or 
+quantities), for example, 
+xfor base and y for height 
+in Example 10.13. 
+Step 2: For the quantity 
+that is to be optimised 
+(area in Example 10.13), 
+express this quantity as 
+a function in terms of 
+a single variable. From 
+the diagram and/or 
+information provided, 
+determine the domain of 
+this function. 
+Step 3: Find the derivative 
+of the function from Step 
+2, and determine where 
+the derivative is zero. This 
+value (or values) of the 
+derivative, along with any 
+domain endpoints, are the 
+critical values to be tested 
+~ in Example 10.13: x =0, 
+x=10,and 
+x = 20). 
+Step 4: Using algebraic 
+(e.g. second derivative 
+test) or graphical (e.g. 
+GDC) methods, analyse 
+the nature (maximum, 
+‘minimum or neither) of 
+the points at the critical 
+values for the optimised 
+function. Make sure 
+‘you answer the precise 
+question that was asked in 
+the problem. 
+420 
+Differential calculus 2 
+] 
+Solution 
+Step 1: Draw an accurate 
+diagram. Let the base of the 
+  
+  
+  
+  
+rectangle be x cm and the 
+height y cm. 
+y 
+s 
+The area of the rectangle is 
+e 
+i 
+|G 
+A= xycm? 
+by 
+«——20cm 
+  
+Step 2: Express the area as a function in terms of only one variable. 
+It can be deduced from the diagram that y = 10 — %x. 
+Therefore, A(x) = x(lO = %x) S0 %xz 
+x must be positive; from the diagram it is clear that x must be less than 20. 
+Step 3: Find the derivative of the area function and find for what value(s) of 
+x it is zero. 
+A =10—x 
+A'(x) = 0when x = 10 
+Step 4: Analyse A(x) at x = 10 and also at the endpoints of the domain, 
+x=0andx = 20. 
+The second derivative test (Chapter 12) provides information about the 
+concavity of a function. The second derivative is A”(x) = —1 and since 
+A’(x) is always negative, A(x) is always concave down, indicating that A(x) 
+has a maximum at x = 10. 
+A(0) = 0 and A(20) = 0. Therefore A(x) has an absolute maximum at x = 10. 
+  
+Example 10.14 
+Two vertical posts, with heights of 7 m and 13 m, are secured by a rope going 
+from the top of one post to a point on the ground that is between the posts 
+and then to the top of the other post (see diagram). The distance between 
+the two posts is 25 m. Where should the point at which the rope touches the 
+ground be located so that the least amount of rope is used? 
+  
+Solution 
+Step 1: Draw an accurate diagram. 
+Draw the posts as line segments PQ and 
+TS and the point where the rope touches 
+P 
+b 
+the ground is labeled R. The optimum 
+location of point R can be given as a 
+distance from the base of the shorter 
+post, QR, or from the taller post, SR. 
+Q 
+x 
+R 
+25— x 
+S 
+4————25m——————»
+
+It is decided to give the answer as the distance from the shorter post, and 
+this is labeled x. There are two other important unknown quantities — the 
+lengths of the two portions of the rope, PR and TR. These are labeled a and 
+b, respectively. 
+Step 2: The quantity to be minimised is the length L of the rope which 
+is the sum of a and b. From Pythagoras’ theorem, a = Vx2 + 49 and 
+b= /(25 — x)? + 169. Therefore, the function for length (L) can be 
+expressed in terms of the single variable x as 
+Loy = Vx? + 49 + /(25 — 07 + 169 
+VX2 + 49 + vx? — 50x + 625 + 169 
+= Vx2+ 49 + Vx2 
+— 50x + 794 
+From the given information and diagram, the domain of L(x) is 0 < x < 25 
+Step 3: To facilitate differentiation, express L(x) using fractional exponents. 
+1 
+1 
+L(x) = (x? + 49)% + (x2 — 50x + 794)% 
+Apply the chain rule for differentiation: 
+A _ L2 4 49) 500 + Lx2 — 50x + 794) 32x — 50) 
+e 
+3 
+dr _ 
+i 
+ds 
+o 25, 
+dx  VxZ+49  JxZ—50x+ 794 
+By setting g—L = 0, we obtain 
+x 
+  
+xyx%— 50x+ 794 
+= —(x — 25)Vx% + 49 
+x(x? — 50x + 794) 
+= (25 — 0Ax? +49) 
+x4 — 50x% + 794x2 
+= x* — 50x3 + 674x2 — 2450x + 30625 
+120x2 + 2450x — 30625 = 0 
+5(4x — 35)(6x +175) 
+=0 
+R 
+4 
+6 
+Step 4: Since x = *% is not in the domain for L(x), then the critical values 
+arcE 
+(o %TS and x = 25. Simply evaluate L(x) for these critical values. 
+L(0) = 49 + V794 ~ 35.18 
+L(25) = V674 + 13 ~ 38.96 
+L(%S) = 5/4T ~32.02 
+Therefore, the rope should touch the ground at a distance of %TS =8.75m 
+from the base of the shorter post to give a minimum rope length of 
+approximately 32.02 m. 
+421
+
+   
+  
+   
+  
+  
+N 72 Actons 
+82 View 
+» 
+[A3: Graph Enty/Et o 
++[+2-s0-x0794 
+(1% 4 Window'Zoom 
+|fu5: Trace 
+Dx 4 Intersection 
+655t dyiax 
+  
+6: Integral 
+[067: Bounded Area 
+|©8: Anayse Canics ] 
+  
+  
+ 
+  
+  
+  
+7 £1(x)VEETII TS0 0 
+(8.75,32) 
+1   
+55| 
+3 
+23} 
+ 
+ 
+   
+Figure 10.10 GDC screens for 
+steps 3 and 4 of the solution to 
+Example 10.14 
+422 
+Differential calculus 2 
+The minimum value could also be confirmed from the graph of L(x), but 
+it would be difficult to confirm using the second derivative test because of 
+the tedious algebra required. From this example, we can see that applied 
+optimisation problems can involve a high level of algebra. If you have access 
+to suitable graphing technology, you could perform steps 3 and 4 graphically 
+rather than algebraically (as shown in Figure 10.10). 
+In both Examples 10.13 and 10.14, the extreme value occurred at a point where 
+the derivative was zero. Although this often happens, an extreme value may 
+occur at the endpoint of the domain. 
+Example 10.15 
+Four metres of wire is to be used to form a square and a circle. How much of 
+the wire should be used to make the square and how much should be used to 
+make the circle in order to enclose the greatest amount of total area? 
+  
+  
+Solution 
+Step 1: Let x = length of each edge of the 
+4m 
+square, and r = radius of the circle. 
+x 
+Step 2: The total area is given by 
+x 
+x 
+A = x? + 72 The task is to write the 
+area A as a function of a single variable. 
+  
+  
+  
+B 
+Therefore it is necessary to express r in terms of x or vice-versa and perform 
+a substitution. 
+The perimeter of the square is 4x and the circumference of the circle is 27r. 
+The total amount of wire is 4m which gives: 
+21 —x) 
+4=4x+2mr = 2Ar=4—4x = 
+r= 
+= 
+Substitute for r: 
+e 
+— 
+P 
+A(x):x2+‘n'[2(lﬂ x)] 
+:xz+4(1nx) 
+1! 
+=+ Ot = 8x £ 4] 
+Because the square’s perimeter is 4x, then the domain for A(x) is0 = x < 
+1 
+Step 3: Differentiate the function A(x), set equal to zero, and solve. 
+d(1 
+A 
+Ll 
++ 02— 
+8x 1 41) 
+=l 
+= 
+—7—T[2(7T+ Dx—8]=0 
+4 
+S 
+S 
+e 
+el 
+Am+Dx—8=0 
+x= 
+2~ 
+05601 
+The critical values are x = 0, x &~ 0.5601, and x = 
+1 
+Step 4: Evaluate A(x): A(0) ~ 1.273, A(0.5601) ~ 0.5601, and A(1) = 
+1 
+Therefore, the maximum area occurs when x = 0 which means all the wire is 
+used for the circle.
+
+Example 10.16 
+A pipeline needs to be constructed to link an offshore drilling rig to an 
+onshore refinery depot. The oil rig is located at a distance (perpendicular 
+to the coast) of 140 km from the coast. The depot is located inland at a 
+perpendicular distance of 60 km from the coast. For modelling purposes, 
+the coastline is assumed to follow a straight line. The rate at which crude 
+oil is pumped through the pipeline varies according to several variables, 
+including pipe dimensions, materials, temperature, and so on. On average, 
+oil flows through the offshore section of the pipeline at a rate of 9kmh~! 
+and through the onshore section at a rate of 5km h~'. Assume that both 
+sections of pipeline can travel straight from one point to another. At what 
+point should the pipeline intersect with the coastline in order for the oil to 
+take a minimum amount of time to flow from the rig to the depot? 
+| 
+Solution 
+Step 1: The optimum location of 
+the point, C, where the pipeline 
+comes ashore will be designated 
+by the distance it is from the point 
+on the coast that is a minimum 
+distance (perpendicular) from the 
+rig, R (140 km). 
+  
+The distance from R to Cis Vx> + 140% and the distance from D (depot) 
+to Cis /(160 — x)> + 602. 
+Step 2: The quantity to be minimised is time, so it is necessary to express the 
+total time it takes the oil to flow from R to D in terms of a single variable. 
+   
+. 
+_ distance 
+hine e 
+e 
+rate 
+2 
+time (offshore) = w 
+/x> 
+— 320x + 29 200 
+time (onshore) = 
+s 
+The function for time T in terms of x is: 
+Vx? + 19600 + 
+320x + 29200 
+9 
+5 
+and the domain for T(x) is 0 < x < 160 
+  
+Tx) = 
+  
+  
+Steps 3 and 4: The algebra for finding the derivative of T(x) is similar to that 
+1RGNS 
+of step 3 in Example 10.14. 
+100 
+o 
+’ 
+s 
+Use a GDC to find the value of x that produces a minimum for T(x). 
+  
+ 
+ 
+ 
+  
+Therefore, the optimum point for the pipeline to intersect with the coast is 
+Figure 10,11 GDC screens for 
+approximately 134.9 km from the point on the coast nearest to the drilling rig. 
+steps 3 and 4 of the solution to 
+Example 10.16 
+423
+
+- 
+  
+ 
+   
+Figure 10.12 Diagram for 
+question 2 
+   
+(-10) 
+9 
+(L0)* 
+Figure 10.13 Diagram for 
+question 3 
+  
+Figure 10.14 Diagram for 
+question 7 
+“—x—>4A 
+«—10m—> 
+Figure 10.15 Diagram for 
+question 8 
+-~ 
+2m 
+Figure 10.16 Diagram for 
+question 9 
+424 
+Differential calculus 2 
+13 G 
+R [V 
+i 
+28 
+Find the points on the graph of the equation y = 4 — x2 that are nearest 
+to the point (0, 2). 
+A window is in the shape of a rectangle with a semicircle on top. Find 
+the dimensions of the rectangular section of the window when the 
+perimeter of the entire window is 4 metres and the area of the entire 
+window is a maximum. 
+Find the dimensions of the rectangle with maximum area that is 
+inscribed in a semicircle with radius 1 cm. Two vertices of the rectangle 
+are on the semicircle and the other two vertices are on the x-axis, as 
+shown in Figure 10.13. 
+A rectangular piece of aluminium is to be rolled to make a cylinder with 
+open ends (a tube). Regardless of the dimensions of the rectangle, the 
+perimeter of the rectangle must be 40 cm. Find the dimensions (length and 
+width) of the rectangle that gives a maximum volume for the cylinder. 
+Find the minimum distance from the graph of the function y = /x 
+to the point (%, 0). 
+A rectangular box has height /1 cm, width x cm, and length 2x cm. It is 
+designed to have a volume equal to 1 litre (1000 cm?). 
+(@) Show that 5 = % cm, 
+x 
+(b) Find an expression for the total surface area, s cm?, of the box in 
+terms of x. 
+(c) Find the dimensions of the box that produces a minimum surface area, 
+giving your answers to 3 significant figures. 
+The shape in Figure 10.14 consists of a rectangle ABCD and two 
+semicircles on either end. The rectangle has an area of 100 cm?, 
+If x represents the length of the rectangle AB, then find the value 
+of x that makes the perimeter of the entire figure a minimum. 
+Two vertical posts, with heights 12 metres and 8 metres, are 10 metres 
+apart on horizontal ground (Figure 10.15). A rope that stretches is 
+attached to the top of both posts and is stretched down so that it 
+touches the ground at point A between the two posts. The distance 
+from the base of the taller post to point A is represented by x and the 
+angle between the two sections of rope is . What value of x makes 
+6 a maximum? 
+A ladder is to be carried horizontally down an L-shaped hallway. 
+The first section of the hallway is 2 metres wide and then there is a 
+right-angled turn into a 3-metre wide section of the hallway. 
+‘What is the longest ladder that can be carried around the corner?
+
+10. Erica is walking from the wildlife observation tower (T) to the Big 
+Desert Park office (O). The tower is 7 km due west and 10 km due south 
+of the office. There is a road that goes to the office that Erica can get to 
+if she walks 10 km due north from the tower. Erica can walk at a rate of 
+2km h™! through the sandy terrain of the park, but she can walk at a 
+faster rate of 5kmh~! on the road. To what point A on the road should 
+Erica walk to in order to take the least time to walk from the tower to 
+  
+the office? Find the value of d such that point A is d km from the office 
+T 
+i 
+i 
+i 
+Figure 10.17 Diagram for 
+11. Two vertices of a rectangle are on the x-axis, and the other two vertices 
+question 10 
+  
+are on the curve y = 
+. Find the maximum area of the rectangle. 
+x2and 
+12. A ship sailing due south at 16 km h~" is 10 kilometres north of a second 
+ship going due west at 12 km h™!. Find the minimum distance between 
+the two ships. 
+13. Find the height, h, and the base radius, r, of the largest right circular 
+cylinder that can be made by cutting it away from a sphere with a 
+radius of R. 
+14. Nadia is standing at point A that is a km away in the countryside from 
+A 
+a straight road XY. She wishes to reach the point ¥ where the distance 
+T 
+from X to Yis bkm. Her speed on the road is rkmhr~! and her speed 
+L 
+travelling across the countryside is ckmhr~?, such that r > c. She wishes 
+l 
+to reach Y as quickly as possible. Find the position of point P where she 
+X 
+joins the road. 
+Figure 10.18 Diagram for 
+15. A cone of height & and radius r is constructed from a circle with radius 
+question 14 
+10 cm by removing a sector AOC of arc length x cm and then connecting 
+the edges OA and OC. What arc length x will produce the cone of 
+maximum volume, and what is the volume? 
+A 
+    
+10cm 
+3 ®A 
+X 
+NOT TO SCALE 
+ 
+425
+
+  
+Figure 10.19 Diagram for 
+question 16 
+426 
+Differential calculus 2 
+16. Point P is a units above the line AB, and point Q is b units below line AB. 
+The velocity of light is u units/second above AB and v units/second below 
+AB, and u > v. The angles « and S are the angles that a ray of light makes 
+with a perpendicular to line AB above and below AB, respectively. Show 
+that the following relationship must hold true. 
+Chapter 10 practice questions 
+1. The diagram shows the graph of y = fix). 
+y 
+Sketch the graph of y = f'x). 
+2. A curve has equation y = —x(x + 5)% 
+(a) For this curve find: 
+(i) 
+the x-intercepts 
+(ii) 
+the exact coordinates of the maximum point 
+(iii) the exact coordinates of the point of inflection. 
+(b) Use your answers to part (a) to sketch a graph of the curve 
+for —5 < x =< 0, clearly indicating the features you have found 
+in part (a). 
+3. Find the coordinates of the point on the graph of y = 3x2 + 2x at which 
+the tangent is parallel to the line y = 4x. 
+4. Find the equation of the tangent to the curve of y = sin(3x + 1) at the 
+point (*é, 0).
+
+5. The diagram shows part of the graph of the function 
+fixs —x3 — 242 + 8x. 
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The graph intersects the x-axis at (—4, 0), (0, 0), and (2, 0). There is a 
+minimum point at C and a maximum point at D. 
+(a) The function may also be written in the form 
+fix— —x(x — a)(x — b), where a < b. Write down the value of: 
+@) 
+a 
+(ii) 
+b. 
+(b) Find: 
+@ fx) 
+(ii) 
+the exact values of x at which f(x) = 0 
+(iii) the value of the function at D. 
+(c) 
+(i) 
+Find the equation of the tangent to the graph of f(x) at (0, 0). 
+(ii) 
+This tangent cuts the graph of f(x) at another point. Give the 
+x-coordinate of this point. 
+6. In a controlled experiment, a tennis ball is dropped from the uppermost 
+observation deck (447 metres high) of the CN Tower in Toronto. The 
+ball’s velocity is given by 
+Wt) = 66 — 66e 015 
+where v is in metres per second and  is in seconds. 
+(a) Find the value of v when: 
+@@ 
+t=0 
+(i) = 10. 
+(b) 
+(i) 
+Find an expression for the acceleration, a, as a function of t. 
+(ii) What is the value of @ when ¢ = 0?7 
+(c) 
+(i) 
+Astbecomes large, what value does v approach? 
+(ii) 
+As t becomes large, what value does a approach? 
+(iii) Explain the relationship between the answers to 
+parts (i) and (ii). 
+427
+
+Differential calculus 2 
+7. Given the function f(x) = x> + 7x2 + 8x — 3: 
+(a) identify any points as a relative maximum or minimum, and find 
+their exact coordinates 
+(b) find the exact coordinates of any inflection point(s). 
+8. Consider the function g(x) = 2 + ﬁ. 
+(a) 
+(i) 
+Find g'(x). 
+(ii) 
+Explain briefly how this shows that g(x) is a decreasing function 
+for all values of x (i.e. that g(x) always decreases in value as x 
+increases). 
+Let P be the point on the graph of g where x = 7%. 
+(b) Find an expression in terms of e for: 
+(i) 
+the y-coordinate of P 
+(ii) 
+the gradient of the tangent to the curve at P. 
+(c) Find the equation of the tangent to the curve at P, giving your 
+answer in the form y = mx + c. 
+Povall| 
+B 
+i 20) 
+9. Consider the function f given by f(x) = 
+7 
+" 
+T 
+Ol 
+(x—1)’ 
+The second derivative is given by f”(x) = 
+G 
+(a) Show that f'(x) =   
+x#1 
+72l 5% 
+(x— 1t 
+(b) Using values of f'(x) and f"(x), explain why a minimum must occur 
+cee 
+| 
+At 
+5 
+(c) There is a point of inflection on the graph of f(x). Write down the 
+coordinates of this point. 
+10. Differentiate with respect to x: 
+i 
+sinSx 
+@ G 
+blie 
+11. The curve with equation y = Ax + B + %, x € R, x # 0, has a minimum 
+at P(1, 4) and a maximum at Q(—1, 0). Find the value of each of the 
+constants A, B, and C. 
+12. (a) Differentiate: 
+(i) 
+Inx 
+Gi) L 
+(b) The curve C has equation y = lnTx, 0<x<oo. 
+d 
+(i) 
+Show tha 
+L 
+) 
+(A2 
+(ii) 
+Show that y has a maximum value of % and justify that this is a 
+maximum value. 
+(c) Assumingy — 0 as x — 00, draw a sketch of the graph of the curve C. 
+(d) Find the two values of x for which thX = %anA 
+428
+
+13. Differentiate with respect to x: 
+o 
+@ 
+Dot 
+  
+(b) e*sin2x 
+14. The curve y = ax® — 2x> — x + 7 has a gradient of 3 at the point where 
+x = 2. Determine the value of a. 
+15. Let y = h(x) be a function of x for 0 < x < 6. The graph of h has an 
+inflection point at P, and a maximum point at M. 
+Partial sketches of the curves of h'(x) and h"(x) are shown below. 
+H(x 
+   
+Use the above information to answer the following. 
+(a) Write down the x-coordinate of P, and justify your answer. 
+(b) Write down the x-coordinate of M, and justify your answer. 
+(c) Given that h(3) = 0, sketch the graph of h. On the sketch, mark the 
+points P and M. 
+16. Find the equation of the tangent to the curve y = xe* at the point on the 
+curve where x = 1. 
+17. A cylinder is to be made with an exact volume of 12877 cm?. Find the 
+height, h, of the cylinder and the radius, r, of the cylinder’s base so that 
+the cylinder’s surface area is a minimum? 
+| l 
+429
+
+Differential calculus 2 
+18. A rectangle has its base on the x-axis and its upper two vertices on the 
+parabola y = 12 — x2. Calculate the largest area that the rectangle can 
+have, and the dimensions (length and width) that give this area. 
+19. The figure shows the graph of a function y = fix). 
+  
+State at which one of the five points marked on the graph: 
+(a) f'x) and f"(x) are both negative 
+(b) f'(x) is negative and f”(x) is positive 
+(c) f'x)is positive and f"(x) is negative. 
+20. Find the equation of the normal to the curve with equation 
+el 
+fran 
+y= e at the point (—3, 7). 
+  
+430

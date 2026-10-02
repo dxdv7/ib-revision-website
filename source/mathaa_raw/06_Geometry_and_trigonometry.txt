@@ -1,0 +1,2604 @@
+   
+Geometry and 
+trigonometry 
+\w  
+
+192 
+Geometry and trigonometry 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« 
+finding the distance between two points in 3-dimensional space 
+« 
+finding the midpoint of a line segment in 3-dimensional space 
+« 
+computing the volume and surface area of a solid such as a pyramid, cone, 
+sphere, hemisphere or a solid made from a combination of these 
+o 
+determining the size of an angle between two lines 
+« 
+finding the sides and angles of a right-angled triangle using the sine, 
+cosine and tangent ratios 
++ 
+applying the sine rule and the cosine rule to find an unknown length or 
+an angle 
+« 
+computing the area of a triangle using the formula %ab sinC 
+ solving problems involving 2-dimensional or 3-dimensional figures by 
+means of right-angled and non-right-angled trigonometry 
+« 
+solving problems involving compass bearings. 
+In this chapter, we cover some basic 3-dimensional geometry and trigonometry 
+using right-angled triangles. This chapter may contain topics that you have 
+studied before. Trigonometric functions will be defined in terms of the ratios 
+of the sides of a right-angled triangle rather than in terms of an arc on the unit 
+circle. 
+Measurements in three dimensions 
+Given the coordinates of two points A(x,, y;) and B(x,, y,) in a 2-dimensional 
+plane, recall that the length AB of the segment [AB] is the hypotenuse of a 
+right-angled triangle where the length of one side of the right-angled triangle 
+is the difference in the x-coordinates and the length of the other perpendicular 
+side is the difference in the y-coordinates (Figure 6.1). 
+Alx ) 
+=l 
+  
+B(x, 7)) 
+lx,= x| 
+Figure 6.1 
+Distance between two points in a plane derived from the Pythagorean theorem 
+Thus, from the Pythagorean theorem, the distance, d, between the points with 
+coordinates (x,, y,) and (x,, y,) is d = \/(x, — x,)* + (y; — y,)%
+
+The midpoint M of [AB] is the point whose coordinates are the average of the 
+x-coordinates and the average of the y-coordinates, respectively (Figure 6.2). 
+Thus, the midpoint, M, of the line segment with endpoints (x;, y;) and (x5, y,) 
+xtx nty 
+o) 
+has coordinates M| 
+thumb points in 
++z 
+direction of +2z 
+   
+   
+fingers curl 
+from +x to +y! 
+Figure 6.3 The orientation of the +x, +y 
+and +z axes must follow the right-hand rule 
+Figure 6.4 3D coordinate system showing axes 
+and the x-y plane, x-z plane and y-z plane 
+It is straightforward to extend the formulas for the distance between two points 
+and the midpoint of a line segment from points in a 2-dimensional coordinate 
+system to points in a 3-dimensional coordinate system (Figure 6.4). Consider a 
+right rectangular prism (all six faces are rectangles: a cuboid) with a width of 
+a units, a depth of b units, and a height of ¢ units (Figure 6.5). Consider a 
+diagonal [PQ] of the right rectangular prism. Applying the Pythagorean theorem 
+twice - first to find the length of the diagonal of the bottom face and then to 
+find the length, PQ, of the diagonal of the prism - gives PQ = Va2 + b* + ¢2 
+A line segment in space with endpoints P(x;, y;, z;) and Q(x», y», 2,) is the 
+diagonal of a right rectangular prism as shown in Figure 6.6 and we can use 
+Pythagoras’ theorem, as we did for the prism in Figure 6.5, to find PQ. 
+PQ=Vlx =)+ (- pf + (- 2) 
+Q7 2) 
+lz- =l 
+  
+  
+  
+  
+  
+P(x,y,2) 
+— x| 
+Figure 6.6 The distance between two points in space     
+Blxyy,) 
+  
+tH nty 
+Alxpy) 
+Z 
+Figure 6.2 Midpoint of a line 
+segment in a plane 
+“The rule for drawing 
+the %, y, and z axes ofa 
+3D coordinate system 
+is that the direction of 
+the positive z axis points 
+in the direction of the 
+thumb on a right hand 
+when the fingers curl 
+in the direction from 
+the positive x axis to 
+the positive y axis, as 
+illustrated in Figure 6.3. 
+‘The three axes in Figure 
+6.4 also conform to the 
+right-hand rule. 
+  
+Figure 6.5 Pythagoras 
+theorem for three-dimensional 
+space 
+193
+
+It is standard practice 
+to label the vertices of a 
+polygon in alphabetical 
+order either clockwise or 
+A 
+194 
+anti-clockwise. 
+B 
+Geometry and trigonometry 
+‘The distance, d, between the points (xy, 1, z1) and (x2, y2, 2) is 
+d=y@w -2+ g1 =y 
++ e - 2P 
+‘The midpoint M of the line segment with endpoints (x1, y1, z1) and (x, 2, 22) has coordinates 
+r1+rz}'1+)'zzl+22) 
+M( 
+2 
+Example 6.1 
+Use the distance formula to show that the three points F(1, —1, 3), 
+G(2, —4, 5), and H(5, —13, 11) are collinear. 
+  
+  
+Solution 
+Find the exact distance between each of the three pairs of points. The three 
+points are collinear (lie on the same line) if the sum of any two distances is 
+equal to the third distance. 
+FG=|1—-27+(-1— 
+(4P +(B -5 =yIF9+4 =14 
+FH={01—-52+(-1—(—13)2+ 
+(3 — 11)2 = V16 + 144 
++ 64 = 414 
+GH=/2—52+(—4—(—13)2+ 
+(G- 11)> = /9 + 81 + 36 = 3V14 
+It is true that FG + GH = FH. Therefore, points F, G, and H are collinear. 
+Example 6.2 
+Given that three of the vertices of parallelogram ABCD are A(3, —1, 2), 
+B(1,2, —4),and C(—1, 1, 2), determine the coordinates of vertex D. 
+  
+  
+Solution 
+The diagonals of a parallelogram bisect each other. Thus, the diagonals AC 
+and BD must have the same midpoint M. 
+S 1t 
+1§ 
+2R 50 
+20 
+). 
+Let (x, , 2) be the coordinates of vertex D. 
+  
+M( 
+) = M(1,0,2) 
+  
+finenE 
+e SRS 
+=0 
+en 
+2 
+2 
+Therefore, the coordinates of D are (1, —2, 8). 
+3-dimensional solids: volumes and surface areas 
+Table 6.1 lists the solids and their respective formulae that you need to know 
+for this course.
+
+cuboid |V =1l-w-h 
+|S=2(-w+1I-h+w-h) |I=length;w 
+= width; h = height 
+  
+  
+sphere 
+| V=dart 
+| §=am? 
+r = radius 
+  
+prisin | V= Ak 
+| S= 2+ A 
++ S A 
+| A 
+= a0 of polygonal base 
+£ 
+D Ateratfuce = sum of the n 
+T 
+lateral faces, each of which is a 
+  
+  
+  
+  
+  
+  
+rectangle 
+pyramid 
+= Ape + S Aot 
+| Auue = area of polygonal base 
+& 
+S Aige = sum of the n 
+& 
+lateral faces, each of which is a 
+triangle 
+cylinder 
+|V=arth 
+| S=2mr2+ 2arhor 
+= radius; 
+= height 
+= 2ar(r + 
+h) 
+cone 
+%ﬂ'r’-h 
+S=mr2+ mrl 
+= 
+radius; h = height 
+wherel =2 
++ 2 
+I = lateral height (or slant height) 
+ 
+ 
+ 
+ 
+ 
+  
+Table 6.1 Volume and surface area formulae for different solids 
+   
+   
+vertex 
+lateral height / 
+height i 
+(or slant height) 
+height of pyramid 
+w 
+height of triangular face 
+Figure 6.7 Features of a cone 
+Figure 6.8 Features of a pyramid 
+Example 6.3 
+A triangular pyramid sits on top of a triangular right prism. The prism has 
+a height of h. Find the height of the pyramid - in terms of & - so that the 
+prism and the pyramid have the same volume. 
+    
+Solution 
+Figure 6.9 Diagram for 
+e 
+o 
+Example 6.3 
+The volume of the prism is V = A, - h and the volume of the pyramid is 
+V= ! Ajpgse - h. The two solids have the same base. Therefore, for the two 
+solids to have the same volume, the height of the pyramid needs to be 3h. 
+195
+
+  
+Example 6.4 
+  
+Compare a sphere and a cone. The radius of the sphere and the radius of 
+cone are both r. The height of the cone is 2r. Find the exact value of each 
+v 
+ratio: 
+(a) The ratio of the volume of the sphere to the volume of the cone. 
+(b) The ratio of the surface area of the cone to the surface area of the sphere. 
+1 
+k=2 
+Solution 
+(a) The volume of the sphere is V = %‘n‘r3 
+‘The volume of the cone is V = %mz h. Since h = 2r, then 
+Figure 6.10 Diagrams for 
+1 
+2 
+Example 6.4 
+V= 5 ar?on) = 3 
+) 
+3 
+(VA 
+Thus 
+== 
+3 
+-9 
+chne 
+3 ‘n-’-3 
+3 
+  
+(b) The surface area of the cone is S = 712 + vl = 
+2 + mrl/s? + h2) 
+Substituting 
+h = 2r, gives S = 7r? + alr?+ 202) = w2 + w52 
+= a1 + /5) 
+The surface area of the sphere is § = 472 
+2 
+Thus, Sone _ mHLA5) 
+1405 
+For three line segments 
+1. For each set of three points, determine whether they are the vertices of a 
+to form a triangle, their 
+scalene, isosceles, or equilateral triangle. 
+lengths must satisfy 
+. 
+C 
+L 
+Ty s 
+@) (3,-1,5),(-4,0,2),(2,2, 
+1) 
+theorem which states 
+(D) (52545 =8ihles =55 =L (E8h =254)) 
+that the sum of the 
+i 
+© (45.0,0,62,2.3 
+1) 
+of 
+a triangle must be 
+(d) (a, b, 0), (b, ¢, a), (c, a, b) 
+greater than the length of 
+the third side. 
+2. Find the point on the y-axis that is a distance of vI0 from the point (1, 2, 3) 
+& 
+' 
+= 
+3. For each set of three points, determine whether or not they could be the 
+N 
+vertices of a triangle. 
+atc>b 
+(@) A(—1,2,3),B(1,4,5),C(5,4,0) 
+breza 
+(b) P2, 3,3, Q(1,2,4, R(3, ~8,2) 
+4. Show that the points (0, 7, 10), (—1, 6, 6), and (—4, 9, 6) are the vertices of 
+a right-angled isosceles triangle. 
+196
+
+10. 
+il 
+12. 
+13. 
+14. 
+. For each set of three points, determine whether they are collinear. 
+(E9) 
+{0 =1, =704 1L, =BIL (G5 = 113)) 
+(b) (—2,0,4),(5, —1,1), (4, —6, 3) 
+(@) 
+(L8, =5 (=845 =1k(05,7,2) 
+(d)F (233 ) (15233 (A NI 
+0) 
+. Find the distance of each of these points from: 
+(i) 
+theorigin 
+(i) thex-axis 
+ (iii) the y-axis 
+ (iv) the z-axis. 
+(@) (2,6, -3) 
+() 2,-v3,3) 
+. PQRS is a parallelogram. Given that three of the vertices are P(6, —2, 4), 
+Q(2, 4, —8), and R(—2, 2, 4), determine the coordinates of vertex S. 
+. Consider the triangle with vertices X(2, 2, 3), Y(3, 7, 5), and Z(1, 4, —2). 
+(a) Show that triangle XYZ is isosceles. 
+(b) Find the exact area of triangle XYZ. 
+. A line segment connecting two antipodal (diametrically opposite) points 
+on a sphere will pass through the centre of the sphere. 
+Points A(2, —7, —4) and B(6, 1, 2) are a pair of antipodal points on a 
+sphere. Find the exact surface area and exact volume of this sphere. 
+A rectangular wooden box has dimensions: 62 cm X 44 cm X 20 cm. 
+Find the length (to the nearest whole cm) of the longest piece of straight 
+wire that can be placed completely inside the box. 
+A solid consists of a cone, cylinder and hemisphere joined together as 
+shown in the diagram. Given the dimensions indicated in the diagram, 
+find the volume and surface area of the solid, accurate to 3 significant 
+figures. 
+The midpoints of the sides of 
+a triangle are (1, 5, —1), (0, 4, —2), and 
+(2, 3, 4). Find the coordinates of the three vertices of the triangle. 
+A sphere with radius r is inscribed in a cylinder such 
+that the sphere is tangent to the bases of the cylinder 
+and touches the inside of the cylinder along a circle. 
+Find: 
+(a) the ratio of the sphere’s volume to the cylinder’s 
+volume. 
+(@) 
+(b) the ratio of the sphere’s surface area to the cylinder’s surface area. 
+A large building for storing grain consists of a cylinder with a cone on 
+top (Figure 6.13). Given the dimensions indicated in the diagram, find 
+the surface area and the volume of the building accurate to 3 significant 
+figures. (The circular base is not included in the building’s surface.) 
+Figure 6.11 Diagram 
+for question 9 
+16cm 
+7 
+. - 
+> 
+5cm 
+Figure 6.12 Diagram for 
+question 11 
+. 
+50m 
+12m 
+Figure 6.13 Diagram for 
+question 14 
+197
+
+InIB notation, the 
+symbol ABC denotes the 
+angle with its vertex at 
+point B, with one side 
+of the angle containing 
+point A and the other 
+side containing point C. 
+B 
+b 
+Figure 6.14 Conventional 
+triangle notation 
+sing__opposite 
+1 
+hypotenuse 
+cosf _ 
+adjacent 
+"1 
+hypotenuse 
+tanf _ sinf _ opposite 
+T 
+cosf 
+ adjacent 
+  
+Geometry and trigonometry 
+15. A metal spike is made from a cube 
+18cm 
+with a pyramid attached to one of 
+the cube’s faces, as shown in the 
+diagram. Given the dimensions 
+indicated in the diagram, find the 
+18cm| 
+exact volume and exact surface area 
+of the spike. 
+15cm 
+  
+ 
+ 
+   
+  
+Right-angled triangles and 
+trigonometric functions of acute 
+angles 
+  
+   
+Right-angled triang| 
+The conventional notation for triangles is to label the three vertices with 
+capital letters, for example A, B, and C. The same capital letters can be used 
+to represent the angles at these vertices, but we will often use a Greek letter, 
+such as « (alpha), B (beta), or 6 (theta) instead — as we did in Chapter 5. 
+The corresponding lower-case letters, a, b, and c represent the lengths of the 
+sides opposite the vertices. For example, b represents the length of the side 
+opposite angle B - that is, the line segment AC (Figure 6.14). 
+  
+  
+Trigonometric 
+functions of an 
+acute 
+angle 
+‘We can use properties of similar triangles and the definitions of the sine, 
+cosine, and tangent functions from Chapter 5 to define these functions in terms 
+of the sides of a right-angled triangle. 
+y 
+(cos 6, sin ) 
+   
+. 
+& 
+{f 
+side opposite § 
+& 
+  
+side adjacent 
+ 
+Figure 6.15 Trigonometric functions defined in terms of the sides of a right-angled triangle 
+The right-angled triangles shown in Figure 6.15 are similar triangles because 
+corresponding angles are the same size: each has a right angle and an acute 
+angle of 6. It follows that the ratios of corresponding sides are equal, allowing 
+us to write these three proportions involving the sine, cosine, and tangent of 
+the acute angle 6.
+
+The definitions of the trigonometric functions in terms of the sides of a 
+right-angled triangle follow directly from these three equations. 
+Let fbe an acute angle of a right-angled triangle. Then the sine, cosine and tangent functions of 
+the angle fare defined as: 
+side opposite angle 6 
+sinf = 
+hypotenuse 
+ide 
+adjacent 
+s Sdeadiacentangle 0 
+hypotenuse 
+_ side opposite angle 0 
+side adjacent angle 6 
+1t follows that the trigonometric functions of an acute angle are positive. 
+It is important to understand that properties of similar triangles are the 
+foundation of right-angled triangle trigonometry. Regardless of the size 
+(i.e. lengths of the sides) of a right-angled triangle, so long as the angles don’t 
+change, the ratio of any two sides in the right-angled triangle will remain 
+constant. All the right-angled triangles in Figure 6.16 have an acute angle with 
+ameasure of 30°. For each triangle, the ratio of the side opposite the 30° angle 
+to the hypotenuse is exactly % 
+In other words, the sine of 30° is always L This agrees with results from the 
+previous chapter that an angle of 30° is eq\nvalent to T in radian measure. 
+/@Aﬂﬂ 
+Figure 6.16 Corresponding ratios of a pair of sides for similar triangles are equal 
+Values of sine, cosine and tangent for common acute angles: 
+sin30° = sin T =1 
+c0s30° = cos T= 13 
+tan30° = tan T = 3 
+6 
+2 
+6 
+2 
+6 
+3 
+inds® 
+= sin T = V2 
+o — cos T =12 
+o tan T = 
+sin 45 
+sm4 
+2 
+cos 45° 
+co&4 
+3 
+tan 45 
+Oan4 
+1 
+in60° 
+= sin T = 3 
+o~ 
+cosT— 1 
+o — 
+T =3 
+sin 60" 
+sin 3 
+2 
+cos 60" 
+cos 
+3 
+2 
+tan 60" 
+tan 3 
+V3 
+Finding unknowns of right-angled triangles 
+We can use Pythagoras” theorem and trigonometric functions to find the size 
+of any unknown side or angle. We will use trigonometric functions in two 
+different ways - to find the length of a side, and to find the measure of an 
+angle. Finding unknowns in right-angled triangles using the sine, cosine and 
+tangent functions is essential to finding solutions to problems in fields such as 
+astronomy, navigation, engineering, and architecture. In Section 6.4, we will see 
+how trigonometry can also be used to find missing parts in triangles that are 
+not right-angled triangles. 
+It is important that 
+you are able to recall - 
+withouta GDC - the 
+exact trigonometric 
+values for these common 
+angles. 
+Observe that 
+sin 30° = cos 60° = 
+sin 60° = cos 30° = 
+and 
+sin 45° = cos 45° = 
+sl wfor 
+Complementary angles 
+(sum of 90°) have equal 
+function values for sine 
+and cosine. That is, for 
+all angles x measured in 
+degrees: 
+sinx = cos (90° — x) or 
+sin(90° — x) = cosx. 
+As noted in Chapter 5, 
+itis for this reason that 
+sine and cosine are called 
+co-functions. 
+   
+199
+
+  
+Figure 6.18 Solution to Example 
+65 
+200   
+Angles of depression and elevation 
+An imaginary line segment from an observation point O to a point P 
+(representing the location of an object) is called the line of sight of P. If P 
+is above O, the acute angle between the line of sight of P and a horizontal 
+line passing through O is called the angle of elevation of P. If P is below O, 
+the angle between the line of sight and the horizontal is called the angle of 
+depression of P. This is illustrated in Figure 6.17. 
+     
+angle of 
+angle of 
+clevation 
+Figure 6.17 An angle of clevation or depression is always measured from the horizontal. Also, note that 
+the angle of elevation from O to Pis equal to the angle of depression from Pto O 
+Example 
+6.5 
+Determine the lengths of the missing sides in triangle ABC given ¢ = 8.76 cm, 
+angle A = 30° and the right angle is at C. Give exact answers when possible, 
+otherwise give to an accuracy of 3 significant figures. 
+e 
+———— 
+] 
+ 
+Solution 
+Sketch triangle ABC indicating the known measurements. 
+From the definition of sine and cosine functions, we have: 
+0sit 
+AP = NS O ey 
+hypotenuse ~ 8.76 
+a= &75(%) =438 
+adjacent 
+b 
+R B 
+— 
+B 
+hypotenuse 
+8.7 
+b = 8.76 cos 30° 
+b= &76(%) ~ 7.586382537 ~ 7.59 
+Therefore a = 4.38 cm, b ~ 7.59 cm and, it’s clear that angle B = 60°. 
+‘We can use Pythagoras’ theorem to check our results for @ and b. 
+a?+ b2 =c? = Va® + b2 =876
+
+Be aware that the result for a is exactly 4.38 cm (assuming measurements given 
+for angle A and side ¢ are exact), but the result for b can only be approximated. 
+To reduce error when performing the check, we should use the most accurate 
+value (i.e. most significant figures) for b possible. The most effective way to do 
+this on your GDC is to use results that are stored to several significant figures. 
+Example 6.6 
+A man who is 183 cm tall casts a shadow 72 cm long on horizontal ground. 
+What is the angle of elevation of the sun to the nearest tenth of a degree? 
+e 
+" 
+. 
+' ' ]| 
+Solution 
+In Figure 6.20, the angle of elevation of the sun is labelled 6. 
+GDC computation in degree mode. 
+_ 183 
+{imae) = —= 
+72! 
+= 
+! @) 
+0= 
+tan 
+(72 
+0~ 68.5° 
+The angle of elevation of the sun is approximately 68.5° 
+Example 6.7 
+During a training exercise, an Air Force pilot is flying his jet at a constant 
+altitude of 1200 metres. His task is to fire a missile at a target on the ground. 
+At the moment he fires his missile, he is able to see the target at an angle of 
+depression of 18.5°. If the missile travels in a straight line, what distance will 
+the missile cover (to the nearest metre) from the jet to the target? 
+  
+Solution 
+Draw a diagram to 
+represent the information 
+and let x be the distance 
+that the missile travels 
+from the jet to the target. 
+A right-angled triangle 
+can be ‘extracted’ from 
+s 
+= 
+the diagram with one side 
+1200 metres, the angle 
+opposite that side is 18.5°, and the hypotenuse is x. 
+  
+  
+Applying the sine ratio, we can write the equation sin18.5°= @ 
+_ 
+1200 
+{lhen' 
+= A 3781.85 
+Hence, the missile travels approximately 3782 metres. 
+  
+8.76(v(3)/2) 
+7.586382537 
+S 443g.586382537 
+.382+B2 
+Ve 
+) g.76 
+ 
+ 
+  
+Figure 6.19 Using stored 
+results on your GDC 
+s < 
+Ky 
+  
+> 
+72cm 
+Figure 6.20 Diagram for 
+Example 6.6 
+  
+tan-1(183/72) 
+68.52320902 
+  
+  
+  
+Figure 6.21 GDC screen for 
+the solution to Example 6.6 
+‘The notation for 
+indicating the inverse of a 
+function is a superscript 
+of negative one. For 
+example, the inverse of 
+the tangent function 
+is denoted as tan ! on 
+your GDC. The negative 
+one is not an exponent, 
+50 it does not denote a 
+reciprocal. 
+tantxx 
+tanx 
+201
+
+202 
+Example 6.8 
+A boat is sailing directly towards a cliff. The angle of elevation of a point on 
+the top of the cliff and straight ahead of the boat increases from 10° to 15° as 
+the ship sails a distance of 50 metres. Find the height of the cliff. 
+] 
+Solution 
+  
+Draw a diagram that accurately represents the information, with the height 
+of the cliff labelled / and the distance from the base of the cliff to the later 
+position of the boat labelled x. There are two right-angled triangles that can 
+be extracted from the diagram. From the smaller triangle, we have: 
+tan 15° :% = 
+h = xtan15° 
+From the larger triangle, we have: 
+h 
+10° = 
+ROy 
+  = 
+h = (x + 50) tan 10° 
+We can solve for x by setting the two 
+expressions for h equal to each other. 
+Then we can solve for h by substitution. 
+xtan 15° = (x + 50) tan 10° 
+) 
+xtan 15° = xtan 10° + 50 tan 10° 
+x(tan 15° — tan 10°) = 50 tan 10° 
+__ 
+50tan10° 
+T an15 —tan10° 
+e 
+10| 
+Substituting this value for x into 
+h = xtan 15°, gives: 
+h ~96.225 tan 15° ~ 25.783 
+ 
+x+ 50 
+Therefore, the height of the cliff is approximately 25.8 metres. 
+Example 6.9 
+Using a suitable right-angled triangle, find the exact minimum distance from 
+the point (8, 3) to the line with the equation 2x — y + 2 = 0.
+
+] 
+Solution 
+Graph the line with equation 2x — y + 2 = 0. The minimum distance from 
+the point (8, 3) to the line is the length of the line segment drawn from the 
+point perpendicular to the line. This minimum distance is labelled d in the 
+diagram. d is also the height of the large yellow triangle formed by drawing 
+vertical and horizontal line segments from (8, 3) to the line. 
+The area of the right-angled triangle is A = —(—)(15) 
+= 22—5 
+The area of the triangle can also be found by using the 
+hypotenuse as the base and the distance d as the height. 
+By Pythagoras’ theorem, we have 
+hypotenuse = 
+(125) +152 
+= 
+1125 
+_ L‘/» 
+= ﬂ 
+1 
+7z 
+P 
+d. We can solve for d 
+57 
+Thus, the area can also be expressed as A = 3 
+  
+by equating the two results for the area of the triangle. 
+Figure 6.22 Solution to 
+1545 
+225 
+Example 6.9 
+2( 
+2 )d’T 
+15/5 ,_ 225 
+4 
+4 
+225 
+4 
+= —s2ue= = 
+4 
+15/5 
+15 
+_15 
+V5 
+_15/5 
+=2=22.2=-222 
+=35 
+V5 
+55 
+5 
+Therefore, the minimum distance from the point (8, 3) to the line with 
+equation 2x — y + 2 = 0is 3 /5 units. 
+1. For each (a) to (f) 
+(i) 
+sketch a right-angled triangle corresponding to the acute angle 
+(i) 
+find the exact value of the other five trigonometric functions 
+associated with the angle 
+(iii) use your GDC to find the degree measure of § and the other acute 
+angle (approximate to 3 significant figures). 
+(b) cosh = B 
+P 
+5 
+(a) sinf = 
+3 
+3 
+(c) tanf =2 
+203
+
+204 
+Geometry and trigonometry 
+2. Find the exact value of 0 in degrees (0 < 
+< 90°) and in radians 
+(0 == g) without using your GDC. 
+(a) cosf = % 
+(b) sinf = % 
+(© tanb=3 
+. Find the values of x and y in each triangle. If possible, give an exact 
+answer; otherwise, give the answer correct to 3 signiﬁcant figures. 
+X 
+‘ 
+*LA 
+? 
+l& 
+A 
+. Find the size of the angles & and 3 in degrees. If possible, give an exact 
+answer; otherwise, give your answer correct to 3 significant figures. 
+(c) 
+121 
+o 
+(d) 
+44 
+© 
+V28 
+v7 
+\7 
+A 
+> 
+\ 
+. The tallest tree in the world is reputed to be a giant redwood named 
+Hyperion located in Redwood National Park in California, USA. Ata 
+point 41.5 metres from the centre of its base and on the same elevation, 
+the angle of elevation of the top of the tree is 70°. How tall is the tree? 
+Give your answer to 3 significant figures. 
+. The Eiffel Tower in Paris is 300 metres high (not including the antenna 
+on top). What is the angle of elevation of the top of the tower from a 
+point on the ground (assumed level) that is 125 metres from the centre 
+of the tower’s base?
+
+7 
+10. 
+10 
+12. 
+13, 
+14. 
+A 1.62m tall woman, standing 3 metres from a streetlight, casts a 2 m 
+shadow. What is the height of the streetlight? 
+. A pilot measures the angles of depression to two ships to be 40° and 52°. 
+The pilot is flying at an elevation of 10 000 metres. Find the distance 
+between the two ships. 
+* 
+N 
+  
+  
+10 000m 
+   
+L ke 
+ki 
+pm—— 
+. Find the size of all three angles in a triangle with sides of length 
+8cm, 8 cm, and 6 cm. 
+A boat is sighted from a 50-metre observation tower on the shoreline 
+at an angle of depression of 4° moving directly towards the shore ata 
+constant speed. Five minutes later the angle of depression of the boat is 
+12°. What is the speed of the boat in kilometres per hour? 
+  
+Find the length of x indicated in Figure 6.23. Give your answer to 
+3 significant figures. 
+A support wire for a tower is connected from an anchor point on level 
+ground to the top of the tower. The straight wire makes a 65° angle with 
+the ground at the anchor point. At a point 25 metres farther from the 
+tower than the wire’s anchor point and on the same side of the tower, the 
+angle of elevation to the top of the tower is 35°. Find the wire length to 
+the nearest tenth of a metre. 
+A 30-metre high building sits on top of a hill. The angles of elevation of 
+the top and bottom of the building from the same spot at the base of the 
+hill are measured to be 55° and 50° respectively. How high is the hill to 
+the nearest metre? 
+The angle of elevation of the top of a vertical pole as seen from a point 
+10 metres away from the pole is double its angle of elevation as seen 
+from a point 70 metres from the pole. Find the height (to the nearest 
+tenth of a metre) of the pole above the level of the observer’s eyes. 
+x 
+D 
+«—67m—»> 
+Figure 6.23 Diagram for 
+question 11 
+205
+
+Geometry and trigonometry 
+15. Angle ABC of a right-angled triangle is bisected by segment BD. The 
+lengths of sides AB and BC are given in Figure 6.24. Find the exact 
+length of BD, expressing your answer in its simplest form. 
+  
+10 
+D 
+16. In ’Ehe diag/{am, 
+C 
+B 
+A 
+DEC = CEB = x° and 
+A 
+G 
+% 
+CDE = BEA = 90°, 
+1 
+Figure 6.24 Diagram 
+CD = 
+1 unit, DE = 3 units. 
+for question 15 
+By writing DEA in terms 
+D 
+g 
+Y 
+of x, find the exact value of 
+cos(DEA). 
+17. For any point with coordinates (p, g) and any 
+line with equation ax + by + ¢ = 0, find a 
+formula in terms of g, b, ¢, p, and q that gives 
+the minimum (perpendicular) distance, d, 
+from the point to the line. 
+d 
+. — 
+cota — cotf3 
+(b9 
+  
+   
+ax+by+c=0 
+18. A spacecraft is travelling in a circular orbit 200 km above the surface 
+of the Earth. Find the angle of depression (to the nearest degree) from 
+the spacecraft to the horizon. Assume that the radius of the Earth is 
+6400 km. The ‘horizontal’ line through the spacecraft from which the 
+angle of depression is measured will be parallel to a line tangent to the 
+surface of the Earth directly below the spacecraft. 
+orbit 
+  
+206
+
+Trigonometric functions of any angle 
+In this section we will extend the trigonometric ratios to all angles, allowing us 
+to solve problems involving any size angle. 
+Defining trigonometric functions for any angle in 
+standard position 
+  
+Consider the point P(x, y) on the terminal side of an angle § in standard 
+position (Figure 6.25) such that r is the distance from the origin O to P. If 6 is 
+an acute angle, then we can construct a right-angled triangle POQ (Figure 6.26) 
+by dropping a perpendicular from P to a point Q on the x-axis. It follows that: 
+  
+  
+—— 
+oo 
+o 4 
+sinf == 
+cosf = 
+tana—;(x:o) 
+¥ 
+¥ 
+P(x, y) 
+P(x, y) 
+r 
+r 
+34 
+9 
+9 
+0| 
+x 
+o0 
+x 
+Q 
+x 
+Figure 6.25 Angle 6 in standard position 
+Figure 6.26 
+6 is an acute angle in APOQ 
+Figure 6.27 Similar right- 
+angled triangles POQ and 
+Extending this to angles other than acute angles allows us to define the 
+POQ’ 
+trigonometric functions for any angle - positive or negative. It is important to 
+note that the values of the trigonometric ratios do not depend on the choice of 
+the point P(x, y). If P'(x',y') is any other point on the terminal side of angle 6, as 
+in Figure 6.27, then triangles POQ and P'OQ" are similar and the trigonometric 
+ratios for corresponding angles are equal. 
+  
+Example 6.10 
+Find the sine, cosine and tangent of an angle « that contains the point 
+(=3, 4) on its terminal side when in standard position. 
+  
+Solution 
+r=xty =3+ 8 =y25=5 
+Then, sina 
+a 
+o 2 
+] 
+Il 
+RN 2R 
+NI 
+  
+tana 
+  
+Wl Glw 
+207
+
+  
+Figure 6.28 Reference triangle for computing trigonometric 
+values for angle @ 
+  
+Figure 6.30 Solution to 
+Example 6.11 
+208 
+Note that for the angle « in Example 6.10, we can form a 
+right-angled triangle by constructing a line segment from 
+the point (—3, 4) perpendicular to the x-axis, as shown 
+5 
+in Figure 6.28. Clearly, § = 180° — . Furthermore, the 
+values of the sine, cosine, and tangent of the angle 6 are 
+1 
+/6\ 
+the same as those for the angle a, except that the sign 
+  
+3 
+may be different. 
+y 
+11 
+1 
+(x,y) 
+. 
+. 
+. 
+i 
+sine + 
+sine + 
+Since all trigonometric functions are 
+cosine — 
+connert 
+associated with either the x-coordinate 
+tangent — 
+tangent + 
+(cosine), the y-coordinate (sine), or both 
+St 
+Gine — 
+x- and y-coordinates (tangent) of a point on 
+cosine — 
+cosine + 
+the terminal side of the angle, then the sign 
+mngen;l;' 
+t[a‘l;gent - 
+of a trigonometric function will be positive 
+or negative according to which quadrant it 
+Figure 6.29 Sigas of trigonometric 
+lies in, as shown in Figure 6.29. 
+function values in each quadrant 
+Example 6.11 
+Find the sine, cosine and tangent of the obtuse angle that measures 150°. 
+S 
+Solution 
+The terminal side of the angle forms a 30° angle with the x-axis. The sine 
+values for 150° and 30° will be exactly the same, and the cosine and tangent 
+values will be the same but of opposite sign. 
+We know that sin 30° = l, CosiS08 = E 
+7 
+2 
+3 
+tan 
+30° = — 
+and tan 
+3 
+3 
+‘Therefore, sin 150° = %, cos 150° = 7§and tan 150° = 7@ 
+Example 6.11 illustrates three trigonometric identities for angles whose sum is 
+180° (i.e. a pair of supplementary angles). The following identities are true for 
+any acute angle 6: 
+sin (180° — 0) =sin@® 
+ cos(180° — ) = —cos# 
+ tan(180° — #) = —tan 6 
+These identities are equivalent to ones in radian measure (180° = 7). 
+Example 6.12 
+Given sinf = 1—53, 90° < 6 < 180°, find the exact values of cosf and tan 6.
+
+  
+Solution 
+0 1is an angle in the 2nd quadrant. 
+It follows from the definition 
+sinf = }—rlthat with 6 in standard 
+  
+position, there must a be a point 
+on the terminal side of the angle that is 13 units from the origin (r = 13) and 
+has a y-coordinate of 5, as shown in the diagram. 
+Thus, x = V132 — 52 = /144 = 12. Because 6 s in the 2nd quadrant, the 
+x-coordinate of the point is negative; thus, x = —12. 
+_-n2__1n 
+5 __5 
+Therefore, cosf = 
+3 
+3 and tan 
+6 
+=5 
+2 
+Example 6.13 
+(a) Find the acute angle with the same sine ratio as (i) 135° and (ii) 117° 
+(b) Find the acute angle with the same cosine ratio as (i) 300° and (ii) 342° 
+  
+Solution 
+(a) 
+(i) 
+Angles in the 1st and 2nd 
+quadrants have the same 
+sine ratio. Hence, the identity 
+sin (180° — 6) = sinf. 
+Since 180° — 135° = 45°, 
+then sin 135° = sin 45° 
+(ii) Since 180° — 117° = 63°, then sin 117° = sin 63° 
+  
+(b) 
+(i) 
+Angles in the 1st and 4th quadrants 
+have the same cosine ratio. Hence, 
+the identity cos (360° — 6) = cos 6. 
+Since 360° — 300° = 60°, then 
+€05 300° = cos 60° 
+(ii) Since 360° — 342° = 18°, then 
+€0s 342° = cos 18° 
+Areas of triangles 
+We are familiar with the standard formula for the area of a triangle, 
+area = % X base X height ( 
+- %bh), where the base, b, is a side of the 
+  
+triangle and the height, &, (or altitude) is a line segment perpendicular to the 
+base (or the line containing it) and drawn to the vertex opposite the base, as 
+shown in Figure 6.31. 
+209
+
+   
+—r— 
+Figure 6.31 
+Area of 
+a triangle 
+A=t 
+2 
+c 
+A 
+— 
+Figure 6.32 An acute triangle 
+For a triangle with sides 
+of lengths aand band 
+included angle C: 
+areaof A = %absinc. 
+For any triangle labelled 
+in the manner of the 
+triangles in Figures 6.32 
+and 6.3, its area is given 
+by any of the expressions. 
+2 
+= 
+D> 
+cm 
+4 
+Figure 6.34 Diagram for 
+Example 6.14 
+p 
+A 
+5 Y 
+¥ 
+Figure 6.35 Solution for 
+Example 6.14 
+210 
+If the lengths of two sides of a triangle and the measure of the angle between 
+these sides (often called the included angle) are known, then the triangle is 
+unique and has a fixed area. Hence, we should be able to calculate the area from 
+just these measurements - two sides and the included angle. This calculation is 
+quite straightforward when the triangle is a right-angled triangle and we know 
+the lengths of the two legs on either side of the right angle. 
+Let’s develop a general area formula that will apply to any triangle — right- 
+angled, acute, or obtuse. For triangle ABC shown in Figure 6.32, suppose we 
+know the lengths of the two sides a and b and the included angle C. If the 
+height is h, then the area of ABC is % bh. From trigonometry, we know that 
+sinC = %, or h = asinC. Substituting a sinC for h 
+! 
+L1y 
+1 
+gives area =5 bh 
+3 blasinC) 
+3 absinC. 
+If the angle C is obtuse, then from 
+Figure 6.33 we see that sin(180° — C) = %. 
+So, the height is b = asin (180° — C). 
+However, sin (180° — C) = sinC. Thus, 
+  
+h = asinC and, again, area= % absinC. 
+Figure 6.33 An obtuse triangle 
+Lo 
+sincimL g 
+= Lcsi 
+areaofA—zabsmC 
+2ucsmB 
+2bcsmA 
+These three equivalent expressions will prove to be helpful for developing an 
+important formula (the sine rule) for solving non-right-angled triangles in the 
+next section. 
+Example 6.14 
+The circle shown has a radius of 1 ¢cm and the central angle 6 subtends an arc 
+of length 2?‘” cm. Find the area of the shaded region (a segment of the circle). 
+— 
+- 
+Solution 
+The formula for the area of a sector is A = % r2f where 6 is the central 
+angle in radians. Since the radius of the circle is 1, the length of 
+the arc subtended by 6 is the same as the size of 6. Thus, area of sector 
+=1 (1)2(2—7T) = T cm?. The area of the triangle formed by the two radii and 
+2 
+3 
+; 
+1 
+. 
+(2m\ _1(V3 ) 
+V3 
+the chord is equal to 2(1)(1)51[1( 3 
+) S 2( > 
+2 
+We find the area of the shaded region (segment) by subtracting the area 
+—33 
+of the triangle from the area of the sector. Area= %T - g or % 
+or approximately 0.614 cm? (3 s.f.)
+
+Example 6.15 
+Show that it is possible to construct two different triangles with an area of 
+35 cm? that have sides measuring 8 cm and 13 cm. For each triangle, find 
+the size of the (included) angle between the sides of 8 cm and 13 cm to the 
+nearest tenth of a degree. 
+- 
+Solution 
+We can visualise the two different triangles with equal areas: one with an 
+acute included angle (@) and the other with an obtuse included angle (). 
+area = % (side)(side)(sine of included angle) = 35 cm? 
+Your GDC will give only 
+= Lg)13)sing) = 35 
+the acute angle value for 
+2 
+the sin”! function. 
+52sina = 35 
+sina = 5] 
+52 
+13 
+a= si.n"(ﬁ) 
+52, 
+= 42.3° (to the nearest tenth of a degree) 
+s 
+Knowing that sin(180° — @) = sina, the obtuse angle 3 is equal to 
+180554238 —8137:78 
+13 
+Therefore, there are two different triangles with sides 8 cm and 13 cm and 
+an area of 35 cm?, one with an included angle of 42.3° and the other with an 
+. 
+i 
+8 
+included angle of 137.7° 
+Flgure .36 Solution for 
+Example 6.15 
+uations of 
+li 
+and angles between two lines 
+Recall that the gradient m of a non-vertical line is defined as 
+_h 
+vertical change 
+m 
+  
+% =% 
+horizontal change 
+The equation of the line shown in Figure 6.37 has a gradient m = % anda 
+y-intercept of (0, —1). So, the equation of the line is y = %x — 1. We can find 
+the size of the acute angle 6 between the line and the x-axis by using the 
+tangent function (Figure 6.38). 
+fixF1 
+   
+2 
+=k 
+Figure 6.37 Theline y = %x -1 
+Figure 6,38 Angle between y = %x — 1 and x-axis 
+211
+
+  
+Figure 6.39 Theline y = —%x +1 
+212 
+0= tan'om) = tan"(%) ~266° 
+Clearly, the gradient, m, of this line is equal to tan 6. If we know 
+the angle between the line and the x-axis, and the y-intercept (0, ¢, 
+we can write the equation of the line in gradient-intercept form as 
+y = (tanfx + ¢ 
+Before we can generalise for any non-horizontal line, let’s look at 
+a line with a negative gradient. 
+The gradient of the line is 7%. In order for tan 
+6 to be equal to the gradient of 
+the line, the angle § must be the angle that the line makes with the x-axis 
+in the positive direction, as shown in Figure 6.39. In this example, 
+6= tan"'(m) = tan"( *%) A2 —26. 6°. Remember, a negative angle indicates 
+a clockwise rotation from the initial side to the terminal side of the angle. 
+Ifaline has a y-intercept of (0, ¢) and makes an angle of 6 with the positive direction of the x-axis, 
+such that —90° < 6 < 
+907, then the gradient of the line is n = tanf and the equation of the line 
+isy = (tanblx + c. 
+‘The angle this line makes with any horizontal ine will be 6. 
+‘We will now use triangle trigonometry to find the angle between any two 
+intersecting lines - not just for a line intersecting the x-axis. Any pair of 
+intersecting lines that are not perpendicular will have both an acute angle and 
+an obtuse angle between them. When asked for an angle between two lines, 
+the convention is to give the acute angle. 
+Example 6. 
+Find the acute angle between the lines y = 3xand y =   X 
+| 
+Solution 
+The angle between the line y = 3x 
+and the positive x-axis is a, and the 
+angle between the line y = —xand 
+the positive x-axis is 8. 
+a = tan"13) ~ 71.565° 
+B=tan (=1 = —45° 
+The obtuse angle between the two lines 
+isa — B~ 71.565° — (—45°) 
+&~ 116.565° 
+  
+Therefore, the acute angle 6 between 
+the two lines is § ~ 180° — 116.565 ~ 63.4°
+
+Example 6.17 
+Find the acute angle between the lines y = 5x — 2and y = Ll 
+| 
+Solution 
+A horizontal line is drawn through 
+the point of intersection. 
+The angle between y = 5x — 2 and this 
+horizontal line is a, and the angle between 
+V= %x — 
+1 and this horizontal line is 3. 
+a = tan~!(5) & 78.690° and 
+= tan (1) ~ 18435 
+B 
+=tan 
+( 3) 
+8.435 
+  
+The acute angle 0 between the two lines 
+is 0 = a — B~ 78.690° — 18.435° ~ 60.3° 
+We can generalise the procedure for finding the angle between two lines as follows. 
+Given two non-vertical lines with equations of y; = mx + ¢; and 
+¥2 = myx + ¢y, the angle between the two lines is |tan~}(m,) — tan~!(m;)|. 
+This angle may be acute or obtuse. 
+Example 6.18 
+(a) Find the exact equation of line L, that passes through the origin and 
+makes an angle of —60° (or 120°) with the positive direction of the x-axis. 
+(b) The equation of line L, is 7x + y + 1 = 0. Find the acute angle between 
+Lyand L,. 
+Solution 
+(a) The equation of the line is given by 
+  
+  
+y = (tanfO)x 
+= [tan(— 60°)]x = sl (2605) 
+cos (—60°) 
+3 
+ol 
+< (=v3)x 
+2 
+Therefore, the equation of L, is 
+y=(=V3lxory = —x/3 
+Remember: tan(—60°) = tan 120° = —/3   
+213
+
+H 
+3 
+G 
+Figure 6.40 Diagram for 
+Example 6.19 
+  
+G 
+‘M 
+1 
+Figure 6.41 Solution to 
+Example 6.19 
+214 
+() L:7x+y+1=0=y=—7x—1 
+01is the acute angle between L, and L,. 
+0= |tan~'(m,) — tan~}(m,)| 
+= |tan~(—v3) — tan~1(=7)| 
+= O~ —60° — (—81.870°) 
+~ —21.87° 
+Therefore, the acute angle between 
+the lines is 21.9° (3 s.f.) 
+  
+In many problems, it is necessary to calculate lengths and angles in three- 
+dimensional structures. It is very important to analyse the three-dimensional 
+diagram carefully and to extract any relevant triangles to find the missing 
+angle(s) or length(s). 
+Example 6.19 
+The diagram shows a pyramid with a square base. It is a right pyramid, so 
+the line segment (the height) drawn from the top vertex A perpendicular to 
+the base will intersect the square base at its centre C. Each side of the square 
+base has a length of 2 cm and the height of the pyramid is also 2 cm. Find: 
+(a) the size of AGF 
+(b) the total surface area of the pyramid. 
+1 
+Solution 
+(a) Label the midpoint of [GF| as point M and draw two line segments, [CM] 
+and [AM]. Since C is the centre of the square base, then CM = 
+1 cm. 
+Extract right-angled triangle ACM to find the length of [AM]. 
+AM =12+ 2> = /5 
+[AM]is perpendicular to [GF] 
+Extract right-angled triangle AMG and use the tangent ratio to find AGM. 
+tan(AGM) = g 
+AGM = AGF = tan"!(//5) ~ 65.905° 
+‘Therefore, AGF ~ 65.9° 
+(b) The total surface area comprises the square base plus four identical 
+lateral faces that are all equilateral triangles. Triangle AGM is one-half 
+the area of one of these triangular faces. 
+Area of triangle AGM = %(l)(\/g) B g e 
+Area of triangle = AGF = 2(%) =5 
+Surface area = area of square base + area of 4 lateral faces= 22 + 4 /5 
+=4+4/5~1294cm?
+
+1. In each diagram, find the exact value of the three trigonometric 
+functions of the angle 6. Simplify your answers. 
+  
+(a) 
+z 
+(b) 
+y 
+(12,9) 
+(~35,12) 
+i 
+[ 
+0 
+X 
+0 
+X 
+(©) 
+b/ 
+(d) 
+b 
+  
+/3] 
+N 
+: 
+0 
+: 
+{=n 
+(—V75,-3) 
+ 
+ 
+2. Without using your GDC, determine the exact values of all three 
+trigonometric functions for each angle. 
+(a) 120° 
+(b) 135° 
+(c) 330° 
+(d) 270° 
+(e) 240° 
+5 
+T 
+7 
+SN 
+N 
+3w 
+®F 
+@I 
+wZ 
+@ 
+-w 
+G- 
+) 5?" 
+O 210 
+-7 
+@ 
+(0) 4257 
+3. Given that cosf = %, 0° < 6 < 90°, find the exact values of the 
+other two trigonometric functions. 
+4. Given that tanf = 7%, sinf < 0, find the exact values of sin 
+6 and cos 6. 
+5. Given that sinf = 0, cosf < 0, find the exact values of the other two 
+trigonometric functions. 
+6. 
+(a) Find the acute angle with the same sine ratio as 
+(i) 150°, and (ii) 95° 
+(b) Find the acute angle with the same cosine ratio as 
+(i) 315°, and (ii) 353° 
+(c) Find the acute angle with the same tangent ratio as 
+(i) 240°, and (ii) 200° 
+215
+
+216 
+Geometry and trigonometry 
+10. 
+il 
+23 
+5% 
+14. 
+. Find the area of each triangle. Express the area exactly, or, if not possible, 
+express it correct to 3 significant figures. 
+(a) 
+. ' 
+(b) 
+() -' 
+A 
+90 
+6 
+. Triangle ABC has an area of 43 cm?. The length of side AB is 12 cm and 
+the length of side AC'is 15 cm. Find the degree measure of angle A. 
+. A chord AB subtends an angle of 120° at O, the centre of a circle with 
+radius 15 centimetres. Find the area of (a) the sector AOB, and (b) the 
+triangle AOB. 
+Find the area of the shaded region in each circle. 
+(a) 
+(b) 
+‘ 
+Two adjacent sides of a parallelogram have lengths a and b and the angle 
+between these two sides is 6. Express the area of the parallelogram in 
+terms of a, b, and 6. 
+For the triangle shown, express y 
+in terms of x. 
+—x——>————x—> 
+G]J bisects FGH such that 
+G 
+FGJ] = HGJ = 6. 
+Express x in terms of &, 
+h 
+db 
+f 
+f,and cos#. 
+P 
+T 
+H 
+s is the length of each side of a regular polygon with # sides and r is the 
+  
+radius of the circumscribed circle. Show that s = 2r sin( ISnO )
+
+15. A triangle has two sides of lengths 6 cm and 8 cm and an included angle x. 
+(a) Express the area of the triangle as a function of x. 
+(b) State the domain and range of the function and sketch its graph for a 
+suitable interval of x. 
+(c) Find the exact coordinates of the maximum point of the function. 
+What type of triangle corresponds to this maximum? Explain why 
+this triangle gives a maximum area. 
+16. Find the angle that the line through the given pair of points makes with 
+the positive direction of the x-axis. 
+(a) (1,4)and (—1,2) 
+(b) (=3, 1)and (6, —5) 
+(©) (z, %) and (—4, —10) 
+17 
+Find the acute angle between the two given lines. 
+(@) y= —2xandy =x 
+() y= —3x+5andy 
+=2x 
+The sine rule and the cosine rule 
+So far, we have used trigonometry to find an unknown angle or side of a right- 
+angled triangle. We will now study methods for finding unknown lengths and 
+angles in triangles that are not right-angled triangles. These general methods 
+are effective for solving problems involving any kind of triangle - right-angled, 
+acute or obtuse. 
+Possible triangles constructed 
+from three given parts 
+We need to know at least three parts of a triangle to solve for other unknown parts. 
+Different arrangements of the three known parts can be given. Before solving for 
+unknown parts, it is helpful to know whether the three known parts determine a 
+unique triangle, or more than one possible triangle. Table 6.2 summarises the five 
+different arrangements of three parts and the number of possible triangles for each. 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Known parts 
+Number of possible triangles 
+Three angles (AAA) 
+Infinite triangles (not possible to solve) 
+Three sides (SSS) 
+| 
+One unique triangle 
+(sum of any two must be greater than the third) 
+Two sides and their included angle (SAS) 
+One unique triangle 
+Two angles and any side (ASA or AAS) 
+One unique triangle 
+Two sides and a non-included angle (SSA) 
+No triangle, one triangle or two triangles 
+  
+Table 6.2 Possible triangles formed with three known parts 
+Arrangements ASA, AAS, and SSA can be solved using the sine rule, whereas 
+arrangements SSS and SAS can be solved using the cosine rule. 
+217
+
+Geometry and trigonometry 
+The sine rule 
+In Section 6.3, we showed that we can write three equivalent expressions for the 
+area of any triangle for which we know two sides and the included angle. 
+Areaof A = %absi.nc = %acsinB = %bcsinA 
+Divide each expression by % abc: 
+%ubsinC _ %acsinB _ %bcsinA 
+1 
+1 
+1 
+3 abc 
+3 abc 
+3 abc 
+‘We obtain the following three equivalent ratios — each containing the sine of an 
+angle divided by the length of the side opposite the angle. 
+If A, B, and Care the angle measures of any triangle and a, b, and ¢ are, respectively, the lengths of 
+the sides opposite these angles, then, according to the sine rule: 
+sinA _ 
+sinB _ sinC 
+e 
+b 
+a0 
+B 
+o 
+Alternatively, the sine rule can also be written as —- = — = —— 
+sinA 
+ sinB 
+ sinC 
+   
+Finding unknowns given two angles and any side 
+(ASA or AAS) 
+  
+‘When we know two angles and any side of a triangle, we can use the sine rule 
+to find any of the other angles or sides of the triangle. 
+Example 6.20 
+Find all the unknown angles and sides of triangle DEF shown in the 
+diagram. Give all measurements correct to 1 decimal place. 
+Figure 6.42 Diagram for 
+| 
+Example 6.20 
+Solution 
+The third angle of the triangle is 
+D= 808 
+B 
+E =802 28103145522 38154138 
+‘We can write an equation using the sine rule to solve for e 
+sin22.3° _ sin103.4° 
+  
+  
+L) 
+i 
+_ 11.9sin103.4° _ 
+‘When using your GDC to 
+T 
+find angles and lengths 
+) 
+g’ 
+) 
+) 
+) 
+with the sine rule (or the 
+‘We can write another equation using the sine rule to solve for d 
+cosine rule),remember 
+§in22.3° _ sin54.3° 
+to store intermediate 
+19 
+d 
+answers on the GDC for 
+‘11 
+e 
+greater accuracy. 
+i Lﬂ ~ 25.467 cm 
+By not rounding until the 
+sin22.3 
+e 
+Therefore, the other parts of the triangle are: 
+the amount of rounding 
+e 
+D = 54.3° e~ 30.5cm and d ~ 25.5cm 
+218
+
+Example 6.21 
+A tree on a sloping hill casts a shadow 45 metres down the slope of the hill. 
+The gradient of the hill is % and the angle of elevation of the sun is 35°. 
+How tall is the tree, to the nearest tenth of a metre? 
+  
+Solution 
+ais the angle that the hill makes with the horizontal. We can work out its 
+size using the inverse tangent of % = é 
+a= tan"(é) ~ 11.3099° 
+  
+  
+The height of the tree is h. The angle of elevation of the sun is the angle 
+between the sun’s rays and the horizontal. In the diagram, this angle of 
+elevation is the sum of @ and B. Thus, B~ 35° — 11.3099° ~ 23.6901° 
+If a line segment is dropped from the base of the tree perpendicular to the 
+length of 60 m, then we can sketch a right-angled triangle with a + 8 = 35° 
+as one of its acute angles; the other acute angle — and the angle in the obtuse 
+triangle opposite the side of 45 metres — must be 55°. We can apply the sine 
+rule for the obtuse triangle to solve for h. 
+sin237° _ sin55°_ 
+, _ 455in23.7° 
+R 
+45 " 
+s 
+Therefore, the tree is approximately 22.1 metres tall. 
+= 22.0809 
+Two sides and a non-included angle 
+(SSA) — the ambiguous case 
+  
+The SSA arrangement - two sides of a triangle and the size of an angle not 
+between these two sides — can produce three different results: no triangle, 
+one unique triangle, or two different triangles. 
+219
+
+220 
+Example 6.22 
+Find all of the unknown angles and sides of triangle ABC where 
+a=35cm, b =50cm,and A = 30°. Give all measurements correct 
+to 1 decimal place. 
+  
+Solution 
+Here are the three parts we have in our attempt to construct triangle ABC: 
+B 
+= 35cm 
+C 
+  
+A 
+b= 50cm 
+C 
+A 
+30 
+  
+We attempt to construct the triangle, as shown. First draw angle A with its 
+initial and terminal sides extended. Then measure off the known side 
+b = AC = 50 on the terminal side. To construct side a (opposite angle A), 
+we take point C as the centre and with radius @ = 35 we draw an arc of a 
+circle. The points on this arc are all possible positions for vertex B. Point 
+B must be on the base line, so B can be located at any point of intersection 
+of the circular arc and the base line. In this instance, with these particular 
+measurements for the two sides and non-included angle, there are two points 
+of intersection, which we label B, and B,. 
+base line 
+  
+Therefore, we can construct two different triangles, triangle AB,C and 
+triangle AB,C. Angle B, is acute and angle B, is obtuse. To complete the 
+solution of this problem, we need to solve each of these triangles. 
+Solve triangle AB,C: 
+We can solve for acute angle B, using the sine rule. 
+ 
+
+sin 30° _ sin B 
+  
+35 
+50 
+sin B, 
+— 50sin 30° _ 5000.5) 
+! 
+35 
+35 
+e sin"(%) ~ 45.5847° 
+Then, C ~ 180° — 30° — 45.5847° ~ 104.4153° 
+‘With another application of the sine rule, we can solve for side c;. 
+sin30° _ sin104.4153° 
+35 
+C} 
+¢ 
+35510104, 4153° _ 35(0.96852) 
+. 
+sin 30° 
+0.5 
+Therefore, for triangle AB,C: B, ~ 45.6°, C ~ 104.4° and ¢, ~ 67.8 cm 
+~ 67.7964 cm 
+Solve triangle AB,C: 
+Solving for obtuse angle B, using the sine rule gives the same result as above, 
+except we know that 90° < B, < 180°. We also know that sin(180° — ) = 
+sinf. 
+Thus, B, = 180° — B, ~ 180° — 45.5847° ~ 134.4153° 
+Then, C ~ 180° — 30° — 134.4153° ~ 15.5847° 
+Applying the sine rule again, we can 
+solve for side c,. 
+5in30° _ sin 15.5847° 
+35 
+o 
+o~ 355in15.5847°  35(0.26866) 
+T 
+sin30° 
+05 
+~ 18.8062 cm 
+Therefore, for triangle AB,C: B, ~ 134.4°, C ~ 15. 6° and ¢, ~ 18.8 cm 
+  
+We will now take a more general look and examine 
+C 
+four different cases 
+all the possible conditions and outcomes for the SSA 
+arrangement. In general, we are given the lengths of 
+two sides - call them a and b - and a non-included 
+angle; for example, angle A that is opposite side a. 
+From these measurements, we can determine the 
+number of different triangles. Figure 6.43 shows the 
+four different possibilities (or cases) when angle A 
+is acute. The number of triangles depends on the 
+lenglh of side a. 
+Figure 6.43 Four distinct cases for SSA when angle A is acute 
+  
+In case 2, side a is perpendicular to the base line resulting in a single right- 
+angled triangle, shown in Figure 6.44. In this case, sin A = %and a=bsinA. 
+221
+
+A 
+Figure 6.44 Case 2 for SSA: 
+a = bsin A, one right angle 
+Given the length of 
+sides aand band the 
+non-included angle A is 
+acute, the four cases and 
+resulting triangles shown 
+in Table 6.3 can occur. 
+  
+a<b— 
+notriangle 
+Figure 6.45 Angle A is obtuse 
+C 
+50cm 
+e AN 
+Figure 6.46 Diagram for 
+solution to Example 6.23 
+25cm 
+A 
+B 
+222 
+In case 1, a is shorter than it is in case 2, i.e. bsin A. In case 3, which occurred 
+in Example 6.22, a is longer than bsin A, but less than b. And, in case 4, a is 
+longer than b. These results are summarised in Table 6.3. Because the number 
+of triangles may be none, one, or two, depending on the length of a (the side 
+opposite the given angle), the SSA arrangement is called the ambiguous case. 
+  
+   
+  
+  
+  
+a<bsinaA 
+No triangle 
+1 
+a=bsinA 
+One right-angled triangle 
+2 
+bsinA<a<b 
+Two triangles 
+3 
+a>b 
+One triangle 
+4 
+ 
+ 
+ 
+ 
+  
+Table 6.3 Possible triangles formed with two known sides and an acute non-included angle 
+The situation is considerably simpler if angle A is obtuse rather than acute. 
+Figure 6.46 shows that if a > b then there is only one possible triangle, and if 
+a < b then no triangle is possible that contains angle A. 
+Example 6.23 uses the same SSA information given in Example 6.22 with the 
+exception that side a is not fixed at 35 cm, but is allowed to vary. 
+Example 6.23 
+For triangle ABC, side b = 50 cm and angle A = 30°. Find the values for the 
+length of side a that will produce: (i) no triangle, (ii) one triangle, (iii) two 
+triangles. 
+1 
+Solution 
+Because this is an SSA arrangement (ambiguous case) and given A is an 
+acute angle, then the number of different triangles that can be constructed 
+depends on the length of a. 
+First calculate the value of bsin A: bsin A = 50sin 30° = 50(0.5) = 25cm 
+Thus, if a is exactly 25 cm, triangle ABC is a right-angled triangle. 
+(i) 
+When a < 25 cm, there is no triangle. 
+(ii) When a = 25 cm, or a > 50 cm, there is one unique triangle. 
+(iii) When 25cm < a < 50 cm, there are two different possible triangles. 
+  
+Example 6.24 
+The diagrams show two different 
+Triangle 1 
+Triangle 2 
+triangles both satisfying the conditions: 
+K 
+K 
+HK = 18cm, JK = 15cm, JAK = 53° 
+(a) Calculate the size of HfK in 
+triangle 2. 
+(b) Calculate the area of triangle 1. 
+" 
+7 
+" 
+i
+
+] 
+Solution 
+18 sin 53° 
+= sin(HTK) = 
+= 
+  
+H] K) Saiit 3y 
+~ 095836 
+From the sine rule, sin (T 
+15 
+= sin~'(0.95836) ~ 73.408° 
+However, Hf 
+K > 90° = HTK ~ 180° — 73.408° ~ 106.592° 
+Therefore in triangle 2, HJK ~107° (3 s.£) 
+In triangle 1, HTK < 90° = HJK ~ 73.408° 
+= HRJ 
+~ 180° — (73.408° + 53°) ~ 53.592° 
+Area = %(18)(15)5@53592“) ~108.649 cm? 
+Therefore, the area of triangle 1 is approximately 109 cm? (3 s.f.) 
+The cosine 
+rule 
+  
+Two arrangements remain in our list (Table 6.2) of different ways to arrange 
+three known parts of a triangle. If three sides of a triangle are known (SSS 
+arrangement), or two sides of a triangle and the angle between them are known 
+(SAS arrangement), then a unique triangle is determined. However, in both of 
+these cases the sine rule cannot be used to work out the unknowns in the triangle. 
+For example, it is not possible to set up an equation using the sine rule to solve 
+triangle PQR or triangle STU in Figure 6.47 
+Trying to solve APQR: 
+% = % = two unknowns; cannot solve for angle P or angle R 
+Trying to solve ASTU: 
+sin 80° _ sinU 
+t 
+13 
+  
+  = two unknowns; cannot solve for angle U or side ¢ 
+We will need the cosine rule to solve triangles with SSS and SAS arrangements. 
+To derive this law, we need to place a general triangle ABC in the coordinate 
+plane so that one of the vertices is at the origin and one of the sides is on the 
+positive x-axis. Figure 6.48 (top of next page) shows both an acute triangle ABC 
+and an obtuse triangle ABC. In both cases, the coordinates of vertex A are 
+x = bcos Cand 
+y = bsin C. Because c is the distance from A to B, we can use 
+the distance formula to write the following: 
+  
+distance between 
+=(bcosC — a)* + (bsinC — 0) 
+(bcosC, bsinC) and (a, 0) 
+squaring both sides 
+c2=(bcosC — a)* + (bsinC — 0)? 
+expand brackets 
+c2=b?cos’C — 2abcosC + a® + b?sin>C 
+take out common factor of b? 
+¢ = b*cos?C + sin?C) — 2abcos C + a? 
+from two terms 
+Q 
+6m 
+B 
+4m 
+sm 
+R 
+U 
+17cm 
+t 
+50° 
+T 
+em 
+S 
+Figure 6.47 Two triangles that 
+cannot be solved with the sine 
+rule 
+223
+
+¥ 
+b, 
+oo 
+a 
+y 
+A(b cos C, bsin C) 
+¢ 
+(0,0) 
+a 
+  
+ 
+Figure 6.48 Deriving the cosine rule 
+17cm 
+¢ 
+80° 
+T 
+S 
+13cm 
+Figure 6.50 Diagram for 
+Example 6.25 
+224 
+A(bcos C, bsin C) 
+Geometry and trigonometry 
+apply trigonometric identity 
+c2=b?—2abcosC + a? 
+cos? 0+ sin2 0 =1 
+rearrange terms 
+c2=a*+ b*—2abcosC 
+This equation gives one form of the cosine rule. Two other forms 
+are obtained in a similar manner by having either vertex A or 
+Bla.0)% 
+vertex B, rather than C, located at the origin. 
+It is helpful to understand the underlying pattern of the cosine 
+rule when applying it to solve for parts of triangles. The pattern 
+relies on choosing one particular angle of the triangle and then 
+identifying the two sides that are adjacent to the angle and the 
+one side that is opposite to it (Figure 6.49). The cosine rule can 
+be used to solve for the chosen angle or the side opposite the 
+B(@0) X 
+chosen angle. 
+B 
+side opposite the 
+chosen angle 
+chosen angle 
+¢ =a'+ 
+b —2abcosC 
+one side 
+other side 
+adjacent to the 
+adjacent to the 
+chosenangle 
+ chosen angle 
+Figure 6.49 Applying the cosine rule 
+Finding unknowns given two sides and the included 
+angle (SAS) 
+  
+If we know two sides and the included angle, we can use the cosine rule to solve 
+for the side opposite the given angle. Then it is best to solve for one of the two 
+remaining angles using the sine rule. 
+Example 6.25 
+  
+Find all of the unknown angles and sides of triangle STU. Give all 
+measurements to 1 decimal place. 
+e 
+Solution 
+‘We first solve for side ¢ opposite known angle stu using the cosine rule. 
+2 =132 + 172 — 2(13)(17)cos 80° 
+t = /137 + 172 = 
+2(13)(17)cos 
+80° 
+t~19.5256 
+Now use the sine rule to solve for one of the other angles, say TSU
+
+sinTSU _ sin80° 
+  
+  
+17 
+195256 
+N 
+7 sin 80 
+sinTSU 
+= 
+0 5256 
+S l7sin80") 
+i 
+( 19.5256 
+TSU ~ 59.0288° 
+Then, SUT ~ 180° — (80° + 59.0288°) ~ 40.9712 
+Therefore, the other parts of the triangle are t ~ 19.5 cm, TSU ~ 59.0° and 
+SUT ~ 41.0° 
+You may have noticed that the cosine rule looks similar to Pythagoras’ theorem. In fact, 
+Pythagoras’ theorem can be considered a special case of the cosine rule. When the chosen angle in 
+the cosine rule is 90°, then since cos 90° = 0, the cosine rule becomes Pythagoras theorem. 
+Tfangle C = 90°,then 2 = a2 + b2 — 2abcos 
+C = 
+2 = a2 + b2 — 2abcos 90° 
+e 
+el S AC 
+corresponding sides , 
+= 2= a2+ b2 — 2ab(0) = 
+¢2 = a2 + blora? + b2 = 2 
+b, and 
+¢, the cosine 
+rule 
+states: 
+2= a2 + b2 — 2abcosC 
+b? = a? + 2 — 2accosB 
+Example 6.26 
+a? = b?+ ¢ — 2bccosA 
+A sailboat travels 50 kilometres due west, then changes its course 18° northward, 
+as shown in the diagram. After travelling 75 kilometres in that direction, 
+how far is the sailboat from its point of departure? Give your answer to the 
+nearest tenth of a kilometre. 
+  
+Solution 
+Let d be the distance from the departure point to the position of the sailboat. 
+A large obtuse triangle is formed by the three distances of 50 km, 75 km, and 
+dkm. The angle opposite side d is 180° — 18° = 162°. Using the cosine rule, 
+we can write this equation to solve for d: 
+d? = 502 + 752 — 2(50)(75)cos 162° 
+502 + 752 — 2(50)(75)cos 162° A~ 123.523 
+Therefore, the sailboat is approximately 123.5 km from its departure point. 
+225
+
+Figure 6.51 Diagram for 
+Example 6.27 
+226 
+Geometry and trigonometry 
+  
+Finding unknowns given 
+e sides (SSS) 
+The triangle formed by three line segments where the sum of the lengths of any 
+two is greater than the length of the third will be unique. Therefore, if we know 
+three sides of a triangle we can solve for the three angle measures. 
+To use the cosine rule to solve for an unknown angle, it is best to first rearrange 
+the formula so that the chosen angle is the subject of the formula. 
+Solve for angle C in: 
+c2=a*+ b*—2abcosC=2abcosC 
+= 
+a’ + b> — c? = cosC = 
+a’+ b2 — cz) 
+2ab 
+Find all of the unknown angles of triangle PQR. Give all measurements to 
+1 decimal place. 
+_ 
+3 
+Solution 
+a’+ b2 —¢? 
+2ab 
+Then, C = cos"( 
+Note that the smallest angle will be opposite the shortest side. First find the 
+smallest angle; writing the cosine rule with chosen angle P: 
+52+ 62 — 42 
+2(5)(6) 
+Now that we know the size of angle P, we have two sides and a non-included 
+angle (SSA) and the sine rule can be used to find the other non-included 
+angle. Consider the sides QR = 4, RP = 5 and the angle P ~ 41.4096°. 
+Substituting into the sine rule, we can solve for angle Q that is opposite RP. 
+SinQ _ sin41.4096° 
+P = cos’l( 
+) =~ 41.4096° 
+S 
+4 
+SinQI= 5sin 4:4096 
+o sin"(w) ~55.7711° 
+Then, R ~ 180° — (41.4096° + 55.7711°) ~ 82.8192° 
+Therefore, the three angles of are P ~ 41.4°, Q ~ 55.8° and R ~ 82.8° 
+Example 6.28 
+A ladder that is 8 metres long is leaning against a non-vertical wall that 
+slopes away from the ladder. The foot of the ladder is 3.5 metres from the 
+base of the wall, and the distance from the top of the ladder down the wall 
+to the ground is 5.75 metres. To the nearest tenth of a degree, work out the 
+acute angle at which the ladder is inclined to the horizontal.
+
+1 
+Solution 
+Start by drawing a diagram that represents 
+the given information accurately. 
+6 marks the acute angle of inclination 
+of the ladder. Its supplement is FBT. 
+From the cosine rule: 
+  
+A 
+2 
+) 
+cosbfr 35575 
+8 
+26.5(6.75) 
+o 
+(3,52 + 5752 — 82) 
+FBT = cos=i 3525752 
+— 8%) 117 6640 
+<2 
+( 
+203.5/5.75) 
+5 
+0~ 180° — 117.664° ~ 62.336° 
+Therefore, the angle of inclination of the ladder is approximately 62.3° 
+  
+Example 6.29 
+ﬁmﬁmﬁ“ 
+from north. For example, 
+The diagram shows a point P that is 
+the diagram shows a 
+10 kilometres due south of a point D. 
+peacins of225 o 
+% 
+. 
+point A to point B. 
+A straight road PQ is such that the 
+(compass) bearing of Q from P is 45°. 
+Dorth 
+A and B are two points on this road that 
+are both 8 km from D. Find the bearing 
+A 
+of B from D, to 3 significant figures. 
+  
+  
+  
+Solution 
+The angle 6 is the bearing of B from D. 
+D, 
+5 
+First extract triangle PDB and use the sine 
+B 
+rule to solve for DBP 
+10 
+117.89° 
+sinDBP _ sin45° 
+10 
+8 
+sinDBP = 10 si: 45° 
+? 
+> 
+DEP = sin (1080 
+8F) ~ g 110 
+B 
+Triangle ADB is isosceles (two sides equal), so DAB = DBP, and since the 
+sum of angles in triangle ADB is 180°, we can solve for ADB. 
+DAB = DBP~ 62.11° 
+ADB ~ 180° — 2(62.11°) ~ 55.78° 
+Figure 6.52 Solution to 
+Example 6.29   
+227
+
+6 
+A‘i 
+8 
+Figure 6.53 Diagram for 
+question 6 
+228 
+Geometry and trigonometry 
+Solve for DAP because it is supplementary to 
+st 
+DAB. Then we can find the third angle in 
+triangle APD. Since 6 + ADB + ADP = 180°, 
+. n 
+we can solve for 6. 
+w 
+Py 
+17.11°, 
+B 
+PAD 
+=~ 180° — 62.11° ~ 117.89° 
+k 
+ADP~ 180° — (45° + 117.89°) ~ 17.11° 
+0~ 180° — (17.11° + 55.78°) ~ 107.11° 
+Therefore, the bearing of B from D is 107° (3 s.f.) 
+Exercise 6.4 
+1. State the number of distinct triangles (none, one, two, or infinite) that 
+can be constructed with the given measurements. If the answer is one 
+or two triangles, provide a sketch of each triangle. 
+(a) ACB = 30°, ABC = 50°, and BAC = 100° 
+(b) ACB = 30°, AC = 12cm, and BC = 17cm 
+(c) ACB = 30°, AB = 7cm, and AC = 14cm 
+(d) ACB = 47°, BC = 20 cm, and ABC = 55° 
+(e) BAC = 25°, AB = 12cm, and BC = 7cm 
+(f) AB=23cm, AC = 19,and BC = 11 cm 
+2. Find the measurements of all unknown sides and angles in the 
+triangles with the following measurements. If two triangles are 
+possible, solve for both. 
+(a) BAC = 37°, ABC = 28°,and AC = 14 
+(b) ABC = 68°, ACB = 47° and AC = 23 
+(c) BC =68, ACB = 71°, and AC = 59 
+(d) BC = 42, AC = 37,and AB = 26 
+(e) BC = 34, ABC = 43°, and AC = 28 
+(f) AC = 0.55, BAC = 62° and BC = 0.51 
+3. Find the lengths of the diagonals of a parallelogram whose sides 
+measure 14 cm and 18 cm and which has one angle with measure 37°. 
+4. Find the measures of the angles of an isosceles triangle whose sides are 
+10 cm, 8 cm, and 8 cm. 
+5. Given that for triangle DEE, EDF = 43° DF = 24 and FE = 18, find 
+the two possible measures of DFE. 
+6. Find the measure of the smallest angle in the triangle shown.
+
+7 
+8. 
+10. 
+e 
+12. 
+IS8 
+14. 
+15. 
+. A 50-metre vertical pole is to be 
+Find the area of triangle PQR in Figure 6.54. 
+Find a value for the length of AC so that the number of possible 
+triangles is: (i) one (ii) two (iii) none. 
+(a) BAC = 36%AB =5 
+(b) BAC = 60° AB = 10 
+erected on the side of a sloping 
+hill that makes an 8° angle with 
+the horizontal (see diagram). 
+Find the length of each of the 
+two supporting wires (x and y) 
+that will be anchored 35 metres 
+uphill and downhill from the base 
+of the pole. 
+The lengths of the sides of 
+a triangle ABC are x — 2, xand x + 2. 
+The largest angle is 120°. 
+(a) Find the value of x. 
+  
+(b) Show that the area of the triangle is 15f 
+(c) Findsin A + sin B + sin C, giving your answer in the form il 
+A 
+where p, g, r € Z. 
+Find the area of a triangle that has sides of lengths 6, 7, and 8 cm. 
+Let a, b, and c be the sides of a triangle where c is the longest side. 
+(a) 
+If 2> a? + b2, what is true about triangle ABC? 
+(b) 
+If c2 < a? + b2, what is true about triangle ABC? 
+(c) Use the cosine rule to prove each of your conclusions for 
+(a) and (b). 
+Consider triangle DEF with EDF = 43.6°, DE = 19.3, and EF = 15.1 
+Find DF. 
+In the diagram, WX = xcm, XY = 3xcm, YZ = 20cm, 
+sing = and WRY = 120°. 
+(a) 
+If the area of triangle WZY is 112 cm?, find the length of [WZ]. 
+(b) Given that 0 is an acute angle, state the value of cosf and hence 
+find the length of [WY]. 
+(c) Find the exact value of x. 
+(d) Find the degree measure of X¥Z to 3 significant figures. 
+In triangle FGH, FG = 12 cm, FH = 15 cm, and G is twice the size of H. 
+Find the approximate degree measure of H to 3 significant figures. 
+  
+DN 
+15cm 
+Figure 6.54 Diagram for 
+question 7 
+  
+Figure 6.55 Diagram for 
+question 14 
+229
+
+Figure 6.56 Diagram for 
+question 1 
+  
+Figure 6.57 Diagram for 
+question 5 
+C 
+32km 
+o 
+48km 
+B 
+Figure 6.58 Diagram for 
+question 6 
+5cm 
+i 
+i 7cm 
+8cm 
+Figure 6.59 Diagram for 
+question 7 
+‘Triangle 1 
+A 
+B 
+C 
+B 
+C 
+Figure 6.60 Diagram for 
+question 8 
+Triangle 2 
+A 
+Geometry and trigonometry 
+Chapter 6 practice questions 
+i 
+. A is an obtuse angle in a triangle and sin A = 
+2 
+. The diagrams show two different triangles both satis 
+The shortest distance from a chord [AB] to the centre O of a circle is 
+3 units. The radius of the circle is 5 units. Find the exact value of 
+sin AOB. 
+. In a right-angled triangle, tan = % Find the exact value of sin 26 and 
+€05 26. 
+. A triangle has sides of length 4, 5 and 7 units. Find, to the nearest tenth 
+of a degree, the size of the largest angle. 
+Calculate the exact value of sin 2A. 
+L 
+. The diagram shows a vertical pole PQ, which is supported by two wires 
+fixed to the horizontal ground at A and B. 
+BQ = 40m, PBQ = 36°, BAQ = 70°, ABQ = 30° 
+Find: 
+(a) the height of the pole, PQ 
+(b) the distance between A and B. 
+. Town A is 48 km from town B and 32 km from town C as shown in the 
+diagram. 
+Given that town B is 56 km from town C, find the size of the angle CAB 
+to the nearest tenth of a degree. 
+. The diagram shows a triangle with sides 5cm, 7 cm, and 8 cm. 
+Find: 
+(a) the size of the smallest angle, in degrees 
+(b) the area of the triangle. 
+  
+ng the conditions 
+AB = 20cm, AC = 17 cm, ABC = 50° 
+(a) Calculate the size of ACBin Triangle 2. 
+(b) Calculate the area of Triangle 1. 
+. Two boats, A and B, start moving from the same point P. Boat A moves 
+in a straight line at 20 km per hour and boat B moves in a straight line at 
+32 km per hour. The angle between their paths is 70°. Find the distance 
+between the two boats after 2.5 hours.
+
+10. 
+e 
+125 
+5% 
+14. 
+1, 
+In triangle JKL, JL = 25, KL = 38 and K7\L = 51°, as shown in the 
+diagram. 
+Find JKL, giving your answer correct to the nearest degree. 
+The diagram shows triangle ABC, where 
+BC = 5cm, ABC = 60° and ACB = 40° 
+(a) Calculate AB. 
+(b) Find the area of the triangle. 
+Find the size of the acute angle between a pair of diagonals of a cube. 
+A farmer owns a triangular field ABC. One side 
+of the triangle, [AC, is 104 m, a second side, 
+[ABI, is 65 m and the angle between these two 
+sides is 60°. 
+(a) Use the cosine rule to calculate the length 
+of the third side, [BC], of the field. 
+g 
+(b) Given that sin 60° = 73 
+e 
+of the field in the form p 3 where p 
+is an integer. 
+Let D be a point on [BC] such that [AD] bisects the 60° angle. 
+The farmer divides the field into two parts, A, and A,, by constructing a 
+straight fence [AD] of length x metres, as shown in the diagram. 
+(c) 
+(i) 
+Show that the area of A, is 
+1 
+(ii) 
+Find a similar expression for the area of A, 
+(iii) Hence, find the value of x in the form g V3, where qeZ 
+(d) 
+(i) 
+Explain why sin ADC = sin ADB 
+(ii) 
+Use the result of part (i) and the sine rule to show that gc 
+The lengths of the sides of a triangle PQR are x — 2, x and x + a, where 
+a> 0. Angle Pis 30° and angle Q is 45°, as shown in the diagram. 
+(a) Find the exact value of x. 
+(b) Find the exact area of triangle PQR. 
+In the diagram, the radius of the circle with centre Cis 7 cm and the 
+radius of the circle with centre D is 5 cm. If the length of the chord AB 
+is 9 cm, find the area of the shaded region enclosed by the two minor 
+arcs AB. 
+  
+L 
+K 
+J 
+Figure 6.61 Diagram for 
+question 10 
+  
+ 
+Figure 6.62 Diagram for 
+question 12 
+Figure 6.63 Diagram for 
+question 14 
+Figure 6.64 Diagram for 
+question 15 
+231
+
+17 
+17 
+A 
+Figure 6.65 Diagram for 
+question 17 
+B 
+Figure 6.66 Diagram for 
+question 19 
+232 
+A 
+Geometry and trigonometry 
+16. 
+173 
+18. 
+19. 
+One corner, K, of a field consists of two stone 
+walls, [K]] and [KLI, at an angle of 60° to each 
+other. A wooden fence [JL] is to be built to 
+create a triangular enclosure JKL, as shown in 
+the diagram. 
+(a) 
+If KTL is denoted by 6, state the range of 
+possible values for 6. 
+(b) Show that the area of triangle JKL is 
+3003 sin Osin(f + 60°) 
+(c) Use your GDC to determine the value of  that gives the maximum 
+area for the enclosure. 
+  
+The diagram shows the triangle ABC with AB = BC = 17 cm and 
+AC = 30 cm. The midpoint of AC is M. The circular arc A, is half the 
+circle (semicircle) with centre M. Another circular arc A, is drawn with 
+centre B. The shaded region R is bounded by the arcs A, and A,. 
+Find: 
+(a) the area of triangle ABC 
+(b) the size of ABC in radians 
+(c) 
+the area of the shaded region R. 
+(a) In the diagram, radii drawn to endpoints 
+p 
+of a chord of the unit circle determine a 
+‘ 
+central angle a. Show that the length of 
+oy 
+the chord is 
+L= v2i="2/¢6s10; 
+(b) By using the substitution § = %in the 
+double-angle formula cos 26 = 
+1 — 2 sin? 6, 
+derive a formula for sin %, that is a half-angle 
+formula for the sine function. 
+(c) Use the result in (a) and your result in (b) to show that the length 
+of the chord is L = 2 sin(g) 
+In triangle ABC, ABC = 20 and BAC = 6. 
+Determine an expression for cos 6 in terms of @ and b.
+
+20. The traditional bicycle frame consists of tubes connected together 
+in the shape of a triangle and a quadrilateral (four-sided polygon). 
+In the diagram, AB, BC, CD, and AD represent the four tubes of the 
+quadrilateral section of the frame. A frame maker has prepared three 
+tubes such that AD = 53 ¢cm, AB = 55cm, and BC = 11 cm. 
+DAB = 76° and ABC = 97°. What must be the length of tube CD? 
+Figitie 0,07 Disgramifoc 
+question 20 
+  
+Give your answer to the nearest tenth of a centimetre. 
+A 
+21. The tetrahedron shown in the figure has the 
+following measurements: AB = 12 cm, 
+DC = 10cm, ACB = 45°, and ADB = 60°. 
+e 
+AB is perpendicular to the triangle BCD. 
+Find the area of each of the four triangular 
+2 
+s 
+faces: ABC, ABD, BCD, and ACD. 
+10cm’ ﬁ 
+  
+ 
+22. Find the size of angle DEF in the rectangular box. 
+D 
+3cm 
+Figure 6.68 Diagram for 
+23. Ata point A due south of a building, the angle of elevation from the 
+question 22 
+ground to the top of a building is 58°. At a point B (on level ground 
+with A), 80 metres due west of A, the angle of elevation to the top of the 
+building is 27°. Find the height of the building. 
+  
+ 
+ 
+  
+  
+589 
+275 
+  
+80m——————> 
+4 
+24. A right pyramid has a square base with sides 
+of length 8 cm. The height of the pyramid 
+is 10 cm. There are four lateral faces that are 
+isosceles triangles, and one square base. 
+Two adjacent lateral faces are shaded in the 
+diagram. Calculate the angle between 
+s 
+two adjacent lateral faces. 
+233
+
+Geometry and trigonometry 
+25. (a) Find the exact equation of line L; that passes through the origin and 
+makes an angle of 30° with the positive x-axis. 
+(b) The equation of line L, is x + 2y = 6. Find the acute angle between 
+Lyand L,. 
+26. A helicopter leaves from point P and flies in a straight line on a bearing 
+of 125° for 150 km to point Q. It then flies in a straight line for 275 km 
+from point Q to point R on a bearing of 230°. From point R, the 
+helicopter flies directly back to point P. Calculate the length and bearing 
+of the flight from R to P. 
+234

@@ -1,0 +1,3582 @@
+1 
+0 
+3 S 
+o 
+) O 
+o 
+e 
+£ 
+o 
+1. 
+o 
+= 
+O  
+
+350 
+Differential calculus 1 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« 
+the concept of a limit 
+o 
+the derivative as a gradient (slope) function and as a rate of change 
+« 
+finding the derivative of polynomial functions 
+« 
+the derivatives of sinx and cosx 
+o 
+the relationship between the graphs of a function, its first derivative and 
+its second derivative 
+« 
+identifying where a function is increasing or decreasing 
+« 
+finding and testing for maximum, minimum, and inflection points 
+« 
+kinematic problems involving displacement, velocity, and acceleration 
+« 
+finding the equation of a tangent or a normal at a given point. 
+Figure 9.1 shows a distance-time graph for a 50-kilometre bicycle ride that 
+included going up and then down a steep hill. There are four time intervals 
+labelled A, B, C, and D. The cyclistss speed is the lowest in interval B. It is the 
+highest in interval C. The cyclist’s speed is about the same in intervals A and 
+D. The shape of the distance-time graph gives information about the cyclist’s 
+speed during a certain interval and at a particular moment (instant) during 
+the ride. 
+@ 2 
+® 
+© 
+[ 
+s 
+S 
+Distance (kilometres) 
+w g 
+  
+0 
+0.5 
+1 
+1.5 
+2 
+0 
+10 
+20 
+30 
+40 
+50 
+Time (hours) 
+Distance (kilometres) 
+Figure 9.1 
+A distance-time graph for a cyclist 
+Calculus is the branch of mathematics that was developed to analyse and model 
+changing quantities — such as velocity and acceleration. We can also apply it to 
+study change in the context of slope, area, volume, and a wide range of other 
+concepts that allow us to model real-life phenomena more precisely. Although 
+mathematical techniques that we have previously studied dealt with many 
+of these concepts, the ability to model change was restricted. For example, 
+consider the curve in Figure 9.2 that illustrates the motion of an object by 
+indicating the distance (y metres) travelled after a certain amount of time (¢ 
+seconds). Without calculus, we can only compute the average velocity between 
+two different times (Figure 9.3). With calculus, we can find the velocity of an 
+object at a particular instant, known as its instantaneous velocity (Figure 9.4). 
+The starting point for our study of calculus is the idea of a limit.
+
+   
+¥ 
+y 
+5 
+5 
+4 
+4 
+E 
+E 
+53 
+<3 
+Z 
+5 
+A2 
+A2 
+1 
+1 
+1T 234567 891011121 
+T 2345678 910112¢ 
+Time (sec) 
+Time (sec) 
+Figure 9.2 Distance-time graph for an objects motion 
+Figure 9.3 Average velocity from a distance-time graph 
+y 
+5 
+4 
+£ 
+8 
+g Z2 
+  
+l)123456789101112‘ 
+Time (sec) 
+Figure 9.4 Instantaneous velocity from a distance-time graph 
+Limits of functions 
+  
+A limit is one of the ideas that distinguishes calculus from algebra, geometry, and 
+trigonometry. The notion of a limit is a fundamental concept of calculus. Limits 
+are not new to us. We often use the idea of a limit in many non-mathematical 
+situations. We have already used mathematical limits in this book - finding the 
+sum of an infinite geometric series and computing the irrational number e. 
+In Chapter 3, we established that if the sequence of partial sums for an infinite 
+series converges to a finite number L, we say that the infinite series has a 
+sum of L. We used limits to confirm algebraically that the infinite series 
+2+ 1+ % + i + é + -+ has a sum of 4. As part of the algebra for this, 
+we reasoned that as the value of 1 increases in the positive direction without 
+351
+
+The notation lim_fx) 
+indicates the limit of the 
+value of the function fas 
+x takes on greater and 
+greater positive values 
+(also written simply 
+as lim fiv),and lim_flv 
+indicates the limit of the 
+value of the function fas 
+xtakes on greater and 
+greater (in magnitude) 
+negative values. 
+352 
+Differential calculus 1 
+n 
+bound (1 — +00) the expression (5) converges to zero - in other words, 
+" 
+the limit of (%) as n goes to positive infinity is zero. This result is expressed 
+" 
+using limit notation as lim (%) 
+= 0. It is beyond the requirements of this 
+oo 
+course to establish a precise formal definition of a limit, but a closer look at 
+justifying a couple of limits can lead us to an informal understanding of the 
+concept of a limit. 
+Example 9. 
+Evaluate lim (%) 
+by using your GDC to analyse the behaviour of the 
+function flx) = (%) 
+for large positive x values. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Solution 
+a) 
+[Plotl Plotz plots 
+AR 
+Y= 
+\Y3= 
+\Ya= 
+\Ys5= 
+Y= 
+~Y7= 
+X 
+Y1 
+X 
+P 
+15 
+Z 
+2 
+.25 
+9 
+3 
+125 
+10 
+4 
+0625 
+11 
+5 
+03125 
+12 
+6 
+01563 
+13 
+X=0 
+¥1=1.22070313e-4 
+    
+  
+  
+The GDC screen images show the graph and table of values for y = (%) 
+The larger the value of x, the closer y gets to zero. Although there is no value 
+of x that will produce a value of y equal to zero, we can get as close to zero as 
+we wish. For example, if we wish to produce a value of y within 0.001 
+B 
+e 
+of zero, then we could choose x = 10 and 
+y = (E) 
+=102 
+And if we want a result within 0.0000001 of zero, then we could choose 
+e 
+1 
+=24andy= (_) = 
+S 
+5 B 7S 
+Therefore, we can conclude that lim (l) 
+%\ 
+~0.00097656 
+~20.000000059605 and so on. 
+n 
+0 
+‘Theline y = cis a horizontal asymptote of the graph of a function y = fix) if cither 
+lim fiv =cor lim fi=c. 
+For example, the line y = 0 (x-axis) is a horizontal asymptote of the graph of 
+x 
+n 
+y= (%) because Jim, (%) 
+0.
+
+In calculus, we are interested in limits of functions of real numbers. Although 
+many of the limits of functions that we will encounter can only be approached 
+and not actually reached (as in Example 9.1), this is not always the case. 
+For example, if asked to evaluate the limit of the function fix) = % = lsasix 
+approaches 6, then we evaluate the function for x = 6. Since fi6) = 2, then 
+lim(£ = l) = 2. However, it is more common that we are unable to evaluate 
+26 
+the limit of f(x) as x approaches some number ¢ because fic) does not exist. 
+Example 
+Find the value of the following two limits by using your GDC to analyse the 
+graph of the relevant function. 
+NG| 
+G 
+= 
+lim 
+$IDX 
+b) 
+lim 
+S95% 
+i 
+Bla=a— 
+e 
+Solution 
+(a) We are not able to evaluate this limit by direct substitution because 
+when x = 0, ST 
+%and is therefore undefined. We use our GDC 
+& 
+  
+  
+  
+  
+  
+(in radian mode) to analyse the behaviour of the function y = % 
+as x approaches zero from the right side and the left side. 
+FIotl Flotz_Flo 
+¥1(<0.05) 
+¥1(<0.002) 
+S sin(x) /X 
+£9995833854 
+19999993333 
+¥(0.63) 
+¥(0.002) 
+.9995833854 
++9999993333 
+-Ans 
+1-Ans 
+4.166145864:-4 
+6.66666655:~7 
+  
+  
+  
+    
+Although there is no point on the graph of y = % corresponding to 
+x = 0, itis clear from the graph that as x approaches zero (from either 
+direction), the value of % converges to 1. 
+We can get the value of % arbitrarily close to 1 depending on our 
+choice of x (see GDC images above). If we want % to be within 
+sin.0.05 
+005~ 0.999583 and 
+0.001 of 1, we choose x = *0.05 giving 
+353
+
+‘The analysis and result 
+for Example 9.2 illustrates 
+why itis preferred (and 
+often necessary) thatin 
+calculus, the argument of a 
+trigonometric function be 
+in radian measure rather 
+than degrees. 
+Thelimit of 
+T2 
+as 
+tends to e is not equal to 1 
+i xis in degrees. 
+Although we can 
+describe the behaviour of 
+the function 
+1 
+- 
+= — by writi 
+7= 
+by 
+writing 
+- 
+| 
+it 
+not mean that we 
+consider oo to represent 
+anumber - it does not. 
+‘This notation s simply 
+a convenient way to 
+indicate in what manner 
+the limit does not exist. 
+= 00, this does 
+Thelinex = cisa 
+vertical asymptote of the 
+graph ofa function 
+y = funif either 
+lim fix) = oo or 
+lim fix) = —eo. 
+For example, the line 
+x =0 (y-axis) isa 
+  
+  
+vertical asymptote of the 
+raph ofy 
+= 1 
+graphofy = 
+because 
+lim o 
+354 
+Differential calculus 1 
+1 —0.999583 = 0.000417 < 0.001, and if we want % to be within 
+0.000001 of 1, then we choose x = *0.002 giving % 
+~0.9999993333 and 1 — 0.9999993333 = 0.0000006667 < 0.000001 
+and so on. Therefore, Lim 3% — ), 
+X0 
+X 
+& 
+_ sinx 
+Py 
+= 
+5 
+ENcOsY Sl 
+(b) Aswith y = ==, substituting x = 0 into the function y = =—="—— 
+cosx — 
+produces g The graph of y = 
+L shows that the function 
+approaches 0 as x tends to 0. 
+A table produced on a GDC also shows that the function approaches 
+zero from both directions. 
+  
+Plotl Plotz Plots 
+\Y1E (cos(X)-1)/X 
+/_\ 
+  
+  
+  
+  
+ 
+ 
+VV 
+  
+ 
+ 
+  
+ 
+  
+  
+  
+‘Therefore, lim% =0 
+x—0 
+Functions do not necessarily converge to a finite value at every point. 
+It is possible that a limit does not exist. 
+Example 
+9.3 
+Find liny L, i it exist. 
+1 
+Solution 
+1 
+As x approaches zero, the value of 7 
+becomes increasingly large in the positive 
+direction. The graph of the function below 
+seems to indicate that we can make the 
+values of y = iz arbitrarily large by choosing 
+b 
+  
+x close enough to zero. Therefore, the values 
+ofy = Lz do not approach a finite number, so lim-L does not exist. 
+5 
+X0 X 
+If fix) becomes arbitrarily close to a unique finite number L as x approaches ¢ from cither side, 
+then the limit of i) as x approaches c s L. The notation for indicating this is lim fix) = L. 
+‘When a function flx) becomes arbitrarily close to a finite number L, we say that fix) converges to L.
+
+B 
+2 
+will havea horizontal asymptote of y = 3. Tn other 
+  
+Recall from Section 2.2 the end behaviour of rational functions. Since lim 
+324501 
+EEel 
+words, as x — +00 0r x — — o0, the limit of the function values approach % 
+= o] 
+the rational function y = 
+y 
+< 
+Il e 
+o 
+w 
+_3+se—1 
+. 
+Y= 
+T+t 
+ 
+A rational function approaching a horizontal asymptote as x — +00 or x — — 00 
+53 
+  
+. Evaluate each limit. Confirm your result by means of a table or graph on 
+your GDC. 
+. 
+4x+3 
+e 
+’ 
+(@) Jim =~ 
+() lim(3x? + 2hx + 
+) 
+Do )] 
+L 
+x2—9 
+© === 
+@ lim*=> 
+. Investigate the limit (if it exists) of each expression as x — oo by evaluating 
+the expression for the following values of x: 10, 50, 100, 1000, 10 000, and 
+1000 000. Hence, make a conjecture for the value of each limit. 
+. 
+I 
+cSSI6] 
+@ m 22 
+) m 
+S 
+I 322t 
+  
+  
+. Use the graphing or table capabilities of your GDC to investigate the 
+c 
+value of the expression (1 aF %) 
+as c increases without bound 
+(i.e. ¢ — 00). Indicate the significance of the result. 
+. If it is known that the line y = 3 is a horizontal asymptote for the 
+function f{x), then state the value of each of the following two 
+limits: lim fix) and lim_fix). 
+If it is known that the line x = a is a vertical asymptote for the function 
+g(x), and that g(x) > 0, then what conclusion can be made about lim g(x)? 
+  
+  
+. State the equations of all horizontal and vertical asymptotes for the 
+following functions. 
+S 
+-1 
+T 
+(a) fio) 
+= e 
+(b) gtx) 
+) 
+© heo=3—=;+b 
+356
+
+T—in— 
+  
+Figure 9.5 Gradient ofa 
+straight line 
+‘The gradient (slope) of 
+acurve ata point is the 
+gradient of the line that 
+is tangent to the curve at 
+that point. 
+‘The word curve can often 
+‘mean the same as function, 
+even if the function is 
+linear. 
+356 
+Differential calculus 1 
+The derivative of a function: basic 
+rules and facts 
+Tangent lines and the gradient (or slope) of a ¢ 
+  
+Any linear function can be written in the form y = mx + c. This is the 
+gradient-intercept form for a linear equation where m is the gradient (or slope) 
+of the graph and c is the y-coordinate of the point at which the graph intersects 
+the y-axis (i.e. the y-intercept). The value of the gradient m, defined as 
+2= n 
+vertical change 
+m= 
+— 
+  
+—— 
+=——————— will be the same for any pair of points, 
+X2~ 
+%1 
+horizontal change 
+(*¥1,y1) and (x5, y,), on the line. An essential characteristic of the graph of a linear 
+function is that it has a constant gradient. This is not true for the graphs of 
+non-linear functions. 
+Consider a person walking up the side of a pitched roof as shown in Figure 9.5. At 
+any point along the line segment PQ, the person is experiencing a gradient of % 
+Now consider someone walking up the 
+curve shown in Figure 9.6 that passes 
+through the three points A, B, and C. 
+As the person walks along the curve 
+from A to C, they will experience a 
+steadily increasing gradient. The gradient 
+is continually changing from one point 
+to the next along the curve. Therefore, 
+it is incorrect to say that a non-linear 
+function, whose graph is a curve, has 
+a gradient - it has infinitely many 
+gradients. We need a means to determine the gradient of a non-linear function at 
+a specific point on its graph. 
+    
+  
+Figure 9.6 Gradient of a curve 
+Imagine if the gradient of the curve in Figure 9.6 stopped increasing (remained 
+constant) after point B. From that point on, a person walking up the curve 
+would move along a line with a gradient equal to the gradient of the curve at 
+point B. This line, containing point D in the diagram, only touches the curve 
+once, at point B. Line (BD) is tangent to the curve at point B. Therefore, finding 
+the gradient of the line that is tangent to a curve at a certain point will give us 
+the gradient of the curve at that point. 
+Finding the gradient of a curve at a point - or better, finding a rule (function) 
+that gives us the gradient at any point on the curve - is very useful information 
+in many applications. The gradient of a line, or of a curve at a point, is a 
+measure of how fast variable y is changing as variable x changes. The gradient 
+represents the rate of change of y with respect to x. To find the gradient of a 
+tangent, we first need to clarify what it means to say that a line is tangent to a 
+curve at a point. Then we can establish a method to find the tangent at a point.
+
+The three graphs in Figure 9.7 show different configurations of tangent lines. A 
+tangent line may cross or intersect the graph at one or more points. 
+For many functions, the graph has a 
+tangent at every point. Informally, a 
+function is said to be smooth if it has this 
+property. Any linear function is certainly 
+smooth, since the tangent at each point 
+coincides with the original graph. However, 
+some graphs are not smooth at every point. 
+Consider the point (0, 0) on the graph of the 
+function 
+y = |x| (Figure 9.8). Zooming 
+in on (0, 0) will always produce a V-shape rather than smoothing out to appear 
+more and more linear. Therefore, there is no tangent to the graph at this point. 
+ 
+Figure 9.8 y 
+  
+One way to find the tangent line of 
+a graph at a particular point is to make 
+a visual estimate. Figure 9.9 shows the distance-time graph for an object’s 
+motion. The gradient at any point (t, y) on the curve will give us the rate of 
+change of the distance 
+y with respect to time t, in other words the object’s 
+instantaneous velocity at time t. In the figure, an estimate of the tangent to the 
+curve at (5, 3) has been drawn. Reading from the graph, the gradient 
+appears to be ﬁé— = % Or, in other words, the object has a velocity of 
+approximately 0.667 m s~ ! at the instant when t = 5 seconds. 
+ey 
+istance (m) 
+b 
+b 
+e 
+G 
+Distance 
+  
+  
+—110123456789101112r 
+Time (sec) 
+ 
+ 
+ 
+ 
+  
+Figure 9.9 Estimating the gradient of a tangent 
+A more precise method of finding tangent lines makes use of a secant line and 
+a limit process. Suppose that fis any smooth function, so the tangent to its 
+graph exists at all points. A secant line (or chord) is drawn through the point 
+for which we are trying to find a tangent to fand a second point on the graph 
+of f, as shown in Figure 9.10. If P is the point of tangency with coordinates 
+(%, fx)), then choose a point Q to be a horizontal distance of h units away. 
+Hence, the coordinates of point Q are (x + h,f(x + h)) and the gradient of the 
+flx+h) = fx) 
+ flx+h) - flo 
+tline 
+(PQ) 
+is myee = ———~—— 
+= 
+secant 
+line (PQ) is m, 
+Gih—% 
+M’ 
+The right side of this equation is often referred to as a difference quotient. 
+The numerator is the change in y, and the denominator h is the change in x. 
+The limit process of achieving better and better approximations for the gradient 
+of the tangent at P consists of finding the gradient of the secant (PQ) as Q 
+      
+ 
+Figure 9.7 Different 
+configurations of lines tangent 
+toa curve
+
+358 
+1 
+  
+  
+Differential calculus 1 
+moves ever closer to P, as shown in the graphs in Figure 9.11 and Figure 9.12. 
+In doing so, the value of h will approach zero. 
+By evaluating a limit of the gradient of the secant lines as h approaches zero, 
+we can find the exact gradient of the tangent line at P(x, f(x)) (Figure 9.13). 
+y 
+fx) 
+v 
+fix) 
+    
+  
+  
+QG+ hy fix + h) 
+: 
+QG+ h, fix 
++ h) 
+S+ ) = fix) 
+ 
+o+ 
+B = 
+o) 
+  
+0 
+X 
+0 
+X 
+Figure 9.10 Secant line through points Pand Q 
+Figure 9.11 The horizontal distance / gets 
+smaller as point Q moves closer to P 
+y 
+flx) 
+y 
+fx) 
+      
+Qx + h, flx + h)), 
+St b =) 
+Pl f2), 
+— 
+- @ 
+0| 
+x 
+[ 
+x 
+ 
+ 
+  
+Figure 9.12 As h gets sma 
+becomes a better approximation of the tangent 
+to the graph of fat P 
+er, the secant line 
+Figure 9.13 Tangent to fat point P 
+Let’s apply this limit process to a specific curve. We will see that the gradient 
+of 
+a line through two points on a curve (a secant line) becomes a better and 
+better approximation for the gradient of the tangent to the curve at a point. 
+This occurs as one of the points that the secant line passes through moves 
+closer and closer to the other (fixed) intersection point where we are trying to 
+approximate the gradient of the tangent. 
+Consider the graph of the curve fix) = x? + 1. We wish to calculate the gradient 
+of the tangent to the curve at the point (1, 2). Let’s compute the gradient of three 
+secant lines that pass through (1, 2) and points on the curve where x = 7%, 
+then x = 0, and then x = % 
+Given fx) = x? + 1, we can show that f(—%) = %‘ £0)=1and f(%) - —Z—. 
+Figure 9.14 shows a secant line passing through the points (*—21-, %) and (1,2).
+
+3 
+Lo 
+4 1 
+. 
+. 
+Its gradient is ———— 
+T Figure 9.15 shows a secant line passing 
+  
+through the points (0, 1) and (1, 2). Its gradient is 1. Figure 9.16 shows a secant 
+line passing through the points (—21-, —Z—) and (1, 2). Its gradient is —z— With the 
+gradients of successive secant lines going from —21-, to 1, and then to —z—, it seems 
+reasonable to conjecture that the gradient of the tangent to the curve at (1, 2) is 
+2, as shown in Figure 9.17. 
+fo) = St     
+  
+  
+“2=~10 
+1 2% 
+Figure 9.15 Secant line 
+through (0, 1) and (1, 2) 
+  
+Ultimately, from the function fix) = x + 1, we wish to derive another function 
+that will compute the gradient (slope) of the graph of fat a point by simply 
+inputting the x-coordinate of the point. This derived function is called the 
+2 
+fraction. 
+T, 
+e 
+t 
+tion. 
+If, 
+i nota fraction 
+for example, y = x2 + 
+1, 
+then the derivative can be 
+derivative of y = fix) at x. There are two common ways to denote this function: 
+denoted by writing 
+d; 
+d.» 
+either f'(x) or Ey 
+a{p +1)=2x. 
+‘This is read as, ‘the 
+We could continue to apply the limit process (making secant lines closer to the 
+derivative of x2 + 
+1 with 
+tangent) to calculate the gradient of tangents at other points on the graph of 
+epasioEb S 
+fix) = x? + 
+1 in order to make a conjecture for the derivative of the function, 
+but that would be tedious. Let’s use the power of a GDC to quickly compute 
+the value of the derivative for fix) = x> + 
+1 (the gradient of the tangent to the 
+curve) at several selected points and use these results to make a reasonable 
+conjecture for the function that is the derivative of fix) = x> + 1. 
+  
+  
+£(x) r=x241 
+] 
+4 
+d = 
+(£ 
+=2 
+ax (£02)) |x= 
+‘The command name and 
+6 
+syntax 
+f 
+ing the 
+d 
+syntax for computing 
+t 
+3¢ (£00) [x=3 
+value of a derivative ata 
+a 
+8 
+point will vary from one 
+S (£0) |x=4 
+B 
+GDC model to another. 
+  
+  
+  
+  
+Figure 9.18 Usinga GDC to make a conjecture for the function that is the derivative of f(x) = * 
++ 
+1 
+The derivative of fix) = x> + 
+1 seems to be 2x. That is, f (x) = 2x. 
+359
+
+360 
+Differential calculus 1 
+Now consider the function g(x) = x? and values of its derivative at x = 1, x = 2, 
+x=3,andx = 4. 
+  
+  
+glx) 1= 
+Done B 
+& (g =1 
+2 
+2 g 
+x2 
+5 
+2 (gt |x=3 
+e 
+& (900 |3 
+e 
+  
+    
+  
+Figure 9.19 Using a GDC to make a conjecture for the function that is the derivative of f(x) = x 
+It appears that the derivative of gx) = x? is also 2x. That is, g'(x) = 2x. 
+In order to develop some basic rules for finding the derivative of functions of 
+the form fix) = ax" + bx"~' + 
+..., where all powers are integers, let’s continue 
+to use a GDC to make convincing conjectures for the derivatives of three 
+  
+  
+  
+  
+i 
+1 
+further functions: f,(x) = 3x? + 2x, ,x) = x*, and fix) = = 
+1, 
+2 (3423 |21 
+8 
+| 
+2 (3423 
+| x=2 
+g 
+2 (3423 |23 
+20 
+d 
+2 
+& (3ex42-3) x4 
+2 
+   
+     
+  
+Figure 9.20 Usinga GDC to make a conjecture for the function that is the derivative of f(x) = 3x° 
++ 
+2x 
+A reasonable conjecture for the derivative of fy(x) = 3x? + 2x is 6x + 2. That is, 
+Sl =6x+2. 
+  
+  
+  
+   
+00 e 
+ae 
+0 |x= 
+2 
+o)X= 
+4 
+)=t 
+B: 
+     
+  
+Figure 9.21 Usinga GDC to make a conjecture for the function that is the derivative of f(x) = x> 
+After some examination of the results here, it seems that the derivative of 
+) = x3is 3x2 That is, f, (x) = 3x2. 
+  
+  
+  
+  
+& 
+0 
+e 
+18 
+& 
+) |x=2 
+d%w"»\ﬁ 
+o 
+) et 
+&    
+    
+  
+Figure 9.22 Usinga GDC to make a conjecture for the function that is the derivative of f(x) = 
+These results make it clear that the derivative of fy(x) = 
+;(1- =x"lis — 
+1 
+. 
+That is, f; (x) = — 
+) 
+x 
+ 
+
+Basic differentiation rules 
+‘We have now established the following results: 
+o When f(x) = x2, then f'(x) = 2x 
+o When f(x) = x> + 1, then f'(x) = 2x 
+o When f(x) = 3x2 + 2x, then f'(x) = 6x + 2 
+o When f(x) = x3, then f'(x) = 3x2 
+o When f(x) = x !, then f'(x) = —x 2 
+‘The constant rule 
+In addition, we know that when f{x) = x, then f"(x) = 1, since the line y = x has 
+T e TvatTye e 
+a constant gradient equal to 1, and that when f{x) = 1, then f'(x) = 0 because the 
+constant function is zero. 
+line y = 
+1 is horizontal and thus has a constant gradient equal to 0. The graph of 
+m&i{g:ﬁf‘rz’ft&l 
+any function f{x) = ¢ where c is a constant is a horizontal line, confirming that if 
+thenf’ (;) = 
+’ 
+fix) = ¢, c € R, then f'(x) = 0. Thus, the derivative of a constant is zero. 
+These results: 
+flx) = x! 
+= 
+flx)=-x2 
+fx)=x=1 
+= 
+f(x)=0 
+f)=x'=x = 
+fx)=1 
+flx) = x? 
+= 
+fllx) =2 
+‘The power rule 
+flx) =% 
+= 
+fl(x) =3x? 
+Given 1 is a rational 
+number, and if 
+f(x) = x" 
+can be summarised in a single rule called the power rule that is true for any 
+e dcrivzé(ve) of 5t 
+value of # that is a rational number (n € Q) (see key fact box on the right). 
+isfi(x) = nx"-1. 
+An(v)the.r basic rule of dlfferventlauon is suggested. by our result that the 
+) 
+e 
+derivative of f{x) = x? + 1is f'(x) = 2x. The derivative of a sum of terms is 
+rule 
+obtained by differentiating each term separately (differentiating term by term) 
+16f(x) = g(x)  h(x) then 
+F@=ge) £ k). 
+In this case, S (x2 + 1) = L(x2) + L) = 26 + 0 = 2. 
+dx 
+dx 
+dx 
+The sum rule for derivatives can help us give a very convincing justification of 
+our first differentiation rule, the constant rule. The fact that the derivative of 
+a constant must be zero can be verified by considering the transformation of 
+the graph of a function (Section 2.4). The graph of the function f(x) + ¢, where 
+c € R, is a vertical translation by ¢ units of the graph of f(x). As Figure 9.23 
+illustrates, when the graph of a function is translated vertically, its shape is 
+preserved. Hence, the gradient of the tangent line to the graph of flx) + ¢ 
+will be the same as that for f{x) at a particular value of x. This means that the 
+derivatives for the two functions must be equal. That is, 
+d 
+_d 
+L@ +d =) 
+%Iﬂx)] + %(c) = %[ﬂx)] 
+Figure 9.23 Translating the 
+graph of 
+a function vertically 
+does not alter the gradient of 
+  
+This is only true if i(c) =0 
+the tangent line at a particular 
+dx 
+value of x. Hence, the 
+Our final basic rule of differentiation is illustrated by the result that the 
+derivatives of the two functions 
+derivative of fix) = 3x? + 2xis f'(x) = 6x + 2. Using the sum rule, 
+are equal. 
+361
+
+Differential calculus 1 
+‘The constant multiple 
+fle= Lz g9 
+= di(3x2) + %(Zx) = 6x + 2. The fact that %(3):2) = 6x 
+ule 
+o = c g 
+:hen 
+suggests that 3 
+- ;—x(xz) = 3. 2x = 6x. In other words, the derivative of a 
+fw=c-g'w. 
+function being multiplied by a constant is equal to the constant multiplying the 
+derivative of the function. 
+‘The different notations 
+used for indicating 
+Basic differentiation rules 
+aderivative or 
+a 
+differentiation can be 
+Constant rule: Ha=0ce R 
+traced back to the fact 
+il 
+1 
+that calculus was first 
+Power rule: 2267 = x5, 
+n € Q 
+developed by Isaac 
+. 
+d 
+d 
+d 
+Newton (1642-1727) and 
+Sum and difference rule: E[‘M +h) = 7[g(x)] i —[h ) 
+Gottfried Leibniz (1646 
+. 
+e 
+1716) independently of 
+Constant multiple rule: dx[: f] =c- [ [fx],ceR 
+each other - and hence, 
+introduced different 
+of calculus. The prime 
+notations y’ and f”(x) 
+: 
+For each function: (i) find the derivative using the basic differentiation rules; 
+come from notations that 
+(ii) find the gradient of the graph of the function at the indicated points; and 
+& 
+Newte 
+d. The — 
+o 
+ewionused 
+The gy 
+(iii) use your GDC to confirm your answer for (ii). 
+notation is similar to 
+that used by Leibniz. 
+(a) fix) = x* + 2x — 15x — 13 at the points (—3, 23), (3, —13) 
+Each has its advantages 
+7 
+and disadvantages, For 
+(b) fix) = (2x — 7)? at the points (2, 9), (-, o) 
+example, it s often easier 
+2 
+to write 
+our four basic 
+(c) flx) = 3vx — 6 at the points (4, 0), (9, 3) 
+rules of differentiation 
+s 
+3 
+15x 3 
+i 
+using Leibniz notation. 
+(d) flx) = G 
+24 == +yat the points (5, —43), (0, 0) 
+Solution 
+P 
+_d 
+dopy_ 
+e d oy d 
+(LR 
+2 
+50— 13) =2 () 
+2k S 
+15 () == 13) 
+=3x2 +2(2x) — 15(1) — 0 
+=3 
+(5] 
+Therefore the derivative of f{x) = x* + 2x2 — 15x — 13 is 
+fx)=3x2+4x— 15 
+(ii) 
+Gradient of curve at (—3,23) is f'(—=3) = 3(—3)? + 4(=3) — 15 
+=27 S 25=H'5 =10 
+‘We should observe a horizontal tangent (gradient = 0) to the curve 
+at (—3,23) 
+Gradient of curve at (3, —13) is f/(3) = 3(3)> + 4(3) — 15 
+= 27012 
+=015 =24 
+‘We should observe a very steep tangent (gradient = 24) to the curve 
+at (3, —13) 
+(iii) Not only can we use the GDC to compute the value of the derivative 
+at a particular value of x on the ‘home’ screen, but we can also do it 
+on the graph screen. 
+362
+
+  
+£1(0-x0342-22-150513 
+7 
+N TR 
+T 
+7 
+= Vow 
+» 
+I 
+1xm02e 2015513 
+o 
+“ 
+I 4 windowrzoom 
+| 
+& 
+  
+g 
+2 Minmum 
+. 5-Troco 
+3 
+¥ 
+3 Maimum 
+5| 
+s 
+[ 
+. 
+  
+  
+ 
+/ 
+  
+  
+  
+  
+© 5: Anayss conics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+o7 Tevie 
+T 
+e ey 
+1 m— 
+s 
+miax 
+[T 
+Seting 
+I 7. ingret 
+/ 
+ot8: Bounded Aven 
+  
+Giswo 
+ 
+  
+CALCULATE| 
+l:value 
+1zero 
+:minimum 
+imaximum 
+:intersect 
+d¥/dx 
+x=3 
+1T 
+(x)dx 
+dy/dx=24.000001 
+y=24.000001X%-85.000003 
+Observe that the graph of y = x* + 2x* — 15x — 13 appears to have 
+a turning point at (—3, 23), confirming that a tangent to the curve 
+at that point would be horizontal. 
+‘turning point’ 
+  
+(-3,23) 
+horizontal tangent 
+\ 
+4/» 
+dy/dx=1E~6 
+  
+  
+  
+  
+Let’s check on our GDC that the gradient is 24 at (3, —13). 
+Most GDCs are also capable of drawing a tangent at a point and 
+displaying its equation, as shown in the screenshots. 
+  
+ 
+ 
+ 
+ 
+ 
+  
+(®) 
+(@) 
+(ii) 
+The equation of the tangent line at (3, —13) is y = 24x — 85. 
+‘We will look at finding the equations of tangent lines analytically 
+in Section 9.4. 
+Differentiate term by term after expanding: 
+diiox— 721 = Lix - 
+_ 
+s 
+-7 = e - 7ex 
+-7 
+=440 
+— 28y + 49) 
+dx 
+d 
+d 
+d 
+=45 
+() 
+— 285 (x) + S (49 
+ARG 
+T 
+49 
+=8x—28+0 
+Therefore the derivative of f{x) = (2x — 7)?is f'(x) = 8x — 28. 
+Gradient of curve at (2,9) is f(2) = 8(2) — 28 = —12 
+. 
+T 7 
+e 
+7 
+Gradient of curve at (E, 0) 1sf(5) = 8(5) 
+28=0 
+Thus, we should observe a horizontal tangent to the curve at (— ,0). 
+363
+
+364 
+Differential calculus 1 
+(c) 
+(@) 
+(ii) 
+(i) 
+  
+Plotl 
+Plot2 
+Plot3 
+\YIE(2X-7) 
+4= 
+  
+Y= 
+  
+  
+(2,9) 
+ 
+ dy/dx=-12 
+[Y1=(2%-7)° 
+  
+  X=3.5 
+¥=0 
+  
+The GDC confirms that the gradient of the curve is —12 at (2, 9). 
+The vertex of the parabola i 
+horizontal tangent at that p: 
+A 
+A 
+G 
+5(3\)(*6)73—():) 
+s at (%, 0) confirming that it has a 
+oint. 
+d S0} 
+dx 
+dx 
+=325 - 
+=335 - 
+0 
+0=—> 
+R 
+Therefore, the derivative of fix) = 3/x—6 is f'(x) = = or 
+230 
+2Vx 
+fle= 
+Gradient of curve at (4, 0) is f'(4) = 
+2t 
+  
+Gradient of curve at (9,3) is f'(9) = — 
+= 
+As the gradient at x = 9 is less than that at x = 4, we should observe 
+the graph of the equation becoming less steep as we move along the 
+curve fromx = 4tox = 9. 
+  
+  
+  
+  
+Y1=31(X)-6 
+nl‘:l)eriv(ZiI(X)—S,X 
+! 
+.750000006 
+nDeriv(3{(X)-6,X 
+£ 
+5000000009 
+x4 
+=0 
+  
+  
+The gradient of the graph of y = 3/x — 6 appears to decrease 
+steadily as x increases. Let’s check the results for (ii) by evaluating 
+the derivative at a point on the home screen. 
+The GDC confirms the gradients for the curve when x = 4 and 
+x =9, but the GDC computations have incorporated a small amount 
+of error.
+
+ad (Jc4 
+B 
+SRRy 
+3) 
+=i BROSE 
+X 
+(d) 
+(i) 
+4 
+2 
+i 
+> 
+1 
+  
+— Ly —306x0) — 
+= 
+74— 
+302 - 200+ =1 +0 
+9x2 
+15 
+o 
+EEo) 
+2 
+Bty 
+3 
+Therefore, the derivative of fix) = =~ 
+3% =Dxt 
+% a4k % is 
+  
+9(5) 
+(ii) 
+Gradient of curve at (5, —43) is f'(5) = 5° — - 
+4(5) + 12—5 =0. 
+Thus, there should a horizontal tangent to the curve at (5, —43). 
+15 
+Gradient of curve at (0, 0) is f'(0)    
+  
+(i) 
+=T 
+  
+  
+=5 
+T 
+50  
+  
+  
+R 1: Actions| 
+M 
+  
+45, 1: Zero 
+% 2: Minimum 
+€% 3: Maximum 
+[>x 4: Intersection 
+& RS 
+b 
+6: Intergral 
+0 7: Bounded Area 
+© 8: Analyse Conics 
+M| 
+    
+    
+  
+  
+ 
+  
+  
+  
+%(fl(x))|x=5 
+0 
+d 
+i 
+< (FL00)[x=0 
+= 
+  
+  
+  
+=5 
+m 
+  
+ 
+ 
+  
+  
+365
+
+A turning point ona 
+graph is a point where 
+the gradient changes 
+from upwards to 
+downwards, or vice versa. 
+366 
+Differential calculus 1 
+Example 9.5 
+The curve y = ax® + 7x? — 8x — 5 has a turning point at the point where 
+x = —2. Determine the value of a. 
+Solution 
+There must be a horizontal tangent, and a gradient of zero, at the point 
+where the graph has a turning point. 
+b 
+_d, 
+e Y 
+W iy 
+(a7 
+Rt ] 
+I 
+d 
+d 
+d 
+(5 
+P O (2 
+g 
+G 
+B O 
+a—(x3) 
+(x?) 
+8](x) 
+](5) 
+=3ax2+ 14x — 
+8 
+d d—iZOWhenx: —2,503a(—27 + 14(~2) 
+— 8 =0 
+=12a—28—-8=0 
+= 12a =36 
+=a=3 
+Recall that the derivative of a function is a formula for the instantaneous 
+rate of change of the dependent variable (commonly y) with respect to the 
+independent variable (x). In other words, the gradient of the tangent at a point 
+gives the gradient, or rate of change, of the curve at that point. The gradient of 
+a secant line (that crosses the curve at two points) gives the average rate of 
+change between the two points. 
+Example 9.6 
+Boiling water is poured into a cup. The temperature of the water in degrees 
+Celsius, C, after t minutes is given by C = 19 + ﬁ, for t = 1 minute. 
+£ 
+(a) Find the average rate of change of the temperature from t = 2 to t = 6. 
+(b) Find the rate of change of the temperature at the instant when ¢ = 4. 
+Solution 
+200 
+(a) Whent =2, C~ 83.35°C 
+175 
+and whent=6,C~31.38°C. 
+2 150 
+The average rate of change 
+£ 
+125 
+from t = 2to t = 6 is the 
+5 
+100 
+gradient of the line through 
+E‘ 
+75 
+the points (2, 83.35) and 
+50 
+(6,31.38). 
+25 
+  
+0 
+123456789 
+Time (minutes)
+
+Average rate of change = ——————"— = === = —12.9925 
+To an accuracy of three significant figures, the average rate of change 
+from t = 2to t = 6 is —13.0°C per minute. During that period of time, 
+the water is, on average, getting 13.0° C cooler every minute. 
+(b) Work out the derivative ‘i{—f; that is, the rate of change of temperature 
+with respect to time £, from which we can compute the rate at which the 
+temperature is changing at the instant when t = 4. 
+dg_a (19 + &) = i(19 + 182) =49+ 182%(!’%) 
+  
+3 s 
+dt 
+=0+ 182(—%:*%) = 27313 
+i 
+de 
+ dt 
+dt 
+- 273 
+_ 
+273 
+4B 
+When t = 4: 
+de_ a3 _ _om 
+dt 
+Va5 
+32 
+Therefore, the instantaneous 
+rate of change of temperature 
+att = 4 min is —8.53°C per min. 
+~ —8.53 
+Temperature (°C) 
+  
+08034t 
+5 
+6 
+7 
+8D 
+Time (minutes) 
+Derivatives of tl 
+ine and cosine functions 
+The graph of y = sinx (Figure 9.24) is periodic, with period 277, so the same will 
+be true of its derivative, which gives the gradient at each point on the graph. 
+Therefore, we need to consider 
+only the portion of the graph in 
+the interval 0 < x < 2. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Figure 9.24 Graph of y = sinx 
+367
+
+Note that the graphs in 
+Figures 9.24,9.25, and 
+9.26 have x in radians. As 
+‘mentioned previously, we 
+‘must use radian measure 
+when trigonometric 
+functions are involved in 
+calculus. 
+368 
+Differential calculus 1 
+Figure 9.25 shows two pairs of axes having equal scales on the x- and y-axes 
+and corresponding x-coordinates aligned vertically. On the top pair of axes, 
+y = sinx is graphed with tangent lines drawn at nine selected points. The points 
+were chosen such that the gradients of the tangents at those points, in order, are 
+1 
+1 
+1 
+1 
+equalto 1, > 0, > 1; > 0, 7 
+plotted in the bottom graph, with the y-coordinate of each point indicating 
+the gradient of the curve for that particular x value. Hence, the points in the 
+bottom pair of axes should be on the graph of the derivative of y = sinx. 
+, L. The values of these gradients were then 
+b2 
+1 
+gradient 
+=< 
+1 
+  
+Figure 9.25 Values of gradient for selected tangents to y = sinx (shown in the top graph) plotted in the 
+lower graph 
+Figure 9.26 is the same as Figure 9.25 except that the graph of y = sinx, the grid 
+lines, and the lines connecting points between the two graphs have been removed. 
+  
+  
+X 
+1 
+0, 
+1 
+2 
+3 
+4 
+5 
+7% 
+-1 
+gradient 
+¥ 
+1 
+. 
+0 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+1 
+2 
+3 
+4 
+5 
+6 
+7% 
+—1 
+. 
+ 
+  
+Figure 9.26 Tangent lines for y = 
+sinx above and values of gradients of the tangent lines plotted below
+
+This leads to an obvious choice for our conjecture for the derivative of the sine 
+function. For f(x) = sinx, it appears that f'(x) = cosx. Let’s use our GDC to 
+provide confirmation of this conjecture. 
+The GDC screen images below show the derivative of sinx being evaluated 
+for various values of x, along with cosx for the same x value. Note that the 
+GDC must be in radian mode. You can see that the values are equivalent (to 
+6 significant figures). 
+  
+nDeriv(sin(X),X,| 
+[nDeriv(sin(X),X,| 
+[nDeriv(sin(X),X, 
+/ 
+51/6 
+.7071066633 
+-).8660252595 
+! 
+.5120853919 
+cos(1/4) 
+cos (51/6) 
+cos(5.25) 
+.7071067812 
+-.8660254038 
+.5120854772 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Figure 9.27 GDC screens showing the derivative of sinx being evaluated 
+Derivative of the sine function 
+Iffix) = sinx, then f) = cosx. O, in Leibniz notation, %{sin}r) = cosx. 
+‘This result is only true when 
+x is in radian measure. 
+Now let’s use a GDC to graph the derivative of cosx, from which we should be 
+able to make a conjecture. 
+2 
+    
+fl() = % (cos(x)) 
+  
+Figure 9.28 Graph of the derivative of y = cosx; that i, graph of y = di(mu) 
+X 
+At first glance, the graph of y = %(cosx) looks like the graph of y = sinx, but 
+on closer inspection we see that it is the reflection about the x-axis of y = sinx. 
+Therefore, our conjecture is that the derivative of cosx is —sinx. 
+That is i(cosx) = —sinx 
+dx 
+Again, let’s use our GDC to help confirm our conjecture. 
+  
+nDeriv(cos(X),X,| 
+[nDeriv(cos(X),X,| 
+[nDeriv(cos(X),X, 
+m 
+T 
+3n/ 
+-.4999999167 
+).9999998333 
+-.4121184166 
+-sin(n/6) 
+-sin(3m/2) 
+-sin(9) 
+-.5 
+€ 
+-.4121184852 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Figure 9.29 Usinga GDC to confirm our conjecture 
+Derivative of the cosine function 
+IE(x) = cosx, then f(x) = —sinx. Or in Leibniz notation d%cosx) = —sinx. 
+‘This result is only true when 
+x is in radian measure. 
+‘The discrepancies beyond 
+6 significant figures are 
+due to the small amount 
+of error in the algorithm 
+used by the GDC to 
+compute the derivative of 
+a function at a point. 
+369
+
+Differential calculus 1 
+1. Find the gradient of the tangent line of the graph of each function at the 
+point where x = 1. Sketch each function and draw a line tangent to the 
+graphatx = 1. 
+@) flx)=1-x2 
+(b) glx) =x*+2 
+© he) = vz 
+@ 
+) = 
+2. For each function: 
+(i) 
+find the derivative 
+(ii) compute the gradient of the graph of the function at the indicated 
+point. 
+Use a GDC to confirm your results. 
+(a) y=3x2 —4x 
+point (0, 0) 
+(b)y=1—6x—x2 
+point (=3, 10) 
+2 
+. 
+© y= ot 
+point (=1, —2) 
+(d)ly =iy 
+point (1, —1) 
+_— 
+(7 
+/3 
+(e) 
+y = sinx 
+point ( 3 T) 
+(f) y= (x + 2)(x — 6) 
+point (2, —16) 
+(g)y:2x+l—% 
+point (1, 0) 
+o 
+_ x3iH1 
+. 
+(h) y= = 
+point (—1,0) 
+v 
+(22 2) 
+(i) y=cosx 
+pomt( 12 
+3. The gradient of the curve y = x* + ax + b at the point (2, —4) is —1. 
+Find the value of a and the value of b. 
+4. Use the graph of fto answer ~ » 
+each question. 
+(a) Between which two 
+consecutive points is 
+the average rate of change 
+of the function greatest? 
+(b) Indicate at which point(s) 
+the instantaneous rate of 
+change of fis: 
+0 
+  
+(i) positive 
+(ii) negative 
+ (iii) zero 
+(c) For what two pairs of consecutive points is the average rate of 
+change approximately equal? 
+370
+
+5. For each function, find the coordinates of any points on the graph of the 
+function where the gradient is equal to the given value. 
+(a) y=x>+3x 
+gradient = 3 
+(b) y=x* 
+gradient = 12 
+(@) p=d = F7 k1l 
+gradient = 0 
+d) y=x>—3x 
+gradient = —1 
+6. The gradient of the curve y = x* — 4x + 6 at the point (3, 3) is equal to 
+the gradient of the curve y = 8x — 3x” at (a, b). Find the value of a and 
+the value of b. 
+7. The graph of the equation y = ax® — 2x> — x + 7 has a gradient of 3 at 
+the point where x = 2. Find the value of a. 
+8. Find the coordinates of the point on the graph of y = x> — x at which 
+the tangent is parallel to the line y = 5x. 
+9. A car is parked with the windows and doors closed for five hours. 
+The temperature inside the car in degrees Celsius, C, is given by 
+C = 2/F + 17, with 
+t representing the number of hours since the car 
+was first parked. 
+(a) Find the average rate of change of the temperature between t = 1 
+and t = 4. 
+(b) Find the function which gives the instantaneous rate of change of 
+the temperature for any time £, 0 < t < 5. 
+(c) 
+Find the time t at which the instantaneous rate of change of the 
+temperature is equal to the average rate of change fromt = 1tot = 4. 
+Maxima and minima: first and second 
+derivatives 
+The relationship between a function and its derivative 
+The derivative is a function derived from a function 
+f that gives the gradient 
+(slope) of the graph of fat any x in the function’s domain, given that the curve 
+is differentiable at the value of x. The derivative is a gradient, or rate of change, 
+function. Knowing the gradient of a function at different values in its domain 
+tells us about properties of the function and the shape of its graph. 
+In the previous section, we observed that if a graph has a turning point at 
+a particular point (for example, at the vertex of a parabola), then it has a 
+horizontal tangent (gradient = 0) at the point. Hence, the derivative will 
+equal zero at a turning point. In Section 2.1 (Quadratic functions), we found 
+the vertex of the graph of a quadratic function by using the technique of 
+completing the square to write its equation in vertex form. We can also find the 
+371
+
+vertex 
+horizontal 
+7 tangent 
+Figure 9.30 The tangent to 
+a parabola at its vertex is 
+horizontal 
+372 
+  
+Differential calculus 1 
+vertex by means of differentiation. As we look at the graph of a parabola moving 
+from left to right (i.e. domain values increasing), it either turns from going down 
+to going up (decreasing to increasing), or from going up to going down (increasing 
+to decreasing), as in Figure 9.30. 
+Example 9.7 
+Using differentiation, find the coordinates of the vertex of the parabola with 
+the equation y = x2 — 8x + 14. 
+| 
+Solution 
+d 
+Find the value of x for which the derivative, ay, is zero. 
+d a}l:%(ﬁ*8x+l4):2178:0$x:4 
+The x-coordinate of the vertex is 4. 
+To find the y-coordinate of the vertex, substitute x = 4 into the equation: 
+y=42—84 +14=-2 
+Therefore, the vertex has coordinates (4, —2) 
+‘We know that the parabola in Example 9.7 will ‘open upwards’ because the 
+coefficient of the quadratic term, x?, is positive. The parabola has a negative 
+gradient (decreasing) to the left of the vertex and a positive gradient (increasing) 
+to the right of the vertex. As the values of x increase, the derivative of 
+y=x2— 8x + 14 will change from negative, to zero, to positive, accordingly. 
+x<4 
+x>4 
+decre: 
+inc; 
+as x i 
+es | as x increa! 
+Figure 9.31 Gradient changes from negative to positive as x increases 
+d 
+4 
+4 
+& 
+a—Zx* 8:>a<0forx<4anda— 0 for x = 4anda>0forx>4 
+In other words, the function f{x) = x? — 8x + 14 is decreasing for all x < 4; 
+it is neither decreasing nor increasing at x = 4; and it is increasing for all x < 4. 
+A point at which a function is neither increasing nor decreasing (where there 
+is a horizontal tangent) is called a stationary point. A convenient way to 
+demonstrate where a function is increasing or decreasing and the location of 
+any stationary points is with a sign chart for the function and its derivative 
+(Figure 9.32) for f{x) = x? — 8x + 14. The derivative f'(x) = 2x — 8 is zero only at
+
+X = 4, thereby dividing the domain of f (i.e. R) into two intervals: x < 4 and 
+x> 4.f'(x) = 2x — 8 is a continuous function (i.e. no gaps in the domain) so it is 
+only necessary to test one point in each interval in order to determine the sign of 
+all the values of the derivative in that interval. f'(x) can only change sign at x = 4. 
+For example, the fact that f'(3) = 2(3) — 8 = —2 < 0 means that f'(x) < 0 for all 
+x when x < 4. Therefore, fis decreasing for all x in the open interval (— o0, 4). 
+fx) =2 —8x+ 
+14 
+   
+F=2x-8 
+—00 
++00 
+f— 
+7 
+& 
+- 
+0 
++ 
+BN e 
+Figure 9.32 Sign chart for f{x) and f(x) 
+If f'(x) > 0 for a < x < b, then fx) is increasing on the interval a < x < b 
+Iff'(9) 
+< 0 fora < x < b, then fix) is decreasing on the intervala < x < b 
+If f'(x) = 
+0 for a < x < b, then f(x) is constant on the interval a < x < b 
+If f'(x) = 0 for 
+a single value x = c on some interval @ < ¢ << b, then f{x) has a stationary point at 
+x = ¢. The corresponding point (¢, f(c)) on the graph of fis called a stationary point. 
+It is at stationary points, or endpoints of the domain (if the domain is not all real 
+numbers), where a function may have a maximum or minimum value. These 
+points at which extreme values of a function may occur are often referred to as 
+critical points. Whether a function is increasing or decreasing on either side 
+of a stationary point will indicate whether the stationary point is a maximum, 
+minimum or neither. 
+Example 
+9.8 
+Consider the function f{x) = 2x3 + 3x> — 12x —4,x€R 
+(a) Find the coordinates of any stationary points of f. 
+(b) Using the derivative of f, classify any stationary points as a maximum, 
+a minimum, or neither. 
+L] 
+Solution 
+@ fl(x)=6x2+6x—12=0=6(x>+x—2)=0 
+=6(x+2)(x—1)=0 
+= x==2orx=1 
+With a domain of all real numbers, there are no domain endpoints that 
+may be an extreme value. Thus, fhas two critical points: one at x = —2 
+and the other at x = 1. 
+Whenx = —2:y=2(-2)>+3(-2)2—12(-2) —4=16 
+So fhas a stationary point at (—2, 16) 
+Andwhen 
+x = 1: y = 2(1)* + 3(1)2 — 12(1) —4 = —11 
+So fhas a stationary point at (1, —11) 
+373
+
+‘The plural of maximum 
+is maxima, and the plural 
+of minimum is minima. 
+Maxima and minima are 
+collectively referred to 
+as extrema - the plural 
+of extremum. Extrema 
+of a function that do 
+not occur at domain 
+endpoints will be turning 
+points of the graph of the 
+function. 
+374 
+Differential calculus 1 
+(b) Construct a sign chart for f'(x) and 
+fO)=20+3¢ —12x— 4 
+f(x) to show where fis increasing or 
+0 =60+ 20— 1) 
+decreasing. The derivative f'(x) has 
+2 
+1 
+two zeros, x = —2and 
+x = —1, 
+j—}—l—wf 
+thereby dividing the domain of finto 
+U 
+SO 
+three intervals that need to be tested. 
+/@ { 
+: 
+: 
+: 
+{ 
+g 
+g 
+& 
+g 
+B 
+Since f'(—3) = 6(—1)(—4) 
+=24 >0 
+§ 
+§ 
+g 
+§ 
+5 
+then f/(x) > 0 for all x < —2. Likewise, 
+g5 I 
+& 
+since f'(2) = 6(4)(1) = 24 > 0 then 
+. 
+= = 
+f(x) > 0forall x > 1. Thus, fis 
+increasing on the open intervals 
+(—00, —2) and (1, c0). 
+fo 
+Since f'(0) = —12 < 0 then f'(x) <0 
+for all 
+x such that —2 < x < 1. Thus, 
+fis decreasing on the open interval 
+(G20 Nl e 
+it 
+v = 
+From this information, we can visualise for increasing values of x that 
+the graph of fis going up for all x < — 2, then turning down at x = — 2, 
+then going down for values of x from —2 to 1, then turning up at x = 1, 
+and then going up for all x > 1. The basic shape of the graph of fwill look 
+something like the sketch in Figure 9.33. Clearly the stationary point (—2, 
+16) is a maximum and the stationary point (1, —11) is a minimum. 
+The graph of fix) = 2x* + 3x2 — 12x — 4 from Example 9.8 confirms the results 
+acquired from analysing the derivative of f. 
+  
+  
+  
+  
+  
+  
+T 
+y 
+[ 
+[ 
+= 
+:416‘)7 
+zg 
+| S 
+- 
+/ 
+— 
+CINCo 
+- / 
+; 
+[/ 
+] 
+/ 
+\ 
+-4 
+/—3 
+| 
+42 
+3 
+x 
+[ 
+2x —|4 
+I 
+/A 
+I 
+| 
+| 
+| 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Figure 9.33 Gradient changes from negative to positive as x increases 
+For Example 9.8, we can express the result for part (b) most clearly by saying 
+that f(x) has a relative maximum value of 16 at x = —2, and a relative 
+minimum value of —11 at x = 
+1. The reason that these extreme values are 
+described as relative (or local) is because they are a maximum or minimum 
+for the function in the immediate vicinity of the point but not for the entire 
+domain of the function. A point that is a maximum/minimum for the entire 
+domain is called an absolute, or global, maximum/minimum.
+
+The first derivative test 
+From Example 9.8, we can see that a function fhas a maximum at some 
+x = ciff'(c) = 0 and fis increasing immediately to the left of x = c and 
+decreasing immediately to the right of x = c. Similarly, fhas a minimum at 
+some x = cif f'(c) = 0 and fis decreasing immediately to the left of x = c and 
+increasing immediately to the right of x = c. It is important to understand, 
+however, that not all stationary points are either a maximum or a minimum. 
+Example 9.9 
+For the function f{x) = x* — 2x?, find the coordinates of all stationary points 
+and describe them completely. 
+Solution 
+flo= %(:rcA —2x3) = 4x® — 6x2=0 
+B 
+= 
+=3 
+=x=0orx 
+2 
+The implied domain is all real numbers, so x = 0 and x = % are the critical 
+points of f. 
+: 
+. 
+when x = 0, y = f(0) = 0; and when x = i,y :f(i) = (i) 
+- Z(E) 
+2, 
+2 
+2) 
+2 
+B 
+16 
+8 
+16 
+Therefore, f has stationary points at (0, 0) and (%, 7%) 
+Because f has two stationary points, there are three intervals for which to test 
+the sign of the derivative. We could use a sign chart as shown previously, or 
+we can use a more detailed table (see below) that summarises the testing of 
+the three intervals and the two critical points. 
+  
+Interval/point 
+x<0 
+2=0 
+x<x<% 
+x=% 
+x>% 
+Test value 
+gl 
+x=1 
+x=2 
+Signoff'(x) 
+|[f'(—1)=-10<0] 
+0 
+[f()=-2<0] 
+0 
+|[f@=8>0 
+Conclusion | fdecreasing 
+\, | none | fdecreasing 
+\, 
+|abs. min. |fincreasing 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+On either side of x = 0, f does not change from either decreasing 
+to increasing or from increasing to decreasing. Although there is a 
+horizontal tangent at (0, 0), it is not an extreme value (turning point). 
+The function steadily decreases as x approaches zero, then at x = 0 the 
+function has a rate of change (gradient) of zero for an instant and then 
+continues on decreasing. 
+  
+W 
+Figure 934 Graph for solution to 
+2 
+Example 9.9 
+As x approaches %, fis decreasing and then switches to increasing at x = =. 
+375
+
+Differential calculus 1 
+Therefore, the stationary point (0,0) is neither a maximum nor a minimum; 
+and the stationary point (%, = i—;) is an absolute minimum. In other 
+words, fhas an absolute (global) minimum value of *?—Z atx = % The 
+reason that an absolute, rather than a relative, minimum value occurs at 
+x= %15 because for all x < % the function fis either increasing or constant 
+(atx=l0)and forallx — % the function fis increasing, 
+First derivative test for maxima and minima of a function 
+  
+Suppose that x = cis a critical point of a continuous and smooth function f. 
+e IATTYe 
+‘That is, fic) = 0 and x = ¢ is a stationary point or x = ¢ is an endpoint of the domain. 
+maximum 
+Atastationary point x = c: 
+       
+Iff"(x) changes sign from positive to negative as x increases through x = ¢, 
+then fhas a relative maximum at x = c. 
+flx)>0 
+fx<o 
+-+ 
+c 
+Iff"(x) changes sign from negative to positive as x increases through x = ¢, 
+then fhas a relative minimum at x = c. 
+    
+  
+   
+relative 
+minimum 
+   
+f@<o 
+i 
+f@>o0 
+If'(3) does not change sign as x increases through x = ¢, then fhas 
+neither a relative maximum nor a relative minimum at x = ¢. 
+    
+  
+no 
+extreme 
+  
+  
+    
+fix)>0 
+f=0 
+  
+When x = c is an endpoint of the domain, then x = ¢ will be a relative maximurm or minimurm of fif the sign of 
+(x) is always positive or 
+always negative for x > c (at a left endpoint), or for x < ¢ (ata right endpoint). 
+  
+   
+  
+relative 
+relative 
+maximum 
+‘maximum 
+L fw<0 
+F)<0 
+; 
+; 
+relative 
+relative 
+! 
+: 
+minimum, 
+9 
+i 
+: 
+| 
+70 >0 
+minimum 
+>0 
+| 
+| 
+| 
+! 
+1 
+< 
+C 
+c 
+c 
+Ifit is possible to show that a relative maximum or minimum at x = cis the greatest or least value for the entire domain of f, then it is 
+classified as an absolute maximum or minimum. 
+376
+
+Example 9.10 
+Apply the first derivative test to find any extreme values for 
+fix) = 4x3 — 9x% — 120x + 25 
+| 
+Solution 
+flw= %(4:(3 — 9x2 — 120x + 25) = 12x% — 18x — 120 
+flx)=12x2—18x — 120 =0 
+= 6(2x% 
+— 3x = 20) =0 
+=6Q2x+5)(x—4=0 
+Thus, f has stationary points at x = 7% and x = 4 
+To classify the stationary point at x = 7%, we need to choose test points on 
+either side of 7%, for example x = —3 (left) and x = 0 (right). 
+F=3)=6(-1(~-7)=42>0 
+f(0) = 6(5)(—4) = =120 < 0 
+50 fhas a relative maximum at x = — 
+Z5) 
+= 
+(=5} 
+—o(=5)" — 
+120(=5) + 25 = 
+f( 
+2) - 4( 
+2) 
+9( 
+2) 
+120( 
+2) +25 = 20625 
+g 
+Therefore, f has a relative maximum value of 206.25 at x = =3 
+To classify the stationary point at x = 4, we need to choose test points on 
+either side of 4, for example x = 0 (left) and x = 5 (right). 
+£10) = 6(5)(—4)= —120 < 0 
+f'(5) = 6(15)(1) = 90 > 0 
+50 fhas a relative minimum at x = 4 
+fl4) = 443 — 9(4)2 — 1204) + 25 = —343 
+Therefore, fhas a relative minimum value of —343 atx = 4 
+Change in displacement and velocity 
+Consider the motion of an object such that its position s relative to a reference 
+point or line as a function of time ¢ is given by s(?). The displacement of the 
+object over the time interval from ¢, to t, is: 
+N 
+change in s = displacement = s(t,) — s(t,) 
+The average velocity of the object over the time interval is: 
+_ 
+displacement 
+_ s(ty) — s(t;) 
+Vavg = change in time L4 
+The object’s instantaneous velocity at a particular time, ¢, is the value of the 
+derivative of the position function, s, with respect to time at . 
+velocity = d—j =s'tt) 
+377
+
+378 
+Differential calculus 1 
+Example 9.11 
+A toy rocket is launched upwards into the air. Its vertical position, s metres, 
+above the ground at ¢ seconds is given by s(t) = —5¢> + 18t + 
+1 
+(a) Find the average velocity over the time interval from ¢ = 
+1 second to 
+t = 2 seconds. 
+(b) Find the instantaneous velocity at t = 
+1 second. 
+(c) 
+Find the maximum height reached by the rocket and the time at which 
+this occurs. 
+PN ST SO NP 
+Solution 
+@) = e 
+= gy " 
+(b) s') = —10t + 18 =5'(1) = —10 + 18 = 8ms™! 
+(c) s'(0= =10t +18=0=1t=1.8 
+Thus, s has a stationary point at f = 1.8. t must be positive and ranges from 
+time of launch (¢ = 0) until when the rocket hits the ground (h = 0). 
+RN o ) 
+s(zJ:—5z2+18t+1:0:>t:w 
+=t~ =0:5472 
+or £~ 3.655 
+So, the rocket hits the ground about 3.66 seconds after the time of launch. 
+Hence, the domain for the position (s) and velocity (v) functions is 
+0 < t =< 3.66. Therefore, the function s has three critical points: t = 0, 
+t=18,and t ~ 3.66. 
+Applying the first derivative test, we determine the sign of the derivative, 
+s'(t) = 0, for values on either side of t = 1.8; for example t = 0 and t = 2. 
+s'(0) =18 > 0 and 5'(2) = —2 < 0. Neither of the domain endpoints, 
+t = 0and t ~ 3.66, are at a maximum or minimum because the function 
+is not constantly increasing or constantly decreasing before or after the 
+endpoint. Since s'(t) changes from increasing to decreasing at £ = 1.8 
+and 5(1.8) = —5(1.8)2 + 18(1.8) + 
+1 = 17.2, then the toy rocket reaches a 
+maximum height of 17.2 metres 1.8 seconds after it was launched. 
+I 
+derivative 
+  
+  
+tion and its sec 
+There is another useful test for the purpose of analysing the stationary point 
+of a function that makes use of the derivative of the derivative, the second 
+derivative, of the function. 
+‘When we differentiate a function y = f(x), we obtain the first derivative f'(x) 
+d 
+(a]so written as a}’) ‘We can often also differentiate the derivative, which is 
+2 
+denoted in Newton notation as f”(x) or in Leibniz notation as E}; and called 
+the second derivative of f with respect to x. For example, if fix) = x*, then 
+f'(x) = 3x?and f"(x) = 6x.
+
+Second derivatives, like first derivatives, occur often in methods of applying calculus. 
+In Example 9.11, the function s(t) gave the position, in metres above the ground, 
+of a projectile (toy rocket) where #, in seconds, is the time since the projectile was 
+launched. The function s'(f), the first derivative of the position function, gives the 
+rate of change of the object’s position - its velocity, in metres per second (ms~1). 
+Differentiation of this function gives the rate of change of the object’s velocity - its 
+acceleration, measured in metres per second per second (ms~2). 
+The graphs of the position, velocity, and acceleration functions for 
+Example 9.11 aligned vertically (Figure 9.35) nicely illustrate the relationships 
+between a function, its first derivative, and its second derivative. The gradient 
+of the graph of s(t) is initially a large positive value (graph is steep) but steadily 
+decreases until it is zero (horizontal tangent) at t = 1.8 and then continues 
+to decrease becoming a large negative value (again, steep, but in the other 
+direction). This corresponds to the real-life situation in which the rocket is 
+launched with a high initial velocity (v(0) = 18 ms~!) and then its velocity 
+decreases steadily due to gravity. The rocket’s velocity is zero for just an instant 
+when it reaches its maximum height at t = 1.8 and then its velocity becomes 
+more and more negative because it has changed direction and is moving back 
+(negative direction) to the ground. The rate of change of the velocity, v'(t), 
+is constant and it is negative because the velocity is decreasing from positive 
+values to zero to negative values. This is clear from the fact that the graph of the 
+velocity function, v(t), is a straight line with a negative gradient. It follows then 
+that the acceleration function - the rate of change of velocity - is a negative 
+constant, a = —10 in this case, and its graph is a horizontal line. 
+It would be incorrect to graph a function and its first and/or second derivative on the same axes 
+because they have different units. For example, in Figure 9.35 the units on each vertical axis are: 
+‘metres for s(), metres per second for v(t) and metres per second per second for a(#). 
+In Example 9.11, it is not possible to have a negative function value for s(f) 
+because the rocket’s position is always above, or at, ground level. In many 
+motion problems in calculus, we consider a simplified version by limiting 
+an object’s motion to a line with its position given as its displacement from 
+a fixed point (usually the origin). At a position left of the fixed point the 
+object’s displacement is negative and at a position right of the fixed point the 
+displacement is positive. Velocity can also be positive or negative depending 
+on the direction of travel (i.e. the sign of the rate of change of the object’s 
+displacement). Likewise, acceleration is positive if velocity is increasing 
+(i.e. rate of change of velocity is positive) and negative if velocity is decreasing. 
+If an object moves in a straight line such that at time # its displacement (position) from a fixed 
+point is s(#), then the first derivative s'(#, also written as % gives the velocity v(f) at time . 
+12, 
+‘The second derivative s'(¢), also written as % i the first derivative of v(t). Hence the second 
+derivative of the displacement, or position, function is a measure of the rate at which the velocity 
+is changing; that is, it represents the acceleration of the object, which we express as 
+2, 
+alt=vin =5 oran =2 = L5 
+dt 
+e 
+Position function: 
+s(f) = =58+ 18t + 
+1 
+  
+  
+  
+  
+  
+    
+ 
+ 
+ 
+ 
+ 
+  
+Velocity function: 
+W) =s'(t) = —10t + 18 
+  
+Acceleration function: 
+alt) =v'() = 5'0) = 
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+| 
+I 
+I 
+| 
+3| 
+4 
+1 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+| 
+,5% 
+[ 
+|   
+Figure 9.35 Graphs of the position, 
+velocity and acceleration functions 
+for Example 9.11 
+Displacement can be 
+negative, positive, or zero. 
+Distance is the absolute 
+value of displacement. 
+Velocity can be negative, 
+positive, or zero. Speed 
+is the absolute value of 
+velocity. 
+379
+
+A common 
+‘misconception is that 
+acceleration is positive 
+for motion in the positive 
+direction (usually right 
+or up) and negative for 
+‘motion in the negative 
+direction (usually left 
+or down). Acceleration 
+indicates how velocity is 
+changing. Even though 
+an object may be moving 
+ina positive direction, 
+eg. to the right, if it is 
+slowing down then its 
+acceleration is acting in 
+the opposite direction 
+and is negative. In 
+Example 9.1, the rocket 
+was always accelerating 
+in the neganve direction, 
+~10ms2, dueto the 
+force of gravity. 
+380 
+Differential calculus 1 
+Example 9.12 
+An object moves along a straight line so that after  seconds its displacement 
+from the origin is s metres. Given that s() = —2¢* + 6t2 find: 
+(a) expressions for the (i) velocity and (ii) acceleration at time t seconds. 
+(b) the (i) initial velocity and (ii) initial acceleration of the object (when t = 0) 
+(c) 
+the (i) maximum displacement and (ii) maximum velocity for the 
+interval 
+0 < t<3 
+Solution 
+(@) () vy= ;ﬁ :( 263+ 612) = —612+ 12¢ 
+ds 
+_dv_d 
+tf—:—— —(=6t 
++ 12t) = —12t 
++ 12 
+L o 
+(b) 
+(i) 
+v(0) 
+= —6(0) 
++ 12(0) 
+= 
+The object’s initial velocity is 0ms ™! 
+(ii) al0) = —12(0) + 12 = 12 
+The object’s initial acceleration is 12ms~2 
+(c) 
+(i) 
+To find the maximum displacement, we can apply the first derivative 
+test to s(#). Since the first derivative of displacement, s(t), is velocity, 
+v(#), then the critical points of s(#) are where the velocity is zero 
+(stationary points) and domain endpoints. 
+s'O=vlt)=—6t>+ 12t =0= 61—t +2) =0 
+v(t)=0whent=0ort=2 
+For the interval 0 < ¢ < 3 the critical points to be tested for finding the 
+maximum displacement are at t = 0, t = 2 and t = 3. Check whether 
+the velocity is increasing or decreasing on either side of the stationary 
+point at ¢ = 2 by finding the sign of (#) for t = 1and t = 2.5 
+1) = —6(12+ 12(1) = 6 
+¥2.5) = —6(2.5)2 + 12(2.5) = —7.5 
+Hence, the displacement s is increasing for 0 < t < 2 and decreasing 
+for 2 < t < 3. This indicates that the stationary point at t = 2 must 
+be an absolute maximum for s in the interval 0 < t < 3 
+s2)=-22°+6022=8 
+Therefore, the object has a maximum displacement of 8 metres at 
+t = 2 seconds. 
+(ii) To find the maximum velocity, we can apply the first derivative test 
+to v(#). The first derivative of v(f) is acceleration a(f), which is the 
+second derivative of s(f). Hence, where s"(t) = 0 (acceleration is zero) 
+indicates critical points for v(#); that is, where velocity may change 
+from increasing to decreasing or vice versa.
+
+s = at) = %(—6# +126)= —12t + 12= 12(-t + 1) =0 
+a) =O0whent=1 
+For the interval 0 < t < 3, the critical points to be tested for finding 
+the maximum velocity are at t = 0, t = 
+1 and t = 3. Check whether 
+the velocity is increasing or decreasing on either side of t = 
+1 by 
+finding the sign of a(t) for t = 0.5and t = 2 
+a(0.5) = —12(0.5 +12=6 
+a(2) ="=12(2) N2 =212 
+Hence, the velocity v is increasing for 0 < ¢ < 1 and decreasing for 
+1 < 
+t < 3. This indicates that the point at 
+= 
+1 must be an absolute 
+maximum for v in the interval 0 < t < 3 
+w(l) = —6(1)2 + 12(1) = 6 
+Therefore, the object has a maximum velocity of 6ms~'att = 1s 
+The second derivative of a function tells us how the first derivative 
+5 
+of the function changes. From this we can use the second 
+12 
+placement function: 
+   
+derivative, as we did the first derivative, to reveal information 
+about the shape of the graph of 
+a function. Note in Example 9.12 
+that the object’s velocity changed from increasing to decreasing 
+when the object’s acceleration was zero at t = 1. Let’s examine 
+  
+graphically the significance of the point where acceleration is zero 
+(i.e. velocity changing from increasing to decreasing) in connection 
+to the displacement graph for Example 9.12. In other words, what 
+can the second derivative of a function tell us about the shape of the 
+function’s graph? 
+  
+Figure 9.36 shows the graphs of the displacement, velocity and 
+acceleration functions for the motion of the object in Example 
+9.12. A dashed vertical line shows the displacement, velocity and 
+acceleration at t = 1. At this point velocity has a maximum value 
+and acceleration is zero. It is also where velocity changes from 
+  
+  
+  
+ 
+increasing to decreasing, which has a corresponding effect on 
+a 
+“Accderition 
+findtioh: 
+the shape of the displacement function s(f). At t = 1, the graph 
+13 
+I 
+v(t) 
+!i(r) E }lit +12 
+of s(#) changes from curving upwards (concave up) to curving 
+5 
+Lt 
+downwards (concave down) because its gradient (corresponding 
+0 
+7 
+3 
+17 
+to velocity) changes from increasing to decreasing. This can only 
+-5 
+T 
+0 A 
+occur when velocity (first derivative) has a maximum and, hence, 
+:12 
+|l 
+T 
+where acceleration (second derivative) is zero. We can see from this 
+2 
+illustration that for a general function f(x), finding intervals where 
+-5+ 
+ 
+the first derivative f (x) is increasing (positive acceleration) or 
+et 
+e 
+e 
+Figure 9.36 Graphs of the displacement, 
+z 
+. 
+) 
+. 
+velocity, and acceleration functions for the 
+the graph of f(x) is curving upwards or curving downwards. A point 
+motion of the object in Example 9.12 
+at which a function’s curvature (concavity) changes - as at t = 
+1 for 
+the graph of s(#) in Figure 9.36 - is called a point of inflection. 
+decreasing (negative acceleration) can be used to determine where 
+381
+
+382 
+Differential calculus 1 
+‘The graph of x) is concave up where f (x) is increasing and concave down where f/(x) is 
+decreasing, It follows that: 
+iff(x) > 0 for all x in some interval of the domain of f;then the graph of fis concave p in the 
+intervalsiff/(x) < 0 for all x in some interval of the domain of f, then the graph of fis concave 
+down in the interval. 
+iff{x) is a continuous function, its graph can only change concavity where f"(x) = 0. Hence, for a 
+continuous function, an inflection point may only occur where f'(x) = 0. 
+concave 
+concave 
+up 
+down 
+Example 9. 
+Determine the intervals on which the graph of y = x* — 4x3 is concave up or 
+concave down and identify any inflection points. 
+_ 
+Solution 
+‘We first note that the function is continuous for its domain of all real 
+numbers. To locate points of inflection, we then find for what value(s) 
+the second derivative is zero. 
+d_d 
+e 
+e 
+d_xidx( 
+4x3) = 4x 
+12x° 
+&y 
+4 
+2 
+a(4x3 — 12x?) = 12x2 — 24x = 12x(x — 2) 
+Setting d_x}; = 0, it follows that inflection points may occur at ¢ = 0 and ¢ = 2. 
+These two values divide the domain of the function into three intervals that 
+we need to test. Let's choose t = —1,¢ = L and t = 3 as our test 
+_ 
+dy 
+_dy 
+_ 
+values. Att = *1,9—36>0;att— I,Q— —2<0;andatt=3, 
+dZ 
+d_;: = 36 > 0. These results can be organised 
+0 
+2 
+X 
+—f——x 
+T 
+. 
+. 
+S0 
+- 
+0 
++ 
+in a sign chart illustrating that the graph of ~ 
+dx* 
+y = x* — 4x3is concave up for the open 
+N/ B /;\ 
+B \/ 
+intervals (— 00 ,0) and (2, o), and is concave 
+§ 
+?‘—:’ 
+% 
+? 
+g 
+2 
+= 
+=2 
+down on the open interval (0, 2). 
+s 
+5 
+& 
+B 
+& 
+£ 
+35 
+&5 
+% 
+s 
+Z 
+o 
+EN
+
+stationary 
+ concave 
+Att=0,y=0andatt=2, 
+T bl 
+inflection 
+0 
+  
+  
+   
+   
+   
+  
+ 
+ 
+ 
+y=21— 40P = —16. 
+74 
+point 
+Therefore, (0, 0) and (2, —16) are 
+inflection points because it is at 
+these points that the concavity of 
+points of 
+the graph changes. 
+inflection 
+<107 
+il 
+inflection 
+| o216 
+| 
+7 
+R | 
+e 
+Concave 
+Ve 
+[ | 
+2| 
+| 
+. 
+down 
+| 
+| 
+1 
+N 
+_ 
+> 
+0 
+x 
+ 
+The graph of the function from Example 9.13 reveals two different types of 
+inflection point. The gradient of the curve at (0, 0) is zero - that is, it is a stationary 
+point. The gradient of the curve at the other inflection point (2, —16) is negative. 
+Figure 9.37 For either type 
+of inflection point the graph 
+crosses its tangent line at the 
+For either type of inflection point the graph crosses its tangent line at the point 
+point of inflection 
+of inflection as shown in Figure 9.37. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+¥ 
+The fact that the second derivative of a function is zero at a certain point does 
+T* 
+| 
+not guarantee that an inflection point exists at the point. The functions y = x* 
+T 
+& 
+2 
+4 
+and y = 
+x* (Figures 9.38 and 9.39) show that 
+o 0 is a necessary but not 
+efei 
+dx? 
+W 
+sufficient condition for the existence of an inflection point. 
+& 
+4 
+&y 
+g 
+dzy 
+2 
+Fory:x3:a:£(x3):3x2:§:5(3)(2):6)(:@:03()::0‘ 
+Ll 
+We can conclude from this that there may be an inflection point at x = 0. 
+jelig 
+.| 
+2 
+We need to investigate further by checking to see if E); changes sign at x = 0. 
+Figure 938 Graph of y = x* 
+d? 
+dz 
+Atx=—1, S —6andatx =1, S 6. Thus, there is an inflection point 
+¥ 
+1 
+dx? 
+dx? 
+16 
+H 
+at x = 0 (Figure 9.38) because the second derivative changes sign at x = 0. 
+\ 
+. 
+I 
+dy_d 
+dy_4 
+dy 
+Fory:x‘:aza(x‘):Mﬁ:E:a(ﬁlxl):12x2$E:Oatx:0A 
+T 
+) 
+dy 
+! 
+dy 
+*\ == }" 
+Again, we rzxeed to see le changes sign at x = 0. Atx = —1, e 12 and 
+1 
+atx =1, E}; = 12. Thus, there is no inflection point at x = 0 (Figure 9.39) 
+10 
+X 
+because the second derivative does not change sign at x = 0. 
+Figure 9.39 Graph of y = x* 
+The second 
+derivative test 
+Instead of using the first derivative to check whether a function changes from 
+increasing to decreasing (maximum) or decreasing to increasing (minimum) 
+at a stationary point, we can simply evaluate the second derivative at the 
+stationary point. If the graph is concave up at the stationary point then 
+it will be a minimum, and if it is concave down then it will be a maximum. 
+383
+
+       
+     
+>0 
+concave 
+up 
+relative minimum 
+relative maximum 
+  
+  
+  
+    
+‘concave 
+down 
+fr<o 
+Figure 9.40 Relative minimum 
+and relative maximum 
+   
+384 
+Differential calculus 1 
+If the second derivative is zero at a stationary point (as for y = x*and y = x*), 
+no conclusion can be made and we need to go back to the first derivative test. 
+Using the second derivative in this way is a very efficient method for telling us 
+whether a stationary point is a relative maximum or minimum. 
+The second derivative test 
+Iff'(9 = 0 and f"(c) < 0, then fhas a relative maximum at x = c. 
+1ff'(c) = 0 and f"(c) > 0, then fhas a relative minimum at x = c. 
+Iff'(¢) = 0, the test fails and the first derivative test should 
+be applied. 
+Example 9.14 
+Find any relative extrema for fix) = 3x> — 25x3 + 60x + 20 
+  
+Solution 
+The implied domain of fis all real numbers. Solve f'(x) = 0 to obtain 
+possible extrema. 
+fl0 = 15x% — 75x> + 60 = 0 
+15(xt — 5x2 + 4) = 0 
+15(x2 = 4)(x2 = 1) =0 
+150c + 2x — Dx + Dx — 1) =0 
+Therefore, fhas four stationary points: x = -2, x = 2,x = —-landx = 1. 
+Applying the second derivative test: 
+[ = 60x? — 150x = 30x(2x — 5) 
+f(=2) = —180 < 0 = fhas a relative maximum at x = -2 
+f"(2) = 180 > 0 = fhas a relative minimum at x = 2 
+f"(=1) =90 > 0 = fhas a relative minimum at x = -1 
+(1) = —90 < 0 = fhas a relative maximum at x = 1 
+1. Find the vertex of each parabola using differentiation. 
+@ y=x2—2x—6 
+(b) y=4x?+ 
+12x + 17 
+(O 
+A E 
+6 e 
+2. For each function: 
+(i) 
+find the derivative, f(x) 
+(ii) 
+indicate the interval(s) for which f(x) is increasing 
+(iii) indicate the interval(s) for which f(x) is decreasing. 
+(Q)Ey =i XEE6! 
+(b) y=7 
+— 4x — 3x2 
+@y=32-x 
+@ y=xt -4
+
+3. For each function: 
+(i) 
+find the coordinates of any stationary points for the graph of the 
+equation 
+(ii) 
+state, with reasoning, whether each stationary point is a minimum, 
+maximum, or neither 
+(iii) sketch a graph of the equation and indicate the coordinates of each 
+stationary point on the graph. 
+@) y=2¢*+3x2—72x + 5 
+®) y=gr=5 
+(C)yi=(c=43)2 
+(d)fy =052 
+56 
+(e) y=x3—2x2—7x+ 10 
+) y=x—Vx 
+4. An object moves along a line such that its displacement s metres at time 
+t seconds from the origin O is given by s(t) = > — 42 + 
+t. 
+(a) Find expressions for the object’s velocity and acceleration in terms of . 
+(b) For the interval —1 < t < 3, sketch the graphs of the displacement— 
+time, velocity-time, and acceleration-time graphs of separate sets of 
+axes vertically. 
+(c) 
+For the interval —1 < t < 3, find the time at which the displacement 
+is a maximum and find its value. 
+(d) For the interval —1 < ¢ < 3, find the time at which the velocity is a 
+minimum and find its value. 
+(e) Describe the motion of the object during the interval —1 <t<3 
+accurately. 
+5. For each function fx): 
+(i) 
+find any relative extrema and points of inflection 
+(ii) state the coordinates of any such points. 
+Use your GDC to assist you in sketching the function. 
+(@) fo = x* — 12x 
+(b) f 
+= iﬂ Y 
+= 
+4 
+. 
+© fo=x+3 
+(d) fix)y = 
+—3x° + 5x* 
+(e) fix) = 3x* — 4x® — 12x2 + 5 
+6. Consider the function g(x) = x + 2 cosx. For the interval 0 < x < 2m 
+(a) find the exact x-coordinates of any stationary points. 
+(b) determine whether each stationary point is a maximum, minimum, 
+or neither and give a brief explanation. 
+7. An object moves along a line such that its displacement s metres from a 
+fixed point P at time ¢ seconds is given by s(t) = t(t — 3)(8t — 9). 
+(a) Find the initial velocity and initial acceleration of the object. 
+(b) Find the velocity and acceleration of the object at t = 3 seconds. 
+385
+
+Differential calculus 1 
+(c) Find the values of ¢ for which the object changes direction. 
+What significance do these times have in connection to the 
+displacement of the object? 
+(d) Find the value of ¢ for which the object’s velocity is a minimum. 
+What significance does this time have in connection to the 
+acceleration of the object? 
+8. The delivery cost per tonne of bananas, D (in thousands of dollars), 
+q 
+" 
+- 
+100 
+when x tonnes of bananas are shipped is given by D = 3x + ==, x> 0. 
+Find the value of x for which the delivery cost per tonne of bananas is 
+a minimum, and find the value of the minimum delivery cost. Explain 
+why this cost is a minimum rather than a maximum. 
+9. The curve y = x* + ax? + bx + c passes through the point (—1, —8) 
+d2y 
+pra = 6. Find the values of a, b, and ¢ and sketch 
+e 
+. 
+and 
+af 
+apolna* 
+the curve. 
+10. Find any maxima, minima or stationary points of inflection of the 
+X3 Yl 
+B 
+function flx) = 
+, stating, with explanation, the nature of 
+each point. Sketch the curve, indicating clearly what happens as x — *oo. 
+oo thatthe 
+11. For each graphed function, sketch its derivative on a separate pair of 
+derivative of an even 
+axes. Do not use your GDC. 
+function is odd and the 
+derivative of an odd 
+function is even. 
+¥ 
+y 
+y 
+% 
+% 
+% 
+(d) even function 
+(e) periodic function 
+Y. AN AN 
+NI 
+VIV 
+VvV = 
+(a) semicircle 
+(b) parabola 
+(¢) odd function 
+386
+
+12. The graph of the derivative of a function fis shown. 
+(i) 
+On what intervals is fincreasing or decreasing? 
+(i) For what value(s) of 
+x does fhave a local maximum or minimum? 
+(a) 
+(b) 
+  
+13. The graph of the second derivative f” of a function fis shown. State the 
+x-coordinates of the inflection points of f. Give reasons for your answers. 
+  
+14. Sketch a continuous curve y = f(x) with the following properties. 
+Label coordinates where possible. 
+(@) f(=2)=8 
+(b) f(0) =4 
+(©) f2)=0 
+@@ =f(=2=0 
+(e) f'(x) >0 for |x| > 2 
+(f) f'(x) <O0for|x| <2 
+(g) f"(x) <0forx<0 
+(h) f"(x) > 0 forx>0 
+15. An object moves along a horizontal line such that its displacement, 
+s metres, from its starting position at any time t = 0 is given by the 
+function s(f) = —2#* + 15¢> — 24t. The positive direction is to the right. 
+(a) Find the intervals of time when the object is moving to the right, 
+and the intervals when it is moving to the left. 
+(b) Find the (i) initial velocity, and (ii) initial acceleration of the object. 
+16. (a) Use your GDC to approximate to three significant figures the 
+q 
+o 
+5 
+o 
+maximum and minimum values of the function flx) = x — V2 sinx 
+in the interval 0 < x < 27 
+(b) Find f’(x) and find the exact minimum and maximum values for 
+f(x) in the interval 0 < x < 27 
+387
+
+Differential calculus 1 
+Tangents and normals 
+In many areas of mathematics and physics, it is useful to have an accurate 
+description of a line that is tangent or normal (perpendicular) to a curve. 
+The most complete mathematical description we can obtain is to find the 
+algebraic equation of such lines. 
+  
+lE 
+‘We now make use of the basic differentiation rules that we established earlier 
+to determine the equation of lines that are tangent to a curve at a point. 
+Example 9.15 shows how we can approximate the square root of a number 
+quite accurately without a calculator by making use of a tangent line. 
+  
+Example 
+  
+Find the equation of the line tangent to y = Vx at x = 9. 
+Use this tangent line to approximate 10. 
+I 
+— 
+Solution 
+‘We can find the equation of any line if we know its gradient and a point it 
+passes through. 
+Since y = 3 when x = 9, then the point the tangent passes through is (9, 3). 
+‘We differentiate to find the gradient of the curve at x = 9, thus giving us the 
+gradient of the tangent line. 
+Y_dim_da_1 11 
+Z-dm-da-Lia- L 
+d 
+atx = 
+:Ey:$—%ﬂThegradlentofthecurveandtangentatx—9153 
+Now that we have a point and a gradient for the line, we can substitute in the 
+point-gradient form for the equation of a line. 
+3 
+L 
+Sy 
+Y= 
+3 
+6(x 
+9=y 
+6x+2 
+The equation of the line tangent to y = Vx atx = 9is y = % G 
+For values of x near 9, y = Vx ~ f + % 
+W 
+10,3 
+19 
+VIOl === 
+316 
+The actual value of V10 to four significant figures is 3.162. Our 
+approximation expressed to four significant figures is 3.167. 
+The percentage error is less than 0.2%. 
+388
+
+Figure 9.41 shows the graphs of y = //x and its tangent at x = 9, 
+=2 
+6 
+approximation to the curve in the interval 5 < x <13 
+centred on the point the tangent passes through (9, 3). 
++ %, and illustrates that the tangent is a very good 
+20 
+  
+Figure 9.41 Graphs of y = Vx and its tangent at x = 9 
+Example 9.16 
+   
+Find the equation 
+of the tangent to ﬁx):er%atthepo‘mt (%,ZA 
+T 
+———————————————————— 
+Solution 
+f(x):er%:erx’l 
+e 
+=5 
+1 
+fo=1-—x2 
+17? 
+L) 
+s S 
+Whenx—z,f(z) 
+P 
+2 
+3) 
+Hence, the gradient of the tangent at this point is —3 
+,izf(,l) 
+| 
+= 
+s 
+3|x 
+2§y 
+B 
+2+2§y 
+3x+4 
+The equation of the line tangent to fix) = x + ’—lc atx = %is y=-3x+4 
+Example 9.17 
+Consider the function gx) = x2(x — 1) 
+(a) Find the two points on the graph of g at which the gradient of the curve is 8. 
+(b) Find the equations of the tangents to the curve at both of these points. 
+Solution 
+(a) 
+In order to differentiate by applying the power rule term by term, we 
+need to write g(x) in expanded form: gix) = x2(x — 1) = x* — x? 
+g =00 
+=3 -2 
+g =3x2—2x=8=>3x2—2x—8=0 
+(3x + 4) *2):0$x:*§orx:2 
+o8-y (- 
+g =23-22=4 
+112 
+Thus, the gradient of the curve is equal to 8 at (*%, i 2—7) and (2,4) 
+389
+
+Differential calculus 1 
+(b) tangent at (7é 
+ﬁ) 
+5 
+(2 
+AL 
+32 I 
+Y 
+( 
+27) 
+8[" 
+( 
+3)]@;: S 
+B 
+27 
+176 
+=gy 
++ 270 
+=y=28x 
+7 
+Therefore, the equation of the tangent at (—%, = %) isy=8x+ % 
+tangent 
+at (2, 4): 
+y—4=8x—2)=>y=8x—16+4=>y=8x—12 
+Therefore, the equation of the tangent at (2, 4) is y = 8x — 12 
+Figure 9.42 shows the results for Example 9.17 - the graph of the 
+function g and the two tangent lines to the graph of the function 
+that have a gradient of 8. Note that the scales on the x- and y-axes 
+are not equal, which causes the gradient of the tangent lines to 
+appear less than 8 for this particular graph. 
+  
+Figure 9.42 Results for Example 9.17 
+  
+  
+A normal toa graph of a 
+" 
+e 
+s 
+e 
+Th 
+mal to a curve at a po 
+line through the point 
+that is at a right angle 
+‘We often need to find the line that is 
+24 
+Normal 
+) 
+[ofthe tangentatthe 
+perpendicular to a curve at a certain 
+point. In other words, the 
+: 
+. 
+. 
+tangent and normal to 
+point, which we define to be the line 
+curve at a certain point 
+that is perpendicular to the tangent at 
+are perpendicular. 
+that point. In this particular context, 
+we apply the adjective normal rather 
+Recall that two 
+L 
+perpendicular lines have 
+than perpendicular to denote that two 
+gradients that are negative 
+lines are at right angles to one another. 
+reciprocals. If the gradients 
+of two perpendicular lines 
+  
+are my and my, then 
+Figure 9.43 The normal to a curve at a point 
+= 7%Zormlm2: = 
+“The exception is when one 
+e 
+of the lines is horizontal 
+(gradient 
+is zero), and the 
+Find the equation of the normal to the graph of y = 2x? — 6x + 3 at the 
+otheris vertical (gradient is 
+: 
+e 
+point (1, —1). 
+390
+
+Solution 
+S 
+=2¢—6x+3 
+L= 
+2 e 
++ 
+G (2 
+6xEiE3) 
+=4x—6 
+Gradient of tangent at 
+(1, —1)is4(1) — 6 = —2. 
+Hence, gradient of normal 
+  
+| 
+1s +EA 
+Equation of normal: 
+y*(*l):l(x* 1):>;v:l:)c*2 
+2 
+2 
+2 
+The graph in Example 9.18 shows the curve with both its tangent and normal 
+at the point (1, —1). Remember that if you graph a function with its tangent 
+and normal at a certain point, the normal will only appear perpendicular if the 
+scales on the x- and y-axes are equal. However, the tangent will always appear 
+tangent to the curve. 
+Example 9. 
+| 
+Consider the parabola with the equation y = sz 
+(a) Find the equation of the normals at the points (—2, 1) and (—4, 4). 
+(b) Show that the point of intersection of these two normals lies on the 
+parabola. 
+Solution 
+@ == 
+Gradient of tangent at (—2, 1) is %(—2) = —1, so the gradient of the 
+normal at that point is +1 
+The equation of the normal at (—2, 1) is: 
+y ==t 
+SHE2) == e 3 
+Gradient of tangent at (—4, 4) is %(74] = —2, so the gradient of the 
+normal at that point is % 
+The equation of the normal at (—4, 4) is: 
+1 
+I 
+= 
+_ 
+y—4 
+2[x 
+(=4 =y 
+2x+6 
+391
+
+392 
+Differential calculus 1 
+(b) Set the equations of the two normals equal to each other to find their 
+intersection. 
+x+3:%x+6:>%x:3$x:6 
+then y = 9 implies that the intersection point is (6, 9) 
+Substitute the coordinates of the points into the equation for the parabola. 
+e 
+e 
+e 
+- 
+y=g®t=>9=702=>9=1736=9-9 
+This confirms that the intersection point, (6, 9), of the normals is also a 
+point on the parabola. 
+8 
+. Consider the function g{x) = 
+Find an equation of the tangent line to the graph of the equation at the 
+indicated value of x. 
+(a) y=x2+2x+1 
+x=-3 
+(b) y=x*+x? 
+X77§ 
+(© y=3x2—x+1 
+x=0 
+1 
+1 
+@ y=2x+3 
+x=5 
+. Find the equations of the normal to the functions in question 1 at the 
+indicated value of x. 
+. Find the equations of the lines tangent to the curve y = x* — 3x2 + 2x at 
+any point where the curve intersects the x-axis. 
+. Find the equation of the tangent to the curve y = x> — 2x that is 
+perpendicular to the line x — 2y = 1. 
+. Using your GDC for assistance make accurate sketches of the curves 
+y=x2—6x+20and y = x* — 3x> — x on the same set of axes. 
+The two curves have the same gradient at an integer value for x 
+somewhere in the interval 0 < x < 7. 
+(a) Find this value of x. 
+(b) Find the equation for the tangent to each curve at this value of x. 
+. Find the equation of the normal to the curve y = x* + 4x — 2 at the 
+point where x = —3. Find the coordinates of the other point where this 
+normal intersects the curve again. 
+I 
+  . Find the equation of both the 
+tangent and the normal to the graph of g at the point (1, 0).
+
+8. The normal to the curve y = ax" + bx at the point where x = 1 has a 
+gradient of 1 and intersects the y-axis at (0, —4). Find the value of @ and 
+the value of b. 
+9. (a) Find the equation of the tangent to the function fix) = x° + 2.7 + 
+1 
+at the point (7 1, %) 
+(b) Find the coordinates of another point on the graph of f where the 
+tangent is parallel to the tangent found in (a). 
+10. Find the equation of both the tangent and the normal to the curve 
+y = Vx(1 — Vx) at the point where 
+x = 4. 
+11. Consider the function fix) = (1 + x5 — x). 
+(a) Show that the tangent to the graph of fwhere x = 
+1 does not 
+intersect the graph of the function again. 
+(b) Also show that the tangent line at (0, 5) intersects the graph of fat a 
+turning point. 
+(c) 
+Sketch the graph of fand the two tangents from (a) and (b). 
+12. Find equations of both lines through the point (2, —3) that are tangent to 
+the parabola y = x? + x 
+13. Find all tangent lines through the origin to the graph of y = 
+1 + (x — 1)? 
+14. (a) Find the equation of the tangent line to y = Vx atx = 8. 
+(b) Use the equation of this tangent line to approximate V9 to three 
+significant figures. 
+15. Find the equation of the tangent line for fix) = % atx=a. 
+g 
+16. The tangent to the graph of y = x> at a point P intersects the curve again 
+at another point Q. Find the coordinates of Q in terms of the coordinates 
+of P. 
+Chapter 9 practice questions 
+1. The function fis defined as fix) = x2 
+(a) Find the gradient (slope) of fat the point P, where x = 1.5 
+(b) Find an equation for the tangent to fat the point P. 
+(c) Draw a diagram to show clearly the graph of fand the tangent at P. 
+The tangent from part (b) intersects the x-axis at the point Q, and the 
+y-axis at the point R. 
+(d) Find the coordinates of Q and R. 
+(e) Verify that Q is the midpoint of [PR]. 
+(f) Find an equation, in terms of a, for the tangent to fat the point 
+S(a, a?),a#0. 
+393
+
+394 
+Differential calculus 1 
+The tangent from part (f) intersects the x-axis at the point T, and the 
+y-axis at the point U. 
+(g) Find the coordinates of T'and U. 
+(h) Prove that whatever the value of a, T is the midpoint of SU. 
+. The curve with equation y = Ax + B + %, x€R,x#0,hasa 
+minimum at P(1, 4) and a maximum at Q(—1, 0). Find the value of each 
+of the constants A, Band C. 
+Differentiate: 
+(@) 22— 3x) 
+®) % 
+. Consider the function fix) = % Eie 20— () 
+(a) Solve the equation f’(x) = 0. Show that the graph of fhas a turning 
+point at (2, 8). 
+(b) Find the equations of the asymptotes to the graph of f, and hence 
+sketch the graph. 
+. Find the coordinates of the stationary point on the curve with equation 
+1 
+2 
+Y=4xth 
+. The curve y = ax® — 2x? — x + 7 has a gradient (slope) of 3 at the point 
+where x = 2. Determine the value of a. 
+. Iff(2) = 3 and f'(2) = 5, find an equation of (a) the tangent to the graph 
+of fat x = 2, and (b) the normal to the graph of fat x = 2. 
+. The function g(x) is defined for —3 < x < 3. The behaviour of g/(x) and 
+g'(x) is given in the tables. 
+  
+  
+ 
+ 
+  
+  
+  
+i 
+e 
+B 
+1 
+== 
+g (x) 
+negative 
+0 
+positive 
+0 
+negative 
+1 
+1 
+1 
+—3<x<—3| 
+-5 | —5<x< 
+% 
+Sk 
+3 
+3 
+2 
+3 
+g'(x) 
+positive 
+0 
+negative 
+ 
+ 
+ 
+ 
+ 
+  
+Use the information above to answer the following. In each case, justify 
+your answer. 
+(a) Write down the value of x for which g has a maximum. 
+(b) On which intervals is the value of g decreasing? 
+(c) Write down the value of x for which the graph of g has a point of 
+inflection. 
+(d) Given that g(—3) = 1, sketch the graph of g. On the sketch, clearly 
+indicate the position of the maximum point, the minimum point, 
+and the point of inflection.
+
+9. Given the function f(x) = x? — 3bx + (c + 2), determine the values of b 
+10. 
+il 
+12. 
+and ¢ such that f(1) = 0 and f'(3) = 0. 
+The graphs show the functions f;, f5, fi, fi, and their derivatives. 
+Match each function to its derivative. 
+  
+ 
+y 
+(a) 
+y 
+A 
+—— 
+0 
+x 
+y 
+(b) 
+y 
+£ 
+e Tz 
+7 
+NSO 
+x 
+y 
+(c) 
+5 
+. 
+NS/ 
+05 
+Vi 
+o 
+X 
+¥ 
+(d) 
+y 
+" 
+(e) 
+y 
+ 
+Consider the function fix) = 
+1 + sinx 
+(a) Find the average rate of change of ffrom x = 0 to x = g 
+(b) Find the instantaneous rate of change of fat x = % 
+(c) Atwhat value of x in the interval 0 < x < -7 is the instantaneous 
+rate of change of f equal to the average rate of change of f from 
+x=0tox= g(answer to part (a))? 
+B2 
+X 
+vertical and a horizontal asymptote. 
+  
+Consider the function y = 
+. The graph of this function has a 
+(a) Write down the equation of: 
+(i) the vertical asymptote 
+(ii) the horizontal asymptote. 
+dy 
+b) 
+Find — 
+bR 
+dx 
+395
+
+396 
+Differential calculus 1 
+138 
+14. 
+15, 
+16. 
+17 
+18. 
+192 
+20. 
+(c) Indicate the intervals for which the curve is increasing or decreasing. 
+(d) How many stationary points does the curve have? Explain using 
+your result to (c). 
+Show that there are two points at which the function h(x) = 2x2 — x* 
+has a maximum value, and one point at which / has a minimum value. 
+Find the coordinates of these three points, indicating whether each is a 
+maximum or minimum. 
+The normal to the curve y = x? + x7 at the point (1, 2) meets the axes at 
+(a, 0) and (0, b). Find a and b. 
+The displacement s metres of a car, t seconds after leaving a fixed point 
+A, is given by s(t) = 10t — %tl 
+(a) Calculate the velocity when t = 0. 
+(b) Calculate the value of t when the velocity is zero. 
+(c) Calculate the displacement of the car from A when the velocity is zero. 
+A ball is thrown vertically upwards from ground level such that its 
+height h at t seconds is given by h = 14t — 4.9t 
+(a) Write expressions for the ball’s velocity and acceleration. 
+(b) Find the maximum height the ball reaches and the time it takes to 
+reach the maximum. 
+(c) 
+At the moment the ball reaches its maximum height, what is the 
+ball’s velocity and acceleration? 
+Find the exact coordinates of the inflection point on the curve 
+y=x>+12x2 
+— x — 12, 
+Given the function f(x) = 2 cos x — 3. At the point on the curve where 
+x= Z, find: 
+B 
+(a) the equation of the tangent to f 
+(b) the equation of the normal to f. 
+Express both equations exactly. 
+The curve y = ax? + bx + ¢ has a maximum point at (2, 18) and passes 
+through the point (0, 10). Find a, b and c. 
+For the function f(x) = %xz 
+N ind: 
+(a) the equation of the tangent line at x = —2 
+(b) the equation of the normal line at x = —2.
+
+2175 
+22. 
+23. 
+258 
+26. 
+78 
+28. 
+29. 
+Consider the function fix) = x* — x°. 
+(a) Find the coordinates of any maximum or minimum points. 
+Identify each as relative or absolute. 
+(b) State the domain and range of f. 
+(c) 
+Find the coordinates of any inflection point(s). 
+(d) Sketch the function clearly indicating any maximum, minimum or 
+inflection points. 
+Evaluate each limit. 
+o e 
+. 
+R 
+S 
+v 
+®) Ime = 
+  
+  
+Find the derivative f'(x) for each function. 
+(a) fo = 
+(b) fix) = x* — 3sinx 
+x 
+_1,x 
+. 
+© f=1+Z 
+@ o =1 
+. A point (p, g) is on the graph of y = x> + x> — 9x — 9, and the line 
+tangent to the graph at (p, g) passes through the point (4, —1). 
+Find p and q. 
+For what values of ¢, such that ¢ = 0, is the line y = —1—12x + cnormal 
+to the graph of y = x3 + %? 
+Find the points on the curve y = %x‘ — x where the tangent line is 
+parallel to the line y = 3x. 
+At what point does the line that is normal to the graph of y = x — x2 
+at the point (1, 0) intersect the graph of the curve a second time? 
+An object moves along a line according to the position function 
+s(t) = > — 9t + 24¢. Find the positions of the object when 
+(a) 
+its velocity is zero 
+(b) 
+its acceleration is zero. 
+A particle moves along a straight line in the time interval 0 < t < 277 
+such that its displacement from the origin O is s metres given by the 
+function s = 
+t + sint. 
+(a) Find the value(s) of ¢ in the interval 0 < ¢ < 277 when 
+the particle 
+changes direction. 
+(b) Show that the particle always remains on the same side of the origin O. 
+(c) Find the value(s) of ¢ in the interval 0 < ¢ < 277 when the 
+acceleration of the particle is zero. 
+(d) Sketch a graph of the displacement of the particle from O for 
+0 < 
+t < 277, and state the maximum value of s in this interval. 
+397
+
+Differential calculus 1 
+30. The curve whose equation is y = ax® + bx? + cx + d has a point of 
+inflection at (— 1, 4), a turning point when x = 2, and passes through the 
+point (3, —7). Find the values of a, b, ¢, and d, and the y-coordinate of 
+the turning point. 
+31. Find the stationary values of the function fly) = 1 — - + 8 and 
+A 
+" 
+D 
+determine their nature. 
+32. (a) Find the equation of the tangent to the curve y = % at the point (1, 1) 
+(b) Find the equation of the tangent to the curve y = cosx at the 
+point (%, 0) 
+(©) Deduce that = > cosxfor0<x=< 7T 
+33. Show that there is just one tangent to the curve y = x* — x + 2 that 
+passes through the origin. Find: 
+(a) the equation of the tangent 
+(b) the coordinates of the point of tangency. 
+34. The displacement s metres of a moving body B from a fixed point O at 
+time ¢ seconds is given by s = 50¢ — 10> + 1000 
+(a) Find the velocity of Bin ms™! 
+(b) Find its maximum displacement from O. 
+35. The diagram shows a sketch of the graph of y = f'(x) fora<x < b 
+  
+Sketch the graph of y = fix) for a < x < b, given that f(0) = 0, f(a) = 0 
+and fix) = 0 for all x. On your graph, you should clearly indicate any 
+minimum or maximum points, or points of inflection. 
+398

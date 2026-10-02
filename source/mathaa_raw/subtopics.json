@@ -1,0 +1,70 @@
+[
+  {"ch":1,"code":"1.1","name":"Equations of lines","chapter":1,"chapterFile":"01_Algebra_and_function_basics"},
+  {"ch":2,"code":"1.2","name":"Parallel and perpendicular lines","chapter":1,"chapterFile":"01_Algebra_and_function_basics"},
+  {"ch":3,"code":"1.3","name":"Functions: concept, domain, range and notation","chapter":1,"chapterFile":"01_Algebra_and_function_basics"},
+  {"ch":4,"code":"1.4","name":"Composite and inverse functions","chapter":1,"chapterFile":"01_Algebra_and_function_basics"},
+  {"ch":5,"code":"1.5","name":"Transformations of graphs","chapter":1,"chapterFile":"01_Algebra_and_function_basics"},
+
+  {"ch":6,"code":"2.1","name":"Quadratic functions and key features","chapter":2,"chapterFile":"02_Functions_equations_and_inequalities"},
+  {"ch":7,"code":"2.2","name":"Quadratic formula, discriminant and quadratic inequalities","chapter":2,"chapterFile":"02_Functions_equations_and_inequalities"},
+  {"ch":8,"code":"2.3","name":"Rational functions and asymptotes","chapter":2,"chapterFile":"02_Functions_equations_and_inequalities"},
+  {"ch":9,"code":"2.4","name":"Solving equations graphically and analytically","chapter":2,"chapterFile":"02_Functions_equations_and_inequalities"},
+
+  {"ch":10,"code":"3.1","name":"Arithmetic sequences and series","chapter":3,"chapterFile":"03_Sequences_and_series"},
+  {"ch":11,"code":"3.2","name":"Geometric sequences and series","chapter":3,"chapterFile":"03_Sequences_and_series"},
+  {"ch":12,"code":"3.3","name":"Sigma notation","chapter":3,"chapterFile":"03_Sequences_and_series"},
+  {"ch":13,"code":"3.4","name":"The binomial theorem","chapter":3,"chapterFile":"03_Sequences_and_series"},
+
+  {"ch":14,"code":"4.1","name":"Exponential functions, growth and decay","chapter":4,"chapterFile":"04_Exponential_and_logarithmic_functions"},
+  {"ch":15,"code":"4.2","name":"The number e and the natural exponential function","chapter":4,"chapterFile":"04_Exponential_and_logarithmic_functions"},
+  {"ch":16,"code":"4.3","name":"Logarithmic functions and properties of logarithms","chapter":4,"chapterFile":"04_Exponential_and_logarithmic_functions"},
+  {"ch":17,"code":"4.4","name":"Solving exponential and logarithmic equations","chapter":4,"chapterFile":"04_Exponential_and_logarithmic_functions"},
+
+  {"ch":18,"code":"5.1","name":"Radian measure, arc length and sector area","chapter":5,"chapterFile":"05_Trigonometric_functions_and_equations"},
+  {"ch":19,"code":"5.2","name":"The unit circle and exact trigonometric values","chapter":5,"chapterFile":"05_Trigonometric_functions_and_equations"},
+  {"ch":20,"code":"5.3","name":"Pythagorean and double angle identities","chapter":5,"chapterFile":"05_Trigonometric_functions_and_equations"},
+  {"ch":21,"code":"5.4","name":"Graphs of trigonometric functions","chapter":5,"chapterFile":"05_Trigonometric_functions_and_equations"},
+  {"ch":22,"code":"5.5","name":"Transformations of trigonometric graphs and applications","chapter":5,"chapterFile":"05_Trigonometric_functions_and_equations"},
+  {"ch":23,"code":"5.6","name":"Solving trigonometric equations","chapter":5,"chapterFile":"05_Trigonometric_functions_and_equations"},
+
+  {"ch":24,"code":"6.1","name":"3D coordinate geometry: distance and midpoint","chapter":6,"chapterFile":"06_Geometry_and_trigonometry"},
+  {"ch":25,"code":"6.2","name":"Volume and surface area of 3D solids","chapter":6,"chapterFile":"06_Geometry_and_trigonometry"},
+  {"ch":26,"code":"6.3","name":"Angle between two lines and right-angled trigonometry","chapter":6,"chapterFile":"06_Geometry_and_trigonometry"},
+  {"ch":27,"code":"6.4","name":"The sine rule and cosine rule","chapter":6,"chapterFile":"06_Geometry_and_trigonometry"},
+  {"ch":28,"code":"6.5","name":"Area of a triangle, bearings and applications","chapter":6,"chapterFile":"06_Geometry_and_trigonometry"},
+
+  {"ch":29,"code":"7.1","name":"Sampling techniques, bias and reliability","chapter":7,"chapterFile":"07_Statistics"},
+  {"ch":30,"code":"7.2","name":"Presentation of data and outliers","chapter":7,"chapterFile":"07_Statistics"},
+  {"ch":31,"code":"7.3","name":"Grouped data and histograms","chapter":7,"chapterFile":"07_Statistics"},
+  {"ch":32,"code":"7.4","name":"Measures of central tendency and dispersion","chapter":7,"chapterFile":"07_Statistics"},
+  {"ch":33,"code":"7.5","name":"Cumulative frequency, median and quartiles","chapter":7,"chapterFile":"07_Statistics"},
+  {"ch":34,"code":"7.6","name":"Correlation and linear regression","chapter":7,"chapterFile":"07_Statistics"},
+
+  {"ch":35,"code":"8.1","name":"Basic probability and complementary events","chapter":8,"chapterFile":"08_Probability"},
+  {"ch":36,"code":"8.2","name":"Combined and mutually exclusive events","chapter":8,"chapterFile":"08_Probability"},
+  {"ch":37,"code":"8.3","name":"Conditional probability and independence","chapter":8,"chapterFile":"08_Probability"},
+  {"ch":38,"code":"8.4","name":"Venn diagrams, tree diagrams and tables","chapter":8,"chapterFile":"08_Probability"},
+
+  {"ch":39,"code":"9.1","name":"Limits and the derivative","chapter":9,"chapterFile":"09_Differential_calculus_1"},
+  {"ch":40,"code":"9.2","name":"Derivatives of polynomial, sine and cosine functions","chapter":9,"chapterFile":"09_Differential_calculus_1"},
+  {"ch":41,"code":"9.3","name":"Increasing and decreasing functions","chapter":9,"chapterFile":"09_Differential_calculus_1"},
+  {"ch":42,"code":"9.4","name":"Stationary points: maxima, minima and inflection","chapter":9,"chapterFile":"09_Differential_calculus_1"},
+  {"ch":43,"code":"9.5","name":"Kinematics using differentiation","chapter":9,"chapterFile":"09_Differential_calculus_1"},
+  {"ch":44,"code":"9.6","name":"Equations of tangent and normal lines","chapter":9,"chapterFile":"09_Differential_calculus_1"},
+
+  {"ch":45,"code":"10.1","name":"The chain rule","chapter":10,"chapterFile":"10_Differential_calculus_2"},
+  {"ch":46,"code":"10.2","name":"The product rule and quotient rule","chapter":10,"chapterFile":"10_Differential_calculus_2"},
+  {"ch":47,"code":"10.3","name":"Derivatives of exponential and logarithmic functions","chapter":10,"chapterFile":"10_Differential_calculus_2"},
+  {"ch":48,"code":"10.4","name":"Optimization problems","chapter":10,"chapterFile":"10_Differential_calculus_2"},
+
+  {"ch":49,"code":"11.1","name":"Antidifferentiation and indefinite integrals","chapter":11,"chapterFile":"11_Integral_calculus"},
+  {"ch":50,"code":"11.2","name":"Definite integrals and areas under curves","chapter":11,"chapterFile":"11_Integral_calculus"},
+  {"ch":51,"code":"11.3","name":"Areas between curves and boundary conditions","chapter":11,"chapterFile":"11_Integral_calculus"},
+  {"ch":52,"code":"11.4","name":"Kinematics using integration","chapter":11,"chapterFile":"11_Integral_calculus"},
+  {"ch":53,"code":"11.5","name":"Integration by inspection and substitution","chapter":11,"chapterFile":"11_Integral_calculus"},
+
+  {"ch":54,"code":"12.1","name":"Discrete random variables and expected value","chapter":12,"chapterFile":"12_Probability_distributions"},
+  {"ch":55,"code":"12.2","name":"Linear transformations of random variables","chapter":12,"chapterFile":"12_Probability_distributions"},
+  {"ch":56,"code":"12.3","name":"The normal distribution and standardization","chapter":12,"chapterFile":"12_Probability_distributions"},
+  {"ch":57,"code":"12.4","name":"The binomial distribution","chapter":12,"chapterFile":"12_Probability_distributions"}
+]

@@ -1,0 +1,2460 @@
+Trigonometric functions 
+and equations  
+
+150 
+Trigonometric functions and equations 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« 
+the radian measure of angles 
+« 
+finding the length of an arc and area of a sector 
+o 
+the unit circle and definitions of sin , cos#, and tan 
+6 
+T 
+o 
+the exact values of trigonometric ratios of 0, ’ET s 3 
+and their multiples 
+o 
+the Pythagorean identity sin?6 + cos?6 = 
+1 
+« 
+double angle identities for sine and cosine 
+« 
+the graphs of sinf, cos6, and tan 
+« 
+the amplitude and period for the graphs of sin6, cos6, and tan 
+6 
+« 
+composite functions of the form asin(b(x + ¢)) + d and acos(b(x + ¢)) + d 
+and their graphs 
+« 
+transformations of the graphs of trigonometric functions and their 
+applications 
+« 
+applying trigonometric functions to real-life problems 
+» 
+solving trigonometric equations in a finite interval. 
+The word trigonometry comes from two Greek words, trigonon and metron, 
+meaning ‘triangle measurement’. Trigonometry developed out of the use and 
+study of triangles in surveying, navigation, architecture, and astronomy to 
+find relationships between lengths of sides of triangles and measurement of 
+angles. As a result, trigonometric functions were initially defined as functions 
+of angles - that is, functions with angle measurements as their domains. With 
+the development of calculus in the 17th century and the growth of knowledge 
+in the sciences, the application of trigonometric functions grew to include a 
+wide variety of periodic (repetitive) phenomena such as wave motion, vibrating 
+strings, oscillating pendulums, alternating electrical current, and biological 
+cycles. These applications of trigonometric functions require their domains 
+to be sets of real numbers without reference to angles or triangles. Hence, 
+trigonometry can be approached from two different perspectives: functions of 
+angles or functions of real numbers. This chapter focuses on the latter; that is, 
+viewing trigonometric functions as defined in terms of a real number that is 
+the length of an arc along the unit circle. Although this chapter will not refer 
+much to triangles (this is covered in Chapter 6), it is appropriate to begin by 
+looking at angles and arc lengths - geometric objects that are essential to the 
+two different ways of approaching trigonometry.
+
+Angles, circles, arcs, and sectors 
+An angle in a plane is made by rotating a ray about its endpoint, called the 
+vertex of the angle. The starting position of the ray is called the initial side 
+and the position of the ray after rotation is called the terminal side of the 
+angle (Figure 5.1). An angle with its vertex at the origin and its initial side on 
+the positive x-axis is in standard position (Figure 5.2). A positive angle is 
+produced when a ray is rotated in an anti-clockwise direction, and a negative 
+angle when a ray is rotated in a clockwise direction. Two angles in standard 
+position that have the same terminal sides, regardless of the direction or 
+number of rotations, are called coterminal angles. Greek letters are often used 
+to represent angles, and the direction of rotation is indicated by an arc with an 
+arrow at its endpoint. 
+The x- and y-axes divide the coordinate plane into four quadrants (numbered 
+with Roman numerals). Figure 5.3 shows a positive angle @ and a negative 
+angle f3 that are coterminal in quadrant ITI. 
+  
+adian measure 
+  
+Instead of dividing a full revolution into 360 degrees, consider an angle that has 
+its vertex at the centre of a circle (a central angle) and subtends (or intercepts) 
+an arc of the circle. Figure 5.4 shows three circles with radii of different lengths 
+(r; <1, <r;)and the same central angle 0 (theta) subtending the arc lengths s, 
+s, and s;. Regardless of the size of the circle, the ratio of arc length, s, to radius, r, 
+S5 
+s 
+for a given circle will be constant. For the angle 6 in Figure 5.4, r—; = r—z . r—i 
+Because this ratio is an arc length divided by another length (radius), it is just 
+an ordinary real number and has no units. 
+} 
+@ 
+Figure 5.4 Different circles with the same central angle 6 subtending different arcs, but the ratio of arc 
+length to radius remains constant 
+  
+Figure 5.1 Components of an 
+angle 
+terminal 
+side 
+initial 
+X 
+side 
+Figure 5.2 Standard position 
+of anangle 
+1 
+ 
+Figure 5.3 Coterminal angles 
+151
+
+(—1,0) 
+0,-1) 
+ 
+Figure 5.5 The unit circle 
+Conversion between 
+degrees and radians 
+Because 
+180° = wrradians, 
+then 
+1° = —radians, 
+180° 
+S 
+An angle with a radian 
+measure of 1 has a degree 
+‘measure of approximately 
+57.3° (to three significant 
+figures). 
+and 
+1 radian =   
+152   
+Trigonometric functions and equations 
+Major and minor arcs 
+Ifa central angle is less than 180°, then the subtended arc is 
+y 
+referred to as a minor arc. If a central angle is greater than 
+180°, then the subtended arc i referred to as a major arc. 
+6 = 
+1 radian 
+‘The ratio § indicates how many radius lengths, 7 fit into the 
+length of the arc s. For example, if 
+= 2, then the length of 
+sis equal to two radius lengths. This accounts for the name 
+radian and leads to the following definition. 
+One radian is the measure of 
+a central angle 6 of a circle that 
+subtends an arc s of the circle that is exactly the same length 
+as the radius r of the circle. That is, when 6 = 
+1 radian, 
+arc length = radius. 
+The unit circle 
+‘When an angle is measured in radians it makes sense to draw it so that it is 
+in standard position. It follows that the angle will be a central angle of a circle 
+whose centre is at the origin. As Figure 5.4 illustrated, it makes no difference 
+what size circle is used. The most practical circle to use is the circle with a 
+radius of one unit so the radian measure of an angle will simply be equal to the 
+length of the subtended arc. 
+  
+= : 
+Ifr:1,then():%:s 
+radian measure: § = 
+The circle with a radius of one unit and centre at the origin (0, 0) is called the 
+unit circle (Figure 5.5). The equation for the unit circle is x> + y> = 
+1. Because 
+the circumference of a circle with radius r is 27, then a central angle of one 
+full anti-clockwise revolution (360°) subtends an arc on the unit circle equal 
+to 277 units. Hence, if an angle has a degree measure of 360°, then its radian 
+measure is exactly 2. It follows that an angle of 180° has a radian measure of 
+exactly . This fact can be used to convert between degree measure and radian 
+measure and vice versa. 
+(a) Convert 30° and 45° to radian measure and sketch the corresponding arc 
+on the unit circle. 
+(b) Use these results to convert 60° and 90° to radian measure. 
+_—_—eeeeeeeeeeeeee————————— 
+Solution 
+(a) Note that the ‘degree’ units cancel. 
+30 = 30°( ) = = 
+180° 
+6 
+pmggel T A 
+A5 o 
+@ 
+=4 (180") 
+180°7 
+4
+
+) 
+P 
+o=@ 
+P= 
+[ 
+= 
+(b) Since 60° = 2(30°) and 30° = 7, then 
+60 
+2(6) 
+z 
+o 
+o 
+o 
+P 
+oIt 
+(LT3 
+Similarly, 90 
+2(45°) and 45 
+7 then 90 
+2( 4) 
+2 
+(a) Convert the following radian measures to degrees. Express exactly, if 
+possible. Otherwise express accurate to three significant figures. 
+O 
+@7 
+Gi)s 
+w138 
+3 
+2 
+(b) Convert the following degree measures to radians. Express exactly. 
+@) 
+135° 
+(i) —150° 
+(i) 175° 
+ (iv) 10° 
+I 
+———————"_—i—_—_M_—h—h——_————_—_——$———n—n—Sn<nnnnnNnn—nnNS<$<n$$S$S$mS—_—— 
+Solution 
+@ G = 
+i) =37 
+= 3 
+= —3180°) 
+= —270° 
+(ii) 
+> 
+() 
+2(180 
+) 
+270 
+= 4(60°) = 240° 
+  
+(iii) 5(28%°) 
+~ 286.479° ~ 286° 
+(@) 138(28%) ~ 79.068° ~ 79.1° 
+() (@) 
+135 =350 = 3(7) = Eii 
+  
+  
+1)1 
+@) —150°= —5(30) = —5(Z) = 2T 
+wslE) =B 
+w 
+) -5 
+Because 277 is 6.28 (to three significant figures), there are a little more than six 
+radius lengths in one revolution, as shown in Figure 5.6. 
+Figure 5.7 shows all of the angles between 0° and 360°, inclusive, that are 
+multiples of 30° or 45° and their equivalent radian measure. You will benefit 
+by being able to quickly convert between degree measure and radian measure 
+for these common angles. 
+7y 
+       
+  
+   
+2 radians 
+r- 
+1 radian 
+\%\ 
+3 radians 
+X 
+6 radians 
+N 
+  
+5 radians 
+Figure 5.6 Arcs with lengths equal to the radius 
+placed along the circumference of a circle 
+Figure 5.7 Degree measure and radian 
+measure for common angles 
+‘The results given in 
+Example 5.1 are very 
+useful and often appear 
+in problems and 
+applications. Knowing 
+these four facts can help 
+‘you to quickly convert 
+mentally between degrees 
+and radians for many 
+common angles. 
+For example, to convert 
+225° to radians, apply the 
+fact that 
+225° = 5(45°). Since 
+45°= ll, then 
+225° = 5(45°) 
+5m 
+z (D e 
+“This is also helpful 
+for conversions in the 
+opposite direction. For 
+example, to convert 
+%m degrees: 
+it 
+= 11(30°) = 330°. 
+  
+AllGDCs will have a 
+degree mode anda 
+radian mode. Before 
+doing any calculations 
+with angles on your 
+GDC, be certain that the 
+mode setting for angle 
+measurement s set 
+correctly. Although you 
+may be more familiar 
+with degree measure, 
+as you progress further 
+in mathematics, and 
+especially in calculus, 
+radian measure is far 
+more useful. 
+153
+
+‘The units of the product 
+rfare equal to the units 
+of rbecause 6 has no 
+units in radian measure. 
+154 
+Trigonometric functions and equations 
+Arc length 
+For any angle 6, its radian measure is given by 6 = ; Simple rearrangement of 
+this formula leads to another formula for computing arc length. 
+For a circle of radius r, a central angle § subtends an arc of the circle of length s given by 
+S=ri0) 
+‘where 6is measured in radians. 
+  
+A circle has a radius of 10 centimetres. Find the length of the arc of the circle 
+subtended by a central angle of 150°. 
+  
+Solution 
+To use the formula s = r6, we must first convert 150° to radian measure. 
+  
+150° = 150‘,( 
+T 
+) _ 1507 _ 57 
+180°) 
+180 6 
+3 
+Substituting r = 10 cm into the formula: 
+=0 o= 10(37) = BT 2610904 
+w0 
+The length of the arc is 26.18 cm 
+(4 significant figures). 
+  
+Example 5.4 
+The diagram shows a circle of centre O with radius r = 6 cm. Angle AOB 
+subtends the minor arc AB such that the length of the arc is 10 cm. Find the 
+size of angle AOB in degrees to three significant figures. 
+  
+Solution 
+Rearrange the arc length formula s = r6, to make 6 the subject: 
+_— b 
+10 
+Remember that 6 will be in radians. Therefore, 
+e \ 
+angle AOB = % = % or 1.6 radians. 
+Now, we convert to degrees: % (i:u) ~95.49297°. 
+The degree measure of angle AOB is approximately 95.5°.
+
+  
+Geometry of a circle 
+inscribed circle of a 
+polygon - the radius is 
+perpendicular to the side 
+circumscribed circle 
+of the polygon at the point 
+of a polygon 
+of tangency 
+  
+C 
+ 
+ 
+  
+  
+Figure 5.8 Circle terminology 
+Sector of a circle 
+  
+A sector of a circle is the region bounded by an arc of the circle and the two 
+sides of a central angle (Figure 5.8). The ratio of the area of a sector to the area 
+of the circle, 772, is equal to the ratio of the length of the subtended arc to the 
+circumference of the circle, 27r. If s is the arc length and A is the area of the 
+sector, then we can write A5 
+ar? 
+2 
+2, 
+Solving for A gives A = % = %rs 
+We already know that for arc length, s = r6, where 6 is the central angle in 
+radians. 
+Substituting r6 for s, gives the area of a sector to be 
+  
+1. 
+1 
+Area 
+of a sector 
+A=Jrs=2rrf) 
+Inacircle 
+of adius r, 
+. 
+. 
+. 
+thearea 
+of 
+asector 
+with 
+If the sector is the entire circle then § = 277, and the area is 
+u:a‘; m;:;;;:,,: 
+in radians is 
+A= lrzﬂ = lr1(211) = 7r?, 
+1 
+2 
+2 
+A= 5126 
+which is the formula for the area of a circle. 
+  
+A circle of radius 9 cm has a sector whose central 
+angle is 2717 Find the exact values of: 
+% 
+(a) the length of the arc subtended by the 
+central angle 
+(b) the area of the sector. 
+155
+
+‘The formula for 
+arclength s = rf, and the 
+formula forarea of 
+asector A =126, are 
+true only when fis 
+in radians. 
+156 
+Trigonometric functions and equations 
+S 
+Solution 
+(a) s:r9:>s:9(2Tﬂ) =6m 
+The length of the arc is exactly 677 cm. 
+=1 
+— Ligp(2m) 
+() 
+A=1ro=a 
+2(9)(3) 
+27 
+The area of the sector is exactly 2777 cm? 
+1. Convert each angle into radians. Give your answers in exact form. 
+(a) 60° 
+(b) 150° 
+() —270° 
+(d) 36° 
+(e) 135° 
+(£) 50° 
+(g) —45° 
+(h) 400° 
+(i) —480° 
+2. Convert each angle to degrees. If possible, express exactly, otherwise 
+express accurate to three significant figures. 
+@ & 
+® -2 
+© 2 
+@7z 
+© —25 
+® 32 
+©® 2 
+®) 157 
+@ & 
+3. The size of an angle in standard position is given. Find two angles, one 
+positive and one negative, that are coterminal with each given angle. If 
+no units are given, assume the angle is in radian measure. 
+(a) 30° 
+(b) 32_" 
+(0) 175° 
+T 
+i 
+(d) % 
+(e) = 
+(£)F3.25 
+4. Find the length of the arc s in each diagram. 
+(a) 
+s 
+(b) 
+N 
+  
+5. Find the angle 6 in both 
+radians and degrees. 
+12
+
+6. 
+7 
+8. 
+gF 
+10. 
+TS 
+12. 
+158 
+14. 
+Find the radius, 7, of the circle in the diagram. 
+15 
+Find the area of the sector in each diagram. 
+A % 
+An arc of length 60 cm subtends a central angle « in a circle of radius 
+20 cm. Find the size of & in both degrees and radians. Give your answer 
+to three significant figures. 
+Find the length of an arc that subtends a central angle of 2 radians in a 
+circle of radius 16 cm. 
+The area of a sector of a circle with a central angle of 60° is 24 cm?. Find 
+the radius of the circle. 
+A bicycle with tyres 70 cm in diameter is travelling such that its tyres 
+complete one and a half revolutions every second. That is, the angular 
+velocity of the wheel is 1.5 revolutions per second. 
+(a) What is the angular velocity of a wheel in radians per second? 
+(b) Atwhat speed (in km per hour) is the bicycle travelling along the 
+ground? (This is the linear velocity of any point on the tyre that 
+touches the ground.) 
+A bicycle with tyres 70 cm in diameter is travelling along a road at 
+25km h~!. What is the angular velocity of a wheel of the bicycle in 
+radians per second? 
+Given that w is the angular velocity, in radians per second, of a point on 
+a circle with radius 7 cm, express the linear velocity, v, in cms ™!, 
+of the 
+point as a function in terms of @ and r. 
+A chord of 26 cm is in a circle of radius 20 cm. Find the length of the arc 
+that the chord subtends. 
+157
+
+  
+Figure 5.9 The wrapping 
+function 
+158 
+Trigonometric functions and equations 
+15. A circular irrigation system consists of a 400 m pipe that is rotated 
+around a central pivot point. If the irrigation pipe makes one full 
+revolution around the pivot point in a day, what area, in m? does it 
+irrigate each hour? 
+16. (a) Find the radius of a circle circumscribed about a regular polygon of 
+64 sides if one side is 3 cm. 
+(b) Find the difference between the circumference of the circle and the 
+perimeter of the polygon. 
+17. Find the area of an equilateral triangle that has an inscribed circle with 
+an area of 5077cm?, and a circumscribed circle with an area of 
+2007 cm?. 
+18. In the diagram, the sector of a circle is 
+subtended by two perpendicular radii. 
+The area of the shaded segment is A square 
+units. Find an expression for the area of the 
+circle in terms of A. 
+The unit circle and trigonometric 
+functions 
+Several important functions can be described by mapping the coordinates 
+of points on the real number line onto points on the unit circle. Recall from 
+Section 5.1 that the unit circle has its centre at (0, 0), a radius of one unit, and 
+equation x> + y2 = 1. 
+Suppose that the real number line is tangent to the unit circle at the point (1, 0), 
+and that zero on the number line matches with (1, 0) on the circle (Figure 5.9). 
+Because of the properties of circles, the real number line in this position will be 
+perpendicular to the x-axis. The scales on the number line, the x-axis, and the 
+y-axis need to be the same. Imagine that the real number line is flexible like a 
+string and can wrap around the circle, with zero on the number line remaining 
+fixed to the point (1, 0) on the unit circle. When the top portion of the string 
+moves along the circle, the wrapping is anti-clockwise (t > 0), and when the 
+bottom portion of the string moves along the circle, the wrapping is clockwise 
+(t<0).
+
+As the string wraps around the unit circle, each real number  on the string is 
+mapped onto a point (x, y) on the circle. Hence the real number line from 0 to ¢ 
+makes an arc of length f starting on the circle at (1, 0) and ending at the point 
+(x, y) on the circle. For example, since the circumference of the unit circle is 
+277 the number t = 277 will be wrapped anti-clockwise around the circle to the 
+point (1, 0). Similarly, the number ¢ = 7 will be wrapped anti-clockwise halfway 
+around the circle to the point (—1, 0) on the circle. And the number t = 7%7 
+will be wrapped clockwise one-quarter of the way around the circle to the point 
+(0, —1) on the circle. Note that each number  on the real number line is mapped 
+(corresponds) to exactly one point on the unit circle, thereby satisfying the 
+definition of a function. Consequently, this mapping is called a wrapping function. 
+Before we leave our mental picture of the string (representing the real number 
+line) wrapping around the unit circle, consider any pair of points on the string 
+that are exactly 277 units from each other. Let these two points represent the 
+real numbers t; and #; + 277. Because the circumference of the unit circle is 
+27, these two numbers will be mapped to the same point on the unit circle. 
+Furthermore, consider the infinite number of points whose distance from ¢, 
+is any integer multiple of 277 - that s, t, + k- 27, k € Z. Again, all of these 
+numbers will be mapped to the same point on the unit circle. Consequently, 
+the wrapping function is not a one-to-one function. Output for the function 
+(points on the unit circle) are unchanged by the addition of any integer 
+multiple of 277 to any input value (a real number). Functions that behave in 
+such a repetitive (or cyclic) manner are called periodic. 
+Trigonometric functio 
+The x- and y-coordinates of the points on the unit circle can be used to define 
+the trigonometric functions sine, cosine, and tangent. The names of these 
+functions are usually abbreviated as sin, cos, and tan, respectively. 
+When the real number ¢ is wrapped to a point (x, y) on the unit circle, the value 
+of the y-coordinate is assigned to the sine function; the x-coordinate is assigned 
+to the cosine function; and the ratio of the two coordinates, ;V—C, is assigned to the 
+tangent function. Sine, cosine, and tangent are defined by means of the length 
+of an arc on the unit circle as follows. 
+  
+  
+     
+   
+1 
+1 
+Let t be any real number and (x, y) a point on 
+sine+ 
+sine+ 
+the unit circle to which ¢ is mapped. Then the 
+cosine— 
+cosine+ 
+definitions of the trigonometric functions are: 
+tangent— 
+tangent+ 
+o 
+_ 
+_y 
+sinf=y 
+cost=x 
+tant=%,x%0 
+(1,0)x 
+    
+  
+  
+sine— 
+sine— 
+cosine— 
+cosine+ 
+tangent+ 
+tangent— 
+1 
+v 
+On the unit circle: x = cos f, y = sin . 
+Figure 5.10 Signs of the trigonometric 
+functions depend on the quadrant where 
+the arc ¢ terminates 
+A function fsuch that 
+foo=flx 
++ p)isa 
+periodic function. 
+1f p is the least positive 
+constant for which 
+fo = flx + p)is true, 
+then pis called the 
+period of the function. 
+We are surrounded by 
+periodic functions. A few 
+examples include: the 
+average daily temperature 
+during the year, sunrise 
+and the day of the year, 
+animal populations 
+over many years, the 
+height of tides and the 
+position of the Moon, 
+and electrocardiograms, 
+which give a visual image 
+of the hearts electrical 
+activity. 
+When trigonometric 
+functions are defined as 
+circular functions based 
+on the unit circle, radian 
+measure is used. The 
+values for the domain 
+of the sine and cosine 
+functions are real 
+numbers that are arc 
+lengths on the unit circle. 
+As we know from the 
+previous section, the arc 
+length on the unit circle 
+subtends an angle in 
+standard position whose 
+radian measure 
+is equivalent to the arc 
+length (see Figure 5.10). 
+159
+
+Evaluating the 
+trigonometric functions 
+for any value of ¢involves 
+finding the coordinates 
+of the point on the unit 
+circle where the arc of 
+length £ will ‘wrap to’ (or 
+terminate) starting at the 
+point (1, 0). It s useful to 
+remember that an arc of 
+length 7ris equal to one- 
+half of the circumference 
+of the unit circle. All 
+of the values for tin 
+Example 5.6 are positive, 
+s0 the arc length will 
+wrap along the unit circle 
+in an anti-clockwise 
+direction. 
+160 
+Trigonometric functions and equations 
+‘We can use the definitions for the three trigonometric, or circular, functions to 
+evaluate them for some ‘easy’ values of . 
+Example 5.6 
+Evaluate the three trigonometric functions for each value of t. 
+@ t=0 
+®i=T 
+ ©t=7 
+(d)t:%’r 
+() t=2m 
+1 
+Solution 
+(a) Anarc of length # = 0 has no length so it terminates at the point (1, 0). 
+By definition: 
+sin0'==H0 
+cos0i= 
+  
+(b 
+An arc oflength t = %T is equivalent to 
+one-quarter of the circumference of the 
+unit circle, so it terminates at the point (0, 1). 
+   
+By definition: 
+S 
+SN 
+VeI 
+5 
+T 
+o 
+o2 
+Arclength of 
+3 or one-quarter 
+an 771 =Y = % ioahdfned 
+of an anti-clockwise revolution 
+5 
+(c) Anarc of length t = 77 is equivalent to 
+one-half of the circumference of the unit 
+circle, so it terminates at the point (—1, 0). 
+By definition: 
+singr =1y =10 
+Cosmse =l 
+  
+P 
+O 
+Arc length of 7 or one-half of an 
+= 
+anti-clockwise revolution 
+3w 
+2l 
+three-quarters of the circumference of the 
+unit circle, so it terminates at the point 
+(0, —1). By definition: 
+(d) Anarc of length t = =~ is equivalent to 
+s S 
+sin 
+y 
+  
+Arclength of%" or three-quarters 
+of an anti-clockwise revolution 
+  
+is undefined
+
+ 
+(e) An arc of length t = 277 terminates at the same 
+e 
+% 
+point as an arc of length t = 0, so the values 
+of the trigonometric function are the same as 
+(1,0 
+those found in part (a): 
+> 
+2m 
+sin0 =y =0 
+cosOi=x =1t 
+0 
+tan0 = };’ S 
+Arclength of 277 or one full 
+anti-clockwise revolution 
+Domains of the three trigonometric functions 
+fio=sint and fi) =cost 
+ domain: {t:t€ R} 
+fit = tant 
+domzm:{:::eR,r:’lemkez} 
+From our previous discussion of periodic functions, we can conclude that all 
+of the trigonometric functions are periodic. Given that the sine and cosine 
+functions are generated directly from the wrapping function, the period of each 
+of these functions is 2. That is, 
+sint = sin(t + k-2m), k € Z and cost = cos(t + k-2m, k€ Z 
+Initial evidence from Example 5.6 indicates that the period of the tangent 
+function is 7. That is, tant = tan(t + k-7, k € Z. 
+  
+Evaluati 
+  
+trigonometric functi 
+  
+  
+         
+ 
+ 
+(=2,-4 
+% 
+-3 
+V3 
+5 
+(3 
+0, —1) 
+- 
+Figure 5,11 Arc lengths that are multiples of 
+7 divide 
+Figure 5,12 Arc lengths that are multiples of 7 divide 
+the unit circle into eight equally spaced points 
+the unit circle into twelve equally spaced points 
+You will find it very helpful to know the exact values of sine and cosine for 
+numbers that are multiples of %T and 17: from memory. Use the unit circle 
+diagrams shown in Figures 5.11 and 5.12 as a guide to help you do this and to 
+visualise the location of the terminal points of different arc lengths. With the 
+symmetry of the unit circle and a point’s location in the coordinate plane telling 
+us the sign of 
+x and 
+y (see Figure 5.10), we need to remember only the sine and 
+cosine of common values of # in the first quadrant and on the positive x- and 
+y-axes. These are organised in Table 5.1. 
+161
+
+Trigonometric functions and equations 
+  
+  
+  
+  
+  
+  
+t 
+sinf 
+cost 
+tant 
+0 
+0 
+1 
+0 
+- 
+L 
+3 
+3 
+6 
+2 
+2 
+3 
+- 
+2 
+vz 
+1 
+4 
+2 
+2 
+T 
+V3 
+1 
+= 
+b 
+2 
+. 
+3 
+3 
+2 
+¢ 
+g 
+1 
+0 
+| undefined 
+ 
+ 
+ 
+ 
+   
+Table 5.1 
+The sine, cosine, and tangent functions evaluated for special values of ¢ 
+TaT T 
+T 
+: 
+13" then the approximate values of the 
+trigonometric functions can be found using your GDC. 
+If t is not a multiple of 
+If s and t are coterminal arcs (i.e. terminate at the same point) then the 
+trigonometric functions of 
+s are equal to those of ¢. That is, sins = sint, 
+  
+  
+  
+coss = cost, and so on. For example, the arcs s = 37" andt = *%T are 
+coterminal (Figure 5.13). Thus, sin 37" = sin( *%), tan 32—7 = tan( = 727), and 
+s0 on. 
+Figure5.13 Coterminal 
+arcs 2T and 7 
+P 
+2 
+1. By knowing the ratios of sides in any triangle 
+b 
+with angles measuring 30°, 60° and 90° (see 
+60° 
+2x 
+diagram), find the coordinates of the points 
+on the unit circle where an arc of length ¢ = g 
+N 
+andt = %T terminate in the first quadrant. 
+V3x 
+2. The diagram of quadrant I of 
+the unit circle shown indicates 
+angles in intervals of 10 degrees 
+and also indicates angles in 
+radian measure of 0.5, 1, and 
+1.5. Use the diagram and the 
+definitions of the sine and 
+cosine functions to approximate 
+each function value to one 
+decimal place. Check your 
+answers with your GDC (be 
+sure to be in the correct angle 
+measure mode). 
+(a) cos50° 
+(b) sin80° 
+(c) cosl 
+  
+162
+
+(d) sin0.5 
+(e) tan70° 
+(f) cosl.5 
+(g) sin20° 
+(h) tanl 
+. tis the length of an arc on the unit circle starting from (1, 0). For each 
+value of t: 
+(i) 
+State the quadrant in which the terminal point of the arc lies. 
+(ii) Find the coordinates of the terminal point (x, y) on the unit circle. 
+Give exact values for x and y if possible. Otherwise approximate to 
+three significant figures. 
+@ =2 
+® t=27 
+©=I1 
+(d)t:3777 
+(e) t=2 
+(f)t:—% 
+(g t=—1 
+) t= —5{ 
+©) =25 
+. State the exact value (if possible) of the sine, cosine, and tangent of each 
+real number. 
+s 
+57 
+37 
+(a) 3 
+(b) G 
+(o) 
+O 
+@7 
+@ 22 
+® 37 
+® 3 
+®) 2% 
+@ t=125m 
+. Use the periodic properties of the sine and cosine functions to find the 
+exact value of sinx and cosx. 
+@ x=27 
+®) 
+=127 
+_Is 
+_17m 
+() x= 
+s 
+(d) x 
+5 
+. Find the exact function values, if possible. Do not use your GDC. 
+(@) cosSS—" 
+(b) sin315° 
+© m%” 
+. Find the exact function values, if possible. Otherwise, find the 
+approximate value accurate to three significant figures. 
+(a) sin2.5 
+(b) cossTTr 
+(c) tan 
+. Specify in which quadrant(s) an angle 6 in standard position could be 
+for each set of conditions. 
+(a) sinf >0 
+(b) sinf > 0 and cosf <0 
+(c) 
+sinf < 0and tanf >0 
+(d) cosf < 0and tanf < 0 
+(e) cosh >0 
+163
+
+  
+sin(2.53) 
+.5741721484 
+sin(2.53+2m) 
+.5741721484 
+sin(2.53+4m) 
+.5741721484 
+Figure 5.14 The period of 
+y = sinxis 27 
+ 
+ 
+  
+    
+(cost, sint) 
+Figure 5.15 The coordinates of 
+the terminal point of arc ¢ give 
+the values of cost and sint 
+Trigonometric functions and equations 
+Graphs of trigonometric functions 
+From the previous section, we know that trigonometric functions are periodic; 
+that is, their values repeat in a regular manner. The graphs of the trigonometric 
+functions should provide a picture of this periodic behaviour. In this section, 
+we will graph the sine, cosine, and tangent functions and transformations of the 
+sine and cosine functions. 
+Graphs of the sine 
+cosine functiol 
+Since the period of the sine function is 277, we know that two values of ¢ (domain) 
+that differ by 27 will produce the same value for y (range). This means that any 
+portion of the graph of y = sint with 
+a t-interval of length 27 (called one period 
+or cycle of the graph) will repeat. Remember that the domain of the sine function 
+is all real numbers, so one period of the graph of y = sint will repeat indefinitely 
+in the positive and negative direction. Therefore, in order to construct a complete 
+graph of y = sint, we need to graph just one period of the function; for example, 
+from t = 0 to t = 277, and then repeat the pattern in both directions. 
+‘We know from the previous section that sint is the y-coordinate of the terminal 
+point on the unit circle corresponding to the real number ¢ (Figure 5.10). 
+In order to generate one period of the graph of y = sint, we need to record the 
+y-coordinates of a point on the unit circle and the corresponding value of t as the 
+point travels anti-clockwise one revolution starting from the point (1, 0). These 
+values are then plotted on a graph with ¢ on the horizontal axis and y (sint) on the 
+vertical axis. Figure 5.16 illustrates this process in a sequence of diagrams. 
+  
+AN 
+  
+  
+¥y 
+T 
+™ 
+3 
+o 
+t 
+T 
+) 
+31 
+o 
+t 
+2 
+2 
+L 2N 
+2 
+y 
+7 
+™ 
+T 
+3 
+o 
+t 
+T 
+S 
+3 
+o 
+t 
+2 
+2 
+anst 
+e seenni 
+2 
+y 
+y 
+T 
+™ 
+S 
+o 
+t 
+T 
+S 
+3 
+w 
+t 
+2 
+2 
+2 
+2 
+ 
+ 
+Figure 5.16 Graph of the sine function for 0 < t < 27 generated from a point travelling along the unit circle 
+164
+
+As the point (cost, sint) travels along the unit circle, the 
+x-coordinate (cost) goes through the same cycle of values 
+as the y-coordinate (sinf) does. The only difference is that 
+the x-coordinate begins at a different place in the cycle; 
+when ¢ = 0, y = 0, but x = 1. The result is that the graph 
+of y = cost is the exact same shape as y = sint but 
+has been shifted to the left by 177 units. The graph 
+  
+of y = cost for 0 < t = 27ris shown in Figure 5.17. 
+denote the variable in the domain of the 
+function. Hence, from here on we will 
+—ar 
+= 
+_ o 
+_}\4 
+NS 
+N AT 
+use the letter x rather than t and write 
+the trigonometric functions as y = sinx, 
+y = cosx,and 
+y = tanx. 
+/q‘ 
+Figure 5.18 shows the graphs of y = sinx 
+T NG 
+NGz 
+_1{ 
+- 
+o 
+- 
+% 
+The convention is to use the letter x to 
+y { 
+1 
+  
+and 
+y = cosx for —47 < x < 4m 
+! 
+Aside from their periodic behaviour, these 
+ Figure5.18 Graphs of y = sinxand y = cosx for —dm = t < 4 
+graphs reveal further properties of the graphs 
+of y = sinx and y = cosx. Note that the sine function has a maximum value 
+ofy=1forallx = g + k- 2w,k € Z, and has a minimum 
+value of y = —1 
+forall x = k- 2, k € Z. The cosine function has a maximum value of y = 
+1 
+forall x = k- 2@, k € Z, and has a minimum value of 
+y = —1 for all 
+x =+ k-2 
+k € Z. This also confirms that both functions have a domain 
+of all real numbers and arange of —1 < y < 1. 
+Graphs of transformations of the sine an 
+cosine functions 
+  
+In Section 1.5, we learned how to transform the graph of a function by 
+horizontal and vertical translations, by reflections in the coordinate axes, and 
+by stretching and shrinking, both horizontally and vertically. 
+Review of transformations of graphs of functions 
+Assume that a, b, ¢, and d are real numbers. 
+  
+To obtain the graph of 
+From the graph of y = fix) 
+  
+Translate d units up for d > 0, d units down for d < 0 
+‘Translate ¢ units left for ¢ > 0, ¢ units right for ¢ < 0 
+-flx) 
+Reflect in the x-axis 
+y=af® 
+Vertical stretch (a > 1) or shrink (0 < a < 1) of factor a 
+Reflect in the y-axis 
+1 
+Horizontal stretch (0 < b < 1) or shrink (b > 1) of faclor; 
+     
+ 
+ 
+ 
+  
+  
+In this section we will look at the composition of sine and cosine functions of 
+the form fix) = asin[b(x + ¢)] + d and fix) = acos[b(x + ¢)] + d. 
+165
+
+166 
+Trigonometric functions and equations 
+Example 5.7 
+Sketch the graph of each function on the interval —7 < x < 3. 
+  
+(a) floo = 2cosx 
+(b) 
+gx) = cosx +3 
+(c) h(x)=2cosx + 3 
+(d) 
+px) = %sinx & 
+Solution 
+(a) Since a = 2, the graph of y = 2 cosx is obtained by stretching the graph 
+of y = cosx vertically by a factor of 2. 
+- 
+9 
+T 
+21 
+3 
+* 
+-1 
+y = cosx 
+2 
+y=2cosx 
+(b) Since d = 3, the graph of y = cosx + 3 is obtained by translating the 
+graph of y = cosx up by 3 units. 
+  
+  
+=3 
+  
+  
+   
+%, 
+y=cosx+3 
+- 
+0 
+T 
+27 
+3m 
+x 
+-1 
+y = cosx 
+  
+(c) We can obtain the graph of y = 2 cosx + 3 by combining both of the 
+transformations to the graph of y = cosx performed in parts (a) and (b), 
+namely, a vertical stretch of factor 2 and a translation 3 units up. 
+y=3 
+y=2cosx+3 
+  
+T 
+2r 
+3 
+X 
+y =cosx 
+ 
+
+(d) The graph of y = —smx — 2can be obtained by shrinking the graph of 
+y = sinx Vertlcally by a factor of and then translating it down 2 units. 
+o 
+1 
+y=sinx 
+  
+In Example 5.7 (a), the graph of y = 2 cosx has many of the same properties as 
+the graph of y = cosx: it has the same period, and the maximum and minimum 
+values occur at the same x values. However, the graph ranges between —2 and 2 
+instead of -1 and 1. This difference is best described by referring to the graph’s 
+amplitude. The amplitude of y = cosx is 1 and the amplitude of y = 2 cosx 
+is 2. The amplitude (always positive) is not always equal to the maximum 
+value. In (b), the amplitude of y = cosx + 3 is 1, in (c) the amplimde of 
+y = 2cosx + 3is 2, and in (d) the amplitude of y = —smx —21 is 5. L Forall 
+three of these, the graphs oscillate about the horlzontal midline y d. To find 
+the graph’s amplitude, we look at how high and low it oscillates with respect to 
+the midline. With respect to the general form y = afx), changing the amplitude 
+is equivalent to a vertical stretching or shrinking. Thus, we can give a more 
+precise definition of amplitude in terms of the parameter a. 
+Amplitude of the graph of sine and cosine functions 
+‘The graphs of flv) = asin[bx + ] + dand fix) = acos[bix + ¢)] + d have an amplitude 
+equal to |a]. 
+Example 5.8 
+‘Waves are produced in a long tank of water. The depth of the water, d metres, 
+at t seconds at a fixed location in the tank is modelled by the function 
+dity=M cos(%r t) + K, where M and K are positive constants. The diagram 
+on the next page shows the graph of d(#) for 0 < ¢ < 12 indicating that the 
+point (2, 5.1) is a minimum and the point (8, 9.7) is a maximum. 
+(a) Find the value of K and the value of M. 
+(b) After t = 0, find the first time when the depth of the water is 9.7 metres. 
+167
+
+Trigonometric functions and equations 
+  
+  
+Solution 
+(a) The constant K is equivalent to the constant d in the general form 
+fix) = acos[b(x + ¢)] + d. To find the value of K and the equation of 
+the horizontal midline, y = K, find the average of the function’s 
+O\78t= SNl 
+maximum and minimum values: K = = = 7.4 
+The constant M is equivalent to the constant a in the general form - its 
+absolute value is the amplitude. The amplitude is the difference between 
+the function’s maximum value and the midline: 
+|M|=9.7-74=23.90,M=230rM=—-23 
+Try M = 2.3 by evaluating the function at one of the known values. 
+d2) =23 cos(l;(Z)) +74=23cosm+ 7.4 =23(—1) + 7.4 =51 
+This agrees with the point (2, 5.1) on the graph. Therefore, M = 2.3 
+(b) Maximum values of the function (d = 9.7) occur at values of t that differ 
+by a value equal to the period. The graph shows that the difference in 
+t-values from the minimum (2, 5.1) to the maximum (8, 9.7) is equivalent 
+to one and a half periods. Therefore, the period is 4 and the first time 
+after 
+t = 0 at whichd 
+= 9.7ist 
+= 4 
+All four of the functions in Example 5.7 had the same period of 277, but the 
+function in Example 5.8 had a period of 4. Because y = sinx completes one 
+period from x = 0 to x = 27, it follows that y = sinbx completes one period 
+from bx = 0 to bx = 2. This implies that y = sinbx completes one period 
+fromx=0tox = 2777 This agrees with the period for the function 
+din =23 cos(gt) + 7.4 in Example 5.8: period = 2777 = 2?77 = ZT"T 
+. %_ =4 
+2 
+168
+
+Note that the change in amplitude and vertical translation had no effect on the 
+period. We should also expect that a horizontal translation of a sine or cosine 
+curve should not affect the period. Example 5.9 looks at a function that is 
+horizontally translated (shifted) and has a period different from 2. 
+Example 5.9 
+Sketch the function fix) = sin(Zx o 2?‘”) 
+| 
+Solution 
+To determine how to transform the graph of y = sinx to the graph of 
+Y= sin(Zx o ZT"T) so that we can sketch the function, we need to make sure 
+the function is written in the form fix) = a sin[b(x + o] + d. Clearly,a = 1 
+and d = 0, but we need to take out a common factor of 2 from 2x + ZTTr to 
+getfix) = sin[Z(x e %T)] From the transformations studied in Chapter 1, 
+the graph of fis obtained by first translating the graph of y = sinx to the left 
+by g units and then applying a horizontal shrink of factor % The following 
+graphs show the two steps of transforming y = sinx to y = sin[Z(x aF g)l 
+5 
+1 
+. 
+y = sinx 
+= 
+0, 
+1\/'" 
+3 
+X 
+21 
+  
+/\ % e 
+N =i 
+9 
+\/r \/ﬁ 
+\f 
+A horizontal translation 
+e 
+1 
+of 
+a sine or cosine curve 
+= sin(2x) 
+is often referred to 
+b 
+asa phase shift. The 
+y:m(z ) 
+pi o 
+/\\ /\ 
+/~ 
+y i sfn(x + g)ﬂ.md 
+\/ \/ zn\// Br 
+Y’S‘“[z(’”?)] 
+= sin(2x) 
+both underwent a 
+phase shift of —g. 
+ 
+  
+Period and horizontal translation (phase shift) of sine and cosine functions 
+Given that b is a positive real number, y = asin[bx + ] + dand y = acos(blx + o] +d 
+havea period nf%’r and a horizontal translation (phase shift) of —c. 
+169
+
+170 
+Trigonometric functions and equations 
+Example 5.10 
+The graph of a function in the form y = acosbx is given below. 
+(a) Write down the value of a. 
+(b) Calculate the value of b. 
+16 
+  
+Solution 
+(a) The amplitude of the graph is 14. Therefore, a = 14. 
+(b) From inspecting the graph, we can see that the period is %’ 
+4 
+Graph of the tangent function 
+From work done earlier in this chapter, we expect that the behaviour of the 
+tangent function will be different from that of the sine and cosine functions. 
+In the previous section, we concluded that the function f(x) = tanx has a 
+Period:%”:ﬂ#b'rrZSTrﬁhZS 
+domain of all real numbers such that x # %T + km, k € Z, and that its range 
+is all real numbers. Also, the results for Example 5.6 led us to speculate that 
+the period of the tangent function is 7. This make sense since the identity 
+sinx 
+o5k informs us that tanx will be zero whenever sinx = 0, which 
+tanx =   
+occurs at values of x that differ by 7. The values of x for which cosx = 0, 
+causing tanx to be undefined (gaps in the domain), also differ by 7.
+
+As x approaches the values where cosx = 0, the value of tanx will become very 
+large - either very large negative or very large positive. Thus, the graph of 
+y = tanx has vertical asymptotes at x = 171 + km, k € Z. Consequently, the 
+graphical behaviour of the tangent function will not be a wave pattern such as 
+those produced by the sine and cosine functions, but rather a series of separate 
+curves that repeat every 7 units (Figure 5.19). 
+y=tanx 
+  
+S 
+wisTU 
+2 
+- 
+E 
+) 
+5 
+= 
+  
+| ~ 
+—6- 
+ 
+Figure 5.19 Graph of y = tanx for —277 < x < 27 
+The graph gives clear confirmation that the period of the tangent function is 7. 
+Although the graph of y = tanx can undergo a vertical stretch or shrink, it 
+does not have an amplitude since the tangent function has no maximum or 
+minimum values. However, other transformations can affect the period of the 
+tangent function. 
+Sketch each function. 
+(a) fi) = tan2x 
+(b) g 
+= tan[z(x _ ZI_T)] 
+] 
+Solution 
+(a) An equation in the form y = f(bx) indicates a horizontal shrink of fix) 
+T 
+by a factor of % Hence, the period of y = tan2x is% s 
+17
+
+172 
+Trigonometric functions and equations 
+iy =tan2x 
+  
+  
+(b) The graph of y = tan[Z(x = %’)] is obtained by first translating the 
+graph of y = tanx to the right by 77: units, and then applying a horizontal 
+shrink by a factor of % As for fix) = tan2x in part (), the period of 
+W s 
+  
+wln 
+O e 
+3'1- 
+» 
+y 
+4 
+y=tarfafe 
+)] 
+1. Without using your GDC, sketch a graph of each equation on the 
+interval —7 < x < 3m. 
+(a) y = 2sinx 
+(b) y = cosx — 2 
+© y= %cosx 
+@ y= sin(x = g) 
+(e) y = 
+cos(2x) 
+(f) y=1+ tanx 
+(g) y= sin(%) 
+(h) y= tan(x = g) 
+G y= cos(Zx - %)
+
+2. For each function: 
+(i) 
+Sketch the function for the interval — 7 < x < 57. Write down its 
+amplitude and period. 
+(ii) Determine the domain and range. 
+@) fio = %cosx -3 
+(b) g 
+= 3 sin(3x) — % 
+(0) gy =12 sin(%) +43 
+3. Each graph shows a trigonometric equation on the interval 0 < x < 12 
+that can be written in the form y = A sin(%x) + B. Two points - one 
+aminimum and the other a maximum - are indicated on each graph. 
+Find the values of A and of B for each function. 
+(2,10) 
+(6,4) 
+(2,8.6) 
+ 
+173
+
+Trigonometric functions and equations 
+4. 
+The graph of a function in the form y = p cosqx is given in the diagram. 
+(a) Write down the value of p. 
+(b) Calculate the value of g. 
+  
+  
+  
+  
+  
+MR 
+AT 
+TV 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+5. 
+The diagram shows part of the graph of a function whose equation is in 
+the form 
+y = asin(bx) + c. 
+(a) Write down the values of a, b, and c. 
+(b) Find the exact value of the x-coordinate 
+of the point P, the point where the 
+graph crosses the x-axis as shown in 
+the diagram. 
+  
+6. 
+The graph represents 
+y=asin(x +b) +¢ 
+where a, b, and c are 
+constants. Find values 
+fora, b,and c. 
+  
+ 
+174
+
+Trigonometric equations and 
+identities 
+The primary focus of this section is to examine methods for solving equations 
+that contain the sine, cosine, and tangent functions. For example, the following 
+are trigonometric equations: 
+sinx = 
+) 
+3cosx = 5sinx 
+tanx = 
+b 
+cosx 
+1 + 
+sinx = 3cos?x 
+sin?x + cos’x = 
+1 
+The equations tanx = S 
+and sin2x + cosx = 1 are examples of special 
+equations called identities. As we learned in Section 1.1, an identity is an 
+equation that is true for all possible values of the variable. The other equations 
+are true for only certain values of x. Identities can be helpful in solving 
+trigonometric equations by allowing us to simplify some trigonometric 
+expressions. Equations that contain trigonometric functions can often be solved 
+using the same graphical and algebraic methods used to solve other equations. 
+The unit circle and exact solutions to 
+trigonometric equations 
+  
+When we are asked to solve a trigonometric equation, there are two important 
+questions we need to consider: 
+1. 
+Isit possible, or required, to express any solution(s) exactly? 
+2. 
+For what interval of the variable (usually x) are all solutions to be found? 
+With regard to the first question, exact solutions are only attainable, in most 
+cases, if they are an integer multiple of % or % The variable for which we 
+are trying to solve in trigonometric equations is a real number that can be 
+interpreted as the length of an arc on the unit circle. As explained in Section 5.2, 
+arc lengths that are multiples of %7 or % commonly occur and it is important to 
+be familiar with the sine, cosine, and tangent of these numbers. 
+Concerning the second question, for most trigonometric equations there are 
+infinitely many values of the variable that satisfy the equation. In order to 
+restrict the number of solutions, we are asked for the solutions to be contained 
+within a suitable interval. For example, we may search for all the values of x 
+that solve an equation such that 0 < x < 277. Although it is certainly possible 
+to write a general expression using a parameter that specifies the infinite values 
+that solve a trigonometric equation (this is called the general solution), it is 
+not required for this course. A solution interval will always be given, as in the 
+next example. 
+175
+
+176 
+Trigonometric functions and equations 
+Find the exact solution(s) to the equation sinx = % for0=x<2m 
+  
+Solution 
+Recalling the definition of 
+D 
+the sine function, this equation 
+can be interpreted as asking 
+for the length, x, of arcs along 
+the unit circle that have a 
+terminal point with a 
+y= 
+   
+  
+y-coordinate equal to 7 
+We know from Section 5.2 
+that arc lengths of %T and 5?71' 
+‘unit circle 
+ 
+have terminal points with 
+y-coordinates of % (see diagram). 
+There are clearly an infinite number of arcs, both positive and negative, that 
+will terminate at the same points. 
+Thiscanbew‘rittenasx:%+k-27Tande%+k-21T,k€Z. 
+However, we are asked for solutions in the interval 0 < x < 277 
+Thus,x:%cvrx:%ﬂi 
+Another way to see that the equation sinx = % has infinitely many solutions 
+is to graph the equations y = sinxand y = %, as in Figure 5.20, and search for 
+intersection points, i.e. points where the two equations are equal. 
+  
+Figure 5.20 Graphs of y = sinxand y = 1 
+2 
+The graphs of the two equations will intersect repeatedly as they extend 
+indefinitely in both directions.
+
+Your GDC can be a very effective tool to search for solutions graphically. 
+However, it can be limited when exact solutions are required. The graph in 
+Figure 5.21 shows a graphical solution for the equation in Example 5.12. 
+  
+7 
+i 
+awl 
+as0n 
+17 
+fomnos 
+TS 
+g 
+£1x=singe) 
+Figure 5.21 Finding intersection points of y = sinxand y = %in theinterval 0 < x < 277 
+  
+  
+ 
+ 
+ 
+  
+The GDC gives the two solutions in the interval 0 =< x < 27as x = 0.524 and 
+X = 2.62. These are approximations (to 3 significant figures) of g and %’T 
+Therefore, if exact solutions are required, you will need to remember the 
+trigonometric function values for the multiples of %T and %T (see Table 5.1 in 
+Section 5.2). 
+Find the exact solution(s) to the equation 1 + tanx = 0 for —m <= x < 7. 
+I 
+ ———— 
+Solution 
+It is important to note that the solution 
+interval is different from Example 5.12. 
+With respect to the unit circle, the solutions 
+(— 
+58 
+will correspond to points in any of the four 
+quadrants (as in Example 5.12) but points 
+   
+    
+ 
+in quadrants ITT and IV will correspond to 
+) 
+arcs rotating clockwise (negative direction). 
+2 - 
+Solutions to this equation are values of x 
+uaitelde 
+such that tanx = —1. Since 
+tanx = % = %, any solutions will be in quadrants IT and IV, where the 
+x- and y-coordinates have opposite signs. The arcs terminating midway in 
+the quadrants will terminate at points having opposite values for x and y. 
+Therefore, as shown in the diagram, the 
+. 
+__m 
+_ 3w 
+solutions are exactly x = 
+e 
+It is possible to arrive at exact answers that are not multiples of %T or %, as the 
+next example illustrates. 
+177
+
+When writing the square 
+of a trigonometric 
+function, the square 
+symbol is often 
+written next to the 
+function name. 
+sin(x) is the same 
+as [sin(]? 
+cos2(x) is the same 
+as [cos(]2 
+tan?(x) is the same 
+as [tan(]? 
+178 
+Trigonometric functions and equations 
+Example 5.14 
+Find the exact solution(s) to the equation cosz(x = g) = % for0<x=<2m 
+| 
+Solution 
+3 
+The first step is to take the square root of both sides, remembering that every 
+positive number has two square roots, which gives 
+/ 1 
+2 
+The expression COSZ(X = E) can also be written as [cos(x = %T)] 
+cos(x = 737) =4/ 
+All of the odd integer multiples of%r ( o *%ﬂ, — 
+a3 
+,0,%, 
+,) have a 
+oly =¥ 
+= 
+cosine equal to either%or *g. That is, x — %T S %T +k- 
+Now, solve for x. 
+7m 
+7—+— 09 
+iy G 
+4 
+A 
+12 
+The last step is to substitute in different integer values for k to generate all 
+the possible values for x so that 0 < x < 2. 
+When k = 0:x = 27 
+12 
+ZATIQIRG 
+(i 
+| i 
+== L0 
+DI 
+0T 
+Whenk = 
+1: x 
+22 
+2 
+e 
+L2a_ 197 
+Whenk = 2:x = 12+ 
+2 
+o 
+_ 
+_ 
+187 
+_ 257 
+&< 
+- 
+, 
+5 
+Whenk =3 x = 2% 4 287 _ 
+= ==-, which is outside the required interval 
+12 
+12 
+12 
+257 
+L 
+as 
+= 
+27 
+SR 
+7 
+LG 7 
+Whenk 
+= 
+—1:x 
+212 
+12 
+There are four exact solutions in the interval 0 < x < 2. They are: 
+7 
+77w 137 
+197 
+B DR 
+D) 
+Check the solutions to trigonometric equations with your GDC. The GDC 
+images below verify the four exact solutions to the equation. 
+-5 
+1 
+. 
+18326 
+2001 
+«l2f2,0.5) 
+(3.4,0.5) 
+S 
+3.40339 
+(1.83)0.5) 
+(4.9%,0.5) 
+- 
+x 
+a.9m19 
+  
+0261759 
+Kl 
+1(9=[cos| 
+  
+s 
+  
+§ 
+  
+157 
+ 
+ 
+ 
+ 
+ 
+
+Graphical solutions to trigonometric equations 
+If exact solutions are not required, then a graphical solution using your GDC is 
+a very effective way to find approximate solutions to trigonometric equations. 
+Unless instructed to do otherwise, you should give approximate solutions to an 
+accuracy of three significant figures. 
+Let’s solve the equation in Example 5.13 again. If the instructions do not 
+explicitly ask for exact solutions, then approximate solutions are acceptable. 
+Find the solution(s) to the equation 1 + tanx = 0 for —m<x < 
+  
+Solution 
+Graph the equation y = 1 + tanx and find all of its zeros (x-intercepts) in 
+the interval —m<x <. 
+Plotl 
+Plot2 
+Plot3 
+x 
+\Y1gl+tan(X) 
+/ 
+-.7853981634, 
+\Y2= 
+[Ans+i m 2.35619449 
+  
+  
+  
+Zero, 
+X=-.7853982 
+[Y=0 
+  
+  
+  
+  
+  
+    
+This GDC images above indicate an approximate solution of x ~ —0.785 
+between —7rand 0. Since we know that the period of y = 
+1 + tanx is 7 
+(same as y = tanx), we can simply add 7 to this first solution to find the 
+one between 0 and 7, as shown in the final GDC image. Therefore, the two 
+solutions for x in the interval —7 < x < 7are: 
+x~ —0.785 and x ~ 2.36 (three significant figures). 
+Of course, a graphical approach is most effective when it is not possible, or very 
+difficult, to find exact solutions. 
+179
+
+180 
+Trigonometric functions and equations 
+Example 5.16 
+  
+The peak height, h metres, of ocean waves during a storm is given by the 
+equationh =9 + 451'11(%), where # is the number of hours after midnight. 
+A tsunami alarm is triggered when the peak height goes above 12.5 metres. 
+Find the value of t when the alarm first sounds. 
+  
+Solution 
+Graph the equations y = 9 + 4sm( ) and y = 12.5 and find the first point 
+of intersection for x > 0. 
+5 
+144 
+134 
+y=125 
+124 
+114 
+104 
+94 
+8 
+7| 
+6 
+5d 
+y =9+ 4sinf}) 
+  
+2] 
+ intersection: 
+x=21308716 
+y=125 
+   
+0 
+1 
+23456 
+7 
+8 9101112131415 
+1617 18 19 20 21 22 23 24 % 
+Analysing the graphs on a GDC shows that the first point of intersection has 
+an x-coordinate of approximately 2.13. Therefore, the alarm will first sound 
+when ¢ ~ 2.13 hours. 
+Analytic soluti 
+  
+to trigonometric equations 
+  
+Now we will see how combining algebraic techniques with trigonometric 
+identities can be used to solve trigonometric equations. An analytical approach 
+requires us to devise a solution strategy using algebraic methods that we 
+have applied to other types of equations, such as quadratic equations. Often 
+trigonometric equations that demand an analytic approach will result in exact 
+solutions, but not always. Although our approach for equations in this section 
+focuses on algebraic techniques, it is important to use graphical methods to 
+support or confirm our analytic solutions.
+
+Example 5.17 
+Although exact answers 
+were not required in 
+Solve 2sinx — sinx = 0for —m<x<m 
+Eramples 17 arenon 
+knowledge of the unit 
+| 
+circle and familiarity 
+e 
+with the sine of common 
+Solution 
+(e, 
+: 
+@ 
+m 
+We can factorise and apply the rule that if a 
+- b = 0 then eithera = 0 or b = 
+el e it 
+  
+‘we are able to give 
+2sin?x — sinx = 0 = sinx(2sinx — 1) = 0 = sinx = 0 
+or 
+sinx = i 
+exact answers without 
+2 
+any difficulty. It would 
+R e 
+have been acceptable 
+to give approximate 
+. 
+1 
+T 
+5T 
+solutions, but it is worth 
+HOrilgy = 2= GG 
+recognising that this 
+5 
+swould have required 
+Therefore, x = —, 0, 2, 27, 
+considerably more effort 
+6" 
+6 
+than providing exact 
+solutions. Entering and 
+The next example illustrates how the application of a trigonometric identity can 
+ilipl;‘s‘:ﬁzu:_ez::i: 
+help us to rewrite an equation in a way that allows us to solve it algebraically. 
+your GDC would not 
+be the most efficient or 
+appropriate solution 
+method, but if enough 
+time is available, it is an 
+Solve 3sinx + tanx = 0 for 0 < x < 27 
+effective way to confirm 
+‘your exact solutions. 
+  
+Example 5. 
+| 
+Solution 
+Since the structure of this equation is such that an expression is set equal to 
+zero, it would be nice to be able to use the same algebraic technique as the 
+previous example - that is, factorise and solve for when each factor is zero. 
+However, it is not possible to factorise the expression 3sinx + tanx, and 
+rewriting the equation as 3sinx = —tanx does not help. 
+Are there any expressions in the equation for which we can substitute an 
+equivalent expression that will make the equation accessible to an algebraic 
+solution? We do not have any equivalent expressions for sinx, but we do have 
+an identity for tanx. From the definition of tanx we know that 
+sinx 
+tanx = 
+. 
+cosx 
+> 
+. 
+sinx 
+Let’s see what happens when we substitute -/ for tanx. 
+sinx _ 
+3sinx + tanx = 0 = 3sinx + Cosc 
+  
+Now, multiply both sides by cosx while recognising that 
+cosx#O(x#%T+k~‘n',kEZ) 
+3sinx + % = 0= 3sinx cosx + sinx = 0 = sinx(3cosx + 1) = 0 
+= sinx = 0 or cosx = *% 
+Forsinx = 0:x = 0, 7, 27 
+181
+
+A strategy that often 
+proves fruitful is to try to 
+rewrite a trigonometric 
+equation in terms of 
+just one trigonometric 
+function. If that is 
+not possible, then try 
+to rewrite it in terms 
+of only the sine and 
+cosine functions. This 
+strategy was used in 
+182 
+Example 5.18. 
+Trigonometric functions and equations 
+We know that (1, 0) and (—1, 0) are the points on the unit circle that 
+correspond to sinx = 0, giving the three exact solutions above. Although we 
+know that the points on the unit circle that correspond to cosx = *% are in 
+quadrants IT and III, we do not know their exact coordinates. So, we 
+need a GDC to find approximate solutions to cosx = *% for0=x=<2m 
+¥ 
+= cosx 
+1 
+2 
+  
+i 
+ks 
+z 
+2t 
+_ s 
+7= 
+  
+(1.9106332, —0.3333333) 
+(43725521, —0.3333333) 
+ 
+Thus, for cosx = —%: X~ 191 or x &~ 4.37 (three significant figures). 
+Therefore, the full solution set for the equation is 
+x=0,m2mx~ 191,437 
+Trigo 
+etric identities 
+As Example 5.18 illustrated, sometimes an analytical method for solving a 
+trigonometric equation relies on a trigonometric identity providing a useful 
+sinx 
+cosx 
+required for this course. They can be used to help simplify trigonometric 
+expressions and solve equations. 
+substitution. There are a few trigonometric identities other than tanx =   
+At the start of this section, it was stated that the equation sin?x + cos?x = 
+1 is 
+an identity; that is, it is true for all possible values of x. Let’s prove that this is 
+the case. 
+Recall from Section 5.1 that the equation 
+y 
+for the unit circle is x> + y2 = 1. That is, the 
+coordinates (x, y) of any point on the circle 
+will satisfy the equation x? + y? = 
+1. Also, 
+in Section 5.2, we learned that the sine and 
+cosine functions are defined in terms of the 
+coordinates of the terminal point of an arc 
+on the unit circle starting at (1, 0), as shown ~ 
+unit circle 
+in Figure 5.22. 
+    
+   
+(cos t,sin 1) 
+(1,0)* 
+ 
+If t is any real number that is the length of an 
+arc on the unit circle thaft termma_tes :‘“ 5> 
+Figure5.22 sine and cosine functions 
+then x = cost and 
+y = sint. Substituting 
+defined in terms of the coordinates 
+directly into the equation for the circle gives 
+of the terminal point of an arc on the unit 
+in2 
+2 
+= 
+circle 
+sin’t 
++ cos*t = 
+1. 
+x=costy=sint
+
+As mentioned in the previous section, the convention is to use x to denote the 
+domain variable rather than t. Therefore, the equation sin®x + cos?x = 1is 
+true for any real number x. 
+‘The Pythagorean identities for sine and cosine 
+‘The following equations are true for all real numbers x: 
+sin?x + cos?x = 
+1 
+sinx =1 — cos2x 
+cos?. 
+sinx 
+   
+Another useful set of trigonometric identities is referred to as the double angle 
+identities because they are equations involving sin2x and cos2x. As discussed 
+back in Section 5.1, the argument of a trigonometric function 
+(xin sinx, € in cosf) can be interpreted as an angle (in degrees or radians), 
+or as just a real number. Even though these identities are called double angle 
+identities, they apply for either interpretation. 
+Double angle identities for sine and cosine 
+‘The following equations are true for all real numbers x: 
+sin2x = 2sinxcosx 
+cos?x — sin?x 
+cos2x = { 2cos?x — 
+1 
+1—2sin2x 
+It is quite easy to verify the double angle identities by means of graphical 
+analysis on your GDC. The GDC screen images shown in Figure 5.23 illustrate 
+that sin2x is equivalent to 2 sinx cosx. Use your GDC to verify that cos2x 
+is equivalent to cos?x — sin2x. Once the identity cos2x = cos?x — sin?x 
+is established, we can use one of the Pythagorean identities to rewrite it in 
+terms of only sine or only cosine, thus establishing the other two double angle 
+identities for cosine. 
+€os2x = cos?x — sin?x 
+c0os2x = cos’x — (1 — cos?x) ~ Substitute 1 — cos?x for sin’x 
+cos2x = 2cos’x — 
+1 
+Similar steps can be performed to show that cos2x = 
+1 — 2sin’x 
+  
+Plotl 
+Plot2 
+Plot3 
+\Yi1Esin(2X) 
+\Y2 
+\Y3 
+\Y4 
+\Y5 
+\Ye 
+\Y7= 
+  
+  
+  
+  
+Plotl 
+Plot2 
+Plot3 
+\Y1E2sin(X)cos 
+(X 
+). \Y2 
+  
+  
+ 
+  
+ 
+ 
+  
+  
+Figure 5.23: GDC screens showing that sin 2x is equivalent to 2 sin 
+x cos x 
+‘The identity 
+sinx + cos2x = lis 
+often referred to as a 
+Pythagorean identity 
+because, as we will see 
+in the next chapter, sinx 
+and cosx can represent 
+the legs of a right triangle 
+with a hypotenuse equal 
+to one. Substituting into 
+the Pythagorean theorem 
+gives sin?x + cosx = 1. 
+183
+
+184 
+Trigonometric functions and equations 
+Now let’s see how these identities can help us with algebraic solutions of 
+trigonometric equations. 
+Solve the equation cos2x + cosx = 0 for 0 < x < 27 
+  
+Solution 
+g 
+. 
+¥ = cos2x + cosx 
+  
+e 
+Taking an initial look at the graph of y = cos2x + cosx suggests that there are 
+possibly three solutions in the interval x € [0, 277]. Although the expression 
+c0s2x + cosx contains terms with only the cosine function, it is not possible 
+to perform any algebraic operations on them because they have different 
+arguments. In order to solve algebraically, we need both cosine functions 
+to have arguments of x (rather than 2x). There are three different double 
+angle identities for cos2x. It is best to have the equation in terms of one 
+trigonometric function, so we choose to substitute 2 cos?x — 1 for cos2x. 
+  
+€0s2x + cosx = 0 = 2cos’x — 1 + cosx = 0 = 2cos?x + cosx — 
+0 
+(2cosx — 1)(cosx + 1) = 0 = cosx = 1 orcosx = —1 
+2 
+i 
+T 
+57 
+HrEuse 
+= i == == 
+B 
+[Borcosx==15x =45 
+Therefore, the solutions in the interval 0 < x < 2 
+are: x = g, T, 57‘” 
+Example 5.20 
+(a) Express 2cos’x + sinx in terms of sinx only. 
+(b) Solve the equation 2cos 2x + sinx = —1 for x in the interval 0 < x < 2, 
+expressing your answer(s) exactly.
+
+L] 
+Solution 
+(a) 2cos?x + sinx = 2(1 — sin®x) + sinx 
+ Use the Pythagorean identity 
+cos2xi= 
+= sin2x 
+2cos?x + sinx = 2 — 2sin’x + sinx 
+(b) 
+2cosx + sinx = —1 
+2 — 2sin?x + sinx = —1 
+Substitute result from (a) 
+2sin?x — sinx —3 =10 
+(2sinx — 3)(sinx + 1) = 0 
+si.nx:%Orsinx: = 
+For sinx = i, 1o solution because % is not in the range of the sine 
+function. 
+For sinx = *l,x:%’r 
+Therefore, there is only one solution in 0 < x < 277, which is x = 377" 
+Use your GDC to check this result by rewriting 2 cos?x + sinx = —1 
+as 2cos?x + sinx + 
+1 = 0 and then graph 
+y = 2cos?x + sinx + I, 
+confirming a single zero at x = ST’” in the interval x € [0, 2] 
+  
+Plotl 
+Plotz 
+Plot3 
+X 
+\Y1Z2(cos(X))%+s 
+4.712388457 
+(X)+1 
+3m/2 
+& 
+4.71238898 
+zZero, 
+\Ye= 
+X=4.7123885 Y=0 
+ 
+  
+  
+ 
+  
+Solve the equation 2sin2x = 3 cosx for 0 < x < 77 
+| 
+Solution 
+2sin2x = 3cosx 
+2(2sinxcosx) = 3cosx 
+Use double angle identity for sine 
+4sinxcosx = 3 cosx 
+Do not divide by cosx; solution(s) 
+may be eliminated 
+185
+
+186 
+Trigonometric functions and equations 
+4sinxcosx — 3cosx = 0 
+Set equal to zero to prepare for solving 
+by factorisation 
+cosx(4sinx — 3) =0 
+Factorise 
+3 
+cosx 
+= 0 or sinx = 
+4 
+For cosx = 0: x = 171 
+For sinx = % X~ 0.848 or 2.29 
+Approximate solutions can be found using on a GDC. All solutions in 
+interval 0 < x < 7 are: x = 
+5 x ~ 0.848, 2.29 
+  
+  
+2 
+. 
+(0.84806208, 0.75) 
+(2.2935306, 0.75) 
+1 
+Vi 
+y=sinx 
+. 
+i 
+£ 
+¥ 
+¥ 
+ 
+The final example illustrates how trigonometric identities can be applied to find 
+exact values for trigonometric expressions. 
+Given that cosx = iand that0 <x < g, find the exact values of: 
+(a) sinx 
+(b) sin2x 
+  
+Solution 
+(a) Given0 s x < g, it follows that sinx > 0, because the arc with length x 
+will terminate in the first quadrant. The Pythagorean identity is useful 
+when relating sinx and cosx. 
+sin2x = 
+1 — cos2x 
+= sinx = V1 
+— cos’x 
+= sinx 
+= /1 — 
+—5—— 
+- 
+(b) sin2x = 2sinxcosx = 2| 
+1 
+3
+
+Summary of trigonometric identities 
+o 
+; 
+_ sinx 
+Definition of tangent function: 
+~tanx = -7 
+Co-function identities: 
+sin(%r —x) = cosx 
+cos(ﬂ —x) =sinx 
+2 
+Pythagorean identities: 
+sin2x + cos?x = 1 
+sin2x = 
+1 — cos?x 
+cos?x =1~ sin’x 
+Double angle identities: 
+sin2x = 2sinxcosx 
+cos2x = 
+cos?x — sin?x 
+cos2x = 2cos?x — 
+1 
+cos2x =1 — 2sin’x 
+1. Find the exact solution(s) for each equation for 0 < x < 2. 
+Verify your solution(s) with your GDC. 
+  
+(a) cosx= % 
+(b) 2sinz £ 1=0 
+() 
+1 —tanx=10 
+(d) 
+V3 = 2sinx 
+(e) 2sin?x =1 
+(f) 4cos’x =3 
+(g) tan’x —1=10 
+(h) 4cos’x =1 
+(i) 
+tanx(tanx +1) =0 
+(j) 
+sinxcosx =0 
+2. Use your GDC to find approximate solution(s) for 0 < x < 27 for each 
+equation. Express solutions accurate to three significant figures. 
+(a) 
+sinx=0.4 
+(b) 3cosx +1=0 
+(c) tanx =2 
+(d) sin2x = 0.85 
+(e) cos(x — 1) = —0.38 
+(f) 3tanx = 10 
+3. Given that k is any integer, list all of the possible values for x that are in 
+the specified interval for each expression. 
+(a)g+k-m—3n5xs3w 
+(b)%+k-2n,—z7rsxszn 
+20 
+tonlene 
+K 
+e 
+© G +k-m0<x<2m 
+@ F+k-J.0<x<dn 
+4. Find the exact solutions for 0 < x < 2 for each equation. 
+(a) cos(x o %) = *% 
+(b) tan(x + m) =1 
+(c) sin2x = g 
+(d) si.nz(x e g) = % 
+187
+
+188 
+Trigonometric functions and equations 
+5. The number, N, of empty birds’ nests in a park is approximated by the 
+function N = 74 + 42 sin(% t), where t is the number of hours after 
+midnight. Find the value of t when the number of empty nests first 
+equals 90. Approximate the answer to one decimal place. 
+. In Edinburgh, the number of hours of daylight on day D is modelled by 
+the function 
+. 
+[27 
+H =12 
++ 7.26sin| 
+——(D 
+— 80) 
+sm[365( 
+)] 
+where D is the number of days after December 31 (e.g. January 1 is 
+D = 1, January 2 is D = 2, and so on). Do not use your GDC on part (a). 
+(a) Determine which days of the year have 12 hours of daylight. 
+(b) Determine which days of the year have about 15 hours of daylight. 
+(c) Find how many days of the year have more than 17 hours of daylight. 
+. Solve each equation for the stated solution interval. Find exact solutions 
+when possible, otherwise give solutions to three significant figures. 
+Verify solutions with your GDC. 
+(a) 2cos’x + cosx = 0; 0 < x <27 
+(b) 2sin2x — sinx — 1 = 0;0 < x < 27 
+(c) 2cosx + sin2x = 0; —w<x <1 
+(d) 2sinx = cos2x; —T=x=m 
+(e) tan’x — tanx = 2; —g <x< g 
+(f) sin2x=cos’x0<x<m 
+(g) 2sin’x + 3cosx — 3= 0;0<x <27 
+(h) 2sinx = 3cosx; 0 < x < 277 
+. Given that sinx = % and that 0 < x < %T, find the exact values of 
+(a) cosx 
+(b) cos2x 
+(c) sin2x 
+. Given that cosx = *% and that %T < x < 
+1, find the exact values of 
+(a) 
+sinx 
+(b) 
+sin2x 
+(c) cos2x 
+Chapter 5 practice questions 
+1. A toy on an elastic string is attached to the top of a doorway. It is pulled 
+down and released, allowing it to bounce up and down. The length of the 
+elastic string, L cm, is modelled by the function L = 110 + 25 cos(27t), 
+where t is time in seconds after release. 
+(a) Find the length of the elastic string after 2 seconds.
+
+(b) Find the minimum length of the string. 
+(c) Find the first time after release that the string is 85 cm. 
+(d) What is the period of the motion? 
+. 
+Find the exact solution(s) to the equation 2sin?x — cosx — 
+1 =0 
+. The diagram shows a circle of radius 6 cm. 
+The perimeter of the shaded sector is 36 cm. 
+Find the radian measure of the angle 6. 
+. Consider the two functions fix) = cos4x and g(x) = cos(%). 
+(a) Write down: 
+(i) 
+the minimum value of the function f 
+(ii) the period of g. 
+(b) For the equation fix) = g(x), find the number of solutions in the 
+interval 0 < x < 7. 
+. A reflector is attached to the spoke of a bicycle wheel. As the wheel 
+rolls along the ground, the distance, d cm, that the reflector is above the 
+ground after ¢ seconds is modelled by the function 
+d=p + qsinl2T) 
+where p, g, and m are constants 
+The distance d is at a maximum of 64 cm at t = 0 seconds and at 
+t = 0.5 seconds, and is at a minimum of 
+6 cm at t = 0.25 seconds and 
+at t = 0.75 seconds. Write down the value of: 
+@ p 
+®) q 
+() m 
+. Find all solutions to 
+1 + sin3x = cos(0.25x) such that x € [0, 7]. 
+. Find all solutions to each trigonometric equation in the interval 
+x € [0, 277]. Express the solutions exactly. 
+(a) 2cos’x + 5cosx +2 =0 
+(b) sin2x — cosx = 0 
+. The value of xisin the interval 7 < x < 7rand cos®x = %- 
+Without using your GDG, find the exact values for the following: 
+(a) sinx 
+(b) cos2x 
+(c) sin2x 
+189
+
+Trigonometric functions and equations 
+9. The depth, d m, of water in a harbour varies with the tides during each 
+day. The first high (maximum) tide after midnight occurs at 5:00 a.m. 
+with a depth of 5.8 metres. The first low (minimum) tide occurs at 
+10:30 a.m. with a depth of 2.6 metres. 
+(a) Find a trigonometric function that models the depth, d, of the water 
+t hours after midnight. 
+(b) Find the depth of the water at 12 noon. 
+(c) Alarge boat needs at least 3.5 metres of water to dock in the 
+harbour. Determine the time interval after 12 noon during which 
+the boat can dock safely? 
+10. Solve the equation tan®x + 2tanx —3 =0 
+for 
+0 <x<m. 
+Give solutions exactly if possible, otherwise give to three significant 
+figures. 
+5 
+g 
+A 
+B 
+11. The diagram shows a circle of centre O 
+and radius 10 cm. The arc ABC 
+subtends an angle of % radians at 
+c 
+the centre O. 
+w 
+10cm 
+(a) Find the length of the arc ABC. 
+2 
+(b) Find the area of the shaded region. 
+12. Consider the function fix) = %cos(Zx = %T) Find the values of k for 
+which the equation fix) = k will have no solutions. 
+¥ 
+13. The diagram shows a 
+3 
+) 
+portion of the graph of 
+y =k + asinx. The graph 
+passes through the points 
+(0,1)and (37" 3)A Find the 
+value of k and the value of a. 
+  
+14. The obtuse angle B is such that tanB = 71—52. Find the exact values of 
+(a) sinB 
+(b) 
+cosB 
+(c) sin2B 
+(d) 
+cos2B 
+190

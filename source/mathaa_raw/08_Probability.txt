@@ -1,0 +1,2830 @@
+ 
+
+Itis important to 
+distinguish between 
+‘randon and ‘haphazard® 
+(or chaos). At first glance 
+they might seem to be 
+the same because neither 
+of their outcomes can be 
+anticipated with certainty. 
+However, random 
+events have a long-term 
+predictability, where 
+‘haphazard events do not. 
+308 
+Probability 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« 
+the concepts of trial, outcome, equally likely outcomes, sample space (U) 
+and event 
+(4) 
+« 
+the 
+probability 
+of 
+t A as P(4) = T2 
+EP[’O al 11y0 
+an even 
+as 
+n(U) 
++ 
+complementary events A and A’ (not A), and the identity P(A) + P(A) = 
+1 
+« 
+combined events and use of the formula 
+P(AUB) = P(A) + P(B) — P(AN B) 
++ 
+mutually exclusive events and the fact that P(A N B) = 0 
+- 
+e 
+P(ANB) 
+« 
+conditional probability and the formula P(A|B) = T 
+« 
+probabilities of independent events: P(A|B) = P(A) = P(A|B) 
+« 
+the use of Venn and tree diagrams and tables of outcomes to solve problems. 
+Now that we have learned to describe a data set in Chapter 7, how can we 
+use sample data to draw conclusions about the populations from which we 
+drew our samples? The techniques we use in drawing conclusions are part of 
+inferential statistics. Inferential statistics uses probability as one of its tools. 
+To use this tool properly, we must first understand how it works. This chapter 
+will introduce you to the language and basic tools of probability. 
+The variables we discussed in Chapter 7 can now be redefined as random 
+variables, whose values depend on the chance selection of the elements in 
+the sample. Using probability as a tool, later in Chapter 12, you will be able 
+to create probability distributions that serve as models for random variables. 
+You can then describe these using a mean and a standard deviation. 
+Randomness 
+Probability is the study of randomness and uncertainty. 
+The reasoning in statistics rests on asking, ‘How often would this method give a 
+correct answer if I used it very many times?” When we produce data by random 
+sampling or by experiments, the laws of probability enable us to answer the 
+question ‘What would happen if we did this many times?’ 
+‘What does ‘random’ mean? In ordinary speech, we use ‘random’ to denote 
+things that are unpredictable. Events that are random are not perfectly 
+predictable, but they have long-term regularities that we can describe and 
+quantify using probability. In contrast, haphazard events do not necessarily 
+have long-term regularities. 
+Throwing an unbiased coin and observing the number of heads that appear 
+gives an example of random behaviour. When you throw the coin, there are 
+only two outcomes: heads or tails. Figure 8.1 shows the results of the first
+
+50 throws in an experiment that involved throwing the coin 5000 times. Two 
+trials are shown. The red graph shows the result of first trial, in which the first 
+toss was a head, followed by a tail, making the proportion of heads after two 
+throws 0.5. The next two throws were also tails, so the proportion of heads after 
+three throws was 0.33, and after four throws it was 0.25. 
+The second trial, shown in blue, starts with a series of tails. The fifth throw was 
+a head, which raised the proportion of heads to 0.2. 
+The proportion of heads is quite variable at first. However, in the long run, and 
+as the number of throws increases, the proportion of heads stabilises at around 
+0.5. We say that 0.5 is the probability of a head. 
+  
+  
+  
+Proportion of heads 
+ 
+  
+1 
+11 
+21 
+31 
+41 
+51 
+Number of throws 
+Figure 8.1 Probability of throwing a head 
+Imagine the following scenario. I drive to school every day. Shortly before 
+school, there is a traffic light. It always seems to be red when I get there. 
+I collected data over the course of one year (180 school days) and considered 
+the green light to be a ‘success Table 8.1 shows some of the collected data. 
+The first day it was red, so the proportion of success is 0% (0 out of 1). The 
+second day it was green, so the proportion is now 50% (1 out of 2). The third day 
+it was red again, so the proportion is 33.3% (1 out of 3), and so on. As more data 
+is collected, the new measurement becomes a smaller and smaller fraction of the 
+accumulated frequency;, so, in the long run, the graph settles to the real chance of 
+finding a green light, which in this case is about 30%. This is shown in Figure 8.2. 
+60 
+{ 
+50 
+{ 
+40 
+- 
+{ 
+30 
+| 
+20 
+{ 
+Percentage success 
+10 
+{ 
+04 
+1 
+21 
+41 
+61 
+81 
+101 
+121 
+141 
+161 
+181 
+Number of times 
+  
+Figure 8.2 The chance of finding the traffic light green is about 30% over time 
+It is important to realise 
+that the proportion of 
+heads in a small number 
+of tosses can be far 
+from the probability. 
+Probability describes 
+only what happens in 
+the long run. How a fair 
+coin lands when it is 
+thrown is an example 
+of a random event. One 
+cannot predict perfectly 
+whether the coin will 
+land on heads or tails. 
+However, in repeated 
+throws, the percentage 
+of times the coin lands 
+on heads will tend to 
+settle down to a limit 
+of 50%. The outcome 
+of an individual throw 
+is not predictable, but 
+the long-term average 
+behaviour is predictable. 
+Thus, it is reasonable to 
+consider the outcome of 
+tossing a fair coin to be 
+random. 
+  
+  
+  
+  
+  
+  
+  
+  
+Day | Light | % green 
+1 
+red 
+0 
+2 | green | 
+50 
+3 
+red 
+333 
+4 | green | 
+50 
+o 
+red 
+40 
+6 | 
+red 
+333 
+7 | 
+red 
+286 
+  
+ 
+ 
+ 
+ 
+  
+Table 8.1 Traffc light data 
+309
+
+Note that the 
+randomness in the 
+experiment is not in 
+the traffic light itself, 
+as this is controlled by 
+atimer. In fact, if the 
+system works well, then 
+it may turn green at the 
+same time every day. The 
+randomness of the event 
+is the time L arrive at the 
+traffic light. 
+An experiment is 
+the process by which 
+an observation (or 
+measurement) is 
+obtained. A random 
+experiment (or chance 
+experiment) is an 
+experiment where 
+there is uncertainty 
+concerning which of 
+two or more possible 
+outcomes will result. 
+‘The sample space, U, of 
+arandom experiment 
+(or phenomenon) is 
+the set of all possible 
+outcomes. 
+310 
+Probability 
+If you run a simulation for a longer period, as shown in Figure 8.3, you can see 
+that it really stabilises around 30%. 
+60 
+50 
+40 
+5 W'%“A 
+20 
+104 
+0 
+  
+  
+  
+Percentage of success 
+ 
+   
+1 
+101 
+201 
+301 
+401 
+501 
+Number of times 
+Figure 8.3 Further stabilisation at 30% over time 
+If we ask for the probability of finding the traffic light green in the above 
+example, our answer will be about 30%. We base our answer on knowing that, 
+in the long run, the fraction of time that the traffic light was green is 30%. We 
+could also say that the long-run relative frequency of a green light settles 
+down to about 30%. 
+Basic definitions 
+Data are obtained by observing either uncontrolled events in nature or 
+controlled situations in a laboratory. We use the term experiment to describe 
+either method of data collection. 
+Throwing a coin, rolling a dice and observing the number on the top surface, 
+counting cars at a traffic light when it turns green, measuring daily rainfall in a 
+certain area, and so on, are a few experiments in this sense of the word. 
+A description of a random phenomenon in the language of mathematics is 
+called a probability model. For example, when we throw a coin, we cannot 
+know the outcome in advance. What do we know? We can say that the outcome 
+will be either heads or tails. Because the coin appears to be balanced, we believe 
+that each of these outcomes has probability 0.50. This description of coin 
+throwing has two parts: 
+« 
+alist of possible outcomes 
+« 
+a probability for each outcome. 
+This two-part description is the starting point for a probability model. We 
+will begin by describing the outcomes of a random phenomenon and learning 
+how to assign probabilities to the outcomes by using one of the definitions of 
+probability. 
+For example, for one toss of 
+a coin, the sample space is 
+U = {heads, tails}, or simply {h, t} 
+. 
+‘The notation for sample space could also be S or any other letter.
+
+Example 8. 
+Throw a coin twice (or two coins once each) and record the results. What is 
+the sample space? 
+  
+Solution 
+U = {hh, ht, th, tt} 
+Example 8.2 
+Throw a coin twice (or two coins once) and count the number of heads 
+thrown. What is the sample space? 
+  
+Solution 
+U= {0,1,2} 
+d 
+A simple event is the outcome we observe in a single repetition (trial) of the experiment. 
+For example, an experiment is throwing a dice and observing the number that 
+appears on the top face. The simple events in this experiment are {1}, {2}, {3}, 
+{4}, {5}, and {6}. The set of all these simple events is the sample space of the 
+experiment. 
+We are now ready to define an event. There are several ways of looking at it, 
+which in essence are all the same. 
+d 
+An event is an outcome or a set of outcomes of a random experiment. 
+‘With this understanding, we can also look at the event as a subset of the 
+sample space or as a collection of simple events. 
+Example 8.3 
+‘When rolling a standard six-sided dice, the event A is ‘observe an odd 
+number, and the event B is ‘observe a number less than 5° Write a set to 
+represent each of these events. 
+Solution 
+Event A is the set {1, 3, 5}. 
+Event B is the set {1, 2, 3, 4}. 
+Use I to represent 
+throwinga head, and 
+to represent throwing 
+atail 
+‘There could be zero 
+heads, one head, or two 
+heads. 
+Probability and set 
+theory 
+Set theory provides 
+a foundation for all 
+of mathematics. The 
+language of probability 
+is much the same as the 
+language of set theory. 
+Logical statements 
+canbe interpreted as 
+statements about sets. 
+Later, this will enable us 
+to introduce a method 
+for setting up probability 
+problems. 
+311
+
+  
+& 
+U   
+Figure 8.4 Events A and B 
+from Example 8.3 
+  
+ O 
+U 
+ 
+  
+Figure 8.5 The rectangle 
+represents the sample space 
+312 
+Probability 
+Sometimes it helps to visualise an experiment using some tools of set theory. 
+There are several similarities between the ideas of set theory and probability 
+and it is very helpful when we see the connection. A simple, but powerful, 
+diagram is the Venn diagram. Figure 8.4 shows the events A and B from 
+Example 8.3. 
+In general, in this book, we will use a rectangle to represent the sample space 
+and closed curves to represent events, as shown in Figure 8.5. 
+To understand these definitions more clearly, let’s look at the following 
+example. 
+Example 8.4 
+  
+Suppose we choose one card at random from a deck of 52 playing cards. 
+‘What is the sample space U? 
+  
+  
+Solution 
+U= {Ad, 2, .., K, A, 24, 
+. K&, A®,20, K9, 
+AM, 24, ., Kb} 
+Some other events of interest are: 
+K = event of king = {Ké, K4, K®, K&} 
+H = event of heart = {A®, 29, .., K¥} 
+J = event of jack or better 
+= {J%.]4.]9,]4,Qh, Q4. QY, QA K&, K¢, K 
+Q = event of queen = {Qd, Q$, QY, QA}    
+ 
+ 
+  
+  
+  
+Example 8.5 
+  
+Throw a coin three times and record the results. Show the event ‘observing 
+two heads’ as a Venn diagram. 
+  
+  
+Solution 
+U 
+ 
+ 
+hhh 
+tht 
+The sample space is made up of eight possible 
+outcomes: hhh, hht, tht, etc. Observing exactly 
+" 
+two heads is an event with three elements: 
+tth 
+{hht, hth, thh} 
+i 
+  
+Set operations have a number of properties, which are basic consequences of the 
+definitions. Some examples are: 
+AUB=BUA 
+@)y =4 
+ANU=A 
+AUU=U 
+ANA =0 
+AUA =T
+
+Uis the sample space and & is the empty set. 
+‘Two valuable properties are known as De Morgan's laws, which state that 
+(AUB)'=A'NB' 
+(ANB) =A'UB' 
+Finally 
+AN(BUC) 
+= (ANB)UANC), 
+AUBNC)=(AUBN(AUC) 
+Tree diagrams, tables, 
+and 
+grids 
+In an experiment to check the blood types of patients, the experiment 
+Blood type 
+Rh factor 
+ Outcome 
+can be thought of as a two-stage experiment: first we identify the type 
+of the blood and then we classify the Rh factor + or —. 
+The simple events in this experiment can be counted using 
+another tool, the tree diagram, which is extremely powerful and 
+helpful in solving probability problems. 
+Our sample space in this experiment is the set 
+{A+, A—, B+, B—, AB+, AB—, O+, O—}. 
+These can be read from the outcomes in the last column. 
+  
+The same simple events can also be arranged in a probability table, as 
+shown in Table 8.2 
+Figure 8.6 Blood types tree 
+diagram 
+Blood type 
+Rh factor | A 
+B 
+AB 
+o 
+Positive 
+A+ 
+B+ 
+AB+ | O+ 
+Negative | A— 
+B- 
+AB- | O- 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Table 8.2 Blood types probability table 
+They can also be shown using a 2-dimensional grid as in Figure 8.7. 
+B— 
+pd 
+O+ 
+ 
+& 
+e 
+A 
+B 
+AB 
+O 
+Figure 8.7 2D grid for the probability of simple events 
+Example 8.6 
+  
+Two tetrahedral dice, with sides numbered 1 to 4, one blue and one yellow, 
+are rolled. List the elements of the following events when both dice are 
+thrown. 
+T = {3 is face down on at least one dice} 
+B = {the 3 on the blue dice is face down} 
+S = {sum of the face-down faces on both dice is a six} 
+313
+
+Probability 
+  
+Solution 
+T=1{(1,3),(23),(3,3),(43), 
+(3,2),(3,1), 3, 4)} 
+B=1{(1,3),(2,3),3,3)} 
+$=1{2,4),3,3),42)} 
+  
+Blue dice 
+k 
+b: 
+~ 
+= 
+  
+    
+ 
+ 
+ 
+  
+Exercise 
+1. In a large school, a student is selected at random. Give a reasonable 
+sample space for answers to each of the following questions: 
+(a) Are you left-handed or right-handed? 
+(b) What is your height in centimetres? 
+(c) For how many minutes did you study last night? 
+2. You throw a standard six-sided dice and a coin and record the number 
+and the face that appear in that order. For example, (5, h) represents a 
+5 on the dice and a head on the coin. List the sample space. 
+3. You draw cards from a standard deck of 52 playing cards. 
+(a) List the sample space if you draw one card at a time. 
+(b) List the sample space if you draw two cards at a time. 
+(c) How many outcomes do you have in each of the experiments above? 
+4. Tim carried out an experiment where he flipped 20 coins together and 
+observed the number of heads showing. He repeated this experiment 
+10 times and got the following results: 
+[EIRO 
+O RSRIGRON G781 (1 
+(a) Use Tim’ data to calculate the probability of obtaining a head. 
+(b) Tim flipped the 20 coins for the 11th time. How many heads should 
+he expect to observe? 
+(c) Ifhe flipped the coins 1000 times, how many heads should he expect 
+to observe? 
+5. In a game, a four-sided dice with sides marked 1, 2, 3, and 4 is used. The 
+intelligence of the player is determined by rolling the dice twice and 
+adding 1 to the sum of the two rolls. 
+(a) What is the sample space for rolling the dice twice? 
+(b) What is the sample space for the intelligence of a player? 
+314
+
+10. 
+11. 
+. A box contains a yellow ball, a green ball, and a blue ball. You run an 
+experiment where you draw a ball at random, look at its colour and then 
+replace it and draw a second ball at random. 
+(a) What is the sample space of this experiment? 
+(b) List the elements of the event of drawing yellow first. 
+(c) 
+List the elements of the event of drawing the same colour twice. 
+. Repeat the same exercise as in question 6, except this time without 
+replacing the first ball. 
+. Nick flips a coin three times and each time he notes whether it is heads 
+or tails. 
+(a) What is the sample space of this experiment? 
+(b) What is the event that heads occur more often than tails? 
+. Franz lives in Vienna. He and his family decided that their next vacation 
+will be to either Italy or Hungary. If they go to Italy, they can fly, drive, 
+or take the train. If they go to Hungary, they will drive or take a boat. 
+Letting the outcome of the experiment be the location of their vacation 
+and their mode of travel, list all the points in the sample space. Also list 
+the sample space of the event ‘fly to destination. 
+A hospital codes patients according to whether they have or do not have 
+health insurance, and according to their condition. The condition of 
+the patient is rated as good (g), fair (f), serious (s), or critical (c). The 
+hospital clerk marks a 0 for a non-insured patient and a 1 for an insured 
+patient, and one of the above letters for the patient’s condition. For 
+example, (1, c) means an insured patient with critical condition. 
+(a) 
+List the sample space of this experiment. 
+(b) What is the event: not insured, in serious or critical condition? 
+(c) What is the event: patient in good or fair condition? 
+(d) What is the event: patient has insurance? 
+A social study investigates people for different characteristics. 
+One part of the study classifies people according to gender (G, = female, 
+G, = male), drinking habits (K, = abstain, K, = drinks occasionally, 
+K; = drinks frequently), and marital status (M, = married, M, = single, 
+M, = divorced, M, = widowed). 
+(a) 
+List the elements of an appropriate sample space for observing a 
+person in this study. 
+(b) Three events are defined as: A = the person is a male, 
+B = the person drinks, and C = the person is single. 
+List the elements of each event A, B, and C. 
+(c) 
+Interpret each event in the context of this situation: 
+(i) AUB 
+(i) ANC 
+(iii) C 
+(i) ANBNC 
+(v) A'NB 
+315
+
+316 
+Probability 
+23 
+e 
+14. 
+Cars leaving the highway can make a right turn (R), left turn (L), or 
+go straight on (S). You are collecting data on traffic patterns at this 
+intersection and you group your observations by taking four cars at a 
+time every 5 minutes. 
+(a) List three outcomes in your sample space U. How many are there? 
+(b) List the outcomes in the event that all cars go in the same direction. 
+(c) 
+List the outcomes that only two cars turn right. 
+(d) List the outcomes that only two cars go in the same direction. 
+You are collecting data on traffic at an intersection for vehicles leaving 
+a highway. Your task is to collect information about the type of vehicle: 
+truck (T), bus (B), or car (C). You are also recording whether the driver 
+is wearing a safety belt (SY) or is not wearing safety belt (SN), as well as 
+whether the headlights are on (O) or off (F). 
+(a) List the outcomes of your sample space, U. 
+(b) List the outcomes of the event SY (the driver is wearing the 
+safety belt). 
+(c) 
+List the outcomes of the event C (the vehicle is a car). 
+(d) List the outcomes of the event in C N §Y, C’, and C U SY. 
+Many electric systems use a built-in backup 
+system so that the equipment using the 
+system will work even if some parts fail. 
+Such a system in given in the diagram. 
+Two parts of this system are installed in parallel, so that the system will 
+work if at least one of them works. If we code a working part by 1 and 
+a failing part by 0, then one of the outcomes would be (1, 0, 1), which 
+means parts A and C work while B failed. 
+(a) List the outcomes of your sample space, U. 
+(b) List the outcomes of the event X, that exactly two of the parts work. 
+Probability assignments 
+bability theories 
+There are a few theories of probability that assign meaning to statements 
+such as ‘the probability that A occurs is p%. In this book we will primarily 
+examine only the relative frequency theory. In essence, we follow the idea that 
+probability is ‘the long-run proportion of repetitions on which an event occurs. 
+This allows us to merge two concepts into one.
+
+Equally likely outcomes 
+In the theory of equally likely outcomes, probability has to do with symmetries 
+probability is on a 
+o 
+A 
+e 
+i 
+: 
+i 
+scale of 0% 
+to 100%. 
+and the indistinguishability of outcomes. If a given experiment or trial has n 
+4 
+ol 
+. 
+‘Probability and ‘chance’ 
+possible outcomes among which there is no preference, they are equally likely. 
+are synonymous. 
+100% 
+n 
+In all theories, 
+  
+L 
+. 
+1 
+) 
+. 
+The probability of each outcome is then 
+or 5. For example, if a coin 
+is balanced well, there is no reason for it to land heads in preference to tails 
+when it is thrown, so the probability that the coin lands heads is equal to the 
+  
+probability that it lands tails, and both are 102% = 50%. Similarly, if a dice is 
+fair, the chance that when it is rolled it lands with the side showing 1 on top is 
+o 
+the same as the chance that it shows 2, 3, 4, 5, or 6: 
+) 
+  or é— In the theory of 
+equally likely outcomes, probabilities are between 0% and 100%. If an event 
+consists of more than one possible outcome, the chance of the event is the 
+number of ways it can occur, divided by the total number of things that could 
+occur. For example, the chance that a dice lands showing an even number on 
+top is the number of ways it could land showing an even number (2, 4, or 6), 
+divided by the total number of things that could occur (6, namely showing 1, 2, 
+3,4,5,0r6). 
+Frequency theory 
+In frequency theory, probability is the limit of the relative frequency with which 
+an event occurs in repeated trials. Relative frequencies are always between 0% 
+and 100%. According to the frequency theory of probability, ‘the probability 
+that A occurs is p%’ means that if you repeat the experiment over and over 
+again, independently and under essentially identical conditions, the percentage 
+of the time that A occurs will converge to p. For example, to say that the chance 
+that a coin lands heads is 50% means that if you throw the coin over and over 
+again, independently, the ratio of the number of times the coin lands heads to 
+the total number of throws approaches a limiting value of 50% as the number 
+of throws grows. Because the ratio of heads to throws is always between 0% and 
+100%, when the probability exists, it must be between 0% and 100%. 
+Using Venn diagrams and the equally likely concept, we can say that the 
+probability of any event is the number of elements in an event A divided by the 
+total number of elements in the sample space U. This is equivalent to saying: 
+A 
+P(A) = M, where n(A) represents the number of outcomes in A and n(U) 
+n(U) 
+represents the total number of outcomes. So in Example 8.5, the probability of 
+observing exactly two heads is P(2 heads) = % 
+317
+
+No matter how little a 
+chance you think an 
+event has, there is no 
+such thing as negative 
+probability. 
+No matter how large 
+achance you think 
+an event has, there 
+is no such thing as a 
+probability larger than 1. 
+  
+ 
+hhh 
+  
+tt 
+ 
+  
+ 
+Figure 8.8 Events of two tails 
+or two heads in throwing three 
+dice 
+  
+Figure 8.9 The complement of 
+Als denoted by A’ 
+318 
+Probability 
+Probability rules 
+Regardless of which theory we subscribe to, the probability rules apply. 
+Rule 1 
+Any probability is a number between 0 and 1 - that is, the probability P(A) 
+of any event A satisfies 0 < P(A) < 1. If the probability of any event is 0, the 
+event never occurs. Likewise, if the probability is 1, it always occurs. In rolling 
+a standard dice, it is impossible to get the number 9, so P(9) = 0. Also, the 
+probability of observing any integer between 1 and 6 inclusive is 1. 
+Rule 2 
+All possible outcomes together must have probability 1 - that is, the probability 
+of the sample space U'is 1, or P(U) = 1. Informally, this is sometimes called the 
+‘something has to happen’ rule. 
+Rule 3 
+If two events have no outcomes in common, the probability that one or the 
+other occurs is the sum of their individual probabilities. Two events that have 
+no outcomes in common, and hence can never occur together, are called 
+disjoint events or mutually exclusive events. 
+The addition rule for mutually exclusive events is 
+P(A or B) = P(4) + P(B) 
+For example, in throwing three coins, the events of getting exactly two heads 
+or exactly two tails are disjoint, and hence the probability of getting exactly two 
+heads or two tails is 
+3,3 6.3 
+88 8 4 
+Additionally, we can always add the probabilities of outcomes because they are 
+always disjoint. A trial cannot come out in two different ways at the same time. 
+This will give you a way to check whether the probabilities you assigned are 
+legitimate. 
+Rule 4 
+Suppose that the probability that you receive a 7 on your IB exam is 0.2. Then the 
+probability of not receiving a 7 on the exam is 0.8. The event that contains the 
+outcomes not in A is called the complement of A and is denoted by A". 
+P(A) =1 — P(A),or P(4) = 
+1 — P(A) 
+‘The ‘something has to happer’ rule 
+You have to be careful with these rules. By the ‘something has to happen’ rule, the total of the 
+probabilities of all possible outcomes must be 1. This is because they are disjoint, and their sum 
+covers allthe elements of the sample space. Suppose someone reports the following probabilities for 
+students in your high school, which has four grades: “The probability that a grade 1, 2, 3 or 4 student 
+is chosen at random from the high school is 0.24, 0.24, 0.25, and 0.19 respectively. You should know 
+immediately that there is something wrong because these probabilities add up to 0.92. 
+Similarly, if someone claims that the probabilities are 0.24, 0.28, 0.25, 0.26 respectively, there is 
+also something wrong. These probabilities add up to 1.03, which is more than 1.
+
+Example 8.7 
+Data for traffic violations was collected in a certain country. A summary is 
+  
+  
+given below. 
+Age group 
+18-20years | 21-30years | 31-40years | Over40 years 
+Probability 
+0.06 
+0.47 
+0.29 
+0.18 
+  
+  
+  
+  
+  
+  
+  
+Estimate the probability that the offender is: 
+(a) 
+in the youngest age group 
+(b) between 21 and 40 
+(c) 40 or younger. 
+L 
+Solution 
+Each probability is between 0 and 1, and the probabilities add up to 1. 
+Therefore this is a legitimate assignment of probabilities. 
+(a) The probability that the offender is in the youngest group is 0.06. 
+(b) The probability that the driver is between 21 and 40 years is 
+0.47 + 0.29 = 0.76. 
+(c) The probability that a driver is 40 or younger is 1 — 0.18 = 0.82. 
+Example 8.8 
+‘When people create passcodes for their cell phones, the first digits follow 
+distributions very similar to that shown in the table. 
+  
+First digit 
+0 
+Il 
+2 
+B] 
+4 
+5 
+6 
+% 
+8 
+9 
+Probability | 0.009 | 0.300 | 0.174 | 0.122 | 0.096 | 0.078 | 0.067 | 0.058 | 0.051 | 0.045 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Find the probabilities of the following three events: 
+A = {first digit is 1} 
+B = {first digit is more than 5} 
+C = {first digit is an odd number} 
+(b) Find the probability that the first digit is: 
+(i) 
+1 or greater than 5 
+(i) 
+not1 
+(iii) an odd number or a number larger than 5. 
+I 
+Solution 
+(a) From the table: 
+P(A) = 0300 
+P(B) = P(6) + P(7) + P(8) + P(9) 
+= 0.067 + 0.058 + 0.051 + 0.045 = 0.221 
+P(C) = P(1) + P(3) + P(5) + P(7) + P(9) 
+= 0.300 + 0.122 + 0.078 + 0.058 + 0.045 = 0.603 
+319
+
+Notice here that 
+P(Bor C) is not the 
+sum of P(B) and P(C) 
+because Band Care not 
+320 
+disjoint. 
+Probability 
+(b) 
+(i) 
+Since A and B are mutually exclusive, by the addition rule, the 
+probability that the first digit is 1 or greater than 5 is 
+P(A or B) = 0.300 + 0. 221 = 0.521 
+(ii) 
+Using the complement rule, the probability that the first digit is not 
+lis 
+P(A) = 
+1 — P(4) = 
+1 — 0.300 = 0.700 
+(iii) The probability that the first digit is an odd number or a number 
+larger than 5 is 
+P(Bor C) = P(1) + P(3) + P(5) + P(6) + P(7) + P(8) + P(9) 
+= 0.300 + 0.122 + 0.078 + 0.067 + 0.058 + 0.051 + 0.045 
+=0:721 
+qually likely 
+outcomes 
+In some cases, we are able to assume that individual outcomes are equally 
+likely because of some balance in the experiment. Throwing a balanced coin 
+renders heads or tails equally likely, each with a probability of 50%, and rolling 
+a standard balanced dice gives the numbers from 1 to 6 as equally likely, each 
+having a probability of —é— 
+Suppose in Example 8.8, we consider all the digits to be equally likely to 
+happen. Then the probabilities would be as shown in Table 8.3. 
+  
+First digit 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Probability | 0.1 | 0.1 [ 0.1 [ 0.1 
+{01 
+]01]01[01|01]01 
+  
+Table 8.3 Al digits are equally likely to happen 
+P(A) = 0.1 
+P(B) = P(6) + P(7) + P(8) + P(9) = 4 X 0.1 = 0.4 
+P(C) =P(1) + P(3) + P(5) + P(7) + P(9) =5 X 0.1 = 0.5 
+Also, by the complement rule, the probability that the first digit is not 1 is 
+P(A)=1—P(4)=1—0.1=09. 
+Two-dimensional grids are also very helpful tools that are used to visualise 
+two-stage or sequential probability models. For example, consider rolling a 
+normal unbiased cubic dice twice. Figure 8.10 shows a two-dimensional grid 
+and a number of possible events. 
+If we are interested in the probability that at least one roll shows a 6, we count 
+the points on the column corresponding to 6 on the first roll and the points on 
+the row corresponding to 6 on the second roll, observing that the point in the 
+corner should not be counted twice.
+
+If we are interested in the number 
+showing on both rolls being the same, 
+then we count the points on the 
+diagonal as shown. 
+P(at least one six) = 3 
+    
+  
+ 
+  
+Finally, if we are interested in the 
+probability that the first roll shows a 
+number larger than the second roll, 
+then we pick the points below the 
+  
+Second roll 
+  
+ 
+P(same number) = & 
+  
+ 
+ 
+ 
+ 
+  
+diagonal. 
+B 
+Hence 
+Figure 8.10 Two-dimensional 
+2 
+3 
+4 
+5 
+grid 
+for 
+calculating 
+the 
+bability 
+Plfirst number > second number) = > 
+First roll 
+e 
+e e 
+et 
+of events when rolling a dice 
+36 
+Geometric probability 
+Some cases give rise to interpreting events as areas in the plane. Take, for 
+example, shooting at a circular target at random. What is the probability of 
+hitting the central part? 
+The probability of hitting the central part is given by 
+R\ 
+) 
+7wR> 
+16 
+This calculation comes from the area of the small circle over the area of the 
+whole target. 
+  
+Figure 8.11 What is the 
+probability of hitting the central 
+part? 
+Example 8.9 
+  
+  
+Lydia and Rania agreed to meet at the museum between 12:00 and 13:00. 
+The first person to arrive will wait 15 minutes. If the second person does not 
+show up, the first person will leave. Assuming that their arrival times are 
+random, what is the probability that they meet? 
+  
+Solution 
+60 
+  
+If Lydia arrives x minutes after 12:00 and 
+Rania arrives y minutes after 12:00, then 
+the conditions for them to meet are 
+[x — y| < 15and 
+x < 60,y < 60. 
+Geometrically, the shaded region in the 
+diagram on the right shows the arrival 
+times that will allow them to meet. 
+15 
+iangle 
+is 
+L 
+bhI= L 
+(45)2 
+The area for each triangle is 3 bh 
+2 @52, 
+& 
+50, the shaded area is 602 — 452, 
+R 
+The probability they meet is therefore G014 2 
+60% 
+16 
+391
+
+Counting principles 
+are not part of the 
+SL syllabus, so for 
+the purposes of this 
+section we mention 
+only the tools you need. 
+For a more in-depth 
+discussion of counting 
+principles, look at 
+Chapter 3 of the HL 
+version of this book. 
+A combination of 
+objects out of 1 objects 
+is a subset of the set of 
+n objects. For example, 
+consider the letters 
+ABCDE. There are 10 
+combinations of 3 letters 
+chosen from these 5: 
+ABC, ABD, ABE, ACD, 
+ACE, ADE, BCD, BCE, 
+BDE, CDE. The general 
+rule is that the number 
+of combinations or 
+subsets of r objects out 
+of n objects is given by 
+the binomial coefficient 
+n! 
+ne 
+= 
+T   
+(n— it 
+‘Thus the number of ways 
+of choosing 3 letters 
+from ABCDE is 
+  
+Your GDC can do the 
+work for you too! 
+Did you observe that 
+8C; = 8Cy? 
+Can you think of a 
+reason for this? 
+322 
+Probability 
+Probability calculation for equally likely outcomes 
+using counting principles (Optional — recommended!) 
+  
+In an experiment where all outcomes are equally likely, the theoretical 
+probability of an event A is given by 
+n(A) 
+n(U) 
+where n(A) is the number of outcomes that make up the event A, and n(U) is 
+the total number of outcomes in the sample space. 
+P(A) =   
+The new ideas we want to discuss here involve the calculation of n(A) and n(U). 
+Such calculations will involve counting principles. 
+Example 8.10 
+In a group of 18 students, 8 are females. If five students are chosen at 
+random, what is the probability of choosing: 
+(a) 
+all girls 
+(b) 
+3 girls and 2 boys 
+(c) atleast 1 boy? 
+| 
+Solution 
+The total number of outcomes is the number of ways we can choose 5 out of 
+the 18 students. 
+n(U) = 18C, = 8568 
+(a) This event requires that we pick our group from among the 8 girls. 
+—sg 
+= 
+T 
+e 
+n(A) = 
+3C; = 56 = P(all girls) 
+3568 
+0.0065 
+(b) This event requires that we pick 3 out of the 8 girls, and at the same time 
+we pick 2 out of the 10 boys. So, using the multiplication principle, 
+n(3 girls and 2 boys) = ¥C, - 1°C, = 56-45 = 2520 
+: 
+_ 2520 _ 
+= 
+P(3 girlsand 2 boys) = 3563 
+0.294 
+(c) This event can be approached in two ways. 
+Method 1: To have at least 1 boy means that we can have, 1, 2, 3, 4, or 5 
+boys. These are mutually exclusive, so the probability in question is the 
+sum 
+1C, 
+- 8C4 + 1°C, 
+- *C3 + ... + 1°C5 
+- °C,y 
+18C, 
+P(at least 1 boy) = 
+_ 8512 _ 
+oen 
+09935 
+Method 2: Recognise that at least 1 boy is the complement of no boys at 
+all; that is, 
+0 boys or 5 girls. 
+P(at least 1 boy) = 
+1 — P(all girls) = 1 — 0.0065 = 0.9935
+
+1. In a simple experiment, 20 chips labelled with integers 1 to 20 inclusive 
+were placed in a box and one chip was picked at random. 
+(a) What is the probability that the number drawn is a multiple of 32 
+(b) What is the probability that the number drawn is not a multiple of 42 
+2. The probability that an event A happens is 0.37 
+(a) What is the probability that it does not happen? 
+(b) What is the probability that it may or may not happen? 
+3. You are playing with an ordinary deck of 52 cards by drawing cards at 
+random and looking at them. 
+(a) Find the probability that the card you draw is: 
+(i) 
+theace of hearts 
+(ii) the ace of hearts or any spade 
+(iii) an ace or any heart 
+(iv) not a face card. 
+(b) Now you draw the ten of diamonds and put it on the table and draw 
+a second card. What is the probability that the second card 
+(i) 
+is the ace of hearts? 
+(ii) is not a face card? 
+(c) Now you draw the ten of diamonds and return it to the deck and 
+draw a second card. What is the probability that the second card 
+(i) 
+is the ace of hearts? 
+(ii) is not a face card? 
+4. On Monday morning, my class wanted to know how many hours 
+students spent studying on Sunday night. They stopped schoolmates at 
+random as they arrived and asked each: ‘How many hours did you study 
+last night?” Here are the answers of the sample they chose on Monday 15 
+January 2018. 
+  
+Hoursspentstudying | 0 | 
+1 [ 2 | 3] 
+4 | 
+5 
+Number of students 
+4 
+(28 
+|3]2]1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Estimate the probability that a student spent less than three hours 
+studying on Sunday night. 
+(b) Estimate the probability that a student studied for exactly two or 
+three hours. 
+(c) Estimate the probability that a student studied for less than six hours. 
+5. You throw a coin and a standard six-sided dice and record the number 
+and the face that appear. 
+(a) Find the probability of getting a number larger than 3. 
+(b) Find the probability of getting a head and a 6. 
+6. A dice is constructed in such a way that a 1 has a chance of occurring 
+twice as often as any other number. 
+(a) Find the probability that a 5 appears. 
+(b) Find the probability an odd number appears. 
+323
+
+Probability 
+7. You are given two fair dice to roll in an experiment. 
+(a) Your first task is to report the numbers you observe. 
+(i) 
+What is the sample space of your experiment? 
+(ii) What is the probability that the two numbers are the same? 
+(iii) What is the probability that the two numbers differ by 22 
+(iv) What is the probability that the two numbers are not the same? 
+(b) Your second task is to report the sum of the numbers that appear. 
+(i) 
+What is the probability that the sum is 12 
+(ii) What is the probability that the sum is 92 
+(iii) What is the probability that the sum is 82 
+(iv) What is the probability that the sum is 13? 
+8. The blood types of people can be one of the four types: O, A, B, or AB. 
+The distribution of people with these blood types differs from one 
+group of people to another. Here are the distributions of blood types for 
+randomly chosen people in the US, China, and Russia. 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+e 
+Blood Type| 
+() 
+A 
+B 
+s 
+uUs 
+0.43 
+0.41 
+0.12 
+? 
+China 
+0.36 
+0.27 
+0.26 
+0.11 
+Russia 
+0.39 
+0.34 
+? 
+0.09 
+  
+(a) What is the probability of type AB in the US? 
+(b) Dirk lives in the US and has type B blood. People with type B blood 
+can receive blood only from people with type O or type B. What is 
+the probability that a randomly chosen US citizen can donate blood 
+to Dirk? 
+(c) What is the probability of randomly choosing a US citizen and a 
+Chinese citizen with type O blood? 
+(d) What is the probability of randomly choosing a US, a Chinese and 
+a Russian citizen with type O blood? 
+(e) What is the probability of randomly choosing a US, a Chinese and 
+a Russian citizen with the same blood type? 
+9. In each of the following situations, state whether or not the given 
+assignment of probabilities to individual outcomes is legitimate. 
+Give reasons for your answer. 
+(a) A dice is loaded such that the probability of each face is according to 
+the following assignment, where x is the number on the upper face 
+and P(x) is its probability. 
+  
+  
+x 
+1 
+2 
+5] 
+4 
+5 
+6 
+1 
+1 
+4 
+1 
+P(x) 
+0 
+5 
+51 
+3 
+& 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+324
+
+10. 
+s 
+12. 
+(b) Students at a school are categorised in terms of gender and whether 
+or not they are diploma candidates. 
+P(female, diploma candidate) = 0.57 
+P(female, not a diploma candidate) = 0.23 
+P(male, diploma candidate) = 0.43 
+P(male, not a diploma candidate) = 0.18 
+(c) Draw a card from a deck of 52 cards (x is the suit of the card and 
+P(x) is its probability). 
+  
+  
+ 
+x 
+Hearts 
+Spades 
+Diamonds 
+Clubs 
+12 
+15 
+12 
+13 
+B(x) 
+5 
+2 
+5 
+5 
+ 
+ 
+ 
+ 
+ 
+  
+In Switzerland, there are three official languages: German, French, and 
+Italian. You choose a Swiss citizen at random and ask, ‘What is your 
+mother tongue?’ Here is the distribution of responses: 
+  
+Language 
+German | French | 
+Italian | Other 
+Probability 
+0.58 
+024 
+0.12 
+? 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) What is the probability that a Swiss citizen's mother tongue is not 
+one of the official languages? 
+(b) What is the probability that a Swiss citizen's mother tongue is not 
+German? 
+(c) What is the probability that you choose two Swiss citizens 
+independently of each other and they both have German as their 
+mother tongue? 
+(d) What is the probability that you choose two Swiss citizens 
+independently of each other and they both have the same mother 
+tongue? 
+Lots of the email messages we receive are spam. Choose a spam email 
+message at random. Here is the distribution of topics. 
+  
+Topic 
+Adult | Financial | Health | Leisure | Products | Scams 
+  
+  
+  
+  
+  
+  
+  
+  
+Probability 
+0.165 
+0.142 
+0.075 
+0.081 
+0.209 
+0.145 
+  
+  
+(a) What is the probability of choosing a spam message and it does not 
+concern these topics? 
+(b) Parents are usually concerned about spam messages with adult 
+content and scams. What is the probability that a randomly chosen 
+spam email falls into one of the other categories? 
+An experiment involves rolling a pair of dice, 1 white and 1 red, and 
+recording the numbers that come up. Find the probability: 
+(a) that the sum is greater than 8 
+(b) that a number greater than 4 appears on the white dice 
+(c) that at most a total of 5 appears. 
+325
+
+‘The intersection of two 
+events, Band C, denoted 
+by the symbol BN Cor 
+simply BC, is the event 
+containing all outcomes 
+common to Band C. 
+  
+ & 
+2 
+4 
+ 
+  
+Figure 8.12 Event of B 
+‘intersection’ C = {7, 9} 
+326 
+Probability 
+13. (a) A box contains 8 chips numbered 1 to 8. Two are chosen at random 
+and their numbers are added together. What is the probability that 
+their sum is 72 
+(b) A box contains 20 chips numbered 1 to 20. Two are chosen at random. 
+What is the probability that the numbers on the two chips differ by 32 
+(c) A box contains 20 chips numbered 1 to 20. Two are chosen at 
+random. What is the probability that the numbers on the two chips 
+differ by more than 3? 
+14. Tim and Val want to meet for dinner at their favourite restaurant. They 
+agree on meeting between 20:00 and 21:00. The first person to arrive will 
+order a salad and spend 30 minutes before ordering the main meal. If 
+the second person does not arrive within the 30 minutes, the first person 
+will pay the bill and leave. What is the probability they manage to eat 
+dinner together at the restaurant? 
+15. Bus 48A and Tram 49 serve different routes in the city. They share one stop 
+next to the library. They stop at this station every 20 minutes. Every stay is 
+3 minutes long. Assuming their arrivals at the hour are random, find the 
+probability that both are at the stop together in any 20 minute interval. 
+16. A wooden cube has its faces painted green. We cut the cube into 1000 
+small cubes of equal size. We mix the small cubes thoroughly. We draw 
+one cube at random. What is the probability that the cube: 
+(a) has exactly two faces coloured green 
+(b) has exactly three faces coloured green 
+(c) 
+has no faces coloured green? 
+Operations with events 
+In Example 8.8, we talked about the events 
+B = {first digit is more than 5} 
+C = {first digit is an odd number} 
+‘We also claimed that these two events are not disjoint. This brings us to another 
+concept for looking at combined events. 
+Here BN C = {7, 9} because these outcomes are in both B and C. Since the 
+intersection has outcomes common to the two events, B and C, they are not 
+mutually exclusive. 
+‘The probability of B N C is 0.058 + 0.045 = 0.103. Recall from Example 8.8 
+that we said the probability of 
+B or C is not simply the sum of the two 
+probabilities. That brings us to the next concept. How can we find the 
+probability of B or C when they are not mutually exclusive? To answer this 
+question, we need to define another operation.
+
+Here BU C = {1, 3, 5,6, 7, 8, 9}. In calculating the probability of BU C, we 
+RIS 
+observe that the outcomes 7 and 9 are counted twice. To remedy the situation, 
+Band C, denoted by the 
+if we decide to add the probabilities of B and C, we subtract one of the incidents 
+symbol BUG, is ‘}hf N 
+’ 
+_ 
+= 
+_ 
+y 
+event containing all the 
+of double counting. So, P(BU C) = 0.221 + 0.603 — 0.103 = 0.721, which 
+cutcomes that belong to 
+is the result we received with direct calculation. In general, we can state the 
+Borto Cor to both. 
+following probability rule. 
+Rule 5 
+For any two events A and B, P(A U B) = P(A) + P(B) — P(A N B). 
+  
+< 
+As we see from Figure 8.13, P(A N B) has been added twice, so the ‘extra’ one 
+is subtracted to give the probability of (A U B). 
+ 
+ 
+& 
+This general probability addition rule applies to the case of mutually 
+exclusive events too. Consider any two mutually exclusive events A and B. 
+The probability of A or B is given by 
+  
+Figure 8.13 P(A U B) 
+Some useful results 
+P(AUB) = P(A) + P(B) — P(AN B) = P(A) + P(B) 
+1. P(A) =PANB +PANB) 
+since P(ANB) = 0. 
+U   
+A 
+B 
+Rule 6 — The simple multiplication rule 
+Consider the following situation. In a large school, 55% of the students 
+are male. It is also known that the percentage of cyclists among males 
+AN 
+and females in this school are the same, 22%. What is the probability of 
+selecting a male cyclist when a student is selected at random from this 
+population? 
+U 
+B 
+) 
+  
+2. P(B)=PANB) +PA'NB) 
+  
+Applying common sense, we can think of the problem in the following 
+manner. Since the proportion of cyclists is the same in both groups, 
+cycling and gender are independent of each other in the sense that 
+knowing that the student is a male does not influence the probability 
+that he is a cyclist. 
+¢ 
+ 
+ 
+  
+3. P(A'NB)=1-PAUB) 
+The chance of picking a male student is 55%. From that 55% of the 
+population, we know that 22% are cyclists, so by simple arithmetic the 
+chance that we select a male cyclist is 0.22 X 0.55 = 12.1%. 
+This is an example of the multiplication rule for independent events. 
+H 
+Two events A and B are independent if knowing that one of them 
+— 
+occurs does not change the probability that the other occurs. 
+Independent or disjoint? 
+Do not confuse 
+independent with 
+disjoint. Disjoint 
+means that if one of the 
+events occurs, then the 
+other does not occur. 
+Independent means 
+At the start of this chapter, we found that the probability of encountering 
+that knowing one of the 
+a green light on my drive to school is 30%. What is the probability that T 
+events occurs does not 
+influence whether the 
+other occurs. 
+If two events A and B are independent, then P(A N B) = P(A) X P(B). 
+Example 8.11 
+encounter a green light on two consecutive days? 
+327
+
+Probability 
+I 
+Solution 
+Assume that encountering a light green is a random event and that a green 
+light on one day does not influence the event on the next day. In that case 
+our calculation is very simple: 
+P(green both days) = P(green first day) X P(green second day) 
+=0.30 X 0.30 = 0.09 
+This rule can be extended to more than two independent events. For example, 
+on the assumption of independence, what is the chance that I find the light 
+green every day of the week? 
+P(green every day) = 0.3 X 0.3 X 03 X 03 X 03 = 0.00243 
+Example 8.12 
+Computers bought from a well-known producer require repairs quite 
+frequently. It is estimated that in the first month after purchase, 17% of 
+computers require one repair job, 7% will need two repairs, and 4% require 
+three or more repairs. 
+(a) What is the probability that in the first month after purchase a computer 
+chosen at random from this producer will need: 
+(i) 
+no repairs 
+(ii) 
+no more than one repair 
+(iii) one or more repairs? 
+(b) 
+If you buy two such computers, what is the probability that in the first 
+month after purchase: 
+(i) 
+neither will require repair 
+(ii) 
+both will require repair? 
+.. 
+] 
+Solution 
+(a) Since all of the events listed are disjoint, the addition rule can be used. 
+(i) 
+P(norepairs) = 
+1 — P(some repairs) 
+= 1—(0.17 + 0.07 + 0.04) = 
+1 — (0.28) = 0.72 
+(ii) 
+P(no more than one repair) = P(no repairs or one repair) 
+=072 +0.17 = 0.89 
+(iii) P(one or more repairs) = P(one or two or three or more repairs) 
+=0.17 + 0.07 + 0.04 = 0.28 
+(b) Since repairs on the two computers are independent of one another, 
+the multiplication rule can be used. Use the probabilities of events from 
+part (a) in the calculations. 
+(i) 
+P(neither will need repair) = 0.72 X 0.72 = 05184 
+(ii) P(both will need repair) = 0.28 X 0.28 = 0.0784 
+328
+
+Conditional probability 
+In probability, conditioning means incorporating new restrictions on the outcome 
+of an experiment, updating probabilities to take into account new information. 
+This section describes conditioning, and how conditional probability can be used 
+to solve complicated problems. Let us start with an example. 
+Example 8.13 
+A public health department wanted to study the exercise behaviour of high 
+school students. They interviewed 768 students from grades 10 to 12 and 
+asked them about their exercise habits. They categorised the students into 
+the following three categories: regular exercise (three or more times per 
+week), occasional exercise (one or two times per week), and no exercise. 
+The results are summarised in the table. 
+  
+  
+  
+  
+Regular exercise | Occasional exercise | No exercise | Total 
+Male 
+127 
+73 
+214 
+414 
+Female 
+99 
+66 
+189 
+354 
+Total 
+226 
+139 
+403 
+768 
+ 
+ 
+ 
+ 
+ 
+   
+If we select a student at random from this study, what is the probability that 
+we select: 
+(a) afemale 
+(b) 
+a male who exercises regularly 
+(c) astudent who doesn’t exercise? 
+] 
+Solution 
+=3 
+(a) P(female) = 
+68 
+0.461 
+(b) Since we have 127 males categorised as taking regular exercise, the 
+chance of a male who takes regular exercise will be 
+P(male, regular) = % = 0.165. 
+o 6B 
+(c) P(no exercise) = 768 
+0.525 
+In Example 8.13, what if we know that the selected student is a female? 
+Does that influence the probability that the selected student takes no exercise? 
+Yes it does! 
+Knowing that the selected student is a female changes our choices. The ‘revised’ 
+sample space is not made up of all students anymore, only of the female 
+students. The chance of finding a student who doesn't exercise among the 
+females is % = 0.534; that is, 53.4% of the females take no exercise as 
+compared to the 52.5% of students who take no exercise in the whole population. 
+329
+
+  
+ 
+ 
+  
+Figure8.14 ANB=( 
+  
+ 
+ 
+  
+Figure8.15 ANB=B 
+330 
+Probability 
+This probability is called a conditional probability. We write this as 
+189 
+354 
+‘We read this as ‘probability of selecting a student who takes no exercise given 
+that we have selected a female’ 
+P(no exercise|female) = 
+The conditional probability of 
+A given B, P(A|B), is the probability of the event 
+A, updated on the basis of the knowledge that the event B occurred. Suppose 
+that A is an event with probability P(A) = p # 0, and that AN B = J (A and B 
+are disjoint). Then if we learn that B occurred, we know A did not occur, so we 
+should revise the probability of A to be zero. We can say that P(A|B) = 0 (the 
+conditional probability of A given B is zero). 
+On the other hand, suppose that A N B = B (this would mean that B is a subset 
+of A, so Bimplies A). Then if we learn that B occurred, we know A must have 
+occurred as well, so we should revise the probability of 
+A to be 100%. We can 
+say P(A|B) = 1 (the conditional probability of 
+A given B is 100%). 
+Remember that the probability we assign to an event can change if we know 
+that some other event has occurred. This idea is the key to understanding 
+conditional probability. 
+Imagine the following scenario. You are playing cards and your opponent is about 
+to give you a card. What is the probability that the card you receive is a queen? 
+As you know, there are 52 cards in the deck, and 4 of these cards are queens. 
+So, assuming that the deck was thoroughly shuffled, the probability of receiving 
+a queen is 
+4 
+1 
+P(queen) = 2 1 
+This calculation assumes that you know nothing about any cards already dealt 
+from the deck. 
+Suppose now that you are looking at the five cards you have in your hand, and 
+one of them is a queen. You know nothing about the other 47 cards except that 
+exactly three queens are among them. The probability of being given a queen as 
+the next card, given what you already know, is 
+5 
+3 
+;1 
+P(queen|1 queen in hand) = T3 
+So, knowing that there is one queen among your five cards changes the 
+probability of the next card being a queen. 
+Consider Example 8.13 again. We want to express the table frequencies as 
+relative frequencies or probabilities, as in Table 8.4. 
+  
+  
+  
+Regular exercise 
+Occasional exercise 
+No exercise 
+Male 
+0.165 
+0.095 
+0.279 
+Female 
+0.129 
+0.086 
+0.246 
+ 
+ 
+ 
+ 
+   
+Table8.4 Relative frequencies
+
+To find the probability of selecting a student at random and finding that 
+student is female and takes no exercise, we look at the intersection of the female 
+row with the no exercise column and find that this probability is 0.246. 
+We can look at this calculation from a different perspective. We know that 
+the percentage of females in our sample is 46.1, and among those females in 
+Example 8.13, we found that 53.4% of them take no exercise. So, the percentage 
+of females who take no exercise in the population is then 53.4% of those 46.1% 
+females; that is, 0.534 X 0.461 = 0.246. 
+In terms of events, this can be read as 
+P(no exercise|female) X P(female) = P(female and no exercise) or P(female N no exercise) 
+This is an example of the multiplication rule of any two events A and B. 
+Given any events A and B, the probability that both events happen is given by 
+P(A N B) = P(A|B) X P(B) 
+Example 
+In a psychology lab, researchers are studying the colour preferences of young 
+children. Six green toys and four red toys (identical apart from colour) are 
+placed in a container. The child is asked to select two toys at random. What 
+is the probability that the child chooses two red toys? 
+| 
+Solution 
+To solve this problem, we will use a tree diagram. 
+First choice 
+Second choice Outcome 
+Red(3) 
+     
+    
+    
+Red 
+! 
+   
+& 
+Green(3) 
+Every entry on each of the branches has a conditional probability. So, Red on 
+the second choice is actually either Red|Red or Red|Green. We are interested 
+in RR, so the probability is 
+P(RR) = P(R) X P(R|R) = % X % = 133% 
+If P(A N B) = P(A|B) X P(B) as discussed above, and if P(B) # 0, we can 
+rearrange the multiplication rule to produce a definition of the conditional 
+probability P(A|B) in terms of the ‘unconditional’ probabilities P(A N B) 
+and P(B). 
+331
+
+  
+  
+® 
+  
+Probability 
+P(ANB) 
+P(B) 
+  
+When P(B) # 0, the conditional probability of A given B is P(AIB) = 
+‘Why does this formula make sense? 
+First of all, note that it agrees with the intuitive answers we found above: if 
+ANB=(,thenP(ANB) = 0,50 P(A|B) = % =0.IfAN 
+B = B, then 
+p(a18) = X — 100%. 
+P(B) 
+Now, if we learn that B occurred, we can restrict attention to just those 
+outcomes that are in B, and disregard the rest of U, so we have a new sample 
+space that is just B (see Figure 8.16). For A to have occurred in addition to B 
+requires that A N B occurred, so the conditional probability of A given B 
+. P(ANB) 
+  
+Figure 8.16 P(A[B) = 
+332 
+P(ANB) 
+P(B) 
+  
+, just as we defined it above. 
+P(B) 
+Example 
+In an experiment to study the phenomenon of colour blindness, researchers 
+collected information concerning 1000 people in a small town and 
+categorised them according to colour blindness and gender. A summary of 
+the findings is given in the table. 
+  
+Male | 
+Female | Total 
+  
+  
+  
+Colour blind 
+40 
+2} 
+42 
+Not colour blind 
+470 
+488 
+958 
+Total 
+510 
+490 
+1000 
+  
+  
+  
+  
+    
+What is the probability that a person is colour blind, given that the person is 
+female? 
+i 
+Solution 
+To answer this question, we notice that we do not have to search the whole 
+population for this event. We limit our search to the females. There are 490 
+females in the study. When we search for colour blindness, we look only for 
+the females who are colour blind - that is, the intersection. There are two 
+females who are colour blind. Therefore, the probability that a person is 
+colour blind, given that the person is female, is 
+Pi 
+p(c“:) = ﬂ :M: 
+. 0.004 
+where C is the event of selecting a colour-blind person and F is the event of 
+selecting a female. 
+Notice that in Example 8.15, we used the frequency rather than the probability. 
+However, these are equivalent since dividing by n(U) will transform the 
+frequency into a probability.
+
+n(CNF) 
+WCNE) _ 
+nU) 
+_PCNAP) 
+_ 
+n(F) 
+n(F) 
+P(F) 
+  
+Example 8.16 
+A national airline is known for its punctuality. The probability that a 
+regularly scheduled flight departs on time is P(D) = 0.83, the probability 
+that it arrives on time is P(A) = 0.92, and the probability that it both arrives 
+and departs on time is P(A N D) = 0.78. Find the probability that a flight: 
+(a) 
+arrives on time given that it departed on time 
+(b) departed on time given that it arrived on time. 
+L 
+Solution 
+(a) The probability that a flight arrives on time given that it departed on 
+  
+time is 
+Ay L 
+0 0 
+T Y 
+P(D) 
+: 
+(b) The probability that a flight departed on time given that it arrived on 
+time is 
+PDNA) _ 078 
+P(D|A)=————=——=10.85 
+2l 
+P(A) 
+092 
+Independence 
+Two events are independent if learning that one occurred does not affect the 
+chance that the other occurred. That is, if P(A|B) = P(A), and vice versa. 
+If we apply this definition to the general multiplication rule, then 
+P(A N B) = P(A|B) X P(B) = P(4) X P(B) 
+which is the multiplication rule for independent events we studied earlier. 
+These results give us some helpful tools for checking the independence 
+of events. 
+Two events are independent if and only if either P(A N B) = P(A) X P(B) or 
+P(A|B) = P(A). Otherwise, the events are dependent. 
+Example 8.17 
+Take another look at Example 8.16. Are the events of arriving on time (A) 
+and departing on time (D) independent? 
+333
+
+  
+ 
+Blood (0.40) 
+u 
+Both 
+0.04 
+Breath (0.81) 
+ 
+  
+Figure 8.17 Venn diagram for 
+the solution to Example 8.18 
+334 
+Probability 
+] 
+Solution 
+We can answer this question in two different ways. 
+Method 1: We are told that P(A) = 0.92, and we found that P(A|D) = 0.94. 
+Since the two values are not the same, then we can say that the two events 
+are not independent. 
+Method 2: P(A N D) = 0.78 and 
+P(A) X P(D) = 0.92 X 0.83 = 0.76 # P(A N D). 
+Again we can say the events are not independent. 
+Ifa doctor suspects that a patient is lactose intolerant, they might give the 
+patient a breath test, or a blood test, or both in order to make a diagnosis. 
+A study found the following results in a particular country: 81% of the 
+patients suspected to be lactose intolerant were given a breath test, 40% a 
+blood test, and 25% both tests. 
+(a) What is the probability that a patient suspected to be lactose intolerant is 
+given: 
+(i) atleast one test 
+(i) exactly one test 
+(iii) no test? 
+(b) Are ‘giving the patient a breath test’ and ‘giving the patient a blood test’ 
+independent? 
+L e e 
+Solution 
+A Venn diagram can help explain the solution. 
+(a) 
+(i) 
+The probability that a patient receives a test means that they receive 
+either a blood test, or a breath test, or both tests. This probability 
+can be calculated directly from the diagram or by applying the 
+addition rule. 
+The diagram shows that if 81% receive the breath test and 25% are 
+also given the blood test, then the remaining 56% do not receive 
+ablood test. Similarly 15% of the blood test receivers do not get a 
+breath test. So, the probability of receiving a test is 
+0:56:0:255H01151=10.967 
+Alternatively, if we apply the addition rule: 
+P(at least one test) = P(breath) + P(blood) — P(both) 
+= 0.81 + 0.40 — 0.25 = 0.96 
+(ii) 
+To receive exactly one test is to receive a blood test or a breath test, 
+but not both. From the Venn diagram it is clear that this probability 
+5 ONSER0I561=10171%
+
+Alternatively, since we know that the union of the two events still 
+contains the intersection, we can subtract the probability of the 
+intersection from that of the union. That is, 0.96 — 0.25 = 0.71. 
+(iii) To receive no test is the complement of receiving at least one test. 
+Hence, P(no test) = 
+1 — P(at least one test) = 
+1 — 0.96 = 0.04. 
+(b) To check for independence, we can use either of the two methods we 
+tried before. 
+Since all the necessary probabilities are given, we can use the product rule: 
+P(both tests) = P(breath) X P(blood) = 0.81 X 0.40 = 0.324, but 
+P(both tests) = 0.25. Therefore, the events of receiving a breath and a 
+blood test are not independent. 
+Example 8.19 
+Jane and Kate are long-time friends and frequently play tennis together. 
+‘When Jane serves first, she wins 60% of the time. The same pattern is true 
+for Kate. They alternate the serve. They usually play for a prize, which is a 
+chocolate bar. The first one who loses on her serve has to buy the chocolate. 
+Jane serves first. 
+(a) Find the probability that Jane pays on her second serve. 
+(b) Find the probability that Jane eventually pays for the chocolate. 
+(c) Find the probability that Kate pays for the chocolate. 
+  
+Solution 
+A tree diagram can help in 
+< ]W< 
+understanding this problem. 
+w{ 
+Let JW stand for Jane winning 
+0.6 ]W< 
+her serve and JL for Jane losing her serve 
+KW< 
+and hence paying. KW and KL are defined similarly. 
+(a) For Jane to pay on her second serve, she should win her first serve. 
+Kate must also win her first serve, and then Jane loses her second serve. 
+See diagram above. The probability this happens is 
+P(JW) 
+- P(KW) 
+- P(JL) = 0.6 X 0.6 X 0.4 = 0.4 
+(0.6)* = 0.144 
+(b) For Jane to pay, she needs to be the first one to lose on her serve. 
+This means, she loses on her first serve or the second or the third, and 
+50 on. So, the probability that she pays is 
+P(Jane pays) = P(JL) + P(JW) 
+- P(KW) 
+- P(L) + 
+P(W) 
+- P(KW) 
+- PUW) 
+- P(KW) 
+- P(JL) + - 
+=04+ 04-(0.6+ 0.4-(0.6) + - 
+335
+
+336 
+Probability 
+— 
+;w< < 
+This appears to be the sum of an infinite geometric series with (0.6)? as 
+common ratio, hence 
+0.4 
+P(Jane pays) = 0.4 + 0.4 
+- (0.6)> + 0.4 - (0.6)* + - = w = 0.625 
+  
+(c) P(Kate pays) = 
+1 — P(Jane pays) = 
+1 — 0.625 = 0.375 
+Alternatively, for Kate to pay she needs to lose on her first serve, 
+(0.6 X 0.4), or on her second, third, etc., 
+P(Kate pays) = 0.6 X 0.4 + 0.6 X (0.6)> X 0.4 + 0.6 X (0.6)* X 0.4 + - 
+_ 0.6%04 
+1— (062 
+=10:375 
+Example 8.20 
+  
+  
+A target for a dart game is shown 
+here. The radius of the board is 
+40cm and the board is divided into 
+three regions as shown. You score 
+2 points if you hit the centre, 
+1 point for the middle region, and 
+0 points the outer region. 
+(a) What is the probability of scoring 
+a1 in one attempt? 
+  
+(b) What is the probability of scoring 
+a2 in one attempt? 
+(c) How many attempts are necessary so that the probability of scoring at 
+least one 2 is at least 50%? 
+  
+Solution 
+_ m202—10) _ 3 
+@PO=""" 
+16 
+m102) _ 
+1 
+() PQ) 
+= a0y 16
+
+(c) 
+Let the number of attempts be 7. 
+P(at least one 2) = 1 — P(no 2 in 7 attempts) 
+= 
+1 — (}g) 
+For this probability to be at least 50%, then 
+(1) 
+505 
+e (15 < 
+i 
+(16) 
+0.5 & 
+I3 
+0.5 
+  
+= n=10.74 
+So 11 attempts are required. 
+i Events A and B are given such that P(A) = Z, P(AUB = % and 
+PANB = Fmd P(B). 
+. Events A and B are given such that P(A) = E’ P(AUB = 10 a.nd 
+P(A N B) = 2. Find: 
+(a) P(B) 
+(b) P(B' N A) 
+(c) P(BN A") 
+(d) P(B' N A") 
+(e) P(B|A") 
+. Events A and B are given such that P(A) = 3 P(A UB) = 9 4 and 
+P(B) = 5. Show that A and B are neither mdependent nor mutua]ly 
+exclusive. 
+. Events A and B are given such that P(A) = 3, andPA NB) = 1—30 
+If A and B are independent, find P(A U B). 
+. Driving tests in a certain city are not easy to pass the first time. After 
+going through training, the percentage of new drivers passing the test 
+the first time is 60%. If a driver fails the first test, the chance of passing 
+it on a second try, two weeks later, is 75%. Otherwise, the driver has 
+to retrain and take the test after 6 months. Find the probability that a 
+randomly chosen new driver will pass the test without having to retrain. 
+. People with O~ blood type are universal donors. In other words, they 
+can donate blood to individuals with any blood type. Only 8% of people 
+have O™ blood. 
+(a) One person randomly arrives to give blood. What is the probability 
+that the person does not have O~ blood? 
+337
+
+Probability 
+(b) Two people arrive independently to give blood. Find the probability 
+that: 
+(i) 
+both have O~ blood 
+(ii) 
+at least one of them has O~ blood 
+(iii) only one of them has O~ blood. 
+(c) Eight people arrive randomly to give blood. What is the probability 
+that at least one of them has O~ blood? 
+7. PINs for cell phones usually consist of four digits that are not necessarily 
+different. 
+(a) How many possible PINs are there? 
+(b) What is the probability that a PIN chosen at random does not start 
+with a zero? 
+(c) What is the probability that a PIN contains at least one zero? 
+(d) Given a PIN with at least one zero, what is the probability that it 
+starts with a zero? 
+8. An urn contains six red balls and two blue balls. We make two draws 
+and each time we put the ball back after marking its colour. 
+(a) What is the probability that at least one of the balls is red? 
+(b) Given that at least one is red, what is the probability that the second 
+one is red? 
+(c) Given that at least one is red, what is the probability that the second 
+one is blue? 
+9. Two dice are rolled and the numbers on the top faces are observed. 
+(a) List the elements of the sample space. 
+(b) Let x represent the sum of the numbers observed. Copy and 
+complete the following table. 
+  
+X 
+2 
+4 
+Bl 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+3 
+P(x) 
+& 
+  
+(c) 
+(i) 
+What is the probability that at least one dice shows a 62 
+(ii) What is the probability that the sum is at most 102 
+(iii) What is the probability that a dice shows 4 or the sum is 10? 
+(iv) Given that the sum is 10, what is the probability that one of the 
+diceis a 4? 
+10. A school has the following numbers categorised by class and gender: 
+  
+Grade 9 
+Grade10 | Gradell | Gradel2 
+Total 
+Male 
+180 
+170 
+230 
+220 
+800 
+Female 
+200 
+130 
+190 
+180 
+700 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+338
+
+i 
+12. 
+5 
+(a) What is the probability that a student chosen at random will be a 
+female? 
+(b) What is the probability that a student chosen at random is a male in 
+grade 122 
+(c) What is the probability that a female student chosen at random is a 
+grade 12 student? 
+(d) What is the probability that a student chosen at random is a grade 
+12 or female student? 
+(e) What is the probability that a grade 12 student chosen at random is 
+a male? 
+(f) Are gender and grade independent of each other? Explain. 
+Some young people do not like to wear glasses. A survey considered a 
+large number of teenaged students as to whether they needed glasses to 
+correct their vision and whether they used the glasses when they needed 
+to. Here are the results. 
+  
+  
+  
+  
+ 
+ 
+ 
+Used glasses when needed 
+Yes 
+No 
+Need glasses for 
+Yes 
+0.41 
+0.15 
+correct vision 
+R 
+0.04 
+0.40 
+ 
+ 
+  
+(a) Find the probability that a randomly chosen young person from this 
+group 
+(i) 
+is judged to need glasses 
+(ii) needs to use glasses but does not use them. 
+(b) From those who are judged to need glasses, what is the probability 
+that the student does not use them? 
+(c) Are the events of using and needing glasses independent? 
+Copy this table and fill in the missing entries. 
+  
+P(4) | P(B) 
+|Conditions forevents | P(ANB) | PAUB) | P(4|B) 
+Aand B 
+  
+03 | 04 
+[Mutuallyexclusive 
+03 | 04 
+|Independent 
+01 | 
+05 
+0.6 
+02 | 
+05 
+0.1 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+In a large graduating class, there are 100 students taking the IB 
+examination. 40 students are doing Economics SL, 30 students are doing 
+Physics SL, and 12 are doing both. 
+(a) A student is chosen at random. Find the probability that this student 
+is doing Physics, given that they are doing Economics SL. 
+(b) Are doing Physics and Economics SL independent events? 
+339
+
+340 
+Probability 
+14. 
+116} 
+16. 
+173 
+18. 
+19. 
+A market chain in Germany accepts only Mastercard and Visa. 
+It estimates that 21% of its customers use Mastercard, 57% use Visa, 
+and 13% use both cards. 
+(a) What is the probability that a customer will have an acceptable 
+credit card? 
+(b) What proportion of their customers has neither card? 
+() What proportion of their customers has exactly one acceptable card? 
+132 of 300 patients at a hospital are signed up for a special exercise 
+programme that consists of a swimming class and an aerobics class. 
+Each of these 132 patients takes at least one of the two classes. There are 
+78 patients in the swimming class and 84 in the aerobics class. Find the 
+probability that a randomly chosen patient at this hospital is: 
+(a) not in the exercise programme 
+(b) enrolled in both classes. 
+An ordinary unbiased six-sided dice is rolled three times. Find the 
+probability of rolling 
+(a) three twos 
+(b) 
+at least one two 
+(c) exactly one two. 
+An athlete is shooting arrows at a target. She has a record of hitting the 
+centre 30% of the time. Find the probability that she hits the centre: 
+(a) with her second shot but not with her first 
+(b) exactly once with her first three shots 
+(c) atleast once with her first three shots. 
+Two unbiased dodecahedral (12 faces) dice, with faces numbered 
+1 to 12, are thrown. The scores are the numbers on the top side. 
+Find the probability that: 
+(a) atleast one 12 shows 
+(b) the total score is exactly 12 
+(c) there is a total score of at least 20 
+(d) atotal score of at least 20 is achieved, given that a 12 shows on at least 
+one dice. 
+The two dodecahedral dice in question 18 are thrown again. Two events 
+are defined: 
+A = {at least one of the numbers is a 10} 
+B = {the sum of the numbers is at most 15} 
+Describe each event, list its elements, and find the probability. 
+(@) ANB 
+(b) AUB 
+(c) ANB 
+(d) AuB’ 
+(e) AUB 
+(f) ANB 
+(g) ANBIU(A'NB)
+
+20. 
+2L, 
+22. 
+23. 
+253 
+Three fair six-sided dice are rolled. 
+(a) Find the probability that a triple is rolled. 
+(b) Given that the roll is a sum of 8 or less, find the probability that a 
+triple is rolled. 
+(c) Find the probability that at least one six appears. 
+(d) Given that the dice all have different numbers, find the probability 
+that at least one six appears. 
+You are given four coins: one has two heads, one has two tails, and the 
+other two are normal. You choose a coin at random and flip it. The result 
+is tails. What is the probability that the opposite face is heads? 
+George and Kassanthra play a game in which they roll two unbiased 
+six-sided dice. The first one who rolls a sum of 6 wins. Kassanthra rolls 
+the dice first. 
+(a) What is the probability that Kassanthra wins on her second roll? 
+(b) What is the probability that George wins on his second roll? 
+(c) What is the probability that Kassanthra wins? 
+A small repair shop for washing machines has the following demand for 
+their services: 
+On 10% of the days, they have no requests; they have one request on 
+30% of the days, and two requests 50% of the time. 
+(a) On Monday, what is the chance of more than two requests? 
+(b) What is the chance of no requests for a whole week (of 5 days)? 
+  
+  
+  
+. A construction company is bidding on three projects: B,, B,, and 
+3 | B 
+B 
+y 
+2 
+5 
+B,. From previous experience they have the following probabilities 
+3 
+011 | 0.05 
+of winning the bids: P(B;) = 0.22, P(B,) = 0.25, and P(B;) = 0.28. 
+Bl 
+" 
+o0 
+, 
+. 
+. 
+  
+ 
+ 
+ 
+ 
+Winning the bids are not independent of each other. The joint 
+B, | 005007 
+ 
+  
+probabilities are given in Table 8.5. Also, P(B, N B, N B;) = 0.01. 
+Find the following probabilities: 
+(a) P(B; UB,) 
+(b) P(BiN By) 
+(c) P(B1N By UB; 
+(d) P(B{ N B,N By) 
+(e) P(B,N By|By) 
+(£) P(B,UBs|B,) 
+Table 8.5 Data for question 24 
+Circuit boards used in electronic equipment go through more than 
+one inspection. The process of finding faults in the solder joints on 
+these boards is highly subjective and prone to disagreements among 
+inspectors. In a batch of 20 000 joints, Nick found 1448 faulty joints 
+while David found 1502 faulty ones. All in all, between both inspectors, 
+2390 joints were judged to be faulty. Find the probability that a 
+randomly chosen joint is: 
+(a) judged to be faulty by neither of the two inspectors 
+(b) judged to be defective by David but not Nick. 
+341
+
+342 
+Probability 
+Chapter 8 practice questions 
+1. Two independent events A and B are given such that: 
+P(A) = k, P(B) = k + 0.3and P(A N B) = 0.18. 
+(a) Find k. 
+(b) Find P(A U B) 
+(c) P(A'|B") 
+2. Many airport authorities test prospective employees for drug use. This 
+procedure has plenty of opponents who claim that this procedure creates 
+difficulties for some people and that it prevents others from getting these 
+jobs even if they were not drug users. The claim depends on the fact that 
+these tests are not 100% accurate. To test this claim, assume that a test is 
+989% accurate in that it correctly identifies a person as a user or non-user 
+98% of the time. Each job applicant takes this test twice. The tests are 
+done at separate times and are designed to be independent of each other. 
+‘What is the probability that: 
+(a) anon-user fails both tests 
+(b) 
+a drug user is detected (i.e., they fail at least one test) 
+(c) adrug user passes both tests? 
+3. Communications satellites are difficult to repair when something goes 
+wrong. One satellite uses solar energy and it has two systems that 
+provide electricity. The main system has a probability of failure of 0.002. 
+It has a backup system that works independently of the main one and 
+has a failure rate of 0.01. What is the probability that the systems do not 
+fail at the same time? 
+4. In a group of 200 students taking the IB examination, 120 take Spanish, 
+60 take French, and 10 take both. 
+(a) Ifa student is selected at random, what is the probability that the 
+student: 
+(i) 
+takes either French or Spanish 
+(ii) 
+takes either French or Spanish, but not both 
+(iii) does not take either French or Spanish? 
+(b) Given that a student takes Spanish, what is the chance that the 
+student takes French? 
+In a factory producing computer disk drives, there are three machines 
+that work independently to produce one of the components. In any 
+production process, machines are not 100% fault free. The production 
+after one batch from each machine is listed in the table. 
+  
+  
+  
+  
+Defective 
+Non-defective 
+Machine I 
+6 
+120 
+Machine IT 
+4 
+80 
+Machine ITT 
+10 
+150 
+ 
+ 
+ 
+   
+(a) A component is chosen at random from the batches. Find the 
+probability that the chosen component is:
+
+(i) 
+from machine I 
+(ii) 
+a defective component from machine IT 
+(iii) non-defective or from machine I 
+(iv) from machine I given that it is defective. 
+(b) 
+Is the quality of the component dependent on the machine used? 
+. At a school, the students are organising a lottery to raise money for their 
+community. The lottery tickets that they have consist of small coloured 
+envelopes containing a small note. The note either says: ‘You won a 
+prize!” or ‘Sorry, try another ticket. The envelopes have several colours. 
+They have 70 red envelopes that contain two prizes, and the rest (130 
+envelopes) contain four other prizes. 
+(a) You want to help this class and you buy a ticket hoping that it does 
+not have a prize. You pick your ticket at random by closing your 
+eyes. What is the probability that your ticket does not have a prize? 
+(b) You picked a red envelope. What is the probability that you did not 
+win a prize? 
+. Two events A and B have the conditions: 
+P(AIB) = 0.30, 
+P(BIA) =0.60, 
+P(A N B)=0.18. 
+(a) Find P(B) 
+(b) Are A and B independent? Explain. 
+() Find P(BN A") 
+. In several ski resorts in Austria and Switzerland, the local sports 
+authorities use senior high school students as ski instructors to help 
+deal with the surge in demand during vacations. However, to become an 
+instructor, you have to pass a test and must be a senior at your school. 
+Here are the results of a survey of 120 students in a Swiss school who 
+are training to become instructors. In this group, there are 70 boys and 
+50 girls. 74 students took the test, 32 boys and 16 girls passed the test, 
+the rest, including 12 girls, failed the test. 10 of the students, including 
+6 girls, were too young to take the ski test. 
+(a) Copy and complete the table. 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Boys 
+Girls 
+Passed the ski test 
+32 
+16 
+Failed the ski test 
+12 
+Training, but did not take the test yet 
+Too young to take the test 
+   
+(b) Find the probability that: 
+(i) 
+astudent chosen at random, has taken the test 
+(ii) 
+a girl chosen at random has taken the test 
+(iii) a randomly chosen boy and randomly chosen girl have both 
+passed the ski test. 
+343
+
+Probability 
+el 
+9. Two events A and B are such that P(A) = e 
+Find the probability that: 
+(a) both events will happen 
+P(®B) =3, and P(AIB) = L. 
+(b) only one of the events will happen 
+(c) neither event will happen. 
+10. Martina plays tennis. When she serves, she has 60% chance of 
+succeeding with her first serve and continuing the game. She has 95% 
+chance on the second serve. Of course, if both serves are not successful, 
+she loses the point. 
+(a) Find the probability that she misses both serves. 
+If Martina succeeds with the first serve, her probability of gaining the 
+point against Steffy is 75%; if she is only successful with the second 
+serve, the probability for that point goes down to 50%. 
+(b) Find the probability that Martina wins a point against Steffy. 
+11. For events Xand Y, P(X) = 0.6, P(Y) = 0.8 and P(X U Y) = 1. 
+Find: 
+(@) PXNY) 
+(b) PX' U Y'). 
+12. In a survey, 100 managers were asked ‘Do you prefer to watch the news 
+or play sport?’ Of the 46 men in the survey, 33 said they would choose 
+sport, while 29 women made this choice. 
+  
+  
+  
+Men 
+Women 
+Total 
+The news 
+Sport 
+33 
+29 
+Total 
+6 
+100 
+ 
+ 
+ 
+ 
+   
+Find the probability that: 
+(a) 
+a manager selected at random prefers to watch the news 
+(b) 
+a manager prefers to watch the news, given that the manager is a man. 
+  
+ 
+ 
+  
+Uy 
+B 
+13. The Venn diagram shows a sample space U and events X and Y. 
+n(U) = 36, n(X) = 11, n(Y) = 6and n(X U Y)' = 21. 
+(a) Copy the diagram and shade the region (X U Y)". 
+(b) Find: 
+Figure 8.18 Venn diagram for 
+() nXNY) 
+question 13 
+(ii) PX N 
+Y). 
+(c) Are events X and Y mutually exclusive? Explain why or why not. 
+344
+
+14. 
+152 
+16. 
+7e 
+18. 
+In a survey of 200 people, 90 of whom were female, it was found that 
+60 people were unemployed, including 20 males. 
+(a) Copy and complete the table, using this information. 
+  
+  
+  
+  
+Males 
+Females 
+Totals 
+Unemployed 
+Employed 
+Totals 
+200 
+ 
+ 
+ 
+ 
+   
+(b) Ifa person is selected at random from this group of 200, find the 
+probability that this person is: 
+(i) 
+an unemployed female 
+(ii) a male, given that the person is employed. 
+The Venn diagram shows the universal set U and the subsets M and N. 
+(a) Copy the diagram and shade the area which represents the set M N N'. 
+n(U) = 100, n(M) = 30, n(N) = 50, and n(M U N) = 65. 
+(b) Find n(N N M). 
+(c) An element is selected at random from U. What is the probability 
+that this element is in N N M'? 
+Two fair dice are thrown and the number showing on each is noted. 
+Find the probability that: 
+(a) the sum of the numbers is less than or equal to 7 
+(b) 
+at least one dice shows a 3 
+(c) 
+atleast one dice shows a 3, given that the sum is less than 8. 
+For events A and B, the probabilities are P(A) = i P(B)= % 
+Calculate the value of P(A N B) if: 
+G 
+(a) P(AUB) = i 
+(b) events A and B are independent. 
+In a school of 88 boys, 32 study Economics (E), 28 study History (H), 
+and 39 do not study either subject. This information is represented in 
+the Venn diagram. 
+(a) Calculate the values a, b, and c. 
+(b) A student is selected at random. 
+(i) 
+Calculate the probability that he studies both Economics and 
+history. 
+(ii) Given that he studies Economics, calculate the probability that 
+he does not study History. 
+(c) A group of three students is selected at random from the school. 
+(i) 
+Calculate the probability that none of these students studies 
+Economics. 
+(ii) 
+Calculate the probability that at least one of these students 
+studies Economics. 
+U   
+M 
+N 
+ 
+ 
+  
+Figure 8.19 Venn diagram for 
+question 15 
+  
+ 
+E(32) 
+H(28) 
+  
+  
+Figure 8.20 Venn diagram for 
+question 18 
+345 
+ 
+
+Probability 
+19. Sophia is a student at an IB school. 
+The probability that she will be woken by her alarm clock is % 
+If she is woken by her alarm clock, the probability she will be late for 
+schoolis 1. 
+If she is not woken by her alarm clock, the probability she will be late for 
+schoolis 2. 
+) 
+Let W be the event ‘Sophia is woken by her alarm clock’ 
+Let L be the event ‘Sophia is late for school. 
+(a) Copy and complete the tree diagram. 
+i 
+(b) Calculate the probability that 
+Sophia will be late for school. 
+(c) Given that Sophia is late for 
+= 
+school, what is the probability 
+that she was woken by her 
+alarm clock? 
+= 
+w 
+I 
+20. Two unbiased six-sided dice of different colours are rolled. 
+Find: 
+(a) P(the same number appears on both dice) 
+(b) P(the sum of the numbers is 10) 
+(c) P(the sum of the numbers is 10 or the same number appears on 
+both dice). 
+21. The table below shows the subjects 
+1 
+  
+Year 1 | Year 
+2 | Totals 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+studied by 210 students at a college. 
+g 
+History | 
+50 | 
+35 | 
+85 
+(a) A student from the college is 
+Science 
+15 
+30 
+45 
+selected at random. 
+Let A be the event the student 
+Lt 
+2 
+35 
+80 
+studies art. Let B be the event 
+Totals 
+110 
+100 | 
+210 
+   
+the student is in Year 2. 
+(i) 
+Find P(A). 
+(ii) 
+Find the probability that the student is a Year 2 art student. 
+(iii) Are the events A and B independent? Justify your answer. 
+(b) Given that a history student is selected at random, calculate the 
+probability that the student is in Year 1. 
+() Two students are selected at random from the college. Calculate the 
+probability that one student is in Year 1 and the other in Year 2. 
+346
+
+22. A new blood test has been shown to be effective in the early detection of 
+a disease. The probability that the blood test correctly identifies someone 
+with this disease is 0.99, and the probability that the blood test correctly 
+identifies someone without the disease is 0.95. The incidence of this 
+disease in the general population is 0.0001. 
+A doctor administered the blood test to a patient and the test result 
+indicated that this patient had the disease. What is the probability that 
+the patient has the disease? 
+23. Asha walks to school every day. If it is not raining, the probability that 
+she is late is 0.2. If it is raining, the probability that she is late is 2 
+The probability that it rains on any particular day is 0.25. 
+Last Friday, Asha was late. Find the probability that it was raining on 
+that day. 
+24. The probability that Marco leaves his umbrella in any place he visits is % 
+After visiting two friends in succession, he finds he has left his umbrella 
+at one of his friends’ places. What is the probability that he left his 
+umbrella at the second friend’s place? 
+25. Two girls, Catherine and Lucy, play a game in which they take turns in 
+throwing an unbiased six-sided dice. The first one to throw a 5 wins the 
+game. Catherine is the first to throw. 
+(a) Find the probability that: 
+(i) 
+Lucy wins on her first throw 
+(ii) 
+Catherine wins on her second throw 
+(iii) Catherine wins on her nth throw. 
+(b) Let p be the probability that Catherine wins the game. 
+Show that p = % o %p. 
+(c) Find the probability that Lucy wins the game. 
+(d) Suppose that they play the game six times. Find the probability that 
+Catherine wins more games than Lucy. 
+26. The chance of rain on any day during the summer in Schaditz, 
+Austria, is 0.2. When it rains, the probability that the daily maximum 
+temperature exceeds 25°C is 0.3, while it is 0.6 when it does not rain. 
+Given that the maximum daily temperature exceeded 25°C on a certain 
+summer’s day, find the probability that it rained on that day. 
+27. The independent events A and B are such that P(A) = 0.4 and 
+P(A U B) = 0.88 Find: 
+(a) P(B) 
+(b) the probability that either A occurs, or B occurs, but not both. 
+347
+
+348 
+Probability 
+28. 
+29. 
+30. 
+Roberto travels to school in a neighbouring town by bus every weekday 
+from Monday to Friday. The probability that he catches the 08:00 bus on 
+Friday is 0.66. The probability that he catches the 08:00 bus on any other 
+weekday is 0.75. A weekday is chosen at random. 
+(a) Find the probability that he catches the 08:00 bus on that day. 
+(b) Given that he catches the 08:00 bus on that day, find the probability 
+that the chosen day is Friday. 
+Antonio and Sarah play a game by throwing a dice in turn. If the dice 
+shows a 3, 4, 5, or 6, the player who threw the dice wins the game. If the 
+dice shows a 1 or 2, the other player has the next throw. Antonio plays 
+first, and the game continues until there is a winner. 
+(a) Write down the probability that Antonio wins on his first throw. 
+(b) Calculate the probability that Sarah wins on her first throw. 
+(c) Calculate the probability that Antonio wins the game. 
+Six balls numbered 1, 2, 2, 3, 3, 3 are placed in a bag. Balls are taken one 
+at a time from the bag at random and the number noted. Throughout 
+the question a ball is always replaced before the next ball is taken. 
+(a) A single ball is taken from the bag. Let X denote the value shown on 
+the ball. Find E(X). 
+(b) Three balls are taken from the bag. Find the probability that: 
+(i) 
+the total of the three numbers is 5 
+(ii) 
+the median of the three numbers is 1. 
+(c) Ten balls are taken from the bag. Find the probability that fewer 
+than four of the balls are numbered 2. 
+(d) Find the fewest number of balls that must be taken from the bag 
+for the probability of taking out at least one ball numbered 2 to be 
+greater than 0.95. 
+(e) Another bag also contains balls numbered 1, 2, or 3. 
+Eight balls are to be taken from this bag at random. It is calculated 
+that the expected number of balls numbered 1 is 4.8, and the 
+variance of the number of balls numbered 2 is 1.5. 
+Find the fewest possible number of balls numbered 3 in this bag.

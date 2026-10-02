@@ -1,0 +1,2566 @@
+ 
+ 
+ 
+  
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ifa, is the nth term of a. 
+sequence, then a,, 
+is the 
+term before itand a,, 
+ is 
+72 
+the term after. 
+Sequences and series 
+  
+= 
+By the end of this chapter, you should be familiar with... 
+  
+ing objectives 
+« 
+arithmetic sequences and series 
++ 
+sum of finite arithmetic sequences 
++ 
+geometric sequences and series 
+« 
+sum of finite and infinite geometric series 
++ 
+sigma notation 
+« 
+the binomial theorem and the expansion of (a + b)", n € N. 
+The heights of consecutive bounces of a ball, compound interest, population 
+growth, and Fibonacci numbers are only a few of the applications of sequences 
+and series that we have seen in previous courses. In this chapter we will review 
+these concepts, consolidate understanding, and take them one step further. 
+m Sequences 
+Look at this pattern: 
+. 
+. 
+o0 
+. 
+oo 
+cee 
+’ 
+. 
+oo 
+Oy 
+es 
+e e 
+. 
+o0 
+s 
+e 
+e 
+ss 
+e 
+e 
+seeee 
+e 
+o0 
+o0e 
+o000 
+c000e 
+scccee 
+1 
+& 
+3 
+4 
+5 
+6 
+Figure 3.1 Sequence of dots in triangular arrays 
+The first term represents 1 dot, the second represents 3 dots, etc... 
+This pattern can be represented as a list of numbers written in a definite order: 
+a=1la,=3,a,=6,... 
+The number a, is the first term, a, the second term, a; the third term, and so on. 
+The nth term is a,,. 
+While the idea of a sequence of numbers, a,,a,,as, ... is straightforward, it is 
+useful to think of a sequence as a function. The sequence in Figure 3.1 can also 
+be described in function notation as: 
+f(1) = 1,f(2) = 3,f(3) = 6, and so on, where the domain is Z* 
+Here are some more examples of sequences: 
+1 
+6,12,18,24,30 
+  
+4 
+{by,b,, ..., b, ...}, sometimes used with an abbreviation {b,}
+
+The first and third sequences are finite and the second and fourth are infinite. 
+In the second and fourth sequences, we were able to define a rule that yields the 
+nth number in the sequence (called the nth term) as a function of #, the term’s 
+number. In this sense, you can think of a sequence, as a function that assigns a 
+unique number (a,) to each positive integer n. 
+Find the first 5 terms and the 50th term of the sequence {b,} such that 
+il 
+b,=2-— 
+| 
+Solution 
+Since we are given an explicit expression for the nth term as a function of 
+its term number 7, we only need to find the value of that function for the 
+required terms: 
+e 
+) 
+s 
+e 
+T 
+CERR e 
+RS T 
+=gl 
+a1 42 
+—,_ 
+L 
+249 
+Caa2 
+2 
+%6 
+b 
+5 
+1% 
+b 
+502 
+2500 
+So, informally, a sequence is an ordered set of real numbers. That is, there is 
+a first number, a second, and so on. The notation used for these sets is shown 
+in Example 3.1. The way the function was defined in Example 3.1 is called the 
+explicit definition of a sequence. There are other ways to define sequences, 
+one of which is the recursive definition (also called the inductive definition). 
+The following example will show you how this is used. 
+Find the first 5 terms and the 20th term of the sequence {b,} such that b, = 5 
+and b, = 2(b,—, + 3) 
+Solution 
+The defining formula for this sequence is recursive. It allows us to find 
+the nth term b, if we know the preceding term b, 
+,. Thus, we can find the 
+second term from the first, the third from the second, and so on. Since we 
+know the first term b; = 5, we can calculate the rest: 
+b,=2(b; +3)=265+3)=16 
+by = 2(b, + 3) = 2016 + 3) = 38 
+by=2(b, + 3) = 2(38 + 3) = 82 
+bs = 2(b, + 3) = 2(82 + 3) = 170 
+So, the first 5 terms of this sequence are 5, 16, 38, 82, and 170. However, to 
+find the 20th term, we must first find all 19 preceding terms. This is one of 
+the drawbacks of this type of definition, unless we can change the definition 
+into explicit form. This can easily be done using a GDC (Figure 3.2). 
+  
+Plotl 
+Plot2 
+Plot3 
+nMin=1 
+- U(n)E2(u(n—1)+3 
+  
+  
+U(nMin)E5m 
+U(5) 
+170 
+U(20) 
+5767162 
+ 
+ 
+  
+Figure 3.2 GDC screens for 
+Example 3.2 
+13
+
+74 
+Sequences and series 
+A Fibonacci sequence is defined recursively as: 
+il 
+o=yl 
+Fy= 
+il 
+=) 
+e D) 
+(a) Find the first 10 terms of the sequence. 
+(b) Find the sum of the first 10 terms of the sequence. 
+(c) 
+By observing that F; = F; — F,,F, = F, — F;, and s0 on, derive a 
+formula for the sum of the first # Fibonacci numbers. 
+| 
+Solution 
+(E0) 
+1, 11,25 % 55, 65, 113%, 20 241 65 
+(b) S, =1,5,=28,=4,8,=7,5=12,§, = 20,5,=33,5; = 54, 
+Sy = 88,8,y =143 
+(c) 
+Since F; = F, + F,, then: 
+L=k 
+F=F-F 
+F,=F—F, 
+=55 
+  
+  
+w2 = Fu 
+  
+Sy =Fuy— F, 
+Notice that S, = 12 = F, 
+— F, = 13 — 1and $; = 54 = F,y— 
+F, = 55 — 1 
+Note: parts (a) and (b) can be made easy by using a spreadsheet: 
+An) 
+S(n) 
+  
+  
+  
+  
+   
+
+Notice that not all sequences have formulae, either recursive or explicit. Some 
+sequences are given only by listing their terms. 
+1. 
+Find the first 5 terms of each infinite sequence. 
+(@) s(n)=2n—3 
+(b) g(k) =2—-3 
+(c) fin)=3Xx27" 
+) a, = (=1)"2") +3 
+D 
+b=3 
+© {a =a, +3; 
+forn>1 
+® {b:b,,,,+2n; 
+forn=2 
+n 
+2. 
+Find the first 5 terms and the 50th term of each infinite sequence. 
+  
+  
+@) a,=2n—-3 
+(b)FhE= st 
+e 
+2n 
+. 
+@ w= -0t 2) 
+@ a,=nt 
+3 
+(e) a,=2a, +5and a, =3 
+(£) tyin = mand u =0 
+(g) b, =3b,_,and b, =2 
+()R 
+| 
+B3 
+Suggest a recursive definition for each sequence. 
+Ei 
+()3 
+12 48 192° 
+S 
+2T 
+(b)za,3a a*,>-a 
+() a— 5k,2a — 4k,3a — 3k,4a — 2k,5a — k, -+ 
+4. 
+Write down a possible formula that gives the nth term of each sequence. 
+(a) 4,7,12,19, ... 
+(b) 2,5,8,11, ... 
+357 9 
+ISR 
+(9 1’1’3’1_6’E"“ 
+d - 5% §"“ 
+5 
+5. 
+A sequence is defined as a, = 
+;“ 
+'n 
+  ,n > 1, where F, is a member of the 
+Fibonacci sequence. 
+(a) Write down the first 10 terms of a,, 
+1 
+n—1 
+  
+(b) Show thata, =1 + & 
+75
+
+Definition of an 
+arithmetic sequence 
+Asequence dy, @y, @y, ... 
+is an arithmetic sequence 
+if there is a constant d for 
+whicha, = a,_; +d 
+for all integers n > 1, where 
+dis called the common 
+difference of the sequence, 
+andd 
+= a, — a, 
+forall 
+integers 1> 1. 
+‘The general (nth) term of 
+an arithmetic sequence, 
+a, with first term a; and 
+common difference d may 
+be expressed explicitly as 
+ay=ay + (n— 1)d. 
+76 
+Sequences and series 
+m 
+Arithmetic sequences 
+There are two types that we will look at here: arithmetic and geometric 
+sequences. We will look at them in the next two sections. 
+Examine each sequence and the most likely recursive formula for each of them. 
+  
+   
+  
+7,14,21,28,35,42, 
+... 
+a,=7anda,=a,_,+7forn>1 
+2,11,20, 29, 38,47, 
+ay=2anda,=a, ,+9forn>1 
+39,30,21, 12,3, =6, 
+a,=39anda,=a,_, —9,forn>1 
+Note that in each case, every term is formed by adding a constant number to the 
+preceding term. Sequences formed in this manner are called arithmetic sequences. 
+So, for the sequences above, 7 is the common difference for the first, 9 is the 
+common difference for the second, and —9 is the common difference for the third. 
+This description gives us the recursive definition of the arithmetic sequence. 
+It is possible, however, to find the explicit definition of the sequence. 
+Applying the recursive definition repeatedly will enable us to see the expression 
+we are seeking: 
+a=a +d 
+a;=a,+d=a +d+d=a +2d 
+a,=a;+d=a +2d+d=a, +3d 
+So, we get to the nth term by adding d to a,, (n — 1) times. 
+This result is useful in finding any term of a sequence without knowing the 
+previous terms. 
+‘The arithmetic sequence can be looked at as a linear function as explained in the introduction to this 
+chapter. In other words, for every increase of one unit in , the value of the sequence wil increase 
+by d units. As the first term is ay, the point (1, a;) belongs to this function. The constant increase d 
+can be considered to be the gradient (slope) of this linear model, hence the nth term, the dependent 
+variable in this case, can be found by using the point-slope form of the equation of 
+a line: 
+y =y =mlx—x) 
+ap—ay=dn—1)sa,=a+n—1)d 
+“This agrees with our definition of an arithmetic sequence. 
+Example 
+3.4 
+Find the nth term and the 50th term of the sequence 2, 11, 20, 29, 38, 47, ... 
+e 
+e 
+Solution 
+This is an arithmetic sequence with first term 2 and common difference 9. 
+Therefore: 
+=g t(n—1)d=2+n-1)X9=9n—7 
+= 4= 9 X 50— 7 =443
+
+(a) Find the recursive and the explicit forms of the definition of the sequence: 
+13,8,3, -2, ... 
+(b) Calculate the value of the 25th term. 
+Solution 
+(a) This is clearly an arithmetic sequence, with common difference —5. 
+an=13 
+Recursive definition: 
+_ =8, =5 
+Explicit definition: 
+a,=13—5(n—1)=18 — 5n 
+(b) 
+a =18 
+— 5 
+X 25 
+= 
+—107 
+Example 3.6 
+Find a definition for the arithmetic sequence whose first term is 5 and fifth 
+termis 11. 
+Solution 
+Since the fifth term is given, using the explicit form, we have: 
+a5:u,+(571)d#11:5+4d$d:% 
+This leads to the general term: 
+a,=5+ %(n — 1), or equivalently 
+@ =5 
+= 
+3 
+@y= Gy t=n>1 
+2 
+Example 3.7 
+Insert four arithmetic means between 3 and 7. 
+Solution 
+Since there are four means between 3 and 7, the problem can be reduced to a 
+situation similar to Example 3.6, by considering the first term to be 3 and the 
+sixth term to be 7. The rest is left as an exercise for you. 
+In a finite arithmetic 
+sequence a, ay, ay, ., o 
+the terms 
+3 e g a0 
+called arithmetic means 
+between a; and a;. 
+7
+
+Sequences and series 
+1. Insert four arithmetic means between 3 and 7. 
+2. State whether or not each sequence is an arithmetic sequence. If it is, 
+find the common difference and the 50th term. If it is not, say why not. 
+@) a,=2n-3 
+®) b,=nt+2 
+(€) 
+¢y=¢cpy t2,andg =—1 
+(d) u,=3u,, +2 
+(€ 
+2,57,12,19, ... 
+(f) 2,-5—12,-19, ... 
+3. For each arithmetic sequence find: 
+(i) 
+the 8th term 
+(ii) 
+an explicit formula for the nth term 
+(iii) a recursive formula for the nth term. 
+(@) —2,2,6,10, ... 
+(b) 29,25,21,17, 
+... 
+(©) —6,3,12,21,... 
+(d) 10.07,9.95,9.83,9.71, ... 
+SR 
+(e) 100,97,94,91, 
+... 
+(O 
+S 
+4. Find five arithmetic means between 13 and —23. 
+5. Find three arithmetic means between 299 and 300. 
+6. In an arithmetic sequence, a; = 16 and a,, = 42. 
+Find an explicit formula for the nth term of this sequence. 
+7. In an arithmetic sequence, a; = —40 and ay = —18. 
+Find an explicit formula for the nth term of this sequence. 
+8. The first three terms and the last term are given for each sequence. 
+Find the number of terms. 
+(a) 3,9,15, ..., 525 
+(b) 9,3, 3, ..., —201 
+105 
+3 
+112 
+5 
+(O 
+R0 S S 
+(FTE .- 
+() 1—k1+kl+3k...,1+19% 
+  
+9. Find five arithmetic means between 15 and —21. 
+10. Find three arithmetic means between 99 and 100. 
+11. In an arithmetic sequence, a; = 11 and a,, = 47. 
+Find an explicit formula for the nth term of this sequence. 
+78
+
+12. In an arithmetic sequence, a, = —48 and a,; = —10. 
+Find an explicit formula for the nth term of this sequence. 
+13. The 30th term of an arithmetic sequence is 147 and the common 
+difference is 4. Find a formula for the nth term. 
+14. The first term of an arithmetic sequence is —7 and the common 
+difference is 3. Is 9803 a term of this sequence? If so, which term? 
+15. The first term of an arithmetic sequence is 9689 and the 100th term is 
+8996. Show that the 110th term is 8926. Is 1 a term of this sequence? 
+If so, which term? 
+16. The first term of an arithmetic sequence is 2 and the 30th term is 147. 
+Is 995 a term of this sequence? If so, which term? 
+Geometric sequences 
+Examine the following sequences and the most likely recursive formula for 
+each of them. 
+  
+  
+7,14,28,56, 112,224, ... 
+a,=7anda,=a, ,X2,forn>1 
+2,18,162, 1458, 13122, 
+a,=2anda,=a,_, X9 forn>1 
+48,-24,12,-6,3,—15,... 
+a,=48anda,=a,_, X (—05),forn>1 
+Note that in each case, every term is formed by multiplying a constant 
+number with the preceding term. Sequences formed in this manner are 
+called geometric sequences. 
+Thus, for the preceding sequences, 2 is the common ratio for the first, 9 is the 
+common ratio for the second and —0.5 is the common ratio for the third. 
+This description gives us the recursive definition of the geometric sequence. 
+It is possible, however, to find the explicit definition of the sequence. 
+Applying the recursive definition repeatedly will enable us to see the expression 
+we are seeking: 
+a=a Xr 
+G=aXr=aXrXr=a 
+X 
+a=aXr=a,XrPXr=a 
+Xr 
+We can see that we get to the nth term by multiplying r by a,, (n — 1) times. 
+This result is useful in finding any term of a sequence without knowing the 
+previous terms. 
+Definition of a 
+geometric sequence 
+A sequence ay, ay, as, is 
+a geometric sequence if 
+there is a constant r for 
+which 
+ay=a,_ Xr 
+for all integers 1> 1, 
+where 7 is the common 
+ratio of the sequence, 
+andr = a, + a,_, forall 
+integersn > 1. 
+nth term of a geometric 
+sequence 
+The general (nth) term 
+of a geometric sequence, 
+a, with common ratio r 
+and first term a, may be 
+expressed explicitly as 
+4, —a; Xnta) 
+79
+
+Sequences and series 
+Example 3.8 
+(a) Find the geometric sequence with @, = 2and r = 3 
+(b) Describe the sequence 3, —12, 48, —192, 768, ... 
+(c) Describe the sequence 1, 
+,i,é- 
+o= 
+(d) Graph the sequence g, = 
+—- 3"} 
+i 
+e 
+Solution 
+(a) The geometric sequence is 2, 6, 18, 54, ..., 2 X 3"~ !. Notice that the 
+ratio of any two consecutive terms is 3. 
+(b) This is a geometric sequence with @, = 3 and r = —4. The nth term is 
+a, = 3 X (—4)"'. Notice that when the common ratio is negative, the 
+terms of the sequence alternate in sign. 
+1 
+(c) The nth term of this sequence is a, = 1 X (%) 
+. Notice that the ratio 
+of any two consecutive terms is 7 Also, notice that the terms decrease 
+in value. 
+(d) Use a GDC to graph the sequence. 
+The terms of the sequence lie on the graph 
+  
+of the exponential function y = i 2 
+ 
+   
+Example 3.9 
+At 8:00 a.m., 1000 mg of medicine is given to a patient. At the end of each 
+hour, the amount of medicine in the patient’s bloodstream is 60% of the 
+amount present at the beginning of the hour. 
+(a) What portion of the medicine remains in the patient’s bloodstream at 
+12 noon if no additional medication had been given? 
+(b) Ifa second dose of 1000 mg is given at 10:00 a.m., what is the total 
+amount of the medication in the patient’s bloodstream at 12 noon? 
+" 
+—] 
+Solution 
+(a) Use the geometric model, as there is a constant multiple at the end of 
+each hour. Hence, the amount at the end of any hour after giving the 
+medicine is: 
+a, = a, X r"~ !, where n is the number of hours. 
+So, at 12 noon, n = 5 and as = 1000 X 0.6~ = 129.6 mg
+
+(b) For the second dose, the amount of medicine at noon corresponds to n = 3: 
+a; = 1000 X 0.6° Y = 360 
+So, the amount of medicine is 129.6 + 360 = 489.6 mg 
+[@Zelaglole Vel NlaI TR 
+Compound interest is an example of a geometric sequence. 
+Interest compounded annually 
+When we borrow money we pay interest, and when we invest money we receive 
+interest. Suppose an amount of €1000 is put into a savings account that has an 
+annual interest rate of 6%. How much money will we have in the bank at the 
+end of 4 years? 
+It is important to note that the 6% interest is given annually and is added to the 
+savings account, so that in the following year it will also earn interest, and so on. 
+  
+  
+  
+  
+  
+  
+Time in years | Amount in the account (€) 
+0 
+1000 
+1 
+1000 + 1000 X 0.06 = 1000(1 + 0.06) 
+2 
+1000(1 + 0.06) + (1000(1 + 0.06)) X 0.06 = 1000(1 + 0.06) (1 + 0.06) = 1000(1 + 0.06)* 
+3 
+1000(1 + 0.06) + (1000(1 + 0.06)2) X 0.06 = 1000(1 + 0.06)* (1 + 0.06) = 1000(1 + 0.06)* 
+4 
+1000(1 + 0.06)° + (1000(1 + 0.06)%) X 0.06 = 1000(1 + 0.06)* (1 + 0.06) = 1000(1 + 0.06)* 
+ 
+ 
+ 
+  
+Table 3.1 Compound interest 
+This appears to be a geometric sequence with five terms. You will notice that 
+the number of terms is five, as both the beginning and the end of the first year 
+are counted. (Initial value, when time = 0, is the first term.) 
+In general, if a principal of P euros is invested in an account that yields an annual 
+interest rate r (expressed as a decimal), and this interest is added at the end of 
+every year to the principal, then we can use the geometric sequence formula to 
+calculate the future value A, which is accumulated after # years. 
+If we repeat the steps above, with 
+A, = P = initial amount 
+r = annual interest rate 
+t = number of years 
+it becomes easier to develop the formula: 
+  
+  
+  
+  
+  
+  
+Timeinyears | Amount in the account 
+0 
+A, =P 
+1 
+A, =P+Pr=PQ1+1) 
+2 
+A =A0+0=P1+rp 
+t 
+A,=P(+ 0! 
+ 
+ 
+ 
+  
+Table 3.2 Compound interest formula 
+81
+
+  
+=7 
+¥2-1.015" (4x) 
+v 
+  
+X=T163BEIEL¥=2 
+ 
+  
+  
+Figure 3.3 GDC screen for the 
+solution to Example 3.11 
+82 
+Sequences and series 
+Notice that since we are counting from 0 to t, we have t + 
+1 terms, so we are 
+using the geometric sequence formula: 
+X-l= 
+A=A X (I+r)+1-1 
+Interest compounded n times per year 
+Suppose that the principal P is invested as before but the interest is paid # times 
+per year. Then % is the interest paid every compounding period. Since every 
+year we have n periods, for ¢ years we have nt periods. The amount A in the 
+account after 
+t years is: 
+a=p(1+1)" 
+Example 3.10 
+€1000 is invested in an account paying compound interest at a rate of 6% per 
+annum. Calculate the amount of money in the account after 10 years if the 
+compounding is: 
+(a) annual 
+(b) quarterly 
+(c) monthly. 
+Solution 
+(a) The amount after 10 years is: 
+A =1000(1 + 0.06)!° = €1790.85 
+(b) The amount after 10 years quarterly compounding is: 
+= 1000(1 + &) = €1814.02 
+(c) The amount after 10 years monthly compounding is: 
+1000(1 P &) — €1819.40 
+You invest €1000 at 6% per annum, compounded quarterly. How long will it 
+take for this investment to increase to €2000? 
+Solution 
+Let P = 1000, r = 0.06, n = 4, and 
+A = 2000 in the compound interest formula 
+_ 
+e 
+A=p(1+1) 
+and then solve for t. 
+4t 
+2000 = 1000(1 + %) =2 =1.015% 
+Using a GDC, we can graph the functions y = 2 and 
+y = 1.015" and then 
+find the intersection between their graphs.
+
+It will take the €1000 investment 11.64 years to double to €2000. 
+This translates into approximately 47 quarters. 
+‘We can check our work to see that this is accurate by using the compound 
+interest formula: 
+47 
+A= 1000(1 s %ﬂ) 
+= €2013.28 
+In the next chapter you will learn how to solve Example 3.11 algebraically, 
+using logarithms. 
+You want to invest €1000. What annual interest rate is needed to make this 
+investment grow to €2000 in 10 years if interest is compounded quarterly? 
+_ 
+Solution 
+Let P = 1000, n = 4, t = 10 and A = 2000 in the compound interest formula 
+' 
+A=p(1+1) 
+and solve for r: 
+40 
+40 
+2000:1000(1+Z') 
+$2:(1+£) 
+S1+2=%2 
+= r=4V2 - 1) = 00699 
+4 
+So, at an annual rate of 7% compounded quarterly, the €1000 investment 
+will grow to at least €2000 in 10 years. 
+‘We can check to see if our work is accurate by using the compound interest 
+formula: 
+40 
+A= 1000(1 + %) 
+= €2001.60 
+Population growth 
+The same formulae can be applied when dealing with population growth. 
+The population of Baden in Austria grows at an annual rate of 0.35%. 
+The population of Baden in 1981 was 23 140. What is the estimate 
+of the population of Baden for 20252 
+L 
+Solution 
+This situation can be modelled by a geometric sequence with first term 
+23140 and common ratio 1.0035. Since we count the population of 1981 
+among the terms, the number of terms is 45. 
+In Chapter 4, more 
+realistic population 
+‘growth models will 
+be explored and more 
+efficient methods 
+will be developed, 
+including the ability 
+to calculate interest 
+that is continuously 
+compounded. 
+83
+
+Sequences and series 
+2025 is equivalent to the 45th term in this sequence. The estimated 
+population for Baden is therefore: 
+Population (2025) = a,; = 23140(1.0035)* = 26 985 
+1. 
+For each sequence: 
+(i) 
+determine whether the sequence is arithmetic, geometric, or neither. 
+(ii) 
+find the common difference for the arithmetic ones and the 
+common ratio for the geometric ones. 
+(iii) find the 10th term for each arithmetic or geometric sequence. 
+(€) BT ERR, o 
+(b) a,=3n—3 
+(c) 
+b,=2m+2 
+(d) 
+c,=2¢,-; —2,and¢; = —1 
+(€) u,=3u, andu, =4 
+(f) 
+2,5,12.5,31.25,78.125, ... 
+(g) 
+2, —5,12.5, —31.25,78.125, ... 
+(h) 2,2.75,3.5,4.25,5, ... 
+i 
+16 32 
+@) 
+18-12,8 -2 35 . 
+(k) —1,3,-9,27, 81, ... 
+(1) 
+0.1,0.2,04,08,1.6,32, ... 
+(m) 3,6,12,18,21,27, 
+... 
+(n) 6,14,20,28,34, ... 
+(0) 24,3.7,5,63,7.6,... 
+() 
+52,55,58,61,... 
+2. 
+For each arithmetic or geometric sequence, find: 
+(i) 
+the 8th term 
+(ii) 
+an explicit formula for the nth term 
+(iii) a recursive formula for the nth term. 
+@ =327 10 
+(b) 19,15,11,7, 
+... 
+(© 
+—8,3,14,25,... 
+(d) 10.05,9.95,9.85,9.75, ... 
+(e) 100,99,98,97, 
+... 
+® z,%,—l,—%,.“ 
+® 3,6,12,24, ... 
+(h) 4,12, 36, 108, ... 
+@) 
+5 =55 
+= 
+G) 3.-6,12,—24, 
+... 
+(&) 
+972, —324, 108, —36, ... 
+O 
+-2,3, —%,%,“. 
+) 35,25,%,‘12—95,“. 
+) =G=5) —%, —%,m 
+(0) 9.5,19,38,76, ... 
+(p) 100,95,90.25, ... 
+@232 
+2 
+432256
+
+10. 
+il 
+12. 
+5% 
+14. 
+153 
+16. 
+73 
+18. 
+. Find three geometric means between 7 and 4375. 
+. Find four geometric means between 7 and 1701. 
+. Find four geometric means between 3 and 96. 
+Ina 
+finite geometric 
+  
+sequence a,, ay, s ..., 
+the terms ay, as, 
+... a; — 
+1 
+are called geometric means 
+between a; and ay 
+. Find a geometric mean between 16 and 81. 
+In questions 5 and 7, this 
+is also called the mean 
+. Find a geometric mean between 9 and 64. 
+proportional. 
+. The first term of a geometric sequence is 24 and the fourth term is 3. 
+Find the fifth term and an expression for the nth term. 
+. The first term of a geometric sequence is 24 and the third term is 6. 
+Find the fourth term and an expression for the nth term. 
+The common ratio in a geometric sequence is % and the fourth term 
+is 13—4 Find the third term. 
+Which term of the geometric sequence 6, 18, 54, ... is 118 0982 
+The fourth term and the seventh term of a geometric sequence are 18 
+  
+and % Is 591239 a term of this sequence? If so, which term is it? 
+The third term and the sixth term of a geometric sequence are 18 and 23—3 
+Is % a term of this sequence? If so, which term is it? 
+Vitoria put €1500 into a savings account that pays 4% annual interest 
+compounded semiannually. How much will her account hold 10 years 
+later if she does not make any additional investments in this account? 
+At the birth of her daughter Jane, Charlotte deposited £500 into a 
+savings account. The annual interest rate was 4% compounded quarterly. 
+How much money will Jane have on her 16th birthday? 
+How much money should you invest now if you wish to have an 
+amount of €4000 in your account after 6 years if interest is compounded 
+quarterly at an annual rate of 5%? 
+In 2017, the population of a town in Switzerland was estimated to be 7554. 
+How large would the town’s population be in 2022 if it grows at a rate of 
+0.5% annually? 
+The common ratio in a geometric sequence is % and the fourth term 
+is %4 Find the second term. 
+85
+
+86 
+Sequences and series 
+19. Which term of the geometric sequence 7, 21, 63, ... is 137 7812 
+20. At her son Erik’s birth, Astrid deposited £1000 into a savings account. 
+The annual interest rate was 6% compounded quarterly. How much 
+money will Erik have on his 18th birthday? 
+Series 
+In common usage, the word series is the same thing as sequence. But in 
+mathematics, a series is the sum of terms in a sequence. For a sequence of 
+values a,, the corresponding series is the sequence of S, with: 
+Si=ayta,+..+a,  +ta, 
+If the terms are in an arithmetic sequence, then the sum is an arithmetic series. 
+Sigma notatiol 
+Most of the series we consider in mathematics are infinite series. This is to 
+emphasise that the series contain an infinite number of terms. Any sum in the 
+series S will be called a partial sum and is given by: 
+Se=a tayt 
+.. ta +a 
+For convenience, this partial sum is written using sigma notation: 
+k 
+Se=2   i=a tay 
+.t a 
+o 
+Sigma notation is a concise and convenient way to represent long sums. 
+The symbol Y is the Greek capital letter Sigma that refers to the initial letter of 
+the word ‘sum’ So this expression means the sum of all the terms a; where i 
+" 
+takes the values from 
+1 to k. We can also write Za, to mean the sum of the 
+= 
+terms a; where i takes the values from m to n. In such a sum, m is called the 
+lower limit and » the upper limit. 
+This indicates ending with i = n . 
+‘This indicates addition — > 
+4, 
+‘This indicates starting withi = m 
+For example, suppose we measure the heights of six children. We will denote 
+their heights by x,, x,, x5, x,, x5 and x. 
+The sum of their heights x; + x, + x3 + x; + x5 + x4 is written more neatly, 
+6 
+by using sigma notation, as »_%;. =
+
+The symbol > means ‘add up. Underneath > we see i = 
+1 and on top of it 6. 
+This means that i is replaced by whole numbers starting at the bottom number, 
+1, until the top number, 6, is reached. 
+[3 
+5 
+Thus ) % =x;+ %, + %5+ X, 
+and 
+D %= X3+ x, + x5 
+=3 
+i=3 
+So, the notation 
+  
+ to add the scores x; 
+o 
+where to start: x, 
+ where to stop: x, (where n is some integer) 
+Now take the heights of the children to be x, = 112cm, x, = 96 cm, x; = 120 cm, 
+x, = 132cm, x5 = 106 cm, and x, = 120 cm. 
+Then the total height (in cm) is 
+ixk:x,+xz+x3+x‘+xs+x6 
+= 
+=112 + 96 + 120 + 132 + 106 + 120 = 686 cm 
+Notice that we have used k instead of i in the formula above. The i is what we 
+call a dummy variable - any letter can be used. 
+n 
+n 
+D x=3 
+= 
+=1 
+Example 3. 
+Write each series in full: 
+5 
+7 
+n 
+@ Yt 
+®) 33 
+© Sxp(s) 
+= 
+= 
+7 
+s 
+Solution 
+5 
+R =l 
+di ey 
+=1 
+7 (DS 
+s SRk e 
+=3 
+(© 305) = xp(x) + 52p(x0) + . +50p(5) 
+¥ 
+Evaluate »_2" 
+=0 
+  
+Solution 
+x 
+2%2":20+21+22+23+24+25:63 
+= 
+87
+
+88 
+Sequences and series 
+Example 3.16 
+° 
+©° 
+5 
+2 
+) 
+Wntethesumz 
+§+Z 
+35 G +W using sigma notation. 
+| 
+Solution 
+The numerator and denominator in each term are consecutive integers, so 
+  
+they take on the absolute value of 
+or any equivalent form. The signs of 
+k 
+ISt 
+the terms alternate and there are 99 terms. To take care of the sign, we use 
+some power of (—1) that will start with a positive value. If we use (—1)¥, 
+then the first term will be negative, hence we can use (— 1)k*+ 1instead. 
+‘We can therefore write the sum as 
+o3+ (3 + e 
+e e 
+) 
+100 
+99, 
+k 
+() 
+&2 
+e 
+Properties of sigma notation 
+There are a number of useful results we can obtain when we use sigma notation. 
+1. 
+For example, suppose we have a sum of constant terms: 
+5 
+>2 
+= 
+What does this mean? If we write this out in full, we get: 
+5 S2=2+2+2+2+2=5X2=10 
+= 
+In general, if we sum a constant 7 times then we can write: 
+Sk=k+k+..+k=nXk=nk 
+= 
+N 
+Suppose we have the sum of a constant multiplied by i. For example: 
+i5i25><1+5><2+5><3+5><4+5><5 
+T oosxa+243+449=75 
+However, this can also be interpreted as: 
+iSiZSXl+5X2+5X3+5X4+5X5 
+=1 
+s 
+=5X(1+2+3+4+5=5)i 
+=1 
+which implies that: 
+5 
+5 
+S5i=5%i 
+= 
+= 
+In general, we can say: 
+Ski=kX1+kX2+...+kXn 
+kXU t2+4 
+. 
+=kYi 
+=
+
+3. 
+Suppose that we need to consider the summation of two different 
+functions, such as: 
+" 
+YR 
+=1+ 1)+ Q2+ 2)+ ..+ 2+ nd) 
+= 
+' 
+=242+ 
+..+ n)+ 1P+ 22+ ..+ 1) 
+—Yr+Y 
+R 
+k=1 
+k=1 
+In general 
+U0 + gh) = 30 + 3k 
+= 
+= 
+= 
+4. 
+At times it is convenient to change powers, for example: 
++ ...+ a;_, + a,is 
+the same as 
+  
+Arithmetic series 
+In arithmetic series, we are concerned with adding the terms of arithmetic 
+sequences. It is very helpful to be able to find an easy expression for the partial 
+sums of such a series. 
+Let's start with an example: 
+Find the partial sum for the first 50 terms of the series 
+ik 8- 1318k 
+Write the 50 terms in ascending order and then in descending order underneath. 
+Add the terms together as shown. 
+Sp= 
+3+ 
+8+ 
+13+.. +248 
+S =248+ 
+243+ 238+ ...+ 
+3 
+285 =251 + 251 + 251 + ... + 251 
+There are 50 terms in this sum, and hence 
+28, = 50 X 251 = Sy, = 6275 
+This reasoning can be extended to any arithmetic series in order to develop a 
+formula for the nth partial sum . 
+Let {a,} be an arithmetic sequence with first term @, and common difference d. 
+We can construct the series in two ways: Forwards, by adding d to a, repeatedly, 
+and backwards by subtracting d from a, repeatedly. We get the following two 
+expressions for the sum: 
+Sy=aytaytayt..ta,=a+(a+d)+(a+2d)+...+ 
+@+ nm—1)d) 
+Sy=ayt @y 
+@yt o+ = a,+ (a,— d) + (a,—2d) + ... + (a,— (n— 1)d) 
+89
+
+90 
+Sequences and series 
+By adding, term by term vertically, we get: 
+  
+S, =a+ 
+(a,+d) + (a, +2d) + ... + (a, + (n— 1)d) 
+Sp=an+ 
+(a,—d) + (a,—2d) + ... + (@, — (n — 1)d) 
+N 
+1 
+1 
+7/ 
+28,=(a, +a,)+(a,+a)+(a+a)+..+(@a+a,) 
+Since there are n terms, we can reduce the expression above to: 
+28, =n(a, + a,) 
+which can be reduced to: 
+n 
+$,= 2o+ a) 
+which in turn can be changed to give an interesting perspective of the sum: 
+(al + a,,) 
+S,=n 
+  
+2 
+which is n times the average of the first and last terms! 
+If we substitute a, + (n — 1)d for a, then we get an alternative formula for the sum: 
+S,,Z%(a, +a+ (n—1)d :g(zm +(n—1)d) 
+‘The partial sum S, of an arithmetic series is given by one of the following: 
+_n 
+_ 
+[ tay, 
+_n 
+8u=5(ay +a),orS, = 1| 
+orS, =5a; 
++ (1= D) 
+Example 3.17 
+Find the partial sum for the first 50 terms of the series3 + 8 + 13 + 18 + ... 
+  
+  
+Solution 
+Using the second formula for the sum we get: 
+Sy :5_20(2 X 3+ (50 — 1)5) = 25 X 251 = 6275 
+Using the first formula requires that we know the nth term. 
+So, a5y = 3 + 49 X 5 = 248 which now can be used: 
+S5 = 25(3 + 248) = 6275 
+Example 3.18 
+You are given a sequence of figures as shown in the diagram. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+P1 
+B 
+23 
+(a) 
+P1 has six line segments. How many line segments are in P20?
+
+(b) 
+Is there a figure with 4401 segments? If so, which one? If not, why not? 
+(c) Find the total number of line segments in the first 880 figures. 
+1 
+Solution 
+(a) 
+In each new figure, 5 line segments are added. This is an arithmetic 
+sequence with first term 6, and common difference 5. 
+Using the nth term form: 
+P20 = 6 + 5(20 — 1) = 101 
+(b) The term whose value is 4401 satisfies the nth term form: 
+440126 5(ni 
+1)) thusis :%+ 
+1 =880 
+Therefore, 4401 is the 880th figure. 
+(c) We use one of the formulae for the arithmetic series: 
+Ssso = ?(6 + 4401) = 1939080 
+xS 
+?(2 X 6 + 5(880 — 1)) = 1939080 
+Geometric series 
+As is the case with arithmetic series, in several cases it is desirable to find a 
+general expression for the nth partial sum of a geometric series. 
+Let us start with an example: 
+Find the partial sum for the first 20 terms of the series 3 + 6 + 12 + 24 + ... 
+We express Sy, in two different ways and subtract them: 
+Sp=3+6+12+ ...+ 1572864 
+28,= 
+6+ 12+ ... + 1572864 + 3145728 
+S,=3 
+ —31578 
+= 8y = 3145725 
+This reasoning can be extended to any geometric series in order to develop a 
+formula for the nth partial sum §,. 
+Let {a,} be a geometric sequence with first term @, and common ratio r # 1. 
+We can construct the series in two ways as before, and, using the definition of 
+the geometric sequence, a, = a,,_, X 
+r, then: 
+S/=a, Shi 
+S 
+ARy A 
+rSy=ray *ray+ras+ ... +ra,, +ra, 
+- 
+1 
+= 
+a,+ta, +..+a,_, +a,+tra, 
+Now, we subtract the second expression from the first to get: 
+91
+
+92 
+Sequences and series 
+a,—ra, 
+S,,*rS,,:a,*ra,,ﬁs,,(l*r):a,*ra,,:%i,,:ﬁ,ratl 
+This expression, however, requires that r, a;, and a, be known to find the sum. 
+But, using the nth term expression developed earlier, we can simplify this sum 
+formula to: 
+  
+‘The partial sum, S,,, of n terms of a geometric sequence with common ratio r (r # 1) 
+and first term a, is: 
+_ayl—rm 
+T 
+1-r 
+Example 
+3.19 
+Find the partial sum for the first 20 terms of the series 3 + 6 + 12 + 24 + ... 
+S   
+  
+ayr = u} 
+[cquivalem 08 = = — 
+  
+Solution 
+1—2%)  3(1— 1048576 
+Sp=3 Nt 
+R Ul 0 5 
+8=t 
+il 
+Infinite geometric series 
+" 
+1 
+k=1 
+1 
+1 
+1 
+Consider the series ‘;2 (5) 
+=2+1+ 3 + 1 + 5 + ... 
+Consider also finding the partial sums for 10, 20, and 100 terms. 
+‘We are looking for the partial sums of a geometric series: 
+10 
+B 
+! 7(%) 
+2(5) 
+—ax——2L_x3996 
+{ 
+= 
+- 
+o= 
+8 
+— 
+| 
+= 
+20 
+1 
+Kok 
+22(—) 
+=2x——2 3999996 
+P 
+i 
+o 
+| 
+o= 
+g 
+— 
+| 
+= 
+14 
+= 
+g 
+(p\k-1 
+Yofd) =ax 
+=2 
+- 
+| 
+D= 
+As the number of terms increases, the partial sum appears to be approaching 
+the number 4. This is no coincidence. In the language of limits, 
+k 
+= (%) 
+1-0 
+—2=2x 18 since fim (1) =0 
+1 
+a2 
+G 
+1im22(5) 
+= lim 2 % 
+: 
+2 
+2 
+=0 = 
+11—
+
+This type of problem allows us to extend the usual concept of a sum of 
+a finite 
+number of terms to make sense of sums in which an infinite number of terms 
+are involved. Such series are called infinite series. 
+One thing to be made clear about infinite series is that they are not true sums! 
+The associative property of addition of real numbers allows us to extend the 
+definition of the sum of two numbers, such as a + b, to three or four or n 
+numbers, but not to an infinite number of numbers. For example, you can add 
+any specific number of 5s together and get a real number, but if you add an 
+infinite number of 5s together, you cannot get a real number. The remarkable 
+thing about infinite series though is that in some cases, such as the example 
+above, the sequence of partial sums (which are true sums) approaches a finite 
+limit L. The limit in our example is 4. 
+  
+We say that the series converges to L, and it is convenient to define L as the 
+sum of the infinite series. We use the notation: 
+We can therefore write the limit in the previous example: 
+k-1 
+& (1 
+k1 
+n 
+£2G) 
+-mEa(y) 
+- 
+If the series does not have a limit, then it diverges. 
+We are now ready to develop a general rule for infinite geometric series. 
+As we know, the sum of a geometric sequence is given by: 
+a,(1 —r") 
+S 
+Al 
+   
+If |r| < 1, then lim r” = 0 and hence: 
+e 
+a1 —r") 
+a 
+lim S, = $ = lim ————— 
+= —'— 
+a5 
+M= 
+T1=r 
+‘We will call this the sum of an infinite convergent geometric sequence. 
+In all other cases the series diverges. The proof is left as an exercise. 
+k-1 
+%) 
+. 4 as already shown. 
+0 
+In the case of ZZ( 
+= 
+i= 
+D= 
+Sum of an infinite convergent geometric sequence 
+‘The sum, S.., of an 
+infinite convergent geometric sequence with first term ay such that the 
+common ratio, r, satisfies the condition 
+| r| < 1is given by: 
+a 
+  
+T=r 
+93
+
+94 
+Sequences and series 
+Example 3.20 
+A rational number is a number that can be expressed as a quotient of two 
+integers. Show that 0.6 = 0.666... is a rational number. 
+Solution 
+0.6 = 0.666...= 0.6 + 0.06 + 0.006 + 0.0006 + ... 
+2 
+3 
+=£+£.L+£.(L) +£.<L) 
+s 
+10 
+10 
+10 
+10 
+{10/ 
+" 10 
+\10 
+This is an infinite geometric series with a, = % andr = 1—10, therefore: 
+A ball has elasticity such that, on each bounce, it bounces to 80% of its 
+previous height. Find the total vertical distance travelled down and up by 
+this ball when it is dropped from a height of 3 m and is allowed to keep 
+bouncing until it comes to rest. Ignore friction and air resistance. 
+Solution 
+  
+After the ball is dropped the initial 3 m, it bounces up and down a distance 
+of 2.4 m. On each bounce after the first bounce, the ball travels 0.8 times the 
+previous height twice - once upwards and once downwards. So, the total 
+vertical distance is given by 
+h=3+224+024%X08) +24%X08)+..]=3+2x1 
+The terms inside the square brackets form an infinite geometric series with 
+a, = 2.4and r = 0.8. The value of that quantity is: 
+24 
+= 
+Hence the total distance required is h = 3 + 2(12) = 27m 
+=12 
+ 
+
+Applications of series to compound interest calculations 
+Annuities 
+An annuity is a sequence of equal periodic payments. If you are saving money 
+by depositing the same amount at the end of each compounding period, 
+the annuity is called an ordinary annuity. Using geometric series, you can 
+calculate the future value (FV) of this annuity, which is the amount of money 
+you will have after making the last payment. 
+You invest €1000 at the end of each year for 10 years at a fixed annual interest 
+rate of 6%, as shown in Table 3.3. 
+  
+  
+  
+  
+  
+  
+ 
+Year | Amount invested (€) | Future value (€) 
+10 
+1000 
+1000 
+9 
+1000 
+1000(1 + 0.06) 
+3 
+1000 
+1000(1 + 0.06)? 
+1 
+1000 
+1000(1 + 0.06)° 
+ 
+ 
+ 
+  
+Table 3.3 Calculating the future value 
+The future value FV of this investment is the sum of the entries in the last column: 
+FV = 1000 + 1000(1 + 0.06) + 1000(1 + 0.06)> + ... + 1000(1 + 0.06)° 
+This sum is a partial sum of a geometric series with n = 10 and r = 
+1 + 0.06 
+  
+Hence: 
+1000(1 — (1 + 0.06)!9) 
+ 1000(1 — (1 + 0.06)) 
+= = ———————————— = €13,180.79 
+1—(1+0.06 
+—0.06 
+Compound Interest 
+Compound Interest 
+I% 
+=6 
+FV 
+=13180.79494 
+  
+  
+  
+ 
+ 
+  
+  
+Figure 3.4 This result can also be produced with a GDC 
+We can generalise the previous formula in the same manner. Let the periodic 
+payment be R, and the periodic interest rate be i - that s, 
+i = % 
+Let the number of periodic payments be m. 
+  
+  
+  
+  
+  
+  
+ 
+Period | Amount invested | Future value 
+m 
+R 
+R 
+m—1 
+R 
+R(1 + 1) 
+m—2 
+R 
+R(1+ip 
+1 
+R 
+RO+ i) 
+ 
+ 
+ 
+  
+Table 3.4 Formula for calculating the future value 
+95
+
+96 
+Sequences and series 
+The future value FV is the sum of the entries in the last column: 
+FV=R+RA+i)+R(L+i)?+...+R1+im1 
+This is a partial sum of a geometric series with 7 terms and r = 
+1 + 
+i. Hence: 
+_RQ—(@ 
+i) RO— (@D 
+(i 
+— 
+1) 
+FV——_——_—R( 
+1—(1+1) 
+=i 
+i 
+If the payment is made at the beginning of the period rather than at the end, then the annuity is 
+called an annuity due and the future value after m periods will be slightly different. 
+  
+  
+  
+  
+  
+Period | Amount invested | Future value 
+m 
+R 
+R(1+ 1) 
+m—1 
+R 
+R+ i)? 
+m—2 
+R 
+R+ i) 
+i 
+R 
+R(1+ )" 
+ 
+ 
+ 
+ 
+  
+‘The future value of this investment is the sum of the entries in the last column: 
+FV=R(+ i)+ R(L+ i)+ ... + R(L+ )"+ R+ )" 
+‘This is a partial sum of a geometric series with 1 termsand r = 1 + i. 
+RA+)I—Q+)™ _RO+i—+im™) 
+R((l +imti—1 
+1) 
+1= (1+10) 
+—i 
+i 
+If the previous investment is made at the beginning of the year rather than at the end, 
+then in 10 years we have: 
+(S 
+(IFR006)IES 
+— ) - 1= 1000 ————— 
+i 
+0.06 
+  
+V= 
+Y= R( 
+i l) =13971.64 
+1. Find the sum of the arithmetic sequence 11 + 17 + ... + 365 
+2. Find the sum of this sequence: 
+ONN27 
+_177147 
+2*3+57T+.“ 
+1024 
+  
+13 
+3. Evaluate (2 — 0.3k) 
+k=0 
+4_ 
+8 
+16 
+4. Evaluate 
+2 
+§+E 
+m+ 
+1SS 
+P 
+I 
+5.Evaluate§+ﬁ+ﬁ+a+ﬁ+“_ 
+6. Express each repeating decimal as a fraction: 
+(a) 0.52 
+(b) 0.453 
+(c) 3.0137 
+7. At the beginning of every month, Maggie invests $150 in an account 
+that pays a 6% annual rate of interest. How much money will there be in 
+the account after six years?
+
+10. 
+'S 
+12. 
+i}, 
+14. 
+157 
+16. 
+I 
+18. 
+19. 
+20. 
+1% 
+. Find the sum of each series. 
+(@ 9+13+17+ ... +85 
+(b) 8+ 14 +20+ 
+... + 278 
+(c) 155+ 158 + 161 + ... + 527 
+. The kth term of an arithmetic sequence is 2 + 3k. Find, in terms of n, 
+the sum of the first n terms of this sequence. 
+For the arithmetic sequence that begins 17 + 20 + 23 + ..., for what 
+value of 1 will the partial sum S, of the sequence exceed 6782 
+For the arithmetic sequence that begins —18 — 11 — 4 ..., for what 
+value of n will the partial sum S, of the sequence exceed 2335? 
+An arithmetic sequence has a as first term and 2d as common difference, 
+ie.,a,a+ 2d,a+ 4d, .... The sum of the first 50 terms is T. Another 
+sequence, with first term a + d and common difference 2d, is combined 
+with the first one to produce a new arithmetic sequence. Let the sum of 
+the first 100 terms of the new combined sequence be S. If 2T + 200 = S, 
+find d. 
+Consider the arithmetic sequence 3,7, 11, ..., 999. 
+(a) Find the number of terms and the sum of this sequence. 
+(b) Create a new sequence by removing every third term, i.e,, 11, 23, .... 
+Find the sum of the terms of the remaining sequence. 
+The sum of the first 10 terms of an arithmetic sequence is 235 and the 
+sum of the second 10 terms is 735. Find the first term and the common 
+difference. 
+Use your GDC or a spreadsheet to evaluate each sum. 
+2, 2] 
+Y 
+100 
+3 
+8 
+)3 
+@ 2 
+® X (753) 
+© 20 
+Find the sum of the arithmetic series 13 + 19 + ... + 367 
+  
+Find the sum of the arithmetic series: 
+4.8 
+16 
+4096 
+23t 
+Tt T 
+11 
+Evaluate Y 
+(3 + 0.2k) 
+  
+4,8 
+16 
+—242-204 
+Evaluate 2 
+3t9 
+3 
+1R 
+2SR 
+2 
+Evaluate — + — + = 
+— 
+2 
+2/3 
+3 
+3/3 
+9 
+  
+Find the first four partial sums and the nth partial sum of each sequence. 
+S 
+_ 
+1 
+_ 
+- 
+show that 
+@ 
+=2 
+(b)./rm 
+() u,=Vn+1—Vn 
+po L1 
+"Thn+1 
+n+2 
+For question 21 part (b), 
+  
+97
+
+Sequences and series 
+22. 
+23. 
+24. 
+25. 
+98 
+A ball is dropped from a height of 16 m. Every time it hits the ground it 
+bounces to 81% of its previous height. 
+(a) Find the maximum height it reaches after the 10th bounce. 
+(b) Find the total distance travelled by the ball until it comes to rest. 
+(Assume no friction and no loss of elasticity.) 
+The sides of a square are 16 cm in length. A new square is formed by 
+joining the midpoints of the adjacent sides and then two of the resulting 
+triangles are coloured, as shown. 
+IO 
+(a) 
+If the process is repeated six more times, determine the total area of 
+the shaded region. 
+(b) If the process were to be repeated indefinitely, find the total area of 
+the shaded region. 
+The largest rectangle in the diagram below measures 4 cm by 2 cm. 
+Another rectangle is constructed inside it, measuring 2 cm by 1 cm. 
+The process is repeated. The region surrounding every other inner 
+rectangle is shaded, as shown. 
+4cm 
+  
+(a) Find the total area for the three regions shaded already. 
+(b) If the process were to be repeated indefinitely, find the total area of 
+the shaded regions. 
+Find each sum. 
+@7 -t ir+0 4.t 710 
+(b) 9486 + 9479 + 9472 + 9465 + ... + 8919 + 8912 
+() 
+2+ 6+ 18+ 54+ ... + 3188646 
++ 9565938 
+24 
+24 
+24 
+Srs 
+(a)f20Bitg 
+o 
+e
+
+The binomial theorem 
+A binomial is a polynomial with two terms. For example, x + y is a binomial. 
+In principle, it is easy to raise x + y to any power, but raising it to high powers 
+would be tedious. In this chapter, we will find a formula that gives the 
+expansion of (x + y)" for any positive integer . 
+Let's look at some particular cases of the expansion of (x + y)" 
+(ety) =1 
+()t =x+y 
+(x+yP? =+ 2xy+ 
+(x+y) = %0 + 3x2y + 3xp2 + p 
+(x+y)t = X+ 4%y + 6532 + dxy® + 
+(x+y)s = 25 + 5xly + 102%)2 +10x3° + 5xp4 + 95 
+(x+y)s = X6 + 6x5y + 15x42 +20x% + 152204 + 65 + 35 
+There are several things that we notice after looking at the expansion: 
+o 
+Thereare n + 
+1 terms in the expansion of (x + y)" 
+« 
+The degree of each term is n. 
+« 
+The powers on x begin with # and decrease to 0. 
+o 
+The powers on y begin with 0 and increase to n. 
+« 
+The coefficients are symmetric. 
+For instance, notice how the powers of x and y behave in the expansion of (x + y)* 
+The powers of x decrease: 
+(x+ )5 = x8 + 5aly + 1022 + 10x8y3 + 5:llyt + 35 
+The powers of y increase: 
+(x+y)° = 
++ 52 
+y0 + 108 + 10:2)8 + 5y + B 
+With these observations, we can now proceed to expand any binomial raised to 
+power n: (x + y)". For example, leaving a blank for the missing coefficients, the 
+expansion for (x + y)7 can be written as: 
+(e +y7 = Ox7 + Oasy + Oasyz + Oty + Oatyt + Oazys + Oeye + 07 
+To finish the expansion, we need to determine these coefficients. In order to see 
+the pattern, look at the coefficients of the expansion at the start of the section. 
+99
+
+Pascal’s triangle 
+Every entry ina row is the 
+sum of the term directly 
+above it and the entry 
+to theleft of that, When 
+thereis no entry, the 
+value is considered zero, 
+Several sources use 
+a slightly different 
+arrangement for Pascal’s 
+triangle. The common 
+usage considers the 
+triangle as isosceles 
+and uses the principle 
+that every two entries 
+add up to give the entry 
+diagonally below them, 
+as shown in the diagram. 
+100 
+Sequences and series 
+(x+y)° 
+1 
+row 0 
+x+yt 
+1 
+1 
+row 1 
+(x+y)? m 
+row 2 
+(x+yp m 
+row 3 
+x+y* 
+1 
+4 
+6 
+4 
+1 
+row 4 
+x +y)° 
+10 
+row 5 
+(x+y) 
+@ 
+(x+y* 
+1 
+6 
+15 
+20 
+15 
+6 
+1 
+rowé 
+© 
+~ 
+a 
+@ 
+w 
+»u 
+© 
+o 
+g 
+g 
+g 
+g 
+g 
+E 
+E 
+€ 
+& 
+8 
+E 
+£ 
+2 
+2 
+2 
+2 
+= 
+= 
+=2 
+o 
+o 
+o 
+o 
+o 
+o 
+o 
+8 
+8§ 
+8 
+8 
+8 
+8 
+% 
+A triangle like the one above is known as Pascal’s triangle. The first and second 
+terms in row 3 give you the second term in row 4, the third and fourth terms 
+in row 3 give you the fourth term of row 4, the second and third terms in row 5 
+give the third term in row 6, and the fifth and sixth terms in row 5 give you the 
+sixth term in row 6. So now we can state a key property of Pascal’s triangle. 
+Take the last entry in row 5, for example; there is no entry directly above it, 
+soits valueis 0 + 
+1 = 1. 
+From this property it is easy to find all the terms in any row of Pascal’s triangle 
+from the row above it. So, for the expansion of (x + y)7, the terms are found 
+from row 6 as follows: 
+0—1—6—>15—>20—>15—>6—>1—>0 
+ool 
+1 
+7 
+21 
+35 
+35 
+21 
+7 
+1 
+    
+1 
+1 
+4 
+3\6‘/3 
+4 
+1 
+1 
+\5/ \10‘/ \10/ \5/ 
+1 
+Use Pascal’s triangle to expand (2k — 3)° 
+| 
+Solution 
+We can find the expansion by replacing x by 2k and y by —3 in the binomial 
+expansion of (x + y)°. 
+Using the fifth row of Pascal’s triangle for the coefficients will give: 
+1(2k)° + 5(2k)4(—3) + 10(2k)3(—3)2 + 10(2k)2(—3)? + 5(2k)(—3)* + 1(—3) 
+= 32Kk5 — 240k* + 720k* — 1080k? + 810k — 243
+
+Pascal’s triangle is a useful tool for finding the coefficients of the binomial 
+expansion for relatively small values of n. It is not very efficient for large values 
+of n. Imagine we want to evaluate (x + ). Using Pascal’s triangle, we would 
+need the terms in the 19th row, and the 18th row and so on. This makes the 
+process tedious and not practical. 
+Luckily, there is a formula we can use to find the coefficients of any Pascal’s 
+triangle row. This formula is the binomial formula, which we will prove 
+in Chapter 5. Every entry in Pascal’s triangle is denoted by ( )or C, - this 
+is also known as the binomial coefficient. In ,C,, n is the row number and r 
+is the column number. To understand the binomial coefficient, we need to 
+understand what factorial notation means. 
+Factorial notation 
+‘The product of the first 1 positive integers is denoted by ! and is called 1 factorial: 
+n=nXhm—1DXMH—-2 
+X 
+X3X2X1 
+We also define 0! = 1. 
+This definition of the factorial makes many formulae involving the multiplication 
+of consecutive positive integers shorter and easier to write. That includes the 
+binomial coefficient. 
+‘The binomial coefficient 
+With and ras non-negative integers such that 
+1 = 
+1, the binomial coefficient , C [or (7)) is 
+defined by 
+! 
+nC= ()= r!(nn— o 
+  
+  
+When simplified, C; can be written as yCy =2 — U = 2-ln = r+ 1) 
+nin— 1in—2) 
+For example ,C; == 
+f == 
+Find the value of: 
+7 
+7 
+(@) ,Cy 
+(®) ,C, 
+(©) 
+(0) 
+@ (7) 
+Solution 
+Ta7 -3 
+34 TP Por 
+or using the other form of the expression for the binomial coefficient 
+7.6:5_210 
+s 
+i 
+7' 
+_ 1-2-3-4.5-6:7 
+_5:6-7 
+(ERr==n (Pore N 
+Eor 
+7 
+7! 
+1 
+© (0)70|(7 0)V7W7_71 
+@ ()= 75 
+=7 =1 =" 
+101
+
+You will be able to 
+provide reasons for the 
+steps affer you do the 
+exercises. 
+102 
+Sequences and series 
+Although the binomial coefficient (:’) appears as a fraction, all the results 
+where n and r are non-negative integers are positive integers. Also notice the 
+symmetry of the coefficient in Example 3.23. 
+Example 3.24 
+Calculate each binomial coefficient: 
+G- 6 6 6 6 6 @ 
+=1 0= 9=+ - 
+The values in Example 3.24 are the entries in the 6th row of Pascal’s triangle. 
+  
+We can write Pascal’s triangle in the following manner: 
+Calculate ,C,—, + ,C, (This is called Pascal’s rule.) 
+—_— 
+Solution 
+n! 
+n! 
+Coyt,C= 
+L 
+e Din—r+ 
+1) 
+rln—1) 
+_ 
+nl-r 
+" 
+= (el 
+R () (e T ) 
+(et 
+(R (e ) 
+nl-r 
+e =kl 
+(et 
+(e 
+rE 
+1! 
+ST 
+s st 
+L) 
+(e 
+__ 
+(mt+1 
+A+ 1-1) 
+B
+
+If we read the result in Example 3.25 carefully, it says that the sum of the terms 
+in the nth row, (r — 1)th and rth columns, is equal to the entry in the (n + 1)th 
+row and rth column. 
+(r — )th column 
+ rth column 
+nth row 
+4Gy 
++ 
+i o8 
+I 
+(n + Dth row 
+Gy 
+That is, the two entries in blue are adjacent entries in the nth row of Pascal’s 
+triangle and the entry in red is the entry in the (n + 1)th row directly below the 
+rightmost entry. This is precisely the principle behind Pascal’s triangle! 
+Using the binomial theorem 
+‘We are now prepared to state the binomial theorem: 
+n 
+e e (e e (e st 
+2 o o e 
+or 
+(x4 3)" = 1Cox" +,Cix" 1y +,Cox" 2y 
++ ,Coxn Y+ e+ Gyt 
+In a compact form, we can use sigma notation to express the theorem as follows: 
+o 
+2 
+; 
+=3 Ty = DGty 
+=0 
+= 
+Example 3.26 
+Use the binomial theorem to expand (x + y)” 
+Solution 
+= (e (s Qv Qe s (e 
+w g 
+(GGl 
+R 0 
+2R S5 R S 5 X0 ek )l v 
+s 7y SR 
+Example 3.27 
+Find the expansion for (2k — 3)° 
+Solution 
+(2k —3)5 = (g)(zk)s + (i’)(zk)ﬂ(—a) 4 (;)(21()3(—3)2 + (g’)(zk)Z(—a)3 
+i (i)(zk)(—w + (g)(—s)s 
+= 30k5 — 240K* + 720K* — 1080K? + 810k — 243 
+103
+
+104 
+Sequences and series 
+Example 3.28 
+Find the term containing a* in the expansion (2a — 3b)° 
+Solution 
+To find the term, we do not need to expand the whole expression. 
+Since (x + y)" = gnC; X"~1yi, the term containing a? is the term where 
+n —i= 3, (i.e. when i = 6). So the required term is 
+9Cs(2a)°6(—3b)° = 84 
+- 8a* - 729b° = 489 888a°b° 
+Example 3.29 
+Find the term independent of x in: 
+9 
+5 
+@ (222-2) 
+®) (4~ 2} 
+e 
+) 
+|>{ 
+Solution 
+(a) ‘Independent of x’ means the term with no x variable - that is, the constant 
+9 
+9—k 
+o 
+S 
+3 
+2 
+w3 
+term in the expansion of (le - ;) 
+)‘;ﬂng (2x? 
+( 
+;) 
+9-k 
+The constant term contains x°. Thus it is the term where (x2)* (%) 
+SR 
+6 
+$02k=9—k=>k= 3,d\usthetermisgcg(le)S(—%) 
+R4 w@ 
+X 
+= 489 888 
+gk 
+(b) Similarly, (24 (-) 
+= % 50 3k = 10 — 2k = k = 2,thus the term i 
+X 
+  
+  
+  
+i 
+(9C3)x(2%)x(-3)° 
+5C1(4x3)1(7—2) 
+= —1280 
+489888 
+& 
+(5C2)x42x(-2)3 
+You can also use your GDC. 
+-1280 
+  
+Example 3.30 
+13 
+Find the coefficient of b° in the expansion of (2172 = l) 
+| 
+Solution 
+The general termis ) (2h2)ﬂﬂ'(—%)’ =Y 
+uff(bZ)uﬂ'(—%)’ 
+— (1) yz-ip-upmi-y 
+— () @yt 
+24— 3i = 6 = i = 6. So the coefficient in question is (162) (2)5(=16 = 59136
+
+. Use Pascal’s triangle to expand each binomial. 
+@ (x+2° 
+® @by 
+© (-3 
+@) @ =P 
+(e) (x—3b) 
+(f) 
+(Zn e %)6 
+® (2-2) 
+. Evaluate each expression. 
+@ (3) 
+®(5)-03 
+@@ 
+@ (3)+()+G)+ () + (6 
+@ () -6+ 
+-6)+@-6)+C 
+. Use the binomial theorem to expand each expression. 
+@) (x—2y7 
+(b) 22 —b)° 
+() (x—4y 
+(@) @+ 
+(€) (3x— by 
+® (20~ iz)6 
+n 
+© (2-33) 
+() (1+5)t + (1 + /)t 
+@) (3+1)F—(3+1)¢ 
+. Consider the expression (x = ;) b 
+(a) Find the first three terms of this expansion. 
+(b) Find the constant term if it exists or justify why it doesn't exist. 
+(c) Find the last three terms of the expansion. 
+(d) Find the term containing x* if it exists or justify why it doesn't exist. 
+. Prove that ,C, = ,C,_foralln,keNandn =k 
+. Prove that for any positive integer n: 
+A 
+() e () 
+=2 
+. Consideralln, ke Nandn =k 
+(a) Verify that k! = k(k — 1)! 
+(b) Verify that (n — k + 1)! = (n — k + 1)(n — k)! 
+(c) Justify the steps given in the proofof( 
+- 
+) &G (n) = (n i 1) 
+4 
+| 
+i 
+7 
+in Example 3.25. 
+. Find the value of the expression: 
+ORI RHIDIEREEHE) 
+105
+
+Sequences and series 
+9. Find the value of the ex}iression: 
+O Q6 6+ 6 - +EE) 
+10. Find the value of the expression: 
+G 
+06 B EG G+~ 
+11. Find the term independent of x in the expansion of (xz = l) 
+e 
+2 
+8 
+12. Find the term independent of x in the expansion of (Sx = %) 
+8 
+13. Find the term independent of x in the expansion of (Zx = %) 
+5 
+14. Find the first three terms in the expansion of (1 + x)'° and use them to 
+find an approximation to: 
+(a) 
+1.01'° 
+(b) 0.99'° 
+15. Show that (r f 1) it 
+2(:’) i (r: 1) = (:’:12) and interpret your 
+result on the entries in Pascal’s triangle. 
+16. Express each repeating decimal as a fraction: 
+(@) 0.7 
+(b) 0.345 
+(c) 3.2129 
+17. Find the coefficient of x° in the expansion of (2x — 3)° 
+18. Find the coefficient of x*b* in the expansion of (ax + b)” 
+19. Find the constant term in the expansion of (% - Z) b 
+20. Expand (3n — 2m)* 
+21. Find the coefficient of 71 in the expansion of (4 + 3r2)° 
+22. In the expansion of (2 — kx)3, the coefficient of x* is —1080. 
+Find the constant k. 
+Chapter 3 practice questions 
+1. In an arithmetic sequence, the first term is 4, the 4th term is 19 and the 
+nth term is 99. Find the common difference and the number of terms, n. 
+2. How much money should you invest now if you wish to have $3000 in 
+your account after 6 years, if interest is compounded quarterly at an 
+annual rate of 6%? 
+106
+
+3. 
+Two students, Nick and Maxine, decide to start preparing for their IB 
+exams 15 weeks ahead of the exams. Nick starts by studying for 12 hours 
+in the first week and plans to increase the amount by 2 hours per week. 
+Maxine starts with 12 hours in the first week and decides to increase her 
+time by 10% every week. 
+(a) How many hours will each student study in week 52 
+(b) How many hours in total will each student study for the 15 weeks? 
+(c) 
+In which week will Maxine exceed 40 hours per week? 
+(d) In which week will Maxine catch up with Nick in the number of 
+hours spent studying per week? 
+4. Two diet schemes are available for people to lose weight. Plan A 
+promises the patient an initial weight loss of 1000 grams the first month 
+with a steady loss of an additional 80 grams every month after the first, 
+for a maximum duration of 12 months. 
+Plan B starts with a weight loss of 1000 grams the first month and an 
+increase in weight loss by 6% more every subsequent month. 
+(a) Write down the number of grams lost under Plan B in the second 
+and third months. 
+(b) Find the weight lost in the 12th month for each plan. 
+(c) Find the total weight loss during a 12-month period under 
+(i) Plan A 
+(ii) Plan B. 
+5. You start a savings plan to buy a car, where you invest €500 at the 
+beginning of each year for 10 years. Your bank offers a fixed rate of 
+6% per year, compounded annually. 
+Calculate, giving your answers to the nearest euro(€): 
+(a) how much the first €500 is worth at the end of 10 years 
+(b) the total value of your investment at the end of the 10 years. 
+6. {a,} is defined as follows: 
+= o= 
+a,=\8 
+—ap_, 
+(a) Given that a; = 1, evaluate a,, a5, and a,. Describe {a,}. 
+(b) Given that a, = 2, evaluate a,, a;, and a,. Describe {a,}. 
+7. A marathon runner plans her training program for a 20 km race. 
+On the first day she plans to run 2 km, then she wants to increase 
+her distance by 500 m on each subsequent training day. 
+(a) On which day of her training does she first run a distance of 20 km? 
+(b) By the time she manages to run the 20 km distance, what is the total 
+distance she would have run for the whole training program? 
+107
+
+Sequences and series 
+8. In a certain country, smartphones were first introduced in the year 2010. 
+During the first year, 1600 people bought a smartphone. In 2011, the 
+number of new participants was 2400, and in 2012 the new participants 
+numbered 3600. 
+(a) You notice that the trend follows a geometric sequence. 
+Find the common ratio. 
+(b) Assuming that the trend continues: 
+(i) how many participants will join in 20222 
+(ii) in what year would the number of new participants first exceed 
+50000? 
+Between 2010 and 2012, the total number of participants reached 7600. 
+(c) What is the total number of participants between 2010 and 20222 
+Assume that all users continue to have a smartphone. 
+During this period, the total adult population remains approximately 
+800 000. 
+(d) Use this information to suggest a reason why this trend in growth 
+would not continue. 
+9. The midpoints M, N, P, and Q of 
+M 
+the sides of a square of side 1 cm 
+are joined to form a new square. 
+(a) Show that the side length of 
+the square MNPQ is % 
+  
+  
+  
+  
+N 
+O 
+Q 
+  
+    
+  
+  
+(b) Find the area of square MNPQ. 
+A new third square RSTU is 
+constructed in the same manner. 
+T 
+u 
+  
+ 
+ 
+  
+() 
+(i) 
+Find the area of the square 
+RSTU. 
+- 
+(ii) 
+Show that the areas of the squares are in a geometric sequence 
+and find the common ratio. 
+ 
+ 
+  
+The procedure continues indefinitely. 
+(d) 
+(i) 
+Find the area of the 10th square. 
+(ii) 
+Find the sum of the areas of all the squares. 
+10. Aristede is a dedicated swimmer. He goes swimming once every week. 
+He starts the first week of the year by swimming 200 metres. 
+Each week after that he swims 20 metres more than the previous week. 
+He does this for the whole year (52 weeks). 
+(a) How far does he swim in the final week? 
+(b) How far does he swim altogether? 
+108
+
+11. The diagram shows three iterations of constructing squares in the 
+following manner: A square of side 3 units is drawn, then it is divided 
+into nine smaller squares and the middle square is shaded (below; left). 
+Each of the unshaded squares is in turn divided into nine squares and 
+the process is repeated. The area of the first shaded square is 1 unit. 
+FRHEFF 
+L e 
+(a) Find the area of each of the squares A and B. 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+(b) Find the area of any small square in the third diagram. 
+(c) 
+Find the area of the shaded regions in the second and third iterations. 
+(d) If the process was continued indefinitely, find the area left unshaded. 
+12. The table shows four series of numbers. One is an arithmetic series, one 
+is a converging geometric series, one is a diverging geometric series, and 
+the fourth is neither geometric nor arithmetic. 
+  
+  
+  
+  
+  
+Series 
+Type of series 
+()N RN 
+2o 
+020 e 
+(if) 
+4,8, 
+16 
+oR 
+(iii) | 0.8 + 0.78 + 0.76 + 0.74 + ... 
+UDH PRRSHE. 
+oS 2 
+. 
+37927 
+ 
+ 
+   
+(a) Copy and complete the table by stating the type of each series. 
+(b) Find the sum of the infinite geometric series. 
+13. Two IT companies offer apparently similar salary schemes for their new 
+appointees. Kell offers a starting salary of €18,000 per year and an annual 
+increase of €400 each year after the first. YBO offers a starting salary of 
+€17,000 per year and an annual increase of 7% each year after the first year. 
+(a) 
+(i) Write down the salary paid in the 2nd and 3rd years for each 
+company. 
+(ii) Calculate the total amount that an employee working for 
+10 years will accumulate over 10 years in each company. 
+(iii) Calculate the salary paid in the tenth year in each company. 
+(b) Tim works at Kell and Merijayne works at YBO. 
+(i) When would Merijayne start earning more than Tim? 
+(ii) What is the minimum number of years that Merijayne requires 
+so that her total earnings exceed Tim’ total earnings? 
+109
+
+  
+N 
+/N 
+7RI N 
+ 
+ 
+  
+Figure 3.5 Diagram for 
+question 14 
+110 
+Sequences and series 
+14. 
+157 
+16. 
+173 
+18. 
+192 
+20. 
+21. 
+22. 
+23. 
+A theatre has 24 rows of seats. There are 16 seats in the first row, 
+and each successive row increases by 2 seats. 
+(a) Calculate the number of seats in the 24th row. 
+(b) Calculate the number of seats in the whole theatre. 
+The amount of €7000 is invested at 5.25% annual compound interest. 
+(a) Write down an expression for the value of this investment after 
+t full years. 
+(b) Calculate the minimum number of years required for this amount 
+to become €10,000. 
+(c) For the same number of years as in part (b), would an investment 
+of the same amount be better if it were invested at a 5% rate 
+compounded quarterly? 
+With S, denoting the sum of the first # terms of an arithmetic sequence, 
+we are given that §; = 9 and S, = 20. 
+(a) Find the second term. 
+(b) Calculate the common difference of the sequence. 
+(c) Find the fourth term. 
+Consider an arithmetic sequence whose second term is 7. The sum of 
+the first four terms of this sequence is 12. Find the first term and the 
+common difference of the sequence. 
+Given that 
+1+ x50 + ax)* =1 + bx + 1022 + ... + adx'l, 
+find the values of a, b € Z. 
+In an arithmetic sequence of positive terms, a, represents the nth term. 
+Given that s oh and a; X a, = 32, find lz“ua,- 
+4 
+13 
+=1 
+In an arithmetic sequence, a, = 5 and a, = 13. 
+(a) Write down, in terms of 1, an expression for the nth term, a,,. 
+(b) Find 7 such that a, < 400. 
+Consider the arithmetic sequence 85,78, 71, ... 
+Find the sum of its positive terms. 
+R 
+: 
+7 
+g 
+Z 
+‘When we expand (x 
+z) 
+, the coefficient of x is 
+Find all possible values of k. 
+The sum to infinity of a geometric sequence is %, and the sum of its 
+first three terms is 13. Find the first term.
+
+258 
+26. 
+7 
+28. 
+29. 
+30. 
+318 
+32. 
+333 
+. A geometric sequence is defined by u, = 3(4)" *!, n € Z*, where u, is 
+the nth term. 
+(a) Find the common ratio r. 
+(b) Hence, find S,,, the sum of the first n terms of this sequence. 
+Consider the infinite geometric series: 
+2 
+3 
+1+ () + () 
++ () 
++ .- 
+5 
+5 
+5 
+(a) For what values of x does the series converge? 
+(b) Find the sum of the series if x = 1.5 
+Consider the arithmetic series S, =2 + 5+ 8 + ... 
+(a) Find an expression for the partial sum S,,, in terms of n. 
+(b) For what value of nis S, = 1365? 
+50 
+Find ) In(2), giving the answer in the form a In 2, where a € Q 
+= 
+Consider the sequence {a,} defined recursively by: 
+Ay s1=3a,— 2a,_,n 
+€ Z*,witha, =1,a, =2 
+(a) Find a,, a;, and a,. 
+(b) 
+(i) Find the explicit form for a,, in terms of n. 
+(ii) Verify that your answer to part (i) satisfies the given recursive 
+definition. 
+The sum to infinity of a geometric sequence with all positive terms is 27, 
+and the sum of the first two terms is 15. Find the value of: 
+(a) the common ratio 
+(b) the first term. 
+The first four terms of an arithmetic sequence are 2,a — b,2a + b + 7, 
+and a — 3b, where a and b are constants. Find a and b. 
+Three consecutive terms of an arithmetic sequence are: a, 1, and b. 
+The terms 1, a, and b are consecutive terms of a geometric sequence. 
+If 
+a # b, find the value of a and of b. 
+The diagram in Figure 3.6 shows a sector AOB of a circle of radius 1 
+and centre O, where AOB=6. 
+The lines (AB,), (A,B,), and (A,B;) are perpendicular to OB. 
+A,B, and A, 
+B, are arcs of circles with centre O. 
+  
+o 
+Calculate the sum to infinity of the arc lengths: 
+BB, B 
+B 
+AR AR AR 
+AT R 
+Figure 3.6 Diagram for 
+question 32 
+(a) Expand (2 + x)?, giving your answer in ascending powers of x. 
+(b) Hence, find the exact value of 2.01° 
+m
+
+12 
+Sequences and series 
+34, 
+357 
+36. 
+37 
+38. 
+898 
+You invest $5000 at an annual compound interest rate of 6.3%. 
+(a) Write an expression for the value of this investment after ¢ full years. 
+(b) Find the value of this investment at the end of five years. 
+(c) After how many full years will the value of the investment exceed 
+$10,000? 
+The sum of the first # terms of an arithmetic sequence {u,,} is given by 
+the formula S, = 4n? — 2n. Three terms of this sequence, u, u,, and 3, 
+are consecutive terms in a geometric sequence. Find m. 
+The sum of the first 16 terms of an arithmetic sequence {u,} is 12. 
+Find the first term and the common difference if the ninth term is zero. 
+(a) Write down the first four terms of the expansion of (1 — x)", 
+with n > 2, in ascending powers of x. 
+(b) The absolute values of the coefficients of 2nd, 3rd, and 4th terms 
+of the expansion in (a) are consecutive terms in an arithmetic 
+sequence. 
+(i) Show thatn® —9n? + 14n =0 
+(ii) Find the value of n. 
+(a) Write down the full expansion of (3 + x)* in ascending powers of x. 
+(b) Find the exact value of 3.1* 
+(a) Write down how many integers between 10 and 300 are divisible by 7. 
+(b) Express the sum of these integers in sigma notation. 
+(c) Find the sum in (b) above. 
+(d) Given an arithmetic sequence with first term 1000 and common 
+difference —7, find the smallest 7 so that the sum of the first n terms 
+of this sequence is negative. 
+. Let {u,}, n € Z*, be an arithmetic sequence with first term a and 
+common difference d, where d # 0. Let another sequence {v,},n € Z*, 
+be defined by v, = 2. 
+Vut1 
+n 
+Vn 
+  
+(a) 
+(i) Show that 
+is a constant. 
+(ii) Write down the first term of the sequence {v,}. 
+(iii) Write down a formula for v, in terms of a, d, and n. 
+Let S, be the sum of the first n terms of the sequence {v,}. 
+(b) 
+(i) Find S, in terms of 4, d, and n. 
+(i) Find the values of d for which ) _v; exists. 
+T 
+You are now told that Y_v; does exist and is denoted by S.... 
+T 
+(iii) Write down S 
+in terms of @ and d. 
+(iv) Given that S 
+= 2°*1, find the value of d.

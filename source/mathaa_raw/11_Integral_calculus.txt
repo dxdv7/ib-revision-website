@@ -1,0 +1,2479 @@
+  
+   
+   
+  
+L TS LLUIN ™Y 
+a1 
+CLIR 
+ 
+
+An antiderivative of the 
+function f{x) is a function 
+F(x) such that 
+S 
+Bl 
+50 =F 
+=fin 
+wherever f{x) s defined. 
+432 
+Integral calculus 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« 
+integration as antidifferentiation of functions 
+o 
+calculating and applying definite integrals 
+« 
+finding areas under curves (between the curve and the x-axis), and 
+areas between curves 
+« 
+antidifferentiation with a boundary condition 
+« 
+solving kinematic problems involving displacement s, velocity v, 
+acceleration g, and total distance travelled 
+« 
+working with integration of polynomial functions, trigonometric 
+functions and their inverses, and exponential functions 
+« 
+integration by inspection (reverse chain rule) and integration by 
+substitution. 
+In Chapters 9 and 10 we learned about the process of differentiation. That is, 
+finding the derivative of a given function. In this chapter, we will reverse the 
+process. That is, given a function f{x) how can we find a function F(x) whose 
+derivative is f{x)? This process is the opposite of differentiation and is therefore 
+called antidifferentiation or integration. 
+Antiderivative 
+For instance, let f{x) = x. It is not difficult to discover an antiderivative of f(x). 
+Keep in mind that this is a power function. Since the power rule reduces the 
+power of the function by 1, we examine the derivative of x*: di(f) =3x 
+x 
+This derivative, however, is 3 times f(x). To ‘compensate’ for the ‘extra’ 3 we 
+have to multiply by 1 o that the antiderivative is L. Now i(l)ﬁ) =x? 
+3 
+3 
+dx\3 
+and therefore %xJ is an antiderivative of x2 
+Table 11.1 shows some examples of functions, each paired with one of its 
+antiderivatives. The diagrams show the relationship between the derivative 
+and the integral as opposite operations.
+
+x 
+£ 
+2 
+* 
+£ 
+5 
+Figure 111 The relationship between a 
+derivative and its integral 
+  
+Table 11.1 Examples of functions paired to antiderivatives 
+Given the function f(x) = 3x2. Find an antiderivative of f{x). 
+1 
+Solution 
+F,(x) = x* is one such antiderivative because %(Fl(x)) = 3x2 
+The following functions are also antiderivatives because the derivative of 
+each one of them is also 3x2 
+  
+Fx)=x3+27 
+Fx)=x*-m 
+Fx)=x*+/5 
+Indeed, F(x) = x* + ¢ is an antiderivative of fix) = 3x2 for any constant c. 
+This is simply because 
+(F(x) + ¢) = F(x) + ¢ = F(x) + 0 = flx) 
+Thus we can say that any single function f(x) has many antiderivatives, whereas 
+a function has only one derivative. 
+If F(x) is an antiderivative of f{x), then so is F(x) + c for any choice of the 
+constant c. This statement is an indirect conclusion of one of the results of the 
+mean value theorem. Two functions with the same derivative on an interval 
+differ only by a constant on that interval. 
+Let F(x) and G(x) be any antiderivatives of f(x); that is, F'(x) = G'(x). 
+Take H(x) = F(x) — G(x) and any two numbers x, and x, in the interval [a, b] 
+such that x, < x,, then 
+H(x,) = H(x) = (x, = x)H'(c) = (v, — x1) 
+- (F(e) — G'(0) 
+= (% —x)-0=0= Hx) = H(x,) 
+‘which means H(x) is a constant function. Hence H(x) = F(x) — G(x) = constant. 
+That is, any two antiderivatives of a function differ by a constant.   
+‘The mean value theorem 
+states that a function 
+H(x), continuous over 
+aninterval [a, b] and 
+differentiable over ], b{ 
+satisfies: 
+H(b) — H(a) 
+=(b— aH () 
+for some c € |, b 
+433
+
+Note that if we differentiate 
+an antiderivative of f(x), we 
+obtain f(x). Thus 
+d a( Jfiodx) = fix) 
+The expression [f(x)dx 
+is called an indefinite 
+integral of f(x). The 
+function f(x) is called 
+the integrand, and the 
+constant cis called the 
+constant of integration. 
+The integral symbol ['isa 
+medieval S, used by Leibniz 
+as an abbreviation for the 
+Latin word summa (‘su). 
+‘We think of the 
+combination [ ]dxas 
+a single symbol; we fill 
+in the blank with the 
+formula of the function 
+whose antiderivative we 
+seek. We may regard the 
+differential das specifying 
+the independent variable 
+xboth in the function f(x) 
+and in its antiderivatives. 
+“This s true for any 
+independent variable, say f, 
+with the notation adjusted 
+appropriately. Thus 
+%(fﬂt) dt) = fie) 
+and 
+[fiode =R + ¢ 
+are equivalent statements. 
+The integral sign and 
+differential serve as 
+delimiters, adjoining the 
+integrand on the left and 
+right, respectively. 
+In particular we do not 
+write [dxf) when we 
+mean f [fix)dx 
+434 
+Integral calculus 
+The notation 
+[ feodx = Foo + ¢ 
+) 
+where ¢ is an arbitrary constant, means that F(x) + c is an antiderivative of f(x). 
+Equivalently, F(x) satisfies the condition that 
+%F(X) =F'tv) = fln) 
+) 
+for all x in the domain of f{x). 
+It is important to note that (1) and (2) are just different notations to express the 
+same fact. For example 
+   
+  
+  
+1 
+B 
+= 
+d(1 
+2dx = =x3 
+L(1x3) 
+= 
+fx 
+3% 
+T cis equivalent to 
+3* 
+) 
+Derivative formula | Equivalent integration formula 
+d 
+()= 
+i 
+g 
+- 
+=3x? 
+3x2dx=x3+c¢ 
+&E 
+J 
+  
+Jizde=vx+e 
+  
+  
+%(tan ) = sec?t 
+,'seczrdr =tant+c 
+  
+ 
+ 
+ 
+d(3_3.1 
+3. 
+_ 
+s 
+E(“)’EV' 
+[3vtav=1i+c 
+  
+Table 11.2 Derivative formulae and their equivalent integration formulae 
+Basic integration formulae 
+Many basic integration formulae can be obtained directly from their 
+companion differentiation formulae. Some of the most important are 
+given in Table 11.3. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Derivative formula 
+Integration formula 
+1 
+i(x)ZI 
+Jax=x+c 
+ey = 
+it 
+(o 
+im0 
+_ 
+2| 
+= 
+e 
+-1 
+.,xdx7n+l+c,ng 
+1 
+d 
+7 
+- 
+< 
+= 
+cosxdx =sinx+ ¢ 
+3 
+4, (sinx) = cosx 
+) 
+4 
+4 cos) = —sinv 
+[sinvdv = —cosv+c 
+dv 
+) 
+5 
+%(lan t) = 1/cos?t = sec?t 
+fseczzdz =tant + ¢ 
+6 
+%(ev) =e 
+ferdv=etc 
+d 
+1 
+('L 
+7 
+Sinl) = 
+[Fdx=ln|x| +¢ 
+ 
+ 
+ 
+   
+Table 11.3 Many basic integration formulae can be obtained directly from their companion 
+differentiation formulae
+
+Formula 7 is a special case of the ‘power’ rule shown in formula 2, but needs 
+some modification. 
+) 
+1 
+s 
+If we are asked to integrate ¢, we may attempt to do it using the power rule: 
+f%dx = fx’]dx = ﬁx"”“ +c= %x” + ¢, which is undefined. 
+However, the solution is found by observing what we learned in Chapter 10: 
+d 
+1 
+oooao 
+1 
+E(lnx) =px>0 implies f} dx=Inx+ ¢ x>0. 
+The function % is differentiable for x < 0 too. So, we must be able to find its 
+integral. 
+Suppose that f{x) and 
+(x) are differentiable 
+functions and kisa 
+constant. Then: 
+The solution lies in the chain rule. 
+A constant factor can be 
+‘moved through an integral 
+If x < 0, then we can write x = —u where u > 0. Then dx = —du, and 
+sign; that is, 
+[ifds 
+= k [f)d 
+An antiderivative of a 
+sum (difference) is the 
+sum (difference) of the 
+antiderivatives; i.., 
+f%dx:f}u(*du):f%du:lnu+c,u>0 
+But u = —x, therefore when x < 0: 
+f % dx =Inu + ¢ = In(—x) + ¢, and combining the two results, we have 
+Jf) = gwjax 
+[rax=Inx +cx=0 
+=[x+ [t ax 
+Evaluate 
+(@) [3cosxdx 
+® [ 
++ x2dx 
+Solution 
+(a) fScosxdx: 3fcosxdx S SISINEG 
+S 
+e[ 
+Db 
+i 
+e 
+(b)f(x 
+x?)dx 
+fxderfxd.x 
+4+3+c 
+Sometimes it is useful to rewrite the integrand in a different form before 
+performing the integration. 
+Evaluate 
+i3t 
+G0 
+s 
+= 
+CfE 
+435
+
+436 
+Integral calculus 
+| 
+Solution 
+i3t 
+i 
+il 
+il 
+ot 
+@ [t 
+= [Ram [Par= 
+froa— 
+[sar g 
+:*%*3t+e 
+®) f%fﬂdx:f%dx+f5x—"z‘dx:f%dx+fsx2dx 
+3 
+:ln|x|+%+c 
+Integration by simple subst 
+change of variables 
+In this section, we will study substitution, a technique that can often be used to 
+transform complex integration problems into simpler ones. 
+The method of substitution depends on our understanding of the chain rule as 
+well as the use of variables in integration. Two facts to recall: 
+‘When we find an antiderivative, we can use any other variable. 
+‘That s, [f(u) du = F(u) + ¢, where u is a dummy variable in the sense that it 
+can be replaced by any other variable. 
+Using the chain rule %(F(u(x))) = F'(ux)) 
+- u'(x) 
+Which can be written in integral form as f F(u(x)) 
+- u'(x)dx = Fu(x)) + ¢ 
+Or equivalently, since F(x) is an antiderivative of f(x), 
+Jfueo) - w0 dx = Fu) + ¢ 
+For our purposes, it will be useful and simpler to let u(x) = u and to write 
+du _ '(x) in its differential form as du = u'(x) dx or simply du = u'dx. 
+dx 
+‘We can now write the integral as 
+[y 
+- e dx = [fandu = Fluto) + ¢ 
+Example 11.4 demonstrates how the method works. 
+Example 11.4 
+Evaluate 
+(a) f(x’ it 252 
+d e 
+(b) ftanxdx 
+(c) fcosSxdx 
+(@ [cosx? - xdx 
+(e) [ertidx
+
+1 
+Solution 
+(a) To integrate this function, it is simplest to make the substitution 
+u = x* + 2, and so du = 3x>dx. Now we can write the integral as 
+3 
+1 
+f(x3+2)‘“-3xzdx:fu‘°du:u—“+c:—(x+2) SiC 
+11 
+11 
+(b) This integrand has to be rewritten first and then we make the 
+  
+substitution: 
+sinx 
+1 
+. 
+ftanxdx = fcosde = fm 
+- sinxdx 
+We now let u = cosx = du = —sinxdx, and 
+ftanxdx = fﬁ-sinxdx: f%»(*du) = *f%du: —Infu| + ¢ 
+This last result can be then expressed in two ways: 
+ftanxdx = —In|cosx| + ¢, or 
+  
+[tanxdx = ~Infcosx| + ¢ = Inficos x| + ¢ = In 
+  
+  
+(cos x) 
+= In|secx| + ¢ 
+(c) Weletu = 5x, then du = 5dx = dx = édu, and so 
+= 
+| 
+_1. 
+fcosSxdxffcosugdu— 
+fcosudufgsmu+c 
+  
+Another method can be applied here: 
+The substitution u = 5x requires du = 5dx. As there is no factor of 5 
+in the integrand, and since 5 is a constant, we can multiply and divide 
+by 5 so that we group the 5 and dx to form the du required by the 
+substitution: 
+fcosSxd.x: Ifcosx-de: lfcosudu:lsi.nu+c 
+5 
+5] 
+5 
+:ésin5x+c 
+(d) By letting u = x? du = 2x dx and so 
+fcosxz-xd.x: %fcosxz-Zxdx: %fcosudu 
+sinu+c:%si.nxz+c 
+@ [erride =L e 
+ade = lfe"d'l:%e"Jrc:%e““ oy 
+  
+  
+‘The main challenge in 
+using the substitution 
+rule is to think of an 
+appropriate substitution. 
+You should try to 
+select u to be a part of 
+the integrand whose 
+differential is also 
+included (except for the 
+constant). In Example 
+114 (a), we selected u 
+tobe (* + 2) knowing 
+that du = 3x2dx. Then 
+we compensated for the 
+absence of 3. Finding the 
+right substitution is a 
+subtle art, which you will 
+acquire with practice. It 
+is often the case that your 
+first guess may not work. 
+In integration, 
+multiplying by a constant 
+inside the integral and 
+compensating for that 
+with the reciprocal 
+outside the integral 
+depends on formula 2 
+from Table 11.3. 
+However, we cannot do 
+this with a variable. 
+For example, 
+Jerde= L [eraxdr 
+2 
+is not valid because 2x is 
+not a constant. 
+437
+
+‘The main challenge in 
+using the substitution 
+rule s to think of an 
+appropriate substitution. 
+You should try to 
+select u to be a part of 
+the integrand whose 
+differential is also 
+included (except for the 
+constant). In Example 
+11.4(a), we selected 
+tobe (x* + 2) knowing 
+that du = 3x>dx. Then 
+we compensated for the 
+absence of 3. Finding the 
+right substitution is a 
+subtle art, which you will 
+acquire with practice. It 
+is often the case that your 
+first guess may not work. 
+438 
+Evaluate each integral. 
+(a) fe’“dx 
+(b) fsinzxcosxdx 
+(c) fZ sin(3x — 5)dx 
+(@ [emrd 
+(e) [xvEdxand 
+F(1) =2 
+Solution 
+(a) Letu = —3x, then du = —3dx 
+e 
+| 
+NS 
+iy 
+I 
+fe dx= 
+gfe 
+(E3AVE 
+gfeduf 
+3¢ 
++c 
+= 71573,( b o 
+(b) Let u = sinx = du = cosxdx, and hence 
+fsinzxcosxdx = fuldu = %u’ +c= %sin’x SC 
+(c) Letu = 3x — 5, then du = 3dx 
+[2sinGx 
+= 5)dx=2. 
+1 [sinGx — 5)3dx = 2 [ sinudu 
+3 
+E 
+= *%cosu +c= *%cos(3x*5) 
+(e 
+(d) Let u = mx + n, then du = mdx 
+Jemnds= L femsnmax = L [erdu=Lous o= Lemuns 
+m 
+m 
+m 
+m 
+( F(x):fxmdx:fx%dx:’iﬂ:l %+ ¢, but F(1) = 2 
+) 
+5 
+Ny 
+A1) :%1 
+Therefore F(x) = %x
+
+Examples 11.4 and 11.5 make it clear that Table 11.3 is limited in scope 
+because we cannot use the integrals directly to evaluate composite functions. 
+We therefore need to revise some of the derivative formulae. 
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+%(u(x)) =W = du=ubodc 
+Jau=u+e 
+d(uy_ 
+- 
+wy 
+_ 
+L aum 
+- 
+2 
+En+l)7" u'(x),n# 
+1=>d(n+1)—u 
+w'(x)dx 
+fu du—m+c,n¢ 
+1 
+3 
+%[sin(u)) = cos(u)u'(x) = d(sin(u)) = cos(u)u'(x) dx 
+f cosudu =sinu+ ¢ 
+4 
+%(cos(u)) = —sin(w)u’(x) = d(cos(w)) = —sin(uyu’(x)dx 
+fsinudu = —cosu+c 
+5 
+%(lan u) = sec?u u'(t) = ditanu) = sec?u u/(t) dt 
+fsec’-u du=tanu+c 
+6 
+4 (e 
+= emr(x) dx = die®) = ex/(x) dv 
+Jerdu=eute 
+dx 
+7 
+i(‘“'“" = Lt = dlinu) = L 
+ax 
+[ du=tnjul +¢ 
+ 
+ 
+ 
+ 
+  
+Table 11.4 More advanced derivative and integration formulae. 
+Example 11.6 
+Evaluate each integral. 
+(a) fv6x+11dx 
+(b) f(5x3+2)xxzdx 
+D) 
+= dx 
+in4(3 
+x2) 
+(3x2) 
+(c) fS—waL 
+= 
+(d) fsm (3x2) cos(3x2) x dx 
+Solution 
+(a) Welet u = 6x + 11 and calculate du: 
+u=06x+ 11 = du=6dx 
+Since du contains the factor 6, the integral is not in the form f flu) du. 
+However, here we can use one of two approaches. 
+Introduce the factor 6, as we have done before; that is, 
+[VerF 
+s = L[verFir6ax 
+6 
+:;fﬁdu:%fu%du 
+439
+
+Orsinceu 
+= 6x + 11 = du:6dx©dx:ds—u,then 
+f¢6x +11dx= fmd?" = %fu%du, then we follow the same steps as 
+before. 
+(b) Weletu = 5x* + 2, so du = 15x2dx. This means that we need to 
+introduce the factor 15 into the integrand 
+Jx? + 2x2dx = L [(5x2 + 20 15x2dx 
+15 
+1 
+e 
+i g 
+= 
+o 
+15 
+i 
+159 
+1 
+3 
+= 
++2)°+ 
+135(51 
+Pare 
+(c) Weletu = x* — 8x + 13 = du = (4x® — 8)dx = 4(x® — 2)dx 
+©-2 
+4.1 
+4(x® — 2)dx 
+71fﬁ 
+S—sx+13 
+4 5\/x‘78x+1374 
+  
+1 
+us 
+Slic 
+1 
+= iugdu *i 
+m|us|=w 
+-5 
+’16( 
+(d) Weletu = sin(3x?) = du = cos (3x?)6x dx using the chain rule. 
+4 
+CoeE SRR 
+B R C 
+f sin%(3x2) cos (3x?) xdx = é f sin®(3x?) cos (3x?) 6x dx 
+ipoa 
+lu 
+== 
+=k 
+6fu du 
+65 
+= %sins(&cz) SC 
+1. 
+Find the most general antiderivative of each function. 
+@) flry=x+2 
+(D) 169 = & 
+= i 
+F 1l 
+© g =2-2x 
+@ fi) =t — D2t +3) 
+(&) g(u) 
+= u —du? 
+® j(x)—z‘/'fzr 
+(g) h(6) = 3sinf 
++ 4cos 0 
+(h) f(t) = 31> — 2sint 
+i) fix) 
+= vx2x —5) 
+(j) g(6) = 3cos 
+6 — 2sec2 
+440
+
+() b = e 
+o f=32 
+(m) h(u) = ﬁ 
+(1) h(6) = esinocos O 
+(0) fix) 
+= (3 + 2x)? 
+. 
+Findf. 
+(a) f"(x) = 4x — 15x2 
+(b) f"(x) = 
+1 + 3x2 — 4x3,f'(0) = 2, f(1) = 2 
+(c) f"(t) =8t —sint 
+(d) f'(x) = 12x3 — 8x + 7,/(0) = 3 
+(e) f'(6) =2 cos 6 — sin (26) 
+. 
+Evaluate each integral. 
+@) [x(x2+7)dx 
+(b) Imdx 
+  
+© [2V5x +2dx 
+(@ 
+f(3 7}&)5& 
+5 
+(@ [p2r=7d 
+() f(z +3) (i)dx 
+. 
+sin(260 
+(8) [snt7x — 31dx 
+& fcos(za— 
+TE=ad 
+(i) 
+f sec2(50 — 2)d6 
+) 
+f cos(mx + 3)dx 
+) [secartan2edr 
+O [xemidx 
+(m) [VFexdt 
+(n) f%(ln 02d6 
+. 
+Evaluate each integral. 
+@ [t3—5edt 
+() [6sec20°d0 
+© [ “2“ 
+ﬂf dt 
+(@) [tan2tsect2tdt 
+. 
+© frrn) 
+() [+ 
+ne 
+" dr 
+x+3 
+(g)fxz+6x+7 
+(h)faz,axt 
+@) [3x/x=Tdx 
+() [VI+ cosgsin6do 
+M [a=rdt 
+() [ S 
+S 
+     
+  
+441
+
+< 
+y=1x) 
+ol 
+a 
+b 
+x 
+Figure 11.2 How do we find 
+the area? 
+< 
+¥ =f0 
+of 
+X, 
+X 
+ 
+Figure 11.3 Dividing the 
+base interval into subintervals 
+k 
+Figure 11.4 The total area of 
+the rectangles can be viewed 
+as an approximation 
+L 
+Figure 11.5 As n increases, 
+the approximations get better 
+R 
+Figure 11.6 Underestimation 
+of area 
+i 
+Figure 11.7 Overestimation 
+of area 
+\ 
+Figure 11.8 
+n inscribed 
+rectangles 
+442   
+Area and the definite integral 
+The function f(x) is continuous and non-negative on an interval [a, b]. How do 
+we find the area between the graph of f(x) and the interval [a, b] on the x-axis? 
+(Figure 11.2) 
+‘We divide the base interval [a, b] into n equal subintervals, and over each 
+subinterval, we construct a rectangle that extends from the x-axis to any point 
+on the curve y = f(x) that is above the subinterval; the particular point does 
+not matter - it can be above the centre, above one endpoint, or above any other 
+point in the subinterval. In Figure 11.3 it is at the centre. 
+For each n, the total area of the rectangles can be viewed as an approximation 
+to the exact area in question. As n increases, these approximations will get 
+better and better and will eventually approach the exact area as a limit. 
+See Figures 11.3-11.5 
+A traditional approach would be to study how the choice of where to put the 
+rectangular strip does not affect the approximation as the number of intervals 
+increases. We can construct inscribed rectangles that, at the start, give us an 
+underestimate of the area (Figure 11.6). On the other hand we can construct 
+circumscribed rectangles that, at the start, overestimate the area (Figure 11.7). 
+As the number of intervals increases, the difference between the overestimates 
+and the underestimates will approach 0. 
+Figures 11.8 and 11.9 show n inscribed and circumscribed rectangles 
+and Figure 11.10 shows the difference between the overestimates and 
+underestimates. 
+Figure 11.10 shows that as the number n increases, the difference between the 
+estimates will approach 0. Because we set up our rectangles by choosing a point 
+inside the interval, the areas of the rectangles will lie between the overestimates 
+and underestimates, and hence, as the difference between the extremes approaches 
+zero, the rectangles we construct will give the area of the region required. 
+If we consider the width of each interval to be Ax, then the area of any 
+rectangle is given as 
+4= fl) 
+The total area of the rectangles so constructed is 
+n 
+> flx)Ax 
+=0 
+  
+A,   
+  
+where x; is an arbitrary point within any subinterval [x;_,, x;], x, = @, and x,, = b.
+
+In the case of a function f(x) that has both positive and negative values on 
+[a, b], it is necessary to consider the signs of the areas in the following sense. 
+On each subinterval, we have a rectangle with width Ax and height f(x*). 
+If f(x*) > 0, then this rectangle is above the x-axis; if f(x*) < 0, then this 
+rectangle is below the x-axis. We will consider the sum defined above as the 
+sum of the signed areas of these rectangles. That means the total area on the 
+interval is the sum of the areas above the x-axis minus the sum of the areas of 
+the rectangles below the x-axis. 
+We are now ready to look at a loose definition of the definite integral: 
+If f(x) is a continuous function defined for a < x < b, we divide the interval 
+(b—a) 
+n 
+[a, b] into n subintervals of equal width Ax = 
+. We let x, = a, and 
+x, = band we choose x{,x;, ..., x, in these subintervals, so that x; lies in the 
+ith subinterval [x;_;, x;]. Then the definite integral of f(x) from a to b is 
+[ fo0 dx = tim 3= flai) 
+b 
+In the notation f f(x) dx, a and b are called the limits of integration: a is the 
+lower limit and b is the upper limit. 
+Because we have assumed that f(x) is continuous, it can be proved that the 
+limit definition above always exists and gives the same value no matter how 
+we choose the points x;. If we take these points at the centre, at two-thirds the 
+distance from the lower endpoint, or at the upper endpoint, the value is the 
+same. This why we will state the definition of the integral from now on as 
+[y = tim 3 iy v 
+For a more rigorous treatment of the definition of definite integrals using Riemann sums, refer to 
+university calculus books. Such a treatment is beyond the scope of the IB syllabus and this book. 
+Calling the area under the function an integral is no coincidence. To make the 
+point, let us take the following example: 
+Example 11. 
+Find the area A(x) between the graph of the function f(x) = 3 and the 
+interval [—1, x], and find the derivative A’(x) of this area function. 
+X 
+Figure 11.9 
+n circumscribed 
+rectangles 
+_Jp-f 
+Figure 11.10 difference 
+between over- and under- 
+estimates 
+  
+a 
+x*b 
+x 
+Figure 11.11 
+Area of each 
+circumscribed rectangle 
+Figure 11.12 Areas above 
+and below the x-axis 
+443
+
+444 
+Solution 
+  
+The area in question is 
+A6 = 5= (1) = akasr 3 
+A'(x) =3 = flx) 
+Example 11 
+Find the area A(x) between the graph of the function f(x) = 3x + 2 and the 
+interval [7%, 
+], and find the derivative A'(x) of this area function. 
+Solution     
+() ——— 
+¥ 
+The area in question is 
+=1 6(3x 4= 2P 
+AQr) = %(x s %)(3:: +2) 
+since this is the area of a triangle. Hence 
+A’(x):éX2(3x+2)X3:3x+2:f(x)
+
+Example 11 
+Find the area A(x) between the graph of the function f(x) = x + 2 and the 
+interval [—1, x], and find the derivative A’(x) of this area function. 
+Solution     
+——arl—————— 
+This is a trapezium, so the area is 
+A@) = 0+ e+ 2+ 1) = 262+ 45+ 3), and 
+A'(x):%X(2x+4):x+2:j(x) 
+Note that in every case, A'(x) = f(x) 
+That is, the derivative of the area function A(x) is the function whose graph 
+forms the upper boundary of the region. It can be shown that this relation is 
+true not only for linear functions but for all continuous functions. Thus, to find 
+the area function A(x), we can look instead for a particular function whose 
+derivative is f(x). This is, of course, nothing but the antiderivative of f(x). 
+So, intuitively, as we have seen above, we define the area function as 
+A(x) = f f(t) dt, that is A'(x) = f(x) 
+This is the trigger to the fundamental theorem of calculus. 
+We will now look at some of the properties of the definite integral. 
+  
+[ 
+ae = 
+['fi ax 
+b 
+When we defined the definite integral f f(x) dx, we implicitly assumed that 
+8 
+—a, 
+la—b 
+  
+  
+a < b. When we reverse a and b, then Ax changes from & o 
+Therefore the result above follows. 
+[‘feax=0 
+When a = b, then Ax = 0, and so, the result above follows. 
+445
+
+a 
+c 
+b 
+X 
+Figure 11.13 A(x) = A, + A, 
+Itis important to 
+’ 
+remember that | ()t 
+o 
+is a function of x. 
+446 
+Integral calculus 
+b 
+fu cdr=cb—a) 
+b 
+b 
+b 
+[ s = gl dx = [ 
+ax = [ g 
+ax 
+Lbcf(x) dx = cﬁbf(x) dx, where ¢ is any constant. 
+[feode= [ Foax + [ e ax 
+This property can be demonstrated as follows. The area from a to b is the sum of 
+the two areas, that is A(x) = A, + A, (Figure 11.13). Additionally, even if ¢ > b, 
+the relationship holds because the area from c to b in this case will be negative. 
+  
+GRS 
+  
+ndamental theorem of integral calculus 
+Our understanding of the definite integral as the area under the curve for f(x) 
+helps us establish the basis for the fundamental theorem of integral calculus. 
+In the definition of definite integral, we'll make the upper limit a variable, say x. 
+Then we will call the area between a and x, A(x); that is, 
+Ax) = f “fodr 
+This equation is stating that 
+d 
+= 
+aity= ([ 
+= 
+Law) = a0 = ([ i ar) = 
+) 
+This very powerful statement is called the first fundamental theorem of 
+integral calculus. In essence, it says that the processes of integration and 
+differentiation are inverses of one another. 
+Example 11.10 
+Find each derivative. 
+dr 
+  
+  
+N 
+4 
+41 
+@ dxfs” < 
+(b)dxnl+t‘ 
+© dxfx (RS 
+. 
+Solution 
+(a) This is a direct application of the fundamental theorem: 
+L 
+or fs 76dE= 
+7 
+(b) This is also straightforward: 
+ol 
+ek 
+1l 
+(AR ORIE R AN 
+s 
+ 
+
+(c) We need to rewrite the expression before we perform the calculation. 
+  
+  
+  
+  
+L A 
+TR 
+I 
+/N (W 
+PSR 
+N 
+I 
+S 
+dxfxuz‘d"dxfn 
+Trad 
+dxfxl+t‘dt 
+1+ xt 
+The second fundamental theorem of integral calculus 
+Recall that A(x) = f [f(t)dt. If F(x) is any antiderivative of f(x), then applying 
+what we learned earlier 
+F(x) = A(x) + ¢ where c is an arbitrary constant. 
+Now 
+F(b) = A(b) + c = f bf(t) dt + ¢, and 
+Fla) = A(@) + c = f:f(t) di + ¢ =0 + ¢, and hence 
+b 
+Fb) 
+~ F@) = [ fydt+c—c 
+= f "oy dr 
+‘The theorem is also known as the evaluation theorem. Also, since we know that F'(x) is the rate 
+of change in F(x) with respect to x, and that F(b) — F(a) is the change in y when x changes from a 
+to b, we can reformulate the theorem in words to read: 
+‘The integral of 
+a rate of change is the total change: 
+f“ P 
+dx = F(b) — Fa) 
+Here are a few instances where this applies: 
+o 
+If V'(t) is the rate at which a liquid flows into or out of a container at time t, 
+“ 
+then ]; V'(t)dt = V(t,) — V(t;) is the change in the amount of liquid in the 
+container between time ¢, and t,. 
+L 
+« If the rate of growth of a population is n'(t), thenf[ n'(t)dt = n(ty) — n(ty) 
+is the increase (or decrease) in population during the period from t, to t,. 
+This theorem has many other applications in calculus and several other fields. It 
+is a very powerful tool that allows us to deal with problems of area, volume, and 
+work. In this book, we will apply it to finding areas between functions, volumes 
+of revolution, and in displacement problems. 
+‘The second fundamental 
+theorem of calculus states: 
+fu bj{t)dt = Fb) — Fla) 
+Notation 
+We will use the following 
+notation in evaluating 
+definite integrals. If we 
+Kknow that F(x) is an 
+antiderivative of f(x), 
+then we will write 
+[ a=reolt 
+= Kb 
+- F) 
+447
+
+Integral calculus 
+Evaluate each integral 
+@ [ wax 
+® [ ax 
+  
+27 
+24+M7‘ 
+© [ cos0do 
+@ [ 
+au 
+I 
+Solution 
+  
+@ [eostan=sine[ "=0-0=0 
+  
+Ml 
+S 
+S e 
+(d)fl 
+= 
+du—fl(us+u)du—4~_2+1n|u|l 
+2 
+=R Ul +lnu| 
+1 
+=(-2-22+1n2)—(-2-1+1n1) 
+il 
+3 
+== 
+SRt 
+5 
+InDEiD) 
+2-%-l.nZ 
+sing substitution 
+with the definite integral 
+In Section 11.1, we discussed the use of substitution to evaluate integrals in 
+cases that are not easily recognised. We established that 
+At 
+- weo dx = [fiandu = Fu(a) + ¢ 
+‘When evaluating definite integrals by substitution, two methods are available. 
+« 
+Evaluate the indefinite integral first, revert to the original variable, then use 
+the fundamental theorem. For example, to evaluate 
+tharﬁxseczxdx 
+we find the indefinite integral 
+ftansxseczxdx = fusdu = éus = %tan“x 
+then we use the fundamental theorem 
+5 
+3 
+1 
+1. 
+tan® 
+2xdx = —tan® 
+- 
+L 
+an® xsec?x 
+an®x| 
+  
+279 
+vap=2=2 
+448
+
+Or we can use the following substitution rule for definite integrals 
+b 
+} 
+u(b) 
+[ At 
+dx = [ 
+du 
+The change of variable is possible because: 
+if F(x) is an antiderivative of f(x), then by the fundamental theorem 
+b 
+[ A 
+x) s = P 
+= Fu) - Futa) 
+also 
+u(b) 
+fu ., 
+) du = Fw 
+therefore, to evaluate 
+u(b) 
+u(a '~ Flu®) — (@) 
+  
+2 
+j(; x*(2x3 + 5)'dx 
+Letu =2x>+5=du=6x*dx=dx= %,M(Z) =21, u(0) = 5,and so 
+X 
+_ 2040488 
+15 
+  
+2 
+21 
+du 
+1 
+w1 
+3 
+132 dy = 
+4 
+= 
+ddy 
+=L 
+L(Zx 
++ 5)ix2dx 
+L uszxZ 
+6]; 
+u'du 
+30]5 
+6 
+Evaluate L Vax + 1dx 
+1 
+Solution 
+Let u = 4x + 1, then du = 4dx. The limits of integration are u(2) = 9, 
+and u(6) = 25. Therefore 
+S it 
+L 
+s 
+~12 
+3/2) 
+9 
+L4x+ldx—4£ \/;du—4(3u 
+2 
+4 
+= —125E=27) === 
+9 
+6 
+3 
+  
+Note that, using this method, we do not return to the original variable of 
+integration. We simply evaluate the new integral between the appropriate 
+values of u. 
+Notice that the substitution u = 4x + 
+1 stretched the interval [2, 6] by a 
+factor of 4, and shifted it by 1 unit to the right. But the areas are the same. 
+- 
+oW oe w oo 
+Exercise 11.2 
+1. Evaluate 
+each integral. 
+0 
+123456 
+7% 
+  
+1 
+7 
+Figure 11.14 The area under the 
+(a) f 
+(3x2 — 4x%) dx 
+(b) f 8dx 
+curvey = V4x + 
+I between x = 2 
+" 
+Z 
+andx=6 
+5 
+2 
+© J %dz 
+@ [ cost — tannde 
+72x2=3x+5 
+i 
+Doiadato k25 
+£ 
+@ [y, 
+® [cos 
+60 
+449
+
+    
+  
+   
+  
+Area: 16.33 
+4 
+8 1216 
+20 24 28 ¥ 
+Figure 11.15 The area under the 
+curvey = %\ W between u = 9 and 
+u=25 
+450 
+4, 
+(a) Find f 
+Integral calculus 
+(© 
+f“ "sin 040 
+D) 
+W [ 
+     
+] (e 
+() () f02|3x|dx 
+(ii) 
+f2|3x|dx 
+(o) jfsiandx 
+2 
+@ [ fer—edx 
+2. Evaluate each integral. 
+4 
+3 
+@ 
+[ 2 
+VEZAR 
+T 
+“ @l 
+© 
+e tint 
+smx 
+G 
+1n2 
+ezx 
+® f—lnzez" & 9dx 
+[ sines 
+® 
+farz 
+VX 
+& 
+®) f“ A esinicos20d6 
+  
+3. Find the indicated derivative. 
+t 
+@ & [snty 
+o 
+dth-=1+y 
+cosy 
+(©) 
+  dy 
+3x+2 
+  
+(b) Given thatf 
+e 
+1 
+(h) f} (5% + 3x2) dx 
+e 
+3 
+W f‘(z — V®)dx 
+(iii) 
+szl3x\ dx 
+() 
+m#lnx 
+) [ Tind 
+5 
+@ [ xS =xdx 
+(€) 
+lnx 
+(h) Lw7x cosx2dx 
+()] jf(l — sin 3#)cos 
+3t dt 
+Vinm 
+) 
+fo 
+4tersinle”)dr 
+  
+, giving your answer in terms of k. 
+= 1, calculate the value of k.
+
+5. Given that p, g € N, show that 
+1 
+1 
+[ 20— 09dx 
+= [ a0 — wpdx 
+0 
+0 
+Do not attempt to evaluate the integrals. 
+6. Given that k € N, evaluate each integral: 
+: 
+@ [x(0— xkdx 
+®) [ *0 - 2ds 
+7. LetFn = [ “5ET2dt, find: 
+(a) F(3) 
+(b) F'(3) 
+(c) F"(3) 
+Areas 
+We have seen how the area between a curve defined by y = f(x) and the x-axis 
+b 
+can be computed by the integral f f(x) dx on an interval [a, b] where f(x) = 0. 
+In this section, we shall use integration to find the area of more general regions 
+between curves. 
+Areas between curves of functions of the form y = f{x) 
+and the x-axis 
+  
+If the function y = f(x) is always above the x-axis, finding the area is a 
+b 
+straightforward computation of the integral f flx)dx. 
+Find the area between the curve f(x) = x> — x + 
+1 and the x-axis over the 
+interval [—1, 2] 
+  
+451
+
+  
+2 (-xt1yax 
+L 
+2 
+4 
+Figure 11.16 Usinga GDC to 
+find the area 
+  
+  
+  
+  
+A= 
+3.614515769 
+  
+  
+  
+Figure 11.17 
+Itis best to use 
+aGDC 
+452 
+] 
+Solution 
+This area is: 
+  
+-1 
+You can use your GDC to work out the area. The calculation is usually 
+straightforward. 
+In some cases, we will have to adjust how to work. This is the case when the 
+graph intersects the x-axis. Since we are interested in the area bounded by 
+the curve and the interval [a, b] on the x-axis, we do not want the two areas 
+to cancel each other. This is why we have to split the process into subintervals 
+where we take the absolute values of the areas found and add them. 
+Example 
+11.14 
+Find the area under the curve 
+flx)=x*— x— land the 
+x-axis over the interval [—1, 2] 
+  
+I 
+—————————————————————— 
+Solution 
+As we see from the diagram, a part of the graph is below the x-axis, and 
+its area will be negative. If we try to integrate this function without paying 
+attention to the intersection with the x-axis, here is what we get: 
+2 
+2 
+4 
+2 
+e 
+T 
+e Y 
+[o-x-nax=2-2-of —u-2-2-(3-3+1 
+_3 
+4 
+This integration has to be split before we start. However, this is a function 
+where we cannot find the intersection point. So, we either use a GDC to find 
+the intersection or we just take the absolute values of the different parts of 
+the region. This is done by integrating the absolute value of the function: 
+Area = Lblf(x)| dx 
+As we said earlier, this is not easy to find given the difficulty with the 
+x-intercept. It is best if we use a GDC. 
+  
+2 
+Hence, Area = f 
+Jx* — x — 1| dx 
+= 3.6145 
+-1
+
+Find the area enclosed by the graph of the function fix) = x* —4x2+ x + 6 
+and the x-axis. 
+  
+Solution 
+This function intersects the x-axis at three points, where x = —1, 2, and 3. 
+To find the area, we split it into two and then add the absolute values: 
+area=[|feolax= [ fodx+ [ (f)ax 
+2 
+3 
+:fil(x3*4xz+x+6)dx+£(*x3+4xzfx*6)dx 
+xl 
+4x3 
+x2 
+|2 
+xt 
+4x3 
+xZ 
+|3 
+=X -2 4Z 4 
++ a2 
+ARG 
+=y -] 
+2 
+12 
+  
+(ol 
+  
+In some practical problems, we may have to compute the area between two 
+curves. Let f(x) and g(x) be functions such that f(x) = g(x) on the interval 
+[a, b] (Figure 11.18). We do not insist that both functions are non-negative. 
+  
+Figure 11.18 Area between two curves 
+453
+
+454   
+To find the area of the region R between the curves fromx = atox = b, 
+we subtract the area between the lower curve g(x) and the x-axis from the 
+area between the upper curve f(x) and the x-axis; that is 
+Area of R = f:f(x)dx B ng(x)dx = fab[ﬂx) — g(0)] dx 
+  
+Figure 11.19 Areas under functions fand g 
+1fflx) and g(x) are functions such that f(x) = g(x) on the interval [a, b], then the area between 
+b 
+the two curves is given by A = >_[flx) — ()] dx 
+This fact applies to all functions, not only to positive functions. These facts are 
+used to define the area between curves. 
+Example 11.16 
+Find the area of the region between the curves y = x*and y = x> — x 
+on the interval [0, 1]. 
+  
+| 
+Solution 
+y = x*appears to be higher than y = x? — x with one intersection at x = 0. 
+Thus, the required area is 
+  
+In some cases, we must be very careful how we calculate the area. This is the 
+case where the two functions intersect at more than one point.
+
+Example 11.17 
+Find the area of the region bounded by the curves y = x* + 2x2 
+andy = x> + 2x. 
+  
+Solution 
+The two curves intersect when: 
+PR 
+0 AR IS S 
+R 
+e T 
+(S G 
+) (A 
+T 
+) 
+That is, when 
+x = —2,0, or 
+1 
+The area is equal to: 
+  
+Plotl Plotz 
+Plot3 
+0 
+A= 
+[ e 42— b+ 2nldr [+ 20— 0+ 202 de 
+3 
+0 
+0 
+1 
+:f [x3+x2*2x]dx+f[*x2+2x*xj]dx 
+— 
+o 
+  
+  
+Dol 
+X 
+N 
+P 
+  
+[{3=abs (Y1-v2) 
+   
+—o—[16_8_ 
+D 
+o 
+  
+[Upper Timits 
+x=-2 
+1 
+v=0 
+  
+This discussion leads us to stating the general expression we should use in 
+  
+evaluating areas between curves. 
+If f(x) and g(x) are functions that are continuous on the interval [a, b], 
+then the area between the two curves is given by 
+4= 1760 - gto] ax 
+ 
+ 
+S£(x)dx=3.083523 
+Figure 11.20 Usinga GDC 
+. 
+to find the area between two 
+We can do this on our GDC. 
+curves 
+  
+455
+
+456 
+Integral calculus 
+   
+Areas along the 
+y-axis (of   
+To find the area enclosed by 
+7 
+y=1l-xandy’=x+1, 
+| 
+it is best to treat the region 
+between them by regarding 
+x as a function of y 
+(Figure 11.21). 
+  
+  
+ 
+  
+The area of the shaded 
+region can be calculated 
+using the integral: 
+ 
+ 
+ 
+  
+Figure 11.21 Area between two curves expressed by 
+regarding x as a function of y 
+a0 =[ 0= 
+7 - v]ay 
+1 
+2 
+3] 
+) 
+,J‘l 
+zdf‘ 
+9 
+=) RP-yrld=p-5-3 
+  -2 
+If we used y as a function of x, then the calculation would involve calculating 
+the area by dividing the interval into two: [—1, 0] and [0, 3]. 
+In the first part, the area is enclosed between y = Vx + 
+1 and y = —Vx + 1, 
+and the area in the second part is enclosed by y = 
+1 — xandy = —Vx + 1: 
+A =2 wF T+ [0 -0 - (AT D)dx = 
+1. Find the area of the region bounded by the given curves. Sketch the 
+region and then compute the required area. 
+W 
++ 
+ol 
+27 
+6 
+(@R 
+72 
+(b)y:cosx,y:x*ﬁ,x:*‘n' 
+2 
+©) y=2xy=x*—2 
+dy=x%y=x>—2,x=1 
+(e) y=x5y=x2 
+(B 
+(@ y=2x—x%y=x—x> 
+(h) y=sinx,y =2 — sinx (one period) 
+i) 
+y=%y= 
+= 
+Byt e 
+@) 
+y=5y=vx.x=9 
+G) 
+y=Tgy=3%—x 
+1 
+i 
+@ y=3.y=5x=8 
+1) y:25inx,)’:‘/§tanx,*%$x€%
+
+(m)y=x*+2x%y=x>—2x,x=—3,andx =2 
+) y=x+1y=(x+1? 
+©y=x*+xy=3>—x 
+2/x+1 
+2Vx 
+2. Find the area of the shaded region. 
+P y=3-vxy= 
+   
+  
+ErEy 
+N 
+3. Find the area of the region enclosed by y = e*, x = 0, and the tangent to 
+y=¢efatx=1 
+ 
+  
+  
+ 
+ 
+4. Find the area of the region enclosed by y = (x — 2)2 and 
+y = x(x — 4)* 
+5. Find a value for m > 0 such that the area under the graph of y = e>* 
+over the interval [0, m] is 3 square units. 
+6. Find the area of the region bounded by y = x* — 4x* + 3x and the x-axis. 
+Modelling linear motion 
+So far, our mathematical models considered the motion of an object only along 
+a straight line. For example, projectile motion (e.g. a ball being thrown) is often 
+modelled by a position function that simply gives the height (displacement) of 
+the object. In this way, we are modelling the motion as if it was restricted to a 
+vertical line. 
+In this section, we will again analyse the motion of an object as if its motion 
+takes place along a straight line in space. This makes sense only if the mass (and 
+thus, size) of the object is not taken into account. Hence, the object is modelled 
+by a particle whose mass is considered to be zero. This study of motion, without 
+reference either to the forces that cause it or to the mass of the object, is known 
+as kinematics. 
+457
+
+458 
+Integral calculus 
+Displacement and total distance 
+travelle: 
+Recall from Chapter 10 that given time ¢, displacement s, velocity v, and 
+acceleration a, we have: 
+d(ds) _ s 
+dt 
+==anda= g,alsoa = — 
+dr 
+dr 
+de 
+de? 
+It is important to understand the difference between displacement and distance 
+travelled. Consider a couple of simple examples of an object moving along the 
+X-axis. 
+Assume that the object does not change direction during the interval 0 < t < 5. 
+If the position of the object at t = 0 is x = 2, and at t = 5 its position is x = —3, 
+then its displacement, or change in position, is —5 because the object changed 
+its position by 5 units in the negative x-direction. This can be calculated by: 
+(final position) — (initial position) = —3 — 2 = —5. 
+However, the distance travelled would be the absolute value of displacement, 
+calculated by |final position — initial position| = [=3 — 2| = 5. 
+Assume that another object’ initial and final positions are the same as in the 
+first example; that is, at t = 0 its position is x = 2, and at t = 5 its position is 
+x = —3. However, the object changed direction in that it first travelled to the 
+left (negative velocity) from x = 2 to x = —5 during the interval 0 < t < 3, 
+and then travelled to the right (positive velocity) from x = —5tox = —3. 
+The object’s displacement is —5, the same as in the first example because its 
+net change in position is just the difference between its final and initial positions. 
+However, it’s clear that the object has travelled further than in the first example. 
+But, we cannot calculate it the same way as we did in the first example. We 
+will have to make a separate calculation for each interval where the direction 
+changed. Hence, total distance travelled = | =5 — 2| + |=3 — (=5)| =7 +2 
+  
+  
+3<t=5e- 
+0=t=3 0« 
+—_— 
+7T 
+T 7> 
+-5 -4-3-2-10 
+1 2 3 4 5% 
+  >0 
+  
+Figure 11.22 Travelled distances 
+# Thevelocity v = % of a particle is a measure of how fast it is moving and ofits direction of 
+‘motion relative to a fixed point. 
+# The speed [v] of 
+a particle is a measure of how fast it is moving that does not indicate direction. 
+‘Thus, speed is the magnitude of velocity and is always positive. 
++ Theacceleration a = % of a particleis a measure of how fastits velocity is changing,
+
+Example 11.18 
+The displacement s of a particle on the x-axis, relative to the origin, is given by 
+the position function s(f) = —# + 6t where s in centimetres and  is in seconds. 
+(a) Find a function for the particle’s velocity v(#) in terms of £. Graph the 
+functions s(t) and v() on separate axes. 
+(b) Find the particle’s position at the following times: t = 0, 1, 3, and 
+6 seconds 
+(c) Find the particle’s displacement for the following intervals: 0 < t < 1, 
+1=st=33=<t<6,and0<t<6 
+(b) Find the particle’s total distance travelled for the following intervals: 
+0s<t<L1<t<33<t<6,and0<t<6 
+I 
+Solution 
+(@) v = %(—tl 
+(@) = =G 
+Position function: s(t) = — + 6t 
+Velocity function: v(t) = s'(t) = =2t + 6 
+   
+(b) The particle’s position at: 
+t=0iss(0) = —(0)> + 6(0) = 0 cm 
+t=1liss(l) = —(1)2+ 6(1) = 5cm 
+t = 
+3iss(3) = —(3)2 + 6(3) = 9cm 
+t=6iss(6) = —(6)> + 6(6) = 0cm 
+(c) The particle’s displacement for the interval: 
+0=<t=1: A position = s(1) — 5(0) = 5 — 0 = 5cm 
+1 <t=3: Aposition = 5(3) — s(1) =9 — 5= 4cm 
+3 <t<6: A position = 5(6) —s3) =0—9 = —9cm 
+0 =<t=6: A position = 5(6) — 5(0) = 0 — 0 = Ocm 
+This last result makes sense considering the particle moved to the right 
+9 cm then, at t = 3, it turned around and moved to the left 9 cm, ending 
+where it started - thus, no change in net position. 
+459
+
+  
+(d) The particle’s total distance travelled for the interval: 
+0<t=<lisls(1) —s0)]=15—-0l=5 
+1=<t=<3is|s(3) 
+— sl =19 
+— 51 =4 
+3<t<6isls6) —sB)| =10—91=1-91=9 
+The object’s motion changed direction (velocity= 0) att = 3 
+0=<t=<6is|s(3) 
+— sO) 
++ [s6) 
+— s(3)| 
+=19 
+— 0] + [0 — 9] 
+=959 =8 
+Since differentiation of the position function gives the velocity function 
+(i.e. y= %), we expect that the inverse of differentiation (integration) will lead 
+us in the reverse direction - that is, from velocity to position. When velocity is 
+constant, we can find the displacement with the formula: 
+displacement = velocity X change in time 
+If we drove a car at a constant velocity of 50 km h™! for 3 hours, then our 
+displacement (same as distance travelled in this case) is 150 km. If a particle 
+travelled to the left on the x-axis at a constant rate of —4 units s ! for 
+5 seconds, then the particle’s displacement is —20 units. 
+- 
+The velocity-time graph (Figure 11.23) depicts an object’s motion with a 
+ 
+. 
+- s5 1 
+=5 
+constant velocity of 5cms™! for 0 < t =< 3. Clearly, the object’s displacement is 
+5cms™! X 35 = 15cm for this interval. 
+_ 
+The area (3 X 5 = 15) under the velocity curve for a certain interval is equal to 
+0 
+12 
+3¢ 
+the object’s displacement. We can argue that just as the total area can be found 
+Figure 11.23 Velocity-time 
+by summing the areas of narrow rectangular strips, the displacement can be 
+graph 
+found by summing small displacements (v - At). Consider: 
+displacement = velocity X change in time = s = v- At =s=v-dt 
+b 
+We already know that when fix) = 0, the definite integral f fx) dx gives the 
+area between y = f(x) and the x-axis from x = a to x = b. And if f(x) < 0, then 
+b 
+f flx) dx gives a number that is the opposite of the area between y = f(x) and 
+the x-axis from a to b. 
+Given that v(# is the velocity function for a particle moving along a line, then: 
+b 
+[} vindt gives the displacement from ¢ = ato = b 
+b 
+| w01 dt gives the total distance travelled from £ = ato £ = b 
+; 
+460
+
+Let’s apply integration to find the displacement and distance travelled for the 
+two intervals 3 < 
+t < 6 and 0 < 
+t < 6 in Example 11.18 
+For3=t=é6: 
+6 
+6 
+Displacement = [ (=2t + 9t = —2 + stL =0-9=-9 
+6    
+  
+6 
+Distance travelled = | [(—2¢ + 6)ldt = |—2 + 61l| = 10— 91 =9 
+3 
+Foro0=t=6: 
+6 
+6 
+Displacement = f (=2t + 6)dt = —t2 + 6[| 
+=0 
+o 
+0 
+3 
+6 
+Distance travelled = jl; |(=2t + 6)ldt + j; |(=2t + 6)ldt 
+(particle changed direction at t = 3) 
+3 
+= \—z2+6t|| 
++ |—z2+6tl| =9+9=18 
+0 
+3 
+Example 1 
+The function v(t) = sin(rt) gives the velocity inm s~ of a particle moving 
+along the x-axis. 
+(a) Determine when the particle is moving to the right, to the left, and stopped. 
+If it stops, determine if it changes direction at that time. 
+(b) Find the particle’s displacement for the time interval 0 < t < 3. 
+(c) Find the particle’s total distance travelled for the time interval 0 < t < 3. 
+—— 
+Solution 
+(@) 
+v(t) =sin(wt) = 0=sink - m) = 0fork€e Z= mt=kmr=>t=kkeZ 
+for0<t=3,t=0,1,2,3. Therefore, the particle is stopped at t = 0, 1, 2, 3. 
+Since t = 0 and t = 3 are endpoints of the interval, the particle can 
+change direction onlyatt = 1ort = 2. 
+A s 
+o) - {3 
+= direction changes at t = 1 
+A s~ 
+(3 - 
+= direction changes again at t = 2 
+Note when usinga GDC 
+or your computer, you do 
+not need to separate the 
+integrals as we did here. 
+  
+[5]-2x+6]ax 
+18 
+o 
+T ) 
+0 
+S 
+| 
+  
+  
+  
+461
+
+Integral calculus 
+] 
+o 
+1 
+2 
+(b) displacement = jl; sin(7rt) dt = *?cos(‘n't)|o 
+*,%_cos(?m) = (7%cos(0)) = %z 0.637 metres 
+1 
+2 
+3 
+(¢) total distance travelled 
+= [ Isin(art|dt 
++ [ Isinartldt 
++ [ lsinaro] e 
+0 
+1 
+2 
+2 
+_12] 
+]2 
+=6 
+7|?| +| 
+?| +|7r = 7~ 1.91 metres 
+Note that in Example 11.20, the position function is not known precisely. 
+The position function can be obtained by finding the antiderivative of the 
+velocity function. 
+sty = [wtdt 
+= [sinmtdt = —Leostrn + € 
+‘We can determine the constant of integration ¢ only if we know the particle’s 
+initial position (or position at any other specific time). However, the particle’s 
+initial position will not affect displacement or distance travelled for any interval. 
+Position and velocity from acceleration 
+If we can obtain position from velocity by applying integration, then we can also 
+obtain velocity from acceleration by integrating. Consider the next example. 
+Example 11.20 
+The motion of a falling parachutist is modelled as linear motion by 
+considering that the parachutist is a particle moving along a line whose 
+positive direction is vertically downwards. The parachute is opened at t = 0, 
+at which time the parachutist’s position is s = 0. According to the model, 
+the acceleration function for the parachutist’s motion for ¢ > 0 is given by: 
+alt) = —54e15t 
+(a) At the moment the parachute opens, the parachutist has a velocity of 
+42ms~!. Find the velocity function of the parachutist for ¢ > 0. 
+‘What does the model say about the parachutist’s velocity as t — 00? 
+(b) Find the position function of the parachutist for t > 0. 
+| 
+  
+Solution 
+(@) w0 = [atn dt = [(~54e-15) 
+d 
+= — 
+1 
+=158 
+54(7L S)e 
+G 
+=36e"'%+ C 
+462
+
+Since v =42 whent = 0,then42 = 36’ + C=42=36+C=C=6 
+Therefore, after the parachute opens (¢ > 0), the velocity function is 
+wt) = 36e % + 6 
+Since 
+lime "% = lim % =0, thenast— 0, limv(t) = 6ms~" 
+‘The limit of the velocity 
+S5 
+e 
+as t — oo, fora falling 
+object, is called the 
+  
+() st = f vt dt = f (36e 15 + 6) dt 
+terminal velocity of the 
+object. While the limit 
+= 36( 
+L 
+)e"-“ EHo I E 
+t— 00 s never attained 
+- L5 
+as the parachutist 
+= —24e-1% + 6t+C 
+eventually lands on the 
+ground, the velocity gets 
+Since s = 0 when t = 0, then 0 = —24e% + 6(0) + C= 0= —24 + C 
+dlose to)the tecrninal 
+e 
+velocity very quickly. 
+For example, after just 
+s 
+. 
+8 
+ds, the 
+velocity 
+is 
+Therefore, after the parachute opens (¢ > 0), the position function is 
+v&f‘;’"m,.i&f 3_06) ® 
+s() = —24e "1t + 6t + 24 
+~6.0002ms"! 
+ormly accelerated moti 
+Motion under the effect of gravity in the vicinity of Earth (or other planets) is 
+an important case of rectilinear motion. This is called uniformly accelerated 
+motion. 
+If a particle moves with constant acceleration along the s-axis, and if we know 
+the initial speed and position of the particle, then it is possible to have specific 
+formulas for the position and speed at any time ¢. 
+Assume acceleration is constant; that is, a(t) = a, v(0) = v, and s(0) = s,. 
+wt) = fa(t)dt = at + ¢; however, we know that v(0) = v, so 
+W0) =vy=a X0+ 
+c=c=v,hencevt) 
+= at + v, 
+st = [viodt = [(at + v)dt = %at’ + vyt + ¢, and, as above, substituting 
+5(0) = s, into the equation, we have 
+s(t) = %atz + vt + 50 
+When this is applied to the free-fall model (s-axis vertical), then 
+vt) = —gt + voand 
+st = —%gzz + vt + 5, where g = 9.8 
+m s 2 
+A ball is hit directly upwards from a point 2 m above the ground with initial 
+velocity of 45 m s~!. How high will the ball travel? 
+463
+
+Integral calculus 
+S 
+Solution 
+W= —9.8t+ 45 
+s = —%(93) {24 456+ 2 = —4.9¢ + 45t + 2 
+The ball will rise until v(f) = 0, = 0 = —9.8t + 45, = t = 4.6s 
+At this time 
+5(4.6) = —4.9(4.6)% + 45(4.6) + 2~ 105.32m 
+3 G 
+R R 
+1. The velocity of a particle along a rectilinear path is given by each 
+equation for v(f) in ms™!. Find both the net distance and the total 
+distance it travels between the times f =a and t = b. 
+(@) v(t)=t2— 11t +24,a=0,b= 10 
+(b) v(t):tft—ll,aZOAl,bZI 
+(€) v(t)=sin2t,a=0,b= 77T 
+(d) v(t) =sint + cost,a=0,b= 
+() v(t)=t>— 82+ 15La=0,b=6 
+() v(t) = sin(?) 4t cos(?), a=0b=1 
+2. The acceleration of a particle along a rectilinear path is given by each 
+equation for a(t) in ms~2 and the initial velocity v, in ms~! is also given. 
+Find the velocity of the particle as a function of £, and both the net 
+distance and the total distance travelled between times t = a and t = b. 
+(@) a(t) =3,v,=0,a=0,b=2 
+(b) a(t) =2t —4,v,=3,a=0,b=3 
+(© 
+a(t):sint,vl,zo,azo,b:%” 
+  
+@ ﬂ(t):‘/%,vozz,azo,b:z; 
+(© a(z):a——(t:l)z,vl,:z,a:o,b:z 
+3. The velocity and initial position of an object moving along a coordinate 
+line are given. Find the position of the object at time . 
+(a) v=9.8t+5,500) = 10 
+(b) v=32t—2,5(0.5) =4 
+(c) v=sint, s0) =0 
+_ 
+1 
+e 
+@ v=r15.t> 
+~2,6=1) 
+= 
+464
+
+4. The acceleration, initial velocity, and initial position of an object moving 
+on a coordinate line are given. Find the position of the object at time t. 
+(a) a= e, v(0)=20,s(0)=5 
+(b) a=1938,v(0) = —3,s(0) =0 
+(¢) a= —4sin 2t,v(0) = 2,5(0) = —3 
+(d) a= %cos%ﬁ,v(O) =0,s0)=—1 
+s 
+5. An object moves with a speed of v(f) m s~ along the s-axis. Find the 
+displacement and the distance travelled by the object during the given 
+time interval. 
+@ v()=2t—40<t<6 
+(b) v(t) =[t—30st=<5 
+@ vt)=£—-32+260st<3 
+@v)=vi—2,0st<3 
+6. An object moves with an acceleration a(t) m s~ along the s-axis. 
+Find the displacement and the distance travelled by the object during 
+the given time interval. 
+(@) a) =t —2,v,=0,1<t<5 
+(b)la(0) = 
+D o= =13 
+Gt+1 
+° 
+(©) al) = —2,m=3,1<t<4 
+  
+7. The velocity of an object moving along the s-axis is v = 9.8t — 3. 
+(a) Find the object’s displacement between t = 1 and t = 3 given that 
+s(0) =5 
+(b) Find the object’s displacement between t = 1 and t = 3 given that 
+s(0) = -2 
+(c) Find the object’s displacement between t = 1 and t = 3 given that 
+s(0) =5 
+8. The displacement s metres of a moving object from a fixed point O at 
+time ¢ seconds is given by s(f) = 50t — 10£* + 1000. 
+(a) Find the velocity of the objectin ms~!. 
+(b) Find its maximum displacement from O. 
+465
+
+Integral calculus 
+9. A particle moves along a line so that its speed v at time ¢ is given by 
+st 
+o=t<1 
+WEei-1 
+= 
+where ¢ is in seconds and v is in cm s~ . Estimate the time(s) at which 
+the particle is 4 cm from its starting position. 
+10. A projectile is fired vertically upwards with an initial velocity of 49 ms~! 
+from a platform 150 m high. 
+(a) How long will it take the projectile to reach its maximum height? 
+(b) What is the maximum height of the projectile? 
+(c) How long will it take the projectile to pass its starting point on the 
+way down? 
+(d) What is the velocity of the projectile when it passes the starting 
+point on the way down? 
+(e) How long will it take the projectile to hit the ground? 
+(f) What will its speed be at impact? 
+Chapter 11 practice questions 
+1. The graph in Figure 11.24 represents the function 
+  
+fix—pcosx,peN. 
+Figure 11.24 Graph for 
+Find: 
+question 
+1 
+(a) the value of p 
+(b) the area of the shaded region. 
+2 
+2. The diagram in Figure 11.25 shows part of the graph of y = e*. 
+(a) Find the coordinates of the point P, where the graph meets the 
+  
+y-axis. 
+Figure 11.25 Diagram for 
+(b) Find the exact value of the area of the shaded region between the 
+question 2 
+graph and the x-axis, bounded by x = 0 and x = In 2. 
+¥ 
+3. The diagram in Figure 11.26 shows part of the graph of y = % B 
+The area of the shaded region is 2 units. 
+Find the exact value of a. 
+  
+Figure 11.26 Diagram for 
+question 3 
+466
+
+4. (a) Find the equation of the tangent to the curve y = In x at the point 
+(e, 1), and verify that the origin is on this line. 
+(b) Show that (xInx — x)' =Inx 
+(c) The graph in Figurel1.27 shows the region enclosed by the curve 
+» = In x, the tangent in part (a), and the line y = 0. 
+  
+Figure 11.27 Graph for 
+question 4 
+Use the result of part (b) to show that the area of this region is % g=1l 
+5. The main runway at Concordville airport is 2 km long. An aeroplane 
+landing at Concordyville touches down at point T and immediately starts 
+to slow down. The point A is at the southern end of the runway. 
+A marker is located at point P on the runway. 
+  
+  
+2km 
+  
+Not to scale 
+As the aeroplane slows down, its distance, s, from A, is given by 
+s=c+ 100t — 4 
+‘where t is the time in seconds after touchdown, and ¢ metres is the 
+distance of T from A. 
+(a) The aeroplane touches down 800 m from A, (i.e. ¢ = 800). 
+(i) 
+Find the distance travelled by the aeroplane in the first 
+5 seconds after touchdown. 
+(ii) 
+Write down an expression for the velocity of the aeroplane at 
+time ¢ seconds after touchdown, and hence find the velocity 
+after 5 seconds. 
+The aeroplane passes the marker at P with a velocity of 36 ms~. 
+Find: 
+(iii) how many seconds after touchdown it passes the marker 
+(iv) the distance from P to A. 
+(b) Show that if the aeroplane touches down before reaching point P, 
+it can stop before reaching the northern end, B, of the runway. 
+6. (a) Sketch the graph of y = wsinx — x, —3 < x < 3, on millimetre 
+square paper, using a scale of 2 cm per unit on each axis. 
+Label and number both axes and indicate clearly the approximate 
+positions of the x-intercepts and the local maximum and minimum 
+points. 
+(b) Find the solution of the equation 7sinx — x = 0, x > 0. 
+(c) Find the indefinite integral f (77 sin 
+x — x)dx and hence, or 
+otherwise, calculate the area of the region enclosed by the graph, 
+the x-axis, and the line x = 1. 
+467
+
+e 
+_—— 
+pee 
+  
+0 
+1 
+2 
+3 
+4% 
+Figure 11.28 Diagram for 
+question 7 
+  
+Figure 11.29 Diagram for 
+question 9 
+468 
+Integral calculus 
+7. Figure 1128 shows the graph of the function y = 1 + 1,0 <x<4. 
+Find the exact value of the area of the shaded region. 
+8. Note that radians are used throughout this question. 
+(a) 
+(i) 
+Sketch the graph of y = x? cos x, for 0 < x < 2, making clear the 
+approximate positions of the positive intercept, the maximum 
+point, and the endpoints. 
+(ii) Write down the approximate coordinates of the positive 
+x-intercept, the maximum point and the endpoints. 
+(b) Find the exact value of the positive x-intercept for 0 < x < 2. 
+Let R be the region in the first quadrant enclosed by the graph and the 
+X-axis. 
+(c) 
+(i) 
+Shade R on your sketch. 
+(ii) Write down an integral which represents the area of R. 
+(d) Evaluate the integral in part (c) (i), either by using a graphic display 
+calculator or by using: 
+&y (x?sinx + 2x cos x— 2 sinx) = x?cos x. 
+9. Note that radians are used throughout this question. 
+The function fis given by f(x) = (sin x)? cos 
+x 
+Figure 11.29 shows part of the graph of y = f(x). 
+The point A is a maximum point, the point B lies on the x-axis, and the 
+point C is a point of inflection. 
+(a) Give the period of f. 
+(b) From consideration of the graph of y = f(x), find the range of f, 
+accurate to 1 significant figure. 
+() 
+(i) 
+Findf'(x) 
+(ii) 
+Hence, show that at the point A, cosx = \/% 
+(iii) Find the exact maximum value. 
+(d) Find the exact value of the x-coordinate at the point B. 
+() () Find [fiodx 
+(ii) Find the area of the shaded region in the diagram. 
+(f) Given that f"(x) = 9(cos x)* — 7 cos x, find the x-coordinate at the 
+point C.
+
+10. 
+s 
+12. 
+Note that radians are used throughout this question. 
+(a) Draw the graph of y = 7 + x cos x, 0 < x < 5, on millimetre square 
+graph paper, using a scale of 2 cm per unit. Make clear: 
+(i) 
+the integer values of x and y on each axis 
+(ii) the approximate positions of the x-intercepts and the turning 
+points. 
+(b) Without the use of a calculator, show that 7 is a solution of the 
+equation 77 + x cosx = 0 
+(c) Find another solution of the equation 7 + x cos x = 0 
+for 0 < x < 5, giving your answer to 6 significant figures. 
+(d) Let R be the region enclosed by the graph and the axes for 
+0 < x < 7. Shade R on your diagram, and write down an integral 
+which represents the area of R. 
+(e) Evaluate the integral in part (d) to an accuracy of 6 significant 
+figures. If considered necessary, you can make use of the result 
+d 
+—(xsinx + cosx) = x cos 
+x 
+dx 
+Figure 11.30 shows the graphs of flx) = 1 + e* and g(x) = 10x + 2, 
+0= 
+=5 
+(a) 
+(i) 
+Write down an expression for the vertical distance p between 
+the graphs of fand g. 
+(ii) Given that p has a maximum value for 0 < x < 1.5, find the 
+value of x at which this occurs. 
+The graph of y = f(x) only is shown Figure 11.31. 
+Whenx 
+=a,y =5. 
+(b) (i) Findf~'(x) 
+(ii) Hence, show thata = In2 
+(c) The region shaded in Figure 11.31 is rotated through 360° about the 
+x-axis. Write down an expression for the volume obtained. 
+The area of the enclosed region shown in Figure 11.32 is defined by 
+y=x>+2,y<ax+2 wherea>0 
+Find, in terms of a, the area of the region. 
+  
+0 
+0.5 
+1 
+15% 
+Figure 11.30 Diagram for 
+question 11 
+  
+o 
+05% 
+1 
+15% 
+Figure 11.31 Second diagram for 
+question 11 
+  
+Figure 11.32 Diagram for 
+question 12 
+469
+
+  
+  
+  
+  
+ 
+T 
+s /\ r 
+P 
+Q 
+0 
+x 
+y=a-x 
+Figure 11.33 Diagram for 
+question 18 
+  
+Figure 11.34 Diagram for 
+question 19 
+470 
+Integral calculus 
+13 
+14. 
+5% 
+16. 
+n7z: 
+18. 
+16, 
+. Using the substitution u = %x + 1, or otherwise, find the integral 
+1 
+f x|5* S 
+td: 
+. A particle moves along a straight line. When it is a distance s from a 
+fixed point, where s > 1, the velocity v is given by v = % 
+= 
+Find the acceleration when s = 2. 
+The area between the graph of y = xe* and the x-axis from x = 0 to 
+x = k (k> 0) is equal to 1. Find the exact value of k. 
+k 
+- Find the real number k > 1 for which [*(1+ )ds =2 
+X 
+The acceleration, a(f) m s—2 
+motion is given by 
+, of a fast train during the first 80 seconds of 
+1 
+)] 
+2 
+20 
+where 
+¢ is the time in seconds. If the train starts from rest at t = 0, 
+find the distance travelled by the train in the first minute. 
+In Figure 11.33, PTQ is an arc of the parabola y = a> — x? where aisa 
+positive constant and PQRS is a rectangle. The area of rectangle PQRS 
+is equal to the area between the arc PTQ of the parabola and the x-axis. 
+Find, in terms of a, the dimensions of the rectangle. 
+lnfeEs 
+=20 
+Consider the function f;(x) = { 
+0 
+Zo where k € N 
+(a) Find the derivative of fi(x), x > 0. 
+(b) Find the interval over which f(x) is increasing. 
+The graph of the function f(x) is shown in Figure 11.34. 
+(c) 
+(i) 
+Show that the stationary point of f,(x) is at x = ek, 
+(ii) One x-intercept is at (0, 0). Find the coordinates of the other 
+x-intercept. 
+(d) Find the area enclosed by the curve and the x-axis. 
+(e) Find the equation of the tangent to the curve at A.
+
+20. 
+21. 
+22. 
+23. 
+(f) Show that the area of the triangular region created by the tangent 
+and the coordinate axes is twice the area enclosed by the curve and 
+the x-axis. 
+(g) Show that the x-intercepts of f,(x) for consecutive values of k form a 
+geometric sequence. 
+Consider the graphs of the functions f(x) = a — |x — a| and 
+g(x) = |x — a|, where a > 0. Find the value of a if the two graphs 
+enclose an area of 12.5 square units. 
+The equation of motion of a particle with mass m subjected to a 
+force kx can be written as kx = mv%, where x is the displacement and 
+v is the velocity. When x = 0, v = v,. Find v, in terms of v, k, and m, 
+when x = 2. 
+(a) Sketch and label the graphs of fix) = e ~**and g(x) = e * — 
+1 for 
+0 =< x =< 1, and shade the region A that is bounded by the graphs 
+and the y-axis. 
+(b) Let the x-coordinate of the point of intersection of the curves 
+y = f(x) and y = g(x) be p. Without finding the value of p, 
+show that% < area of region A < p. 
+(c) Find the value of p correct to 4 decimal places. 
+(d) Express the area of region A as a definite integral and calculate its value. 
+Let f(x) = x cos 3x 
+(a) Use integration by parts to show that 
+[fede= §xsin3x o %cos3x 15 
+(b) Use your answer to part (a) to calculate the exact area enclosed by 
+f(x) and the x-axis in each of the following cases. Give your answers 
+in terms of 7. 
+® T<x<3T 
+@) T<x<3T 
+) M<x<IT 
+(c) Given that the above areas are the first three terms of an arithmetic 
+sequence, find an expression for the total area enclosed by f(x) and 
+- Q2n+ )m 
+the x-axis for 7 < 
+- 
+exaxlsore 
+X 
+5 
+where n € Z. Give your answers 
+in terms of n and 7. 
+47
+
+Integral calculus 
+24. 
+25. 
+M 
+y=umViie 
+26. 
+  
+Figure 11.35 Diagram for 
+question 26 
+27. 
+28. 
+29. 
+472 
+A particle is moving along a straight line so that ¢ seconds after passing 
+through a fixed point O on the line, its velocity v(t) m s~ is given by 
+= 
+tsin(T 
+v(t) = tsm(3 t)A 
+(a) Find the values of t for which v(t) = 0, given that 0 < t < 6. 
+(b) 
+(i) 
+Write down a mathematical expression for the total distance 
+travelled by the particle in the first six seconds after passing 
+through O. 
+(ii) Find this distance. 
+A particle is projected along a straight-line path. After ¢ seconds, 
+its velocity v in metres per second is given by v = o 
+(a) Find the distance travelled in the first second. 
+(b) Find an expression for the acceleration at time ¢. 
+Figure 11.35 shows the shaded region R enclosed by the graph of 
+y = 2xV1 + x2, the x-axis, and the vertical line x = k. 
+b 
+a) 
+Find — 
+(a) 
+Fing 
+o 
+(b) Using the substitution u = 
+1 + x? or otherwise, show that 
+JoTHaar =20+ 29+ ¢ 
+(c) Given that the area of R equals 1, find the value of k. 
+A particle moves in a straight line with velocity vm s ™!, at time 
+t seconds, given by v(t) = 6t — 6t,t = 0. 
+Calculate the total distance travelled by the particle in the first two 
+seconds of motion. 
+A particle moves in a straight line. Its velocity v 
+m 
+s~! after t seconds is 
+givenby v = e 
+sint. 
+Find the total distance travelled in the time interval [0, 277]. 
+The temperature T °C of an object in a room after t minutes satisfies the 
+differential equation ‘31—1; = k(T — 22), where k is a constant. 
+(a) Show that T = Ae* + 22, where A is a constant.
+
+(b) When t = 0, T = 100, and when t = 15, T = 70. 
+(i) 
+Use this information to find the values of A and k. 
+(ii) Hence, find the value of t when T' = 40. 
+1 
+30. Consider the function f(x) = ——— 
+Ze 
+S xa i 
+(a) Sketch the graph of the function, indicating the equations of the 
+asymptotes, intercepts, and extreme values. 
+1 
+(b) Find j; f(x) dx and express it in the form In k. 
+(c) Sketch the graph of f(|x|) and hence determine the area of the region 
+between this graph, the x-axis, and the lines x = —1,and x = 1. 
+  
+3 
+31. Use the substitution u = x + 2 to find f (Xx +d;)2 
+32. (a) 
+On the same axes, sketch the graphs of the functions, f(x) and g(x), 
+where 
+flx)=4—(1 —x2for—2<x<4 
+gx)=In(x+3)=2,for—3=x<5 
+(b) (i) 
+Write down the equation of any vertical asymptotes. 
+(ii) State the x-intercept and y-intercept of g(x). 
+(c) Find the values of x for which f(x) = g(x). 
+(d) Let A be the region where f(x) = g(x) and x = 0. 
+(i) 
+On your graph, shade the region A. 
+(ii) 
+Write down an integral that represents the area of A. 
+(iii) Evaluate this integral. 
+(e) 
+In the region A, find the maximum vertical distance between 
+f(x) and g(x). 
+  
+33. Consider the functions f(x) = 
+and g(x) = x> where x = 0. 
+B 
+Gtz 2 
+(a) Sketch the graphs of fand g on the same set of axes. 
+(b) Find the point of intersection of the two graphs. 
+(c) Find the equation of the tangent to g(x) at the point of intersection 
+as well as the normal to f(x) at the same point. 
+(d) Find the area of the region bounded by the two lines in (c) and the 
+X-axis. 
+473
+
+¥ 
+M 
+X 
+Figure 1136 Diagram for 
+question 34 
+474

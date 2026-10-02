@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Composite functions: notation and evaluating at a value</h3>
+<div class="formula-box" data-term="Composite function">For functions \(f\) and \(g\), the composite function \((f \circ g)(x)\) is defined by<br>\[(f \circ g)(x) = f(g(x))\]To evaluate \((f \circ g)(x)\) at a given input, apply \(g\) first, then apply \(f\) to the result. In general \((f \circ g)(x) \neq (g \circ f)(x)\), since the order in which the functions are applied matters.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given \(f(x) = 2x + 1\) and \(g(x) = x^2 - 3\), find \((f \circ g)(2)\).<br>\[g(2) = (2)^2 - 3 = 1\]\[(f \circ g)(2) = f(g(2)) = f(1)\]\[(f \circ g)(2) = 2(1) + 1\]\[\boxed{(f \circ g)(2) = 3}\]</div>
+
+<h3>Finding the formula for a composite function</h3>
+<div class="formula-box">To find the formula for \((f \circ g)(x)\) as a function of \(x\), substitute the entire expression for \(g(x)\) in place of every \(x\) in \(f(x)\), then simplify the result.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given \(f(x) = x^2 + 1\) and \(g(x) = 3x - 2\), find \((f \circ g)(x)\).<br>\[(f \circ g)(x) = f(3x - 2) = (3x - 2)^2 + 1\]\[(f \circ g)(x) = 9x^2 - 12x + 4 + 1\]\[\boxed{(f \circ g)(x) = 9x^2 - 12x + 5}\]</div>
+
+<h3>Finding the inverse of a function algebraically</h3>
+<div class="formula-box" data-term="Inverse function">To find the inverse \(f^{-1}\) of a one-to-one function \(f\): write \(y = f(x)\), swap \(x\) and \(y\), then solve the resulting equation for \(y\). The result is \(y = f^{-1}(x)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the inverse of \(f(x) = \dfrac{2x - 1}{3}\).<br>\[y = \frac{2x-1}{3}\]\[x = \frac{2y-1}{3}\]\[3x = 2y - 1\]\[3x + 1 = 2y\]\[\boxed{f^{-1}(x) = \frac{3x+1}{2}}\]</div>
+
+<h3>Verifying a pair of inverse functions</h3>
+<div class="formula-box">Two functions \(f\) and \(g\) are inverses of each other if and only if<br>\[(f \circ g)(x) = x \quad \text{and} \quad (g \circ f)(x) = x\]for every \(x\) in the appropriate domain.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Verify that \(f(x) = 2x - 1\) and \(g(x) = \dfrac{x+1}{2}\) are a pair of inverse functions.<br>\[(f \circ g)(x) = f\left(\frac{x+1}{2}\right) = 2\left(\frac{x+1}{2}\right) - 1\]\[(f \circ g)(x) = (x+1) - 1 = x\]\[(g \circ f)(x) = g(2x-1) = \frac{(2x-1)+1}{2} = \frac{2x}{2} = x\]Since both compositions equal \(x\), \(f\) and \(g\) <strong>ARE</strong> a pair of inverse functions.</div>
+
+<h3>Domain, range and the graph of an inverse function</h3>
+<div class="formula-box" data-term="Domain-range swap">For a function \(f\) and its inverse \(f^{-1}\): the domain of \(f^{-1}\) equals the range of \(f\), and the range of \(f^{-1}\) equals the domain of \(f\). The graph of \(y = f^{-1}(x)\) is the reflection of the graph of \(y = f(x)\) in the line \(y = x\): if the point \((a, b)\) lies on the graph of \(f\), then \((b, a)\) lies on the graph of \(f^{-1}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The function \(f(x) = \sqrt{x - 2}\) has domain \(x \ge 2\) and range \(y \ge 0\). State the domain and range of \(f^{-1}\).<br>Domain of \(f^{-1}\) equals the range of \(f\):<br>\[\boxed{\text{Domain of } f^{-1}: x \ge 0}\]Range of \(f^{-1}\) equals the domain of \(f\):<br>\[\boxed{\text{Range of } f^{-1}: y \ge 2}\]</div>
+
+<h3>The existence of an inverse function</h3>
+<div class="formula-box">A function \(f\) has an inverse function \(f^{-1}\) if and only if \(f\) is one-to-one, meaning every output value corresponds to exactly one input value. Graphically, this is tested using the horizontal line test: if any horizontal line cuts the graph of \(f\) more than once, \(f\) is not one-to-one and has no inverse (unless its domain is restricted).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Does \(f(x) = x^2\), for all real \(x\), have an inverse function?<br>\[f(2) = 4 \quad \text{and} \quad f(-2) = 4\]Two different inputs, \(2\) and \(-2\), give the same output, \(4\), so the horizontal line \(y = 4\) cuts the graph twice.<br>This function is <strong>NOT</strong> one-to-one, so it has <strong>NO</strong> inverse function unless its domain is restricted (for example, to \(x \ge 0\)).</div>
+</div>
