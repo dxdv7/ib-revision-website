@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>The power rule</h3>
+<div class="formula-box" data-term="Power rule">For any rational number \(n\), the derivative of a power of \(x\) is found by multiplying by the exponent and then reducing the exponent by \(1\):<br>\[\frac{d}{dx}(x^n) = nx^{n-1}\]This single rule applies to positive, negative, and fractional exponents alike.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(f(x) = x^7\).<br>\[f'(x) = 7x^{7-1}\]\[\boxed{f'(x) = 7x^6}\]</div>
+
+<h3>The derivative of a constant, and the sum and difference rule</h3>
+<div class="formula-box" data-term="Sum and difference rule">The derivative of a constant term is always zero, since a constant function has a horizontal graph with gradient \(0\):<br>\[\frac{d}{dx}(c) = 0, \quad c \in \mathbb{R}\]To differentiate a sum or difference of terms, differentiate each term separately and multiply each derivative by its constant coefficient:<br>\[\frac{d}{dx}\big[a\,g(x) + b\,h(x)\big] = a\,g'(x) + b\,h'(x)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(f(x) = 4x^3 - 5x^2 + 7x - 9\).<br>\[f'(x) = 4(3x^2) - 5(2x) + 7(1) - 0\]\[\boxed{f'(x) = 12x^2 - 10x + 7}\]</div>
+
+<h3>Differentiating terms with negative and fractional exponents</h3>
+<div class="formula-box">Before applying the power rule, rewrite every term in the form \(x^n\). A term in a denominator can be rewritten using a negative exponent, \(\dfrac{1}{x^n} = x^{-n}\), and a root can be rewritten using a fractional exponent, \(\sqrt[n]{x^m} = x^{\frac{m}{n}}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(f(x) = \dfrac{3}{x^2} + 4\sqrt{x}\).<br>Rewrite each term as a power of \(x\):<br>\[f(x) = 3x^{-2} + 4x^{\frac{1}{2}}\]Differentiate term by term:<br>\[f'(x) = 3(-2x^{-3}) + 4\left(\frac{1}{2}x^{-\frac{1}{2}}\right)\]\[\boxed{f'(x) = -\frac{6}{x^3} + \frac{2}{\sqrt{x}}}\]</div>
+
+<h3>The derivative of sine</h3>
+<div class="formula-box" data-term="Derivative of sin x">Provided \(x\) is measured in radians:<br>\[\frac{d}{dx}(\sin x) = \cos x\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(f(x) = 5\sin x - x^2 + 3\).<br>\[f'(x) = 5\cos x - 2x + 0\]\[\boxed{f'(x) = 5\cos x - 2x}\]</div>
+
+<h3>The derivative of cosine</h3>
+<div class="formula-box" data-term="Derivative of cos x">Provided \(x\) is measured in radians:<br>\[\frac{d}{dx}(\cos x) = -\sin x\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(f(x) = 2\cos x + 7x^3\).<br>\[f'(x) = 2(-\sin x) + 7(3x^2)\]\[\boxed{f'(x) = -2\sin x + 21x^2}\]</div>
+</div>

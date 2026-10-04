@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Statement of the chain rule</h3>
+<div class="formula-box" data-term="Chain rule">If \(y\) is a composite function such that \(y = f(u)\) where \(u = g(x)\), then \(y\) can be differentiated with respect to \(x\) using the chain rule:<br>\[\frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx}\]Equivalently, in function notation, if \(y = f(g(x))\):<br>\[\frac{d}{dx}[f(g(x))] = f'(g(x)) \cdot g'(x)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = (3x + 1)^5\) using the chain rule, letting \(u = 3x + 1\).<br>\[u = 3x + 1 \implies \frac{du}{dx} = 3\]\[y = u^5 \implies \frac{dy}{du} = 5u^4\]\[\frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx} = 5u^4 \cdot 3\]\[\boxed{\frac{dy}{dx} = 15(3x + 1)^4}\]</div>
+
+<h3>Identifying the outside and inside functions</h3>
+<div class="formula-box">To differentiate a composite function with the chain rule, first identify the outside function \(f\) and the inside function \(g\). The derivative of the composite equals the derivative of the outside function, evaluated at the inside function, multiplied by the derivative of the inside function:<br>\[\frac{d}{dx}[f(g(x))] = f'(g(x)) \cdot g'(x)\]In words: derivative of composite = (derivative of outside function, with inside function unchanged) times (derivative of inside function).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = \sin(2x)\) by first identifying the outside and inside functions.<br>\[f(u) = \sin u, \quad g(x) = 2x\]\[f'(u) = \cos u, \quad g'(x) = 2\]\[\frac{dy}{dx} = f'(g(x)) \cdot g'(x) = \cos(2x) \cdot 2\]\[\boxed{\frac{dy}{dx} = 2\cos(2x)}\]</div>
+
+<h3>The chain rule for powers of a function</h3>
+<div class="formula-box" data-term="Power chain rule">For a function of the form \(y = [g(x)]^n\), the chain rule gives the generalized power rule:<br>\[\frac{dy}{dx} = n[g(x)]^{n-1} \cdot g'(x)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = (2x^2 - 5)^4\).<br>\[g(x) = 2x^2 - 5 \implies g'(x) = 4x\]\[\frac{dy}{dx} = 4(2x^2 - 5)^3 \cdot 4x\]\[\boxed{\frac{dy}{dx} = 16x(2x^2 - 5)^3}\]</div>
+
+<h3>The chain rule for trigonometric functions</h3>
+<div class="formula-box" data-term="Trig chain rule">If \(y = \sin(g(x))\), \(y = \cos(g(x))\), or \(y = \tan(g(x))\), the chain rule gives:<br>\[\frac{d}{dx}[\sin(g(x))] = \cos(g(x)) \cdot g'(x)\]\[\frac{d}{dx}[\cos(g(x))] = -\sin(g(x)) \cdot g'(x)\]\[\frac{d}{dx}[\tan(g(x))] = \sec^2(g(x)) \cdot g'(x)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = \cos(x^3)\).<br>\[g(x) = x^3 \implies g'(x) = 3x^2\]\[\frac{dy}{dx} = -\sin(x^3) \cdot 3x^2\]\[\boxed{\frac{dy}{dx} = -3x^2\sin(x^3)}\]</div>
+
+<h3>The chain rule for exponential functions</h3>
+<div class="formula-box" data-term="Exponential chain rule">If \(y = e^{g(x)}\), the chain rule gives:<br>\[\frac{d}{dx}\left[e^{g(x)}\right] = e^{g(x)} \cdot g'(x)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = e^{x^2 - 3x}\).<br>\[g(x) = x^2 - 3x \implies g'(x) = 2x - 3\]\[\frac{dy}{dx} = e^{x^2 - 3x} \cdot (2x - 3)\]\[\boxed{\frac{dy}{dx} = (2x - 3)e^{x^2 - 3x}}\]</div>
+
+<h3>The chain rule for logarithmic functions</h3>
+<div class="formula-box" data-term="Logarithmic chain rule">If \(y = \ln(g(x))\), the chain rule gives:<br>\[\frac{d}{dx}[\ln(g(x))] = \frac{g'(x)}{g(x)}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = \ln(1 - 4x)\).<br>\[g(x) = 1 - 4x \implies g'(x) = -4\]\[\frac{dy}{dx} = \frac{-4}{1 - 4x}\]\[\boxed{\frac{dy}{dx} = \frac{-4}{1 - 4x}}\]</div>
+</div>

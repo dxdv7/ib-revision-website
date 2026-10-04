@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>The equation of a tangent line</h3>
+<div class="formula-box" data-term="Tangent line equation">The tangent line to the curve \(y = f(x)\) at the point \((x_1, f(x_1))\) has gradient equal to the derivative evaluated at \(x_1\). The equation of the tangent can then be found using the point-slope form of a line:<br>\[m = f'(x_1)\]\[y - y_1 = m(x - x_1)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the equation of the tangent to the curve \(y = x^3 - 4x + 2\) at the point where \(x = 2\).<br>\[f(2) = (2)^3 - 4(2) + 2 = 2\]\[f'(x) = 3x^2 - 4\]\[f'(2) = 3(2)^2 - 4 = 8\]\[y - 2 = 8(x - 2)\]\[\boxed{y = 8x - 14}\]</div>
+
+<h3>The equation of a normal line</h3>
+<div class="formula-box" data-term="Normal line equation">The normal line to a curve at a point is the line through that point that is perpendicular to the tangent there. Since perpendicular lines have gradients that are negative reciprocals of one another, the gradient of the normal is:<br>\[m_{normal} = -\frac{1}{f'(x_1)}, \quad f'(x_1) \ne 0\]\[y - y_1 = m_{normal}(x - x_1)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the equation of the normal to the curve \(y = x^2 - 3x + 5\) at the point where \(x = 1\).<br>\[f(1) = (1)^2 - 3(1) + 5 = 3\]\[f'(x) = 2x - 3\]\[f'(1) = 2(1) - 3 = -1\]\[m_{normal} = -\frac{1}{-1} = 1\]\[y - 3 = 1(x - 1)\]\[\boxed{y = x + 2}\]</div>
+
+<h3>Finding points where the tangent has a given gradient</h3>
+<div class="formula-box">To find the point or points on a curve \(y = f(x)\) at which the tangent has a particular gradient \(m\), solve the equation \(f'(x) = m\) for \(x\), find the corresponding \(y\)-coordinate at each solution, and substitute the point and gradient into the point-slope form.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the points on the curve \(y = x^3 - 3x\) at which the gradient of the tangent is \(9\), and find the equation of the tangent at each point.<br>\[f'(x) = 3x^2 - 3\]\[3x^2 - 3 = 9 \implies x^2 = 4\]\[x = 2 \text{ or } x = -2\]\[f(2) = (2)^3 - 3(2) = 2\]\[f(-2) = (-2)^3 - 3(-2) = -2\]\[y - 2 = 9(x - 2) \implies \boxed{y = 9x - 16}\]\[y - (-2) = 9(x - (-2)) \implies \boxed{y = 9x + 16}\]</div>
+
+<h3>Linear approximation using a tangent</h3>
+<div class="formula-box" data-term="Linear approximation using a tangent">Near the point of tangency \(x = a\), the curve \(y = f(x)\) lies close to its tangent line, so for values of \(x\) close to \(a\):<br>\[f(x) \approx f(a) + f'(a)(x - a)\]This allows a nearby function value to be estimated without a calculator.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Use the tangent to \(y = \sqrt{x}\) at \(x = 25\) to approximate \(\sqrt{26}\).<br>\[f(x) = \sqrt{x} = x^{\frac{1}{2}}\]\[f(25) = \sqrt{25} = 5\]\[f'(x) = \frac{1}{2\sqrt{x}}, \quad f'(25) = \frac{1}{10}\]\[f(26) \approx 5 + \frac{1}{10}(26 - 25)\]\[\boxed{\sqrt{26} \approx 5.1}\]</div>
+
+<h3>Tangents parallel or perpendicular to a given line</h3>
+<div class="formula-box" data-term="Tangent parallel or perpendicular to a line">A tangent to \(y = f(x)\) is parallel to a line with gradient \(m\) when \(f'(x) = m\), and is perpendicular to that line when \(f'(x) = -\dfrac{1}{m}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the equation of the tangent to the curve \(y = x^2 - 4x + 1\) that is parallel to the line \(y = 2x + 7\).<br>\[f'(x) = 2x - 4\]\[2x - 4 = 2 \implies x = 3\]\[f(3) = (3)^2 - 4(3) + 1 = -2\]\[y - (-2) = 2(x - 3)\]\[\boxed{y = 2x - 8}\]</div>
+</div>
