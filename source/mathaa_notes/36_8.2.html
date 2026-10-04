@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Union and intersection of events</h3>
+<div class="formula-box" data-term="Union and intersection">For two events \(A\) and \(B\) in the same sample space \(U\): the union \(A \cup B\) is the event "\(A\) occurs, or \(B\) occurs, or both", containing every outcome in \(A\), in \(B\), or in both. The intersection \(A \cap B\) is the event "\(A\) and \(B\) both occur", containing only the outcomes common to both events. On a Venn diagram, a rectangle represents \(U\), closed curves represent the events, and \(A \cap B\) is the overlap between the curves for \(A\) and \(B\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A standard six-sided die is rolled. Let \(A\) = "an even number" \(= \{2, 4, 6\}\) and \(B\) = "a number greater than \(3\)" \(= \{4, 5, 6\}\). Find \(A \cup B\) and \(A \cap B\).<br>\[\boxed{A \cup B = \{2, 4, 5, 6\}}\]\[\boxed{A \cap B = \{4, 6\}}\]</div>
+
+<h3>The addition rule for combined events</h3>
+<div class="formula-box" data-term="Addition rule">For any two events \(A\) and \(B\) in the same sample space:<br>\[P(A \cup B) = P(A) + P(B) - P(A \cap B)\]Subtracting \(P(A \cap B)\) corrects for the outcomes in the overlap, which would otherwise be counted twice when \(P(A)\) and \(P(B)\) are added.</div>
+<div class="callout example"><span class="c-label">Worked example</span>For events \(A\) and \(B\), \(P(A) = 0.4\), \(P(B) = 0.5\), and \(P(A \cap B) = 0.2\). Find \(P(A \cup B)\).<br>\[P(A \cup B) = 0.4 + 0.5 - 0.2\]\[\boxed{P(A \cup B) = 0.7}\]</div>
+
+<h3>Mutually exclusive events</h3>
+<div class="formula-box" data-term="Mutually exclusive events">Events \(A\) and \(B\) are mutually exclusive (or disjoint) if they cannot occur at the same time, so they share no outcomes:<br>\[A \cap B = \emptyset, \quad P(A \cap B) = 0\]On a Venn diagram, the curves for \(A\) and \(B\) do not overlap. Since there is nothing to subtract, the addition rule simplifies to:<br>\[P(A \cup B) = P(A) + P(B)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A card is drawn at random from a standard deck of \(52\) playing cards. Let \(A\) = "drawing a king" and \(B\) = "drawing a queen". Explain why \(A\) and \(B\) are mutually exclusive, and find \(P(A \cup B)\).<br>A single card cannot be both a king and a queen, so \(A \cap B = \emptyset\) and \(A\), \(B\) are mutually exclusive.<br>\[P(A \cup B) = \frac{4}{52} + \frac{4}{52}\]\[P(A \cup B) = \frac{8}{52}\]\[\boxed{P(A \cup B) = \frac{2}{13}}\]</div>
+
+<h3>Choosing the correct version of the addition rule</h3>
+<div class="formula-box">Before applying the addition rule, check whether \(A\) and \(B\) can occur together. If the events overlap, use the general rule \(P(A \cup B) = P(A) + P(B) - P(A \cap B)\). If the events cannot both occur, then \(A \cap B = \emptyset\) and the simplified rule \(P(A \cup B) = P(A) + P(B)\) applies directly, with nothing to subtract.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A fair six-sided die is rolled. Let \(A\) = "rolling an even number", \(B\) = "rolling a \(5\)", and \(C\) = "rolling a number greater than \(2\)". (a) Are \(A\) and \(B\) mutually exclusive? Find \(P(A \cup B)\). (b) Are \(A\) and \(C\) mutually exclusive? Find \(P(A \cup C)\).<br>(a) \(A = \{2,4,6\}\), \(B = \{5\}\), so \(A \cap B = \emptyset\): mutually exclusive.<br>\[P(A \cup B) = \frac{1}{2} + \frac{1}{6}\]\[\boxed{P(A \cup B) = \frac{2}{3}}\](b) \(C = \{3,4,5,6\}\), so \(A \cap C = \{4,6\} \ne \emptyset\): not mutually exclusive.<br>\[P(A \cup C) = \frac{1}{2} + \frac{2}{3} - \frac{1}{3}\]\[\boxed{P(A \cup C) = \frac{5}{6}}\]</div>
+
+<h3>The probability of neither event occurring</h3>
+<div class="formula-box">Combining the addition rule with the complement rule, the probability that neither \(A\) nor \(B\) occurs is the complement of their union:<br>\[P((A \cup B)') = 1 - P(A \cup B)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>In a class, \(P(\text{studies French}) = 0.6\), \(P(\text{studies Spanish}) = 0.3\), and \(P(\text{studies both}) = 0.15\). Find the probability that a randomly selected student studies neither French nor Spanish.<br>\[P(F \cup S) = 0.6 + 0.3 - 0.15\]\[P(F \cup S) = 0.75\]\[\boxed{P(\text{neither}) = 1 - 0.75 = 0.25}\]</div>
+</div>

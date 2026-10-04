@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Sample space and events</h3>
+<div class="formula-box">A trial is a single repetition of a random experiment, and an outcome is a result of that trial. The sample space \(U\) is the set of all possible outcomes of the experiment, and an event \(A\) is a subset of \(U\): a collection of outcomes we are interested in. The notation \(n(U)\) denotes the total number of outcomes in the sample space, and \(n(A)\) denotes the number of outcomes in event \(A\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A coin is tossed twice. Write down the sample space \(U\), and the event \(A\) = "at least one head". State \(n(U)\) and \(n(A)\).<br>\[U = \{HH, HT, TH, TT\}\]\[A = \{HH, HT, TH\}\]\[\boxed{n(U) = 4, \ n(A) = 3}\]</div>
+
+<h3>Theoretical probability</h3>
+<div class="formula-box" data-term="Theoretical probability">When all outcomes in the sample space are equally likely, the theoretical probability of an event \(A\) is:<br>\[P(A) = \frac{n(A)}{n(U)}\]Probability always satisfies \(0 \le P(A) \le 1\). If \(P(A) = 0\), the event \(A\) is impossible; if \(P(A) = 1\), the event \(A\) is certain. Since the sample space contains every possible outcome, \(P(U) = 1\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A standard six-sided die is rolled once. Find the probability of rolling a number greater than \(4\).<br>The outcomes greater than \(4\) are \(\{5, 6\}\), so \(n(A) = 2\) and \(n(U) = 6\).<br>\[P(A) = \frac{2}{6}\]\[\boxed{P(A) = \frac{1}{3}}\]</div>
+
+<h3>Probability rules for a full distribution</h3>
+<div class="formula-box" data-term="Probability rules">If a sample space is split into a list of outcomes that cover every possibility and do not overlap, their probabilities must add up to exactly \(1\):<br>\[\sum P(\text{outcomes}) = 1\]This rule can be used to find a missing probability in a table, or to check whether a given assignment of probabilities is legitimate (every probability must also satisfy \(0 \le P \le 1\)).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The probability distribution for the number of pets owned by a randomly chosen student, \(X\), is given by \(P(X=0) = 0.3\), \(P(X=1) = 0.25\), \(P(X=2) = 0.2\), and \(P(X=3) = k\). Find \(k\).<br>\[0.3 + 0.25 + 0.2 + k = 1\]\[0.75 + k = 1\]\[\boxed{k = 0.25}\]</div>
+
+<h3>The complement rule</h3>
+<div class="formula-box" data-term="Complement rule">The complement of an event \(A\), written \(A'\), is the event that \(A\) does not occur: it contains every outcome in \(U\) that is not in \(A\). Since \(A\) and \(A'\) together make up the whole sample space:<br>\[P(A') = 1 - P(A)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>The probability that a certain flight departs on time is \(P(A) = 0.82\). Find the probability that it does not depart on time.<br>\[P(A') = 1 - 0.82\]\[\boxed{P(A') = 0.18}\]</div>
+
+<h3>Estimating probability from data</h3>
+<div class="formula-box">When outcomes are not known to be equally likely, probability can be estimated from collected data using the relative frequency:<br>\[P(A) \approx \frac{\text{number of times } A \text{ occurs}}{\text{total number of trials}}\]As the number of trials increases, this relative frequency settles down (converges) towards the true probability of \(A\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Over \(40\) school days, the cafeteria had pizza available on \(14\) days. Estimate the probability that pizza is available on a randomly chosen school day.<br>\[P(\text{pizza}) \approx \frac{14}{40}\]\[\boxed{P(\text{pizza}) = 0.35}\]</div>
+</div>

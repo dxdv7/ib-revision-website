@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Grouped frequency tables for continuous data</h3>
+<div class="formula-box">When continuous data covers a wide range of values, it is organised into a grouped frequency table. The data is split into non-overlapping class intervals, such as \(20 \le t < 26\), where 20 is the lower class boundary and 26 is the upper class boundary. Each item of data falls into exactly one interval, and the frequency recorded for that interval is the number of data items it contains.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The times, in minutes, taken by 20 runners to complete a fun run, sorted in ascending order, are:<br>22, 25, 25, 28, 30, 31, 33, 34, 36, 38, 39, 40, 41, 43, 44, 46, 48, 50, 53, 58<br>Group this data into class intervals of width 6, starting at a lower boundary of 20.<br>\[20 \le t < 26: \quad f = 3\]\[26 \le t < 32: \quad f = 3\]\[32 \le t < 38: \quad f = 3\]\[38 \le t < 44: \quad f = 5\]\[44 \le t < 50: \quad f = 3\]\[50 \le t < 56: \quad f = 2\]\[56 \le t < 62: \quad f = 1\]\[\boxed{\text{Total frequency} = 20}\]</div>
+
+<h3>Choosing the interval width</h3>
+<div class="formula-box" data-term="Interval width">When there is no natural way of grouping the data, a convenient interval width can be found using:<br>\[h = \frac{\text{largest value} - \text{smallest value}}{\text{number of intervals}}\]Both the width and the number of intervals are then usually rounded up to convenient values.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The runner times have a smallest value of 22 and a largest value of 58. Find a suitable class width if 6 intervals are to be used.<br>\[h = \frac{58 - 22}{6}\]\[h = \frac{36}{6}\]\[\boxed{h = 6}\]</div>
+
+<h3>Mid-interval values (midpoints)</h3>
+<div class="formula-box" data-term="Midpoint">The mid-interval value, or midpoint, of a class interval is used to represent all the data in that interval:<br>\[m = \frac{\text{lower boundary} + \text{upper boundary}}{2}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the midpoint of the class interval \(38 \le t < 44\).<br>\[m = \frac{38 + 44}{2}\]\[\boxed{m = 41}\]The midpoints of all seven class intervals from the frequency table above are:<br>\[\boxed{23, \ 29, \ 35, \ 41, \ 47, \ 53, \ 59}\]</div>
+
+<h3>Histograms with equal class widths</h3>
+<div class="formula-box">When all class intervals have the same width, a histogram is drawn with bars of height equal to the frequency of each interval, with no gaps between the bars since the data is continuous. The tallest bar identifies the modal class, the class interval with the highest frequency.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using the frequency table for the runner times, identify the modal class.<br>\[\text{Heights (frequencies): } 3, \ 3, \ 3, \ 5, \ 3, \ 2, \ 1\]The tallest bar has height 5, corresponding to the interval \(38 \le t < 44\).<br>\[\boxed{\text{Modal class} = 38 \le t < 44}\]</div>
+
+<h3>Histograms with unequal class widths: frequency density</h3>
+<div class="formula-box" data-term="Frequency density">When class widths are not all equal, bar heights can no longer be set equal to frequency, since this would make the bar areas misleading. Instead, each bar is drawn with a height equal to the frequency density, so that the area of each bar remains proportional to its frequency:<br>\[\text{frequency density} = \frac{\text{frequency}}{\text{class width}}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>The time, in minutes, spent by customers in a shop is grouped as follows.<br>\[0 \le x < 10: \quad f = 12\]\[10 \le x < 20: \quad f = 18\]\[20 \le x < 40: \quad f = 20\]\[40 \le x < 70: \quad f = 15\]Find the frequency density of each class, and state which class has the tallest bar on a histogram.<br>\[0 \le x < 10: \quad \text{fd} = \frac{12}{10} = 1.2\]\[10 \le x < 20: \quad \text{fd} = \frac{18}{10} = 1.8\]\[20 \le x < 40: \quad \text{fd} = \frac{20}{20} = 1.0\]\[40 \le x < 70: \quad \text{fd} = \frac{15}{30} = 0.5\]Although \(20 \le x < 40\) has the highest raw frequency (20), its class width is much larger, so its bar is shorter than the bar for \(10 \le x < 20\).<br>\[\boxed{\text{Tallest bar} = 10 \le x < 20 \text{ (frequency density } 1.8\text{)}}\]</div>
+
+<h3>Estimating the mean from grouped data</h3>
+<div class="formula-box" data-term="Estimated mean (grouped data)">Once data has been grouped, the individual values are no longer known, so each value in a class interval is assumed to be equal to the class midpoint, \(m\). The mean is then estimated as:<br>\[\bar{x} \approx \frac{\sum fm}{\sum f}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Estimate the mean of the runner times using the frequency table and midpoints found above.<br>\[\sum fm = 3(23) + 3(29) + 3(35) + 5(41) + 3(47) + 2(53) + 1(59)\]\[\sum fm = 69 + 87 + 105 + 205 + 141 + 106 + 59\]\[\sum fm = 772\]\[\bar{x} = \frac{772}{20}\]\[\boxed{\bar{x} = 38.6 \text{ minutes}}\]</div>
+</div>
