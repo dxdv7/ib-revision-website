@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>The binomial distribution</h3>
+<div class="formula-box" data-term="Binomial distribution conditions">A random variable \(X\) follows a binomial distribution if an experiment consists of a fixed number of independent trials \(n\), each trial has exactly two possible outcomes (success and failure), and the probability of success \(p\) is the same for every trial. \(X\) counts the number of successes in the \(n\) trials, and this is written<br>\[X \sim B(n,p)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A factory finds that 15 percent of the items it produces are defective. A random sample of 10 items is checked, and \(X\) is the number of defective items in the sample. Write down the distribution of \(X\).<br>\[n = 10, \quad p = 0.15\]\[\boxed{X \sim B(10, 0.15)}\]</div>
+
+<h3>The binomial probability formula</h3>
+<div class="formula-box" data-term="Binomial probability formula">For \(X \sim B(n,p)\), the probability of exactly \(r\) successes is<br>\[P(X=r) = \binom{n}{r}p^r(1-p)^{n-r}\]for \(r = 0, 1, 2, \ldots, n\), where \(\binom{n}{r}\) is the binomial coefficient and counts the number of ways \(r\) successes can occur among the \(n\) trials.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using the model \(X \sim B(10, 0.15)\) for the number of defective items in a sample of 10, find \(P(X=2)\).<br>\[P(X=2) = \binom{10}{2}(0.15)^2(0.85)^8\]\[P(X=2) = 45 \times 0.0225 \times 0.2725\]\[\boxed{P(X=2) = 0.276}\]</div>
+
+<h3>Mean and variance of the binomial distribution</h3>
+<div class="formula-box" data-term="Mean and variance of X ~ B(n,p)">For \(X \sim B(n,p)\), the mean and variance are given by<br>\[E(X) = np\]\[\text{Var}(X) = np(1-p)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A study found that an advertisement is remembered by 40 percent of viewers who see it. Let \(X \sim B(8, 0.4)\) be the number, out of 8 viewers chosen at random, who remember the advertisement. Find \(E(X)\) and \(\text{Var}(X)\).<br>\[E(X) = np\]\[E(X) = 8(0.4)\]\[\boxed{E(X) = 3.2}\]\[\text{Var}(X) = np(1-p)\]\[\text{Var}(X) = 8(0.4)(0.6)\]\[\boxed{\text{Var}(X) = 1.92}\]</div>
+
+<h3>Cumulative and complementary binomial probabilities</h3>
+<div class="formula-box">For \(X \sim B(n,p)\), the cumulative probability \(P(X \le k)\) can be found directly using a calculator or software. Probabilities involving "at least" or "more than" are usually found more efficiently using the complement rule:<br>\[P(X \ge k) = 1 - P(X \le k-1)\]\[P(X > k) = 1 - P(X \le k)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using the model \(X \sim B(10, 0.15)\) for the number of defective items in a sample of 10, find \(P(X \le 2)\) and \(P(X \ge 3)\), using a calculator or software.<br>\[\boxed{P(X \le 2) = 0.820}\]\[P(X \ge 3) = 1 - P(X \le 2)\]\[P(X \ge 3) = 1 - 0.820\]\[\boxed{P(X \ge 3) = 0.180}\]</div>
+
+<h3>Solving binomial distribution problems</h3>
+<div class="formula-box">A typical binomial problem is solved by first identifying \(n\) and \(p\) from the context, then applying the probability formula \(P(X=r) = \binom{n}{r}p^r(1-p)^{n-r}\), the mean and variance formulas \(E(X)=np\) and \(\text{Var}(X)=np(1-p)\), or cumulative probabilities, as required.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A multiple-choice quiz has 12 questions, each with a 25 percent chance of being answered correctly by guessing. Let \(X \sim B(12, 0.25)\) be the number of correct guesses out of the 12 questions. Find (a) \(E(X)\) and \(\text{Var}(X)\), (b) \(P(X=3)\), (c) \(P(X \le 2)\), using a calculator or software where needed.<br>(a)<br>\[E(X) = 12(0.25)\]\[\boxed{E(X) = 3}\]\[\text{Var}(X) = 12(0.25)(0.75)\]\[\boxed{\text{Var}(X) = 2.25}\]<br>(b)<br>\[P(X=3) = \binom{12}{3}(0.25)^3(0.75)^9\]\[P(X=3) = 220 \times 0.015625 \times 0.0751\]\[\boxed{P(X=3) = 0.258}\]<br>(c)<br>\[\boxed{P(X \le 2) = 0.391}\]</div>
+</div>

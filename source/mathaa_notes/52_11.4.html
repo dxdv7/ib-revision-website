@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Velocity from acceleration</h3>
+<div class="formula-box" data-term="Velocity from acceleration">Given an acceleration function \(a(t)\), the velocity function \(v(t)\) is an antiderivative of \(a(t)\):<br>\[v(t) = \int a(t)\,dt\]The constant of integration is found using a known initial condition, such as the velocity \(v(t_0)\) at a given time \(t_0\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The acceleration of a particle is \(a(t) = 6t - 4\), and its initial velocity is \(v(0) = 5\). Find \(v(t)\).<br>\[v(t) = \int (6t - 4)\,dt\]\[v(t) = 3t^2 - 4t + C\]\[v(0) = 3(0)^2 - 4(0) + C = 5\]\[C = 5\]\[\boxed{v(t) = 3t^2 - 4t + 5}\]</div>
+
+<h3>Displacement from velocity</h3>
+<div class="formula-box" data-term="Displacement from velocity">Given a velocity function \(v(t)\), the displacement function \(s(t)\) is an antiderivative of \(v(t)\):<br>\[s(t) = \int v(t)\,dt\]The constant of integration is found using a known initial position \(s(t_0)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A particle moves with velocity \(v(t) = 4t - 3\), and its initial position is \(s(0) = 1\). Find \(s(t)\).<br>\[s(t) = \int (4t - 3)\,dt\]\[s(t) = 2t^2 - 3t + C\]\[s(0) = 2(0)^2 - 3(0) + C = 1\]\[C = 1\]\[\boxed{s(t) = 2t^2 - 3t + 1}\]</div>
+
+<h3>Net displacement over a time interval</h3>
+<div class="formula-box" data-term="Net displacement">The net displacement of a particle between \(t = a\) and \(t = b\) is the definite integral of its velocity function:<br>\[\text{displacement} = \int_a^b v(t)\,dt\]This value can be positive, negative, or zero, since it measures the net change in position, and contributions from motion in opposite directions can cancel each other out.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A particle has velocity \(v(t) = 2t - 6\). Find its net displacement over \(0 \le t \le 5\).<br>\[\text{displacement} = \int_0^5 (2t - 6)\,dt\]\[= \Big[t^2 - 6t\Big]_0^5\]\[= (25 - 30) - (0 - 0)\]\[\boxed{\text{displacement} = -5}\]</div>
+
+<h3>Total distance travelled</h3>
+<div class="formula-box" data-term="Total distance travelled">The total distance travelled between \(t = a\) and \(t = b\) is the definite integral of the speed, \(|v(t)|\):<br>\[\text{distance} = \int_a^b |v(t)|\,dt\]Since \(v(t)\) may change sign, the interval must be split at each value of \(t\) where \(v(t) = 0\), replacing \(v(t)\) with \(-v(t)\) on any sub-interval where it is negative. This always gives a non-negative result, unlike net displacement.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using the same velocity \(v(t) = 2t - 6\), find the total distance travelled over \(0 \le t \le 5\).<br>\(v(t) = 0\) when \(t = 3\), with \(v(t) < 0\) on \([0, 3]\) and \(v(t) > 0\) on \([3, 5]\).<br>\[\text{distance} = \int_0^3 -(2t - 6)\,dt + \int_3^5 (2t - 6)\,dt\]\[= \Big[6t - t^2\Big]_0^3 + \Big[t^2 - 6t\Big]_3^5\]\[= (18 - 9) + \big[(25 - 30) - (9 - 18)\big]\]\[= 9 + 4\]\[\boxed{\text{distance} = 13}\]</div>
+
+<h3>Motion under constant acceleration</h3>
+<div class="formula-box">If a particle moves with constant acceleration \(a\), initial velocity \(v_0 = v(0)\), and initial position \(s_0 = s(0)\), integrating twice gives:<br>\[v(t) = v_0 + at\]\[s(t) = s_0 + v_0 t + \frac{1}{2}at^2\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A ball is thrown upward with initial velocity \(20 \text{ m s}^{-1}\) from a height of \(1.5\) m, with acceleration \(a = -9.8 \text{ m s}^{-2}\). Find the maximum height reached.<br>\[v(t) = -9.8t + 20\]The ball reaches its highest point when \(v(t) = 0\):<br>\[0 = -9.8t + 20\]\[t = \frac{20}{9.8} \approx 2.041 \text{ s}\]\[s(t) = -4.9t^2 + 20t + 1.5\]\[s(2.041) = -4.9(2.041)^2 + 20(2.041) + 1.5\]\[\boxed{s \approx 21.91 \text{ m}}\]</div>
+</div>

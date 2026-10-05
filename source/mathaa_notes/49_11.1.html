@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Antidifferentiation as the reverse of differentiation</h3>
+<div class="formula-box" data-term="Antiderivative">A function \(F(x)\) is an antiderivative of \(f(x)\) if \(F'(x) = f(x)\) for every \(x\) in the domain of \(f\). Since the derivative of a constant is zero, if \(F(x)\) is one antiderivative of \(f(x)\), then \(F(x) + C\) is also an antiderivative for any constant \(C\). The process of finding an antiderivative is called antidifferentiation, or integration, and is written using the indefinite integral:<br>\[\int f(x)\,dx = F(x) + C\]where \(f(x)\) is called the integrand and \(C\) is the constant of integration.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Show that \(F(x) = x^3 + C\) is an antiderivative of \(f(x) = 3x^2\) for any constant \(C\).<br>\[\frac{d}{dx}\left(x^3 + C\right) = 3x^2 + 0\]\[\boxed{F'(x) = 3x^2 = f(x)}\]</div>
+
+<h3>The power rule for integration</h3>
+<div class="formula-box" data-term="Power rule for integration">To integrate a power of \(x\), raise the power by \(1\) and divide by the new power:<br>\[\int x^n\,dx = \frac{x^{n+1}}{n+1} + C, \quad n \ne -1\]This is the reverse of the power rule for differentiation. The rule does not apply when \(n = -1\), since division by \(n+1 = 0\) is undefined.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate (a) \(\int x^5\,dx\) and (b) \(\int 3\sqrt{x}\,dx\).<br>(a)<br>\[\int x^5\,dx = \frac{x^6}{6} + C\]\[\boxed{\int x^5\,dx = \frac{x^6}{6} + C}\]<br>(b) Writing \(\sqrt{x} = x^{1/2}\):<br>\[\int 3\sqrt{x}\,dx = 3\int x^{1/2}\,dx = 3 \cdot \frac{x^{3/2}}{3/2} + C\]\[\boxed{\int 3\sqrt{x}\,dx = 2x^{3/2} + C}\]</div>
+
+<h3>Integrating a sum or difference of terms</h3>
+<div class="formula-box">A constant factor can be taken outside the integral sign, and the antiderivative of a sum (or difference) of functions is the sum (or difference) of their antiderivatives:<br>\[\int k f(x)\,dx = k \int f(x)\,dx\]\[\int \big[f(x) \pm g(x)\big]\,dx = \int f(x)\,dx \pm \int g(x)\,dx\]This means each term of a polynomial can be integrated separately, using the power rule term by term, with a single constant of integration \(C\) added at the end.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int (6x^2 - 4x + 5)\,dx\).<br>\[\int (6x^2 - 4x + 5)\,dx = 6 \cdot \frac{x^3}{3} - 4 \cdot \frac{x^2}{2} + 5x + C\]\[\boxed{\int (6x^2 - 4x + 5)\,dx = 2x^3 - 2x^2 + 5x + C}\]</div>
+
+<h3>Basic integrals of sin x, cos x, and e^x</h3>
+<div class="formula-box" data-term="Basic integrals">The following integration formulae follow directly from the corresponding derivative formulae:<br>\[\int \sin x\,dx = -\cos x + C\]\[\int \cos x\,dx = \sin x + C\]\[\int e^x\,dx = e^x + C\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int (2\cos x - 5e^x)\,dx\).<br>\[\int (2\cos x - 5e^x)\,dx = 2\sin x - 5e^x + C\]\[\boxed{\int (2\cos x - 5e^x)\,dx = 2\sin x - 5e^x + C}\]</div>
+
+<h3>Finding the particular antiderivative using a boundary condition</h3>
+<div class="formula-box" data-term="Particular antiderivative">An indefinite integral contains an unknown constant \(C\), giving a whole family of curves \(y = F(x) + C\). If one point on the curve is known, this boundary condition can be substituted into \(F(x) + C\) to solve for the specific value of \(C\), giving the particular antiderivative that passes through that point.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A curve has gradient function \(f'(x) = 6x^2 - 2\) and passes through the point \((1, 4)\). Find \(f(x)\).<br>\[f(x) = \int (6x^2 - 2)\,dx = 2x^3 - 2x + C\]\[f(1) = 2(1)^3 - 2(1) + C = 4\]\[2 - 2 + C = 4\]\[C = 4\]\[\boxed{f(x) = 2x^3 - 2x + 4}\]</div>
+</div>

@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Linear transformations of the mean</h3>
+<div class="formula-box" data-term="Linear transformation of E(X)">If \(X\) is a discrete random variable and \(a\) and \(b\) are constants, a new random variable can be formed by the linear transformation \(Y = aX + b\). The expected value of \(Y\) is given by<br>\[E(aX+b) = aE(X) + b\]Multiplying every value of \(X\) by \(a\) and adding a constant \(b\) scales and shifts the mean of \(X\) in exactly the same way.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The random variable \(X\) has \(E(X) = 6\). Find \(E(3X+4)\).<br>\[E(3X+4) = 3E(X) + 4\]\[E(3X+4) = 3(6) + 4\]\[\boxed{E(3X+4) = 22}\]</div>
+
+<h3>Linear transformations of the variance</h3>
+<div class="formula-box" data-term="Linear transformation of Var(X)">For the linear transformation \(Y = aX + b\), the variance of \(Y\) is given by<br>\[\text{Var}(aX+b) = a^2\text{Var}(X)\]The additive constant \(b\) has no effect on the variance, since shifting every value of \(X\) by a fixed amount does not change how spread out the values are. Only the multiplier \(a\) affects the spread, and it does so through its square.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The random variable \(X\) has \(\text{Var}(X) = 5\). Find \(\text{Var}(3X+4)\).<br>\[\text{Var}(3X+4) = 3^2\text{Var}(X)\]\[\text{Var}(3X+4) = 9(5)\]\[\boxed{\text{Var}(3X+4) = 45}\]</div>
+
+<h3>Standard deviation under a linear transformation</h3>
+<div class="formula-box" data-term="Linear transformation of SD(X)">Since the standard deviation is the positive square root of the variance, it follows that<br>\[\sigma(aX+b) = |a|\,\sigma(X)\]where \(\sigma(X)\) denotes the standard deviation of \(X\). The absolute value is needed because a standard deviation cannot be negative, even if \(a\) is negative.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The random variable \(X\) has standard deviation \(\sigma(X) = 2\). Find the standard deviation of \(Y = -4X + 7\).<br>\[\sigma(-4X+7) = |-4|\,\sigma(X)\]\[\sigma(-4X+7) = 4(2)\]\[\boxed{\sigma(-4X+7) = 8}\]</div>
+
+<h3>The alternative formula for variance</h3>
+<div class="formula-box" data-term="Alternative variance formula">For a discrete random variable \(X\) with probability distribution \(P(x)\), the variance can also be calculated using<br>\[\text{Var}(X) = E(X^2) - [E(X)]^2\]where \(E(X^2) = \sum x^2P(X=x)\). This form is often more convenient for calculation than working directly with the deviations \((x-\mu)^2\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The random variable \(X\) has probability distribution given by \(P(X=1)=0.2\), \(P(X=2)=0.5\), \(P(X=3)=0.3\). Find \(\text{Var}(X)\).<br>\[E(X) = 1(0.2) + 2(0.5) + 3(0.3)\]\[E(X) = 0.2 + 1.0 + 0.9\]\[E(X) = 2.1\]\[E(X^2) = 1^2(0.2) + 2^2(0.5) + 3^2(0.3)\]\[E(X^2) = 0.2 + 2.0 + 2.7\]\[E(X^2) = 4.9\]\[\text{Var}(X) = E(X^2) - [E(X)]^2\]\[\text{Var}(X) = 4.9 - (2.1)^2\]\[\boxed{\text{Var}(X) = 0.49}\]</div>
+
+<h3>Combining the mean, variance and linear transformations</h3>
+<div class="formula-box">Problems involving a linear transformation of a discrete random variable are usually solved in two stages: first find \(E(X)\) and \(\text{Var}(X)\) from the probability distribution of \(X\), using \(E(X) = \sum xP(x)\) and \(\text{Var}(X) = E(X^2) - [E(X)]^2\); then apply \(E(aX+b) = aE(X)+b\) and \(\text{Var}(aX+b) = a^2\text{Var}(X)\) to find the mean and variance of \(Y = aX+b\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The random variable \(X\) has probability distribution given by \(P(X=2)=0.1\), \(P(X=4)=0.4\), \(P(X=6)=0.3\), \(P(X=8)=0.2\). Let \(Y = 0.5X - 1\). Find \(E(Y)\) and \(\text{Var}(Y)\).<br>\[E(X) = 2(0.1) + 4(0.4) + 6(0.3) + 8(0.2)\]\[E(X) = 0.2 + 1.6 + 1.8 + 1.6\]\[E(X) = 5.2\]\[E(X^2) = 2^2(0.1) + 4^2(0.4) + 6^2(0.3) + 8^2(0.2)\]\[E(X^2) = 0.4 + 6.4 + 10.8 + 12.8\]\[E(X^2) = 30.4\]\[\text{Var}(X) = 30.4 - (5.2)^2\]\[\text{Var}(X) = 30.4 - 27.04\]\[\text{Var}(X) = 3.36\]\[E(0.5X-1) = 0.5(5.2) - 1\]\[\boxed{E(0.5X-1) = 1.6}\]\[\text{Var}(0.5X-1) = (0.5)^2(3.36)\]\[\boxed{\text{Var}(0.5X-1) = 0.84}\]</div>
+</div>

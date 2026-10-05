@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>The normal distribution</h3>
+<div class="formula-box" data-term="Normal distribution notation">A continuous random variable \(X\) is normally distributed with mean \(\mu\) and standard deviation \(\sigma\) if its probability density function produces a symmetric, bell-shaped curve centred at \(\mu\). This is written<br>\[X \sim N(\mu, \sigma^2)\]The curve is symmetric about \(x=\mu\), the total area under the curve equals \(1\), and the area to the left of \(\mu\) and the area to the right of \(\mu\) are both \(0.5\). The spread of the curve is controlled by \(\sigma\): a larger \(\sigma\) produces a flatter, more spread-out curve, while a smaller \(\sigma\) produces a taller, narrower curve.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The heights, in cm, of adult males in a population are modelled by \(X \sim N(175, 36)\). Write down the mean and the standard deviation of \(X\).<br>\[\mu = 175\]\[\sigma = \sqrt{36}\]\[\boxed{\sigma = 6}\]</div>
+
+<h3>The empirical rule</h3>
+<div class="formula-box" data-term="Empirical rule">For a normal distribution \(X \sim N(\mu,\sigma^2)\), approximately<br>\[P(\mu - \sigma < X < \mu + \sigma) \approx 0.68\]\[P(\mu - 2\sigma < X < \mu + 2\sigma) \approx 0.95\]\[P(\mu - 3\sigma < X < \mu + 3\sigma) \approx 0.997\]These are known as the 68 percent, 95 percent, and 99.7 percent rules.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A machine fills bottles with volumes, in ml, modelled by \(X \sim N(500, 4)\). Use the empirical rule to find the interval in which the middle 95 percent of bottle volumes lie.<br>\[\sigma = \sqrt{4} = 2\]\[\mu - 2\sigma = 500 - 2(2) = 496\]\[\mu + 2\sigma = 500 + 2(2) = 504\]\[\boxed{496 < X < 504}\]</div>
+
+<h3>Standardizing a normal variable</h3>
+<div class="formula-box" data-term="Standardization formula">Any normal variable \(X \sim N(\mu,\sigma^2)\) can be converted into the standard normal variable \(Z\), which has mean \(0\) and standard deviation \(1\), that is \(Z \sim N(0,1)\), using<br>\[Z = \frac{X-\mu}{\sigma}\]The value of \(Z\), called the z-score, measures how many standard deviations a value of \(X\) lies above or below the mean.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The time, \(X\) minutes, taken to complete a puzzle is modelled by \(X \sim N(70, 100)\). Find the z-score corresponding to \(x = 85\) minutes.<br>\[\sigma = \sqrt{100} = 10\]\[z = \frac{85 - 70}{10}\]\[\boxed{z = 1.5}\]</div>
+
+<h3>Normal probability calculations</h3>
+<div class="formula-box">Probabilities for a normal variable are found directly using a calculator or software, without needing to use printed tables. If \(X \sim N(\mu,\sigma^2)\), then<br>\[P(X < k), \qquad P(X > k) = 1 - P(X < k), \qquad P(a < X < b) = P(X < b) - P(X < a)\]can all be computed once \(\mu\), \(\sigma\), and the relevant boundary value or values are entered.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using the model \(X \sim N(70, 100)\) for the time taken to complete the puzzle, find \(P(X < 85)\), \(P(X > 85)\), and \(P(60 < X < 80)\), using a calculator or software.<br>\[P(X < 85) = P\left(Z < \frac{85-70}{10}\right) = P(Z < 1.5)\]\[\boxed{P(X < 85) = 0.9332}\]\[P(X > 85) = 1 - P(X < 85)\]\[\boxed{P(X > 85) = 0.0668}\]\[P(60 < X < 80) = P(X < 80) - P(X < 60)\]\[\boxed{P(60 < X < 80) = 0.6827}\]</div>
+
+<h3>Inverse normal calculations</h3>
+<div class="formula-box" data-term="Inverse normal">Given a probability, the corresponding boundary value \(k\) can be found using the inverse normal function on a calculator or software. If \(P(X < k) = p\) is given directly, \(k\) is found from \(p\), \(\mu\), and \(\sigma\). If instead an upper-tail probability \(P(X > k) = p\) is given, it must first be rewritten as<br>\[P(X < k) = 1 - p\]before the inverse normal function is used.</div>
+<div class="callout example"><span class="c-label">Worked example</span>For the model \(X \sim N(70, 100)\), find the value of \(k\) such that (a) \(P(X < k) = 0.90\) and (b) \(P(X > k) = 0.20\), using a calculator or software.<br>(a)<br>\[\boxed{k = 82.8}\]<br>(b)<br>\[P(X < k) = 1 - 0.20 = 0.80\]\[\boxed{k = 78.4}\]</div>
+</div>

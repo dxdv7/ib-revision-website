@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Discrete random variables</h3>
+<div class="formula-box">A random variable \(X\) assigns a numerical value to each outcome of a random experiment, usually written with an uppercase letter, with particular values of it written in lowercase, such as \(x\). \(X\) is discrete if its possible values form a countable set of isolated numbers, such as \(x = 0, 1, 2, \ldots\), rather than an entire interval of values.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Two fair coins are tossed, and \(X\) is the number of heads obtained. List the possible values of \(X\).<br>The possible outcomes are HH, HT, TH, TT, each equally likely.<br>Counting the number of heads in each outcome gives \(2, 1, 1, 0\).<br>\[\boxed{X \in \{0, 1, 2\}}\]</div>
+
+<h3>The probability distribution of X</h3>
+<div class="formula-box" data-term="Probability distribution">The probability distribution of a discrete random variable \(X\) lists each possible value \(x\) together with its probability \(P(X=x)\), often written \(P(x)\). For any probability distribution:<br>\[0 \le P(x) \le 1 \text{ for every value of } x\]\[\sum P(X=x) = 1\]where the sum is taken over all possible values of \(X\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A discrete random variable \(X\) has probability distribution \(P(X=x) = kx\) for \(x = 1, 2, 3, 4\). Find the value of \(k\).<br>Since the probabilities must sum to \(1\):<br>\[\sum P(X=x) = k(1) + k(2) + k(3) + k(4) = 1\]\[10k = 1\]\[\boxed{k = 0.1}\]</div>
+
+<h3>Expected value of a discrete random variable</h3>
+<div class="formula-box" data-term="Expected value">The expected value, or mean, of a discrete random variable \(X\), denoted \(E(X)\), is given by:<br>\[E(X) = \sum x \cdot P(X=x)\]It represents the long-run average value of \(X\) if the underlying experiment were repeated a very large number of times.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using the distribution \(P(X=x) = 0.1x\) for \(x = 1, 2, 3, 4\) found above, find \(E(X)\).<br>\[P(1) = 0.1, \quad P(2) = 0.2, \quad P(3) = 0.3, \quad P(4) = 0.4\]\[E(X) = 1(0.1) + 2(0.2) + 3(0.3) + 4(0.4)\]\[E(X) = 0.1 + 0.4 + 0.9 + 1.6\]\[\boxed{E(X) = 3}\]</div>
+
+<h3>Expected value as a long-run average</h3>
+<div class="formula-box">\(E(X)\) is not necessarily one of the possible values of \(X\), and it is not a prediction of any single trial's outcome. It is the average value of \(X\) that would be observed if the experiment were repeated indefinitely.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A fair six-sided die is rolled, and \(X\) is the number shown. Find \(E(X)\) and interpret the result.<br>Each value \(x = 1, 2, \ldots, 6\) has probability \(\dfrac{1}{6}\).<br>\[E(X) = \sum_{x=1}^{6} x \cdot \frac{1}{6} = \frac{1+2+3+4+5+6}{6}\]\[\boxed{E(X) = 3.5}\]Although \(3.5\) can never be the result of a single roll, it is the average value of \(X\) over a very large number of rolls.</div>
+
+<h3>Using expected value to assess a game</h3>
+<div class="formula-box">Expected value can be used to judge whether a game or policy is favourable in the long run: a positive \(E(X)\) indicates an average gain, a negative \(E(X)\) indicates an average loss, and \(E(X) = 0\) indicates a fair game, each interpreted over many repetitions.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A player pays a fee to enter a game. Let \(X\) be the player's net profit. With probability \(0.1\) the player wins a prize giving a net profit of \(X = 18\), and with probability \(0.9\) the player wins nothing, giving a net profit of \(X = -2\) (the lost fee). Find \(E(X)\) and interpret the result.<br>\[E(X) = 18(0.1) + (-2)(0.9)\]\[E(X) = 1.8 - 1.8\]\[\boxed{E(X) = 0}\]Since \(E(X) = 0\), the game is fair: over many plays, the player is expected to neither gain nor lose money on average.</div>
+</div>

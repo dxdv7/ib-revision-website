@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>The definite integral</h3>
+<div class="formula-box" data-term="Definite integral">For a continuous function \(f(x)\) on an interval \([a, b]\), the definite integral is written:<br>\[\int_a^b f(x)\,dx\]Here \(a\) is the lower limit of integration and \(b\) is the upper limit of integration. Unlike an indefinite integral, a definite integral evaluates to a single number, not a family of functions, so no constant of integration \(C\) is needed.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int_4^4 (x^3 + 2x)\,dx\) without carrying out any integration.<br>Since the lower and upper limits are equal, the interval has zero width.<br>\[\boxed{\int_4^4 (x^3 + 2x)\,dx = 0}\]</div>
+
+<h3>The Fundamental Theorem of Calculus</h3>
+<div class="formula-box" data-term="Fundamental theorem of calculus">If \(F(x)\) is any antiderivative of a continuous function \(f(x)\), then the definite integral of \(f(x)\) from \(a\) to \(b\) is:<br>\[\int_a^b f(x)\,dx = F(b) - F(a)\]This is often written using square bracket notation:<br>\[\int_a^b f(x)\,dx = \Big[F(x)\Big]_a^b = F(b) - F(a)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int_1^3 (3x^2 - 2)\,dx\).<br>\[\int_1^3 (3x^2 - 2)\,dx = \Big[x^3 - 2x\Big]_1^3\]\[= (3^3 - 2(3)) - (1^3 - 2(1))\]\[= (27 - 6) - (1 - 2)\]\[= 21 - (-1)\]\[\boxed{\int_1^3 (3x^2 - 2)\,dx = 22}\]</div>
+
+<h3>Properties of definite integrals</h3>
+<div class="formula-box" data-term="Properties of definite integrals">Definite integrals satisfy the following properties, for continuous functions \(f(x)\), \(g(x)\) and a constant \(k\):<br>\[\int_a^a f(x)\,dx = 0\]\[\int_b^a f(x)\,dx = -\int_a^b f(x)\,dx\]\[\int_a^b k f(x)\,dx = k \int_a^b f(x)\,dx\]\[\int_a^b \big[f(x) \pm g(x)\big]\,dx = \int_a^b f(x)\,dx \pm \int_a^b g(x)\,dx\]\[\int_a^b f(x)\,dx = \int_a^c f(x)\,dx + \int_c^b f(x)\,dx\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given that \(\int_0^5 f(x)\,dx = 12\) and \(\int_0^2 f(x)\,dx = 5\), find \(\int_2^5 f(x)\,dx\).<br>\[\int_0^5 f(x)\,dx = \int_0^2 f(x)\,dx + \int_2^5 f(x)\,dx\]\[12 = 5 + \int_2^5 f(x)\,dx\]\[\boxed{\int_2^5 f(x)\,dx = 7}\]</div>
+
+<h3>Area under a curve above the x-axis</h3>
+<div class="formula-box" data-term="Area under a curve">If \(f(x) \ge 0\) for every \(x\) in \([a, b]\), then the area of the region bounded by the curve \(y = f(x)\), the \(x\)-axis, and the vertical lines \(x = a\) and \(x = b\) is given by the definite integral:<br>\[\text{Area} = \int_a^b f(x)\,dx\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the area between the curve \(f(x) = x^2 + 1\) and the \(x\)-axis on the interval \([0, 3]\).<br>\[\text{Area} = \int_0^3 (x^2 + 1)\,dx = \Big[\frac{x^3}{3} + x\Big]_0^3\]\[= \left(\frac{27}{3} + 3\right) - (0 + 0)\]\[= 9 + 3\]\[\boxed{\text{Area} = 12}\]</div>
+
+<h3>Evaluating definite integrals of trigonometric and exponential functions</h3>
+<div class="formula-box">The fundamental theorem applies to any continuous integrand. First find an antiderivative \(F(x)\) of \(f(x)\) using the standard integration formulas for \(\sin x\), \(\cos x\) and \(e^x\), then evaluate \(F(b) - F(a)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate (a) \(\int_0^{\pi/2} \cos x\,dx\) and (b) \(\int_0^1 e^x\,dx\).<br>(a)<br>\[\int_0^{\pi/2} \cos x\,dx = \Big[\sin x\Big]_0^{\pi/2} = \sin\left(\frac{\pi}{2}\right) - \sin(0)\]\[\boxed{\int_0^{\pi/2} \cos x\,dx = 1}\]<br>(b)<br>\[\int_0^1 e^x\,dx = \Big[e^x\Big]_0^1 = e^1 - e^0\]\[\boxed{\int_0^1 e^x\,dx = e - 1}\]</div>
+</div>

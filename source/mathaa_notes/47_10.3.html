@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Derivative of the exponential function</h3>
+<div class="formula-box" data-term="Derivative of e^x">The exponential function \(e^x\) is its own derivative:<br>\[\frac{d}{dx}(e^x) = e^x\]This means the gradient of the curve \(y = e^x\) at any point is equal to the \(y\)-coordinate of that point.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = 5e^x + x^3\).<br>\[\frac{dy}{dx} = 5\frac{d}{dx}(e^x) + \frac{d}{dx}(x^3)\]\[\boxed{\frac{dy}{dx} = 5e^x + 3x^2}\]</div>
+
+<h3>Derivative of a general exponential function</h3>
+<div class="formula-box" data-term="Derivative of a^x">For a positive base \(a\), with \(a > 0\) and \(a \neq 1\):<br>\[\frac{d}{dx}(a^x) = a^x \ln a\]When \(a = e\), \(\ln e = 1\) and this rule reduces to \(\dfrac{d}{dx}(e^x) = e^x\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = 4(3^x)\).<br>\[\frac{dy}{dx} = 4\frac{d}{dx}(3^x)\]\[\boxed{\frac{dy}{dx} = 4(3^x)\ln 3}\]</div>
+
+<h3>Derivative of the natural logarithm function</h3>
+<div class="formula-box" data-term="Derivative of ln x">For \(x > 0\):<br>\[\frac{d}{dx}(\ln x) = \frac{1}{x}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = 4\ln x - x\).<br>\[\frac{dy}{dx} = 4\frac{d}{dx}(\ln x) - \frac{d}{dx}(x)\]\[\boxed{\frac{dy}{dx} = \frac{4}{x} - 1}\]</div>
+
+<h3>Derivative of a general logarithmic function</h3>
+<div class="formula-box" data-term="Derivative of log_a x">For a positive base \(a\), with \(a > 0\), \(a \neq 1\), and \(x > 0\):<br>\[\frac{d}{dx}(\log_a x) = \frac{1}{x \ln a}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = 5\log_3 x\).<br>\[\frac{dy}{dx} = 5\frac{d}{dx}(\log_3 x)\]\[\boxed{\frac{dy}{dx} = \frac{5}{x\ln 3}}\]</div>
+
+<h3>Combining the derivative of ln x with the product rule</h3>
+<div class="formula-box">When a product contains a logarithmic factor, differentiate each factor separately and combine using the product rule:<br>\[\frac{d}{dx}(uv) = \frac{du}{dx} \cdot v + u \cdot \frac{dv}{dx}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = x\ln x\), for \(x > 0\).<br>\[u = x, \quad v = \ln x\]\[\frac{du}{dx} = 1, \quad \frac{dv}{dx} = \frac{1}{x}\]\[\frac{dy}{dx} = (1)(\ln x) + (x)\left(\frac{1}{x}\right)\]\[\boxed{\frac{dy}{dx} = \ln x + 1}\]</div>
+
+<h3>Combining the derivative of ln x with the quotient rule</h3>
+<div class="formula-box">When a quotient contains a logarithmic term, differentiate the numerator and denominator separately and combine using the quotient rule:<br>\[\frac{dy}{dx} = \frac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = \dfrac{\ln x}{x}\), for \(x > 0\).<br>\[u = \ln x, \quad v = x\]\[\frac{du}{dx} = \frac{1}{x}, \quad \frac{dv}{dx} = 1\]\[\frac{dy}{dx} = \frac{\left(\dfrac{1}{x}\right)(x) - (\ln x)(1)}{x^2}\]\[\boxed{\frac{dy}{dx} = \frac{1 - \ln x}{x^2}}\]</div>
+</div>

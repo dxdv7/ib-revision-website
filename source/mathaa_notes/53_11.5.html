@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Integration by inspection: linear inner function</h3>
+<div class="formula-box" data-term="Inspection: linear substitution">If the integrand has the form \(f(ax+b)\), where the inner function \(ax+b\) is linear, the integral can be found directly by reversing the chain rule:<br>\[\int f(ax+b)\,dx = \frac{1}{a}F(ax+b) + C\]where \(F\) is an antiderivative of \(f\). The factor \(\dfrac{1}{a}\) compensates for the constant derivative \(a\) of the inner function.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int \cos(2x)\,dx\) by inspection.<br>The inner function \(2x\) has derivative \(2\), so:<br>\[\int \cos(2x)\,dx = \frac{1}{2}\sin(2x) + C\]Checking: \(\dfrac{d}{dx}\Big[\dfrac{1}{2}\sin(2x)\Big] = \dfrac{1}{2}\cos(2x) \cdot 2 = \cos(2x)\), which matches the integrand.<br>\[\boxed{\int \cos(2x)\,dx = \frac{1}{2}\sin(2x) + C}\]</div>
+
+<h3>Integration by inspection: recognizing a composite derivative</h3>
+<div class="formula-box">More generally, if the integrand is exactly \(g'(x) \cdot f'(g(x))\) -- the derivative of an inner function \(g(x)\) multiplied by the outer derivative evaluated at \(g(x)\) -- then reversing the chain rule gives:<br>\[\int g'(x)\,f'(g(x))\,dx = f(g(x)) + C\]This is recognized "by inspection" whenever the derivative of the inner function appears as a factor, exactly or up to a constant multiple.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int 2x\cos(x^2)\,dx\) by inspection.<br>The inner function \(x^2\) has derivative \(2x\), which appears exactly as a factor:<br>\[\frac{d}{dx}\Big[\sin(x^2)\Big] = \cos(x^2) \cdot 2x\]This matches the integrand exactly, so:<br>\[\boxed{\int 2x\cos(x^2)\,dx = \sin(x^2) + C}\]</div>
+
+<h3>Formal substitution: the method</h3>
+<div class="formula-box" data-term="u-substitution">When the correct pattern is not immediately obvious, substitute \(u = g(x)\), so that \(du = g'(x)\,dx\):<br>\[\int f(g(x))\,g'(x)\,dx = \int f(u)\,du\]Integrate in terms of \(u\), then substitute \(u = g(x)\) back at the end to return to the original variable.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int 2x(x^2+1)^5\,dx\) using substitution.<br>Let \(u = x^2 + 1\), so \(du = 2x\,dx\).<br>\[\int 2x(x^2+1)^5\,dx = \int u^5\,du\]\[= \frac{u^6}{6} + C\]\[\boxed{\int 2x(x^2+1)^5\,dx = \frac{(x^2+1)^6}{6} + C}\]</div>
+
+<h3>Substitution leading to a natural logarithm</h3>
+<div class="formula-box" data-term="Log-form substitution">When the integrand has the form \(\dfrac{g'(x)}{g(x)}\), the substitution \(u = g(x)\) gives \(du = g'(x)\,dx\), so:<br>\[\int \frac{g'(x)}{g(x)}\,dx = \int \frac{du}{u} = \ln|u| + C = \ln|g(x)| + C\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int \frac{2x}{x^2+1}\,dx\).<br>Let \(u = x^2 + 1\), so \(du = 2x\,dx\).<br>\[\int \frac{2x}{x^2+1}\,dx = \int \frac{du}{u}\]\[= \ln|u| + C\]Since \(x^2 + 1 > 0\) for all \(x\), the absolute value is not needed:<br>\[\boxed{\int \frac{2x}{x^2+1}\,dx = \ln(x^2+1) + C}\]</div>
+
+<h3>Substitution with a definite integral</h3>
+<div class="formula-box" data-term="Definite integral substitution">When evaluating a definite integral by substitution \(u = g(x)\), the limits of integration must also be converted, from values of \(x\) to the corresponding values of \(u\):<br>\[\int_a^b f(g(x))\,g'(x)\,dx = \int_{g(a)}^{g(b)} f(u)\,du\]The result is evaluated directly in terms of \(u\) -- there is no need to substitute back to \(x\) at the end.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\int_0^2 x(x^2+1)^3\,dx\).<br>Let \(u = x^2 + 1\), so \(du = 2x\,dx\), giving \(x\,dx = \dfrac{1}{2}du\).<br>When \(x = 0\), \(u = 1\). When \(x = 2\), \(u = 5\).<br>\[\int_0^2 x(x^2+1)^3\,dx = \int_1^5 u^3 \cdot \frac{1}{2}\,du\]\[= \frac{1}{2}\left[\frac{u^4}{4}\right]_1^5\]\[= \frac{1}{8}\big(5^4 - 1^4\big)\]\[= \frac{1}{8}(625 - 1)\]\[\boxed{\int_0^2 x(x^2+1)^3\,dx = 78}\]</div>
+</div>
