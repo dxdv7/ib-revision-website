@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Geometric sequences and the common ratio</h3>
+<div class="formula-box" data-term="Common ratio">A sequence \(a_1, a_2, a_3, \ldots\) is a geometric sequence if there is a nonzero constant \(r\), called the common ratio, such that<br>\[r = \frac{a_{n+1}}{a_n}\]for all integers \(n \geq 1\). Equivalently, each term is generated from the previous one by the recursive rule \(a_{n+1} = a_n \cdot r\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the common ratio of the geometric sequence \(8, -4, 2, -1, \ldots\)<br>\[r = \frac{-4}{8}\]\[\boxed{r = -\frac{1}{2}}\]</div>
+
+<h3>The nth term formula</h3>
+<div class="formula-box" data-term="nth term formula">The nth term of a geometric sequence with first term \(a_1\) and common ratio \(r\) is given by the explicit formula<br>\[a_n = a_1 \cdot r^{\,n-1}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A geometric sequence has first term \(a_1 = 5\) and common ratio \(r = -2\). Find the explicit formula for the nth term, and hence find the 7th term.<br>\[a_n = 5 \cdot (-2)^{\,n-1}\]\[a_7 = 5 \cdot (-2)^6\]\[a_7 = 5 \cdot 64\]\[\boxed{a_7 = 320}\]</div>
+
+<h3>Geometric means</h3>
+<div class="formula-box" data-term="Geometric means">In a finite geometric sequence \(a_1, a_2, \ldots, a_k\), the terms \(a_2, a_3, \ldots, a_{k-1}\) between the first and last term are called the geometric means between \(a_1\) and \(a_k\) (also called mean proportionals). To insert \(m\) geometric means between two positive numbers \(p\) and \(q\), treat \(p\) as the first term and \(q\) as the \((m+2)\)th term, so the common ratio satisfies<br>\[r^{\,m+1} = \frac{q}{p}\]and the means are \(pr, pr^2, \ldots, pr^m\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find three geometric means between \(7\) and \(4375\).<br>\[r^4 = \frac{4375}{7} = 625\]\[r = 625^{1/4} = 5\]\[\boxed{35, \ 175, \ 875}\]</div>
+
+<h3>Sum of a finite geometric series</h3>
+<div class="formula-box" data-term="Sum formula">For \(r \neq 1\), the sum of the first \(n\) terms of a geometric series, denoted \(S_n\), is given by<br>\[S_n = \frac{a_1\left(1 - r^n\right)}{1 - r}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the sum of the first 20 terms of the geometric series \(3 + 6 + 12 + 24 + \cdots\)<br>\[S_{20} = \frac{3\left(1 - 2^{20}\right)}{1 - 2}\]\[S_{20} = \frac{3(1 - 1048576)}{-1}\]\[\boxed{S_{20} = 3145725}\]</div>
+
+<h3>Sum to infinity</h3>
+<div class="formula-box" data-term="Sum to infinity">When \(|r| < 1\), \(r^n \to 0\) as \(n \to \infty\), so the partial sums \(S_n = \frac{a_1(1 - r^n)}{1 - r}\) converge to a finite limit called the sum to infinity:<br>\[S_\infty = \frac{a_1}{1 - r}\]When \(|r| \geq 1\) the series diverges and \(S_\infty\) does not exist.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the sum to infinity of the geometric series with first term \(12\) and common ratio \(\dfrac{1}{4}\).<br>\[S_\infty = \frac{12}{1 - \frac{1}{4}}\]\[S_\infty = \frac{12}{\frac{3}{4}}\]\[\boxed{S_\infty = 16}\]</div>
+
+<h3>Recurring decimals as infinite geometric series</h3>
+<div class="formula-box">A recurring decimal can be written as an infinite geometric series whose first term and common ratio are both powers of ten, and then summed using \(S_\infty = \frac{a_1}{1 - r}\) to express it as a fraction, proving that it is a rational number.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Show that \(0.\overline{6} = 0.666\ldots\) is a rational number.<br>\[0.\overline{6} = 0.6 + 0.06 + 0.006 + \cdots\]This is an infinite geometric series with \(a_1 = \frac{6}{10}\) and \(r = \frac{1}{10}\):<br>\[S_\infty = \frac{\frac{6}{10}}{1 - \frac{1}{10}} = \frac{\frac{6}{10}}{\frac{9}{10}}\]\[\boxed{0.\overline{6} = \frac{6}{9} = \frac{2}{3}}\]</div>
+</div>

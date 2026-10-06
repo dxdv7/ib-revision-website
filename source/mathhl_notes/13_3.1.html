@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Arithmetic sequences and the common difference</h3>
+<div class="formula-box" data-term="Common difference">A sequence \(a_1, a_2, a_3, \ldots\) is an arithmetic sequence if there is a constant \(d\), called the common difference, such that consecutive terms satisfy<br>\[d = a_{n+1} - a_n\]for all integers \(n \geq 1\). Equivalently, each term is generated from the previous one by the recursive rule \(a_{n+1} = a_n + d\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the common difference of the arithmetic sequence \(5, 12, 19, 26, \ldots\)<br>\[d = 12 - 5\]\[\boxed{d = 7}\]</div>
+
+<h3>The nth term formula</h3>
+<div class="formula-box" data-term="nth term formula">The nth term of an arithmetic sequence with first term \(a_1\) and common difference \(d\) is given by the explicit (closed) formula<br>\[a_n = a_1 + (n-1)d\]This can be derived by viewing the sequence as a linear function of \(n\): the point \((1, a_1)\) together with gradient \(d\) gives the point-slope form \(a_n - a_1 = d(n-1)\), which rearranges to the formula above.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the explicit formula for the nth term of the arithmetic sequence \(13, 8, 3, -2, \ldots\), and hence find the 25th term.<br>\[d = 8 - 13 = -5\]\[a_n = 13 + (n-1)(-5)\]\[a_n = 18 - 5n\]\[a_{25} = 18 - 5(25)\]\[\boxed{a_{25} = -107}\]</div>
+
+<h3>Arithmetic means</h3>
+<div class="formula-box" data-term="Arithmetic means">In a finite arithmetic sequence \(a_1, a_2, \ldots, a_k\), the terms \(a_2, a_3, \ldots, a_{k-1}\) between the first and last term are called the arithmetic means between \(a_1\) and \(a_k\). To insert \(m\) arithmetic means between two numbers \(p\) and \(q\), treat \(p\) as the first term and \(q\) as the \((m+2)\)th term, so the common difference is<br>\[d = \frac{q - p}{m + 1}\]and the means are \(p + d, p + 2d, \ldots, p + md\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Insert four arithmetic means between \(3\) and \(7\).<br>\[d = \frac{7 - 3}{4 + 1} = \frac{4}{5}\]\[\boxed{\frac{19}{5}, \ \frac{23}{5}, \ \frac{27}{5}, \ \frac{31}{5}}\]</div>
+
+<h3>Sum of a finite arithmetic series</h3>
+<div class="formula-box" data-term="Sum formula">The sum of the first \(n\) terms of an arithmetic series, denoted \(S_n\), can be found using either of the equivalent formulas<br>\[S_n = \frac{n}{2}\left(a_1 + a_n\right)\]\[S_n = \frac{n}{2}\left(2a_1 + (n-1)d\right)\]where \(a_n\) is the last term being summed. The first version can also be read as \(n\) times the average of the first and last terms.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the sum of the first 50 terms of the arithmetic series \(3 + 8 + 13 + 18 + \cdots\)<br>\[S_{50} = \frac{50}{2}\left(2(3) + (50-1)(5)\right)\]\[S_{50} = 25(6 + 245)\]\[\boxed{S_{50} = 6275}\]</div>
+
+<h3>Solving for n given the sum</h3>
+<div class="formula-box">If the sum \(S_n\) of an arithmetic series is known, substituting into \(S_n = \frac{n}{2}\left(2a_1 + (n-1)d\right)\) produces a quadratic equation in \(n\). Since \(n\) must be a positive integer, only the positive root of the quadratic is a valid solution.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The sum of the first \(n\) terms of the arithmetic series with first term \(3\) and common difference \(4\) is \(465\). Find \(n\).<br>\[465 = \frac{n}{2}\left(2(3) + (n-1)(4)\right)\]\[930 = n(4n + 2)\]\[4n^2 + 2n - 930 = 0\]\[2n^2 + n - 465 = 0\]\[n = \frac{-1 + \sqrt{1 + 3720}}{4} = \frac{-1 + 61}{4}\]\[\boxed{n = 15}\]</div>
+
+<h3>Determining whether a value is a term of the sequence</h3>
+<div class="formula-box">To decide whether a given number \(v\) belongs to an arithmetic sequence, set \(a_n = v\) in the explicit formula \(a_n = a_1 + (n-1)d\) and solve for \(n\). The number \(v\) is a term of the sequence exactly when the resulting \(n\) is a positive integer.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The first term of an arithmetic sequence is \(-7\) and the common difference is \(3\). Is \(9803\) a term of this sequence? If so, which term?<br>\[9803 = -7 + (n-1)(3)\]\[9810 = 3(n-1)\]\[3270 = n - 1\]\[\boxed{n = 3271; \ \text{yes, } 9803 \text{ is the 3271st term}}\]</div>
+</div>

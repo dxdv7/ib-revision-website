@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Sigma notation and evaluating a sum</h3>
+<div class="formula-box" data-term="Sigma notation">The sum of the terms \(a_k\) as \(k\) runs from \(m\) to \(n\) (with \(m \leq n\)) is written using sigma notation as<br>\[\sum_{k=m}^{n} a_k = a_m + a_{m+1} + a_{m+2} + \cdots + a_n\]Here \(k\) is the index of summation (a dummy variable that can be renamed), \(m\) is the lower limit and \(n\) is the upper limit.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\displaystyle\sum_{i=1}^{6} i^2\).<br>\[\sum_{i=1}^{6} i^2 = 1^2 + 2^2 + 3^2 + 4^2 + 5^2 + 6^2\]\[\boxed{\sum_{i=1}^{6} i^2 = 91}\]</div>
+
+<h3>Linearity of sigma notation</h3>
+<div class="formula-box" data-term="Linearity of sigma notation">If \(c\) is a constant that does not depend on the index \(k\), summing it \(n\) times, and factoring a constant multiple out of a sum, give the two linearity properties<br>\[\sum_{k=1}^{n} c = nc, \qquad \sum_{k=1}^{n} c \cdot a_k = c\sum_{k=1}^{n} a_k\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\displaystyle\sum_{i=1}^{9} 8\), and evaluate \(\displaystyle\sum_{k=1}^{5} 6k\) given that \(\displaystyle\sum_{k=1}^{5} k = 15\).<br>\[\sum_{i=1}^{9} 8 = 9 \times 8\]\[\sum_{k=1}^{5} 6k = 6\sum_{k=1}^{5} k = 6 \times 15\]\[\boxed{\sum_{i=1}^{9} 8 = 72, \qquad \sum_{k=1}^{5} 6k = 90}\]</div>
+
+<h3>Splitting a sum and shifting the index</h3>
+<div class="formula-box">A sum of two functions of the index can be split into two separate sums<br>\[\sum_{k=1}^{n} \left(a_k + b_k\right) = \sum_{k=1}^{n} a_k + \sum_{k=1}^{n} b_k\]and, since the index is only a dummy variable, it can be shifted and renamed, for example<br>\[\sum_{k=1}^{n} a_k = \sum_{j=0}^{n-1} a_{j+1}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\displaystyle\sum_{k=1}^{4} \left(2k + 3^k\right)\).<br>\[\sum_{k=1}^{4} \left(2k + 3^k\right) = \sum_{k=1}^{4} 2k + \sum_{k=1}^{4} 3^k\]\[\sum_{k=1}^{4} 2k = 2 + 4 + 6 + 8 = 20\]\[\sum_{k=1}^{4} 3^k = 3 + 9 + 27 + 81 = 120\]\[\boxed{\sum_{k=1}^{4} \left(2k + 3^k\right) = 140}\]</div>
+
+<h3>Sigma notation for an arithmetic series</h3>
+<div class="formula-box" data-term="Arithmetic series in sigma form">When the general term is linear in the index, \(a_k = pk + q\), the terms form an arithmetic sequence with common difference \(p\), and the sum can be evaluated with the arithmetic series formula<br>\[\sum_{k=1}^{n} (pk + q) = \frac{n}{2}\left(a_1 + a_n\right)\]where \(a_1\) and \(a_n\) are the first and last terms of the sum.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\displaystyle\sum_{k=1}^{24} (5k - 3)\).<br>\[a_1 = 5(1) - 3 = 2, \qquad a_{24} = 5(24) - 3 = 117\]\[\sum_{k=1}^{24} (5k - 3) = \frac{24}{2}(2 + 117)\]\[\boxed{\sum_{k=1}^{24} (5k - 3) = 1428}\]</div>
+
+<h3>Sigma notation for a geometric series</h3>
+<div class="formula-box" data-term="Geometric series in sigma form">When the general term is exponential in the index, \(a_k = c \cdot r^k\), the terms form a geometric sequence with common ratio \(r\), and the sum of the \(n - m + 1\) terms from \(k = m\) to \(k = n\) can be evaluated with the geometric series formula<br>\[\sum_{k=m}^{n} c \cdot r^k = \frac{a_1\left(1 - r^{\,n-m+1}\right)}{1 - r}\]where \(a_1 = c \cdot r^m\) is the first term of the sum.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\displaystyle\sum_{k=1}^{7} 2^k\).<br>\[a_1 = 2^1 = 2, \quad r = 2, \quad \text{7 terms}\]\[\sum_{k=1}^{7} 2^k = \frac{2\left(1 - 2^7\right)}{1 - 2}\]\[\sum_{k=1}^{7} 2^k = \frac{2(1 - 128)}{-1}\]\[\boxed{\sum_{k=1}^{7} 2^k = 254}\]</div>
+
+<h3>Infinite series in sigma notation</h3>
+<div class="formula-box">An infinite series written in sigma notation, \(\displaystyle\sum_{k=1}^{\infty} a_1 r^{\,k-1}\), is defined as the limit of its partial sums as \(n \to \infty\). When \(|r| < 1\) this limit exists and<br>\[\sum_{k=1}^{\infty} a_1 r^{\,k-1} = \frac{a_1}{1 - r}\]When \(|r| \geq 1\) the series diverges and the sum does not exist.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\displaystyle\sum_{k=1}^{\infty} 5\left(\frac{1}{4}\right)^{k-1}\).<br>\[\sum_{k=1}^{\infty} 5\left(\frac{1}{4}\right)^{k-1} = \frac{5}{1 - \frac{1}{4}}\]\[\sum_{k=1}^{\infty} 5\left(\frac{1}{4}\right)^{k-1} = \frac{5}{\frac{3}{4}}\]\[\boxed{\sum_{k=1}^{\infty} 5\left(\frac{1}{4}\right)^{k-1} = \frac{20}{3}}\]</div>
+</div>

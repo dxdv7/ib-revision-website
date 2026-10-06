@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Exponential functions and their graphs</h3>
+<div class="formula-box" data-term="Exponential function">For \(b>0\) and \(b \neq 1\), an exponential function with base \(b\) is defined by<br>\[f(x) = b^x\]The domain of \(f\) is all real numbers, \(x \in \mathbb{R}\), and the range is all positive real numbers, \(y > 0\). Every such graph passes through \((0,1)\) and has horizontal asymptote \(y=0\). If \(b>1\), \(f\) is an increasing exponential growth curve; if \(0<b<1\), \(f\) is a decreasing exponential decay curve.</div>
+<div class="callout example"><span class="c-label">Worked example</span>State the domain, range, y-intercept and horizontal asymptote of \(h(x) = \left(\dfrac{1}{3}\right)^x\), and state whether \(h\) is increasing or decreasing.<br>Since \(0 < \dfrac{1}{3} < 1\), the function is decreasing.<br>\[\boxed{\text{domain } x \in \mathbb{R}; \text{ range } y>0; \text{ y-intercept } (0,1); \text{ asymptote } y=0; \text{ decreasing}}\]</div>
+
+<h3>Transformations of exponential graphs</h3>
+<div class="formula-box">For \(f(x) = b^x\), transformations behave exactly as for any other function: \(g(x) = b^x + k\) is a vertical translation of \(k\) units, shifting the asymptote to \(y=k\); \(g(x) = b^{x-h}\) is a horizontal translation of \(h\) units, leaving the asymptote at \(y=0\) unchanged; \(g(x) = b^{-x}\) is a reflection in the y-axis; and \(g(x) = -b^x\) is a reflection in the x-axis, which sends the range from \(y>0\) to \(y<0\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using the graph of \(f(x) = 2^x\), state the horizontal asymptote and range of \(g(x) = 2^x + 3\) and of \(p(x) = -2^x\).<br>The graph of \(f\) has asymptote \(y=0\) and range \(y>0\). Translating \(f\) up \(3\) units gives \(g\), and reflecting \(f\) in the x-axis gives \(p\):<br>\[\boxed{g: \text{ asymptote } y=3; \text{ range } y>3}\]\[\boxed{p: \text{ asymptote } y=0; \text{ range } y<0}\]</div>
+
+<h3>The exponential growth/decay model</h3>
+<div class="formula-box" data-term="Exponential growth/decay model">An exponential model has the form<br>\[A(t) = A_0 b^t\]where \(A_0 \neq 0\) is the initial amount, since \(A(0) = A_0 b^0 = A_0\), \(t\) is time, and \(b>0\) is the growth or decay factor. If \(b>1\), \(A(t)\) models exponential growth; if \(0<b<1\), it models exponential decay.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A sample count of bacteria is doubling every hour. The estimated count at 15:00 was 12000. Taking \(t=0\) at 12:00, find \(A_0\) and write the growth function \(A(t)\).<br>The growth factor is \(b=2\), and \(t=3\) corresponds to 15:00.<br>\[12000 = A_0(2)^3\]\[12000 = 8A_0\]\[\boxed{A_0 = 1500}\]\[\boxed{A(t) = 1500(2)^t}\]</div>
+
+<h3>Percentage growth and decay</h3>
+<div class="formula-box">When a quantity grows at a constant percentage rate \(r\) (as a decimal) per time period, the growth factor is \(b = 1+r\):<br>\[A(t) = A_0(1+r)^t\]When a quantity decays at a constant percentage rate \(r\) per time period, the decay factor is \(b = 1-r\):<br>\[A(t) = A_0(1-r)^t\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A new car is purchased for $22000 and depreciates at a rate of 15% per year. Find its approximate value after 4.5 years.<br>The decay factor is \(b = 1 - 0.15 = 0.85\).<br>\[A(t) = 22000(0.85)^t\]\[A(4.5) = 22000(0.85)^{4.5}\]\[\boxed{A(4.5) \approx \$10588}\]</div>
+
+<h3>The half-life decay model</h3>
+<div class="formula-box" data-term="Half-life decay model">The half-life \(h\) of a radioactive (or other decaying) substance is the time it takes for an amount to decrease to half of its original value. If \(k = \dfrac{t}{h}\) is the number of half-lives that have occurred in time \(t\), the amount remaining is<br>\[A(t) = A_0\left(\frac{1}{2}\right)^{t/h}\]where \(A_0\) is the initial amount. The time units of \(t\) and \(h\) must match.</div>
+<div class="callout example"><span class="c-label">Worked example</span>The half-life of radioactive carbon-14 is approximately 5730 years. What percentage of the carbon-14 remains after 15000 years?<br>\[A(15000) = A_0\left(\frac{1}{2}\right)^{15000/5730}\]\[A(15000) = A_0\left(\frac{1}{2}\right)^{2.618\ldots}\]\[\boxed{A(15000) \approx 0.163A_0 \text{, so about } 16.3\% \text{ remains}}\]</div>
+
+<h3>Compound interest</h3>
+<div class="formula-box" data-term="Compound interest formula">An amount \(P\) invested at annual interest rate \(r\) (as a decimal), compounded \(n\) times per year, grows after \(t\) years to<br>\[A(t) = P\left(1+\frac{r}{n}\right)^{nt}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the amount after 8 years if $1000 is invested at an annual rate of 5.25%, compounded quarterly.<br>\[A = 1000\left(1+\frac{0.0525}{4}\right)^{4(8)}\]\[A = 1000(1.013125)^{32}\]\[\boxed{A \approx \$1517.81}\]</div>
+</div>
