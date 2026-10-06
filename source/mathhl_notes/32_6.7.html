@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Why the trigonometric functions need restricted domains</h3>
+<div class="formula-box">None of \(\sin x\), \(\cos x\), or \(\tan x\) is one-to-one over its full domain, since each repeats its values periodically. To define an inverse function, the domain of each must first be restricted to an interval on which the function is one-to-one (always increasing or always decreasing) and attains every value in its range exactly once.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Explain why \(\arcsin\left(\sin\dfrac{3\pi}{4}\right) \neq \dfrac{3\pi}{4}\), and find its exact value.<br>\(\dfrac{3\pi}{4}\) lies outside the restricted domain \(\left[-\dfrac{\pi}{2}, \dfrac{\pi}{2}\right]\) used to define \(\arcsin\), so the output must instead be the unique angle in \(\left[-\dfrac{\pi}{2}, \dfrac{\pi}{2}\right]\) with the same sine.<br>\[\sin\frac{3\pi}{4} = \frac{\sqrt{2}}{2} = \sin\frac{\pi}{4}\]\[\boxed{\arcsin\left(\sin\frac{3\pi}{4}\right) = \frac{\pi}{4}}\]</div>
+
+<h3>The inverse sine function (arcsin)</h3>
+<div class="formula-box" data-term="Inverse sine (arcsin)">The sine function restricted to \(\left[-\dfrac{\pi}{2}, \dfrac{\pi}{2}\right]\) is one-to-one, so its inverse is a function:<br>\[y = \arcsin x \ (\text{or } \sin^{-1}x) \iff x = \sin y, \quad -1 \leq x \leq 1, \ -\frac{\pi}{2} \leq y \leq \frac{\pi}{2}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the exact value of \(\arcsin\left(-\dfrac{\sqrt{2}}{2}\right)\).<br>We need the number in \(\left[-\dfrac{\pi}{2}, \dfrac{\pi}{2}\right]\) whose sine is \(-\dfrac{\sqrt{2}}{2}\):<br>\[\boxed{\arcsin\left(-\frac{\sqrt{2}}{2}\right) = -\frac{\pi}{4}}\]</div>
+
+<h3>The inverse cosine function (arccos)</h3>
+<div class="formula-box" data-term="Inverse cosine (arccos)">The cosine function restricted to \([0, \pi]\) is one-to-one, so its inverse is a function:<br>\[y = \arccos x \ (\text{or } \cos^{-1}x) \iff x = \cos y, \quad -1 \leq x \leq 1, \ 0 \leq y \leq \pi\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the exact value of \(\arccos\left(-\dfrac{1}{2}\right)\).<br>We need the number in \([0, \pi]\) whose cosine is \(-\dfrac{1}{2}\):<br>\[\boxed{\arccos\left(-\frac{1}{2}\right) = \frac{2\pi}{3}}\]</div>
+
+<h3>The inverse tangent function (arctan)</h3>
+<div class="formula-box" data-term="Inverse tangent (arctan)">The tangent function restricted to \(\left(-\dfrac{\pi}{2}, \dfrac{\pi}{2}\right)\) is one-to-one, so its inverse is a function:<br>\[y = \arctan x \ (\text{or } \tan^{-1}x) \iff x = \tan y, \quad x \in \mathbb{R}, \ -\frac{\pi}{2} < y < \frac{\pi}{2}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the exact value of \(\arctan(-1)\).<br>We need the number in \(\left(-\dfrac{\pi}{2}, \dfrac{\pi}{2}\right)\) whose tangent is \(-1\):<br>\[\boxed{\arctan(-1) = -\frac{\pi}{4}}\]</div>
+
+<h3>Inverse properties and compositions</h3>
+<div class="formula-box" data-term="Inverse composition properties">Because of the restricted domains, the cancellation properties for inverse functions hold only within these intervals:<br>\[\sin(\arcsin a) = a \text{ for } -1 \leq a \leq 1, \qquad \arcsin(\sin\beta) = \beta \text{ only for } -\frac{\pi}{2} \leq \beta \leq \frac{\pi}{2}\]\[\cos(\arccos a) = a \text{ for } -1 \leq a \leq 1, \qquad \arccos(\cos\beta) = \beta \text{ only for } 0 \leq \beta \leq \pi\]\[\tan(\arctan a) = a \text{ for all } a \in \mathbb{R}, \qquad \arctan(\tan\beta) = \beta \text{ only for } -\frac{\pi}{2} < \beta < \frac{\pi}{2}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the exact value of \(\arccos\left(\cos\dfrac{4\pi}{3}\right)\).<br>Since \(\dfrac{4\pi}{3}\) is outside \([0, \pi]\), the inverse property does not apply directly. By the symmetry of the unit circle, \(\cos\dfrac{4\pi}{3} = \cos\dfrac{2\pi}{3}\), and \(\dfrac{2\pi}{3}\) lies in \([0, \pi]\):<br>\[\boxed{\arccos\left(\cos\frac{4\pi}{3}\right) = \frac{2\pi}{3}}\]</div>
+
+<h3>Evaluating compositions with a reference triangle</h3>
+<div class="formula-box">When a trigonometric function is applied to an inverse trigonometric expression, such as \(\cos(\arcsin x)\), it is often easiest to let \(y\) equal the inverse expression, use the Pythagorean identity to find the missing ratio, and check the sign from the range of the inverse function.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the exact value of \(\cos\left(\arcsin\dfrac{3}{5}\right)\).<br>Let \(y = \arcsin\dfrac{3}{5}\), so \(\sin y = \dfrac{3}{5}\) with \(-\dfrac{\pi}{2} \leq y \leq \dfrac{\pi}{2}\), which means \(\cos y \geq 0\).<br>\[\cos y = \sqrt{1 - \sin^2 y} = \sqrt{1 - \frac{9}{25}} = \sqrt{\frac{16}{25}}\]\[\boxed{\cos\left(\arcsin\frac{3}{5}\right) = \frac{4}{5}}\]</div>
+</div>
