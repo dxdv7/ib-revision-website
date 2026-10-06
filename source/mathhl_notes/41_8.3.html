@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Polar (modulus-argument) form of a complex number</h3>
+<div class="formula-box" data-term="Polar form">Every complex number \(z = x+yi\) can be written in modulus-argument (polar) form:<br>\[z = r(\cos\theta + i\sin\theta) = r\operatorname{cis}\theta\]where \(r = |z| = \sqrt{x^2+y^2}\) is the modulus and \(\theta = \arg(z)\) is the argument, the angle the vector \(z\) makes with the positive real axis. The Cartesian coordinates relate to \(r\) and \(\theta\) by:<br>\[x = r\cos\theta, \qquad y = r\sin\theta, \qquad \tan\theta = \frac{y}{x} \ (x \ne 0)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Write \(z = 1+i\) in polar form.<br>\[r = \sqrt{1^2+1^2} = \sqrt{2}\]\[\tan\theta = \frac{1}{1} = 1\]Since the real and imaginary parts are both positive, \(z\) lies in the first quadrant, so \(\theta = \dfrac{\pi}{4}\).<br>\[\boxed{z = \sqrt{2}\left(\cos\frac{\pi}{4} + i\sin\frac{\pi}{4}\right) = \sqrt{2}\operatorname{cis}\frac{\pi}{4}}\]</div>
+
+<h3>Finding the argument: using the correct quadrant</h3>
+<div class="formula-box" data-term="Argument and quadrants">The equation \(\tan\theta = \dfrac{y}{x}\) alone does not determine \(\theta\) uniquely, since \(\tan\theta\) has period \(\pi\). The signs of \(x = \operatorname{Re}(z)\) and \(y = \operatorname{Im}(z)\) must be used to place \(\theta\) in the correct quadrant. The principal argument is usually chosen so that \(-\pi < \theta \le \pi\); all other values of \(\arg(z)\) differ from it by a multiple of \(2\pi\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Write \(z = \sqrt{3} - i\) in polar form, with \(-\pi < \theta \le \pi\).<br>\[r = \sqrt{(\sqrt{3})^2 + (-1)^2} = \sqrt{3+1} = 2\]\[\tan\theta = \frac{-1}{\sqrt{3}}\]The real part is positive and the imaginary part is negative, so \(z\) lies in the fourth quadrant, giving \(\theta = -\dfrac{\pi}{6}\).<br>\[\boxed{z = 2\left(\cos\left(-\frac{\pi}{6}\right) + i\sin\left(-\frac{\pi}{6}\right)\right) = 2\operatorname{cis}\left(-\frac{\pi}{6}\right)}\]</div>
+
+<h3>Converting from polar form back to Cartesian form</h3>
+<div class="formula-box" data-term="Polar to Cartesian">Given \(z = r(\cos\theta + i\sin\theta)\), the Cartesian form is recovered using:<br>\[x = r\cos\theta, \qquad y = r\sin\theta \implies z = r\cos\theta + (r\sin\theta)i\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Convert \(z = 6(\cos 50^\circ + i\sin 50^\circ)\) to Cartesian form, correct to 3 decimal places.<br>\[x = 6\cos 50^\circ \approx 6(0.643) \approx 3.857\]\[y = 6\sin 50^\circ \approx 6(0.766) \approx 4.596\]\[\boxed{z \approx 3.857 + 4.596i}\]</div>
+
+<h3>Euler's formula and the exponential form of a complex number</h3>
+<div class="formula-box" data-term="Euler form">Euler's formula states that for any real \(\theta\):<br>\[e^{i\theta} = \cos\theta + i\sin\theta\]Combining this with the polar form \(z = r(\cos\theta+i\sin\theta)\) gives Euler's (exponential) form of a complex number:<br>\[z = re^{i\theta}\]where \(r = |z|\) and \(\theta = \arg(z)\), exactly as in modulus-argument form.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Express \(z = 5+5i\) in Euler form.<br>\[r = \sqrt{5^2+5^2} = 5\sqrt{2}\]\[\tan\theta = \frac{5}{5} = 1 \implies \theta = \frac{\pi}{4} \quad (\text{first quadrant})\]\[\boxed{z = 5\sqrt{2}\,e^{i\pi/4}}\]</div>
+
+<h3>Evaluating special values in Euler form</h3>
+<div class="formula-box">Since \(e^{i\theta} = \cos\theta + i\sin\theta\), substituting particular angles gives exact values, including Euler's identity:<br>\[e^{i\pi} = \cos\pi + i\sin\pi = -1 \implies e^{i\pi} + 1 = 0\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(e^{i\pi/2}\).<br>\[e^{i\pi/2} = \cos\frac{\pi}{2} + i\sin\frac{\pi}{2} = 0 + i(1)\]\[\boxed{e^{i\pi/2} = i}\]</div>
+</div>

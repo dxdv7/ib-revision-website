@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Square roots of negative real numbers</h3>
+<div class="formula-box" data-term="Imaginary square root rule">For any positive real number \(k\):<br>\[\sqrt{-k} = i\sqrt{k}\]This follows from \(i^2 = -1\), together with the convention that \(\sqrt{-1} \cdot \sqrt{-1} = -1\) rather than \(\sqrt{(-1)(-1)} = \sqrt{1} = 1\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Simplify \(\sqrt{-16} \cdot \sqrt{-25}\).<br>\[\sqrt{-16} = 4i, \qquad \sqrt{-25} = 5i\]\[\sqrt{-16} \cdot \sqrt{-25} = 4i \cdot 5i = 20i^2\]\[\boxed{= -20}\]</div>
+
+<h3>The quadratic formula with a negative discriminant</h3>
+<div class="formula-box" data-term="Quadratic formula">For a quadratic equation with real coefficients \(ax^2 + bx + c = 0\), \(a \neq 0\):<br>\[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\]If the discriminant \(b^2 - 4ac < 0\), there is no real solution. Writing \(b^2 - 4ac = -(4ac - b^2)\) with \(4ac - b^2 > 0\) gives \(\sqrt{b^2 - 4ac} = i\sqrt{4ac - b^2}\), so the two roots are the complex numbers:<br>\[x = \frac{-b}{2a} \pm \frac{\sqrt{4ac - b^2}}{2a}\,i\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Solve \(x^2 - 4x + 8 = 0\).<br>\[b^2 - 4ac = (-4)^2 - 4(1)(8) = 16 - 32 = -16\]Since the discriminant is negative, \(\sqrt{-16} = \sqrt{16}\sqrt{-1} = 4i\).<br>\[x = \frac{-(-4) \pm 4i}{2(1)} = \frac{4 \pm 4i}{2}\]\[\boxed{x = 2 + 2i \ \text{ or } \ x = 2 - 2i}\]</div>
+
+<h3>Complex roots occur in conjugate pairs</h3>
+<div class="formula-box" data-term="Conjugate root theorem">If a polynomial equation with real coefficients has a non-real root \(z = a + bi\) (with \(b \neq 0\)), then its conjugate \(z^* = a - bi\) is also a root. In particular, if a quadratic equation with real coefficients has a negative discriminant, its two roots are always a conjugate pair \(p \pm qi\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Explain why \(x = 2 + 2i\) and \(x = 2 - 2i\), the roots found above for \(x^2 - 4x + 8 = 0\), must be conjugates of each other without solving the equation again.<br>The equation \(x^2 - 4x + 8 = 0\) has real coefficients \(a = 1\), \(b = -4\), \(c = 8\), and its discriminant \(b^2 - 4ac = -16\) is negative.<br>\[\boxed{\text{By the conjugate root theorem, the two non-real roots must form a conjugate pair}}\]</div>
+
+<h3>Using the conjugate root theorem to find all roots of a polynomial</h3>
+<div class="formula-box">If one non-real root \(z\) of a polynomial equation with real coefficients is known, its conjugate \(z^*\) is automatically a second root. The quadratic factor \((x - z)(x - z^*)\) can then be divided out of the polynomial, using the factor theorem, to find the remaining (real) factor(s).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given that \(1 + 2i\) is a root of \(P(x) = x^3 - 5x^2 + 11x - 15\), find all other roots.<br>Since \(P(x)\) has real coefficients, \(1 - 2i\) is also a root.<br>\[(x - (1+2i))(x - (1-2i)) = (x-1)^2 - (2i)^2 = x^2 - 2x + 1 + 4 = x^2 - 2x + 5\]So \(P(x) = (x^2 - 2x + 5)(x - c)\) for some real number \(c\). Dividing, or comparing constant terms \(5 \times (-c) = -15\):<br>\[c = 3\]\[\boxed{\text{The roots of } P(x) \text{ are } x = 3, \ x = 1 + 2i, \ x = 1 - 2i}\]</div>
+
+<h3>Constructing a real quadratic from a conjugate pair of roots</h3>
+<div class="formula-box" data-term="Quadratic from conjugate roots">If a quadratic with real coefficients has roots \(z = p + qi\) and \(z^* = p - qi\), then since \(z + z^* = 2p\) and \(z \cdot z^* = p^2 + q^2\), the quadratic can be written as:<br>\[x^2 - (z+z^*)x + z z^* = 0 \ \ \Longleftrightarrow\ \ x^2 - 2px + (p^2+q^2) = 0\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find a quadratic equation with real coefficients having \(3 + 2i\) as one root.<br>Here \(p = 3\) and \(q = 2\), so the other root must be \(3 - 2i\).<br>\[\text{sum of roots} = 2p = 6, \qquad \text{product of roots} = p^2+q^2 = 9+4=13\]\[\boxed{x^2 - 6x + 13 = 0}\]</div>
+</div>

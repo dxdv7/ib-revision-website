@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>The imaginary unit and powers of i</h3>
+<div class="formula-box" data-term="Imaginary unit">The imaginary unit \(i\) is defined by:<br>\[i^2 = -1\]so that \(i = \sqrt{-1}\). A pure imaginary number has the form \(ki\), where \(k\) is real. The powers of \(i\) repeat in a cycle of length 4:<br>\[i^1 = i, \quad i^2 = -1, \quad i^3 = -i, \quad i^4 = 1\]and in general \(i^{4k+r} = i^r\) for integer \(k \geq 0\) and \(r \in \{0,1,2,3\}\), since \(i^4 = 1\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Simplify \(i^{47}\) and \(\sqrt{-50}\).<br>Since \(47 = 4(11) + 3\):<br>\[i^{47} = i^{4(11)+3} = i^3\]\[\boxed{i^{47} = -i}\]\[\sqrt{-50} = \sqrt{50}\sqrt{-1} = \sqrt{25 \times 2}\, i\]\[\boxed{\sqrt{-50} = 5\sqrt{2}\, i}\]</div>
+
+<h3>Cartesian form, real part and imaginary part</h3>
+<div class="formula-box" data-term="Cartesian form">A complex number in Cartesian form is written as:<br>\[z = a + bi\]where \(a\) and \(b\) are real numbers. The real part of \(z\) is \(\text{Re}(z) = a\), and the imaginary part of \(z\) is \(\text{Im}(z) = b\) (note that \(\text{Im}(z)\) is the real number \(b\), not \(bi\)). Every real number \(x\) can be written as \(x + 0i\), so the real numbers form a subset of the complex numbers.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Write \(z = 4 + \sqrt{-18}\) in Cartesian form, and state \(\text{Re}(z)\) and \(\text{Im}(z)\).<br>\[\sqrt{-18} = \sqrt{9 \times 2}\sqrt{-1} = 3\sqrt{2}\, i\]\[\boxed{z = 4 + 3\sqrt{2}\, i}\]\[\boxed{\text{Re}(z) = 4, \quad \text{Im}(z) = 3\sqrt{2}}\]</div>
+
+<h3>Equality of complex numbers</h3>
+<div class="formula-box">Two complex numbers in Cartesian form are equal if and only if their real parts are equal and their imaginary parts are equal:<br>\[a + bi = c + di \iff a = c \text{ and } b = d\]This property is used to solve equations involving unknown real numbers inside a complex expression, by comparing real parts and imaginary parts separately.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the real numbers \(x\) and \(y\) such that \((x+3) + (2y-1)i = 7 - 5i\).<br>Comparing real parts:<br>\[x + 3 = 7\]\[\boxed{x = 4}\]Comparing imaginary parts:<br>\[2y - 1 = -5\]\[2y = -4\]\[\boxed{y = -2}\]</div>
+
+<h3>The complex conjugate</h3>
+<div class="formula-box" data-term="Complex conjugate">The conjugate of \(z = a + bi\) is denoted \(\overline{z}\) and defined by:<br>\[\overline{z} = a - bi\]The conjugate is formed by reversing the sign of the imaginary part only. The product of a complex number and its conjugate is always a non-negative real number:<br>\[z\overline{z} = (a+bi)(a-bi) = a^2 + b^2\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the conjugate of \(z = -5 + 9i\), and verify that \(z\overline{z}\) is a real number.<br>\[\boxed{\overline{z} = -5 - 9i}\]\[z\overline{z} = (-5+9i)(-5-9i) = (-5)^2 + 9^2\]\[z\overline{z} = 25 + 81\]\[\boxed{z\overline{z} = 106}\]</div>
+
+<h3>The complex plane (Argand diagram)</h3>
+<div class="formula-box" data-term="Argand diagram">A complex number \(z = a + bi\) can be represented as the point \((a, b)\) in the complex plane, also called the Argand diagram or Gauss plane. The horizontal axis is the real axis and the vertical axis is the imaginary axis; the real part \(a\) is measured along the real axis and the imaginary part \(b\) along the imaginary axis. Equivalently, \(z\) can be represented as a vector from the origin \((0,0)\) to the point \((a, b)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Plot \(z_1 = 4 + 3i\) and \(z_2 = -2 - 5i\) in the complex plane, and state the quadrant of each point.<br>\(z_1 = 4 + 3i\) corresponds to the point \((4, 3)\):<br>\[\boxed{z_1 \text{ lies in the first quadrant}}\]\(z_2 = -2 - 5i\) corresponds to the point \((-2, -5)\):<br>\[\boxed{z_2 \text{ lies in the third quadrant}}\]</div>
+
+<h3>Real numbers and purely imaginary numbers as special cases</h3>
+<div class="formula-box">A complex number \(z = a + bi\) is real if and only if \(\text{Im}(z) = 0\), so that \(z\) lies on the real axis. The number \(z\) is purely imaginary if and only if \(\text{Re}(z) = 0\) and \(\text{Im}(z) \neq 0\), so that \(z\) lies on the imaginary axis, away from the origin.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Let \(z = (k-3) + (2k+4)i\), where \(k\) is real. Find the value of \(k\) for which \(z\) is real, and the value of \(k\) for which \(z\) is purely imaginary.<br>For \(z\) to be real, \(\text{Im}(z) = 0\):<br>\[2k + 4 = 0\]\[\boxed{k = -2}\]For \(z\) to be purely imaginary, \(\text{Re}(z) = 0\) (and \(\text{Im}(z) \neq 0\)):<br>\[k - 3 = 0\]\[\boxed{k = 3}\]</div>
+</div>
