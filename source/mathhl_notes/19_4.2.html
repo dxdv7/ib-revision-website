@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>The number e as a limit</h3>
+<div class="formula-box" data-term="Definition of e">The number \(e\) is the irrational constant defined as the limit<br>\[e = \lim_{n \to \infty}\left(1+\frac{1}{n}\right)^n\]Equivalently, writing \(h=\dfrac{1}{n}\) so that \(h \to 0\) as \(n \to \infty\),<br>\[e = \lim_{h \to 0}(1+h)^{1/h}\]To twelve decimal places, \(e \approx 2.718281828459\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\left(1+\dfrac{1}{n}\right)^n\) for \(n=4\) and for \(n=100\), and state what value these approach as \(n \to \infty\).<br>\[\left(1+\frac{1}{4}\right)^4 = (1.25)^4\]\[\boxed{(1.25)^4 = 2.441406}\]\[\left(1+\frac{1}{100}\right)^{100} = (1.01)^{100}\]\[\boxed{(1.01)^{100} \approx 2.704814}\]As \(n \to \infty\), these values approach \(\boxed{e \approx 2.718281828459}\)</div>
+
+<h3>The defining rate-of-change property of e</h3>
+<div class="formula-box">For the exponential function \(y=e^x\), the average rate of change between \(x\) and \(x+h\) is<br>\[\frac{e^{x+h}-e^x}{h} = e^x\left(\frac{e^h-1}{h}\right)\]The irrational number \(e\) is the unique base for which<br>\[\lim_{h \to 0}\frac{e^h-1}{h} = 1\]so that the rate of change of \(y=e^x\) at any value of \(x\) equals \(e^x\) itself; this is the property that makes \(e\) the natural choice of base in calculus.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Evaluate \(\dfrac{e^h-1}{h}\) for \(h=0.01\) and for \(h=0.001\), and state what value this ratio approaches as \(h \to 0\).<br>\[\frac{e^{0.01}-1}{0.01}\]\[\boxed{\frac{e^{0.01}-1}{0.01} \approx 1.0050}\]\[\frac{e^{0.001}-1}{0.001}\]\[\boxed{\frac{e^{0.001}-1}{0.001} \approx 1.0005}\]As \(h \to 0\), the ratio approaches \(\boxed{1}\)</div>
+
+<h3>Continuously compounded interest</h3>
+<div class="formula-box" data-term="Continuous compound interest formula">As the number of compounding periods per year \(n \to \infty\), the compound interest formula \(A = P\left(1+\dfrac{r}{n}\right)^{nt}\) approaches continuous compounding:<br>\[A(t) = Pe^{rt}\]where \(P\) is the principal, \(r\) is the annual interest rate (as a decimal), and \(t\) is the time in years.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the amount after 12 years if $1500 is invested at an annual rate of 4.8%, compounded continuously.<br>\[A(12) = 1500e^{0.048(12)}\]\[A(12) = 1500e^{0.576}\]\[\boxed{A(12) \approx \$2668.36}\]</div>
+
+<h3>The natural exponential function</h3>
+<div class="formula-box" data-term="Natural exponential function">The natural exponential function is defined by<br>\[f(x) = e^x\]Its domain is all real numbers, \(x \in \mathbb{R}\), and its range is all positive real numbers, \(y>0\). Its graph passes through \((0,1)\), has horizontal asymptote \(y=0\), and is an increasing (growth) curve since \(e>1\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>State the horizontal asymptote, range and y-intercept of \(g(x) = e^x - 2\).<br>The graph of \(g\) is \(f(x)=e^x\) shifted down \(2\) units, so its asymptote shifts from \(y=0\) to \(y=-2\), and \(g(0) = e^0 - 2 = -1\).<br>\[\boxed{\text{asymptote } y=-2; \text{ range } y>-2; \text{ y-intercept } (0,-1)}\]</div>
+
+<h3>Continuous exponential growth and decay</h3>
+<div class="formula-box" data-term="Continuous growth/decay model">If an initial quantity \(P\) grows or decays continuously at a rate \(r\) over time \(t\), the amount is<br>\[A(t) = Pe^{rt}\]If \(r>0\) the quantity grows (continuous growth); if \(r<0\) the quantity decays (continuous decay).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A sample of 200 g of a substance decays continuously according to \(A(t) = 200e^{-0.08t}\), where \(t\) is measured in days. Find the mass remaining after 6 days.<br>\[A(6) = 200e^{-0.08(6)}\]\[A(6) = 200e^{-0.48}\]\[\boxed{A(6) \approx 123.8 \text{ g}}\]</div>
+
+<h3>Comparing discrete and continuous compounding</h3>
+<div class="formula-box">For the same principal \(P\), rate \(r\) and time \(t\), continuous compounding always gives a greater amount than compounding a finite number of times per year, since<br>\[e^{rt} = \lim_{n \to \infty}\left(1+\frac{r}{n}\right)^{nt} > \left(1+\frac{r}{n}\right)^{nt}\]for any finite \(n\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>$3000 is invested at an annual rate of 5% for 8 years. Compare the amount after 8 years when compounded annually versus compounded continuously.<br>Annually:<br>\[A = 3000(1.05)^8\]\[\boxed{A \approx \$4432.37}\]Continuously:<br>\[A = 3000e^{0.05(8)}\]\[\boxed{A \approx \$4475.47}\]</div>
+</div>
