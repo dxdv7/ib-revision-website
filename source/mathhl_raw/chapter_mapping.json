@@ -1,0 +1,130 @@
+[
+  {
+    "ch": 1,
+    "name": "Algebra and function basics",
+    "printed_start": 1,
+    "printed_end": 56,
+    "chars": 94468,
+    "file": "01_Algebra_and_function_basics"
+  },
+  {
+    "ch": 2,
+    "name": "Functions",
+    "printed_start": 57,
+    "printed_end": 106,
+    "chars": 84565,
+    "file": "02_Functions"
+  },
+  {
+    "ch": 3,
+    "name": "Sequences and series",
+    "printed_start": 107,
+    "printed_end": 160,
+    "chars": 83905,
+    "file": "03_Sequences_and_series"
+  },
+  {
+    "ch": 4,
+    "name": "Exponential and logarithmic functions",
+    "printed_start": 161,
+    "printed_end": 202,
+    "chars": 76151,
+    "file": "04_Exponential_and_logarithmic_functions"
+  },
+  {
+    "ch": 5,
+    "name": "Proofs",
+    "printed_start": 203,
+    "printed_end": 234,
+    "chars": 62589,
+    "file": "05_Proofs"
+  },
+  {
+    "ch": 6,
+    "name": "Trigonometric functions and equations",
+    "printed_start": 235,
+    "printed_end": 300,
+    "chars": 100299,
+    "file": "06_Trigonometric_functions_and_equations"
+  },
+  {
+    "ch": 7,
+    "name": "Geometry and trigonometry",
+    "printed_start": 301,
+    "printed_end": 344,
+    "chars": 75142,
+    "file": "07_Geometry_and_trigonometry"
+  },
+  {
+    "ch": 8,
+    "name": "Complex numbers",
+    "printed_start": 345,
+    "printed_end": 378,
+    "chars": 49858,
+    "file": "08_Complex_numbers"
+  },
+  {
+    "ch": 9,
+    "name": "Vectors lines and planes",
+    "printed_start": 379,
+    "printed_end": 448,
+    "chars": 112346,
+    "file": "09_Vectors_lines_and_planes"
+  },
+  {
+    "ch": 10,
+    "name": "Statistics",
+    "printed_start": 449,
+    "printed_end": 518,
+    "chars": 129831,
+    "file": "10_Statistics"
+  },
+  {
+    "ch": 11,
+    "name": "Probability",
+    "printed_start": 519,
+    "printed_end": 572,
+    "chars": 102946,
+    "file": "11_Probability"
+  },
+  {
+    "ch": 12,
+    "name": "Differential calculus 1",
+    "printed_start": 573,
+    "printed_end": 626,
+    "chars": 92553,
+    "file": "12_Differential_calculus_1"
+  },
+  {
+    "ch": 13,
+    "name": "Differential calculus 2",
+    "printed_start": 627,
+    "printed_end": 696,
+    "chars": 119668,
+    "file": "13_Differential_calculus_2"
+  },
+  {
+    "ch": 14,
+    "name": "Integral calculus 1",
+    "printed_start": 697,
+    "printed_end": 764,
+    "chars": 89874,
+    "file": "14_Integral_calculus_1"
+  },
+  {
+    "ch": 15,
+    "name": "Probability distributions",
+    "printed_start": 765,
+    "printed_end": 834,
+    "chars": 128827,
+    "file": "15_Probability_distributions"
+  },
+  {
+    "ch": 16,
+    "name": "Integral calculus 2",
+    "printed_start": 835,
+    "printed_end": 894,
+    "chars": 81676,
+    "file": "16_Integral_calculus_2"
+  }
+]

@@ -1,0 +1,2528 @@
+Exponential 
+and 
+logarithmic functions  
+
+162 
+Exponential and logarithmic functions 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« 
+exponential functions and their graphs 
+» 
+concepts of exponential growth and decay, and applications 
+o 
+the nature and significance of the number e 
+« 
+logarithmic functions and their graphs 
+» 
+properties of logarithms 
+« 
+solving equations involving exponential expressions 
+« 
+solving equations involving logarithmic expressions. 
+This chapter examines exponential and logarithmic functions. A variety of 
+functions have already been considered in this text: polynomial functions 
+(linear, quadratic and cubic functions), functions with radicals (the square 
+root function), rational functions (inverse and inverse square functions), and 
+absolute value functions. 
+Exponential functions help us model a wide variety of physical phenomena. 
+The natural exponential function (or simply, the exponential function), 
+fix) = e, is one of the most important functions in calculus. Exponential 
+functions and their applications - especially to situations involving growth 
+and decay - will be covered at length. 
+Logarithms, which were originally invented as a computational tool, lead 
+to logarithmic functions. These functions are closely related to exponential 
+functions and play an equally important part in calculus and a range of 
+applications. We will learn that certain exponential and logarithmic functions 
+are inverses of each other. 
+m 
+Exponential functions 
+Characteristics of exponential functio 
+The two equations y = x> and y = 2* are similar in that they both contain a 
+base and a power. In y = x?, the base is the variable x and the power is the 
+constant 2. In y = 2%, the base is the constant 2 and the power is the variable x. 
+The quadratic function y = x? is in the form ‘variable basecnstantpower’ ywhere 
+the base is a variable and the power is an integer greater than or equal to zero 
+(non-negative integer). Any function in this form is called a power function 
+(another type of polynomial function). 
+The function y = 2*is in the form ‘constant base"ieblepower’ ywhere the base 
+is a positive real number (not equal to one) and the power is a variable. Any 
+function in this form is called an exponential function.
+
+To illustrate a fundamental difference between exponential functions and 
+power functions, consider the function values for y = x?and y = 2* when 
+x is an integer from 0 to 10. Table 4.1 clearly shows how the values for the 
+exponential function eventually increase at a significantly faster rate than the 
+power function. 
+To demonstrate just how quickly y = 2¥ increases, consider what would happen if you were able to 
+repeatedly fold a piece of paper in half 50 times. A typical piece of paper is about five thousandths 
+of a centimetre thick. Each time you fold the paper, the thickness of the paper doubles, so after 50 
+folds the thickness of the folded paper is the height ofa stack of 250 pieces of paper. The thickness 
+of the paper after being folded 50 times would be 250 X 0,005 cm which is more than 56 million 
+kilometres (nearly 35 million miles)! Compare that with the height of a stack of 50 pieces of 
+paper, which would be a meagre 12.5 centimetres — only 0.000125 kilometres. 
+Another important point to make is that power (and polynomial) functions 
+can easily be defined, and computed, for any real number. For any power 
+function y = x", where n is any positive integer, y is found by simply taking x and 
+repeatedly multiplying it # times. Hence, x can be any real number. For example, 
+for the power function 
+y = x3, if x = 77, then y = 7> 
+~ 31.00619811.... Since a 
+power function like y = x? is defined for all real numbers, we can graph itasa 
+continuous curve so that every real number is the x-coordinate of some point 
+on the curve. What about the exponential function y = 2*? Can we compute 
+a value for y for any real number x? Before we try, let’s first consider x being 
+any rational number and recall the laws of powers (see margin note). 
+We also covered the definition of a rational exponent. 
+From these established facts, we are able to compute b* (b > 0) when x is any 
+rational number. For example, b*7 = b™ g represents the 10th root of b raised to 
+the 47th power ('V57). 
+Graphs of exponential functions 
+Using this definition of irrational powers, we can now construct a complete 
+graph of any exponential function fix) = b* such that b is a number greater than 
+zero (b # 1) and x is any real number. 
+Example 4.1 
+Graph each exponential function on the same set of axes by plotting points. 
+fix) = 3*and gx) = (%) 
+| 
+Solution 
+Calculate values for each function for integral values of x from —3 to 3. 
+Knowing that exponential functions are defined for all real numbers (not 
+just integers), we can sketch a smooth curve, shown in the graph, filling in 
+between the ordered pairs, shown in the table. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x | y=x*] 
+y=2* 
+0 
+0 
+1 
+1 
+1 
+2 
+2 
+4 
+4 
+3 
+9 
+8 
+4 
+16 
+16 
+5 
+25 
+32 
+6 
+36 
+64 
+7 
+49 
+128 
+8 
+64 
+256 
+9 
+81 
+512 
+10 | 
+100 | 
+1024 
+ 
+ 
+ 
+ 
+  
+Table 4.1 Contrast between 
+power function and exponential 
+function 
+Forb>0andm,ncQ 
+(rational numbers): 
+. = pmtn 
+B e 
+= 
+- 
+bO 
+p—m=— 
+  
+Forb>0andm,n € Z 
+(integers): 
+b5 =5 = (8" 
+163
+
+164 
+Exponential and logarithmic functions 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+x 
+flx) =3¢ 
+o) = (%) 
+1 
+3 
+- 
+27 
+27 
+5 
+=0 
+= 
+9 
+9 
+- 
+iy 
+1 
+3 
+3 
+0 
+1 
+1 
+1 
+1 
+3 
+3 
+3 
+2 
+9 
+= 
+9 
+1 
+3 
+27 
+— 
+27 
+ 
+ 
+ 
+  
+  
+Remember that in Section 1.5 we established that the graph of y = fi—x) is 
+obtained by reflecting the graph of y = flx) in the y-axis. It is clear that the 
+graph of function g is a reflection of function fin the y-axis. We can use 
+some laws of powers to show that g(x) = fi—x). 
+S0 (%)x:§:§: SR 
+It is useful to point out that both of the graphs, y = 3*and 
+y = (%) 
+, pass 
+a 
+through the point (0, 1) and have a horizontal asymptote of y = 0 (x-axis). 
+The same is true for the graph of all exponential functions in the form y = b* 
+given that b # 1. If b = 
+1, then y = 1* = 1, and the graph is a horizontal line 
+rather than a constantly increasing or decreasing curve. 
+1fb> 0 and b # 1, an exponential function with base b s the function defined by fix) = b* 
+‘The domain of fis the set of real numbers (x € R) and the range of fis the set of positive real 
+numbers (y > 0). The graph of fpasses through (0, 1), has the x-axis as a horizontal asymptote, 
+and, depending on the value of the base of the exponential function b, will either be a continually 
+increasing exponential growth curve or a continually decreasing exponential decay curve. 
+  
+y 
+¥y 
+(0,1) 
+(0,1) 
+ol 
+x 
+of 
+% 
+fix) = b forb>1 
+fix) =bfor0<b<1 
+as.x — 00, flx) — 00 
+as x — o0, flx) — 0 
+fis an increasing function 
+fis adecreasing function 
+exponential growth curve 
+exponential decay curve
+
+The graphs of all exponential functions will display a characteristic 
+growth or decay curve. As we shall see, many natural phenomena exhibit 
+exponential growth or decay. Also, the graphs of exponential functions behave 
+asymptotically for either very large positive values of x (decay curve) or very 
+large negative values of x (growth curve). This means that there will exist a 
+horizontal line that the graph will approach but not intersect as either x — oo 
+orasx— —0oo. 
+Transformations of exponential functions 
+Recalling from Section 1.5 how the graphs of functions are translated and 
+reflected, we can efficiently sketch the graph of many exponential functions. 
+Example 4.2 
+Using the graph of fix) = 2% sketch the graph 
+of each function below. State the domain and 
+range for each function and the equation of its 
+horizontal asymptote. 
+(a) go)=2*+3 
+(b) hy=27* 
+(€) pev = —2% 
+(d) r(x) =25 
+  
+Solution 
+(a) The graph of g(x) = 2* + 3 can be obtained by translating the graph of 
+fix) = 2* vertically three units up. 
+7 
+The horizontal asymptote for gis y = 3. 
+iy 
+For function g, the domain is x € R 
+B 
+and the range is y > 3. 
+2,7) 
+  
+165
+
+Exponential and logarithmic functions 
+(b) The graph of h(x) = 2* can be obtained 
+by reflecting the graph of fix) = 2*in 
+the y-axis. 
+The horizontal asymptote is 
+y = 0 (x-axis). 
+For function h, the domain is 
+x € R and the range is y > 0. 
+e 
+The graph of p(x) = —2* can be obtained 
+by reflecting the graph of fix) = 2% in the 
+y-axis. For function p, the domain is 
+x € R and the range is y < 0. 
+The horizontal asymptote is y = 0 (x-axis). 
+(d) The graph of r(x) = 2% 
+* can be obtained 
+by translating the graph of fix) = 2* four 
+units to the right. For function r, the 
+domain is x € R and the range is y > 0. 
+The horizontal asymptote is y = 0 (x-axis).   
+ 
+166
+
+Note that for function p in part (c) of Example 4.2, the horizontal asymptote 
+is an upper bound (no function value is equal to or greater than y = 0). 
+Whereas, in parts (a), (b), and (d), the horizontal asymptote for each function 
+is a lower bound (no function value is equal to or less than the 
+y value of the asymptote). 
+Exponential growth and decay 
+  
+Mathematical models of growt 
+decay 
+Exponential functions are well suited as a mathematical model for a wide variety 
+of steadily increasing or decreasing phenomena of many kinds, including 
+population growth (or decline), investment of money with compound interest, 
+and radioactive decay. Recall from the previous chapter that the formula for 
+finding terms in a geometric sequence (repeated multiplication by common 
+ratio r) is an exponential function. Many instances of growth or decay occur 
+exponentially (repeated multiplication by a growth or decay factor). 
+Exponential models are equations of the form A() = A, b', where A4y # 0,b> 0,and b # L. 
+At is the amount after time . A(0) = A9 b = Ay (1) = Ay, s0 Ay i called the initial amount 
+(often the value at time ¢ = 0). Ifb > 1, then A(f) is an exponential growth model, and if 
+0<b < 1, then A() is an exponential decay model. The value of b, the base of the exponential 
+function, is often called the growth or decay factor. 
+Example 4.3 
+A sample count of bacteria in a culture indicates that the number of bacteria 
+is doubling every hour. The estimated count at 15:00 was 12 000 bacteria. 
+(a) Find the estimated count three hours earlier (at 12:00). 
+(b) Write an exponential growth function for the number of bacteria at 
+t hours after 12:00. 
+| 
+Solution 
+(a) Consider the time at 12:00 to be the starting, or initial, time and label it 
+t = 0 hours. Then the time at 15:00 is t = 3. The amount of bacteria at 
+any time ¢ (in hours) will double after an hour so the growth factor, b, is 2. 
+Therefore, A(t) = A,(2)". Knowing that A(3) = 12000, compute A, 
+12000 = A,(2)* = 12000 = 84, = A, = 1500. Therefore, the estimated 
+count at 12:00 was 1500 bacteria. 
+(b) The growth function for the number of bacteria ¢ hours after 12:00 is 
+A = 1500(2)". 
+167
+
+Ifa certain initial 
+amount, Ay, of material 
+decrea: 
+of h, the amount of 
+ises with a half-life 
+‘material that remains 
+at time ¢ s given by the 
+mod 
+exponential decay 
+el Al = Ao(%)i. 
+‘The time units for & and ¢ 
+168 
+must be the same. 
+Exponential and logarithmic functions 
+Radioactive material decays at exponential rates. The half-life is the time it 
+takes for a given amount of material to decrease to half of its original amount. 
+An exponential function that models the activity of a radioactive source with a 
+k 
+known value for the half-life, i, will be of the form A(f) = A, (%) 
+‘where the 
+growth factor is % and k represents the number of half-lives that have occurred 
+(the number of times that A, is multiplied by %) If t represents the amount of 
+time, then the number of half-lives will be i 
+For example, if the half-life of a certain material is 25 days and the amount 
+of time that has passed since measuring the amount A, is 75 days, then the 
+=t 
+75, 
+4 
+number of half-lives is k = — = w3 and activity is equal to A, (%) =3 
+Example 4.4 
+| 
+The half-life of radioactive carbon-14 is approximately 5730 years. 
+What percentage of carbon-14 remains after 15000 years? 
+] 
+Solution 
+The exponential decay model for the carbon-14 is A(t) = A, (%) el 
+= 
+After 15000 years: A(15000) = A, (%) T 2 0.163 Ay. Thus, 16.3% of the 
+carbon-14 remains. 
+Compound interest 
+Recall from Chapter 3 that exponential functions occur in calculating compound 
+interest. If an initial amount of money P, called the principal, is invested at an 
+interest rate r per time period, then after one time period the amount of interest 
+is P X rand the total amount of money is A = P + Pr = P(1 + r). If the interest 
+is added to the principal, then the new principal is P(1 + r), and the total amount 
+after another time period is A = P(1 + r)(1 + 1) = P(1 + )2 In the same way, after 
+a third time period the amount is A = P(1 + r)*. In general, after k periods the 
+total amount is A = P(I + r)¥, an exponential function with growth factor 1 + r. 
+For example, if the amount of money in a bank account is earning interest at a 
+rate of 6.5% per time period, then the growth factor is 1 + 0.065 = 1.065. Is it 
+possible for r to be negative? Yes, if an amount (not just money) is decreasing. 
+For example, if the population of a town is decreasing by 12% per time period, 
+then the decay factoris 1 — 0.12 = 0.88. 
+For compound interest, if the annual interest rate is r and interest is 
+compounded (number of times added in) # times per year, then for each time 
+period the interest rate is ., and there are 5 x ¢ time periods in f years. 
+Compound interest formula 
+‘The exponential function for calculating the amount of money after f years, A(f), where Pis the 
+initial amount or principal, the annual interest rate is r, and the number of times interest is 
+compounded per yearis ,is given by (0 = P(1 + L)'
+
+Example 4.5 
+An initial amount of 1000 euros is deposited into an account earning 5.25% 
+interest per year. Find the amount in the account after 8 years if interest is 
+compounded annually, semiannually, quarterly, monthly, and daily. 
+Solution 
+We use the exponential function associated with compound interest with 
+values of P = 1000, r = 0.0525 and t = 8 to compute the results below. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Compounding 
+n 
+Amount (€) after 8 years 
+Annually 
+1 
+1000(1 + 0'01525)3 = 1505.83 
+Semiannually 
+B 
+1000 (1 L )2 = 151374 
+Quarterly 
+4 
+1000 (1 oe0: "525)“” = 151781 
+Monthly 
+12 
+1000 (1 20 "5;25)‘ = 152057 
+Daily 
+365 
+1000 (1 + 4 0525)“5(5) = 1521.92 
+  
+Example 4.6 
+A new car is purchased for $22,000. If the value of the car decreases 
+(depreciates) at a rate of approximately 15% per year, what will be the 
+approximate value of the car to the nearest whole dollar in 4.5 years? 
+Solution 
+The decay factor for the exponential functionis 1 — r =1 — 0.15 = 0.85. 
+In other words, after each year the car’s value is 85% of what it was one year 
+before. We use the exponential decay model A(f) = A, b’ with values 
+Ay =22000,b = 0.85and t = 4.5. 
+A(4.5) = 22000 (0.85)* ~ 10 588 
+In 4.5 years, the value of the car will be approximately $10,588. 
+Exercise 4.1 & 4.2 
+1. (a) Write the equation for an exponential equation with base b > 0. 
+(b) Given b # 1, state the domain and range of this function. 
+(c) Sketch the general shape of the graph of this exponential function 
+for each of two cases: 
+() b>1 
+(i) 0<b<1 
+169
+
+170 
+Exponential and logarithmic functions 
+. Sketch a graph of each function below and state: 
+(i) 
+the coordinates of any x-intercept(s) and y-intercept 
+(ii) 
+the equation of any asymptote(s) 
+(iii) the domain and range. 
+(a) fiy) = 3x+ 
+(b) gy =—25+8 
+(0) hy=4—%—1 
+(d) ptx) =   
+le, 
+I 
+(€ q=3B"9-3 
+(f) kog=2""2+1 
+. A general exponential function is written in the form fix) = a(b)*< + d. 
+State the domain, range, y-intercept and the equation of the horizontal 
+asymptote in terms of the parameters a, b, c and d. 
+. Using your GDC and a graph viewing window with Xmin = —2, 
+Xmax = 2, Ymin = 0 and Ymax = 4, sketch a graph for each 
+exponential equation below on the same set of axes. 
+(a) y=2* 
+(b} y =4 
+(c) y=8* 
+@ y=2~ 
+By 
+() y=8-= 
+. Write equations that are equivalent to the equations in question 4 (d), 
+(e) and (f) but have a power of positive x rather than negative x. 
+. If 1 < a < b, then which is steeper: the graph of y = a* or y = b*? Why? 
+. The population of 
+a city triples every 25 years. At time t = 0, the 
+population is 100 000. Write a function for the population P(t) as a 
+function of t. Find the population after: 
+(a) 50 years 
+(b) 70 years 
+(c) 
+100 years 
+. An experiment involves a colony of bacteria in a solution. The number 
+of bacteria doubles approximately every 3 minutes and the number 
+of bacteria at the start of the experiment is 10*. Write a function 
+for the number of bacteria N(t) as a function of ¢ (in minutes). Find 
+approximately how many bacteria there are after: 
+(a) 
+3 minutes 
+(b) 9 minutes 
+(c) 
+27 minutes 
+(d) one hour 
+. A bank offers an investment account that will double your money in 
+10 years. 
+(a) Express A(f), the amount of money in the account after ¢ years, in 
+the form A(H) = A, (n". 
+(b) 
+If interest was added into the account just once at the end of each 
+year (simple interest), then find the annual interest rate for the 
+account (to 3 significant figures).
+
+10. 
+% 
+12. 
+5% 
+14. 
+153 
+16. 
+$10,000 is invested at an annual interest rate of 11%, compounded 
+quarterly. Find the value of the investment after: 
+(a) 
+5 years 
+(b) 
+10 years 
+(c) 
+15 years 
+A sum of $5000 is deposited into an investment account that earns 
+interest at a rate of 9% per year, compounded monthly. 
+(a) Write the function A(f) that computes the value of the investment 
+after t years. 
+(b) Use your GDC to sketch a graph of A(#) with values of ¢ on the 
+horizontal axis ranging from t = 0 years to t = 25 years. 
+(c) Use the graph on your GDC to determine the minimum number of 
+years (to the nearest whole year) for this investment to have a value 
+greater than $20,000. 
+$10,000 is invested at an annual interest rate of 11% for a period of 
+5 years. Find the value of the investment for each compounding period. 
+(a) annually 
+(b) monthly 
+(c) daily 
+(d) hourly 
+Imagine a bank account that has the fantastic annual interest rate of 
+100%. Assume we deposit $1 into this account. Exactly one year later, 
+how much will be in the account for each compounding period? 
+(a) annually 
+(b) monthly 
+(c) 
+daily 
+(d) hourly 
+(e) every minute 
+Each year for the past eight years, the population of deer in a certain 
+national park increased at a steady rate of 3.2% per year. The present 
+population is approximately 248 000. 
+(a) What was the approximate number of deer one year ago? 
+(b) What was the approximate number of deer eight years ago? 
+Radioactive carbon-14 has a half-life of 5730 years. The remains of 
+an animal are found 20 000 years after it died. Approximately what 
+percentage (to 3 significant figures) of the original amount of carbon-14 
+(when the animal was alive) would we expect to find? 
+The amount of a drug in the bloodstream of a patient decays 
+exponentially with a half-life of 36 hours after entering the patient’s 
+bloodstream. An amount of the drug, Ay, is injected into the 
+bloodstream at 12:00 on Monday. How much of the drug will be in the 
+patient’s bloodstream five days later (12:00 on Saturday)? 
+1
+
+Exponential and logarithmic functions 
+17. An open can is filled with 1000 ml of fluid that evaporates at a rate of 
+30% per week. 
+(a) Write a function, A(w), that gives the amount of fluid after w weeks. 
+(b) Use your GDC to find how many weeks (to the nearest whole 
+number) it will take for the volume of fluid to be less than 1 ml. 
+18. Why are exponential functions of the form fix) = b* defined so that 
+loz 
+1 
+19. You are offered a highly paid job that lasts for just 30 days. How much 
+would you get paid for the payment plan, I or II, that offers the larger 
+salary? 
+I 
+One dollar on the first day of the month, two dollars on the second 
+day, three dollars on the third day, and so on (getting paid one dollar 
+more each day), for 30 days. 
+II 
+One cent ($0.01) on the first day, two cents ($0.02) on the second 
+day, four cents on the third day, eight cents on the fourth day and 
+50 on (each day getting paid double from the previous day), for 
+30 days. 
+20. Each exponential function graphed here can be written in the form 
+fix) = k(a)*. Find the value of 
+a and k for each. 
+(a) 
+(b) 
+   
+  
+(1,-12) 
+  
+172
+
+The number e 
+In an exponential function, f(x) = b% b is any positive constant and x is any real 
+number. Graphs of y = b* for a few values where b = 1 are shown in Figure 4.1. 
+As noted in Section 4.1, all the graphs pass through the point (0, 1). 
+The question arises: what is the best number to choose for the base b? 
+There is a good argument for b = 10 since we most commonly use a base 10 
+number system. Your GDC will have the expression 10* as a built-in command. 
+  
+The base b = 2 is also plausible because a binary number system (base 2) is 
+Figure 4.1 Graphs of y = b* 
+used in many processes, especially in computer systems. However, the most 
+for some values when b = 
+1 
+important base is an irrational number that is denoted by the letter e. 
+As we will see, the value of 
+e to 5 decimal places is 2.71828. 
+The constant 
+e is of 
+The importance of 
+e will be clearer when we get to calculus topics. The number 
+e e 
+significance and it 
+7 (another very useful irrational number) has a natural geometric significance 
+appears ‘naturally’ in 
+as the ratio of circumference to diameter for any circle. The number e also 
+many mathematical 
+occurs in a ‘natural’ manner. We will illustrate this in two different ways: first, 
+e Jakob 
+e 
+5 
+5 
+Bernoulli first observed e 
+by considering the rate of change of an exponential function, and second, by 
+when studying sequences 
+re-visiting compound interest and considering continuous change rather than 
+of numbers in connection 
+incremental change. 
+to compound interest 
+problems. 
+Rate of change (slope) of an exponential function 
+Since exponential functions (and associated logarithmic functions) are very 
+important in calculus, the criteria we will use to determine the best value for b 
+will be based on considering the slope of the curve y = b*. In calculus, we are 
+interested in the rate of change (the slope of the graph of functions). Our goal 
+is to find a value for b such that the slope of the graph of y = b* at a particular 
+value of x is equal to the function value y. We could investigate this by trial and 
+error (and with a GDC this might prove fruitful) but it would not guarantee us 
+an exact value and it could prove inefficient. Let’s narrow our investigation to 
+studying the slope of the curves at the point (0, 1), which is convenient because 
+it is shared by all the curves. 
+  
+¥ 
+To obtain a good estimate for the value of e we will use the diagram in 
+Figure 4.2, where the scales on the x- and y-axes are equal and P(0, 1) is the 
+y-intercept of the graph of 
+y = e*. Q is a point close to point P with coordinates 
+(h, €. PR and RQ are parallel to the x- and y-axes, respectively, and they 
+©n   
+intersect at point R(h, 1). The slope of the curve is always changing. It is not 
+constant as with a straight line. As we will justify more thoroughly in our study 
+z 
+of differential calculus in Chapter 12, the slope of a curve at a point will be 
+equal to the slope of the line tangent to the curve at that point. PS is the tangent 
+Ol«—h— 
+x 
+line to the curve at P, intersecting RQ at S. So, we are looking for the value e 
+ 
+  
+ 
+Figure 4.2 Graph of 
+  
+  
+such that the slope of the tangent line PS is equal to 1. It follows that &S _y 
+y = 
+¢ 
+theslope of the 
+PR 
+tangent line 
+PS is equal 
+and because PR = h then RS = h. Since we have chosen Q close to P, we can 
+tol 
+173
+
+Exponential and logarithmic functions 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+R 
+R 
+I 
+T 
+assume that & is very small. Therefore, RS ~ RQ and R_(S) ~ 1. The value ofR—(S2 
+0.1 
+2.593742... 
+will get closer and closer to the value of 1 as h gets smaller (as Q gets closer 
+001 
+2704814 
+to P). Since the y-coordinate of 
+R is 1, then RQ = e’ — 1. Substituting h for 
+X 
+i 
+R 
+i 
+0061 
+ST 
+RSand e’ — 
+1 for RQ into R—? =~ 1, gives &—— 
+& 1. We wish to obtain an 
+0.0001 
+2718146... 
+estimate for e so we multiply through by h to gete” — 
+1 ~ h leading to 
+0.00001 
+2.718268... 
+el ~ h + 1. To isolate e we raise both sides to the % power, finally producing 
+1 
+0.000001 | 2.718280... 
+e (1+hk 
+0.0000001 | 2.718282... 
+If h is made small enough, the expression above should give a good estimation 
+Table 4.2 Values for 
+of the value of e. Using the approximation e ~ (1 + h)?, Table 4.2 shows values 
+e~ (1 + 
+h)*as h approaches 
+for e as h approaches zero. 
+zero (accuracy to 7 significant 
+figures). To an 
+accuracy of six 
+eis defined as 
+significant figure: 
+o }ina(l + byt 
+that the value of 
+1 
+‘The definition is read ‘e equals the limit of (1 + k)" as h goes to zero. 
+  
+   
+Geometrically speaking, as point Q gets closer to point P (h — 0), and also 
+closer to point S, we wanted the slope of the tangent line at (0, 1), %, to be 
+ekl 
+equal to 1. This is the same as saying that we wanted 
+L tash—0 
+  
+(see coloured triangle in Figure 4.3). The value of e approximated to increasing 
+accuracy in Table 4.2 is the number that makes this happen. A non-geometrical 
+way of describing this feature of the graph is to say that the rate of change 
+(slope) of the function y = e*at x = 0 is equal to 1. 
+The rate of change of 
+y = e* at a general value of 
+x (Figure 4.4) can be obtained 
+in the same way by fixing point P on the curve with coordinates (x, e*) and a 
+  
+Figure 4.3 Atx = 0, the rate of 
+  
+  
+  
+  
+change of y = e*is equal to 1 
+nearby point Q with coordinates (x + h, e**%). Then the rate of change of 
+xth _ 
+ox 
+y=e 
+the function at point P is < 
+€ 
+as h — 0. We cannot evaluate the limit 
+exth _ gx 
+of — 
+h — 0 directly by substituting 0 for h. By applying some algebra 
+h_ 
+and knowing that €=l 
+L jasho 0, we can evaluate the required limit. 
+wth_ex 
+ exgh—er 
+ exleh 
+— 1) 
+eh 1 
+Ash—0, & —C €€ 7€ T8 = 
+e 
+er.l=e* 
+h 
+h 
+h 
+5 
+Therefore, for any value of x, the rate of change of the function y = e*is e*. 
+Figure 4.4 The rate of change of 
+In other words, the rate of change of the function at any value in the domain 
+y = e*ata general value of x 
+(x) is equal to the corresponding value of the range (). This is the amazing 
+feature of 
+y = e* that makes e the most useful and ‘natural’ choice for the base 
+of an exponential function, and the irrational number e ~ 2.71828... is the 
+only base for which this is true. 
+Continuously compounded interest 
+In Section 4.2 and in Chapter 3, we computed amounts of money resulting 
+from an initial amount (principal) with interest being compounded (added in) 
+174
+
+at discrete intervals (e.g. yearly, monthly, daily). In the formula that we 
+used, A(t) = P(l + —:[)m, n is the number of times that interest is compounded 
+per year. Instead of adding interest only at discrete intervals, let’s investigate 
+what happens if we try to add interest continuously; that is, let the value of n 
+increase without bound (n — oc). 
+As described in question 13 in Exercise 4.1 & 4.2, consider investing just $1 at a 
+very generous annual interest rate of 100%. How much will be in the account at 
+the end of just one year? It depends on how often the interest is compounded; 
+in other words, it depends on the value of 7 in the compound interest formula 
+Alt)=P (1 + —E)nl. See Table 4.3 for results for different values of n. 
+As the number of compounding periods during the year, n, increases, the 
+amount at the end of the year appears to approach a limiting value. We realise 
+that as n — oo, the quantity of(l + —i;)" approaches the number e. To twelve 
+decimal places, e is 2.718281828459. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+Compounding 
+n 
+After 1 year 
+Annually 
+1 
+2 
+Semiannually 
+2 
+225 
+Quarterly 
+4 
+2.44140625.... 
+Monthly 
+12 
+2.61303529022... 
+Daily 
+365 
+2.71456748202... 
+T 
+Hourly 
+8760 
+2.71812669063.... 
+e=lim (1+1)' 
+Aty 
+Every minute 
+525600 
+2.7182792154... 
+The definition is read 
+‘e equals the limit of 
+Every second 
+31536000 
+2.71828247254.... 
+(L+ )" 
+. 
+) 
+asngoesto 
+  
+Table 4.3 Values for (1+ 1) as 1 — oo 
+infinity 
+Note that the two definitions for the number e are equivalent. Take our first 
+limit definition for ¢ e = lim (1 + h)". Letting % = n, it follows that h = % and 
+as 
+h — 0 then n — co. Substituting % for h, n for %, and evaluating the limit as 
+i 
+" 
+1 oo transforms lim (1 + h)¥ to lim (1 + 2 )", which is our second limit 
+=0 
+> 
+definition for e. 
+As the number of compoundings, #, increases without bound, we approach 
+continuous compounding where interest is being added continuously. In the 
+formula for calculating amounts resulting from compound interest, letting 
+=1 
+di 
+. 
+m = -, produces: 
+175
+
+Continuous compound 
+interest formula 
+An exponential function 
+for calculating the 
+amount of money 
+after tyears, A(f), for 
+interest compounded 
+continuously, where P 
+is the initial amount or 
+principal and ris the 
+annual interest rate, is 
+given by A(f) = Pe'" 
+The natural exponential 
+function is the function 
+defined as i) = e* 
+As with other exponential 
+functions, the domain of 
+the natural exponential 
+function is the set of all 
+real numbers (x € R), 
+and ts range is the set of 
+positive numbers (y > 0). 
+‘The natural exponential 
+function is often referred 
+to.as the exponential 
+function. 
+176 
+Exponential and logarithmic functions 
+)" =efle T 
+Now if n — oo and the interest rate r is constant, then % = m — oc. From the 
+Ap=P(1+1)" 
+= 
+  
+m 
+limit definition of e, we know that if m — oo, then (1 
++* %) 
+— e. Therefore, 
+rt 
+= Ple]’". 
+  
+for continuous compounding, it follows that A(f) = P [(1 + %) 
+This result is part of the reason that e is the best choice for the base of an 
+exponential function modelling change that occurs continually (e.g. radioactive 
+decay) rather than in discrete intervals. 
+Example 4.7 
+The starting balance of an investment account is 1000 euros. The account 
+earns interest at an annual rate of 5.25%. Assuming there are no further 
+withdrawals or deposits (other than interest), find the total amount in the 
+account after 10 years if the interest is added to the account: 
+(a) annually 
+(b) quarterly 
+(c) continuously 
+| 
+Solution 
+(a) A(B) = P(1 + r) = 1000(1 + 0.0525)!% = 1669.10 euros 
+() At =p(1+ )" = 1000(1 2 %)“" = 1684.70 euros 
+(¢) Alf) = Pe't = 1000 °%5210 = 1690.46 euros 
+The natural exponential function and continuous change 
+For many applications involving continuous change, the most suitable choice 
+for a mathematical model is an exponential function with a base having the 
+value of e. 
+The formula developed for continuously compounded interest does not apply 
+only to applications involving adding interest to financial accounts. It can be 
+used to model growth or decay of a quantity that is changing exponentially 
+(repeated multiplication by a constant ratio, or growth/decay factor) and 
+the change is continuous, or approaching continuous. Another version of a 
+formula for continuous change that we will learn more about in calculus is 
+stated below. 
+Continuous exponential growth/decay 
+Ifan initial quantity C (when t = 0) grows or decays continuously at a rate r over a certain time 
+period, then the amount A(f) after f time periods is given by the function (1) = Ce™. If r > 0, then 
+the quantity s increasing (growing). If 7 < 0, then the quantity is decreasing (decaying).
+
+Example 4.8 
+A particular commercial aeroplane costs $150 million new. The aeroplane 
+will lose value at a continuous rate. This is modelled by the continuous decay 
+function C(f) = 150e ~095* where C(t) is the value of the aeroplane 
+(in millions) after ¢ years. 
+(a) How much (to the nearest million dollars) would the aeroplane be 
+worth precisely five years after being purchased? 
+(b) If the aeroplane is purchased in 2020, what would be the first year that it 
+is worth less than half of its original cost? 
+(c) Find the value of b (to 4 significant figures) for a discrete decay model, 
+D(t) = 1500, so that D(t) is a suitable model to describe the same decay 
+as C(o). 
+e 
+——————————SSTTTTTTTSSSSS 
+Solution 
+(a) C5) = 150e 09536 
+v 115 
+The value is approximately $115 million after five years. 
+(b) Using a GDC, we graph the decay equation y = 150e ~%%53 and the 
+horizontal line y = 75 and determine the intersection point. 
+  
+Plotl 
+Plot2 
+Plot3 
+\Y15150e~(-.053X 
+Intersection 
+X=13.078249 Y=75 msasa| 
+  
+    
+  
+  
+  
+The x-coordinate of the intersection point is approximately 13.08. At 
+the start of 2023, the aeroplane’s value is not yet half of its original value. 
+Therefore, the first year that the aeroplane is worth less than half of its 
+original cost is 2024. 
+(c 
+One way to find the value of b so that D(t) = 150b" serves as a reasonable 
+substitute for C(t) = 150e ~°% is to compute some function values for C(¢) 
+and use them to compute the relative change from one year to the next. 
+C(1) = 150e ~00531) = 142.2570 
+C(2) = 150e ~0053® =~ 134.9137 
+C(3) = 150 ~00530) x 127.9495 
+1349137 — 142.2570 _, 
+142.2570 
+= 
+Compute relative change from year 2 to year 3 to make sure it agrees 
+with the result above. 
+Relative change from year 1 to year 2: 
+—0.05162 
+177
+
+178 
+Exponential and logarithmic functions 
+5 
+127.9495 — 1349137 
+Relative change from year 2 to year 3: g7~ —0.05162 
+The annual rate of decay, b, is the fraction of what remains after each 
+year. Thus, b = 1 — 0.05162 = 0.94838; and to 4 significant figures the 
+annual rate of decay is b &~ 0.9484. Therefore, the discrete decay model is 
+D(t) = 150(0.9484)' 
+To check that the two decay models give similar results for each year, we 
+can use a GDC to display a table of values for both models side by side 
+for easy comparison. 
+  
+  
+  
+ 
+  
+ 
+Plotl 
+Plot2 
+Plot3 
+X 
+Y1 
+Y2 
+\Y1E150e~(-.053X 
+S150er 
+(. 
+053K | 't 
+1120 
+\Y22150(.9484) 
+x| | 
+2 
+134:01 
+[134:32 
+1 
+12134 
+|121.34 
+\Y3= 
+5 
+115.08 [ 115.09 
+Y= 
+6 
+109.14 
+|109.15 
+\Ys= 
+X=0 
+ 
+ 
+ 
+  
+1. Sketch a graph of each function below and state: 
+(i) 
+the coordinates of any x-intercept(s) and y-intercept 
+(ii) 
+the equation of any asymptote(s) 
+(iii) the domain and range. 
+(a))fi) =zt 
+(L) o) = 
+) 
+(€) hw) = —2e* 
+@ pwy=ex—e 
+(e) hw) =   
+1 
+(f) 
+hoy) = el+2 — 
+1 
+s el 
+2. (a) State a definition of the number e as a limit. 
+(b) Evaluate (1 = £)" for n = 100, n = 10000 and 1 = 1000000. 
+(c) To 5 significant figures, what appears to be the value of 
+. 
+I 
+lim (1 = 7) 
+2 
+=00 
+(d) How does this number relate to the number e? 
+3. Use your GDC to graph the curve y = (1 + %) and the horizontal line 
+y = 2.72. Use a graph window so that x ranges from 0 to 20 and y ranges 
+from 0 to 3. Describe the behaviour of the graph of y = (l - %) 
+) 
+Will it ever intersect the graph of y = 2.722 Explain.
+
+4. Two different banks, Bank A and Bank B, offer accounts with exactly the 
+same annual interest rate of 6.85%. However, the account from Bank A 
+has the interest compounded monthly, whereas the account from Bank B 
+compounds the interest continuously. To decide which bank to open an 
+account with, you calculate the amount of interest you would earn after 
+three years from an initial deposit of 500 euros in each bank’s account. 
+It is assumed that you make no further deposits and no withdrawals 
+during the three years. 
+(a) How much interest would you earn from each of the accounts? 
+(b) Which bank’s account earns more, and how much more? 
+5. Dina wishes to deposit $1000 into an investment account and then 
+withdraw the total in the account in five years. She has the choice of two 
+different accounts. 
+Blue Star account: Interest is earned at an annual interest rate of 6.13% 
+compounded weekly (52 weeks in a year). 
+Red Star account: Interest is earned at an annual interest rate of 5.95% 
+compounded continuously. 
+(a) Which investment account will result in the greatest total at the end 
+of five years? 
+(b) What is the total after five years for this account? 
+(c) How much more is it than the total for the other account? 
+6. Strontium-90 is a radioactive isotope of strontium. Strontium-90 decays 
+according to the function A(f) = Ce~09%%, where ¢ is time in years and 
+Cis the initial amount of strontium-90 when ¢ = 0. Find the percentage 
+remaining of a sample of strontium-90 after: 
+(a) 
+1 year 
+(b) 
+10 years 
+(c) 
+100 years 
+(d) 250 years 
+7. A radioactive substance decays in such a way that the mass (in kilograms) 
+remaining after ¢ days is given by the function A(f) = 5 =037, 
+(a) Find the mass at time 
+= 0. 
+(b) What percentage of the initial mass remains after 10 days? 
+(c) On your GDC and then on paper, draw a graph of the function A(#) 
+for 0 = 
+t = 50. 
+(d) Use one of your graphs to approximate, to the nearest whole day, 
+the half-life of the radioactive substance. 
+8. Which of the given interest rates and compounding periods would 
+provide the best investment? 
+Option A 
+8.5% per year, compounded semiannually 
+Option B 
+8.25% per year, compounded quarterly 
+Option C 
+8% per year, compounded continuously 
+179
+
+180 
+Exponential and logarithmic functions 
+O 
+10. 
+s 
+In certain conditions, the bacteria that cause cholera, Vibrios cholerae, 
+can grow rapidly in number. In a laboratory experiment, a culture of 
+Vibrios cholerae is started with 20 bacteria. The bacteria’s growth is 
+modelled with the continuous growth model A(f) = 20e°%% where A(f) 
+is the number of bacteria after t minutes. 
+(a) Determine the value of  for the discrete growth model B(t) = 20(r)", 
+so that B(#) is equivalent to A(). 
+(b) For both of these models, by what percentage does the number of 
+bacteria grow each minute? 
+By comparing the graph of each of the following equations to the graph 
+of y = e, determine if the slope of the tangent line at the point (0, 1) for 
+the graph of each equation is less than or equal to 1. 
+@y=2 
+o= 
+ @r=(E) 
+@y 
+£1000 is invested at 4.5% annual interest, compounded continuously. 
+(a) How much money is in the account after 10 years? After 20 years? 
+(b) Use your GDC to determine how many years (to the nearest tenth of 
+a year) it takes for the initial investment to double to £2000. 
+(c) If£5000 is invested at the same rate of interest and also compounded 
+continuously, how many years (to the nearest tenth) would it take to 
+double? 
+(d) Are the answers to (b) and (c) the same or different? Why? 
+Logarithmic functions 
+In Example 4.7 (c), we used the equation A(#) = 1000e %97 to compute 
+the amount of money in an account after  years. Now suppose we wish to 
+determine how much time, ¢, it takes for the initial investment of 1000 euros 
+to double. To find this, we need to solve the following equation for t: 
+2000 = 1000e *975¢ = 2 = ¢ %07, The unknown ¢ is in the exponent. At 
+this point in the book, we do not have an algebraic method to solve such an 
+equation, but developing the concept of a logarithm will provide us with the 
+means to do so. 
+The inverse of an exponential function 
+For b > 1, an exponential function with base b is increasing for all x, and for 
+0 < b < 1 an exponential function is decreasing for all x. It follows from this 
+that all exponential functions must be one-to-one. Recall from Section 1.4 
+that a one-to-one function passes both a vertical line test and a horizontal line 
+test. We demonstrated that an inverse function would exist for any one-to-one 
+function. Therefore, an exponential function with base b such that b > 0 and
+
+b # 1 will have an inverse function, which is given in the Key fact box. Also 
+recall from Section 1.4 that the domain of a function f(x) is the range of its 
+inverse function f~!(x), and, similarly, the range of f(x) is the domain of f~!(x). 
+The domain and range are switched around for a function and its inverse. 
+Logarithmic expressions and equations 
+When evaluating logarithms, note that a logarithm is an exponent. This means 
+that the value of log,,x is the power to which b must be raised to obtain x. 
+For example, log,8 = 3 because 2 must be raised to the power of 3 to obtain 8. 
+That is, log,8 = 3 ifand only if 2° = 8. 
+We can use the definition of a logarithmic function to translate a logarithmic 
+equation into an exponential equation and vice versa. When doing this it is 
+helpful to remember, as the definition stated, that in either form (logarithmic 
+or exponential) the base is the same. 
+logarithmic equation 
+exponential equation 
+exponent 
+exponent 
+y = logyx 
+x= ?y 
+base 
+base 
+Example 4.9 
+Find the value of each logarithm. 
+(a) log49 
+ (b) logs(é) 
+(0) loge/& 
+ (d) log,64 
+ (e) log,,0.001 
+Solution 
+We set each logarithmic expression equal to y and use the definition of a 
+logarithmic function to obtain an equivalent equation in exponential form. 
+We then solve for y by applying the logical fact that if b > 0, b # 1 and 
+b’ = b* theny = k. 
+(a) Lety = log;49, which is equivalent to the exponential equation 77 = 49. 
+Since 49 = 72, then 7 = 72 Therefore, y = 2 = log49 = 2 
+(b) Lety = logs(é), which is equivalent to the exponential equation 57 = 
+nj— 
+Sinceé = 571, then 57 = 571, Therefore,y = —1 = logs(%) = 
+(c) Lety = logsV6, which is equivalent to the exponential equation 6” = V6. 
+Since V6 = 6% then 6 = 6. Therefore, y = % = log,/6 = % 
+(d) Let y = log,64, which is equivalent to the exponential equation 47 = 64. 
+Since 64 = 4%, then 47 = 4. Therefore, y = 3 = log,64 =3 
+Forb>0and 
+b+ 1, the 
+logarithmic function 
+= logyx (read 
+logarithm with base b 
+of ) is the inverse of 
+the exponential function 
+with base b. 
+= logxifand only if 
+x=b 
+‘The domain of the 
+logarithmic function 
+= logpxis the set of 
+positive numbers 
+(x> 0) and its range is 
+all real numbers (y € R). 
+181
+
+  
+Figure 4.5 Reflection of 
+y = log, xintheliney = x 
+Properties of 
+logarithms I 
+Forb>0and 
+b# 1, the 
+following statements are 
+true: 
+1 
+logy1=0because 
+=1 
+2. 
+logyb = 1because 
+bl=b 
+3. 
+logyb) = xbecause 
+be=b 
+4. 
+bl8* 
+= xbecause 
+logy.x s the power to 
+which b must be raised 
+to getx 
+182 
+Exponential and logarithmic functions 
+(e) Lety = log;,0.001, which is equivalent to the exponential equation 
+1 
+_ 
+1 
+Therefore, y = —3 = log,,0.001 = —3 
+Example 4.10 
+Find the domain of the function fix) = log,(4 — x?) 
+R 
+—— 
+Solution 
+From the definition of a logarithmic function, the domain of y = log, 
+x is 
+x>0, thus for f(x) it follows that 4 — x> > 0= 2 + 02 — x>0 
+= —2 < x < 2. Hence, the domain is —2 < x < 2. 
+Properties of logarithms 
+As with all functions and their inverses, their graphs are reflections of each 
+other in the line y = x. Figure 4.5 illustrates this relationship for exponential 
+and logarithmic functions and also confirms the domain and range for the 
+logarithmic function stated in the definition above. 
+Notice that the points (0, 1) and (1, 0) are mirror images of each other in the line 
+y = x. This corresponds to the fact that since b° = 1, then log, 1 = 0. Another 
+pair of mirror image points (1, b) and (b, 1) highlight the fact that log, 
+b = 1. 
+Notice also that since the x-axis is a horizontal asymptote of y = b*, then the 
+y-axis is a vertical asymptote of y = log, 
+x. 
+In Section 1.4 we established that a function fand its inverse function f~* 
+satisfy the equations: 
+f(fw) =x 
+for x in the domain of f 
+Af ') =x 
+ for xin the domain of f~! 
+‘When applied to fix) = b*and f~'(x) = log, 
+x these equations become: 
+log,(b) =x 
+xeR 
+blosy = x 
+x>0 
+The logarithmic function with base 10 is called the common logarithmic 
+function. On calculators and on your GDC, this function is denoted by log. 
+The value of the expression log;,1000 is 3 because 10° is 3. Generally, for 
+common logarithms (base 10) we omit writing the base of 10. Hence, if log is 
+written with no base indicated, it is assumed to have a base of 10. For example, 
+log0.01 = —2. 
+common logarithm: 
+logpx = logx 
+As with exponential functions, the most widely used logarithmic function (and 
+the other logarithmic function supplied on all calculators) is the logarithmic
+
+function with the base of e. This function is known as the natural logarithmic 
+function and it is the inverse of the natural exponential function y = e*. The 
+natural logarithmic function is denoted by the symbol In, and the expression 
+Inx is read as ‘the natural logarithm of x’ 
+natural logarithm: 
+log.x = Inx 
+Evaluate each expression. 
+1 
+(@) log(ﬁ) 
+(b)log(/T0) 
+(c) logl 
+(d) 10'847 
+(e) log50 
+(f) Ine 
+1 
+® in(%) 
+(1 
+(GNERs 
+(j) In50 
+e 
+Solution 
+@ 103(%) = log(10-1) = —1 
+(b) logl/T0) = log(103) :% 
+(©) logl = log(10%) = 0 
+(d) 10087 = 47 
+(e) log50 ~ 1.699 [using GDC] 
+) lne=1 
+(9 ln(é) =Infe~?) = -3 
+(h) Inl = In(e?) = 0 
+@) ==5 
+(j) 
+In50 ~ 3.912 [using GDC] 
+Example 4.12 
+Figure 4.6 shows the graph of the line y = x and two curves. Curve A is the 
+graph of the equation y = log x. Curve B is the reflection of curve A in the 
+linely 
+="x 
+(a) Write the equation for curve B. 
+(b) Write the coordinates of the y-intercept of curve B. 
+] 
+  
+Solution 
+(a) Curve A is the graph of y = logx, the common logarithm with base 10, 
+Figure 4.6 Graph for 
+which could also be written as y = log,,x. Curve B is the inverse of 
+Example 4.12 
+y = log,,x since it is the reflection of it in the line y = x. Hence, the 
+equation for curve B is the exponential equation y = 10+, 
+(b) The y-intercept occurs when x = 0. For curve B, y = 10° = 1. Therefore, 
+the y-intercept for curve Bis (0, 1). 
+183
+
+184 
+Exponential and logarithmic functions 
+The logarithmic function with base b is the inverse of the exponential function 
+with base b. Therefore, it makes sense that the laws of powers should have 
+corresponding properties involving logarithms. For example, the exponential 
+property b® = 
+1 corresponds to the logarithmic property log,1 = 0. We will 
+state and prove three further important logarithmic properties that correspond 
+to the following three laws of exponents. 
+o 
+b7.bn= pmtn 
+Properties of logarithms IT 
+Given M> 0, N> 0 and k is any real number, then the following properties are true for 
+logarithms with b > 0 and b # 1. 
+  
+Property 
+Description 
+  
+1 | log, (MN) = log, 
+M + log, 
+N | thelog of a product 
+is the sum of the logs of its factors 
+  
+the log of a quotient is the log of the numerator minus the 
+M) 
+_ 
+= 
+2 | logy () = logy 1~ logyV log of the denominator 
+  
+3 | log, (M9 = klog, 
+M 
+the log of a number raised to a power is the power times 
+the log of the number 
+ 
+ 
+ 
+   
+Any of these properties can be applied in cither direction. 
+Proof 
+Property 1 
+Letx = log, 
+M and y = log,N 
+The corresponding exponential form of these two equations are 
+b*=M and 
+b’ =N 
+Then, log,(MN) = logy(b*b?) = log,(b**)) = x + y 
+It’s given that x = log, 
+M and y = log, N, hence x + y = log, 
+M + log, N. 
+Therefore, log,(MN) = log, 
+M + log, 
+N 
+Property 2 
+Again, letx = log,M and y =log,N= 
+b*=M and 
+b’ =N 
+Then, lugb(%) = logb(b b”) =log,(b*?) =x—y 
+With 
+x = log, 
+M and y = log, N, then x — y = log, 
+M — log, 
+N. 
+Therefore, logb(%) = log,M — log,N
+
+Property 3 
+Letx =log,M=b*=M 
+Now, take the logarithm of M* and substitute b* for M. 
+log,(M") = log,[(b94] = log,(b**) = kx 
+It’s given that x = log, M, hence kx = klog, 
+M 
+Therefore, log,(M') = klog, 
+M 
+‘The notation flx) uses brackets not to indicate multiplication, but to indicate the argument of the 
+function £ The symbol fis the name of 
+a function, not a variable; it is not multiplying the variable x. 
+‘Therefore, in general, fx + y) is not equal to fix) + fiy). Likewise, the symbol log is also the name 
+of a function. Therefore, logy(x + )is not equal to logyx) + logy(y). Other mistakes to avoid 
+include incorrectly simplifying quotients or powers of logarithms. Specifically; 
+logex | 
+(x 
+. 
+o #log() and logy ) # Klogy ) 
+Example 4.13 
+Use the properties of logarithms to write each logarithmic expression 
+below as a sum, difference, and/or constant multiple of simple logarithms 
+(logarithms without sums, products, quotients or powers). 
+(a) log,(8x) 
+() ln(%) 
+(© logl/7) 
+@ log,,(;—z) 
+© In(5¢2) 
+() log(™+1) 
+| 
+Solution 
+(a) log,(8x) = log,8 + log,x = 3 + log, 
+x 
+®) ln(%) =In3—Iny 
+(©) log/7) = (log7?) = %log7 
+3 
+(d 
+log,,(;%) = logy(x?) — log,(y?) = 3log,x — 2log,y 
+(e) In(5€2) = In5 + In(e?) = In5 + 2 Ine = In5 + 2(1) & 3.609 
+(f) log(m Az n) = log(m + n) — logm [remember log(m + n) # logm + logn] 
+  
+m 
+Example 4.14 
+Write each expression as the logarithm of a single quantity. 
+(a) log6 + logx 
+(b) log,5 + 2log,3 
+(© Iny—Ind 
+(d) log,12 — %log,ﬂ 
+(e) logs 
+M + log;N — 2log; 
+P 
+(f) log,80 — log,5 
+185
+
+Leta, band x be positive 
+real numbers such that 
+a#1andb# 1. Then 
+Togj x can be expressed 
+in terms of logarithms 
+in any other base a, as 
+follows: 
+186 
+logyx =   
+Tog #J 
+Exponential and logarithmic functions 
+S 
+Solution 
+(a) log6 + logx = log(6x) 
+(b) log,5 + 2log,3 = log,5 + log,(3%) = log,5 + log,9 
+= log,(5- 9) = log,45 
+(c) 
+Iny —In4 = ln(%) 
+(d) log,12 — %log,,g = log, 12 — log,(9%) = log, 
+12 — log,(1/9) 
+= log, 12 — log, 
+3 
+12 
+= log‘,(T) = log,4 
+(€) log, 
+M + log, 
+N — 2log, P = logy(MN) — log,(P?) = 1og,(MN) 
+7, 
+(f) log,80 — log,5 = logz(s—so) =log,16 =4 
+[because 2* = 16] 
+Change of base 
+The answer to Example 4.14 (f) was log, 16, which we can compute to be 
+exactly 4 because we know that 2¢ = 16. The answer to Example 4.13 (e) was 
+2 + In5, which we approximated to 3.609 using the natural logarithm function 
+key (In) on our GDC. But, what if we wanted to compute an approximate value 
+for log,45, the answer to Example 14 (b)? Some GDCs can evaluate only common 
+logarithms (base 10) and natural logarithms (base e). 
+To evaluate logarithmic expressions and graph logarithmic functions to other 
+bases we may need to apply a change of base formula (see margin note). 
+Proof 
+y=log,x=b’=x 
+convert from logarithmic form to exponential form 
+log,x = log,(b”) 
+if b = x, then the log of each with same bases are equal 
+log,x = ylog,b 
+applying the property log,(M*) = klog, 
+M 
+_ log,x 
+  
+¥y 
+divide both sides by log, b 
+B log,b 
+To apply the change of base formula, let @ = 10 or a = e. Then the logarithm of 
+any base b can be expressed in terms of either common logarithms or natural 
+logarithms. For example: 
+  
+1 
+logx 
+Inx 
+_logx 
+ny 
+082 % = ——or 
+= 
+gsX =~ Or 
+log2 
+ In2 
+log5 
+ In5 
+log45 
+logy45 = —82 
+1045 
+5497 
+[using GDC) 
+log2 
+ In2
+
+Example 4.15 
+Use the change of base formula and common or natural logarithms to 
+evaluate each logarithmic expression. Start by making a rough mental 
+estimate. Write your answer to 3 significant figures. 
+(a) log;30 
+(b) logy6 
+| 
+Solution 
+(a) The value of log; 30 is the power to which 3 is raised to obtain 30. 
+We know that 3> = 27 and 3* = 81. Therefore, the value of log; 30 is 
+between 3 and 4, and will be much closer to 3 than 4, perhaps around 
+3.1. Using the change of base formula and common logarithms, we 
+obtain 
+log30 
+log;30 = ;33_3 ~ 3.096. This agrees well with the mental estimate. 
+o8 
+After computing the answer on a GDC, use the GDC to also check it by 
+raising 3 to the answer and confirming that it gives a result of 30. 
+  
+Tog(30)/10g(3) | [In(6)/1n(9) 
+3-ang3-095903274( | 8154648768 
+. 
+30| 
+|, 
+6 
+  
+  
+  
+  
+  
+(b) The value of logy 
+6 
+is the power to which 9 is raised to obtain 6. We 
+know that 9% =9 =3 and 9! = 9. Therefore, the value of logy6 is 
+between % and 1, perhaps around 0.75. Using the change of base 
+formula and natural logarithms, we obtain log,6 = ::—g =~ 
+0.815. 
+This agrees well with the mental estimate. 
+Exercise 4.4 
+1. Express each logarithmic equation as an exponential equation. 
+(a) log,16 =4 
+(b) In1 =0 
+(c) logl00 =2 
+(@ log0.01=—2 
+ (e) log,343=3 
+® Inf3) = -1 
+(g) logs0 =y 
+(h) Inx = 12 
+(i) Inx+2=3 
+2. Express each exponential equation as a logarithmic equation. 
+(a) 210= 1024 
+(b) 10 = 0.0001 
+() 4 :% 
+@ 3*=81 
+() 100=1 
+®) er=5 
+(g) 272=10.125 
+(h) et=y 
+@) 
+101 =y 
+187
+
+188 
+Exponential and logarithmic functions 
+@3. Find the exact value of each expression without using your GDC. 
+  
+(a) log,64 
+(b) log, 64 
+© logz(%) 
+(d) log;(3°) 
+(e) log,s8 
+(f) log,;3 
+(g) log,(0.001) 
+(h) Ine® 
+(i) 
+logsl 
+- 
+logs 
+el 
+In/2 
+() 
+100 
+0 log,(5-) 
+O 
+e 
+(m) log1000 
+() In(e) 
+©) 1n(lz) 
+e 
+(p) log;(81%) 
+(q) log,2 
+(r) 3bsts 
+(s) 
+logs(V3) 
+(t) 1087 
+. Use a GDC to evaluate each expression, correct to 3 significant figures. 
+(a) log/3 
+(b) InV3 
+(c) log25 
+/5 
+(@ 
+log(l *2‘ 2 ) 
+(e) In(100) 
+. Find the domain of each function exactly. 
+(@) y =loglx —2) 
+(b) y =In(x?) 
+(c) y=logix) —2 
+(d) y =log,(8 — 5x) 
+(e) y=vx+2 —logy9 — 3x) 
+(f) y=vIn(1 — x) 
+  
+  
+. Find the domain and range of each function exactly. 
+QP 
+(b) y = lintx — D) 
+© y=-2 
+Inx 
+logx 
+. Find the equation of the function that is graphed in the form f(x) = log, x 
+% 
+b, 
+P4 
+@ 
+7 
+® 
+1 
+/(4%_. 
+! 
+=100 97 
+B 
+B 
+SR 
+= 
+TR0 
+/(B 
+s B 
+-1 
+-1 
+G, -1 
+=k 
+© 
+@ 
+©,2) 
+2 
+2 
+i 
+(10,1) 
+. 
+-19(/A 
+2345678351011 
+-19/ 
+/i 234567 891011% 
+=1 
+i 
+-2 
+-2
+
+8. Use properties of logarithms to write each logarithmic expression 
+as a sum, difference, and/or constant multiple of simple logarithms 
+(logarithms without sums, products, quotients or powers). 
+(@) logs@m) 
+®) log(2) 
+() In(¥x) 
+(d) logs(ab?) 
+(e) log[10x(1 + 1] 
+(f) ln(mTl) 
+9. Write each expression in terms of log,, 
+p, log,q and log,r. 
+  
+re 
+(@) log, (par) 
+(b) log(* 
+[a 
+(©) logy(/pq) 
+@ 1og,,VJ7 
+pVa 
+()’ 
+(e) log, (T) 
+(f) 
+log, (—, 
+Vr 
+10. Write each expression as the logarithm of a single quantity. 
+(a) Toglx?) + log( 
+L) 
+(b) log,9 + 3log,2 
+(0) 4lny —In4 
+(d) log, 12 — Llog,9 
+2 
+Q 
+For question 10 (f): 
+(e) logx — logy — logz 
+(f) 2In6 — 
+1 
+il 
+11. Use the change of base formula and common or natural logarithms 
+to evaluate each logarithmic expression. Give your answers 
+to 3 significant figures. 
+(a) log,1000 
+(b) log, 540 
+(c) logs40 
+(d) logs(0.75) 
+12. Use the change of base formula to rewrite each function in terms of 
+natural logarithms. Then graph the function on a GDC and use the 
+graph to find, to 3 significant figures, the value of the function when 
+x = 20. 
+(a) fio = log,x 
+(b) fio = logsx 
+13. Use the change of base formula to prove the following statement. 
+logya = L 
+log, 
+b 
+14. Show that loge = —— 
+In10 
+189
+
+190 
+Exponential and logarithmic functions 
+15. The relationship between the number of decibels dB (one variable) and 
+the intensity I of a sound in watts per square metre is given by the 
+formula dB = 10 log(ﬁ). Use properties of logarithms to write the 
+formula in simpler form. Then find the number of decibels of a sound 
+with an intensity of 10~ watts per square metre. 
+16. (a) Given the exponential function f(x) = 5(2)% show that logf(x) varies 
+linearly with x; that is, find the linear equation in terms of x that is 
+equal to logf(x). 
+(b) Prove that for any exponential function in the form f(x) = ab*, 
+the function logf(x) is linear and can be written in the form 
+logf(x) = mx + c. Find the constants m (slope) and ¢ (y-intercept) 
+in terms of loga and logb. 
+m 
+Exponential and logarithmic equations 
+Solving expo 
+IRVl 
+At the start of Section 4.4 we wanted to find a way to determine how much 
+time ¢ (in years) it would take for an investment of 1000 euros to double if 
+the investment earns interest at an annual rate of 7.5%. Since the interest is 
+compounded continuously, we need to solve this equation: 
+2000 = 1000 
+e 0075t = 2 = ¢ 0.075¢ 
+The equation has the variable ¢ as part of the power. With the properties of 
+logarithms established in Section 4.4, we now have a way to algebraically solve 
+such equations. Along with these properties, we need to apply the logic that if 
+two expressions are equal, then their logarithms with the same base must also 
+be equal. That is, if m = n, then log, 
+m = log, n. 
+  
+Example 4.16 
+Solve for ¢ in the equation 2 = e *7¢ 
+Give your answer accurate to 3 significant figures. 
+L] 
+Solution 
+P =ie 0.075¢ 
+In2 =1In(e®97*9) 
+ take natural logarithm of both sides 
+In2 = 0.075¢ 
+apply the property log,(b*) = x 
+In2 
+t= 0075 ~9.24 
+ 
+
+Example 4.16 serves to illustrate a general strategy for solving exponential 
+equations. To solve an exponential equation, first isolate the exponential 
+expression and take the logarithm of both sides. Then apply a property of 
+logarithms so that the variable is no longer in the power and can be isolated 
+on one side of the equation. By taking the logarithm of both sides of an 
+exponential equation, we are making use of the inverse relationship between 
+exponential and logarithmic functions. Symbolically, this method can be 
+represented as follows: 
+(i) 
+Ifb=10o0re:y = b*= log,y = log,b* 
+= log,y = x 
+log,y 
+log, b 
+  
+(ii) If b # 
+10 ore: 
+y = b* = log, y = log, b* = log,y = xlog,b = 
+x = 
+Example 4.17 
+Solve for x in the equation 3*~% = 24 
+Give the answer to 3 significant figures. 
+  
+  
+  
+Solution 
+3x4=24 
+log(3*4) = log24 
+take common logarithm of both sides 
+. 
+‘We could have used 
+(x — 4)log3 = log24 
+ apply the property log,(M¥) = klog, 
+M 
+natural logarithms 
+o 
+eyt 
+instead of common 
+ot 
+divide both sides by log3 
+[note: 
+5 
+# log8| 
+logarithms to solve the 
+log3 
+log3 
+equation in Example 
+4.17. Using the same 
+= Nt e 
+‘method but with natural 
+log3 
+logarithms we get 
+In24 
+X~ 6.89 
+using GDC 
+a0 
+Recall Example 3.11 in which we solved an exponential equation graphically 
+because we did not yet have the tools to solve it algebraically. Let’s now solve it 
+using logarithms. 
+Example 4.18 
+You invest €1000 at 6% per annum compounded quarterly. 
+How long will it take this investment to increase to €2000? 
+Solution 
+nt 
+Using the compound interest formula from Section 4.2, A(t) = P(l i %) 
+i 
+with P = €1000, r = 0.06 and 1 = 4, we need to solve for t when A() = 2P. 
+4t 
+P = P(l + %) 
+substitute 2P for A(f) 
+191
+
+192 
+Exponential and logarithmic functions 
+2 =1.015% 
+divide both sides by P 
+In2 = In(1.015%) 
+take natural logarithm of both sides 
+In2 = 4¢1n1.015 
+apply the property log,(M*) = klog, 
+M 
+In2 
+  
+e 
+4In1.015 
+t~11.6389 
+evaluated on GDC 
+In(2) 
+11,6389 
+2-In(1.015) 
+ 
+    
+  
+The investment will double in 11.64 years, or about 11 years and 8 months. 
+Example 4.19 
+The bacteria that cause strep throat will grow at a rate of about 2.3% per 
+minute. To the nearest whole minute, how long will it take for these bacteria 
+to double in number? 
+= 
+Solution 
+Let f represent time in minutes and let A, represent the number of bacteria 
+att=0. 
+Using the exponential growth model from Section 4.2, A(f) = A, b', the 
+growth factor, b, is 1 + 0.023 = 1.023 giving A(t) = A, (1.023)". The same 
+equation would apply to money earning 2.3% annual interest with the money 
+being added (compounded) once per year rather than once per minute. 
+So, our mathematical model assumes that the number of bacteria increase 
+incrementally, with the number increasing by 2.3% at the end of each minute. 
+To find the doubling time, find the value of ¢ so that A(f) = 2 A, 
+24, = A4,(1.023)' 
+ substitute 24, for A(t) 
+2 = 150258 
+divide both sides by A, 
+In2 = In(1.023/) 
+take natural logarithm of both sides 
+In2 = ¢In1.023 
+apply the property log,(M*) = klog, 
+M 
+= 12 
+04 
+In1.023 
+The number of bacteria will double in about 30 minutes. 
+Alternative solution 
+‘What if we assumed continuous growth instead of incremental growth? 
+We apply the continuous exponential growth model from Section 4.3 
+C: A(f) = Ce " with initial amount C, and r = 0.023
+
+RE Gl 
+substitute 2C for A(#) 
+Di=eed 
+divide both sides by C 
+In2 = In(e %92%1) 
+take natural logarithm of both sides 
+In2 = 0.023 ¢ 
+apply the property log,(b*) = x 
+_ 
+In2 
+i= 00237~ 30.137 
+Continuous growth has a slightly shorter doubling time but, rounded to the 
+nearest minute, it also gives an answer of 30 minutes. 
+Example 4. 
+$1000 is deposited in an investment account that earns interest at an annual 
+rate of 10%, compounded monthly. Calculate the minimum number of years 
+needed for the amount in the account to exceed $4000. 
+Solution 
+We use the exponential function associated with compound interest, 
+' 
+At =P(1+2)" with P = 1000, r = 0.1 and n = 12 
+12t 
+4000 = 1000(1 + %) 
+= 4 = (1.0083)1 = log4 = log](1.0083)2] = 
+log4 = 12¢log(1.0083) = 
+¢ 
+log4 
+13.92 
+0 
+= 
+logl 
+1. 
+Bl 
+S meneee e B0 
+ears 
+& 
+& 
+12 log(1.0083) 
+2 
+The minimum time needed for the account to exceed $4000 is 14 years. 
+Example 4.21 
+A 20-gram sample of radioactive iodine decays so that the mass remaining 
+after t days is given by the equation A(f) = 20e %%, where A() is measured 
+in grams. After how many days (to the nearest whole day) are there only 
+5 grams remaining? 
+Solution 
+o= 20 gt 
+2—50 = e 097 = [n0.25 = In(e ~%%7") = In0.25 = —0.087¢ 
+1n0.25 
+—0.087 
+  
+>t= 
+~15.93 
+After about 16 days there are only 5 grams remaining. 
+193
+
+‘There are a couple of 
+common algebra errors 
+toavoid in Example 4.22 
+« If3%= =3, thenit 
+does not follow that 
+x=—L Apower 
+of — L indicates 
+reciprocal. 
+logm — logn =log(7 
+| 
+In6 
+  
+e lns’hdoes 
+not follow that 
+x = In2. The rule 
+] 
+n 
+does not apply to the 
+194 
+expression In6 
+In3’ 
+Exponential and logarithmic functions 
+Example 4.22 
+Solve for 
+x in the equation 3% — 18 = 3**!, Express any answers in exact form. 
+L 
+Solution 
+The key to solving this equation is recognising that it can be written 
+in quadratic form. In Section 2.5, we solved equations of the form 
+at? + bt + ¢ = 0, where t is an algebraic expression. This is not immediately 
+obvious for this equation. We need to apply some laws of powers to show 
+that the equation is quadratic for the expression 3*. 
+32— 18 = 341 
+(B 
+SR 
+IR I 
+()] 
+applying rules b™" = (b")" and b™*" = b" b" 
+Substituting a single variable, for example y, for the expression 3* clearly 
+makes the equation quadratic in terms of 3% We solve first for y and then 
+solve for x after substituting 3* back for y. 
+y2=3y—18=0 
+y+3)py—6=0 
+Wi= =38 oG y\=6] 
+34— —3Nor"37=(6 
+3* = —3 has no solution 
+raising a positive number to a power cannot 
+produce a negative number 
+5516 
+In(3%) = In6 
+take logarithms of both sides 
+x1n3 = In6 
+: 
+SR 
+_In6 
+Therefore, the one solution to the equation is exactly x = 5 
+Solving logarithmic equatio 
+A logarithmic equation is an equation where the variable appears within the 
+argument of a logarithm. For example, logx = % or Inx = 4. We can solve 
+both of these logarithmic equations directly by applying the definition of a 
+logarithmic function (Section 4.4): 
+y = log,xifand only if x = b* 
+The logarithmic equation logx = % is equivalent to the exponential equation 
+x= 10% = /10, which leads directly to the solution. Likewise, the equation 
+Inx = 4 s equivalent to x = e* ~ 54.598. Both of these equations could have 
+been solved by means of another method that makes use of the following two 
+facts:
+
+ifa = bthen n® = n® 
+blogx 
+= x 
+To understand the second fact, remember that a logarithm is an exponent. The 
+value of log, x is the power to which b is raised to give x. And b is being raised 
+to this value; hence the expression b'°¢ is equivalent to x. Therefore, another 
+method for solving the logarithmic equation Inx = 4 is to exponentiate both 
+sides; that is, use the expressions on either side of the equals sign as powers for 
+exponential expressions with equal bases. The base needs to be the base of the 
+logarithm. 
+Inx=4=em=el=x=e! 
+Example 4.23 
+Solve for x in the equation log,(2x — 5) = 2 
+Solution 
+log,(2x — 5) =2 
+Method 1 
+Method 2 
+2x—5=32 
+y=log,x<x=b" 30829 = 32exponentiate with base = 3 
+2% = 955 SO HI—O) 
+X =7 
+%=17 
+Example 4.24 
+Solve for x in terms of k: log,(5x) = 3 + k 
+Solution 
+log,(5x) = 3 + k = 2'&5¥ = 23+k 
+ exponentiate both sides with base = 2 
+5x =232k 
+law of powers b™ - b" = b™*" used ‘in reverse’ 
+= 851 
+X 
+5(2 
+) 
+For some logarithmic equations it is necessary to first apply a property, 
+or properties, of logarithms to simplify combinations of logarithmic 
+expressions before solving. 
+Example 4.25 
+Solve for x in the equation log, x + log,(10 — x) = 4 
+Solution 
+log, 
+x + log,(10 — x) = 4 
+log,[x(10 — x)] =4 
+ property of logarithms: log, 
+M + log, 
+N = log,(MN) 
+In the context of 
+solving equations, to 
+exponentiate means to 
+use two equal expressions 
+as powers to construct 
+another equality 
+involving equal bases. For 
+example: Ifa = b, then 
+mé= m". 
+195
+
+  
+(6:0) 
+  
+ 
+ 
+=3 
+AT 
+13- In(s2)#10(2--3)-2 
+() 
+ 
+  
+Figure 4.7 GDC graph of 
+y=In(x—2) +In(2x - 3) — 2Inx 
+196 
+Exponential and logarithmic functions 
+10x — x2 =24 
+changing from logarithmic form to exponential form 
+x—10x+16=0 
+Ce=2)00 
+8] =0 
+% =2%0r x = 8| 
+‘When solving logarithmic equations, you should be careful to always check 
+if the original equation is a true statement when any solutions are substituted 
+in for the variable. For Example 4.25, both of the solutions x = 2 and 
+x = 8 produce true statements when substituted into the original equations. 
+Sometimes ‘extra’ (extraneous) invalid solutions are produced (discussed in 
+Section 2.5), as illustrated in the next example. 
+Example 4.26 
+Solve for x in the equation In(x 
+— 2) + In2x — 3) = 2 Inx 
+|— 
+o 
+—————______ | 
+Solution 
+In(x — 2) + In2x — 3) = 2Inx 
+In[(x — 2)2x — 3)] = Inx2 
+properties of logarithms 
+In(2x2 — 7x + 6) = Inx? 
+e 
+exponentiate both sides 
+DI 
+R 
+O 
+2 
+x2—=7x+6=0 
+(e=6)c=")I=0 
+factorise 
+xi=61or x =Ml 
+Substituting these two possible solutions indicates that x = 1 is not a valid 
+solution. The reason is that if we try to substitute 1 for x in the original 
+equation, we are not able to evaluate the expression In(2x — 3) because we 
+can only take the logarithm of a positive number. Therefore, x = 6 is the only 
+solution. x = 
+1 is an extraneous solution that is not valid. 
+Solving, or checking the solutions to, a logarithmic equation on your GDC 
+will help you avoid extraneous solutions. To solve Example 4.26 on your GDC, 
+a useful approach is to first set the equation equal to zero. Then graph the 
+expression (after setting it equal to y) and observe where the graph intersects 
+the x-axis (y = 0). 
+Graphical solution for Example 4.26: 
+In(x — 2) + In(2x — 3) = 2Inx = In(x — 2) + In2x — 3) — 2lnx = 0 
+Graph the equation y = In(x — 2) + In(2x — 3) — 2Inx on your GDC and find 
+Xx-intercepts. 
+The graph intersects the x-axis only at x = 6 and not at x = 1. Hence, x = 6 is 
+the only valid solution and x = 
+1 is an extraneous solution.
+
+Exponential and logarithmic inequalities 
+In Section 2.5, we covered methods of solving a variety of inequalities. These 
+methods can also be applied to solving inequalities involving exponential and 
+logarithmic functions. It is important to consider the domain of any functions 
+in the inequality, and to check any solutions in the original inequality in case 
+any extraneous solutions occur. 
+Example 4.27 
+Find the solution set to the inequality: 
+2log;x — 1 <0 
+  
+Solution 
+Due to the domain of the logarithmic function, all solutions must be positive. 
+Method 1 (algebraic solution) 
+Rewrite the inequality as the equation 2log,x — 1 = 0 and find the exact 
+solution. 
+= x=3=y3 
+o= 
+2log;x=1 = logyx = 
+Substitute ‘test’ values, x, and x,, into the original inequality such that 
+0<x <V3andx,> 
+/3. 
+Letx,; = 1:logsl —1=0— 
+1 = —1 < 0/(true) 
+  
+Letx; = 9:logs9 — 
+1 =2 — 
+1 = 1#£ 0 (false) 
+Plotl Plot2 Plotd 
+Therefore, the solution set is 0 < x < V3 
+\Y1g2log,(X)-1 
+Method 2 (graphical solution) 
+§¥2= 
+\Y3= 
+Graph the equation y = 2log;x — 
+1 on a GDC and use it to determine the 
+portion of the graph that is less than zero (below the x-axis). But, how do we 
+input the expression log; x on a GDC? We can use the change of base 
+logx 
+log3. 
+The y-axis is a vertical asymptote. The graph indicates that the solution set is 
+0 < x < 1.7320508. Although the graphical method is efficient and effective 
+it does not give an exact result. 
+  
+  
+YI=710GBASE 
+(X, 3)-1 
+formula to write log, x = 
+ 
+ 
+zero. 
+%107320508 
+=0 
+  
+Figure 4.8 GDC graph of 
+y=2logx — 1 
+Example 4.28 
+Solve for x in the inequality (e* — 2)(e* + 6) < 3e* 
+Solution 
+The fact that the left side is factorised is not helpful because the other side of 
+the inequality is not zero. So we need to expand the left side and rearrange 
+terms to get zero on the right side. 
+197
+
+Exponential and logarithmic functions 
+(=l 
+=8 
+(en2 fdex— 12 =3ex 
+eXrer =12 =0 
+now factorise this expression 
+(ex —3)e* +4) <0 
+find where each factor is zero and 
+construct a sign chart 
+eX=3I=00=et= 30 = x=In3 
+and 
+e*+4=0 = e*=—4 = nosolution 
+Since x = In3 is the only zero of the expression (e* — 3)(e* + 4) we only need 
+to test x values on either side of x = In3. The factor e* + 4 will always be 
+positive. 
+< +——>x 
+-3 
+- 
++ 
+(s—3)(e+4) 
+- 
+0 
+eta 
+o+ 
+1+ 
+0+ 
+Therefore, the solution set is x < In3 
+1. Solve each equation for x. Give x accurate to 3 significant figures. 
+  
+(@) 10°=5 
+(b) 45 =32 
+(©) 85=60 
+(d 2 
+= 100 
+@[3 
+-2 
+#) ex=15 
+(@ 10:=e 
+(h) 321 = 35 
+(i) 2541 =351 
+() 2e%=19 
+(i) 6% =5 
+» 
+(1 +H)m: 3 
+12 
+2. Solve each equation for x. Give answers exactly. 
+o 
+b 
+(a) 4% — 2%+ =48 
+(b) 22¢+1 — 2+l 4 
+] = px 
+2 
+(9 61— 1769 + 12=0 
+() 331+ 3 = 103 
+3. $5000 is invested in an account that pays 7.5% interest per year, 
+compounded quarterly. 
+(a) Find the amount in the account after 3 years. 
+(b) How long will it take for the money in the account to double? 
+Give the answer to the nearest quarter of a year. 
+198
+
+10. 
+1 
+. Find how long it will take for an investment of €500 to triple in value 
+when the interest is 8.5% per year, compounded continuously. Give the 
+answer in number of years accurate to 3 significant figures. 
+. A single bacterium begins a colony in a laboratory dish. If the colony 
+doubles every hour, after how many hours does the colony first have 
+more than one million bacteria? 
+. Find the least number of years for an investment to double if interest is 
+compounded annually with the following interest rates. 
+(a) 3% 
+(b) 6% 
+(©) 9% 
+. A new car purchased in 2015 decreases in value by 11% per year. When is 
+the first year that the car is worth less than half of its original value? 
+. Uranium-234 is a radioactive substance that has a half-life of 
+2.46 X 105 years. 
+(a) Find the amount remaining from a 1 gram sample after 1000 years. 
+(b) How long will it take a one gram sample to decompose until its mass 
+is 700 milligrams (0.7 grams)? Give the answer in years, accurate to 
+3 significant figures. 
+. The stray dog population in a town is growing exponentially with about 
+18% more stray dogs each year. In 2018, there are 16 stray dogs. 
+(a) Find the projected population of stray dogs after 5 years. 
+(b) When is the first year that the number of stray dogs is greater than 70? 
+A water tank initially contains 1000 litres of water. At time f = 0 minutes, 
+a tap is opened and water flows out of the tank. The volume, V litres, 
+that remains in the tank after t minutes is given by the exponential 
+function V(#) = 1000(0.925)". 
+(a) Find the value of V after ten minutes. 
+(b) Find how long, to the nearest second, it takes for half of the initial 
+amount of water to flow out of the tank. 
+(c) The tank is considered ‘empty’ when only 5% of the water remains. 
+From when the tap is first opened, how many whole minutes have 
+passed before the tank can first be considered empty? 
+The mass m kilograms of a radioactive substance at time ¢ days is given 
+by m = 5¢ 013, 
+(a) What is the initial mass? 
+(b) How long does it take for the substance to decay to 0.5 kilograms? 
+Give the answer in days, accurate to 3 significant figures. 
+199
+
+Exponential and logarithmic functions 
+12. Solve the following logarithmic equations for x. 
+Give exact answers and be sure to check for extraneous solutions. 
+(a) log,(3x —4) =4 
+(b) loglx —4) =2 
+() Inx=—3 
+(@ logigx = % 
+(e) logyx+2 =1 
+(f) Inlx?) =16 
+(g) log,(x* + 8) =log,x +log,6 
+ (h) logs(x — 8) + logsx =2 
+(1) 
+log7 — log(4x + 5) + log(2x — 3) = 0 
+(j) 
+log;x + logsx —2) =1 
+(k) logx® = (logx)* 
+13. Solve each inequality. 
+(a) 5log,x+2>0 
+(b) 2logx? — 3logx < log8x — log4x 
+(OFcai2)leads e el 
+(d) 3 +Inx>e* 
+Chapter 4 practice questions 
+  
+1. Part of the graph of y = 2 — log,(x + 1) is shown. 
+b 
+R 
+ 
+The graph intersects the x-axis at point P, the y-axis at point Q and the 
+line y = 3 at point R. 
+Find: 
+(a) the x-coordinate of point P 
+(b) the y-coordinate of point Q 
+(c) 
+the coordinates of point R. 
+2. The amount A(#), in grams, of a certain radioactive substance remaining 
+after ¢ years, decays by the formula A(f) = Age %%, where A, is the 
+initial amount. 
+(a) 
+If 5 grams are left after 800 years, how many grams were present 
+initially? 
+(b) What is the half-life of the substance? 
+200
+
+  
+i 
+12. 
+  
+. Solve for x in the equation log,(5x> — x — 2) = 2 + 2log, 
+x 
+. Iflog,4V2 = x,log.y 
+= 4,and y = 4x* — 2x — 6 + z,find 
+y. 
+. Find the exact values of ¢ for which 2e* — 7e* + 7e' = 2 
+. Find the exact solution(s) to the equation 8e? — 2e Inx = (Inx)? 
+. Find the exact value of x for each equation. 
+(a) log;x — 4log,3 +3=0 
+(b) log,(x — 5) + log,(x +2) =3 
+. Express each as a single logarithm. 
+(a) 2loga + 3 logh — logc 
+(b) 31nx— %lny = 
+. A piece of wood is recovered from an ancient building during an 
+archaeological excavation. The formula A(f) = Aje ~*%124 js used to 
+determine the age of the wood, where A, is the activity of carbon-14 in 
+any living tree, A(f) is the activity of carbon in the wood being dated, 
+and t is the age of the wood in years. For the ancient piece of wood, it is 
+found that A(#) is 79% of the activity of the carbon in a living tree. How 
+old is the piece of wood, to the nearest 100 years? 
+. The graph of the equation y = logs(2x — 3) — 4 intersects the x-axis at 
+the point (¢, 0). Without using your GDC, find the exact value of c. 
+The graph of y = b*, b > 1 is shown. On separate coordinate planes, 
+sketch the graphs of: 
+@ y=b" 
+() y= bt 
+y 
+A radium isotope decays exponentially and its half-life is 1600 years. 
+If A, represents the initial activity of radium in a sample and A(#) 
+represents the activity after ¢ years, then A(f) = Age =", 
+(a) Find the value of k accurate to 3 significant figures. 
+(b) Find the percentage of the original amount of radium that will be 
+remaining after 4000 years. 
+201
+
+202 
+Exponential and logarithmic functions 
+138 
+14. 
+158 
+16. 
+173 
+18. 
+193 
+20. 
+21. 
+22. 
+23. 
+24. 
+253 
+Solve the equatione 
+™ 
+— x + 1 =0 
+Find the set of values of x for which [0.1x? — 2x + 3| <log,x 
+xe* 
+  
+Determine the values of x that satisfy the inequality 
+=1 
+e 
+(a) Solve the equation 2(4%) + 4™+ =3 
+(b) 
+(i) Solve the equation a* = e*!, where a > 0, giving your answer 
+for x in terms of a. 
+(ii) For what value of a does the equation have no solution? 
+The solution of 223 = 2%*1 + 3 can be expressed in the form a + log,b 
+where a,b € Z. Find the value of 
+a and b. 
+Solve 2(Inx)> = 3 Inx — 1 for x. Give your answers in exact form. 
+A sum of $100 is invested. 
+(a) 
+If the interest is compounded annually at a rate of 5% per year, find 
+the total value V of the investment after 20 years. 
+(b) If the interest is compounded monthly at a rate of 1—52% per month, 
+find the minimum number of months for the value of the 
+investment to exceed V. 
+Solve tlpje equation 9logsx = 25log, 5, expressing your answer in the 
+form 57, where p, q € Z. 
+Solve [In(x + 3)| = 1. Give your answers in exact form. 
+1 
+2! 
+  
+Solve the equation [e 
+— 
+ 
+An experiment is carried out in which the number 7 of bacteria in a 
+liquid is given by the formula n = 650 e*’, where  is the time in minutes 
+after the beginning of the experiment and k is a constant. The number of 
+bacteria doubles every 20 minutes. Find the exact value of k. 
+The function fis defined for x > 2 by fix) = Inx + In(x —2) — In(x> — 4) 
+  
+(a) Express f{x) in the form ln(x i a) 
+(b) Find an expression for f~(x) 
+The function fis defined by fix = e* — 
+1 — x 
+(a) Use your GDC to find the minimum value of f. 
+(b) Prove that e* = 1 + x for all real values of x.

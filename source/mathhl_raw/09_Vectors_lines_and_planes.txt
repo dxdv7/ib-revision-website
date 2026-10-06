@@ -1,0 +1,4700 @@
+ 
+
+xy-plane: 2 = 0 
+Figure 9.1 The 
+planes divide sp 
+octants 
+380 
+z 
+xz-plane:y = 0 
+ 
+coordinate 
+ace into § 
+    
+Vectors, lines, and planes 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« 
+vectors as displacements in the plane and in three dimensions 
+« 
+components of a vector; column representation 
+vy 
+o v=|n]|=wnitvjtrk 
+Y, 
+ algebraic and geometric approaches to the following topics: 
+o 
+the sum and difference of two vectors 
+o 
+the zero vector, the vector —v 
+o 
+multiplication by a scalar, kv; parallel vectors 
+o 
+magnitude of a \E:or, |v]; unit vectors; base vectors, i, j and k 
+o 
+position vector OA = a 
+o 
+the scalar product of two vectors 
+« 
+perpendicular vectors; parallel vectors 
+« 
+finding the angle between two vectors 
+« 
+finding the vector equation of a line r = a + Ab 
+« 
+finding the angle between two lines 
++ 
+coincident, parallel, intersecting and skew lines; distinguishing between 
+these cases 
+« 
+finding points of intersection 
+« 
+using the vector product of two vectors, v X w 
++ 
+using the geometric interpretation of [v X w| 
+« 
+finding the vector equation of a plane r = a + Ab + uc 
+« 
+using the normal vector to obtain the formr-n=a-n 
+o 
+finding the Cartesian equation of a plane ax + by + cz = d 
+« 
+finding intersections of: a line with a plane; two planes; three planes 
+« 
+finding the angle between: a line and a plane; two planes. 
+Because we live in a three-dimensional world, it is essential 
+that we study objects in three dimensions. In this section, 
+we consider a three-dimensional coordinate system in 
+which points are determined by ordered triplets. 
+yz-plane: x = 0 
+We construct the coordinate system in the following 
+manner: Choose three mutually perpendicular axes, 
+as shown in Figure 9.1, to serve as our reference. 
+The orientation of the system is right-handed in the sense 
+that if you hold your right hand so that the fingers curl 
+from the positive x-axis towards the positive y-axis, your 
+thumb points along the z-axis (Figure 9.2). 
+Looking at it from a different perspective, if you are looking straight at the 
+system, the yz-plane is the plane facing you, the xz-plane is perpendicular to it 
+and extending out of the page towards you, and the xy-plane is the bottom
+
+part of that picture. The xy-, xz- and yz-planes 
+are called the coordinate planes. Points in space 
+are assigned coordinates in the same manner 
+as in the plane. So, the point P is assigned the 
+ordered triplet (x, y, 2) to indicate that it is x, 
+», and z units from the yz-, xz-, and xy-planes, 
+respectively (Figure 9.3). 
+   y 
+Figure 9.2 The thumb points 
+along the z-axis 
+In this chapter we will focus our study of vectors to 3-dimensional (3D) 
+space. The good news is that many of the rules you will learn about vectors 
+in 3D also apply to the vectors in 2D. 
+  
+Figure 9.3 Point P is assigned 
+the ordered triplet (x, y, 2) 
+Vectors from a geometric viewpoint 
+Vectors can be represented geometrically by arrows in two- or three- 
+dimensional space; the direction of the arrow specifies the direction of the 
+vector, and the length of the arrow describes its magnitude. The first point 
+in the arrow is called the initial point of the vector and the tip is called the 
+terminal point. We shall denote vectors in lower case bold italic type (e.g. v) 
+when using one letter to name the vector, and we will use AB to denote the 
+vector from A to B. The handwritten notation will also be the latter. 
+If the initial point of a vector is at the origin, then the vector is said to be in 
+standard position. It is also called the position vector of point P. The terminal 
+point will have coordinates of the form (x, y, z). We call these coordinates the 
+. 
+Vectors are also written 
+* 
+= 
+components of v, and we write: v = (}V) 
+asv=(6y2) 
+z 
+The length (magnitude) of a vector v is also known as its modulus or its norm, 
+and it is written as 
+| v|. 
+Looking at Figure 9.3 and using Pythagoras’ theorem, we can show that the 
+magnitude of a vector v, |[v| = /x> 
++ y> + 22 
+N 
+Let OP = v, then 
+  
+|v] = |@1 = VOB? + BP?, since the triangle OBP is right-angled at B. 
+Now, consider triangle OAB, which is right-angled at A: 
+OB? = OA? + AB? = x2 + y?, and therefore: 
+|| =VOBT+BP = [\ +yf + 22 = X 
++ yT + 27 
+Two vectors such as v and AB are equal (equivalent) if 
+they have the same length (magnitude) and the same 
+— 
+   
+   
+Mx,—%.9,—yp%,— %) 
+direction; we write v = AB. Geometrically, two 
+Al yp2)<T 
+vectors are equal if they are translations of one another 
+(Figure 9.4). In Figure 9.5 the four vectors are equal, 
+even though they are in different positions. 
+Figure 9.4 The two vectors are equal 
+381
+
+/ 
+Figure 9.5 Free vectors 
+Figure 9.7 Triangular rule 
+  
+Figure 9.8 Vector sum as 
+diagonal of a parallelogram 
+  
+Figure 9.9 Difference of vectors 
+Figure 9.10 Parallel vectors 
+382 
+Vectors, lines, and planes 
+Because vectors are not affected by translation, the initial point of a vector v 
+can be moved to any convenient position by making an appropriate translation. 
+Two vectors are said to be opposite if they have 
+equal modulus but opposite direction (Figure 9.6). 
+If the initial and terminal points of a vector 
+coincide, then the vector has length zero; we call 
+this the zero vector and denote it by 0. 
+The zero vector does not have a specific direction, 
+so we will agree that it can be assigned any 
+convenient direction in a specific problem. 
+Figure 9.6 Opposite vectors 
+Addition and 
+subtraction 
+of vectors 
+According to the triangular rule, if u and v are vectors, then the sum u + v is 
+the vector from the initial point of u to the terminal point of v when the vectors 
+are positioned so that the initial point of v is the terminal point of , as shown 
+in Figure 9.7. 
+  
+Equivalently, u + v is also the diagonal of the parallelogram whose sides are 
+u and v, as shown in Figure 9.8. 
+The difference of the two vectors u and v can be dealt with in the same manner. 
+So, the vector w = u — vis a vector such that u = v + w. 
+In Figure 9.9, we see that the difference is along the diagonal joining the two 
+terminal points of the vectors and in the direction from v to u. 
+‘When we discuss vectors, we will refer to real numbers as scalars. 
+Ifk s a real positive number, ku is a vector of magnitude kju| and in the same direction as u. 
+It follows that when k is negative, ku has magnitude [k| X |u] and is in the opposite direction to u. 
+(Figure 9.10). This is also the condition for two vectors to be parallel. 
+d 
+“Two vectors are parallel if one vector is a scalar multiple of the other. 
+-3 
+4.5 
+For example, the vector ( 4 
+) is parallel to the vector (76) since 
+e 
+Components provide a simple way to perform several algebraic operations on 
+vectors. First, by definition, we know that two vectors are equal if they have the 
+same length and the same magnitude. So, if we choose to draw the two equal 
+uy 
+v, 
+vectors u = (“z) andv = (Vz) from the origin, then their terminal points 
+us, 
+Va) 
+must coincide, and hence u; = v, u, = v,, and u; = v;. So, we showed that 
+equal vectors have the same components. The converse is also true; that is,
+
+if u; = vy, u, = v,, and u3 = v3, then the two vectors are equal. The following 
+results are also obvious from the simple geometry of similar figures: 
+uy 
+vy 
+u 
+v 
+Ifu= (“2) andv = (Vz) and k is any real number, then u + v =| 
+u, + v, 
+U, 
+! 
+us + vy, 
+ku, 
+and ku = 
+|ku, 
+Ky, 
+If the initial point of the vector is not at the origin, then we can generalise the 
+previous notation to any position. 
+I£AB s a vector with initial point A(x,, y;, ;) and terminal point B(xy, 
+5, z,), then 
+el 
+- 
+= 
+— 
+AB:OB—OA:<)’2_}’1) 
+a-z 
+    
+  
+M=y =y 2 =) 
+Ay 7)< 
+As llustrated in the diagram above, cither by applying the distance formula or by using the 
+T T 
+2z 
+7z 
+z 
+equality 
+of vectors vand AB, |AB| = |/ (x; — x,)> 
++ (3, — y1)> 
++ (2, — 2)) 
+Additionally, the following results can easily follow from properties of real numbers: 
+utv=v+u 
+Wtv)+w=u++w 
+Ku+v) = ku + k. 
+Example 9. 
+Given the points A(—2, 3, 5) and B(1, 0, —4): 
+(a) 
+find the components of vector E 
+(b) find the components of vector BT‘; 
+(c) 
+find the components of vector 3E 
+— 
+— 
+(d) find the components of vector OA + OB 
+—| 
+— 
+(e) calculate ’AB’ and 'BAl 
+—| 
+— 
+ — 
+(f) 
+calculate 13AB’ and ‘OA + OB‘ 
+383
+
+384 
+Vectors, lines, and planes 
+Solution 
+oy, 
+(Fam 
+1-(-2) 
+3 
+(@ AB=0B—O0A =22y 
+|=[ 
+0-3 
+|=(-3 
+22T a 
+A5 
+=9 
+— 
+— = 
+(=8 
+(b) Since BA is the opposite of AB, BA = [ 
+3 
+9 
+— 
+B 
+O] 
+(c) 3AB = 3(73) = (*9) 
+9] 
+2 
+., 
+(241 
+-1 
+(d) OA+0B=|3+0 
+|=|3 
+5-4 
+1 
+(e) [x51 = 2= x)> + (12— y1)> + (22— 2)2 = V9 + 9 + 81 = 3/I1 
+s 
+|BA|: 
+= %2+ a—y)? + (2 — z)> = V9 + 9+ 81 = 3/IT 
+(f) 
+a8 = 
+06— %)+ (2 — y1)° + (2, — 2))2 = V8L 
++ 81 + 729 = 9/IT 
+(3) 
+-1 
+[oa + o] - 
+3 
+||=v1+¥9F1=vIT 
+  
+  
+  
+  
+Note that |34 
+= 
+3[2B] 
+In general, [Av] = |A] |v] - that is, the magnitude of a multiple of a vector is 
+equal to the absolute multiple of the magnitude of the vector. For example, 
+|=3v| = 3|v|. 
+— 
+— 
+= 
+Note also that |OA + OBl =VII # |OA‘ + |OB| 
+=/4+9+25+VI+0+16 =38+ /17 
+Example 9.2 
+Find the coordinates of point M in terms of a constant so that the points M, 
+A(0, —1,5), and B(1, 2, 3) are collinear. 
+e 
+—————— 
+| 
+Solution 
+— 
+— 
+For the points to be collinear, it is enough to make AM parallel to AB. If the 
+two vectors are parallel, then one of them is a scalar multiple of the other. 
+S 
+Say AM = tAB 
+wi=(r+1) = 3)-( ) 
+Sol=t= 
+8 tailsand Z =550
+
+ 
+A vector of length 1 is called a unit vector. So, in 2D space: the vectors 
+i= ( (1)) andj = (?) are unit vectors along the x- and y-axes, and in 
+1 
+0 
+0 
+3D space: the unit vectors along the axes are i = (0), Jj= (1) and k = (0) 
+0, 
+0, 
+1 
+The vectors i, j, and k are called the base vectors of the 3-space. 
+  
+‘The terms ‘2-space’ and ‘3-space’ are short forms for two-dimensional space and three-dimensional 
+space respectively, 
+also known as 2D and 3D. We will use 2D and 3D from here onwards. 
+Figure 9.1 Base vectors in 3D 
+It follows that each vector in 3D space can be expressed uniquely in terms 
+of i, j, and k as follows: BB e 
+(3 
+So, in Example 9.1, AB = (—3) =3i—3j— 9%k 
+—9, 
+Unit vectors can be found in any direction, not only in the direction of the axes. 
+For example, if we want to find the unit vector in the same direction as u, then 
+we need to find a vector parallel to u, which has a magnitude of 1. 
+Since u has a magnitude of |u|, multiply this vector by its reciprocal, L, to 
+  
+ 
+  
+  
+Jul 
+give it a magnitude of 1. So, the unit vector v in the same direction as u is 
+v=-Lu = 
+This is a unit vector since its length is 1. 
+ul* 
+uf 
+Figure9.12 uasa sum of 
+Example 9.3 
+‘multiples of the base vectors 
+Find a unit vector in the direction of v = i — 2j + 3k 
+Solution 
+The length of the vector v is {12 + (—2)2 + 32 = /14, so the unit vector is 
+I 
+i 
+2j 
+3k 
+. 
+o 
+. 
+—(i — 2j 
++ 3k) = — — — + —. To verify 
+that this is a unit vector, 
+at 
+AN 
+TR 
+we find its length: 
+Il - e 
+The unit vector plays another important role. It determines the direction of the 
+given vector. 
+385
+
+ 
+Figure 9.13 v = [u](cos6i + sinj) 
+386   
+Vectors, lines, and planes 
+In 2D space, we can write the vector in a form that gives us its 
+direction (in terms of the angle it makes with the horizontal axis, 
+called the direction angle), and its magnitude. 
+In Figure 9.13, 6 is the angle with the horizontal axis. 
+The unit vector v, in the same direction as u is: 
+v = lcosfi + Lsin6j, 
+and from the results above, 
+v= ﬁu = u 
+= 
+|u| X v = 
+|u|cosOi + |u|sinOj 
+uf 
+= |u|(cosBi + sinBj) 
+Example 9.4 
+Find the vector with magnitude 2 that makes an angle of 60° with the 
+positive x-axis. 
+S — 
+Solution 
+43, 
+v = |v](cos60% + sin60°j) = 2(%1' +225 
+  
+i+V3j 
+Example 9.5 
+Find the magnitude and direction of the vector v = 23 i — 2j 
+  
+Solution 
+v=V23r+4=4 
+cosﬁzﬁzﬁ sinf = 
+- 
+4 
+D 
+6 
+  
+Example 9.6 
+(a) Find the unit vector that has the same direction as v = i + 2j — 2k 
+(b) Find a vector of length 6 that is parallel to v = 
+i — 2j + 3k 
+  
+Solution 
+(a) The vector v has magnitude |[v] = 
+/1 + 22+ (=2)2 =3 
+50, the unit vector # in the same direction as v is 
+1 
+107 
+) 
+e 
+ub 
+e 
+i 
+3k 
+(b) Let w be the vector in question and u be the unit vector in the direction 
+of v. 
+I 
+o 
+© 
+5 
+12T 
+1S 
+==l 
+= 
+r 
+) E =i 
+T —= 
+AW
+
+Example 9.7 
+ry and r, are the position vectors of two points A and B in space, and A is a 
+real number. 
+(a) 
+(b) 
+Show that r = (1 — A)r, + Ar, is the position vector of a point C on the 
+straight line joining 
+A and B. 
+Consider the cases where A = 0, 1, %, —1,2,and % 
+Solution 
+(a) 
+(b) 
+Rewrite the equation 
+r=(L—ANr+An=r+Ar,—r). 
+— 
+Since r, — r; = AB, then the position 
+— 
+vector r of C, which is simply r, + AC 
+— 
+— 
+givesusr 
+=r; + AMAB =r, + AC 
+— 
+ — 
+which in turn gives AC = AAB. 
+  
+— 
+— 
+This means that AC is parallel to AB and is a multiple of it. 
+When A = 0, then r = r; and Cis at A. 
+When 
+A = 1,thenr=1r, +Ea.ndCisatBA 
+When A = %, thenr=r, + %E and C is the midpoint of AB. 
+When A = —1,thenr=r, + ﬂﬁ and A is the midpoint of CB. 
+When A = 2, thenr =r, + ZE and B is the midpoint of AC. 
+_2 
+_ 
+Do 
+7 
+When A = 3 thenr=r, + gAB and Cis 5 the way between A and B. 
+1l 
+2. 
+Write each vector AB in component form. 
+_3 L 
+).p(1, 
+-2 
+2, 
+—v3,-4), 
+il 
+@ A(-2-La)a(L-21) 
+® a(-2-3 2815 
+-1) 
+() A@, —3,5) B(1, —1,3) 
+(d) Ala, —a, 2a); B(—a, —2a, a) 
+Given the coordinates of point P or Q and the components of P_d 3 
+find the missing items. 
+3 
+1 
+) 
+7 
+3 1) 
+pg=|-2 
+~51)PQ 
+= 
+@ 23,2123 
+=|-2| 
+® q.-3.1):7¢ 
+o 
+; 
+1 
+(c) Pla, —2a, 2a);;2) = (:2‘2) 
+a 
+Example 9.7 introduces 
+‘you to the vector 
+equation of 
+a line which 
+you will learn more about 
+in section 9.4. 
+387
+
+388 
+Vectors, lines, and planes 
+10. 
+. Find the coordinates of point M in terms of 
+a constant so that the points 
+M, A and B are collinear: 
+(a) A(0,0,5),B(1,1,0) 
+(b) A(—1,0,1),B(3,5, —2) 
+(c) A(2,3,4),B(=2, —3,5) 
+. Given the coordinates of the points A and B, find the coordinates of the 
+point C such that B is the midpoint of line segment AC: 
+(@) AG,—4,0);B(~1,0, 1) 
+(b) A(-1,3, 5);3(—1, 1 %) 
+(c) A(1,2, —1); B(a, 2a, b) 
+. Given a triangle ABC and a point G such that 
+—_ 
+— 
+— 
+GA +GB +GC =0 
+find the coordinates of 
+G for: 
+) L= =1, =R (=i, 2, =R e, 2, 9) 
+(D)PACESST) IR (B 
+R5 
+) C(0R0NY) 
+(c) A(a, 2a,3a); B(b, 2b, 3b); C(c, 2¢, 3¢) 
+. Determine the fourth vertex D of the parallelogram ABCD that has AB 
+and BC as adjacent sides. 
+(a) A(v3,2, - 1); B(1,3,0; O(~V3,2, =5) 
+(b) A(V2 V3, V5); B(3v2, =3, V5); O—2v2, V3, —3/5) 
+11 
+102] 
+71 
+© (=3 
+3.0} 8(3. 3.5 5 31) 
+1) 
+. Determine the values of m and n such that the vectors v = 
+( m+n 
+) 
+2 
+2 
+and w = 
+( 
+4 ) have the same direction. 
+55! 
+. Find a unit vector in the same direction as each vector. 
+@ v=2i+2j—k 
+(b)v=6i—4j+2k 
+() v=2i—j—2k 
+. Find a vector with the given magnitude and in the same direction as the 
+given vector. 
+(a) Magnitude2, v =2i +2j—k 
+(b) Magnitude 4, v = 6i — 4j + 2k 
+() Magnitude 5, v = 2i — j — 2k 
+Letu =i+ 3j — 2kand v = 2i + j. Find: 
+@ [u++] 
+() [u] +[v] 
+© |-3u] +[34] 
+@ u 
+@)L 
+ul 
+[u| 
+  
+ 
+
+% 
+12. 
+16}, 
+14. 
+153 
+16. 
+1177 
+18. 
+19. 
+20. 
+2l 
+22. 
+Find the terminal points for each vector. 
+(a) w=4i + 2j — 2k, given the initial point (—1, 2, —3) 
+(b) 
+v = 2i — 3j + k, given the initial point (=2, 1, 4) 
+Find vectors that satisfy the stated conditions: 
+(a) opposite direction of u = (;3) and one-third the magnitude of u 
+(b) magnitude 12 and same direction as w = 4i + 2j — 2k 
+(c) of the form and xi + yj — 2k and parallel to w = 
+i — 4j + 3k. 
+Let u, v, and w be the vectors from each vertex of a triangle to the 
+midpoint of the opposite side. Find u + v + w. 
+Find the scalar f (or show that there is none) so that the vector 
+v = ti — 2tj + 3tk is a unit vector. 
+Find the scalar f (or show that there is none) so that the vector 
+v = 2i — 2tj + 3tk is a unit vector. 
+Find the scalar ¢ (or show that there is none) so that the vector 
+v=0.5i — tj + 1.5tk is a unit vector. 
+The diagram shows a cube with a side length 8 units. O is the origin. 
+(a) Find the position vectors of all the vertices. 
+(b) L, M, and N are the midpoints of the respective edges. Find the 
+position vectors of L, M, and N. 
+— 
+= 
+= 
+(c) Show that LM + MN + NL = 0 
+A triangular prism has side lengths OA = 8, OB = 10, and OE = 12. 
+O is the origin. 
+(a) Find the position vectors of C and D. 
+(b) Fand G are the midpoints of the edges AB and CD, respectively. 
+Find their position vectors. 
+(c) Find the vectors E and FD and explain your results. 
+Find o such that |ai + (@ — 1)j + (a + 1)k| = 2 
+(G- -1 
+Find the scalars a, 8, and u (or show that they cannot exist) such 
+thata = ab + Bc + pd. 
+=1 
+1t 
+3 
+0 
+Repeat question 20 fora=| 
+1 
+|,b=(0],c=(2]|,d=(1 
+5 
+1 
+0, 
+1 
+) 
+1 
+8] 
+4 
+Repeat question 20 fora=| 
+1 
+|,b=(—-1),c=(0|,d= 
+(-1 
+=]l 
+0 
+1 
+1 
+  
+  
+ 
+  
+  
+  
+    
+¥ 
+D, 
+7 
+5 
+EAm 
+L 
+- 
+0 
+X 
+A 
+B 
+z 
+Figure 9.14 Diagram for 
+  
+  
+  
+  
+question 17 
+y 
+B 
+D 
+G 
+o 
+o 
+B 
+X 
+A 
+F 
+Figure 9.15 Diagram for 
+question 18 
+389
+
+Vectors, lines, and planes 
+  
+23. Let u and v be non-zero vectors such that |u — v| = |u + v| 
+(a) What can you conclude about the parallelogram with # and v as 
+adjacent sides? 
+Uy 
+Vi 
+(b) Show thatifu = 
+|#,| 
+and v = | V2|, then uy v, + u,v, + u3v; =0 
+U, 
+V3, 
+24. A 125N 
+traffic light is hanging from two flexible cables. The magnitude of 
+the force that each cable applies to the ‘eye ring’ holding the lights is called 
+the cable tension. Find the cable tensions if the light is in equilibrium. 
+  
+Figure 9.16 Diagram for 
+estion 
+24 
+g 
+25. Find the tension in the cables used to hold a weight of 300 N as shown in 
+the diagram. 
+  
+Figure9.17 Diagram for 
+Scalar (dot) product 
+question 25 
+Let 
+= (uy, 
+p, uz) and v = (v, vy, v3). The dot product (scalar) is written as u X v and is defined as 
+u-v=upv+ v+ uzvs 
+and: 
+  
+|v|cos6, where @is the angle between the two vectors. 
+Proof 
+Work out: 
+P=uXu= 
++ 
++ 
+=wtui+ul=u 
+w=uXu=uu 
++uu, 
++uuy 
+=ult+ultul=|u 
+Then 
+Iu*vlz:(u*v)(u*v):u2+vz*2u4v:|uz +|v|272u4v 
+  
+Also, using the law of cosines, 
+o= 
+= Jal” + |o” = 2ful - Ivlcoso 
+  
+u 
+Figure9.18 Using the law 
+  
+ot cositigk 
+By comparing these two results, we can conclude that u 
+- v = |u] 
+- [v|cos. 
+Conversely, using the law of cosines in Figure 9.18 gives 
+Jo— v = Ju” + o” — 2fu] - [s|cost 
+which in turn will give 
+— 
+2l -fost 
+= b 
++ o 
+Ju 
+—of 
+  
+= (u2+u+ud) 
++ (v +vi+ v 
+(= i)+ @y = v 
+F 0y — vy)) 
+  
+  
+vectors in the direction 
+=2uy 
+vy 
++ 
+Uy 
+vy 
++ uyvy) 
+: 
+W1 T 
+Yy T 
+UsYy) 
+of wand v respectively. 
+That s, the cosine of 
+Thus 
+|u| 
+- 
+|v|cosf = 
+u, 
+v, 
++ u,v, 
++ uzv;and u 
+- v = |u|v|cos 
+6 
+Wi 
+TV T 
+U, 
+the angle between two 
+vectors is the dot product 
+The scalar product can also be used to find angles between vectors: 
+of the corresponding unit 
+u-v 
+i 
+u-v= |u||v|c056 & cosb = 
+[allv] 
+390
+
+Example 9.8 
+Find the angle between the vectors u = i — 2j + 2kand v = —3i + 6j + 2k 
+= 
+| 
+Solution 
+u-v _ 
+=3=12:54 
+lullv] 
+VIF4+4/9+36+4 
+1 
+210 
+=0= cos"(%) ~ 2.12 radians 
+cosf = 
+If two vectors are perpendicular, then the dot product is zero. 
+This is because when the two vectors are perpendicular, the angle between 
+them is +90° and therefore 
+u-v = |ul|v|cos90° = [u[v] 
+- 0 = 0 
+The base vectors of the coordinate system are obviously perpendicular: 
+1 
+0 
+i.j= (g)((l)) =0, and similarly, i X k = 0,and j X k = 0 
+From the geometric definition of the dot product, we can see that for vectors of a given magnitude, 
+the dot product measures the extent to which the vectors agree in direction. As the difference in 
+direction increases from 0 to 7, the dot product decreases: 
+Ifu and v have the same direction, then 6= Oand u 
+- 
+This is the largest possible value for u 
+-+ v 
+Ifuand 
+v have opposite directions, then 6 = mand u - v = [uf|v]cos7 = —|u[[v| 
+This is the least possible value for u - v 
+  
+When the vectors are parallel, the angle between them is either 0° or 180°. 
+And therefore 
+n-y= |u||v|cos0 B |u||v| 
+] = 
+u|| 
+|,or 
+u-v= |u||v|cosl$0" = |u||v| (=D = 7|u||v| 
+Example 9.9 
+Determine which, if any, of these vectors are at right angles to each other 
+(orthogonal). 
+w=7i+3j+2k v=-3i+5+3k 
+w=it+k 
+| 
+Solution 
+u-v=7(=3)+ 3 X5+ 2 X3 = 0; orthogonal vectors 
+u-w=7X1+3X0+2X1=9;notorthogonal 
+v.w=—3X1+5X0+ 3 X 1= 0;orthogonal vectors. 
+If two vectors #and v 
+are parallel, then 
+wev=*ully| 
+391
+
+@ fu-v| <[ulv] 
+® [u+ v <l + ] 
+zA 
+  
+  
+Figure 9.19 Direction angles of 
+a 
+vector 
+392 
+Vectors, lines, and planes 
+Example 9.10 
+The vertices of 
+a triangle are A(1, 2, 3), B(—3, 2,4) and C(1, —4, 3). 
+Show that the triangle is right-angled and find its area. 
+] 
+Solution 
+AB=(-3-1)i+ 
+Q- 2)j+@—3)k=—di+k 
+AC=(1— i+ (—4—-2)j+(3—3k=—6 
+G IR ()1 () e oy 
+e B 
+Since 
+—_— — 
+¢ 
+AB-AC=—-4X0+0X—-6+1X0=0, 
+the vectors are perpendicular. 
+So the triangle is right-angled at A. 
+The area of this triangle is half the 
+1, -4,3 
+,4) 
+product of the sides AB and AC. 
+y 
+v~ 
+sl 
+:%. [(—92+1-6 
+3 
+% 
+V17 
+   
+  
+  
+  
+Proof for the key fact box 
+(a) Since, u - v = |ul|v|cos, then |u 
+- v| = ||u||v|cost] = [u]|v]||cosf], 
+and as |cosf] < 1, then |u 
+- v| < |u||v| 
+®) |lutvfP=@+v-@+vV=u-utu-vi+vutvy 
+=lul? +2w-v) + |[v]sinceu-v=v-u 
+but, u 
+- v < |u 
+- v, since u 
+- v may also be negative while |u 
+- v| is not. 
+Also, [u 
+- v| < |u||v|, therefore 
+Ju+v]2=[ul> + 2@ 
+- v) + |y <|u]* + 2u-v| + v} 
+< [uf? + 2lulls] + o = (] + ) 
+Taking square roots, this implies that |u + v| < [u| + |v| 
+Direction angles, direction 
+cosines 
+  
+  
+Figure 9.19 shows a non-zero vector v. The angles a, 3, and y that the vector 
+makes with the unit coordinate vectors are called the direction angles of v, 
+and cosa, cosf3, cosy are called the direction cosines. 
+Let v = xi + yj + zk. Considering the right-angled triangles OAP, OCP and 
+ODP, the hypotenuse in each of these triangles is OP - that is, |v|. The side 
+adjacent to an angle 6 in a right triangle is related to it by
+
+adjacent 
+cos = 
+-7 
+=-—————— & adjacent = hypotenuse - cos 6, so, in this case 
+hypotenuse 
+x = |v|cosa, y = |v| cosB, z = |v| cosy, and so 
+v = (|[v|[cosa)i + (|v|co sB)j + (|v|cosy) k = |v|(cosai + cosBj + cosyk) 
+Taking the magnitude of both sides 
+|v] = |v] /cos*a + cos? B+ cos?y 
+The discussion above leads to the following important result: 
+cos?a + cos?B + costy = 
+1 
+‘The sum of the squares of the direction cosines is always 1. 
+For 
+a unit vector, the expression will be of the form 
+u = |u(cos i + cos Bj + cos yk) = cos i + cos Bj + cos yk, (since [u] = 1) 
+‘This means that for a unit vector its x-, y-, and z-coordinates are its direction cosines. 
+) 
+z 
+b 
+Example 
+9.11 
+Find the direction cosines of the vector v = 4i — 2j + 4k, and then 
+approximate the direction angles to the nearest degree. 
+| 
+  
+Itis also important that you remember that cosa = li‘l; 0B == cosy = 
+N 
+Solution 
+= 
+VATt (22 
++ 42 = 
+- v_2; 1,,2 
+v = 
+Va2 
++ (=2 
+6=u 
+m 
+Sl 
+sk 
+coscz:z 5055:71 
+cos 
+=2 
+3 
+Bl 
+a~48°% B~ 109° y ~ 48° to the nearest degree. 
+Example 9.12 
+Find the angle that a main diagonal of a cube with side a makes with the 
+adjacent edges. 
+L 
+ 
+Solution 
+‘We can place the cube in a coordinate system such that three of its adjacent 
+edges lie on the coordinate axes as shown. The diagonal, represented by the 
+vector v, has a terminal point (a, a, a). Hence 
+|v] = Va2 
++ a?+ a2 = a/3 
+Take angle 3, for example: 
+B= cos"(#) = cos"( 
+x   
+1 ﬁ) ~547° 
+Figure 9.20 Solution to 
+Example 9.12 
+393
+
+Vectors, lines, and planes 
+: 
+  
+  
+  
+  
+  
+  
+  
+5 
+(a.b,0) 
+The point C is at the centre of the rectangular box whose edges have 
+(‘: 
+measures 4, b, and c. Find the size of angle ACB in terms of a, b, and c. 
+0 
+@R 
+4 
+Soluti 
+e, 
+olution 
+Figure 921 Diagram for 
+The point diagonally opposite to A is D(0, b, c), so, c(ﬂ 2 ,£)A 
+Example 9.13 
+OR0RD) 
+Consequently 
+A 
+=(a-20-20-2)-(2-L 
+-9) 
+cA 
+(a 
+3:0-5.0-3)=(3—3 
+—3)and 
+5 O 
+. 
+,ﬁ):(,zk,ﬁ) 
+CB=(0-%.6-20-5)=(-5.2.-% 
+s e 
+@ b2 
+o 
+(AL o@D 
+4 
+4 
+4 
+Nt 
+U 
+cosACBf_>_>7 
+o e 
+[clcs] 
+¢ 
+‘ 
+  
+1. Find the dot product and the angle between each pair of vectors. 
+3} 
+2 
+= 
+(a)u:(—z),v:h'fjfsk 
+(b)u:(—s),v:(3) 
+4 
+0 
+5 
+(c) u=3i—jv=>5i+2 
+(d) u=i—3j,v="5+2k 
+2. Find the dot product of each pair of vectors. 
+(a) 
+|u| = 3, |v| = 4, the angle between u and v isg 
+(b) |u| = 3, |v| = 4, the angle between u and v is ZT’T 
+3. State whether these vectors are orthogonal. 
+If they are not orthogonal, is the angle acute? 
+2 
+=1l 
+(a)u:(fs),v:(3) 
+(b) u#=3i—7j,v=5i+2j 
+4 
+5 
+(c) u=i—3j+6kv=6j+3k 
+4. (a) Show that the vectors v = —yi + xjand w = yi — xj are both 
+perpendicular to u = xi + yj. 
+(b) Find two unit vectors that are perpendicular to u = 2i — 3j. 
+Plot the three vectors in the same coordinate system. 
+5. For each vector v: 
+(i) 
+find the direction cosines 
+(ii) show that they satisfy cos?a + cos? B + cos?y= 1 
+(iii) approximate the direction angles to the nearest degree. 
+(@ v=2i—-3+k 
+(b)W=ti=2j5k 
+(© v=3i-2+k 
+(d) v=3i— 
+4k 
+394
+
+P 
+6. Find a unit vector with direction angles %T, %T, 5 
+7. Find a vector with magnitude 3 and direction angles % 
+8. Determine m such that u and v are perpendicular. 
+5] 
+m—2 
+2m 
+m—1 
+(a)u:(s);v:(m+3) 
+(b)u:(mfl);v:(m) 
+0 
+0 
+m+ 
+1 
+=l 
+=3 
+il 
+9. Letu:( 
+1 ),v:(z),andw:qumv 
+2 
+1 
+Determine the value of m so that the vectors u and w are orthogonal. 
+=7 
+6 
+10. Letu=| 
+5 
+|,andv= 
+(-3 
+4 
+0 
+Find, to the nearest degree, the measures of the angles between 
+(a) wand v 
+(b) uand (u + v) 
+(c) vand (u +v) 
+11. Consider the three points A(1, 2, —3), B(3, 5, —2), and C(m, 1, —10m). 
+Determine m so that: 
+(a) A, B, and C are collinear 
+(b) ﬁ and E are perpendicular. 
+12. Consider the triangle with vertices A(4, —2, —1), B(3, —5, —1), and 
+C(3, 1, 2). Find the vector equations of each of its medians and then find 
+the coordinates of its centroid (where the medians meet). 
+13. (a) Consider the tetrahedron 
+ABCD with vertices as shown 
+in the diagram. Find, to the 
+A(1,2,3) 
+nearest degree, all the angles 
+in the tetrahedron. 
+   
+  
+(1, -4, 3) 
+(b) Use the angles you found to 
+calculate the total surface area 
+of the tetrahedron. — 
+(c) What angles does DC make 
+with each of the coordinate 
+axes? — 
+= 
+— 
+() Find (DA — DB) 
+- AC 
+8 
+14. Find k such that the angle between the vectors <7 k) and < 
+! 
+k 
+1 
+15. Find k such that the angle between the vectors <1> and <k> is L, 
+1 
+[ 
+5} 
+2 
+B} 
+4 
+16. Find x and y such that (;) is perpendicular toboth | 
+1 
+|and | —1]. 
+=il 
+2 
+395
+
+396 
+Vectors, lines, and planes 
+17 
+18. 
+e, 
+20. 
+21. 
+22. 
+23. 
+24. 
+25% 
+26. 
+R7 
+28. 
+29. 
+e 
+2] 
+Consider the vectors (Zx = 2) and (1 S x). Find the value(s) of 
+x such 
+S 
+Iy 
+that the two vectors are parallel. 
+(2, 
+(3 
+o 
+In triangle ABC, OA :(3), OB = (5), and BC = 
+( 4 ) 
+1 
+4 
+0 
+(a) Find the size of ABC. 
+(b) Findﬁ and use it to find measure of BAC. 
+Find the value(s) of 
+b such that the vectors are orthogonal. 
+b 
+1 
+4 
+b? 
+(a) <3> and <b> 
+(b) (*2) and ( b) 
+2 
+1 
+7 
+0 
+b 
+2b 
+2 
+6 
+(c)<11>and<—b> 
+(d)<5>and<4> 
+5 
+=5 
+2b, 
+S0 
+If two vectors p and q are such that [p| = |g|, show that 
+p + g and 
+P — q are perpendicular. (This proves that the diagonals of a rhombus 
+are perpendicular to each other.) 
+Shortly after take-off, an aeroplane is rising at a rate of 300 m min . 
+It is heading north-west (on a bearing of 045°) with an airspeed of 
+200 kmh~!. Find the components of its velocity vector. The x-axis is in 
+the east direction, the y-axis north and the z-axis is the elevation. 
+For what value of t is the vector 2ti + 4j — (10 + )k perpendicular to 
+the vector i + tj + k? 
+For what value of ¢ is the vector fi + 3j + 2k perpendicular to the vector 
+itk 
+For what value of ¢ is the vector 4i — 2j + 7k perpendicular to the vector 
+i+ tj? 
+Find the angle between the diagonal of a cube and a diagonal of one of 
+the faces. Consider all possible cases. 
+Show that the vector |a|b + |b|a bisects the angle between the two 
+vectors a and b. 
+Letu =i + mj + kand v = 2i — j + nk. Compute all values of m and n 
+for which u L v and |u| = |v| 
+Show that %T, %, zTﬂ- cannot be the direction angles of a vector. 
+A vector has direction angles a = %T, B= %T 
+Find the third direction angle, .
+
+30. Ifall the direction angles of a vector are equal, what is the size of each 
+angle? 
+31. The direction angles of a vector u are a, 3, and y. What are the direction 
+angles of —u? 
+32. Find all possible values of a unit vector u that will be perpendicular to 
+both 
+i + 2j + kand 3i — 4j + 2k. 
+Vector (cross) product 
+In several applications of vectors there is a need to find a vector that is 
+orthogonal to two given vectors. In this section we will discuss a type of vector 
+multiplication that can be used for this purpose. 
+  
+  
+uy 
+m 
+o 
+4 
+In case you do not want 
+Letu = (:z) andv = (:z) ‘The vector (cross) product is written as u X vand is defined as 
+et e 
+uj 
+u: 
+1, 
+! u 
+U, 
+u. 
+definition of the cross 
+| 
+ul, 
+o u 
+1 
+Uy 
+3 
+UV |v1 
+v;|i 
+|v; 
+v;lj Fly 
+ok 
+pn))(ducl canbe stated as: 
+UX 
+V= (yvy — vyt 
+or using the properties of determinants, this definition is equivalent to 
+N :uzvj - vluﬁi 
+s 
+1 
+1 
+R 
++ @yvy 
+= vupk 
+uxv=luy 
+1w 
+u 
+Y1V 
+B3| 
+  
+Example 
+  
+Given the vectors u = 2i — 3j + kand v = i + 3j — 2k, find: 
+(@ 
+uXvy 
+(b) vXu 
+() uXu 
+2 
+1.2 
+-3 
+b2+ 
+Solution 
+i 
+@ 
+uxXv=p 
+—3   
+  
+  
+  
+1 
+3 
+=3i+5)+9% 
+i 
+_ 
+R 
+T T 
+N T 
+(BIRecss 
+|19 
+|73 
+1|' 
+|2 
+1L’+|2 
+—3|" 
+b 
+= —3i—5— 
+9% 
+i 
+j 
+K 
+= 
+R O 
+N 
+2 "X"’; 
+B4 
+H 
+15 - H+B 
+Spe-o 
+  
+  
+Note thatu X v = —(v X u) 
+Determinants have many useful applications when we are dealing with vector 
+products. Here are some of the properties, which we state without proof. 
+397
+
+Vectors, lines, and planes 
+1 
+Iftwo rows of a determinant are proportional, then the value of that determinant is zero. 
+So, for example, ifu = ai + bj + ck, v = mai + mbj + mck, then 
+  
+  
+  
+i 
+j 
+K 
+uxv=|, 
+= 
+lma 
+mb 
+mc 
+‘This result leads to an important property of vector products: 
+‘Two non-zero vectors are parallel if their cross product is zero. 
+2 
+Iftwo rows of a determinant are interchanged, then the determinant’s value is multiplied by 
+(=1). 
+So, for instance, if 
+= uyi + s + usk, v = vyi + voj + vk, then 
+ij 
+ok 
+T 
+uXv=lu 
+i 
+wl=-ln 
+n 
+nl=-wxw 
+v 
+up 
+oy u 
+  
+  
+  
+  
+Properties of the vector product 
+The following results are important. 
+1 
+uXWwEw=wXvEuxXw 
+2 
+uX0=0 
+3 
+uXu=0 
+4 
+iXj=kjxk=ikkxi=j 
+5 
+wu-(uXv)=0/(e u X vis orthogonal to u) 
+6 
+v-(u X v) =0 (ie. u X vis orthogonal to v) 
+Proof 
+To prove i X j = k, we apply the definition. 
+K| 
+0] 
+0] 
+i 
+iXj= 
+=k 
+— 
+j 
+0 
+01 
+details are left as an exercise. 
+  
+|MZ 
+u5| 
+v, 
+V. 
+up 
+|12 
+" 
+Uy 
+Uy 
+u-wXv)=|u|— 
+u 
+Y1 
+V3 
+|ul 
+uz| 
+i=jxk=—(kxj) 
+Vi 
+"2 
+Figure 9.22 Vector product of two base vectors 
+result in a third base vector 
+so that 
+Uy 
+Uy 
+U 
+U 
+Uy 
+Uy 
+u-wxXvy = 
+l| 
+|* 
+2| 
+3 
+V2 
+Vs 
+Vi 
+Vs 
+Vi 
+V2 
+T U Uy V3 
+U Vo Uy T Uy Uy Vs 
+Uy Vit UV, UV Uy 
+=0 
+Properties 4 and 5 lead to an equivalent geometric definition of the cross 
+product: 
+398
+
+  
+(1 
+v) s a vector perpendicular to both u and v and obeying the right-hand rule, and has the magnitude: [u X v| = |ullv}sin6 
+uxv    
+Remember that u X v = — (¥ X 1) 
+Proof 
+The algebraic manipulation required for the proof is extensive, so we will keep 
+the details away from this discussion: 
+Ju X V] = vy = vy + (Vs = viug (v, — Vi) 
+=l + w3+ u)vi +v; 
+Vi) = v+ upy, + v 
+= [ulPuf (- 
+> = 
+Juf v 
+= (ullv]cos6)* 
+= [ul|[v|V1 — cos? 6 = |ul|v|sinf 
+The vector product gives you another method for finding the angle between 
+two vectors. 
+Ju X o] 
+[s4]1¥1 
+Example 
+9.15 
+Find a unit vector orthogonal to both vectors u# = 2i — 3j + kand 
+v=i+3j—2k 
+| 
+|u X v] = |ul|v|sinf 
+< sinf = 
+Solution 
+u X v is orthogonal to both vectors. 
+uXv=3i+5j+9k 
+A unit vector in the same direction as u# X v will also be orthogonal to both 
+vectors. A unit vector is equal to the vector itself multiplied by the reciprocal 
+of its magnitude (Section 9.1). 
+Find the magnitude of u X v first. 
+lu X vl =9+ 25+ 81 = /115 
+) 
+) 
+: 
+Xy 
+3i+5+09%k 
+The required unit vector is therefore 
+VIS i 
+uxvl 
+/115 
+  
+399
+
+      
+Area = base - height 
+= [l 
+- ¥llsin 6] 
+=luxy| 
+u 
+Figure 9.23 Magnitude ofa 
+vector product 
+400 
+Vectors, lines, and planes 
+The last result leads to the conclusion that the magnitude of the cross product is 
+the area of the parallelogram that has u and v as adjacent sides. 
+Example 9.16 
+(a) Show that the quadrilateral ABCD with its vertices at the points 
+A(3,0,2), B(6,2,5), C(1,2,2),and D(4, 4, 5) is a parallelogram 
+(b) Find the area of the parallelogram. 
+Solution 
+B\ [\ 
+3\, 
+(-2 
+(a) AB:(Z),BD:(2),CD:(2),AC:(2) 
+& 
+0 
+& 
+0 
+- 
+= 
+= 
+— 
+This implies that AB = CD and BD = AC, which in turn means 
+that the pairs of opposite sides of the quadrilateral are congruent and 
+parallel. (We need only one pair). 
+Thus ABDC is a parallelogram with AB and BD as adjacent sides. 
+(b) The area of the parallelogram is the magnitude of the cross product 
+— 
+= 
+of AB and BD 
+= 
+= 
+|8 
+454 
+¢ 
+ABXBD=|3 
+3 
+3=[-6 
+02 
+2 
+0 
+10 
+  
+  
+So the area of the parallelogram is 
+|48 x BD| = /36 7 36 ¥ 100 = V172 
+= 2/43 
+Example 9.17 
+Find the area of the triangle determined by the points A(2, 2, 0), B(—1, 0, 2), 
+and C(0, 4, 3). 
+  
+Solution 
+The area of the triangle ABC is half the area of the parallelogram formed 
+with AB and AC as its adjacent sides. 
+(-3 
+., 
+(-2 
+AB =|(-2]andAC 
+= | 
+2 
+2) 
+5 
+- 
+— 
+(10 
+So AB X AC =| 
+5 
+|, and hence 
+—10, 
+. 
+71|_’ 
+_’I,l 
+10+ 
+52+ 
+(=102 
+area of triangle ABC =3 |JAB X AC —E/( 
+[10)2ER52E 
+R 
+(E=NT0)) 
+15 
+= 15 
+> 
+225 = >
+
+  
+  
+  
+The scalar 
+triple prod 
+Letu = (uy, uy, u3), v = (vy, v, v3) and w = (wy, wy, w3). The scalar triple product is u 
+- (v X w) 
+‘This product is very 
+‘The component expression of this prodnct is: 
+useful in its geometric 
+v, 
+B 
+v 
+interpretation as it is of 
+wrXW=u- (|wz o e 
+greathelp 
+in finding the 
+12 
+.,l 
+Vv 
+equation ofa plane later 
+=4l w, 
+w3| ~ iy, 
+| Fugy w1| 
+in the chapter. 
+4 
+a3 
+=|ln 
+n 
+wn 
+Wi 
+Wi 
+Wi 
+  
+  
+Example 
+9.18 
+Calculate the scalar triple product of the vectors 
+u=2i—j—5kv=2i+5—5kw=i+4j+3k 
+] 
+Solution 
+2 I 
+EE 
+5} 
+*5‘ = 66 
+1 
+4 
+B} 
+u-(vXxXw= 
+  
+Geometric interpretation 
+|u - (v X w)| is the volume of the parallelepiped that has the three vectors as 
+adjacent edges. 
+Proof 
+In Figure 9.24, [v X w| is the area of the parallelogram with 
+sides v and w, which is also the base of the parallelepiped. 
+|u- (v X w)| = |u||v X w|cosa 
+= |v X w||u|cosa 
+As |u|cos (@) = h, the height of the parallelepiped, and 
+|v X w] is the area of the base, the triple product’s absolute 
+value is the volume of the parallelepiped. 
+A direct consequence of the scalar triple product is that 
+Area of base 
+the volume of the parallelepiped is 0 if and only if the three 
+=lvxw 
+vectors are coplanar. That is: 
+  
+Figure 9.24 Parallelepiped 
+formed 
+by 
+three 
+vects 
+Ifu = (uy, uy, t3), v =(vy, v, v3) and w =(wy, wy, w3) are three vectors drawn 
+ARSI 
+from the same initial point, they lie in the same plane if: 
+h 
+U 
+U 
+V2 
+V3 
+Wi 
+Wy 
+W 
+u-(vXw= 
+0 
+  
+  
+The parentheses in the scalar triple product are unnecessary, i.e. 
+u- (v X w)=u-vX w. This is so because u 
+- v is a scalar. 
+401
+
+Vectors, lines, and planes 
+Consider the three vectors 
+w=2i+j+mhkv=3i+2+3kw=mi+2+k 
+(a) Find the volume of the parallelepiped that has these vectors as sides. 
+(b) Show that these vectors can never be on the same plane. 
+— 
+- 
+Solution 
+(a) The volume of the parallelepiped is given by the absolute value of their 
+scalar triple product: 
+    
+    
+2w 
+lu-wxw|=|3 
+2 
+3| =|-2m+9m-11 
+m 
+2 
+(b) For the vectors to be coplanar, their scalar triple product must be zero. 
+That is 
+—2m?+9m—11=0 
+However, since this is a quadratic equation, it can have real roots if 
+b — 4ac > 0. But b> — 4ac = 81 — 88 = —7 < 0, and thus the equation 
+does not have any real roots and the three vectors can therefore never 
+be coplanar. 
+1. (a) Find the cross product using the definition: i X (i + j + k) 
+(b) Compare your answer to (i X i) + (i X j) + (i X k) 
+2. Repeat question 1 for j X (i + j + k) 
+3. Repeat question 1 fork X (i +j + k) 
+P 
+4. Use the definition of vector products to verify 
+B 
+E 
+e 
+L 
+5. Find u X vand check that it is orthogonal to both u and v. 
+2 
+= 
+(a)u:(ii),v:(z) 
+(b) u=4i + 3j,v = —2j + 2k 
+=0 
+3 
+1 
+4 
+(CFE 
+N 
+IRTE 
+] 
+(d) e=5i+j+2k,v=3i+k 
+Sl 
+=3 
+6. Consider the vectors u = 2i + j + mk, v = 3i + 2j + 3k, and 
+w=mi+2j+k 
+Find 
+@ u-wxXw 
+(b) w-(uXw 
+(€ v-(wXu 
+402
+
+10. 
+% 
+12. 
+5 
+14. 
+1155, 
+16. 
+7 
+] 
+1 
+2 
+. Consider the vectors u = (0), v= (2) andw = (5) 
+4 
+8, 
+6. 
+Find 
+(@) uX WX w 
+(b) 
+X ¥ X w 
+() X)X wxXw 
+d) XWX Xy 
+(e m-wyv—@w-vw 
+(f) w-uy—(w-vu 
+. Find a unit vector that is orthogonal to both 
+u=—6i+4j+kandv=3i+j+ 
+5k 
+. Find a unit vector that is normal (perpendicular) to the plane 
+determined by the points A(1, —1, 2), B(2, 0, —1), and C(0, 2, 1). 
+Find the area of the parallelogram that has # and v as adjacent sides 
+(@ u=2i+3kv=i+4j+2k 
+(B)u=3i+4+kv=3—k 
+Verify that the points (2, —1, 1), (5, 1,4), (0, 1, 1), and (3, 3, 4) are the 
+vertices of a parallelogram and find its area. 
+Show that the points P(1, —1, 2), Q(2, 0, 1), R(3, 2, 0), and §(5, 4, —2) 
+are coplanar. 
+For what value(s) of m are these four points on the same plane? 
+A(m, 3, —2), B(3,4, m), C(2,0, —2), and D(4, 8, 4) 
+Find the area of the triangle with the given vertices. 
+(@) A(2,6,~1), B(1,1,1), C(3,5,2) 
+(b) A(3,1, -2), B(2,5,6), C(6, 1,8) 
+Findu- 
+(v X w) 
+(a) u=3i—2j+ 
+2k v=>5i+2 — 2k w=i+2j+ 6k 
+2) 
+1 
+3 
+(b) u= (71),1/: (4),w: 
+( 
+2 
+) 
+3 
+& 
+=7 
+3 
+il 
+5 
+o[- 
+1 
+1 
+2 
+Find the volume of the parallelepiped with u, v and w as adjacent edges. 
+3] 
+1 
+3 
+@ u=|-5,v=|5|w=|2 
+5] 
+=l 
+=3, 
+(b) u=4i+2j+3kv=>5i+6f+ 
+2k w=2i+3j+ 5k 
+Determine whether or not the three given vectors are coplanar. 
+e 8T 
+oo (- (4 
+403
+
+Use right triangle 
+trigonometry to find d in 
+404 
+terms of  first. 
+19. Consider the parallelepiped 
+Vectors, lines, and planes 
+18. Find m such that the following vectors are coplanar; otherwise, show 
+that it is not possible. 
+o= i3 
+e (-3} 
+shown in the diagram. 
+(a) Find the volume. 
+(b) Find the area of the face 
+determined by u and v. 
+(c) Find the height of the 
+parallelepiped from vertex 
+D to the base. 
+(d) Find the angle that w 
+makes with the plane 
+determined by u and v. 
+  
+20. (a) The volume of a tetrahedron is %(base)(height). 
+Use the results from question 19 to find the volume of tetrahedron 
+ABCD. Compare this volume to the volume of the parallelepiped 
+and make a general conjecture. 
+(b) Use the results you have from part (a) to find the volume of the 
+tetrahedron whose vertices are A(0, 3, 1), B(3, 2, —2), C(2, 1, 2), and 
+D4, —1,4) 
+21. What can you conclude about the angle between two non-zero vectors 
+uand vifu-v=|uXv[? 
+22. Show that [u X v| = |/|u?[v|> — (u 
+- v)? 
+23. Use the diagram at the right to 
+2 
+show that the distance from a 
+point P in space to a line L 
+through two points A and B 
+can be expressed as 
+@ 
+|51 
+d 
+  
+24. Use the result from question 23 to find the distance from point A to the 
+line through the points B and C: 
+(@) Al-2.2.8 BU 2 1014 —3) 
+(b) A(5,4), B(3,2),C(1, 3) 
+(c) A(2,0,1), B(1, —2,2),C(3,0,2)
+
+25. Express (u + v) X (v — u) in terms of (u X v). 
+26. Express (2u + 3v) X (4v — 5u) in terms of (u X v). 
+27. Express (mu + nv) X (pv + qu) in terms of (u X v), where m, n, p, and q 
+are scalars. 
+28. You are given a tetrahedron with its vertex at the origin and base ABC as 
+shown in the diagram. 
+(a) Find the area of the base ABC. Call it 0. 
+(b) Find the area of each face of the tetrahedron and call them a, b, and c. 
+(c) Show that 02 = a? + b2 + ¢2. This is sometimes called the 3D 
+version of Pythagoras’ theorem. 
+29. Find all vectors v such that (—i + 2j + 3k) X v = 
+i + 5j — 3k. 
+Otherwise, show that it is not possible. 
+30. Find all vectors v such that (—i + 2j + 3k) X v = i + 5j. 
+Otherwise, show that it is not possible. 
+Lines in space 
+In the same way that a plane can be defined by any three points, a straight 
+line in space can be determined by any two points A and M that lie on it. 
+Alternatively, the line can be determined by specifying a point on it and a 
+direction given by a non-zero vector parallel to it. To investigate equations 
+that describe lines in space, let’s begin with a straight line L that passes through 
+the point A(x;, yo, Z,) and parallel to the vector v = ai + bj + zk, as shown in 
+Figure 9.26. If L is the line that passes through A and is parallel to the non-zero 
+vector v, then L consists of all the points M(x, y, z) for which the vector AM is 
+parallel to v. 
+z    
+   
+  
+Mx, 3 2) 
+Al Y00 2) 
+x 
+Figure 9.26 Any vector AM is parallel to v 
+  
+Figure 9.25 Diagram for 
+question 28 
+In Section 9.1 we 
+established that two 
+vectors are parallel if 
+one of them is a scalar 
+multiple of the other. 
+That is v is parallel to u 
+ifand onlyif y = fu for 
+some real number £. 
+405
+
+    
+Figure 9.27 Vector AM is a 
+multiple of v 
+‘The line that passes 
+through the point 
+Alxg, 0, ) and parallel 
+to the vector v = ( b) has 
+c 
+parametric equations: 
+x=xg+aty=y+ 
+bt 
+2= 
+406 
+Vectors, lines, and planes 
+— 
+This means that for the point M to be on L, AM must be a scalar multiple 
+of v. That is 
+— 
+AM = tv, 
+where ¢ is a scalar. This equation can be written in coordinate form as 
+X~ Xy 
+@ 
+ta 
+Y=l 
+|= t(b) = (tb) 
+zZ— 2 
+C 
+tc 
+For two vectors to be equal, their components must be the same, so 
+X—Xxg=ta,y—y,=thz—zy=Ic 
+This leads to the result: 
+x=xotaty=y +btz=z+ct 
+Example 
+9.20 
+(a) Find parametric equations of the line through A(1, —2, 3) and parallel to 
+ 
+v =5i+4j — 6k 
+(b) Find parametric equations of the line through the points A(1, —2, 3) and 
+B(2,4, —2) 
+E——————————————————————————— 
+Solution 
+(a) From the above theorem, x = 
+1 + 5t,y = —2 + 4t,z =3 — 6t. — 
+(b) We need to find a vector parallel to the given line. The vector AB 
+s 
+1 
+provides a good choice. AB = ( 6 
+|. So the equations are 
+=5 
+DN Ve O 62 
+S 
+Another set of equations could be 
+x=2+ty=4+6tz=—2—5t 
+— 
+Other sets are possible by considering any vector parallel to AB. 
+Vector equation 
+of a line 
+An alternative route to interpreting the equation 
+— 
+AM =tv 
+is to express it in terms of the position 
+2) 
+i 
+vectors r, of the fixed point A, and r, the 
+position vector of M. 
+In Section 9.1 we discussed the difference 
+of two vectors, which we can use here 
+— 
+— 
+— 
+AM = OM — OA 
+Figure 9.28 Position vector approach 
+=tv=r—r, 
+to equation of line 
+ 
+
+And hence we arrive at the vector equation of a line. 
+‘The two approaches are very closely related. We can even say that the parametric equations are a 
+‘The vector equation of 
+detailed form of the vector equation. 
+theliner = ry + tv 
+r=ryttv 
+ris the position vector 
+Xo 
+X0\ 
+[t 
+%0+ ta 
+ofany point on the line, 
+@@ = (}'0) o t@ = (}’0) + @ =|yt+th 
+‘while ry is the position 
+20, 
+20, 
+20+ tc. 
+vector of a fixed point 
+x=x0+1 
+(A in this case) 
+on the 
+I 
+line and vis the vector 
+oy 
+parallel to the given line. 
+We can interpret vector equations in several ways. One of these has to do 
+: 
+v 
+—5v 
+2 
+with displacement. That s, to reach point M from point O, we first arrive 
+at A, and then go towards M along the line a multiple of v, tv. 
+Looking at Figure 9.29, for each value of t we describe a point on the line. 
+When t > 0, the points are in the same direction as v. When t < 0, the 
+points are in the opposite direction. 
+  
+Figure 9.29 Points on a line as. 
+Example 
+9.21 
+displacements 
+Find a vector equation of the line that contains the point (=1, 3, 0) and is 
+parallel tov = 3i — 2j + k 
+| 
+Solution 
+From the discussion above, r = (—i + 3j) + t(3i — 2j + k) 
+When ¢ = 0, the equation gives the point (—1, 3). When ¢ = 1, the equation 
+givesr = (—i + 3j) + (3i — 2j + k) = 2i + j + k, a point shifted by 1v 
+down the line. 
+Similarly, when t = 3 
+r=(—i+ 3j) + 3(3i — 2j + k) = 8i — 3j + 3k, a point 3v down the line, etc. 
+Alternatively, the equation can be written as r = (—1 + 3t)i + (3 — 21)j + tk. 
+This last form allows us to recognise the parametric equations of the line by simply 
+reading the components of the vector on the right-hand side of the equation. 
+Example 9.22 
+Find a vector equation of the line passing through A(2, 7) and B(6, 2). 
+Solution 
+Let the vector AB = (g = ;) = (fs) be the vector giving the direction of 
+2 
+4 
+B 
+7) o t( _ 5), or equivalently 
+r=2i+7j 
++ t(4i — 5j) 
+the line, so r = 
+( 
+407
+
+    
+x 
+AG.T.) 
+Y 
+Figure9.30 Line segments 
+408 
+Vectors, lines, and planes 
+Example 9.23 
+Find parametric equations for the 
+line through A(—1, 1, 3) and parallel 
+to the vector v = 2i + 3j — k. 
+  
+Solution 
+x=—1+2,y=1+3tz=3—1t 
+If we select a few points with their parametric values, we can see how the 
+equation represents the line. For ¢ = 0, as we expect, we are at point A; for 
+t = 1, the point is B and for t = 2, the point is C. The arrows show the direction 
+of increasing values of £. 
+Sometimes, we would like to express a line segment in parameters. That is, to 
+write the equation so that it describes the points making up the segment. For 
+example, to parameterise the line segment between A(3, 7, 1) and B(1, 4, 2), we 
+first find the direction vector 
+. 
+(2 
+AB=|-3 
+1 
+then we use point A as the fixed point on the line. 
+Thus, the parametric equations are 
+X =32t 
+y=7-3t 
+z=1+t 
+Notice that when t = 0, the line starts at the point A(3, 7, 1) and when t = 1, 
+the line starts at B(1, 4, 2). Therefore, to parameterise this segment we restrict 
+the values of  to 0 < t < 1. The new equation is then 
+x=3-2ty=7-3tz=1+t 
+0<t<1 
+In general, to parameterise a line segment AB so that we represent the points 
+included between the end points only, we can use the vector equation 
+— 
+— 
+rt)=(1—-1H0A +tOB, 
+0<t<1
+
+— 
+— 
+In this parameterisation, when t = 0, 7 = OA, and when t = 1, r = OB. 
+This way, r traces the segment AB from A to Bfor 0 <t < 
+1. 
+‘The parameterisation with the vector equation can be expressed differently if we want to use 
+parametric equations. If A(x1, y1, z1) and B(x, y2, 22) are the endpoints of the segment, then 
+— 
+Y 
+i) = (1 — 0A + tOB = OA — tOA + tOB 
+— 
+— 
+= & + 0B — 0A) = ey, y1,21) + tv2 — 31,32 — Y22 — 
+) 
+= (¥t txy = xayn + 1y — )zt iz — 2) 
+So the parametric equations are 
+%=k h G S 
+s W S 
+e 
+ez a2 
+0 = 
+Example 9.24 
+Parametrise the line segment through A(2, —1, 5) and B(4, 3, 2). Use the 
+equation to find the midpoint of the segment. 
+e 
+—— 
+Solution 
+— 
+) =(1—-8HOA +tOB, 
+0<t<l1 
+2 
+4 
+2 4p 
+2 
+—a-o 1)« 3) - (71 +4,) 
+o} 
+v 
+RS 
+For the midpoint, t = %, and hence its coordinates are 
+T 
+L 
+- 
+o ) 
+f3)= 
+(2 2g) 
+1+ o) s 
+o3) = (1) 
+This method can be used to find points that divide the segment in any ratio; 
+for example, % of the way from A to B. 
+Equivalently, the parametric equations can be used 
+x=2+t4—-2,y=-1+t3+1),z2=5+t2—-5) 
+x=2+2t,y=—-1+4tz=5-3,0<t<1 
+Symmetric (Cartesian) equations of lines 
+Another set of equations for a line is obtained by eliminating the parameter 
+from the parametric equation. 
+Ifa # 0,b # 0,and ¢ # 0, then the set of parametric equations can be 
+re-arranged to yield the set of Cartesian (symmetric) equations: 
+X 
+— Xy 
+X — 
+Xy = tas 
+  
+y*ygztbﬁy 
+  
+  
+-z =& 
+=t 
+c 
+Notice that the coordinates (xy, y, z) of the fixed point A on L appear in the 
+numerators of the fractions, and that the components a, b, and ¢ of a direction 
+vector appear in the denominators of these fractions. 
+409
+
+410 
+Vectors, lines, and planes 
+Example 9.25 
+Find the Cartesian equations of the line through A(3, —7, 4) and B(1, 
+1) 
+  
+Solution 
+In order to use the Cartesian equation, we find the vector v parallel to the line. 
+— 
+Since A and B are two points that lie on the line, the vector AB will suffice. 
+Thus, we let 
+v=AB = (1— 3)i + (=4 + 7)j + (=1 — &k = —2i + 3j — 5k 
+If we use A as the fixed point, then the Cartesian equations are 
+  
+=2 
+3 
+= 
+Example 9.26 
+Let L be the line with Cartesian equations 
+%=2 
+yatliE 
+ER— 
+R 
+Find a set of parametric equations for L. 
+Solution 
+Since the numbers in the denominators are the components of a vector 
+parallel to L, then 
+u=3i-2+k 
+The point (2, —1, 4) lies on L. 
+Thus, a set of parametric equations of L is 
+Xx=2+3ty=-1-2t,z=4+1 
+A vector equation would be 
+TG 
+If any of the components a, b, or ¢ is zero, then the Cartesian equations are 
+written in a mixed form. For example, if ¢ = 0, then we write 
+X=X 
+_ Y~ 
+T 
+b>Z*% 
+  
+  
+For example, the Cartesian set of equations for a line parallel to 2i — 3j through 
+the point (2, 1, —3) is 
+1*2:771 
+7 rT
+
+also be skew straight lines. Although these lines are not parallel, they do not 
+intersect either. They lie in different planes. 
+Intersecting, 
+parallel, and skew straight lines 
+L 
+In the plane, lines can coincide, intersect, or be parallel. In space they can 
+M 
+How do we know whether or not two lines are parallel? 
+If the direction vectors are parallel, then the lines are. We can check to see if 
+one of the vectors is a scalar multiple of the other. Alternatively, we can find the 
+angle between them, and if it is 0° or 180°, then the lines are either parallel or 
+M 
+coincident. The case for coincidence is always there, and we need to check it by 
+L 
+examining a point on one of the lines to see whether it is also on the other line. 
+Example 9.27 
+Show that these two lines are parallel: 
+Lypx=2—3ty—tz— —1+2t 
+Figure 9.32 Two parallel lines 
+ke 
+=MIEHL68, 
+= 2= 25z =00/ 
+L 
+Solution 
+Let I, be the vector parallel to L, and I, be the vector parallel to L,. 
+- 
+I, = —3i +j+ 2kand , = 6i — 2j — 4k 
+I 
+Now we can easily see that I, = —21,, and hence the vectors are parallel. 
+Figure 9.33 Two skew straight 
+To check whether the lines coincide, examine the point (2, 0, —1), which is 
+lines 
+on the first line, and see whether it lies on the second line, too. 
+Figure 9.31 Two intersecting 
+straight lines 
+If we choose 
+y = 0, then 0 = 2 — 25, 50 s = 1; and when we substitute s = 
+1 
+into x = 
+1 + 6s we find that x must be 7 in order for the point (2, 0, —1) to 
+be on L,. Therefore, the lines cannot intersect, and their direction vectors are 
+parallel, so they must be parallel. 
+Are the lines intersecting or skew? 
+If the direction vectors are not parallel, then the lines either intersect or are 
+B(1,m + b) 
+skew. The method starts by examining whether or not the lines intersect. If 
+A 
+they do, then we can find the coordinates of the point of intersection; if they do 
+not intersect, then we cannot find the coordinates of the point of intersection. 
+Finding the coordinates of the point of intersection is a straightforward method 
+  
+Figure 9.34 Vector equation of 
+that you already know: solving systems of equations. 
+line in 2D 
+‘The vector equation of 
+a line has an interesting application in proving a result that you already know — the condition for two lines to be 
+perpendicular. 
+‘The slope-intercept form of the equation of the line is y = mx + b. We can consider the fixed point on the line to be its y-intercept, 
+e, ro = bj, and another point (1, m + b) on the line = r = i + (m + b}j. So, the direction vector of the line is 
+v=r—ro=(i+(m+bj)—bj=i+mj 
+Now, if you have two lines with slopes 1 
+and 1, their direction vectors can be written as vy = i + myjand vy = i + myj. 
+For the two lines to be perpendicular, their direction vectors will also be perpendicular, and hence 
+Vi vy = (i 
+myj)- (i 
+maj) = 1+ mymy = 0= mymy = —1 
+41
+
+412 
+Vectors, lines, and planes 
+Example 9.28 
+The lines L, and L, have the equations: 
+e VR e 
+e 
+o 1 
+e =¥ o 8s;iyl= 
+28352 = SEhs 
+Show that the lines are skew. 
+Solution 
+‘We first examine whether the lines are parallel. However, since the vector 
+parallel to L, is I, = (4, —4, 5) and the vector parallel to L, is I, = (8, —3, 1) 
+are not scalar multiples of each other, the vectors and consequently the lines 
+are not parallel. 
+For the lines to intersect there should be some point M(x,, y;, z,) that 
+satisfies the equations of both lines for some values of t and s. That is 
+X0 = 148 = 25855y 
+= 5i=tdf = d =352y = S5t 
+= S 
+This leads to a set of three simultaneous equations in two unknowns: s and . 
+By solving the first two equations: 
+1+4t=2+8s 
+- 
+- 
+st 
+se=6tssrs=nt=g 
+For the system to be consistent, these values must satisfy the third equation, 
+Sk % =5 + 0, which is false. Hence the system is inconsistent and the 
+lines are skew. 
+Example 9.29 
+The lines L, and L, have the following parametric equations: 
+g 
+= 
+ilap 
+=8 =g = =7 ar 4i 
+Lyx=4+3sy=4+s2=—4—2s 
+Show that the lines intersect. 
+Solution 
+We first examine whether the lines are parallel. However, since the vector 
+P 
+3 
+parallel to L, is I, = (74) and the vector parallel to L, is I, = ( 
+1 
+) are not 
+4 
+=7 
+scalar multiples of each other, the vectors and consequently the lines are not 
+parallel. 
+For the lines to intersect there should be some point M(x,, y,, ) that 
+satisfies the equations of both lines for some values of t and s. That is 
+X=1+2t=4+35y, 
+=3 —4t=4t5zy= =24t 
+= =4 =25 
+This leads to a set of three simultaneous equations in two unknowns: s and #.
+
+By solving the first two equations: 
+1+2t=4+3s 
+3—4t=4+s 
+For the system to be consistent, these values must satisfy the third equation, 
+}#5:121’73#5:*1,[:0 
+—2 +4(0) = —4 —2(—1) = —2 = —2, which is a correct statement. Hence 
+the two lines intersect. 
+The point of intersection can be found through substitution of the value of 
+the parameter into the corresponding line equation: 
+L;: (1,3, —2)and alsoin L,: (4 — 3,4 — 1, —4 — 2(—=1)) = (1, 3, —2) 
+In vector form, finding the point of intersection, if it exists, follows a similar 
+approach. For example, the vector equations of lines L, and L, are 
+(343 ()0 
+The condition of intersection is therefore 
+(2) () (8)-3) 
+which leads to the same conclusion as in the case using parametric equations. 
+  
+Application 
+of lines to 
+motion 
+  
+  
+The vector form of the equation of a line in space is more revealing 
+when we think of the line as the path of an object, placed in an 
+appropriate coordinate system, starting at position A(xy, yo, Z), and 
+moving in the direction of v (Figure 9.35). Generally speaking, we 
+find an object at an initial location A, represented by r,. 
+a 
+The object moves on its path with a velocity vector v = (b) 
+<, 
+The object’s position at any point in time after the start can then be 
+described by r = r, + tv. 
+  
+Assuming the unit of time to be seconds, the equation tells us that 
+for every second, the object moves a units in the x direction, b units 
+in the y direction and ¢ units in the z direction. So, for example, after 
+2 seconds we find the object at 
+Figure 9.35 Vector equation 
+asapath 
+r=ry+2v. 
+The speed of the object is then |v| in the v direction. 
+In general, we can write the vector equation in a slightly modified form 
+  
+t)=r,+tv 
+= 
+o+t 
+v 
+ot 
+vl 
+Initial 
+position 
+  
+ 
+ 
+  
+413
+
+Vectors, lines, and planes 
+In other words, the position of an object at time ¢ is the initial position plus 
+its rate X time (distance moved) in the direction u = — 
+Y ofits straight-line 
+motion. 
+| | 
+Let’s clarify this in Example 9.30 
+Example 9.30 
+A model aeroplane is to fly directly from a platform at a reference point 
+(2, 1, 1) towards a point (5, 5, 6) at a speed of 60 mmin~!. 
+‘What is the position of the aeroplane after 10 minutes, to the nearest metre? 
+ey 
+Solution 
+The unit vector in the direction of the 
+" 
+= 
+o 
+4 
+. 
+5 
+flightisu 
+= —i + 
+—j+—k 
+z 
+52 
+52 
+572 
+The position of the aeroplane at 
+any time ¢ is 
+r(t) = r, + t(speed)(u) 
+  
+4., 
+.5 
+—Qitj+R+ (10)(60)(71 i ﬁk) 
+e 
+360, . 480 . 600 
+- Gi+je 
+i+ (i 20+ T 
+So, the aeroplane is approximately at (257, 340, 425), to the nearest metre. 
+Example 9.31 
+An object is moving in the plane of an appropriately fitted coordinate system 
+3 
+i 
+hours after start, and distances are measured in km. 
+such that its position is given by r = 
+( 
+) oG t(gz), where t is the time in 
+(a) Find the initial position of the object. 
+(b) Show the position of the object on a graph at the start, after 1 hour, and 
+after 3 hours. 
+(c) Find the velocity and speed of the object. 
+] 
+Solution 
+(a) Initial position is when # = 0. This is the point (3, 1). 
+414
+
+=G 
+  
+-4 
+=3 
+=3 
+| 
+0 
+1 
+2 
+2 
+4x 
+(c) The velocity vector is v = (;2), which means that every hour the 
+object moves 2 units west and 3 units north. 
+The speed is |v| = 
+/(=2)2 + 32 = V13 kmh™! 
+We can also express the velocity as V13 kmh~"in the direction of (=2, 3). 
+We can also express the direction in terms of the unit vector in the direction of v 
+=2 
+instead. That is, we can say that the speed is V13 kmh ™" in the direction of| 
+3 
+3 
+or equivalently at an angle of cos™ ‘( Tz) ~ 124° to the positive x-direction. 
+v 
+Example 9.32 
+At midday, an aeroplane A is passing in the vicinity of an airport at a height 
+of 12km and a speed of 800 kmh~!. The direction of the aeroplane is 
+4 
+1 
+0 
+(3). Consider that (0) is a displacement of 1 km due east, (1) isa 
+0, 
+0, 
+0, 
+displacement of due north, and [ 0 | is an altitude of 1km. 
+i 
+(a) Using the airport as the origin, find the position vector r of the 
+aeroplane t hours after midday. 
+(b) Find the position of the aeroplane 1 hour after midday. 
+(c) Another aeroplane B is heading towards the airport with velocity vector 
+—300 
+600 
+—400 | from a location 
+(480 
+|. Is there a danger of collision? 
+0 
+12 
+415
+
+Vectors, lines, and planes 
+Solution 
+o 
+(a) The position vector at midday is ( 0 ) The direction of the velocity 
+12 
+4 
+vector is given by the unit vectoré 3. So, the velocity vector of this 
+1 
+4 
+640 
+aeroplane is 800 - —( 
+3| 
+= | 480 
+o/ 
+Vo 
+0 
+640 
+The position vector of the aeroplane is: r = 
+( 0 ) o t(480) 
+0 
+640 
+640 
+2 
+5 
+r=|0|+¢t480) 
+= 
+(480 
+12 
+0 
+2] 
+A collision can happen if the two aeroplanes paths pass the same point 
+at the same time. 
+The position vector for the second aeroplane is 
+(b 
+(e 
+600 
+—300 
+r=(480| 
++ | —400|, if the two paths intersect, they may intersect 
+12 
+0 
+at instances corresponding to #; and t, and they should have the same 
+position, thus, 
+0 
+640 
+600 
+—300° 
+0 | +£,(480 | = 
+(480 
++ t,( —400 
+12 
+0 
+12 
+0 
+This gives rise to a set of three equations in two variables 
+6401, = 600 — 3001, 
+480, = 480 — 4001, 
+12 =412 
+Solving the system of equations simultaneously will give ¢, = g, t,= % 
+This means that the aeroplanes’ paths will cross at (548.57, 411.43, 12). 
+However, there is no collision because aeroplane A will pass that point at 
+12:51 while aeroplane B will pass this point at 12.10. 
+  
+istance from a point to a line (optional) 
+Y     
+  
+     
+2-dimensional space 
+Th 
+. 
+S 
+There are several methods of 
+e equation of aline /s 
+written in the form 
+proving this theorem. We will 
+ax+ by +c=0. 
+follow a vector approach. 
+‘The distance from a point 
+Py (0, ) to the line Iis 
+The x- and y-intercepts of the line / are 
+given by 
+¢ 
+. 
+et ot 
+N(—E,o)andM(o, —E). 
+Va2 + b2 
+MO.~F) 
+N(=§,0) 
+Figure 9.36 Distance from Py to line [ 
+416
+
+NI 
+— 
+So, a vector parallel to [ can be any vector in the direction of NM = 
+Sle 
+1 
+For convenience we will consider the vector L = 
+b 
+— 
+a 
+Consider a vector in the direction of Py 
+P perpendicular to I and vector u = 
+( h) 
+— 
+that is also perpendicular to I because u X L = 0. So u is parallel toP, P, then 
+in triangle MPP,, the distance |}ﬂ’1 is |M Py|cos(MB,P). 
+Iﬁ; = (xm)’o + é) 
+  
+  
+— 
+— 
+o] = 
+75 cosaamp| - i 2o eP | _ VT 
+lpaz]-[ocp] 
+1 
+(xo,y,, ) (@b) 
+laxy + by, + d 
+T T 
+  
+  
+3-dimensional space 
+|L><AP,,| |L><A_po1 
+wlagl  H 
+  
+—s 
+AP,,| 
+- sin(6) = |AP0 
+‘Where A is any point on line / and L is a vector parallel to I. 
+  
+Figure 9.37 Distance from a 
+Example 9.33 
+point to a line in 3D 
+  
+Find the distance from the point (1, 3) to the line with equation 2x — y = 
+7. 
+  
+Solution 
+The equation can be written as 2x — y — 7 = 0 and hence the distance is 
+_km-3-7_3 
+V2241 
+V5 
+Example 9.34 
+Find the distance from the point P(8, 1, —3) to the line containing M(3, 0, 6) 
+and N(5, =2, 7). 
+  
+Solution 
+=3 
+12, =2, 1) X (5,1, =9)| 
+=(2,-2)andMP 
+=(51,-9) > d=—""2" 
+2 
+et 
+( 
+2 21| 
+_ 
+1a7,23,12)] 
+_ 172+ 237+ 127 _ /962 
+Tt 
+3 
+3 
+417
+
+418 
+Vectors, lines, and planes 
+Distance between two skew straight lines 
+  
+ 
+ 
+  
+  
+  
+Figure 9.38 Two skew straight lines L, and L, are given with direction vectors v, and ¥, 
+In Figure 9.38, two skew straight lines L, and L, are shown with direction 
+vectors v, and v, respectively. We need to find the distance d, defined as the 
+length of the common perpendicular, between them. 
+Consider any two fixed points P, on L, and P, on L,. The distance d is the length 
+— 
+of the orthogonal projection of vector u = P, P, on a direction perpendicular to 
+both v, and v,. This direction can be determined by v, Xv,. So, 
+— 
+PiPy- (v 
+X vy) 
+ﬁ-v 
+X . 
+d:||ﬁ|coso| _ |ﬁ| 
+Py 
+(vi X 
+v,) 
+o 
+— 
+|P,P2||v‘ X vy 
+  
+  
+Example 9.35 
+Find the distance between the following skew lines: 
+2 
+1 
+L,:r:(3)+t( 2 );Lz:r:4i+2i+s(3i*i+k) 
+1 
+-3 
+  
+Solution 
+The two fixed points could be taken as (2, 3, 1) and (4, 2, 0) while the vectors are 
+1 
+3 
+vi=| 
+2 
+|andv,=|—1]|. 
+=3 
+1 
+(2,71,71)-(*1,*10,*7)|:|—2+10+7 
+_ 
+1 
+[(CI=T08=7)| 
+| 
+D 
+V1 + 100 + 49 
+/150 
+|5 
+| 
+  
+The minimum distance could be found using other methods too. One of them 
+would be to consider the line going from any point on L, to any point on L,. This 
+will give a parametric equation in s and ¢. Then, considering that this line will be 
+perpendicular to both L, and L, (u - v, = 0 and u - v, = 0) enables us to set up a 
+system of two equations that could be solved for s and t. Lastly, we get the distance 
+between the points corresponding to the specific values we just established.
+
+1. Find a vector equation, a set of parametric equations, and a set of 
+Cartesian equations of the line containing the point A and parallel to the 
+vector u. 
+1 
+2 
+(a) A(*I,O,Z),u:(s) 
+(b) A(3,*1,2),u:( 5) 
+—4, 
+=1 
+(c) A(1, —2,6),u=3i + 5 
+— 11k 
+2. Find the equation of the line that passes through the points A and B. 
+(a) A(=1,4,2), B(7,5,0) 
+(b) A4,2, =3), B(0, =2, 1) 
+() A(1,3,-3), B(5,1,2) 
+3. (a) Write the equation of the line through the points (3, —2) and (5, 1) 
+in the form r = a + tb. 
+(b) Write the equation of the line through the points (0, —2) and (5, 0) 
+in the form r = a + tb. 
+4. The equation of a line in 2D space is given by r = (%) i t( 32) 
+Write the equation in the form ax + by = ¢ 
+5. Find the equation of a line through (2, —3) that is parallel to the line 
+with equation 
+r=3i 
+— 7j + N(4i — 3j) 
+6. Find the equation of a line through (—2, 1, 4) and parallel to the vector 
+3i—4j+ 7k 
+7. Find the point of intersection of the two given lines, and if they do not 
+intersect, explain why. 
+2 
+il 
+2 
+il 
+(a) Li:r= (2) + t(3); 
+Lyr= (3) + 5(4) 
+5 
+i 
+4 
+2 
+il 
+4 
+=S 
+12 
+(b)L,:r:(3)+t(l); 
+L2:1:( 
+1 )+s(6) 
+1 
+0, 
+2 
+3 
+(¢) Lyr=1i+3j+5k+t(7i+j— 
+3k); 
+Ly 
+= 4i + 6j + 7k + s(—i + 2k) 
+@se )= ({+{3): = 0)- () +42) 
+8. Find the vector and parametric equations of each line: 
+(a) through the points (2, —1) and (3, 2) 
+(b) through the point (2, —1) and parallel to the vector (;3) 
+  
+(c) through the point (2, —1) and perpendicular to the vector (;3) 
+(d) with y-intercept (0, 2) and in the direction of 2i — 4j. 
+419
+
+420 
+Vectors, lines, and planes 
+10. 
+il 
+14 
+133 
+14. 
+. Consider the line with equation 
+B)-(9+(2) 
+(a) For what value of t does this line pass through the point 0,%,%)? 
+(b) Does the point (—1, 4, 6) lie on this line? 
+1L = i 
+  
+(c) 
+For what value of m does the point ( 
+L 2m, 3) lie on the line? 
+Consider the following equations representing the paths of cars after 
+starting time t = 0, where distances are measured in km and time in 
+hours. For each car, determine the: 
+(i) 
+starting position 
+(i) velocity vector 
+(iii) speed. 
+@)l 
+)= 
+@ ()=(2)+42) 
+Find the velocity vector, using the following data, for each racing car. 
+(a) direction (;3) with a speed of 160 kmh ™! 
+(b) direction (izs) with a speed of 170 kmh™! 
+After leaving an intersection of roads located 3 km east and 2 km north 
+of a city, a car is moving towards a traffic light 7 km east and 5 km north 
+of the city at a constant speed of 30 km/h. Take the city as origin for an 
+appropriate coordinate system. 
+(a) What is the velocity vector of the car? 
+(b) Write down the equation of the position of the car after ¢ hours. 
+(c) When will the car reach the traffic light? 
+1 
+Consider the vectors u = (ﬂ), v=i—3j+2kandw= —2i+j—k 
+b 
+(a) Find a and b so that u is perpendicular to both v and w. 
+(b) Ois the origin, P a point whose position vector is v and Q has 
+position vector w. Find the cosine of the angle between v and w. 
+(c) Hence find the sine of the angle and use it to find the area of the 
+triangle OPQ. 
+The triangle ABC has vertices at the points 
+L2 9h E= 18 B encl e, =1 D), 
+— 
+— 
+(a) Find the size of the angle 6 between the vectors AB and AC 
+(b) Hence, or otherwise, find the area of triangle ABC 
+Let L, be the line parallel to AB that passes through D(2, —1, 0) 
+and L, be the line parallel to E that passes through E(—1, 1, 1) 
+(c) 
+(i) 
+Find the equations of the lines L, and L,. 
+(ii) Hence show that L, and L, do not intersect.
+
+152 
+16. 
+177 
+18. 
+193 
+20. 
+21 
+22. 
+23. 
+Consider the points A(1, 3, —17) and B(6, —7, 8) that lie on line L. 
+(a) Find an equation of line /, giving your answer in parametric form. 
+e 
+(b) Point P is on [ such that OP is perpendicular to L 
+Find the coordinates of P. 
+(a) Starting with the equation of a line in the form mx + ny = p, find a 
+vector equation of the line. 
+(b) Starting with a vector equation of a line where r = r, + tv, with 
+o= (b r=(6) 
+(i) 
+find an equation of the line in the form mx + ny = p. 
+(ii) What is the relationship between the components of the 
+direction vector v = (Z) and the slope of the line? 
+Find a parametrisation for the line segment between points A and B. 
+(a) A(0,0,0), B(1, 
+1, 3) 
+(b) A(=1,0,1), B(1, 1, -2) 
+() A(1,0, —1), B(0, 3,0) 
+Find a vector equation and a set of parametric equations of the line 
+through the point (0, 2, 3) and parallel to the line r = (i — 2j) + 2tk 
+Find a vector equation and a set of parametric equations of the line 
+through the point (1, 2, —1) and parallel to the line r = #(2i — 3j + k) 
+Find a vector equation and a set of parametric equations of the line 
+through the origin and the point A(xq, yo, Zo)- 
+Find a vector equation and a set of parametric equations of the line 
+through (3, 2, —3) and perpendicular to: 
+(a) the xz-plane 
+(b) the yz-plane. 
+Write a set of symmetric equations for the line through the origin and 
+the point A(x Yo» Z0)> X0» Yor 2 # 0- 
+Determine whether the lines [, and , are parallel, skew, or intersecting. 
+If they intersect, find the coordinates of the point of intersection. 
+ng,lz:r:i+4j+2k+)\(i+k) 
+RGeS 
+= 
+2 
+Ot 
+(b)R7 5 yi="2E3s 
+) 
+Sy = 677 
+  
+(@) ix—3=1-y= 
+  
+  
+ZE RIS 
+Al 
+Byl 
+I 
+S 
+T 
+o 
+o 
+© 
+L 
+—T—Z 
+z, bir=3i+2j — 2k + A2i 
++j + 2Kk) 
+P 
+G 
+L T 
+(d) h:x 
+I—T—T,lz.l 
+x=-1 
+e 
+421
+
+Vectors, lines, and planes 
+(e) l,:r=i+2j+A(—6i+9j—3k) Lir = 2i + 3j + m(2i — 3j + k) 
+= 
+&_7_?_10*2 
+=y—-1= 
+and 
+3 
+2 
+(g)x=1+t,y:272t,z=t+5md 
+0 = R O 
+A= 
+O 
+A= DO 1Tt 
+  
+     
+24. Find the point on the line r = 2i + 3j + k + f(—3i + j + k) that 
+is 
+closest to the origin. (Use the parametric form and the distance formula 
+and minimise the distance using derivatives.) 
+25. Find the point on the line r = 4j + 5k + #(i — 3j + 2k) that is closest to 
+the origin. 
+26. Find the point on the line » = 5i + 2j + k + t(i — 3j + k) that is closest 
+to the point (— 1, 4, 1). 
+Planes 
+To define or specify a plane is to identify it in such a way that makes it unique. 
+One way is to set up an equation in a frame that will identify every point that 
+belongs to the plane. There are many ways of specifying a plane. 
+A plane can be defined: 
+by three non-collinear points 
+« 
+by two intersecting straight lines 
+« 
+to be perpendicular to a certain direction and at a specific distance from the 
+origin, for example 
+by being drawn through a given point and perpendicular to a given direction. 
+A direction, for our purposes, can be defined by a vector. In the case of a plane, 
+the vector determining the direction is perpendicular to the plane and is said to 
+be normal to the plane. 
+Equati 
+@1 F=Ne]=1g 
+15! 
+The third and fourth ways of defining a plane are appropriate 
+N=Ai+Bj+Ck 
+for deriving equations of a plane. 
+ 
+    
+Cartesian (scalar) equation of a plane 
+Consider a plane 77 and a fixed point P(x,, y,, Z,) on that plane. 
+A vector N = Ai + Bj + Ck, called the normal vector to the 
+plane, is perpendicular to the plane. 
+Figure 9.39 Normal to plane 
+422
+
+To find an equation for the plane, consider an arbitrary point M(x, y, z) in space. 
+Recalling that a line perpendicular to the plane is perpendicular to every line in 
+the plane, we can conclude that for the point M to be on the plane, the vector N 
+— 
+must be perpendicular to PM. 
+Hence 
+— 
+— 
+N-PM = 0but PM = (x — xo)i 
++ (y — yo)j 
++ (z — 2ok, and 
+— 
+N-PM =04 (Ai+ Bj + Ck) - (x — xi + (v — yo)i + (2 — 29k) = 0 
+Using the scalar product definition this can be simplified to 
+Alx = x) + Bly = yo) + Clz = 29) = 0 
+This is a Cartesian equation of a plane that passes through a point P(xy, yy, Z,) 
+and has a normal vector 
+N = Ai + Bj + Ck. 
+If N is normal to a given plane, then any vector parallel to N will be normal to 
+the plane. Suppose we have chosen 3N as our normal, then 
+3A(x 
+— x) + 3B(y 
+— yo) + 3C(z 
+— 2) =0 
+SAKX—x)+By—y) +Clz—2)=0 
+Specifically, the unit vector n in the same direction as N is of particular 
+importance, as we will see soon. 
+The equation can be simplified further: 
+A(x 
+— x,) + B(y 
+— yp) + C(z 
+— zp) = 0 & Ax + By + Cz = Ax, 
++ By, 
++ Cz,, 
+and setting Ax, + By, + Cz, = D will give us a more concise form of the equation 
+Ax+By+Cz=D 
+which is similar to the equation of a line in the plane, i.e., Ax + By = C 
+Example 9.36 
+Write an equation for the plane that contains (2, —3, 5) and has normal 
+N=2i+j- 3k 
+e ——————————————————————————————— 
+Solution 
+A Cartesian equation for the plane is of the form 
+Alx = x0) + Bly = yo) + Clz = 2) = 0 
+B 
+) R (VR 
+EiS (R 
+EHO) 
+=2 2xsyieidz 
+= ld 
+Alternatively, since N = 2i + j — 3k is the normal to the plane, then 
+2x + y — 3z = D, but the line contains the point (2, —3, 5), and thus 
+22)—-3-35)=D=—-14=D 
+therefore 
+2x +y — 3z = —14as before. 
+In many sources, the 
+equation of the plane is 
+given in the form 
+Ax+By+Cz+D=0. 
+This is the case when we 
+set the quantity 
+Axy+ By + Czg = —D. 
+Each form has some 
+advantage in using it. 
+‘We will adhere to the 
+previous form for reasons 
+that will become clear. 
+423
+
+Vectors, lines, and planes 
+Example 9. 
+Show that every equation of the form Ax + By + Cz = D with 
+A? + B? + C? # 0 represents a plane in space. 
+] 
+Solution 
+The equation Ax + By + Cz = D is a linear equation in 3 variables, x, y, and z. 
+This means that it has an infinite number of solutions, and hence we can be 
+confident that there exist numbers xo, y,, zo such that Ax, + By, + Czy = D. 
+Since the equation Ax + By + Cz = Dis also true, then 
+Ax+ By + Cz= Axy + By, + Czy=D 
+& Ax 
++ By + Cz 
+— (Axy 
++ By, + Cz)) =0 
+© A(x 
+— xo) + B(y 
+— o) + C(z 
+— 2)) = 0 
+The last equation represents the equation of a plane through a fixed point 
+P(xg, o, 2o) with a normal vector N = Ai + Bj + Ck. The condition 
+A? + B? + C? # 0 guarantees that 
+N # 0. 
+Vector equation 
+of a plane 
+    
+We can write the equation of the plane in vector notation. Use the 
+same set up as before: the normal vector N = Ai + Bj + Ck, a fixed 
+point P(x,, y,, 2) with a position vector r, = xyi + yoj + 2ok, and an 
+arbitrary point M(x, y, z) with a position vector r = xi + yj + zk. 
+The equation A(x — x,) + B(y — y,) + C(z — z,) = 0 can be 
+interpreted as the scalar product N - (r — ry) = 0 (Figure 9.40). 
+— 
+The normal N is perpendicular to PM = r — r, and hence their dot 
+Figure 940 Normal toa plane 
+product must be zero. Using the distributive property of the scalar 
+is perpendicular to any vector 
+in the plane 
+product, we have 
+Notice here that 
+N-r—-r)=0&N-r—N-ry=0 
+N-r=Ax+By+Cz 
+“N-r=N-r, 
+and 
+N-rg=Axo + Byy + Co 
+This is one form of the vector equation of a plane that passes through a point 
+- T 
+with position vector r, and has a normal N. 
+N-r = N-rg is another 
+way 
+of stating 
+AxtBy+ =D 
+Unit vector equation of a plane 
+Figure 9.41 shows vector N as drawn from the origin O, along with the position 
+vectors rand r,. 
+The vector equation N - r = N - r, can be investigated further 
+N 
+- r = 
+|N||r|cos6, = |N|OR = |N|d 
+424
+
+where OR = d is the distance from the origin to the plane. 
+Also 
+N 
+- ro = |N||ro|cosb, = |N|d 
+In both cases, the result is of course the same. Both sides of the equation 
+N-r = N-rare equal to the same value: the magnitude of the normal 
+multiplied by the distance from the origin. 
+   
+Furthermore, if we divide either side by |N|, we get the distance from the origin 
+  
+  
+to the plane. 
+Figure 9.41 Distance from 
+That is 
+origin O to plane 7 
+N-r 
+N-r=|Nld=d= 
+IN] 
+As well as 
+N-ry 
+N- r= 
+|N'Id =2d= 
+IN| 
+This last result gives us the basis for forming a new vector equation of the plane 
+in terms of a unit vector perpendicular to it. 
+Let us call the unit vector normal to the plane n. So, using the results just 
+established, we can write 
+N.r_N-n 
+2 
+sosas 
+d ="+ = - which in turn can be simplified to 
+e 
+IN] - 
+IN] 
+o 
+~—-r=_—-ryandsince - = n, then obviously 
+N 
+N 
+IN] 
+n-r=n-rp=d 
+This equation is very practical when we need to find the distance from the 
+origin to the plane. The distance from the origin to a plane is the scalar product 
+between the unit normal and the position vector of any point on the plane. 
+This will be shown in the following examples. 
+Example 9.38 
+Write a vector equation for the plane that contains (2, —3, 5) and has normal 
+N=2i+j-3k 
+| 
+Solution 
+We apply the results of the previous discussion 
+N-r=N-r, 
+= (2i+j—3k)-r=(2i 
++j— 3Kk 
+(2i — 3j + 5k 
+=>@2i+j—3k-r=-14 
+Notice that this result can easily transfer into Cartesian form by expanding the 
+scalar product on the left 
+(2i+j—3K)-r=-14 
+= (2 +j— 3K (xi+yj+ 
+k) = —14 
+Su+y—3z=-14 
+425
+
+   
+Figure 9.42 Solution to 
+Example 9.39 
+‘The vector equation 
+for Pis 
+FX(2-2+k) =3, 
+or 
+PX(<2i+2j—k)=3 
+and the equation for Qs 
+(2i—2j+K-r=1L 
+‘The normals to the two 
+planes are opposite, 
+and hence they are on 
+opposite sides of the 
+origin. If the two normals 
+are in the same direction, 
+then the distance 
+between them will be 
+the difference of the two 
+distances from the origin. 
+426 
+Vectors, lines, and planes 
+ 
+Example 
+9.39 
+Show that the line 
+/ with equation r = 2i — j + 5k + k(3i + 2j — 2k) is 
+parallel to the plane P whose equation is r X (2i — 2j + k) = —3 and find 
+the distance between them. 
+e 
+Solution 
+Since v = 3i + 2j — 2k is the direction vector of the line /, and since this 
+vector is perpendicular to N = 2i — 2j + k, the normal to P, as 
+(3i + 2j — 2k) X (2i — 2j + k) = 6 — 4 — 2 = 0, then the line / must be 
+parallel to plane P. 
+To find the distance between the line and the plane P, we may find the 
+distance between a point on [, (2, —1, 5) for example, and plane P. One way 
+would be to consider a plane Q containing the given point and parallel to P. 
+The equation of plane Q can be found using the last result: 
+N-r=N-r, 
+= (2i—2+k)-r=(2i—2j+K-(2i 
+—j+5k 
+= @i—2j+k-r=11 
+The distance from the origin to P is given by 
+  
+  
+ 
+ 
+o N - r| 
+- 
+3 
+- 
+INI 
+VET4+T 
+while the distance from the origin to Q is 
+d= N r 
+= 
+u 
+= HA The distance between the two planes is 
+INI 
+vE+4+1 
+3 
+the sum of these two distances since the planes are on opposite sides of the 
+origin (see note), and hence the required distance is % 
+| 
+Example 
+Show that the plane with vector equation r X (2i — 2j + k) = —3 contains 
+the line with equation 
+r=i+3j+k+ 
+k(3i + 2j — 2k) 
+| 
+Solution 
+‘We have several ways available to us at this stage. One method is to check 
+whether two points are common to the line and the plane. One point on the 
+lineis (1,3, 1). 
+Since (1, 3, 1) X (2, —=2,1) = 2 — 6 + 
+1 = —3, then the point 
+is on the 
+plane. Another point on the line can be found by choosing any value for k, 
+say k = 1. Thus another point has the position vector 
+r=i+3+k+3i+2—2k=4i+5—k
+
+Since (4i + 5j — k) X (2i — 2j + k) = 8 — 10 — 
+1 = —3, this point will also 
+lie on the plane and so the plane will contain the whole line. 
+Another method would be to check only one point and prove that the line is 
+parallel to the plane, as was done in Example 9.39. 
+Example 9.41 
+Find the vector equation of the line through (1, 2, 3) that is perpendicular to 
+the plane with vector equation r X (2i — 2j + k) = —3 and find their point 
+of intersection. 
+| 
+Solution 
+A vector parallel to the required line must be parallel to the normal vector to 
+1 
+2 
+the plane. Hence a vector equation of the line is r = (2) i z(—z). 
+& 
+1 
+To find the point of intersection, we consider any point on the line. Such a 
+6 
+point would have the position vector ( D=0 ) For this point to be on the 
+SE 
+plane, the following equation must be true 
+IS5 2% 
+2 
+2—2t 
+|- 
+—2] 
+= —3;thatis,2 
++ 4t —4 + 4+ 3 +¢t=—3, 
+S 
+1 
+s09t= —4,and t = 7%, giving the point of intersection of the line and the 
+4 
+4 
+4 
+1 
+26 
+23) 
+X 
+—=, 
+2X 
+—=, 
+S oo o 
+planeas(1+2 
+9,2 
+93 
+9) 
+(9 
+) 
+Parametric form 
+for 
+the equation of a plane 
+Figure 9.43 shows that it is always 
+ 
+  
+‘Three coplanar vectors 
+possible to construct a parallelogram 
+u, v, and ware given. If 
+whose diagonal is w and whose sides are 
+:‘hﬂnd vare ;01 Pal‘sﬂel» 
+. 
+en w can 
+always 
+be 
+the non-parallel vectors u and v or their 
+expressed asalinear 
+multiples. 
+combination of uand v, 
+. 
+i, itis always possible 
+For example, given the two non-parallel 
+u 
+to find two scalars s and £ 
+1 
+3 
+Figure 9.43 A vector in the plane s a linear 
+B 
+Y, 
+vectorsu=| 
+0 
+|andv={ 
+1 
+|, 
+combination of any two non-parallel vectors in 
+5 
+-9 
+the plane 
+2 
+we can always find the scalars s and f so that vector w = [ 
+1 | can be 
+=7, 
+expressed as a linear combination of u and v. 
+427
+
+Vectors, lines, and planes 
+2 
+1 
+3 
+Thus ( 
+1 
+) = s( 0 ) + t( 
+1 ) To find s and t we solve the system of equations 
+7 
+=9, 
+- 
+) 
+s+3=2 
+=11 
+=28'= 9t = =7 
+This system is consistent and yields the solutions = —1,and t = 1. 
+Thusw=—u+v 
+Now, consider the plane that is parallel to vectors # and v and 
+contains the point A whose position vector is r,. As Figure 9.44 
+shows, the two vectors determine the direction of the plane and A 
+‘fixes’ it in space. So, if M is any point in this plane, then 
+according to the previous theorem, AM = su+tv where s and 
+tare two scalars. 
+If r is the position vector of M then 
+— 
+r=ry+AM =ry+su+tv 
+  
+Thus, any equation of the form r = r, + su + tv, where s and t are independent 
+scalars, represents the equation of a plane parallel to u and v that contains the 
+Figure 9.44 Parametric form 
+e 
+- 
+of the equation of the plane 
+point with position vector r,. 
+Note that this equation is not unique. This is because we can start at any 
+other fixed point on the plane other than A and we can choose any number of 
+intersecting vectors in the plane other than u and v. The parametric form of the 
+equation of the plane is seldom needed or used. 
+Example 9.42 
+Find an equation of a plane with normal g = 2i — 3j + k that contains the 
+point A(2, 1, 1). Use all forms you have learned. 
+_———— 
+Solution 
+The Cartesian equation 
+Consider the equation 
+Alx— %)+ Bl —30) +Cz—2)=0=2(x—2)—3(— 1) + (z— ) =0, 
+and the equation would be: 2x —3y +z—2 =0 
+Or, start the equation 
+Ax+By+Cz=D=2x—3y+z=D 
+since the plane contains the point 
+(2,1, 1), then 2(2) — 3(1) + 
+1 = D, and thus D = 2 
+Itis easy to transform 
+Vector equations 
+dener g 
+We can also find the vector equation by applyin; 
+Cartesian by simply 
+! 
+y applying 
+performing 
+the dot 
+2 
+2 
+2 
+2 
+X 
+product. The opposite is 
+N.-r=N-r=(-3]-[y]=|=-3]-[1])=]-3] 
+-|V]=2 
+also true. 
+1 
+Z) 
+1 
+il 
+1t 
+2 
+428
+
+Parametric equations 
+A parametric equation of this plane is not as straightforward and may not be 
+the most efficient way of doing this problem. However, for the sake of giving 
+an example, here is a way of doing it. 
+The parametric form requires that we have two vectors parallel to the plane. 
+‘We may find the two vectors by considering that they have to be 
+2 
+1 
+perpendicular to (—3), So, take a vector (1) and find z so that this vector is 
+1 
+z 
+2 
+perpendicular to( 73)A 
+1 
+=2—3+z=0andz=1 
+il 
+Do the same with (0), ie,2 + 0+ z=0andz = —2. Therefore, two 
+2 
+2) 
+1 
+i 
+vectors that are perpendicular to (—3) are (1) and ( 0 ), and a parametric 
+1 
+1 
+=2 
+equation of the plane is 
+) 
+1 
+1 
+i="rouimsttste 
+(== e 
+N8| i 
+V18 I 
+£ (N O 
+1 
+1 
+2] 
+Note that the choice of the vectors is arbitrary and hence the parametric 
+form is not unique. 
+Example 9.43 
+Find the equation of the plane that contains the points A(L, 3, 0), B(—2, 1, 2), 
+enite | (C(1L, =2, =1D), 
+S 
+— 
+Solution 
+Consider any point M(x, y, z) on this plane. For this point to belong to the 
+— — 
+— 
+plane, the following vectors must be coplanar: AM, AB, and AC. 
+This means that the parallelepiped with these vectors as edges is flat; that is, 
+it has zero volume. Since we know that the volume of the parallelepiped is 
+the absolute value of the scalar triple product, we equate that value to zero 
+and get the equation. 
+B 
+AM =|y—3),AB=|-2|,AC=|-5 
+z 
+2 
+= 
+=il 
+=5 
+= 
+= 
+=2 
+2 
+0 
+=5 
+M| 
+  
+— 
+(= 
+= 
+@AM-(AB XAC): 
+=10 
+  
+  
+=34x—y+52-1)=0 
+429
+
+Vectors, lines, and planes 
+So, the Cartesian equation of the plane is 4x — y + 52 — 1 =0 
+We can also deduce the vector equation from this plane by writing it in 
+scalar product form: 
+(4i — j + 5k) 
+- (xi + yj + 2k) = 
+1 
+TBxFC 
+We can also find the vector form by thinking of the problem as a plane 
+containing a fixed point and normal to a given vector. 
+We find the normal by computing the cross product of two vectors in the 
+= 
+= 
+plane; in this case, we can take AB and AC. 
+i 
+] 
+K 
+=3 
+2R 
+Figure 9.45 Solution to 
+U 
+Example 9.43 
+The equation of the plane is then 
+(4i — j + 5k) 
+- (xi + yj + zk) = (4i — j + 5K) - (i + 3j) 
+(48 — j + 5k) - (xi + yj + zk) = 1 
+That is, the same as above. 
+— 
+AB X AC = 
+= 3(4i—j 
++ 5k) 
+  
+  
+Distance between a point 
+a plane 
+  
+The distance between a point P(xy, yo, 2) and a plane with 
+Py 2) 
+equation Ax + By + Cz = Diis given by 
+_ |Axo + By, + Cz, — D| 
+T 
+A+B+C 
+< 
+A 
+Let Q(x, y, 2) be any point on the plane and N = [ B | be a normal 
+C 
+to the plane (Figure 9.46). The distance we are looking for is d. Then 
+‘QP ﬁ!‘ (A, B,C) 
+- (xg = %, Yo = 129 — 
+A2 AT+ 
+B2+ 
+C° 
+_|AGx = %) + Byo — ) + Clz — 2)| 
+A+ B+ C 
+_ |Axy + By, + Czy — (Ax + By + Cz)| 
+AT+ B+ 
+  
+4= [|@Pleosd = 
+Figure 9.46 Distance from P to 7 
+  
+Since Q(x, y, 2) is on the plane, then Ax + By + Cz = D, so replacing this 
+expression in the result above gives 
+_ |Ax,+ By, + Cz,— D| 
+VA + B+ C? 
+This formula is similar to the distance between a point and a line in 2D space. 
+430
+
+Example 9.44 
+Show that the line / with equation r = 2i — j + 5k + k(3i + 2j — 2k) is 
+parallel to the plane P whose equation is r - (2i— 2j + k) = —3, and find the 
+distance between them. 
+  
+Solution 
+In Example 9.41 we showed that this line is parallel to the plane because it 
+is perpendicular to the normal of the plane. To find the distance, we used 
+a relatively complex approach. Now we can use the distance formula just 
+established to find the required distance. 
+A point on the line is (2, —1, 5) and the Cartesian equation of the plane is 
+simply 
+2w—2y+z=-3, 
+hence the distance is 
+_ k@ —2(=1) +1(5 - (=3)| 
+Va+4+1 
+4 
+2 
+= 
+Example 9.45 
+Find the distance between the two parallel planes: 
+x+2y—2z=3and2x+4y 
+—4z2=7 
+Solution 
+It is enough to find the distance from one point on one of the planes to the 
+other plane since all points are equidistant. 
+Take the point (1, 1, z) on the first plane 1 + 2 — 2z = 3,50z = 0. 
+Thus, the point is (1, 1, 0) and the distance between the planes is 
+SO 
+a0 -7 
+V4 +16 + 16 
+6 
+Example 9.46 
+Find the distance between the two skew straight lines 
+1 
+4 
+2 
+8 
+Lir= 
+( 
+5 
+) +A(—4) and L:r = (4) +p,(—3) 
+=} 
+& 
+& 
+1 
+Solution 
+‘We can reduce this problem to the type in the previous example by creating 
+two planes that contain the given lines and are parallel to each other. 
+431
+
+Vectors, lines, and planes 
+For the two planes to be parallel, they must be perpendicular to the same 
+vector. Hence by finding the cross product of the direction vectors of the 
+lines, we would have found a vector perpendicular to both. 
+i 
+4 
+—4 
+5| =11i+ 
+36j + 20k 
+SRS 
+Considering the point (2, 4, 5) on L,, the plane containing L, will be 
+11 
+11 
+2] 
+36| 
+- (;) =(36]-|4 
+20, 
+2 
+20 
+5 
+or 11x + 36y + 20z = 266 and the distance between (1, 5, —1) on L, to this 
+plane is 
+A [11(1) + 36(5) + 20(—1) — 266] 
+95 
+TZEEES 2R 02 
+LXL= 
+  
+= 
+ool 
+&l 
+S| 
+The angle between two planes 
+  
+The angle between two planes is defined as the acute angle 
+between them (Figure 9.47). 
+Consider two planes P and Q with unit normals n, and n, 
+respectively. Their vector equations are of the form 
+rem = dgron, 
+= d, 
+The angle between the planes is equal to the angle between the 
+normal units n, and n, or the normals N, and N,, and hence 
+N;-N, 
+ININo| 
+  
+Figure 9.47 The angle between two planes is 
+defined as the acute angle between them 
+  
+cosf=mn,-n,= 
+For example, the angle between the planes with vector equations 
+X (i+j—2k)=3andrX 2i—2+k =2 
+is given by 
+(i+j—2K-(2i—2j+K 
+2 
+O FTId Tl 34 
+This is the cosine of the obtuse angle between the two planes. The acute angle 
+between them is cos"(i)A 
+376 
+Example 9.47 
+Find the angle between the planes with equations: 
+2x =13yshis 
+=0land 3x iy =2 =1 
+432
+
+s 
+Solution 
+The two normals are 2i — 3j and 3i + j — k, and therefore the angle is 
+given by 
+RS IRt 
+K] 
+= BB 
+g 
+VI3VIT 
+V33 
+. 
+s 
+So, the angle between the 
+planes is cos ‘(—) 
+g! 
+P! 
+3 
+The angle between 
+a line and a plane 
+The angle between a line and a plane is defined as the 
+angle 6§ formed by the line and its projection on the 
+plane (Figure 9.48). 
+ 
+Consider the line I with equation r = r, + Aa and the 
+plane with equation 
+r-N=D. 
+The acute angle ¢ between N, the normal to the plane, 
+and the line / can be found by using the law of cosines 
+  
+Figure 9.48 The angle between a line and a plane is defined as 
+  
+  
+  
+cosp = a-N 
+the angle 6 formed by the line and its projection on the plane 
+lalIN| 
+If 0 is the acute angle between the line and the plane then 
+=T _ 5@ 
+Therefore, to find the angle between the line and the plane, we either: 
+« 
+find the angle ¢ first and then find its complement, or 
+a-N 
+[al[N] 
+For example, to find the angle between the line with equation 
+r=1i+2j—k+ A(i — j + k) and the plane with equation 
+r X (2i —j + k) =3 
+« 
+since ¢ and 0 are complements, then sinf = cos¢ = 
+  
+we find that 
+(i—j+thk-Ri—j+k 
+4 
+Sinp =t 
+T 
+R 
+V3.6 
+3v2 
+s 
+4 
+= 0=sin"! 
+sin 
+32 
+Example 9.48 
+Find the angle between the line with equations: 
+y—2_¢ 
+3 
+2 
+  
+, and the plane with equation2x —y —z=7 
+433
+
+Vectors, lines, and planes 
+] 
+Solution 
+The direction of the line is given by @ = (2, 3, 2) and the normal to the plane 
+by 
+N = (2, =1, —1), and the angle is given by 
+sin9:|(2,3,2)-(2,—1,—1) _ i 
+V17./6 
+V102 
+of two planes 
+  
+Unless two planes are parallel they will intersect along a 
+straight line. Consider two planes P and Q that have / as 
+their line of intersection. Also let the planes have the vector 
+equations 
+r-N,=D,andr-N, =D, 
+Since the line ! lies in plane P then N, the normal to this 
+plane, must be perpendicular to it. This is also true for N,. 
+Therefore, the direction of line / is perpendicular to both 
+N, and N,. 
+  
+Figure 9.49 Line of 
+intersection of two planes 
+To find the line of intersection, we can use two methods: 
+1 
+the cross product of n, and n, as the direction of / and a specific point on 
+the line, 
+2 
+the fact that all points on [ must satisfy the equations of both planes; 
+i.e., we solve a system of equations. 
+These methods are best demonstrated when n applied to a particular situation. 
+Example 9.49 
+Let the planes P and Q have the equations: 
+r(i+j—3k)=6andr-(2i—j+ 
+k=4 
+Find the line of intersection using the two methods. 
+S 
+Solution 
+First method 
+To find a vector equation of the line of intersection, first we find the cross 
+product of the two normals and then find a point on the line L. 
+(i +j—3k) X (2i —j+ k) = 2i + 7j + 3k 
+434
+
+To find a point on the line, we use the fact that the points on that line must 
+satisfy both equations. So, consider the points on both planes that have the 
+x-coordinate zero: 
+(0,02)-(i +j— 3K =6and (0,y,2) - (2i —j+ k) =4 
+Wi=i32 =6 
+_ 
+_ 
+@{7y+z:4§z— 
+5andy="=9 
+0 
+2 
+So, the vector equation of the line is: r = (—9) AP t(7) 
+= 
+3 
+Second method 
+The second method uses a system of equations to find the equation. 
+The equations of the planes in Cartesian form are: 
+Xty =3z=6and2x 
+=y hz =4 
+Since this system has to be solved simultaneously, and since there are two 
+equations in three variables, we should consider one of these variables as a 
+parameter and solve for the rest. 
+a3 7 = (6 
+3 
+7 
+—2z= 
+— GRS 
+L 
+{2x*y+z:4§3x 
+2z=10=>z 
+5+2x,y 
+9 
+3% 
+Therefore, we either consider x to be the parameter or, for convenience 
+purposes, we replace it by another parameter such as the following: 
+X= 2Ny =R7A = 95z — 3N =15 
+This equation is equivalent to the one found using the first method. 
+If the equations of the planes are in parametric form it may not be necessary to 
+convert them into Cartesian form. However, from Example 9.49, you may notice 
+that it is sometimes more straightforward to follow the Cartesian method. 
+Example 
+9.50 
+Find the intersection between the two planes 
+Pir=i+j+AQ2i—k)+ 
+pi —j+ k), and 
+Qr=3i—k+si—j+2k) +ti+2—k 
+e ——————————— 
+  
+Solution 
+A point on P will have coordinates: (1 + 2A + u, 
+1 — w, —A + ), while 
+a point on Q will have coordinates (3 + s + 
+t, —s + 2t, =1 + 25 — t). 
+For the collection of points on the intersection, coordinates must satisfy 
+both equations, and hence 
+1+20+u=3+s+t 
+=" st 2t 
+SANHL =SR2 
+435
+
+‘Three planes can 
+intersect in three lines as 
+shown in Figure 9.50. 
+436 
+Vectors, lines, and planes 
+This system of three equations in four unknowns must have an infinite 
+number of solutions if the planes intersect — the set of points that belong to 
+the line of intersection. We can solve this system after re-arranging terms, 
+which is best done by Gaussian elimination: 
+100 
+2 
+=il 
+=i 
+2 
+0 
+-1 
+1 
+-2 
+—-1]=(0 
+10 
+) 
+T2 B 
+1 G 
+OREOR) 
+wiu o I\)| 
+| w 
+DIw NG [ 
+The last result expresses A, i, and s in terms of . To find the equation of the 
+line we have to substitute these values in either of the two equations above. 
+For example, it is easier to substitute for s in terms of # in the equation for Q. 
+So, from the result above 
+=J_3 
+5—2 
+Zt 
+and the line will have the vector equation 
+r:3i—k+(%—%z)(i—j+zk)+z(i+2j—k) 
+O 
+SO 
+- 
+Ty T 
+. 
+(21 
+2]+2k) 
+t( 
+2it 
+5 
+Gk) 
+IfA = % i %tand 
+= % = %tare substituted into the equation for P we 
+will get the same result. 
+As we notice from Example 9.50, the process is long and complex even with 
+many steps that are hidden to save space. Alternatively, the Cartesian solution 
+may be more efficient. 
+P: point (1, 1, 0) is on the plane, and (2,0, —1) X (1, =1, 1) = (—1, =3, —2) is 
+perpendicular to the plane, so the Cartesian equation is 
+(x—1)+3(—1)+2z=0,0orx+3y+2z=4 
+Q: point (3,0, —1) is on the plane, and (1, —1,2) X (1,2, —1) = (=3, 3, 3) s 
+perpendicular to the plane, so the Cartesian equation is 
+—3(x—3)+3y+3z+1)=00orx—y—z=4 
+The intersection between the planes is the result of solving the following system 
+x+3y+2z=4 
+_ ., Px=4+my=-3mz=4m 
+Xi= 
+. z=id 
+This result compares to the previous one and appears to be more elegant. 
+Intersections of three planes 
+Figure 9.50 Three planes can intersect in three lines
+
+Figure 9.51 
+If the lines of intersection are 
+b 
+  
+Figure 9.52 
+If the three planes pass through one 
+not parallel, the three planes meet at one point 
+ straight line, there is an infinite number of solutions 
+ 
+1. Which of the points A(3, —2, —1), B(2, 1, —1), and C(1, 4, 0) lie in the 
+plane 3x + 2y — 3z = 11¢ 
+. Which of the points A(3, —2, —1), B(2, 1, —2), and C(1, 4, 0) lie in the 
+plane (i — 3j + k) 
+- (xi + yj + zk) = —62 
+. Find an equation for the plane satisfying the given conditions. Give two 
+forms for each equation, out of the three forms: Cartesian, vector, or 
+parametric. 
+(a) Contains the point (3, —2, 4) and perpendicular to 2i — 4j + 3k 
+(b) Contains the point (—3, 2, 1) and perpendicular to 2i + 3k 
+(c) Contains the point (0, 3, 1) and perpendicular to 3k 
+(d) Contains the point (3, —2,4) and parallel to the plane 5x + y — 2z =7 
+(e) Contains the point (3, 0, 1) and parallel to the plane y — 2z = 11 
+1 
+2 
+(f) Contains the point (3, —2, 4) and the line r = (72) T t(l) 
+5 
+) 
+1 
+2 
+4 
+3 
+(g) Contains thelinesr = 
+—2| 
++ 
+¢t/ 1|andr= 
+(0| 
++ 52 
+5 
+2, 
+7 
+2 
+(h) Contains the point (1, —3, 2) and the line given in parametric form: 
+x=2y=2+tz=—1+3t 
+(i) 
+Contains the point M(p, g, r) and perpendicular to the vector CTVI) 
+(j) 
+Contains the three points (1, 2, 2), (3, —1, 0), and (7, 0, —2) 
+(k) Contains the three points (2, —2, —2), (3, —1, 3), and (0, 1, 5) 
+(I) 
+Contains the point (1, =2, 3) and thelinex —2 =y + 1= 
+= 
+  
+(m) Contains the two parallel lines 
+r=(1,—1,5) + (3i + 2j + 4k) and r = (—3,4, 0) + s(3i + 2j + 4K) 
+(n) Contains the point (1, 1, 0) and parallel to the two lines 
+x=2+ty=—l,z=tandx=s,y=2—s5,2=—1+s 
+  
+‘The three lines of 
+intersection are parallel. 
+Hence, the system of 
+equations they represent 
+is inconsistent. 
+If the lines of intersection 
+are not parallel, then the 
+three planes meet at one 
+point as shown (Figure 
+9.51). This system is 
+consistent with a unique 
+solution. The three 
+planes can also all pass 
+through one straight 
+line. In that case, the 
+system is consistent with 
+an infinite number of 
+solutions (Figure 9.52). 
+437
+
+Vectors, lines, and planes 
+4. 
+10. 
+IS 
+128 
+438 
+Find the acute angle between the given lines or planes. 
+(@) 3x+4—z=landx—2y=3 
+(b) 4x — 7y +z=3and3x 
++ 2y + 2z 
+=17 
+() x=4andx +z=4 
+() x—2y+2z=3andx=2—6ty=4+3tz=1—2t 
+(e) (3i—k)-® =dandr=(2j 
++ 3K) + m(—i +2j — k) 
+Z, 
+(f) x+ty+2=7andz=0 
+. Find the points of intersection of the given line and plane. 
+(a) r=5i — 2k + A(i — 3j + 4k) and 
+(i — 3j + 2K) X (xi + yj + zk) = —35 
+2 
+0 
+(b) 1:(4) +p,(—3) and4x 
+— 2y + 3z —30=0 
+0 
+3 
+= 
+© x—3:yT:Z—fand(Zi—z;ﬁsk)-(xi+yj+zk):s 
+(d)x:t,y:4*%t,z:57§tand3x*y+2226 
+. Find the line of intersection between the given planes. 
+(a) x=10andx 
++ y+2z=3 
+(b)2x—y+z=5andx+ty—2z=4 
+1 
+oG 
+(c) (71)-(}’):landx*y*2225 
+—2) 
+\z 
+1 
+il 
+3 
+(@ r=[0])+A|—2|+ul 
+2 
+|and3x=y—2=3 
+2 
+0 
+-8 
+. Find a plane through A(2, 1, —1) and perpendicular to the line of 
+intersection of the planes 2x + y —z=3andx + 2y + z=2 
+. Find a plane through the points A(1, 2, 3) and B(3, 2, 1) and 
+perpendicular to the plane r = (4i — j + 2k) X (xi + yj + zk) =7 
+. What point on the line through (1, 2, 5) and (3, 1, 1) is closest to the 
+point (2, —1,5)? 
+Find an equation of the plane that contains the line 
+r=(—i+2+ 
+3K+ Ai— 2+ k) 
+and is parallel to e 
+= 
+  
+Find an equation of the plane that contains the line 
+x=1+2y=1+22=2—1t 
+  
+and is parallel 
+tox — 1 = }% =z—7 
+Show that the equation 
+% + % + £ = Lis the equation ofa plane.
+
+13. Find the equation of a plane that contains the point (4, —3, —1) and is 
+perpendicular to the planes 2x — 3y + 4z = 5and 4x — 3z =15 
+14. Find the equation of a plane that contains the point (2, 3, 0) and is 
+perpendicular to the plane 2x — 3y + 4z = 5 and parallel to the line 
+) =(—3)i+@4—20j+ 
+1+ 2tk 
+Chapter 9 practice questions 
+1. Consider vectors u = —i + 2jand v = 3i + 5j, where i and 
+j are unit 
+vectors along the x-axis and y-axis respectively. 
+(a) Find u + 2vin terms of i and 
+j. 
+A vector w has the same direction as # + 2v and has a magnitude of 26. 
+(b) Find w in terms of i and 
+j. 
+2. The circle shown on the right has centre O and radius 6. 
+e 
+il 
+=6 
+=5 
+04 = (5}, 08 = (75} ma0C =  3) 
+(a) Show that A, B, and C lie on the circle. 
+(b) Find vector E 9 
+(c) 
+Find the cosine of angle OAC. 
+(d) Find the area of triangle ABC, giving your answer in the form a V1T, 
+where a € N. 
+Figure 9.53 Diagram for 
+question 2 
+  
+3. Given vectors u = 3i + 5jand v = 
+i — 2j, find scalars a, b such that 
+a(u+v) =8i+ (b—2)j 
+4. Vector ((1)) represents a displacement due east, and vector ((1)) a 
+displacement due north. Distances are in kilometres and time in hours. 
+Two crews of workers are laying an underground cable in a north-south 
+direction across a desert. At 06:00, each crew sets out from their base 
+camp, which is situated at the origin (0, 0). One crew is in vehicle T and 
+the other in vehicle C. 
+T has velocity vector (;Z), and C has velocity vector (7 ig) 
+(a) Find the speed of each vehicle. 
+(b) 
+(i) 
+Find the position vectors of each vehicle at 06:30 
+(ii) Hence, or otherwise, find the distance between the vehicles at 
+06:30 
+(c) 
+At this time (06:30), C stops and its crew begins their day’s work, 
+laying cable in a northerly direction. T continues travelling in the 
+same direction at the same speed until it is exactly north of C. The 
+T crew then begins their day’s work, laying cable in a southerly 
+direction. At what time does the T crew begin laying cable? 
+439
+
+Vectors, lines, and planes 
+(d) Each crew lays an average of 800 m of cable in an hour. If they 
+work non-stop until their lunch break at 11:30, what is the distance 
+between them at this time? 
+(e) How long would T take to return to base camp from its lunch-time 
+position, assuming it travelled in a straight line and with the same 
+average speed as on the morning journey? (Give your answer to the 
+nearest minute.) 
+5. Vectors ((1)) and ((1)) represent displacements due ast and north respectively. 
+The point (0,0)is the position of an airport r, = (19) + 1( 12) is the 
+position vector of Aircraft 1. (t is the time in minutes since 12:00 and 
+distance is in km.) 
+(a) Show that Aircraft 1: 
+(i) 
+is 20 km from the airport at 12:00 
+(ii) has a speed of 13 kmmin~1. 
+(b) Show that a Cartesian equation of the path of Aircraft 1 is: 
+5%+ 12y = 224, 
+Aircraft 2 has position vector r, = (fg) . z(z-g). (£15 the time in 
+minutes since 12:00.) 
+(c) Find the angle between the paths of the two aircraft. 
+(d) 
+(i) 
+Find a Cartesian equation for the path of Aircraft 2. 
+(ii) Hence find the coordinates of the point where the two paths cross. 
+(e) The two aircraft are flying at the same height. Will they collide? 
+6. A line passes through the point (4,—1) and its direction is perpendicular 
+to the vector (g) Find the equation of the line in the form ax + by = p, 
+where a, b and p are integers to be determined. 
+7. In this question, the vector ((1)) 
+represents a displacement due 
+east and the vector ((1)) 
+represents a displacement 
+due north. Distances are in km. 
+The diagram shows the path 
+of the oil-tanker Aristides 
+relative to the port of Orto, 
+which is situated at the 
+point (0, 0). 
+The position of the Aristides is given by the vector equation 
+x\ 
+_ 
+(O 
+6' 
+: 
+o 
+B ( X s) i r(7 s) at a time t hours after 12:00.   
+440
+
+10. 
+. Vectors u = 
+( 
+2 
+(a) Find the position of the Aristides at 13:00. 
+(b) Find: 
+(i) 
+the velocity vector 
+(ii) 
+the speed of the Aristides. 
+Another ship, the cargo vessel Boadicea, is stationary, with position 
+vector (18). 
+4 
+(d) Show that the two ships will collide, and find the time of collision. 
+To avoid collision, the Boadicea starts to move at 13:00 with velocity 
+) 
+(e) Show that the position of the Boadicea for t = 
+1 is given by: 
+()= () +1) 
+(f) Find how far apart the two ships are at 15:00. 
+) and v 
+vector ( 
+9 
+  
+g 
+S0 
+(a) Write down the equation that these values of x must satisfy. 
+(b) Find all values of x. 
+. Figure 9.54 shows the positions of towns O, A, Band X. 
+Town A is 240 km east and 70 km north of O. 
+Town B is 480 km east and 250 km north of O. 
+Town X is 339 km east and 238 km north of O. 
+An aeroplane flies at a constant speed of 300 kmh ™! from O towards A. 
+0.96) 
+0.28 
+(a) 
+(i) 
+Show that a unit vector in the direction ofa is ( 
+(ii) Write down the velocity vector for the aeroplane in the form (K:) 
+(iii) How long does it take the aeroplane to reach A? 
+At A, the aeroplane changes direction so it now flies towards B. 
+The angle between the original direction and the new direction is 6 as 
+shown in Figure 9.55. This diagram also shows the point Y, between 
+A and B, where the aeroplane comes closest to X. 
+(b) Use the scalar product of two vectors to find the value of f in degrees. 
+(c) 
+(i) 
+Write down the vector A7 A 
+(ii) Show that the vector n = (; 
+(iii) By finding the projection of X in the direction of n, calculate 
+the distance XY. 
+(d) How far is the aeroplane from A when it reaches Y? 
+3 
+— 
+) is perpendicular to AB. 
+Three of the coordinates of the parallelogram STUV are 
+S(—2, —2), T(7, 7) and U(5, 15). 
+= 
+(a) Find the vector ST and hence the coordinates of V. 
+(b) Find a vector equation of the line UV in the form r = p + Ad 
+where A € P. 
+(x ;r 1) are perpendicular for two values of x. 
+    
+  
+    
+  
+o> 
+Diagram not 
+to scale 
+o 
+Figure 9.54 Diagram for 
+question 9 
+Diagram not 
+to scale 
+o 
+Figure 9.55 Second diagram for 
+question 9 
+441
+
+Vectors, lines, and planes 
+(c) Show that the point E with position vector (111) is on the line (UV), 
+and find the value of A for this point. 
+The point W has position vector (1;), a€eR. 
+(d) 
+(i) Iflm = 2/13, show that one value of 
+a is —3 and find the 
+other possible value of a. 
+(ii) For a = —3, calculate the angle between ﬁ and E_f ” 
+11. Find the position vector of point P, the point of intersection of the two 
+lines with vector equations 
+o= )+ Gsnar= (2 o} 
+12. The diagram shows a 
+parallelogram OPQR in which 
+== 
+P\ 
+= = [ 
+o = (3} 
+0d () 
+= 
+(a) Find the vector OR. 
+7 
+(b) Use the scalar product of 
+two vectors to show that 
+cosOﬁQ = *% 
+(c) 
+(i) 
+Explain why cosPaR = *cosOI”\Q 
+(ii) Hence show that sinPQR = K 
+  
+(iii) Calculate the area of the parallelogram OPQR, giving your 
+answer as an integer. 
+13. The diagram shows points A, B, and C, that are three vertices of a 
+parallelogram ABCD. The point A has position vector (%) 
+  
+10 
+  
+  
+  
+4 
+  
+24X | 
+1 
+ 
+ 
+ 
+  
+—2—‘10i2345675‘91‘0JC 
+(a) Write down the position vectors of Band C. 
+(b) The position vector of point D is (Z) Find d. 
+442
+
+14. 
+158 
+= 
+(¢) Find BD 
+The line L passes through B and D. 
+= 
+S 
+s 
+5 
+X\ 
+_(—1 
+m 
+(d) (i) Write down a vector equation of L in the form ( 5= ( 
+) +4™) 
+(ii) Find the value of ¢ at point B. 
+(e) Let P be 
+the point (7, 5). 
+By finding the value of t at P, show that P lies on the line L. 
+— 
+— 
+(f) Show that CP is perpendicular to BD. 
+Given are the points A, B, and C with position vectors (;), (7;) and (:g) 
+D is a point on the x-axis such that ABCD forms a parallelogram. 
+(2) () Find BC 
+(ii) Find the position vector of D. 
+(b) Find the angle between ﬁ and E 
+Line L, passes through A and is parallel to i + 4j. Line L, passes 
+through B and is parallel to 2i + 7j. A vector equation of L, is 
+r=(4i + 2j) + s(i + 4j). 
+(c) Write down a vector equation of L, in the form r = b + tq. 
+(d) The lines L, and L, intersect at point P. Find the position vector of P. 
+In this question, distance is in kilometres, time is in hours. 
+A balloon is moving at a constant height with a speed of 18kmh~! in 
+5] 
+the direction of the vector (4) At time t = 0, the balloon is at point B 
+0 
+with coordinates (0, 0, 5). 
+(a) Show that the position vector b of the balloon at time ¢ is given by 
+-8 
+At time t = 0, a helicopter goes to deliver a message to the balloon. 
+The position vector h of the helicopter at time ¢ is given by 
+-4 
+(b) 
+(i) 
+Write down the coordinates of the starting position of the 
+helicopter. 
+(ii) Find the speed of the helicopter. 
+(c) The helicopter reaches the balloon at point R. 
+(i) 
+Find the time the helicopter takes to reach the balloon. 
+(ii) Find the coordinates of R. 
+443
+
+Vectors, lines, and planes 
+16. In this question the vector ((1)) represents a displacement due east and 
+the vector ((1)) represents a displacement of 1 km north. 
+The diagram shows the positions of towns A, B and C in relation to an 
+airport O, which is at the point (0, 0). An aircraft flies over the three 
+towns at a constant speed of 250 kmh~". 
+y 
+xB 
+  
+Town A is 600 km west and 200 km south of the airport. 
+Town B is 200 km east and 400 km north of the airport. 
+Town C is 1200 km east and 350 km south of the airport. 
+(a) 
+(i) Find AB. 
+(ii) Show that the vector of length one unit in the direction of 
+7 (%9) 
+0.6, 
+An aircraft flies over town A at 12:00, heading towards town B at 
+250kmh~!. 
+Let (";) be the velocity vector of the aircraft. Let t be the number of 
+hours in flight after 12:00. 
+The position of the aircraft can be given by the vector equation 
+X\ 
+_ 
+(600 
+P) 
+() = (500) + e} 
+. 
+B 
+. 
+(200 
+(b) 
+(i) 
+Show that the velocity vector is (1 5 0) 
+(i) Find the position of the 
+aircraft at 13:00 
+(iii) At what time is the aircraft flying over town B? 
+Over town B, the aircraft changes direction so it now flies towards town 
+C. Tt takes five hours to travel the 1250 km between B and C. Over town 
+A, the pilot noted that she had 17 000 litres of fuel left. The aircraft uses 
+1800 litres of fuel per hour when travelling at 250 km h~!. When the fuel 
+gets below 1000 litres a warning light comes on. 
+(c) How far from town C will the aircraft be when the warning light 
+comes on? 
+444
+
+17 
+18. 
+16 
+20. 
+Given are the points P(4, 1, —1), Q(3, 3, 5), R(1, 0, 2¢), and $(1, 1, 2). 
+— 
+— 
+(a) Find the value of ¢ so that the vectors OR and PR are orthogonal. 
+For the remainder of the question, use the value of ¢ found in part (a) 
+for the coordinates of the point R. 
+- 
+= 
+(b) Evaluate PS X PR. 
+(c) Find an equation of the line / passing through point Q and parallel 
+to vector ﬁ . 
+(d) Find an equation of the plane 7 which contains the line / and passes 
+through the point S. 
+(e) Find the shortest distance between the point P and the plane 7. 
+Given are the points A(1, 2, 1), B(0, —1, 2), C(1, 0, 2), and D(2, —1, —6). 
+— 
+= 
+(a) Find the vectors AB and BC. 
+— 
+— 
+(b) Calculate AB X BC. 
+(c) Hence, find the area of triangle ABC. 
+(d) Find an equation of the plane P containing the points A, B, and C. 
+(e) Find a set of parametric equations for the line through the point D 
+and perpendicular to plane P. 
+(f) Find the distance from the point D to plane P. 
+(g) Find a unit vector perpendicular to plane P. 
+(h) Find the coordinates of E, which is the reflection of D in the plane P. 
+(a) Tfu=i+2j+ 3kand v =2i — j + 2k, show that 
+uXv=7i+4j— 
+5k 
+(b) Let w = Au + uv where A and p are scalars. Show that w is 
+perpendicular to the line of intersection of the planes 
+X+ 2y + 3z=5and 2x — y + 2z = 7 for all values of A and . 
+Given are the points A(2, 1, —2), B(2, —1, —1), and C(1, 2, 2). O is the 
+origin and OAPBCQSR is a parallelepiped as shown in the diagram. 
+  
+(a) Find the coordinates of P, Q, R, and S. 
+(b) Find a Cartesian equation for the plane OAPB. 
+(c) Calculate the volume, V; of the parallelepiped given that 
+— 
+= — 
+V=0A XO0B-0C 
+445
+
+Vectors, lines, and planes 
+21. 
+22. 
+23. 
+24. 
+446 
+Triangle ABC has vertices A(—1, 2, 3), B(—1, 3, 5) and C(0, —1, 1). 
+—_ 
+ — 
+(a) Find the angle 0 between vectors ABand AC. 
+(b) Hence, find the area of triangle ABC. 
+— 
+Let [, be the line parallel to AB which passes through D(2, —1, 0) 
+— 
+and [, be the line parallel to AC which passes through E(—1, 1, 1). 
+(c) 
+(i) 
+Find the equations of the lines /, and [, 
+(ii) Hence, show that /; and , do not intersect. 
+(d) Find the shortest distance between [, and [,. 
+(a) Solve the following system of linear equations 
+x+3y—22=—6 
+2% +y+3z2=7 
+3 
+by 
+=16 
+(b) Find the vector v = (i + 3j — 2k) X (2i + j + 3k). 
+(c) Ifa=i+3j—2kb=2i+j+ 3kandu = ma + nbwhere 
+m, n 
+are scalars, and u # 0, show that v is perpendicular to u for all m 
+and n. 
+(d) The line [ lies in the 
+plane 3x — y + z = 6, 
+passes through 
+the 
+point 
+P! 
+Y 
+P: 
+P! 
+(1, —1, 2) and is perpendicular to v. Find an equation of L. 
+Given are the points A(L, 3, 1), B(1, 2, 4), C(2, 3, 6), and D(5, —2, 1). 
+— 
+ — 
+(a) 
+(i) 
+Evaluate the vector product AB X AC. 
+(i) Find the area of the triangle ABC. 
+Let the plane containing the points A, B, C be 7 and the line passing 
+through D perpendicular to 77 be L. P is the point of intersection of 
+Land 7. 
+(b) 
+(i) 
+Find the Cartesian equation of 7. 
+(i) Find the Cartesian equation of L. 
+(c) Determine the coordinates of P. 
+(d) Find the perpendicular distance from D to . 
+Point A(2, 5, —1) lies on line L, which is perpendicular to plane P with 
+equationx +y+z—1=0. 
+(a) Find the Cartesian equation of the line L. 
+(b) Find the point of intersection of the line L and plane P. 
+(c) The point A is reflected in plane P. Find the coordinates of the image 
+of A. 
+(d) Find the distance from the point B(2, 0, 6) to line L.
+
+25. (a) Plane 7; contains point P(1, 2, 11). Vector 3i — 4j + kis 
+perpendicular to 7. Find the Cartesian equation of 7. 
+(b) Plane 7, has equation x + 3y — z = —4. 
+(i) 
+Show that point P also lies in the plane . 
+(ii) Find a vector equation of the line of intersection of 7, and 
+. 
+(c) 
+Find the acute angle between 7, and . 
+  
+  
+26. A line [; has equation % ; 2 
+z:29 
+a) 
+Let 
+e a 
+point on [, with 
+parameter 
+p. 
+Express the coordinates o 
+Let 
+M be a poi 
+I, 
+with p 
+. Exp: 
+h 
+di 
+f 
+M in terms of p. 
+(b) The line I, is parallel to /, and passes through P(4, 0, —3). 
+(i) 
+Write down an equation for 1. 
+— 
+(ii) Express PM in terms of u. 
+(c) The vector ﬁ is perpendicular to [;. 
+(i) 
+Find the value of u. 
+(ii) Find the distance between /, and . 
+(d) Plane 7, contains [, and J,. Find an equation for 7, giving your 
+answer in the form Ax + By + Cz = D. 
+(e) Plane m, has equation x — 5y — z = —11. Verify that /, 
+is the line of 
+intersection of planes 1, and . 
+x—2_Y~2 z-3 
+=3 
+= 
+Show that linesT e 
+y 
+Sz 
+4 
+4 
+2 
+intersect and find the coordinates of P, the point of intersection. 
+73 
+  
+  
+(b 
+Find the Cartesian equation of the plane 7 that contains the two lines. 
+(c) The point Q(3, 4, 3) lies on 7. Line L passes through the midpoint of 
+[PQ]. Point S is on L such that |P_S>| S |QS 
+= 3, and the triangle PQS 
+is normal to the plane 7. Given that there are two possible positions 
+for S, find their coordinates. 
+2 
+=2 
+1 
+Plane 77, has equation r = (1) S )\( 
+1 
+) S u(*S) 
+1 
+8 
+0, 
+2 
+1 
+1 
+Plane 7, has equation r = (0) oG s(z) 5 t(l) 
+1 
+1 
+1 
+(i) 
+For points that lie in 7y and r,, show that A = u. 
+28. 
+(a) 
+(ii) Hence, find a vector equation of the line of intersection of 7, 
+and . 
+2 
+Y 
+3 
+j:z+1mdis 
+perpendicular to 3i — 2j + k. Find the Cartesian equation of 3. 
+    
+(b) Plane 7r; contains the line 
+(c) 
+Find the intersection of 77, 7, and ;. 
+447
+
+448 
+Vectors, lines, and planes 
+29. 
+30. 
+Two planes have equations 
+midx+y+z=8andm:ax+3y—2z=0 
+5 
+(a) Find the cosine of the angle between the two planes in the form V“ % 
+wherep, g€ Z. 
+Let L be the line of intersection of the two planes. 
+sl 
+(b) 
+(i) 
+Show that L has direction ( 
+2 
+) 
+2 
+(ii) Show that the point A(1, 0, 4) lies on both planes. 
+(iii) Write down a vector equation of L. 
+B is the point on 7; with coordinates (a, b, 1). 
+a5 
+(c) Given the vector AB is perpendicular to L, find the value of a and 
+the value of b. 
+(d) Show that AB = 3,2 
+The point Plies on L and ABP = 45°. 
+(e) Find the coordinates of the two possible positions of P. 
+) 
+| 
+P 
+2 
+A plane 7 has equation 
+x + y + 3z = 9. 
+  
+Aline L has equation 
+=z— 1,wherep,q€R. 
+(a) Show that L is not perpendicular to 7. 
+(b) Given that L lies in the plane 7, find the value of p and the value of g. 
+Consider the different case where the acute angle between L and 7 
+f 
+= 
+GOV 
+is @ where 6 = arcsm(?) 
+V1 
+(c) 
+(i) 
+Show thatp = —2. 
+(ii) If 
+L intersects 77 at z = —1, find the value of g.

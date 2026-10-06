@@ -1,0 +1,4823 @@
+ 
+
+A random variable 
+is a variable that takes 
+on numerical values 
+determined by the 
+outcome of a random 
+experiment. 
+Random variables are 
+customarily denoted 
+by upper case letters, 
+suchas Xand Y. Lower 
+case letters are used to 
+represent particular 
+values of the random 
+variable. That is, if 
+X 
+represents the numbers 
+resulting from the throw 
+ofa dice, then x =2, 
+represents the case when 
+766 
+the outcome is 2. 
+Probability distributions 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+o 
+discrete random variables and their probability distributions 
+« 
+continuous random variables and their probability density functions 
+o 
+the effect of linear transformations of X on the values of its parameters 
+o 
+the normal distribution: properties, normal probability calculations, 
+and inverse normal calculations 
+« 
+standardising normal variables (z-values) 
+« 
+inverse normal calculations where mean and standard deviation 
+are unknown 
+o 
+the binomial distribution including its mean and variance. 
+Investing in securities, calculating premiums for insurance policies, or overbooking 
+policies used in the airline industry are only a few of the many applications of 
+probability and statistics. Actuaries, for example, calculate the expected claims that 
+an insurance company will incur and decide on how high the premiums should be. 
+These applications depend mainly on what we call probability distributions. 
+A probability distribution describes the behaviour of a population in that it lists the 
+distribution of possible outcomes to an event, along with the probability of each 
+potential outcome. This can be done by a table of values with their corresponding 
+probabilities, or by using a mathematical model. 
+In this chapter, we will get an understanding of the basic ideas of distributions 
+and will study two specific ones: the binomial and normal distributions. 
+Random variables 
+In Chapter 10, variables were defined as characteristics that change or vary over 
+time and/or for different objects under consideration. A numerically valued 
+variable x will vary or change depending on the outcome of the experiment 
+we are performing. For example, suppose we are counting the number of 
+smartphones owned by families in a certain city. The variable of interest, X, can 
+take any of the values 0, 1, 2, 3, and so on, depending on the random outcome 
+of the experiment. For this reason, we call the variable X a random variable. 
+‘When a probability experiment is performed, we are often not interested in all 
+the details of the outcomes, but only in the value of some numerical quantity 
+determined by the result. For instance, in tossing two dice (used in plenty of 
+games), we care often only about their sum and not the values on the individual 
+dice. A sample space for which the points are equally likely is given in Table 
+15.1. It consists of 36 ordered pairs (a, b) where a is the number on the first 
+dice, and b is the number on the second dice. For each sample point we can let 
+the random variable X stand for the sum of the numbers. The resulting values 
+of x are also presented in the table.
+
+  
+(L1sx=2 
+[(2,1x= 
+G, 1)x=4 
+1;x=5 
+|(51sx=6 
+|(6,1)sx=7 
+  
+) 
+3 
+(4, 
+(L2sx=3 
+|[(22sx=4 
+|(3,2ix=5 
+|(42sx=6 
+|[(5.2:x=7 
+|(6.25x=8 
+(L3jx=4 
+|[(23%5x=5 
+|(3.3sx=6 
+|(43%x=7 
+|(53%5x=8 
+[(6.3):x=9 
+(Ldyx=5 
+|[(245x=6 
+|(3.45x=7 
+|(44)x=8 
+|[(5.45x=9 
+[(64)sx=10 
+) 
+7 
+( 
+) 
+8 
+( 
+) 
+) 
+(L,5sx=6 
+[(2,5x= 
+(3,55x=8 
+|(4,5:;x=9 
+|(55);x=10|(6,5;x=11 
+) 
+(3,6)x=9 
+  
+  
+  
+  
+ 
+ 
+(L6sx=7 
+|(26)sx= 
+4,65x=10 
+[(5,6);x=11 |(6,6);x =12 
+ 
+ 
+ 
+ 
+   
+Table 15.1 Sample space and the values of the random variable X in the two-dice experiment. 
+Notice that events can be more accurately and concisely defined in terms of 
+the random variable X; for example, the event of getting a sum greater than or 
+equal to 5 but less than 9 can be replaced by 5 =< x < 9. 
+We can think of many examples of random variables: 
+e 
+X = the number of calls received by a household on a Friday night 
+¢ 
+X = the number of beds available at hotels in a large city 
+¢ 
+X = the number of customers a sales person contacts on a working day 
+o 
+X = the length of a metal bar produced by a certain machine 
+o 
+X = the weight of newborn babies in a large hospital. 
+As you have seen in Chapter 10, these variables are classified into discrete or 
+continuous, according to the values that X can assume. In the examples above, 
+the first three are discrete and the last two are continuous. A random variable is 
+discrete if its set of possible values is isolated points on the number line; that is, 
+there is a countable number of possible values for the variable. The variable is 
+continuous if its set of possible values is an entire interval on the number line; 
+that is, it can take any value in an interval. Consider the number of times you 
+flip a coin until the head side appears. The possible values are x = 1,2, 3, 
+... 
+This is a discrete variable, even though the number of times may be infinite. 
+On the other hand, consider the time it takes a student at your school to eat 
+lunch. This can be anywhere between zero and the length of the lunch period 
+  
+at your school. 
+State whether each of the following is a discrete or a continuous 
+random variable. 
+(a) The number of hairs on a Scottish terrier 
+(b) The height of a building 
+(c) The amount of fat in a steak 
+(d) A high school student’s grade on a history test 
+(e) The number of fish in the Atlantic Ocean 
+(f) 
+The temperature of an electric kettle 
+N 
+discrete’ 
+0 \ 
+50 
+continuous 
+Figure 15.1 Discrete and 
+continuous varables 
+767
+
+Probability distributions 
+| 
+Solution 
+(a) Even though the number of hairs is incredibly large, it is countable. 
+So, it is a discrete random variable. 
+(b) This can be any real number. Even when we say this building is 15 m 
+hi, 
+the number could be 15.1 m, 15.02 m, and so on. So, it is continuous. 
+  
+(c) This is continuous as the amount of fat could be zero up to the 
+maximum amount of fat that can be held in one piece. 
+(d) Grades are discrete. No matter how detailed a score the teacher gives, 
+the grades are isolated points on a scale. 
+(e) This is unfathomably large, but still theoretically countable, 
+hence discrete. 
+(f) 
+This is continuous, as the temperature can take any value from room 
+temperature up to 100 degrees Celsius. 
+Discrete 
+probability 
+distribut 
+In Chapter 10, we learned how to work with the frequency distribution 
+and relative or percentage frequency distribution for a set of numerical 
+measurements on a variable X. The distribution gave the following information 
+about X: 
+« 
+what value of 
+X occurred 
+« 
+how often each value occurred 
+‘We also learned how to use the mean and standard deviation to measure the 
+centre and variability of the data set. 
+Here is an example of the frequency distribution of 25 families in Lower 
+Austria that were polled in a marketing survey to list the number of litres of 
+milk consumed during a particular week. Table 15.2 lists the number of litres 
+consumed, to the nearest litre, along with the relative frequency that number is 
+observed. One of the interpretations of probability is that it is understood to be 
+  
+  
+  
+  
+  
+  
+  
+‘The probability 
+. 
+b 
+the long-term relative frequency of the event. 
+et randon Jarisble 
+Number of ltres to the nearest litre | Relative frequency 
+i a table, graph, or 
+formula that gives the 
+0 
+0.08 
+possible values of x, 
+1 
+0.20 
+and the probability 
+P(x) = P(X=x) 
+2 
+036 
+associated with each 
+3 
+0.20 
+value of x. This is also 
+called the probability 
+& 
+] 
+‘nmass function 
+5 
+0.04 
+ 
+ 
+ 
+  
+(PMF) and in many 
+sources it s called the 
+probability distribution 
+A table like this, where we replace the relative frequency with probability, 
+e ey 
+is called a probability distribution of the random variable. 
+768 
+Table 15.2 Number of litres of milk consumed by families during a particular week
+
+Note: we write P(X = x) 
+the probability mass function specifies the probability of observing 
+as P(x) for convenience. 
+In other words, for every possible value x of the random variable X, 
+I 
+that value when the experiment is performed. 
+If X is the number of litres of milk (to the nearest litre) consumed 
+by a family, the probability distribution of X is as follows: 
+  
+x 
+0 
+1 
+2 
+3 
+4 
+5 
+P(x) | 008 | 020 | 036 | 020 | 012 | 
+0.04 
+Table 15.3 Probability distribution of milk consumption 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The other form of representing the probability 
+0.404 
+  
+  
+   
+ 
+   
+    
+distribution is with a histogram, as shown in 
+0.35 
+Figure 15.2. Every bar corresponds to the probability 
+0.304 
+of the associated value of x. The values of x naturally 
+0.25 
+represent mutually exclusive events. Summing 
+0.20 
+P(x) over all values of X is equivalent to adding the 
+0.154 
+probabilities of all simple events in the sample space, 
+0.10 
+and hence the total is 1. 
+0.05 
+  
+  
+Probability 
+   
+ 
+ 
+0.00 
+This result can be generalised for all probability 
+2 
+3 
+4 
+Litres of milk 
+distributions. 
+i 
+. 
+o 
+Figure 15.2 Milk consumption probability distribution 
+Probability distribution functions of discrete 
+random variables 
+  
+Let X be a discrete random variable with probability distribution function p(x). 
+Then 
+e 
+0= p() = 
+I forany value x 
+« 
+The individual probabilities sum to 1; that is Zp(x) = 1, where the notation 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+indicates summation over all possible values of x. 
+‘The notation in CDF 
+indicates that summation 
+For some value x of the random variable X, we often wish to compute the 
+is over 
+all possible values 
+probability that the observed value of X is at most x. This gives rise to the 
+:f}' []h: M?r:::scl:h?‘:(:f 
+o 
+. 
+qual to x. 
+oict 
+Cumulative Distribution Function (CDF). 
+the variable name to be y 
+is arbitrary — we can use 
+P 
+= 
+v 
+= 
+any letter. 
+‘The cumulative distribution function (CDF) of a random variable X expresses the probability 
+that X does not exceed the value x as a function of x. That is 
+Fx) =PX<x) = Z 
+) 
+P 
+F(x) 
+Itis also known as the cumulative probability function F(x) 
+0 
+0.08 
+. 
+o 
+3 
+. 
+. 
+1 
+0.28 
+For example, in the milk consumption case, the CDF will look like Table 15.4. 
+2 
+0.64 
+So, F(3) = 0.84 is the probability of 
+a family consuming up to 3 litres of milk. 
+3 
+0.84 
+This result can be achieved by adding the probabilities corresponding to x = 0, 
+2 
+096 
+1,2,and 3. 
+5 
+100 
+In many cases, we use the cumulative distribution to find individual probabilities, 
+Table 15.4 CDF for milk 
+consumption 
+PX=x=PX<x—PX<x 
+769
+
+  
+  
+ 
+ 
+ 
+x 
+0 
+1 
+4 | 
+4 
+PR | 
+3 
+9 
+ 
+ 
+  
+Table 15.5 Probability 
+distribution table for 
+Example 15.2 
+  
+3 
+5 
+z 5 
+1 
+3 
+0 
+Figure 15.3 Probability 
+distribution graph for 
+Example 15.2 
+770 
+0 
+Number of houses 
+  
+1 
+ 
+Probability distributions 
+For example, to find the probability that x = 3, we can use Table 15.4 
+P(x = 3) = P(x < 3) — P(x < 3) = 0.84 — 0.64 = 0.20 
+This property is of great value when studying the binomial and Poisson 
+distributions. 
+Radon is a major cause of lung cancer. It is a radioactive gas produced by the 
+natural decay of radium in rocks that contain small amounts of uranium. 
+Studies in areas with high levels of radon revealed that one third of houses 
+in these areas have dangerous levels of radon. Suppose that two houses are 
+randomly selected and we define the random variable X to be the number 
+of houses with dangerous levels. Find the probability distribution of X by a 
+table, a graph, and a formula. 
+eSS 
+Solution 
+Since two houses are selected, the possible values of X are 0, 1, or 2. 
+The assumption here is that we are choosing the houses randomly and 
+independently of each other. 
+plx = 2) = p(2) = p(1st house with dangerous levels and 2nd house with 
+dangerous levels) 
+= p(Ist house with dangerous levels) X p(2nd house with 
+dangerous levels) 
+=Ll 1 
+S 
+O) 
+plx = 0) = p(0) = p(1st house without dangerous levels and 2nd house 
+without dangerous levels) 
+= p(1st house without dangerous levels) X p(2nd house without 
+dangerous levels) 
+2,2_4 
+—Enae 
+s = 
+SISO 
+plr=1=1-[p0) 
++pd) =1~ [s+3] =3 
+g 
+e 
+  
+Any type of graph can be used to give the probability distribution as long 
+as it shows the possible values of X and the corresponding probabilities. 
+The probability here is graphically displayed as the height of a rectangle. 
+Moreover, the rectangle corresponding to each value of X has an area equal 
+to the probability p(x). The histogram is the preferred tool because of its 
+connection to the continuous distributions discussed later in the chapter.
+
+The probability distribution of x can also be given by 
+o= 33 
+D 
+where (x ) = 2C, represents the binomial coefficient (see Chapter 3). 
+Note that when x is replaced by 0, 1, or 2, we obtain the results we are 
+looking for 
+o= 
+3 
+=144 
+o= i @ =243 
+o= 
+i @ <1 4=} 
+Many universities have a policy of posting the grade distributions for their 
+courses. Several of the universities have a grade-point average that codes 
+the grades in the following manner: A = 4,B = 3,C=2,D = 1,and 
+F = 0. During the spring term at a certain large university, 13% of the 
+students in an introductory Statistics course received grade A, 37% B, 
+45% C, 4% D, and 1% E. A student is chosen at random and the grade noted. 
+The student’s grade on the 4-point scale is a random variable X. 
+Here is the probability distribution of X: 
+  
+x 
+0 
+1 
+2 
+5 
+4 
+P(x) 
+0.01 | 0.04 | 045 | 037 | 0.13 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) 
+Is this a probability distribution? 
+(b) What is the probability that a randomly chosen student receives 
+a grade B or better? 
+- 
+Solution 
+(a) 
+Yes, it is. Each probability is between 0 and 1, and the sum of all 
+probabilities is 1. 
+(b) plx = 3) = p(x = 3) + p(x = 4) = 037 + 0.13 = 0.40 
+77
+
+772 
+Probability distributions 
+Example 15.4 
+When people choose codes for their smartphones, the first digits follow a 
+probability distribution similar to the one below. 
+  
+First digit 
+0 
+& 
+2] 
+3 
+4 
+5 
+6 
+7 
+8 
+] 
+Probability | 0.009 | 0.300 | 0.174 | 0.122 | 0.096 | 0.078 | 0.067 | 0.058 [ 0.051 | 0.045 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Here, X represents the first digit chosen. 
+What is the probability that you pick a first digit that is more than 5? 
+Show a probability histogram for the distribution. 
+N 
+Solution 
+B(x 
+> 5) = p(x 
+= 
+6) + plx=7) + p(x 
+= 8) + p(x 
+= 9) = 0.221 
+Note that the height of each 
+L2 
+bar shows the probability of 
+the outcome at its base. 
+The heights add up to 1, 
+of course. The bars have the 
+same width, namely 1. So the 
+areas also display the probability 
+assignments of the outcomes. 
+o 
+R R AR 
+Think of such histograms 
+First digit of a smartphone code 
+(probability histograms) as idealised 
+pictures of the results of very many repeated trials. 
+Expected values 
+The probability distribution for a random variable looks very similar to the 
+relative frequency distribution discussed in Chapter 10. The difference is 
+that the relative frequency distribution describes a sample of measurements, 
+whereas the probability distribution is constructed as a model for the entire 
+population. Just as the mean and standard deviation give you measures for the 
+centre and spread of the sample data, you can calculate similar measures to 
+describe the centre and spread of the population. 
+Probability 
+0.05 
+ 
+  
+ 
+The population mean, which measures the average value of X in the population, 
+is also called the expected value of the random variable X. It is the value that 
+we would expect to observe on average if we repeated the experiment an 
+infinite number of times. The formula we use to determine the expected value 
+can be simply understood with an example. 
+Let’s revisit the milk consumption example. Here is the table of probabilities: 
+  
+P(x) 
+0.08 | 0.20 | 0.36 | 0.20 | 0.12 | 0.04 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Table 15.6 Milk consumption probabilities
+
+Suppose we choose a large number of families, say 100 000. Intuitively, using 
+the relative frequency concept of probability, we would expect to observe 8000 
+families consuming no milk, 20 000 consuming 1 litre, and the rest consuming: 
+36000, 20 000, 12 000, and 4000. 
+The average (mean) value of 
+X as defined in Chapter 10 would then be equal to 
+Sum of all measurements _ 0 
+- 8000 + 1-20000 + 2 
+- 36000 + 3 
+- 20000 + 4 
+- 12000 + 5 
+- 4000 
+n 
+100 000 
+  
+=0-0.08+1-020+2-036+3-020+4-0.12+5-0.04 
+=0-p0)+1-p(1) 
++2-p2) +3-p(3) +4-p(4) +5-p(5) =22 
+That is, we expect to see families, on average, consuming 2.2 litres of milk. 
+Let X be a discrete 
+This does not mean that we know what a family will consume, but we can say 
+random variable with 
+what we expect to happen. 
+probability distribution 
+P(x). The mean or 
+Insurance companies make extensive use of expected value calculations. 
+expected value of X is: 
+Here is a simplified example. 
+=EX)=>x-Px 
+  
+An insurance company offers a policy that pays you €10,000 when your car is   
+  
+  
+ 
+ 
+ 
+ 
+  
+damaged beyond repair or €5000 for major damages (50%). They charge you 
+:‘ch::::( 
+A':;‘:':( 
+P;"z;':iii;y 
+€50 per year for this service. Can they make a profit? 
+B 
+Total 
+10000 
+1 
+Suppose in any year that 1 out of every 1000 cars is damaged beyond 
+damage 
+1000 
+repair, and that another 2 out of 1000 will have serious damage. 
+; 
+™ 
+R 
+Major 
+2 
+Then we can display the probability model for this policy in a table. 
+A 
+5000 
+T 
+The expected amount the insurance company pays is given by 
+Minor or 
+0 
+997 
+1 
+7 
+997 
+no damage 
+1000 
+= 
+=Y 
+xP(x) 
+= 
+—) 
++ 
+—= ) 4ie0(22L 
+1= 
+ECO = YR 
+€10’000( 1000) 
+€5000( 1000) 
+eo( 1000) 
+Table 15.7 Probability table for car 
+insurance policy 
+= €20 
+This means that the insurance company expects to pay, on average, an amount 
+of €20 per insured car. Since it is charging people €50 for the policy, the 
+company expects to make a profit of €30 per car. Thinking about the problem 
+from a different perspective, suppose they insure 1000 cars. Then the company 
+would expect to pay €10,000 for 1 car, and €5000 to each of two cars with major 
+damage. This is a total of €20,000 for all cars, or an average of €20 per car. 
+Of course, this expected value is not what actually happens to any particular 
+policy. No individual policy actually costs the insurance company €20. We are 
+dealing with random events, so a few car owners may require a payment of 
+€10,000 or €5000, while most of the others receive nothing. Because of the need 
+to anticipate such variability, the insurance company needs to know a measure 
+of this variability; this is the standard deviation. 
+773
+
+Let X bea discrete 
+random variable with 
+probability distribution 
+p(x) and mean . The 
+variance of X, Var(X), 
+given by 
+o2 = E(X - w)?) 
+=3 
+w)?pl) 
+‘This is 
+sometimes called 
+Var(X), or V(X). 
+‘The standard deviation 
+o of arandom variable 
+xis equal to the positive 
+square root of its. 
+variance. 
+  
+  
+List 1[List 2]iist 3[List 
+& 
+508 Consum [unber. 
+  
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+Figure 15.4 GDC output 
+774 
+Probability distributions 
+Variance and standard deviatiol 
+In Chapter 10, we calculated the variance by computing the deviation from the 
+mean, x — 4, and then squaring it. We do that with random variables as well. 
+‘We can use similar arguments to justify the formulas for the population 
+variance o? and consequently the population standard deviation o. These 
+measures describe the spread of the values of the random variable around the 
+centre. We similarly use the idea of the average or expected value of the squared 
+deviations of the x-values from the mean w or E(X). 
+It can also be shown that there is another formula for the variance: 
+2= 
+w2 pi0 = Yx2 pi) — 2 = Y ox% 
+- pla) — [E0J2 
+=Y E0) — [EX2 = Y2 p) — [apwo]? 
+Let’s go back to the milk consumption example. We calculated the expected 
+mean value to be 2.2 litres. To calculate the variance, we can tabulate our work 
+to make the manual calculation simple. 
+  
+x | P(x) | Deviation (x — p1) | Squared deviation (x — p2) 
+(x — p)*- p(x) 
+  
+  
+  
+  
+  
+  
+  
+0.08 
+—-22 
+4.84 
+0.3872 
+% 
+0.20 
+e 
+1 
+1.44 
+0.2880 
+5 
+0.04 
+2.8 
+7.84 
+0.3136 
+Total 
+= ) plx) 
+1.52 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+‘Table 15.8 Calculating variance for milk consumption 
+So, the variance of the milk consumption is 1.52 litres?, or the standard 
+deviation is 1.233 litres. 
+GDC notes 
+You can do these calculations using your GDC. The method will depend on 
+which GDC you are using; some may require that you store your data in lists 
+and perform the calculations as described by the formulas above, and some 
+may give you the results after you enter your data in lists, making sure that the 
+probability is given as a frequency. For discrete random variable calculations, 
+take the ox values and not the sx values. Figure 15.4 shows a sample of a 
+GDC output. 
+You can also do the calculation using a spreadsheet. 
+X 
+P(x) 
+XPR) | x—p 
+=2 | (x—w2Pk) 
+0 
+0.08 
+0 
+—2.2 
+4.84 
+0.3872 
+1 
+0.2 
+0.2 
+-12 
+1.44 
+0.288 
+Totals 
+1 
+22 
+1.52 
+  
+Figure 155 Spreadsheet calculations
+
+  
+  
+  
+  
+  
+  
+  
+  
+A computer store sells a particular type of laptop. The number of laptops 
+x 
+P(X=1x) 
+sold each day is given in the table; x is the number of laptops sold each day. 
+0 
+0.08 
+The store has only four laptops left in stock and would like to know how 
+1 
+0.40 
+well they are prepared for all eventualities. Find the expected value of the 
+2 
+024 
+demand as well as the standard deviation. 
+3 
+0.15 
+4 
+0.08 
+Solution 
+5 
+0.05 
+  
+  
+    
+Table 15.9 Table for 
+E(X) = Y xp(x) = 0 X 0.08 + 1 X 0.40 + 2 X 0.24 + 3 X 0.15 + 4 X 0.08 
+Eanple 155 
++5 X 0.05 = 1.90 
+VarX) = 02 = Y _(x — )’ P(x) 
+=(0—1.92-0.08 + (1 — 1.9)2-0.40 + (2 — 1.9)2- 0.24 
++ (3 —1.9)2-0.15 + (4 — 1.9)2- 0.08 + (5 — 1.9)?- 0.05 
+  
+  
+  
+  
+ 
+  
+=163 
+o — 128 
+The graph of the 
+probability distribution 
+D 
+is given. As an 
+RE— 
+approximation, we can 
+= 022 
+use the empirical rule 
+g 
+v 
+to see where most of 
+:‘E 
+025 
+the demand is expected 
+£ 
+02 
+to be. Recall that the 
+) 
+empirical rule tells us 
+ot 
+that about 95% of the 
+o 
+values would lie within 
+g 
+2 standard deviations 
+Number of laptops 
+of the mean. 
+In this case u + 20 = 1.9 * 2 X 1.28 = (—0.66, 4.46). This interval does 
+not contain the 5 units sold in a day. We can say that it is unlikely that 5 or 
+more customers of this shop will want to buy a laptop today. 
+  
+  
+  
+  
+Using a GDC, enter the demand in L1 
+sum(LixL2) 
+and the probabilities in L2. 
+1.9 
+‘We then find the sum of their product. 
+For the variance, we follow the same 
+Ti*L2o13 
+procedure as described in Example 15.4 
+(0 
+.4 
+.48 
+.45 
+... 
+(L1-1.9)2%L2-Ls 
+Notice here that we combined several 
+(.2888 
+.324 
+.00.. 
+steps in one. 
+sum(Ls 
+1.63 
+    
+775
+
+Probability distributions 
+1. Classify each of the following as discrete or continuous random variables. 
+(a) The number of words spelled correctly by a student on a spelling test 
+(b) The volume of water flowing through the Niagara Falls per year 
+(c) The length of time a student is late to class 
+(d) The number of bacteria per ml of drinking water in Geneva 
+(e) The amount of carbon dioxide produced per litre of fuel 
+(f) The amount of a flu vaccine in a syringe 
+(g) The heart rate of a lab mouse 
+(h) The barometric pressure at the top of Mount Everest 
+(i) 
+The distance travelled by a taxi driver per day 
+(j) 
+The total score of football teams in national leagues 
+(k) The height of ocean tides on the shores of Portugal 
+(I) 
+The tensile breaking strength (in newtons per square metre) of a 
+5-cm diameter steel cable 
+(m) The number of overdue books at a public library 
+2. A random variable Y has this probability distribution: 
+  
+y 
+0 
+1 
+P 
+3 
+4 
+5 
+P(y) 
+0.1 
+0.3 
+0.1 
+0.05 | 0.05 
+(a) Find P(2). 
+(b) Construct a probability histogram for this distribution. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(c) Find pand o. 
+(d) Locate the interval u * o as well as i = 20 on the histogram. 
+(e) We create another random variable Z = Y + 1. Find p and o of Z. 
+(f) Compare your results for (c) and (e) and generalise for Z = Y + b, 
+where b is a constant. 
+3. A discrete random variable X can assume five possible values: 
+12,13, 15, 18, and 20. Its probability distribution is shown below. 
+  
+x 
+12 
+13 
+15 
+18 
+20 
+P(x) | 014 | 011 
+026 | 023 
+(a) What is P(15)? 
+(b) What is the probability that x equals 12 or 202 
+(c) What is p(X < 18)? 
+(d) Find E(X). 
+(e) Find V(X). 
+(f) 
+Let Y = 0.5X — 4. Find E(Y) and V(Y). 
+(g) Compare your results in (d), () and (f) and generalise for 
+Y = aX + b, where a and b are constants. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+776
+
+4. Medical research has shown that a certain type of chemotherapy is 
+successful 70% of the time when used to treat skin cancer. In a study 
+to check the validity of such a claim, researchers chose different 
+treatment centres and selected five of their patients at random. Here is 
+the probability distribution of the number of successful treatments for 
+groups of five: 
+  
+&2 
+0 
+1 
+2 
+3 
+4 
+Bl 
+P(x) | 0.002 | 0.029 | 0.132 | 0.309 | 0.360 | 0.168 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Find the probability that at least two patients would benefit from the 
+treatment. 
+(b) Find the probability that the majority of the group does not benefit 
+from the treatment. 
+(c) 
+Find E(X) and interpret the result. 
+(d) Show that o(X) = 1.02 
+(e) Graph P(x). Locate i, s = 03 and u * 20 on the graph. Use the 
+empirical rule to approximate the probability that X falls in this 
+interval. Compare this with the actual probability. 
+5. The probability function of a discrete random variable X is given by 
+PX=x)= %forx =12,14,16, 18 
+Set up a table showing the probability distribution and find the value of k. 
+6. X has probability distribution as shown in the table. 
+  
+  
+x 
+5 
+10 
+15 
+20 
+25 
+3 
+7 
+3 
+13 
+PO 
+% | 30| 
+¥ | 0| 
+& 
+  
+  
+  
+  
+  
+  
+  
+  
+(a) Find the value of k 
+(b) Find p(X > 10) 
+(c) Find p(5 < X =<20) 
+(d) Find the expected value and the standard deviation. 
+(e) Let Y = %x — 1. Find E(Y) and V(). 
+7. The discrete random variable Y has a probability density function 
+p(Y=y)=k(16 —y?) fory=0,1,2,3,4 
+(a) Find the value of the constant k. 
+(b) Draw a histogram to illustrate the distribution. 
+(c) Findp(l < Y=<3) 
+(d) Find the mean and variance. 
+7
+
+Probability distributions 
+8. The probability distribution of students categorised by age who visit a 
+certain cinema on weekends is given in Figure 15.4. The probabilities 
+for 18-year-olds and 19-year-olds are missing. We know that: 
+P(X = 18) = 2P(X = 19) 
+(a) Complete the graph and describe the distribution. 
+  
+(b) Find the expected value and the variance. 
+0 
+15 
+16 
+17 
+18 
+19 
+g 
+9. In a small town, a computer store sells laptops to the local residents. 
+Figure 15.4 Probability 
+distribution for question 8 
+However, because of low demand, they like to keep their stock at a 
+manageable level. The data they have indicate that the weekly demand 
+for the laptops they sell follows a distribution given in the table below. 
+  
+x:laptopssold | 
+0 
+1 
+2 
+3 
+4 
+5 
+P(x) 
+0.10 | 040 | 020 [ 015 | 0.10 | 0.05 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+(a) Find the mean and standard deviation of this distribution. 
+(b) Use the empirical rule to find the approximate number of computers 
+sold about 95% of the time. 
+10. The discrete random variable X has probability function given by 
+1yt 
+(5) 
+ x=23456 
+(x) = 
+i 
+k 
+x=7 
+0 
+otherwise 
+where k is a constant. 
+Determine the value of k and the expected value of X. 
+11. The following is a probability distribution for a random variable Y. 
+  
+y 
+0 
+1 
+2 
+3 
+P(y=y] 
+01 
+o040 | 
+k 
+|*k-12 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Find the value of k. 
+(b) Find the expected value. 
+12. A closed box contains 8 red balls and four white ones. A ball is taken out 
+at random, its colour noted, and it is then returned. This is done three 
+times. Let X represent the number of red balls drawn. 
+(a) Set up a table to show the probability distribution of X. 
+(b) What is the expected number of red balls in this experiment? 
+13. A discrete random variable Y has the following probability distribution 
+function: 
+P(Y=y) = k(4 —y)fory=0,1,2,3,and 
+4 
+(a) Find the value of k 
+(b) Find P(1 <y <3) 
+778
+
+14. 
+152 
+16. 
+Airlines sometimes overbook flights. Suppose for a 50-seat plane that 
+55 tickets were sold. Let X represent the number of ticketed passengers 
+that show up for the flight. From records, the airline has the following 
+PMEF for this flight. 
+  
+x 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+= 
+53 
+54 
+55 
+P(x) | 0.05 | 0.08 | 0.12 | 0.15 | 0.25 | 0.20 | 0.05 | 0.04 | 0.03 | 0.02 | 0.01 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Construct a CDF table for this distribution. 
+(b) What is the probability that the flight will accommodate all ticket 
+holders that show up? 
+(c) What is the probability that not all ticket holders will have a seat on 
+the flight? 
+(d) Calculate the expected number of passengers who will show up. 
+(e) Calculate the standard deviation of the number of passengers who 
+will show up. 
+(f) Calculate the probability that the number of passengers showing up 
+will be within one standard deviation of the expected number. 
+A small internet provider has 6 telephone service lines operating 24 
+hours daily. Defining X as the number of lines in use at any specific 
+10-minute period of the day, the PMF of 
+X is given in the table. 
+  
+x 
+0 
+1 
+2 
+B 
+4 
+5 
+6 
+P(x) | 0.08 | 0.15 | 0.22 | 0.27 | 0.20 | 0.05 | 0.03 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+(a) Constructa CDF table. 
+(b) Calculate the probability that at most three lines are in use. 
+(c) Calculate the probability that a customer calling for service 
+will have a free line. 
+(d) Calculate the expected number of lines in use. 
+(e) Calculate the standard deviation of the number of lines in use. 
+Some torches use one AA-type battery to work. The voltage in any new 
+battery is considered acceptable if it is at least 1.3 volts. 90% of the AA 
+batteries from a specific supplier have an acceptable voltage. Batteries are 
+usually tested until an acceptable one is found, then it is installed in the 
+torch. Let X represent the number of batteries that must be tested. 
+(a) Find P(1), i.e, P(X = 1) 
+(b) Find P(2) 
+(c) Find P(3) 
+(d) To have X = 5, what must be true of the 
+(i) 
+fourth battery tested 
+(ii) fifth battery tested? 
+(e) Use your observations above to obtain a general model for P(x). 
+779
+
+Probability distributions 
+17. Repeat question 16 for a torch that needs two batteries. 
+18. A biased dice with four faces is used in a game. A player pays 10 counters 
+to roll the dice. The table below shows the possible scores on the dice, the 
+probability of each score, and the number of counters the player receives 
+in return for each score. 
+  
+  
+  
+Score 
+1 
+2 
+3 
+4 
+s 
+1 
+1 
+1 
+1 
+Probability 
+> 
+: 
+s 
+0 
+Number of counters player receives 
+4 
+4 
+15 
+n 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Find the value of 7 in order for the player to get an expected return of 
+9 counters per roll. 
+19. Two children, Alan and Belle, each throw two fair six-sided dice 
+simultaneously. The score for each child is the sum of the two numbers 
+shown on their respective dice. 
+(a) 
+(i) 
+Calculate the probability that Alan obtains a score of 9. 
+(i) Calculate the probability that Alan and Belle both obtain a score 
+of 9. 
+(b) 
+(i) 
+Calculate the probability that Alan and Belle obtain the same 
+score. 
+(ii) Deduce the probability that Alan’s score exceeds Belle’s score. 
+(c) Let X represent the largest number shown on the four dice. 
+XA 
+(i) 
+Show that P(X 
+< x) = (g) Jorx=1,2...6 
+  
+(ii) Copy and complete the following probability distribution table. 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+1 
+2 
+3 
+4 
+5 
+6 
+» 
+1 
+15 
+671 
+PX=2| 
+156 | 2% 
+1296 
+  
+(ii) Calculate E(X) 
+    
+20. Consider the 10 data items x,, X,, ..., X,,. Given that 
+= 1341 and 
+the standard deviation is 6.9, find the value of x. 
+The binomial distribution 
+  
+Examples of discrete random variables are abundant in everyday situations. 
+However, there are a few discrete probability distributions that are widely 
+applied and serve as models for a great number of the applications. One of 
+them is the binomial distribution. 
+780
+
+The binomial distribution 
+‘We start with an example. 
+Example 15.6 
+A cereal company puts miniature figures in boxes of cornflakes to make 
+them attractive for children and thus boost sales. The manufacturer claims 
+that 20% of the boxes contain a figure. You buy three boxes of this cereal. 
+(a) Find the probability that you will get 
+(i) 
+exactly three figures 
+(ii) exactly 2 figures. 
+(b) If you bought five boxes, what is the probability that you will get exactly 
+2 figures? 
+| 
+Solution 
+(a) 
+(i) 
+To get three figures means that the first box contains a figure (0.20 
+chance), as does the second (also 0.20), and the third (0.20). We 
+want three figures, therefore this is the intersection of three events 
+and the probability is simply 0.20° = 0.008. 
+(i) To get exactly 2 figures, the situation becomes more complicated. 
+A tree diagram can help us to visualise it better. 
+box 1 
+box 2 
+box 3 
+0.008 
+fif 
+0032 il 
+0032 fif| 
+0128 fn 
+0032 aff 
+0128 
+nfn 
+0128 
+nnf 
+  
+0.512 
+nnn 
+Let f stand for figure, and n for no figure. There are three events of 
+interest to us. Since we are interested in two figures, we want to see 
+ffn, which has a probability of 
+0.2 X 0.2 X 0.8 =0.22X 0.8 = 0.032, 
+the other events of interest are fnf and nff, both with probabilities 
+0.2 X 0.8 X 0.2=0.032and 0.8 X 0.2 X 0.2 = 0.032 
+781
+
+A binomial experiment 
+has the characteristics: 
+« 
+The experiment 
+consists of # identical 
+trials. 
+« 
+ Each trial has one 
+of two outcomes. 
+We call one of them 
+success, S, and the 
+other failure, F. 
++ 
+'The probability of 
+success on a single 
+trial, p, is constant 
+throughout the whole 
+experiment. The 
+probability of failure 
+is1 — p, whichis 
+sometimes denoted 
+byg. Thatisp +q=1. 
+« 
+The trials are 
+independent. 
+« 
+ Weare interested 
+in the number of 
+successes x that are. 
+possible during the 
+ntrials. That is: 
+x=0,1,2,...,n. 
+Suppose that a random 
+experiment can 
+result in two possible 
+mutually exclusive and 
+collectively exhaustive 
+outcomes: success and 
+failure, and that p is the 
+probability of a success 
+from a single trial. 
+When 
+independent 
+trials are carried out, 
+the distribution of the 
+number of successes x 
+is called the binomial 
+distribution. The 
+probability distribution 
+function for the binomial 
+random variable x is: 
+P(x successes in 1 
+independent trials) = 
+B = "Copr(1 - pyrr 
+="C prqn-s, 
+forx=0,1,2, 
+. 
+‘The notation used 
+to indicate that a 
+variable has a binomial 
+probability distribution 
+‘with # trials and success 
+probability of p is: 
+X~B(n,p) 
+  
+782 
+Probability distributions 
+Since the order of multiplication is not important, the three 
+probabilities are the same. These three events are disjoint, as can be 
+seen from the tree diagram, so the probability of exactly two figures 
+is the sum of the three numbers, 0.032 + 0.032 + 0.032. Of course 
+you may realise that it would be much simpler if we wrote 3(0.032), 
+since there are three events with the same probability. 
+(b) The situation is similar, of course. However, a tree diagram would not be 
+useful in this case as there is too much information to construct to see 
+the solution. No matter how we succeed in finding a figure, whether it is 
+in the first box, the second or the third, it has the same probability, 0.2. 
+So, to have two successes (finding figures) in the five boxes, we need the 
+other three to be failures (no figures) with a probability of 0.8 for each 
+failure. Therefore the chance of having a case like ffinnn is 0.22X0.8°. 
+However, this can happen in several disjoint ways. There are 10 
+possibilities: 
+ffunn, fnfan, funfn, fannf, nffnn, nnffn, nnnff, nfafn, nnfnf, 
+nfnnf. Which means the probability of having exactly two figures in five 
+boxes is 
+  
+10 X 0.22 X 0.8% = 0.2048 
+The number 10 is the binomial coefficient (Pascal’s entry) you saw in Chapter 3. 
+This is also the combination of three events out of five. 
+The previous result can be written as (;)0 22.0.8% where (2) is the binomial 
+coefficient. 
+You can find experiments like this one in many situations. Coin flipping is only 
+a simple example of this. Another very common example is opinion polls that 
+are conducted before elections and used to predict voter preferences. Each 
+sampled person can be compared to a coin - but a biased coin. A voter you 
+sample who is in favour of a candidate can correspond to either a head or a 
+tail on a coin. Such experiments all exhibit the typical characteristics of the 
+binomial experiment. 
+In the cereal company’s example, we started with n = 3, p = 0.2, and asked 
+for the probability of two successes; that is, x = 2. In the second part we have 
+n=>5. 
+Imagine repeating a binomial experiment 7 times. If the probability of success 
+is p, then the probability of having x successes is pppp..., x times, (p*), because 
+the order is not important. However, in order to have exactly 
+x successes, the 
+other (n — x) trials must be failures - that is, with probability of gqqq..., 
+(n — x) times, (g" ~ %). This is only one order (combination) where the successes 
+happen the first x times and the rest are failures. We have to count the number 
+of orders (combinations) possible. This is given by the binomial coefficient 
+(x)="c
+
+Example 
+A computer shop orders its notebooks from a supplier that has a rate of 
+defective items of 10%. The shop usually takes a sample of 10 computers and 
+checks them for defects. If they find two computers defective, they return the 
+shipment. What is the probability that their random sample will contain two 
+defective computers? 
+e 
+Solution 
+‘We will consider this to be a random sample and the shipment large enough 
+to render the trials independent of each other. The probability of finding two 
+defective computers in a sample of 10 is given by 
+P(x = 2) = 1°C,(0.1)%(0.9)!9-2 = 45 X 0.01 X 0.43047 = 0.194 
+Of course it is a daunting task to do all the calculations by hand. A GDC can 
+do this calculation for you. You need to learn how your GDC performs such 
+calculations. Figure 15.7 shows a sample from one GDC. 
+Using a spreadsheet, we can also produce this result or even a set of 
+probabilities covering all the possible values. The formula used for this example 
+for Excel is =BINOMDIST(B1:G1,10,0.1,FALSE). 
+Similarly, a GDC can also give us a list of the probabilities (see Figure 15.8). 
+Like other distributions, when we look at the binomial distribution, we want to 
+look at its expected value and standard deviation. 
+Using the formula we developed for the expected value, >"xP(x), we can, of 
+course, add xP(x) for all the values involved in the experiment. The process 
+would be long and tedious for something we intuitively know. For example, 
+in the defective items sample, if we know that the defect rate of the computer 
+manufacturer is 10%, then it is natural to expect to have 10 X 0.1 = 
+1 defective 
+computer. If we have 100 computers with a defective rate of 10%, how many 
+would you expect to be defective? Can you think of a reason why it would 
+not be 10? 
+The expected value of the successes in the binomial is the number of trials n 
+multiplied by the probability of success, np. 
+So, in the defective notebooks case, the expected number of defective items in 
+the sample of 10is np = 10 X 0.1 = 1 
+  
+And the standard deviation is o = |/npq = /T0 X 0.1 X 0.9 = 0.949 
+How do we know that the binomial distribution is a probability distribution? 
+We can easily verify that the binomial distribution as developed satisfies the 
+probability distribution conditions. 
+  
+Binomial P.D 
+Data 
+:Variable 
+12 
+x 
+: 
+Numtrial:10 
+D 
+z 
+  
+  
+  
+Binomial P.D 
+p=0.19371024 
+ 
+ 
+  
+Figure 15.7 
+A GDC can do this 
+calculation for you 
+  
+[Binomial P.D 
+1[ O 
+2[0.3874 
+3[0:1937 
+[ 
+0.0573 
+sLoso111 
+0.3486784401 
+ 
+ 
+  
+Figure 15.8 GDC list of 
+probabilities 
+‘The binomial 
+probability model 
+= number of trials 
+= probability of success 
+=1~ pprobability 
+of failure 
+x = number of successes 
+in n trials 
+P(x) = "Cp¥(L = p"~* 
+="Cop*q" 
+3, for 
+z=0,12...n 
+Expected value = p = np 
+  
+o= /npq 
+783
+
+  
+Binomial P.D 
+p=0.0746470195 
+ 
+ 
+  
+Figure 15.9 GDC solution to 
+Example 15.8 (b) 
+784 
+Probability distributions 
+1. 
+1 
+0=Px) =1 
+2. 
+ZjP(x) =1 
+Since 
+p > 0 by definition, then p* > 0, for x = 0, 1, 2, .... Similarly, g"~* > 0. 
+We also know that "C, > 0. Therefore 
+P(x) = "C,p*q"*>0 
+P(x) = 
+1 will be a natural result of proving the second condition. If the sum 
+of n positive parts is equal to 1, none of the parts can be greater than 1. 
+2 YR =Y Cprgrs 
+The binomial theorem states 
+o+ ar =Yy Cr 
+e 
+= 
+  
+Since p + q = 1, then (p + ¢)" = 1, and therefore 
+R =3rCpr = (p g = 1 
+Example 15.8 
+A study to examine the effectiveness of advertising on the internet reported 
+that 4 out of 10 users remember advertisement banners after seeing them. 
+(a) 20 users are chosen at random and shown an advertisement. What is the 
+expected number of users who will remember the advertisement? 
+(b) What is the chance that 5 of those 20 will remember the advertisement? 
+(c) What is the probability that at most 1 user will remember the 
+advertisement? 
+(d) What is the chance that at least two users will remember the 
+advertisement? 
+Solution 
+(a) X~ B(20, 0.4). The expected number is simply 20 X 0.4 = 8. 
+‘We expect 8 of the users to remember the advertisement. 
+Notice that on the histogram, the area in red corresponds to the 
+expected value 8. 
+(b) PG) = (250)(&4)5(0‘6)‘5 = 0.0746, or see the output from a GDC. 
+This area is shown as the green area above 5 in the histogram. 
+() P(x=<1) = P(x = 0) + P(x = 1)= 0.000524
+
+(d) Px=2)=1-P(x=1) 
+=1 - 0.000524 = 0.999475 
+Histogram of web users 
+    
+Probability 
+0.0746 
+0 
+3 
+6 
+2 
+12 
+15 
+18 
+Number of users 
+The cumulative binomial distribution function 
+The cumulative distribution function F(x) of a random variable X expresses the 
+probability that X does not exceed the value x. That is 
+Fx) =PX<x = y;}’(y) 
+So, for the binomial distribution, the cumulative distribution function (CDF) is 
+given by 
+Fx) =PX=x= Y p(y) 
+yiysx 
+- S rGpe 
+Vs 
+The cumulative distribution is very helpful when we need to find the 
+probability that a binomial variable assumes values over a certain interval. 
+Example 15.9 
+A large shipment of light bulbs contains 4% defective bulbs. In a sample of 
+20 randomly selected bulbs from the shipment, find the probability that 
+(a) there are at most 3 defective bulbs 
+(b) there are at least 6 defective bulbs. 
+| 
+Solution 
+(a) This can be considered as a binomial distribution with n = 20 and p = 0.04 
+We need P(x < 3), which we can calculate either by finding the 
+probabilities for x = 0, 1, 2, and 3, and adding them, or by using the 
+cumulative function. In both cases, we can use a GDC. 
+Using the CDF is a much more straightforward procedure. 
+  
+Binomial C.D 
+Data 
+:Variable 
+Lower 
+ :0 
+Upper 
+:3 
+NBRtrializo 
+  
+  
+  
+Binomial C.D 
+p=0.99258706 
+ 
+   
+Figure 15.10(a) GDC solution 
+to Example 15.9 () 
+785
+
+Probability distributions 
+  
+   
+Bimomial .0 
+(b) Here we need P(X = 6). The first approach is not feasible at all as we 
+ﬁ;;:: 
+5 
+need to calculate 15 individual probabilities and add them. However, 
+setting the problem as a complement and then using the cumulative 
+B vaifies :S;ﬁé 
+distribution is much more efficient. i.e., 
+  
+PX=6=1—-PX<6=1—-PX=<5 
+  
+Binomial 
+C.D 
+p=9.7654£-05 
+ 
+ 
+Figure 15.10(b) GDC solution 
+1. Consider the binomial distribution 
+to Example 15.9 (b) 
+  
+() =°C,(0:6%(04> 5 x=0,1,...,5 
+(a) Make a table for this distribution. 
+(b) Graph this distribution. 
+(c) Find the mean and standard deviation: 
+(i) 
+usinga formula 
+(ii) by using the table of values you created in part (a). 
+(d) Locate the mean u and the two intervals u = o-and u = 20 on the 
+graph. 
+(e) Find the actual probabilities for x to lie within each of the intervals 
+ * oand p = 20 and compare them to the empirical rule. 
+2. A poll of 20 adults is taken in a large city. The purpose is to determine 
+whether they support banning smoking in restaurants. It is known that 
+approximately 60% of the population supports the decision. 
+Let X represent the number of respondents in favour of the decision. 
+(a) What is the probability that 5 respondents support the decision? 
+(b) What is the probability that none of the 20 support the decision? 
+(c) What is the probability that at least 1 supports the decision? 
+(d) What is the probability that at least 2 respondents support 
+the decision? 
+(e) Find the mean and standard deviation of the distribution. 
+3. Consider the binomial random variable with n = 6 and p = 0.3 
+(a) Copy the table and fill in the probabilities. 
+  
+k 
+0 
+i 
+2 
+3 
+4 
+5 
+6 
+P(x<k) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+786
+
+(b) Copy and complete the table. Some cells have been filled to guide you. 
+  
+  
+  
+  
+Number of 
+List the 
+Write the 
+| Explain it, if | Find the 
+successes x 
+valuesof x | probability | needed 
+required 
+statement 
+probability 
+Atmost 3 
+Atleast 3 
+More than 3 
+4,56 
+px>3) 
+[1-px=3)| 
+007047 
+  
+Fewer than 3 
+  
+Between 3 and 
+5 (inclusive) 
+Exactly 3 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+4. Repeat question 3 with n =7 and p = 0.4 
+5. A box contains eight balls: five are green, one is white, one red, and one 
+yellow. Three balls are chosen at random without replacement, and the 
+number of green balls y is recorded. 
+(a) Explain why y is not a binomial random variable. 
+(b) Explain why, when we repeat the experiment with replacement, then 
+y is a binomial random variable. 
+(c) Give the values of 7 and p and display the probability distribution in 
+tabular form. 
+(d) What is the probability that at most two green balls are drawn? 
+(e) What is the expected number of green balls drawn? 
+(f) What is the variance of the number of balls drawn? 
+(g) What is the probability that some green balls will be drawn? 
+6. On a multiple-choice test, there are 10 questions, each with 5 possible 
+answers, one of which is correct. Nick is unaware of the content of the 
+material and so he guesses on all questions. Find the probability that: 
+(a) Nick does not answer any question correctly 
+(b) Nick answers at most half of the questions correctly 
+(c) Nick answers at least one question correctly. 
+(d) How many questions should Nick expect to answer correctly? 
+7. Houses in a large city are equipped with alarm systems to protect them 
+from burglary. A company claims their system to be 98% reliable. That is, 
+it will trigger an alarm in 98% of the cases. In a certain neighbourhood, 
+10 houses equipped with this system experience an attempted burglary. 
+(a) Find the probability that all the alarms work properly. 
+(b) Find the probability that at least half of the alarms are triggered. 
+(c) Find the probability that at most 8 alarms will work properly. 
+787
+
+Probability distributions 
+8. Graphic novels are purchased by readers of all ages. 40% of graphic 
+novels were purchased by readers who were 30 years of age or older. 
+Fifteen readers are chosen at random. Find the probability that 
+(a) atleast 10 of them are 30 years or older 
+(b) exactly 10 of them are 30 or older 
+(c) 
+at most 10 of them are younger than 30. 
+9. A factory makes computer hard disks. Over a long period, 1.5% of them 
+are found to be defective. A random sample of 50 hard disks is tested. 
+(a) Write down the expected number of defective hard disks in the sample. 
+(b) Find the probability that three hard disks are defective. 
+(c) Find the probability that more than one hard disk is defective. 
+10. Car colour preferences change over time and according to the area the 
+customer lives in and the car model they are interested in. In a certain 
+city, a car dealer noticed that 10% of the cars he sells are metallic grey. 
+Twenty of his customers are selected at random and their car orders are 
+checked for colour. 
+Find the probability that: 
+(a) atleast 5 cars are metallic grey 
+(b) at most 6 cars are metallic grey 
+(c) more than 5 cars are metallic grey 
+(d) between 4 and 6 cars are metallic grey 
+(e) more than 15 cars are not metallic grey. 
+In a sample of 100 customer records, find: 
+(f) the expected number of metallic grey car orders 
+(g) the standard deviation of metallic grey car orders. 
+According to the empirical rule, 95% of the orders of metallic grey 
+orders are between a and b. 
+(h) Find a and b. 
+11. Dog owners in many countries buy health insurance for their dogs. 
+3% of all dogs have health insurance. In a random sample of 100 dogs 
+in a large city, find: 
+(a) the expected number of dogs with health insurance 
+(b) the probability that 5 of the dogs have health insurance 
+(c) the probability that more than 10 dogs have health insurance. 
+12. A balanced coin is flipped five times. Let x be the number of 
+heads observed. 
+(a) Using a table, construct the probability distribution of x. 
+(b) What is the probability that no heads are observed? 
+788
+
+(c) What is the probability that all observations are heads? 
+(d) What is the probability that at least one head is observed? 
+(e) What is the probability that at least one tail is observed? 
+(f) Another coin is unbalanced so that it shows 2 heads in every 10 
+flips. Repeat parts (a) to (e) for this coin. 
+13. On a television channel, the news is shown at the same time each day. 
+The probability that Alice watches the news on a given day is 0.4. 
+Calculate the probability that on five consecutive days, she watches the 
+news on at most three days. 
+14. A satellite relies on solar cells for its power and will operate provided that 
+at least one of the cells is working. Cells fail independently of each other, 
+and the probability that an individual cell fails within one year is 0.8. 
+(a) For a satellite with ten solar cells, find the probability that all ten 
+cells fail within one year. 
+(b) For a satellite with ten solar cells, find the probability that the 
+satellite is still operating at the end of one year. 
+(c) For a satellite with 7 solar cells, write down the probability that 
+the satellite is still operating at the end of one year. Hence, find the 
+smallest number of solar cells required so that the probability of the 
+satellite still operating at the end of one year is at least 0.95. 
+Continuous distributions 
+When a random variable X is discrete, we assign a positive probability to each 
+value that X can take and get the probability distribution for X. The sum of all 
+the probabilities associated with the different values of X is 1. 
+We have seen, in the discrete variable case, that we can graphically represent 
+the probabilities corresponding to the different values of the random variable X 
+with a probability histogram (relative frequency histogram), where the area of 
+each bar corresponds to the probability of the specific value it represents. 
+Consider now a continuous random variable X, such as height, weight, or 
+length of life of a particular product - a TV set, for example. Because it is 
+continuous, the possible values of X are over an interval. Moreover, there are 
+an infinite number of possible values of X. Hence, we cannot find a probability 
+distribution function for X by listing all the possible values of x along with 
+their probabilities. If we try to assign probabilities to each of these uncountable 
+values, the probabilities will no longer sum to 1. Thus we must use a different 
+approach to generate the probability distribution for such random variables. 
+789
+
+Probability distributions 
+Suppose that we have a set of measurements on a continuous random variable, 
+and we create a relative frequency histogram to describe their distribution. 
+For a small number of measurements, we can use a small number of classes, 
+but as more and more measurements are collected, we can use more classes and 
+reduce the class width. 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+020 
+T 
+. 
+- 
+| 
+g 015 
+- 
+2 
+L 
+= 
+— 
+& 
+g 0.10 
+1 
+s 
+o) 
+- 
+z 
+— 
+= 005 
+— 
+  
+x 
+Figure 15.11 Relative frequency histogram 
+The histogram will slightly change as the class width becomes smaller and 
+smaller as shown in Figure 15.12. As the number of measurements becomes 
+very large and the class width becomes very narrow, the relative frequency 
+histogram appears more and more like the smooth curve we see in Figure 15.13. 
+This is what happens in the continuous case, and the smooth curve describing 
+the probability distribution of the continuous random variable becomes the 
+probability density function of X, represented by a curve y = f(x). This curve 
+is such that the entire area under the curve is 1 and the area between any two 
+points is the probability that x falls between those 2 points. 
+  
+0.20 
+1 
+S 
+o 
+  
+0.10 4 
+Probability 
+0.05 1 
+  
+  
+  
+     
+0.00 
+x 
+x 
+Figure 15.12 As the number of measurements increases, 
+Figure 15.13 Smooth curve 
+class width becomes narrower 
+  
+Probability density functi 
+Let X be a continuous random variable. The probability density function, f(x), 
+of the random variable is a function with the properties: 
+o flx) > 0 for all values of X. 
+« 
+The area under the probability density function f(x) over all values of the 
+  
+random variable x is equal to 1.0, i.e., ff‘ﬂx)dx 
+1. 
+790
+
+o 
+A graph is drawn of the density function (Figure 15.14). Let a and b be two 
+possible values of the random variable X, with a < b. The probability that 
+x lies between a and b [p(a<<x<'b)] is the area under the density function 
+between these points, i.e., p(a < x < b) = lbﬂx)dx. 
+fx) 
+For example, Figure 15.15 shows the graph 
+of a model for the PDF 
+f of a random 
+variable X defined to be the height, in cm, 
+of an adult female in Spain. The probability 
+that the height of a female chosen at 
+random from this population is between 
+165 and 175 is equal to the area under the 
+curve between 165 and 175. 
+    
+Pla<x<b)= 
+Pla<x=b) 
+Figure 15.14 Density function graph 
+The function represented here is 
+  
+  
+  
+  
+  
+1657 
+_ 
+e 
+w0 
+175 
+(_((~x-165)7)+50)) 
+x) = 
+2 dx 
+[ 
+)+(5/ 
+K 
+Jeo 
+5V2m 
+= 
+0.8185946141 
+This is not an integral you can calculate exactly. 
+Figure 15.16 Approximating 
+So, we use a GDC to approximate it. 
+usinga GDC 
+So, the chance to choose a female at random with a height between 160 cm and 
+175 cm is approximately 81.9%. 
+f(x) describes a random variable X and is defined as: 
+B 
+. 
+<x=< 
+f) = {512(12x 
+x3—20x) 
+2s<x<10 
+0 
+otherwise 
+(a) Verify that f(x) is a probability density function. 
+(b) Findp(5 <x<8) 
+Sl 
+Solution 
+(a) For2 < x< 10 we have 12x* — x* — 20x = 0, 50 f(x) = 0. 
+We also need to check that [~ flx)dx = 
+1 
+o 
+[ fde = L1242 — 2 — 200dx 
+L 
+) 512 
+2048 
+Therefore f(x) is a PDE. 
+1 
+10 
+=L (16x° —x‘—40x2)] 
+=1 
+2 
+160 
+175 
+x 
+Figure 15.15 Green area = 
+probability that a female has 
+a height between 160 and 
+175cm 
+Based on this definition 
+ofa continuous PDE the 
+probability that x equals 
+any point a, is . This 
+is so because the area 
+above a value, say a, is a 
+rectangle of width 0, or 
+equivalently 
+pX =)= [fodx 
+=0 
+So, for the continuous 
+case, regardless of 
+whether the endpoints 
+aand bare themselves 
+included, the area 
+included between a and b 
+is the same. 
+pla<x<b) 
+=plasx=b) 
+   
+—pla<x=<b) 
+9N
+
+0.567 
+0 
+Figure 15.17 Solution to 
+Example 15.10 (b) 
+792 
+= 
+Probability distributions 
+(b) The probability that x lies between 5 and 8 is 
+8 
+(1252 
+— x* — 2 
+7—1 
+—xi— 
+4 
+2] 
+fSSIZ( 
+B 
+2 0% 
+0 
+(ooEes 
+Ox)s 
+_ 116l 
+=——~0.567 
+2048 
+Example 15.11 
+Find the value of k such that the following represents a probability density 
+function of a random variable X. 
+EOESIR == 
+fo) = { 
+0 
+otherwise 
+- 
+Solution 
+For f(x) to be a PDE, we need to satisfy both conditions. 
+For 0 < x < 2 we must have kx*(2 — x) = 0, and since x> = 0, 
+k must be positive. 
+For [mﬂx)dx =1, 
+[ fix)dx = [*kx*2 — x)dx = 1, and hence 
+o 
+) 
+2 
+[kx¥2 — 0dx =k [Lc’ = %‘] 
+= 1,and this in turn leads to 
+0 
+0 
+1)< 
+4 
+k=3 
+Cumulative distributi 
+ctions 
+‘We met the idea of the cumulative distribution functions for discrete random 
+variables in Sections 15.1 and 15.2. In the same way, and using the fact that an 
+integral is the limit of a sum, we have the following definition. 
+A cumulative distribution function, F(x), of a random variable X with a density function f{t) is 
+defined by 
+F(x) = PX<x) = [* fit)dt, where xis a value in the domain of the function f{1). 
+F(x) gives us the proportion of the population having values smaller than x. 
+Note here that F(x) is an antiderivative of f{x), that is F'(x) = flx). 
+Any distribution function has the following properties: 
+1. 
+F(x) is non-decreasing 
+2. lim F@) = 1; lim F()=0 
+3. Sincep(a <x<b) = [*fix)dx, thenpla <x <) = [*fix)dx = F(B) ~ Ka). 
+‘The lower limit of integration is given as —oc, but in essence, it is the smallest possible value of x.
+
+Measures of centre, 
+position, and spread of a 
+continuous distributi 
+  
+As with discrete distributions, continuous distributions have a mean, median, 
+mode, variance, and percentiles. 
+Mean 
+Recall that for a discrete random variable: 
+E(X) = >_xp(x), similarly, if we have a continuous random variable X with a 
+pdff(x), then 
+E(X) = [xflx)dx 
+E(X) is called the expected value of X and it is also referred to as the mean . 
+The function f(x) is a PDF for a random variable X, defined as: 
+o {%xz(fo) 
+0sx<2 
+0 
+otherwise 
+(a) Find 
+(b) Find P(X < ) 
+I 
+Solution 
+() 
+= E(x) = fxflx)dx = {’%xs(z — dx 
+y 
+:2[2_"‘ 
+x° 
+ila 
+5, 
+= 8.5 
+1575 
+G — 
+(2D 
+32, 
+x5 
+2= 
+52 
+.0 
+- 
+et 
+ed o 
+() p(xss) 
+fire-na=fe 
+-4 
+o 
+5 
+% 
+=0.4752 
+Figure 15.18 Solution to 
+Example 15.12 
+Mode 
+The mode is the value of X for which f(x) is the largest in the given domain of X. 
+To locate the mode, we first draw a graph of f(x) and then use the first or first 
+and second derivative tests to find the maximum. 
+793
+
+Ol 
+   
+0 
+x 
+Figure 15.19 Graph for 
+solution to Example 15.13 
+   
+0 
+1 
+1.857 
+X 
+Figure 15.20 Solution to 
+Example 15.14 
+794 
+Probability distributions 
+Find the mode of the PDF in Example 15.12 
+L 
+Solution 
+Draw a graph. It appears that the mode is slightly higher than the mean. 
+30— 
+ﬂx):{4x(2 
+} 
+nggzﬁf’(x):3x*2xz;f"(x):3*296 
+. 
+4 
+2 
+0 
+otherwise 
+Now, f(x) =0 = x=0,x = %,andatx =0, f(x) = 0, whileatx = %, 
+f"(x) = —3 < 0, which means that f{x) has a maximum. 
+So, the mode is at x = % 
+Example 15.14 
+The random variable X has a PDF defined by 
+2 +2x+15 
+0=<x<5 
+(G 
+f 
+{ 
+0 
+otherwise 
+(a) Find the value of k. 
+(b) Determine the mean and the mode. 
+(c) Find the value m of the random variable that is larger than 50% 
+of the population. 
+] 
+Solution 
+(a) The area under the curve must be equal to 1: 
+I fleydx = fsk(—xz +2x + 15)dx = 
+_+ 
+2 4 
+E, 
+N 
+k[ 
+Eoslox ] =k 
+1= 
+75 
+= 
+(= 
+A ok b 
+3 
+e 
+(b) 
+® 
+_{ (175 
+- 
+2x 
+15)) 175 ) ( X 
+2% 
+15x)dx 
+So, the mean is 
+et 
+3 
+2] 
+3 
+Xt 26 15x27 
+55 
+7514 
+3 
+2 
+. 
+fi(x) =0 = —2x + 2 =0, and so, the mode is x = 
+1. 
+(c) To find the value of m, find the value where the area to the left of it 
+under the PDF is 0.5 
+Hence 
+m 
+2 
+_ 
+[ fwdx = mes —x2+ 2x+ 15)dx = 05 
+m 
+_7_+ 
+2+1 
+= 
+175[ izl 
+= m~ 1.857 
+NI
+
+Median and percentiles 
+The median of a random variable X with a PDF of f(x) is a value m such 
+that 50% of the values of the random variable X are less than or equal to 
+it. (Similarly, 50% of the values are greater than or equal to m.) Thus the 
+median m satisfies 
+J : flx)dx = 0.5 
+In other words, half of the area under the PDF lies to the left of m. 
+The function f(x) is a PDF for a random variable X, and is defined as: 
+0= {%xz(Z -x 0<x<2 
+0 
+otherwise 
+(a) Find the median m. 
+(b) Find P(X < m). 
+L 
+Solution 
+(a) To find the median, we set up the integral as given by the definition 
+[: fl)dx = 
+%xz(Z — x)dx = 0.5, and then we solve for m, 
+"3, 
+_3 [2 
+2 
+x‘] & 
+y 
+Zx2(2 — 
+= e 
+{ 7 
+(2 — x)dx 
+7 
+3x 
+1, 
+(o 
+m_“) = 
+4 ( a7 
+)% 
+In the interval [0, 2], the solution is approximately 1.2285 
+(b) P(X < 1.2285) = f;lm%xz(l — )dx = 04999 ~ 0.5 
+0 
+X 
+‘This result confirms the calculation that 1.2285 is the median. 
+Mgm 
+11‘42"‘;‘;2“ 
+Figure 15.21 shows how the median is to the right of the mean 
+5 
+’ 
+as the distribution is slightly skewed to the left. 
+Figure 15.21 Solution to 
+Example 15.15 
+The percentiles can be found in a similar way. The kth percentile is defined as 
+the value 7 of the random variable such that k% of the values of X are less than 
+or equal to n. Thus, the kth percentile satisfies 
+[:Cﬂx)dx = k% 
+Example 15.16 
+The function f{(x) is defined as in Example 15.15 
+(a) Find the first quartile. 
+(b) Find the third quartile and the IQR. 
+795
+
+796 
+Probability distributions 
+| 
+Solution 
+(a) The first quartile is the 25th percentile, and hence 
+"3 
+a0 
+— 
+5 ( 2o ) = 
+{ i (2 — x)dx 
+= 
+3" 
+7 
+0.25 
+In the interval [0, 2], the solution is approximately 0.913 
+(b) The third quartile is the 75th percentile, and hence 
+T3 
+3(23 ), 
+{4):(2 
+adx = |52~ 
+) 
+=075 
+In the interval [0, 2], the solution is approximately 1.514 
+Therefore, IQR = 1.514 — 0.913 = 0.601 
+You can find the median and the percentiles using the distribution function 
+F(x). Recall that F(x) gives the area under the PDF up to the value x of the 
+random variable X. Using this fact then, to find the median, solve the equation 
+F(x) = 0.5 
+For the percentiles, a similar equation can be used, 
+F(x) = k% 
+Example 15.17 
+Use the distribution function in Example 15.15 to find the median, 
+first quartile, and third quartile. 
+e 
+S 
+Solution 
+The distribution function is given by 
+2 
+Ex) =V 
+finde = f—t22* ndt = i(g"”%) 
+Hence to find the median we solve 
+— 05, 
+2(3 S 
+F(m) 
+0.5,1&,4 3m 
+i 
+To find the quartiles, we also solve 
+) = 0.5, which gives the median as 1.2285 
+F(n) = 0.25, i, 3(§n3 ) = 0.25, which gives the first quartile as 0.913 
+4 
+H(n)=10/753iles 3(211’ = ) = 0.75, which gives the first quartile as 1.514 
+4\3 
+4 
+Notice that P(0.913 =< x < 1.514) = F(1.514) — F(0.913) = 0.5 
+Variance and standard deviation 
+The variance of a random variable is defined as 
+Var(X) = E(X — p)?
+
+This formula can be simplified, as in the discrete case to 
+Var(X) = E(X)2 — u? = E(X)? — (E(X))? 
+In the continuous case, if X has a PDF f(x), then 
+Var(X) = [(x — EX))*fix)dx = [x2flx)dx — u? = [x*fix)dx — (E(X))? 
+The standard deviation is of course the square root of the variance, 
+Example 15.18 
+The function f(x) is a PDF for a random variable X, defined as: 
+A= {%xZ(z—x) 
+0<x=<2 
+0 
+otherwise 
+Find the variance and the standard deviation. 
+| 
+Solution 
+Var(X) = [x*fl)dx = (ECOP = [ fix)dx = (ECO)? 
+Since we have already calculated E(X) = g, we only need to calculate 
+fzxzﬂx)dx 
+0 
+5 
+612 
+£2x2ﬂx)dx = bzxz(%xz(Z = x))dx = [% = 32% 
+= 1.6, hence 
+0 
+2 
+Var(X) = 1.6 — (g) 
+= (.16, and 
+o =/0.16 
+= 0.4 
+Exercise 1 
+1. The continuous random variable X has a PDF f(x) where 
+B 
+242 
+0<x<1 
+e {kx 
+3 
+0sx 
+0 
+otherwise 
+(a) Find the value of k. 
+(b) Find P(X > 0.5) 
+(c) Find P(0 < X < 0.5) 
+(d) Find the mean, median, and standard deviation. 
+2. The continuous random variable X has a PDF f(x) where 
+_[k6—-2x) 
+0sx=<2 
+£ 
+{ 
+0 
+otherwise 
+(a) Find the value of k. 
+(b) Find P(X > 1.5) 
+797
+
+Probability distributions 
+(c) Find P(0.5 < X < 1.5) 
+(d) Find the mean, median, and standard deviation. 
+3. The continuous random variable X has a PDF f(x) where 
+—x 
+0sx< 
+o {2x D 
+(a) Find the value of k. 
+(b) Find P(X > 0.5) 
+(c) Find P(0 < X < 0.5) 
+(d) Find the mean, median, and standard deviation. 
+4. The continuous random variable X has a PDF f(x) where 
+KGR0 = 
+=1 
+fo)=4 
+2kx? 
+1<x<2 
+0 
+otherwise 
+(a) Find the value of k. 
+(b) Find P(X > 0.5) 
+(c) Find P(1 <X < 1.5) 
+(d) Find the mean, median, and standard deviation. 
+5. The continuous random variable X has a PDF f(x) where 
+[ 
+2kx 
+0sx<l1 
+_) 
+2kx2 
+ 1s=x<2 
+f) = !kuz —2x) 2<x<4 
+0 
+otherwise 
+(a) Sketch a graph for f(x) 
+(b) Find k. 
+(c) Find the mean, median, and standard deviation. 
+(d) Find the IQR of this distribution. 
+6. The lifetime of batteries used in remote control units for one type of 
+television has a probability density function defined by 
+%(x‘—z;cwz) 
+o<x<1 
+foo) = 
+15 
+1 
+e o 
+=R 
+TR 
+0 
+otherwise 
+where x is measured in tens of hours. 
+(a) Find the mean life of these batteries. 
+(b) What is the probability that a battery will last at least 20 hours? 
+798
+
+(c) Each control unit is fitted with two batteries. The unit will function 
+only if both batteries work. What is the probability that the unit will 
+work for more than 20 hours? 
+. The lifetime Y (in tens of hours) of light bulbs produced by a certain 
+company has a probability density function defined by 
+e {%Oy(lo—y) 
+0<y=<10 
+0 
+otherwise 
+(a) Find the mean life of a light bulb. 
+(b) Find the median life of a light bulb. 
+(c) 
+Find the standard deviation of the life of a light bulb. 
+(d) Find the probability that a light bulb will last more than 80 hours. 
+(e) A lamp set is fitted with two such bulbs. For a new set, find: 
+(i) 
+the probability that both bulbs will last more than 80 hours 
+(ii) the probability that at least one of the bulbs has to be replaced 
+before 80 hours. 
+. The weekly amount of oil pumped out of an oil well (in hundreds of 
+barrels) has a probability density function f{y) defined by 
+% y? 
+0sy<2 
+o= 
+%(4—}:) 
+2<y<4 
+0 
+otherwise 
+(a) Sketch the graph of the PDE. 
+(b) Find the mean production per week of this well. 
+(c) Find the IQR for the production per week. 
+(d) When the production falls below 10% of the weekly production, 
+some maintenance will have to be done by replacing the pumps with 
+more specialised ones. What level of production will warrant that? 
+. A continuous random variable Y has a PDF f{y) given by 
+ﬂn:{(lfy)(yfe) A 
+0 
+otherwise 
+5 
+Show 
+that ¢ = —— 
+(a) 
+Show 
+that 
+¢ 
+T 
+(b) Calculate the mean and standard deviation of Y. 
+799
+
+Probability distributions 
+10. A random variable Y has a PDF f{y) given by 
+ﬂy):{a(by—yz) 
+0sys<5 
+0 
+otherwise, 
+a,b>0 
+R 
+- 
+25(3b — 10) 
+(b) 
+If the expected value of Y is 2.5, find the values of 
+a and b. 
+(a) Show that b = 5 and thata = 
+(¢) Find the variance of Y. 
+11. A random variable X has a PDF f(x) defined over an interval [a, b] where 
+b > a > 0. The equation that defines f(x) is 
+‘This is known 
+as the 
+I 
+fx)=k 
+Giandein 
+(a) Find k in terms of a and b. 
+(b) Also, in terms of 
+a and b, find: 
+(i) 
+the mean 
+(ii) 
+the median 
+(iii) the variance. 
+12. The random variable X has the probability density function 
+o {53_’;‘ L<x<2 
+0 
+otherwise 
+(a) Find P(1.2 <X <1.7) 
+(b) Find the median. 
+(c) Find the value of k such that P(X > k) = 0.25 
+(d) Two independent observations from X are made. What is the 
+probability that at least one of them is larger than 1.52 
+13. The distribution function F(x) of a random variable X is 
+0 
+0E=ci==5 
+F(x) = { kix® — 212 + 1475 — 335) 
+5<sx<7 
+1 
+b=V 
+Find: 
+(a) the value of k 
+(b) the probability density function f{x) 
+(c) 
+the median of X 
+(d) Var(X). 
+800
+
+14. 
+53 
+16. 
+The random variable Y has PDF 
+_ 
+[4yk 
+osys1 
+S 
+{o e T 
+(a) Find the value of k. 
+(b) Find the mean of Y. 
+(c) Find the value a for which P(y > a) = 0.5 
+The time to first failure of an engine valve (in thousands of hours) is a 
+random variable Y with a PDF 
+o) = {2ye*ﬂ 
+o<y 
+0 
+otherwise 
+(a) Show that f(y) satisfies the requirements of a probability density 
+function. 
+(b) Find the probability that the valve will last at least 2000 hours before 
+being serviced. 
+You need to know that 
+(c) Find the mean of the random variable. 
+Jim 
+J:e";(lt = % 
+(d) Find the median of Y. 
+(e) Find the IQR. 
+(f) An engine uses two such valves and needs servicing as soon as either 
+of the two valves fail. Find the probability that the engine needs 
+servicing before 200 hours of work. 
+The length of time, in hours, required by students to complete a Paper 2 
+HL exam is a random variable with a PDF 
+fo) = {%(Cy+y?z) Uy 
+0 
+otherwise 
+(a) Findc. 
+(b) Find the probability that a randomly selected student will finish in 
+less than 1 hour. 
+(c) 
+In arandomly selected group of 10 students, what is the probability 
+that 3 students will finish the exam in less than 1 hour? 
+(d) Given that Casper, who was randomly selected, needs at least 1 hour 
+to finish the exam, what is the probability that he will require at least 
+90 minutes? 
+801
+
+Probability distributions 
+17. The number of months, in excess of one year to complete a building 
+construction project is modelled by a continuous random variable 
+Y months with a PDF 
+_[ky{5—y) 
+0=ys<5 
+» 
+{ 
+0 
+otherwise 
+_1 
+(a) Show that k = 5 
+(b) Find the mean, median, and mode of this distribution, accurate to 
+1 decimal place. 
+(c) What proportion of the projects are completed in less than three 
+months of excess time? 
+(d) Find the standard deviation of the excess time. 
+(e) What proportion of the projects are finished within one standard 
+deviation of the mean excess time? Does your answer contradict the 
+‘empirical rule’? 
+18. The delay time, T, in hours, for flights of a certain airline has the PDF 
+- {%(sﬁft‘) 
+0=t=<5 
+0 
+otherwise 
+If a flight is delayed more than 5 hours, it is cancelled. 
+(a) Find the mean and mode of the delay time. 
+(b) Show that the median delay time is approximately 3.43 hours. 
+(c) Find the probability that a randomly chosen flight will be delayed 
+between 1 and 2 hours. 
+(d) Find the standard deviation of the delay time. 
+(e) Two flights are chosen at random. Assuming that the flights and the 
+delay times are independent of each other, find the probability that: 
+(i) 
+both are delayed more than 1 hour 
+(ii) 
+at least one of them is delayed for one hour 
+(iii) only one of them is delayed more than 1 hour. 
+The normal distribution 
+Continuous probability distributions can assume a variety of shapes. In fact, 
+a large number of random variables observed in our surroundings possess 
+a frequency distribution that is approximately bellshaped and is called the 
+normal probability distribution. 
+802
+
+  
+The 
+normal distributi 
+  
+  
+The most important type of continuous random variable is the normal random 
+variable. The probability density function of a normal random variable x is 
+determined by two parameters: the mean or expected value u, and the standard 
+deviation o of the variable. 
+The normal probability density function is a bell-shaped density curve that 
+is symmetric about the mean . Its variability is measured by o. The larger 
+the value of o, the more variability there is in the curve - that is, the higher 
+the probability of finding values of the random variable further away from 
+the mean. Figure 15.22 represents three different normal density functions 
+with the same mean but different standard deviations. Note how the curves 
+flatten as o increases. This is because the area under the curve has to stay 
+equal to 1. 
+‘The probability density function for a normally distributed random variable x is 
+e 
+et 
+fl) = 
+Le’ 
+o= 
+Le’f‘T\ for —oo <x< o0 
+o2m 
+27 
+  
+  
+  
+where 2 and o 
+are any number such that —oo < p < co and 0 < 0% < 0o and where e and 7 
+are the constants, e = 2.71828..... 
+and 7= 3.14159.... 
+  
+When a variable is normally distributed, we write: 
+X ~ N, 02 
+ 
+  
+Figure 15.22 Three different 
+normal density functions with 
+the same mean but different 
+standard deviations 
+Although we will not make direct use of the formula, it is interesting to note its 
+properties because they help us understand how the normal distribution works. 
+The graph of a normal probability distribution is shown 
+in Figure 15.23. The mean or expected value locates the 
+centre of the distribution and the distribution is symmetric 
+about this mean. Since the total area under the curve is 1, 
+the symmetry of the curve implies that the area to the right 
+of the mean and the area to the left are both equal to 0.5. 
+Large values of o tend to reduce the height of the curve 
+and increase the spread, and small values of o increase the 
+height to compensate for the narrowness of the distribution. 
+So, the normal distribution is fully determined by its 
+mean g and its standard deviation, . Changing u without 
+changing o- moves the normal curve along the horizontal 
+axis without changing its spread. The standard deviation 
+o controls the spread of the curve. You can also locate the 
+standard deviation by eye on the curve. One o to the right 
+or left of the mean w marks the point where the curvature 
+of the curve changes. That is, as you move right from the 
+mean, at the point where x = u + 0, the curve changes its 
+curvature from downwards to upwards, and similarly as you 
+move one o to the left from the mean. 
+   
+     
+  
+    
+Area to the left 
+of the mean is 0.5 
+Area to the right 
+of the mean is 0.5 
+i 
+Figure 15.23 Normal probability distribution 
+T 
+W 
+mto 
+m 
+Figure 15.24 One o to the right or left of the 
+mean p marks the point where the curvature of 
+the curve changes. 
+803
+
+‘The empirical rule for 
+the normal distribution 
+« Approximately 68% of 
+the observations fall 
+within o of the mean 
+« Approximately 95% of 
+the observations fall 
+within 20 of the mean 
+« Approximately 99.7% 
+of the observations fall 
+within 3¢ of the mean. 
+If 
+xis a normal random 
+variable, with mean g 
+and standard deviation o 
+the standardised value 
+x—p 
+ofxisz 
+=—q 
+  
+A standardised value is 
+also called the z-score. 
+804 
+Probability distributions 
+Although there are many normal curves, they all have common properties. 
+Figure 15.25 illustrates this rule. Later in this section, you will learn how to 
+find these areas from a table or from your GDC. 
+  
+Figure 15.25 Empirical rule 
+Example 15. 
+Heights of young German men between 18 and 19 years of age follow 
+a distribution that is approximately normal, with mean 181 cm and a 
+standard deviation of approximately 8 cm. Describe this population of 
+young men. 
+e | 
+Solution 
+According to the empirical rule, we find that approximately 68% of those 
+young men have a height between 173 cm and 189 cm, 95% of them between 
+165 cm and 197 cm, and 99.7% between 157 cm and 205 cm. You can say that 
+only 0.15% are taller than 205 cm or shorter than 157 cm. 
+As the empirical rule suggests, all normal distributions are the same if we 
+measure in units of size o-about the mean g as centre. Changing to these 
+units is called standardising. To standardise a value, measure how far it is 
+from the mean and express that distance in terms of o. 
+The quantity x — p tells us how far a value is 
+from the mean; dividing by o then tells us 
+how many standard deviations 
+that distance is equal to. 
+The standardising process is a 
+transformation of the normal curve. 
+For discussion purposes, assume the 
+mean p to be positive. The transformation 
+  
+e 
+x — p shifts the graph back w units. 
+4 “u 
+So, the new centre is shifted from u back 
+= £ 
+v units. That is, the new centre is 0. 
+Figure 15.26 Transformation of the 
+normal curve
+
+Dividing by o 
+is going to scale the distances from the mean and express 
+Ty 
+sy 
+everything in terms of o. So, a point that is one standard deviation from the 
+function for the standard 
+mean is going to be 1 unit above the new mean; that is, it will be represented 
+normal distribution is 
+by +1. Now, if you look at the empirical rule discussed earlier, points that are 
+: 
+within one standard deviation from the mean will be within a distance of 1 in 
+  
+the new distribution. Instead of being at u + oand p — o they will be at 
+0+ 1and 0 — 
+1 respectively; that is, —1 and +1. 
+The new distribution created by this transformation is called the standard 
+normal distribution. It has a mean of 0 and a standard deviation of 1. 
+It is a very helpful distribution because it will enable us to read the areas 
+under any normal distribution through the standardisation process. 
+Since linear transformations can transform all normal functions to 
+standard, this becomes a very convenient and efficient way of finding 
+=3 
+> 
+0 
+12 
++3] 
+the area under any normal distribution. 
+  
+  
+The proof that the mean and the variance of the standard normal 
+2 
+99.7% 
+= 
+variable are 0 and 1 respectively is straightforward. 
+Figure 15.27 The standard normal 
+distribution 
+Letz= 
+. 
+  be the standard variable corresponding to a normal variable x. 
+  
+o = B(C 
+) = B(La— ) = Lew— =L -w=o0 
+| 
+Example 15.20 
+  
+  
+  
+via =V 
+V(- w) = LV 
+= Lvm=Lor=1 
+Using the data in Example 15.19, work out the z-score of a young German 
+man with a height of 
+(a) 192cm 
+(b) 175cm. 
+| 
+Solution 
+(a) z-score: Pl 5O 
+1 (R 
+or 0.75 standard deviations below the mean. 
+To find the probability that a normal variable x lies in the interval a to b, 
+we need to find the area under the normal curve N(u, 0°) between the 
+points a and b. However, there is an infinitely large number of normal 
+curves - one for each mean and standard deviation. A separate table of 
+areas for each of these curves is obviously not practical. Instead, we use one 
+table for the standard normal distribution that gives us the required areas. 
+805
+
+  
+normalcdf (175,19 
+2,181,8) 
+.6888069418 
+  
+  
+normalcdf(-.75,1 
+.375) .6888069418 
+ 
+ 
+  
+Figure 15.28 GDC output 
+  
+Normal 
+C.D 
+p 
+ =0.72574688 
+z:Low=-9.8 
+z:Up =0.6 
+  
+  
+  
+Figure 15.29 GDC screen for 
+Example 15.21 (a) 
+806 
+Probability distributions 
+When we standardise a and b, we get two standard numbers z, and z, such 
+that the area between z, and z, is the same as the area we need. 
+In this example, we are interested in the proportion of young German men 
+whose height is between 175 cm and 192 cm. 
+To find the required area, we can use software or a GDC as shown in 
+Figure 15.28. 
+With a GDC, we do not need to standardise our variables. However, there 
+are cases where we need to understand standardisation in order to use it in 
+solving some problems where the mean or the standard deviation, or both, 
+are not given. 
+If we want to use the standard normal, our commands will be the same, but we 
+do not need to include the mean and standard deviation. They are the default. 
+If we need the probability that a young man is taller than 175 cm, we can 
+also read it either by looking at the distribution with the original data or by 
+standardising. 
+The age of graduate students in engineering programs throughout the USA 
+is normally distributed with mean p = 24.5 and standard deviation o = 2.5 
+A student is chosen at random. 
+(a) What is the probability that the student is younger than 26 years old? 
+(b) What proportion of students are older than 23.7 years? 
+(c) What percentage of students are between 22 and 28 years old? 
+(d) What percentage of the ages falls within 
+(i) 
+1 standard deviation of the mean 
+(ii) 
+2 standard deviations of the mean 
+(iii) 
+3 standard deviations of the mean? 
+Solution 
+Let X = age of students, then X ~ N(u = 24.5, 0= 6.25) 
+(a) We can either standardise and then read the table for the area left of 0.6 
+or usea GDC: 
+26 — 245 
+25 
+Notice here that we put 0 as a lower limit. We can put a number as a 
+P(z = 
+) = P(z < 0.6) = 0.7257 
+lower limit far enough from the mean to make sure we are receiving the 
+correct cumulative distribution.
+
+(b) This can be done in a similar way: 
+> 23.7 — 24, 
+2.5 
+P(x>23.7) = P(z 
+= —0.32, so by symmetry we know 
+  
+B(z> —0.32) = P(z < 0.32) = 0.6255 
+¢ 
+<X<2) 
+=P[R << 
+=22 
+(¢) PQ2<X<28) 
+P(22 
+24.5 
+28 — 245 
+2:5; 
+5 
+Find the area to the left of 1.4 and to the left of —1 and subtract them. 
+):P(—1<z< 14) 
+P(—1<z<14)=09192 — 0.1587 = 0.7606 = 76.06% 
+(d) This is the empirical rule. Find what percentage of the approximately 
+normal data will lie within 1, 2 and 3 standard deviations. 
+(i) 
+P(-1=<z=<1)=06826 
+(ii) P(—2<z=2)=09544 
+(iii) P(—3 < z=<3) = 09973 
+These are the exact values corresponding to the empirical rule’s 68%, 
+95% and 99.7%. 
+The inverse normal distribution 
+Another type of problem arises when we are given a cumulative probability 
+and would like to find the value in our data that has this cumulative probability. 
+For example, what age marks the 95th percentile? That is, what age is higher 
+than or equal to 95% of the population? To answer this question, we need 
+to reverse our steps. So far, we are given a value and then we look for the 
+area corresponding to it. Now, we are given the area and we have to look 
+for the number. That is why this is called the inverse normal distribution. 
+Again, the approach is to find the standard inverse normal number and then 
+to de-standardise it. That is, to find the value from the original data that 
+corresponds to the z-value at hand. 
+For example, if we need to know what z-score the third quartile Q; is, we need 
+to look up 0.75. The z-score corresponding to Qs is 0.6745 (Figure 15.32). 
+Suppose we want to find the z-score that leaves an area of 0.915 below it. 
+The z-score corresponding to 0.915 is 1.3722. That is 
+P(Z < 1.3722) = 0.915 (Figure 15.33) 
+  
+Normal C.D 
+p 
+=0.62551583 
+z:Low=-0.32 
+z:Up =30.2 
+  
+Figure 15.30 GDC screen for 
+Example 15.21 (b) 
+  
+Normal C.D 
+p 
+=0.76058808 
+z:Low=-1 
+z:Up =1.4 
+   
+Figure 15.31 GDC screen for 
+Example 15.21 () 
+p=P(z=2) 
+0z 
+Figure 15.32 The z-score 
+corresponding to Qs is 0.6745 
+0.915 
+oz 
+Figure 15.33 
+P(Z< 1.3722) = 0915 
+807 
+ 
+
+  
+Inverse Normal 
+] 
+T 
+2 
+22 
+3l 
+0.674a 
+  
+  
+  
+Inverse Normal 
+xInv=194.158829 
+ 
+ 
+  
+Figure 15.34 Using invNorm 
+808 
+Probability distributions 
+‘We could also use a GDC. The process is similar to the normal calculation, 
+but choosing invNorm instead. 
+So, 95% of the young German men are shorter than 194.16 cm. 
+The average time it takes fast trains to travel between London and Paris is 
+2 hours 15 minutes with a standard deviation of 4 minutes. Assume a 
+normal distribution. 
+(a) What is the probability that a randomly chosen trip will take longer than 
+2 hours 20 minutes? 
+(b) What is the probability that a randomly chosen trip will take less than 
+2 hours 10 minutes? 
+(c) What is the IQR of the length of a trip? 
+Solution 
+‘We will do each problem using a GDC. 
+(a) 
+= 2.25and o= 0.0667 
+2 hours 20 minutes = 2.333, using our GDC. (We use z here for 
+demonstration only. We don't need to standardise when using a GDC.) 
+2:335m205) 
+= 
+= 
+o 
+Plx>2.333) 
+P(z 
+s 
+) = P(z 
+> 1.244) = 01067 
+b 
+2 hours 10 minutes = 2.167 
+2675225, 
+0.067 
+To find the IQR, we need to find Q, and Q;. 
+P(x <2.167) = P(z = 
+) =Pz < —1.244) = 0.106718 
+(@ 
+Q, is the number that leaves 25% of the data before it. Q; is the number 
+that leaves 75% of the data before it. So, we need to find the inverse 
+normal variable that has an area of 0.25 or 0.75 before it. 
+Using a GDC and the inverse normal, we find Q; = 2.205 and Q; = 2.295. 
+IQR = 2.295 — 2.205 = 0.090 of an hour (5.4 minutes) 
+The age at which babies develop the ability to walk can be described by a 
+normal distribution model. It is known that 5% of the babies learn how to 
+walk by the age of 10 months, while 25% need more than 13 months. Find 
+the mean and standard deviation of the distribution.
+
+  
+Solution 
+There are several approaches to this problem. Here is one. 
+Look at the distance between 
+10 and 13 months in two 
+different ways. First, 10 and 
+13 months are 3 months 
+apart. When standardised, 
+the respective z-scores are 
+—1.645 and 0.674. The 
+z-scores are 2.319 standard 
+10 
+p13 
+deviations apart. So, 3 months 
+z=—1645 
+z=0674 
+must be the same as 2.319 
+standard deviations. 
+    
+   
+25% 
+Walking age 
+(months) 
+To find the z-score for the lowest 5% and the highest 25%, we can use a GDC. 
+Here is the calculation: 
+2319 0 = 3,0 = 1.294,and 
+M 
+13— 
+pn 
+5 
+e 0.674 = 
+294 = p = 12.128, or alternatively 
+0SS 
+—1.645 = e L 
+1.6450 
+= 10 
+  
+ISk 
+0.674 = 
+= u+0.6740 =13 
+a 
+Solving the system of two equations in w and o will give the same result. 
+Exercise 15.4 
+1. The time it takes to change the batteries of your GDC is approximately 
+normal with mean 50 hours and standard deviation of 7.5 hours. 
+Find the probability that your newly equipped GDC will last 
+(a) atleast 50 hours 
+(b) between 50 and 75 hours 
+(c) 
+less than 42.5 hours 
+(d) between 42.5 and 57.5 hours 
+(e) more than 65 hours 
+(f) 47.5 hours. 
+2. Find each of the following probabilities. 
+(a) pll2l < 1.2) 
+(b) pll2l > 1.4) 
+(c) p(X < 3.7), where 
+X ~ N(3, 3) 
+(d) p(X > —3.7), where X ~ N(3, 3)
+
+Probability distributions 
+3. A car manufacturer introduces a new model that has a fuel consumption 
+of 11.4 litres per 100 km in urban areas. Tests show that this model has a 
+standard deviation of 1.26. The distribution is assumed to be normal. 
+A car is chosen at random from this model. 
+(a) What is the probability that it will have consumption less than 
+8.4 litres per 100 km? 
+(b) What is the probability that the consumption is between 8.4 and 
+14.4 litres per 100 km? 
+4. Find the value of z that will be exceeded only 10% of the time. 
+5. Find the value of z = z; such that 95% of the values of z lie between 
+—zpand +2z,. 
+6. The scores on a public school’s examination are normally distributed 
+with a mean of 550 and a standard deviation of 100. 
+(a) What is the probability that a randomly chosen student from this 
+population scores below 400? 
+(b) What is the probability that a student will score between 450 and 650? 
+(c) What score should you have in order to be in the 90th percentile? 
+(d) Find the IQR of this distribution. 
+7. A company producing and packaging sugar for home consumption put 
+labels on their sugar bags noting the weight to be 500 g. Their machines 
+are known to fill the bags with weights that are normally distributed 
+with a standard deviation of 5.7 g. A bag that contains less than 500 g is 
+considered to be underweight. 
+(a) The company decides to set their machines to fill the bags with a 
+mean of 512 g. What fraction will be underweight? 
+(b) The company wants the percentage of underweight bags to be a 
+maximum of 4%. What should the mean be? 
+(c) The company decides that they do not want to set the mean as high 
+as 512 g, but instead at 510 g. What standard deviation gives them a 
+maximum of 4% underweight bags? 
+8. In a large school, heights of students who are 13 years old are normally 
+distributed with a mean of 151 cm and a standard deviation of 8 cm. 
+Find the probability that a randomly chosen child is: 
+(a) shorter than 166 cm 
+(b) within 6 cm of the average. 
+810
+
+g% 
+10. 
+1 
+12. 
+13. 
+14. 
+159 
+16. 
+17. 
+18. 
+The time it takes Kevin to get to school every day is normally distributed 
+with a mean of 12 minutes and a standard deviation of 2 minutes. 
+Estimate the number of days when Kevin takes: 
+(a) longer than 17 minutes 
+(b) less than 10 minutes 
+(c) between 9 and 13 minutes. 
+There are 180 school days in Kevin's school year. 
+X has a normal distribution with mean 16. Given that the probability 
+that X is less than 16.56 is 64%, find the standard deviation o of 
+this distribution. 
+X has a normal distribution with mean 91. Given that the probability 
+that X is larger than 104 is 24.6%, find the standard deviation o of 
+this distribution. 
+X has a normal distribution with variance of 9. Given that the 
+probability that X is more than 36.5 is 2.9%, find the mean u of 
+this distribution. 
+X has a normal distribution with standard deviation of 32. Given that 
+the probability that X is more than 63 is 87.8%, find the mean w of 
+this distribution. 
+X has a normal distribution with variance of 25. Given that the 
+probability that X is less than 27.5 is 0.312, find the mean w of 
+this distribution. 
+X has a normal distribution such that the probability that X is larger 
+than 14.6 is 93.5% and P(x > 29.6) = 2.2%. Find the mean p and the 
+standard deviation o of this distribution. 
+X 
+~ N, 0%). P(X > 19.6) = 0.16 and P(X < 17.6) = 0.012. 
+Find p and o. 
+X ~ N, 0%). P(X > 162) = 0.122 and P(X < 56) = 0.0276. 
+Find p and o. 
+Wooden poles produced for electricity networks in rural areas have 
+lengths that are normally distributed. 
+2% of the poles are rejected because they are considered too short, and 
+5% are rejected because they are too long. 
+(a) Find the mean and standard deviation of these poles if the 
+acceptable range is between 6.3 m and 7.5 m. 
+(b) In a randomly selected sample of 20 poles, find the probability of 
+finding 2 rejected poles. 
+811
+
+Probability distributions 
+19. Bottles of mineral water sold by a company are advertised to contain 
+1 litre of water. The company adjusts its filling process to fill the bottles 
+with an average of 1012 ml to ensure that there is a minimum of 1 
+litre. 
+The process follows a normal distribution with standard deviation of 5 ml. 
+(a) Find the probability that a randomly chosen bottle contains more 
+than 1010 ml. 
+(b) Find the probability that a bottle contains less than the advertised 
+volume. 
+(c) 
+In a shipment of 10 000 bottles, what is the expected number of 
+under-filled bottles? 
+20. Cholesterol plays a major role in a person’s heart health. High blood 
+cholesterol is a major risk factor for coronary heart disease and stroke. 
+The level of cholesterol in the blood is measured in milligrams per 
+decilitre (mg/dL). According to the WHO, in general, less than 
+200 mg/dL is a desirable level, 200 to 239 is borderline high, and above 
+240 is a high risk level and the person with this level has more than 
+twice the risk of heart disease as a person with less than 200 mg/dL. 
+In a certain country, it is known that the average cholesterol level of the 
+adult population is 184 mg/dL with a standard deviation of 22 mg/dL. 
+It can be modelled by a normal distribution. 
+(a) What percentage do you expect to be borderline high? 
+(b) What percentage do you consider are high risk? 
+(c) Estimate the interquartile range of the cholesterol levels in this 
+country. 
+(d) Above what value are the highest 2% of adults’ cholesterol levels in 
+this country? 
+21. A manufacturer of car tyres claims that its winter tyres can be described 
+by a normal model with an average life of 52 000 km and a standard 
+deviation of 4000 km. 
+(a) 
+If you buy a set of tyres from this manufacturer, is it reasonable for 
+you to hope they last more than 64 000 km? 
+(b) What percentage of these tyres do you expect to last less than 
+48 000 km? 
+(c) What percentage of these tyres do you expect to last between 
+48 000 km and 56 000 km? 
+(d) What is the IQR of the life of this type of tyre? 
+(e) The company wants to guarantee a minimum life for these tires. 
+They will refund customers whose tyres last less than a specific 
+distance. What should their minimum life guarantee be so that they 
+do not end up refunding more than 2% of their customers? 
+812
+
+22. 
+23. 
+258 
+26. 
+Chicken eggs are graded by size for the purpose of sales. In Europe, 
+modern egg sizes are defined as follows: very large eggs have a mass 
+of 73 g or more, large eggs are between 63 and 73 g, medium eggs are 
+between 53 g and 63 g, and small eggs are less than 53 g. 
+(a) Mature hens (older than 1 year) produce eggs with an average 
+mass of 67 g. 98% of the eggs produced by mature hens are 53 g or 
+above. What is the standard deviation if the egg production can be 
+modelled by a normal distribution? 
+(b) Young hens produce eggs with a mean of 51 g. Only 28% of their 
+eggs exceed 53 g. What is the standard deviation? 
+(c) A farmer finds that 7% of his farm’s eggs are small, and 12% are very 
+large. Estimate the mean and standard deviation of these eggs. 
+A machine produces bearings with diameters that are normally 
+distributed with mean 3.0005 cm and standard deviation 0.0010 cm. 
+Specifications require the bearing diameters to lie in the interval 
+3.000 * 0.0020 cm. Those outside the interval are considered scrap and 
+must be disposed of. What percentage of the production will be scrap? 
+. A soft-drink machine can be regulated so that it discharges an average 
+ml per bottle. The amount of fill is normally distributed with a 
+standard deviation 9 ml. 
+(a) Give the setting for w so that 237 ml bottles will overflow only 1% of 
+the time. 
+(b) The standard deviation o of the machine can be adjusted to the 
+required levels when needed. What is the largest value of o that will 
+allow the actual amount dispensed to fall within 30 ml of the mean 
+with probability at least 95%2 
+The speeds of cars on a main highway are approximately normal. 
+Data collected at a certain point show that 95% of the cars travel at a speed 
+less than 140 kmh ™!, and 10% travel at a speed less than 90 kmh~*. 
+(a) Find the average speed and the standard deviation for the cars 
+travelling on that specific stretch of the highway. 
+(b) Find the proportion of cars that travel at speeds exceeding 110kmh™!. 
+The random variable X is normally distributed and 
+P(X < 10) = 0.670; P(X < 12) = 0.937 
+Find E(X). 
+813
+
+Probability distributions 
+27. A machine is set to produce bags of salt, whose weights are distributed 
+normally, with a mean of 110 g and standard deviation of 1.142 g. If the 
+weight of a bag of salt is less than 108 g, the bag is rejected. With these 
+settings, 4% of the bags are rejected. 
+The settings of the machine are altered, and it is found that 7% of the 
+bags are rejected. 
+(a) 
+(i) 
+If the mean has not changed, find the new standard deviation, 
+correct to 3 decimal places. 
+The machine is adjusted to operate with this new value of the 
+standard deviation. 
+(ii) Find the value, correct to 2 decimal places, at which the mean 
+should be set so that only 4% of the bags are rejected. 
+(b) With the new settings from part (a), it is found that 80% of the bags 
+of salt have a weight that lies between A g and Bg, where A and B 
+are symmetric about the mean. Find the values of A and B, giving 
+your answers correct to 2 decimal places. 
+E 
+Expectation algebra 
+The expected value of a line 
+nction o 
+Example 15.24 
+You have a large box containing equal numbers of chips of two types. 
+You draw one chip and record the number. Find the expected value and 
+variance of the number you record when the chips are numbered: 
+(a) Oand 1 
+(b) 0and 2 
+(c) Oand 3. 
+1 
+Solution 
+(a) Since there is an equal chance of drawing 0 or 1, then 
+ED) 
+L 
+I 
+EX) 
+xp(x) 
+=0 
+> 
+1 
+273 
+2 
+it 
+L 
+1 
+_1 
+Var(X) = 
+S 
+X2 p(x) 
+(E(X))?2 = 02 
+2 S 
+5 
+(—2) 
+1 
+814
+
+(b) Since there is an equal chance of drawing 0 or 2, then 
+E(Y):Zyp(y):O»%+2-%:1 
+Var(Y) = Yy?p(y) — (E(Y)? = 02 - % 4P % —wr=1 
+Note here that Y = 2X, and E(Y) = 2E(X), while Var(Y) = 4Var(X) 
+(c) Since there is an equal chance of drawing 0 or 3, then 
+E(Y) = Yyp(y) = 0-%+3»%:3-E(X) 
+= 
+2 
+o 
+2 _ 
+i 
+1_(3 2:2 
+Var(v) 
+= Xy?p(y) = BWP =021+ 521 
+(2) 
+2 
+=9 Var(X) 
+The expected value of a linear function of X 
+Proof 
+Discrete case: 
+d 
+ElaX + b) = aE(X) + b 
+ElaX + b) = 3lax + bjp(x) = X (axp(x) + bp(x)) 
+=>axp(x) + Y bp(x) = ad_xp(x) + bY_p(x) 
+= aEX0 + b(1) = aEC0 + 
+b 
+Continuous case: 
+ElaX + b) = [(ax + bip(dx = [(axp(x) + bp(x))dx 
+Jaxpdx + [bpa)dx = a[xp(x)dx + b [pGx)dx 
+GE(X) + b(1) = aBX) + b 
+We defined the variance of a random variable X as: 
+For the discrete case: 
+2 = E((X — p)?) = >(x — w? 
+- px), we will call it Var(X). 
+We also found a short-cut formula for the variance 
+02 =30 
+e pl) = 1oxt pl) — p2 = 3% i) — (B 
+For the continuous case: 
+o? =E(X - w?) = f (¢ — w? - p(x)dx, and the shortcut is 
+o= fow— w2 peodx = [ 
+puode — 2 =[x+ poodx — [ECO) 
+The variance of a linear function of X 
+Var(aX + 
+b) = a2 Var(X) 
+Proof 
+For the discrete case: 
+Let Y = aX + b, which means that the random variable Y takes values 
+y = ax + b with the same probability as p(x) since a and b are constants. 
+815
+
+Probability distributions 
+Var(aX + b) = Var(Y) 
+(Y~ EM)p(y) 
+=>(axX + b — aE(X) — b)?p(x) 
+= >(a(X — E(X)))?p(x) 
+a2} (X — EX))*p(x) = a>Var(X) 
+The proof for the continuous case is similar to the discrete case. 
+Linear combinations of random variables 
+In this section, we present some results whose proofs go beyond the scope of 
+the HL course and this book. 
+You have a large box containing equal numbers of chips with the numbers 
+0and 1 on them. 
+You draw one chip, record the number and return it to the box, then draw 
+another chip and record the number. 
+(a) Find the expected value and variance of the sum of the numbers you 
+record. 
+(b) Find the expected value and variance of the difference of the numbers 
+you record. 
+Solution 
+(a) Since there is an equal chance of drawing 0 or 1, then the probability 
+1 2 
+The random variable Z = X, + X, in question is the sum of the two 
+numbers. The values and their probabilities are summarised below. 
+P 
+that the chip number is 0 or 1 is 
+sample points 
+   
+   
+     
+    
+ 
+o 
+o 
+11 
+|1 
+1 
+ao.on 
+23+221 
+2 
+w4 
+E) =Y =0-5+1-2+2.0=1 
+=SSP 
+— 
+A= 
+(Podk i ol 
+g, A 
+g 
+L 
+Var(2) = Y 2%p(2) — (E(2))> = 0 T 
+e 
+(b) Since there is an equal chance of drawing 0 or 1, then the probability 
+that the chip number is 0 or 1 is % 
+816
+
+The random variable Z = X; — X, in question is the difference of the 
+two numbers. The values and their probabilities are summarised below. 
+sample points 
+p(2) 
+  
+   
+    
+    
+    
+1 
+0 | 
+(0,0)(1,1) 
+o 
+1 
+1 
+(1,0) 
+7 
+1 
+—1 
+(0, 1) 
+i 
+= 
+-6 
+L 
+E(Z)—ijp(z)—o-EJrLZ 
+a0 
+= S 
+22p(z) 
+— 
+o2 
+L 
+R 
+L 
+A 
+Var(2) = Y 22p(2) — (E(2))* = 02 2+12 4+( 
+1)2 
+7 
+02 
+5 
+Let 
+X and Y be any two random variables, then 
+1. ElaX = bY) = aE(X) * bE(Y) 
+and if the two variables are independent, then 
+2. VarlaX * bY) = a2Var(X) + b2Var(Y) 
+Note that we add the variances regardless of whether the variables are added or 
+subtracted. 
+Looking back at Example 15.25, you will notice that: 
+E(X) = E(Y) = ,and 
+EX+V=1=5+ 
+E(X) + E(Y), and also 
+EX —Y) =0==—==EX) — E(Y), and additionally 
+D= N 
+= = 
+Var(X) = Var(Y) = i, and 
+VarlX £ V) === i + 5 = Var(X) + Var(Y) 
+W= 
+= 
+Example 15.26 demonstrates the theorem applied to the case wherea = b = 1. 
+Example 15.26 
+Consider the two random variables X and Y, where X is the number showing 
+when we roll a tetrahedral die and Y is the number showing when we roll a 
+cubical die. Work out: 
+(a) E(X)and V(X) 
+(b) E(Y) and V(Y) 
+(c) E(X +Y) 
+817
+
+Probability distributions 
+Solution 
+Here are their probability distributions: 
+  
+  
+Pl 
+y 
+‘l 
+2 
+3 
+45 6 
+T 
+ar 
+T 
+o 
+th 
+il 
+1 
+PW|7 771 
+Y% 555§ 
+6 
+B 
+2 
+3 
+4 
+5] 
+6 
+7 
+8 
+9 
+10 
+(15515 R 
+() 
+(1,3) 
+(1,4) 
+(1,5) 
+(1,6) 
+(2,6) 
+(3,6) 
+(4,6) 
+(2N 
+(@ 1) 
+(4,1) 
+(2,4) 
+(2,5) 
+(3,5) 
+(4,5) 
+2,2) 
+(2,3) 
+(4,2) 
+(3,4) 
+(4,4) 
+3,2) 
+(3,3) 
+(4,3) 
+1 
+1t 
+fLE) 
+i 
+i 
+i 
+1! 
+1! 
+i 
+sl 
+el 
+e 
+e g 
+R e e 
+e 
+This can be summarised as 
+Xy, 
+plx+y) 
+2 
+85 
+4 
+B 
+6 
+¥ 
+8 
+9 
+1 
+2 
+3 
+4 
+4 
+4 
+3 
+2 
+10 
+I 
+  24 
+24 
+24 
+24 
+24 
+24 
+24 
+24 
+24 
+=) 
+=2 
+(@) EX) =3, VX 
+=7 
+329 
+) BN =2,v(n =322 
+(o) EX+Y)=6 
+Interesting application 
+| 
+If several observations of the same random variable are examined, then the 
+results above have to be applied with great care. 
+  
+1. 
+IfX,, ..., X, are observations of the same random variable X, then 
+E@X, * a,X, * ... = a,X,) = a,B(X,) * a,E(X;) * ... * a,E(X,) 
+=a,EX) £ a,EX) * ... + q,EX) 
+=(@ fa,* .. = a,)EX) 
+Special cases: 
+E(X, + X,) = EX) + EX) = 2E(X) 
+also, E2X) = EX + X) = EX) + EX) = 2E(X) 
+which is also a special case of 
+E(aX + b) = aB(X) + b,whena =2and 
+b =0 
+This result can be generalised to 
+E(X, + X, + ... + X,) = nE(X), and 
+E(nX) = nBX) 
+818
+
+2. 
+IfX,, ..., X, are independent observations of the same random variable X, then 
+Var(a, 
+X, * a,X, * ... * a,X,) = a} Var(X) + a3 Var(X) + ... + a?Var(X) 
+=(a?+a}+ ... + a})VarX) 
+Special cases: 
+Var(X, + X,) = Var(X) + Var(X) = 2Var(X) 
+however Var(2X) = Var(X + X) # Var(X) + Var(X) = 2Var(X) 
+because X and X are not independent. 
+Var(2X) = 22 Var(X) = 4Var(X) 
+which is a special case of Var(aX + b) = a*Var(X) where a = 2and b = 0. 
+Here too, the results can be generalised 
+Var(X, + X, + ... + X,) = nVar(X) 
+while Var(nX) = n?Var(X) 
+Example 15.27 
+(a) Throw an unbiased cubic dice and define the random variable as the number on the 
+upper side of the dice. Calculate the expected value and variance of this random 
+variable. 
+(b) Throw two unbiased cubic dice and define the random variable as the sum of the 
+numbers on the upper side of each dice. Calculate the expected value and variance of 
+this random variable. 
+(c) Throw one dice and define the random variable as twice the number on the upper side 
+of the dice. Calculate the expected value and variance of this random variable. 
+| 
+Solution 
+(a) Here is the probability distribution of the related random variables: 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+X 
+1 
+2 
+3 
+4 
+5 
+6 
+> 
+A 
+o 
+1 
+- 
+& 
+1 
+sl 
+Egl 
+&l 
+&)l 
+& 
+" 
+0 
+B 
+3 
+4 
+5 
+6 
+7 
+L8 
+N 
+- 
+I 
+e 
+s 
+s 
+N 
+1 
+9o | 
+16 | 
+25 | 
+36 | 
+o1 
+Eoal 
+6 
+6 
+6 
+6 
+6 
+6 
+91 
+o 
+7\ 
+_ 
+35 
+) 
+6 
+(E) 
+- 
+B 
+G| 
+Y=X+X| 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 | 11 | 12 
+S5 
+P(Y) 
+2 s 
+o 
+o TF STl 
+o T 
+o i 8 10 
+1 
+36 | 36 | 36 | 36 | 36 | 36 | 36 | 
+36 | 36 | 36 | 36 
+|2 |s|2[a[n[efo]zs|[n[2lz]x_, 
+36 | 36 | 36 | 36 | 36 | 36 | 36 | 
+36 | 36 | 36 | 36 | 36 
+E(v?) 
+4 | 18 | 48 | 100| 180 | 294 320| 324 | 300 | 242 | 144 | 
+1974 
+36 | 36 | 36 | 36 | 36 | 36 | 36 | 
+36 | 36| 
+36 | 36 
+36 
+1974 | _ 
+e 
+35 
+Var(Y) 
+e 
+@ 
+: 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+819
+
+820 
+Probability distributions 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(© 
+|r=2x| 
+2 
+1 
+6 
+8 
+10 
+12 
+T 
+o I 
+s 
+0 
+I 
+| 
+2|t 
+s 
+s 
+2] 
+Var(Y) 
+. 
+2 
+= 
+2 
+Note that: 
+E(X,+X2):E(2X):7:2><%:2E(X) 
+6 
+12 
+7035 
+(35\ 
+Var(2X) = i —4(12) = 4Var(X) 
+Example 15.28 
+In a multiple-choice quiz of 10 questions, each question provides 4 choices, 
+one of which is correct. A student is guessing on all questions. 
+(a) Find the expected value and variance of the number of questions 
+answered correctly by the student. 
+(b) Set up a table showing the probability distribution of the number of 
+questions answered correctly by the student. 
+(c) Use your table to calculate the expected number and variance of the 
+number of questions answered correctly by the student. 
+(d) The teacher will give a score of 3 marks for each question answered 
+correctly and will not penalise wrong answers. Find the expected score 
+and variance of the scores of the guessing student. 
+(e) 
+Set up a table for the distribution of scores of the student and use it to 
+calculate the expected value and variance of the scores. 
+e 
+Solution 
+(a) This is a binomial distribution with n = 10 and probability of success 
+p=025. 
+E(X) = np = 10 (0.25) = 2.5 
+Var(X) = npq = 10(0.25)(0.75) = 1.875
+
+(), () 
+X 
+0 
+g 
+2 
+3 
+4 
+5 
+6 
+2 
+8 
+9 
+10 | Total 
+p(x) 
+|0.06[0.19]0.28|0.25 | 0.15 | 0.06 [ 0.02| 
+0 
+0 
+0 
+0 
+1 
+xp(x) | 
+0 
+[0.19]0.56|0.75]|0.58 
+029 
+0.1 
+[0.02| 
+0 
+0 
+0 
+25 
+x%p(x)| 
+0 
+|0.19]1.13|225|234|1.46|0.58|0.15|0.02| 
+0 
+0 | 8125 
+Var(X) = > #%p(x) — (E(X))? 
+| 1.875 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Note that the expected value and variance agree completely with the 
+theoretical values found in part (a). 
+(d) Let Y = 3X be the variable representing the score for each question, then 
+E(Y) = 3E(X) = 7.5 
+Var(Y) = 9Var(X) = 16.875 
+(e) 
+s 
+o 
+8 
+6 
+9 
+12 | 15 | 18 | 21 | 24 | 27 | 30 | Total 
+p(» 
+006019028 
+]0.25]0.15]006[002] 
+0 [ 0 [ 0] 
+0 
+1 
+() | 0 
+Jos6]169]225]1.75]0.88]0.29[0.06]0.01] 
+0 | 0 | 
+75 
+»p(») | 0 
+[169]101]203] 
+21 
+[13.1[526|136]0.22]002] 
+0 [ 73125 
+Var(Y) = Y%p(y) - (B(V)? 
+| 16875 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Note that the expected value and variance agree completely with the 
+theoretical values found in part (d). 
+Interesting application 
+Il 
+Find E(X) and Var(X) in terms of n and p. 
+  
+=E(X,) = . then 
+(Zx,) _ E(x, +X, : oo ¥ X,,) 
+  
+1 
+1 
+=E(A X+ x)) = LE 
+s XXy 
+= NEon) + B0 + o+ B 
+= Mt 
+Also, since Var(X,) = Var(X,) = -+ = Var(X,) = o7, then 
+  
+X; 
+X +X+ ..+ X, 
+=Var|——————— 
+Var(X) = Var(z 
+o 
+n 
+1 
+1 
+= Var(S, + X, + ..+ X)) = L Var(X, + X, + .+ X) 
+821
+
+Probability distributions 
+= iz(Var(Xl) + Var(X,) + ... + Var(X,)) = iz(cr2 +o2+ ... +ad?) 
+n 
+n 
+Ll e 
+n 2 
+n 
+These two results are of great importance when dealing with sampling 
+distributions, confidence intervals and hypothesis testing. 
+Example 15.29 
+In a multiple-choice quiz of 10 questions, each question provides 4 choices, 
+one of which is correct. A correct answer is worth 3 marks. A randomly 
+selected group of 36 students who are not familiar with the topic are all 
+guessing on all questions. 
+(a) Find the expected mean score for this group. 
+(b) Find the variance of the mean scores for this group. 
+(c) You are told that the distribution of scores is normal. What is the 
+probability that a student in this group scores at least 9 marks? 
+(d) Under the same conditions as above, what is the probability that this 
+group’s mean is at least 9 marks? 
+Solution 
+(a) As we found before, E(X) = 
+o = 7.5 
+(B)) Similarly Var(X) = 9= = % = 0.46875 
+(c) This is an individual observation’s probability under a normal 
+distribution with mean 7.5 and variance 16.875 
+P(X = 9) = 0.3575. This is the area under N(7.5, 16.875) 
+(d) This is an average value. The probability uses a normal distribution 
+with mean 7.5 and a variance 0.46875 
+P(X = 9) = 0.000687. This is the area under N(7.5, 0.46875) 
+Linear combinations of normally distributed random 
+  
+variables 
+A very significant property of normally distributed random variables is that 
+a linear function of one of them, or a linear combination of several, is also 
+normally distributed. 
+In particular: 
+« 
+If X is normally distributed with a mean y and a variance o 
+i.e., X ~ (1,02, 
+then Y = aX + b is also normally distributed such that Y ~ N(au + b,a%0?) 
+822
+
+« 
+If Xand Yare two normally distributed random variables, then Z = aX * bY 
+is also normally distributed with the following results: 
+X~ (o 0 Y ~ (1 03) = Z ~ (1o * pyp 03 + 03) 
+Example 15.30 
+Test scores in an HL class are to be ‘curved’ as follows: every student will 
+receive 5 marks, which are then added to twice the score on the test itself. 
+Given that the test scores are normally distributed with an average of 35 and 
+a standard deviation of 7 marks, find: 
+(a) 
+the mean and standard deviation of the ‘curved’ score 
+(b) the probability that a student receives a score of at least 65 after curving. 
+Solution 
+(a) 
+Let X be the raw score on the test, and hence Y = 2X + 5 will be the 
+curved score. 
+EY)=2X35+5=75 
+o = /Var2X 
++ 5) = /22Var() = 2/49 = 14 
+(b) P(Y = 65) = 0.7625 
+‘Wooden barrels are traditionally used to store pickled cucumber in some 
+European countries. To hold the wood together, steel rims are fixed around 
+them to keep them tight. To keep the steel tight around the wood, the rings 
+are slightly smaller in diameter than the barrel, heated so that they expand 
+slightly before being fitted, then allowed to cool. 
+ 
+The diameter of one type of barrel is known to have a normal distribution 
+with mean of 56 cm and a standard deviation of 0.20 cm. The rims are 
+constructed so that they yield a diameter that is also normally distributed 
+with a mean of 55.70 cm and a standard deviation of 0.30 cm when at room 
+temperature. The rims are heated so that the diameter increases by 1.5%. 
+(a) What is the probability that a randomly chosen rim will fit around a 
+randomly chosen barrel without heating? 
+(b) What is the probability that a randomly chosen rim will fit around a 
+randomly chosen barrel with heating? 
+] 
+Solution 
+Let the barrel diameter be B and the rim diameter be R. 
+Therefore B ~ N(56, 0.04) and R ~ N(55.7, 0.09) 
+Figure 15.35 Wooden 
+barrel 
+  
+823
+
+Probability distributions 
+(a) Before heating: For a rim to fit around a barrel, the rim’s diameter must 
+be larger than the barrel’s diameter, i.e., R — B> 0. 
+Hence, to find the probability, we need to consider the distribution of 
+the random variable (R — B). Since R and B are randomly chosen, they 
+are independent random variables and the new variable, call it 
+Y = R — Bwill also be normal. 
+E(Y) = E(R) — E(B) = 55.90 — 56 = —0.03, and 
+Var(Y) = Var(R) + Var(B) = 0.09 + 0.04 = 0.13 
+Therefore Y ~ N(—0.03,0.13), and hence 
+P(R — B> 0) = 0.409 
+(b 
+After heating, the diameter of the rim becomes 1.015R. For a heated rim 
+to fit around a barrel, the rim’s diameter must be larger than the barrel’s 
+diameter, i.e., 
+1.015R —B>0 
+Hence, if we want to find the probability, we need to consider the 
+distribution of the random variable (1.015R — B). Since R and B are 
+randomly chosen, they are independent random variables and the new 
+variable, call it H = 1.015R — B will also be normal. 
+E(H) = 1.015E(R) — E(B) = 56.5355 — 56 = .5355, and 
+Var(H) = 1.015?Var(R) + Var(B) = 0.0927 + 0.04 = 0.133 
+Therefore H ~ N(0.5355, 0.133), and hence 
+P(1.015R — B> 0) = 0.929 
+Summary of formulae 
+  
+  
+  
+Formula 
+Note 
+E00 = ;XP(X) 
+Discrete 
+E00 = [ pods 
+Continuous 
+  
+E(aX + b) = aE(X) + b,witha, b € R 
+  
+Var(aX + b) = a?Var(X) 
+  
+ElaX * bY) = aE(X) = BE(Y) 
+  
+E(XY) = E(X)E(Y) 
+Independent 
+  
+Var(aX * bY) = a*Var(X) + b*Var(Y) 
+Independent 
+  
+E@X, = a,X, = ... = a,X,) = a,E(X)) = R,E(X) * ... = a,E(X,) 
+  
+Var(a,X, = a,X 
+  
+* a,X,) = a?Var(X,) + a2Var(X,) + ... + a2Var(X,) | Independent 
+  
+E(X, + X, + ... + X,) = nE(X), and E(nX) = nEX) 
+  
+Var(X, + X, + ... + X,) = nVar(X) 
+  
+Var(nX) = n?Var(X) 
+ 
+ 
+ 
+  
+Table 15.9 Summary of formulae 
+824
+
+1. A discrete random variable X has the following probability distribution. 
+  
+x 
+0 
+1 
+2 
+3 
+4 
+PX=1x) 
+0.1296 
+0.3456 
+0.3456 
+0.1536 
+0.0256 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Findp(X=2),p(1 <X =<3) 
+(b) Calculate E(X) and Var(X) 
+(c) 
+Let Y =9 — 2X. Calculate E(Y) and Var(Y). 
+2. A random variable X has the following probability distribution. 
+  
+x 
+11 
+12 
+13 
+14 
+15 
+PX=2) 
+0.25 
+0.2 
+0.35 
+k 
+0.07 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Find the value of k and draw a histogram to represent the 
+distribution. 
+(b) Find p(12 < X < 14), p(X = 14) 
+(c) Find E(X) and Var(X). 
+(d) 
+If Y = 2X, find E(Y) and Var(Y) in two ways: 
+(i) 
+using what you learned in this chapter 
+(ii) creating a table for all possible values of Z and then performing 
+the calculations. 
+(e) If Z= X, + X,, where X, and X, are randomly chosen independent 
+values of X, find E(Z) and Var(Z) in two ways: 
+(i) 
+using what you learned in this chapter 
+(ii) creating a table for all possible values of Z and then performing 
+the calculations. 
+3. Two unbiased dice, a cubical one and a tetrahedral one, are tossed 
+together. The number that each dice lands on is the score. 
+(a) Set up the probability distribution tables for the scores on each dice. 
+(b) Calculate the mean and variance of each of the two variables. 
+(c) 
+Set up the probability distribution table for the sum of scores on 
+both dice. 
+(d) Calculate the mean and variance of the sum of scores in two ways: 
+(i) 
+by using the table you created in part (c) 
+(ii) by using what you learned in this chapter. 
+4. We run an experiment where 36 cubical unbiased dice are thrown 
+simultaneously and the average score is calculated. Suppose the 
+experiment is repeated a large number of times. Calculate the expected 
+value of the average score of the 36 dice and their standard deviation. 
+825
+
+Probability distributions 
+5. The probability distribution for a random variable M is given below. 
+  
+m 
+1 
+2 
+& 
+4 
+G 
+P(M 
+= m) |50k 
++ k* — 
+535k 
+— 2k? — 3|6k> + 10k 
+— 1| 32k 
+— 3 |5k> + 12k 
+— 1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Calculate 
+(i) k 
+(i) E(M) 
+(iii) Var(M) 
+(b) 
+If N = 2M, + 3M,, where M; and M, are randomly chosen values of 
+M, find: 
+(@) E(N) 
+(ii) Var(N) 
+6. Two independent random variables X and Y have the properties: 
+E(X) = 3, Var(X) = 2; E(Y) = 7, Var(Y) = 
+1 
+Calculate: 
+(@) EX + Y), Var(X + Y) 
+(b) E(X - Y), Var(X — Y) 
+(c) E(2X + 3Y), Var(2X + 3Y) 
+(d) EQX — 3Y), Var(2X — 3Y) 
+7. Two independent random variables X and Y have the properties: 
+E(X?) =9, Var(X) = 2; E(Y?) = 16, Var(Y) = 3 
+Calculate: 
+(a) EX +Y), Var(X + Y) 
+(b) E(X - Y), Var(X — Y) 
+(c) E(2X + 3Y), Var(2X + 3Y) 
+(d) EQX — 3Y), Var(2X — 3Y) 
+8. Two independent random variables X and Y have the properties: 
+E(X?) = 12, Var(X) = 5; E(Y?2) = 6, Var(Y) = 2 
+Calculate: 
+(a) E(2X +Y), Var(2X + Y) 
+(b) E(X — 3Y), Var(X — 3Y) 
+() EQ2X + 3Y), Var(2X + 3Y) 
+(d) EQX — 3Y), Var(2X — 3Y) 
+9. Aluminium pipes are produced for an industrial process by two 
+machines. One machine produces 60% of the pipes, each with length 
+1.0 m, and the second machine produces 40% of the pipes, each with 
+length 0.95m. All pipes are collected in a central storage location. 
+(a) Find the expected length and variance of a pipe. 
+An instrument uses two of these pipes joined together in its production. 
+(b) Construct a table showing all possible lengths of the joined pipes 
+and use the table to find the expected length and variance of the 
+joined pipes. Use the theorems you learned in this chapter to 
+consolidate your results. 
+826
+
+10. 
+TS 
+(c) Another instrument uses three of these pipes. Repeat the calculations 
+for part (b). To help you out with the table, here is a part of it: 
+  
+1= length 
+285 
+3.05 
+315 
+() 
+0.064 
+0288 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Juice dispensers use juice concentrate mixed with an amount of water. 
+A machine that dispenses apple juice uses, on average, 40 ml of juice 
+concentrate and 260 ml of water for a 300 ml serving of apple juice. The 
+volume of concentrate from this machine has a normal distribution with 
+mean of 40 ml and a standard deviation of 5 ml, and the volume of water 
+has a mean of 260 ml and a standard deviation of 8 ml. 
+(a) What is the probability that a serving from this dispenser will 
+contain more than 305 ml? 
+(b) You can get a double serving from this machine. The machine will 
+deal with the order as if it was two separate single servings. So, it 
+produces two servings, one after the other. What is the probability 
+that the amount you receive is less than 590 ml? 
+(c) A different dispenser deals with the double serving differently. 
+It will simply double the amount of concentrate and the amount 
+of water. What is the probability that the amount you receive is 
+less than 590 m1? 
+A ballpoint pen has an internal chamber filled with ink, which is 
+dispensed at the tip during use by the rolling action of a small metal 
+sphere. Some pens have a small sphere with diameter 0.9 mm. The 
+sphere must be held in place by a metal container. The metal spheres are 
+produced by a machine and their diameters have a normal distribution 
+with mean 0.9 mm and standard deviation of 0.05 mm. The containers 
+Figure 15.36 Ballpoint pen 
+are produced by different machines. The diameter of the opening of the 
+container is normally distributed with a mean of 0.8 mm and standard 
+deviation of 0.006 mm. The containers that are too large cannot hold the 
+spheres and those that are too small do not allow enough ink to flow. 
+The difference in diameters must not be smaller than 0.003 mm and 
+not larger than 0.008 mm. One sphere and one container are usually 
+chosen at random to assemble into a pen. What is the probability that 
+they will match? 
+827
+
+Probability distributions 
+Chapter 15 practice questions 
+1. Residents of a small town have savings that are normally distributed 
+with a mean of $3000 and a standard deviation of $500. 
+(a) What percentage of townspeople have savings greater than $3200? 
+(b) Two townspeople are chosen at random. What is the probability that 
+both of them have savings between $2300 and $3300? 
+(c) The percentage of townspeople with savings less than d dollars is 
+74.22%. Find the value of d. 
+2. A box contains 35 red discs and 5 black discs. A disc is selected at 
+random and its colour noted. The disc is then replaced in the box. 
+(a) In eight such selections, find the probability that a black disc is 
+selected: 
+(i) exactly once 
+(ii) at least once. 
+(b) The process of selecting and replacing is carried out 400 times. 
+What is the expected number of black discs that would be drawn? 
+3. The graph shows a normal curve 
+. 
+for the random variable X, with 
+mean p and standard deviation o 
+It is known that P(X = 12) = 0.1 
+12 
+% 
+(a) The shaded region A is the region under the curve where X = 12. 
+Write down the area of the shaded region A. 
+It is also known that P(X < 8) = 0.1 
+(b) Find the value of w, explaining your method in full. 
+(c) Show that o = 1.56, correct to 3 significant figures. 
+(d) Find P(X < 11). 
+4. The lifespan of a particular species of insect is normally distributed with 
+amean of 57 hours and a standard deviation of 4.4 hours. 
+The probability that the lifespan of 
+b 
+an insect of this species lies between 
+55 and 60 hours is represented by 
+the shaded area in the diagram. This 
+diagram represents the standard 
+normal curve. 
+(a) Write down the values of @ and b. 
+(b) Find the probability that the lifespan of an insect of this species is: 
+(i) more than 55 hours 
+(ii) between 55 and 60 hours. 
+828
+
+90% of the insects die after t hours. 
+(c) Represent this information on a standard normal curve diagram, 
+similar to the one given in part (a), indicating clearly the area 
+representing 90%. 
+(d) Find the value of t. 
+. Intelligence quotient (IQ) in a certain population is normally distributed 
+with a mean of 100 and a standard deviation of 15. 
+(a) What percentage of the population has an IQ between 90 and 125? 
+(b) If two people are chosen at random from the population, what is the 
+probability that both have an IQ greater than 1252 
+. Bags of cement are labelled as weighing 25 kg. The bags are filled by a 
+machine and the actual weights are normally distributed with mean 
+25.7 kg and standard deviation 0.50 kg. 
+(a) What is the probability a bag selected at random will weigh less than 
+25.0kg? 
+In order to reduce the number of underweight bags (bags weighing less 
+than 25 kg) to 2.5% of the total, the mean is increased without changing 
+the standard deviation. 
+(b) Show that the increased mean is 26.0 kg. 
+It is decided to purchase a more accurate machine for filling the bags. 
+The requirements for this machine are that only 2.5% of bags be under 
+25kg and that only 2.5% of bags be over 26 kg. 
+(c) Calculate the mean and standard deviation that satisfy these 
+requirements. 
+The cost of the new machine is $5000. Cement sells for $0.80 per kg. 
+(d) Compared to the cost of operating with a 26 kg mean, how many bags 
+must be filled in order to recover the cost of the new equipment? 
+. The mass of packets of a breakfast cereal is normally distributed with a 
+mean of 750 g and standard deviation of 25 g. 
+(a) Find the probability that a packet chosen at random has mass: 
+(i) 
+lessthan740g 
+(ii) 
+atleast780g 
+(iii) between 740 g and 780 g. 
+(b) Two packets are chosen at random. What is the probability that both 
+packets have a mass that is less than 740 g? 
+(c) The mass of 70% of the packets is more than x g. Find the value of x. 
+829
+
+Probability distributions 
+8. In a country called Tallopia, the height of adults is normally distributed 
+with a mean of 187.5 cm and a standard deviation of 9.5 cm. 
+(a) What percentage of adults in Tallopia are taller than than 197 cm? 
+(b) A standard doorway in Tallopia is designed so that 99% of adults 
+have a space of at least 17 cm over their heads when going through 
+the doorway. Find the height of a standard doorway in Tallopia. 
+Give your answer to the nearest cm. 
+9. Itis claimed that the masses of a population of lions are normally 
+distributed with a mean mass of 310 kg and a standard deviation 
+of 30 kg. 
+(a) Calculate the probability that a lion selected at random will have a 
+mass of 350 kg or more. 
+(b) The probability that the mass of a lion lies between a and b is 0.95, 
+where a and b are symmetric about the mean. Find the values of a 
+and b. 
+10. Reaction times of human beings are normally distributed with a mean 
+0f 0.76 seconds and a standard deviation of 0.06 seconds. 
+The graph is that of the standard 
+i 
+normal curve. The shaded area 
+represents the probability that 
+the reaction time of a person 
+chosen at random is between 
+0.70 and 0.79 seconds. 
+a 
+0b 
+B 
+(a) Write down the value of a and of b. 
+(b) Calculate the probability that the reaction time of a person chosen 
+at random is: 
+(i) greater than 0.70 seconds 
+(ii) between 0.70 and 0.79 seconds. 
+Three per cent of the population have a reaction time less than ¢ seconds. 
+(c) 
+(i) 
+Represent this information on a diagram similar to the one 
+above. Indicate clearly the area representing 3%. 
+(ii) Find c. 
+11. The speeds of cars at a certain point on a straight road are normally 
+distributed with mean w and standard deviation o. 15% of the cars 
+travelled at speeds greater than 90 km h~!, and 12% of them at speeds 
+less than 40 kmh~!. Find w and o. 
+830
+
+12. Bag A contains 2 red balls and 3 green balls. Two balls are chosen at 
+random from the bag without replacement. Let X denote the number of 
+red balls chosen. The table shows the probability distribution for X. 
+  
+  
+ 
+ 
+ 
+ 
+ 
+x 
+0 
+1 
+) 
+- 
+538 
+6 
+B1g 
+Rose) 
+10 
+10 
+10 
+  
+(a) Calculate E(X), the mean number of red balls chosen. 
+Bag B contains 4 red balls and 2 green balls. Two balls are chosen at 
+random from bag B. 
+(b) 
+(i) 
+Draw a tree diagram to represent this information, including 
+the probability of each event. 
+(ii) Hence find the probability distribution for Y, where Y is the 
+number of red balls chosen. 
+A standard dice with six faces is rolled. If a 1 or 6 is obtained, two balls 
+are chosen from bag A, otherwise two balls are chosen from bag B. 
+(c) Calculate the probability that two red balls are chosen. 
+(d) Given that two red balls are obtained, find the conditional 
+probability that a 1 or 6 was rolled on the dice. 
+13. Ball bearings are used in engines in large quantities. A car manufacturer 
+buys these bearings from a factory. They agree on the following terms: 
+The car company chooses a sample of 50 ball bearings from the 
+shipment. If they find more than 2 defective bearings, the shipment is 
+rejected. It is a fact that the factory produces 4% defective bearings. 
+(a) What is the probability that the sample is free of defects? 
+(b) What is the probability that the shipment is accepted? 
+(c) What is the expected number of defective bearings in the sample of 502 
+14. Tt is estimated that 2.3% of the cherry tomato fruits produced at 
+a certain farm are considered to be small and cannot be sold for 
+commercial purposes. The farmers have to separate such fruits 
+and use them for domestic consumption instead. 
+(a) 
+12 tomatoes are randomly selected from the produce. 
+(i) 
+Calculate the probability that 3 are not fit for selling. 
+(ii) Calculate the probability that at least 4 are not fit for selling. 
+(b) 
+It is known that the sizes of such tomatoes are normally distributed 
+with a mean of 3 cm and a standard deviation of 0.5 cm. Tomatoes 
+that are categorised as large will have to be larger than 2.5 cm. 
+‘What proportion of the produce is large? 
+831
+
+Probability distributions 
+15. A factory has a machine designed to produce 1kg bags of sugar. It is 
+found that the average weight of sugar in the bags is 1.02 kg. Assuming 
+that the weights of the bags are normally distributed, find the standard 
+deviation if 1.7% of the bags weigh below 1 kg. 
+Give your answer correct to the nearest 0.1 gram. 
+16. The continuous random variable X has probability density function f(x) 
+where 
+_Je—ke 
+0sxs1 
+) 
+{ 
+0 
+otherwise 
+(a) Show thatk = 1. 
+(b) What is the probability that the random variable X has a value that 
+1 
+1 
+(c) Find the mean and variance of the distribution. Give your answers 
+exactly, in terms of e. 
+B 
+1, 
+4 
+lies between 
+—-and E? Give your answer in terms of e. 
+The random variable X above represents the lifetime, in years, of a 
+certain type of battery. 
+(d) Find the probability that a battery lasts more than six months. 
+(e) A calculator is fitted with three of these batteries. Each battery fails 
+independently of the other two. Find the probability that at the end 
+of six months: 
+(i) 
+none of the batteries has failed 
+(ii) exactly one of the batteries has failed. 
+17. The lifetime of a particular component of a solar cell is Y years, where Y 
+is a continuous random variable with probability density function 
+(0 
+y<o 
+D=\ 
+0sem y=0 
+(a) Find the probability, correct to 4 significant figures, that a given 
+component fails within six months. 
+Each solar cell has three components that work independently and the cell 
+will continue to run if at least two of the components continue to work. 
+(b) Find the probability that a solar cell fails within six months. 
+18. Ian and Karl have been chosen to represent their countries in the 
+Olympic discus throw. Assume that the distance thrown by each athlete 
+is normally distributed. The mean distance thrown by Ian in the past 
+year was 60.33 m with a standard deviation of 1.95 m. 
+(a) In the past year, 80% of Tan’s throws have been longer than x metres. 
+Find x, correct to 2 decimal places. 
+832
+
+195 
+20. 
+(b) In the past year, 80% of Karl’s throws have been longer than 56.52 m. 
+The mean distance of his throws was 59.39 m. Find the standard 
+deviation of his throws, correct to 2 decimal places. 
+(c) This year, Karl’s throws have a mean of 59.50 m and a standard 
+deviation of 3.00 m. Tan’s throws still have a mean of 60.33 m and 
+standard deviation 1.95m. In a competition, an athlete must have at 
+least one throw of 65 m or more in the first round to qualify for the 
+final round. Each athlete is allowed three throws in the first round. 
+(i) 
+Determine which of these two athletes is more likely to qualify 
+for the final round on their first throw. 
+(ii) Find the probability that both athletes qualify for the final round. 
+A company buys 44% of its stock of bolts from manufacturer A and the 
+rest from manufacturer B. The diameters of the bolts produced by each 
+manufacturer follow a normal distribution with a standard deviation of 
+0.16 mm. 
+The mean diameter of the bolts produced by manufacturer A is 
+1.56 mm. 24.2% of the bolts produced by manufacturer B have a 
+diameter less than 1.52 mm. 
+(a) Find the mean diameter of the bolts produced by manufacturer B. 
+A bolt is chosen at random from the company’s stock. 
+(b) Show that the probability that the diameter is less than 1.52 mm is 
+0.312, to 3 significant figures. 
+(c) The diameter of the bolt is found to be less than 1.52 mm. Find the 
+probability that the bolt was produced by manufacturer B. 
+(d) Manufacturer B makes 8000 bolts in one day. It makes a profit of 
+$1.50 on each bolt sold, on the condition that its diameter measures 
+between 1.52 mm and 1.83 mm. Bolts whose diameters measure less 
+than 1.52 mm must be discarded at a loss of $0.85 per bolt. 
+Bolts whose diameters measure over 1.83 mm are sold at a reduced 
+profit of $0.50 per bolt. 
+Find the expected profit for manufacturer B, to the nearest $100. 
+Roger uses public transport to go to school each morning. The time 
+he waits each morning for the transport is normally distributed with a 
+mean of 15 minutes and a standard deviation of 3 minutes. 
+(a) On a specific morning, what is the probability that Roger waits more 
+than 12 minutes? 
+(b) During a particular week (Monday to Friday), find the probability that: 
+(i) 
+Roger’s total waiting time does not exceed 65 minutes 
+(ii) 
+he waits less than 12 minutes on at least three days of the week 
+(iii) his average daily waiting time is more than 13 minutes. 
+833
+
+Probability distributions 
+21. The weights of male nurses in a hospital are known to be normally 
+distributed with mean u = 72 kg and standard deviation o = 7.5kg. 
+The hospital has a lift (elevator) with a maximum recommended load 
+of 450 kg. Six male nurses enter the lift. Calculate the probability p that 
+their combined weight exceeds the maximum recommended load. 
+22. The weights, X kg, of male birds of a certain species are normally 
+distributed with mean 4.5 kg and standard deviation 0.2 kg. The weights, 
+Ykg, of female birds of this species are normally distributed with mean 
+2.5kg and standard deviation 0.15 kg. 
+(a) 
+(i) 
+Find the mean and variance of 2Y — X. 
+(i) Find the probability that the weight of a randomly chosen male 
+bird is more than twice the weight of a randomly chosen female 
+bird. 
+(b) Two randomly chosen male birds and three randomly chosen female 
+birds are placed together on a weighing machine for which the 
+recommended maximum weight is 16 kg. Find the probability that 
+this maximum weight is exceeded. 
+23. A shop sells apples and pears. The weights, in grams, of the apples may 
+be assumed to have a N(200, 15%) distribution and the weights of the 
+pears, in grams, may be assumed to have a N(120, 102) distribution. 
+(a) Find the probability that the weight of a randomly chosen apple is 
+more than double the weight of a randomly chosen pear. 
+(b) A shopper buys 3 apples and 4 pears. Find the probability that the 
+total weight is greater than 1000 grams. 
+24. (a) The random variable Y is such that 
+EQY + 3) = 6 and Var(2 — 3Y) = 11 
+Calculate: 
+@) E( 
+(i) Var(Y) 
+(iii) E(Y?). 
+(b) Independent random variables R and S are such that R ~ N(5, 1) 
+and S~ N(8, 2). 
+The random variable V'is defined by V = 3§ — 4R. 
+Calculate P(V > 5). 
+834

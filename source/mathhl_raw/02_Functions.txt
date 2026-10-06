@@ -1,0 +1,3548 @@
+ 
+
+For this course, we 
+restrict our study to 
+polynomial functions 
+with coefficients that are 
+real numbers. 
+58 
+Functions 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
++ 
+polynomial functions and their graphs 
+« 
+zeros and factors of polynomial functions; roots of polynomial equations 
+« 
+applying the factor and remainder theorems 
+« 
+the sum and product of the roots of a polynomial equation 
++ 
+quadratic functions, and different forms in which to express them 
+» 
+finding characteristics of a parabola: axis of symmetry, x-intercepts 
+and vertex 
+« 
+solving quadratic equations and inequalities 
+« 
+applying the quadratic formula and the discriminant of a quadratic equation 
+ rational functions and their graphs, and identifying all asymptotes 
+« 
+solving a variety of equations and inequalities, both graphically and 
+analytically 
+ partial fractions. 
+This chapter will focus on polynomial functions (which include quadratic 
+functions) and rational functions. There are other function types that you 
+need to be familiar with for this course. Chapter 3 will cover exponential 
+functions and logarithmic functions, and Chapter 6 will focus on trigonometric 
+functions. Along with polynomial and rational functions, this chapter will 
+address solving polynomial equations, solving other types of equations and 
+solving inequalities. The chapter closes with methods of manipulating rational 
+expressions - techniques that will be very useful later in the course. 
+Polynomial functions 
+The most common type of algebraic function is a polynomial function. 
+Here are some examples of polynomial functions: 
+fx) = x3 
+h(t) = —21* + 16t — 24, 
+)=y +y =1y  +7y* + 10y 
+— 8 
+Definition of 
+a polynomial function in the variable x 
+A polynomial function Pis a function that can be expressed as 
+P(x) = ayx" + ay_;x" 
+"1+ o +ax 
++ ag, a, 
+# 0 
+‘where the non-negative integer n is the degree of the polynomial function. 
+‘The numbers ag, dy, @y, 
+..., a, are real numbers and are the coefficients of the polynomial. 
+a,is the leading coefficient, a,,x" is the leading term and a, is the constant term. 
+It is common practice to use subscript notation for coefficients of general 
+polynomial functions, but for polynomial functions of low degree, the 
+following simpler forms are often used.
+
+  
+Degree | Function form 
+Function name 
+| Graph 
+  
+Zero 
+Px)=a 
+Constant function | Horizontal line 
+  
+First 
+Pix)=ax+ba#0 
+Linear function 
+Line with slope a 
+  
+Second 
+|P(x) =ax?+bx+ca#0 
+Quadratic function | Parabola (U-shape, 
+1 turn) 
+  
+ 
+ 
+ 
+ 
+Third 
+| P(x) = ax® + bx> + cx + d, a# 0 | Cubic function 
+S-shape (2, 1 or no turns) 
+ 
+  
+Table 2.1 Features of polynomial functions of low degree 
+To identify an individual term in a polynomial function, we use the function 
+name correlated with the power of x contained in the term. For example, the 
+polynomial function f(x) = x> — 9x + 4 has a cubic term of x*, no quadratic 
+term, a linear term of —9x, and a constant term of 4. 
+For each polynomial function P(x) there is a corresponding polynomial 
+equation P(x) = 0. When we solve polynomial equations, we often refer to the 
+solutions as roots. 
+Approaches to finding zeros of various polynomial functions will be considered 
+in the next three sections of this chapter. 
+Graphs of polynomial functions 
+The graph of a first-degree polynomial function (linear function), such as 
+P(x) = x, is a line (Figure 2.1(a)). The graph of every second-degree polynomial 
+function (quadratic function) is a parabola (Figure 2.1(b)). 
+The simplest type of polynomial function is one whose rule is given by a power 
+of x. In Figure 2.1, the graphs of P(x) = x" for n =1, 2, 3, 4, 5, and 6 are shown. 
+As the figure suggests, the graph of P(x) = x" has the same general U-shape as 
+y = x2when # is even, and the same general S-shape as 
+y = x* when # is odd. 
+However, as the degree n increases, the graphs of polynomial functions become 
+flatter near the origin and steeper away from the origin. 
+  
+  
+  
+ 
+ 
+ 
+y 
+y 
+y 
+1 
+14 
+14 
+=i 
+0 
+1 
+x 
+0 
+0 
+1 
+x 
+1 
+x 
+= 
+—1] 
+@y=x 
+b)y=x 
+¥ 
+¥ 
+y 
+1 
+1 
+1 
+5 
+0 
+3 
+N/ 
+0 
+1x 
+) 
+T 
+-1 
+~14 
+~14 
+dy=x 
+(@y=x 
+By=x 
+Figure 2.1 Graphs of P(x) = x" for increasing 1 
+If Pis a function and ¢ is 
+anumber such that 
+P(9) = 0, then cis a zero 
+of the function P (or of 
+the polynomial P) and 
+x = cisaroot 
+of the 
+equation P(x) = 0. 
+‘The use of the word root 
+to denote the solution of 
+a polynomial equation 
+should not be confused 
+with the use of the word 
+in the context of square 
+root, cube root, fifth 
+root, etc. 
+59
+
+‘The third property of 
+polynomial functions 
+is referred to as the end 
+behaviour because it 
+describes how the curve 
+behaves at the left and 
+right ends (i. as 
+x— —ocandas 
+x— +00). 
+‘The end behaviour of a 
+polynomial function is 
+determined by its degree 
+and by the sign of its 
+60 
+leading coefficient. 
+Functions 
+Another interesting observation is that depending on the degree of the 
+polynomial function, its graph displays a certain type of symmetry. 
+The graph of P(x) = x" has rotational symmetry with respect to the origin 
+when 7 is odd. These functions are called odd functions. 
+The graph of P(x) = x" has line symmetry with respect to the y-axis when # is 
+even. These functions are called even functions. 
+‘We will meet formal definitions for odd and even functions in Chapter 6 when 
+we investigate the graphs of the sine and cosine functions. 
+The graphs of polynomial functions that are not in the form P(x) = x" are 
+more difficult to sketch. However, the graphs of all polynomial functions 
+share these properties: 
+1 
+The graph is a smooth curve (i.e. it has no sharp, pointed turns — only 
+smooth, rounded turns). 
+2 The graph is continuous (i.e. it has no breaks, gaps or holes). 
+3 The graph rises (y — o0) or falls (y — —oc) without bound as x — +00 
+orx — —0o 
+4 
+The graph extends on forever both to the left (—o0) and to the right (+00); 
+domain is R 
+5 The graph of a polynomial function of degree n has at most (n — 1) turning, 
+points. AN 
+A A Y 
+7 
+Figure 2.2 The graph of a polynomial function s a smooth, unbroken, continous curve 
+= 
+\‘ 
+[ 
+sharp corner 
+8P 
+T 
+sharp corfer 
+Figure 2.3 When a graph has jumps, gaps, holes or sharp corners, then it is not the graph of a polynomial 
+function. None of these functions are polynomial functions 
+Quadratic functions 
+A linear function is a polynomial function of degree 1 that can be written in 
+the general form f(x) = ax + b, where a # 0. Linear equations were briefly 
+reviewed in Section 1.1. Any linear function will have a single solution (root) 
+ofx = 7%. This is a formula that gives the zero of any linear polynomial.
+
+In this section, we will focus on quadratic functions that are functions 
+it 
+Peileeonl 
+consisting of a second-degree polynomial that can be written in the form 
+numbers, and a # 0, 
+f(x) = ax® + bx + ¢, such that a # 0. You are probably familiar with the 
+}h“‘ ‘]“;;'"“z"“ 
+. 
+. 
+s 
+: 
+) = ax? + by + cisa 
+formula that gives the zeros of any quadratic polynomial, that is, the 
+e 
+s e 
+quadratic formula. We will also investigate other methods of finding 
+graph of y = fix) is called 
+zeros of quadratics and consider important characteristics of the graphs 
+aparabola. 
+of quadratic functions. 
+Each parabola is symmetric about a vertical line called its axis of symmetry. 
+The axis of symmetry passes through a point on the parabola called the vertex 
+of the parabola, as shown in Figure 2.4. If the leading coefficient, a, of the 
+quadratic function is positive, then the parabola opens upwards (concave up) - 
+and the y-coordinate of the vertex will be a minimum value for the function. 
+If the leading coefficient is negative, then the parabola opens downwards 
+(concave down) - and the y-coordinate of the vertex will be a maximum 
+value for the function. 
+axis of symmetry 
+axis of symmetry 
+| 
+  
+   
+  
+  
+vertex 
+    
+  fix) = ax+ 
+bx + ¢ 
+) = ax + bx + 
+¢ 
+vertex 
+  
+i 
+i 
+Ifa > 0 then the parabola opens upwards. 
+If a < 0 then the parabola opens downwards. 
+  
+Figure 2.4 ‘Concave up and ‘concave down’ parabolas 
+  
+)7 
+ar 1% 
+From Section 1.5, we know that the 
+y=(x+3p+2 
+graph of the equation y = (x + 3)2 + 2 
+A 
+| 
+1 
+can be obtained by translating y = x? 
+v 
+three units to the left and two units up. 
+As we are familiar with the shape and 
+position of the graph of y = x2 and we 
+know the two translations that transform 
+\ 
+y=(ehopy 
+2 units'yp 
+   
+  
+    
+y=@+3P+2 
+y=x2toy 
+= (x + 3)> + 2, we can 
+sketch the graph of y = (x + 3)2 + 2       
+  
+  
+ 
+(see Figure 2.5). We can also determine 
+-6 
+-4 
+-2 
+0 
+* 
+. 
+g 
+the axis of symmetry and the vertex of 
+3 units left 
+5 
+. 
+=G5k A~ ] 
+the graph. Figure 2.6 shows that the 
+Figure 2.5 Translating y = x* to produce 
+Fl 
+: 
+2 
+. 
+= (x4 342 
+axis of symmetry 
+graphof y = (x + 3)> 
++ 2 hasanaxis 
+7= 
+) 
+) 
+of symmetry of x = —3 and a vertex at (—3, 2). The equation 
+Figure 2.6 The axis of symmetry 
+3 
+and the vertex for the graph of 
+y = (x+ 3)?+ 2 can also 
+be written as y = x> + 6x + 11. 
+y=(x+37+2 
+61
+
+Ifa quadratic function 
+is written in vertex 
+form, thatis 
+foy =alx—h?+k 
+with a # 0, then the 
+graph of £ has an axis of 
+symmetry of x = hand 
+avertexat (h, k). 
+fo) 
+= ale— W2 
++ kis 
+sometimes referred to as 
+the standard form ofa 
+quadratic function. 
+5, 
+=x—8x+18 
+  
+Figure 2.7 Graph for the 
+solution to Example 2.1 
+62 
+Functions 
+As we can identify the vertex of the parabola easily when the equation is 
+written as y = (x + 3)? + 2, we often refer to this as the vertex form of the 
+quadratic equation, and y = x? + 6x + 11 as the general form. 
+Completing the square 
+‘When we are visualising and sketching quadratic functions, it is helpful to have 
+them written in vertex form. We can rewrite a quadratic function written in 
+general form into vertex form by completing the square. 
+2 
+For any real number p, the quadratic expression x> + px + (g) 
+is the square 
+2 
+of (x + [E)) Convince yourself of this by expanding (x + g) 
+. The technique 
+of completing the square is to add a constant to a quadratic expression to make it 
+the square of a binomial expression. If the coefficient of the quadratic term (x2) is 
+2 
++1, the coefficient of the linear term is p, and the constant term is (;) 
+, then 
+2 
+2 
+x>+ px + (12—7) 
+= (x + %) 
+and the square is completed. Remember that 
+the coefficient of the quadratic term (leading coefficient) must be equal to +1 
+before completing the square. 
+Find the equation of the axis of symmetry and the coordinates of the vertex 
+of the graph of f(x) = x> — 8x + 18 by rewriting the function in the form 
+foo =alx—h)?+ k. 
+e —— 
+Solution 
+To complete the square and get the quadratic expression x> — 8x + 18 in the 
+2 
+- 
+2 
+form x2 + px + (‘g) 
+, the constant term needs to be (Ts) 
+= 16. We need 
+to add 16, but also subtract 16, so that we are adding zero overall and, hence, 
+not changing the original expression. 
+f) = (x> — 8x +16) — 16 + 18 
+adding zero (—16 + 16) to the right side 
+foo=x*—8x+16+2 
+x2 — 8x + 16 fits the pattern 
+R DR (Iz—l)zwithp =-8 
+fooy=Gx—-—42+2 
+x2—8x +16= (x — 4)* 
+For the function gix — —2x> — 12x + 7, 
+(a) find the axis of symmetry and the coordinates of the vertex of the graph 
+ofg
+
+(b) indicate the transformations that can be applied to y = x? to obtain the 
+graph of g 
+(c) 
+find the minimum or the maximum value. 
+1 
+Solution 
+(@) gx— 72(::2 E6x 
+%) 
+factorise so that coefficient of 
+quadratic term is +1 
+2 
+gx— *2[(::2 SR 6 IO EIOED %] p=6= (%) 
+= 9; hence, 
+add +9 — 9 (zero) 
+g:x>—>*2|:(x+3)z*12—8*%] 
+X2+ 6x+9 = (x+3)2 
+gx— 72[(:: S 22—5] 
+D Cot 
+) 2 
+9.5 
+multiply through by —2 to remove 
+outer brackets 
+gr= =M= ED)P 
+5 
+express in vertex form 
+gx—alx—h?+k 
+The axis of symmetry of the graph of g is the vertical line x = —3 and 
+the vertex is at (—3, 25). 
+  
+T 
+| 
+1 
+=5 
+| 
+y=-20-12x+7 
+(b) Since g:x+— —2x2 — 12x + 7 = —2(x + 3)? + 25, we can obtain the 
+graph of g by applying the following transformations (in the order given) 
+on the graph of y = x2 horizontal translation of 3 units left; reflection 
+in the x-axis (parabola opening down); vertical stretch of factor 2; and a 
+vertical translation of 25 units up. 
+(c 
+The parabola opens down because the leading coefficient is negative. 
+Therefore, g has a maximum and no minimum value. The maximum 
+value is 25 (y-coordinate of vertex) at x = —3. 
+Example 2.3 derives a general expression for the axis of symmetry and vertex 
+of a quadratic function in the general form f(x) = ax? + bx + ¢ by completing 
+the square. 
+63
+
+‘This result leads to the 
+following generalisation. 
+For the graph of the 
+quadratic function 
+fx) = ax? + bx 
++ ¢, the 
+axis of symmetry is the 
+vertical line with the 
+equation 
+x = —2 
+4 
+2 
+and the vertex has 
+coordinates 
+(&8 
+   
+  
+two real 
+no real 
+zeros 
+Figure 2.8 Different quadratic 
+functions with different 
+numbers of real zeros 
+In the next section, the 
+factor theorem formally 
+states the relationship 
+between linear factors of 
+the form (x — a) and the 
+zeros for any polynomial. 
+64 
+Functions 
+Find the axis of symmetry and the vertex for the general quadratic function 
+fo=ax2+bx+c 
+  
+  
+Solution 
+foo=alx+Lx+€) 
+ factorise so that coefficient of x* term is +1 
+b 
+)\ 
+DA 
+b 
+(P)2 
+b )Z 
+o 
+|2 
+e 
+(UM 
+(8 
+g 
+=0 
+Pliis(L 
+U 
+a[x 
+a* 
+(2u> 
+(2a> 
+*a 
+P=a=\3 
+(Za 
+f(x):a[(x+i>z—b—z+£ 
+x2+2x+(i>2:(x+i>z 
+2a 
+47 
+a 
+2a 
+2a 
+2 
+2 
+fxy=a (x i %) 
+= Z—a S0 
+multiply through by a 
+fx)y=a (X = 
+71))2 S €= b—z 
+express in vertex form 
+2a 
+4a 
+foy=alx—h2+k 
+Check the results for Example 2.2 using the formulae for the axis of symmetry 
+and vertex. For the function g:x — —2x? — 12x + 7: 
+X = —--= ————-= —3 = axis of symmetry is the vertical line x = —3 
+% 
+7 
+) 
+?6 + 5 = 25 = vertex has coordinates (—3, 25) 
+  
+These results agree with the results from Example 2.2. 
+Zeros of a quadratic functi 
+A specific value of x is a zero of a quadratic function f(x) = ax? + bx + cifit 
+is a solution (or root) to the equation ax? + bx + ¢ = 0. As we will see, every 
+quadratic function has two zeros, although it is possible for the same zero to 
+occur twice (double zero, or double root). The x-coordinate of any point(s) 
+where f crosses the x-axis (y-coordinate is zero) is a real zero of the function. 
+A quadratic function can have no, one or two real zeros as Figure 2.8 illustrates. 
+Finding all real zeros of a quadratic function requires you to solve quadratic 
+equations of the form ax? + bx + ¢ = 0. Although a # 0, it is possible for b or ¢ 
+to be equal to zero. 
+Now let us consider the general quadratic equation ax 2 + bx + ¢ = 0 whose roots 
+are x = aand x = 3. We can write the quadratic equation with roots cwand S as: 
+ax>+bx+c=x—ax—pB) 
+=0 
+xX2—ax—pBx+aB=0 
+= (a+Px+aB=0
+
+b 
+Since the equation ax 2 + bx + ¢ = 0 can also be written as x 2 + 2%t % =0, then: 
+b 
+c 
+5e 
+=x2+2x+ 
+% 
+= 
+(a+Prtap=x+ et s 
+Equating coefficients of both sides, gives the results: 
+__b 
+_c 
+a+p=-Landap=£ 
+For any quadratic equation in the form ax? + bx + ¢ = 0, the sum of roots of the equation 
+is — 
+and the product of the roots is <. 
+Example 2.4 
+Given that a and B are the roots of the given equation, find the sum, a + 3, 
+and product, a, of the roots. 
+(@) 
+a5 cERGE= 10 
+(b) 3x2+4x—7=0 
+  
+Solution 
+(a) For the equation 
+x> —5x +3=0,a=1,b= —5andc=3 
+4 
+77—5:5anda/3:£:—:3 
+Therefore, a + B = = 
+1 
+(b) For the equation 3x2 + 4x —7=0,a=3,b=4andc= —7 
+=4 
+- 
+3andaB 
+4 
+3 
+Therefore, a + B = — 
+8 
+If the sum and product of the roots of a quadratic equation are known then the equation can be 
+written in the form: x? — (sum of roots)x + (product of roots) = 0 
+Given that « and B are the roots of the equation 2x2 + 6x — 5 =0, finda 
+quadratic equation whose roots are: 
+  
+  
+i 
+i 
+@ 20,28 
+O 
+Solution 
+For the equation 
+2x? + 6x —5=0,a =2,b=6andc= —5 
+b 
+6 
+GO 
+TR 
+P 
+= 
+. 
+o= 
+So,a+ 
+B 
+v 
+2 
+3and af 
+T 
+(a) Sum of the new roots = 2a + 28 =2(a + B) = 2(=3) = —6 
+So, for the new equation 7% =-6 
+Product of the new roots = 2a 
+- 23 = 4a = 4(7%) =-10 
+So, for the new equation % =-10 
+65
+
+66 
+Functions 
+The new equation can be written as ax? + bx + ¢ = 0 or 
+b 
+QU 
+C 
+x+ax+a 
+0 
+Therefore, the quadratic equation with roots 2a, 23 is 
+X —(=6x—10=0=x>+6x—10=0 
+  
+1 
+i 
+BR ST 
+(b) Sum of thenewroots 
+= —+ ——=—————— 
+(o 
+(SRS R (SR 
+(B 
+1) 
+S 
+i (o 
+.5 . I 
+W, 
+aBratBrl 
+_5_,., 
+7; 
+9 
+So, for the new equation *% = % 
+Productofthenewroots:; R 
+| S— 
+at1\B+1) 
+afta+tp+1 
+| — 
+2 
+. 
+9 
+5 
+BEGRIl 
+S 
+. 
+So, for the new equation — = 5 
+a 
+The new equation can be written as x> + %x +F % =0 
+Therefore, the quadratic equation with roots 
+u}r1,B}rlisxzfgx*%:OOrng*ZX*ZZO 
+Example 2.6 
+Given that the roots of the equation x> — 4x + 2 = 0 are a and f3, find the 
+values of the following expressions. 
+    
+1 
+i 
+@ o+ p? 
+(b) ;Jrﬁ 
+] 
+Solution 
+ST 
+— 
+__b_ _—4_ 
+N 
+Withx? 
+—dx+2=0,a+B=—-=-——"=dandaf=Z=7=2 
+Both of the expressions a® + 32 and LZ +-L need tobe expressed in terms 
+02 
+R 
+ofa 
++ Band aff 
+(@) o2+ B2=oa?+2aBf 
++ B —2aB = (a+ B)> - 2aB 
+Substituting the values for @ + Band a3, gives: 
+PP =4-2.2=16-4=12 
+2 
+2 
+24 g 
+(b) A0 B 
+g2 
+R 
+o 
+B 
+2f 
+a2f 
+ (af)? 
+From part (a) we know that 2 + 82 = (a + B)> — 2ap. 
+Substituting this into the numerator gives: 
+1.1 
+_(e+p)P—208 
+@ B 
+(app
+
+Then substituting the values for & + Band af from above, gives 
+£-2.2_12 22 
+2 
+4 
+   
+Therefore, - + L =3 
+uz 
+B 
+The 
+quadratic 
+formula and the discriminant 
+The expression that is beneath the radical sign in the quadratic formula, 
+b — 4ac, determines whether the zeros of the quadratic function are real or 
+not real (imaginary). Because it acts to ‘discriminate’ between the type of zeros, 
+b? — 4ac s called the discriminant. It is often labelled with the Greek letter A 
+(upper case delta). The value of the discriminant can also indicate if the zeros 
+Ifthe zeros of a quadratic 
+are equal and if they are rational. 
+polynomial are rational 
+— either two distinct 
+2eros or two equal zeros 
+For the quadratic function fx) = ax? + bx + ¢, (a # 0) where a, band c are real numbers: 
+(double zero/root) — 
+IfA = b? — 4ac >0, then f has two distinct real zeros, and the graph of fintersects the x-axis twice. 
+then the polynomial can 
+be factorised. That is, if 
+  
+  
+= - 
+= 
+4 
+,[f, o 01; > ‘4:c mtza;h: {‘l’;a;] Z‘le ar;asl)zem (double root), and the graph of fintersects the 
+ar i 
+- 
+& 
+- 
+seros then ax? + bx + ¢ 
+IfA = b? — dac < 0, then f has two imaginary zeros, and the graph 
+of fdoes not intersect the x-axis. 
+= (mx + n)(px + q) 
+In the special case when a, band c are integers and the discriminant is the square of an integer 
+where m, n, pand g are 
+(a perfect square), the polynomial ax? + bx + ¢ has two distinct rational zeros. 
+rational numbers. 
+—b* (b= dac 
+When the discriminant is zero, the solution of a quadratic function is x = 
+_—b:VO_ 
+_ 
+b 
+) 
+R 
+b, 
+- 
+! 
+= 
+2. As mentioned,this soluton of — 
+s called a doublezero (or oo, which 
+Remember that the 
+roots of a polynomial 
+  
+  
+2 
+2 
+5 
+equation are those values 
+can also be descibed as a zero of multplicity of 2. 
+a and bae ntegers,then the zero — 5 
+of x for which P(x) = 0. 
+will be rational. When we solve polynomial functions of higher degree later in this chapter, we will 
+e 
+; 
+POy 
+called the zeros of the 
+encounter zeros of higher multiplicty. 
+] 
+polynomial P. 
+Example 2. 
+Use the discriminant to determine how many real roots each equation has. 
+Confirm the result by graphing the corresponding quadratic function for 
+each equation on your GDC. 
+(@) 2x2+5x—3=0 
+ (b) 42— 12x+9=0 
+(c) 2x2—5x+6=0 
+  
+Solution 
+(a) The discriminantis A = 52 — 4(2)(—3) = 49 > 0. 
+Therefore, the equation has two distinct real 
+roots. This result is confirmed by the graph 
+of the quadratic function y = 2x2 + 5x — 3 
+that clearly intersects the x-axis twice. 
+  
+y=2x245%-3 
+ 
+ 
+  
+67
+
+  
+  
+  
+  
+y=4x2-12x+9, 
+X 
+Y1 
+1.2 
+.36 
+Tl 
+.1le 
+1.4 
+.04 
+.5 
+1.6 
+. 
+1.7 
+.16 
+1.8 
+.36 
+ 
+ 
+  
+ R 
+i 
+of 
+ 
+  
+Figure 2.9 GDC screens for the 
+solution to Example 2.7 (b) 
+68 
+Functions 
+Also, since A = 49 is a perfect square, the two roots are rational and the 
+quadratic polynomial 2x? + 5x — 3 can be factorised: 
+22 +5x—3=Qx— Dx+3)=0 
+The two rational roots are x = % andx=—3 
+(b) The discriminant is A = (—12)? — 4(4)(9) = 0. Therefore, the equation 
+has one rational root (a double root). The graph on the GDC of 
+y = 4x? — 12x + 9 appears to intersect the x-axis at only one point. 
+‘We can be more confident with this conclusion by investigating further 
+— for example, tracing or looking at a table of values on the GDC. 
+Also, since the root is rational (A = 0), the polynomial 4x> — 12x + 9 
+can be factorised. 
+4x?— 12x+9 = Qx— H2x—3) = [2(;; = %)Z(x = i)] 
+2 
+32 
+:4( 
+7_) 
+=0 
+“=3 
+There are two equal linear factors, which means there are two equal 
+rational zeros — both equal to % in this case. 
+(c) The discriminant is 
+A = (—5)2 — 4(2)(6) = —23 < 0. Therefore, 
+Y=2x2-5%46, 
+the equation has no real roots. This result is 
+confirmed by the graph of the quadratic 
+function y = 2x2 — 5x + 6 that clearly shows 
+that the graph does not intersect the x-axis. 
+The equation will have two imaginary roots. 
+For 4x? + 4kx + 9 = 0, determine the value(s) of k so that the equation has: 
+  
+ 
+ 
+ 
+  
+(a) one real zero, (b) two distinct real zeros, and (c) no real zeros. 
+| 
+Solution 
+(a) For one real zero, A = (4k)? — 4(4)(9) = 0 = 16k2 — 144 = 0 
+= l6k2=144=Kk2=9=>k= £3 
+(b) For two distinct real zeros, A = (4k)? — 4(4)(9) > 0 = 16k> > 144 
+E k0 
+Sl 
+(c) 
+For no real zeros, A = (4k)? — 4(4)(9) < 0= 16k> < 144 = k> <9 
+E 
+s s Rand e 
+= 
+s ek 
+The graph of f(x) = a(x — p)(x — q) 
+If a quadratic function is written in the form f(x) = a(x — p)(x — q), 
+we can easily identify the x-intercepts of the graph of f.
+
+Consider that f(p) = a(p — p)(p — q) = a(0)(p — q) = 0 and that 
+axis of symmetry 
+fa) = a(@ — p)(q — q) = a(q — p)(0) = 0. Therefore, the quadratic 
+0 
+y 
+function f(x) = a(x — p)(x — q) will intersect the x-axis at the points (p, 0) 
+and (g, 0). We need to factorise in order to rewrite a quadratic function 
+in the form fix) = ax* + bx + c to the form fix) = a(x — p)(x — q). 
+Hence, f(x) = a(x — p)(x — q) can be referred to as the factorised form 
+of a quadratic function. As a parabola is symmetric, the x-intercepts 
+(p» 0) and (g, 0) will be equidistant from the axis of symmetry (see 
+Figure 2.9). As a result, the equation of the axis of symmetry and the 
+x-coordinate of the vertex of the parabola can be found from finding the 
+  
+ 
+Figure 2.10 Features of the 
+average of p and q. 
+graph of a quadratic function 
+Ifa quadratic function is 
+Example 2.9 
+written 
+in the form 
+  
+Find the equation of each quadratic function from the graph in the form 
+é:t)h:a :‘;Lﬂﬁ;;{gp‘l 
+fx) = a(x — p)(x — q) and also in the form f(x) = ax? + bx + ¢ 
+of f has x-intercepts at 
+(p,0) and (g,0), an axis 
+() 
+(b) 
+of symmetry with 
+SN 
+2 
+12 
+equation x = 
+avertex 
+a(t75) 
+  
+, and 
+  
+Solution 
+(a) Since the x-intercepts are =3 and 1, 
+y = a(x + 3)(x — 1) 
+The y-intercept is 6, so when 
+x = 0, y = 6. Hence, 6 = a(0 + 3)(0 — 1) 
+= —3a = 
+a = —2 (a < 0 agrees with the fact that the parabola is 
+opening downwards). The function is fx) = —2(x + 3)(x — 1) 
+Expanding to remove brackets: f(x) = —2x? — 4x + 6 
+(b) The function has one x-intercept at 2 (double root), so p = g = 2 and 
+y = alx — 2)(x — 2) = a(x — 2) The y-intercept is 12, so when 
+x=0, y=12.Hence, 12 = a(0 — 2)> 
+= 
+4a => a = 3 (a > 
+0 agrees 
+with the parabola opening upwards). The function is f(x) = 3(x — 2)%. 
+Expanding the brackets: f(x) = 3x% — 12x + 12 
+Example 2.10 
+The graph of a quadratic function intersects the x-axis at the points (—6,0) 
+and (—2,0) and also passes through the point (2,16). 
+(a) Write the function in the form f(x) = a(x — p)(x — q) 
+(b) Find the coordinates of the vertex of the parabola. 
+(c) Write the function in the form fix) = a(x — h)> + k 
+69
+
+70 
+Functions 
+) 
+Solution 
+(a) The x-intercepts of (—6, 0) and (—2, 0) gives f(x) = a(x + 6)(x + 2). 
+Since 
+f passes through (2, 16), then f(2) = 16 = f(2) = a2 + 6)(2 + 2) 
+= 
+=l 
+=32a=16=a 
+3 
+Therefore, f(x) = %(x + 6)x +2) 
+(b) The x-coordinate of the vertex is the average of the x-coordinates of the 
+Gl 
+2 
+The y-coordinate of the vertex s y = fi—4) = (—4 + 6)—4 + 2) = 
+=2 
+    
+intercepts. x = 
+=4l 
+Hence, the coordinates of the vertex are (—4, —2) 
+(c) 
+In vertex form, the quadratic function is f(x) = %(x 
+D20 
+1. For each of the quadratic functions f, find 
+(i) 
+the equation for the axis of symmetry and the coordinates of the 
+vertex by algebraic methods 
+(ii) 
+the transformation(s) that can be applied to y = x 
+to obtain the 
+graph of y = f(x) 
+(iii) the minimum or maximum value of . 
+Check your results by using your GDC. 
+@) fixr—>x?—10x + 32 
+(b) fix—x2 +6x+8 
+(©) fixr—> —2x2 — 4x + 10 
+(d) fix—4x> —4x+9 
+(&) fix %xz +7x+26 
+2. Solve each quadratic equation by using factorisation. 
+(@) 
+22 +2x—8=0 
+(b) x2=3x+ 
+10 
+(c) 6x2—9x=0 
+(d) 3x2+11x—4=0 
+(e) 3x>+ 18 = 15x 
+(f) 
+9x — 
+2 = 4x? 
+3. Use the method of completing the square to solve each quadratic equation. 
+() 
+22 +4x—3=0 
+(b) x2—4x—5=0 
+(c) x?—2x+3=0 
+(d) 2x2+16x+6=10 
+(€) x2+2x—8=0 
+(f) —2x2+4x+9=0
+
+10. 
+1 
+12. 
+5% 
+14. 
+158 
+L Letf) =x2—4x— 
+1 
+(a) Use the quadratic formula to find the zeros of the function. 
+(b) Use the zeros to find the equation for the axis of symmetry of the 
+parabola. 
+(c) 
+Find the minimum or maximum value of f. 
+. Determine the number of real solutions to each equation. 
+(@) x2+3x+2=0 
+(b) 2x2—3x+2=0 
+© x*—1=0 
+(d)2x2—§x+1:o 
+. Find the value(s) of p for which the equation 2x? + px + 
+1 = 0 has one 
+real solution. 
+. Find the value(s) of m for which the equation x> + 4x + k = 0 has two 
+distinct real solutions. 
+. The equation x> — 4kx + 4 = 0 has two distinct real solutions. Find the 
+set of all possible values of k. 
+. Find all possible values of m so that the graph of the function 
+g:x— mx? + 6x + m does not touch the x-axis. 
+Find the range of values of k such that 3x> — 12x + k > 0 for all real 
+. 
+. 
+. 
+‘or question 10, consider 
+values of x. 
+what must be true 
+about the zeros of the 
+Prove that the expression x — 2 — x? is negative for all real values of x. 
+quadratic equation 
+y=3x—12x+k 
+Find a quadratic function in the form y = ax? + bx + c that satisfies the 
+given conditions. 
+(a) The function has zeros of x = —1 and x = 4 and its graph intersects 
+the y-axis at (0, 8). 
+(b) The function has zeros of x = % and x = 3 and its graph passes 
+through the point (—1, 4). 
+Find the range of values for k in order for the equation 
+2x2 + (3 — k)x + k + 3 = 0 to have two imaginary solutions. 
+For what values of m does the function f{x) = 5x — kx + 2 have two 
+distinct real zeros? 
+The graph of a quadratic function passes through the points 
+(*14—7,5?5), (—4,4) and (%,5?5) Express the function in the form 
+fx) = ax? + bx + ¢, wherea, b,c€ Z. 
+4!
+
+For question 22 (c), 
+factorise o + B into 
+aproduct ofa binomial 
+72 
+and a trinomial. 
+Functions 
+16. 
+173 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+258 
+The maximum value of the function f(x) = ax? + bx + cis 10. 
+Given that f(3) = f(—1) = 2, find f(2). 
+Find the values of x for which 4x + 
+1 <x2 + 4 
+Show that there is no real value ¢ for which the equation 
+2x? + (2 — Dx + 
+> + 3 = 0 has real roots. 
+Show that the two roots of ax? + bx + a = 0 are reciprocals of each 
+other. 
+Find the sum and product of the roots for each quadratic equation. 
+(@) 222+ 6x—5=0 
+(b) x2=1—3x 
+(c) x2—6=0 
+(d) x>+ ax—2a=0 
+(€) m(m —2)=4(m 
++ ) 
+®3x-2=1 
+The roots of the equation 2x> — 3x + 6 = 0 are aand $. Find a 
+B 
+quadratic equation with integer coefficients whose roots are 2 and — 
+a 
+B 
+If a and B are the roots of the equation 3x2 + 5x + 4 = 0, find the value 
+of each expression. 
+B 
+(@) o2+ p? 
+(b) % += 
+© & +p 
+ir 
+Consider the quadratic equation x> + 8x + k = 0 where k is a constant. 
+Find both roots of the equation given that one root of the equation is 
+three times the other. Find the value of k. 
+The roots of the equation x2 + x + 4 = 0 are a and . 
+(a) Without solving the equation, find the value of the expression 
+1| 
+— i 
+a 
+B 
+(b) Find a quadratic equation whose roots are Londd 
+a 
+B 
+If awand B are roots of the quadratic equation 5x> — 3x — 
+1 = 0, find a 
+quadratic equation with integer coefficients that has the roots: 
+1 
+1 
+o? 
+Z 
+a) —and — 
+b)E—andes 
+@ 
+prand 
+®) 
+Gand
+
+Zeros, factors and remainders 
+Finding the zeros of polynomial functions is a feature of many problems in 
+algebra, calculus and other areas of mathematics. In our analysis of quadratic 
+functions in Section 2.2, we saw the connection between the graphical and 
+algebraic approaches to finding zeros. Information obtained from the graph of 
+a function can be used to help find its zeros and, conversely, information about 
+the zeros of a polynomial function can be used to help sketch its graph. Results 
+and observations from the last section lead us to make some conclusions about 
+real zeros of all polynomial functions. 
+IfP(x) is a polynomial function and ¢ s a real number, then these statements are equivalent: 
+is a zero of the function P 
+is a solution (or root) of the polynomial equation P(x) = 0 
+o (x — o) is alinear factor of the polynomial P(x) 
+o (c,0) is an x-intercept of the graph of the function P 
+Polynomial division 
+Polynomial division s 
+  
+  
+not a required algebraic 
+As with integers, finding the factors of polynomials is closely related to dividing 
+method for this course; 
+polynomials. An integer # is divisible by another integer 
+1 if m is a factor of n. 
+h"“”_“;’“' il‘ canbea 
+useful tool. 
+If n is not divisible by m, we can use the process of long division to find the 
+quotient of the numbers and the remainder. For example, let’s use division to 
+  
+divide 485 by 34. 
+14 
+14 
+quotient 
+34)485 
+check: 
+X 
+34 
+divisor 
+34 
+56 
+145 
+12 
+136 
+476 
+9 
++ 
+9 
+remainder 
+  
+485 
+ dividend 
+The number 485 is the dividend, 34 is the divisor, 14 is the quotient and 9 is 
+the remainder. The division process (or algorithm) stops when a remainder 
+is less than the divisor. The procedure shown above for checking the division 
+result may be expressed as 
+485=34X14+9 
+or in words as 
+dividend = divisor X quotient + remainder 
+The process of division for polynomials is similar to that for integers. If a 
+polynomial D(x) is a factor of polynomial P(x), then P(x) is divisible by D(x). 
+However, if D(x) is not a factor of P(x) then we can use a long division 
+algorithm for polynomials to find a quotient polynomial Q(x) and a 
+remainder polynomial R(x) such that P(x) = D(x) 
+- Q(x) + R(x). In the same 
+way that the remainder must be less than the divisor when dividing integers, 
+73
+
+A common error when 
+performing long division 
+with polynomials is 
+toadd rather than 
+subtract during each 
+74 
+cycle of the process. 
+Functions 
+the remainder must be a polynomial of a lower degree than the divisor when 
+dividing polynomials. Consequently, when the divisor is a linear polynomial 
+(degree of 1), the remainder must be of degree 0, that is, a constant. 
+Find the quotient Q(x) and remainder R(x) when P(x) = 2x* — 5x? + 6x — 3 
+is divided by D(x) = x — 2 
+L} 
+Solution 
+Pt 
+S DRI 
+2x3 
+— dx> 
+S 22 Gaa2) 
+a6 
+« subtract 
+=D 
+— —x(x—2) 
+4x — 3 
++ subtract 
+4x—8 —4(x—2) 
+5 « subtract 
+Thus, the quotient Q(x) is 2x> — x + 4 and the remainder is 5. 
+Therefore, we can write: 
+Dt v 
+6 vt () Db LRV K5 
+This equation provides a means to check the result by expanding and 
+simplifying the right side and verifying it is equal to the left side. 
+Dt v 
+6 vt () Db LRV K5 
+=@ —x2t4ax—4x2+2x—8) 
++5 
+R 52 6o 
+Taking the identity P(x) = D(x) 
+- Q(x) + R(x) and dividing both sides by D(x) 
+R(x) 
+Dx) 
+Hence, the result for Example 2.11 could also be written as 
+  
+produces the equivalent 1denmy *Q() 
+3 
+5y2 
+— 
+2x% — 5x% 
++ 6x 
+3:2x17x+4+ 
+5 
+X 
+X2 
+Note that writing the result in this manner is the same as rewriting 17 =5X3+2 
+as 1—57 =3+ 2, which we commonly write as the mixed number 3— 
+If P(x) and D(x) are polynomials such that D(x) # 0, and the degree of D(x) is 
+less than or equal to the degree of P(x), then there exist unique polynomials 
+Q(x) and R(x) such that 
+P(x) = D(x) - Q(x) + R(x) 
+2 
+dividend 
+divisor 
+~quotient 
+remainder 
+and where R(x) is either zero or of degree less than the degree of D(x).
+
+Remainder and factor theorems 
+As illustrated by Example 2.11, we commonly divide polynomials of higher 
+degree by linear polynomials. Let’s look at what happens to the division algorithm 
+when the divisor D(x) is a linear polynomial of the form (x — c). Since the degree 
+of the remainder R(x) must be less than the degree of the divisor (degree of one 
+in this case), the remainder will be a constant, simply written as R. Then the 
+division algorithm for a linear divisor is the identity: 
+P(x) = (x—¢c)-Qx) +R 
+If we evaluate the polynomial function P at the number x = ¢, we obtain 
+P)=(c—¢)-Q()+R=0-Q(c) 
++R=R 
+Thus, the remainder R 
+is equal to P(c), the value of the polynomial Pat x = c. 
+Because this is true for any polynomial P and any linear divisor (x — ¢), 
+we have the remainder theorem. 
+Find the remainder when g(x) = 2x* + 5x2 — 8x + 3 is divided by x + 4 
+T 
+Solution 
+The linear polynomial x + 4 is equivalent to x — (—4). Applying the 
+remainder theorem, the required remainder is equal to the value of g(—4). 
+g9 =2(—4)3+5(-4)2 — 8(—4) + 3 
+=2(—64) + 5(16) + 32+ 3 
+= S D8 
+SO 
+13 
+Therefore, when the polynomial function g(x) is divided by x + 4 the 
+remainder is —13. 
+A consequence of the remainder theorem is the factor theorem, which also 
+follows intuitively from our discussion in the previous section about the zeros 
+and factors of quadratic functions. It formalises the relationship between zeros 
+and linear factors of all polynomial functions with real coefficients. 
+  
+It is important to understand that the factor theorem is a biconditional statement of the 
+form “A if and only if B”. Such a statement is true in either direction; that is, “if A then B’} 
+and also “if 
+B then A” — usually abbreviated A — Band B — A, respectively. 
+  
+Sum and product of the roots of any polynomial equation 
+In the previous section, we found a way to express the sum and product of the 
+roots of a quadratic equation, ax? + bx + ¢ = 0, in terms of @, b and c. It is 
+natural to wonder whether a similar method could be found for polynomial 
+equations of degree greater than two. 
+Using the same approach as in the previous section for quadratic equations, 
+let’s consider the general cubic equation ax* + bx? + cx + d = 0 whose roots 
+In the remainder 
+theorem, if a polynomial 
+function P(x) is divided 
+by (x — o), then the 
+remainder s the value 
+PO). 
+In the factor theorem, a 
+polynomial function Px) 
+hasa 
+factor (x — o) ifand 
+onlyif P(c) = 0. 
+75
+
+Functions 
+are x = a, x = Band x = . It follows that this general cubic equation can be 
+written in the form x3 + £ 2 + £ x + & = 0. Applying the factor theorem, 
+a 
+a 
+a 
+it can also be written in the form (x — a)(x — B)(x — y) = 0. Expanding the 
+brackets gives 
+(x—a)x— B)x— y) = % — o 
+— B’ — 1 + afix + Byx + ayx — afy 
+=0 
+B—(a+B+yx2+(af+Py+ayx—aBy=0 
+Equati 
+i 
+s, 
+b 
+o, 
+c 
+d_ 
+quating coefficients for x* + 7 x* + 
+2 x + 2 = 0and 
+x> = (a+ B+ y)x+ (e + By + ay)x — apy = 0 gives us the following 
+results for the sum and product of the roots for any cubic equation. 
+atpty=—Landapy=-2 
+This result for the sum and product of the roots of any cubic equation looks 
+very similar to that for any quadratic equation. The only difference is that the 
+constant term 
+product of the roots, afy, is the negative of the quotient —————— 
+leading coefficient 
+For the general quartic equation ax* + bx* + cx? + dx + e = 0 with roots 
+a, B, yand 6, the factored form of the equation expands as follows: 
+(x = a)(x 
+= B)(x = V)(x 
+— 9) 
+—xi—(a+ B+ y+ O+ (af+ay+ ad+ By + O+ Y)x — 
+(afy + afd + ayd + Byd) + afyd = 0 
+d 
+Since this is equivalent to x* + %Jﬁ + %xz +ax+ % = 0, then the sum and 
+) 
+i 
+__b 
+product of the roots for any quartic equationare o + B+ y + § = — 
+and 
+aPyd = %. 
+These results for the sum and product of roots for polynomial equations of degree 
+2 (quadratic), degree 3 (cubic) and degree 4 (quartic) lead to the following result 
+for any polynomial function of degree 7 that we state without a formal proof. 
+For the polynomial equation of degree n given by P(x) = @, x" + @, 
+x"~'+ -+ +a,x + a, =0, 
+(=1)"a 
+ay 
+(e 
+ay 
+Two roots of the equation x* — 3x2 + kx + 75 = 0 are opposite in sign. 
+Find the values of all the roots and the constant k. 
+4y, # 0, the sum of the roots is ——-— 
+and the product of the roots is 
+  
+ 
+
+| 
+Solution 
+Let the three unknown roots be represented by @, —a and . 
+Thena—a+pB=3=B=3 
+and a(—a)B=—-75= a(—a)(3) = —75 
+S 
+=a?=25 
+Sa=*5 
+Therefore, the three roots are 5, —5 and 3. 
+To find the value of k, write the cubic in factored form and expand. 
+(X = +5)x—5H=0=(x—3)x2—25) 
+=0 
+B 
+S e b PO 
+Therefore, k = —25 
+Example 2.14 
+Consider the quartic equation 2x* + 3x* — 16x? + 15x — 4 = 0. Given that 
+the equation has a double root of x = 1, find the value of the other two roots. 
+] 
+Solution 
+There are other strategies, for example, using factors and polynomial 
+division, but it is more efficient to apply what we know about the sum and 
+product of the roots (zeros) of a polynomial equation. 
+Let x; and x, represent the two unknown roots. 
+  
+a 
+From the fact that the sum of the roots is — ;", EhenfIEERIEEaEE 
+= 7% 
+Thus, x; + x4 = = 
+| 
+Gz 
+4 
+Also, since the product of the roots is e then1-1-x;x, = = 
+n 
+Thus, x;x, = —2 
+X3+ x4 
+= 
+To find x; and x,, we need to solve the system of equations { 2 
+XXy = —2 
+Solving for x; in the first equation gives x; = —x, — % 
+Substituting into the other equation gives (*xA = % 
+Xy =1=2 
+@+ 
+2 
+-2=0 
+2x)?+7x,—4=0 
+(2%, — 1)(x, +4) =0 
+Xy = %orxA =—4 
+Ifx, = %, then x; = *% = % = —4.And, ifx, = —4, then x; = % 
+‘Therefore, the other two zeros are % and —4. 
+7
+
+78 
+Functions 
+28 
+8. 
+9. 
+10. 
+. In each question, two polynomials P and D are given. 
+Use long division to divide P(x) by D(x), and express P(x) in the form 
+P(x) = D(x) 
+- Qx) + R(x). 
+(@) P(x) =3x2+5x—5Dx)=x+3 
+(b) P(x) = 3x* —8x3+ 9x + 5,D(x) = x — 2 
+(RRGo=rra S x2S 
+D (o) e 
+(d) P(x) = 9x3 + 12x2 — 5x + 
+1, D(x) = 3x — 
+1 
+Given that x — 
+1 is a factor of the function 
+fx) = 2x3 — 17x% + 22x — 7, factorise f completely. 
+. Given that 2x + 
+1 is a factor of the function 
+flx) = 6x3 — 5x% — 12x — 4, factorise f completely. 
+. Given that x + % is a factor of the function 
+fix) = 3x* + 2x* — 36x2 + 24x + 32, factorise f completely. 
+. Find the quotient and the remainder for each rational expression. 
+  
+A md> 
+i s 
+G e Xt 
+@==3 
+® 
+x+2 
+O XSOk 
+> 
+Els 5 Uil 
+O 
+© B 
+© 
+bo 
+! 
+. Use the remainder theorem to find the remainder when P(x) is divided 
+by (x — c) for the given value of c. 
+(@) P(x) =2x> —3x2+4x— 
+7,c=2 
+(b) P(x) = x5 — 2x% + 3x2 — 20x + 3,c = —1 
+() Px) = 5x* + 30x® — 40x? + 36x + 14,c = —7 
+@ P =x—x+1Le=1+ 
+. Given that x = 2 is a double root of the polynomial x* — 5x* + 7x> — 4, 
+find all remaining zeros of the polynomial. 
+Find the values of k such that 3 is a zero of fix) = x* + x? + kx + 
+1. 
+Find the values of @ and b such that 1 and 4 are zeros of 
+fl) = 2x* — 5x3 — 14x> + ax + b, 
+Find a polynomial with real coefficients satisfying the given conditions. 
+(a) degree of 3; and zeros of —2, 1 and 4 
+(b) degree of 4; and zeros of —1, 3 (multiplicity of 2) and —2 
+(c) degree of 3; and 2 is the only zero (multiplicity of 3)
+
+ik, 
+12. 
+155 
+14. 
+153 
+16. 
+7 
+18. 
+16, 
+20. 
+218 
+22. 
+The polynomial 6x* + 7x? + ax + b has a remainder of 72 when divided 
+by (x — 2) and is exactly divisible (i.e. remainder is zero) by (x + 1). 
+(a) Find the values of @ and b. 
+(b) Show that (2x — 1) is also a factor of the polynomial and, hence, 
+find the third factor. 
+The polynomial p(x) = (ax + b)* leaves a remainder of —1 when 
+divided by (x + 1), and a remainder of 27 when divided by (x — 2). 
+Find the values of the real numbers a and b. 
+(x — 2) and (x + 2) are factors of x* + ax? + bx + ¢, and the remainder 
+is 10 when divided by (x — 3). Find the values of @, b and c. 
+When divided by (x + 2), the expression 5x> — 3x? + ax + 7 leaves 
+a remainder of R. When the expression 4x> + ax? + 7x — 4 is divided 
+by (x + 2) there is a remainder of 2R. Find the value of the constant a. 
+Given that the roots of the equation x* — 19x> + bx — 216 = 0 are 
+consecutive terms in a geometric sequence, find the value of b and 
+solve the equation. 
+(a) Prove that when a polynomial P(x) is divided by (ax — b) the 
+remainder is P( b) 3 
+a 
+(b) Hence find the remainder when 9x* — x + 5 is divided by (3x + 2). 
+Find the sum and product of the roots of the following equations. 
+() x4—§x3+3x2—2x+5:0 
+(D)RCeE=2) =R e 
+30 
+oxr—x 
+© Bk 2D R 
+  
+If @, Band y are the three roots of the cubic equation 
+ax® + bx® 
++ cx + d = 0, show that a + ay + By = & 
+One of the zeros of the equation x* — 63x + 162 = 0 is twice that of 
+one of the other zeros. Find all three zeros. 
+Find the three zeros of the equation x* — 6x? — 24x + 64 = 0 given 
+For question 
+20, let the 
+‘ 
+5 
+. 
+zeros be represented by 
+that they are consecutive terms in a geometric sequence. 
+a 
+%> @ arwhereris the 
+Find the value of k such that the zeros of the equation 
+common ratio. 
+x* — 6x% + kx + 10 = 0 are in an arithmetic progression; that is, 
+they can be represented by @,  + d and a + 2d for some constant d. 
+For question 21, use the 
+result from question 20. 
+o 
+Find the value of k if the roots of the equation x* + x? + 2x + k =0 
+are in geometric progression. 
+79
+
+A fraction is zero only if 
+its numerator is zero. 
+80 
+Functions 
+Rational functions 
+Another important category of functions is rational functions, which are 
+functions in the form R(x) = % where fand g are polynomials and the 
+domain of the function R is the set of all real numbers except the real zeros of 
+polynomial g in the denominator. Some examples of rational functions are: 
+  
+=l 
+2 
+= 
+e 
+A [ 
+The domain of p excludes x = 5, and the domain of g excludes x = —3 and 
+x = 1. The domain of r is all real numbers because the polynomial x> + 
+1 
+has no real zeros. 
+Find the domain and range of h(x) 
+. Sketch the graph of h. 
+  
+Solution 
+Because the denominator is zero when x = 2, the domain of 4 is all real 
+numbers except x = 2, i.e. x € R, x # 2. Determining the range of the 
+function is a little less straightforward. It is clear that the function could 
+never take on a value of zero because that will only occur if the numerator 
+is zero. And since the denominator can have any value except zero it seems 
+that the function values of h could be any real number except zero. To 
+confirm this and to determine the behaviour of the function (and shape of 
+the graph), some values of the domain and range (pairs of coordinates) are 
+displayed in the tables. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x approaches 2 from the left 
+x approaches 2 from the right 
+b 
+h(x) 
+x 
+h(x) 
+—98 
+—0.01 
+102 
+0.01 
+&5l 
+S0 
+12 
+0.1 
+0 
+=05 
+4 
+0.5 
+3 
+=3 
+3 
+1 
+15 
+=2 
+25! 
+2 
+i 
+=10 
+201! 
+10 
+1.99 
+—100 
+2.01 
+100 
+1999 | —1000 
+2.001 
+1000 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+The values in the tables provide clear 
+vertical 
+evidence that the range of h is all real 
+7 f):'mzpme 
+numbers except zero, i.e. h(x) € R, h(x) # 0. 
+: 
+The values in the tables also show that as 
+x — —00, h(x) — 0 from below 
+(sometimes written h(x) — 0~) and as 
+x — +00, h(x) — 0 from above 
+(h(x) — 07). It follows that the line with 
+equation y = 0 (the x-axis) is a horizontal 
+asymptote for the graph of h. As x — 2 
+from the left (sometimes written x — 27), 
+h(x) appears to decrease without bound, 
+whereas as x — 2 from the right (x — 2%), 
+h(x) appears to increase without bound. 
+horizontal 
+This indicates that the graph of h will have a 
+ii::“;‘i o 
+vertical asymptote at x = 2. This behaviour 
+| 
+is confirmed by the graph of h. 
+      
+The line y = cis a horizontal asymptote of the graph of the function fif 
+at least one of the 
+following statements are true: 
+« asx— +oo, thenfix) 
+— ¢+ 
+« asx— —oo, then fix) — ¢ * 
++ asx — +00, then fix) — ¢~ 
++ asx — —oo, then fx) — ¢~ 
+‘The line x = d is a vertical asymptote of the graph of the function fif at least one of the following 
+statements are true: 
+« asx—d*, 
+then fx) — +00 
+« asx—d*, 
+then fr) — —oc 
+« asx—d~, thenfx) — +o0 
+« asx—d-, thenfix) — —oc0 
+Example 2.16 
+3= 12 g1 otch the graph of fand identify 
+x> +3x—4 
+any asymptotes and any x- or y-intercepts. Use your sketch to confirm the 
+domain and range of the function. 
+Consider the function fix) = 
+| 
+Solution 
+First, completely factorise both the numerator and denominator. 
+3x2=120 
+" 30 
+2)(x—2) 
+UG 
+e 
+e ) 
+The x-intercepts will occur where the numerator is zero. Hence, the 
+x-intercepts are (—2, 0) and (2, 0). A y-intercept will occur when x = 0. 
+_30(=2) 
+fO=Fe 
+= 3, so the y-intercept is (0, 3) 
+81
+
+The further the number n 
+is from 0, the closer 
+the number Lis t0 0. 
+Conversely, the closer the 
+number 7 is to 0, the 
+further the number Lis 
+from 0. These facts 
+can be expressed 
+mathematically using 
+the concept of a limit 
+expressed in limit 
+: 
+1 
+notationas: lim =0 
+andlim 
+1 = oo, 
+- 
+  
+  
+  
+  
+  
+ 
+  
+  
+   
+P 
+2092 
+[ 
+Figure 2.11 
+GDC 
+screen for 
+the solution to 
+Example 2.16 
+82 
+Functions 
+Any vertical asymptote will occur where the denominator is zero, that is, 
+where the function is undefined. From the factored form of f we see that 
+the vertical asymptotes are x = 
+1 and x = —4. We need to determine if the 
+graph of f goes down (fix) — —0oc) or goes up (f(x) — 00) on either side of 
+each vertical asymptote. It's easiest to do this by simply analysing what the 
+sign of h will be as x approaches 1 and —4 from both the left and right. 
+For example, as x — 1~ we can use a test value close to and to the left of 1 
+(e.g. x = 0.9) to check whether f(x) is positive or negative to the left of 1. 
+S(09EF2) (002 
+NGRS 
+fo = 
+hesTd 
+T o 
+  O 
+aS 
+eI 
+then fix) — +o0 (rises) 
+Asx — 1" we use a test value close to and to the right of 1 (e.g. x = 1.1) to 
+check whether f(x) is positive or negative to the right of 1. 
+SNER) (NS 
+INGR) ) 
+=i nai+s T o® 
+  = e W= pose= il 
+then fix) — —oo (falls) 
+Conducting similar analysis for the vertical asymptote of x = —4 produces: 
+—4.1+2)(—4.1— 
+-)(— 
+fp= 
+AL 
+D410 
+)(7;:>f(x)>0$x%74,) 
+(—4.1-1D(—41+4) 
+G 
+then fix) — +o0 (rises) 
+(394 D(-39-2) 
+(- 
+S = 
+= DEaor D T oD 
+  = fl) <0=x— 
+—4%, 
+then fix) — —oo (falls) 
+A horizontal asymptote (if it exists) is the value that f(x) approaches as 
+x — *o0. To find this value, we divide both the numerator and denominator 
+by the highest power of x that appears in the denominator (x? for function f). 
+BRI 
+Hence, the horizontal asymptote is y = 3. 
+As we know the behaviour (rising or falling) of the function on either side 
+of each vertical asymptote and that the graph will approach the horizontal 
+asymptote as x — *00, an accurate sketch can be made, as shown.
+
+Because the zeros of the polynomial in the denominator are x = 
+1 and 
+x = —4, the domain of fis all real numbers except 1 and —4. From our 
+analysis and from the sketch of the graph, it is clear that between x = —4 
+and x = 
+1 the function takes on all values from —oc to + o0, therefore the 
+range of fis all real numbers. 
+We are in the habit of cancelling factors in algebraic expressions, such as 
+=1 _ &+ D=1 _ x+1 
+2T 
+  
+x— 
+x2=1 
+  
+However, the function f(x) = 
+and the function g(x) = x + 
+1 are not the 
+12 
+1.—1 
+is undefined, and g(1) = 
+1 + 
+1 = 2. So, 1 is not in the domain of fbut is in 
+the domain of g. As we might expect, the graphs of the two functions appear 
+identical, but upon closer inspection it is clear that there is a ‘hole’ (point 
+discontinuity) in the graph of fat the point (1, 2). Thus, fis a discontinuous 
+function, but the polynomial function g is continuous. f and g are different 
+functions. (see Figure 2.12) 
+       
+  
+same function. The difference occurs when x = 1. A1) = 
+%, which 
+Try graphing 
+=2 =L onyour 
+GDC and zooming in 
+closely to the region 
+around the point (1, 2). 
+Can you see the hole? 
+  
+  
+  
+In working with rational functions, we often assume that every linear factor 
+that appears in both the numerator and in the denominator has been cancelled. 
+() 
+Therefore, for a rational function in the form g(_x)’ we can usually assume that 
+the polynomial functions fand g have no common factors. 
+Example 2.17 
+  
+2N 
+Find any asymptotes for the function p(x) = %49 
+e 
+Solution 
+The denominator is zero when x = 4, thus the line with equation x = 4is a 
+vertical asymptote. 
+83
+
+84 
+Functions 
+Although the numerator x? — 9 is not divisible by 
+x — 4, it does have a larger 
+degree. Some insight into the behaviour of function p may be gained by 
+dividing x — 4 into x> — 9. Since the degree of the numerator is one greater 
+than the degree of the denominator, the quotient will be a linear polynomial. 
+P(x) 
+R(x) 
+= 
+e 
+o 
+Qx) 
+o where Q and 
+R are the quotient and remainder, we can rewrite p(x) as a linear polynomial 
+plus a fraction. 
+  
+Recalling from the previous section that 
+Since the denominator is in the form (x — ¢) we can carry out the division 
+efficiently by means of long division. 
+  
+Xiin4 
+x— 4= F0x—9 
+A 
+x-9 
+Hence, p(x) = 
+=2 — x+ 4+ 
+22 
+= 
+4x — 16 
+7 
+  
+As x — *oq, the fraction 
+Z 
+7 — 0. This tells us about the end behaviour 
+= 
+of function p, namely that the graph of p will get closer and closer to the 
+line y = x + 4 as the values of x get further away from the origin. 
+Symbolically, this can be expressed as follows: as x — * 00, p(x) — x + 4. 
+We can graph both the rational function p(x) and the line y = x + 4ona 
+GDC to visually confirm our analysis. 
+  
+Plotl 
+Plot2 
+Plot3 
+\Y1E(X*2-9)/(X-4 
+\Y2@X+4 
+\Y3= 
+y=x+4 
+N 
+\Y5= 
+N 
+ 
+ 
+ 
+ 
+  
+If a line is an asymptote of a graph but is neither horizontal nor vertical, it is 
+called an oblique asymptote (sometimes called a slant asymptote). The graph 
+of any rational function of the form g(_xx)) where the degree of function fis one 
+more than the degree of function g will have an oblique asymptote. 
+Using Example 2.17 as a model, we can set out a general procedure for 
+analysing a rational function, leading to producing a sketch of its graph and 
+determining its domain and range.
+
+Analysing a rational function 
+x) 
+Rx) = ﬁ—x, given functions fand g have no common factors 
+8x) 
+1. 
+Factorise: Completely factorise both the numerator and denominator. 
+2. 
+Intercepts: A zero of fwill be a zero of 
+R and hence, an x-intercept of the 
+graph of R. The y-intercept is found by evaluating R(0). 
+3. 
+Vertical asymptotes: A zero of g will give the location of a vertical asymptote 
+(if any). Then perform a sign analysis to see if R(x) — +00 or R(x) — —00 
+on either side of each vertical asymptote. 
+4. 
+Horizontal asymptotes: Find the horizontal asymptote (if any) by dividing 
+both fand g by the highest power of 
+x that appears in g, and then letting 
+x— *oo. 
+5. 
+Oblique asymptotes: If the degree of g is one more than the degree of f, 
+then the graph of R will have an oblique asymptote. Divide g into fto find 
+the quotient Q(x) and the remainder. The oblique asymptote will be the line 
+with equation y = Q(x). 
+6. 
+Sketch of graph: Start by drawing dashed lines where the asymptotes are 
+located. Use the information about the intercepts, whether R(x) falls or 
+rises on either side of a vertical asymptote, and additional points as needed 
+to make an accurate sketch. 
+7. Domain and range: The domain of 
+R will be all real numbers except the 
+zeros of g. You need to study the graph carefully in order to determine the 
+range. Often, but not always (as in Example 2.15), the value of the function 
+at the horizontal asymptote will not be included in the range. 
+End behaviour of a rational function 
+Let R be the rational function given by 
+R _fw _axta, x4 Haxta, 
+800 
+Bxm+ by xm 
+L+ - tbyx + by 
+fand g have no common factors. Then the following holds true: 
+where functions 
+If n < m, then the x-axis (line y = 0) is a horizontal asymptote for the 
+graph of R. 
+ay 
+b 
+If n > m, then the graph of R has no horizontal asymptote. However, if the 
+degree of fis one more than the degree of g, then the graph of R will have 
+an oblique asymptote. 
+If n = m, then the line y = 
+™ is a horizontal asymptote for the graph of R. 
+85
+
+Functions 
+@ 
+1. 
+Sketch the graph of each rational function without the aid of your 
+GDC. On your sketch, clearly indicate any x- or y- intercepts and any 
+asymptotes (vertical, horizontal or oblique). Use your GDC to verify 
+86 
+  
+  
+your sketch. 
+@ fo=—> 
+() g0 =2 
+© ho =1=2 
+@ Ry =+ 
+© pw =2 
+() =21 
+® fr == 
+— 
+(h) oy =2 120 
+@) 
+g 
+% 
+G) Ceo = xf: ix 
+  
+  
+  
+2. 
+Use your GDC to sketch a graph of each function, and state the domain 
+and range of the function. 
+Do) 
+x+4 
+= 
+b 
+EOEC 
+(@) fon =2 
+) goo =1 
+-8 
+22t 
+© heo =%~ 
+@ ron 
+=22 
+3. 
+Use your GDC to sketch a graph of each function. Clearly label any 
+X- or y- intercepts and any asymptotes. 
+o> 
+Pl 
+= 
+) 
+= 
+R oy 
+R 
+= 
+_ 
+3x2 
+_ 
+1 
+R 
+D e 
+4. 
+Ifa, band careall positive, sketch the curve y = PR 
+s 
+for each of the following conditions: 
+G=bk =) 
+(@ a<b<c 
+(b)b<a<c 
+(©) b<c<a 
+5. 
+A drugis given to a patient and the concentration of the drug in the 
+bloodstream is carefully monitored. At time ¢ = 0 (in minutes after 
+patient received the drug), the concentration, C, in milligrams per litre 
+(mg/L) is given by the following function. 
+25t 
+2t 
+(a) Sketch a graph of the drug concentration (mg/L) versus time (min). 
+  
+Ci = 
+(b) When does the highest concentration of the drug occur, and what is it? 
+(c) What eventually happens to the concentration of the drug in the 
+patient’s bloodstream? 
+(d) How long does it take for the concentration to drop below 0.5 mg/L?
+
+Solving equations and inequalities 
+We have studied some approaches to analysing and solving polynomial 
+equations in this chapter. Some problems lead to equations with expressions 
+that are not polynomials, for example, expressions with radicals, fractions, 
+or absolute value. Problems in mathematics often involve inequalities rather 
+than equations. We need to be familiar with effective methods for solving 
+inequalities involving polynomials - and again, radicals, fractions, or 
+absolute value. 
+Equations involving a radical 
+Example 2.18 
+Solve for 
+x in the equation y3x + 6 = 2x + 
+1 
+| 
+Solution 
+Squaring both sides gives 3x + 6 = (2x + 1)? 
+3x+6=4x>+4x+1 
+4x2+x—5=0 
+Factorising (4x + 5)(x — 1) = 0 
+x:*EOl'XZI 
+4 
+Check both solutions in the original equation 
+5] 
+5 
+5 
+9 
+BN 
+) 
+S) 
+=2 
+N 
+e 
+= 
+(=2 
+S R 
+Whenx= 
+3, 3(=3) 
++6=2(-3) + 15 
+3=-3=3+ 
+3 
+:>x:7§isnotasolution. 
+1 
+Whenx =1,/3(1) + 6 =2(1) + 1=V9 =3=3 =3= x = listheonly 
+solution. 
+If two quantities are equal, for example a = b, then it is certainly true that 
+a? = b%and a® = b3, and so on. However, the converse is not necessarily true. 
+A simple example can illustrate this. 
+Consider the trivial equation x = 3. There is only one value of x that makes 
+the equation true - and that is 3. Now if we take this equation and square both 
+sides we transform it to the equation x> = 9. This transformed equation has 
+two solutions, 3 and —3, so it is not equivalent to the original equation. 
+By squaring both sides we gained an extra solution, often called an extraneous 
+solution, that satisfies the transformed equation but not the original equation as 
+occurred in Example 2.18. Whenever you raise both sides of an equation by a 
+power it is imperative that you check all solutions in the original equation. 
+Every solution of the 
+equationa = bisalsoa 
+solution of the equation 
+a™ = b", but it is not 
+necessarily true that 
+every solution of a” = b 
+is a solution of a = b. 
+87
+
+Functions 
+Example 
+2.19 
+Solve for x in the equation vV2x —3 —Vx +7 = 
+1 
+Solution 
+Squaring both sides of the original equation will produce a messy expression 
+on the left side, so it is better to rearrange the terms so that one side of the 
+equation contains only a single radical term. 
+V2x—3=2+Vx+7 
+(Vor=s) s OF = 
+)2 
+2x—3=4+4/x+7 +x+7 
+P 
+A T 
+(x =142 = (4/x +7)* 
+squaring both sides again to 
+eliminate the radical 
+x2 — 28x + 196 = 16(x + 7) 
+x2—44x+84=0 
+(x—2)(x—42)=0 
+Xx=2 or x =42 
+checking both solutions in the original equation 
+whenx=2,/2Q) —3£2+V2+7=>V1£2+/9=>1%5 
+Thus, x = 2 is not a solution. 
+when x = 42,/2(42) —3L2+ 
+V&2 + 7= VBT L2+ V49 =59=2+7 
+Thus, x = 42 is a solution. 
+‘We can verify the single solution of x = 42 using a GDC by graphing the 
+equation y = v2x — 3 
+— /x + 7 — 2 and looking for x-intercepts (zeros). 
+Since we are restricted to real number solutions, the smallest possible value for 
+x that can be substituted into the equation is % This helps determine a suitable 
+viewing window for the graph on the GDC. 
+  
+Plotl 
+Plot2 
+Plot3 
+Y1=J(2x-3)-J(X+7)-2 
+;Y1ZEI( 2X-3)—T(XH 
+  
+  
+  
+  
+  
+x=42 
+¥=0 
+  
+Figure 2.13 Verifying the single solution of x = 42 on a GDC 
+This verifies that x = 42 is the only solution to the equation 
+V2x—3 
+—Vx+7=2
+
+quations involving fraction 
+It is also possible for extraneous solutions to appear when solving equations 
+with fractions. 
+Example 2. 
+1 
+Find all real solutions of the equation A 
+), 
+solution(s) with a GDC. 
+  
+  = 3 and verify 
+Solution 
+Multiply both sides of the equation by the least common denominator of the 
+fractions, which is 4 — x2. 
+2 
++(2*x)(2+x)' 
+1 
+A 
+I 
+B 
+  
+=3(4 —x2) 
+  
+factorising 4 — x2 gives (2 — x)(2 + x) 
+D)o 
+=N | Do 
+w s 
+B 0==10] 
+(Be=15)(x=t2)i= 0 
+  
+  
+5 
+=2 
+= 
+x=jorx 
+Clearly x = —2 cannot be a solution because that would cause division by 
+zero in the original equation. 
+The GDC screen shows that the equation y = 2 
+1 
+_3pasan 
+e 
+oD 
+x-intercept at (g 
+4 0), confirming the solution x = g 
+quations in quadratic f 
+In Section 2.2 we covered methods of solving quadratic equations. As the three 
+previous examples illustrate, quadratic equations commonly appear in a range 
+of mathematical problems. The methods of solving quadratics can sometimes 
+be applied to other equations. An equation in the form at> + bt + ¢ = 0, where 
+t is an algebraic expression, is an equation in quadratic form. We can solve 
+such equations by substituting for the algebraic expression and then applying 
+an appropriate method for solving a quadratic equation. 
+Not only is it possible 
+to gain an extraneous 
+solution when solving 
+certain equations, it 
+isalso possible to lose 
+a correct solution by 
+incorrectly dividing both 
+sides of an equation by 
+a common factor. For 
+example, solve for x in 
+the equation 
+40 +2)2 = 3x(x + 2). 
+Dividing both sides by 
+(c+ 2) gives 4lx +2) = 
+3x=dr+8=13x 
+= x = —8. However, 
+there are two solutions, 
+x=—8andx=—2. 
+‘The solution of x = —2 
+was lost because a factor 
+of x + 2 was eliminated 
+from both sides of the 
+original equation. This 
+is a common error to be 
+avoided. 
+  
+T 
+22,1 
+e100- 220 Lo 
+i 
+Jueo 
+5 
+) 
+1 
+o 
+Figure 2.14 GDC screen for 
+the solution to Example 2.20 
+  
+  
+ 
+ 
+ 
+  
+89
+
+90 
+Functions 
+Find all real solutions of the equation 2m* — 5m? + 2 = 0 
+I 
+Solution 
+The equation can be written as 2(m?)? — 5(m?) + 2 = 0 showing it is 
+quadratic in terms of m?. 
+2m*—5m2+2=0 
+substitute ¢ for m? 
+DI 
+b 
+= () 
+Q=) =2)I= 0! 
+or m= 
+2 
+substituting m? for ¢ 
+Zorm==*y2 
+  
+Check the solutions (which are in two pairs of opposites) by substituting 
+them directly into the original equation. A value for m will be raised to the 
+4th and 2nd powers, thus we only need to check one value from each pair of 
+opposites. 
+whenm:g,Z(Q)A75(Q)2+2:0§2(i)75(%)+2:0 
+2 
+2 
+1.5 
+——=42= 
+=5=2 
+0 
+=0=0 
+whenm =2,2(/2)* = 5(/2)> +2=0=2(4) — 52) +2=0 
+=8-10+2=0 
+=0=0 
+Therefore, the solutions to the equation are m = g, 7%, V2 and —V2 
+A 4th degree polynomial equation in quadratic form 
+1 
+Find all solutions, expressed exactly, to the equation w2 = 4w 
+— 2 
+e 
+Solution 
+1 
+1 
+w2 —4wi+2=0 
+set the equation to zero 
+2 
+(w%) 
+- 4(w%) E2 =10 
+attempt to write in quadratic form 
+at? + bt +c=0
+
+2—4t+2=0 
+make appropriate substitution; in this 
+case, let w* =t 
+s GO 
+GO 
+() (@) 
+0 
+trinomial does not factorise; apply 
+quadratic formula 
+  
+  
+2+V2 
+substituting w# back in for f 
+w=02+V2)torw=02—2)* 
+(@+v2 
+orw= (2 -2 
+w=(6+4V2)*orw= (6 — 4/2)? 
+w 
+w =68 + 48 V2 ~~ 135.882 or w = 68 — 48 V2 ~ 0.117749 (approx. values 
+  
+ 
+found with GDC) 
+68+4872 
+68—48y2 
+135.882251 
+We will encounter 
+0.1177490061 
+equations in later 
+chapters — for 
+   
+example, equations 
+with logarithms and 
+It will be difficult to check these two solutions by substituting them directly 
+trigonometric functions 
+into the original equation as we did in Example 2.21. It will be more efficient 
+— that will be in 
+to use our GDC. 
+quadratic form. 
+&) 
+oo 
+i) 
+1.0 
+et et 
+Most GDC models have an equation solver. The main limitation of this GDC 
+feature is that it will usually return only approximate solutions. However, even 
+if exact solutions are required, approximate solutions from a GDC are still very 
+helpful as a check of the exact solutions obtained algebraically. 
+Equations involving absolute value 
+( 
+  
+dulus) 
+Equations involving absolute value occur in a range of different topics in 
+mathematics. To solve an equation containing one or more absolute value 
+expressions, we apply the definition that states that the absolute value of a real 
+number a, denoted by |al, is given by 
+{a 
+ifa=0 
+—a 
+ifa<o0 
+  
+|a| also has the geometric interpretation of being the distance between the 
+coordinate a and the origin on the real number line. 
+91
+
+92 
+Functions 
+Use an algebraic approach to solve the equation |2x + 7| = 13. Check any 
+solution(s) on a GDC. 
+Solution 
+The expression inside the absolute value symbols must be either 13 or —13, 
+50 2x + 7 equals 13 or —13. Hence, the given equation is satisfied if either 
+2607 
+= 13N or N 
+2x 
+7 = =3 
+2% =6 
+2x = —20 
+x=3 
+xi= =10 
+The solutions are x = 3 and x = —10 
+To check the solutions on a GDC, graph the equation y = [2x + 7| — 13 and 
+confirm that x = 3 and x = —10 are the x-intercepts of the graph. 
+Plotl Plotz 
+Plot3 
+[¥1=abs (2x+7)-13 
+[¥1=abs (2x+7)-13 
+\Y1gabs (2X+7)-13 
+\Y. 
+Y 
+\Y 
+\Y! 
+\Y6= 
+x=10 
+¥=0 
+X=3 
+¥=0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+The x-intercepts of the graph of y = [2x + 7| — 13 agree with the solutions 
+to the equation. 
+Example 2.24 
+  
+Find algebraically the solution(s) to the equation [2x — 3| = |7 — 3x|. 
+Check the solution(s) graphically. 
+Solution 
+There are four possibilities: 
+2 S N0 
+2h3=8 
+= =G/ = &) 
+= Qxts) = i3 
+—Ori=a) 
+= =/ =&k 
+The first and last equations are equivalent, and the second and third equations 
+are also equivalent. So, it is only necessary to solve the first two equations. 
+==Y =8y 
+G =85 
+= 
+= 
+) 
+o] 
+2x= 
+3 ==7 5 3% 
+X=72 
+4=x=> x=4 
+  
+To check, we can graph the equations 
+y1=12x — 3land y, = |7 — 3x| and confirm 
+that the x-coordinates of their points of 
+intersection agree with the solutions to the 
+TR 
+o 
+given equation. 
+[ 
+s 
+* 
+L4 
+4,5) 
+10x)=(2-x-3] 
+2(0=1-3x]| 
+  
+  
+  
+  
+
+Solving inequalities 
+Working with inequalities is very important for many of the topics in this 
+course. Four important properties for inequalities are given below. 
+For three real numbers a, band c: 
+« Ifa>bandb>c thena>c. 
+« Ifa>band 
+¢ > 0, then ac > bc. 
+« Ifa>band 
+¢ <0, then ac < bc. 
+« fa>bthena+c>b+c. 
+Quadratic inequalities 
+In the topics covered in this course, you will need to be as proficient with 
+solving inequalities as with solving equations. We have already solved some 
+simple linear inequalities, and here we will consider strategies for other 
+inequalities - particularly involving quadratic and absolute value expressions. 
+Find the values of x that solve the inequality x> > x 
+Solution 
+It is possible to determine the solution set to this inequality by a method 
+of trial and error, or simply using a mental process. That may be successful, 
+but generally speaking it is a good idea to attempt to find the solution set by 
+some algebraic method and then check, usually by means of a GDC. For this 
+example, it is tempting to consider dividing both sides by x, but that cannot 
+be done because it is not known whether x is positive or negative. Recall that 
+when multiplying or dividing both sides of an inequality by a negative number 
+it is necessary to reverse the inequality sign (3rd property of inequalities 
+listed above). Instead, a better approach is to place all terms on one side of the 
+inequality (with zero on the other side) and then try to factorise. 
+e 
+D 
+or x> 1, for Example 
+2= 
+2.25 comprises two 
+PN 
+intervalsthat 
+do not 
+intersect (disjoint). It 
+*x =1 >0 
+is incorrect to write the 
+solutionas 0 > x > 
+1, 
+oras 1 < x < 0.Both of 
+these formats imply that 
+the solution set consists 
+of the values of x between 
+0and 1, but that is not 
+the case. Only write the 
+Now analyse the signs of the two different factors in a ‘sign chart. 
+sign chart 
+x 
+- 
+0 
+i 
+: 
+* 
+ot 
+‘combined” inequality 
+-1 
+- 
+0 
+= 
+0+ 
+a<x<bifx>aand 
+] 
+i 
+x < bwhere the two 
+xx—1) 
++ 
+0 
+- 
+0+ 
+intervals are intersecting 
+between a and b. 
+93
+
+94 
+Functions 
+The sign chart indicates that the product of the two factors, x(x — 
+1), will be 
+positive when x is less than 0 or greater than 1. 
+Therefore, the solution setis x < 0 or x > 
+1. 
+Inequalities with quadratic polynomials arise in many different contexts. 
+Problems in which we need to analyse the value of the discriminant of a 
+quadratic equation will usually require us to solve a quadratic inequality, 
+as the next example illustrates. 
+Example 2.26 
+Given f(x) = 3kx?> — (k + 3)x + k — 2 = 0, find the range of values of 
+k for 
+which fhas no real zeros. 
+s 
+Solution 
+The quadratic function fwill have no real zeros when its discriminant is 
+negative. Since fis written in the form ax? + bx + ¢ = 0, then, in terms of 
+the parameter k, a = 3k, b = —(k + 3),and ¢ = k — 2. Substituting these 
+values into the discriminant, we have the inequality: 
+(=(k+3))2 = 4Bk — 2) <0 
+k> + 6k + 9 — 12k + 24k <0 
+& 1R300 0] 
+easier to factorise if leading coefficient is positive 
+  
+  
+  
+11k — 30k — 9> 0 
+multiply both sides by —1; reverse inequality sign 
+f o ~(530) = (307 — 40D _ 30 = /1296 _ 30 = 36 
+201D 
+2 
+2 
+30436 _ 66 _ 
+_30-3_ 
+_6__3 
+k=% 
+k=5 
+2. 
+1 
+ sign chart 
+T 
+3 
+sk 
+1k+3 
+- 
+o 
+o 
+I 
+= 
+(k+3)(k-3) 
++ 
+0 
+- 
+[ 
+The two rational zeros indicate 11k> — 30k — 9 could have been factorised 
+into (11k + 3)(k — 3) 
+The results of the sign chart indicate that the solution set to the inequality 
+(1k+3)k 
+=3 > 0isk 
+< —LLork>3. 
+Therefore, any value of 
+k such that k < —13—1 ork> 3 will 
+cause the function fto have no real zeros.
+
+Absolute value (modulus) inequalities 
+As mentioned before, absolute value can be used to indicate distance on the 
+number line. For example, the equation |x| = 3 means that some number x is 
+a distance of 3 units from the origin. The two solutions to this equation are 
+x =3 and x = —3. Consequently, the inequality |x| < 3 means that x lies at 
+most 3 units from the origin, as shown in Figure 2.15. 
+3 units 
+3 units 
+  
+-4 
+-3 
+-2 
+-1 
+0 
+1 
+2 
+3 
+4 
+Figure 2.15 Graph of solution set for [x| < 3 
+This means that x lies between —3 and 3, that is, —3 < x < 3. Similarly, the 
+inequality |x| > 3 means that x lies 3 or more units from the origin. This occurs 
+if 
+x is to the left of —3 (that is, x < —3) or if x lies to the right of 
+3 (that is, x > 3). 
+Example 
+2.27 
+Solve for 
+x in the inequality |3x — 7| =8 
+Solution 
+Applying the second property for absolute value inequalities, we have 
+S =7/ = 
+ek = 7/ 2 
+3xs—lor3x=15 
+il 
+o= 
+O 
+=5 
+3 
+Therefore, the solution set is the union of two half-open intervals 
+X< 
+Al or x = 5, which can also be written in interval notation as 
+]*00,3*%] U [5, oo[. 
+Example 2.28 
+Find the values of x which satisfy the inequality |x_i4| <2 
+Solution 
+Applying the first property for absolute value inequalities gives 
+X 
+x+4 
+‘We cannot multiply both sides by x + 4 unless we take into account the two 
+different cases: 
+S 
+<2 
+  
+when x + 4 is positive (inequality is not reversed), and 
+when x + 4 is negative (inequality sign is reversed). 
+Properties of absolute 
+value inequalities 
+For any real numbers x 
+and csuch that ¢ > 0: 
+x| < cifand only if 
+—e<Xx=¢ 
+x| > cifand only if 
+X<C x> 
+¢ 
+95
+
+96 
+Functions 
+Instead, let’s solve the two inequalities in the ‘combined’ inequality separately 
+by rearranging so that zero is on one side, and then analyse where the 
+expression on the other side is zero, positive and negative. This is similar to 
+the approach used in Example 2.27. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+X 
+> -2 
+and 
+X _ <2 The word ‘and indicates 
+x+4 
+x+4 
+. 
+i 
+intersection 
+X 
+X 
+S22 =0 
+and 
+=72 
+x+4 
+x+4 
+N2 
+7 
+G IO 
+s 0 
+x+4 
+xt+4 
+xt+4 
+it 
+S 
+e I =52,y 
+xt+4 
+x4 
+vos 
+-4 
+3 
+-8 
+-4 
++ 
++ 
+x 
++ 
+t 
+x 
+x+8 
+- 
+1 
+- 
+0 
+4 
+-x-8 
++ 
+0 
+- 
+= 
+x+4 
+- 
+0 
+4+ 
++ 
+x+4 
+- 
+- 
+0 
+o+ 
+3x+8 
+) 
+—x-8 
+e 
+xea 0t 
+X - 
+x<*4ux>7§ 
+[l 
+=SBl 
+=t 
+-4 
+S0 
+-8 
+—4 
+n 
+The solution set for the original ‘combined’ inequality, —2 < 
+i 7 < 2 will 
+X 
+be the intersection of the solution sets of the two separate inequalities graphed 
+above on the number line. Thus, the solution set is x < —8 or x > 7%. 
+A graphical check using a GDC can be effectively performed by graphing the 
+equation y = ﬁ| — 2 and observing where the graph is below the x-axis. 
+The values of x for which this is true will correspond to the solution set for 
+the inequality |%4| <7 
+X 
+  
+Plotl 
+Plot2 
+Plot3 
+[Y1=abs (X/(x+4))-2 
+\%1Eabs(x/(x+4)) 
+  
+  
+   
+  
+  
+Y1=abs (X/(X+4))-2 
+  
+  
+ X=-2.666667 Y=0 
+ 
+
+Algebraic and 
+graphical methods 
+Example 2.29 
+Solve the inequality |x — 4] > 2[x — 7| 
+= 
+Solution 
+Method 1 - Algebraic 
+Ifa>0,b> 0anda = b, then a> = b 
+Since the expressions on both sides 
+must be positive, we can square both sides and remove the absolute value 
+signs. 
+x— 492> Q2(x — N)? 
+6 
+10 
+<—+—+—>x 
+x% — 8x + 16 > 4(x? — 14x + 49) 
+: 
+x=10 
+- 
+| 
+- 
+0 
++ 
+X2 — 8x + 16 > 4x? — 56x + 196 
+; 
+; 
+0>3x2 — 48x + 180 
+=6 
+- 
+0 
+4+ 
+1+ 
+0> x2— 16x + 60 
+E-100x-6 
++ 
+0 
+- 
+0 
++ 
+(Gl 
+0) (6= 
+0) 
+Therefore, the solution set is the open interval 6 < x < 10. 
+Method 2 - Graphical 
+‘We can graph the equations y, = |x — 4| and y, = 2|x — 7| and use a GDC 
+to determine for what values of x the graph of y, is above the graph of y,. 
+  
+  
+  
+Y1=Abs 
+(x—41] 
+$2=28bs ' (x-7) 
+~ \//'#/ 
+- 
+~ 
+[ 
+ISECT 
+[ 
+ISECT 
+x=6 
+v=2 
+=10 
+=6 
+ 
+ 
+ 
+  
+  
+The equation y, = 2|x — 7| has been graphed in a dashed style. By using the 
+‘intersect’ command on the GDC we find that the graph of y, is above the 
+graph of y, for 6 < x < 10. Therefore, the solution set is the open interval 
+GE= =l O} 
+Example 2.30 
+&% 
+Find the values of x such that %t 
+  
+  
+1 
+o 
+= 
+= 
+A 
+Sl 
+Solve algebraically. 
+97
+
+Functions 
+| 
+Solution 
+As applied in previous examples, an effective algebraic approach is to 
+rearrange the inequality so that both fractions are on the same side with zero 
+on the other side. Then, combine the two fractions into one fraction and 
+analyse where the fraction is zero, positive and negative. 
+  
+  
+PO 
+| 
+i) 
+x*lgo 
+x(x*l)*(x+8)<0 
+x+8)x—1) 
+) VO 
+<0 
+G 
+8) 
+) 
+Erae=24) 
+G+Ox—1 
+=B 
+=2 
+1 
+4 
+<—+——F+—F+—F+—>x 
+  
+2k 
+= | 
+= 
+0 
+L 
++ 
+x+8 
+—(i) 
++ 
++ 
++ 
++ 
+x—1 
+— 
+- 
+- 
+0 
++ 
++ 
+Therefore, — 
+£;when —8 <x= —2or1 < x < 4, which can also 
+spapk) 
+Ta=l 
+be expressed in interval notation as | =8, —2] U 
+] 1, 4] 
+1. Solve for x in each equation. If possible, find all real solutions and 
+express them exactly. If this is not possible, solve using your GDC and 
+approximate any solutions to 3 significant figures. Be sure to check 
+answers and to recognise any extraneous solutions. 
+  
+  
+  
+  
+(@ Vx+6+2x=9 
+(b) Vx+7+5=x 
+() 
+VIx+14—-2=x 
+(d) VORIt 
+=) 
+5 4 
+21 
+xt1 _5x—1 
+O e 
+O v3 
+773 
+| 
+2 
+1 
+N 
+O = 
+() x*—2x2—15=0 
+() 
+225 —x3—15=0 
+98
+
+£ 
+10. 
+(k) x6—35x3+216 
+=0 
+M 
+5x2—x1-2=0 
+  
+(m) 3x+4/=8 
+() Ix+ 6l = [3x — 24| 
+(0) 
+I5x+ 
+11 =2x 
+P lx—1U+Ix=3 
+x+1 
+_ 6 _ 
+(q)| 
+(DGt 
+(O 
+i 
+s e 
+et el 
+1) QR O 
+e 
+0 
+Oo2t 
+o 
+Qe Lo 2 
+() x—Vx+10=0 
+(v) 6x—37Vx 
++ 56 = 
+. Find the values of x that satisfy each inequality. 
+vl 
+Bzt 
+b) 
+——=>1 
+@ 3 
+x 
+®) == 
+(c) 
+2x%+8x=<120 
+d 1—4x1>7 
+(&) Ix— 31> lx— 14|    
+. Given f(x) = 3kx? — (k + 3)x + k — 2 = 0, find the range of values of k 
+for which fhas no real zeros. 
+. Find the values of p for which the equation px> — 3x + 1 = 0 has 
+(a) one real solution 
+ (b) two real solutions 
+ (c) no real solutions. 
+Given f(x) = x* + x(k — 1) + k2, find the range of values of k so that 
+flx) > 0 for all real values of x. 
+. Show that both of the following inequalities are true for all real numbers 
+m and n such that m > 0, n > 0. 
+@ m+i=2 
+() (m+n)(%+%)24 
+. Find all of the solutions exactly to the equation (x? + x)? = 5x* + 5x — 6 
+. If a, b and c are positive and unequal, show that 
+(GEbEe) 
+2= 8 (G 2 b2 
+) 
+. Find the values of x that solve each inequality. 
+) 
+g2ap il 
+  
+@) |2x 3 <1 
+     
+Provide a geometric or algebraic argument to show that 
+la + bl < lal + |bl forall 
+a, b € R. 
+99
+
+100 
+Functions 
+Partial fractions 
+In arithmetic, when we add fractions we find the least common denominator, 
+then multiply both the numerator and denominator of each term by what is 
+needed to complete the common denominator. For example: 
+SA_MEIS 
+D 
+7 3 
+21 
+21 
+  
+Reversing the process is called expressing each compound fraction as 
+partial fractions. Given, for example, the fraction % = %, we express 
+it as a sum of two fractions, one with denominator 3 and the other with 
+denominator 7. Hence the name partial fractions. 
+The process of finding the partial fractions is a straightforward process. 
+‘We write: 
+2 
+oy b and then we solve for two integers a and b. 
+3x7 
+3 
+7 
+29 
+a 
+b_7a+3b 
+et B 0 
+JA 
+T 0 
++3b= 
+Ix7 
+3tz 
+o 
+Terd=E® 
+Now by trial and error we can find that a = 2 and b = 5. Other answers are also 
+possible (—1, 12), (8, =9) ... 
+Notice the situation in the second example. The lowest common multiple 
+contains different powers of the same number. Consequently, when finding the 
+partial fractions decomposition, you need to consider that all powers less than 
+or equal to the highest one may be present. That is, when we set up the process 
+of decomposing % we set it up as: 
+34 _a 
+b, 
+c 
+7 
+277 9"3 
+And then we attempt to find the values of a, b, and c. 
+In algebra, we carry out that process on to addition of rational expressions. 
+Once again we multiply the numerator and denominator of each term by what 
+was missing from the denominator of that term. 
+Partial fractions decomposition 
+‘The method of partial fractions decomposition is extremely helpful in evaluating certain integrals 
+as you will see in the chapter on integral calculus. With partial fractions decomposition, we 
+are going to reverse the process and decompose a rational expression into two or more simpler 
+proper rational expressions. This s a very useful skill in which a single fraction with a factorisable 
+denominator is split into the sum of two or more fractions (partial fractions) whose denominators 
+are the factors of the original denominator. 
+l2x—1 
+For example: 12— L 
+axt = 5n   
+
+! 
+PEEEE5 
+6! 
+L] 
+Find the partial fraction decomposition of 
+Solution 
+s Ll, and hence we will attempt to find two numbers 
+EeZE 
+o e GR 
+( EED 
+) (o3 ) 
+‘@ and b suchthat 
+e 1000 — 
+G W 
+b 
+X+5c+6 x+2 
+x+3 
+  
+  
+Notice that we wrote this as an identity rather than an equality because it has 
+to be true for all values of x. 
+x+1 
+__a 
+b 
+_ak+3)+bkx+2) 
+CZE 
+o TGN 
+k! 
+(x+2)(x+3) 
+  
+  
+Since the denominators of these identical fractions are the same, their 
+numerators must also be the same. That is, 
+BEEIESTE 
+CoE S EED 6 
+0) 
+‘We have two methods of solution here. 
+Method 1 
+b=t 
+(s 
+b OB R 
+= (gE e b) 
+(B2 
+b) 
+For two polynomials to be identical, the coefficients of the same powers 
+must be the same; that is, the coefficient of x on the left must be the same as 
+the coefficient of x on the right, and similarly with the constant terms. Hence 
+1=a+ band 1 = 3a + 2b. Now, solving the system with two equations will 
+yield, a = —1 and b = 2 and hence 
+  
+@Al 
+o 
+=il 
+X2 +5c 6 T x+2 
+x+3 
+Method 
+2 
+x+1=alx+3) + blx +2) 
+Again, since this is an identity, the two sides must be the same for any choice 
+of x. Hence, we can substitute any two numbers for x to get the value of each 
+of a and b; specifically replacing x with —3 yields: 
+xtl=ax+3)+bx+2)=-2=-b=b=2 
+Notice how the choice of —3 eliminated the term with a and allowed us to 
+find b directly. Replacing x with —2 yields: 
+sl = O 
+SR (B 
+= 
+Sl =g 
+This is of course the same result as above. Also notice here how the choice of 
+—2 eliminated the term with b and allowed us to find a directly. 
+Note: This method is helpful in cases where there are no repeated factors, 
+and is faster whenever applicable. We will discuss this in more detail later. 
+101
+
+102 
+Functions 
+5x2 + 16x 
++ 17 
+23+ 9x2+7x— 6 
+| 
+Solution 
+5x2+16x+17 
+_ 
+ 5x2+16x+17 
+_ 
+a 
+b 
+G 
+23+ 9x2+7x—6 Qx—Dx+2)(x+3) 2x—1 
+x+2 
+x+3 
+Decompose the rational expression 
+into partial fractions. 
+  
+Method 1 
+5L 
+E 
+Ve 
+12 GRE) R 
+B b 
+ES 
+) GEEO) EIc Dl (PRI ) 
+=l(att= 2b-£2c)x2-1(56 
++5b £ 3c)x 
+- 6a—3b—2¢c 
+This will lead to the following system: 
+at2b+2c=5 
+SaElE5h 
+16 
+6a —3b—2c=17 
+  
+Using any method of our choice for solving systems of equations, we should 
+havea = 3,b = —1, ¢ = 2 and hence: 
+5 
+ke il 6 1 74 
+B 
+1 
+o 
+2 
+R RO ZEETEc 6 M) v T 
+ML) B 
+v E 3 
+  
+  
+  
+Method 
+2 
+5x2 
++ 16x + 17 = alx + 2)(x + 3) + b(2x — D(x + 3) + c2x 
+— D(x + 2) 
+XSS 
+S5 =S Shi= bl 
+x==3=14=Tc—>c=12 
+i 
+105 _ 35 
+i 
+  
+a=>a=3 
+   
+Partial fraction decomposition works only for proper rational expressions; 
+that is, the degree of the numerator must be less than the degree of the 
+denominator. If not, we must perform long division first, then perform the 
+partial fraction decomposition on the rational part (the remainder over the 
+divisor). After we have done the partial fraction decomposition, we just add 
+back in the quotient part from the long division. 
+Linear factors: The partial fractions that we are decomposing the rational 
+expression into must be proper. Hence, in each partial fraction, when the 
+denominator is linear, the only thing that can be in the numerator is a constant. 
+So, for every linear factor in the denominator, we will need a constant over that 
+in the numerator. See Example 2.31 and Example 2.32. 
+Repeated linear factors: If the denominator of the rational expression contains 
+repeated linear factors, then, following our discussion in the introduction, the 
+process is as follows: 
+‘We need to include a factor in the expansion for each power possible. For 
+example, if we have (x — 1)°, we will need to include (x — 1), (x — 1)%, and
+
+(x — 1) Each of those (x — 1) factors would have a constant term in the 
+numerator because (x — 1) is linear, no matter what power it is raised to. 
+For example: 
+  
+  
+13x3 —62x2+ 101x =58 _ 
+ a 
+4 
+b 
+Ly 
+d 
+x—-D¥2x—5 
+-1 
+&-D? 
+x-1 
+2x-5 
+Irreducible quadratic factors: If the rational expression we are decomposing 
+In examinations, 
+contains irreducible quadratic factors in the denominator, then the numerator 
+the denominator of 
+could have a linear term and/or a constant term. So, for every irreducible 
+i fraction (o b 
+° 
+: 
+’ 
+: 
+N 
+decomposed into partial 
+quadratic factor in the denominator, we will need a linear term and a constant 
+T 
+term in the numerator. 
+a degree greater than 3, 
+s 
+s 
+and the degree of the 
+Forexample; TS0 
+H 152 —26x+33__a 
+b, c+d 
+el 
+(x — D(2x2 + 5) 
+x—1D2 
+x—1 
+2x2+5 
+than the degree 
+of the 
+denominator. 
+Note: It may turn out that any of the numbers a, b, , or d is zero. 
+Write =22 =L 
+45 the sum of partial fractions. 
+x2+4x+4 
+L] 
+Solution 
+The first step is to factorise the denominator. 
+x2+4x+4=(x+2)? 
+thedenominator has a repeated linear factor 
+DXl 
+| 
+O 
+| 
+xXtax+4 
+(x+2)? 
+Because there are two (i.e. repeated) linear factors of x + 2 in the 
+denominator of the original rational expression, then it must have a partial 
+fraction with a denominator of (x + 2)2 and it may also have a partial 
+fraction with a denominator of x + 2. 
+So, we are looking for constants A and B such that 
+-1 
+_ 
+A 
+B 
++22  x+t2 
+(x+2)? 
+  
+Multiplying both sides of the identity by (x + 2)? gives 
+SE 
+A Gt 
+0) BB 
+Essentially the task is to find the unique values of A and B such that this 
+equation is an identity, i.e. it is true for all values of x (all values of x for 
+which the original fraction is defined, in this case x # —2). However, as 
+you may recall, the cover-up method allows us to choose helpful values of 
+x including such numbers. For example, in this case, if x = —2 then A is 
+eliminated and the value of B can be found directly. 
+lLciied = =2p ek 
+= 1l = 2\e=k 9) S = 4=0)) = 
+=B=-7 
+  
+=A-0+B 
+103
+
+104 
+Therefore, 
+Functions 
+e =08 
+VA (Chia ) BB = S 
+RIOE S SR 
+=24 
+Sy e 
+-1 
+_ 
+3 
+__ 
+7 
+Craxta 
+x+2 
+(x+2)? 
+  
+  
+  
+1. Decompose each rational expression into partial fractions. 
+  
+  
+  
+  
+  
+  
+®Fa 
+O 
+© T 
+R e 
+® s 
+Omno 
+Oy 
+0 ﬁ 
+® x’i 5 
+o 
+xfi :x 
+o 
+o e 
+© 
+e 
+Chapter 2 practice questions 
+1. Solve for 
+x in the equation x> — (a + 3b)x + 3ab = 0 
+2. Find the values of x that solve this inequality: 
+  
+3x*2+324x;1 
+5 
+3. Find the value of ¢ such that the vertex of the parabola y = 3x2 — 8x + ¢ 
+s(5-3) 
+4. The quadratic function f(x) = ax* + bx + ¢ has the following 
+characteristics: 
+« 
+passes through the point (2, 4) 
+« 
+has a maximum value of 6 when x = 4 
+o hasazeroofx =4 +2/3 
+Find the values of 4, band c. 
+5. If the roots of the equation x* + 5x* + px + g = O are w, 2w and @ + 3, 
+find the values of , p and q. 
+6. Find all values of m such that the equation mx? — 2(m + 2)x + m +2 =0 
+(a) has two real roots 
+(b) has two real roots (one positive and one negative).
+
+10. 
+11 
+12. 
+138 
+14. 
+158 
+16. 
+173 
+18. 
+9% 
+20. 
+217 
+. x — Land x + 1 are factors of the polynomial x* + ax? + bx + ¢, and 
+the polynomial has a remainder of 12 when divided by x — 2. Find the 
+values of a, b and c. 
+. Solve the inequality |x| < 5lx — 6] 
+. Find the range of values for k in order for the equation 
+2x2 + (3 — k)x + k + 3 = 0 to have two imaginary solutions. 
+2 
+Consider the rational function f(x) = 2X- R8T 
+b PR 
+ce 
+D 
+a) 
+Writ 
+in 
+the 
+f 
+—— 
+(a) Write f(x) in 
+the form a T 
+(b) State the values of (i) xETx fix), and (ii) xggnm fix). 
+(c) State the coordinates of the minimum point on the graph of f(x). 
+. Find the values of k so that the equation (k — 2)x2 + 4x — 2k + 
+1 =0 
+has two distinct real roots. 
+When the function f(x) = 6x* + 11x* — 22x* + ax + 6 is divided by 
+(x + 1), the remainder is —20. Find the value of a. 
+The polynomial p(x) — (ax + b)? leaves a remainder of —1 when 
+divided by (x + 1), and a remainder of 27 when divided by (x — 2). 
+Find the values of the real numbers a and b. 
+The polynomial flx) = x* + 3x> + ax + b leaves the same remainder 
+when divided by (x — 2) as when divided by (x + 1). Find the value of a. 
+When the polynomial x* + ax + 3 is divided by (x — 1), the remainder 
+is 8. Find the value of a. 
+The polynomial x* + ax? — 3x + b is divisible by (x — 2) and has a 
+remainder 6 when divided by (x + 1). Find the value of @ and of b. 
+The polynomial 
+x*> — 4x + 3 is a factor of x* + (a — 4)x* + (3 — 4a)x + 3. 
+Calculate the value of the constant a. 
+Consider f(x) = x> — 2x? — 5x + k. Find the value of 
+k if (x + 2) isa 
+factor of f(x). 
+The equation kx> — 3x + (k + 2) = 0 has two distinct real roots. 
+Find the set of possible values of k. 
+Consider the equation (1 + 2k)x> — 10x + k —2=0,k € R. 
+Find the set of values of k for which the equation has real roots. 
+Find the range of values of m such that for all x the inequality m(x + 1) < x* 
+is true. 
+1056
+
+106 
+Functions 
+22. 
+23. 
+24. 
+5% 
+26. 
+27 
+28. 
+29. 
+30. 
+. Find all values of x that satisfy the inequality 
+Find the values of x for which |5 — 3x| < |x + 
+1| 
+B 
+5 
+B 
+o 
+Solve the inequality x> — 4 + 7 <0 
+Solve the inequality [x — 2| = [2x + 1] 
+ki) 
+x—4 
+Find the set of values of x such that f{x) < g(x). 
+  
+  
+Letﬂx):ii?,xzflandg(x): 
+,x=4 
+Solve the inequality |%| <2 
+e 
+R 
+[l 
+  
+5 
+Express the fraction —2ZX=5 
+_ 6 the sum of two fractions. 
+PO o) 
+2x—48 
+_ 
+A 
+      
+   
+  
+  
+Given that 
+= 
+, find the values of A and B. 
+P2t ON 
+5 
+Write 
+- as the sum of partial fractions. 
+(i) 
+)

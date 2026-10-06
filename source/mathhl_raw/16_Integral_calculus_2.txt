@@ -1,0 +1,3910 @@
+Al 
+0 
+= 
+B 
+= 
+) 
+o 
+‘© 
+N 
+o 
+O 
+-+ 
+=  
+
+836 
+Integral calculus 2 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+o 
+first order differential equations: 
+o finding numerical solutions of differential equations using Euler’s 
+method 
+o solving variables separable differential equations 
+o solving homogeneous differential equations 
+o solving linear differential equations including the use of integrating 
+factors 
+o 
+Maclaurin series to obtain expansions for e, sin x, cos x, In(1 + x), and 
+(1+x),nEQ 
+o 
+simple substitution, products, integration, and differentiation to obtain 
+other series 
+o Maclaurin series developed from differential equations. 
+Possibly one of the most significant applications of calculus is differential 
+equations. Scientists often use calculus to find solutions for differential equations 
+that have arisen in the process of modelling some phenomenon that they are 
+studying. For example, one model for the growth of a population is based on the 
+assumption that the population grows at a rate proportional to the size of the 
+population. It is a sensible assumption for a population of bacteria or animals 
+under ideal conditions to follow an equation such as % = kP, where t stands 
+for time and P for the number of individuals, bacteria, or animals at any time t. 
+Although it is often impossible to find an explicit formula for the solution of 
+a differential equation, we will see that graphical and numerical approaches 
+provide the necessary information too. 
+In this chapter, you will study equations involving an unknown function and 
+its derivative(s). These are called differential equations. Differential equations 
+come in a wide variety of forms, and many different procedures - analytical, 
+graphical and numerical - exist for finding their solutions. 
+Differential equations 
+In general, a differential equation is an equation that contains an unknown 
+function and one or more of its derivatives. The order of a differential equation 
+is the order of the highest derivative that occurs in the equation. A first order 
+differential equation is an equation that involves an unknown function and its 
+first derivative. For example, when we consider any of the differential equations 
+Y =xby +2ay= sint,2:y+2x,or%: ky 
+dx 
+dr 
+it is understood that y is an unknown function of x or t.
+
+Here are some examples: 
+  
+Y oy 
+oy = 
+first 
+order differential 
+equati 
+F( 
+dy) 
+0 
+Lty 
+—y= 
+t 
+t 
+i 
+S 
+PR 
+rst order 
+differential equation 
+Ve 
+&2y 
+dy 
+) 
+) 
+) 
+dy &’y 
+—=+3=—-5y=0 
+second order differential equation 
+Flxy,——=]=0 
+dx? 
+dx 
+dx’ dx? 
+oo 
+) 
+. 
+: 
+& 
+% + ysint — et = 0 
+first order differential equation 
+F(t, V) 
+= 
+For this course, we only study first order differential equations. In a first order 
+d; 
+differential equation, the first derivative, d—y, of the unknown function can be 
+x 
+isolated on one side of the equation. Hence, a simpler general form for first 
+order differential equations is 
+d 
+— = Fax, 
+5= 
+Fey) 
+. 
+ons 
+where ol expressed as a function in terms of x and y. Note that the first order 
+differential equations can all be rewritten in this form. For example, 
+. 
+Y 
+y_ 
+v 
+Xty —y=0= 2= 
+& a7 
+& 
+xty 
+Solution of a differential equation 
+A function fis called a solution of a differential equation if the equation is 
+In algebra, we usually 
+satisfied for all values of x in some interval when y = fix) and its derivatives are 
+seek the unknown 
+o 
+) 
+1 
+) 
+variable values that 
+substituted into the equation. Thus, y = fix) = x — 1 is a solution of 
+satisfy 
+an equation such 
+ly 
+as3x* 
+— 2x — 5=0. 
+x—=+ y = 2x over the set of non-zero real numbers. 
+By contrast, in solving 
+a differential equation, 
+dy 
+i 
+i 
+1 
+i 
+i 
+we are looking for the 
+Since—=1+— = x(l + —) +x—<-=x+=+x—— = 2x and thus 
+unknown functions 
+dx 
+x* 
+X2 
+x 
+x 
+* 
+y = 
+) for which 
+an 
+dy 
+identity such as 
+x—=+ y = 2x for all values over this interval. 
+Y0 = 3x%, yox) holds 
+dx 
+on someinterval of real 
+numbers, Usually, we 
+want to find all solutions 
+SRR 
+of the differential 
+equation, if achievable. 
+\:‘| 
+Verify that yx) = Ce*" is a solution to the differential equation T 3x2y 
+Solution 
+Since Cis a constant in y(x) = Ce*’, then 
+d; 
+Ey = CB3x2e¥) = 3x%Ce®) = 3x2y 
+837
+
+A differential equation 
+‘may use symbols for 
+the independent and 
+dependent variables 
+other than xand . For 
+simplicity, we will use 
+xand y while we are 
+developing theory and 
+solution methods for 
+differential equations. 
+Also note that we are 
+using Fto representa 
+two-variable function 
+that when set equal 
+1« 
+9, 
+the 
+differential 
+o 
+is 
+the 
+differenti 
+equation, and fto 
+represent the unknown 
+function whose slope at 
+the 
+point 
+_i}’ 
+e point 
+(5, i 
+838 
+Consequently, every function y(x) of the form y(x) = Ce*’ satisfies - and 
+d; 
+thus is a solution of - the given differential equation Ey = 3x?y for all real x. 
+In fact, yx) = Ce*’ defines an 
+7, 
+infinite family of different solutions 
+g: 
+to this differential equation, one 
+74 
+64 
+for each choice of the arbitrary 
+constant C, as shown in the 
+diagram. 
+  
+—id 
+=] 
+e 
+| 
+—84 
+o  
+Example 16.2 
+Verifyd that y(x) = 7#15 a solution to the differential equation 
+y 
+= =3 
+342 
+a7 
+over the interval 
+] —oo, oco. 
+- 
+. . . - 
+| 
+Solution 
+Note that the denominator in y(x) is never zero and that y(x) is differentiable 
+everywhere. Furthermore, for all real numbers x 
+=t L) 
+3(,;)2: 
+3 
+WO 
+) 
+e 
+N\ 
+2mrs) 
+O 
+Thus yx) = — 
+is a solution to the given differential equation. 
+Pk 
+Example 16.3 
+The solution of a differential equation is the (initially unknown) function 
+d; 
+y = fix) whose derivative is d_{c Find a solution to the differential equation 
+& 
+dx 
+x+1 
+  s, x#—1
+
+Solution 
+  
+Every solution of this equation is an anti-derivative of = i 1 
+i 
+= 
+— 
+y—fx+ldx 
+In el 
+EE 
+=l 
+So, the solution of the differential equation 
+y_ 
+1 
+A x+1 
+y = Inlx + 1| + ¢, where c is an arbitrary 
+constant. This is called a general solution 
+because it is not a single function, but an 
+infinite ‘family’ of functions dependent on 
+the constant c. The diagram shows some 
+members of the family of solutions. 
+  is the explicitly defined function 
+  
+y=In|x+1]+c¢ 
+When applying differential equations, we are usually not as interested in finding 
+e 
+a family of solutions (the general solution) as we are in finding a solution that 
+find the explicit solution 
+satisfies some additional requirement. In many physical problems we need to 
+"f? djﬁéretr:iaé equation 
+: 
+i 
+o 
+o 
+tt 
+find the particular solution that satisfies a condition of the form y(xg) = y,. 
+;”:‘ ;2)‘?'*;:}?: 
+This is called an initial condition, and the problem of finding a solution of the 
+aknown function. 
+differential equation that satisfies the initial condition is called an initial-value 
+H"W‘""x‘:l‘ is Sﬂl’flmimes 
+problem. For instance, in Example 16.3, if we are given the initial conditions 
+;:;‘;‘;Zb;uzh::: 
+that y = 5 when x = 0 then we can solve for ¢, giving ¢ = 5 and the particular 
+we must settle for an 
+solution of y = In|x + 1| + 5 
+implicit solution written 
+in the form g(y) = fi) 
+Sometimes the solution of a differential equation will be expressed as an 
+where gand fare known 
+implicitly defined function. For example, the general solution to the equation 
+functions and g(y) =y, 
+b 
+Y 
+x 
+x—+y——y=0islny==+¢ 
+T 
+Xy 
+It is an equation relating x and y and implies a function exists that defines y as a 
+function of x. 
+To verify that this is a solution, we differentiate: applying implicit differentiation 
+and the product rule: 
+d 
+d(x 
+1y 
+_d, 
+d 
+L iny) = L(X 
++ 
+ek, G 
+1) 4+ 4 
+& 
+=G5t 
+7y 
+m ™ 
+) 
+e 
+d 
+d 
+d 
+d 
+l_y:y,,ﬂ(,y,z_y)+0:1_y:1,1_y 
+¥ dx 
+Ydx 
+7 
+yldx 
+ld}’) 
+1_xd 
+dy 
+dy 
+L) gL 
+2 2 
+Ly 
+y=0 
+TV 
+( 
+T 
+Y 
+839
+
+You need to remember 
+that h(y) is a continuous 
+function of y alone and 
+&(x) is a continuous 
+function of x alone. This 
+also applies to q(y) and 
+840 
+PO 
+Integral calculus 2 
+Therefore, for any real number ¢ the function Iny = ; + cis a solution, in 
+&y 
+d 
+implicit form, to the differential equation x = + y=2 — y = 0 
+. This means that 
+& 
+Ta 
+the coordinates x and 
+y of any point on the curve Iny = § + ¢ combined 
+d 
+with the value of the derivative ay at that point will solve the equation 
+. 
+b 
+Lyt —y= 
+Tax Va7 
+Differential equations as mathematical models 
+The following examples illustrate typical cases where scientific principles are 
+translated into differential equations. 
+Newton’s law of cooling states that the rate of change of the temperature T of an 
+object is proportional to the difference between T and the temperature of the 
+surrounding medium S. That is, 
+dT 
+= =KT-9) 
+dr 
+where k is a constant and S is usually considered constant. 
+Population growth rate in cases where the birth and death rates are not variable 
+is proportional to the size of the population. That is, 
+dp 
+& —kp 
+dt 
+where k is a constant. 
+‘We will learn how to solve such problems. 
+Separable differential equations 
+In this section, we look at separable differential equations, which are also 
+known as variables separable differential equations. 
+The first order differential equation: 
+d; Yoy 
+is called variables separable when the function F(x, y) can be factored into a 
+product or quotient of two functions such as 
+dy 
+dy _ gw 
+P 
+pq(y) or & 
+iy 
+In such cases, the variables x and y can be separated by writing 
+dy 
+90) 
+and then simply integrating both sides with respect to x: 
+= pwdx or h(y)dy = guodx 
+d %:fpmderc or [hydy 
+= [gwdx + ¢
+
+We also may say that the method of solution is separation of variables. 
+Here are some examples of differential equations that are separable: 
+  
+  
+  
+  
+  
+  
+(x2 + 4)y' = 3xy 
+dy_ 
+3 
+Y 
+X +4 
+ey 
+387 
+B 
+T+ 
+1+e¥ 
+x 
+d v 
+d 
+xzay+yz=xyz 
+  
+ 
+ 
+   
+Table 16.1 Examples of differential equations that are separable 
+Example 16.: 
+Find the general solution of the differential equation 
+y/ e gxz},z = Syz 
+Solution 
+We first factor the equation to separate the variables 
+% =5y + 9x2y* = % =y5+9x?) = j—;v: (5 + 9x2)dx 
+s 
+Do R 
+G 
+This is a general solution for the differential equation. In this case we are able 
+to express the function in explicit form. 
+#*%:5x+3x’+c$y: 
+Example 16.5 
+Solve the differential equation 
+dy  3x%y 
+A 1+4y? 
+Solution 
+With very few steps, we can separate the variables 
+e Ay2 
+Tdy = 3x2dx 
+and now we can integrate both sides 
+1+ 4y? 
+nydy: f3xzdx®f(%+4y)dy: J3x2dx 
+Infy| + 23 =x*+ ¢ 
+Itis not always obvious if 
+a differential equation is 
+separable. Some algebraic 
+manipulation is needed 
+to confirm that the 
+differential equation can, 
+in fact, be written in the 
+e 
+form 5 - = pvg(y) or 
+Y ety 
+R 
+ple, 
+Y_3_2, 
+FraE A 
+separable because it can 
+be written as 
+& 
+  
+also separable because it 
+can be written as 
+b_ Yy 
+== Ecmx 
+However, the equations 
+O 22+ y2and 
+dx 
+e 
+T 
+) 
+separable. 
+841
+
+For every value of the arbitrary constant c, this defines an exact but implicit 
+solution y(x) as it cannot be written in an explicit form y = f(x). 
+Some of the solution curves for a few values of ¢ are shown in the diagram. 
+) 
+3 
+  
+  
+ 
+To solve equations by separation of variables: 
+dj 
+Write the differential equation in the standard form Ey = fix.y) 
+d 
+d 
+Can we separate the variables? That s, is ay = gwh(y) nré S ”;(l;) 2 
+d 
+If so, separate the variables to getﬁ = gtodx or gy)dy = peodx 
+4 
+Integrate both parts, o get |’ % = [goodx + cor [qpdy = fpoods + ¢ 
+Evaluate the integrals if you can and don't forget the arbitrary constant. Even though we have 
+two integrals, one on the left and one on the right, we can combine both arbitrary constants 
+into one. 
+Ifpossible, resolve the resulting equation with respect to , to get the equation in explicit form 
+y=f) 
+Example 16.6 
+Find the general solution of the differential equation 
+e 2:x+1 x>0,y>0 
+e 
+> 
+4 
+S 
+—— 
+Solution 
+The equation is separable because we can rearrange the equation as: 
+255 
+Now separate the variables and integrate: 
+o 
+iR 
+yy="—~de 
+= [ydy= [ 
+x2 
+  
+  dx 
+a1 
+:>2y 
+= lnx 
+e 
+842
+
+This is the general solution of the differential equation in implicit form. 
+In this case, we can also find the explicit form: 
+y=y2Inx 
+R 
+Example 16.7 
+Solve the initial value problem 
+dy_ 
+Aol | 
+  ;oy) =4 
+Solution 
+This is a variables separable type, so separate the variables and integrate: 
+&y 
+& 
+_ 
+& 
+_ 
+TR 
+o 
+R 
+i e 
+  
+  
+  
+Inly| = In|x + 1| + ¢ = [y| = elth+iltc = elatllec = |x + 1|ec 
+Now, since ¢ is an arbitrary constant, we can replace e with a constant C, 
+and our solution becomes: [y| = Clx + 1| 
+Using the initial condition: 4 = C|1 + 1| = C=2 
+and the particular solution |y| = 2|x + 1| 
+thatis y = £2(x + 1) 
+Example 16.8 
+Solve the initial value problem 
+  
+d 
+> 
+NS 
+@ 
+cosy 
+»(0) =0 
+Solution 
+This differential equation can be separated, but needs some work: 
+/PP 
+L2 
+dr 
+cosy 
+  = e Ycosydy = e (1 + t2)dt 
+Both sides need integration by parts 
+Jercosydy = [e(1 + A)dt 
+= %e’?(cosy —siny)=e (2 +2t+3) + ¢ 
+843
+
+844 
+with initial conditions applied 
+%e’?(cosy —siny) =e (2 +2t+3) + ¢ 
+e %e"’(coso — sin0) = e=%(02 + 2(0) + 3) + ¢ 
+J=3tcme=2 
+Therefore the particular solution is 
+e cosy = siny) = e (2 + 2+ 3) + 
+= e Y(cosy — siny) = 2e (2 +2t+3) +5 
+Notice here that our solution cannot be expressed explicitly. 
+Example 16.9 
+Solve the differential equation x dx + e**»cosydy = 0 
+Solution 
+The equation can be separated with a few steps: 
+xdx = e’cosydy = e’cosydy = —xe *dx 
+= [e’cosydy = — [xe *dx 
+Using integration by parts and simplifying we get the implicit general solution: 
+B %e}'(siny gicosy EeRi GG 
+Applied problems involving variables separable differential 
+equations 
+Example 16.10 
+Find the general solution of the population growth model 
+2|8 
+] 
+5 
+Solution 
+We can separate the variables easily: dTP = kdt 
+Now integrate both sides to get | d—;) = [kdt = InlP| = kt + ¢ 
+where ¢ is an arbitrary constant. This last equation can be simplified to 
+render an explicit expression for P: 
+In|P| = kt + ¢ = |P| = ek*c = eMec = Aek 
+where we replaced e¢ with A. Thus P = Aek
+
+This is the general solution and all solutions to this problem will be in this form. 
+If the constant k is positive, the model describes population growth 
+(Figure 16.1); if it is negative, it is decay (Figure 16.2). 
+If the population growth model in Example 16.10 had the additional initial 
+value that at t, the population is P, then this particular population satisfies    
+P=Aek 
+-2 
+-1 0    
+and hence 
+Figure 16.1 Population 
+e 
+growth 
+    
+P, 
+= Aekt = A =0 
+oo 
+and the solution to the initial value problem is 
+P = Aelt = Pjekueht = peki=t) 
+There is a very important special case when f, = 0, the solution becomes 
+P= poeku—z,,; = poekr 
+which is the usual growth model that starts at time t = 0 with initial 
+population P,. 
+  
+Figure 16.2 Population decay 
+Example 16.11 
+A cold object is placed in warmer medium that is kept at a constant 
+temperature S. The rate of change of the temperature T(t) with respect to 
+time is proportional to the difference between the surrounding medium and 
+the object and hence it satisfies 
+% — kS — Tand T(0) = T, 
+where k > 0 and T, < §; that is, the initial temperature is less than the 
+temperature of the surrounding medium. Find the solution to the initial 
+value problem. 
+| 
+Solution 
+The variables can be separated, so: 
+dr 
+dr 
+S De S —kdf 
+" 
+S—De ST 
+di 
+Integrate and find the general solution first: 
+f% = [kdt = —InlS— T| = kt + ¢, = InlS — T = —kt — ¢, 
+where c, is an arbitrary constant. Now since we know that the temperature T 
+is less than the surrounding temperature, then InlS — T| = In(S — T) 
+845
+
+The general solution then is 
+InS—TN=~-kt—¢,=>S—T=eMa=>T=§—ekua 
+The initial condition implies 
+T=S—e M6 TH=S—eta=ea=S—Ty=>¢=-InS-T) 
+Therefore, substituting this value in the general solution 
+In(S§ — T) = —kt — ¢, = —kt + In(S — T) 
+i 
+SE 
+  
+= In(S= D= In(S = Ty)= —ki = ]n( 
+) — 7% 
+=1t 
+= 
+S—T, 
+  —eH= §—T=(S—Tek= T=5—(S—T)e* 
+This is an example of what is called limited growth. This is so because the 
+maximum value that T can achieve is S. For example, if a can of soda is taken 
+out of a fridge and left in a room with constant temperature of 21°C, then the 
+temperature of the soda will increase to eventually reach the room temperature. 
+In fact, since k > 0 and S is a constant, then 
+T=5—(S—Tye = ‘Z_f =(S—Ty)ek 
+Also, since T, < S, then 
+dT 
+S=E-Tle 
+™ >0 
+Ls-m 
+The temperature will always increase. 
+As time passes, 
+lime 
+™ =0 = limT 
+= lim(S - (S = Ty)e 
+™) = § 
+=00 
+  
+  
+f 
+‘ 
+Figure 16.3 The temperature climbs up to 21 but does not exceed it 
+846
+
+Example 16.12 
+The rate of decay of a substance y at any time ¢ is directly proportional to 
+the amount of y and also directly proportional to the amount of another 
+substance x. The constant of proportionality is 7% and the value of x 
+. 
+e 
+4 
+it 
+t 
+t 
+S e 
+at any time ¢ is given by 
+x 
+T+ 
+(a) Given the initial conditions that y = 10 when ¢ = 0, find y as an explicit 
+function of . 
+(b) Determine the amount of the substance remaining as t becomes very 
+large. L 
+Solution 
+(a) The rate of decay of substance y is proportional to the product xy, 
+and with the constant of proportionality having a value of 7% and 
+  
+A 
+, 
+thi 
+(l Tt 
+this gives 
+@ L) 
+a - 
+2are) 
+Separating variables gives: 
+d_ 
+1 
+e 
+t = 
+dr 
+y (1+t>2 
+f 
+f(1+z)1 
+#lny:%ﬁ»c 
+This is the implicit form. It can be expressed explicitly: 
+ely = e 
+= 
+= eThiee = AeTH 
+Now, y = 10 when ¢ = 0, so: 
+10 = Ae™ = A = 10 
+Therefore the explicit form is 
+Ae™ = 10e %™ = 10e™ 
+pi 
+y= 
+  
+(®) Jim =25 
+= ~2 = y=10e2 = 136 (35 
+In Example 16.13, we will find an explicit solution by separating the variables 
+for a relatively straightforward first order differential equation, but one whose 
+solution will prove useful in developing another solution method. 
+Example 1 
+d; 
+Find the general solution to the differential equation Ey = =757 
+847
+
+  
+Figure 16.4 Family of curves 
+848 
+Integral calculus 2 
+Solution 
+Separate the variables 
+dy 
+— = —2xdx 
+> 
+X 
+Note there is no solution when y = 0. 
+d 
+7}' = — [2xdx = In|y| = —x2 + ¢ = elthl = e~¥'*e 
+= [y|=ee*=Ae*,A=e°>0 
+=y=the 
+‘We can include both of these solutions, and also the solution y = 0, 
+by giving the general solution as 
+y=Ce ¥ 
+with no restrictions on the constant C. 
+It is helpful to recognise that the explicit solution y = Ce 
+~* 
+in Example 16.13 
+defines a family of curves in the xy-plane. Some of these curves, with the 
+corresponding value of C, are shown in Figure 16.4. 
+To determine a specific curve from this family we must impose an initial 
+condition on the solution. 
+Logistic differential equations 
+Example 16.10 looked at the population growth model. In that model, 
+we used the fact that the rate of change of a variable y (P in the example) is 
+proportional to the value of y. We observed that the differential equation 
+is of the form d_}t’ = ky and found that the general solution was y = Ae*'. 
+Exponential growth is unlimited and does not provide an accurate model for 
+the growth of a population over a long time period. To obtain a more realistic 
+model we need to take account of the fact that as the population increases, 
+quite a few factors will begin to affect the growth rate. For example, there will 
+be increased competition for the limited resources that are available, increases 
+in disease, and overcrowding of the limited available space, all of which would 
+serve to slow the growth rate. In order to model this situation mathematically, 
+we amend the differential equation leading to the modest exponential growth 
+law we introduced by addition of a term that slows the growth down as the 
+population increases. If we consider a closed environment (neglecting factors 
+such as immigration and emigration), then the rate of change of population can 
+be modelled by the differential equation 
+b _ 
+dr 
+where b and d denote the birth and death rates. 
+b—dy
+
+In a more general situation, the increased competition as the population grows 
+will result in a corresponding increase in the death rate. One way to take this 
+into account is to assume that the death rate is directly proportional to the 
+present population, and that the birth rate remains constant. The resulting 
+initial-value problem leading to the population growth can now be written as 
+d; 
+d—{ = (b= duy)y 
+where bj and d, are positive constants representing specific birth and death 
+rates. It is useful to write the differential equation in the equivalent form 
+Yy_ k(l = Z)}, 
+(1) 
+y. 
+From equation (1), 
+d 
+L 
+thatify 
+< I, 
+b 
+then 
+22> 
+0 and th 
+where k = by,and L = —. 
+endt>0m 
+e 
+2 
+population increases, 
+Equation (1) is called the logistic equation, 
+":lh"m ify > L, then 
+and the corresponding population model is 
+Logistic curve 
+dlz, <0and the 
+called the logistic model. The differential 
+population decreases. 
+equation (1) is separable and can be solved 
+without difficulty. The constant L is called 
+the carrying capacity of the population. 
+D e ‘h:l ; 
+maximum 
+population 
+The graph of function y is called the logistic 
+that the enfinl))nmcm 
+curve (Figure 16.5). 
+Figure 16.5 Logistic curve 
+can sustain. 
+Example 
+4 
+d 
+Solve the logistic differential equation d_}t, = ky(l = %) 
+We can therefore 
+interpret L as 
+  
+Solution 
+First separate the variables: 
+d 
+Y 
+dy 
+/) 
+( 
+= _) & 
+i 
+1 
+T 
+= 
+( 
+}’) 
+kdt 
+NS 
+Then integrate both sides using partial fractions: 
+A 
+f(%+L 
+L y)dy:fkdt 
+(-3 
+. 
+-z 
+=Injy| 
+= In|L —y| =kt +c 
+= In|   
+  
+7= 
+yy‘:7kt*c 
+D= 
+5 e be— Kt 
+i 
+| 
+4 
+1 besh 
+From Example 16.14, 
+we can conclude that all 
+solutions of the logistic 
+differential equation can 
+be putin the general form 
+7 
+y=   
+s 
+849
+
+Integral calculus 2 
+Example 
+An official wildlife commission releases 20 deer into a protected forest. 
+After 5 years, the deer population is 208. The commission believes that the 
+environment cannot support more than 400 deer. 
+(a) Write a model for the deer population in terms of the number of years, . 
+(b) Use the model to estimate the deer population after 10 years. 
+(c) Discuss the long-term trend of the deer population. 
+—_—.— 
+Solution 
+The growth of the deer population p is 
+P 
+p(i-L 
+i 
+<p=< 
+ar 
+400)’ 
+2U= 
+P00 
+where t is the number of years. 
+(a) We know that L = 400. Thus, the solution of the equation is of the form 
+_ 
+400 
+P pem 
+Since p(0) = 20, we can solve for b 
+400 
+R 
+=19 
+IERvcal s 
+Also, because p = 208 when t = 5, we can solve for k 
+400 
+208 = ———— = k~0.6049 
+1+ 19e % 
+Therefore the model for this deer population is p = B — 
+1+ 19e 064 
+(b) To estimate the deer population after 10 years, substitute 10 for ¢ in 
+the model: 
+p= 
+00 
+383 
+1 + 19e ~0-6049x10 ~ 
+(c) As tincreases without bound, the denominator in the model will 
+approach 1 and so: 
+) 
+_ 
+400 
+_ 
+ks :]'Lr?ol T+ 19e 060891 
+400 
+Homogeneous differential equatior 
+Some differential equations that are not separable in x and y can be made 
+separable by a change of variables. This is true for differential equations of the 
+form y’ = f(x, y), where f is a homogeneous function. The function given by 
+f(x, y) is homogeneous of degree n if f(tx, ty) = t"f(x, y), where n is an integer. 
+850
+
+For example 
+o flx,y) = 2x% — 5x° + 7xy? is homogeneous of degree 3 because 
+Stx, ty) = 2(tx)*(ty) — 5(tx)* + 7(tx)(ty)* 
+= t3(2x%y — 5x* + 7xy?) = £3f(x, 
+y) 
+o flx,y) = 2x%y — 5x2y? + 7xy is not homogeneous because 
+A differential equation is 
+homogeneous if 
+it is of 
+ftx, ty) = t2(2tx%y — 5222 + Txy) # t"(2x%y — 5x%? + Txy) 
+the form 
+25 
+M(x, )dx + NG, y)dy = 0 
+« flx, y) = == is a homogeneous function of degree 0 because 
+where Mand Nare 
+7y 
+homogeneous functions 
+4tx 
+X 
+of the same degree. 
+tx, 
+ty) 
+= o = (0% 
+g 
+fix 
+ty) 
+Tty 
+Y 
+Equivalently, when a first-order differential equation can be written as 
+y' = flx, ), then it is homogeneous iff the function fhas the property 
+fltx, ty) = fix, ) for all t # 0. This condition is equivalent to saying that f can 
+be expressed as a function of y/x, because if fis homogeneous, then 
+fan =f(xx(3)) =1(13) =6(3). =0 
+For example 
+o 
+(3x? — 2xy)dx + 2y? = 0 is homogeneous of degree 2. 
+o 
+(2x%+ 3)dx + 3y2dy = 0 is not a homogeneous differential equation. 
+A homogeneous differential equation can be transformed into a variables 
+separable differential equation by substituting y = vx (or x = uy), where vis a 
+differentiable function of x. Using this substitution, dy = vdx + xdv and, with 
+a few steps of algebraic manipulation, it is possible to express the resulting 
+equation as a separable equation in x and v, as seen in Example 16.16. 
+Example 16 
+Solve the differential equation xyy’ = 3x? + y? 
+—Eeeee—eeeeeeeeeeeeeeee——— 
+Solution 
+This equation is homogeneous since: 
+BN 2ZEiEyZ 
+5 (o)Zk i (0y) SIS vy 
+/= 
+flx,y) 
+= 
+ty) = —— 22 =" 7 — 
+Vel 
+S 
+= s 
+4 
+Several approaches are possible, one of which is: 
+, 
+d}":3xl+}'2 
+(Gt 
+v 
+O 
+2y 2o S 
+S 
+e 
+e 
+Xy 
+dx 
+X(VX) 
+v 
+= v2dx + xvdv 
+= 3dx + v2dx = vdv = %dx 
+ﬂfvdv:f%dx+c 
+  
+2 
+i%:3ln|xf +c= v2=6ln|x| +2¢ 
+By substituting the value of v back and simplifying, y2 = 6x2(61In|x| + 2¢) 
+851
+
+Example 
+7/ 
+Find the general solution of (x? — y?)dx + 3xydy = 0 
+I 
+Solution 
+Since (x> — y?) and 3xy are both homogeneous of degree 2, we can use the 
+method suggested above. 
+Substitute y = vx and dy = vdx + xdv into the given equation 
+(%2 = y¥)dx + 3xydy = 0 = (x2 — x?v2)dx + 3x*v(vdx + xdv) = 0 
+= x(1 + 2v?)dx + 3x*vdv = 0 
+Divide by x2 simplify and integrate 
+dx 
+vdv 
+1+ 2v?)dx 
++ 3xvdv = 0 
+—==-3[—— 
+( 
+v2) 
+xvdy 
+= /% 
+fl 
+P 
+Injx| = %mu +2v2) + C, = 4lnjx| = —3In(1 + 2V + 4C, 
+Now let 4 C, = InC and simplify 
+Inx* = In(C(1 + 2v?)73) = x* = C(1 + 2v?)3 
+; 
+_ e 
+q 
+, 
+— 
+Substitute v = 7 into this equation and simplify 
+2 
+2\ 
+-3 
+X":C(I‘FZ—) 
+$X4(1+2— 
+e 
+72 
+  
+=C = 
+(x2+2y?)3 = Cx? 
+   
+|2 
+C (ot 
+1. (a) Show that every member of the family of functions fix) = J—lc(lnx + k) 
+d; 
+is a solution of the differential equation x’a}l +xy—1=0 
+d 
+(b) Write the equation in the form d._ilc = F(x,y), and illustrate (a) by 
+graphing two members of the family on a common screen. 
+(c) Find a solution that satisfies the initial conditions y(1) = 2 and 
+  
+y2) =1 
+2. Solve each differential equation. 
+d; 
+(a) yer==1 
+(b)ay:nyer 
+() exrdy = xdx 
+@y =xyt—x—y*+1 
+dy 
+1+2y? 
+- 
+2 
+== 
+(e) (xylnx)y = (y + 
+1) 
+(f) 
+i 
+852
+
+   
+  
+  
+(® (1+tany)y =2 + 1 
+(O 
+- . 
+dt 
+y 71 
+d 
+(i) ysecOdy = e’sin>0d6 
+@G) 
+Ey = eX(1+ 
+%) 
+w1 
+=0 
+1) 
+1 +e9=erny=0 
+()E*X»m,y{ 
+= 
+(U4 
+ebea 
+e 
+(m)(y + 1)dy = (xy — y)dx, y3) = 
+1 
+(n) xy —y=2x2y,p1) =1 
+(0) xydx + e (y2 — 1)dy = 0,50) = 1 
+. Solve each initial value problem. 
+d 
+(@) xdy = 4ydx, (0) = 3 
+(b) 3}' — x50 = 1 
+(© y—x?=0,§1)=2 
+@y -y =0y2=1 
+@Y _o-om=1 
+D) 
+TP 
+T 
+4 
+T 
+) 
+(g) xdy 
+— y?dx= —dy, 00 =1 
+ (h) y>dy — xdx = dx — dy, (0) =3 
+N 
+e mE 
+. 
+O T . 
+@) y=xy>+xy0=0 
+G 
+¥ 
+e 
+, )2 
+=1 
+M) Y1 +e)=e,y(1) =0 
+(m)(y + Ddy = (£y — y)dx, y(3) = 1 
+) xy' —y=2¢,y(1) = 
+1 
+(0) xydx + e (? — 1)dy = 0,(0) = 1 
+  
+. Solve each differential equation. 
+(a) ij—i =x+y 
+() (x + y)dy = (x = ydx 
+© &=y 
+=z 
+(d) xdy — (er% +y>dx =0, D=0 
+© (xsec? +y)dx=xdy, D=0 
+() (x2+ y?)dx = (xy — x2)dy 
+() ydx = (x + /xy)dy 
+. The temperature T, in Celsius, of a kettle in a room satisfies the 
+differential equation % = m(T — 21), where ¢ is in minutes and 
+m is a constant. 
+(a) Solve the differential equation, showing that T = Ce™ + 21, where 
+Cis an arbitrary constant. 
+(b) Given that T(0) = 99, and T(15) = 69, find: 
+(i) 
+the exact values of m and C 
+(ii) the value of t when T = 39. 
+853
+
+854 
+Integral calculus 2 
+6. Studies indicate that there may be as few as 3200 tigers (Panthera tigris) 
+left in the wild. The WWF arranged for the release of 25 tigers into a 
+wildlife preserve. After two years there were 39 tigers in the preserve. 
+The preserve has a capacity of 200 tigers. 
+(a) Write a logistic equation that models the population of tigers in the 
+preserve. 
+(b) Find the population in the preserve after five years. 
+(c) When will the population in the preserve reach 100? 
+2100 
+7. The logistic equation P(t) = TF 29007 
+population. 
+models the growth of a certain 
+(a) Find the initial population. 
+(b) Determine when the population will reach 50% of its carrying capacity. 
+(c) Write a logistic differential equation that has the solution P(t). 
+8. The number of bacteria in a certain culture grows at a rate that is 
+proportional to the number of bacteria present. 
+If the number increased from 500 to 2000 in two hours, determine 
+(a) the number present after 12 hours 
+(b) the doubling time. 
+First order linear differential 
+equations - use of integrating factor 
+d 
+A first order differential equation has only the first derivative L4 in the 
+equation. A differential equation is linear when both d—y and y appear only to 
+x 
+the first power. The standard form for a first order linear differential equation is 
+Y+ by 
+= 
+. 
+0y = Q) 
+It can also be written as y + P(x)y = Q(x). 
+‘We will now look at a method of solving first order linear differential equations 
+of this form. 
+‘We will approach the solution using three cases of increasing complexity: 
+Case 1 
+P(x) is a constant, P(x) = p and Q(x) = 0
+
+The equation has constant coefficients and is homogeneous. 
+d 
+LY 
+Eery—O@T— 
+pdx 
+This leads to the solution with direct integration: 
+Inly|=—px+c=y=Ce# 
+Case 2 
+P(x) is a constant, P(x) = p and Q(x) # 0 
+The equation has constant coefficients and is non-homogeneous. 
+Y m=aw 
+where p is a constant. It is not possible to separate the variables. However, the 
+left-hand side is a truncated part of the derivative of a product, and so we can 
+find another function, u, that enables us to write the left-hand side as 
+Dy 
+ydu 
+o 
+which is equivalent to 
+Y ydn_ 09 
+T 
+This can only happen if u = e”* because 
+d 
+&y 
+;—X(y»u) - %(y- er) = e +y%(ef‘") = ertyepeen 
+Thus, if we multiply both sides of the differential equation by e, which is 
+called an integrating factor, we get: 
+px(der 
+)—m() 
+w Y 
+Py 
+= erQx) 
+el 
+& 
+Py 
+—eQxﬂea 
+perty 
+= eP*Q(x; 
+= Lery) = era), 
+and upon integration: 
+ey = feP"Q(x)dx +C, 
+where [eP*Q(x)dx can be integrated using familiar methods of integration. 
+This finally leads to the general solution 
+y= EL% [erQudx + C = e 
+[erQx)dx + Ce 7 
+Example 1 
+Find all solutions to 
+dy 
+— + 
+5y 
+=3x 
+e 
+¥ 
+‘The term e/* is called 
+an integrating factor for 
+the differential equation 
+because it allows us, after 
+multiplication, to solve 
+the differential equation 
+by integration. 
+855
+
+1 
+Solution 
+Multiply both sides of the equation by e>*: 
+5x. d}’ 
+5%y 
+— 
+5x 
+5xy)) 
+= 
+5% 
+e aJrSe 
+Yy = 3xe> 
+& d(e5y) 
+= 3xe¥dx 
+& [d(e%y) = [3xeSdx = e¥y = [3xe™dx 
+The right-hand side can be integrated by parts to give 
+3_"5,\'71 
+5% 
+5% 
+:2 
+Sxfi 
+5x 
+5 
+¢ 
+25¢ EHC =X 
+3 
+25¢ 
+c 
+_3x_3 
+s 
+5 
+25 = Ce 
+We can check this answer by differentiating it: 
+d; 
+= 35—1* % ERCee = ay :%* 5Ce >, thus 
+& 
+3 
+3x 
+3 
+A 
+e 
+(_,_Jr 
+—5x) 
+" 
+Yy 
+(@c] 
+5| 
+5 
+25 
+Ce 
+wlw 
+» 
+— 5Ce=%+ 3x — % +5Ce=%=3x 
+Case 3 
+P(x) is not a constant and Q(x) # 0. 
+The equation has variable coefficients and is non-homogeneous. 
+Y 4 by 
+= 
+T+ 
+Py = QW 
+‘We first note the following facts: 
+From the fundamental theorem, Chapter 14: % f P(x)dx = P(x) 
+(1) 
+Using the chain rule: %el Pds = ¢ 
+[Px)dx 
+. % [P(x)dx = P(x)e Pwdx 
+) 
+Now consider the general differential equation 
+dy o+ Py = QW 
+Multiply both sides by the integrating factor e/”¥¢, Then we have: 
+d; 
+e fP(x)dxa}’ + P(x)e [Py = e [Pd(x) 
+From (2): 
+d 
+d 
+% (},e fP(x)dx) = ydd_x(e JP@dx) 4 d_ie JP@d = P(x)e jnxmy + Eye JP)dx 
+and by comparing the last two equations, we have 
+% (yel Pit) = e [P0 Q(x) 
+856
+
+And so, by integration 
+ye P 
+= [e[P&Q(x)dx + C = y =   
+mm( JelP¥eQ(x) dx + C) 
+=y = e /P [ [P0 Q(x) dx + Ce =[P 
+Example 16.19 
+.‘| 
+Find all solutions to Zxd—j: + 8y = 5x* 
+L] 
+Solution 
+This equation can be transformed into the standard form of a linear equation 
+by dividing through by 2x: 
+d _y+é},,§x3 
+dx 
+2 
+Here P(x) = 4 = [P(x)dx= [ 
+dx=dlnx=lnx!, and e /P 
+= elnw' = x4 
+So, our integrating factor is x*. 
+Multiplying by x* we obtain: 
+xidy + axtydx = 3x7dx 
+& d(xty) = 2x7dx 
+Finally, by integration we have 
+xy——6+C$y751i6+Cx" 
+Although the expression for the general solution given above looks quite 
+complex, the basic steps for solving a first order linear differential equation by 
+means of an integrating factor are relatively modest. Here are some practical 
+steps to follow: 
+o 
+If the differential equation is given as 
+Y 
+go=h 
+fix) T 
+g0 = 
+h(x) 
+rewrite it in the form 
+h(x) 
+89 nd 
+Quo = 22, 
+o= 
+Find the integrating factor e/?% by first finding [ P(x)dx. 
+Multiply both sides of the equation by the integrating factor. 
+By integration, the left side is ye/?%. Evaluate the right side: ['e/?®%Q(x) 
+Write down the general solution 
+([P Q(x) dx + C) 
+d 
+a}l + P(x)y = Q(x), where P(x) 
+= 
+  
+r= el Plx)dx 
+857
+
+858 
+Example 16.20 
+Find the initial value solution of y’ + y tanx = cos?x, y(0) = 2 
+Solution 
+P(x) = tanx, Q(x) = cos’x 
+Integrating factor: 
+Eltlehte Ik 
+Secy 
+Now multiply the equation by the integrating factor and simplify: 
+d 
+secx(ay + ytanx = coszx) = secxdy + y secx tanxdx = secxcos®xdx 
+= secxdy + y secx tanxdx = cosxdx = d(y secx) = cosxdx 
+= ysecx = [cosxdx = ysecx = sinx + ¢ 
+sinx + ¢ 
+secx 
+  
+=y= 
+= (sinx + c)cosx 
+y(0) =2 = (sin0 + c)cos0 =2 = ¢ =2 
+Therefore, the solution is y = (sinx + 2)cosx 
+Example 16.21 
+Find the solution to: 
+&y 
+o 
+2 
+& 
+1+ 
+148 
+  
+,p(0) = 0.4 
+Solution 
+a2 
+d 
+1+¢) 
+1+ 
+  
+  
+Integrating factor: 
+1 
+2 
+5 
+i 
+el g 
+ntmt o il 
+o 
+T+t 
+() 
+Tn 
+Multiply by the integrating factor and simplify: 
+(d_}g 
+2% 
+2 
+) 
+1 
+& 
+1+ 
+1+e)ite 
+R 
+SO 
+4k 21 AR 2 
+IR 
+  
+    
+  
+  
+1 
+— 
+§1+t2dy 
+4 
+iy 
+@ 
+Qd(y'Ithz) S
+
+Integrate to find the solution: 
+1 
+2 
+t 
+T~ 
+=+ )(tan1t + 
++ 
+) 
+Y1+ e 
+f(1+t2)1 Bt 
+)(tan 
+e 
+© 
+  
+With y(0) = 0.4, ¢ = 0.4 and the particular solution will be 
+¢ 
+i 
+  
+y:(1+t2)(tan"t+1 
++0A4) 
+Example 16.22 
+Solve the following initial value problem for x > 0 
+2 et )= 
+x 
+—y=xtLy@) 
+= 
+  
+  
+Solution 
+Rewrite by dividing by 2x: 
+& 
+1 
+_x+1 
+1 
+_x+t1 
+T T - 
+e e 
+Integrating factor: 
+el 
+Te s B 
+Multiply by the integrating factor and simplify: 
+ix+ ldx 
+5 
+  
+i d 
+s 
+= 
+x2dy = x2os.yde 
+= 
+- Lyas=t{le Las 
+2 
+2 
+2 
+! 
+I 
+Sl 
+RVES 
+(Ex1+5x 1)dx:x sl 
+1 
+\ 
+8 o 
+#yfx 
+L 
++E*:/c*l+£x2 
+X 
+S 
+Therefore,y 
+= x — 
+1 + —V. 
+erefore, 
+y = x 
+ﬁx 
+Application to electric circuits 
+An electromotive force (usually supplied by a battery or generator) produces a 
+potential difference of E(t) volts (V) and a current of I(f) amperes (A) at time t. 
+The circuit in Figurel6.6 also contains a resistor with a resistance of R ohms (2) 
+and an inductor with an inductance of L henries (H). 
+859
+
+gL 
+N 
+switch 
+ 
+Figure 16.6 Electric circuit 
+860 
+Ohm’s law gives the potential difference across the resistor as RI. The potential 
+difference across the inductor is L(%) One of Kirchhoff’s laws says that the 
+sum of the voltage drops is equal to the supplied voltage E(t). Thus, we have 
+Lg +RI=E® 
+dt 
+which is a first order linear differential equation. The solution gives the current 
+Tattime t. 
+Example 16.23 
+Suppose that in the simple circuit of Figure 16.6 the resistance is 12 and 
+the inductance is 4 H. The power supply provides a constant potential 
+difference of 60 
+V and the switch is closed when ¢ = 0 so the current starts 
+with I(0) = 0. Find: 
+(@) I(t) 
+(b) the current after 1 second 
+(c) 
+the limiting value of the current. 
+L 
+Solution 
+(a) The situation is modelled by the differential equation L% + RI = E@®). 
+In this case L = 4, R = 12, and E(t) = 60. 
+T 
+R LB e C L 
+o 00 
+dt 
+dr 
+dt 
+The integrating factor is e/34 = e 
+Now solve the linear equation: 
+dr 
+= 
+T 
+‘With the initial condition of I(0) = 0, we have 0 = 5 + C,so C = —5 
++ 33 = 153 = L(ean) = 15¢7 = 1= Lser + ) 
+dr 
+e 
+Therefore, I(f) = $(5e3’ —5)=5(1—e¥ 
+(b) After 1 second, the current is I(1) = 5(1 — e 
+) ~ 4.75A 
+(c) The limiting value of the current is given by 
+LimI(®) = lim5(1 —e™) = 5A 
+Example 16.24 
+Suppose that in the circuit in Figure 16.6, the resistance and inductance 
+remain constant. A generator produces a variable potential difference of 
+E(t) = 120 5in60t volts and the switch is closed when ¢ = 0 so the current 
+starts with I(0) = 0. Find I(¢).
+
+L] 
+Solution 
+The differential equation is now: 
+Lg + RI = E®) = 4£ + 121 = 120 sin 60t 
+dt 
+dt 
+= % +31=30sin60t, 
+1(0) =0 
+Integrating factor is the same as before: 
+e”% + 3¢ = 30e*sin60t = %(e"l) = 30e*sin60¢ 
+il 
+3,(10511160!7200c0$60t)Jr 
+) 
+i 
+elr(e 
+401 
+401 
+< 
+= 10 (1160t — 2 cos608) + Ce—> 
+401 
+. 
+A 
+- 
+_ 
+_ 
+10 
+_ 
+20 
+With the initial condition of I(0) = 0, we have 0 = m(—z) +C=C= 01 
+Therefore, 
+- 
+), o My o 
+orri e 
+1) 
+401(sm60t 
+2 cos60t) + T 
+401(smGO 
+€0s60 
+=) 
+Application to mixture solutions 
+Example 16.25 
+A tank contains 50 litres of a solution composed of 90% water and 10% 
+hydrochloric acid. A second solution containing 50% water and 50% 
+hydrochloric acid is being poured into the tank at a rate of 4 litres per minute. 
+At the same time, the tank is being drained at a rate of 5 litres per minute. 
+(a) How much acid will there be in the tank after  minutes? 
+(b) How much acid will there be in the tank after 10 minutes? 
+L] 
+Solution 
+Let y be the number of litres of acid in the tank at any time ¢. Since acid is 
+10% of the contents, the number of litres in the tank is y = 5 when 
+t = 0. Since the tank loses 1 litre of solution per minute, the number of 
+litres of solution in the tank at any time # is 50 — t, and as the tank loses 
+  
+5 litres of solution per minute, it must lose 
+ litres of acid every minute. 
+5 
+50—t 
+Furthermore, as the tank is also gaining 2 litres of acid per minute, the rate 
+of change of acid in the tank is 
+dy _ 
+5 
+dy 
+5 
+) 
+ey 
+dr 
+50—t T dr 
+50—t 
+861
+
+862 
+(a) This is a linear differential equation with P(f) = 
+  
+5 
+  
+  
+. 
+LGOS 
+The integrating 
+factor 
+is ————— 
+Hiegrating 
+BAoris 
+5o — s 
+50—t 
+S 
+So, the general solution is y = 
+> 
+G505 
+Because y = 5 when t = 0, we have C = 7% 
+Thus, the amount of acid in the tank after # minutes is given by: 
+50—t _ 
+(so—t)f 
+y==7 
+25 
+(b) When t = 10, the amount of acid is 
+SN 
+(50*10)5,\, 
+a 
+¥y 
+5 
+20 
+50 
+~ 13.45 litres 
+Exercise 16.2 
+i Determine whether or not each differential equation is linear. 
+d 
+d 
+(a) Sd—iery:yz 
+(b) x3£*3}/+2x2:0 
+d 
+(© Sxy =3x—2y 
+@ 2;% = sin2x 
+d 
+. Find the general solution of xd—i —2y=x? 
+d 
+. Find the particular solution of (x> + l)d_{c +axy=0—20)vx2+ 1 
+given that y = 2 when x = 
+1 
+d; 
+. Find the general solution to the equation E}’ =x—y 
+d 
+. Find the particular solution to (1 + sinx)ay — ycosx = (1 + sinx)* 
+given y(0) = 
+1 
+. Solve each differential equation. 
+<& 
+S 
+dy 
+_ sinx 
+(a)eEJrZey—l 
+(b)xEJré};v—7 
+d 
+© G- 1P 
+- D =x 1 
+LAy 
+(d) smxa + y cosx = tanx 
+(e) 
+xy' —2y=1x? 
+€ y=x-y 
+@® x +y=Vx 
+d 
+() sinxd—); +ycosx=sin(xd 
+() 1+ z)% Yu=1+1t t>0
+
+O 
+¥ L rzy=er 
+J. 
+xdx 
+-y 
+€ 
+dy 
+T 
+T 
+A 
+= 
+ysi 
+=y 
+= 
+(k) cosx 
+sin2x = y sinx, 
+5 
+S 
+N 
+PO 
+()xa 
+y=¢ 
+) 
+. Solve each initial value problem. 
+. 
+) =1 
+B 
+e i (Ol 
+(b) xﬁ — 2y 
+= x’secx tanx. 
+( 
+o 
+> 
+) 
+(©) x% +2xy=1Inx, 
+p(1)=2 
+w3y 
+):2 
+(d) t%:[z+3u,t>0, 
+u2) =4 
+(e) xy' =y +x%sinx, 
+y(m) =0 
+; VI 
+= 
+(f) E e 
+y0) 
+=3 
+. The diagram shows a circuit containing a power source with potential 
+@ 
+difference E(t), a capacitor with a capacitance of C farads (F), and a 
+resistor with a resistance of R ohms (£2). The potential difference across 
+the capacitor is Q/C, where Q is the charge (in coulombs). In this case, 
+Kirchhoff’s law gives 
+= 
+RI+ 9 EN:0)) 
+Figure 16.7 Diagram for 
+d 
+o 
+question 8 
+Given that I = T?’ we have RT? + %Q —E® 
+Suppose the resistance is 52, the capacitance is 0.05E, a battery gives a 
+constant potential difference of 60V, and the initial charge is Q(0) = 0. 
+Find the charge and the current at time ¢. 
+Numerical solutions: Euler’s method 
+Slope fields 
+Often the primary objective when solving a first order differential equation 
+is to find an explicit solution. However, many differential equations used in 
+mathematical models cannot be solved by means of an analytical method. 
+For such equations, we must resort to graphical and/or numerical methods. 
+These can be carried out by hand or by technology, and provide us with rough 
+qualitative information about the graph of a solution to a differential equation. 
+863
+
+864   
+& 
+Figure 168 Slope field for the equation E) =x-y 
+Integral calculus 2 
+d 
+A first order differential equation in the form Ey = F(x, y) specifies the slope 
+of the solution curve y = f(x) at each point in the xy-plane where F is defined. 
+‘We can use this fact to draw a short line segment whose slope is F(x, y) at any 
+point (x, y) in the plane. A plot of these line segments showing the slope 
+(or direction) of the solution curve is a called a slope field (or direction field) 
+for the first order differential equation. As a rule, the segments are drawn at 
+representative points evenly spaced in both directions. 
+d; 
+Figure 16.8 shows a slope field for the equation ay =x—y. 
+  
+Figure 16.9 Solutions to a differential equation can 
+be sketched 
+As you can imagine, it can be quite tedious to draw a slope field by hand. 
+In practice, slope fields are easily generated by suitable graphing technology. 
+Solutions to a differential equation can be sketched by drawing curves that 
+are at each point tangent to the line segment at that point. Thus, a family of 
+solution curves can be produced. To use a slope field to sketch a particular 
+solution, all we need to know is one point (an initial condition) that the 
+solution curve passes through. 
+In this course, you will not be asked to draw slope fields. They are mentioned 
+here as they help you understand the method used in the following procedure. 
+Euler’s method 
+In cases where we are interested in finding a particular solution, the numerous 
+line segments of a slope field could be distracting. Euler’s method developed 
+below enables us to approximate a single solution curve. The method is based 
+almost entirely on the idea of a slope field. 
+Consider the initial-value problem: 
+Yty 
+=0 
+Loty
+
+Figure 16.10 shows the slope field for the differential 
+d 
+quation — = x + y. 
+equation 
+An approximation to the particular solution can be sketched by 
+drawing a smooth curve through the point (2, 0) that follows the 
+slopes in the slope field. 
+Let y(x) represent the solution curve. To approximate a value 
+of y for a specific value of x, for example when x = 3, we could 
+make an educated guess from the sketch of y made with the aid 
+  
+Figure 16.10 Slope field for the equation 
+of the slope field. But if we want a more accurate approximation, 
+dy 
+——=x + y with an approximation to the 
+we need to use a more refined method. The simplest numerical 
+dx 
+’ 
+tE 
+method is called Euler’s method, after the prolific 18th-century 
+mathematician who first devised this computational method to 
+help him calculate the orbit of the moon. 
+solution curve sketched in 
+Euler’s method uses the basic idea behind the construction of slope fields to find 
+numerical approximations to solutions of differential equations. Let’s illustrate the 
+method with the initial-value problem that we have just been considering. 
+We know from the differential equation that the slope of the solution curve is 2 
+d; 
+at the point (2, 0) because Ey = x+y=2+0 = 2. Hence, the tangent to 
+the solution curve at (2, 0) has the equation: y — 0 = 2(x — 2) = y = 2x — 4. 
+We can use this tangent line as a rough approximation to the solution curve 
+(see Figure 16.11). This approximation clearly becomes less accurate as we 
+move away from the point of tangency (2, 0). 
+  
+    
+tangent at (2, 0): 
+y=2—4 
+Figure 16.11 Using the tangent line as a rough approximation to the solution curve 
+Euler’s method improves this approximation by moving a short horizontal 
+distance (the step size h) along this tangent line and then changing direction 
+according to the slope field. In this way we build an approximation to the curve 
+by attaching little line segments together, each having the slope of the solution 
+curve at its starting point. 
+d; 
+In general, after being presented with an initial value problem a}/ = F(x, ), 
+Y(Xo) = yo, we choose a step size h. Starting at the point (x,, ), for the interval 
+Xy =< x = x, + h, we approximate the solution curve with the tangent line; that 
+is, the line with slope F(x,, Yo)- This takes us as far as the point (x,, y;), whose 
+coordinates are calculated as follows: 
+X1 = X0+ h,y, =y + hF(x,, y1) 
+865
+
+Integral calculus 2 
+   
+  
+  
+    
+      
+    
+   
+    
+slope = Flxg, yo) 
+(1 31) 
+hF(xy, yo) 
+a 
+Figure 16.12 Approximating the solution curve furay = Fx) 
+Repeating this process, we get an approximation to the solution curve 
+consisting of line segments joining the points (xg, Yo), (X1 Y1) (X2 Y2)» -+ 
+- 
+Each computed value y, is an estimate of the corresponding true solution y at 
+x = x,,. The accuracy of the estimates depends on the choice of the step size h 
+and the overall number of steps (iterations). Decreasing the step size while 
+increasing the number of steps leads to increasingly more accurate estimates 
+for solution values. 
+solution 
+curve 
+(% 79) 
+(X y2) 
+(x5 y3) 
+Euler 
+(x2,y2) 
+approximation 
+(1, 1) 
+(0 o) 
+Figure 16.13 Euler approximation to a solution curve 
+Euler’s numerical method 
+4 
+For the differential equatinnay = F(t, yy with the initial condition y(xo) = yo, the recursive 
+formulas for generating the coordinates of the unknown (1 + 1)st point (%1, 1) from the 
+known nth point (x,, 7, on the approximate solution curve (Euler approximation) are: 
+X1 = X + B Y1 = yu + hEGop yy forn =1,2,3,.. N, 
+where h, the step size, is a constant; and N is the total number of steps (iterations). 
+Let’s now apply Euler’s method to solve the equation at the start of this section. 
+866
+
+Example 16.26 
+d; 
+For the differential equation Ey = x + y, such that y(2) = 0, use Euler’s 
+method with a step value of 0.2 to find an approximate value of y when 
+X = 3, giving your answer to 2 decimal places. 
+. 
+Solution 
+57 
+4 
+    
+    
+solution 
+curve 
+Euler 
+approximation 
+  
+of 
+L 
+ORI 
+S S 
+x 
+‘We use Euler’s method to build an approximation to the true solution 
+curve starting at x = 2 and finishing at x = 3 by piecing together five short 
+segments. We are given that h = 0.2, x, = 2, y, = Oand F(x,y) = x + y. 
+Using the appropriate formulas for x, and y, and iterating five times: 
+% — %o A= 255102 
+=228yl = yo st HE (X, /) = 0/5510:2(250); 
+=104 
+=% +h=22+02=24 
+y =y +hFx,y) =04+ 02022 + 04) 
+| 
+i 
+=0.92 
+v 
+v 
+X5 =X, +h=28+02=3 
+y;=y,+ hF(x;, ys) = 2.4208 + 0.22.8 + 
+2.4208) = 3.46496 
+This process leads to an approximate (2 decimal places) value of y ~ 3.46 
+when x = 3. 
+Because we will perform most of the calculations for each iteration on our 
+GDG, it is often sufficient to simply display relevant results for each iteration 
+  
+  
+in a table. 
+[ 
+2 
+0 
+0.4 
+2 
+0.4 
+T 
+T 
+T 
+¥ 
+¥ 
+v 
+4 
+28 
+2.4208 
+1.04416 
+3.0 
+3.46496 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+867
+
+‘The first order 
+differential equation in 
+Example 16.26 is linear, 
+and hence can be solved 
+using an integrating 
+factor. Given y(2) = 0, 
+the particular solution is 
+y=3er2—x—1. 
+To 3 significant 
+figures, the true value 
+of y(3) is 4.15. Thus, 
+our approximation of 
+3.46 has an error of 
+approximately 16.6%. 
+Using a program on our 
+GDC or a spreadsheet, we 
+could easily decrease the 
+step size (increasing the 
+number of steps) in order 
+to improve the accuracy 
+of the approximation. For 
+example, if we used a step 
+size of h = 0.01 (requiring 
+100 iterations) we would 
+get an estimate of 
+4.1 
+(3 5.£) reducing the 
+error to less than 1%. 
+868 
+A numerical method like Euler’s is especially useful when applied to a 
+differential equation that cannot be solved by any known analytical methods. 
+Example 16.27 
+Given that a}l = ;;++12 
+step size h = 0.25 to approximate the value of y when x = 1. Give the 
+approximation to 3 significant figures. 
+L| 
+  and y = 
+1 when x = 0, use Euler’s method with 
+  
+Solution 
+We have that x, = 0, y, = 1, h = 0.25 and F(x,y) = 
+A 
+xy+2 
+Thus the recursive formula for y, is: 
+) 
+= 
+(025 
+— 
+gyt 
+Ynt1= Y 
+s 
+RO e B 
+e ey 
+n=0: x,=x+h=0+025=025 
+X t1 
+0+1 
+9 
+=wes 
+o mld. . 
+= S0 
+NN T8 
+) +8 
+8 
+n=1: x,=x +h=025+025=05 
+xnt1 
+0.25+1 
+= IS 
+1061086 
+NN 
+e T8 
+2(0.25)(1.125) + 8 
+n=2 x;=x,+h=05+025=075 
++1 
+i 
+[ RoR M 
+5Ll (WSS 
+1 107 
+it 
+PV 
+ey, + 8 
+4(0.5)(1.261986) + 8 
+n=3 x,=x3+h=075+025=1 
+xt+1 
+075+ 
+1 
+=BT g WSl sy 
+TN T 
+8 
+4(0.75)(1.404518) + 8 
+Therefore, the approximate value of y when x = 1is y ~ 1.55 
+Exercise 16.3 
+  
+In all the exercises for this section, a GDC, CAS, or computer is recommended. 
+1. Use Euler’s method with step size 0.1 to estimate y(0.5), where y(x) is the 
+solution of the initial-value problem y’ = y + xy, y(0) = 1 
+2. (a) Use Euler’s method to calculate y(1), where y(x) is the solution of the 
+initial value problem 
+d 
+d—i = 6x2—3x2y, 
+y(0)=3 
+Use these step sizes: 
+@) h=0.1 
+(ii) 
+h =0.01 
+(iii) 
+h = 0.001
+
+(b) Verify that y = e 
+' + 2 is the exact solution of the differential 
+equation. 
+(c) 
+Find the errors in using Euler’s method to compute y(1) with the 
+step sizes in part (a). 
+‘What happens to the error when the step size is divided by 102 
+. Use Euler’s method with step size 0.5 and 4 iterations to compute the 
+approximate y-values of the solution of the initial-value problem 
+y=3x—2+1 yl=2 
+. Use Euler’s method with step size 0.2 to estimate y(1), where y(x) is the 
+solution of the initial-value problem ay —x+y yO=0 
+. Use Euler’s method with step size 0.1 to estimate y(0.5), where y(x) is the 
+solution of the initial-value problem ay —x2+52 O =1 
+. Use Euler’s method to find approximate values of the solution of the 
+given initial value problem at t = 0.5, 1.5, and 3, with step size: 
+@ k=01 
+(i) h=005 
+(i) h =001 
+b 
+(a) Ve 
+y3—1ty), 
+y0) =05 
+®) y=5-3/y, 
+yo0=2 
+14—t 
+28 
+  
+Y Z= 
+0) =2 
+© 5 
+»© 
+. Copy and complete the table using an exact solution of the differential 
+equation and two approximations obtained using Euler’s method to 
+approximate the particular solution of the equation. Use h = 0.2 and 
+h = 0.1 and give your answer to 4 decimal places. 
+  
+  
+  
+  
+dy o cosx, y(0) = 0 
+x 
+o 
+0.2 
+0.4 
+0.6 
+0.8 
+1.0 
+y(x) [exact] 
+y() [h=02] 
+y() [h=0.1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+869
+
+  
+Figure 16.13 Tangent 
+approximates the function 
+values near x, 
+870 
+Integral calculus 2 
+Power series: Maclaurin’s series 
+Have you ever considered how your calculator computes values for certain 
+xt+2x 
+—4x*+x2—6 
+and h(x) = /7x 
+— 3 the method of evaluation is fairly straightforward because 
+these are algebraic functions. Algebraic functions can be expressed as a finite 
+number of sums, differences, multiples, quotients, and radicals involving x". 
+Polynomial functions, rational functions, and functions involving radicals are 
+functions? For functions such as f(x) = 3x — 5x + 8, g(x) = 
+examples of algebraic functions. 
+But how does your calculator compute values for a function such as *? This 
+is an example of a transcendental function. A transcendental function is non- 
+algebraic - it cannot be expressed as a finite number of sums, differences, 
+multiples, quotients, and radicals involving x". Other familiar transcendental 
+functions include the trigonometric and logarithmic functions. 
+So, in order to compute values of transcendental functions such as e*, the 
+manufacturers of the calculator had to decide on a computational algorithm. 
+Local linear approximation 
+‘When solving certain problems, it can be useful, and sometimes necessary, 
+to approximate nonlinear and non-algebraic functions by simpler ones. For 
+example, the equation that estimates the period of a swinging pendulum may 
+be greatly simplified if we use the fact that sinf ~ 6 when 6 s close to 0 in 
+radians. We saw in Chapters 12 and 13 that if a function is differentiable at a 
+number x,, then the tangent line to the graph of f through the point (x, f(xy)) 
+will closely approximate the function for values of x near x, (Figure 16.13). 
+To capture this intuitive awareness methodically, assume that the function f can 
+be differentiated at x, and recall that the equation of the tangent to the graph of 
+the function 
+f through the point (xy, f(x)) is y — fixo) = f'(x)(x = xo)- 
+Since this line closely approximates the graph of f for values of x near x,, 
+it follows that 
+J & fxo) + f (xoyx — xo) 
+Example 16.28 
+(a) Show that sinf = 
+6 if 
+s close to 0 (6 s in radians). 
+(b) Use the approximation from (a) to approximate sin2°, and compare your 
+approximation to the result you get from your GDC.
+
+e 
+Solution 
+(a) f(0) = sinf = f(0) = cosf. Thus at 
+6, = 0, the approximation above is 
+f(0) = f(0) + f(0)(0 — 0) = sin0 + cos0 X 6= 6. 
+The diagram shows both the graph 
+f(0) = sinf and 
+its linear approximation 
+y=6. 
+(b) In the approximation sinf ~ 6, @ is in 
+radians, so, we must convert the angle 
+into radians first: 
+2°= 2(%) ~ 0.0349066 
+    
+  
+Using GDC: sin2° ~ 0.0348995 
+  
+We learned that the local linear approximation of a function fat a point x,, is 
+foo = fe) + fxoe = x0 
+In this formula, the approximating function is P(x) = f(xy) + f'(Xo)(x — X;), 
+which is a first-degree polynomial with a value and first derivative value equal 
+to those of fat x,. That is: 
+P(xg) = fxo) + f'(x0) (%9 = Xp) = f(xo), and 
+P'x) = 0+ fxo) 
+(1 = 0) = fi(xo) = P(xo) = f'(x0) 
+However, as we move away from x, the accuracy of this approximation 
+will decrease. 
+In order to increase this accuracy, we can consider higher degree polynomials 
+whose value, and the values of its higher derivatives, agree with those of fat 
+X=X, 
+To illustrate this idea, we will consider approximations of function fat x = 0. 
+Take, for example, a second-degree polynomial P(x) = ¢, + ¢,x + cx? 
+If the values of this polynomial with its first and second derivatives agree with 
+those of £, then the polynomial has the same gradient and same concavity at 
+x = 0, leading to a better approximation: 
+We want P(0) = f0), P'(0) = f'(0), and P"(0) = f"(0). Thus, we have the 
+following set of equations: 
+Pix) = ¢y + c,x + 6x% 
+ P0) 
+= 
+¢, = fl0) 
+P=c +26% 
+PO) = ¢, = f1(0) 
+Py = 26y, 
+P0) = 2¢, 
+= £0) 
+871
+
+Hence it follows that 
+f'(0) 
+¢ =f0), 
+¢ =f(0), 
+= 5 
+And substituting these in the polynomial equation will yield the formula for the 
+local second-degree approximation at x = 0. 
+feo ~ Peo) = fl0) + 
+f 
+        
+Example 16.29 
+Find the local linear and quadratic approximations of e at x = 0, and graph e* 
+and the two approximations together. 
+o 
+Solution 
+Let fix) = e* = fi(x) = f(x) = e* 
+y 
+and hence f(0) = f'(0) = f"(0) = e® =1 
+R 
+2 
+y=1+x 
+Thus, the approximations are: 
+P(x) = fl0) + f(0)x =1+ x, f” 
+y=1+x+ 
+ol 
+and P(x) =              
+=1+x+% 
+. 
+2 
+. 
+= 
+£1 
+The diagram shows, as expected, that the quadratic 
+approximation is more accurate than the linear one 
+  
+near x = 0. 
+Gy 
+It is natural to ask if we can improve the accuracy of the second-degree 
+can be differentiated 
+approximation by using polynomials of higher degree. 
+1 times at x = xg, we 
+. 
+i 
+i 
+can find a polynomial 
+This leads us to consider the following general problem. 
+Pof degree n with 
+the pmpefty that the 
+Again, we begin with the case where x, = 0. Thus, the polynomial in question 
+value of 
+Pand its first n 
+has the form: 
+derivatives agree with 
+those of fat x;. 
+Pix)=co+x+ ox?+xd+ ...+ ¢, x" 
+(1) 
+Doing similar calculations as above: 
+Pox) = ¢y + cx + ox? + cxd o x” 
+P0) = ¢, = fl0) 
+Px) = ¢, + 2c,x + 3c5x2...+ ne,x" ! 
+P(0) = ¢, = f10) 
+P'x)=2c;, +3-2-cx...+ nln — De,x"2 
+P(0) = 2¢, = f(0) 
+P'x)=3-2-cs...t nln—Dn—2cx"> 
+PN0)=3-2-c;=f"0) 
+PWx) = n(n — Dn — 2)...(1)c, 
+P(0) = n(n — D(n — 2)...(1)c, = f(0) 
+872
+
+Hence it follows 
+   
+  
+_ 
+i 
+_fo 
+__fro 
+o =f0), 
+¢ =f10), 
+CZ—T, 
+.c,,—ﬁ 
+That is 
+"(0) 
+"(0) 
+"(0) 
+¢ =f0), 
+¢ =f10), 
+cz:fT, 
+c,sz,.‘.c,,:ﬁT 
+And substituting back into (1): 
+(0 
+(0, 
+(0 
+P(x) = fl0) + f'(0)x +f2(] )xZ +¥x5 
+st ﬁ—(')x" 
+) 
+! 
+! 
+n! 
+The polynomial in (2) is called the nth Maclaurin polynomial for f. 
+Iff can be differentiated 1 times at 0, then we define the rth Maclaurin polynomial for fto be 
+0) 
+0) 
+(0) 
+Pn(x):j(l))+/'(0)x+/'() 1+/’Q13+ 
+A )x" 
+T 
+i 
+@ 
+‘This polynomial has the property that its value and the values of it 
+first 1 derivatives agree with 
+the values of fand is frst 1 derivatives at x 
+= 
+0. 
+Note that the polynomials Py(x) and Py(x) are respectively the local linear and quadratic 
+approximations of fat x = 0. 
+Example 16.30 
+Find the Maclaurin polynomials P, P;, P,, Ps, and P, for e* and graph the 
+first four together. 
+  
+Solution 
+In order to apply (2), we need to find the n derivatives of e*. 
+This is straightforward since they are all equal to e*: 
+f© 1 
+1O 
+O 
+D1 
+(S [ 
+ke 
+I 
+| 
+Consequently, the polynomials are: 
+fo=1 fO=1 
+  
+  
+  
+  
+Pyo) = fl) = 1 
+Py(x) = fl0) + f(O)x =1+ x 
+"(0) 
+% 
+Py(x) = f(0) +f’(0)x+f21 x=1+x +"7 
+B 
+. 
+fo 
+, 
+fo 
+B 
+Py 
+=f0) +fOx + ot 
+t 
+o 
+=1 
+at T+ T 
+"(0) 
+"(0) 
+"(0) 
+P,(x) = f(0) + f(0)x +fo2 +fo3 CEL 
+ﬁn—!x" 
+_ 
+ol 
+X 
+Sl 
+873
+
+The diagram shows the graphs of e* 
+(in red) and the graphs of the first 
+four Maclaurin polynomials. Observe 
+that the graphs of P,(x), Py(x), and 
+Py(x) are virtually indistinguishable 
+from the graph of e* near x = 0. This 
+e 
+24 
+  
+is why they are good approximations 
+of e* for x near zero. However, their 
+accuracy diminishes as we move away 
+Y =Px) 
+  
+from zero. On the other hand, the 
+higher the degree of the polynomial, 
+the larger the interval of acceptability. 
+This is clear from looking at the 
+interval over which the graph of 
+Py(x) is very close to that of e* in 
+comparison with the other three. 
+Wl 
+Taylor polynomials 
+ 
+In a similar way to how we developed Maclaurin polynomials, but focusing on 
+approximating a function fin the vicinity of x = 0, we can develop polynomials 
+that approximate a function fat a point x = x,. It appears as a translation of the 
+polynomials by x, units, with the same conditions. That is, we want an nth-degree 
+polynomial P with the property that its value and the values of its first n derivatives 
+agree with the values of fand its first n derivatives at x,. 
+Taylor polynomials are of the form: 
+" 
+f1(0) 
+P,(x) = f0) + f(0)(x — xp) + e Xo)? + e x0)3 
+fm(0) 
+n! 
+  
++ st 
+x = xp)" 
+In fact, Maclaurin polynomials are special cases of Taylor polynomials where x, = 0. 
+  
+  
+  
+¥ 
+y=k 
+* 
+/ 
+o 
+y=P) 
+y=P(x) 
+¥ =Px) 
+0 
+1 
+x 
+ 
+Figure 16.15 Approximating e+ atx = 
+1 
+874
+
+Note how the graphs of the polynomials shift to the right by 1 unit in 
+approximating e*at x = 1. 
+Notation: 
+Formulae for Maclaurin and Taylor polynomials can be written using 
+sigma notation: 
+w 
+F0 oy 
+Taylor: P,(x) = Zf 
+o) 
+= 
+k! 
+. 
+F®x 
+Maclaurin: P,(x) = Zf 
+(D) 
+xk 
+=0 
+k! 
+  (x = x* 
+  
+Note that we are using f®(xy) to denote the kth derivative of fat x = x,, 
+and we are using the convention f©(x,) to denote f(x,). 
+el 
+and 
+Taylor series 
+It is not a big step to extend the notion of Maclaurin and Taylor polynomials to 
+series by not stopping the summation at n. Thus, we have the following definition. 
+  
+  
+  
+‘Taylor and Maclaurin series are power series in x. They are in the form, 
+Given a power series 
+S apxk=ag+apx+ ax? + ..+ apxk + .. 
+> agxk and if 
+=0 
+=0 
+where ag, aj, ay, 
+... are constants. Some examples are: 
+Sy =ap+ ayx + ayx? + 
+C k=l 
+x Attt 
+ot =3 
+ek 
+k=0 
+=0 
+o 
+i 
+2 
+o 
+g 
+e 
+whichis 
+the sum of the 
+i 
+276 
+terms of the series up to 
+. R 
+and including the term 
+S 
+antn T3 
+with index 
+n, then S, is 
+nth partial sum of the 
+serics. 
+Ifa function f has derivatives of all orders at x = xo, then the Taylor series for fabout x = xois 
+given by: 
+o f““(x 
+) 
+7O 
+f““(o) 
+@ — 1)k = flO) + fOx — xp) + @ Kk + ...+ 
+  
+  
+. 
+o —x)f + 
+. 
+Inthe spe:ial case where xo = 0, this series becomes 
+o 
+f® 
+©) 
+() 
+Zf O (0 o L R 
+i O) 
+& 
+K 
+2 
+T 
+and itis called the Maclaurin series for f 
+Maclaurin series are a 
+subset of Taylor series. 
+The nth Maclaurin and Taylor polynomials are in fact the nth partial sums for 
+We will maiz;ly e 
+the corresponding series. 
+Maclaurin series in this 
+book. 
+Example 16.31 
+Find the Maclaurin series for: 
+(a) flx) = sinx 
+(b) fix) = cosx 
+(©) flx) = 
+875
+
+Solution 
+(a) We need to differentiate f(x) = sinx repeatedly, and evaluate each 
+derivative at x = 0 to establish a pattern for the power series. 
+fOx) = fix) = sinx 
+f(0)=0 
+fl0 = cosx 
+fO=1 
+f'x) = —sinx 
+f1o=0 
+fP0) = —cosx 
+[0 = -1 
+[ = sinx 
+[0 =0 
+9% = cosx 
+fe0=1 
+Since f@(x) = sinx = f(x), the pattern 0, 1, 0, —1 will repeat as we 
+evaluate successive derivatives at 0. Thus, the power series is 
+  
+  
+  
+  
+  
+iﬂm x1=f0) + f(0)x +f/; 
+Ve 
++f(:('0)x" + 
+_0+1x+£x2+ 3'1x3+£' 51! 
+f(:(!o),. 
+=x—§—?+:—;—’;—:+ A+(—1)"%+ 
+Therefore, the Maclaurin series for f(x) = sinx is 2(* 1)"(2):;;‘1]! 
+(b) Differentiate f(x) = cosx, and evaluate each derivative at x = 0 
+fO@) = fix) = cosx 
+fl0) =1 
+fi(x) = —sinx 
+f@=0 
+f"(x) = —cosx 
+f1o=- 
+f®x) = sinx 
+f®0 =0 
+f@x) = cosx 
+f@0) =1 
+Since f(x) = cosx = f(x), the pattern 1, 0, —1, 0 will repeat as we 
+evaluate successive derivatives at 0. Thus, the power series is 
+o 
+fm(Q 
+(0 
+() 
+z:f( 
+f() o 
++f 
+(0) 
+  
+  
+  
+  
+T O 
+e 
+= 
+v 
+=1+0-x+—1x2+£x3+ix4+£x5m+f 
+Do 
+2! 
+3! 
+4! 
+5! 
+n! 
+2P 
+s 
+S = 
+=17 
+21 
+4l 
+6‘ 
+il 
+(2n)' 
+Therefore, the Maclaurin series for f(x) 
+= cosx is Z 
+= 
+am 
+(c) Since we found the Maclaurin polynomial earlier, we just need to extend 
+it to be a series. 
+Po=1txtE X 
+Sl 
+: 
+q 
+x" 
+Thus, Maclaurin series for f{x) = e*is Z—' 
+a=on! 
+876
+
+If S, is the partial sum of a power series, and if as n — o0, S, tends towards 
+a limit, then we say that the series converges; otherwise, the series diverges. 
+There are tests for convergence of series available, but they are beyond the 
+scope of this book. It will be assumed that all power series discussed are 
+convergent either for a specific value of x or for an interval. In fact, all 
+power series, including Maclaurin series, are convergent for x = 0 because 
+for x = 0: 
+S, —Zakx“ ap+a;x+ ax? + ...+ a,x" 
+=a+a;-0+a,-02+ 
+... +a, 0"=aq, 
+  
+Differentiating and integrating power series 
+The power and versatility of representing functions with power series is due 
+largely to the fact that they retain many of the properties of finite polynomials. 
+Two of the properties that make polynomials particularly useful in calculus are 
+the ease with which they can be differentiated and integrated term-by-term. 
+We can also integrate and differentiate power series. 
+Iffio = Zﬂn(x — x0)" is a power series representation of 
+a function f, then 
+fw= Z 
+dxm x = %) 
+‘This is to say that the derivative of f can be represented by a series that sums the term-by-term 
+derivatives of its power series representation. See Example 16.32. 
+= 
+< 
+4 
+Jfew dx=3{fanex = 0" ) =Zﬂn7f1(r —x™ +c 
+‘This is to say that the derivative of f can be represented by a series that sums the term-by-term 
+derivatives of its power series representation. See Example 16.33. 
+Obviously, this is true when xp = 0 
+Example 16.32 
+| 
+i 
+Given that sinx = »_ (—=1)" x_, find the Maclaurin series for 
+=] 
+@2n+ 1! 
+fx) = cosx 
+  
+Solution 
+cosx = i(sinx) S gi((fnn%) 
+2((—1)@. + 1>(+1),) 
+Ifwe putx=1in the 
+Maclaurin series for ¢%, 
+we obtain an expression 
+for the number e as a 
+sum ofan infinite sries: 
+e=1+14 L 
+1t 
+1 G 
+  
+877
+
+Example 16.33 
+o 
+2 
+Given that cosx = Z;,(* 1)"%, find the Maclaurin series for f(x) = sinx 
+  
+Solution 
+X2 
+o 
+2+l 
+v 
+STz 
+N 
+) 
+i 
+sinx = foosxdx 
+;,f 
+e 
+& = 
+Y G e 
+  
++C 
+Butsin0 = 0, so C = 0 and thus, 
+20 
+2n+1 
+3 
+B 
+inx 
+=) () e 
+¢ 
+i e 
+snx 
+=2 T G 
+T3 
+  
+The algebra of polynomials you learned earlier applies for power series. 
+If power series are added, subtracted, multiplied or divided, they behave like 
+polynomials. 
+Given the power series fir) = ga,,x" andgn = éb,,x" and constant k, the following hold true: 
+Q) 
+fko = iﬂa (koo 
+(i) fe) = ”i:n:a,,(x“)" = ap(eH0 + 4 (R + 2y (2 + . 
+(i) foo % g0o = g"""" = "i:;b,.x" = g(a,, * byt 
+(iv) foo-goo = in,.x"-ib,,x" = (agx® + ayx! + ...)(bpx® + byx! + ...) 
+= 
+= 
+  
+Example 16.34 
+Find the Maclaurin series for f(x) = (1 + x)¥, where k is a real number. 
+878
+
+Solution 
+SO0 = foo = (1 + »* 
+fo=1 
+floo= k(l + w1 
+fo) = 
+[l 
+= 
+| (I 
+f0) = klk — 1) 
+O 
+= k(k — Dk —2Q +x53 
+90 = klk — Dk — 2) 
+fn) = klk — Dk — 2.1+ 05 fo0) = Kk — Dk — 200k — n + 1) 
+Therefore, the Maclaurin series of f(x) = (1 + x)¥ is 
+  
+mf‘"'(O) 
+2kk— Dk 
+=2k —n+1) 
+=0 
+n! 
+; 
+n! 
+* 
+This series is called the binomial series. Notice that if k is a non-negative 
+integer, the terms are all zero. 
+The usual notation for the coefficients in the binomial series is 
+(k) _ktk—Dk—-2)..k—n+1) 
+5 
+i 
+and they are called the binomial 
+nd 
+coefficients. For instance, (2 
+i 
+4 
+128 
+3\ 
+_3G3-DB—-2)3—-3)3—4) _ 
+or 
+(5) - 
+51 
+=0 
+Ifkis any real number and |x] < 1, then the binomial series is given by 
+1) o K= D=2) 5 
+k=S 
+(k) xn = 
+k( 
+(1+x)—;( )= 
+ke KL 
+G 
+Example 16.35 
+  
+Find the Maclaurin series for f(x) 
+T 
+  
+Solution 
+f(x) can be written as f(x) = (1 + x) . In this form we can apply the 
+binomial series 
+fo=0+x0"'= i(;l)x" 
+=0 
+PR I 
+(= 
+1) 
+N 
+2 
+Bl 
+% 
+Sl =gpapal= 
+P o = 
+=1 
+=0 
+879
+
+Example 16.36 
+Find the Maclaurin series for g(x) = 
+T 
+  
+  
+Solution 
+As mentioned in the algebraic operations theorem above, we substitute (—x) 
+for x in Example 16.35 
+R 
+g =0-x l—nzso( 
+")( 
+0 
+= 
+=il=il 
+= ) 
+S 
+GO 
+s GO 
+= EIEIEIEP) 
+A 
+i 
+3 
+(E=E9F 
+7 oo 
+o 
+= 
+fi2 o 
+= D 
+n=0 
+This result can also be seen when we look at the right side of the equation 
+above and recognise that it is an infinite geometric series with common ratio 
+|x| < 1. (Remember that this is a Maclaurin series, i.e. expansion about x = 0) 
+Example 16.37 
+Find the Maclaurin series for g(x) =    
+  
+Solution 
+Rewrite g(x) in the form 
+wo= 
+=t 
+e 
+=3- 
+) 15D 
+  
+1 
+P o 
+R 
+o 
+I 
+) 
++ 
+“+ 
+(1+2~9x 29 
+T piaiet T 
+2 aon 
+X 
+880
+
+Example 16.38 
+Find the Maclaurin series for g(x) = In(1 + x) 
+  
+Solution 
+Knowing that %ln(l 
+%)= t_hen by integrating the Maclaurin 
+series for f(x) = 
+e developed in Example 16.35, we get the series for g(x). 
+I+ = [hde= [0 -5+ 22 -0+ .0k 
+  
+2 
+3 
+4 
+oo, 
++1 
+SO R 
+NGy 
+2 
+n=0 
+n 
+3 
+4 
+el 
+Forx 
+= 0,In(1 + 0) =0 + C = 
+C = 0, Thus, 
+  
+3 
+4 
+ln(1+x)*x*7+%*x— Z 1’" 
+Example 16.39 
+Find the Maclaurin series for g(x) = arctan x 
+Solution 
+;2, we can get Maclaurin series for g(x) by 
+: 
+d 
+Knowing that ——arctan x = 
+R 
+dx 
+JIECET 
+  
+finding the Maclaurin series for 7 +1 
+5 and then integrating the resulting 
+X 
+series. 
+Using the result of Example 16.35: 
+  
+         
+    
+               
+  
+1 
+220 
+> 
+(—1) 
+— —l-—xtx—wt. 
+—Drxn 
+= 
+X 
+X 
+X 
+,;q 
+X 
+Sl oot =Yl 
+1+x2 
+o 
+n=0 
+se)abz 
+4 © 
+X2 
+o 
+=x—T+T 
+-4+ 
++ 
+&2 
+3 o 
+5 
+7 & 
+G 
+Butarctan0 
+= 0 = C = 0, thus, 
+xJ 
+xS 
+x7 
+&, 
+xln+l 
+=x—+ T+ = 
+arctanx = x 
+3 
+5 
+’;) 
+Tl 
+881
+
+882 
+Example 16.40 
+(a) Find the Maclaurin series for f(x) = e** 
+(b) Hence, find a series for [e*'dx 
+(c) Use the first four terms of the series in (b) to approximate the value 
+1 
+of f e 
+dx. 
+- 
+Solution 
+(a) To find the Maclaurin series for e** we substitute x2 for x in the 
+Maclaurin series for e*: 
+2 
+() xx 
+P 
+ev'= 
+=N 
+g 
+D 
+v;l 
+n! 
+=on! 
+FTET 
+(b) We can take the result from part (a) and integrate it term-by-term. 
+  
+  
+Jeras= [(1+x 5+ 
+) dx 
+5 
+2n+1 
+S e 
+PR 
+3 
+5.2 
+@n 
++ Dn! 
+. 
+e 
+. 
+Thaus,fe dx = Z 
+e 
+  
+(c) The first four terms of the series for f e**dxare 
+xln+l 
+x) 
+xS 
+x7 
+e ST 
+Ui 
+e s 
+;(2n+l)n! s 
+10 
+%2 
+  
+  
+1 
+We use this to approximate the value of the definite integral fn e*’dx 
+1 
+3 
+5 
+B 
+1 
+1 
+1 
+"'dxz[ +"—+"—+"—] =l4-+—+-— 
+fue 
+T30 
+al, 
+3700 
+@2 
+~ 1457142857 (to 10 significant figures) 
+Note: a GDC computes the value of f e dx to 10 significant figures to 
+be 1.462651746 
+‘We are unable to find a function that is an anti-derivative of eX* with the calculus techniques 
+covered in this course. Helping us to integrate such functions is a very useful application of power 
+series. Also, in statistics, evaluating functions related to e ~*dx is of great importance. This is 
+what goes on when calculators evaluate normal distribution values. For instance, we obtain 
+  
+3 
+5 
+7 
+)My 
+2041 
+Jerar=x- 
+4 Xy (CDWR L 
+Gple substitution of ~x2 for 
+3 
+5-20 
+7.3 
+Q2n + Dn! 
+x2in Example 16.40.
+
+Example 16.41 
+Find the first three non-zero terms in the Maclaurin series for: 
+  
+(@) esinx 
+) 5’:" 
+Solution 
+(a) Use the Maclaurin series for both functions and multiply them. 
+2! 
+3! 
+31 
+51 
+7! 
+‘We do not need to do full multiplication; it is sufficient to multiply the 
+first two terms of each since using more than two terms will result in 
+terms larger than we need. 
+4 
+6 
+3 
+5 
+7 
+eX’sinx:(1+x1+"—+"—+“,)(x—"—+"——"—+, 
+) 
+& 
+5 
+e 
+T L 
+6 
+120 
+(b) Again, use the Maclaurin series for both and start the process of long 
+division, but stop after reaching three terms. 
+3 
+5 
+7 
+=g 
+sinx 
+S 
+  
+  
+  
+  
+S 
+5 | 
+> (7 
+7% 
+81x° 
+GF e B 
+SRR 
+20 
+2 
+3l 
+Example 16.42 
+Use the first three terms of an appropriate power series to estimate V33 
+  
+Solution 
+  
+1 
+Use the binomial form of series for /T + x = 1 + éx + ST 
+1 
+—— 
+I 
+AR ] 
+- 
+V= =2{1 45 
+2[1+5 
+50(32) 
++ .~ 20123 
+  
+The theory of power series, including Maclaurin series, provides a method for 
+solving certain types of differential equations. We look at first order differential 
+equations of the form 
+d; 
+derd) 
+- 
+883
+
+The idea is to express the (unknown) solution y as a power series in the 
+independent variable x: 
+oc 
+y = 
+axt 
+k=0 
+Assuming that the series converges over a certain interval, we apply the 
+theorem on differentiating power series: 
+dy 
+& 
+Doy = S kak! 
+= 
+h 
+The method will be demonstrated with a few examples. 
+Example 16.43 
+\:‘| 
+Use the power series method to solve the differential equation G 0 
+Solution 
+i 
+We assume that y = >_a;x*, so that g ASDBKG 
+k=0 
+dx 
+k=0 
+Substituting these values into the differential equation gives: 
+= 
+= 
+> kagxkt — > ayx* = 0, which implies 
+k=0 
+k=0 
+(G P 
+R 
+I8 
+o cak O 
+< o 
+| 
+= (Gl 
+@izl an x2S kel S 
+) 
+= (a, ~ ag) t (24, — a)x + (3a; — a))x? 
++ oo tkay— @)Xk 1+ =0 
+Since this series is equal to zero for all values of x, the coefficients must be zero: 
+a =a 
+2a, = a, 
+3a;=a, 
+ka, = a;, 
+Using these equations, we can solve for each coefficient in terms of the one 
+preceding it 
+Lot 
+11 
+T T 
+T 
+  
+R 
+I 
+| 
+T RE=DE=D L 
+me 
+884
+
+Returning to the series representation for y 
+‘The result of Example 
+16.43 should have been 
+= 
+o ay 
+o 
+] 
+expected since we know 
+y=Yaxt =Yk = gy ) ook 
+that the differential 
+= 
+i=ok! 
+i=ok! 
+equation is a variables 
+In fact, this is the power series representation for y = a,e* 
+separable equation 
+‘whose solution we 
+have discussed earlier. 
+However, the objective is 
+solutions, which provide 
+Use the power series method to solve the differential equation y’ — xy = 0, 
+i e 
+to solving differential 
+y0) =2 
+equations. 
+| 
+Solution 
+m 
+m 
+We assume that y = > _ayx*, so that y = >_kax*! 
+k=0 
+k=0 
+Substituting these values into the differential equation gives: 
+oo 
+o0 
+% 
+o 
+> kapxkt — 1Y apxk = > kagxkl — Y axk*! = 0, which implies 
+k=0 
+k=0 
+k=0 
+k=0 
+(G247 R 
+2 
+S 
+7 ook e 
+| 
+—(apx + @ + a3 + ... + a2k 1+ L) =0 
+= a, + (2a; — ag)x + (3a; — a))x? + ... +(kay — a, 
+  
+Since this series is equal to zero for all values of x, the coefficients must be zero: 
+a=0 
+2a, = a, 
+3a;=a; 
+kay = a;_, 
+In general, it appears that the recurrence relation here is a, = %ak,z, 
+with the fact that a, = 0, we see that all ‘odd’ coefficients are zero. 
+The even coefficients are: 
+a, 
+%u,, 
+PR 
+PR 
+4 
+4 
+2 
+a=lp 
+=L 11 
+6 
+6 
+4 
+2 
+amlg =100 1 
+8 
+8 
+6 
+4 2 
+Ay = L“zkfz = +“a 
+2k 
+2k(2k — 2)(2k — 4)...2 
+885
+
+886 
+By factoring 2 in the denominator we observe that there is a pattern, which 
+is confirmed when checked with the earlier terms: 
+P 
+2k 
+Zkk' ag 
+Therefore, the power series solution is: 
+Y= QG okt 
+R Tl o Sl L 
+1 
+1 
+= e e 
+L 
+e :uo+5u,,xz+2 ~—an +... 
+1 
+B T e 
+2kl 
+o ¥ 
+66 
+6 
+&) 
+%, 
+\2 
+2 
+2 
+R\ 
+G\ 
+e 
+S 
+7.1,,20: 
+= 
+In fact, this is the power series representation of y = aje?, and applying the 
+initial conditions gives: 
+y=age? = 2 = agand so, the solution of the initial value problem is 
+  
+  
+  
+  
+y=12e" 
+Selected Maclaurin series 
+Function 
+Interval of 
+convergence 
+—1<x<1 
+—1<x<1 
+R 
+S 
+) 
+= 
+ol 
+S50 
+=S 
+= 
+-2 
+sinx 
+”;( 
+)12n+l)! 
+R 
+R 
+2 
+‘ 
+6 
+=) 
+(1" 
+S 
+i 2 G 
+R 
+2n+1 
+3 
+5 
+7 
+S 
+BB 
+—1<x< 
+arctanx;1b+lx3+57 
+1 << 
+(l+x)k*2(k)x"*l+kx+ (2 D 2+7k(k_l;'(k 
+Dan.. 
+—fegzl
+
+Exercise 16.4 
+For several exercises of this section a GDC, CAS, or computer is recommended. 
+1. Use the known Maclaurin series for a related function to find series 
+expansion for each function. 
+(@) foo = E’Te’ 
+(b) fix) = cosx? 
+(©) flx) = x?sin2x 
+(d) fix) = sin’x 
+d 
+e %(1 
+oY) 
+(e) fix) = In(1 + x?) 
+) fir) = x%e 
+_fIn(1 +x)7 
+x20 
+2. Use power series with four terms to estimate the numerical value of each 
+expression. Round your answer to 4 decimal places. 
+(a)fcRlls 
+(b) sin0.1 
+(c) In0.9 
+@ | e 
+@/ le-rdx 
+3. Use multiplication or division of power series to find the first three 
+non-zero terms in the Maclaurin series for each function. 
+(a) flx) = xsinx 
+(b) g(x) = tanx 
+In question 
+3 (b), use 
+_ sinx 
+tanx = gt 
+(©) fix) =e*In(1 — x) 
+  
+4. Find a Maclaurin series for a 
+L 
+; 
+by differentiating the Maclaurin 
+— %2 
+  
+series for 
+  
+5. Find the Maclaurin series for ln( I5ie x) 
+et te* 
+6. The function fis defined by fix) = 
+b 
+(a) Obtain an expression for f™(x), the nth derivative of f(x) with 
+respect to x. 
+(b) Hence derive the Maclaurin series for f(x) up to and including the 
+term in x*. 
+(c) Use the result to find a rational approximation to f(%) 
+887
+
+Integral calculus 2 
+oftanx 
+. 
+q 
+2 
+G 
+p 
+7. Find a power series for sec?x. 
+8. Use series to evaluate each limit. 
+(a) Lim 
+1 — cosx 
+(b) Lm>= arctanx 
+#0er=1=x 
+x50 
+7 
+9. Use power series to find the solution to each differential equation. 
+(@B Y0 
+) 
+' =67=0 
+© y —2x9=0 
+@y +4y=0, 
+p0)=1 
+(e) (x+ 1)y =3y 
+(f) 2+ 1)y = —2xy 
+10. Find a Maclaurin series expansion for each function. 
+  
+  
+@ foo=VT+x 
+(b) fix) = —1 
+VI 
+— %2 
+© fo == 
+W) foo = VT 
+F % 
+  
+T+x 
+11. Use the first three terms of an appropriate series to estimate each number. 
+(a) V1.03 
+(b) V99 
+(© 
+famiu Fxtdx 
+Chapter 16 practice questions 
+e 
+T el o o 
+. 
+dolve 
+€ 
+erential 
+equation — = 
+i 
+dx 
+ VT+x? 
+Given that y = 
+1 when x = 0, express y as an explicit function of x. 
+  
+d 
+2. Find the particular solution to the differential equation a}’ = sinx cos?y 
+given that y = %when x= 
+I 
+d; 
+3. The solution curve to the differential equation xa}/ = y(3 — y) passes 
+through the point (2, 2). Find y as an explicit function of x. 
+d; 
+4. Show that the general solution to the differential equation Pl 
+ylnx 
+Sj/Es Gui 
+S 
+888
+
+5. All radioactive substances decay at a rate proportional to the amount 
+of the substance that exists at any time. The half-life of radium is 1620 
+years. How much of a 10-gram specimen of radioactive radium will 
+remain after 25 years? Give your answer to 3 significant figures. 
+6. Solve the following separable differential equations. 
+  
+  
+dy o 
+dy 
+R 
+i 
+Oz 
+R 
+dy 
+dy 
+—d& 
+_x 
+I 
+S 
+e 
+(d)xdx 
+tany 
+(e) 
+e 
+Xy 
+(f) 
+vx 
+ldx 
+5 
+dy7y2*1 
+dy 
+(8)3* 
+=~ 
+(h) ln}’afl 
+7. Using the method of separation of variables, show that an implicit 
+  
+e R e 
+T ORI 
+e 
+solution 
+for 
+the 
+differential equatlona—xy+xlsye 
+= 
+Axe*, 
+where A is an arbitrary constant. 
+8. Find the general solution, in explicit form, to the differential equation 
+d 
+yay = cos x. Comment on the possible values of the constant C. 
+9. The equation for the rate of change of the population (in thousands), p, 
+dj 
+of a certain species is given by d_}: = 5pisn2 
+(a) 
+If the initial population is 4000 (that is, p(0) = 4), then what appears 
+to be the limiting value of the population (that is, }irg p0)? 
+(b) Ifp(0) = 0.5, what s lim p(t)? 
+(c) Comment on the long-term behaviour of the species’ population 
+growth. 
+10. Solve the initial-value problem 
+d_}’ SN2 
+i secEx 30 
+= —5 
+dx 
+2 
+d; 
+11. Consider the initial-value problem (1 + xz)ay +1+y2=0,90)=—1 
+(a) Show that the implicit solution can be expressed as 
+arctan y + arctan x = % 
+(b) Use the formula for tan (A + B) to find the explicit solution. 
+889
+
+Integral calculus 2 
+12. Solve the initial-value problem 
+dy 
+A+x)—==1+y%y2) =3 
+x?) 
+¥4 
+yQ2) 
+Write the solution in explicit form, expressing y in terms of x. 
+13. (a) Use the method of partial fractions to express 
+—— L = 
+as the sum of two fractions. 
+L 
+" 
+o 
+G 
+(b) Consider the differential equation e %= 
+such that y = 
+1 when x = 5. 
+3y 
+Show that the solution is 2¢ 7 =~ o ; 
+= 
+  
+d 
+14. Consider the differential equation (1 — x2) ay + 2xy = 2x 
+(a) Find the general solution in the form y = f(x) by the method of 
+separation of variables. 
+(b) Write the differential equation in the standard form for a first order 
+d 
+linear differential equation, a}/ + yP(x) = Q(x), and find the general 
+solution by means of an integrating factor. 
+15. Solve each of the following first order linear differential equations. 
+&2y 
+_ 
+y 
+@ dx+(§)}’7sx3 
+® & 
+0T 
+dy 
+y 
+dy 
+: 
+oue 
+(c) —dX*}:xS 
+(d) —dx+ysmx:e 
+d; 
+d; 
+() a}'—wy:ex’ 
+® xay:x+y 
+d 
+16. Solve the first order linear differential equation tanxd—i + y = cosecx, 
+giving your answer in the form y = f(x). 
+17. Consider the initial-value problem 
+& 
+xy 
+A2 
+  =150 =1 
+(a) Show that the differential equation is a first order linear equation by 
+d; 
+writing it in the form Ey + yP(x) = Q(x) 
+(b) Show that the integrating factor is V1 — x? 
+890
+
+18. 
+16 
+20. 
+21. 
+22. 
+23. 
+(c) Use the substitution x = sin u, to show that 
+f\mdx:x“;x 
++ arc;inx+c 
+(d) Find the solution to the initial-value problem expressed in the form 
+y=f 
+(a) Show that ftanxdx = —In|cos x| 
+d 
+. 
+. 
+. 
+: 
+! 
+(b) Show that & =1 + ytanxis a first order linear differential equation. 
+- 
+3 
+dy - 
+T 
+T 
+(c) Find the general solution of P 1+ ytanx, 3 <%*<3 
+Find the particular solution to the differential equation 
+dy xlnx-—y 
+| 
+_ 
+_ 
+T C D thaty = 1whenx = 1. 
+Find the general solution, in explicit form, to the differential equation 
+d 
+22— pixy=0 
+dx 
+Find the general solution to the first order homogenous differential 
+gy=sz 
+) 
+. 
+. 
+_ 
+equation 
+T Write the answer in the form C = fix, ). 
+Solve each of the following first order homogeneous differential 
+  
+  
+  
+equations. 
+dy 
+dy x+2y 
+s 
+T 
+d 
+d 
+22 + 
+y? 
+© xt=2c+3y 
+(0 
+s 
+dx 
+dx 
+2xy + 3y? 
+d 
+d 
+© xyay —x2—y? 
+() x — x)ay =y(x +) 
+e e 
+A a2y SR 
+onsider 
+the 
+differentiz 
+equa 1on a = 3}’ — le 
+or x 
+dv_ 1+2v 
+the 
+tituti 
+= 
+to 
+show 
+that v + x=— = 
+(a) Use the substitution 
+y = vx to show that 
+v 
+xdx 
+e 
+  
+(b) Hence find the solution of the differential equation, given that y = 0 
+when x = 1. 
+891
+
+892 
+Integral calculus 2 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
+Use the substitution y = vx to show that the general solution to the 
+d 
+differential equation y? — x2 + xyd—j: = 0is 2x2y? — x* = C, where C 
+is a constant. 
+&y 
+Consider the initial-value problemxa =y tyxz—y2y1) =1 
+(a) Use the substitution y = vx to show that v + x% =v+Vl—? 
+(b) Hence show that the solution is arcsin (;) = In|x| + g 
+d 
+2ar 
+Consider the differential equation a}’ = 
+% Z 
+  
+(a) Find the general solution. 
+(b) Given thaty = 
+1 when x = 1, find a particular solution, solved 
+explicitly for y. 
+(c) Use Euler’s method with step size h = 0.2 to approximate the 
+solution at x = 1.2, 1.4, 1.6, and 1.8. 
+(d) Compute the percentage error for each of the approximate solutions 
+found in (c) compared to the solution for same value of x found 
+using the explicit solution found in (b). 
+d; 
+Given that ay = xy?and y = 
+1 at x = 0, use Euler’s method with 5 steps 
+to approximate the value of y at x = 1. 
+Use Euler’s method with step size h = 0.1 to approximate the value of y 
+d 
+when x = 1 for the differential equation d—y = e, given that the 
+g 
+solution curve passes through the point (0, 1). 
+Use the substitution y = vx to find the general solution to the 
+e 
+e 
+erential equation -~ = 
+) 
+d; 
+Given that ay = x\/y and y = 4 when x = 1, use Euler’s method with 
+step size h = 0.1 to approximate the solution at x = 1.1, 1.2, 1.3, 1.4, 
+and 1.5.
+
+317 
+32. 
+335 
+34. 
+858 
+Consider the initial-value problem 
+j—i:x*)ﬁ}’(o)zo 
+(a) Show that the solutionisy =e 
+™ +x — 
+1 
+(b) Use Euler’s method with five steps to find an approximate value of y 
+when x = 1. 
+(c) Use Euler’s method with 10 steps to find another approximation for 
+y(D. 
+(d) Compare the approximate values for y(1) found in (b) and (c) to the 
+actual value using the solution y = e ~* + x — 1. Comment. 
+The rate, in degrees Celsius per minute, at which the temperature of a 
+cup of tea decreases is given by —k(a — 20), where a is the temperature 
+in degrees Celsius and k is a constant. When ¢ = 0 minutes, 
+a = 70°C, and when t = 10 minutes, @ = 50°C. Find an equation 
+for the temperature in terms of time ¢. 
+d 
+Consider the differential equation xd—y —3y=xt 
+x 
+(a) Find the general solution. 
+(b) Given that y = 2 when x = 1, find the particular solution. 
+For all positive values of x, the slope of a curve at the point (x, y) is given 
+  
+by 
+The point P(3, 6) lies on this curve. 
+P 
+Find: 
+(a) the equation of the normal to the curve at P 
+(b) the equation of the curve where y is expressed in terms of x. 
+dySy2s i x2 
+: 
+; 
+; 
+SUeCy 
+Consider the differential equation & 
+forx>0 
+2 
+(a) Use the substitution 
+y = vx to show that v + xcdl—; = 3V2+ 
+L 
+v 
+  
+(b) Hence find the solution of the differential equation, given that y = 2 
+when x = 1. 
+893
+
+  
+894

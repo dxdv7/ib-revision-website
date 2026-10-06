@@ -1,0 +1,5937 @@
+ 
+
+450 
+Statistics 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+« 
+concepts of population, sample, random sample, and frequency 
+distribution of discrete and continuous data 
+« 
+reliability of data sources and bias in sampling; recognising sampling 
+techniques and their effectiveness 
+« 
+interpreting outliers 
+« 
+presenting data using frequency tables and diagrams, 
+and box-and-whisker plots 
+« 
+working with grouped data: mid-interval values, interval width, 
+upper and lower interval boundaries, frequency histograms 
+o 
+interpreting and calculating mean, median, mode; quartiles, percentiles 
+« 
+interpreting and calculating range, interquartile range; variance, 
+standard deviation 
+« 
+interpreting and calculating cumulative frequency, cumulative frequency 
+graphs, and using them to find median, quartiles, percentiles 
+« 
+interpreting and calculating linear correlation of bivariate data 
+« 
+interpreting and calculating linear regression models. 
+You will almost certainly encounter statistics, in one form or another, on a daily 
+basis. Figure 10.1 shows an example. 
+50 
+— 
+40 
+Frequency 
+w 2 
+B S 
+10 
+| 
+L 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+0 
+— 
+0 
+30 
+40 
+30 
+6 
+70 
+80 
+HALE 
+Figure 10.1 Worldwide population health 
+Data pertaining to worldwide population health in UN-member countries is 
+widely available. Among the indicators reported is the health-adjusted life 
+expectancy (HALE), which is based on life expectancy at birth, but includes 
+an adjustment for time spent in poor health. It is most easily understood as 
+the equivalent number of years in full health that a newborn can expect to live, 
+based on current rates of ill-health and mortality. According to WHO (World 
+Health Organization) rankings, years lost due to disability are substantially 
+higher in poorer countries. Several factors contribute to this trend, including 
+injury, blindness, paralysis, and the debilitating effects of tropical disease.
+
+Of the countries ranked by WHO, Japan has the highest healthy life expectancy 
+(75 years) and the lowest ranking country is Sierra Leone (29 years). 
+Reports similar to this one are commonplace in publications of several 
+organisations, newspapers and magazines, and on the internet. 
+There are many questions we can ask about a report like this: 
+o 
+How did the researchers collect the data? 
+« 
+How can we be sure that these results are reliable? 
+« 
+What conclusions should be drawn from this report? 
+The increased frequency with which statistical techniques are used in all fields, 
+from business to agriculture to social and natural sciences, leads to the need for 
+statistical literacy - familiarity with the goals and methods of these techniques 
+- to be a part of any well-rounded educational programme. 
+Statistical methods for summary and analysis provide us with powerful tools 
+for making sense out of the data we collect. In this chapter, we will start by 
+introducing two basic components of most statistical problems - population and 
+sample — and then discuss the methods of presenting and making sense of data. 
+In the language of statistics, one of the most basic concepts is sampling. In most 
+statistical problems, we draw a specified number of measurements or data - a 
+sample - from a much larger body of measurements, called the population. 
+On the basis of our observations of the data in the well-chosen sample, we try 
+to describe or predict the behaviour of the population. 
+A population is any entire 
+collection of people, 
+animals, plants, or things 
+from which we may collect 
+data. It is the entire group 
+we are interested in, 
+which we wish to describe 
+or draw conclusions 
+about. In order to make 
+any generalisations 
+about a population, a 
+sample (that is meant 
+to be representative 
+of the population) is 
+often studied. For each 
+population there are many 
+% 
+possible samples. 
+Population 
+  
+Sample 
+Figure 10.2 A sample is representative of a population 
+451
+
+Avariable is a 
+characteristic that 
+changes or varies 
+over time and/or for 
+different objects under 
+452 
+consideration. 
+Statistics 
+For example, a study was conducted to examine the use of water for washing 
+clothes in the households of an EU country. 
+1674 households were surveyed where the residents own and use a washing 
+machine. The average amount of water used by each washing cycle was 
+reported to be 58 minutes. The average time for each cycle was 42 minutes. 
+It was also discovered that the amount of laundry done by a household every 
+year is related to the household’s income. 
+In this example, the population is household usage of water for washing, 
+average wash cycle time, income, and so on. The sample is the set of 
+measurements of 1674 households that took part in the study. Notice that 
+the population and sample are the measurements and not the people. The 
+households are ‘experimental units’ or subjects in this study. 
+In this chapter we will present some basic techniques in descriptive statistics — 
+the branch of statistics concerned with describing sets of measurements, both 
+samples and populations. 
+Graphical tools 
+Once we have collected a set of measurements, how can we display this set in a 
+clear, understandable and readable form? First, we must be able to define what 
+is meant by measurement or data, and to categorise the types of data we are 
+likely to encounter. We begin by introducing some definitions of the new terms 
+in the statistical language that we need to know. 
+For example, if you are measuring the height of adults in a certain area, the 
+height is a variable that changes with time for an individual and from person 
+to person. When a variable is actually measured, a set of measurements or data 
+will result. The set of measurements is called a data set. 
+As the process of data collection begins, it becomes clear that often the 
+amount of data collected is so large that it is difficult for the statistician to see 
+the findings of the data. The statistician’s objective is to summarise the data 
+succinctly, bringing out the important characteristics of the numbers and 
+values in such a way that a clear and accurate picture emerges. 
+‘When looking at statistical results, care must be taken with how data has been 
+collected/measured. Reliability and validity are often used interchangeably 
+when they are not related to statistics. In statistics, however, they refer to 
+different properties of the statistical or experimental method. 
+Reliability is another term for consistency. For example, if one person takes the 
+same personality test several times and always receives the same results, the test 
+is reliable.
+
+A test is valid if it measures what it is supposed to measure. If the results of the 
+personality test claimed that a very shy person was in fact outgoing, the test 
+would be invalid. 
+Reliability and validity are independent of each other. A measurement may be 
+valid but not reliable, or reliable but not valid. Suppose your bathroom scale 
+was reset to read 5 kg lighter. The weight it reads will be reliable (the same every 
+time you step on it) but will not be valid, since it is not reading your actual 
+weight. 
+Reliability or reproducibility in statistics refers to consistency in measurement: 
+the capacity to produce the same result for two identical states, or, more 
+practically, the closeness of the initial estimated value(s) to the subsequent 
+estimated value(s). 
+Classification 
+of variables 
+Numerical or categorical 
+When classifying data, there are two major classifications: 
+Data 
+numerical and categorical. 
+Numerical (quantitative) data: quantitative variables measure 
+a numerical quantity or amount of each experimental unit. 
+Quantitative data yields a numerical response. 
+Numerical/ 
+quantitative 
+For example: Yearly income of company presidents, the heights 
+of students at school, the length of time it takes students to finish 
+their lunch at school, and the total score you receive on exams 
+are all numerical data. 
+Discrete 
+There are two types of numerical data: 
+   
+  
+  
+Figure 10.3 Classifying data 
+Discrete: responses that arise from counting. For example, 
+the number of courses students take in a day. 
+Continuous: responses that arise from measuring. For example, 
+the time it takes a student to travel from home to school. 
+Categorical (qualitative data) data: qualitative variables measure a quality or 
+characteristic of the experimental unit. Categorical data gives a qualitative 
+response; that is, data is a kind or type, rather than a quantity. 
+For example: categorising students into first year IB or second year IB, 
+into AI/SL, AI/HL, AA/HL, or AA/SL. 
+When data is first collected, there are some simple ways of beginning to 
+organise it. These include an ordered array and the stem-and-leaf plot. 
+453
+
+1f classes are described 
+with discrete limits such 
+as ‘30-34; '35-39; ‘40-44; 
+..., then the boundaries 
+are midway between 
+the neighbouring class 
+limits/endpoints. That is, 
+the classes above will be 
+considered as 29.5 but 
+less than 34.5} 34.5 but 
+less than 39.5; ‘39.5 but 
+less than 4.5’ etc..... Here 
+  
+the boundaries are 29.5, 
+34.5,39.5,44.5. Each class 
+454 
+width s 5. 
+Statistics 
+« 
+Data in raw form (as collected): 
+24,26, 24,21, 27,27, 30, 41, 32, 38 
+« 
+Data in an ordered array from smallest to largest (an ordered array is an 
+arrangement of data in either ascending or descending order): 
+21, 24, 24, 26, 27, 27, 30, 32, 38, 41 
+Suppose a consumer organisation was interested in studying weekly food 
+and living expenses of college students. A survey of 80 students yielded the 
+following expenses to the nearest euro: 
+  
+38 
+[50 
+|55 
+|60 
+[46 
+|51 
+|58 
+|64 
+|50 
+|49 
+|48 
+|65 
+|58 
+[61 
+|65 
+|53 
+39 
+|51 
+|56 
+|61 
+|48 
+|53 
+|59 
+[65 
+|54 
+|54 
+|54 
+|59 
+|65 
+|66 
+|47 
+|49 
+40 
+|51 
+|56 
+|62 
+|47 
+|55 
+|60 
+[63 
+|60 
+|59 
+|59 
+|50 
+|46 
+|45 
+|54 
+|47 
+41 
+|52 
+|57 
+|64 
+|50 
+|53 
+|58 
+|67 
+|67 
+|66 
+|65 
+|58 
+|54 
+|52 
+|55 
+|52 
+44 
+|52 
+|57 
+|64 
+|51 
+|55 
+|61 
+|68 
+|67 
+|54 
+|55 
+[48 
+|57 
+[57 
+|66 
+|66 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Table 10.1 Weekly food and living expenses in euros for 80 college students 
+The first step in the analysis is a summary of the data, which should show the 
+following information: 
+« What values of the variable have been measured? 
+« 
+How often has each value occurred? 
+Such summaries can be done in many ways. The most useful are the frequency 
+distribution and the histogram. There are other methods of presenting data, 
+some of which we will discuss later. 
+Frequency distributi 
+  
+(table) 
+A frequency distribution is a table used to organise data; classes (groups) 
+are the numerical intervals for a variable being studied, and each class in the 
+table shows the frequency, or number of observations. Intervals are normally 
+of equal size, must cover the range of the sample observations, and are non- 
+overlapping (see Table 10.2). 
+There are some general rules for preparing frequency distributions that make it 
+easier to summarise data and to communicate results. 
+Construction of a frequency distribution (table) 
+Rule 1: Intervals (classes) must be inclusive and non-overlapping; each 
+observation must belong to one and only one class interval. Consider a 
+frequency distribution for the living expenses of the 80 college students. 
+If the frequency distribution contains the intervals ‘35-40" and ‘40-45, 
+to which of these two classes would a person spending €40 belong? 
+The boundaries, or endpoints, of each class must be clearly defined. For our 
+example, appropriate intervals would be ‘35 but less than 40’ and ‘40 but less 
+than 45’
+
+Rule 2: Determine k, the number of classes. Practice and experience are the 
+best guidelines for deciding the number of classes. In general, the number of 
+classes could be between 5 and 10, but this is not an absolute rule. Practitioners 
+use their judgement in these issues. If the number of classes is too few, some 
+characteristics of the distribution will be hidden, and if too many, some 
+characteristics will be lost with the detail. 
+Rule 3: Intervals should be the same width, w; the width is determined by the 
+following: 
+) 
+i 
+largest number — smallest number 
+interval width= ———————— 
+number of intervals 
+Both the number of intervals and the interval width should be rounded 
+upwards, possibly to the next largest integer. The above formula can be used 
+when there are no natural ways of grouping the data. If this formula is used, 
+the interval width is generally rounded to a convenient whole number to 
+provide for easy interpretation. 
+In the example of the weekly living expenses of students, a reasonable grouping 
+with nice round numbers was that of ‘35 but less than 40’ and ‘40 but less than 
+45, and so on. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Living expenses 
+Number of students 
+% of students 
+35 = living expenses < 40 
+2 
+2.50 
+40 < living expenses < 45 
+3 
+3.75 
+45 < living expenses < 50 
+11 
+13.75 
+50 < living expenses < 55 
+21 
+26.25 
+55 = living expenses < 60 
+19 
+2375 
+60 = living expenses < 65 
+11 
+13.75 
+65 = living expenses < 70 
+13 
+16.25 
+Total 
+80 
+100.00 
+ 
+ 
+ 
+ 
+  
+Table 10.2 Frequency and percentage frequency distributions of weekly expenses 
+Grouping the data in a table like this one enables us to see some of its 
+characteristics. For example, we can see that there are few students who spend 
+as little as €35 to €45, while the majority of the students spend more than €45. 
+Grouping the data will also cause some loss of detail, as we do not see from the 
+table what the real values are in each class. 
+In Table 10.2, the impression we get is that the class midpoint, also known as 
+the mid-interval value, will represent the data in that interval. For example, 
+37.5 will represent the data in the first class, while 62.5 will represent the data 
+in the 60 to 65 class. 35 and 40 are known as the interval boundaries. 
+Graphically, we have a tool that helps us visualise the distribution: the histogram. 
+Histograms 
+A histogram is a graph that consists of vertical bars constructed on a horizontal 
+line that is marked off with intervals for the variable being displayed. 
+455
+
+Here is an example of 
+a histogram produced 
+byaGDC. 
+  
+Tt 
+  
+  
+T 
+krn3E 
+[mas<d2.285714 n=4 
+  
+  
+    
+456 
+Statistics 
+The intervals correspond to those in a frequency distribution table. The height 
+of each bar is proportional to the number of observations in that interval. 
+The number of observations can also be displayed above the bars. 
+N 
+o 8% 
+   
+  
+  
+Frequency 
+w 
+S 
+  
+° 
+375 
+425 
+475 
+525 
+575 
+625 
+675 
+Midpoints 
+Figure 10.4 Histogram showing weekly living expenses 
+By looking at the histogram, it becomes clear that our observation above is true. 
+From the histogram we also see that the distribution is not symmetric. 
+Cumulative and relative cumulative frequency distributions 
+A cumulative frequency distribution contains the total number of observations 
+whose values are less than the upper limit for each interval. It is constructed by 
+adding the frequencies of all frequency distribution intervals up to and including 
+the present interval. A relative cumulative frequency distribution converts all 
+cumulative frequencies to cumulative percentages. 
+A cumulative distribution and a relative (percentage) cumulative distribution 
+for the weekly expenses data are shown in Table 10.3. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Living expenses, L | Numberof | Cumulative | %of students | Cumulative % 
+students 
+number of 
+of students 
+students 
+35=1<40 
+2 
+2 
+2.50 
+2.50 
+-~ | 
+0=L<45 
+=1 
+-3 
+s 
+45=L <50 
+11 
+16 
+13.75 
+20.00 
+50=L<55 
+A< .37 
+2625« 
+| , 4625 
+55 =L <60 
+19 
+56 
+2375 
+70.00 
+60=L<65 
+11 
+67 
+13.75 
+8375 
+65=L<70 
+13 
+80 
+16.25 
+100.00 
+80 
+100.00 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Table 10.3 Cumulative frequency and cumulative relative frequency distributions of weekly expenses 
+Notice how each cumulative frequency is added to the frequency in the next 
+interval to give you the next cumulative frequency. The same is true for the 
+relative frequencies. 
+As we will see later, cumulative frequencies and their graphs help us analyse 
+data that are given in group form. 
+Cumulative line graph/cumulative frequency graph 
+Sometimes called an ogive, this is a line that connects points that are the 
+cumulative percentage of observations below the upper limit of each class in a 
+cumulative frequency distribution.
+
+80 
+70 
+60 
+50 
+Cumulative 
+frequency 
+20 
+40 
+45 
+50 
+55 
+Expenses (€) 
+  
+60 
+65 
+70 
+100% 
+80% 
+60% 
+40% 
+20% 
+0% 
+Figure 10.5 An ogive is a line that connects points that are the cumulative percentage of observations 
+below the upper limit of each class 
+Notice how the height of each line at the upper boundary represents the 
+cumulative frequency for that interval. For example, at 50 the height is 16 and 
+at 60 it is 56. 
+Example 10.1 
+Here is some HALE data in raw form. Prepare a frequency table starting 
+with 20 and a class interval of 5. Then draw a histogram of the data and a 
+cumulative frequency graph. 
+  
+29(36|40 
+(44 (48|52 
+|54(56|59 
+(60 
+|61 
+  
+31|36|41 
+(44 
+(49|52 |54(57|59|60 
+|61 
+  
+33|36|41|44(49(52|55|57(59|60|61 
+  
+34|37|41|45]49(53|55|58(59|60|61 
+  
+34|37|42|45(50(53|55|58(59|60|61 
+  
+35|37|42|45(50(53|55|58(59|60|61 
+  
+35|37|43|46|50|54|55| 
+58| 
+59| 60|61 
+  
+35|38/ 
+43| 46|50|54|55| 
+58| 
+59| 60|61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+Solution 
+‘We first sort the data and then make sure we count every number in one 
+class only. 
+Life expectancy,] | 
+Numberof | Lifeexpectancy,! | 
+Number of 
+countries 
+countries 
+25=<1<30 
+1 
+55=<1<60 
+26 
+30=<1<35 
+4 
+60 <1<65 
+54 
+35=<1<40 
+14 
+65=<1<70 
+22 
+40=<1<45 
+14 
+70=<1<75 
+27 
+45=<1<50 
+11 
+75<1<80 
+i 
+50=<1<55 
+18 
+ 
+ 
+ 
+ 
+ 
+  
+457
+
+458 
+Statistics 
+This is the histogram created by a spreadsheet. Since all the classes have 
+equal width, the height and the area give the same impression about the 
+frequency of the class interval. For example, the 60 < 
+[ < 65 class contains 
+almost twice as much as the 55 < [ < 60 class, and the height of the 
+histogram is also twice as high. So is the area. Similarly, the height of the 
+65 =< [ < 70 class is double that of 45 < [ < 50. 
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+60 
+| 
+5% 
+g0 
+g 30 
+= 20 
+104 
+— 
+Ocmcmcmcmcmc 
+SR 
+B 
+Mo 
+R 
+D R C 
+s 
+ERAETETRBB8BRR 
+Life expectancy (years) 
+Life 
+Number of | Cumulative 
+Life 
+Number of | Cumulative 
+expectancy, | | countries | number of | expectancy, ! | countries | number of 
+countries 
+countries 
+25<1<30 
+1 
+1 
+55=1<60 
+26 
+88 
+30=1<35 
+4 
+5 
+60=1<65 
+54 
+142 
+35=<1<40 
+14 
+19 
+65<1<70 
+22 
+164 
+40=1<45 
+14 
+33 
+70<1<75 
+27 
+191 
+45<1<50 
+11 
+44 
+75<1<80 
+1 
+192 
+50 <1<55 
+18 
+62 
+250 
+52004 
+g 3, 150 
+£ 100 
+50 
+04 SR §9288 8803 
+f3ddddfdaid 
+Life expectancy (years) 
+Sampling methods 
+Once a decision has been made to gather information by sampling, statisticians 
+use a sampling technique that falls into one of two categories: statistical or 
+non-statistical. 
+Both non-statistical and statistical sampling techniques are commonly used 
+by decision makers. Regardless of which technique is used, the decision maker 
+has the same objective - to obtain a sample that is a close representative of 
+the population. There are some advantages to using a statistical sampling
+
+technique, but in many cases non-statistical sampling represents the only 
+feasible way to sample. 
+Statistical sampling techniques use selection techniques based on chance 
+selection. Advantages of using these techniques include their ability to 
+represent the population they are drawn from. Disadvantages include cost of 
+running them and time spent in the collection process. 
+Non-statistical sampling techniques use convenience, judgment, or other non- 
+chance processes. Advantages include the ease of collection and minimal cost 
+involved. Disadvantages include the great possibility that they don’t represent 
+the population they are drawn from, inclusion of bias, and non-reliability. 
+Statistical sampling techniques include: 
+« 
+simple random sampling 
+o 
+stratified random sampling 
+e 
+systematic random sampling. 
+Simple random sampling: A method of selecting items from a population 
+such that every possible sample of 
+a specified size has an equal chance of being 
+chosen. It is a method of sampling in which every sample element is selected 
+only on the basis of chance, through a random process. The probability of 
+selection in a true simple random sample is equal for each element. If a sample 
+of 500 is selected from a population of 17000 (a sampling frame of 17 000), 
+then the probability of selection for each element is 500 + 17000, or about 
+0.03. Every element has an equal chance of being selected, just like the odds in 
+atoss of 
+a coin (—21-) or aroll of a dice (—61-) 
+Stratified random sampling is a statistical sampling method in which the 
+population is divided into subgroups called strata, so that each population 
+item belongs to only one stratum. The objective is to form strata such that 
+the population values of interest within each stratum are as much alike as 
+possible. Sample items are selected from each stratum using the simple random 
+sampling method. For example, if you are interested in attitudes of voters in a 
+certain city, you may divide your subjects by age group: under 25 years of age, 
+25 to 30, 30 to 40, and so on. 
+Systematic random sampling is a variant of simple random sampling. The first 
+element is selected randomly from a list or from sequential files, and then every 
+nth element is selected. This is a convenient method for drawing a random 
+sample when the population elements are arranged sequentially. The total 
+number of cases in the population is divided by the number of cases required 
+for the sample. This division yields the sampling interval - the number of cases 
+from one sampled case to another. If 50 cases are to be selected out of 1000, the 
+sampling interval is 20 as every 20th case is selected. 
+Non-statistical sampling techniques include: 
+¢ 
+quota sampling 
+« 
+availability sampling. 
+459
+
+460 
+Statistics 
+Quota sampling is a sampling method that does not rely on probability, where 
+elements are selected to ensure that the sample represents certain characteristics 
+in proportion to their prevalence in the population. For example, suppose that 
+you wish to sample adult residents of a town in a study of support for a tax 
+increase to improve the town's schools. You know from historical data what 
+the proportions of the town's residents are in terms of gender, race, age, and 
+number of children. You think that each of these characteristics might influence 
+support for new school taxes, so you want to be sure that the sample includes 
+men, women, older people, younger people, and so on, in proportion to their 
+numbers in the town population. Say that 48% of the town’s adult residents are 
+men and 52% are women, and that 60% are employed, 5% are unemployed, 
+and 35% are out of the labour force. These percentages and the percentages 
+corresponding to the other characteristics become the quotas for the sample. 
+If you plan to include a total of 500 residents in your sample, 240 must be men 
+(48% of 500), 260 must be women, 300 must be employed, and so on. 
+Awailability sampling is where elements are selected based on convenience. 
+Elements are selected for availability sampling because they’re available or easy 
+to find. Thus, this sampling method is also known as a haphazard, accidental, 
+or convenience sample. 
+1S CEERDA] 
+1. Identify the experimental units, sensible population and sample on 
+which each of the following variables is measured. Then indicate 
+whether the variable is quantitative or qualitative. 
+(a) Gender of a student 
+(b) Number of errors on a final exam for 10th grade students 
+(c) Height of a newborn child 
+(d) Eye colour for children aged less than 14 
+(e) Amount of time it takes to travel to work 
+(f) Rating of a country’s leader: excellent, good, fair, poor 
+(g) Country of origin of students at international schools. 
+2. State what you expect the shapes of the distributions of the following 
+variables to be: uniform, unimodal, bimodal, symmetric, etc. Explain why. 
+(a) Number of goals scored by football players during last season 
+(b) Weights of newborn babies in a major hospital during the course of 
+10 years 
+() Number of countries visited by a student at an international school 
+(d) Number of emails per week received by a high school student at 
+your school. 
+3. Identify each variable as quantitative or qualitative: 
+(a) Amount of time to finish your extended essay 
+(b) Number of students in each section of IB Math SL
+
+(c) Rating of your textbook as excellent, good, satisfactory, terrible 
+(d) Country of origin of each student in Math SL courses. 
+. Identify each variable as discrete or continuous: 
+(a) Population of each country represented by SL students in your 
+session of the exam 
+(b) Weight of IB Math SL exams printed every May since 1976 
+(c) Time it takes to mark an exam paper by an examiner 
+(d) Number of customers served at a bank counter 
+(e) Time it takes to finish a transaction at a bank counter 
+(f) Amount of sugar used in preparing your favourite cake. 
+. Grade point averages (GPA) in several colleges are on a scale of 0-4. 
+Here are the GPAs of 45 students at a certain college. 
+  
+1530 
+190 
+(BEoy 
+| 12i08 | P2:1 Y 
+F2s1g 
+271 
+12:28 
+F2:2 
+1213 
+12:3 1 
+1214] 
+241 
+24y 
+[2'5 
+215 
+F2'5H] 
+F2:58 
+12:51 
+12550 
+(12611 
+|12:6 1 
+12161 
+[2i6] 
+1260 
+[2:70 
+1270 
+27 
+127 
+127 
+2.8 
+(28|28 
+(29(29(29(30(30|30 
+31 
+(31|31 
+|32|32 
+|34 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Draw a histogram, a relative frequency histogram, and a cumulative 
+frequency graph. Describe the data in two to three sentences. 
+. The following are the grades of an IB course with 40 students (two 
+sections) on a 100-mark test. Use graphical methods you have learned 
+so far to describe the grades. 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+. The lengths of time (in months) between repeated speeding violations of 
+50 young drivers in a European country are given in the table below. 
+  
+2.1 
+153! 
+9] 
+03 | 323 
+8.3 
+2.7 
+0.2 
+4.4 
+7.4 
+9.0 | 18.0 
+1.6 
+2.4 
+3.9 
+2.4 
+6.6 
+1.0 
+2.0 | 
+14.1 
+14.7 
+5.8 
+8.2 
+8.2 
+74 
+14 | 167 | 24.0 
+9.6 
+8.7 
+192 | 26.7 
+12 | 18.0 
+33 
+11.4 
+4.3 
+35 
+6.9 
+16 
+4.1 
+0.4 
+135 
+5.6 
+6.1 | 231 
+0.2 
+126 | 184 
+B 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Construct a histogram for the data. 
+(b) Would you describe the shape as symmetric? 
+(c) The law in this country requires that the driving licence be taken 
+away if the driver repeats the violation within a period of 10 months. 
+Use a cumulative frequency graph to estimate the fraction of drivers 
+who may lose their licence. 
+461
+
+Statistics 
+8. To decide on the number of checkout counters needed to be open 
+during rush hours in a supermarket, the management collected data 
+from 60 customers for the time they spent waiting to be served. The 
+times in minutes are given in the following table. 
+  
+36|07 
+[52]06|13]|03|18]|22|11]|04 
+101207 
+|13|07|1.6]25|03]|17]|08 
+033 
+24 
+1028 
+R0Io) 
+EU08 
+(2 
+FOisH 
+Ry 
+238 
+st 
+08 
+|17)|18|04|06(02|09|18]|28]|18 
+04(05|1.1|11]|08(45|1.6[05]|13 
+|19 
+060631 
+(31|11 
+|11|11[14]1.0(14 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Construct a relative frequency histogram for the times. 
+(b) Construct a cumulative frequency graph and estimate the number 
+of customers who have to wait 2 minutes or more. 
+9. The histogram below shows the number of days in hospital spent by 
+heart patients in a certain country’s hospitals in the 2015-2017 period. 
+1200 
+2 S S 
+Frequency 
+= 2 S 
+0 
+10 
+20 
+Number of days 
+  
+  
+  
+(a) Describe the data in a few sentences. 
+(b) Draw a cumulative frequency graph for the data. 
+(c) What percentage of the patients stayed less than 6 days? 
+10. Janos exercises on an 
+almost daily basis. 
+He records the length 
+of time of his exercise 
+on most of the days. 
+Here is what he 
+recorded for 2017. 
+(a) What is the 
+longest time he 
+spent doing 
+his exercises? 
+1820 222426 28'30 32 34 36 38 40 
+Number of minutes 
+Frequency 
+  
+(b) What percentage of the time did he exercise more than 30 minutes? 
+(c) Draw a cumulative frequency graph for his exercise times. 
+462
+
+11. Radar devices are installed at several locations on a main highway. 
+Speeds, s, in km h~! of 400 cars travelling on that highway are measured 
+and summarised in the following table. 
+  
+Speed, s 
+60=s<75 | 75=5<90 | 90=s<105| 
+105<5<120 | 120=5<135 | Over135 
+Frequency | 
+20 
+70 
+110 
+150 
+40 
+10 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Construct a frequency table for the data. 
+(b) Draw a histogram to illustrate the data. 
+(c) Draw a cumulative frequency graph for the data. 
+(d) The speed limit in this country is 130 km h~*. Use your graph in (c) to 
+estimate the percentage of the drivers driving faster than this limit. 
+12. Electronic components used in the production of computers are 
+manufactured in a factory and their lengths must be very accurate. 
+Here are the lengths of a sample of 400 such components. 
+  
+  
+  
+Length, I | ;o) | smsi<sos | sos=i<sio | stosi<sis 
+[sis<icsa | 
+12520 
+(mm) 
+Frequency 
+16 
+100 
+123 
+104 
+48 
+9 
+  
+  
+  
+  
+  
+  
+  
+  
+(a) Construct a cumulative relative frequency graph for the data. 
+(b) The components must have a length between 5.01 and 5.18 mm, 
+and any component with a length above 5.18 has to be scrapped. 
+Use your graph to estimate the percentage of components that must 
+be scrapped from this production facility. 
+13. The time, £, in seconds, that 300 customers wait at a supermarket 
+checkout are recorded in the table below. 
+  
+Time, t 
+1<60 | 60=1<120 | 120=r<180 | 180=1<240 | 240=1<300 | 300=1<360 | =360 
+Frequency 
+12 
+15 
+42 
+105 
+66 
+45 
+15 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Draw a histogram of the data. 
+(b) Construct a cumulative frequency graph of the data. 
+(c) Use the cumulative frequency graph to estimate the waiting time 
+that is exceeded by 25% of the customers. 
+Measures of central tendency 
+Summarising data can help us understand them, especially when the data set 
+is large. This section presents several ways to summarise quantitative data by a 
+typical value (a measure of location, such as the mean, median, or mode) and 
+a measure of how well the typical value represents the list (a measure of spread, 
+such as the range, interquartile range, or standard deviation). When looking 
+at raw data, rather than looking at tables and graphs, it may be of interest to 
+463
+
+464 
+Statistics 
+use summary measures to describe the data. The farthest we can reduce a set 
+of data, and still retain any information at all, is to summarise the data with a 
+single value. Measures of location do just that: they try to capture with a single 
+number what is typical of the data. What single number is most representative 
+of an entire list of numbers? We cannot say without defining ‘representative’ 
+more precisely. 
++ 
+The median of a set of n measurements is the value that falls in the middle 
+position when the data are sorted in ascending order. In a histogram, the 
+median is that middle value that divides the histogram into two equal areas. 
+The mode of a set of data is the most common value among the data. It is 
+rare that several data coincide exactly, unless the variable is discrete, or the 
+measurements are reported with low precision. 
+The arithmetic mean is commonly called the average. It is the sum of the 
+data divided by the number of data. 
+‘When these measures are computed for a population they are called parameters. 
+‘When they are computed from a sample they are called statistics. 
+A statistic is a descriptive measure computed from a sample of data. A parameter is a descriptive 
+measure computed from an entire population of data. 
+Measures of central tendency provide information about a typical observation 
+in the data or location in the data set. 
+‘The most common measure of central tendency is the arithmetic mean, usually referred to simply 
+as the ‘mean’ or the ‘average. 
+Example 10.2 
+The following are the five closing prices of a stock market index for the 
+first business week in November 2018. This is a sample of size n = 5 for 
+the closing prices from the entire population: 2794.83, 2810.38, 2795.18, 
+2825.18, 2748.76. 
+What is the average closing price for the first business week in November 20182 
+| 
+Solution 
+2794.83 + 2810.38 + 2795.18 + 2825.18 + 2748.76 
+5] 
+This is called the sample mean. A second measure of central tendency is the 
+average = 
+= 2794.87 
+median, which is the value in the middle position when the measurements 
+are ordered from smallest to largest. The median of this data can be 
+calculated only after if we sort them in ascending order: 
+2748.76 
+ 2794.83 
+ 2795.18 
+ 2810.38 
+ 2825.18 
+t
+
+‘The arithmetic mean or average of 
+a set of n measurements (data set) is equal to the sum of the 
+measurements divided by . 
+Notation: 
+" 
+   
+Kt +x+ 
+Xy 
+. 
+. 
+T 
+e 
+DR TR where nis the sample size. This is a statistic. 
+  
+‘The sample mean: ¥ 
+T 
+X Xy 
+X3 
+AN 
+N 
+N 
+  
+‘The population mean: 1 = 
+ where Nis the population size. 
+‘This is a parameter. 
+Itis important to observe that you normally do not know the mean of the population 42 and thus 
+you usually estimate it with the sample mean x. 
+In the previous example, we calculated the sample median by finding the third 
+The median of 
+a set of 
+measurement to be in the middle position. However, in a different situation, 
+n measurements is _‘hﬁ 
+where the number of measurements is even, the process is slightly different. 
+e Of“,l.‘?l 
+s 
+e 
+middle position when 
+the data are sorted in 
+Let’s say you took six tests last term and your marks, in ascending order, were: 
+: 
+ascending order. 
+52, 63,74, 78, 80, 89. 
+There are two ‘middle’ observations here. To find the median, choose a value 
+halfway between the two middle observations: 
+o TATT8 o 
+2 
+Note that the position of the median can be given by nTH If this number 
+ends with a decimal, you need to average the adjacent values. 
+In the stock exchange index case, with 5 observations, the position of 
+the median is then at >+ 1 
+  = 3, which we found. In the grades example, the 
+6+1 
+  
+position of the median score is at 
+= 3.5, and hence we average the 
+numbers at positions 3 and 4. 
+Although both the mean and median are good measures for the centre of a 
+distribution, the median is less sensitive to extreme values or outliers. 
+Look at these two sets of data: 
+Set 1: 
+52 
+63 
+74 
+78 
+80 
+89 
+Set 2: 
+12 
+63 
+74 
+78 
+80 
+89 
+Both have medians of 76, but the means are different. 
+Set 1 has a mean of: 
+  
+Clearly, the low outlier, 12, moves the mean towards it while leaving the median 
+untouched. However, because the mean depends on every observation and uses 
+all the information in the data, it is generally, wherever possible, the preferred 
+measure of central tendency. 
+465
+
+For lists, the mode is a 
+‘most common (frequent) 
+value. A list can have 
+‘more than one mode. For 
+histograms, a mode is a 
+relative maximum. 
+‘The symmetric shape 
+of the histogram shows 
+that the median, mean, 
+and mode areall close 
+together. This will be 
+discussed further in the 
+next section. 
+Mean 
+Median 
+Statistics 
+Example 10.3 
+  
+  
+  
+  
+  
+  
+  
+The table lists the frequency | Number of litres | Frequency | Relative frequency 
+distribution of 25 families 
+0 
+2 
+0.08 
+in Lower Austria who were 
+1 
+5 
+0.20 
+polled in a marketing 
+2 
+9 
+0.36 
+survey to state the number 
+3 
+5 
+0.20 
+of litres of milk consumed 
+= 
+3 
+0.12 
+during a particular week. 
+= 
+L 
+0:0& 
+ 
+ 
+ 
+ 
+  
+Construct a frequency histogram and find the modal class, median and mean. 
+e 
+— 
+Solution 
+This histogram shows a 
+relatively symmetric shape with 
+amodal class at x = 2. The 
+mean and median are not far 
+from each other. The median is 
+the 13th observation, which is 2, 
+and the mean is calculated to 
+be2.2 
+Frequency 
+CRERCROE 
+S e G 
+  
+O N 
+W 
+S W 
+T 
+5 
+Number of litres 
+Shape of the distribution 
+An examination of the shape of a distribution will illustrate how the 
+distribution is centred on the mean. 
+The shape of a distribution is said to be symmetric if the observations are 
+balanced, or evenly distributed, about the mean. In a symmetric distribution, 
+the mean, the median, and the mode are equal. 
+A distribution is skewed if the observations are not symmetrically distributed 
+above and below the mean. 
+A positively skewed (or skewed to the right) distribution has a tail that extends 
+to the right in the direction of positive values. A negatively skewed (or skewed 
+to the left) distribution has a tail that extends to the left in the direction of 
+negative values. 
+Median 
+Median 
+Mean 
+Mean 
+  
+Figure 10.6 Symmetric distribution 
+466 
+Figure 10.7 Positively skewed distribution 
+Figure 10.8 Negatively skewed distribution
+
+Looking back at the WHO data, we see that the data are skewed to the left. 
+Few countries have low life expectancies. The majority of countries have life 
+expectancies between 50 and 65. 
+it does not appear sensible to search for the mode, as there are four of them 
+(59, 60, 61 and 62). However, after grouping the data into classes of length 5, 
+we can see that the modal class is 60 < [ < 65. 
+The median: as there are 192 observations, which means that the median 
+n+1_192+1 
+2 
+2 
+observations, which are both 60. So, the median is 60. 
+is at 
+= 96.5, we take the average of the 96th and 97th 
+Knowing the median, we could say that a typical life expectancy is 60 years. 
+How much does this really tell us? How well does this median describe the real 
+situation? After all, not all countries have the same 60 years HALE. Whenever 
+we find the centre of data, the next step is always to ask how well it actually 
+summarises the data. 
+When we describe a distribution numerically, we always report a measure of its 
+spread along with its centre. 
+|5 G TELR (O] 
+1. You are given eight measurements: 5,4, 7, 8, 6, 6, 5, 7. 
+(a) Find x 
+(b) Find the median. 
+(c) Based on the previous results, are the data symmetric or skewed? 
+Explain and support your conclusion with an appropriate graph. 
+2. You are given ten measurements: 5,7, 8, 6, 12, 7, 8, 11, 4, 10. 
+(a) Findx 
+(b) Find the median. 
+(c) Find the mode. 
+3. The following table gives the number of cars owned by a sample of 50 
+typical households in a large city in Germany: 
+  
+Number of cars 
+0 
+i 
+2 
+8 
+Number of households 
+12 
+24 
+8 
+6 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Find the average and the median number of cars. Which measure of 
+central tendency is more appropriate here? Explain. 
+467
+
+468 
+Statistics 
+4. Ten businesses are listed below along with their 2017 revenue in millions 
+of US dollars: 
+  
+  
+  
+  
+  
+  
+Company | Revenue ($ millions) | Company | Revenue ($ millions) 
+A 
+500343 
+F 
+265172 
+B 
+348903 
+G 
+260028 
+4 
+326953 
+H 
+244582 
+D 
+326008 
+I 
+244363 
+E 
+311870 
+J 
+242137 
+ 
+ 
+ 
+ 
+ 
+  
+Calculate the mean and median of the revenues. Which measure is more 
+appropriate in this case? Explain. 
+5. Even on a crucial examination, students tend to lose focus while writing 
+their tests. In a psychology experiment, 20 students were given a 
+10-minute quiz and were observed for the number of seconds they spent 
+‘on task’ Here are the results: 
+  
+350 | 380 | 500 | 460 | 480 | 400 | 370 | 380 | 450 | 530 
+520 | 460 | 390 | 360 | 410 | 470 | 470 | 490 | 390 | 340 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Find the mean and median of the time spent on task. 
+(b) If you were writing a report to describe these times, which measure 
+of central tendency would you use and why? 
+6. At 5:30 p.m. during the holiday season, a toy shop counted the number 
+of items sold and the revenue collected for that day; the result was 
+1= 90 toys with a total revenue of >_x = €4460. 
+(a) Find the average amount spent on each toy that day. 
+Shortly before the shop closed at 6 p.m., two new purchases of €74 and 
+€60 were made. 
+(b) Calculate the new mean of the sales per toy that day. 
+7. A farmer has 144 bags of new potatoes weighing 2.15 kg each. He also 
+has 56 potato bags from last year with an average weight of 1.80 kg. Find 
+the mean weight of a bag of potatoes available for this farmer. 
+8. The following are the grades earned by 25 students on a 50-mark test 
+in statistics. 
+26, 27, 36, 38, 23, 26, 20, 35, 19, 24, 25, 27, 34, 
+27,26,42, 46, 18, 22, 23, 24, 42, 46, 33, 40 
+(a) Calculate the mean of the grades. 
+(b) Draw a stem plot of the grades. Use the plot to estimate where the 
+median is. 
+(c) Draw a histogram of the grades. 
+(d) Develop a cumulative frequency graph of the grades. Use your 
+graph to estimate the mean.
+
+9. The following are data concerning the injuries in road accidents in a 
+certain country, classified by severity. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+Year 
+Fatal 
+Serious 
+slight 
+1970 
+758 
+7860 
+IS5I5 
+1975 
+699 
+6912 
+13041 
+1980 
+644 
+7218 
+13926 
+1985 
+550 
+6507 
+13587 
+1990 
+491 
+5237 
+14443 
+1995 
+361 
+4071 
+12102 
+2000 
+297 
+3007 
+11825 
+2005 
+264 
+2250 
+10922 
+(a) Draw bar graphs for the total number of injuries and describe any 
+patterns you observe. 
+(b) Draw pie charts for the different types of injuries for the years 1970, 
+1990, and 2005. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+10. The data on the right report the car driver 
+Age 
+Casualties 
+casualties in a certain district for 2017. 
+15-19 
+103 
+(a) Draw a histogram of the data. 
+2024 
+12 
+25-29 
+103 
+(b) Estimate the mean of the data. 
+30-34 
+80 
+(c) Develop a cumulative frequency 
+35-39 
+88 
+graph and use it to estimate the 
+40-44 
+96 
+median of the data. 
+45-49 
+78 
+50-54 
+60 
+o500 
+45 
+60-64 
+ae 
+65-69 
+17 
+70-74 
+13 
+75-79 
+26 
+ 
+ 
+ 
+  
+11. Use the data in question 9 of Exercise 10.1 to estimate the median and 
+the mean of the number of days in hospital by heart patients. 
+12. Use the data in question 10 of Exercise 10.1 to estimate the median and 
+the mean of the exercise time of Janos for 2017. 
+13. Use the data in question 11 of Exercise 10.1 to estimate the median and 
+the mean speed of cars on the highway. 
+14. Use the data in question 12 of Exercise 10.1 to estimate the median and 
+the mean length of components at this facility. 
+469
+
+470 
+Statistics 
+15. Use the data in question 13 of Exercise 10.1 to estimate the median and 
+the mean of the waiting time for customers at this supermarket. 
+40, 
+16. (a) Given that ) x; = 1664, find 
+= 
+20, 
+(b) Given that > (x; — 20) = 1664, find X 
+= 
+17. For a large class of 60 students, 12 points are added to each grade to 
+boost scores on a relatively difficult test. 
+(a) Knowing that Y_(x + 12) = 4404, find the mean score of this group 
+of 60 students. 
+(b) Another section of the class has 40 students and their average score 
+is 67.4. Find the average of the whole group of 100 students. 
+Measures of variability 
+Measures of location summarise what is typical of elements of a list, but not 
+every element is typical. Are all the elements close to each other? Are most 
+of the elements close to each other? What is the biggest difference between 
+elements? On average, how far are the elements from each other? The answers 
+lie in the measures of spread or variability. 
+It is possible that two data sets have the same mean, but the individual 
+observations in one set could vary more from the mean than do the 
+observations in the second set. It takes more than the mean alone to describe 
+data. Measures of variability (also called measures of dispersion or spread), 
+which include the range, the variance, the standard deviation, and the 
+coefficient of variation will help to summarise the data. 
+The range of a data set is the difference between the largest and smallest 
+observations. Consider the weekly expenses data given in Table 10.2 of 
+Section 10.1. Also consider the same data when the largest value of 68 is 
+replaced by 120. What is the range for these two sets of data? 
+  
+  
+  
+  
+Expense data 
+Expense data with outlier 
+Minimum 
+38 
+38 
+Maximum 
+68 
+120 
+Range 
+30 
+82 
+  
+  
+  
+  
+  
+Table 10.4 The range is the difference between the largest and smallest observations
+
+Notice that the range is a single number, not an interval of values as you might 
+think from its use in common speech. The maximum of the HALE data (page 457) 
+is 75 and the minimum is 29, so the range is 46. 
+The range doesn't take into account how the data is distributed and is of course 
+affected by extreme values (outliers) as illustrated in Table 10.4. 
+Variance and standard deviatio 
+The most comprehensive measures of dispersion are those in terms of the 
+average deviation from some location parameter. 
+Variance 
+The sample variance, s, is the sum of the squared differences between each 
+observation and the sample mean, divided by the sample size minus 1. 
+" 
+dxi = x)? 
+=1 
+52 
+  
+n— 
+2is called the unbiased estimate of the population variance o2 and is denoted as s3_1 
+However, it is not required for this current IB syllabus. Discussion of the reason we define 
+the sample variance in this manner is beyond the scope of this book. The use of n — 1in the 
+denominator has to deal with the use of the sample variance as an estimate of the population 
+variance. Such an estimate has to be unbiased, and this sample variance is the most unbiased 
+estimate of the population variance. However, the IB syllabus uses a different definition of the 
+sample variance. The IB sample variance is listed as 57 and is evaluated as follows: 
+Zl("v —x2 
+BT — 
+   
+im -x? 
+n 
+1 
+  
+     
+Itis obvious that s3_; = 
+ors? 
+  
+1 in case you want to use s2 from your GDC. 
+The population variance, 02, is the sum of the squared differences between each 
+observation and the population mean divided by the population size, N. 
+N 
+i T K 
+1 
+N 
+2 
+i 
+ot 
+= 
+The variance is a measure of the variation about the mean squared. In order to 
+make the units of the measure of variation the same as the data measurements, 
+the square root is taken and the measure looked at is the standard deviation. 
+Standard deviation 
+The standard deviation measures the amount of spread around the mean. 
+The sample standard deviation, s,,, is the (positive) square root of the variance, 
+and is defined as: 
+In your calculator, 
+you should also be 
+careful because the 
+listed s, in GDCs 
+corresponds to 71 
+So when you use your 
+GDC, make sure you use 
+what is called 7. 
+47
+
+Statistics 
+  
+These are measures of variation about the mean. 
+e 
+When s = 0, all the data takes on the same value and there is no variability 
+about the mean. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Stock A 
+Stock B 
+o When s is large, there is a large amount of variability about the mean. 
+4 
+1 
+25 
+3 
+Consider the following example: 
+5 
+2.5 
+In business, investors invest their money in stocks whose prices fluctuate 
+475 
+5 
+with market conditions. Stocks are considered risky if they have high 
+5.75 
+7 
+fluctuations. Table 10.5 shows closing prices of two stocks traded on 
+5.25 
+6.5 
+Vienna’s stock market for the first seven business days in September 2017. 
+6 
+10 
+T 
+- 
+Even though the two stocks have similar central values, they do behave 
+Medi;n (A) =5 
+Medi:n (8) =5/ 
+differently. It is obvious that stock B is more variable and it becomes more 
+  
+obvious when we calculate the standard deviations. 
+Table 10.5 Closing prices of two stocks 
+traded on Vienna’s stock market 
+The variances are: 
+Sl 
+5p 
+   
+_4- 52+ (425 — 52+ (5 — 52 + (4.75 — 52 + (557 — 5)> + (5.25 — 5> + (6 — 5)° — 0.464 
+7 
+Yl - 5   
+:(175)2+(375)2+(2.575)2+(575)2+(775)z+(6.575)2+(1075)2:821 
+= 
+. 
+  
+This means that the standard deviations are: s, = 0.681 and s; = 2.865 
+Stock B is 4.2 times as variable as stock A. 
+You can use your GDC to do this. 
+472
+
+When computing s2 manually, you may find the following shortcuts useful: 
+  
+Remember that once you have a good understanding of the standard deviation, you will rely on a 
+GDC or software to do most of the calculation for you. Here is an example ofa GDC output. 
+  
+1—V%\r Stats 
+  
+ 
+ 
+ 
+ 
+  
+‘The 5, used by your GDC gives s, 
+1 = 
+which is the s, used in 
+  
+1B exams. 
+The screenshots also show that the GDC gives you Y_x2 which can be used in case you want to 
+find the variance by hand. 
+ot 
+17825 _ 
+5 
+—52= 0464 = 5, = 0,681 
+  
+The interquartile range and measures of ni 
+tendency 
+  
+Percentiles and quartiles 
+Data must first be in ascending order. 
+Percentiles separate large ordered data sets into 100ths. The pth percentile is a 
+number such that p percent of the observations are at or below that number. 
+Quartiles are descriptive measures that separate large ordered data sets into 
+four quarters. 
+A test score in the 90th percentile indicates 90% of the tests scores were less 
+than or equal to the score. An excellent performance! You scored in the upper 
+10% of all people taking the test. 
+The first quartile, Q,, is another name for the 25th percentile. 25% of the 
+observations are at or below the value of the first quartile. Q, is located in the 
+0.25(n + 1)st position when the data is in ascending order. That is, 
+Q= 
+h Z Lih ordered observation 
+  
+473
+
+A practical method to 
+calculate the quartiles 
+is to split the data 
+into two halves at the 
+median. (When nis odd, 
+include the median in 
+both halves.) The lower 
+quartile is the median 
+of the first half and the 
+upper quartile is the 
+median of the second 
+half, For example, with 
+the stocks data, 
+{4,4.25,4.75,5,5.25, 
+5.75,6},n =7, the 
+median is the 4th 
+observation, 5. 
+‘The first quartile is 
+then the median of 
+{4,4.25,4.75, 5}, which 
+is 
+4.5, and the third 
+quartile is the median of 
+{5,5.25,5.75, 6}, which 
+is 5.5. 
+  
+  
+474 
+Statistics 
+The third quartile, Qs, is another name for the 75th percentile. 75% of the 
+observations are at or below the third quartile. Q, is located in the 0.75(n + 1)st 
+position when the data is in ascending order. That is, 
+Q= wm ordered observation 
+The median, is the 50th percentile, also called the second quartile, Q,. 
+A measure that helps to measure variability and is not affected by extreme 
+values is the interquartile range. It avoids the problem of extreme values by just 
+looking at the range of the middle 50% of the data. 
+Interquartile range 
+The interquartile range (IQR) measures the spread in the middle 50% of 
+the data; it is the difference between the observations at the 25th and the 
+75th percentiles: 
+IQR=Q, - Q 
+If we consider the student expense data in Table 10.2, and once again look at 
+that same data with the outlier 120 replacing the largest value 68, we have the 
+following results:   
+  
+  
+  
+  
+  
+  
+  
+Expense data 
+Expense data with outlier 
+Minimum 
+38 
+38 
+Q 
+50 
+50 
+Median 
+5 
+55 
+Qs 
+61 
+61 
+Maximum 
+68 
+120 
+Range 
+30 
+82 
+IQR 
+11 
+11 
+ 
+ 
+ 
+   
+Table 10.6 Expense data with outlier 
+The range doesn’t take into account how the data is distributed and is of course 
+affected by extreme values. We clearly saw that in Table 10.4. However, the IQR 
+evidently does not have that problem. 
+Five-number summary 
+The five-number summary refers to the five descriptive measures: minimum, 
+first quartile, median, third quartile, and the maximum. 
+Clearly, Minimum< Q, <Median < Q, < Maximum 
+Box-and-whisker plot 
+‘Whenever we have a five-number summary, we can put the information 
+together in one graphical display called a box plot, also called a 
+box-and-whisker plot. 
+Let’s make a box-and-whisker plot with the student expense data.
+
+« 
+Draw an axis spanning the range of the data; mark the numbers 
+P or et 
+oAl 
+corresponding to the median, minimum, maximum, and the lower and 
+observation. It lies at 
+upper quartiles. 
+an abnormal distance 
+from the rest of the data. 
+o 
+Draw a rectangle with the lower end at Q, and the upper end at Q. 
+‘There is no unique way 
+of describing what an 
+« 
+To help us consider outliers, mark the points corresponding to lower and 
+i 
+outlier is. A common 
+upper fences. Mark them with a dashed line since they are not part of the 
+practice i to consider 
+box. The fences are constructed at the following positions: 
+any observation that is 
+further than 
+o Lower fence: Q, — 1.5 X IQR (in this case: 50 — 1.5 (11) = 33.5) 
+S 
+o Upper fence: Q; + 1.5 X IQR (in this case: 61 + 1.5 (11) = 77.5) 
+first quartileorthe 
+third quartile an outlier. 
+Any point beyond the lower or upper fence is considered an outlier. 
+Outliers may contain 
+important information 
+o 
+Mark any outlier with an asterisk () on the graph. 
+not shared with the rest 
+: 
+o 
+_ 
+) 
+of the data. Statisticians 
+« 
+Extend horizontal lines called ‘whiskers’ from the ends of the box to the 
+look very carefully at 
+smallest and largest observations that are not outliers. In the first case these 
+outliers because of their 
+are 38 and 68, while in the second they are 38 and 67. 
+Hean 
+g 
+of distributions and their 
+effect on the values of the 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+IQR 
+6150 
+11 
+other statistics, such as. 
+: 
+: 
+the mean and standard 
+. 
+| 
+: 
+* 
+deviation. 
+335 
+38 
+50 
+a5 
+61 
+67 
+775 
+120 
+Lower fence 
+Upper fence 
+Minimum 
+Q, 
+Median 
+Q, 
+Maximum 
+Figure 10.9 Outlier marked with an asterisk (+) 
+  
+4 
+   
+ 
+35 
+40 
+45 
+50 
+55 
+60 
+65 
+70 
+Expenses (€) 
+Figure 10.10 A box-and-whisker plot of the data created by a software package (Minitab) 
+As you see, the box contains the middle 50% of the data. The width of the box 
+is the IQR. Now we know that the middle 50% of the students” expenses is €11. 
+This seems a reasonable summary of the spread of the distribution, as you can 
+see in the histogram below. 
+  
+5 
+Frequency 
+ 
+= = 
+cw3s k8 
+  
+375 
+425 
+475 
+525 
+575 
+Midpoints 
+Figure 10.11 Histogram 
+475
+
+Examples of GDC output for 
+histograms and box-and- 
+whisker plots: 
+—{1 
+For grouped data: 
+1-var Stats 
+X=55.475 
+  
+   
+  
+  
+  
+  
+1-Var Stats 
+Tn=80 
+minX=38 
+01=50.5 
+Med=55 
+03=61 
+maxX=68 
+  
+  
+ 
+   
+476 
+Statistics 
+If you locate the IQR on the histogram, you can get another visual indication of 
+the spread of the data. 
+This is a realistic ogive: 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+80 
+et 
+e 1l gl 
+el 
+75 
+70—+ 
+et 
+L 
+L 
+] 
+60 
+- 
+5 504 
+S 
+S A 
+A 
+£ 
+454 
+F 
+ot 
+L 
+A 
+4 
+£ 35 
+304 
+——— 
+| Q 
+— 
+254+ 
+— 
+i 
+{{ 
+20 
+Median | 
+154 
+. 
+1 
+{ 
+L 
+{{ 
+104 
+— e 
+— 
+g,,‘/,,____,:. 
+e 
+35 
+40 
+45 
+50 
+55 
+60 
+65 
+70 
+Expenses (€) 
+Figure 10.12 
+Ogive 
+Notice how we locate the first quartile. Since there are 80 observations, the first 
+n+1_8l 
+quartile is approximately at the 
+5~ 20th position, which appears to 
+be around 50. 
+  
+The median is at the "1 = 8L~ 40th — 415t position, i, approximately at 5. 
+Similarly, the third quartile is at w = % ~ 61st, which happens here at 
+approximately 61. 
+The calculation of the mean and variance for grouped data is essentially the 
+same as for raw data. The difference lies in the use of frequencies to save typing 
+(writing) all numbers. Here is a comparison: 
+  
+  
+  
+   
+  
+ 
+ 
+ 
+ 
+  
+Statistic | 
+Raw data 
+Grouped data 
+Grouped data with intervals 
+. 
+S 
+Sne 
+| 
+Mmedm 
+Smefm) 
+T 
+T 
+Y 
+Table 10.7 Data comparison 
+X; 
+data point 
+flx) 
+frequency of x; 
+m; 
+interval midpoint (mid-mark or mid-value) 
+fim) 
+frequency of interval i 
+total number of data points 
+ 
+
+For the grouped data reproduced here, this is how we estimate the mean and 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+     
+  
+ 
+ 
+ 
+variance. 
+Living | Midpoint m | Numberof | 
+m; x fim,) 
+(m,—27* | (m; — X)X fim) 
+expenses, | 
+students 
+fum) 
+35=<1<40 
+37.5 
+2 
+7 
+345 
+688.9 
+40=1<45 
+42.5 
+3 
+127.5 
+183.9 
+551.6 
+45 =1<50 
+47.5 
+11 
+52235 
+=2 
+806.0 
+50 =1<55 
+52.5 
+21 
+1102.5 
+12.7 
+266.1 
+55 =<1<60 
+i) 
+19 
+1092.5 
+2.1 
+39.4 
+60 =1<65 
+62.5 
+11 
+687.5 
+41.5 
+456.2 
+65<1<70 
+67.5 
+13 
+877.5 
+130.9 
+1701.4 
+- 
+fim; 
+m, 
+— %) - 
+fim, 
+Totals 
+DY 
+] 
+=27 
+e 
+=80 
+4485 
+= 4509.6 
+Variance | 43996 _ 5637 
+80 
+Standard 
+deviation 
+s 
+  
+Table 10.8 Estimating mean and variance 
+The numbers here are estimates of the mean and the variance, and eventually 
+the standard deviation. As you will notice, they are not equal to the values we 
+calculated earlier, but they are close. The reason for this is that by grouping we 
+lose the detail in each interval. For example, the interval between 45 and 50 is 
+represented by the mid interval 47.5. In essence, we are assuming that every 
+number in the interval is equal to 47.5. 
+Example 10 
+Speed limits in some European cities are set to 50 km h™!. Drivers in various 
+cities react to such limits differently. The speeds of cars in Vienna, Brussels, 
+and Stockholm are given in the table. Use box-and-whisker plots to compare 
+the results. 
+  
+Vienna 
+62160 
+(59|50 |61|63|53|46 
+|58 49|51 
+(37|47 
+(51|63 
+(52|44 |50|45|44 
+Brussels 
+646163 
+(57|49 |49|46|58 
+(45|60 
+(51|36 
+(65|45 
+|47 
+|46 
+Stockholm 
+|43|44|34|35|31|34(29|33|36|38|45|47(29(48|51 
+|49 
+(48 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+477
+
+Mean 
+Median 
+Figure 10.13 Symmetric 
+distribution 
+478 
+Statistics 
+  
+Solution 
+Parallel box-and-whisker plots may be an appropriate tool to enable a 
+comparison between the three data sets. 
+  
+5 
+T+ 
+& 
+Stockholm 
+30 
+40 
+50 
+60 
+70 
+Speed 
+ 
+ 
+  
+It appears that, on average, drivers in Brussels and Vienna tend to drive 
+faster than the speed limit. The median in both cities is higher than 50, 
+which means than more than 50% of the drivers in the two cities tend not 
+to respect the speed limit. The variation in both cities is comparable with 
+Brussels having a slightly wider range than Vienna. Almost all drivers in 
+Stockholm appear to adhere to the 50 km h™! limit. The median is around 
+40km h~! and the third quartile about 47, which means that more than 
+75% of the drivers in this city drive at a speed less than the 50 km h™! limit. 
+Shape, centre, and spread 
+Statistics is about variation, so spread is an important fundamental concept. 
+Measures of spread help us to precisely analyse what we do not know. If the 
+values we are looking at are scattered very far from the centre, then the IQR 
+and the standard deviation will be large. If these are large, then our central 
+values will not represent the data very well. That is why we always report spread 
+with any central value. 
+A practical way of seeing the significance of the standard deviation can be 
+demonstrated with the following (optional) observations. 
+Empirical rule 
+If the data are close to being symmetric, as in Figure 10.13, then the following 
+is true: 
+« 
+Theinterval u * o contains approximately 68% of the measurements. 
+« 
+The interval u * 20 contains approximately 95% of the measurements. 
+« 
+The interval u + 30 contains approximately 99.7% of the measurements. 
+The empirical rule usually indicates if an observation is very far from the 
+expected value or not. Take the following example: 
+I have recorded my car’s fuel efficiency over the last 98 times that I have filled 
+the tank with fuel. Here is the data expressing how many kilometres per litre 
+the car travelled:
+
+  
+  
+  
+  
+  
+  
+  
+  
+Km/litte' | Frequency | 
+Km/litre | Frequency 
+6.0 
+1 
+10.0 
+14 
+7.0 
+L 
+10.5 
+7 
+75 
+4 
+11.0 
+9 
+8.0 
+8 
+115 
+5 
+85 
+14 
+12.0 
+1 
+2.0 
+21 
+125 
+2 
+9.5 
+11 
+ 
+ 
+ 
+ 
+   
+Table 10.9 Fuel efficiency data 
+The summary measures are: 
+  
+  
+  
+  
+  
+  
+Mean 
+9.454 
+o 
+1223 
+Median 
+9.25 
+Q 
+85 
+Q 
+10.125 
+IQR 
+1.625 
+ 
+ 
+ 
+  
+Table 10.10 Summary measures 
+The histogram shows that the distribution is almost symmetric. The possible 
+outlier has little effect on the mean and standard deviation. That is why the 
+mean and median are almost the same. Looking at the box-and-whisker plot, 
+we can see that there is one outlier. The confirmation is below: 
+8.5 — 1.5 X 1.625 = 6.06 (3 5.f.); that is why 6 is considered an outlier. 
+10.125 + 1.5 X 1.625 = 12.6 (3 s.f.); hence no outliers on this side. 
+  
+  
+  
+  
+  
+  
+—_——_ 
+6 
+7 
+8 
+= 
+10 
+11 
+12 
+13 
+km/litre 
+Figure 10.14 Fuel efficiency box-and-whisker plot 
+  
+  
+20 
++ 
+{ 
+11 
+1 
+‘ 
+oL 
+g 
+g 10— 
+£ 
+  
+    
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+o4 
+| 
+6 
+7 
+8 
+9 
+0 
+11 
+12 
+km/litre 
+Figure 10.15 Fuel efficiency histogram 
+479
+
+Chebyshev’ Rule. This 
+rule is similar to the 
+empirical rule in the 
+sense that it tries to 
+interpret the standard 
+deviation. Contrary to 
+the empirical rule, it 
+applies to any data set, 
+regardless of the shape of 
+the distribution. 
+Rule: For any number 
+k> 1atleast (1 7%) of 
+the measurements will 
+fall within k standard 
+deviations of the mean. 
+(1. within the interval 
+(x-ko, 2 +ko) 
+(@) No useful 
+information is provided 
+on the fraction of 
+‘measurements that 
+fall within 1 standard 
+deviation of the mean 
+X-oX+0) 
+(b) Atleast & will fall 
+within 3 standard 
+deviations of the mean 
+(X=30,%+30) 
+(© Atleast % will fall 
+within 2 standard 
+deviations of the mean 
+(x-20,x+20) 
+480 
+Statistics 
+If we use the empirical rule, we can expect about 99.7% of the data to lie 
+within three standard deviations of the mean; that is, 9.454 — 3 X 1.223 = 5.8 
+and 9.454 + 3 X 1.223 = 13.1. In fact, we see that all the data are within the 
+specified interval, including the potential outlier. 
+‘What should you be able to tell about a quantitative variable? 
+You can report the shape of its distribution, and include a centre and a spread 
+when describing a quantitative variable. 
+You can report on the central measure and which measure of spread as follows: 
+« 
+If the shape is skewed, report the median and IQR. You may want to include 
+the mean and standard deviation, but you should point out that the mean 
+and median differ as this difference is a sign that the data are skewed. A 
+histogram can help. 
+ If the shape is symmetric, report the mean and standard deviation. 
+You may report the median and IQR as well. 
+« 
+If there are clear outliers, report the data with and without the outliers. 
+The differences may be revealing. 
+Example 10. 
+The records of a large high school show the heights of their students (to the 
+nearest cm) for the year 2016. 
+200 
+@ 3 
+Frequency 
+s g 
+@ 3 
+0 
+169'171'1737175'177'179 181 183"185' 187 189" 191193195 
+  
+Height (cm)
+
+(a) Which statistics would best represent the data here? Why? 
+(b) Estimate the mean and standard deviation. 
+(c) Develop a cumulative frequency graph of the data. 
+(d) Use your result from part (c) to estimate the median, Q;, Qs, and IQR. 
+(e) Are there any outliers in the data? Why? 
+(f) 
+Write a few sentences describing the distribution. 
+D 
+——— 
+Solution 
+(a) The data appear to have outliers and are slightly skewed to the right. 
+The most appropriate measure is the median since the mean is 
+influenced by the extreme values. 
+(b) To calculate the mean and standard deviation, we will set up a table 
+that will facilitate the calculation. 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+  
+Height X; | Number of 
+X+ flx) 
+(= %2 | (64— X2 Xfm) 
+students f(x) 
+170 
+15 
+2550 
+51.84 
+777.6 
+171 
+60 
+10260 
+38.44 
+2306.4 
+172 
+90 
+15480 
+27.04 
+2433.6 
+194 
+2 
+388 
+282.24 
+564.5 
+196 
+3 
+588 
+353.44 
+1060.3 
+- 
+fix) 
+GRS 
+(02 
+Tous | 
+| 
+&S 
+b 
+= 1300 
+= 230376 
+=19927.6 
+: 
+199274 
+Ve 
+S b 
+_ 
+e 
+1300 
+> 
+Standard 
+deviation 
+e 
+ 
+ 
+ 
+  
+Note that using the alternative formula for the variance will also give the 
+same result: (Due to rounding, answers will differ slightly.) 
+P 
+2 
+x 
+flx, 
+Sz:,‘é?’ 
+K ’)722:408453907 
+_— 
+————" 
+—177.21232 = 15.3315 
+" 
+n 
+1300 
+481
+
+482 
+Statistics 
+(c) 
+(d) 
+To develop the cumulative frequency graph, we first need to develop 
+the cumulative frequency table. This is done by accumulating the 
+frequencies as shown below. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+* 
+f) 
+|Cumfv)| 
+ «x 
+) 
+| Cumflx) 
+170 
+15 
+15 
+184 
+20 
+1245 
+171 
+60 
+75 
+185 
+40 
+1285 
+172 
+) 
+165 
+186 
+10 
+1295 
+173 
+70 
+1235 
+187 
+0 
+1295 
+179 
+50 
+905 
+193 
+0 
+1295 
+180 
+110 
+1015 
+194 
+2 | y1207 
+181 
+80 
+1095 
+195 
+0 
+1297 
+182 
+90 
+1185 
+19 
+3 
+1300 
+183 
+10 
+1225 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The cumulative frequency table is constructed such that the cumulative 
+frequency corresponding to any measurement is the number of 
+observations that are less than or equal to its value. So, for example, the 
+cumulative frequency corresponding to a height of 174 cm is 285, which 
+consists of the 50 observations with height 174 and the 235 observations 
+for heights less than 174. 
+The cumulative frequency graph plots the observations on the 
+horizontal axis against their cumulative frequencies on the vertical axis 
+as shown below. 
+1400 
+12001285 
+7 
+! 
+. 
+wool 
+L 
+L 
+[T 
+| / 
+|| 
+— 
+800————— 
+: 
+- 
+—_— 
+6001 
+4004 
+200 
+  
+  
+   
+Cumulative frequency 
+1285 
+  
+  
+ 
+  
+174 
+0 
+169 
+171 
+173 
+175 
+177 
+179 
+181 
+183 
+185 
+187 
+189 
+191 
+193 
+195 
+Height (cm) 
+  
+ 
+ 
+ 
+ 
+ 
+1300 
+The median is the observation between 
+= 650th and 651st 
+  
+observations since the number is even. From the cumulative table, 
+we see that the median is in the 176 interval. So the median is 176. 
+1301 
+Q,isat 
+= 325th observation. From the table, as 174 has a 
+cumulative frequency of 285, and 175 has 485, then Q, has to be 175. 
+3 x 1301 
+4 
+  
+Also, Qs is at 
+IQR = 180 — 175 = 5. 
+~ 976th observation. So, similarly, it is 180.
+
+(e) 
+To check for outliers, we calculate the lengths of the whiskers: 
+Lower fence: 175 — 1.5 X 5 = 167.5, which is lower than the minimum 
+value, so there are no outliers on the left. 
+Upper fence: 180 + 1.5 X 5 = 187.5. So we have five outliers: two at 194 
+and three at 196. 
+(f) The distribution appears to be bimodal with two modes at 175 and 176. 
+It is slightly skewed to the right with a few extreme values at 194 and 
+196. This is further confirmed with the fact that the mean of 177.2 is 
+higher than the median of 176. 
+Here are the calculations using a GDC. 
+1—Var Stats 
+th=1300 
+T 
+oe 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+1. The pulse rates of 15 patients chosen at random from visitors of a local 
+clinic are given below. 
+72, 80, 67, 68, 80, 68, 80, 56, 76, 68, 71, 76, 60, 79, 71 
+  
+(a) Calculate the mean and standard deviation of the pulse rate of the 
+patients at the clinic. 
+(b) Draw a box-and-whisker plot of the data and indicate the values of 
+the different parts of the box. 
+(c) Check if there are any outliers. 
+2. The numbers of passengers on 50 flights from Washington to London on 
+a commercial airline are shown in this table: 
+  
+165 [ 173 | 158 | 171 | 177 | 156 | 178 | 210 | 160 | 164 
+141 | 127 | 119 | 146 | 147 | 155 | 187 | 162 | 185 | 125 
+163 [ 179 | 187 | 174 | 166 | 174 | 139 | 138 | 153 | 142 
+153 [ 163 | 185 | 149 | 154 | 154 | 180 | 117 | 168 | 182 
+130 [ 182 | 209 | 126 | 159 | 150 | 143 | 198 | 189 | 218 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Calculate the mean and standard deviation of the numbers of 
+passengers on this airline between the two cities. 
+(b) Set up a stem-and-leaf plot for the data and use it to find the median 
+number of passengers. 
+(c) Develop a cumulative frequency graph. Estimate the median, first 
+and third quartiles. Draw a box-and-whisker plot. 
+483
+
+484 
+Statistics 
+(d) Find the IQR and use it to check whether there are any outliers. 
+(e) Use the empirical rule to check for outliers. 
+100 students at a school took a practice IB exam using Paper 3. 
+The paper was marked out of 60 marks. Here are the results: 
+  
+Marks 
+0-9 | 10-19 | 20-29 | 30-39 | 40-49 | 50-60 
+No. of students 
+5 
+9 
+16 
+24 
+27 
+19 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Draw a cumulative frequency graph. 
+(b) Estimate the median and quartiles. 
+130 first year IB students were given a placement test to decide whether 
+they should go for SL or HL. The times, in minutes, for these students to 
+finish the test are given in the table below: 
+  
+Time, t 
+30-40 | 40-50 | 50-60 | 60-70 | 70-80 | 80-90 | 90-100 | 100-110 | 110-120 
+No. of 
+students 
+  
+8 
+12 
+24 
+29 
+19 
+16 
+12 
+8 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Draw a cumulative frequency graph. 
+(b) Estimate the median and the IQR. 
+(c) 
+20 students did not manage to finish the test after 120 minutes and 
+had to hand it in uncompleted. Estimate the median finishing time 
+for all 140 students. 
+The mean score of 26 students on a 40-mark paper is 22. The mean for 
+another group of 84 other students is 32. Find the mean of the combined 
+group of 110 students. 
+The scores on a 100-mark test of a sample of 80 students in a large 
+school are given in the table. 
+  
+Score 
+59-63 | 63-67 | 67-71 | 71-75 | 75-79 | 79-83 | 83-87 
+No. of students 
+6 
+10 
+18 
+24 
+10 
+8 
+4 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Find the mean and standard deviation of the scores of all students. 
+(b) A bonus of 13 points is to be added to these scores. What is the new 
+value of the mean and standard deviation? 
+In a large theatre in London (1744 capacity), over a period of 10 years, 
+there are 1000 performances of a particular production. The manager of 
+the theatre group kept a record of the empty seats on the days it played, 
+as shown in the table. 
+  
+Number 
+of empty | 1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 6170 | 71-80 | 81-90 | 91-100 
+seats 
+Days 
+15 
+50 | 100 | 170 | 260 | 220 | 
+90 
+45 
+30 
+20 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+(a) Copy and complete the following cumulative frequency table for the 
+above information: 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number 
+of empty 
+x=80 | x=90 | =100 
+seats 
+Days 
+15 
+165 
+815 
+1000 
+  
+(b) Draw a cumulative frequency graph of this distribution. Use 1 unit 
+on the vertical axis to represent 100 days and 1 unit on the horizontal 
+axis to represent 10 seats. 
+(c) Use your graph to answer the following questions: 
+(i) 
+Find an estimate of the median number of empty seats. 
+(ii) 
+Find an estimate for the lower, upper quartile, and the IQR. 
+(iii) The number of days when there were fewer than 35 empty seats 
+were considered bumper days (lots of profit). How many days 
+were considered bumper days? 
+(iv) The highest 15% of the days with empty seats were categorised 
+as loss days. What is the number of empty seats above which a 
+day is claimed as a loss? 
+8. Aptitude tests sometimes involve jigsaw puzzles to test the ability 
+of new applicants to perform precision assembly work in electronic 
+instruments. One such company that produces computerised parts gave 
+the following results for their job applicants: 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Time to finish the puzzle, ¢ (nearest second) 
+Number of applicants 
+10=1t<30 
+16 
+30=t<40 
+24 
+40=t<45 
+22 
+45<t<50 
+26 
+50=<t<55 
+38 
+55=t<60 
+36 
+60 =1t<65 
+32 
+65=t<70 
+18 
+ 
+ 
+   
+(a) Draw a histogram of the data. 
+(b) Draw a cumulative frequency graph and estimate the median and IQR. 
+(c) 
+Calculate the estimates of the mean and standard deviation of all 
+such participants. 
+9. The heights (to the nearest cm) of baseball players at a school are given 
+in the table: 
+  
+Height 
+152155157 
+160 
+163 | 165 | 168 
+170|173 | 175 | 178 [ 180 | 183 | 185 | 188 | 191 [ 193 
+  
+ Frequency | 
+2 [ 6 | 9|7 |5 |20|18|7 [12|5|nf8|of4]2 
+4|1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+(a) Find the five-number summary for this data. 
+(b) Display the data with a box-and-whisker plot and a histogram. 
+485
+
+486 
+Statistics 
+10. 
+11. 
+123 
+138 
+14. 
+115, 
+16. 
+173 
+18. 
+193 
+(c) Find the mean and standard deviation of the data. 
+(d) Describe the data with a few sentences. 
+(e) Draw a cumulative frequency graph and estimate the height of the 
+player that is in the 90th percentile. 
+(f) 
+10 players’ data were missing when the data was collected. 
+The average height of the 10 players is 182. Find the average height 
+of all the players, including the last 10. 
+Consider 10 data measures. 
+(a) 
+If the mean of the first 9 measures is 12 and the 10th measure is 12, 
+what is the mean of the 10 measures? 
+(b) 
+If the mean of the first 9 measures is 11, and the 10th measure is 21, 
+what is the mean of the 10 measures? 
+(c) 
+If the mean of the first 9 measures is 11, and the mean of the 10 
+measures is 21, what is the value of the 10th measure? 
+Suppose that the mean of a set of data points is 30. 
+(a) Itis discovered that a data point having a value of 25 was incorrectly 
+entered as 15. What should be the revised value of the mean? 
+(b) Suppose an additional point of value 32 was added. Will this 
+increase or decrease the value of the mean? 
+Half the values of a sample are equal to 20, one-sixth are equal to 40, 
+and one-third are equal to 60. What is the sample mean? 
+The seven numbers 7, 10, 12, 17, 21, x, and 
+y have a mean 
+. = 12 and a 
+variance 02 = # Find x and 
+y given that x < y. 
+A sample of 25 observations was taken out of a large population of 
+2, 
+" 
+measurements. If it is given that ZX = 278 and Zx,z = 3682, estimate 
+= 
+=i 
+the mean and the variance of the population of measurements. 
+Use the data in question 9 of Exercise 10.1 to estimate the IQR and the 
+standard deviation of the number of days in hospital by heart patients. 
+Use the data in question 10 of Exercise 10.1 to estimate the IQR and the 
+standard deviation of the exercise time of Jdnos for 2017. 
+Use the data in question 11 of Exercise 10.1 to estimate the IQR and the 
+standard deviation of the speed of cars on the highway. 
+Use the data in question 12 of Exercise 10.1 to estimate the IQR and the 
+standard deviation of the length of components at this facility. 
+Use the data in question 13 of Exercise 10.1 to estimate the IQR and the 
+standard deviation of the waiting time for customers at this supermarket.
+
+Linear regression 
+   
+Scatter plot 
+The total time you devote preparing for an exam affects the score you obtain in 
+that exam. 
+In general, the foot size of an adult is related to the height of that adult. 
+Smoking increases the chances of a heart attack. 
+Statements such as these concern the relationship between two variables. 
+So far, we have considered how to describe the characteristics of one variable. 
+In this section, we will look at relationships between two variables. This area 
+of mathematics is known as bivariate statistics. 
+To study the relationship between two variables, we measure both variables on 
+the same subjects. For example, if we are interested in the relationship between 
+height and foot size, then for a group of individuals we record each person’s 
+height and foot size. This way we know which foot size goes with which height. 
+Similarly, we can record the grades that students obtain along with the time 
+they spent preparing for the exam. So, our data are sets of ordered pairs. These 
+data allow us to study the link (association) between height and foot size or 
+time spent studying and grade obtained. In fact, taller people tend to have 
+larger foot sizes and the more you prepare for an exam the higher your grade is. 
+We say that pairs of variables like these are associated. 
+Here are the scores of 10 students in an IB Chemistry SL class. The table shows 
+the time they spent preparing for their test and the score they achieved. 
+  
+Student | Tim | Joon | S-youn | Kevin | Steve | Niki | Henry | Anton | Cindy | Lucas 
+Hours 
+4 | 45| 
+6 
+35| 
+3 | 
+5| 
+55 | 
+6s 
+7 
+6.5 
+Score 
+65 | 80 | 
+83 
+61 | 
+55 | 79| 
+85 
+89 | 
+92 | 
+o 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Table 10.11 Student test score data 
+  
+Here is a graph (scatter plot) of the 
+100 
+data given in the table. 
+90 
+L. 
+The horizontal axis shows the 
+5 
+. 
+T 
+® 
+. 
+number of hours spent preparing 
+g 
+and the vertical axis shows the 
+<70 
+Two variables measured 
+scores achieved. 
+. 
+on the same subjects 
+’ 
+60 
+i 
+are associated if 
+It appears that more hours spent 
+s 
+specific values of one 
+= 
+. 
+. 
+variable tend to occur 
+preparing results in a higher score. 
+A 
+We say that the scores on tests and 
+Prepartion time (hours) 
+particular values of the 
+the time preparing for them are 
+Figure 10.16 Scatterplot of preparation time vs score 
+Gl 
+487
+
+A response variable 
+‘measures an outcome of 
+astudy. An explanatory 
+variable explains the 
+changes in the response 
+variable. If the study 
+is to determine the 
+relationship between 
+weight and blood 
+pressure, then weight is 
+the explanatory variable 
+and blood pressure is the 
+response variable. . 
+488 
+Statistics 
+associated. We call the time the explanatory variable (independent) and the 
+grade the response variable (dependent). The students whose time and scores 
+are recorded are the subjects of the experiment/study. 
+For instance, larger foot size tends to occur in taller individuals. Or, a higher 
+rate of serious road accidents happens in connection with drivers who have 
+a high level of alcohol concentration in their blood. We say that height and 
+foot size are positively associated. Similarly, high alcohol levels are positively 
+associated with involvement in serious road accidents. We can also claim that 
+there is a negative association between time spent watching TV and scores 
+achieved on weekly school tests for teenagers. 
+In our effort to study the nature of the relationship between two variables, we 
+try to see how changes in one variable relate to changes in the other variable. 
+For instance, we can look at how a person’s height is related to their foot size. 
+As discussed above, we call the first variable explanatory and the second the 
+response variable. These are traditionally called independent and dependent 
+variables, respectively. 
+The principles that guide our work on data are: 
+ Start with graphical display, and then explore numerical summaries. 
++ 
+Look for overall patterns and deviations from those patterns. 
+« When the overall pattern is quite regular, use a mathematical model to 
+describe it. 
+Graphical displays associated with one variable include histograms, box-and- 
+whisker plots and others. In bivariate statistics the graphical tool we use is the 
+scatter plot, or scatter diagram. In a scatter plot, each pair of observations 
+is represented by a point on a grid. The horizontal component represents the 
+explanatory variable and the vertical component represents the response variable. 
+Example 10.6 
+The data presented below is for 80 adults participating in a dieting program. 
+The researchers believe that the metabolic rate (calories burned per 24 hours) 
+is influenced by the lean body mass (k). 
+1800 
+. 
+1700 
+1600 
+. 
+1500 
+1400 
+1300 
+1200 
+1100 
+1000 
+900 
+   
+Metabolic rate 
+  
+(54,1291.6) 
+  
+30 
+40 
+50 
+60 
+70 
+80 
+Lean mass
+
+Does the scatter plot show that there is an association between the metabolic 
+rate and lean mass? 
+You will observe that there is a positive association between these two 
+variables; that is, the greater the lean mass, the higher the metabolic rate. 
+at to look 
+for in a scatter plot 
+As a rule of thumb, when we examine a scatter plot, we look at the following 
+characteristics: 
+« 
+Overall pattern (form, direction and strength) 
+« 
+Striking deviations from the pattern (outliers) 
+In Example 10.6, the form is roughly linear. That is, the points appear to cluster 
+An outlieris an 
+around a straight line. The direction, as mentioned earlier, appears to have a 
+observation that 
+positive association. The strength is determined by how closely the points follow 
+falls outside the 
+the form (this will be revisited later), even though some points stray away from 
+;):lea:iar]:;}:;ti:m SR 
+the line. In Example 10.6, there do not appear to be any outliers. 
+Example 10.7 
+The table below lists the fuel consumption in km/litre of 34 small cars 
+during both city driving and highway driving. Draw a scatter plot of the data 
+and comment on any patterns you observe. 
+  
+City 
+7:38 
+858 
+WSIoN 
+E7.58 
+R 7:78 
+(57188 
+(478 
+(F4.38 
+7:58 
+13-SR5 
+S N6 4 
+Highway 
+|10.2 [ 11.9|11.910.7 | 10.7 | 85 | 6.8 | 6.8 | 9.8 | 6.4 | 55 | 9.4 
+  
+  
+  
+City 
+51|94 
+685585 
+(8564 
+|11.1|51 
+|90 
+81|81 
+Highway | 7.3 
+[11.9| 
+9.8 | 8.1 
+|11.1[124| 
+9.8 
+|13.7| 
+8.1 
+|12.4|11.5|11.9 
+  
+ 
+ 
+  
+  
+City 
+i6i34 
+W77 
+NG EN 
+N778 
+(RIO78 
+(BO:SN 
+RS ON 
+N7-78 
+[ R6:0 
+1256 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highway | 9.8 
+[11.1| 
+9.8 | 98 
+|13.7 
+(132|124 | 
+11.1 | 94 
+|282 
+  
+Solution 
+Here is a scatter plot of the data. 
+25 
+20 
+outlier 
+  
+489
+
+490 
+Statistics 
+The data indicate that the fuel consumption in highway driving and city 
+driving are positively associated. The relationship appears to be strong 
+as the data are tightly clustered around a positively sloped line. However, 
+we can see that there is one observation that is positioned quite far from 
+the rest of the data. This observation is an outlier. Outliers in statistics are 
+important. Sometimes they indicate a problem in the data being observed 
+and sometimes they may have a special significance. In this case, the data 
+corresponds to a ‘hybrid’ car, which uses battery power in addition to fuel, 
+hence the high performance. This observation is not typical of the study 
+and must be removed in order to get a clear indication of the nature of 
+the relationship between the two variables. Here is an adjusted scatter plot 
+without the data of the hybrid car. 
+  
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 14 
+Highway 
+You can use either Excel or your GDC to produce scatter plots. 
+Here are samples of GDC output. Instructions differ depending on model. 
+  
+  
+  
+ 
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+L1 
+L2 
+73 
+|9.8 
+e 
+38 
+|64 
+L 
+- & 
+51 
+(73 
+B 
+91 
+|1l 
+ol 
+6.8 
+|9.8 
+IL3 = 
+] 
+R 
+af 
+LD 
+ 
+ 
+ 
+   
+  
+Covariance 
+Intuitively, we think of the dependence of two variables X and Y as implying 
+that one variable, Y for example, either increases or decreases as X changes. In 
+this book, we will confine our discussion to two measures of dependence: the 
+covariance between two random variables and their correlation coefficient.
+
+The scatter plots in Figures 10.17 to 10.19 show plots of 
+variables 
+X and Y, for samples of size 15. 
+In Figure 10.17, all points fall on a straight line. Obviously 
+Xand Y are dependent in this case. Suppose we know 
+E(X) = uyand E(Y) = uy. Locate the point with 
+coordinates (jiy, iy) and then locate any point (x;, y,), 
+for example, and measure the deviations (x; — px) 
+and (y; — py). If the point is in the upper right corner, 
+then both deviations are positive. Similarly, if the point 
+is in the lower left corner, both deviations are negative. 
+  
+y 
+  
+  
+ 
+ 
+HBx 
+Figure 10.17 Scatter plot of ¥ against X 
+The product of the deviations (x; — uy)(y;, — uy) is positive. This is a typical 
+and extreme case of positive association. When the line representing the 
+pattern in the data is positively sloped, the product of deviations of the mean is 
+on average positive: that is E(X — u,)(Y — uy)) > 0. 
+In Figure 10.18, the data follow a negatively sloped 
+pattern. If the point is in the upper left corner, then 
+the X-deviations are negative while the Y-deviations 
+are positive. Similarly, if the point is in the lower 
+right corner, the X-deviations are positive while the 
+Y-deviations are negative. The product of the deviations 
+(x, = )y, — my) is negative. These situations do 
+not occur for the diagram in Figure 10.19 where little 
+dependence (if any) exists between the variables. 
+The deviations (x; — px) and (y; — py) sometimes 
+assume the same algebraic sign and sometimes opposite 
+signs. Thus, the product (x, — puy)(y, — py) will be 
+positive sometimes and negative other times and the 
+average may be close to zero. 
+The discussion above indicates that the average 
+E((X — ux)(Y — uy)) provides a measure of the 
+linear dependence between X and Y. This quantity 
+is called the covariance of X and Y. 
+ 
+  
+Y 
+. 
+  
+(24   
+ 
+ 
+ 
+  
+Hx 
+Figure 10.18 Scatter plot of ¥ against X 
+  
+Y 
+. 
+ 
+ 
+  
+Figure 10.19 Scatter plot of Y against 
+X 
+1 X and Y are random variables with means sy and auy, the covariance of X and Y is 
+cov(X,Y) = E[(X = pX)(Y = uY)] 
+‘The larger the absolute value of the covariance of X and Y, the greater the linear dependence 
+between X and Y. Positive values indicate that Y increases as X increases and negative values 
+indicate that Y decreases as X increases. A zero value of the covariance indicates that the variables 
+are linearly uncorrelated and that there is no linear association between X and Y.
+
+V() s the variance of X. 
+. 
+492 
+Statistics 
+Some facts worth knowing about covariance 
+1 
+A shortcut calculation formula can be helpful if you need to perform the 
+calculations without using the built-in functions in your GDC or software: 
+cov(X, V) = E(X ~ m)(Y — 1) 
+= E(XY — Xpy — pxY + pxpy) 
+= E(XY) ~ EQty) — E(uy) + Eljupty) 
+= E(XY) — puyE(X) — maE(Y) + pxpry 
+= E(XY) — pypy = pxhty + pxtty = E(XY) = pypy 
+2 
+In fact, the above result leads to 
+cov(X, X) = B(XX) — pypy = B(X?) — pud = V(X) 
+3 
+If Xand Y are not independent, then 
+V(X +7Y) = V(X) + 2cov(X, Y) + V(Y) 
+4 
+If Xand Y are independent, then 
+cov(X, Y) = E(XY) — pxpy = EDE(Y) — pxpy = 0 
+Consequently, 
+V(X +7Y)=V(X) +V(Y) 
+Note that the converse of the theorem above is not true: if cov(X,Y) = 0, 
+then X and Y are not necessarily independent. 
+Unfortunately, it is difficult to employ the covariance of X and Y as an 
+absolute measure of association between variables because its value depends 
+on the scales used. 
+In Example 10.7, the covariance of the data expressed as km/litre is 3.8. 
+However, if we change the scale from km/litre to mile/litre, then the 
+covariance will be 1.49 even though the scatter plot does not indicate any 
+change in the form nor the strength of association between the two variables. 
+This problem with covariance can be eliminated by ‘standardising’ its value 
+by using the correlation coefficient, p, instead. 
+_ cov(X, Y) 
+Py = ooy 
+Since oy and oy are both positive, the sign of the correlation coefficient is 
+the same as that of the covariance. 
+Note that all models discussed concerning correlation and regression 
+assume that data are samples that come from normal populations. 
+A scatter plot is a useful tool that reveals the form, trend and strength of the 
+association between two quantitative variables. In this book, we are only 
+interested in linear relationships. As mentioned earlier, we say that a linear
+
+relationship is strong if the data are tightly packed 
+around a line, and weak if they are widely dispersed 
+around a line. Relying simply on the shape of the 
+graph may be misleading though. Look at the 
+scatter plots in Figures 10.20 and 10.21. 
+Figure 10.20 is a copy of the second graph in 
+Example 10.7. The graph in Figure 10.21 gives 
+the impression that the association is stronger 
+than it is in Figure 10.20. This is due to the change 
+in scale on the vertical axis. However, both scatter 
+  
+plots represent the same situation. We will need a 
+5 
+6 
+7 
+8 
+9 
+10 
+1 
+12 
+13 
+14 
+more robust measure to support our first graphical 
+Highway 
+impressions. This measure is the correlation 
+Figure 10.20 Copy of the second graph in Example 10.7 
+coefficient. 
+150    
+  
+  
+  
+  
+  
+  
+   
+12.5 
+10.0 
+City 
+75 
+5.0 
+5.0 
+75 
+10.0 
+125 
+15.0 
+17.5 
+20.0 
+Highway 
+Figure 10.21 This figure gives the impression of 
+a stronger association 
+Let us consider height and lean mass data collected from 130 twenty-year-olds. 
+Here is the scatter plot. 
+Lean mass (kg) 
+  
+T1s1 
+182 
+183 
+184 
+185 
+186 
+187 
+188 
+189 
+Height (cm) 
+Figure 10.22 Scatter plot of weight data 
+Not surprisingly, the association between the two variables is strong. To measure 
+the strength of this association, we use the correlation coefficient given by the 
+following formula. 
+493
+
+494 
+Statistics 
+‘The correlation coefficient measures the strength and direction of the linear relationship between 
+two quantitative variables. 
+Fora set of data (x, ;) of size m, the correlation coefficient is 
+w2 )'5) 
+where 
+¥ and 5 are the means of the variables and S, and S, are the standard deviations. 
+Specific values of R are denoted by r. 
+  
+  
+Ris also called the Pearson product-moment correlation coefficient, In fact, R is an unbiased 
+estimate of the population coefficient, which is given by: 
+_ cov(X, Y) 
+T 
+oo, 
+    
+GDCs user. 
+In exams, you will not be asked to calculate the coefficient by hand but to interpret the GDC result. 
+There are several equivalent forms for the equation but it is not necessary, at this stage, to calculate 
+any of them. 
+This formula is somewhat complex to put into practice; you will read the result 
+from your calculator or computer output. 
+  
+Xi   
+If we look at the formula, we see that the first component 
+is nothing 
+x 
+but the standardised value for x;. Similarly, the second component 
+Yi   
+y 
+is the standardised value for y;. So, the correlation coefficient can be written as 
+ZZXZ), 
+1 That is, the correlation coefficient is an average of the products of 
+  
+the standardised values of the two variables. 
+‘Whether we use the definition of r or p, it can be shown that they are equivalent. 
+Hence, using your GDC will give you the correct value. If you are interested in seeing 
+how to show their equivalence, here is one method. 
+Starting with p: 
+e 
+    
+  
+2= Hy 
+Yi— by 
+= )i — 1) 
+(%\ o= ,LX)Z) (» 0= uy)l) 
+V3= w250, — P 
+  
+  
+  
+Starting with 7 
+R= 
+  
+   
+    
+  
+X—Xx 
+( 
+Yim) 
+%1@2(1,-;)2 
+VZ0i =7  
+
+Let’s take the weight-height data and express it in pounds and inches instead, 
+as shown in Figure 10.23. 
+165.5 
+  
+165.0 
+= 
+% 1645 
+T 
+=z 
+164.0 
+163.5 
+725 
+730 
+735 
+740 
+745 
+750 
+755 
+760 
+Height (in) 
+Figure 10.23 Weight-height data expressed in pounds and inches 
+Other than the scale on the axes being inches and 
+pounds, the plot has the same form and direction 
+and strength as the original one. Similarly, when 
+we standardise the variables (Figure 10.24), we 
+are subtracting a constant from each value and 
+dividing by another constant. 
+‘Weight standard 
+Other than the centre of the data being at the 
+origin, the form, direction, and strength appear 
+to be the same. 
+  
+This fact is verified by calculating the correlation 
+coefficient for all three forms of the data. The 
+result is always the same, 0.95 (software use). 
+Height standard 
+Figure 10.24 Standardisation of variables 
+  
+B 
+e e 
+LinearReg(ax+b) 
+1.10816325 
+    
+ 
+ 
+ 
+ 
+  
+  
+Figure 10.25 For Example 10.7, the correlation can be read from your GDC 
+You may have observed in the technology output that 
+ is also reported. This measure is not 
+required for your exam. However, it is an extremely useful and powerful tool. r? is known as 
+the coefficient of determination. It reports the portion of variation in the response variable that 
+can be explained by the variation in the explanatory variable. As such, * can be expressed as 
+a percentage. Using the data from Example 10.7, > = 0.879, which can be interpreted as ‘if all 
+else is equal, then 88% of the variation in city consumption can be explained by variation in the 
+highway consumption’, i.e. on average, for cars with the same characteristics, if there is a 1 km/ 
+litre change in city consumption, we expect that 8% of this change can be explained by changes 
+in the highway consumption. Using the data from Example 10.6, r = 0.84 and r2 = 0.7056, which 
+‘means that approximately 70.6% of the changes in the metabolic rate can be explained by changes 
+in the lean mass. 
+495
+
+496 
+Statistics 
+Properties of the correlation coefficient 
+« 
+The correlation coefficient is a measure of the strength of the linear 
+association between two quantitative variables. 
+« 
+Do not apply correlation to non-quantitative data! 
+« 
+The coefficient does not prove a linear relationship. If there is a linear 
+association, the coefficient will describe its strength. 
+« 
+Outliers can distort the correlation coefficient. Special attention must be 
+paid to such outliers. 
+« 
+The correlation coefficient is always a number between —1 and +1. 
+Values of R near 0 indicate weak or no relationship. Values close to +1 or 
+—1 indicate strong association. 
+« 
+Risindependent of the units of measurement. 
+« 
+Rhas no units and is not a percentage. For example, don’t express a 
+correlation of 0.85 as 85%. 
+« 
+Correlation between two variables means that there is some association 
+between them. It does not mean that one of them causes the other. 
+When there is no association, cov(X, ) = 0. 
+wv(X,Y) _ 
+0 
+- 
+00, 
+00, 
+  
+  
+Hence, p = 
+A proof for the values 
+1 s beyond the scope of this book. 
+So, correlation does not mean causation; that is, two variables can have a strong 
+correlation without one of them being the cause of the changes in the other. For 
+example, there may be a strong correlation between the amount of crude oil 
+imported by country 
+X and the rate of birth in country Y. That does not necessarily 
+mean that the increase of oil imports causes an increase in birth rate. However, in 
+some cases, there may be a causal relationship. For example, the increase in the 
+average level of income in a certain country and the decrease of unemployment can 
+have a strong negative correlation. This association is also causal. However, the task 
+of proving that the relationship is causal comes with economics. 
+Example 10.8 
+The table below gives the data for a lab experiment involving the length (mm) of 
+a metal alloy bar used in electronic equipment when it is exposed to heat. 
+  
+Temp (°C) | 
+40 
+45 
+50 
+55 
+60 
+65 
+70 
+73 
+80 
+Length 
+20 | 20.12 | 20.20 | 20.21 | 20.25 | 20.25 | 20.34 | 20.47 | 20.61 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Draw a scatter plot. Comment on the strength of the relationship. 
+Use both rand 1.
+
+== 
+Solution 
+Here is the scatter plot. 
+Length (mm) 
+  
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+Temp (°C) 
+It appears that there is a relatively strong relationship. 
+This is confirmed by calculating the correlation coefficient. In this case, 
+regardless of which formula we use (r or p), the correlation is approximately 
+0.95521. Using 
+> = 91.2% implies that 91.2% of the variation in the length 
+can be explained by variation in the temperature. 
+Least squares regressi 
+We have seen that correlation measures the strength and direction of a linear 
+relationship between two quantitative variables. So, if we suspect from a scatter 
+plot that the relationship is linear, then we need to summarise this linear 
+behaviour; that is, we need to find an equation of a straight line that best fits 
+the trend in the data. In this sub-section, we discuss how to find a line of best 
+fit that describes the linear relationship between an explanatory and response 
+variable when it exists. 
+Finding a line of best fit means finding a line that comes as close as possible to 
+the points in the data set. Obviously, there is no straight line that contains all 
+the points in the set. 
+Regression line 
+A regression line is a straight line that describes how a response variable 
+changes with changes in an explanatory variable. 
+Let Y be the response variable and X be the explanatory variable. Since for the 
+same value of the explanatory variable X we can expect several values of the 
+response variable Y, our linear model enables us, on average, to predict the 
+value of Y given a value of X = x, and hence we write the equation of the linear 
+regression line in the form 
+E(Y) = a+ Bx 
+497
+
+498 
+Statistics 
+This is to say, given a specific value of x, the expected value of Yis equal to & + Bx 
+where a is the value corresponding to x = 0, and f3 is the slope representing the 
+rate with which the response variable changes with every change of one unit in 
+the explanatory variable (gradient). 
+Note that the regression model can be stated ‘formally’ as E(Y|X = x) = a + Bx 
+In cases like this, our data are only samples from a population, and consequently 
+we can only estimate the regression equation. 
+From the sample data we estimate the regression equation and we write our 
+estimate as 
+y=bx+a 
+where b, the slope of the line, is an estimate of 8 and reflects how the response 
+variable, Y, changes according to changes in the explanatory variable X. a is an 
+estimate of & and is the value of the response variable corresponding to a zero 
+value in X. 
+In the example of height-lean mass, the equation is 
+Lean mass (kg) = 56.1 + 0.0966 Height (cm) 
+That is, b = 0.0966 and a = 56.1 
+This means that on average, for every increase (decrease) of 1 cm in height, we 
+predict an increase (decrease) of 0.0966 kg in weight. The interpretation of a is 
+peculiar. As you know from algebra, a stands for the value of 
+y (which is Lean 
+mass in this case) corresponding to a zero value of x (which is height in this 
+case). However, for this problem the interpretation is not ideal. It corresponds 
+to a height of zero. The general rule is that if 0 is not included in the domain of 
+the explanatory variable, then trying to interpret the intercept is pointless. 
+This issue has to do with what we call extrapolation. Extrapolation is the use 
+of the regression line for predicting values far off the range of values of the 
+explanatory variable x used to find the equation of that line. Such predictions 
+are often inaccurate. 
+y the least-squares regression line? 
+Let’s take a simple example. The graph in Figure 10.26 represents a few points 
+in a data set. The green line is the line of best fit. Take for example point (x,, y,). 
+The point on the line (x,, §,) is the point whose y-coordinate j, predicts the real 
+y-coordinate, using the line of best fit. The distance y; — j, is the error in this 
+prediction. Similarly, y, — 7, and all other y; — y; represent the errors in their 
+respective predictions. The line of best fit is the line that minimises the sum of 
+all these errors. However, like the variance, some of these errors are positive 
+and some are negative and thus they could cancel each other out. To avoid this, 
+as we did with the variance, we try to minimise the squares of these errors. That 
+is, the line of best fit is the line that minimises the sum X(y; — ;)% Hence, it is 
+called the least-squares line of regression y = bx + a.
+
+The process of finding the slope of such a line is beyond the scope of this book. 
+Here are some of the many formulae for the slope and intercept: 
+_cov(X,Y) _ E(x—X)(yi —y) _ Exy; — nky 
+V(X) 
+N(x; — X)? 
+Yx? — nx? 
+  
+Here, r is the correlation coefficient, X, , s,, and s, are 
+the means and standard deviations of the explanatory 
+and response variables. The last form demonstrates 
+the close relationship between the slope of the 
+regression line and the correlation coefficient. One 
+conclusion we can draw from this formula is that 
+along a line of regression with slope b, a change of 
+=07 
+1 standard deviation in the x direction will result in 
+02— 92) 
+a change of r standard deviations in the 
+y direction. 
+— 
+After estimating the slope, and using the fact that the 
+line has to contain the point with coordinates (%, 7), 
+0" 
+the intercept, a, can be found using a = j — bx. 
+Figure 10.26 Every regression line should contain the point (%, y) 
+ 
+  
+As you will notice from the equations, every regression line should contain the 
+point (¥, ) with the averages of the variables as coordinates. 
+Example 10.9 
+  
+This scatter plot represents a random sample of IB students who went 
+through four years of university, and is a comparison of their scores on the 
+IB exams they took and their GPAs in their university studies (scale 1-4). 
+GPA 
+  
+o) 
+24 
+26 
+28 
+30 
+32 
+34 
+36 
+38 
+1B 
+There appears to be a linear relationship. When we run a linear regression, 
+the equation is: 
+GPAS="=1151==0/151818 
+This means that, on average, for every increase of 1 point in the total IB 
+score, we expect an increase of 0.15 points in the GPA. If we want to predict 
+the GPA of a student who scored 30 on an IB diploma, the model predicts, 
+on average, a grade of: 
+GPA = 21.51 + 0.151(30) = 3.02 
+499
+
+Exceptional cases of the 
+regression line 
+Ifr = 0, the regression 
+line is horizontal; its 
+slope s zero. 
+Ifr = 1, all the points fall 
+on aline with positive 
+Ity = 
+500 
+slope. 
+—1, all the points 
+fall on a line with 
+negative slope. 
+Statistics 
+The correlation coefficient of this relationship is r = 0.758, which is a relatively 
+strong correlation. In addition, 2 = 57.5%. This means that changes in the IB 
+score may help us explain 57.5% of the variation in the GPA. 
+Does that mean high IB scores cause high university grade averages? The 
+answer is no. They only help predict the future university grade averages. 
+  
+=\ 
+  
+of 
+the regression line 
+The regression equation can be used to predict the response variable 
+according to values of the explanatory variable. 
+The regression line must pass through the point (X, 7). 
+‘When the regression line is used for prediction and you substitute a specific 
+value x; for the explanatory variable, the predicted value , of the response 
+variable is an average value. For example, when we use the height-lean 
+mass equation, Lean mass (kg) = 56.1 + 0.0966 Height (cm) to predict the 
+weight corresponding to a height of 182 cm, the value we get (73.68 kg) is the 
+average weight of twenty-year-old students of height 182 cm. 
+Estimating the value of r associated with a value of X that is larger than any of those observed, or 
+smaller than any of those observed, is called extrapolation. Estimating the value of Y associated 
+with a value of 
+X that i within the range of the observed values of X but is not equal to any of the 
+observed values of 
+X is called interpolation. 
+Extrapolation is extremely suspect: without data in the range in which the estimate is wanted, 
+there is no reason to believe that the relationship between X and Y is the same as it is in the region 
+in which there are data. 
+Interpolation is sometimes reasonable when the scatter plot shows a strong relationship, especially 
+if there are many data values near the value of 
+X or Y at which the estimate is sought. 
+Example 10.10 
+Here are data for two variables. Draw the line of regression and indicate the 
+distances, the sum of whose squares is minimised by the choice of the line of 
+regression. 
+  
+x 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+y 
+21 
+43 
+31 
+34 
+29 
+55 
+ag 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Solution 
+The scatter plot shows the data and line of regression. The red distances are 
+those required. 
+The line has equation: 
+= 6.14 + 2.071x 
+Look at the second table where we also introduced the value of each 
+predicted y (Fit) and then calculated the distances (directed) whose squares 
+were minimised.
+
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+x| 
+y 
+Fit 
+Distance | Distance squared 
+il 
+= 
+28.92857 
+—7.92857 
+62.8622449 
+12| 
+@ 
+31 
+12 
+144 
+13 | 3 
+33.07143 
+—207143 
+4290816327 
+14 | 
+34 
+35.14286 
+—1.14286 
+1306122449 
+15 | 
+29 
+37.21429 
+—821429 
+67.4744898 
+16 | 
+55 
+39.28571 
+15.71429 
+246.9387755 
+17 | 
+33 
+4135714 
+—835714 
+69.84183673 
+ 
+ 
+ 
+ 
+  
+The minimum sum is 596.71. You can try to find any other line and you will 
+notice that this is the minimum sum of the squares of distances. 
+Moreover, since X = 14 and 
+y = 35.14, then: 
+35.14 = 6.14 + 2.071 X 14 
+This indicates that the line contains the point (%, ). 
+    
+   
+  
+Fitted line plot 
+y=614+2071x 
+. 
+14 
+" 
+S 
+109244 
+: 
+RSq 
+16.8% 
+ 
+ 
+  
+50 
+40 
+30    
+  
+A remarkable relationship appears here between the gradients of the regression line and r. 
+S, 
+S, 
+S, 
+S, 
+    
+    
+1) 
+Note that in cases where the explanatory variable is ‘not controlled; we can 
+regress x on y instead, and the equation of regression is & = dy + c. 
+The resulting formulae for the slope and intercept are 
+cov(X,Y) 
+Xl —X)(yi—7y) _ Exy—niy _ 
+s 
+d 
+rfandc:)?*dy 
+V(Y) 
+'y 
+  
+  
+For example, b = 
+Sy 
+Hence, bd = 
+r = 
+Sx 
+  
+501
+
+502 
+Statistics 
+Example 10.11 
+The following data represent the volume in cubic cm and weight in grams 
+of a certain fruit studied by a biologist. 
+  
+Volume (x) | 223 | 236 | 242 | 226 | 223 | 221 | 233 | 222 | 222 | 218 | 232 | 223 
+Weight (y) | 165 | 171 | 173 | 170 [ 168 | 172 | 168 | 167 | 162 | 166 | 164 | 164 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Obtain the least-squares regression line of y on x as well as the regression 
+line of x on y. Use the model to predict the weight of a 230-cubic-cm fruit. 
+Also, predict the volume of a 168 g fruit. 
+e 
+— 
+Solution 
+We will use software (you can use a GDC) for this calculation. 
+The least-squares regression of y on x is 
+YaMIISER01235% 
+The predicted weight is ¥ = 115 + 0.233(230) = 168.22g 
+The least squares regression of x on y is 
+X =561+ 1.02y 
+The predicted volume is 
+X = 56.1 + 1.02(168) = 227.26 cubic cm 
+You will also notice here that the product of the gradients (0.233) and (1.02) 
+is 0.237, which is the same as the value of r2 given by the software. 
+Using a GDC, here are the results: 
+xtb 
+xtb 
+2327179047 
+.018796992 
+4,7312151 
+10150376 
+r2=.2370923014 
+r2=.3370923014 
+r=.4869212476 
+r=.4869212476 
+  
+   
+    
+   
+  
+  
+  
+  
+  
+Notice how the values of r and 12 are the same. 
+Exercise 10.4 
+1. The following table lists the values of a response variable x against an 
+explanatory variable y. Draw a scatter plot and comment on the strength 
+of the relationship. 
+  
+x|12| 6 [12|11[16(13|11|12|11|12|12|12|15|16|14(13|13| 
+8 |10|11 
+8|10/ 9|6 |14[10{10|9 |15(14|10| 6 |12]| 8 [13|11 |11 
+9|6 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 
+  
+2. The data below represents the outcome of an experiment on a small car, 
+relating fuel consumption to speed. 
+Speed kmh—! 
+60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 
+Fuel consumption km/litre | 16.9 | 16.8 | 15.9 | 15.9 | 14.4 | 14.3 | 13.2 | 14.3 
+  
+  
+ 
+  
+  
+Speed kmh~! 
+100 | 105 | 110 | 120 | 130 | 140 | 150 
+Fuel consumption km/litre | 12.1|12.0 [ 10.2| 
+9.8 | 9.0 | 8.0 | 7.1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+. The tabular data is from World 
+Country | GNI/Cap 
+PPP 
+Ban.k statistics relating th? Gross 
+NOR 
+85380 
+57130.0 
+National Income. per Capita ((?TNI/ 
+CH 
+70350 
+91800 
+Cap) to Purchasing Power Parity 
+. 
+DK 
+58980 
+40140.0 
+(PPP) for some developed countries. 
+3 
+SWE 
+49930 
+39600.0 
+The exchange rate adjusts so that an 
+identical product in two different 
+Ll 
+A0 
+22200 
+countries has the same price when 
+HIN 
+2170 
+271500 
+expressed in the same currency. 
+LS5 
+27140 
+47020.0 
+For example, a chocolate bar that 
+AUT 
+46710 
+39410.0 
+sells for C$1.50 in a Canadian city 
+BEL 
+45420 | 378400 
+should cost US$1.00 in a US city 
+D 
+43330 
+38170.0 
+when the exchange rate between 
+g 
+42390 
+34440.0 
+Canada and the US is 1.50 US$/C$. 
+JPN 
+42150 
+34790.0 
+(Both chocolate bars cost US$1.00) 
+SGP 
+40920 
+54700.0 
+(a) Draw a scatter plot for the data. 
+(b) Describe the relationship and justify your choice of which variable is 
+the explanatory variable and which is the response variable. 
+(c) 
+Is the relationship strong? Explain your answer. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+(a) Draw a scatter plot of the data. 
+(b) Describe the relationship and justify your choice of which variable is 
+the explanatory variable and which is the response variable. 
+(c) 
+Is the relationship strong? Explain your answer. 
+In hotel management, it is necessary to estimate the electricity consumption 
+in relation to the number of visitors. Here is the data for a large hotel. 
+  
+Visitors 
+232311321334 
+352|375 
+412|447 | 456 | 472 | 480 
+495|512 
+Consumption 
+|237|278|270 
+303|298 
+|328|387 
+390 | 376 | 402 | 431 | 430|432 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+(a) Draw a scatter plot of the data. 
+(b) Describe the relationship and justify your choice of which variable 
+is the explanatory variable and which is the response variable. 
+(c) 
+Is the relationship strong? Explain your answer. 
+. Draw a regression model for questions 1 to 4 and interpret the slope 
+of each. 
+. To test the benefit of using an online tutoring course for exam 
+preparation, 20 students were given a test before and after they took part 
+in an experiment. The tests were similar and the scores before and after 
+the experiment were recorded. The intention was to find how improved 
+the scores were through participation in the experiment. 
+503
+
+504 
+Statistics 
+7 
+  
+Student 
+1 
+2 
+S 
+4 
+3 
+6 
+7 
+8 
+8 
+10 
+Before 
+98 | 24 
+6 
+8 
+56 | 54 | 40 | 40 | 
+68 | 30 
+After 
+122 | 46 | 
+16 | 28 | 84 | 68 | 64 | 62 | 82 | 50 
+  
+  
+  
+  
+Student 
+Tl 
+12 
+g 
+14 
+15 
+16 
+17 
+18 
+19 | 20 
+Before 
+32 | 80 | 102 | 30 | 12 
+16 | 60 | 58 | 50 | 48 
+After 
+40 | 100 | 129 | 56 | 32 | 56 | 90 | 73 | 74 | 70 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Analyse the data. For a student whose original score was 60, what do 
+you expect, on average, the student’s new score to be? 
+A large electronics company produces LCD monitors to be used in the 
+computer industry. The monthly total cost of production over one year 
+is given in the table below. (Number of units produced is in thousands 
+and the cost is in 1000 euros.) 
+  
+Number of units produced 
+16 
+31 
+57 
+76 
+13 
+25 
+Cost 
+1875 | 2586 | 3716 | 4712 | 1690 | 2191 
+  
+  
+  
+Number of units produced 
+49 
+71 
+20 
+38 
+63 
+81 
+Cost 
+3319 | 4362 | 2005 | 2775 | 4116 | 4860 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Draw a scatter plot of the data. 
+(b) Write down the equation of the regression line representing the 
+association between units of production and sales. Draw the 
+regression line on your scatter plot. 
+(c) Interpret the slope of the regression line and comment on the 
+strength of this association. 
+d) 
+If the selling price of each unit during this year is 105 euros, what is 
+the production level where the sales are equal to the cost? 
+  
+  
+The table below shows the scores for 12 students for IB Economics SL 
+and IB Physics SL exams. 
+Economics 
+5 
+6 
+2 
+5 
+6 
+3; 
+7 
+7 
+3 
+4 
+> 
+7 
+Physics 
+6| 
+6|6 
+|4 
+|7 
+[4]6]|5]|6|4]6]5 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+(a) Find the correlation coefficient and comment on your result. 
+(b) Find the regression equation that enables us to predict Economics 
+scores from the Physics scores. 
+(c) What score in Economics would you expect for a candidate with a 
+score of 4 in Physics? 
+Diamonds are usually priced according to weight. The carat is the usual 
+measure of weight of a diamond. 1 carat is equivalent to 200 milligrams. 
+Some experts use points as the measure instead. 1 point is equivalent 
+to 2 milligrams. Therefore, every carat is equivalent to 100 points. So, a 
+0.5 carat diamond is worth 50 points.
+
+Here is the data for 20 diamonds and their prices. 
+  
+Points 
+72 
+103 
+106 
+2l 
+31 
+100 
+Price (€) | 5909 | 15260 | 13640 | 
+1287 | 2177 | 12837 
+  
+  
+  
+Points 
+26 
+82 
+101 
+100 
+63 
+66 
+Price (€) | 1911 | 6927 | 16143 | 10945 | 9117 | 6020 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Construct a scatter plot of the data. What type of trend do 
+you observe? 
+(b) Write down the equation of a straight-line model relating the 
+price to the number of points. 
+(c) Give a practical interpretation of the coefficients. If a practical 
+interpretation is not possible, explain why. 
+(d) How well does the line fit the given data? 
+(e) Use the line you found to predict the price of a diamond with 
+63 points. 
+(f) Find the residual corresponding to your estimate in part (e). 
+10. 12 students in a graduating class study HL Economics and HL Physics. 
+The marks they obtained on their mock exams in these subjects are 
+given below: 
+  
+  
+  
+ 
+ 
+  
+ 
+Student 
+i 
+2 
+S 
+4 
+5 
+6 
+7 
+8 
+9 | 10|11 
+|12 
+Economics 
+53 | 48 | 83 | 70 | 39 | 51 | 73 | 47 | 24 | 61 | 43 | 54 
+Physics 
+56 | 45 | 80 | 63 | 42 [ 38 | 72 | 45 | 32 | 46 | 48 | 50 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+(a) Find the product moment correlation coefficient for the scores 
+and write down its p-value. 
+(b) Interpret the p-value in the context of the question. 
+(c) Andrew obtained a grade of 64 in Economics. Use your model 
+to predict his score in Physics. 
+(d) The same class sat mock exams in French SL and English HL and the 
+correlation coefficient was 0.623. Using a 5% level of significance, 
+determine whether the value indicates a positive association 
+between the grades in French and English. 
+Chapter 10 practice questions 
+1. Given that w is the mean of a data set y,, y,, ..., y3. You know that 
+30, 
+30, 
+> yi=360and > (y; — w)* =925, find: 
+= 
+=1 
+(a) the value of u 
+(b) the standard deviation of the set. 
+506
+
+506 
+Statistics 
+28 Laura conducted a survey by asking students at her school about the 
+time it takes each of them to get to school every morning. She scribbled 
+the numbers on a piece of paper and, unfortunately, could not read the 
+number of students who spend 40 minutes on their trip to school. The 
+average number of minutes she had originally found was 
+34 minutes. Find out how many students spend 40 minutes on their trip. 
+  
+Time in minutes 
+10 | 20 | 30 | 40 | 50 
+Number of students with this time 
+1 
+2 
+5 
+22 
+5 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The following table gives 50 measurements of the time it took a certain 
+reaction to be done in a laboratory experiment. 
+  
+301 
+5T 
+[R4:00| 
+| 
+F1e8 | 2.8 
+5 61| 
+N 3:60) 
+| 
+R2:28 
+R 2.5 
+134 
+45|25 
+(35|36 
+|37 
+|51 
+|41 
+|48 
+|49 
+|16 
+28 || a6 | 
+2| 
+Gl | sk | 
+e 
+| 
+A 
+SN 
+S 
+27 
+|43 | 4 
+57 
+|44 
+|37 
+|37 
+|46 
+|42 
+|4 
+Se || 86 | 
+62 || A0 || zs | Az || 20 || S| 
+Es | 2 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Construct a frequency table and histogram starting at 1.6 with an 
+interval length of 0.5 
+(b) What fraction of the measurements are less than 5.1? 
+(c) Estimate, from your histogram, the median of this data set. 
+(d) Estimate the mean and standard deviation using your frequency table. 
+(e) Construct a cumulative frequency table. 
+(f) From your cumulative frequency graph, estimate each of the 
+numbers in the five-number summary. 
+In large cities around the world, governments offer parking facilities 
+for public use. The histogram below gives a picture of the number of 
+parking sites available with the capacity of each in a number of cities 
+chosen at random. 
+90   
+  
+Number of sites 
+  
+ 
+ 
+   
+Parking spaces
+
+(a) Which statistics would best represent the data here? Why? 
+(b) Calculate the mean and standard deviation. 
+(c) Develop a cumulative frequency graph of the data. 
+(d) Use your result from part (c) to estimate the median, Q,, Q, 
+and IQR. 
+(e) Are there any outliers in the data? Why? 
+(f) Write a few sentences describing the distribution. 
+ 
+  
+The box-and-whisker 
+plots display the case 
+120 
+prices of red wines 
+produced in France, 
+g1 
+3 
+Italy, and Spain. 
+£ 
+100 
+(a) Which country 
+5 
+appears to produce 
+P 
+the most expensive 
+red wine? 
+= 
+The least expensive? 
+France 
+ ltaly 
+Spain 
+(b) In which country are the red wines generally more expensive? 
+(c) Write a few sentences comparing the pricing of red wines in the 
+three countries. 
+  
+112.72 | 53.55 | 54.12 | 54.33 | 58.79 | 59.26 | 60.39 | 62.45 | 52.22 | 52.52 | 52.58 | 52.85 
+  
+54.06 | 51.34 | 51.93 | 52.09 | 52.14 | 52.24 | 52.24 | 52.53 | 53.50 | 51.82 | 51.93 | 52.00 
+  
+52.78 | 52.82 | 50.28 | 50.49 | 51.28 | 51.28 | 51.52 | 51.62 | 52.40 | 52.43 | 49.83 | 50.46 
+  
+50.95 | 51.07 | 51.11 | 49.45 | 49.45 | 49.73 | 49.76 | 49.93 | 50.19 | 50.32 | 50.63 | 48.64 
+  
+49.79 | 50.19 | 50.62 | 50.96 [ 49.09 | 49.16 | 49.29 | 49.74 | 49.74 | 49.75 | 49.84 | 49.76 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+52.90 | 52.91 | 53.40 | 52.18 | 52.57 | 52.72 | 50.56 | 50.87 | 50.90 | 49.32 | 49.70 
+ 
+ 
+ 
+ 
+ 
+  
+‘The table shows the times (in seconds) of the 71 male swimmers 
+competing in the 100-metre race on the first day of the 2000 Summer 
+Olympics in Sydney. 
+(a) Calculate the mean time and the standard deviation. 
+(b) Calculate the median and IQR. 
+(c) Explain the differences between these two sets of measures. 
+In a survey of universities in major cities in the world, the percentage of 
+first-year students who graduate on time (some require 4 years and some 
+5 years) was reported. The summary statistics are given in the following 
+table. 
+507
+
+508 
+Statistics 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+Number of universities surveyed | 120 
+Mean percentage 
+69 
+Median percentage 
+70 
+Standard deviation 
+9.8 
+Minimum 
+42 
+Maximum 
+86 
+Range 
+44 
+Q, 
+60.25 
+Q 
+75.75 
+ 
+  
+(a) 
+Is this distribution symmetric? Explain. 
+(b) Check for outliers. 
+(c) Create a box-and-whisker plot of the data. 
+(d) Describe the data in a short paragraph. 
+. The International Heart Association studies, among other factors, the 
+influence of the cholesterol level (in mg/dl) on the conditions of heart 
+patients. In a study of 2000 subjects, the following cumulative relative 
+frequency graph was recorded. 
+100 
+90 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+1 
+| 
+] 
+] 
+|    
+Cumulative percentage 
+ifff‘ff‘tf‘if‘ 
+  
+| 
+i 
+| 
+0 
+100 
+125 
+150 
+175 200 225 250 275 300 325 350 375 400 
+Cholesterol level (mg/dl) 
+ 
+   
+(a) Estimate the median cholesterol level of heart patients in the study. 
+(b) Estimate the first and third quartiles, and the 90th and the 10th 
+percentiles. 
+(c) Estimate the IQR. Also estimate the number of patients in the 
+middle 50% of this distribution. 
+(d) Create a box-and-whisker plot of the data. 
+(e) Give a short description of the distribution. 
+. Many of the streets in Vienna, Austria, have a speed limit of 30 kmh~!. 
+On one Sunday evening the police registered the speed of cars passing 
+an important intersection in order to give speeding tickets when drivers 
+exceeded the limit. The following table is a random sample of 100 cars 
+recorded that evening.
+
+10. 
+11. 
+  
+26 | 46 | 39 | 
+41 | 44 | 37 | 38 | 35 | 34 | 31 
+27 | 47 | 39 | 
+41 | 44 | 37 | 38 | 35 | 
+34 | 32 
+27 | 47 | 39 | 
+41 | 44 | 37 | 
+38 | 35 | 34 | 32 
+27 | 48 | 39 | 
+41 | 44 | 37 | 
+38 | 35 | 34 | 32 
+29 | 48 | 40 | 
+41 | 
+45 | 37 | 
+38 | 36 | 34 | 33 
+30 | 48 | 40 | 41 | 45 | 37 | 
+38 | 36 | 35 | 33 
+30 | 48 | 40 | 42 | 45 | 38 | 39 | 36 | 35 | 33 
+30 | 49 | 40 | 42 | 46 | 38 | 39 | 36 | 35 | 33 
+30 | 50 | 41 | 42 | 46 | 38 | 39 | 36 | 35 | 33 
+31 | 54 | 41 | 43 | 46 | 38 | 39 | 36 | 35 | 33 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Prepare a frequency table for the data. 
+(b) Draw a histogram of the data and describe its shape. 
+(c) 
+Calculate, showing all work, the mean and standard deviation. 
+(d) Prepare a cumulative frequency table of the data. 
+(e) Find the median, Q;, Q;, and IQR. 
+(f) Are there any outliers in the data? Explain, using an appropriate 
+diagram. 
+The following are the data collected from 50 industrial countries 
+chosen at random in 2001. The data represent the per capita gasoline 
+consumption in these countries. The Netherlands’ consumption was at 
+1123 litres per capita while Italy stood at 2220 litres per capita. 
+  
+2062 | 2076 | 1795 | 1732 | 2101 | 2211 | 1748 | 1239 | 1936 | 1658 
+1639 | 1924 | 2086 | 1970 | 2220 | 1919 | 1632 | 1894 | 1934 | 1903 
+1714 | 1689 | 1123 | 1671 | 1950 | 1705 | 1822 | 1539 | 1976 | 1999 
+2017 | 2055 | 1943 | 1553 | 1888 | 1749 | 2053 | 1963 | 2053 | 2117 
+1600 | 1795 | 2176 | 1445 | 1727 | 1751 | 1714 | 2024 | 1714 | 2133 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Calculate the mean, median, standard deviation, Q,, Q;, and IQR. 
+(b) Are there any outliers? 
+(c) Draw a box-and-whisker plot. 
+(d) What consumption levels are within 
+1 standard deviation from the 
+mean? 
+(e) Germany, with a consumption level of 2758 litres per capita, was 
+not included in the sample. What effect on the different statistics 
+calculated would adding Germany have? Do not recalculate the 
+statistics. 
+90 students took part in an experiment where each reported the time, x, 
+it took them to travel to school on a specific day, to the nearest minute. 
+The teachers then reported back that the total travelling time for the 
+course participants was >_x = 4460 minutes. 
+509
+
+510 
+Statistics 
+2 
+138 
+14. 
+153 
+(a) Find the mean number of minutes the students spent travelling to 
+school that day. 
+Four students who were absent when the data was first collected 
+reported that they spent 35, 39, 28, and 32 minutes, respectively. 
+(b) Calculate the new mean including these four students. 
+Two thousand students at a large university take the final Statistics 
+examination, which is marked on a 100-scale, and the distribution of 
+marks received is given in the table below: 
+  
+  
+Marks 
+1-10 | 1120 
+21— 30 | 31— 40| 41— 50| 51— 60 | 61— 70 | 71— 80 | 81— 90 | 51— 100 
+Numberof | 5, | 100 | 500 | 340 | 520 | 440 | 180 | 90 | 60 | 40 
+candidates 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+(a) Complete a copy of the table below so that it represents the 
+cumulative frequency for each interval. 
+  
+  
+ 
+ 
+Marks 
+=10 | =20 | =30 | =40 | =50 | =60 | =70 | =80 | =90 | <100 
+Number 
+of 
+A 
+30 | 130 
+1630 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(b) Draw a cumulative frequency graph of the distribution, using a scale 
+of 1 cm for 100 students on the vertical axis and 1 cm for 10 marks 
+on the horizontal axis. 
+(c) Use your graph to answer parts (i)-(iii). 
+(i) 
+Find an estimate for the median score. 
+(ii) 
+Candidates who scored less than 35 were required to retake the 
+examination. How many candidates had to retake the exam? 
+The highest-scoring 15% of candidates were awarded a distinction. 
+(iii) Find the mark above which a distinction was awarded. 
+100 physicians are taking part in a symposium. 72 of the physicians are 
+male and 28 are female. The mean height of men is 179 cm and that for 
+the women is 162 cm. Find the mean height of the 100 physicians. 
+2 
+. Consider a population Xy, x,, ..., %, such that >_x,= 300 and 
+= 
+2 
+> (x; — w2 = 625, where w is the mean. 
+=i 
+(a) Find the value of u. 
+(b) Find the standard deviation of the population. 
+  
+  
+The table below lists the grades of students in a small class on a 
+50-points test. 
+Grade 
+10 | 20 | 30 | 40 | 50 
+Number of students with this grade 
+1 
+2 
+Bl 
+k 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The mean grade is 34. Find the value of k.
+
+16. Waiting times for 100 customers at a supermarket’s cash counter were 
+recorded and are shown in the table. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Waiting time, f | 
+Number of 
+(seconds) 
+customers 
+0=1<30 
+5 
+30=1<60 
+15 
+60= 1< 90 
+33 
+90 =< 120 
+21 
+120 
+= 1 < 150 
+11 
+150 
+< £ < 180 
+7 
+180 
+< £ < 210 
+5 
+210 <1< 240 
+3 
+ 
+ 
+   
+(a) Estimate the mean waiting time for a customer. 
+(b) Set up a cumulative frequency table for these data. 
+(c) Use your table from part (b) to draw a cumulative frequency graph. 
+(d) Use your graph from part (c) to find estimates for the median and 
+the first (lower) and third (upper) quartiles. 
+17. The diagram represents the lengths, in cm, of 80 plants grown in a 
+laboratory. 
+» S 
+  
+  
+Frequency 
+oSG 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+A 
+I 
+=] 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 100 
+Length (cm) 
+(a) How many plants have lengths in cm between 
+(i) 
+50 and 60?7 
+(ii) 70 and 907 
+(b) Calculate estimates for the mean and the standard deviation of the 
+lengths of the plants. 
+(c) Explain what feature of the diagram suggests that the median is 
+different from the mean.   
+  
+  
+  
+  
+ 
+ 
+ 
+  
+(d) The following is 
+Length incm 
+Cumulative frequency 
+an extract from 
+<50 
+2 
+the cumulative 
+=20 
+2 
+frequency table. 
+=0 
+T 
+Use the information 
+<80 
+62 
+in the table to 
+estimate the median. 
+Give your answer to 2 significant figures. 
+511
+
+Statistics 
+  
+  
+  
+  
+18. The table represents the 
+‘Weight (W) 
+Number of packets 
+weights, W, in grams, of 
+80<W=85 
+5 
+80 packets of roasted peanuts. 
+85 < W=90 
+10 
+90 < W=95 
+15 
+  
+(a) Use the midpoint of each 
+  
+  
+  
+N 
+vy 
+9 
+95 < W =100 
+26 
+interval 
+to 
+find 
+an estimate 
+100 < W= 105 
+13 
+for the standard deviation 
+. 
+105 < W= 110 
+7 
+of the weights. 
+110 < W=115 
+4 
+  
+  
+  
+(b) Copy and complete the following cumulative frequency table for the 
+  
+  
+above data. 
+xv)s' 
+W=285[W=90 
+[W=95 
+|W=100 
+|W=105 
+[W=110 
+|[W=115 
+Number 
+of 
+5) 
+15 
+80 
+packets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(c) A cumulative frequency graph of the distribution is shown below, 
+with a scale of 2 cm for 10 packets on the vertical axis and 2 cm for 
+5 grams on the horizontal axis. 
+80 
+70 
+60 
+50 
+Number of packets 
+  
+80 
+85 
+90 
+95 
+100 
+105 
+110 
+115 
+Weight (grams) 
+Use the graph to estimate: 
+(i) 
+the median 
+(ii) the upper (third) quartile. 
+Give your answers to the nearest gram. 
+(d) Let W,, W,, ..., Wy, be the individual weights of the packets, and 
+let W be their mean. What is the value of the sum: 
+W= W)+ W, = W)+ ...+ (Wyo— W) + (Wg— W) 
+512 
+ 
+
+(e) One of the 80 packets is selected at random. Given that its weight 
+satisfies 5 < W = 110, find the probability that its weight is greater 
+than 100 grams. 
+19. A surveillance camera is mounted at a critical stretch of a highway and 
+records the speed in km h™! of cars passing a certain point. The table 
+shows the record over a 5-minute interval. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+Speed, s 
+Number 
+of cars 
+s=60 
+0 
+60 <s=70 
+7 
+70 <s =80 
+25 
+80 <s=90 
+63 
+90 <5 =100 
+70 
+100 <s =110 
+71 
+110 <s =120 
+39 
+120 <s =130 
+20 
+130 <s = 
+140 
+5 
+5> 140 
+0 
+ 
+  
+(a) Estimate the mean speed of cars passing this point. 
+(b) The table below lists cumulative frequencies for the speeds above. 
+(i) 
+Write down the values of m and n. 
+(ii) Construct a cumulative frequency graph to represent 
+information in part (i). 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Speed, s 
+Cumulative 
+frequency 
+5= 60 
+0 
+s=70 
+7 
+5= 80 
+32 
+s=90 
+95 
+s=100 
+m 
+s=110 
+236 
+s=<120 
+n 
+s=130 
+295 
+s= 140 
+300 
+ 
+ 
+  
+(c) Use your graph in part (b) to determine: 
+(i) 
+the percentage of cars travelling at a speed in excess 
+of 105kmh™! 
+(ii) the speed that is exceeded by 15% of the cars. 
+513
+
+514 
+Statistics 
+20. 
+21. 
+22. 
+A taxi company has 200 taxi cabs. The cumulative frequency graph 
+below shows the fares in dollars ($) taken by the cabs one morning. 
+200 
+180 
+Number of cabs 
+8 
+20 
+  
+0 
+0 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+Fare ($) 
+(a) Use the graph to estimate: 
+(i) 
+the median fare 
+(ii) the number of cabs in which the fare taken is $35 or less. 
+The company charges 55 cents per kilometre for distance travelled. 
+There are no other charges. Use the graph to answer the following. 
+(b) On that morning, 40% of the cabs travel less than a km. Find the 
+value of a. 
+() What percentage of the cabs travelled more than 90 km that morning? 
+Three positive integers a, b, and ¢, where a < b < ¢, 
+are such that their 
+median is 11, their mean is 9, and their range is 10. Find the value of a. 
+A real estate agent keeps records of small houses sold in a suburb of 
+Budapest, Hungary. The cumulative frequency table on the next page 
+shows 100 houses that were sold in the second half of 2017. Prices are in 
+thousands of euros.
+
+23. 
+  
+Selling 
+price, P 
+P =100 
+P =200 
+P =300 
+P = 400 
+P=<500 
+(€1000) 
+Total 
+number of 
+12 
+58 
+87 
+94 
+100 
+houses 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a) Draw a cumulative frequency graph for the information in the table. 
+(b) Use your graph to find the lower and upper quartiles as well as the 
+interquartile range. 
+Below is the frequency distribution of the information above. 
+  
+  
+ 
+ 
+ 
+ 
+Selling 
+pl’iCe,P 
+0<P=100 (100 
+< P = 200|200 
+< P = 
+300|300 
+< P = 400|400 
+< P = 500 
+(€1000) 
+putibey 
+12 
+16 
+29 
+m 
+n 
+of houses 
+ 
+ 
+  
+(c) 
+Find the value of m and of n. 
+(d) Use mid-interval values to calculate an estimate for the mean selling 
+price. 
+(e) Houses that sell for more than €350,000 are described as Luxury 
+houses. 
+(i) 
+Use your graph to estimate the number of Luxury houses sold. 
+(ii) Two Luxury houses are selected at random. Find the probability 
+that both have a selling price of more than €400,000. 
+A student measured the diameters of 80 snail shells. His results are 
+shown in the following cumulative frequency graph. The lower quartile 
+(LQ) is 14 mm and is marked clearly on the graph. 
+  
+   
+  o 
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+Diameter (mm) 
+  
+  
+  
+ 
+ 
+  
+(a) On the graph, clearly mark the value of: 
+(i) 
+the median 
+(ii) the upper quartile. 
+(b) Write down the interquartile range. 
+5156
+
+516 
+24. The cumulative frequency graph below shows the marks obtained in an 
+examination by a group of 200 students. 
+200 
+190 
+180 
+170 
+160 
+Number of students 
+(a) 
+  
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 100 
+Mark obtained 
+Use the cumulative frequency graph to complete a copy of the 
+frequency table below. 
+  
+0=x<20 
+20=x<40 40 =x<60 60 = x < 80 
+80 = x < 100 
+  
+22 
+ 
+ 
+ 
+ 
+20 
+  
+(b) Forty per cent of the students fail. Find the pass mark. 
+ 
+
+25. 
+26. 
+27. 
+The cumulative frequency graph below shows the heights of 120 
+basketball players in centimetres. 
+e 
+P P e 
+  
+   
+Number of players 
+0 
+160 
+165 
+170 
+175 
+180 
+185 
+190 
+195 200 
+Height in centimetres 
+Use the graph to estimate: 
+(a) the median height 
+(b) the interquartile range. 
+Leta, b, ¢, and d be integers such thata < b, b < cand ¢ = d. 
+The mode of these four numbers is 11. 
+The range of these four numbers is 8. 
+The mean of these four numbers is 8. 
+Calculate the value of each of the integers a, b, ¢, and d. 
+A test marked out of 100 is taken by 800 students. The cumulative 
+frequency graph for the marks is given below. 
+  
+800{   
+700 
+6004   
+500 
+4004   
+300 
+Number of students 
+  
+200   
+  
+100   
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Mark 
+517
+
+518 
+Statistics 
+28. 
+29. 
+(a) Write down the number of students who scored 40 marks or less. 
+(b) The middle 50% of test results lie between marks a and b, 
+where a < b. Find a and b. 
+The set of numbers {x, y, 10, 12, 16, 16, 18, 18} has a mean of 13 and a 
+variance o2 of 21. x and y are integers with x < y. Find x and y. 
+The following table gives the average yield of olives per tree, in kg, 
+and the rainfall, in cm, for nine separate regions of Italy. You may 
+assume that these data are a random sample from a bivariate normal 
+distribution, with correlation coefficient p. 
+  
+Rainfall (x) 
+11 
+10 | 15 | 13 
+7 
+18 | 22 | 20 | 28 
+Yield (y) 
+56 | 53 | 67 | 61 | 54 | 78 | 86 | 88 | 78 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+A scientist wishes to use these data to determine whether there is a 
+positive correlation between rainfall and yield. 
+(a) Draw a scatter plot of the data and comment on its shape. 
+(b) Determine the product moment correlation coefficient for these 
+data and comment about the strength of the relationship. 
+(c) Find the equation of the regression line of y on x and interpret its 
+parameters. 
+(d) Hence, estimate the yield per tree in a tenth region where the 
+rainfall was 19 cm. 
+(e) Determine the angle between the regression line of y on x and that 
+of x on y. Give your answer to the nearest degree.

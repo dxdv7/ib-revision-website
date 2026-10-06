@@ -1,0 +1,1966 @@
+ 
+
+A fundamental principle 
+of deductive reasoning is 
+the law of the excluded 
+middle: every statement s 
+either true or false, never 
+both. The most basic true 
+statements are axioms. 
+‘They are assumptions 
+that set forth the basic 
+relations among the 
+fundamental (undefined) 
+objects of the theory. 
+Additional true statements 
+are definitions that 
+introduce more objects in 
+terms of the fundamental 
+204 
+ones. 
+Proofs 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+o 
+the skills essential to read and practise abstract mathematical concepts: 
+logic basics for proofs such as statements, negations of statements, and 
+compound statements 
+« 
+the concept of proof and several proof procedures: direct proofs, proofs 
+with the contrapositive, contradiction or counter examples 
+ writing and understanding proof by mathematical induction. 
+In this chapter we will introduce you to the study of mathematical reasoning. 
+‘We will give you an idea of what mathematical proofs are and will explain 
+their importance. This will give you some reference to check to see if your 
+proofs are correct. 
+One of the goals of this chapter is to introduce the language of mathematical 
+argument. This means learning to read and evaluate mathematical statements 
+critically and being able to write mathematical explanations in clear, logically 
+correct language. 
+Basic laws and simple proofs 
+Logic basics 
+The most vital notion in mathematics is that of proof. In mathematics, it is the 
+process of establishing the validity of a statement, especially by derivation from 
+other statements in accordance with principles of reasoning. 
+Mathematicians use deductive reasoning to develop and extend a theory by 
+drawing conclusions based on statements accepted as true. Proofs are essential 
+in mathematical reasoning because they demonstrate that the conclusions are 
+true. Generally speaking, a mathematical explanation for a conclusion has no 
+value if the explanation cannot be supported by an acceptable proof. It is not 
+enough to test the statement with a few examples. 
+Prove that the sum of any two odd integers is an even integer. 
+Proof 
+We first need definitions of even and odd: 
+An integer is even if it can be written in the form 2k, for some integer k. 
+An integer is odd if it can be written in the form 2k + 1, for some integer k.
+
+The proof follows straight from the definition. 
+Let m and n be any two odd integers. We want to show that m + n is an 
+even integer. 
+By definition, an integer is odd if it can be written in the form 2k + 1 
+(or 2k — 1) for some integer k. Thus, there exist integers r and s such that 
+m=2r+landn=2s+1.Addm 
++ n: 
+m+n=2rt1+2s+1=2(r+s+1) 
+Because r + s + 1 is an integer, this shows that m + n has the form 2k and 
+thus is an even integer. 
+There are several noteworthy comments: 
+o 
+The word ‘any’ in the statement of the theorem means the proof must work 
+regardless of which odd integers you choose. It is not good enough to simply 
+select, for example, 3 and 7, then write 3 + 7 = 10. This is an example, or 
+test, of the theorem, not a mathematical proof. 
+o 
+According to the definition, m = 2r + 
+1 and n = 25 + 
+1 together represent 
+all possible pairs of odd integers since we did not restrict the values that 
+rand s can take. 
+« 
+The proof makes direct reference to the definition. If you know the definition 
+of every word in the statement of a theorem, you will often discover a proof 
+simply by writing down the definitions. 
+« 
+The theorem itself did not mention any variables. The proof required a 
+calculation for which these were essential. In this case, the variables r and s 
+come from the definition of oddness. A great mistake is to think that the 
+proof is nothing more than the calculation. This is the easy bit, and it means 
+nothing without the supporting sentences. 
+The rules of logic are used to distinguish between valid and invalid mathematical 
+arguments and to give precise meaning to mathematical statements. Because a 
+major goal of this chapter is to help you learn how to understand and construct 
+correct mathematical arguments, you will be introduced to logic. 
+but not both. 
+‘Which of these are statements? 
+d 
+A statement (or proposition) is a sentence that asserts a fact that is either true or false, 
+(a) Vienna is the capital of Austria. 
+(b) 
+12 is a prime number. 
+() 2+3=5 
+(d) Euler was a great writer. 
+(€)2+3=6 
+) n+1=<15 
+205
+
+‘The area of logic that 
+deals with statements 
+(propositions) is called 
+propositional calculus or 
+propositional logic. 
+Let Pbe a statement. 
+‘The negation of P, denoted 
+by ~P, is the assertion 
+that Pis false. 
+‘The statement ~P s read 
+‘not P’ The truth value of 
+the negation of P, ~P, is 
+the opposite of the truth 
+value of P. 
+~Pis also denoted as =P 
+  
+o 
+E 
+ 
+ 
+  
+Figure 5.1 Venn diagram for 
+statements P and not P 
+206 
+Proofs 
+Solution 
+(a) Yes 
+(b) Yes 
+(c) 
+Yes 
+(d) No (neither true nor false) 
+(e) 
+Yes 
+(f) 
+This is not a statement until n 
+is assigned a value. This is an 
+example of an open statement. 
+‘We use letters to denote statement variables (or propositional variables), that is, 
+variables that represent statements, just as letters are used to denote numerical 
+variables. If a statement is true, its truth value is ‘true} denoted by T, and if it is 
+a false statement, then its truth value is ‘false, denoted by F. 
+For example, if P is ‘12 is a prime number’ then ~P is ‘12 is not a prime 
+number’ or ‘12 is a composite number’. P 
+is false, and thus ~P is true. 
+An important distinction must be made between a statement and the form of a 
+statement. ‘12 is not a prime number’ is a statement with a truth value of T. We 
+use the form ~P to represent this statement. However, the form ~P itself has 
+no truth value unless P is assigned to a specific statement, such as ‘12 is a prime 
+number’ in this case. The form such as ~P does not have a truth value. Instead, 
+each form has a list of truth values that depend on the values assigned to its 
+components. This list is displayed by presenting all possible combinations for 
+the truth values of its components in a truth table. The value of ~P depends on 
+the two possible values of P; its truth table is: 
+P | ~P 
+T 
+B 
+F 
+T 
+ 
+Table 5.1 Truth table for statements Pand not P. 
+This is the truth table for the negation of statement P. This table has a row for 
+each of the two possible truth values of a statement P. Each row shows the truth 
+value of ~P corresponding to the truth value of P in that row. 
+There is some similarity between logical statements and set theory. It gives you a visual tool to 
+help increase your understanding of arguments. For example, when we talk about a statement P, 
+it is like saying that an element belongs to a set. 
+‘P: nis an even integer’ is like saying ‘n € set of even integers; or even simpler, 
+see the Venn diagram in Figure 5.1. 
+Here, E is the set of even integers and E' represents the complement of this set, where U'is the 
+universal set. 
+If Pis true, thenn € E. 
+If Pis false, then ~Pis trueand n € E' 
+In other words, n is not an even integer.
+
+Find the negation of each of the following statements and write them in 
+simple English: 
+(a) P:Kevin is looking for a new car. 
+(b) 
+Q: 142 is a perfect square. 
+(c) 
+R: Tim walked his dogs 20 km on Sunday. 
+Solution 
+(a) ~P:Itis not the case that Kevin is looking for a new car. This negation 
+can be more simply expressed as ‘Kevin is not looking for a new car’ 
+(b) ~Q: Itis not the case that 142 is a perfect square. This negation can be 
+more simply expressed as ‘142 is not a perfect square. 
+(c) ~R:Itis not the case that Tim walked his dogs 20 km on Sunday. 
+This negation can be more simply expressed as ‘“Tim did not walk his 
+dogs 20 km on Sunday’. 
+The negation of a statement can also be considered the result of the operation 
+of the negation operator on a statement. The negation operator constructs a 
+new statement from a single existing statement. The logical operators that are 
+used to form new statements from two or more existing statements are also 
+called connectives. 
+Let Pand Q be statements. 
+‘The conjunction of Pand Q, denoted by P A Q. is the statement ‘Pand Q. 
+‘The conjunction P A Qis true when both Pand Q are true, and is false otherwise. 
+‘The disjunction of Pand Q, denoted by PV Q, is the statement ‘P or Q 
+PV Qis true when at least one of P or Qis true. 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+P 
+Q | Paq 
+P 
+Q 
+|rva 
+T 
+W 
+T 
+T 
+T 
+T 
+T 
+F 
+F 
+i 
+F 
+i 
+F 
+i 
+F 
+F 
+i 
+i 
+F 
+F 
+F 
+F 
+F 
+F 
+Table 5.2 Truth table for the 
+Table 5.3 Truth table for the 
+conjunction of Pand Q 
+disjunction of Pand Q 
+‘The conjunction and disjunction ideas 
+[ 
+T 
+are demonstrated in the diagram. 
+For the conjunction to be true, the 
+points have to be in the area occupied 
+by both Pand ; for the disjunction, 
+  
+    
+  
+  
+it suffices to be in any of them. 
+T 
+PAQ 
+PvQ 
+Important: In set theory, P and Q have some relationship, while in logical statements they 
+do ot have to be connected. The only thing that counts s their respective truth value. 
+  
+207
+
+208 
+Proofs 
+Tables 5.2 and 5.3 display the truth tables of P A Qand P v Q. Each table has a 
+row for each of the four possible combinations of truth values of Pand Q. The 
+four rows correspond to the pairs of truth values TT, TF, FT, and FF, where the 
+first truth value in the pair is the truth value of P and the second truth value is 
+the truth value of Q. 
+In logic, the word ‘but i sometimes used instead of ‘and’ in a conjunction. For example, the 
+statement ‘The car is running, but the back door is open' is another way of saying "The car is 
+running, and the back door is open’ 
+‘While’ and ‘although’ are also used. 
+Example 5.4 
+Cis the statement ‘41 is composite’ and M is ‘45 is a multiple of 5. C 
+is false, 
+and M is true. Thus ‘41 is composite and 45 is a multiple of 5, written using 
+connectives as C A M is a false statement, while ‘41 is composite or 45 is a 
+multiple of 5, written using connectives as C vV M is true. 
+Also, the statement ‘Either 41 is composite or 45 is not a multiple of 5’ 
+written using connectives as C v ~M is false. 
+Find the conjunction and disjunction of the statements M and N, where M is 
+the statement “Tim’s PC has more than 100 GB free hard disk space; and N is 
+the statement ‘The processor in Tim’s PC runs faster than 2 GHz. 
+Solution 
+The conjunction of these statements, M A N, is the statement ‘Tim’s PC has 
+more than 100 GB free hard disk space, and the processor in Tim’s PC runs 
+faster than 2 GHz” This conjunction can be expressed more simply as ‘Tim’s 
+PC has more than 100 GB free hard disk space, and its processor runs faster 
+than 2 GHz! For this conjunction to be true, both conditions given must be 
+true. It is false when one or both of these conditions are false. 
+The disjunction of M and N, MV N, is the statement “Tim’s PC has at least 
+100 GB free hard disk space, or the processor in Tim’s PC runs faster than 
+2GHz! 
+This statement is true when Tim’s PC has at least 100 GB free hard disk 
+space, when the PC’s processor runs faster than 2 GHz, and when both 
+conditions are true. It is only false when both of these conditions are false, 
+that is, when Tim’s PC has less than 100 GB free hard disk space and the 
+processor in his PC runs at 2 GHz or slower.
+
+Conditional statements 
+We will now look at several other important ways in which propositions can 
+be combined. Specifically, we will see how statements can lead from one to 
+another. 
+The statement P = 
+Q (also written as P — Q) is called conditional because P = Q asserts that Q 
+is true on the condition that P holds. It is also called an implication. 
+The truth table for the conditional statement P = Q is shown in Table 5.4. 
+  
+  
+  
+  
+P | Q|P=Q 
+T 
+T 
+T 
+T 
+F 
+F 
+F 
+L 
+L 
+F 
+F 
+T 
+ 
+ 
+Table 5.4 Truth table for P = Q 
+‘The conditional parallel is shown in the diagram, which demonstrates the idea of ‘subset’ This is a 
+very important tool that helps later in using contrapositives in proofs. P C Qis similar to P = 
+Q. 
+U 
+For P C Qto be true, then when x € P, x must belong to Q. 
+  
+ 
+ 
+  
+According to Table 5.4, there is only one way that P = Q can be false: when P 
+is true and Q is false. Thus, this truth table agrees with the way we appreciate 
+promises: the only circumstances where a promise is broken is when the 
+premise is true but the person making the promise fails to make the consequent 
+action true. 
+Example 5.6 
+Consider the statement your teacher makes to you: ‘If you get 80% or more 
+on your final exam, then you will receive a course grade of 7. 
+The only time you feel cheated is when you get more than 80% on the final 
+but do not receive a grade 7, which is the second row in Table 5.4. Some 
+individuals are confused with rows 3 and 4. How can a false statement lead 
+to a true one? This situation is similar to you getting less than 80% but still 
+receiving a grade 7. This may happen because your grade depends on many 
+factors other than the final exam. Row 4 is equivalent to you getting less 
+than 80% and not receiving a grade 7. 
+Definition of a 
+conditional statement 
+Let Pand Qbe 
+statements. The 
+conditional statement 
+P = Qis the statement 
+£ P, then Q7 
+‘The conditional 
+statement P = Qs false 
+when Pis true and Qs 
+false, and true otherwise. 
+In the conditional 
+statement P=> Q, Pis 
+called the hypothesis 
+(or antecedent or 
+premise) and Qs called 
+the conclusion (or 
+consequence). 
+Conditional statements 
+play such an essential 
+role in mathematical 
+reasoning; thus, a variety 
+of terminology is used to 
+express P= Q. 
+« IfPthen Q 
+« Pimplies Q 
+« PonlyifQ. 
+« QwhenP 
+« Qis necessary for P 
+« Pis sufficient for Q 
+.« QifP 
+209
+
+As discussed earlier, 
+P= Q inset theory is 
+similar to when P C Q. 
+‘The first diagram below 
+resembles the rows in the 
+truth table corresponding 
+to the cases where the 
+truth value of P — Q 
+is True. Points x, y, and 
+Zrepresent situations 
+similar to rows 1,3, 
+and 4. 
+x is analogous to the first 
+row:x 
+€ Pand x € Qis 
+true. 
+In the second diagram 
+below, yis analogous to 
+the third row: y ¢ P 
+butstilly € Q. 
+zis similar to the fourth 
+row: z¢ Pandz ¢ Q. 
+ is comparable to the 
+case where the truth 
+value of the implication 
+is False. 
+  
+  
+  
+ 
+ 
+  
+u€PbutugQ. 
+Thatis P ¢ Q. Here uis 
+parallel to the second row 
+of the table. 
+210 
+Proofs 
+Example 5. 
+Suppose you tell your younger brother ‘If the concert is sold out, I will take 
+you to the movies. This promise is broken (the conditional sentence is false) 
+only when the concert was sold out (the antecedent is true) and you did 
+not take your brother to the movies (the consequent is false). This is row 2 
+of the truth table. In all other situations, the promise is true. If there were 
+tickets left (row 3 and 4 of the table), we don't say the promise was broken, 
+regardless of whether you decided to go to the movies. The promise is also 
+kept in the situation where the concert is sold out and you went to the 
+movies, which is row 1 of the table. 
+One curious consequence of the truth table for P = Q is that a conditional 
+sentence may be true even when there is no connection between the hypothesis 
+and the conclusion. The reason for this is that the truth value of P = Q depends 
+only on the truth value of components P and Q, not on their interpretation. 
+For this reason, all of the following are true: 
+o 
+Ifcosm = 0, then 12 is a prime number (row 4 of Table 5.4) 
+¢ 2m>5=3+4="7(rowl) 
+o 
+2w <5=3+4="7(row3) 
+On the other hand, the following statement is false: 
+e 27>5=3+4=12(row2) 
+Our truth table portrayal for P = 
+Q captures the same meaning for If .., then... type statements 
+that you have always used in mathematics. For example, if we think of x as some fixed real 
+number, we all know that 
+‘Ifx > 
+10, then x > 5 
+is a true statement, no matter which number 
+x we have in mind. 
+Let’s examine why we say this sentence is true for some specific values of x, where the hypothesis P 
+is ‘x> 10" and the conclusion Qis ‘x > 5. 
+When x = 20, both Pand Q are true, as in row 1 of the truth table. If x = 8, this corresponds to 
+row 3 of the table, and for x = 2 we have the situation in row 4. There is no case corresponding to 
+row 2 because P = 
+Qs true. Note that when we say ‘If P, then Q' is true, we don't claim that either 
+Por Qis 
+true. What we do say is that no matter what number we think of, if it’s larger than 10, 
+then it’s also larger than 5. 
+A related concept is that of equivalence P <> Q. Pand Q are equivalent if P=> Qand Q = P. 
+The truth table is given in the table blow. 
+  
+  
+  
+  
+PlaQ|PsQ 
+d 
+T|F| 
+F 
+F|T| 
+F 
+F|F| 
+T 
+ 
+ 
+Other expressions that translate into P <> Q: 
+* 
+Pifand only if Q (sometimes written as Piff Q) 
++ 
+Pisnecessary and sufficient to Q
+
+Two important implications related to P = Q, its converse, and its contrapositive, 
+will play a very important role in some types of proofs that will appear later in the 
+chapter. 
+Example 5.8 
+Write both the converse and the contrapositive for each statement below. 
+In each case, determine whether the given statement is true or false, state 
+whether the converse is true or false, and state whether the contrapositive is 
+true or false. 
+(a) 
+If5 < 126, then 6 is a composite number. 
+(b) If 5 = V26, then 6 is a composite number. 
+(c) 
+If5 < {26, then 6 is a prime number. 
+(d) If 5 = 126, then 6 is a prime number. 
+| 
+Solution 
+(a) Converse: If 6 is a composite number, then 5 < 126 
+Contrapositive: If 6 is a prime number, then 5 = 26 
+Statement is True. Row 1 of the truth table. 
+Converse is True. Row 1 of the truth table. 
+Contrapositive is True. Row 4 of the truth table. 
+(b) Converse: If 6 is a composite number, then 5 = 126 
+Contrapositive: If 6 is a prime number, then 5 < 126 
+Statement is True. Row 3 of the truth table. 
+Converse is False. Row 2 of the truth table. 
+Contrapositive is True. Row 3 of the truth table. 
+(c 
+Converse: If 6 is a prime number, then 5 < 26 
+Contrapositive: If 6 is a composite number, then 5 = 126 
+Statement is False. Row 2 of the truth table. 
+Converse is True. Row 3 of the truth table. 
+Contrapositive is False. Row 2 of the truth table. 
+(d) Converse: If 6 is a prime number, then 5 = {26 
+Contrapositive: If 6 is a composite number, then 5 < {26 
+Statement is True. Row 4 of the truth table. 
+Converse is True. Row 4 of the truth table. 
+Contrapositive is True. Row 1 of the truth table. 
+Example 5.8 suggests that the truth values of a conditional sentence and its 
+contrapositive are the same, but there seems to be little connection between the 
+truth values of a sentence and its converse. We describe the relationships in the 
+following theorem. 
+Let Pand Qbe 
+statements. 
+‘The converse of P = 
+Q 
+isQ=P. 
+‘The contrapositive of 
+P=Qis~Q=>~P. 
+211
+
+ 
+‘The Venn diagram 
+uses sets to imitate the 
+contrapositive case. 
+When x & Q (i.e. ~Q) 
+implies that x cannot be 
+in P (i.e. ~P), could only 
+mean that P C Q, 
+(ie.P=Q) 
+   
+  
+  
+ 
+  
+212 
+Proofs 
+For statements Pand Q: 
+1 
+P= Qisequivalent to its contrapositive ~Q = ~P 
+2 
+P= Qisnot equivalent to its converse Q = P 
+‘We can use truth tables to examine these statements. 
+P Q|Psq|~ 
+~| 
+Q=P 
+|~=n~p 
+  
+  
+  
+   
+  
+Tr 
+T 
+T 
+i 
+B 
+T 
+T 
+T 
+E 
+F 
+T 
+F 
+KT 
+3 
+. 
+T 
+o 
+T 
+T 
+i 
+T 
+T 
+ 
+ 
+ 
+ 
+P = 
+Qis equivalent to its contrapositive ~ Q = ~P because column 3 in the truth 
+table is identical to column 7. 
+2 
+P= Qisnot equivalent to its converse Q = Pbecause column 3 in the truth table 
+differs from column 6 in rows 2 and 3. 
+Valid arguments 
+Later in this chapter we will study proofs. Proofs in mathematics are valid 
+arguments that establish the truth of mathematical statements. By an 
+argument, we mean a sequence of statements that end with a conclusion. 
+By valid, we mean that the conclusion, or final statement of the argument, 
+must follow from the truth of the preceding statements, or premises, of the 
+argument. That is, an argument is valid if and only if it is impossible for all the 
+premises to be true and the conclusion to be false. To deduce new statements 
+from statements we already have, we use rules of inference, which are templates 
+for constructing valid arguments. Rules of inference are our basic tools for 
+establishing the truth of statements. 
+Consider the following argument: 
+‘If you buy a ticket, you can fly to Frankfurt tomorrow. 
+“You buy a ticket” 
+Therefore, ‘You can fly to Frankfurt tomorrow. 
+‘We would like to determine if this is a valid argument. That is, we would like to 
+determine whether the conclusion ‘You can fly to Frankfurt tomorrow” must be 
+true when the premises ‘If you buy a ticket and ‘If you buy a ticket, you can fly 
+to Frankfurt tomorrow” are both true. 
+Before we discuss the validity of this particular argument, we will look at its 
+form. Use P to represent ‘You buy a ticket’ and Q to represent ‘You can fly to 
+Frankfurt tomorrow. 
+Then, the argument has the form 
+P=Q 
+P 
+Q 
+‘We can look at the truth table of the implication P = Q
+
+When Pis true, and P = Q is true, there is only one case left for Q, which is true. 
+Another way of looking at it is to look for the truth table of (P A (P = 
+Q)) = Q 
+  
+  
+  
+  
+P|Q|P=Q| 
+PAP=Q) | (PA(P=Q)=Q 
+T|T 
+T 
+& 
+i 
+T|F 
+F 
+F 
+T 
+F|T 
+T 
+F 
+T 
+F|F 
+I 
+F 
+I 
+ 
+ 
+ 
+ 
+Table 5.6 Truth table for (P A (P= Q)) = Q 
+Notice that this is a tautology. That is, it is always true. In particular, when P 
+and P = Qare both true, then Q must be true as is clear from the first row of 
+the table. 
+What happens when we replace P and Q in this argument form by statements 
+where either P or P = Q is true? For example, suppose that P represents ‘You 
+have access to my grade book’ and Q represents “You can change your term 
+grade’ and that P is true, but P = Q is false. 
+The argument we obtain by substituting these values of P and Q into the 
+argument form is 
+“If you have access to my grade book, then you can change your term grade’ 
+“You have access to my grade book” 
+.. You can change your term grade’ 
+The argument we obtained is a valid argument, but because one of the 
+premises, namely the first premise, is false, we cannot conclude that the 
+conclusion is true. (Most likely, this conclusion is false.) 
+In our discussion, to analyse an argument, we replaced propositions by 
+propositional variables. This changed an argument to an argument form. 
+The validity of an argument follows from the validity of the form of the 
+argument. We summarise the terminology used to discuss the validity of 
+arguments with our definition of the key notions. 
+~(P= Q) s logically equivalent to P A ~Q. That is, the negation of an implication is a 
+conjunction and not an implication itself. 
+For example, if x is an integer, then the negation of the sentence ‘If v is odd then +? is odd” 
+is ‘xis odd but 
+x? is even? 
+‘This can be seen from the truth table. 
+  
+  
+  
+  
+P|lQ| 
+P=Q 
+i ~P=Q: 
+~Q 
+i PAMQ 
+i 
+T 
+F 
+i 
+F 
+! 
+F 
+T|F 
+F 
+T 
+T 
+T 
+FlT 
+T 
+{ 
+F 
+| 
+F! 
+F 
+F|F 
+T 
+i 
+F 
+i 
+T 
+i 
+F 
+ 
+ 
+  
+  
+  
+  
+P| 
+Q| 
+P=Q 
+B | 
+=P 
+T 
+T| 
+F 
+F 
+F| 
+T 
+T 
+F| 
+F 
+T 
+ 
+ 
+Table 5.5 Truth table for 
+P=Q 
+A statement form that is 
+true for all truth values of 
+its components is called 
+a tautology. A statement 
+form that is false for 
+all truth values of its 
+components is called 
+a contradiction. For 
+example, PV (~P)isa 
+tautology while P A (~P) 
+is a contradiction. 
+An argument is a 
+sequence of statements. 
+All but the final 
+statement in the 
+argument are called 
+premises and the final 
+statement is called the 
+conclusion. An argument 
+is valid if the truth of all 
+its premises implies that 
+the conclusion is true. 
+213
+
+An argument form in 
+logic is a sequence of 
+compound statements 
+involving propositional 
+variables. An argument 
+form is valid no matter 
+which particular 
+propositions are 
+substituted for the 
+propositional variables 
+in its premises; the 
+conclusion is true if the 
+premises are all true. 
+Proofs 
+The tautology (P A (P = Q)) = Q is the basis of the rule of inference called 
+modus ponens, or the law of detachment. (Modus ponens is Latin for ‘mode 
+that affirms’) This tautology leads to the following valid argument form, which 
+we have already seen in our initial discussion about arguments: 
+P=Q 
+e 
+/] 
+Example 5. 
+Suppose that the conditional statement ‘If you score more than 80% on your 
+final exam, you will receive a grade 7 for the whole term’ and its hypothesis, 
+“You scored more than 80% on your final exam, are true. Then, by modus 
+ponens, it follows that the conclusion of the conditional statement, ‘You will 
+receive a grade 7 for the whole term; is true. 
+A valid argument can still lead to an incorrect conclusion if one or more of its premises s false. 
+For example: 
+Determine whether or not the argument given here i valid and determine whether its conclusion 
+must be true. 
+If{5 = 2.5, then 5 = 5.0625. We know that {5 = 2.5. Consequently, (/5)2 = 5 = 2.52 = 5.0625. 
+Solution Let Pbe the statement 5 = 2.5’ and Q the statement ‘5 = 5.0625. 
+‘The premises of the argument are P = Q and P, and its conclusion is Q. This argument is valid 
+because it is constructed by using modus ponens. However, one of its premises, (5 = 2.5, is false. 
+Consequently, we cannot conclude that the conclusion is true. Furthermore, note that the 
+conclusion of this argument is false, because 5 # 5.0625. 
+Table 5.7 gives you a list of possible valid arguments. 
+  
+Valid arguments 
+  
+Argument 
+| Tautology 
+  
+P=Q 
+P 
+(PAP=Q)=Q 
+-.Q 
+  
+P=Q 
+~Q 
+(~QA (P=Q)) = ~P 
+P 
+  
+F=0 
+Q=R 
+(P=QA(Q=R)=(P=R) 
+oP=R 
+  
+PVQ 
+~P 
+(~PA(PVQ)=Q 
+-.Q 
+  
+PVQ 
+~PVR 
+(PVQ) 
+A (~PVR) = (QVR) 
+“QVR 
+ 
+ 
+ 
+  
+Table 5.7 Some valid arguments 
+214
+
+In the remaining sections of this chapter, we will introduce the required logic 
+principle when it is needed. 
+1. Which of the following is a statement? 
+(a) 4500 > 
+5400 
+(b) Itis difficult to find solutions to the equation 2x* — 3x? + 5x — 8 =0 
+(c) 7238 + 8327 
+(d) 2874 = 67 X 73 — 2017 
+(e) There is a prime number larger than 100'° 
+2. In each of the following, find value(s) of a for which the statement is true. 
+(a) 3<4anda=7 
+(b) 4<3anda=7 
+(c) 4<30ra=7 
+(d) Ifa=7then3 
+<4 
+(e) fa=7then3 
+>4 
+(f) If3>4thena=7 
+3. Identify the antecedent and the consequent for each of the following 
+conditional sentences. Assume that a, b, and f represent some fixed 
+sequence, integer, or function, respectively. 
+(a) 
+If quadrilaterals have three sides, then triangles have four sides. 
+(b) 
+If the moon is made of butter, then v3 is a rational number. 
+(c) bdivides 5 only if b divides 30. 
+(d) The differentiability of fis sufficient for fto be continuous. 
+(e) A sequence a is bounded whenever a is convergent. 
+(f) A function fis bounded if fis integrable. 
+(g) 
+3 +2=5isnecessary for3 + 3 = 6. 
+4. Write the converse and contrapositive of each statement in question 3. 
+5. What can you say about the truth value of Q when: 
+(a) Pis false and P = Qis true? 
+(b) Pistrueand P = Qis true? 
+(c) Pistrueand P = 
+Qis false? 
+6. Which of the following conditional sentences are true? 
+(a) Ifa pentagon has five sides, then Canada is in Asia. 
+(b) If a pentagon has six sides, then Canada is in Asia. 
+() If12+ 7 =20, then7 + 7 = 14. 
+(d) If one interior angle of a right-angled triangle is 100°, 
+then the other interior angle is 80°. 
+() 2+ 
+1 = 3issufficient to 3 > 
+7. 
+215
+
+Definitions of 
+theorem and proof 
+A theorem is a justified 
+claim that some 
+statement of the form 
+P = 
+Qis true. 
+A proof is an argument 
+that justifies the truth of 
+a theorem. 
+‘There is a convention 
+known in mathematics 
+that is the use of the 
+“iff This word stands 
+for ‘if and only if} which 
+in turn means a logical 
+equivalence. That is, if 
+we say Piff Q, we mean P 
+implies Qand Q implies P. 
+Hence in some proofs, 
+we will have to prove 
+both statements. In this 
+book, we will indicate the 
+two-way process by using 
+(=) for the first and (<=) 
+for the second. 
+216 
+Proofs 
+Direct proofs 
+There are four typical methods for proving P = Q. In practice, extensive proofs 
+will use quite a few of them. 
++ 
+Direct: Assume P and logically deduce Q. 
+« 
+Contrapositive: Assume ~Q and deduce ~P. This is enough since the 
+contrapositive ~Q = ~P is logically equivalent to P = Q. 
+« 
+Contradiction: Assume that P and ~Q are true and deduce a contradiction. 
+Since P A ~Q implies a contradiction, this shows that P A ~Q must be false. 
+Because P A ~Q is equivalent to ~(P = Q), this is enough to conclude that 
+P = 
+Qistrue. 
++ 
+Induction: This has a completely different spirit: we will consider it in 
+Section 5.4. 
+‘We cannot define all terms nor prove all statements from previous ones. 
+‘We begin with an initial set of statements, called axioms (or postulates), 
+that are assumed to be true. We then derive theorems that are true in 
+any situation where the axioms are true. The Pythagorean theorem, 
+for example, is a theorem whose proof is based on the five axioms of 
+Euclidean geometry. In a situation where the Euclidean axioms are not 
+all true (which can happen), the Pythagorean theorem may not be true. 
+There must also be an initial set of undefined terms - concepts fundamental to 
+the context of study. In geometry, the concept of a point is an undefined term. 
+In this book, real numbers are not formally defined. While a precise definition of 
+a real number could be given, doing so would take us far from our intended goals. 
+From the axioms and undefined terms, you can introduce new concepts (new 
+definitions), and, finally, new theorems can be proved. The structure of a proof 
+for a particular theorem depends greatly on the logical form of the theorem. 
+A direct proof of a conditional statement P = Q is constructed when the first 
+step is the assumption that P is true; subsequent steps are constructed using 
+rules of inference, with the last step showing that Q must also be true. A direct 
+proof shows that a conditional statement P = Q is true by showing that if P 
+is true, then Q must also be true, so that the combination P is true and Q is 
+false never occurs. In a direct proof, we assume that P is true and use axioms, 
+definitions, and previously proven theorems, together with rules of inference, 
+to show that Q must also be true. You will find that direct proofs of many 
+results are quite straightforward, with a fairly obvious sequence of steps leading 
+from the hypothesis to the conclusion. 
+Recall the truth table for P = Q. Suppose that the hypothesis P is true and 
+that P = Qs true: that is, P = Q is a theorem. We must be in the first row of 
+the truth table, and so the conclusion Q is also true. In a direct proof we start 
+by assuming the hypothesis (P) is true and make a logical argument (P = Q 
+) which asserts that the conclusion (Q) is true. As such, it is often convenient 
+to rewrite the statement of a theorem as an implication of the form P = Q. 
+Example 5.10 is an example of a direct proof.
+
+Example 5.10 
+Show that the product of two odd integers is an odd integer. 
+Proof 
+Showing that P= Q 
+is true requires an 
+argument. This is the 
+proof. 
+‘We can translate this into statements and connectives: 
+P:mand n are odd integers. This is the hypothesis. 
+Q: mn is an odd integer. This is what we need to show, the conclusion. 
+Let m and n be odd integers. We need to show that mn is an odd integer. 
+An erroneous proof may 
+By definition, an integer is odd if it can be written in the form 2k + 1 for 
+lead to invalid results. In 
+. 
+: 
+_ 
+Example 5.10,a common 
+some integer k. Hence there are integers r and s such that m = 2r + 
+1 and 
+e A 
+n=2s+1 
+m=2r+ land 
+. 
+n=2r+1,then 
+Now consider the product mn = 2r + 1)(2s + 1) 
+e 
+(o) G 
+  
+=22r2+20+1 
+is 0dd. However, this 
+takes care of only one 
+situation, namely when 
+Since 2rs + r + s is an integer, then mn is of the form 2k + 
+1 and thus is an 
+m = nand does not 
+address the general case 
+odd integer as requested. 
+when m # n. 
+Sld7s 
+21 
+ds httl 
+=2Qrs+r+s) 
++1 
+Let m, n € Z. Prove that m and n are both odd if and only if (iff) the product 
+mn is odd. 
+Proof 
+There are two statements here: 
+(=) If m and n are both odd, then the product mn is odd. 
+(+) If the product mn is odd, then both integers m and n are odd. 
+Most often when there are two directions we have to prove them separately. 
+(=) This was proved in Example 5.10 
+(«=) If the product mn is odd, then there are two cases to consider: 
+i 
+atleast one of m or n is even 
+ii. 
+mand nare both odd. 
+In the first case, say m is even. That is, m = 2k for some integer k and thus 
+mn = 2kn is even, which cannot be true. Thus, we are only left with both 
+numbers being odd. This kind of proof may be called proof by exhaustion. 
+An alternative approach will be outlined in section 5.3. 
+217
+
+218 
+0 
+o 9 S 
+" 
+Prove the following statement: If m, n € Z, and m is divisible by n, then m is 
+divisible by kn, where k is any integer. 
+Proof 
+This is a case where we can use a counter-example to prove that it is false. 
+Examples alone are not proofs of the truth of a statement, but counter- 
+examples are enough to disprove a false statement. 
+For example, 18 is divisible by 3, and it is also divisible by 6, which is a 
+multiple of 3. However, 18 is not divisible by 15, which is also a multiple of 3. 
+Prove the following statement: If m,n € Z, and m is divisible by n, then m? is 
+divisible by n%. 
+Proof 
+If m is divisible by n, then m = kn for some integer k. Then m? = k?n? and 
+hence m? is divisible by n’. 
+Example 5.14 
+Prove the following statement: If n € Z and  is not a multiple of 5, then n? 
+has only remainders 1 or 4 upon dividing by 5. 
+Proof 
+‘We use direct proof using proof by cases. 
+There are four cases: n remainders 1, 2, 3, or 4 upon dividing by 5. 
+(n is not a multiple of 5.) 
+o 
+Ifn has remainder 1, then n = 5k + 1 for some k € Z and so 
+n? = 5(5k? + 2k) + 1 has remainder 1. 
+o 
+Ifn has remainder 2, then n = 5k + 2 for some k € Z and so 
+n? = 5(5k2 + 4k) + 4 has remainder 4. 
+o 
+If n has remainder 3, then n = 5k + 3 for some k € Z and so 
+n? = 5(5k? + 6k + 5) + 4 has remainder 4. 
+o 
+Ifn has remainder 4, then n = 5k + 4 for some k € Z and so 
+n? = 5(5k? + 8k + 3) + 
+1 has remainder 1. 
+Therefore, n* has only remainders 1 or 4 upon dividing by 5.
+
+Indirect proofs 
+Direct proofs lead from the premises of a theorem to the conclusion. They 
+begin with the premises, continue with a sequence of deductions, and end with 
+the conclusion. However, we will see that attempts at direct proofs often reach 
+dead ends. We need other methods of proving theorems of the form for all x 
+(P(x) = Q(x)). Proofs of theorems of this type are not direct proofs, that is, 
+they do not start with the premises and end with the conclusion. They are 
+called indirect proofs. 
+Proof by contradiction 
+One of the forms of indirect proof is the proof by contradiction. In a proof by 
+contradiction, to prove that some statement P is true, we instead assume that P 
+is false, then proceed to derive an impossible statement (a contradiction). This 
+means that P cannot be false, and therefore P must be true. 
+Suppose we want to prove that a statement P is true. Furthermore, suppose that 
+we can find a contradiction Q such that ~P = Q is true. Because Q is false, but 
+~P = Qs true, we can conclude that ~P is false, which means that P is true. 
+This is row 4 of Table 5.4 as applied to ~P = Q. 
+ 
+ 
+~p|Q|~P=0q 
+De Morgaris aws are very 
+—_—t 
+important in negating 
+‘We will show this by a few examples. 
+conjunctions and 
+disjunctions. We state 
+S 
+them here without proof 
+You can use truth tables 
+to show their validity. 
+2. MPVQ & ~PA~Q 
+Consider the real numbers m and n. Prove that if m is rational and n is 
+irrational, then m + n is irrational. 
+Proof 
+‘We prove this by contradiction. 
+Assume that there is a rational number m and an irrational number n where 
+the number m + n is rational. 
+Since m + n is rational, there exist two integers p and g where q # 0 such 
+» 
+thatm 
++n="=. 
+atm+n 
+=5 
+  
+Similarly, since m is rational, for some integers r and s where s # 0, then m = 
+By rearranging the equations above and simplifying gives us the following: 
+P 
+Il 
+RS 
+W 
+m+n—E:n—qu—qfs—T 
+219
+
+Remember that 
+~(P= Q)islogically 
+equivalent to PA ~Q 
+220 
+Proofs 
+From this, we see that since (ps — rq) and gs are integers with gs being 
+nonzero as neither g nor s is zero, we can write 1 as the ratio of two integers, 
+(ps — rq) and gs. Thus, n must be rational. This contradicts our earlier 
+assumption that # is irrational. 
+We have reached a contradiction, so the assumption must have been wrong. 
+Therefore, if m is rational and 7 is irrational, then m + n must be irrational. 
+‘When writing proofs by contradiction, we organise the proof as follows: 
+« 
+Begin by saying that you're going to write a proof by contradiction. 
+For example, you could write ‘By contradiction, assume that .... 
+Then, clearly write out the negation of the statement you're trying to prove. 
+« 
+Don't skip this step! It's important to write out the negation of what you want 
+to prove. This tells the reader what assumptions you're making and it forces 
+you to write out the contradiction. It therefore makes the proof easier to 
+read and reduces the chances that you accidentally take the negation of the 
+statement incorrectly. 
+ Starting with your assumption 
+, continue to achieve something impossible, 
+such as ‘1 = 0}, or a number is ‘both even and odd; or that a number is ‘both 
+rational and irrational. 
+« 
+State that you've reached a contradiction and, if it's not obvious, explain why 
+it’s a logical contradiction. This explains to the reader why your assumption 
+couldn’t possibly be right. 
+« 
+Conclude the proof. For example, ‘Therefore, our assumption must have 
+been wrong, so [...]. You can put whatever youd like here as long as it 
+explains why the contradiction you arrived at actually shows that the 
+original assumption was incorrect. 
+Prove that V2 is irrational. 
+e 
+Proof 
+We will use contradiction for this proof. 
+Assume the statement to be false, that is, assume v2 is rational. Then, by 
+definition of rational numbers, V2 can be written as a reduced fraction % 
+where the two integers m and n, with n # 0, have no common divisor 
+except 1. 
+2 
+Nowvizﬁﬂ(xi)ZZﬂzﬂmZ:an 
+n
+
+This indicates that m? is even. If m? is even, m must also be even. (This is 
+assumed true here, but proved somewhere else.) Thus, m = 2k for some 
+integer k. This leads us to m?> = 4k? and hence 2n? = m? = 4k> = n? = 2k?, 
+thus #? is even, which in turn leads to n being even. 
+Thus, both 7 and 7 are even, and hence they have another common factor, 2, 
+which contradicts the assumption that m and n have no common divisor 
+other than 1. 
+Therefore, assuming V2 to be rational leads us to a contradiction and so v2' 
+cannot be rational. 
+Example 5.17 
+Prove that for n € Z, if 3n + 2 is odd, then n is odd. 
+e 
+Proof 
+‘We will use contradiction in this proof. Assume that 3n + 2 is odd, and n 
+not odd (n is even). 
+If n is even, then n = 2k for some integer k. 
+Thus 3n + 2 = 3(2k) + 2 = 2(3k + 1). This means that 3n + 2 is even. 
+However, we know that 3n + 2 is odd, and that is a contradiction. Therefore, 
+the assumption that 7 is not odd is false and hence #n must be odd. 
+Proof by contrapositive 
+Proof by contradiction is not the only way to perform an indirect proof; there is 
+another technique, the proof by contrapositive. 
+A useful type of indirect proof is known as proof by contraposition. Proofs 
+by contraposition make use of the fact that the conditional statement P = Q 
+is equivalent to its contrapositive, ~Q = ~P. This means that the conditional 
+statement P = Q can be proved by showing that its contrapositive, ~Q = ~P, 
+is true. In a proof by contraposition of 
+P = Q, we take ~Q as a premise, and 
+using axioms, definitions, and previously proven theorems, together with rules 
+of inference, we show that ~P must follow. The following examples show that 
+proof by contraposition can succeed when we cannot easily find a direct proof. 
+In reading mathematical statements, we often see the following two quantifiers: 
+Universal quantifier, V is read as for all, ‘any, or ‘for every’ etc. 
+Existential quantifier, 3 is read ‘there exists’ or ‘there exists at least one’ 
+For example, for all real numbers r, > = n can be written as: Vi € R, n = n. Or, there is an 
+integer smaller than 77 that can be written as: 3n € Z such that n < . 
+221
+
+Remember that 
+~P— QisPA~Q 
+222 
+Proofs 
+To prove a statement of the form ‘If A, then B; do the following: 
+Form the contrapositive. In particular, negate A and B. 
+Prove directly that ~B implies ~A. 
+Example 
+5.18 
+Prove that for any real number x, if x? is irrational, then x is irrational. 
+1 
+Proof 
+We will use contrapositive proof; we prove that if x is rational, then x? is 
+rational. 
+o 
+Suppose that x is a rational number. That means that we can write x = 
+2 
+where p and q are integers with g # 0. So, x2 = % where p? and g 
+are 
+integers with g2 # 0. Thus, we can write x? as the ratio of two integers. 
+Consequently, x? is rational. Therefore, since the contrapositive of the 
+statement ‘if x2 is irrational, then x is irrational is true, the statement itself 
+must be true. 
+Note that this proof can also be done using contradiction: 
+Assume x? is irrational and x rational. This means that we can write x = 
+2 
+where p and q are integers with g # 0. Thus x> = ; where p? and ¢ are 
+= 
+integers with ¢ # 0, which means that x? is rational. This is a contradiction 
+and hence the assumption must be false and therefore if x? is irrational, 
+x must be also irrational. 
+‘When writing a proof by contrapositive, organise the proof as follows: 
+« 
+Start off by saying that you're going to prove the contrapositive of the 
+statement in question. For example, you could say something like 
+‘We will prove the contrapositive of this statement, namely, that ... or 
+‘By contraposition, we will instead prove that ... 
+« 
+Don't skip this step! It's important for several reasons. First, it tells the reader 
+that in the proof you're not going to prove the original statement, but in its 
+place, you're going to prove the contrapositive. Second, it forces you to write 
+out the contrapositive of the statement that you're trying to prove, reducing 
+the likelihood that you accidentally take the contrapositive incorrectly. 
+« 
+With any proof method of your choice, prove the contrapositive of the 
+statement. Often, you'll prove the contrapositive of the statement using a 
+direct proof. This means that if you want to prove the statement ‘If P is true, 
+then Q is true; you'll start off by assuming that Q is false and will prove that 
+Pis false.
+
+Example 
+5.19 
+Prove the statement from example 5.11: m and n are both odd if and only if 
+the product mn is odd. 
+Proof 
+There are two statements here: 
+(=) 
+Has been proven earlier. 
+(<) 
+If the product mn is odd, then both integers m and n are odd. 
+The negation of this is: the integers m and n are not both odd (i.e. at least 
+one of m or n is even,) then product mn is even. 
+Without loss of generality, say m is even. That is m = 2k for some integer k 
+and thus mn = 2kn, which is even. Therefore, the contrapositive is true and 
+hence the original statement ‘If the product mn is odd, then both integers m 
+and n are odd’ must also be true. 
+Example 5.20 
+Prove that for any two integers m and n, if m + n is 0dd, then exactly one of 
+mor nis odd. 
+Proof 
+The statement of the problem is an implication of the form P — Q, where: 
+P: 
+The sum m + n of integers m and n is odd. 
+Q: 
+Exactly one of m or n is odd. 
+A direct proof would require that we assume P is true and logically deduce 
+the truth of Q. The problem is that it may be hard to work with these 
+statements, especially Q. The negation of Q is, however, easier: 
+~Q:mand n are both even or both odd. 
+~P: The sum m + n of integers m and  is even. 
+Since P = Q is logically equivalent to the simpler-seeming contrapositive 
+~Q = ~P, we choose to prove the latter. This is, after all, equivalent to 
+proving the original implication. 
+There are two cases: m and n are both even, or both odd. 
+Case 1: Letm = 2rand n = 2sbe even. Then m + n = 2(r + n) is even. 
+Case2: Letm =2r+ landn=2s 
++ 1beodd. 
+Thenm + n=2(r + n+ 
+1) 
+is even. 
+This proves the contrapositive and hence the original statement is true. 
+223
+
+224 
+0 
+o 9 S 
+" 
+Prove that for all integers a, b, and ¢, if cta b then cfa and c } b. 
+Proof 
+‘We need to find the contrapositive of the given statement. 
+First, negate ‘c+a and ¢ b’ The negation is ‘c| a or c| b (The ‘and’ becomes 
+an ‘or’ because of De Morgan’s law.) The initial hypothesis’ negation is simply 
+‘c| ab. Thus we are trying to prove ‘c|aorc|b— c|ab’ 
+Suppose that ¢ divides a. Then a = nc for some n € Z, and ab = ncb = c(nb), 
+so c| ab. Similarly, if ¢| b, then b = mc for some m € Z, and ab = amc = c(am), 
+and so c 
+| ab. Therefore, we have proven the result by contraposition. 
+In Example 5.21, a direct proof would be awkward (and obviously quite 
+difficult), so contraposition is the best way to prove it. 
+Prove that for x € Z, if x> + 6x — 5 is even, then x is odd. 
+Proof 
+Direct: If x? + 6x — 5 is even, then there exists an integer k such that 
+x2+ 6x — 5 =2k 
+Thus x2 + 6x = 2k + 5 which makes x2 + 6x = x(x + 6) odd. Now, if 
+xis even, x(x + 6) is even, which cannot be true, thus x must be odd. 
+Alternatively, we can say, if x is odd, so is x + 6 and their product is odd. 
+Contraposition: Suppose that x is even. Then we want to show that 
+x2 + 6x — 5 is odd. Since x is even we can write: x = 2k for some k € Z, 
+andsox? 
++ 6x — 5 = 4k* + 
+12k — 5=2(2k* 
++ 6k —2) — 1 
+This is of the form 2n — 1 and hence an odd number. 
+Prove that for a positive real number g, if a is irrational then //a is irrational. 
+Proof 
+Stated differently, we need to prove thata ¢ Q = Va ¢ Q. 
+‘We will use the contrapositive and attempt to prove Va € @ = a € Q. 
+If Va € @, then there are two relatively prime integers 7 and n, 
+with n # 0, such that Va = % by the definition of rational numbers.
+
+2 
+Thusa = (Va)> = m—z, and since m and n, with n # 0, are integers, 
+n 
+then m? and 2, with n? # 0, are also integers. 
+So, a can be written as the quotient of two integers and hence it is a rational 
+number. By proving the contrapositive, the statement itself is also true. 
+Exercise 5.2 & 5.3 
+1. Prove or disprove the given conjecture. 
+(a) There is an even integer that can be expressed as the sum of three 
+even integers. 
+(b) Every even integer can be expressed as the sum of three even integers. 
+(c) There is an odd integer that can be expressed as the sum of two 
+odd integers. 
+(d) Every odd integer can be expressed as the sum of three odd integers. 
+(e) The sum of any three consecutive integers is divisible by 3. 
+(f) The sum of any four consecutive integers is divisible by 4. 
+(g) The product of any three consecutive integers is divisible by 6. 
+(h) a,be Z.Ifa|band 
+b|a, thena = b. 
+2. The English mathematician Augustus De Morgan died in 1871. He once 
+made the claim: ‘T turned x years of age in the year x2 
+(a) Find the year he was born. 
+(b) You have a friend who satisfies the same claim. How old would your 
+friend have been in 20182 Justify that you are correct. 
+3. Prove that for an integer , if n = 2, then n! + 2 is even. 
+4. Letne”Z. 
+(a) Prove that 51 + 3 is even if 7n — 2 is odd. 
+(b) Can you conclude anything about 7n — 2 if 51 + 3 is odd? 
+5. Let m, n € Z. Prove that for m> + n? to be even, it is necessary for m and 
+n to be both even or both odd. (We also say, they have the same parity.) 
+6. Prove that if x and y are positive real numbers, then /x + y # vX + /[y 
+7. Prove that if x and 
+y are real numbers, then xy = 0 iff x =0o0ry =0 
+8. (a) Write the statement ‘There is an odd number that is a perfect square’ 
+using quantifiers. 
+(b) Write its negation. 
+(c) 
+Is the original statement true? Justify. 
+225
+
+226 
+Proofs 
+9. (a) Write the statement ‘Every positive integer is divisible by 13’ using 
+quantifiers, then write its negation. 
+(b) Is the original statement true? Justify. 
+10. Given a, b € Z, prove that if a*(b> — 2b) is odd, then both a and b are odd. 
+11. Given m, n € Z, prove that if 25 { mn, then 5 
+mor 5 
+n. 
+12. If m, n € Z and m + n is even, prove that m? + n?is even. 
+13. Prove that an integer 7 is even if and only if n* + 2n + 9 is odd. 
+14. If a is an odd integer, prove that a* + 3a + 5 is odd. 
+Mathematical induction 
+Domino effect 
+Apart from playing games of strategy, another familiar activity using dominoes 
+is to place them on edge in lines, then topple the first domino, which falls on 
+and topples the second, which topples the third, and so on, resulting in all of 
+the dominoes falling. Arrangements of millions of dominoes have been made, 
+which have taken many minutes to fall. 
+The Netherlands has hosted an annual domino toppling competition, called 
+Domino Day, since 1986. The record, achieved in 2006, is 4079 381 dominoes. 
+Similar phenomena of chains of small events each causing similar events 
+which lead to an eventual grand result, by analogy, are called domino effects. 
+The phenomenon also has some theoretical bearing to familiar applications 
+like the amplifier, digital signal processing, and information processing. 
+Induction 
+In mathematics, we have a parallel in mathematical induction, which is a 
+method for proving a statement that is maintained about every natural number. 
+For example: 
+nn+1) 
+2 
+This claims that the sum of consecutive natural numbers from 1 to # is half the 
+1+2+3+ 
+o +n=   
+product of the last term, #, and the term after it, n + 
+1. 
+‘We want to prove that this will be true for n = 
+1, n = 2, n = 3, and so on. 
+‘We can test the formula for any given number, say n = 3: 
+l+2+3:%43»4:6,whichislr\l€.
+
+It is also true for n = 4: 
+1+243+4=2.4.5=10 
+But how do we prove this rule for every value of n? 
+We prove it using the principle of mathematical induction. 
+Statement 1: When a statement is true for the natural number n = k, then it is 
+also true for its successor, n = k + 15 
+d 
+‘The order of the steps 
+el 
+varies from one source to 
+Statement 2: If the statement is true for n = 
+1 then the statement is true for 
+another. We present you 
+with both arrangements. 
+every natural number . 
+When the statement is true for 1, then according to statement 1, it will also be 
+true for 2. And that implies it will be true for 3, which implies it will be true for 4. 
+And so on. It will thus be true for every natural number. 
+To prove a statement by induction, then, we must prove statements 1 and 2. 
+The hypothesis of statement 1: “The statement is true for n = k is called the 
+induction assumption, or the induction hypothesis. It is what we assume when 
+we prove a theorem by induction. 
+Example 5.24 
+Prove that the sum of the first # natural numbers is given by this formula: 
+nn+1) 
+2 
+| 
+14243+ 
++n= 
+Proof 
+‘We will call this statement S(n), because it depends on 1. 
+‘We will prove statements 1 and 2 for S(n). First, we assume that the 
+statement is true for n = k; that is, assume that S(k) is true: 
+  
+s(k):1+z+3+---+k:k‘k2“) 
+) 
+This is the induction assumption. Assuming this, we must prove that 
+S(k + 1) is also true. That is, we must show: 
+SGH 1142434kt 
+ey p= DD +D 
+) 
+2 
+To do that, add the next term (k + 1) to both sides of the induction 
+assumption, line (1), and then simplify: 
+  
+_ klk +1) 
+2 
+Sk+1):1+2+3+ 
+- +k+k+1)= 
++(k+1) 
+ke +1) + 2k + 1) 
+D) 
+(k + Dk +2) 
+2 
+(k+ 1Dk + 1)+ 1) 
+D) 
+227
+
+Proofs 
+This is equation (2), which is the first thing we wanted to show. 
+Next, we must show that the statement is true for n = 
+1. We have: 
+It is extremely important 
+11+1) 
+to note that mathematical 
+Siell ==——= 
+2 
+2 
+induction can be used to 
+prove results obtained 
+The formula therefore is true for n = 
+1. We have now fulfilled both 
+  
+in some other way. 
+It 
+is 
+not a tool for discovering 
+formulae or theorems. 
+conditions of the principle of mathematical induction. S(n) is therefore true 
+for every natural number. 
+I 
+1 
+£b 
+In an investigation to find the sum of the first n positive odd integers, we 
+in general, a proof 
+by 
+mathematical induction 
+can do the following: Investigate the sums of the first few odd integers and 
+that a statement S(n) is 
+then try to come up with a conjecture. Then mathematical induction will 
+true for every positive 
+integer n = 1 consists of 
+two steps: 
+provide us with a tool to prove the conjecture. 
+  
+o) 
+Basis 
+step: The statement 
+S(1) is shown to be true. 
+  
+  
+Inductive 
+step: 
+‘The implication 
+S(k) 
+= S(k + 1) is 
+5 
+shown to be true for any 
+positive integer k. 
+3 
+  
+  
+  
+Not all statements are 
+1 
+true for all positive 
+integers n = 1. In such 
+A= 
+1 
+B 
+5 
+4 
+B 
+cases, a variation of the 
+mathematical induction 
+Forn =1, thesumis1 =1 
+principle is used: 
+ 
+  
+  
+  
+  
+  
+  
+; 
+Forn = 2,thesumis1 
++3 =4 
+A statement S(n) is true 
+for every positive integer 
+Forn =3, thesumisl +3+5=9 
+1= 
+n 
+consists of two, 
+Sl 
+Forn = 4,thesumis1 
++3 +5+7 =16 
+Basis step: The statement 
+S(ng) 
+is shown to be true. 
+Forn=5,thesumis1 +3+5+7+9=25 
+  
+Inductive step: 
+When we compare the number of integers being added with their sum, 
+‘The implication 
+  
+  
+S(k) = 
+S(k + 1) is 
+they are related; that is, the sum of 
+n such integers is n’. 
+shown to be true for any 
+positive integer k = ng. 
+n 
+1 
+2 
+5 
+4 
+5 
+6 
+n 
+For example, 2" < n! can 
+—_— 
+1 
+7 
+9 
+6 
+25 
+36 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+only be true for n =4, 
+L 
+Solution 
+Let (1) denote the statement that the sum of the first # odd positive 
+integers is n2. 
+First, we must complete the basis step: show that (1) is true. Then we 
+carry out the inductive step: show that S(k + 1) is true whenever S(k) is 
+assumed true. 
+228
+
+Basis step: S(1), which means that the sum of the first odd integer is 12. 
+This is obvious as the sum of 1 is 1. 
+Inductive step: Show that the implication S(k) = S(k + 1) is true, regardless 
+of the choice of k. Start with an assumption that S(k) is true for any k: 
+14+3+5+..+2k—1)=Fk 
+Now, we must show that S(k + 1) is true. 
+Sk+1):1+3+5+ 
+...+ Qk+1)=(k+ 
+1), 
+[the (k + 1)th odd integer is 2(k + 1) — 1 = 2k + 1] 
+The left hand side can be written as 
+1835 e 
+(2K = 
+S 
+ks S 
+= 
+e 
+A (OSSR o KETRlt 
+= (k+1)? 
+Therefore 1 +3 + 5 + ... + (2k + 1) = (k + 1)? which is nothing but S(k + 1). 
+This shows that S(k + 1) follows from S(k). 
+Since S(1) is true, and the implication S(k) = S(k + 1) is true for all positive 
+integers k, the mathematical induction principle shows that S(n) is true for 
+all positive integers 7. 
+Example 5.26 
+Prove that 3" < n! for all integers n > 6. 
+Proof 
+Let S(n) be the statement that 3" < n! 
+Basis step: To prove this inequality the basis step must be (7). 
+Note that §(6): 3¢ = 729 < 6! = 720 is not true. 
+S(7): 37 = 2187 < 7! = 5040 is true. 
+Inductive step: Assume S(k) is true. That is, assume that 3 < k! is true. We 
+must show that S(k + 1) is also true. That is, we must show that 3** ! < (k + 1)! 
+On the assumption that 3* < k!, multiply both sides of this inequality by 3: 
+3-34< 3. k!, and since k > 6, then 3 <k + 1, hence 
+3.3k<3.k! 
+<(k+1-k! 
+=(k+1)! 
+= sl 
+= (e ar il 
+This shows that S(k + 1) is true whenever S(k) is true. This completes the 
+inductive step of the proof. 
+Therefore, 3" < n! for all integers 1 > 6. 
+‘The nth odd positive 
+integeris 2n — 1. This is 
+5o because we are adding 
+2 atotal of n — 1 times 
+to 1. In other words, 
+1+2n—1)=2m—1 
+Inaproofby 
+‘mathematical induction, 
+we do not assume that 
+S(k) i true for all positive 
+integers! We only show 
+that if it is assumed that 
+S(K) is true, then S(k + 1) 
+is also true. 
+‘When we use 
+mathematical induction 
+to prove a statement 
+S(n), we show that S(1) is 
+true. Then we know that 
+$(2) is true, since S(1) 
+= S(1 + 1). Further, we 
+Kknow that S(3) is true, 
+since S(2) = S2 + 1). 
+Continuing along these 
+lines, we see that S(n) is 
+true for every positive 
+integer . 
+229
+
+Notice here that we are 
+using P(n) rather than 
+S(n). The use of the name 
+does not influence the 
+230 
+method. 
+Proofs 
+Example 5. 
+Show that in an arithmetic sequence where a, = a,_, + d, the nth term can 
+be given by the formula: 
+a,=a;+(n—1d 
+Solution 
+Let S(n) be the statement thata, = a, + (n — 1)d 
+Basis step: To prove this formula the basis step must be S(1). 
+S(1):a; = a; + (1 — Dd = a, is true. 
+Inductive step: Assume S(k) is true. That is, assume that a, = a, + (k — 1)d 
+is true. We must show that S(k + 1) is also true. That is, we must show that 
+PO 
+e B 
+O 
+e 
+On the assumption that a, = a, + (k — 1)d: 
+a1 = a, + d by definition of an arithmetic sequence, hence: 
+Gy =atd=a +k—1)d+d=a, +kd 
+S 
+(R 
+This shows that S(k + 1) is true whenever S(k) is true. This completes the 
+inductive step of the proof. 
+Therefore, a, = a, + (n — 1)d for all integers n. 
+Example 5.28 
+Show that in an arithmetic series: S, = 
+~(2a, + (n — 1)d) 
+i 
+2 
+Solution 
+Let P(n) be the statement that S, = %(Zal + (n— 1)d) 
+Basis step: To prove this formula the basis step must be P(1). 
+P(1): S, = %(2.;, + (1= Dd) = ayis true. (S, = a,) 
+Inductive step: Assume P(k) is true. i.e. assume that S, = %(Za, + (k— 1d) 
+is true. We must show that P(k + 1) is also true. That is, we must show that 
+Sra= ";r Log, + (k+1—1)d)— "_;1(2.1, + kd) 
+  
+on the assumption that §, = %(2:1, + (k — d)
+
+Sk+1 = Sk + a4, by definition of an arithmetic series, hence 
+Sk+1=§i(+h_,(:=§(2a,+(k—1)d)+a,+kd 
+el 
+By combining like terms and simplifying, this expression can be reduced to 
+Sevr =520, + Kk = 1 
++ 0y + k= 
++ Dy + Kb — a4k 
+  
+2 
++ 
++ 
+_ 
+1)-2u,+k(k 
+l)d:k+1 
+2 
+2 
+This shows that P(k + 1) is true whenever P(k) is true. This completes the 
+inductive step of the proof. 
+  
+  
+  (2a, + kd) 
+Therefore, S, = %(Zal + (n — 1)d) for all integers n. 
+Example 5.29 
+Show that 3 divides n* + 2n for all non-negative integers n. 
+= 
+Solution 
+Let P(n) be the statement that ‘3 divides n* + 2n’ 
+Basis step: To prove this formula the basis step must be P(0). 
+P(0): is true since 0> + 2(0) = 0 is a multiple of 3. 
+If we are not convinced, we can try P(1): 1> + 2(1) = 3 is a multiple of 3. 
+Inductive step: Assume P(k) is true. That is, assume that 3 divides k* + 2k. 
+‘We must prove that P(k + 1) is true, That is, 3 divides (k + 1)* + 2(k + 1) 
+Note that 
+(el )3 
+(KRR 
+= TR 3 k23 KRN S 2D 
+= (k2 uok)E Fo k2 
+Bk 
+D) 
+= (k* + 2k) + 3(k*> + k + 1) 
+Since both terms in this sum are multiples of 3 (the first by the induction 
+hypothesis and the second because it is 3 times an integer), it follows that the 
+sum is a multiple of 3. Hence (k + 1)* + 2(k + 1) is a multiple of 3. 
+This shows that P(k + 1) is true whenever P(k) is true, which completes the 
+inductive step of the proof. 
+Therefore, 3 divides 7* + 2n for all non-negative integers 7. 
+231
+
+T — 
+l 
+232 
+Proofs 
+Example 5.30 
+Using mathematical induction, show that for all non-negative integers n: 
+@@+ @)+t (,2) (=2 
+Solution 
+Let P(n) be the statement that (3) S (;’) S (;) I 
+(n ﬁ 1) S (:) = 2" 
+Basis step: To prove this formula the basis step must be P(0). 
+P(0): is true since (g) = 20 = 
+1 is true. Moreover, P(1) is also true since 
+1 
+1\ oy 
+(O)Jr(l) 
+2'is true. 
+Inductive step: Assume P(k) is true. i.e. assume that: 
+WA RS 
+A R 
+Recall from section 3.5 that (r n 1) B (:’) = (" Jrr l) which is the basis of 
+Pascal’s triangle. Using this fact, we can perform the following addition: 
+Beee 
+ol 2 )l 
+K+1) 
+(k1Y 
+(R 
+o 
+2 ()= 
+However, (](;) = (kg O (k) = (k i 1) = 1, so the last result can be 
+k. 
+sl 
+written 
+as 
+k41 
+(k+1)+(k+1 v 
+(k+1) 
+(k+1) 
+( 
+0 
+)+ 
+1 
+2 
+) 
+& 
+k 
+ki R 
+= 2.2k 
+= k+1 
+This shows that P(k + 1) is true whenever P(k) is true, which completes the 
+inductive step of the proof. 
+Therefore, (g) e (’l’) a5 (;) T '“+(n ﬁ 1) e (2) = 2" for all non-negative 
+integers n. 
+1. Find a formula for the sum of the first n even positive integers and prove 
+it using mathematical induction.
+
+10. 
+il 
+12. 
+5% 
+14. 
+53 
+16. 
+. Let aj, a,, as, ... be a sequence defined by: 
+a=1la,=3a, ;n=1 
+Show that a, = 3"~ ! for all positive integers 7. 
+. Let aj, a,, as, ... be a sequence defined by: 
+a=la,=a, 
+, +4n=2 
+Show that a, = 4n — 3 for all positive integers n > 1. 
+. Let aj, a,, as, ... be a sequence defined by: 
+1,a,=2a, +Ln=2 
+Show that a, = 2" — 
+1 for all positive integers n > 1. 
+  
+. Let aj, a,, as, ... be a sequence defined by: 
+I 
+1 
+=58y =yt 
+=2 
+Show that a, = = i 1 for all positive integers n = 1. 
+I 
+. Find a formula for% +14 Ly 4L and then use mathematical 
+4 
+8 
+2 
+induction to prove your formula. 
+  
+  
+. Show that 1 + 2 + 22+ ... + 2" = 27+ 1 — 1, for all non-negative 
+integers n. 
+. Show, using mathematical induction, that in a geometric sequence 
+a,=a;r"! 
+. Show, using mathematical induction, that in a geometric series 
+= 
+ars 
+= al 7a : 
+Prove that 2" < n! for all positive integers larger than 3. 
+Prove that 2" > n? for all positive integers larger than 4. 
+Showthat1-1!+2-2!+3-3!+ 
+.- +n-nl=n+1 -1 
+Showthatﬁ+ﬁ+rl4+ 
+:njlrl 
+  
+for all positive integers n. 
+Show that n* — n is divisible by 3 for all positive integers 7. 
+Show that n° — n is divisible by 5 for all positive integers 7. 
+Show that n* — n is divisible by 6 for all positive integers 7. 
+233
+
+234 
+19. Show that ( 
+Proofs 
+17. Show that n> + n is an even number for all integers 7. 
+18. Show that 5" — 
+1 is divisible by 4 for all integers . 
+0 
+b 
+(U 
+a and b are real numbers. 
+2 
+0) 
+S (a" 
+0) for every positive integer 7 and where 
+20. Prove each of the following statements. 
+n 
+(a) D (2i +4) = n? + 5n for each positive integer 1. 
+= 
+" 
+(b) > (2371 = 37 — 1 for each positive integer 1. 
+i=1 
+(c) 
+) PR 
+| NN, for each 
+positive integer n. 
+S@i—D2i+ 
+D 
+2nt1 
+P 
+ger 
+. 
+Chapter 5 practice questions 
+1. {a"} is defined as follows: 
+  
+a, = 
+@1 
+(a) Given thata, = 
+1, evaluate a,, a;, and a,. Describe {a,}. 
+(b) Given that a, = 2, evaluate a,, a;, and a,. Describe {a,}. 
+2. Use mathematical induction to prove that 5" + 9" + 2 is divisible by 4, 
+forne z*. 
+3. The sum of the first n terms of an arithmetic sequence {u,} is given by 
+the formula S, = 4n? — 2n. Three terms of this sequence, u, 1,,, and 3, 
+are consecutive terms in a geometric sequence. Find m. 
+  
+  
+2 
+2 
+4. Prove that Vn € N, 19 + 23 + 33 + oo £ 13 = % 
+5. Prove that 24| (5" — 1) for all integers n = 0. 
+6. The Fibonacci sequence is defined as 
+F,=F,=landF,, =F,+F,, 
+Prove that F> + F3 + F? + -« + F2 = F,F,, 
+SN 
+S 
+n 
+1 
+7. n € Z*. Prove that — 
++ = + = + 
+... + 
+=1- 
+neL 
+Provethaty T 
+Ty 
+(n+ 101 
+n+ 1!

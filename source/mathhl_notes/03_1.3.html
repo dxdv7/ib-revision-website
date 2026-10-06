@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Solving a system of two linear equations by substitution</h3>
+<div class="formula-box" data-term="Substitution method">To solve a system of two linear equations using substitution, solve one equation for one variable in terms of the other, then substitute this expression into the second equation to obtain a single equation in one unknown. Solve this equation, then substitute back to find the value of the remaining variable.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Solve the system<br>\[3x - y = 7\]\[2x + y = 13\]using the substitution method.<br>\[y = 3x - 7\]\[2x + (3x - 7) = 13\]\[5x - 7 = 13\]\[5x = 20\]\[x = 4\]\[y = 3(4) - 7\]\[\boxed{x = 4, \ y = 5}\]</div>
+
+<h3>Solving a system of two linear equations by elimination</h3>
+<div class="formula-box" data-term="Elimination method">To solve a system of two linear equations using elimination, multiply one or both equations by suitable constants so that the coefficients of one variable are equal (then subtract the equations) or opposite in sign (then add the equations), eliminating that variable.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Solve the system<br>\[3x + 4y = 23\]\[2x - y = 8\]using the elimination method.<br>\[4(2x - y) = 4(8)\]\[8x - 4y = 32\]\[(3x + 4y) + (8x - 4y) = 23 + 32\]\[11x = 55\]\[x = 5\]\[2(5) - y = 8\]\[\boxed{x = 5, \ y = 2}\]</div>
+
+<h3>No solution and infinite solutions for systems of two linear equations</h3>
+<div class="formula-box" data-term="Consistency of linear systems">If applying substitution or elimination to a system of two linear equations produces a false numerical statement (such as \(0 = 9\)), the system is inconsistent and has no solution; the lines are parallel with different \(y\)-intercepts. If it produces a statement that is always true (such as \(0 = 0\)), the system has infinitely many solutions; the lines are coincident (identical).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Determine the number of solutions of each system.<br>(a)<br>\[x - 2y = 7\]\[2x - 4y = 5\]\[2(x - 2y) = 2(7)\]\[2x - 4y = 14\]\[(2x - 4y) - (2x - 4y) = 14 - 5\]\[\boxed{0 = 9, \text{ no solution}}\](b)<br>\[x - 3y = 4\]\[2x - 6y = 8\]\[2(x - 3y) = 2(4)\]\[2x - 6y = 8\]\[(2x - 6y) - (2x - 6y) = 8 - 8\]\[\boxed{0 = 0, \text{ infinite solutions}}\]</div>
+
+<h3>Solving a system of three linear equations by elimination</h3>
+<div class="formula-box">To solve a system of three linear equations in three unknowns, use elimination to combine pairs of equations and eliminate one variable, reducing the system to two equations in two unknowns. Solve this smaller system, then substitute back to find the value of the remaining variable.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Solve the system<br>\[x + y + z = 6\]\[2x - y + z = 3\]\[x + 2y - z = 2\]Eliminate \(z\) using equations 1 and 2 (subtract):<br>\[(2x - y + z) - (x + y + z) = 3 - 6\]\[x - 2y = -3\]Eliminate \(z\) using equations 1 and 3 (add):<br>\[(x + y + z) + (x + 2y - z) = 6 + 2\]\[2x + 3y = 8\]Solve the resulting system:<br>\[x = 2y - 3\]\[2(2y - 3) + 3y = 8\]\[7y - 6 = 8\]\[7y = 14\]\[y = 2\]\[x = 2(2) - 3 = 1\]\[1 + 2 + z = 6\]\[\boxed{x = 1, \ y = 2, \ z = 3}\]</div>
+
+<h3>Recognizing a system of three linear equations with no solution</h3>
+<div class="formula-box">When elimination applied to a system of three linear equations produces an equation that reduces to a false numerical statement (such as \(0 = 4\)), the system is inconsistent and has no solution.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Show that the following system has no solution.<br>\[x + y + z = 3\]\[2x + 2y + 2z = 10\]\[x - y + z = 1\]\[2(x + y + z) = 2(3)\]\[2x + 2y + 2z = 6\]\[(2x + 2y + 2z) - (2x + 2y + 2z) = 10 - 6\]\[\boxed{0 = 4, \text{ no solution}}\]</div>
+
+<h3>Geometric interpretation of systems of three linear equations</h3>
+<div class="formula-box" data-term="Geometric interpretation of 3x3 systems">Each equation in a system of three linear equations in three unknowns represents a plane in three-dimensional space. If elimination gives a unique solution, the three planes intersect at a single point. If it gives a statement that is always true (such as \(0 = 0\)), the system has infinitely many solutions and the planes intersect along a common line (or coincide). If it gives a statement that is always false, the system is inconsistent and the planes share no common point.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Describe the solution set of the system.<br>\[x + y + z = 3\]\[2x + 2y + 2z = 6\]\[x - y + z = 1\]\[2(x + y + z) = 2(3)\]\[2x + 2y + 2z = 6\]\[(2x + 2y + 2z) - (2x + 2y + 2z) = 6 - 6\]\[0 = 0, \text{ infinite solutions}\]Since the second equation is redundant, solve the remaining pair:<br>\[(x + y + z) - (x - y + z) = 3 - 1\]\[2y = 2\]\[y = 1\]\[x + 1 + z = 3\]\[x + z = 2\]\[\boxed{(x, y, z) = (t, 1, 2 - t), \ t \in \mathbb{R}}\]</div>
+</div>

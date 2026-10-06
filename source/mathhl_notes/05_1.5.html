@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Composite functions: notation and evaluating at a value</h3>
+<div class="formula-box" data-term="Composite function">For functions \(f\) and \(g\), the composite function \((f \circ g)(x)\) is defined by<br>\[(f \circ g)(x) = f(g(x))\]To evaluate \((f \circ g)(x)\) at a given input, apply \(g\) first and then apply \(f\) to the result. In general \((f \circ g)(x) \ne (g \circ f)(x)\), since the order of composition matters.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given \(f(x) = 3x\) and \(g(x) = 2x - 6\), find \((f \circ g)(5)\).<br>\[g(5) = 2(5) - 6 = 4\]\[(f \circ g)(5) = f(4) = 3(4)\]\[\boxed{(f \circ g)(5) = 12}\]</div>
+
+<h3>Finding the formula for a composite function</h3>
+<div class="formula-box">To find the formula for \((f \circ g)(x)\) as a function of \(x\), substitute the entire expression for \(g(x)\) in place of every \(x\) in \(f(x)\), then simplify the result.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given \(f(x) = 2x + 1\) and \(g(x) = x^2 - 3x\), find \((f \circ g)(x)\).<br>\[(f \circ g)(x) = f(x^2-3x) = 2(x^2-3x) + 1\]\[\boxed{(f \circ g)(x) = 2x^2 - 6x + 1}\]</div>
+
+<h3>Decomposing a composite function into two component functions</h3>
+<div class="formula-box" data-term="Decomposing a function">A composite function can be split into an inside function (applied first) and an outside function (applied second). If \(p(x) = f(g(x))\), then \(g\) is the inside function and \(f\) is the outside function.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Decompose \(h(x) = \sqrt{x^2-4}\) into functions \(f\) and \(g\) such that \(h(x) = (f \circ g)(x)\).<br>Evaluating \(h(x)\) requires first computing \(x^2-4\), and then taking the square root.<br>\[g(x) = x^2 - 4\]\[f(x) = \sqrt{x}\]\[\boxed{h(x) = (f \circ g)(x), \text{ with } g(x) = x^2-4 \text{ and } f(x) = \sqrt{x}}\]</div>
+
+<h3>Domain of a composite function</h3>
+<div class="formula-box" data-term="Domain of a composite function">For \(x\) to be in the domain of \((f \circ g)(x)\), two conditions must hold: \(x\) must be in the domain of \(g\), and \(g(x)\) must be in the domain of \(f\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Let \(g(x) = \sqrt{x-1}\) and \(f(x) = x^2+2\). Find \((f \circ g)(x)\) and state its domain.<br>\[(f \circ g)(x) = f(\sqrt{x-1}) = (\sqrt{x-1})^2 + 2\]\[(f \circ g)(x) = x - 1 + 2\]\[\boxed{(f \circ g)(x) = x+1}\]For \(g(x) = \sqrt{x-1}\) to be defined, \(x - 1 \ge 0\), and every value of \(g(x)\) lies in the domain of \(f\) (all real numbers).<br>\[\boxed{\text{Domain: } x \ge 1}\]</div>
+
+<h3>Finding the inverse of a function algebraically</h3>
+<div class="formula-box" data-term="Inverse function">To find the inverse \(f^{-1}\) of a one-to-one function \(f\): write \(y = f(x)\), swap \(x\) and \(y\), then solve the resulting equation for \(y\). The result is \(y = f^{-1}(x)\). The domain of \(f^{-1}\) equals the range of \(f\), and the range of \(f^{-1}\) equals the domain of \(f\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the inverse of \(f(x) = \dfrac{3x-2}{x+4}\), \(x \ne -4\).<br>\[y = \frac{3x-2}{x+4}\]\[x = \frac{3y-2}{y+4}\]\[x(y+4) = 3y-2\]\[xy + 4x = 3y - 2\]\[xy - 3y = -2 - 4x\]\[y(x-3) = -(4x+2)\]\[y = \frac{4x+2}{3-x}\]\[\boxed{f^{-1}(x) = \frac{4x+2}{3-x}, \ x \ne 3}\]</div>
+
+<h3>Self-inverse functions</h3>
+<div class="formula-box" data-term="Self-inverse function">A function \(f\) is self-inverse (an involution) if \(f = f^{-1}\), that is,<br>\[f(f(x)) = x\]for every \(x\) in the domain. The reciprocal function \(f(x) = \dfrac{1}{x}\) is self-inverse, and more generally every function of the form<br>\[f(x) = \frac{a}{x-b} + b, \quad a \ne 0\]is self-inverse, since its graph is symmetric about the line \(y = x\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Show that \(f(x) = \dfrac{2}{x-3}+3\) is self-inverse by finding \(f(f(x))\).<br>\[f(f(x)) = \frac{2}{f(x)-3} + 3\]\[f(f(x)) = \frac{2}{\left(\dfrac{2}{x-3}+3\right)-3} + 3\]\[f(f(x)) = \frac{2}{\dfrac{2}{x-3}} + 3\]\[f(f(x)) = (x-3) + 3\]\[\boxed{f(f(x)) = x, \text{ so } f \text{ is self-inverse}}\]</div>
+</div>

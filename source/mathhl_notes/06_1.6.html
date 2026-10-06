@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Vertical and horizontal translations</h3>
+<div class="formula-box" data-term="Translations">The graph of \(y = f(x) + k\) is a vertical translation of \(y = f(x)\) by \(k\) units (up if \(k > 0\), down if \(k < 0\)); every point \((x,y)\) maps to \((x, y+k)\). The graph of \(y = f(x-h)\) is a horizontal translation by \(h\) units (right if \(h > 0\), left if \(h < 0\)); every point \((x,y)\) maps to \((x+h, y)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The point \((0, 0)\) lies on \(f(x) = x^3\). Find its image on \(g(x) = f(x-2)+5\), and describe the transformation.<br>\[g(x) = (x-2)^3 + 5, \text{ so } h = 2 \text{ and } k = 5\]\[x\text{-coordinate: } 0 + 2 = 2\]\[y\text{-coordinate: } 0 + 5 = 5\]\[\boxed{(2, 5), \text{ a translation 2 units right and 5 units up}}\]</div>
+
+<h3>Vertical and horizontal stretches</h3>
+<div class="formula-box" data-term="Stretches">The graph of \(y = a \cdot f(x)\) is a vertical stretch of scale factor \(a\) from the x-axis; every point \((x,y)\) maps to \((x, ay)\). The graph of \(y = f(bx)\) is a horizontal stretch of scale factor \(\dfrac{1}{b}\) from the y-axis; every point \((x,y)\) maps to \(\left(\dfrac{x}{b}, y\right)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Describe the sequence of transformations that maps \(y = x^2\) to \(y = 4x^2 - 3\), and find the image of the point \((1, 1)\).<br>\[\text{Step 1: vertical stretch, scale factor } 4 \Rightarrow (1,1) \to (1,4)\]\[\text{Step 2: vertical translation, 3 units down} \Rightarrow (1,4) \to (1,1)\]\[\boxed{(1, 1)}\]</div>
+
+<h3>Reflections in the x-axis and y-axis</h3>
+<div class="formula-box" data-term="Reflections">The graph of \(y = -f(x)\) is a reflection of \(y = f(x)\) in the x-axis; \((x,y) \to (x,-y)\). The graph of \(y = f(-x)\) is a reflection of \(y = f(x)\) in the y-axis; \((x,y) \to (-x,y)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The point \((4, 16)\) lies on \(f(x) = x^2\). Find its image on \(g(x) = -f(-x)\).<br>\[g(x) = -f(-x) = -(-x)^2 = -x^2\]\[\text{Reflect in the y-axis: } (4,16) \to (-4,16)\]\[\text{Reflect in the x-axis: } (-4,16) \to (-4,-16)\]\[\boxed{(-4, -16)}\]</div>
+
+<h3>The graph of y = |f(x)|</h3>
+<div class="formula-box" data-term="y = |f(x)|">To obtain the graph of \(y = |f(x)|\) from \(y = f(x)\), reflect in the x-axis any part of the graph that lies below the x-axis; parts already on or above the x-axis stay unchanged. Algebraically,<br>\[|f(x)| = \begin{cases} f(x) & \text{if } f(x) \ge 0 \\ -f(x) & \text{if } f(x) < 0 \end{cases}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Let \(f(x) = x - 2\). Write \(|f(x)|\) as a piecewise function and evaluate \(|f(-1)|\) and \(|f(5)|\).<br>\[f(x) \ge 0 \text{ when } x \ge 2, \text{ so } |f(x)| = x-2 \text{ for } x \ge 2\]\[f(x) < 0 \text{ when } x < 2, \text{ so } |f(x)| = -(x-2) = 2-x \text{ for } x < 2\]\[f(-1) = -3 < 0 \Rightarrow |f(-1)| = 2-(-1)\]\[\boxed{|f(-1)| = 3}\]\[f(5) = 3 \ge 0 \Rightarrow |f(5)| = 5-2\]\[\boxed{|f(5)| = 3}\]</div>
+
+<h3>The graph of y = f(|x|)</h3>
+<div class="formula-box" data-term="y = f(|x|)">To obtain the graph of \(y = f(|x|)\) from \(y = f(x)\), keep the part of the graph for \(x \ge 0\) unchanged, delete the part for \(x < 0\), and reflect the remaining right-hand portion in the y-axis to form the left-hand portion. Since \(f(|x|) = f(|-x|)\), the resulting graph is always symmetric about the y-axis.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Let \(h(x) = x^2+2x-3\). Find \(h(|x|)\) and evaluate \(h(|-4|)\) and \(h(|4|)\) to confirm the symmetry.<br>\[h(|x|) = |x|^2 + 2|x| - 3\]\[\boxed{h(|x|) = x^2 + 2|x| - 3}\]\[h(|-4|) = h(4) = 4^2+2(4)-3 = 16+8-3\]\[\boxed{h(|-4|) = 21}\]\[h(|4|) = 4^2+2(4)-3 = 16+8-3\]\[\boxed{h(|4|) = 21}\]</div>
+
+<h3>The graph of y = 1/f(x)</h3>
+<div class="formula-box" data-term="y = 1/f(x)">To obtain the graph of \(y = \dfrac{1}{f(x)}\) from \(y = f(x)\): wherever \(f(x) = 0\), the graph of \(\dfrac{1}{f(x)}\) has a vertical asymptote; wherever \(f(x) \to \pm\infty\), the graph of \(\dfrac{1}{f(x)}\) approaches the horizontal asymptote \(y = 0\); and \(\dfrac{1}{f(x)}\) has the same sign as \(f(x)\) at every \(x\) in the domain.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Let \(g(x) = x - 2\). State the vertical and horizontal asymptotes of \(y = \dfrac{1}{g(x)}\), and evaluate it at \(x=0\) and \(x=4\).<br>\[g(x) = 0 \text{ when } x = 2 \Rightarrow \text{vertical asymptote } x = 2\]\[\text{as } x \to \pm\infty, \ g(x) \to \pm\infty \Rightarrow \text{horizontal asymptote } y = 0\]\[\frac{1}{g(0)} = \frac{1}{0-2}\]\[\boxed{\frac{1}{g(0)} = -\frac{1}{2}}\]\[\frac{1}{g(4)} = \frac{1}{4-2}\]\[\boxed{\frac{1}{g(4)} = \frac{1}{2}}\]</div>
+</div>

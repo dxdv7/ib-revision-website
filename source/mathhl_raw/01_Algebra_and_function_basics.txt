@@ -1,0 +1,3520 @@
+  
+Algebraand 
+function basics 
+| \ 
+ 
+
+  
+Algebra and function basics 
+Learning objectives 
+By the end of this chapter, you should be familiar with... 
+o 
+different forms of equations of lines and their gradients and intercepts 
+« 
+parallel and perpendicular lines 
+o 
+different methods to solve a system of linear equations (maximum of 
+three equations in three unknowns) 
+o 
+the concept of a function and its domain, range and graph 
++ 
+mathematical notation for functions 
+« 
+composite functions 
+o 
+characteristics of an inverse function and finding the inverse function f(x) 
+o 
+self-inverse functions 
+« 
+transformations of graphs and composite transformations of graphs 
+« 
+the graphs of the functions 
+y = 
+| f(x)|, y = f(|x|) and 
+y =% 
+& 
+Equations and formulae 
+Equations, identities and formulae 
+You will encounter a wide variety of equations in this course. Essentially, an 
+equation is a statement equating two algebraic expressions that may be true or 
+false depending upon the value(s) substituted for the variable(s). Values of the 
+variables that make the equation true are called solutions or roots of the equation. 
+All of the solutions to an equation comprise the solution set of the equation. 
+An equation that is true for all possible values of the variable is called an identity. 
+Many equations are often referred to as a formula (plural: formulae) and 
+typically contain more than one variable and, often, other symbols that 
+represent specific constants or parameters (constants that may change in value 
+but do not alter the properties of the expression). Formulae with which you are 
+familiar include: A = mr%,d = rt,d = [%, — )7 ¥ 0~y 
+and V = %m’}. 
+Whereas most equations that we encounter will have numerical solutions, we 
+can solve a formula for one variable in terms of other variables - often referred 
+to as changing the subject of a formula. 
+(a) Solve for b in the formula a*> + b* = ¢ 
+(b) Solve for I in the formula T = 217‘/% 
+nR 
+REE 
+T 
+  
+(c) Solve for R in the formula M =
+
+  
+Solution 
+(a)f a2 
+b2 =c2= 
+b2 = c2=q2 =1h — = cH=T72 
+If bis alength then b = Vc? — a2 
+  
+  
+T 
+g 
+TPermie 
+=lbadl 
+U I8 oy 28 
+® 
+"39‘/; 
+2w ¢ 
+am 
+4 
+(c)I:RnfrﬁI(R+r):nR$IR+Ir:nR 
+=IR—nR=—-Ir=RI—n)=—1Ir 
+_ 
+Ir 
+>r=—t 
+Note that factorisation was required in solving for R in part (c). 
+Equations 
+and graph 
+Two important characteristics of any equation are the number of variables 
+(unknowns) and the type of algebraic expressions it contains (e.g. polynomials, 
+rational expressions, trigonometric, exponential). Nearly all of the equations 
+in this course will have either one or two variables. In this chapter we will only 
+discuss equations with algebraic expressions that are polynomials. Solutions 
+for equations with a single variable consist of individual numbers that can 
+be graphed as points on a number line. The graph of an equation is a visual 
+representation of the equation’s solution set. For example, the solution set of 
+the one-variable equation containing quadratic and linear polynomials 
+x2=2x + 8is x € {—2, 4}. The graph of this one-variable equation 
+(Figure 1.1) is depicted on a one-dimensional coordinate system, 
+i.e. the real number line. 
+«———— & ———— 
+77— 
+&——T——> 
+—~& 
+=F 
+-2 
+~L 
+@ 
+1 
+2 
+3 
+4 
+9 
+6 
+Figure 1.1 Graph of the solution set for the equation 
+x* = 2x + 8 
+  
+The solution set of a two-variable equation will be an ordered pair of 
+numbers. An ordered pair corresponds to a location indicated by a point 
+Figure 1.2 Graph of the 
+on a two-dimensional coordinate system, i.e. a coordinate plane. For 
+solution set of the equation 
+i 
+. 
+: 
+i 
+y=x 
+example, the solution set of the two-variable quadratic equation y = x> 
+will be an infinite set of ordered pairs (x, y) that satisfy the equation. Four 
+Quadratic equations wil 
+ordered pairs in the solution set are shown in red in Figure 1.2. The graph 
+be covered in detail in 
+of all the ordered pairs in the solution set forms a curve as shown in blue. 
+Chapter2, 
+uations of lines 
+A one-variable linear equation in x can always be written in the form ax + b = 0, 
+with a # 0, and it will have exactly one solution, namely x = *—2—. An example
+
+  
+Figure 1.3 The graph of 
+x—2y= 
+  
+of a two-variable linear equation in x and y is x — 2y = 2. The graph of this 
+equation’ solution set (an infinite set of ordered pairs) is a line (Figure 1.3). 
+The slope or gradient m, of a non-vertical line is defined by the formula: 
+_ 
+T h 
+vertical change 
+m 
+  
+% =% 
+horizontal change 
+Because division by zero is undefined, the slope of a vertical line is undefined. 
+Using the two points (1, *%) and (4, 1) we compute the slope of the line with 
+—(-1y 
+3 
+4 
+( 
+2) _2_1 
+If we solve for y we can rewrite the equation in the form y = %x -1 
+Note that the coefficient of x is the slope of the line and the constant term is 
+the y-coordinate of the point at which the line intersects the y-axis, that is, 
+the y-intercept. There are several forms for writing linear equations. 
+      
+   
+  
+ax+by+c=0 
+every line has an equation in this form 
+ifbothaand b # 0 
+  
+y=mx+tc 
+m is the slope; (0, ¢) is the y-intercept 
+  
+Y= 
+=m@—x) | mis the slope; (x,, y,) is a known point 
+  
+  
+on the line 
+y=c 
+slope is zero; (0, ) is the y-intercept 
+x=c 
+slope is undefined; unless the line is 
+ 
+ 
+the y-axis, no y-intercept 
+  
+Table 1.1 Forms for equations of lines 
+Most problems involving linear equations and their graphs fall into two 
+categories: (1) given an equation, determine its graph; and (2) given a graph, 
+or some information about it, find its equation. 
+For lines, the first type of problem is often best solved by using the slope- 
+intercept form. For the second type of problem, the point-slope form is usually 
+most useful. 
+Without using a GDC, sketch the line that is the graph of each linear 
+equation written in general form. 
+(@) 5x+3y—6=0 
+() y—4=0 
+(0 x+3=0 
+L 
+Solution 
+(a) Solve for y to write the equation in slope-intercept form. 
+5x+3y*6:0¢3y:*5x+6$y:*§x+2 
+The line has a y-intercept of (0,2) and a slope of 7%
+
+(b) The equation y — 4 = 0 is equivalent to y = 4, the graph of which is a 
+horizontal line with a y-intercept of (0, 4) 
+(c) The equation x + 3 = 0 is equivalent to x = —3, the graph of which is a 
+vertical line with no y-intercept; but, it has an x-intercept of (—3,0) 
+'\y 5 
+4 
+P 
+  
+  
+Eoa 
+ 
+ 
+  
+(a) Find the equation of the line that passes through the point (3,31) 
+and has a slope of 12. Write the equation in slope-intercept form. 
+(b) Find the linear equation in C and F knowing that C = 10 when 
+F =50, and C = 100 when F = 212. Solve for F in terms of C. 
+L 
+Solution 
+(a) Substitute x, = 3, y, = 31 and m = 12 into the point-slope form: 
+y=ph=mx—x)=>y=31=12(x—3)=y=12x 
+— 36 + 31 
+=y=12x—-5 
+(b) The two points, ordered pairs (C, F), that are known to be on the line are 
+(10, 50) and (100, 212). The variable C corresponds to the x variable and 
+F corresponds to y in the definitions and forms stated above. 
+E-F 212-5_162_9 
+Choose one of the points on the line, say (10, 50), and substitute it and 
+the slope into the point-slope form: 
+F*Fl:m(C7C,)§F750:%(C7 10)$F:%C7 18 + 50 
+@F:§C+32
+
+  
+    
+    
+   
+(xp7) 
+Ll . 
+,,,,,,,,, I 
+A 
+Gy 
+x> 
+Figure 1.7 Distance between 
+two points on a coordinate plane 
+‘The distance d 
+between the two points 
+(x3y) and (x,,)5) in the 
+coordinate plane is 
+d= i =x)+ 0=y 
+Algebra and function basics 
+The slope of a line is a convenient tool for determining whether two lines are 
+parallel or perpendicular. The two lines shown in Figure 1.4 suggest that two 
+distinct non-vertical lines are parallel if and only if their slopes are equal, m, = m,. 
+The two lines shown in Figure 1.5 suggest that two non-vertical lines are 
+perpendicular if and only if their slopes are negative reciprocals - that is, 
+  
+1 
+s 
+e 
+m, = ——, which is equivalent to m, 
+- m, = 
+m; 
+  
+  
+Figure 1.4 Parallel lines 
+Figure 1.5 Perpendicular lines 
+  
+Distances and midpoints 
+Recall that absolute value is used to define the distance (always non-negative) 
+between two points on the real number line. The distance between the points A 
+and B on the real number line is |B — Al, which is equivalent to |A — BI. 
+The points A and B are the endpoints of a line segment that is denoted with the 
+notation [AB] and the length of the line segment is denoted AB. In Figure 1.6, 
+the distance between A and Bis AB = [4 — (=2)| = -2 — 4| = 6. 
+  
+B 
+T T—&————> 
+-3 
+-2 
+-1 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+  
+Figure 1.6 The length of the line segment [4B] is denoted by AB 
+We can find the distance between two general points (x,, ) and (x,, ,) on 
+a coordinate plane using the definition for distance on a number line and 
+Pythagoras’ theorem. For the points (x,, y,) and (x,, y,), the horizontal 
+distance between them is |x; — x,| and the vertical distance is [y, — y,|. 
+As illustrated in Figure 1.7, these distances are the lengths of two legs of 
+a right-angled triangle whose hypotenuse is the distance between the points. 
+If d represents the distance between (x,, y,) and (x,, y,), then by Pythagoras’ 
+theorem d? = |x; — 
+x,|* + |y, — y,|* Because the square of any number is 
+positive, the absolute value is not necessary to give us the distance formula 
+for two-dimensional coordinates.
+
+The coordinates of the midpoint of a line segment are the average values of the 
+corresponding coordinates of the two endpoints. 
+‘The midpoint of the line segment joining the points (x,, ) and (x,, y,) in the coordinate plane is 
+(xl tunty 
+S 
+    
+Example 1.4 
+(a) Show that the points P(1, 2), Q(3, 1) and R(4, 8) are the vertices of a 
+right-angled triangle. 
+(b) Find the midpoint of the hypotenuse of the triangle PQR. 
+  
+Solution 
+(a) The three points are plotted and the line segments joining them are 
+drawn in Figure 1.8. We can find the exact lengths of the three sides of 
+the triangle by applying the distance formula. 
+PQ=y{I-3F+ 
+Q- IF=/E+1=/5 
+QR=/(B =97+ (1—8F =VIF49 =50 
+(I-47+(2-8=/9+36=/45 
+(PQ)* 
++ (PR)* 
+= (QR)* because (1/5)* 
++ (V45)* = 5 + 45 = 50 = (V50)° 
+The lengths of the three sides of the triangle satisfy Pythagoras’ theorem, 
+confirming that the triangle is a right-angled triangle. 
+(b) QR is the hypotenuse. Let the midpoint of QR be point M. Using the 
+midpoint formula, M = (#, %) = (%,% 
+in Figure 1.8 
+Figure 1.8 Diagram for 
+Example 1.4 
+  
+). This point is plotted 
+Find x such that the distance between points (1, 2) and (x, —10) is 13 units. 
+Solution 
+d=13=\le— 
+D2 F(E10—272=> 13> = (x— 12 + (- 12 
+=169=x—2x+1+144=x—2x—24=0 
+=x—-6kx+4=0=>x—6=0o0rx+4=0 
+Figure 1.9 Graph 
+for Example 
+= x =6 or x = —4 (see Figure 1.9) 
+1.5 showing the two points that 
+are 13 units from (1, 2) 
+  
+(-4, L1010 
+(6. -10)
+
+Although the systems 
+of two equations in two 
+unknowns considered 
+in this chapter contain 
+only linear equations, it 
+is important to mention 
+that the graphical and 
+substitution methods 
+are effective for solving 
+systems of two equations 
+in two unknowns where 
+not all of the equations are 
+linear, e.g. one linear and 
+one quadratic equation. 
+A system of equations 
+that has no solution is 
+inconsistent. A system of 
+equations that has at least 
+one solution is consistent. 
+Algebra and function basics 
+SV RO R Tl (@ e 
+W= i folg) 
+Many problems involve sets of equations with several variables, rather than 
+just a single equation with one or two variables. Such a set of equations is often 
+called a set, or system, of simultaneous equations because we find the values 
+for the variables that solve all of the equations simultaneously. In this section, we 
+only consider sets of simultaneous equations containing linear equations; that is, 
+systems of linear equations. We will take a brief look at four solution methods: 
+« 
+graphical method (with technology) 
+« 
+substitution method 
+o 
+elimination method 
+« 
+technology (without graphing) 
+‘We will first consider systems of two linear equations in two unknowns and then 
+extend our methods to systems of three linear equations in three unknowns. 
+Graphical method 
+The graph of each equation in a system of two linear equations in two unknowns 
+is a line. The graphical interpretation of such a system of equations corresponds 
+to determining the point or points that lie on both lines. Two lines in a coordinate 
+plane relate to one another in only one of three ways: (1) intersect at exactly 
+one point, (2) intersect at all points on each line (i.e. the lines are identical, or 
+coincident), or (3) the two lines do not intersect (i.e. the lines are parallel). These 
+three possibilities are illustrated in Figure 1.10. 
+» 
+i4 
+  
+0‘ 
+\ 
+< 
+o‘ 
+\: 
+0| 
+\ YA 
+Intersect at exactly one point; 
+ Identical - coincident lines; 
+ Never intersect - parallel lines; 
+exactly one solution 
+infinite solutions 
+no solution 
+Figure 1.10 Possible relationship between two lines in a coordinate plane 
+Although a graphical approach to solving a system of linear equations provides 
+a helpful visual picture of the number and location of solutions, it can be 
+tedious and inaccurate if done by hand. The graphical method is far more 
+efficient and accurate when performed on a GDC. 
+  
+Example 
+1.6 
+Use the graphical features of a GDC to solve each system of linear equations. 
+(a) 2x+3y=6 
+(b) 7x — 5y =20 
+Ry =10 
+By 
+=
+
+s 
+Solution 
+(a) Rewrite each equation in slope-intercept form, i.e. y = mx + c. 
+This is a necessity if we use our GDC and is also very useful for 
+graphing by hand. 
+243y =6=3y= 2+ 6=y= —§x+2 
+and 
+2oy = a1 0 =y =k 
+O] 
+3 
+52 
+7@ =Foxrz 
+| 
+- 
+T 
+% 
+T 
+fe2=2-x010 
+- 
+fz=2-x010 
+6.6 
+=6.67]0 o 
+Ay 
+e 
+6.6 
+The intersection point and solution to the system of equations is 
+x=—3andy = 4,0r(—3,4). 
+  
+  
+  
+  
+-2 
+=22 
+| 
+  
+    
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+(b 7X*5}/:20$5}/:7X*20§}/:§X*4 
+and 
+3x+y=2=y=-3x+2 
+  
+ 
+  
+  
+Plotl 
+Plot2 
+Plot3 
+“Y1E(7/5)X-4 
+Yo -3X+2 
+\Y3= 
+~Ya= 
+NYs= 
+~Ye= 
+Intersection 
+Y= 
+X=1.3636364 
+FY=-2.090909 
+Y 
+1.363636364 
+=2.090909091 
+Ans)Frac 
+[Ans)Frac 
+15/11 
+-23/11 
+ 
+ 
+ 
+   
+The solution to the system of equations is x = % andy = *%, 
+or (E 
+= E) 
+1) 
+Elimination method 
+To solve a system using the elimination method, we try to combine the two 
+linear equations using sums or differences in order to eliminate one of the 
+variables. Before combining the equations, we often need to multiply one or 
+both of the equations by a suitable constant to produce coefficients for one of 
+the variables that are equal (then subtract the equations), or that differ only in 
+sign (then add the equations).
+
+10 
+Example 1.7 
+Use the elimination method to solve each system of linear equations. 
+(a) 5x+3y=9 
+(b) 
+x—2y=7 
+2x—4y=14 
+2% =4y =5 
+| 
+Solution 
+(a) We can obtain coefficients for y that differ only in sign by multiplying 
+the first equation by 4 and the second equation by 3. Then add the 
+equations to eliminate the variable y. 
+5x+3y= 
+9 — 20x+ 12y =36 
+2x—4y=14 - 
+6x—12y=42 
+26x 
+=78 
+=10 
+" 26 
+b 
+=3 
+By substituting the value of 3 for x in either of the original equations we 
+can solve for y. 
+5x+3y=9=5(3)+3y=9=3y=—6=y=-2 
+The solution is (3, —2) 
+(b) To obtain coefficients for x that are equal, multiply the first equation by 2 
+and then subtract the equations to eliminate the variable x. 
+x—2y=7 > 2x—4dy=14 
+2x—4dy=5 > 2x—4y =5 
+UEO 
+Because it is not possible for 0 to equal 9, there is no solution. The lines 
+on the graphs of the two equations are parallel. To confirm this, we can 
+rewrite each of the equations in the form y = mx + c. 
+x*2y27:2y:x*7ﬂy:%x*%and 
+2x*4y:5§4y:2x*5$y:%x*% 
+Both equations have a slope of %, but different y-intercepts. 
+Therefore, the lines are parallel. This confirms that this system of linear 
+equations has no solution. 
+Substitution method 
+The algebraic method that can be applied effectively to the widest variety of 
+simultaneous equations, including non-linear equations, is the substitution 
+method. Using this method, we choose one of the equations and solve for 
+one of the variables in terms of the other variable. We then substitute this 
+expression into the other equation to produce an equation with only one 
+variable, which we can solve directly.
+
+Use the substitution method to solve each system of linear equations. 
+(@) 3x—y=-9 
+(b) —2x+6y=4 
+6= 2yi= D 
+35 =9y ="=6 
+L 
+Solution 
+(a) Solve for y in the top equation: 
+3x—y=-9=>y=3x+9 
+Substitute 3x + 9 for y in the bottom equation: 
+6x+2Bx+9) 
+=2 = 
+6x+6x+18=2 = 
+12x=—16 
+16 
+= 
+x= e A 
+3 
+Now substitute 7% for x in either equation to solve for y. 
+3(*%)*)/: S0y 
+= 
+= 
+RO s 
+The solution is x = 7%,}; = 5;0r (—%, 5) 
+(b) Solve for x in the top equation: —2x + 6y =4 = 
+2x =6y — 4 
+= 
+x=3y—-2 
+Substitute 3y — 2 for x in the bottom equation: 
+33y—2) 
+-9 =-6=9—-6-9=—6=0=0 
+This resulting equation 0 = 0 is true for any values of x and y. The two 
+equations are equivalent, and their graphs will produce identical lines, 
+that is coincident lines. Therefore, the solution set consists of all points 
+2 
+(x, y) lying on the line —2x + 6y = 4 (ory = %x ot 5) 
+Technology 
+As shown in Example 1.6 (a), we can use our GDC to graph the two lines 
+whose equations constitute a system of two linear equations and then apply 
+an ‘intersection’ command to find the ordered pair that solves the system. 
+Alternatively, your GDC should have a simultaneous equation solver (or 
+systems of equations solver) that can be used to solve a system of linear 
+equations without graphing. 
+If you use a graph to answer a question on an IB mathematics exam, you must include a clear 
+and well-labelled sketch in your working. Thus, on an exam there is often more effort involved 
+in solving a system of linear equations by graphing with your GDC compared to solving the 
+system using a simultancous equation solver (or systems of linear equations solver) on your GDC. 
+"
+
+‘The graph of 
+a linear 
+equation inx, yand z, 
+ax+by+cz=d 
+isa plane in a three- 
+dimensional coordinate 
+system. ‘Linear’ refers to 
+the fact that the equation 
+is a first-degree equation. 
+  
+12 
+Algebra and function basics 
+When flying in calm air (with no headwind or tailwind) with its propellers 
+rotating at a particular rate, a small aeroplane has a speed of s kilometres 
+per hour. With the propeller rotating at the same rate, the aeroplane flies 
+473km in 2 hours as it flies against a headwind, and 887 km 
+in 3 hours flying 
+with the same wind as a tailwind. Find s and find the speed of the wind. 
+O 
+Solution 
+Let w represent the speed of the wind. Applying distance = rate X time 
+gives the following two equations: 
+{473 =2s—w 
+{473 =25s—2w 
+887 = 3(s + w) 
+887 = 35 + 3w   
+This system of equations can be solved 
+— ( { 250w (S‘W)) 
+5 
+with a simultaneous equation solver on 
+Sy 
+aGDC. 
+{22, 232} 
+Therefore, s = 266kmh ' and the wind 
+{%, %} » becimal 
+speed is 29.6kmh 
+™!, accurate to 
+| 
+{266.083,29.5833} 
+ 
+ 
+  
+3 significant figures. 
+As with solving systems of two linear equations in two unknowns, systems of 
+three linear equations in three unknowns also have three possible outcomes: 
+a unique solution, an infinite number of solutions or no solution (inconsistent 
+system). However, the graph of a linear equation in three unknowns is not a 
+line, but a plane in three-dimensional space (covered in detail in Chapter 9). 
+Hence, using a graphical approach is impractical for solving systems of three 
+linear equations in three unknowns. Applying an elimination method is 
+feasible, but the algebra required can be very tedious. So, in general, when 
+solving a system of three linear equations in three unknowns it is best to 
+use your GDC’s simultaneous equation solver if a GDC is allowed, and an 
+elimination method when a GDC is not allowed. The elimination method 
+demonstrated in Example 1.10 (a) using elementary row operations is 
+essentially the same as the elimination method shown earlier for systems 
+of two linear equations, where equations are combined with each other, or 
+each side of an equation is multiplied by a constant in order to isolate one 
+of the variables. However, when using row operations to solve systems with 
+more than two equations, we normally do not write the variables if all of the 
+equations have the variables in the same order and the constant is on the 
+other side of the equals sign.
+
+Example 1.10 
+Solve the following system of equations in two ways: 
+2y z =12 
+x+3y+22=1 
+2x+4y+62=6 
+(a) using row operations (an elimination method), and 
+(b) using a simultaneous equation solver on a GDC. 
+T 
+S 
+Solution 
+(a) There are three types of elementary row operations: (1) multiply any row by 
+a non-zero real number; (2) interchange any two rows; (3) add or subtract 
+a multiple of one row to another row. The objective is to apply a sequence 
+of row operations so that both the x and y terms are eliminated from one 
+equation and the x term is eliminated from another of the three equations. 
+1. Subtract row 1 from row 3: 
+2. Multiply row 2 by 2 and 
+subtract it from row 1: 
+AT 11 
+50 
+W 
+=5 
+=8| 
+@ 
+1A 
+SRS 
+1 
+i3 
+21 
+0 
+3 
+7|4 
+0 
+3 
+7|4 
+3. Multiply row 3 by 5: 
+4. Multiply row 1 by 3 and 
+add to row 3: 
+0= olEo1 
+R0 
+ORI 
+RO 
+il 
+5 
+2| 
+L 
+i3 
+21 
+M 
+iy 
+5|20 
+0 
+0 
+20]20 
+At this stage, we have eliminated both of the x and y terms from one 
+equation and eliminated the x term from another equation. We can 
+simplify the resulting system by one last step where we multiply row 1 
+ORTREIS 
+FO) 
+by 7% and multiply row 3 by %, producing | 1 
+3 
+2|1 | whichis 
+OREORRIH 
+1} 
+equivalent to the original system of equations. Writing each equation 
+(row) with the variables we can solve for z directly, and for x and y by 
+a process of substitution. 
+0OxEyEzEsl ) 
+x+3y+2z=1 
+Clearly, z = 
+1. Substituting this into the first 
+OXEROyEEZ 
+equation gives y + 1 = 0. Thus, y = —1. And, substituting into the 
+second equation gives x + 3(—1) + 2(1) = 1. So, x = 2. Therefore, the 
+system has the unique solution of x =2, y = =1,z = 1. 
+  
+(b) Using the systems of linear equations [, 
+- ( {z.x»y»z 
+2i3.pr2 
+solver on a GDC. 
+20304446+ 
+226 
+  
+  
+  
+  
+‘The sequence of row 
+operations needed to 
+produce one equation 
+with both the xand y 
+terms eliminated and 
+another one of the three 
+equations with the x term 
+eliminated is not unique. 
+“Two people can carry 
+out a different sequence 
+of row operations 
+while obtaining the 
+correct solution. 
+13
+
+Don't be confused when 
+row operations on a 
+system of three equations 
+produces something like 
+    
+‘The bottom equation is 
+32=0.50,2= 0. Thus, 
+the system has the 
+unique solution 
+2 
+14 
+Algebra and function basics 
+‘When using row operations to solve a system of three linear equations that has 
+no solution, the equation (row) in which x and y have been eliminated will be an 
+equation that is false for all values of z. For example, if after a sequence 
+2 
+-1 
+5|1 
+1 
+4 
+—2(-3 
+0 
+0 
+0]2 
+0x + 0y + 0z = 2 which is always false. Hence, the system has no solution. 
+2 
+=1 
+5 
+1 
+4 
+—2|- 
+0 
+0 
+0]0 
+infinite solutions because the bottom equation is always true. 
+1. 
+Solve for the indicated variable in each formula. 
+(a) m(h — x) = n, solve for 
+x 
+(b) v=vab — t, solve for a 
+of row operations, we obtain 
+then the bottom equation is 
+  
+ 
+ 
+If row operations on a system produces 
+, then there are 
+  
+ 
+ 
+() A= g(b‘ + b,), solve for b, 
+d) A= %rZB, solve for r 
+(e) g = %, solve for k 
+(f) 
+at = x — bt, solve for t 
+(g V= 1 7r°h, solve for r 
+(h) F= 
+L] 
+, solve for k 
+3 
+myk + mf 
+2. 
+Find the equation of the line that passes through the two given points. 
+Write the line in slope-intercept form (y = mx + c), if possible. 
+(@) (=9,1) and (3, —7) 
+(b) (3, —4) and (10, —4) 
+(©) (=12, —9) and (4, 11) 
+@ (% —%) and (%%) 
+(e) Find the equation of the line that passes through the point (7, —17) 
+and is parallel to the line with equation 4x + y — 3 = 0. Write the 
+line in slope-intercept form (y = mx + c). 
+(f) Find the equation of the line that passes through the point (*5, %) 
+and is perpendicular to the line with equation 2x — 5y — 35 = 0. 
+Write the line in slope-intercept form (y = mx + c). 
+3. 
+Find the exact distance between each pair of points and then find the 
+midpoint of the line segment joining the two points. 
+(a) (—4,10) and (4, —5) 
+(b) (—=1,2) and (5,4) 
+i} 
+54 
+© (5.1)ana(-2.3) 
+(d) (12,2) and (~10,9) 
+4. 
+Find the value(s) of k so that the distance between the points is 5 units. 
+(a) (5,—1)and (k, 2) 
+(b) (=2, =7)and (1, k) 
+5. 
+Show that the given points form the vertices of the indicated polygon. 
+(a) Right-angled triangle: (4, 0), (2, 1) and (—1, —5) 
+(b) Isosceles triangle: (1, —3), (3, 2) and (-2, 4) 
+(c) Parallelogram: (0, 1), (3, 7), (4,4) and (1, —2)
+
+6. Use the elimination method to solve each system of linear equations. 
+(@ x+3y=8 
+(b) 
+x—6y=1 
+(c) 6x+3y=6 
+= =3 
+3x+2y =13 
+Sx+4y=—1 
+(d) 8x—12y=4 
+(e) 
+5x+7y=9 
+—2x+3y=2 
+—llx—5y=1 
+7. Use the substitution method to solve each system of linear equations. 
+  
+@ 2x+y=1 
+(b) 3x—2y=7 
+3x+2y=3 
+5x—y=—7 
+() 
+2x+8=—6 
+(d)§+§:s 
+—5x— 20y =15 
+x+y=20 
+() 2x—y=—2 
+(f) 
+04x+03y=1 
+4xty=5 
+0.25x + 0.1y = —0.25 
+8. Use your GDC to solve each system of two linear equations. 
+(a) 3x + 2y=9 
+ (b) 3.62x — 588y = —10.11 
+ (c) 2x— 3y =4 
+7x+1ly=2 
+0.08x — 0.02y = 092 
+Sx+2y=1 
+9. Use row operations to solve each system of three linear equations. 
+If the system has infinite solutions, simply write ‘infinite solutions’ 
+Axsiyihz —i=5 
+(a) § 2x + 2y +32=10 
+SX =2y 
+621=B! 
+Sx—3y+2z=2 
+() 
+§2x+2y—32=3 
+x—7y+8z=—4 
+(b) 
+(d) 
+4x—2y+3z= 
+-2 
+2XGHE2y S5z =N 6] 
+SXEo e 7] 
+3x—2y+z=-29 
+—4x+y—3z=37 
+Xaloyahio 
+= 204 
+10. Use your GDC to solve each system of three linear equations. If the 
+system has infinite solutions, simply write 
+3y S0z =8 
+()R 
+E2xih 71352 =19 
+O 
+A 
+” 
+A 07D 
+(c) { 2x— 9y +5z=—25 
+—x+5y—4z=10 
+ 
+(b) 
+(d) 
+ 
+‘infinite solutions. 
+2x+3y+52=4 
+3x+5y+92=7 
+Sx+9y+17z=1 
+2x+3y+52=4 
+3x+5y+92=7 
+5x+9y+17z=13 
+11. Find the value(s) of k such that the following system of equations 
+has no solution. 
+x+ty+k—-—1D=2 
+kx—z=-3 
+6x+2y—3z=1 
+15
+
+A mapping illustrates 
+how some values in the 
+domain of a function are 
+paired with values in the 
+range of the function. 
+Here is a mapping for 
+the function y = |x| 
+Domain 
+ Range 
+(input) 
+ (output) 
+  
+The coordinate system 
+for the graph of an 
+equation has the 
+independent variable on 
+the horizontal axis and 
+the dependent variable 
+on the vertical axis. 
+  
+Alternative definition of 
+a function 
+A function is a relation 
+in which no two different 
+ordered pairs have the 
+same first coordinate. 
+A vertical line intersects 
+the graph of a function at 
+no more than one point 
+(vertical line test). 
+16 
+Algebra and function basics 
+Definition of a function 
+Many mathematical relationships concern how the value of one variable 
+determines the value of a second variable. In general, suppose that the values 
+of a particular independent variable, for example x, determine the values of a 
+dependent variable y in such a way that for a specific value of x, a single value 
+of y is determined. Then we say that y is a function of x and we write 
+y = fix) (read 
+y equals 
+f of x) or y = g(x), and so on, where the letter for g, etc. 
+represents the name of the function. For example: 
+« Period T'is a function of length L: 
+T = 217‘(;‘% 
+« Area A is a function of radius r: 
+A = 72 
+« °F (degrees Fahrenheit) is a function of °C: 
+ F = gC +32 
+Other useful ways of representing a function include a graph of the equation on 
+a Cartesian coordinate system (also called a rectangular coordinate system), 
+a table, a set of ordered pairs, or a mapping. 
+  
+« Distance d from the origin is a function of 
+x: 
+d = 
+The largest possible set of values for the independent variable (the input set) 
+is called the domain, and the set of resulting values for the dependent variable 
+(the output set) is called the range. In the context of a mapping, each value 
+in the domain is mapped to its image in the range. All of the various ways of 
+representing a mathematical function illustrate that its defining characteristic 
+is that it is a rule by which each number in the domain determines a unique 
+number in the range. 
+  
+A function is a correspondence (mapping) between two sets X and Y in which each element of 
+set X corresponds to (maps to) exactly one element of set Y. The domain is set X (independent 
+variable) and the range is set Y (dependent variable). 
+  
+Not all equations represent a function. The solution set for the equation 
+x%+ y? = Lis the set of ordered pairs (x, y) on the circle of radius equal to 1 
+and centre at the origin (see Figure 1.11). If we solve the equation for y, we get 
+y = %1 — x2 Itis clear that any value of x between —1 and 1 will produce 
+two different values of y (opposites). Since at least one value in the domain 
+(x) determines more than one value in the range (y), the equation does not 
+represent a function. A correspondence between two sets that does not satisfy 
+the definition of a function is called a relation. 
+For many physical phenomena, we observe that one quantity depends on 
+another. The word function is used to describe this dependence of one quantity 
+on another - that is, how the value of an independent variable determines the 
+value of a dependent variable. A common mathematical task is to find how to 
+express one variable as a function of another variable.
+
+Example 1.11 
+(a) Express the volume V of a cube as a function of the length e of each edge. 
+(b) Express the volume V of a cube as a function of its surface area S. 
+  
+Solution 
+(a) Vasafunctionofeis V= e? 
+(b) The surface area of the cube consists of six squares each with an area 
+of e2. Hence, the surface area is 6e? that is, S = 6e2. We need to write 
+Vin terms of S. We can do this by first expressing e in terms of S, and 
+then substituting this expression for e in the equation V = e3. 
+S=6e2=e2= %# e= ‘/g Substituting, V = ( 
+  
+  
+  
+Vas a function of Sis V = %/E 
+An offshore wind turbine is located at point W, 4km offshore from the nearest 
+point P on a straight coastline. A maintenance station is at point M, 3km 
+down the coast from P. An engineer is returning by a small boat from the wind 
+turbine. He sails to point D that is located between P and M at an unknown 
+distance xkm from point P. From there, he walks to the maintenance station. 
+The boat sails at 3 km hr~'and the engineer can walk at 6 km hr™*. Express 
+the total time T (hours) for the trip from the wind turbine to the maintenance 
+station as a function of x (km). 
+Solution 
+To get an equation for T in terms of x, use the fact that time = di%atx;ce 
+‘We then have 
+T= distan;e WD + distan6ce DM 
+The distance WD can be expressed in terms of x using Pythagoras’ theorem. 
+WD? = x?+42= 
+WD = Vx2 + 16 
+To express T in terms of only the single variable x, note that DM = 3 — x 
+Then the total time T can be written in terms of x by the equation 
+2 
+- 
+T:%w+3'6—xorT:%vx2+16+%7§ 
+ 
+  
+Figure 1.12 Cube for 
+Example 1.11 
+  
+Figure 1.13 Diagram 
+for Example 1.12 
+17
+
+In Chapter 8, we learn 
+about functions where 
+the variables can have 
+values that are imaginary 
+numbers. 
+18 
+Algebra and function basics 
+omain and 
+range of a function 
+The domain of a function may be stated explicitly, or it may be implied by the 
+expression that defines the function. For most of this course, we can assume that 
+functions are real-valued functions of a real variable. The domain and range will 
+contain only real numbers or some subset of the real numbers. The domain of 
+a function is the set of all real numbers for which the expression is defined as a 
+real number, if not explicitly stated otherwise. For example, if a certain value of 
+x is substituted into the algebraic expression defining a function and it causes 
+division by zero or the square root of a negative number (both undefined in the 
+real numbers) to occur, that value of x cannot be in the domain. 
+The domain of a function may also be implied by the physical context or 
+limitations that exist in a problem. For example, in both functions derived in 
+Example 1.11 the domain is the set of positive real numbers (denoted by R*) 
+because neither a length (edge of a cube) nor a surface area (face of a cube) can 
+have a value that is negative or zero. In Example 1.12 the domain for the function 
+is 0 < x < 3 because of the constraints given in the problem. Usually the range 
+of a function is not given explicitly and is determined by analysing the output of 
+the function for all values of the input (domain). The range of a function is often 
+more difficult to find than the domain, and analysing the graph of a function is 
+very helpful in determining it. A combination of algebraic and graphical analysis 
+is very useful in determining the domain and range of a function. 
+Find the domain of each function. 
+(@) {(=6,-3),(=1,0),(2,3),(3,0), (5 9} 
+(b) Volume of a sphere: V = %‘n‘rl 
+(c)y:bi6 
+@ y=V3-x 
+  
+L] 
+Solution 
+(a) The function consists of a set of ordered pairs. The domain of the 
+function consists of all first coordinates of the ordered pairs. Therefore, 
+the domain is the set x € {—6, —1, 2, 3, 5}. 
+(b) The physical context tells us that a sphere cannot have a radius that is 
+negative or zero. Therefore, the domain is the set of all real numbers r 
+such that r > 0. 
+(c) 
+Since division by zero is not defined for real numbers then 2x — 6 # 0. 
+Therefore, the domain is the set of all real numbers x such that x € R, 
+x#3. 
+(d) Since the square root of a negative number is not real, then 3 — x > 0. 
+Therefore, the domain is all real numbers x such that x < 3.
+
+Example 1.14 
+Find the domain and range for the function y = 
+e 
+. 
+L, 
+@] 
+Solution 
+Using algebraic analysis: Squaring any real number produces another real 
+number. Therefore, the domain of y = x2 is the set of all real numbers (R). 
+Since the square of any positive or negative number will be positive and the 
+square of zero is zero, then the range is the set of all real numbers greater 
+than or equal to zero. 
+  
+Using graphical analysis: For the domain, focus on the x-axis and scan the 
+graph from —oo to +oc. There are no gaps or blank regions in the graph 
+and the parabola will continue to get wider as x goes to either —co or +oc. 
+Therefore, the domain is all real numbers. For the range, focus on the y-axis 
+and scan from —co to +o0. The parabola will continue to increase as y goes to 
++00, but the graph does not go below the x-axis. The parabola has no points 
+with negative y coordinates. Therefore, the range is the set of real numbers 
+greater than or equal to zero. 
+  
+Description in words 
+Interval notation 
+  
+Domain is any real number 
+Domain is {x:x € R}, or Domain is x € 
+] —00, oo[ 
+  
+Range is any number greater than or 
+| Range is {y:y = 0}, or Range is y € ]0, oo[ 
+  
+  
+  equal to zero 
+  
+Table 1.2 Different ways of expressing the domain and range of y = x> 
+Function notation 
+  
+It is common practice to name a function using a single letter, with f, gand h 
+commonly used. Given that the domain variable is x and the range variable is y, 
+the symbol f(x) denotes the unique value of y that is generated by the value of x. 
+Another notation - sometimes referred to as mapping notation - is based on 
+the idea that the function fis the rule that maps x to f(x) and is written 
+f:x — f(x). For each value of x in the domain, the corresponding unique value 
+of y in the range is called the function value at x, or the image of x under f. 
+The image of x may be written as f(x) or as y. For example, for the function 
+flx) = x%f(3) =9, or ‘ifx =3, theny =9’ 
+  
+  
+  
+  
+  
+  
+Notation 
+Description in words 
+foo =x 
+The function f, in terms of x, is x% or, simply fof 
+x equals x* 
+fxo 22 
+The function f maps x to x> 
+f3) = 
+The value of the function fwhen x = 3 is 9; or, simply f of 3 equals 9 
+f39 
+The image of 3 under the function fis 9 
+ 
+ 
+ 
+  
+Table 1.3 Function notation 
+range 
+  
+<«—domain —» 
+Figure 1.14 Graphical 
+solution to Example 1.14 
+‘The inequality2 < x <5 
+can also be written 
+as (2,5 [ . The number 
+2is included, but 5 is 
+not. When determining 
+the domain and range 
+ofa function, use both 
+algebraic and graphical 
+analysis. Do ot rely too 
+much on using just one 
+approach. For graphical 
+analysis of a function, 
+producinga graph on 
+your GDC that shows all 
+the important features is 
+essential. 
+19
+
+  
+Figure 1.15 Diagram for 
+Example 1.15 
+  
+Figure 1.16 Graph for the 
+solution to Example 1.16 (c) 
+20 
+Find the domain and range of the function h:x — +2 
+] 
+Solution 
+Using algebraic analysis: The function produces a real number for all x, except 
+for x = 2 when division by zero occurs. Hence, x = 2 is the only real number 
+1 
+= 
+of y cannot be zero. Hence, y = 0 is the only real number not in the range. 
+  
+not in the domain. Since the numerator of- 
+3 can never be zero, the value 
+Using graphical analysis: A horizontal scan shows a gap at x = 2 dividing 
+the graph of the equation into two branches that both continue indefinitely 
+with no other gaps as x — *oc. Both branches are asymptotic (approach 
+but do not intersect) to the vertical line x = 2. This line is a vertical 
+asymptote and is drawn as a dashed line (it is not part of the graph of 
+the equation). A vertical scan reveals a gap at y = 0 (x-axis) with both 
+branches of the graph continuing indefinitely with no other gaps as 
+y — £ 0. Both branches are also asymptotic to the x-axis. The x-axis is 
+a horizontal asymptote. 
+1 
+Both approaches confirm that the domain and range for h:x — 
+  
+domain: {x:x 
+e R, x#2} 
+orx€]—oo,2[U]2,00[ 
+range: {y:;y €R,y#0} 
+ ory€]—o0,0[U]0, 
+c0[ 
+Example 1.16 
+Consider the function flx) = Vx + 4 
+(a) Find: 
+@) f7) 
+(i) f32) 
+(ii)) f(—4) 
+(b) Find the values of x for which fis undefined. 
+(c) 
+State the domain and range of f. 
+e ——————— 
+Solution 
+(@) 
+() 
+A7 =V7+4=/I1~332(3sf) 
+(i) f32)=V32+4=36=6 
+(iii) A~ =V/—4+4=V0=0 
+(b) fix) will be undefined (square root of a negative) when x + 4 < 0. 
+Therefore, f(x) is undefined when x < —4. 
+(c) 
+It follows from the result in (b) that the domain of fis {x:x = —4}. 
+The symbol V" stands for the principal square root that, by definition, 
+can only give a result that is positive or zero. Therefore, the range of fis 
+{7:y = 0}. The domain and range are confirmed by analysing the graph 
+of the function.
+
+Example 1.17 
+i 
+Find the domain and range of the function f(x) =    
+Solution 
+  
+The graph of y = 
+shown here, 
+2 
+5 
+agrees with algebraic analysis 
+  
+indicating that the expression S 
+will be positive for all x, and is defined 
+only for —3 < x < 3. Further analysis and 
+tracing the graph reveals that f(x) has 
+  
+ 
+a minimum at (0, %) The graph on the GDC is misleading in that it 
+appears to show that the function has a maximum value of approximately 
+= 2.8037849. Can this be correct? A lack of algebraic thinking and over- 
+reliance on a GDC could easily lead to a mistake. The graph abruptly stops 
+its curve upwards because of low screen resolution. Function values should 
+get quite large for values of x a little less than 3, because the value of V9 — x? 
+. 
+5 
+g 
+i 
+will be small, making 
+the fraction ———— large. 
+¢ 
+o 
+  
+Using a GDC to make a table for fix) or evaluating the function for values of 
+x very close to —3 or 3 confirms that as x approaches —3 or 3, y increases 
+without bound, i.e. y goes to +oco. Hence, f(x) has vertical asymptotes of 
+x = —3and x = 3. This combination of graphical and algebraic analysis 
+leads to the conclusion that the domain of fix) is {x: —3 < x < 3}, and the 
+range of fix) is {y: y= %} 
+1. 
+(i) Match each equation to one of the graphs. 
+(ii) State whether or not the equation represents any of the functions 
+shown. Justify your answer. Assume that x is the independent 
+variable and y is the dependent variable. 
+(a) y=2x 
+) y=-3 
+© x-y=2 
+d) x> +y2=4 
+(e y=2—x 
+f) y=x2+2 
+@y =x 
+M) y=2 
+@) +y=2 
+As Example 1.17 
+illustrates, it is dangerous 
+to completely trust 
+graphs produced on a 
+GDC without also doing 
+some algebraic thinking. 
+It is important to check 
+that the graph shown is 
+comprehensive (shows 
+all important features), 
+and that the graph agrees 
+with algebraic analysis of 
+the function, for example. 
+where the function 
+should be zero, postive, 
+negative, undefined, or 
+increasing/decreasing 
+without bound. 
+  
+YI=1(9-%2) 
+Ll 
+J 
+X=2.9787234 | ¥=2.8037849 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+X 
+Y1 
+16.668 
+18.258 
+2.9996 
+20413 
+29997 
+23157 
+29998 | 28.868 
+29999 | 40,825 
+ERROR 
+X=2.9994 
+Y1(2 
+99999; 
+129.0995525 
+Y1(2 
+999999% 
+408.2483245 
+Y1(2 
+9999999& 
+u 
+1290.994449 
+ 
+   
+Figure 1.17 GDC screens for 
+solution to Example 1.17 
+21
+
+  
+  
+  
+  
+  
+  
+  
+ 
+- 
+/ 
+(&E TR 
+124 
+ 
+  
+Figure 1.18 Diagram for 
+question 4 
+22 
+Algebra and function basics 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+A 
+bl 
+B 
+7 
+41 
+4] 
+o 
+24 
+4 29 
+% kx40 
+3 
+ax 
+Ix 
+= 
+“2] 
+—4 
+—4 
+—4 
+D. 
+P, 
+E. 
+D 
+E 
+P 
+i 
+4] 
+4] 
+’ 
+] 
+AN 
+-4 20 
+Tx 
+-4 2 
+3 
+dx 
+4 B O} 
+ix 
+-2 
+24 
+—2 
+—4 
+4 
+—4 
+G 
+P 
+H 
+B 
+L 
+p 
+4] 
+4 
+41 
+2 
+24 
+24 
+5 
+T 
+ix 
+s Hol 
+A4 
+ix 
+Te{ 
+0 
+1 
+ik 
+4] 
+2 
+i 
+J. 
+y 
+K. 
+. 
+i 
+> 
+\ 
+41 
+41 
+2 
+/,\ 
+24 
+4 20 
+N4x 
+-4 —\{i/k 
+ix 
+-4 20 
+1 
+ix 
+-2 
+> 
+-2 
+—4 
+—44 
+—44 
+ 
+Express the area, A, of a circle as a function of its circumference, C. 
+Express the area, A, of an equilateral triangle as a function of the length, 
+#, of each of its sides. 
+A rectangular swimming pool with dimensions 12 metres by 18 metres 
+is surrounded by a pavement of uniform width x metres. Find the area 
+of the pavement, A, as a function of x. 
+In a right-angled isosceles triangle, the two equal sides have length x 
+units and the hypotenuse has length & units. Write / as a function of x. 
+The pressure P (measured in kilopascals, kPa) for a particular sample of 
+gas is directly proportional to the temperature T (measured in degrees 
+kelvin, K) and inversely proportional to the volume V (measured in 
+litres, L). With k representing the constant of proportionality, this 
+relationship can be written in the form of the equation P = k%
+
+10. 
+10 
+(a) Find the constant of proportionality, k, if 150 L of gas exerts a 
+pressure of 23.5 kPa at a temperature of 375 K. 
+(b) Using the value of k from part (a) and assuming that the 
+temperature is held constant at 375 K, write the volume V' as a 
+function of pressure P for this sample of gas. 
+. In physics, Hooke's law states that the force F (measured in newtons, N) 
+needed to extend a spring by x units beyond its natural length is 
+directly proportional to the extension x. Assume that the constant of 
+proportionality is k (known as the spring constant for a particular spring). 
+(a) Write F as a function of x. 
+(b) A spring has a natural length of 12 cm and a force of 25 N 
+stretches 
+the spring to a length of 16 cm. Work out the spring constant k. 
+(c) What force is needed to stretch the spring to a length of 18 cm? 
+. Find the domain of each of the following functions. 
+&) (=62, =D (=15, =25 @7 0L (2,9 @& 
+(b) Surface area of a sphere: § = 4772 
+© f(x):éxﬂ 
+(AR 
+(&) g =V3—1 
+(f) h 
+= Vi 
+@) fix—   
+T 
+W foo = (L —1 
+A=0 
+. Do all linear equations represent a function? Explain. 
+= 
+Consider the function h(x) = v 
+4 
+(a) Find: 
+(i) h2D) 
+(ii) h(53) 
+(iii) h(4) 
+(b) Find the values of x for which h is undefined. 
+(c) 
+State the domain and range of h. 
+For each function below: 
+(i) 
+find the domain and range of the function 
+(ii) sketch a comprehensive graph of the function, clearly indicating any 
+intercepts or asymptotes. 
+Pl 
+e 
+  
+e 
+4 
+| 
+. 
+= 
+(a) f.x»—>x = 
+(b) gx) 
+e 
+(¢) hx) 
+@) pxs5-222 
+(o) foo=2—4 
+23
+
+‘The argument of a 
+function is the variable 
+or expression on which a 
+function operates. 
+For example, the 
+argument of flx) = x* 
+is x, the argument of 
+) =Vx—3isx—3, 
+and the argument of 
+y=10%is2x. 
+domain 
+rangeofh 
+ range 
+ofh 
+ domainofg 
+ofg 
+Figure 1.19 Mapping for 
+composite function g(h(x)) 
+‘The composition of two 
+functions, gand h, such 
+that & is applied first and 
+gsecond is given by 
+(g=h)x) = g(h(x)). 
+‘The domain of the 
+composite function ge h 
+is the set of all x in the 
+domain of / such that 
+() s in the domain of g. 
+24 
+Algebra and function basics 
+Composite functions 
+Composition of functions 
+Consider the function in Example 1.16, f(x) = Vx + 4. When we evaluate 
+f(x) for a certain value of x in the domain, for example, x = 5, it is necessary 
+to perform computations in two separate steps in a certain order. 
+f(5) =V5+4=f(5)=V9 
+Step 1: compute the sum of 5 + 4 
+=fi5)=3 
+Step 2: compute the square root of 9 
+Given that the function has two separate evaluation steps, f(x) can be seen as a 
+combination of two simpler functions that are performed in a specified order. 
+According to how f{x) is evaluated, the simpler function to be performed first is 
+the rule of adding 4 and the second is the rule of taking the square root. 
+If h(x) = x + 4 and g(x) = V/x, then we can create (compose) the function f{x) 
+from a combination of h(x) and g(x) as follows: 
+fix) = g(h(x) 
+=glx +4) 
+Step 1: substitute x + 4 for h(x) making x + 4 the argument of g(x) 
+=Vx+4 
+Step 2:apply the function g(x) on the argument x + 4 
+We obtain the rule Vx + 4 by first applying the rule x + 4 and then applying 
+the rule Vx. A function that is obtained from simpler functions by applying 
+one after another in this way is called a composite function. fx) = Vx + 4 is 
+the composition of h(x) = x + 4 followed by g(x) = Vx. In other words, fis 
+obtained by substituting & into g, and can be denoted in function notation by 
+g(h(x)) - read ‘g of 
+h of x” 
+  
+Start with a number x in the domain of 4 and find its image h(x). If this number 
+h(x) is in the domain of g, we then compute the value of g(h(x)). The resulting, 
+composite function is denoted as (g  h(x)). See Figure 1.19. 
+Example 1.18 
+If f(x) = 3x and g(x) = 2x — 6, find: 
+@) 
+(@) (fo0)(5) 
+(ii) Express (f° g)(x) as a single function 
+rule (expression). 
+(b) (i) (g=N(5) 
+(ii) Express (g f)(x) as a single function 
+rule (expression). 
+(©) () (g=05) 
+(ii) Express (g g)(x) as a single function 
+rule (expression).
+
+‘The notations (g« h)(x) 
+Solution 
+and g(h(x)) are both 
+ccommonly used to 
+i 
+° 
+- 
+= 
+.5—6)= 
+=3.4= 
+denote 
+a composite 
+@0 V) 
+=feB)=f2-5-6=f4)=3-4=12 
+s 
+(ii) (fo@)x) = flgx)) = flex — 6) = 3(2x — 6) = 6x — 18 
+i 
+i e 
+followed by applying g. 
+Therefore, (fo g)(x) = 6x — 18 
+Since you are reading 
+this from 
+left to right, 
+Check with 
+result from (i): (fe g)(5) = 6-5 — 18 = 30 — 18 = 12 
+e am;;ﬁ’: 
+functions in the incorrect 
+() () (g=NG)=g(f5) =g(3-5 =g(15)=2-15-6=24 
+""‘;" I‘;“’X"?TIP_‘““:, 
+read go h as ‘g following 
+(i) (gof)(x) = g(fix)) = g(3x) =2(3x) — 6 =6x— 6 
+to highlight 
+the order in 
+which the functions are 
+Therefore, (go f)(x) = 6x — 6 
+applied. Also, in either 
+notation, (g h)(x) or 
+Check with result from (i):(g > f)(5) = 65— 6 = 30 — 6 = 24 
+P 
+applied first s closest to 
+(c) () 
+(go9)(5)=gg5) =g(2-5—6)=g4)=2-4—6=2 
+the variable 
+x. 
+(ii) (gog)(x) =g(g(x)) = g(2x — 6) = 2(2x — 6) — 6 = 4x — 18 
+Therefore, (go g)(x) = 4x — 18 
+Check with result from (i): (go g)(5) =4-5—18 =20 — 18 =2 
+It is important to notice that in parts (a)(ii) and (b)(ii) in Example 1.18, f gis 
+not equal to g o f. At the start of this section, it was shown how the two functions 
+h(x) = x + 4 and g(x) = Vx could be combined into the composite function 
+(g° h)(x) to create the single function f{x) = 
+Vx + 4. However, the composite 
+function (h » g)(x) (the functions applied in reverse order) creates a different 
+function: (h » g)(x) = h(g(x)) = h(Vx) = Vx + 4. Since, Vx + 4 # Vx 
++ 4 then 
+feogisnotequal to go 
+f. Is it always true that 
+fo g # g  f? The next example will 
+answer that question. 
+Example 1.19 
+Given fix — 3x — 6 and g:x — %x + 2, find: 
+@ (fe9)t) 
+(b) (g2 
+E—————————————————————— 
+Solution 
+(@) (fe@x) 
+= flg(x) :j(%xwLZ):3(%x+2)*6:x+676:x 
+(b) (€N 
+= g(fx) :g(Sx*G):%(i’vx*G)JrZ:fo+2:x 
+Example 1.19 shows that it is possible for fo g to be equal to g o f. You will 
+learn in the next section that this occurs in some cases where there is a special 
+relationship between the pair of functions. However, in general fo g # go f. 
+25
+
+26 
+Algebra and function basics 
+Decomposing a composite function 
+In examples 1.18 and 1.19, we created a single function by forming the 
+composite of two functions. As with the function f(x) = Vx + 4, itis also 
+important for us to be able to identify two functions that make up a composite 
+function, in other words, to decompose a function into two simpler functions. 
+‘When we are doing this it is very useful to think of the function that is applied 
+first as the inside function, and the function that is applied second as the 
+outside function. In the function f(x) = Vx + 4, the inside function is 
+h(x) = x + 4 and the outside function is g(x) = Vx. 
+Example 1.20 
+Each of these functions is a composite function of the form (fe g)(x). 
+For each, find the two component functions fand g. 
+@ hix 
+—— 
+i 5 
+(b) k:x s 28+1 
+© p)=Vx"—4 
+L 
+Solution 
+(a) When we evaluate the function h(x) for a certain x in the domain, we 
+first evaluate the expression x + 3, and then evaluate the expression % 
+Hence, the inside function (applied first) is y = x + 3, and the outside 
+function (applied second) is y = . So the two component functions are 
+g(x):x+3andﬂx):% 
+(b) Evaluating k(x) requires us to first evaluate the expression 4x + 1, 
+and then evaluate the expression 2*. Hence, the inside function is 
+y = 4x + 1, and the outside function is y = 2*. The two composite 
+functions are g(x) = 4x + 
+1 and f(x) = 2~ 
+(c) Evaluating p(x) requires us to perform three separate evaluation steps: 
+squaring a number, subtracting four, and then taking the cube root. 
+Hence, it is possible to decompose p(x) into three component functions: 
+h(x) = x* g(x) = x — 4and f(x) = V/x. However, for our purposes it is 
+best to decompose the composite function into only two component 
+functions: g(x) = x> — 4, and f(x) = Vx. 
+Finding the domain of a composite function 
+It is important to note that in order for a value of x to be in the domain of 
+the composite function g o h, two conditions must be met: (1) x must be in 
+the domain of h, and (2) h(x) must be in the domain of g. Likewise, it is also 
+worth noting that g(h(x)) is in the range of g o h only if x is in the domain of 
+g e h. The next example illustrates these points - and also that, in general, the 
+domains of 
+go hand h o g are not the same.
+
+Let g(x) = x2 — 4 and h(x) = Vx. Find: 
+(a) (geh)(x) and its domain and range 
+(b) (h e g)(x) and its domain and range. 
+1 
+Solution 
+First, establish the domain and range for both g and h. For g(x) = x? — 4, the 
+domain is x € R and the range is y = —4. For h(x) = V/x, the domain is 
+x = 0 and the range is y = 0. 
+(@) (goh)(x) = g(h(x)) 
+=glVx) 
+To be in the domain of g = h, Vx must be 
+defined for x = 
+x =0 
+=(/x?) —4 
+Therefore, the domain of gehisx=0 
+=x—4 
+Since x = 0, then the range for 
+y=x—4isy=—4 
+Therefore, (g 
+h)(x) = x — 4, and its domain is 
+x=0,and its range is y = —4 
+(b) (heg)(x) = h(g(x)) 
+g(x) = x? — 4 must be in the domain of 
+h=x2—4=20=x2=4 
+= h(x*> —4) 
+Therefore, the domain of h o gis 
+x<—2orx=2and 
+=Vx2—4 
+withx< —2orx=2,the range for 
+y=Vx’—4isy=0 
+Therefore, (h o g)(x) = Vx* 
+— 4, and its domain 
+isx < —2orx=2,and its range 
+is y = 0 
+il 
+  
+1. 
+Letf(x) = 2xand g(x) = = 3,Jc==0 
+Find the value of: 
+(@) (fog)(5) 
+(®) (g=G) 
+Find the function rule (expression) for: 
+©) (feg)x) 
+(@) (g=Nx) 
+2. Letfix—2x—3andgixi—2 
+— 
+Evaluate: 
+(@) (fo£)(0) 
+(®) (g=(0) 
+(©) (fe)(4) 
+(d) (g°8)(=3) 
+(&) (fop)(=1) 
+) gN(=3) 
+Find the expression for: 
+(8) (feg)x) 
+M) N 
+@ (foNHlx) 
+G) (g8)x) 
+27
+
+28 
+Algebra and function basics 
+3. 
+For each pair of functions, find (fe g)(x) and (g« f)(x) and state the 
+domain for each. 
+@) flx)=4x—1,gx)=2+3x 
+(b) ix)=x>+1,g(x) 
+= — 
+(© fo) = xF L, g) 
+= 1 +x2 
+(d)ﬂx):ﬁ,g(x):x—l 
+  
+(e)ﬂx>:3x+5g<x):"’5 
+® fo) =2 - x5 g0) =T—= 
+® f0) =72 
+g 
+== 
+W) ) = 25— 3,00 = 25 =3 
+@) flo) 
+= m- g =x—1 
+4. 
+Letg(x) = Vx 
+— I and h(x) = 10 — x2 Find: 
+(a) (geh)(x) and its domain and range 
+(b) (h ° g)(x) and its domain and range. 
+5. 
+Letflx) = % and g(x) = 10 — x2 Find: 
+(a) (feg)(x)and its domain and range 
+(b) (g°f)(x) and its domain and range. 
+6. 
+Determine functions g and h so that flx) 
+= g(h(x)) 
+(@) flx) = (x +3) 
+() flx) =vx =5 
+(©) fl)=7—Vx 
+@ fi) =—— 
+() flx) = 105 
+® f)=Vx=9 
+(g) flx) = |x>— 9| 
+(h) fix) =   
+1 
+VXS] 
+7. 
+Find the domain for: 
+(i) the functionf 
+(ii) the functiong 
+(iii) the composite function fo g 
+@ f) = V%, g 
+= x>+ 
+1 
+() /) = 3,800 
+= x +3 
+3 
+(© flx)= 
+g =x+1 
+(d)ﬂx):2x+3,g(x):% 
+  
+Inverse functions 
+Pairs of inverse functions 
+If we choose a number and cube it (raise it to the power of 3), and then take 
+the cube root of the result, the answer is the original number. The same result 
+would occur if we applied the two rules in the reverse order. That is, first take 
+the cube root of a number and then cube the result; again, the answer is the 
+original number.
+
+Write each of these rules as a function with function notation. Write the cubing 
+function as f(x) = x 3, and the cube root function as gx) = Vx. Now, using what 
+we know about composite functions and operations with radicals and powers, 
+we can write what was described above in symbolic form. 
+Cube a number and then take the cube root of the result: 
+g(fe0) =V = () = 
+For example, g(f(—2)) = V=23 =V=8=-2 
+  
+x 
+Take the cube root of a number and then cube the result: 
+3 
+L 
+flgm) = (3/)?)3 =(x) =x1=x 
+For example, f(g(27)) = (27) = Gr=127 
+Because function g has this reverse (inverse) effect on function f, we call 
+function g the inverse of function f. Function f has the same inverse effect on 
+function g [¢(27) = 3 and then f(3) = 27|, making f the inverse function of . 
+The functions fand g are inverses of each other. The cubing and cube root 
+functions are an example of a pair of inverse functions. The mapping diagram 
+for functions fand g (Figure 1.20) illustrates the relationship for a pair of 
+inverse functions where the domain of one is the range for the other. 
+You should already be familiar with pairs of inverse operations. Addition 
+and subtraction are inverse operations. For example, the rule of adding six 
+(x + 6), and the rule of subtracting six (x — 6), undo each other. Accordingly, 
+the functions f(x) = x + 6 and g(x) = x — 6 are a pair of inverse functions. 
+Multiplication and division are also inverse operations. 
+1f fand g are two functions such that ( fo g)(x) = x for 
+domainof f 
+range of f 
+every x in the domain 
+of gand (g £)(x) = x for every x 
+in the domain of f, then the function 
+s the inverse of 
+the function £, The notation to indicate the function that 
+s theinverse of function fis f~. Therefore, (fo f~1)(0) = x 
+and (fLef)x) =x 
+‘The domain 
+of fmust be equal to the range 
+of f1, 
+T 
+= 
+and the range of fmust 
+be equal to the domain of /1, 
+Tange of ™' 
+f 
+domain of f 
+Remember that the notation ( £ g)(¥)is equivalent to f{g(x). It follows from the definition 
+that if gis the inverse of £, then it must also be true that fis the inverse of g 
+In general, the functions f(x) and g(x) are a pair of inverse functions if the 
+following two statements are true: 
+1 g(fix)) = x for all x in the domain of f 
+2 f(g(x)) = x for all x in the domain of g 
+Given h(x) = 
+and p(x) = 2x + 3, show that h and p are inverse functions. 
+  
+  
+fi=x 
+domainoff 
+ range of f 
+  
+  
+  
+  
+rangeofg 
+ domain ofg 
+‘kg(x) :2/24/ 
+Figure 1.20 A mapping 
+diagram for the cubing and 
+cube root functions 
+‘The composite of two 
+inverse functions is the 
+function that always 
+produces the same 
+number that was first 
+substituted into the 
+function. This function 
+is called the identity 
+function because it 
+assigns each number in 
+its domain to itself and is 
+denoted by I(x) = x. 
+Do not mistake the —1 
+in the notation f ! fora 
+power. It is not a power. 
+Ifa superscript of — 1 is 
+applied to the name of 
+afunction, asin f~! or 
+sin !, then it denotes 
+the function that is the 
+inverse of the named 
+function (e.g. for sin). 
+Ifa superscript of — 1 is 
+applied to an expression, 
+asin7~lor (2x+5)71, 
+then it is a power and 
+denotes the reciprocal of 
+the expression. 
+For a pair of inverse 
+functions, fand g, the 
+composite functions 
+fig) and g(fx) are 
+equal. Remember that 
+this s not generally true 
+for an arbitrary pair of 
+functions. 
+29
+
+A function is one-to-one 
+if each element y in the 
+range is the image of 
+exactly one element x in 
+the domain. 
+  
+  
+Figure 1.21 Graph of flx) 
+which is increasing as x goes 
+from —o0 to 0o 
+  
+x 
+30 
+  
+Algebra and function basics 
+Solution 
+Since the domain and range of both h(x) and p(x) is the set of all real numbers, then: 
+  
+  
+For any real number 
+x, p(h(x)) :p(x - 3) = Z(X = 3) LIS 
+2] 
+2 
+=x—3+3=x 
+For any real number x, h(p(x)) = h(2x + 3) = % = 22_" B 
+Since p(h(x)) = h(p(x)) = x then h and p are a pair of inverse functions. 
+It is clear that both fix) = x* and g(x) = Vx satisfy the definition of a function 
+because for both fand g every number in its domain determines exactly one 
+number in its range. Since they are a pair of inverse functions then the reverse 
+is also true for both; that is, every number in its range is determined by exactly 
+one number in its domain. Such a function is called a one-to-one function. 
+The phrase one-to-one is appropriate because each value in the domain 
+corresponds to exactly one value in the range, and each value in the range 
+corresponds to exactly one value in the domain. 
+The existence of an inverse func 
+  
+n 
+Determining whether a function is one-to-one is very useful because the inverse 
+of a one-to-one function will also be a function. Analysing the graph of a function 
+is the most effective way to determine if a function is one-to-one. Let’s look at the 
+graph of the one-to-one function f(x) = x* shown in Figure 1.21. It is clear that 
+as the values of x increase over the domain (from —o0 to o), the function values 
+are always increasing. A function that is always increasing, or always decreasing, 
+throughout its domain is one-to-one and has an inverse function. 
+A function that is not one-to-one (always increasing or always decreasing) can 
+be made so by restricting its domain. 
+The function f(x) = x? (Figure 1.22) is not one-to-one for all real numbers. 
+However, the function g(x) = x2 with domain x = 0 (Figure 1.23) is always 
+increasing (one-to-one), and the function h(x) = x2 with domain x < 0 
+(Figure 1.24) is always decreasing (one-to-one). 
+:    
+Figure 1.22 f() = 2* 
+Figure 1.23 g(v) = 
+%, x 
+  
+Figure 124 h(x) =, 
+x 
+<0
+
+A function for which at least one element y in the range is the image of more 
+than one element x in the domain is called a many-to-one function. Examples 
+of many-to-one functions that we have already encountered are y = x?, x € R 
+and 
+y = x|, x € R. As Figure 1.25 illustrates for y = |x|, a horizontal line exists 
+that intersects a many-to-one function at more than one point. Thus, the 
+inverse of a many-to-one function will not be a function. 
+y 
+ 
+   
+Figure 1.25 Graph of y = |xJ; an example of a many-to-one function 
+Finding the inverse of a 
+function 
+The function fis defined for x € R by fix) = 4x — 8 
+(a) Determine if fhas an inverse f~. If not, restrict the domain of fin order 
+to find an inverse function f~! 
+(b) Verify the result by showing that (fe f~!)(x) = xand (f' o f)(x) = x 
+(c) Graph fand its inverse function f~! on the same set of axes. 
+Solution 
+(a) Recognise that fis an increasing function for (—oc, 00) because the 
+graph of f(x) = 4x — 8 is a straight line with a constant slope of 4. 
+Therefore, f is a one-to-one function and it has an inverse f~! 
+(b) To find the equation for {1, start by switching the domain (x) and 
+range (y) since the domain of f becomes the range of f~* and the 
+range of f becomes the domain of f~, as stated in the definition. 
+Also, recall that y = f(x). 
+foo=4x—8 
+y=4x-8 
+write y = f(x) 
+POl 
+interchange x and y (switch the domain and range) 
+4y=x+8 
+solve for y (dependent variable) in terms of x 
+(independent variable) 
+Ifa function fis always 
+increasing or always 
+decreasing in its domain 
+(i.e. it is monotonic), 
+then fhas an inverse f 1. 
+No horizontal line can 
+pass through the graph of 
+a one-to-one function at 
+more than one point. 
+31
+
+= 
+T o 
+Ialco= ix +2 
+resulting equation is y = f~!(x) 
+Verify that fand f~! are inverses by showing that f{ f~!(x)) = x and 
+fH(fe) =x 
+I 
+1 
+4 
+() 
+_g= 
+frxr2)=4(3x+2) 
+—s=x+8-8=x 
+f*'(4x—s):i(u—s)nzx—zn:x 
+This confirms that y = 4x — 8 and 
+y= ix + 2 are inverses of each other. 
+Here is a graph of this pair of inverse 
+functions. 
+  
+The method of interchanging domain (x) and range (y) to find the inverse 
+function used in Example 1.23 also gives us a way for obtaining the graph of /! 
+from the graph of f. Given the reversing effect that a pair of inverse functions 
+have on each other, if fia) = b then f~(b) = a. Hence, if the ordered pair (a, b) 
+is a point on the graph of y = f(x), then the reversed ordered pair (b, a) must be 
+on the graph of y = f~!(x). Figure 1.26 shows that the point (b, a) can be found 
+by reflecting the point (a, b) about the line y = x. Therefore, the following 
+statement can be made about the graphs of a pair of inverse functions. 
+  
+Figure 1.26 The point (b, a) is 
+areflection about the line y = x 
+of the point (a, b) 
+Example 1.24 
+A D 
+T 
+(a) Determine if fhas an inverse f~!. If not, restrict the domain of fin order 
+to find an inverse function f~. 
+Y y=x 
+The function fis defined for x € R by fix —   
+(b) Graph fand its inverse f~! on the same set of axes. 
+  
+  
+  
+  
+ 
+  
+  
+Solution 
+Figure 1.27 Graphs of fand f ! 
+Plotl 
+Plotz 
+Plot3 
+are symmetric about the line 
+A graph of fproduced on a GDC reveals thatitis 
+|\Y1E (X2+3)/(X2 +1) 
+y=x 
+not monotonic over its domain (— oo, 0c). It is 
+The graph of {1 is a 
+increasing for (—0o , 0], and decreasing for 
+reflection of the graph of 
+[0, 00). Therefore, f does not have an inverse f~! 
+fabout the line y = x. 
+for x € R. It is customary to restrict the domain 
+to the ‘largest’ set possible. Hence, we can choose 
+to restrict the domain to either x € (—o0, 0] 
+32
+
+(making fan increasing function), or x € [0, c0) (making fa decreasing 
+function). Change the domain from x € R to x € [0, c0). 
+We use a method similar to that in Example 1.23 to find the equation for f~!. 
+First solve for x in terms of y and then interchange the domain (x) and range (y). 
+  
+  
+  
+x2+3 
+_x2+3 
+To find the inverse 
+of a 
+f:x»—>xl+l 
+y—12+1$x2y+y:xz+3$x2y*x1:3*y 
+function fi 
+3-y 
+3=y 
+1. Determine 
+if the 
+Sy—1)=3-yx2="Tox=+/"_2 
+function 
+is one-to- 
+Vil 
+V=l 
+one; if not, restrict the 
+domain so that it is. 
+2. Replace fix) with y. 
+3. Solve for xin terms 
+Since we chose to restrict the domain of f to 
+ofy. 
+x € [0, 00), the range of f~1 will be y € [0, 00). 
+e 
+Therefore, from the working above the resulting 
+6 The dovsinof falis 
+y 
+) 
+L. 
+= 
+al to the 
+range 
+of 
+f; 
+inverse function is f~!(x) = 
+iT)l( 
+. The graphs 
+::: the mg::fflﬁ 
+, 
+al to 
+the domai 
+of fand f~! show symmetry about the line y = x. 
+:?; il 
+  
+Consider the function fix — Vx +3,x= =3 
+(a) Determine the inverse function f~! 
+(b) Find the domain of f~! 
+] 
+Solution 
+(a) Following the steps for finding the inverse of a function gives: 
+y=Vx+3 
+replace f(x) with y 
+yi=x+3 
+solve for x in terms of y; squaring both sides 
+x=y2—3 
+solve for 
+x 
+y=x2=13 
+interchange x and y 
+Therefore, f': x+— x2 — 3 
+replace y with f~1(x) 
+(b) The domain explicitly defined for fis x = —3 and since the /'~ symbol 
+stands for the principal square root (positive), then the range of fis all 
+positive real numbers, i.e. y = 0. The domain of /! is equal to the range 
+of f, therefore the domain of f ! is x = 0. 
+Example 1.26 
+lEdx 
+  
+Consider the functions f(x) = 2(x + 4) and g(x) = 
+(a) Find g~! and state its domain and range. 
+(b) Solve the equation (fog~!)(x) = 2 
+33
+
+34 
+    
+Solution 
+replace f(x) with y 
+interchange x and y 
+solve for y 
+y=-3x+1 
+solved for 
+y 
+Therefore, g7 '(x) = —3x + 
+1 
+replace y with g~'(x) 
+gis alinear function and its domain is x € R and its range is y € R; 
+therefore, for g~! the domain is x € R and the range is y € R. 
+(b)i(felgal) ) =T(eat)i= fi(E3x=1) =2 
+2[(=3x+1D +4] =2 
+—6x+2+8=2 
+6= 
+S 
+n=2 
+3 
+In questions 1-4, assume that fis a one-to-one function. 
+1. 
+(a) Iff(2) = —5, then what is f~1(—5)? 
+(b) Iff~1(6) = 10, then what is f(10)? 
+2. 
+(a) If(—1) = 13, then what is f~'(13)? 
+(b) Iff~1(b) = a, then what is f(a)? 
+3. 
+Ifg(x) = 3x — 7, then what is g~(5)2 
+4. 
+Ifh(x) = x> — 8x, with x = 4, then what is h™(—12)? 
+5. 
+For each pair of functions, show algebraically and graphically that 
+fand g are inverse functions by: 
+(i) 
+verifying that (fe g)(x) = xand (g f)(x) = x 
+(ii) sketching the graphs of fand g on the same set of axes with equal 
+scales on the x-axis and y-axis. 
+Use your GDC to assist in making your sketches on paper. 
+@) fx—x+6 gx—x—6 
+(b) fix— 4x; gixi— % 
+(©) fxr—>3x+9; g:x»—»%xf 3 
+1 
+(d) f.x»—»%; gxo 2
+
+10. 
+(e) fixrx2—2,x=0; gix>Vx 
+T 2,5= 
+—2 
+Si=i 
+  
+(€) fixs5—7x gixio 
+i 
+S 
+(8 ﬁx’—’m; &X 
+xx 
+  
+(h) fix 
+(6 — 0% gxis 6—x5,x=0 
+() fxoxi—2+3,x>1 gxes 
+1 
++VX—2,x>2 
+  
+  
+  
+i) ﬁXHi/”+ 6 gxis2x3—6 
+. Find the inverse function f~! and state its domain. 
+@ fo =2¢ =3 
+®) for =*+7 
+_ 
+| 
+(©) foo =vx 
+(d) foo 
+T 
+(e) fly =4—x2,x=0 
+®) fexy=vx—=5 
+(g) foxy =ax+b,a=0 
+(h) fe =22+ 
+25, x= =1 
+. 
+=i 1 
+. 
+s 
+@) fix) 
+x2+1’X\0 
+() foy 
+=2+ 
+1 
+. Determine if fhas an inverse f~. If not, restrict the domain of fin order 
+to find an inverse function. Graph fand its inverse f ! on the same set 
+  
+  
+of axes. 
+o 
+@ foy =252 
+() foo =~ 22 
+© foo =25 
+@ foo =2~ x* 
+. Use your GDC to graph the function f(x) = 
+i ix 5»X € R.Find three 
+o 
+intervals for which fis a one-to-one function (monotonic) and hence, 
+will have an inverse f~! on the interval. The union of all three intervals is 
+all real numbers. 
+. Use the functions g(x) = x + 3 and h(x) = 2x — 4 to find the indicated 
+value or the indicated function. 
+@) (g7t 
+h )5 
+(b) (A1 eg ™)) 
+(© (g 'og )@ 
+(d) (o 
+h ™)) 
+(e) g7toh™! 
+(f) h7teg™! 
+(®) (goh)! 
+(h) (hog)! 
+The reciprocal function, f(x) = %, is its own inverse (self-inverse). Show 
+a 
+SRt 
+  
+that any function in the form f(x) = 
+— b, a # 0 is its own inverse. 
+5 
+35
+
+When analysing the 
+‘graph of 
+a function it 
+is often convenient to 
+express a function in the 
+form y = flx). As we 
+have done throughout 
+this chapter, we can refer 
+to a function such as 
+f(x) = x* by the equation 
+= 
+‘There are other 
+important basic 
+functions with which you 
+should be familiar, for 
+example, logarithmic and 
+exponential functions, 
+but you will learn about 
+these in later chapters. 
+36 
+Algebra and function basics 
+Transformations of functions 
+Even when you use your GDC to sketch the graph of a function, it is helpful to 
+know what to expect in terms of the location and shape of the graph - and even 
+more so, if you're not allowed to use your GDC for a particular question. In this 
+section, you will look at how certain changes to the equation of a function can 
+affect, or transform, the location and shape of its graph. You will investigate 
+three different types of transformations of functions that include how the graph 
+of a function can be translated, reflected and stretched (or shrunk). Studying 
+graphical transformations will help you to sketch and visualise many different 
+functions efficiently. You will also take a closer look at two specific functions: 
+the absolute value function, y = 
+||, and the reciprocal function, y = % 
+Graphs of common 
+functions 
+It is important to be familiar with the location and shape of a certain set of 
+common functions. For example, from our previous knowledge about linear 
+equations, we can determine the location of the linear function f(x) = ax + b. 
+‘We know that the graph of this function is a line whose slope is @ and whose 
+y-intercept is (0, b). 
+The eight graphs in Figure 1.28 represent some of the most commonly used 
+functions in algebra. You should be familiar with the characteristics of the 
+graphs of these common functions. This will help you predict and analyse the 
+graphs of more complicated functions that are derived from applying one or 
+more transformations to these simple functions. 
+ 
+  
+   
+ 
+fo=1x| 
+s % 
+(a) 
+Constant function 
+(b) Identity function 
+(c) Absolute value function 
+¥ 
+y 
+J) = 
+fw=» 
+; 
+x 
+0 
+x 
+(d) Squaring function 
+(¢) 
+Square root function 
+(f) Cubing function
+
+‘The word inverse can 
+have different meanings 
+in mathematics 
+depending on the 
+context. In section 1.4, 
+‘inverse’ is used to 
+describe operations or 
+functions that undo 
+each other. However, 
+‘inverse’ is sometimes 
+used to denote the 
+  
+(g) 
+Reciprocal function 
+(h) 
+Inverse square function 
+multiplicative inverse 
+(or reciprocal) of 
+Figure 1.28 Graphs of common functions 
+i s il 
+‘This is how it is 
+We will see that many functions have graphs that are a transformation 
+e 
+e hamen 
+  
+   
+(translation, reflection or stretch), or a combination of transformations, 
+for the functions g 
+of one of these common functions. 
+and Jishown above. 
+‘The function in gis 
+sometimes called the 
+reciprocal function. 
+Vertical and horizontal translations 
+Use your GDC to graph each of these functions: f(x) = x% g(x) = x* + 3 and 
+h(x) = x* — 2. How do the graphs of g and h compare with the graph of f? 
+The graphs of g and h appear to have the same shape - it’s only the location, 
+or position, that has changed compared to f. Although the curves (parabolas) 
+appear to be getting closer together, their vertical separation at every value of 
+X is constant. 
+Givenk > 0: 
+- The graph of 
+y=fx) +kis 
+obtained by translating 
+the graph of y = {x) up 
+by k units. 
+- The graph of 
+0 -1) 
+y=f) 
+— kis 
+obtained by translating 
+the graph of y = flx) 
+down by k units. 
+Figure 1.29 Translating f(x) = x* up 3 units. 
+Figure 1.30 Translating f(x) = x* down 2 units. 
+As Figures 1.29 and 1.30 show, we can obtain the graph of g(x) = x> + 3 by 
+translating (shifting) the graph of f(x) = x* up three units, and we can obtain 
+the graph of h(x) = x* — 2 by translating the graph of f(x) = x* down two units. 
+Change function g to g(x) = (x + 3)*and change function h to h(x) = (x — 2)%. 
+Graph these two functions along with the original function f(x) = x* on your 
+GDC. This time you can observe that the functions g and & can be obtained by 
+a horizontal translation of f. 
+37
+
+Given k > 0: 
+- The graph of 
+y=fix— h) is obtained 
+by translating the graph 
+of y = fix) hunits to 
+the right. 
++ "The graph of 
+y=flx+ h) s obtained 
+by translating the graph 
+of y = fix) hunits to 
+thelefi. 
+In Example 1.27, if the 
+transformations were 
+performed in reverse 
+order, that is, the vertical 
+translation followed by 
+the horizontal translation, 
+we would get the same 
+final graph (in part (b)) 
+with the same equation. 
+‘The order in which we 
+apply both a vertical and 
+horizontal translation 
+on a function does not 
+make any difference. 
+‘The translations are 
+commutative. However, 
+as we will see further 
+in the chapter, it can 
+‘make a difference how 
+other sequences of 
+transformations are 
+applied. In general, 
+transformations are not 
+commutative. 
+  
+Figure 1.33 Diagram for 
+Example 1.28 
+38 
+y=(c+3)    
+  
+Figure 1.31 Translating y = *left 3 units to 
+Figure 1.32 Translating y = x° right 3 units the 
+produce y = (x + 37 
+graph of to produce the graph of y = (x — 2)* 
+As Figures 1.31 and 1.32 show, we can obtain the graph of g(x) = (x + 3)* by 
+translating the graph of f{x) = x* three units to the left, and we can obtain the 
+graph of h(x) = (x — 2)* by translating the graph of f{x) = x* two units to the right. 
+Example 1 
+The diagrams show how the graph of y = Vx is transformed to the graph of 
+y = flx) in three steps. For each diagram, (a) and (b), give the equation of 
+the curve. 
+S =vx 
+(a) 
+(b) 
+  
+  
+Solution 
+To obtain the graph in (a), the graph of y = Vx is translated three units to the 
+right. To produce the equation of the translated graph, —3 is added inside 
+the argument of the function y = Vx. 
+Therefore, the equation of the curve graphed in (a) isy = Vx — 3 
+To obtain the graph in (b), the graph of y = vx — 3 is translated up one unit. 
+To produce the equation of the translated graph, +1 is added outside the 
+function. Therefore, the equation of the curve graphed in (b) is 
+=S 
+RITOL =N 
+s 
+Example 1.28 
+‘Write the equation of the absolute value function shown by Figure 1.33
+
+Solution 
+The graph shown is exactly the same shape as the graph of the equation 
+y = |x| but in a different position. Given that the vertex is (—2, —3), it is 
+clear that this graph can be obtained by translating y = |x| two units left 
+and then three units down. When we move y = |x| two units left we get the 
+graph of y = |x + 2|. Moving the graph of y = |x + 2| down three units 
+down gives us the graph of y = |x + 2| — 3. Therefore, the equation of the 
+graph shownisy = |x +2| — 3 
+‘We would get the same result if we applied the translations in the reverse order. 
+  
+ections 
+  
+Use your GDC to graph the two functions f(x) = x* and g(x) = —x°. The graph 
+‘The expression —x* is. 
+of g(x) = —x*is a reflection in the x-axis of f(x) = x*. This certainly makes 
+5 
+potentially ambiguous. 
+sense because g is formed by multiplying fby —1, causing the y-coordinate of 
+Itis accepted to be 
+each point on the graph of y = —x to be the negative of the y-coordinate of the 
+cquvalentip (i 
+e 
+not equivalent to (—x)’. 
+For example, if you enter 
+Figures 1.34 and 1.35 show that the graph of y = —f(x) is obtained by reflecting 
+:::;;s;fsé‘[o)ré it ;v . 
+the graph of 
+y = f(x) in the x-axis. 
+aresult of —9, not +9. 
+‘The expression —3*is 
+consistently interpreted 
+as 3*being multiplied by 
+—1.The same as —*is 
+interpreted as 1* being 
+multiplied by — 1. 
+point on the graph of y = x* that has the same x-coordinate. 
+  
+  
+Figure 1.34 Reflecting y = 22 in the x-axis 
+Figure 1.35 Reflecting y = f{x) in the x-axis 
+Graph flx) = Vx 
+— 2 and g(x) = V—x — 2. With fix) = ¥ and g(x) = —x%, 
+g was formed by multiplying the entire function f by —1. However, for 
+flx) =Vx =2 and g(x) = V=x 
+— 2, g is formed by multiplying the variable x 
+by —1. In this case, the graph of g(x) = V=x 
+— 2 is a reflection in the y-axis of 
+flx) = Vx 
+— 2. This makes sense if you recognise that the y-coordinate on the 
+graph of y = /=x will be the same as the y-coordinate on the graph of y = Vx 
+if the value substituted for x in y = /=x is the opposite of the x value in 
+   
+y = 
+Vx. For example, if x = 9 then y = y/9 = 3;and, if x = —9 then 
+y 
+—9) =9 = 3. Opposite values of x in the two functions produce 
+the same y-coordinate for each. 
+39
+
+‘The graph of y = —flx) 
+s obtained by reflecting 
+the graph of y = flx) in 
+the x-axis. 
+‘The graph 
+of y = fi—x) 
+s obtained by reflecting 
+the graph of y = fix) in 
+the y-axis. 
+40   
+(—a, f(a) 
+p<|- 
+4 (a, f(a) 
+  
+y=f=x 
+y=f& 
+b)) 
+e sisalonnnay 
+(b, f(b)) 
+Figure 1.36 Reflecting y = /x — 2 in the y-axis 
+Figure 1.37 Reflecting y = fx) in the y-axis 
+Figures 1.36 and 1.37 illustrate how the graph of y = f{—x) is obtained by 
+reflecting the graph of y = f(x) in the y-axis. 
+Example 1.29 
+  
+For g(x) = 2x* — 6x* + 3, find: 
+(a) the function h(x) that is the reflection of g(x) in the x-axis 
+(b) the function p(x) that is the reflection of g(x) in the y-axis. 
+  
+Solution 
+(a) Knowing that y = —f(x) is the reflection of y = f(x) in the x-axis, then 
+h(x) = —g(x) = —(2%* — 6x* + 3) = h(x) = —2x* + 6x> — 3 will be the 
+reflection of g(x) in the x-axis. We can verify the result on the GDC - 
+graphing the original equation y = 2x* — 6x* + 3 in bold style. 
+  
+TIotl Plow Flots 
+Tiot o ot 
+Y 
+"3-6X2+3 
+YIS 2X°3-6X2+3 
+~Yom -2% 
+7 3+6%X2-3 
+Y= 
+YYo= 
+Y= 
+Y= 
+Y= 
+(b) Knowing that y = f(—x) is the reflection of y = f(x) in the y-axis, 
+we need to substitute —x in for x in y = g(x). 
+Thus, p(x) = g(—x) = 2(=x)* — 6(—x)* + 3= p(x) = —2x° —6x + 3 
+will be the reflection of g(x) in the y-axis. Again, we can verify the 
+result on the GDC - graphing the original equation y = 2x* — 6x* + 3 
+in bold style. 
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  
+  
+Dloti_Plotz Plots 
+Fotl Plotz Plots 
+Y 
+~3-6X2+3 
+\Y1g 2X " 3-6X2+3 
+~Y2= 
+_2x73+6%2-3 
+   
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+
+-rigid transformations: stretching and shrinking 
+Horizontal and vertical translations, and reflections in the x- and y-axes are 
+called rigid transformations because the shape of the graph does not change - 
+only its position is changed. Non-rigid transformations cause the shape 
+of the original graph to change. The non-rigid transformations that you will 
+study cause the shape of a graph to stretch or shrink in either the vertical or 
+horizontal direction. 
+Vertical stretch or shrink 
+Graph the functions: f{x) = x2 g(x) = 3x*and h(x) = %xz How do the 
+graphs of gand h compare to the graph of f? Refer to figures 1.38 and 1.40. 
+Clearly, the shape of the graphs of g and / is not the same as the graph of f. 
+Multiplying the function fby a positive number greater than one, or less 
+than one, has distorted the shape of the graph. For a certain value of x, the 
+y-coordinate of y = 3x? is three times the y-coordinate of y = x*. Therefore, the 
+graph of y = 3x? can be obtained by vertically stretching the graph of y = x* by 
+a factor of 3 (scale factor 3). 
+Likewise, the graph of y = %xl can be obtained by vertically shrinking the 
+graph of y = x? by scale factor% 
+Figures 1.38 and 1.39 below show how multiplying a function by a positive 
+number, a, greater than 1 causes a transformation in which the function 
+stretches vertically by scale factor a. A point (x, y) on the graph of y = f(x) 
+is transformed to the point (x, ay) on the graph of y = af(x). 
+(% af(x)) 
+  
+Figure 1.38 Vertical stretch of y = x? by scale 
+ Figure 1.39 Vertical stretch of y = f{x) by scale factor a 
+factor 3 
+whena>1 
+41
+
+Ifa > 1, then the graph 
+ofy = aflx) is obtained 
+by vertically stretching 
+the graph of y = flx). 
+1f0 < a < 
+1, then the 
+graph of y = aflx) is 
+obtained by vertically 
+shrinking the graph of 
+y=f). 
+  
+  
+Plotl 
+Plot2 
+Plot3 
+YIS X2-4X 
+NY2E(X/2)2-4 (X/2) 
+\Y3= 
+Y= 
+\Ys= 
+~Ye= 
+  
+  
+Y1=X2-4X 
+  
+  
+  
+Y2=(X/2)2-4(X/2) 
+  
+  
+ 
+ 
+  
+  
+Figure 1.42 Graphs of 
+* — 4x (in bold) and 
+   
+42 
+Algebra and function basics 
+Figures 1.40 and 1.41 below show how multiplying a function by a positive 
+number, a, greater than 0 and less than 1 causes the function to shrink vertically 
+by scale factor a. A point (x, y) on the graph of y = f(x) is transformed to the 
+point (x, ay) on the graph of y = af(x). 
+(. fx)) 
+Figure 1.40 Vertical shrink of y = 2* by scale 
+Figure 1.41 Vertical shrink of y = flx) by scale 
+factor 
+factora, when 0 < a < 1 
+Horizontal stretch or shrink 
+‘We will now investigate how the graph of y = f{ax) is obtained from the 
+graph of y = f(x). Given f(x) = x* — 4x, find another function, g(x), such that 
+g(x) = fl2x). We substitute 2x for x in the function f, giving g(x) = (2x)* — 4(2x). 
+For the purposes of our investigation, leave g(x) in this form. On your GDC, 
+graph these two functions, flx) = x> — 4x and g(x) = (2x)* — 4(2x), using the 
+indicated viewing window and graphing fin bold style (Figure 1.42). 
+Comparing the graphs of the two equations, we can see that y = g(x) is not a 
+translation or a reflection of y = f{x). It is similar to the shrinking effect that 
+occurs for y = af(x) when 0 < a < 1, except, instead of a vertical shrinking, 
+the graph of 
+y = g(x) = f(2x) is obtained by horizontally shrinking the graph 
+of y = f(x). Given that it is a shrinking, the scale factor must be less than 1. 
+Consider the point (4,0) on the graph of y = f(x). The point on the graph of 
+y = g(x) = f(2x) with the same y-coordinate and on the same side of the 
+parabola is (2, 0). The x-coordinate of the point on y = f(2x) is the x-coordinate 
+of the point on y = f{x) multiplied by % Use your GDC to confirm this for other 
+pairs of corresponding points on 
+y = x* — 4x and 
+y = (2x)* — 4(2x) that have 
+the same y-coordinate. The graph of y = fi2x) can be obtained by horizontally 
+shrinking the graph of y = f(x) with scale factor % This makes sense because if 
+fl2x)) = (2x,)* — 4(2x,) and fix,) = x,* — 4x, are to produce the same y-value, 
+then 2x, = x,, and thus x, = %x‘. Figures 1.43 and 1.44 show how multiplying 
+the x variable of a function by a positive number, a, greater than 1, causes the 
+function to shrink horizontally by scale factor %. A point (x, y) on the graph of 
+y = flx) is transformed to the point (%x, y) on the graph of y = flax).
+
+(1,-4) 2, -4 
+  
+Figure 1.43 Horizontal shrink of y = x* — 4xby ~ 
+Figure 1.44 Horizontal shrink of y = f(x) by scale 
+1 
+1 
+scale factor 
+factor 1,4 > 
+1 
+If 0 < a < 1, then the graph of the function y = f(ax) is obtained by a horizontal 
+stretching - rather than a shrinking - of the graph of y = f(x) because the scale 
+factor % will be a value between 0 and 1 if 0 < a < 1. Now, letting a = % and, 
+again using the function f(x) = x* — 4x, find g(x), such that g(x) = f(%x) 
+Substitute % for x in f, giving g(x) = (%)2 — 4(%) On your GDC, graph the 
+functions f and g using the indicated viewing window with fin bold. 
+The graph of y = (%)z = 4(%) is a horizontal stretching of the graph of 
+y = x*— 4x by scale factor% = % = 2. For example, the point (4,0) on 
+y = f(x) 
+3 
+Ifa> 1, then the graph 
+. 
+of y = flax) is obtained 
+has been moved horizontally to the point (8,0) on y = g(x) = j(i) 
+by horizontally shrinking 
+the 
+graph of y = 
+flx). 
+Figures 1.45 and 1.46 below show how multiplying the x variable of a function 
+G| 
+1f0<a<1,thenthe 
+by a positive number, a, greater than 0 and less than 1, causes the function to 
+graph of y = flax) is 
+stretch horizontally by scale factor %A A point (x, ) on the graph of y = f(x) is 
+::::i;::;yh};:::::ﬂly 
+transformed to the point (%x, }/) on the graph of y = flax). 
+A 
+¥ 
+y = flax) 
+   
+   
+  
+o fx) 
+  
+G f) 
+0<a<l1 
+@4 (4-4 
+Figure 1.45 Horizontal stretch of y = x* — 4x by scale 
+Figure 1.46 Horizontal stretch of y = f{x) by scale factor % 
+factor 2 
+0<a<l1 
+43
+
+Example 1.30 
+The graph of y = f(x) is shown. Sketch the graph of each transformation. 
+  
+J 
+3 
+2 
+y=fx) 
+1 
+—9—8—7—6-5—4—3—] 
+12N34567839¢% 
+-2 
+-3 
+(@) y = 3fx) 
+() y= %ﬂx) 
+(© y=A3x) 
+@y :f(%x) 
+  
+Solution 
+(a) The graph of y = 3f(x) is obtained by vertically stretching the graph 
+of y = f(x) with scale factor 3. 
+o5 76545 
+%1 
+1 
+2\3 156780907 
+C 
+SN 
+(b) The graph of y = % -fx) is obtained by vertically shrinking the graph 
+of y = f(x) with scale factor % 
+=N 
+e 
+St e 
+TR 
+R 
+R 
+B 
+R 
+R 
+-2 
+-3   
+44
+
+(c) The graph of y = f(3x) is obtained by horizontally shrinking the graph 
+of y = f(x) with scale factor % 
+y 
+3 
+2 
+1 
+  
+BRI ¥ M 
+S 
+S 
+P 
+-2 
+-3 
+(d) The graph of y = f(%) x is obtained by horizontally stretching the graph 
+of y = f(x) with scale factor 3. 
+57 
+3 
+2 
+1 
+  
+  
+Describe the sequence of transformations performed on the graph of y = x 
+to obtain the graph of y = 4x* — 3 
+Solution 
+Step 1: Start with the graph of y = x* 
+Step 2: Vertically stretch y = x* by scale factor 4 
+Step 3: Vertically translate y = 4x* three units down 
+  
+Step 1 
+Step 2: 
+Step 3: 
+¥ 
+5 
+10 
+10 
+8 
+8 
+6 
+o 
+y=2\ 
+4 
+ot 
+2 
+-2 
+0 
+2 
+X 
+-2 
+0 
+2 
+X 
+R 
+-2 
+-2 
+-4 
+-4 
+  
+45
+
+Figure 1.47 Re 
+Y 
+0 
+S =1 
+ciprocal function 
+S =1x| 
+ 
+Figure 1.48 Absolute value 
+function 
+46 
+Algebra and function basics 
+Note that in Example 1.31, a vertical stretch followed by a vertical translation 
+does not produce the same graph if the two transformations are performed 
+in reverse order. A vertical translation followed by a vertical stretch would 
+generate the following sequence of equations: 
+Stepl: y = x* 
+Step2y=x'—3 
+Step3:y 
+= 4(x* — 3) =4x* — 12 
+This final equation is not the same as y = 4x* — 3 
+‘When combining two or more transformations, the order in which they 
+are performed can make a difference. In general, when a sequence of 
+transformations includes a vertical or horizontal stretch or shrink, or a 
+reflection through the x-axis, the order may make a difference. 
+Reciprocal and absolute value grapt 
+Two of the functions that appeared in the set of common functions at the 
+start of this section were the reciprocal function, flx) = l, and the absolute 
+X 
+value function. 
+‘We will now investigate how the graph of a given function, say g(x), compares 
+to that of a composite function f(g(x)), where the function f is either the 
+reciprocal function or the absolute value function. 
+Given that flx) = i g(x) = —2x + 4and h(x) = 2 + 2x — 3, sketch the 
+graphs of the composite functions f(g(x)) and f{h(x)). Discuss the 
+characteristics of the graphs of fo gand g 
+f. 
+——————————————————————— 
+Solution 
+_ 
+i 
+_ 
+1 
+ﬂg(x))*gmﬂ}'*m 
+learly 
+the 
+reciprocal 
+of 
+ClempiieresaEtey 
+horizontal 
+will be undefined wherever 
+asymptote 
+g(x) = 0, which means the 
+domain of —— will be 
+&) 
+{xixeR, x =2} 
+  
+Consequently, the graph 
+of —L will have a vertical 
+vertical 
+8(x) 
+asymptote x = 2 
+asymptote with equation x = 2
+
+The graph of g illustrates that as x approaches the value of 2 (x — 2) from the 
+left side, the value of g(x) is always positive but is converging to zero. 
+Therefore, as x — 2 from the left (or, x — 2°), the values of 21 become 
+X, 
+increasingly large in the positive direction. We can express this behaviour 
+symbolically by writing, as x — 27, g( 9 
+—— — 
++oo0. 
+Similarly, as x — 27, g% — —00. Also, the x-axis (y = 0) is a horizontal 
+X 
+asymptote for the graph of g% because as the value of g(x) becomes very 
+X, 
+large (either positive or negative), the value of % converges to zero; or, in 
+8x, 
+   
+     
+symbols, as x — *00, — 
+( ; —0, 
+Jih ) = 
+L 
+T Ty 
+(o) 
+S 
+e e i 
+= 
+1 
+(bzr DYtz = 1) 
+I 
+horizontal 
+)= xl B 
+s 
+Domain Ol‘mls 
+asymptote 
+y=0 
+{xxeR, x#—3,x=1} 
+\ 
+Since h(x) = 0 forx = —3 
+and x = 1 we anticipate that 
+the graph of its reciprocal, 
+ﬁ, will have vertical 
+asymptotes of x = —3and x = 1. 
+This is confirmed by the fact that as x — —3°, h( ; 
+e OO S R Ol 
+1 
+7oo;a.ndasx’~>1Lafoo*asx4’1 —— — +o00. 
+W 
+"h) 
+’ 
+h( ) 
+The graph of ﬁ will also have a horizontal asymptote of y = 0 (x-axis) 
+X, 
+because as x — *00, — 
+(X) 
+Given f(x) 
+= 
+|x| and using the same functions g and h from Example 1.32, 
+(a) graph the composite functions fo gand fo h 
+(b) graph the composite functions ge fand h o f 
+In general, the line 
+x = cisavertical 
+asymptote of the graph 
+of fif flx) — o 0r 
+fx) — —oasx 
+approaches c from cither 
+the left or from the 
+right. The line y = cis 
+a horizontal asymptote 
+of the graph of fif 
+flx) approaches c as 
+X— oo 0rx— —oo 
+47
+
+" 
+Solution 
+@) (fo @)@ =f—2x+4) = |-2x + 4] 
+o)l = [~2¢ + 4] 
+  
+(foM)(@) = fie +2x = 3) = 
+| + 2x — 3| 
+YA 
+h(x) =x +2x-3 
+[ = 
+| 
++ 2= 3] V    
+    
+  
+= |h(x)| = 
+  
+(b) (g Nx) = gllxl) = —2|x| + 4 
+g(x) = —2ld + 4 
+(hof)(x) = h(x]) = |« + 2]x| — 3 
+h(|x)) = x> + 2|x] - 3 
+Z    
+= |h(x)| = 
+x):x‘-f-ZXAB 
+  
+48
+
+From part (a) of Example 1.33, you can see the change that occurs from the 
+graph of a function to the graph of the absolute value of the function. Any 
+portion of the graph of g(x) or h(x) that was below the x-axis gets reflected 
+above the x-axis. 
+In part (b), you can see a change from the graph of a function to the graph of 
+the function of the absolute value. Any portion of the graph of g(x) or h(x) 
+that was left of the y-axis is eliminated, and any portion that was to the right of 
+d 
+Assume that a, rand k 
+are positive real numbers. 
+the y-axis is reflected to the left of the y-axis. Since the portion that was right of 
+the y-axis remains, the resulting graph is always symmetric about the y-axis. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+y=flx)+k 
+vertical translation k units up 
+y=flx)—k 
+vertical translation k units down 
+y=flx—h) 
+horizontal translation h units right 
+y=flx+h) 
+horizontal translation h units left 
+y=—flx) 
+reflection in the x-axis 
+y=fl—x) 
+reflection in the y-axis 
+y=aftx) 
+vertical stretch (a > 
+1) or shrink (0 < a < 1) 
+y=flax) 
+horizontal stretch (0 < a < 1) or shrink (a > 1) 
+¥ =] 
+portion of the graph of y = f{x) below x-axis is reflected above the x-axis 
+y=fx) 
+symmetric about the y-axis; portion right of the y-axis is reflected in the y-axis 
+ 
+ 
+ 
+  
+Table 1.4 Summary of transformations on the graphs of functions 
+@ 
+1. 
+Sketch the graph of f, without a GDC or plotting points, by using your 
+knowledge of some of the basic functions shown at the start of the 
+  
+Section 1.5. 
+@) fr— 2= 6 
+(b) fixrs 
+(x — 6) 
+© fixro|x| +4 
+@ fixro x+ 4] 
+(e) fix—5+Vx—2 
+(f)f:x»—vm 
+ST 
+TR 
+(8) fix 
+G+ 
++2 
+(h) fix 
+©—4 
+@) fx —jx—1]+6 
+G) fxoV=x¥3 
+(&) fixs 3Vx 
+W) foxr 
+%xz 
+2 
+(m)fix (3] 
+() fix 
+i () 
+49
+
+Algebra and function basics 
+2. 
+Write the equation for each graph. 
+(a) 
+7 
+(b) 
+6 
+  
+(d) 
+        
+I—asymptotes 
+  
+@ y=f =3 
+4’ 
+(b) y=flx—3) 
+. 
+©) y=2fx) 
+(d) y = fl2x) 
+(@ y=—fx) 
+I 
+) y=f—x) 
+13 
+(8) y=2fx) +4 
+4. 
+Specify a sequence of transformations to perform on the graph of y = x* 
+to obtain the graph of the given function. 
+@) gx—(x—3+5 
+() i =7 4R 2 
+© pixro2(x+ 47 
+@) fix—[Bx—DPF -6 
+50
+
+@ 
+5. 
+Without using your GDC, for each function f(x), sketch the graph of: 
+o 
+1 
+- 
+® 
+== 
+(i) | 
+fx) 
+(i) 
+f{]x]) 
+o 
+o) 
+A 
+Clearly label any intercepts or asymptotes. 
+@ flo) = 2x -4 
+() fix) = (x = 4)(x +2) 
+(0) flx) =+ 
+Chapter 1 practice questions 
+1. 
+The functions fand g are defined as fix — Vx — 3 and g:x — x2 + 2x. 
+The function (fe g)(x) is defined for all x € R, except for the interval 
+la,b[. 
+(a) Calculate the values of a and b 
+(b) Find the range of fo g 
+2. 
+Two functions g and h are defined as gix) = 2x — 7 and h(x) = 3(2 — x) 
+Find: 
+(a) g '(3) 
+(b) (= g)(6) 
+  
+3. 
+Consider the functions fix) = 5x — 2 and g(x) = 
+(a) Findg! 
+(b) Solve the equation (fo g~!)(x) = 8 
+4—x 
+3} 
+4. 
+The functions g and h are defined by g:x +— x — 3 and h:x — 2x 
+(a) Find an expression for (g 
+o h)(x) 
+(b) Show that g~!(14) + h~(14) = 24 
+5. 
+Use row operations to show that the following system of three linear 
+equations has an infinite number of solutions. 
+oo 
+yEi 3z 
+D) 
+3x+y+2z=-2 
+ooy e 
+e 
+6. 
+Use your GDC to solve the following system of three linear equations. 
+By Sttoz =3 
+2%+ 
+6y — 4z =20 
+4x—3y+5z=-5 
+51
+
+52 
+Algebra and function basics 
+7. 
+The diagram shows the graph of y = fix). 
+It has maximum and minimum points at 
+(0, 0) and (1, —1), respectively. 
+(a) Copy the diagram, and then add in 
+the graph of y = flx + 1) — % 
+(b) Find the coordinates of the minimum 
+  
+and maximum points of y = flx + 1) — — 
+= 
+The diagram shows parts of the graphs of y = x?and y = 7%(;: A= BPARS) 
+   
+  
+y=—ix+52+3 
+The graph of y = x2 may be transformed into the graph of 
+Y= 7%(): + 5)2 + 3 by these transformations: 
+A reflection in the line y = 0, followed by a vertical stretch with scale 
+factor k, followed by a horizontal translation of p units, followed by a 
+vertical translation of g units. 
+Write down the value of: 
+(a) k 
+() p 
+(©) q 
+The function fis defined by f(x) = 
+  
+(a) Without using a GDC, sketch the graph of f. 
+(b) Write down the equation of each vertical asymptote. 
+(c) Write down the range of the function f.
+
+@ 10. 
+117 
+12. 
+13 
+14. 
+Letg:x»—»%,x:t() 
+(a) Without using a GDC, sketch the graph of g. 
+The graph of g is transformed to the graph of h by a translation of 
+4 units to the left and 2 units down. 
+(b) Find an expression for the function h. 
+(c) 
+(i) 
+Find the x- and y-intercepts of h. 
+(ii) 
+Write down the equations of the asymptotes of h. 
+(iii) Sketch the graph of h. 
+Consider f(x) = Vx+3 
+(a) Find: 
+() f®) 
+(i) f46) 
+(i) f(—3) 
+(b) Find the values of x for which fis undefined. 
+(c) Letg:x— x2 — 5. Find (g o f)(x). 
+O] 
+  
+Let gix) = 
+and h(x) = x2 — 
+1 
+(a) Findg~1(—2) 
+(b) Find an expression for (g~ o h)(x) 
+(c) Solve(g~!eh)(x) =22 
+. Given the functions fix — 3x — 
+1 and g:x — %, find the following: 
+@ f 
+(®) fog 
+© (feg)! 
+d)gog 
+(a) The diagram shows part of the 
+graph of the function 
+hix) = 
+g 
+o =0 
+The curve passes through the 
+point A(—4, —8). 
+The vertical line MN is an 
+asymptote. 
+  
+Y 
+   
+Find the value of: 
+@) 
+a 
+(i) 
+b 
+4 
+====F-——- 
+s 
+a 
+=T 
+53
+
+54 
+Algebra and function basics 
+(b) The graph of h(x) is transformed 
+as shown in the diagram. 
+‘The point A is transformed to 
+A (—4,9). 
+Give a full geometric description 
+of the transformation. 
+   
+e 
+  
+Zemmockboooo 
+15. The graph of y = f(x) is shown in the diagram. 
+N 
+  
+1 2NN 
+L 
+o A S R 
+  
+(a) Make two copies of the coordinate system as shown in the diagram 
+but without the graph of y = f(x). On the first diagram sketch a 
+graph of y = 2f(x), and on the second diagram sketch a graph of 
+y=flc=4 
+(b) The point A(—3, 1) is on the graph of 
+y = f(x). The point A’ is 
+the corresponding point on the graph of y = —f(x) — 1. Find the 
+coordinates of A". 
+16. The diagram shows 
+the graph of y; = f(x). 
+The x-axis is a tangent 
+to f(x) atx = m and 
+f(x) crosses the x-axis 
+atx = n. 
+On the same diagram, 
+sketch the graph of 
+2 = f(x — k), where 
+0<k<n-—mand 
+indicate the coordinates of the points of intersection of y, with the x-axis. 
+ 
+
+17. Given functions f:x > x + 
+1 and g: x - x°, find the function (fog)' 
+  
+18. If f(x) = = i T for 
+x # —1 and 
+g (x) = (fe f)(x), find: 
+(@) g0 
+(®) (g°9@) 
+19. Let f:x 
+\% — 2.Find: 
+(a) the set of real values of x for which fis real and finite 
+(b) the range of 
+f. 
+20. The function f:x — ij 11 
+clearly stating its domain. 
+  , x € R, x # 1. Find the inverse functiun,f’l, 
+21. The one-to-one function fis defined on the domain x > 0 by 
+xSl 
+Lo 
+%E2) 
+(a) 
+State the range, A, of 
+f. 
+(b) Obtain an expression for f~'(x), for x € A. 
+22. The function fis defined by f: x — 2 
+Find an expression for g(x) in terms of 
+x in each of the following cases: 
+@) (fo@x)=x+1 
+b) (gof)x) =x+1 
+23. (a) Find the largest set S of values of 
+x such that the function 
+fe) = 
+     
+takes real values. 
+(b) Find the range of the function 
+f defined on the domain S. 
+il 
+24. Let fand g be two functions. Given that (fo g)(x) = 
+> 
+g(x) = 2x — 
+1, find f(x — 3). 
+and 
+ 
+
+56 
+Algebra and function basics 
+25. The diagram shows part of the graph of 
+y = f(x) that passes through the 
+points A, B, Cand D. 
+Sketch, indicating clearly the images of A, B, C and D, the graphs of 
+@ y=fle—9 
+b) y = f(=3x) 
+—-12 
+-10 
+-8 
+-6 
+-4 
+2 
+4 
+8 
+iy 
+s 
+ 
