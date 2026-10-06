@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Sample space and events</h3>
+<div class="formula-box" data-term="Sample space">A <b>trial</b> is a process with an uncertain result, and each possible result is an <b>outcome</b>. The <b>sample space</b> \(U\) is the set of all possible outcomes of a trial, and \(n(U)\) denotes the total number of outcomes in \(U\). An <b>event</b> \(A\) is any subset of the sample space, that is, a collection of outcomes we are interested in, and \(n(A)\) denotes the number of outcomes in \(A\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A fair six-sided die is rolled once. Let \(A\) be the event "the result is an even number". Write down the sample space \(U\) and the event \(A\), and state \(n(U)\) and \(n(A)\).<br>\[U = \{1,2,3,4,5,6\}, \qquad n(U) = 6\]\[A = \{2,4,6\}\]\[\boxed{n(A) = 3}\]</div>
+
+<h3>Theoretical probability</h3>
+<div class="formula-box" data-term="Probability of an event">If all outcomes in the sample space \(U\) are equally likely, the probability of an event \(A\) is<br>\[P(A) = \frac{n(A)}{n(U)}\]that is, the number of outcomes favourable to \(A\) divided by the total number of possible outcomes.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A card is drawn at random from a standard deck of 52 playing cards. Find the probability that the card is a heart.<br>There are 13 hearts in the deck, so \(n(A) = 13\) and \(n(U) = 52\).<br>\[P(A) = \frac{13}{52}\]\[\boxed{P(A) = \frac{1}{4}}\]</div>
+
+<h3>The axioms of probability</h3>
+<div class="formula-box" data-term="Probability axioms">For any event \(A\) in a sample space \(U\):<br>\[0 \le P(A) \le 1\]The probability of the whole sample space is 1, since some outcome must occur:<br>\[P(U) = 1\]The probability of the empty set (an impossible event) is 0:<br>\[P(\varnothing) = 0\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A fair six-sided die is rolled once. Verify that the probabilities of all six outcomes sum to 1, and state the probability of rolling a 7.<br>Each outcome has probability \(\frac{1}{6}\), and there are 6 outcomes:<br>\[6 \times \frac{1}{6} = 1\]Rolling a 7 is impossible on a standard die, so this event is the empty set.<br>\[\boxed{P(U) = 1, \qquad P(\text{rolling a }7) = 0}\]</div>
+
+<h3>Complementary events</h3>
+<div class="formula-box" data-term="Complementary events">The <b>complement</b> of an event \(A\), written \(A'\) (or "not \(A\)"), consists of all outcomes in \(U\) that are not in \(A\). Since \(A\) and \(A'\) together make up the whole sample space with no overlap:<br>\[P(A) + P(A') = 1, \qquad \text{so} \qquad P(A') = 1 - P(A)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A card is drawn at random from a standard deck of 52 cards. Given \(P(\text{heart}) = \frac{1}{4}\), find the probability that the card drawn is not a heart.<br>\[P(A') = 1 - P(A) = 1 - \frac{1}{4}\]\[\boxed{P(A') = \frac{3}{4}}\]Check: there are \(52 - 13 = 39\) non-heart cards, and \(\frac{39}{52} = \frac{3}{4}\), which agrees.</div>
+
+<h3>Representing events in a Venn diagram</h3>
+<div class="formula-box" data-term="Venn diagram">The sample space \(U\) can be drawn as a rectangle, with an event \(A\) shown as a circle inside it. The region inside the circle represents the outcomes in \(A\); the region inside the rectangle but outside the circle represents the complement \(A'\). The number of outcomes (or the probability) placed in each region must account for every outcome in \(U\) exactly once.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A bag contains 20 balls, of which 8 are red. Let \(R\) be the event "a red ball is drawn". Using a Venn diagram description, find \(P(R)\) and \(P(R')\), and check they are consistent.<br>Inside the circle for \(R\): 8 balls. Outside the circle, in \(U\) but not \(R\): \(20 - 8 = 12\) balls.<br>\[P(R) = \frac{8}{20} = 0.4, \qquad P(R') = \frac{12}{20} = 0.6\]\[\boxed{P(R) + P(R') = 0.4 + 0.6 = 1}\]</div>
+
+<h3>Relative frequency as an estimate of probability</h3>
+<div class="formula-box" data-term="Relative frequency">When outcomes are not equally likely, or the underlying probability is unknown, probability can be estimated by repeating a trial many times. The <b>relative frequency</b> of an event \(A\) after \(n\) trials, with \(A\) occurring \(f\) times, is<br>\[\text{relative frequency} = \frac{f}{n}\]As \(n\) becomes very large, the relative frequency approaches the true theoretical probability \(P(A)\) (the long-run behaviour of the trial).</div>
+<div class="callout example"><span class="c-label">Worked example</span>A coin is tossed 200 times, and 108 heads are observed. Use this experiment to estimate \(P(\text{heads})\), and compare with the theoretical probability for a fair coin.<br>\[\text{relative frequency} = \frac{108}{200} = 0.54\]The theoretical probability for a fair coin is \(P(\text{heads}) = 0.5\).<br>\[\boxed{\text{Estimate} = 0.54, \text{ close to but not exactly the theoretical value of } 0.5}\]</div>
+</div>
