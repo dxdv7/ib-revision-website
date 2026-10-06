@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Derivative of the exponential function e^x</h3>
+<div class="formula-box" data-term="Derivative of e^x">The exponential function \(f(x)=e^x\) has the remarkable property that it is its own derivative:<br>\[\frac{d}{dx}(e^x)=e^x\]This follows from the definition of \(e\) as the number for which \(\displaystyle\lim_{h\to0}\frac{e^h-1}{h}=1\), so that \(f'(x)=\displaystyle\lim_{h\to0}\frac{e^{x+h}-e^x}{h}=e^x\displaystyle\lim_{h\to0}\frac{e^h-1}{h}=e^x\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the gradient of the curve \(y=e^x\) at the point where \(x=0\), and at the point where \(x=2\) (to 3 s.f.).<br>\[\frac{dy}{dx}=e^x\]At \(x=0\): \(\dfrac{dy}{dx}=e^0=1\).<br>At \(x=2\): \(\dfrac{dy}{dx}=e^2\approx7.39\).<br>\[\boxed{\left.\frac{dy}{dx}\right|_{x=0}=1, \qquad \left.\frac{dy}{dx}\right|_{x=2}\approx7.39}\]</div>
+
+<h3>Derivative of e^g(x) via the chain rule</h3>
+<div class="formula-box" data-term="Chain rule with e^x">For a composite exponential function with inner function \(g(x)\):<br>\[\frac{d}{dx}\big[e^{g(x)}\big]=e^{g(x)}\cdot g'(x)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=e^{3x^2-x}\).<br>Here \(g(x)=3x^2-x\), so \(g'(x)=6x-1\).<br>\[\frac{dy}{dx}=e^{3x^2-x}(6x-1)\]\[\boxed{\frac{dy}{dx}=(6x-1)e^{3x^2-x}}\]</div>
+
+<h3>Derivative of the natural logarithm ln x</h3>
+<div class="formula-box" data-term="Derivative of ln x">For \(x>0\), the derivative of the natural logarithm function is:<br>\[\frac{d}{dx}(\ln x)=\frac{1}{x}\]This can be derived by writing \(y=\ln x\) as \(e^y=x\) and differentiating implicitly: \(e^y\dfrac{dy}{dx}=1\), so \(\dfrac{dy}{dx}=\dfrac{1}{e^y}=\dfrac{1}{x}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the gradient of \(y=\ln x\) at \(x=5\) (to 3 s.f.).<br>\[\frac{dy}{dx}=\frac{1}{x}\]At \(x=5\): \(\dfrac{dy}{dx}=\dfrac{1}{5}=0.2\).<br>\[\boxed{\left.\frac{dy}{dx}\right|_{x=5}=0.2}\]</div>
+
+<h3>Derivative of ln(g(x)) via the chain rule</h3>
+<div class="formula-box" data-term="Chain rule with ln x">For a composite logarithmic function with inner function \(g(x)\), where \(g(x)>0\):<br>\[\frac{d}{dx}\big[\ln(g(x))\big]=\frac{g'(x)}{g(x)}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=\ln(x^2+4x)\).<br>Here \(g(x)=x^2+4x\), so \(g'(x)=2x+4\).<br>\[\frac{dy}{dx}=\frac{2x+4}{x^2+4x}\]\[\boxed{\frac{dy}{dx}=\frac{2x+4}{x^2+4x}}\]</div>
+
+<h3>Derivative of a^x for a general base</h3>
+<div class="formula-box" data-term="Derivative of a^x">For a general base \(a>0\), \(a\neq1\), writing \(a^x=e^{x\ln a}\) and using the chain rule:<br>\[\frac{d}{dx}(a^x)=\frac{d}{dx}\big(e^{x\ln a}\big)=e^{x\ln a}\cdot\ln a=a^x\ln a\]So:<br>\[\frac{d}{dx}(a^x)=a^x\ln a\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=2^x\), and find the gradient at \(x=3\) (to 3 s.f.).<br>\[\frac{dy}{dx}=2^x\ln2\]At \(x=3\): \(\dfrac{dy}{dx}=2^3\ln2=8\ln2\approx5.55\).<br>\[\boxed{\frac{dy}{dx}=2^x\ln2, \qquad \left.\frac{dy}{dx}\right|_{x=3}\approx5.55}\]</div>
+
+<h3>Combining exponential and logarithmic derivatives with product and quotient rules</h3>
+<div class="formula-box" data-term="Product and quotient rules with e^x and ln x">When \(e^x\) or \(\ln x\) (or their chain-rule forms) appear as a factor in a product or quotient, differentiate using the product rule \(\dfrac{d}{dx}(uv)=u'v+uv'\) or the quotient rule \(\dfrac{d}{dx}\!\left(\dfrac{u}{v}\right)=\dfrac{u'v-uv'}{v^2}\), substituting the exponential or logarithmic derivative for whichever factor it is.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=x^2e^x\) and \(y=\dfrac{\ln x}{x}\).<br>For \(y=x^2e^x\): let \(u=x^2\), \(v=e^x\), so \(u'=2x\), \(v'=e^x\).<br>\[\frac{dy}{dx}=u'v+uv'=2xe^x+x^2e^x=x(2+x)e^x\]For \(y=\dfrac{\ln x}{x}\): let \(u=\ln x\), \(v=x\), so \(u'=\dfrac{1}{x}\), \(v'=1\).<br>\[\frac{dy}{dx}=\frac{u'v-uv'}{v^2}=\frac{\frac{1}{x}\cdot x-\ln x\cdot1}{x^2}=\frac{1-\ln x}{x^2}\]\[\boxed{\frac{d}{dx}(x^2e^x)=x(2+x)e^x, \qquad \frac{d}{dx}\left(\frac{\ln x}{x}\right)=\frac{1-\ln x}{x^2}}\]</div>
+</div>

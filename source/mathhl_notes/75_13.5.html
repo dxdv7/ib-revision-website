@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>What implicit differentiation is</h3>
+<div class="formula-box" data-term="Implicit differentiation">Some equations relating \(x\) and \(y\), such as \(x^2+y^2=25\), define \(y\) implicitly as a function (or functions) of \(x\) without being solved explicitly for \(y\). To find \(\dfrac{dy}{dx}\), differentiate both sides of the equation with respect to \(x\), treating \(y\) as a function of \(x\) and applying the chain rule to any term involving \(y\). In particular:<br>\[\frac{d}{dx}(y^n)=ny^{n-1}\frac{dy}{dx}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(x^2+y^2=25\) implicitly with respect to \(x\).<br>\[\frac{d}{dx}(x^2)+\frac{d}{dx}(y^2)=\frac{d}{dx}(25)\]\[2x+2y\frac{dy}{dx}=0\]\[\boxed{2x+2y\frac{dy}{dx}=0}\]</div>
+
+<h3>Solving for dy/dx</h3>
+<div class="formula-box" data-term="Solving for dy/dx">After differentiating both sides, collect the terms containing \(\dfrac{dy}{dx}\) on one side, factor it out, and divide to isolate \(\dfrac{dy}{dx}\) in terms of \(x\) and \(y\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Continuing from \(2x+2y\dfrac{dy}{dx}=0\), solve for \(\dfrac{dy}{dx}\).<br>\[2y\frac{dy}{dx}=-2x\]\[\boxed{\frac{dy}{dx}=-\frac{x}{y}}\]</div>
+
+<h3>Implicit differentiation with mixed terms</h3>
+<div class="formula-box" data-term="Product rule in implicit differentiation">When an equation contains a term with both \(x\) and \(y\) multiplied together, such as \(xy\), apply the product rule, remembering that \(\dfrac{d}{dx}(y)=\dfrac{dy}{dx}\):<br>\[\frac{d}{dx}(xy)=x\frac{dy}{dx}+y\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find \(\dfrac{dy}{dx}\) given \(x^2y+y^3=10\).<br>Differentiating term by term, using the product rule on \(x^2y\):<br>\[\left(2xy+x^2\frac{dy}{dx}\right)+3y^2\frac{dy}{dx}=0\]\[x^2\frac{dy}{dx}+3y^2\frac{dy}{dx}=-2xy\]\[\frac{dy}{dx}(x^2+3y^2)=-2xy\]\[\boxed{\frac{dy}{dx}=\frac{-2xy}{x^2+3y^2}}\]</div>
+
+<h3>Gradient of the tangent to an implicit curve at a point</h3>
+<div class="formula-box" data-term="Tangent gradient at a point">To find the gradient of the tangent to an implicitly defined curve at a specific point \((x_0,y_0)\) on the curve, find \(\dfrac{dy}{dx}\) by implicit differentiation, then substitute both coordinates \(x_0\) and \(y_0\) into the resulting expression.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the gradient of the tangent to \(x^2+y^2=25\) at the point \((3,4)\).<br>From above, \(\dfrac{dy}{dx}=-\dfrac{x}{y}\). Substituting \(x=3\), \(y=4\):<br>\[\boxed{\frac{dy}{dx}=-\frac{3}{4}}\]</div>
+
+<h3>Related rates: the chain rule linking rates of change</h3>
+<div class="formula-box" data-term="Related rates">When two or more quantities are related by an equation, and each changes with time \(t\), the rates of change are linked by differentiating the equation with respect to \(t\), using the chain rule. For example, if a quantity \(V\) depends on \(r\), which in turn depends on \(t\):<br>\[\frac{dV}{dt}=\frac{dV}{dr}\cdot\frac{dr}{dt}\]A typical approach: (1) write an equation relating the quantities, (2) differentiate both sides with respect to \(t\), (3) substitute the known values and known rate, (4) solve for the required rate.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A spherical balloon is inflated so that its volume increases at a constant rate of \(\dfrac{dV}{dt}=100\text{ cm}^3\text{s}^{-1}\). Find the rate at which the radius is increasing at the instant when \(r=5\text{ cm}\). (Volume of a sphere: \(V=\dfrac{4}{3}\pi r^3\).)<br>Differentiating \(V=\dfrac{4}{3}\pi r^3\) with respect to \(t\):<br>\[\frac{dV}{dt}=4\pi r^2\frac{dr}{dt}\]Substituting \(\dfrac{dV}{dt}=100\) and \(r=5\):<br>\[100=4\pi(5)^2\frac{dr}{dt}=100\pi\frac{dr}{dt}\]\[\boxed{\frac{dr}{dt}=\frac{1}{\pi}\approx0.318\text{ cm s}^{-1}}\]</div>
+
+<h3>A geometric related rates problem: the sliding ladder</h3>
+<div class="formula-box" data-term="Sliding ladder problem">A classic related rates setup: a ladder of fixed length \(L\) leans against a vertical wall, with its foot a horizontal distance \(x\) from the wall and its top a height \(y\) up the wall, so that \(x^2+y^2=L^2\) (Pythagoras) at every instant. Differentiating with respect to \(t\):<br>\[2x\frac{dx}{dt}+2y\frac{dy}{dt}=0 \quad\Rightarrow\quad x\frac{dx}{dt}+y\frac{dy}{dt}=0\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A \(5\text{ m}\) ladder leans against a vertical wall. The foot of the ladder is pulled away from the wall at a constant rate of \(\dfrac{dx}{dt}=0.6\text{ m s}^{-1}\). Find the rate at which the top of the ladder is sliding down the wall at the instant when the foot is \(3\text{ m}\) from the wall.<br>Since \(x^2+y^2=25\), when \(x=3\): \(y^2=25-9=16\), so \(y=4\).<br>From \(x\dfrac{dx}{dt}+y\dfrac{dy}{dt}=0\):<br>\[3(0.6)+4\frac{dy}{dt}=0\]\[4\frac{dy}{dt}=-1.8\]\[\boxed{\frac{dy}{dt}=-0.45\text{ m s}^{-1}\ \text{(the top is sliding down at }0.45\text{ m s}^{-1}\text{)}}\]</div>
+</div>
