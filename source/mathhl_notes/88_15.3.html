@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Continuous random variables and probability density functions</h3>
+<div class="formula-box" data-term="Probability density function">A continuous random variable \(X\) can take any value in an interval of the real line, so individual probabilities \(P(X=x)\) cannot be listed in a table. Instead, \(X\) is described by a probability density function (PDF) \(f(x)\) satisfying:<br>\[f(x) \geq 0 \text{ for all } x\]\[\int_{-\infty}^{\infty} f(x)\,dx = 1\]The total area under the curve \(y=f(x)\) is exactly 1.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Show that \(f(x) = 2x\) for \(0 \leq x \leq 1\) (and \(f(x)=0\) otherwise) is a valid probability density function.<br>For \(0 \leq x \leq 1\), \(2x \geq 0\), so the first condition holds. Checking the total area:<br>\[\int_0^1 2x\,dx = \left[x^2\right]_0^1 = 1 - 0\]\[\boxed{\int_0^1 2x\,dx = 1, \text{ so } f(x) \text{ is a valid PDF}}\]</div>
+
+<h3>Probability as the area under the PDF</h3>
+<div class="formula-box" data-term="Probability as area">For a continuous random variable \(X\) with PDF \(f(x)\), the probability that \(X\) lies between \(a\) and \(b\) is the area under \(f(x)\) between those values:<br>\[P(a \leq X \leq b) = \int_a^b f(x)\,dx\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using \(f(x) = 2x\) on \(0 \leq x \leq 1\) from above, find \(P(0.25 \leq X \leq 0.75)\).<br>\[P(0.25 \leq X \leq 0.75) = \int_{0.25}^{0.75} 2x\,dx = \left[x^2\right]_{0.25}^{0.75}\]\[= 0.75^2 - 0.25^2 = 0.5625 - 0.0625\]\[\boxed{P(0.25 \leq X \leq 0.75) = 0.5}\]</div>
+
+<h3>The probability of a single exact value is zero</h3>
+<div class="formula-box" data-term="P(X = x0) = 0">For a continuous random variable \(X\) and any single value \(x_0\), the probability that \(X\) equals exactly \(x_0\) is zero:<br>\[P(X = x_0) = \int_{x_0}^{x_0} f(x)\,dx = 0\]Consequently, for continuous distributions \(P(a \leq X \leq b) = P(a < X < b)\): including or excluding the endpoints makes no difference to the probability.</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(f(x) = 2x\) on \(0 \leq x \leq 1\), find \(P(X = 0.5)\), and explain why this does not mean \(X=0.5\) is impossible.<br>\[P(X=0.5) = \int_{0.5}^{0.5} 2x\,dx = \left[x^2\right]_{0.5}^{0.5} = 0.25 - 0.25\]\[\boxed{P(X=0.5) = 0, \text{ even though } X=0.5 \text{ remains a possible outcome}}\]</div>
+
+<h3>Finding an unknown constant in a PDF</h3>
+<div class="formula-box" data-term="Unknown constant in a PDF">An unknown constant \(k\) appearing in a PDF is found by requiring the total area under \(f(x)\) to equal 1:<br>\[\int_{-\infty}^{\infty} f(x)\,dx = 1\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>The function \(f(x) = kx^2\) for \(0 \leq x \leq 3\) (and \(0\) otherwise) is a PDF. Find the value of \(k\).<br>\[\int_0^3 kx^2\,dx = k\left[\frac{x^3}{3}\right]_0^3 = k\left(\frac{27}{3}\right) = 9k\]\[9k = 1\]\[\boxed{k = \tfrac19}\]</div>
+
+<h3>Finding the median of a continuous distribution</h3>
+<div class="formula-box" data-term="Median">The median \(m\) of a continuous random variable \(X\) with PDF \(f(x)\) is the value for which half the total area under the PDF lies to the left of it:<br>\[\int_{-\infty}^{m} f(x)\,dx = 0.5\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the median of \(X\) with PDF \(f(x) = 2x\) on \(0 \leq x \leq 1\).<br>\[\int_0^m 2x\,dx = m^2 = 0.5\]\[\boxed{m = \sqrt{0.5} = \tfrac{1}{\sqrt{2}} \approx 0.7071}\]</div>
+
+<h3>Worked example: a full PDF problem</h3>
+<div class="formula-box" data-term="Combined PDF problem">A complete PDF problem typically requires finding an unknown constant using the total-area condition, then using that PDF to compute a probability as an area and, if required, the median, in sequence.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A continuous random variable \(X\) has PDF \(f(x) = cx^2\) for \(0 \leq x \leq 2\) (and \(0\) otherwise). Find \(c\), then find \(P(1 \leq X \leq 2)\) and the median of \(X\).<br>First, find \(c\):<br>\[\int_0^2 cx^2\,dx = c\left[\frac{x^3}{3}\right]_0^2 = c\left(\frac{8}{3}\right) = 1 \implies c = \tfrac38\]Next, the probability:<br>\[P(1 \leq X \leq 2) = \int_1^2 \tfrac38 x^2\,dx = \tfrac18\left[x^3\right]_1^2 = \tfrac18(8-1) = \tfrac78\]Finally, the median \(m\):<br>\[\int_0^m \tfrac38 x^2\,dx = \tfrac18 m^3 = 0.5 \implies m^3 = 4\]\[\boxed{c = \tfrac38, \quad P(1 \leq X \leq 2) = \tfrac78 = 0.875, \quad m = \sqrt[3]{4} \approx 1.587}\]</div>
+</div>

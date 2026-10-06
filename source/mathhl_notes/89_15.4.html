@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>The normal distribution</h3>
+<div class="formula-box" data-term="Normal distribution">A continuous random variable \(X\) follows a normal distribution with mean \(\mu\) and variance \(\sigma^2\), written:<br>\[X \sim N(\mu, \sigma^2)\]Its probability density function is:<br>\[f(x) = \dfrac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}, \qquad x \in \mathbb{R}\]The graph of \(f\) is a symmetric, bell-shaped curve centred on \(x=\mu\), with the total area underneath equal to \(1\). The distribution is completely determined by the two parameters \(\mu\) and \(\sigma\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>The volume of liquid, \(X\) ml, dispensed by a filling machine into bottles is modelled by \(X \sim N(500, 16)\). State the mean and standard deviation of \(X\).<br>Here \(\mu = 500\) directly, and since the variance is \(\sigma^2 = 16\):<br>\[\sigma = \sqrt{16} = 4\]\[\boxed{\mu = 500 \text{ ml}, \qquad \sigma = 4 \text{ ml}}\]</div>
+
+<h3>Properties of the normal curve and the empirical rule</h3>
+<div class="formula-box" data-term="Empirical rule">For any \(X \sim N(\mu, \sigma^2)\):<br>- the curve is symmetric about \(x = \mu\), so mean = median = mode = \(\mu\);<br>- the curve is asymptotic to the \(x\)-axis as \(x \to \pm\infty\);<br>- approximately \(68\%\), \(95\%\), and \(99.7\%\) of the data lie within \(1\), \(2\), and \(3\) standard deviations of the mean respectively:<br>\[P(\mu-\sigma<X<\mu+\sigma)\approx 0.683\]\[P(\mu-2\sigma<X<\mu+2\sigma)\approx 0.954\]\[P(\mu-3\sigma<X<\mu+3\sigma)\approx 0.997\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>For the filling machine above, \(X \sim N(500, 16)\) with \(\mu = 500\) and \(\sigma = 4\). Use the empirical rule to find an interval containing approximately 95% of bottle volumes.<br>The middle 95% corresponds to \(\mu \pm 2\sigma\):<br>\[500 - 2(4) = 492, \qquad 500 + 2(4) = 508\]\[\boxed{\text{Approximately 95\% of bottles contain between 492 ml and 508 ml}}\]</div>
+
+<h3>The standard normal distribution</h3>
+<div class="formula-box" data-term="Standard normal distribution">The standard normal distribution is the special case with mean \(0\) and variance \(1\):<br>\[Z \sim N(0,1)\]Its curve has exactly the same bell shape and properties as any normal curve, but is symmetric about \(z=0\). By symmetry:<br>\[P(Z<-z) = P(Z>z), \qquad P(Z<0)=P(Z>0)=0.5\]Every normal distribution can be related back to this one standard curve through standardization, so a GDC (or a standard normal table) only ever needs to store probabilities for \(Z \sim N(0,1)\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given that \(P(Z<1.5) = 0.933\) (from a GDC), find \(P(Z>1.5)\) and \(P(Z<-1.5)\).<br>Since the total area is 1:<br>\[P(Z>1.5) = 1 - 0.933 = 0.067\]By symmetry of the standard normal curve about 0:<br>\[P(Z<-1.5) = P(Z>1.5)\]\[\boxed{P(Z>1.5) = 0.067, \qquad P(Z<-1.5) = 0.067}\]</div>
+
+<h3>Standardization</h3>
+<div class="formula-box" data-term="Standardization formula">Any normal variable \(X \sim N(\mu, \sigma^2)\) can be converted into a standard normal variable \(Z \sim N(0,1)\) using the standardization formula:<br>\[Z = \dfrac{X-\mu}{\sigma}\]The resulting value \(z\) (also called the \(z\)-score) measures how many standard deviations a value of \(X\) lies above or below the mean \(\mu\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(X \sim N(500, 16)\) (so \(\mu=500\), \(\sigma=4\)), find the \(z\)-score corresponding to \(x = 508\).<br>\[z = \dfrac{508-500}{4} = \dfrac{8}{4}\]\[\boxed{z = 2}\]</div>
+
+<h3>Finding P(X &lt; k) using standardization</h3>
+<div class="formula-box" data-term="Normal probability (one boundary)">To find \(P(X<k)\) for \(X \sim N(\mu,\sigma^2)\), standardize the boundary and use a GDC to evaluate the resulting standard normal probability:<br>\[P(X<k) = P\!\left(Z < \dfrac{k-\mu}{\sigma}\right)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(X \sim N(500, 16)\), find \(P(X<504)\).<br>Standardizing:<br>\[z = \dfrac{504-500}{4} = 1\]From a GDC, \(P(Z<1) = 0.841\):<br>\[\boxed{P(X<504) = 0.841}\]</div>
+
+<h3>Finding P(a &lt; X &lt; b)</h3>
+<div class="formula-box" data-term="Normal probability (interval)">The probability that \(X\) lies between two values \(a\) and \(b\) is the difference of two cumulative probabilities:<br>\[P(a<X<b) = P(X<b) - P(X<a)\]Equivalently, standardize both boundaries and subtract the corresponding standard normal probabilities.</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(X \sim N(500, 16)\), find \(P(496<X<508)\).<br>Standardizing both boundaries:<br>\[z_1 = \dfrac{496-500}{4} = -1, \qquad z_2 = \dfrac{508-500}{4} = 2\]From a GDC, \(P(Z<2) = 0.977\) and \(P(Z<-1) = 0.159\):<br>\[P(496<X<508) = 0.977 - 0.159\]\[\boxed{P(496<X<508) = 0.818}\]</div>
+</div>

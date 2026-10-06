@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>The binomial distribution</h3>
+<div class="formula-box" data-term="Binomial distribution">A random variable \(X\) follows a binomial distribution, written:<br>\[X \sim B(n,p)\]if it counts the number of successes in \(n\) independent trials, where each trial has exactly two possible outcomes (success or failure) and the same probability \(p\) of success. The conditions required are:<br>- a fixed number of trials, \(n\);<br>- the trials are independent of one another;<br>- each trial results in exactly one of two outcomes;<br>- the probability of success, \(p\), is constant across all trials.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A biased coin lands heads with probability \(0.3\) on each toss. It is tossed 6 times, and \(X\) is the number of heads obtained. Explain why \(X\) is binomial and state its distribution.<br>There are \(n=6\) fixed, independent tosses, each with exactly two outcomes (heads/tails), and a constant probability of success \(p=0.3\). All conditions for a binomial distribution are satisfied:<br>\[\boxed{X \sim B(6, 0.3)}\]</div>
+
+<h3>The probability mass function</h3>
+<div class="formula-box" data-term="Binomial PMF">For \(X \sim B(n,p)\), the probability of exactly \(r\) successes is:<br>\[P(X=r) = \binom{n}{r}p^r(1-p)^{n-r}, \qquad r=0,1,2,\dots,n\]where \(\displaystyle\binom{n}{r} = \dfrac{n!}{r!(n-r)!}\) counts the number of ways to choose which \(r\) of the \(n\) trials are successes, and each such arrangement has probability \(p^r(1-p)^{n-r}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(X \sim B(6, 0.3)\), find \(P(X=2)\).<br>\[P(X=2) = \binom{6}{2}(0.3)^2(0.7)^4\]\[\binom{6}{2} = 15, \qquad (0.3)^2 = 0.09, \qquad (0.7)^4 = 0.2401\]\[P(X=2) = 15 \times 0.09 \times 0.2401 = 0.324135\]\[\boxed{P(X=2) = 0.324 \text{ (3 s.f.)}}\]</div>
+
+<h3>Computing a binomial probability</h3>
+<div class="formula-box" data-term="Applying the PMF">The same formula \(P(X=r) = \binom{n}{r}p^r(1-p)^{n-r}\) applies for any valid \(n\), \(p\), and \(r\); a GDC's binomial probability function normally evaluates this directly once \(n\), \(p\), and \(r\) are entered.</div>
+<div class="callout example"><span class="c-label">Worked example</span>\(X \sim B(10, 0.4)\). Find \(P(X=4)\).<br>\[P(X=4) = \binom{10}{4}(0.4)^4(0.6)^6\]\[\binom{10}{4} = 210, \qquad (0.4)^4 = 0.0256, \qquad (0.6)^6 = 0.046656\]\[P(X=4) = 210 \times 0.0256 \times 0.046656 = 0.251 \text{ (3 s.f.)}\]\[\boxed{P(X=4) = 0.251}\]</div>
+
+<h3>Mean and variance of a binomial distribution</h3>
+<div class="formula-box" data-term="Mean and variance (binomial)">For \(X \sim B(n,p)\):<br>\[E(X) = np\]\[\text{Var}(X) = np(1-p)\]with standard deviation \(\sqrt{np(1-p)}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(X \sim B(6, 0.3)\), find \(E(X)\) and \(\text{Var}(X)\).<br>\[E(X) = 6 \times 0.3 = 1.8\]\[\text{Var}(X) = 6 \times 0.3 \times 0.7 = 1.26\]\[\boxed{E(X) = 1.8, \qquad \text{Var}(X) = 1.26}\]</div>
+
+<h3>Cumulative binomial probabilities</h3>
+<div class="formula-box" data-term="Cumulative binomial probability">The cumulative probability \(P(X\leq r)\) is the sum of the individual probabilities up to and including \(r\):<br>\[P(X\leq r) = \sum_{k=0}^{r}\binom{n}{k}p^k(1-p)^{n-k}\]A GDC's cumulative binomial function evaluates this sum directly, without needing each term written out.</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(X \sim B(6, 0.3)\), find \(P(X\leq 2)\).<br>\[P(X=0) = (0.7)^6 = 0.117649\]\[P(X=1) = \binom{6}{1}(0.3)(0.7)^5 = 6 \times 0.3 \times 0.16807 = 0.302526\]\[P(X=2) = 0.324135 \text{ (found earlier)}\]\[P(X\leq 2) = 0.117649+0.302526+0.324135 = 0.74431\]\[\boxed{P(X\leq 2) = 0.744 \text{ (3 s.f.)}}\]</div>
+
+<h3>The complement rule for binomial probabilities</h3>
+<div class="formula-box" data-term="Complement rule (binomial)">Since the total probability across all outcomes is 1, an "at least" probability can be found from its complement:<br>\[P(X\geq r) = 1-P(X\leq r-1)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(X \sim B(6, 0.3)\), find \(P(X\geq 3)\).<br>\[P(X\geq 3) = 1-P(X\leq 2) = 1-0.74431\]\[\boxed{P(X\geq 3) = 0.256 \text{ (3 s.f.)}}\]</div>
+</div>

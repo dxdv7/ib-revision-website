@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Linear transformation of the mean</h3>
+<div class="formula-box" data-term="Expected value of aX + b">If \(Y = aX + b\) is a linear transformation of a random variable \(X\), where \(a, b \in \mathbb{R}\), then:<br>\[E(Y) = E(aX+b) = aE(X) + b\]Multiplying every value of \(X\) by \(a\) and adding \(b\) has the same effect on the mean.</div>
+<div class="callout example"><span class="c-label">Worked example</span>A thermometer records temperatures \(C\) in degrees Celsius with \(E(C) = 20\). Temperatures are converted to Fahrenheit using \(F = 1.8C + 32\). Find \(E(F)\).<br>\[E(F) = 1.8E(C) + 32 = 1.8(20) + 32\]\[E(F) = 36 + 32\]\[\boxed{E(F) = 68}\]</div>
+
+<h3>Linear transformation of the variance</h3>
+<div class="formula-box" data-term="Variance of aX + b">If \(Y = aX + b\), then:<br>\[\text{Var}(Y) = \text{Var}(aX+b) = a^2\text{Var}(X)\]Adding the constant \(b\) only shifts the distribution and does not change its spread, so \(b\) does not appear in the variance; the standard deviation satisfies \(\sigma_Y = |a|\sigma_X\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Continuing the temperature example, with \(\text{Var}(C) = 25\), find \(\text{Var}(F)\) and the standard deviation of \(F\).<br>\[\text{Var}(F) = 1.8^2 \text{Var}(C) = 3.24(25)\]\[\text{Var}(F) = 81\]\[\boxed{\text{Var}(F) = 81, \quad \sigma_F = \sqrt{81} = 9}\]</div>
+
+<h3>Worked example: rescaling a game's payouts</h3>
+<div class="formula-box" data-term="Rescaling a random variable">When a random variable representing a payout is rescaled and shifted, \(Y=aX+b\), both its mean and variance transform according to the linear transformation rules above, allowing a new game or pricing scheme to be analysed without recomputing from the original distribution.</div>
+<div class="callout example"><span class="c-label">Worked example</span>In the die game from 15.1, the payout \(X\) had \(E(X) = 6\) and \(\text{Var}(X) = 52\). A new version of the game triples all payouts and then charges a €2 administration fee, so the net payout is \(Y = 3X - 2\). Find \(E(Y)\) and \(\text{Var}(Y)\).<br>\[E(Y) = 3E(X) - 2 = 3(6) - 2 = 16\]\[\text{Var}(Y) = 3^2 \text{Var}(X) = 9(52) = 468\]\[\boxed{E(Y) = 16, \quad \text{Var}(Y) = 468, \quad \sigma_Y = \sqrt{468} = 6\sqrt{13} \approx 21.63}\]</div>
+
+<h3>Expected value of a sum of two independent random variables</h3>
+<div class="formula-box" data-term="Sum of independent variables (mean)">If \(X\) and \(Y\) are two independent random variables, the expected value of their sum is the sum of their expected values:<br>\[E(X+Y) = E(X) + E(Y)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Two independent games are played once each. Game \(A\) has \(E(A) = 6\) (the die game from 15.1) and game \(B\) has \(E(B) = 4\). Let \(T = A + B\) be the total payout from playing both. Find \(E(T)\).<br>\[E(T) = E(A) + E(B) = 6 + 4\]\[\boxed{E(T) = 10}\]</div>
+
+<h3>Variance of a sum of two independent random variables</h3>
+<div class="formula-box" data-term="Sum of independent variables (variance)">If \(X\) and \(Y\) are independent, the variance of their sum is the sum of their variances:<br>\[\text{Var}(X+Y) = \text{Var}(X) + \text{Var}(Y)\]Independence is essential here: if \(X\) and \(Y\) were not independent, this addition rule for variance would not hold.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Continuing the two independent games, with \(\text{Var}(A) = 52\) and \(\text{Var}(B) = 9\), find \(\text{Var}(T)\) where \(T = A+B\).<br>\[\text{Var}(T) = \text{Var}(A) + \text{Var}(B) = 52 + 9\]\[\boxed{\text{Var}(T) = 61, \quad \sigma_T = \sqrt{61} \approx 7.81}\]</div>
+
+<h3>Worked example: combining a linear transformation with an independent sum</h3>
+<div class="formula-box" data-term="Combined linear transformation and sum">The rules for linear transformations and for sums of independent variables can be applied together: adding a fixed constant to a sum of independent random variables shifts the mean by that constant but leaves the variance unchanged, since \(\text{Var}(X+Y+c) = \text{Var}(X+Y)\) for any constant \(c\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Games \(A\) and \(B\) above are played together, and a fixed €15 venue charge is added, giving total cost \(T = A + B + 15\). Find \(E(T)\) and \(\text{Var}(T)\).<br>\[E(T) = E(A) + E(B) + 15 = 6 + 4 + 15 = 25\]\[\text{Var}(T) = \text{Var}(A) + \text{Var}(B) = 52 + 9 = 61\]\[\boxed{E(T) = 25, \quad \text{Var}(T) = 61}\]</div>
+</div>

@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Inverse normal calculations</h3>
+<div class="formula-box" data-term="Inverse normal">Standardization starts with a value of \(X\) and finds a probability. An inverse normal calculation works the other way: it starts with a probability (an area under the curve) and finds the corresponding boundary value. For \(X \sim N(\mu, \sigma^2)\), if:<br>\[P(X<x) = p\]then a GDC's inverse normal function first finds the standard \(z\)-value satisfying \(P(Z<z) = p\), and then converts back using:<br>\[x = \mu + z\sigma\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Given \(Z \sim N(0,1)\), find \(z\) such that \(P(Z<z) = 0.900\).<br>Using the inverse normal function on a GDC:<br>\[\boxed{z = 1.282}\]</div>
+
+<h3>Finding an unknown boundary value for X</h3>
+<div class="formula-box" data-term="Unstandardizing">Once the standard \(z\)-value for a given probability is found, the corresponding value of \(X \sim N(\mu,\sigma^2)\) is recovered by reversing the standardization formula:<br>\[x = \mu + z\sigma\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>A machine fills bags with a mass \(X \sim N(70, 25)\) (grams). Find the value \(x\) such that \(P(X<x) = 0.900\).<br>Here \(\mu=70\) and \(\sigma=\sqrt{25}=5\). From the previous result, the \(z\)-value for \(p=0.900\) is \(z=1.282\):<br>\[x = 70 + 1.282(5) = 70 + 6.41\]\[\boxed{x = 76.4 \text{ g (3 s.f.)}}\]</div>
+
+<h3>Upper-tail percentile problems</h3>
+<div class="formula-box" data-term="Upper tail to lower tail">If a problem gives an upper-tail probability \(P(X>x) = q\), rewrite it as a lower-tail probability before using the inverse normal function:<br>\[P(X<x) = 1-q\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Exam scores are modelled by \(X \sim N(65, 100)\). The top 5% of students receive a distinction. Find the minimum score needed for a distinction.<br>Here \(\mu=65\), \(\sigma=\sqrt{100}=10\). The top 5% means \(P(X>x) = 0.05\), so:<br>\[P(X<x) = 1 - 0.05 = 0.95\]From a GDC, the \(z\)-value for \(p=0.95\) is \(z = 1.645\):<br>\[x = 65 + 1.645(10) = 65+16.45\]\[\boxed{x = 81.5 \text{ (3 s.f.), so a minimum score of 82 is needed}}\]</div>
+
+<h3>Symmetric interval problems</h3>
+<div class="formula-box" data-term="Symmetric interval about the mean">For a symmetric interval \(P(\mu-k<X<\mu+k) = p\), the remaining probability \(1-p\) is split equally between the two tails, so each tail has area \(\dfrac{1-p}{2}\), and:<br>\[P\!\left(X<\mu+k\right) = \dfrac{1+p}{2}\]\[k = \sigma \times z, \quad \text{where } P(Z<z) = \dfrac{1+p}{2}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(X \sim N(50, 16)\), find \(k\) such that \(P(50-k<X<50+k) = 0.90\).<br>Here \(\sigma=4\). Each tail has area \(\dfrac{1-0.90}{2}=0.05\), so:<br>\[P(X<50+k) = 1-0.05 = 0.95\]From a GDC, the \(z\)-value for \(p=0.95\) is \(z=1.645\):<br>\[k = 1.645 \times 4 = 6.58\]\[\boxed{k = 6.58 \text{ (3 s.f.)}}\]</div>
+
+<h3>Finding an unknown standard deviation</h3>
+<div class="formula-box" data-term="Solving for sigma">If \(\mu\) is known but \(\sigma\) is unknown, a given probability for a specific value of \(X\) can be used to form an equation in \(\sigma\) via the standardization formula \(z = \dfrac{x-\mu}{\sigma}\), then solved for \(\sigma\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>\(X \sim N(100, \sigma^2)\) and it is known that \(P(X>115) = 0.10\). Find \(\sigma\).<br>\[P(X<115) = 1-0.10 = 0.90\]From a GDC, the \(z\)-value for \(p=0.90\) is \(z=1.282\). Using the standardization formula:<br>\[1.282 = \dfrac{115-100}{\sigma} = \dfrac{15}{\sigma}\]\[\sigma = \dfrac{15}{1.282}\]\[\boxed{\sigma = 11.7 \text{ (3 s.f.)}}\]</div>
+
+<h3>Finding an unknown mean</h3>
+<div class="formula-box" data-term="Solving for mu">If \(\sigma\) is known but \(\mu\) is unknown, the same strategy applies: find the required \(z\)-value from the given probability, then solve \(z = \dfrac{x-\mu}{\sigma}\) for \(\mu\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>\(X \sim N(\mu, 36)\) and it is known that \(P(X<40) = 0.25\). Find \(\mu\).<br>Here \(\sigma=6\). Since \(0.25\) is a lower-tail probability below \(0.5\), the corresponding \(z\)-value is negative. From a GDC, the \(z\)-value for \(p=0.25\) is \(z=-0.6745\):<br>\[-0.6745 = \dfrac{40-\mu}{6}\]\[40-\mu = -4.047\]\[\mu = 40+4.047\]\[\boxed{\mu = 44.0 \text{ (3 s.f.)}}\]</div>
+</div>
