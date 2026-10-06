@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Derivative of tan x</h3>
+<div class="formula-box" data-term="Derivative of tan x">Writing \(\tan x=\dfrac{\sin x}{\cos x}\) and applying the quotient rule, with \(u=\sin x\), \(v=\cos x\), \(u'=\cos x\), \(v'=-\sin x\):<br>\[\frac{d}{dx}(\tan x)=\frac{u'v-uv'}{v^2}=\frac{\cos x\cos x-\sin x(-\sin x)}{\cos^2 x}=\frac{\cos^2x+\sin^2x}{\cos^2x}\]Since \(\cos^2x+\sin^2x=1\), this simplifies to the standard result:<br>\[\frac{d}{dx}(\tan x)=\frac{1}{\cos^2x}=\sec^2 x\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=\tan x\) and evaluate the derivative at \(x=\dfrac{\pi}{4}\).<br>\[\frac{dy}{dx}=\sec^2x\]At \(x=\dfrac{\pi}{4}\), \(\cos\left(\dfrac{\pi}{4}\right)=\dfrac{1}{\sqrt2}\), so \(\sec\left(\dfrac{\pi}{4}\right)=\sqrt2\) and \(\sec^2\left(\dfrac{\pi}{4}\right)=2\).<br>\[\boxed{\frac{dy}{dx}=\sec^2x, \qquad \left.\frac{dy}{dx}\right|_{x=\pi/4}=2}\]</div>
+
+<h3>Derivative of tan(g(x)) via the chain rule</h3>
+<div class="formula-box" data-term="Chain rule with tan">For a composite \(\tan(g(x))\):<br>\[\frac{d}{dx}\big[\tan(g(x))\big]=\sec^2(g(x))\cdot g'(x)\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=\tan(3x)\).<br>Here \(g(x)=3x\), so \(g'(x)=3\).<br>\[\frac{dy}{dx}=\sec^2(3x)\times 3\]\[\boxed{\frac{dy}{dx}=3\sec^2(3x)}\]</div>
+
+<h3>Derivatives of the inverse trigonometric functions</h3>
+<div class="formula-box" data-term="Derivatives of arcsin, arccos, arctan">These are standard results, stated here for use (their derivation uses implicit differentiation, covered elsewhere):<br>\[\frac{d}{dx}(\arcsin x)=\frac{1}{\sqrt{1-x^2}}, \qquad \frac{d}{dx}(\arccos x)=\frac{-1}{\sqrt{1-x^2}}, \qquad \frac{d}{dx}(\arctan x)=\frac{1}{1+x^2}\]Note that \(\arcsin x\) and \(\arccos x\) have derivatives that are negatives of each other, since \(\arcsin x+\arccos x=\dfrac{\pi}{2}\) is constant. The derivative of \(\arcsin x\) and \(\arccos x\) is undefined at \(x=\pm1\), while \(\arctan x\) is differentiable for all real \(x\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the gradient of \(y=\arcsin x\) at \(x=0\), and the gradient of \(y=\arctan x\) at \(x=1\).<br>For \(y=\arcsin x\): \(\dfrac{dy}{dx}=\dfrac{1}{\sqrt{1-x^2}}\). At \(x=0\): \(\dfrac{1}{\sqrt{1-0}}=1\).<br>For \(y=\arctan x\): \(\dfrac{dy}{dx}=\dfrac{1}{1+x^2}\). At \(x=1\): \(\dfrac{1}{1+1}=\dfrac{1}{2}\).<br>\[\boxed{\left.\frac{dy}{dx}\right|_{\arcsin x,\,x=0}=1, \qquad \left.\frac{dy}{dx}\right|_{\arctan x,\,x=1}=\frac{1}{2}}\]</div>
+
+<h3>Combining inverse trig derivatives with the chain rule</h3>
+<div class="formula-box" data-term="Chain rule with inverse trig functions">For a composite inner function \(g(x)\):<br>\[\frac{d}{dx}\big[\arcsin(g(x))\big]=\frac{g'(x)}{\sqrt{1-[g(x)]^2}}, \qquad \frac{d}{dx}\big[\arccos(g(x))\big]=\frac{-g'(x)}{\sqrt{1-[g(x)]^2}}, \qquad \frac{d}{dx}\big[\arctan(g(x))\big]=\frac{g'(x)}{1+[g(x)]^2}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=\arctan(2x)\).<br>Here \(g(x)=2x\), so \(g'(x)=2\).<br>\[\frac{dy}{dx}=\frac{g'(x)}{1+[g(x)]^2}=\frac{2}{1+(2x)^2}\]\[\boxed{\frac{dy}{dx}=\frac{2}{1+4x^2}}\]</div>
+
+<h3>Products and quotients involving inverse trig functions</h3>
+<div class="formula-box" data-term="Combining rules with inverse trig functions">An inverse trig function can also appear as a factor in a product or quotient alongside other functions. In such cases, apply the product or quotient rule in the usual way, using the standard (or chain-rule-extended) derivative of the inverse trig function for whichever factor it is.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=x\arcsin x\).<br>Let \(u=x\) and \(v=\arcsin x\), so \(u'=1\) and \(v'=\dfrac{1}{\sqrt{1-x^2}}\).<br>\[\frac{dy}{dx}=u'v+uv'=\arcsin x+\frac{x}{\sqrt{1-x^2}}\]\[\boxed{\frac{dy}{dx}=\arcsin x+\frac{x}{\sqrt{1-x^2}}}\]</div>
+</div>

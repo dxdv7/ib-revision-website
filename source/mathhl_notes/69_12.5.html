@@ -1,0 +1,21 @@
+<div class="notes-section">
+<h3>Position, velocity, and acceleration</h3>
+<div class="formula-box" data-term="Kinematic functions">For an object moving along a straight line with position (displacement) \(s(t)\) at time \(t\):<br>\[v(t)=\frac{ds}{dt}=s'(t) \qquad \text{(velocity: rate of change of position)}\]\[a(t)=\frac{dv}{dt}=v'(t)=s''(t) \qquad \text{(acceleration: rate of change of velocity)}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>An object's displacement from the origin, in metres, after \(t\) seconds is \(s(t)=t^3-6t^2+9t\), for \(t\geq0\). Find \(v(t)\), \(a(t)\), and the velocity and acceleration at \(t=2\).<br>\[v(t)=3t^2-12t+9, \qquad a(t)=6t-12\]\[v(2)=3(4)-24+9=-3, \qquad a(2)=12-12=0\]<br>\[\boxed{v(2)=-3 \text{ m s}^{-1}, \qquad a(2)=0 \text{ m s}^{-2}}\]</div>
+
+<h3>Direction of motion and finding when an object is at rest</h3>
+<div class="formula-box" data-term="Sign of velocity">\[v(t)>0 \ \Rightarrow\ \text{moving in the positive direction}\]\[v(t)<0 \ \Rightarrow\ \text{moving in the negative direction}\]\[v(t)=0 \ \Rightarrow\ \text{object is instantaneously at rest}\]An object's times at rest are found by solving \(v(t)=0\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Using \(v(t)=3t^2-12t+9\) from above, find when the object is at rest and describe its direction of motion for \(t\geq0\).<br>\[v(t)=3(t^2-4t+3)=3(t-1)(t-3)=0 \ \Rightarrow\ t=1 \text{ or } t=3\]Testing each interval: \(v(0.5)=3(0.25)-6+9=3.75>0\); \(v(2)=12-24+9=-3<0\); \(v(4)=48-48+9=9>0\).<br>\[\boxed{\text{At rest at } t=1\text{s and } t=3\text{s; moving positively for } 0<t<1 \text{ and } t>3, \text{ negatively for } 1<t<3}\]</div>
+
+<h3>Speeding up and slowing down</h3>
+<div class="formula-box" data-term="Speeding up / slowing down">An object is speeding up when its velocity and acceleration have the same sign (its speed, \(|v(t)|\), is increasing), and slowing down when \(v(t)\) and \(a(t)\) have opposite signs (its speed is decreasing).</div>
+<div class="callout example"><span class="c-label">Worked example</span>For \(s(t)=t^3-6t^2+9t\), determine whether the object is speeding up or slowing down at \(t=0.5\) and at \(t=4\).<br>At \(t=0.5\): \(v(0.5)=3.75>0\) and \(a(0.5)=6(0.5)-12=-9<0\) — opposite signs.<br>At \(t=4\): \(v(4)=9>0\) and \(a(4)=6(4)-12=12>0\) — same sign.<br>\[\boxed{\text{Slowing down at } t=0.5\text{s} \ (v>0,\,a<0); \quad \text{speeding up at } t=4\text{s} \ (v>0,\,a>0)}\]</div>
+
+<h3>Maximum and minimum displacement</h3>
+<div class="formula-box" data-term="Extreme displacement">Since \(v(t)=s'(t)\), the critical points of the displacement function occur where \(v(t)=0\). Applying the first derivative test to \(s(t)\) — using the sign change of \(v(t)\) across each such time — classifies each as a local maximum or minimum displacement.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the local maximum and minimum displacement of the object with \(s(t)=t^3-6t^2+9t\), \(t\geq0\).<br>From above, \(v(t)=0\) at \(t=1\) and \(t=3\), with \(v\) changing from \(+\) to \(-\) at \(t=1\) and from \(-\) to \(+\) at \(t=3\).<br>\[s(1)=1-6+9=4, \qquad s(3)=27-54+27=0\]<br>\[\boxed{\text{Local maximum displacement } 4\text{ m at } t=1\text{s}; \text{ local minimum displacement } 0\text{ m at } t=3\text{s}}\]</div>
+
+<h3>Maximum and minimum velocity</h3>
+<div class="formula-box" data-term="Extreme velocity">The critical points of the velocity function occur where \(a(t)=v'(t)=0\), i.e. where \(s''(t)=0\). Classifying the sign change of \(a(t)\) across such a time (the first derivative test applied to \(v\)) identifies a local maximum or minimum velocity.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find any local extreme velocity of the object with \(v(t)=3t^2-12t+9\) for \(t\geq0\).<br>\[a(t)=6t-12=0 \ \Rightarrow\ t=2\]\[a(1)=6-12=-6<0, \qquad a(3)=18-12=6>0\]So \(a(t)\) changes from \(-\) to \(+\) at \(t=2\), meaning \(v(t)\) has a local minimum there.<br>\[v(2)=3(4)-24+9=-3\]<br>\[\boxed{\text{Local minimum velocity } -3\text{ m s}^{-1} \text{ at } t=2\text{s}}\]</div>
+</div>

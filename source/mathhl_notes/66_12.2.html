@@ -1,0 +1,22 @@
+<div class="notes-section">
+<h3>The derivative of a constant</h3>
+<div class="formula-box" data-term="Constant rule">The graph of \(y=c\), where \(c\) is a constant, is a horizontal line, which has gradient \(0\) everywhere. Hence:<br>\[\frac{d}{dx}(c) = 0\]This can also be confirmed from first principles: if \(f(x)=c\), then \(f(x+h)=c\) too, so the difference quotient is always zero.<br>\[f'(x) = \lim_{h \to 0} \frac{f(x+h)-f(x)}{h} = \lim_{h \to 0} \frac{c-c}{h} = \lim_{h \to 0} 0 = 0\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the derivative of \(f(x)=7\).<br>Since \(7\) is a constant, its graph is the horizontal line \(y=7\), which has zero gradient everywhere.<br>\[\boxed{f'(x) = 0}\]</div>
+
+<h3>The power rule</h3>
+<div class="formula-box" data-term="Power rule">For any real number \(n\):<br>\[\frac{d}{dx}(x^n) = nx^{n-1}\]This rule extends the first-principles results \(\frac{d}{dx}(x^2)=2x\) and \(\frac{d}{dx}(x^3)=3x^2\) found earlier, and also applies to negative and fractional powers.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(f(x)=x^5\) and \(g(x)=x^{-2}\).<br>Using the power rule with \(n=5\):<br>\[f'(x) = 5x^{5-1} = 5x^4\]Using the power rule with \(n=-2\):<br>\[g'(x) = -2x^{-2-1} = -2x^{-3}\]\[\boxed{f'(x)=5x^4, \ \ g'(x)=-2x^{-3}}\]</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(h(x)=\sqrt{x}\).<br>Rewrite as a power: \(h(x)=x^{\frac{1}{2}}\). Using the power rule with \(n=\frac{1}{2}\):<br>\[h'(x) = \tfrac{1}{2}x^{\frac{1}{2}-1} = \tfrac{1}{2}x^{-\frac{1}{2}}\]\[\boxed{h'(x) = \frac{1}{2\sqrt{x}}}\]</div>
+
+<h3>Differentiating a sum or difference of terms</h3>
+<div class="formula-box" data-term="Sum/difference rule">A function made up of a sum or difference of terms can be differentiated term by term:<br>\[\frac{d}{dx}\big(f(x) \pm g(x)\big) = f'(x) \pm g'(x)\]Combined with the power rule and the constant rule, this allows any polynomial to be differentiated directly, term by term, including multiplying through by any constant coefficient: \(\frac{d}{dx}\big(k \cdot x^n\big) = k \cdot nx^{n-1}\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(f(x) = 4x^3 - 5x^2 + 7x - 9\).<br>Differentiate term by term:<br>\[\frac{d}{dx}(4x^3) = 12x^2, \quad \frac{d}{dx}(-5x^2) = -10x, \quad \frac{d}{dx}(7x) = 7, \quad \frac{d}{dx}(-9) = 0\]\[\boxed{f'(x) = 12x^2 - 10x + 7}\]</div>
+
+<h3>Derivatives of sin x and cos x</h3>
+<div class="formula-box" data-term="Derivatives of sine and cosine">For \(x\) measured in radians, the derivatives of the sine and cosine functions are standard results:<br>\[\frac{d}{dx}(\sin x) = \cos x \qquad \qquad \frac{d}{dx}(\cos x) = -\sin x\]These results only hold when \(x\) is in radians; they are a direct consequence of the limit \(\lim_{h \to 0}\frac{\sin h}{h}=1\), applied to the first-principles definition of the derivative.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find the gradient of the tangent to \(y=\sin x\) at \(x=0\) and at \(x=\frac{\pi}{2}\).<br>Since \(\frac{dy}{dx}=\cos x\):<br>\[\left.\frac{dy}{dx}\right|_{x=0} = \cos 0 = 1, \qquad \left.\frac{dy}{dx}\right|_{x=\frac{\pi}{2}} = \cos\tfrac{\pi}{2} = 0\]\[\boxed{\text{gradient } =1 \text{ at } x=0; \text{ gradient } = 0 \text{ at } x=\tfrac{\pi}{2}}\]</div>
+
+<h3>Combining the rules on polynomial and trigonometric expressions</h3>
+<div class="formula-box" data-term="Combining derivative rules">The power rule, constant rule, sum/difference rule, and the derivatives of \(\sin x\) and \(\cos x\) can all be applied together, term by term, to differentiate expressions that mix polynomial and trigonometric terms.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y = 3x^2 - 2\cos x + 5\sin x - 1\).<br>Differentiate term by term:<br>\[\frac{d}{dx}(3x^2) = 6x, \quad \frac{d}{dx}(-2\cos x) = -2(-\sin x) = 2\sin x, \quad \frac{d}{dx}(5\sin x) = 5\cos x, \quad \frac{d}{dx}(-1)=0\]\[\boxed{\frac{dy}{dx} = 6x + 2\sin x + 5\cos x}\]</div>
+</div>

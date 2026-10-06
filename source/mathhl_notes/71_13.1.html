@@ -1,0 +1,25 @@
+<div class="notes-section">
+<h3>Composite functions and the need for a new rule</h3>
+<div class="formula-box" data-term="Composite function">A composite function is formed by applying one function to the output of another. If \(y=f(g(x))\), we call \(g\) the <b>inner function</b> and \(f\) the <b>outer function</b>. Functions such as \((3x+1)^5\), \(\sin(2x)\), or \(\sqrt{x^2+1}\) are all composites: a polynomial or trig expression (inner) sits inside a power, sine, or root (outer). The rules for differentiating polynomials, sine, and cosine on their own are not enough here — we need a rule that accounts for both the outer and inner functions acting together.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Identify the outer and inner functions for \(y=\sin(2x)\) and for \(y=(3x+1)^5\).<br>For \(y=\sin(2x)\): the outer function is "take the sine of", and the inner function is \(2x\).<br>For \(y=(3x+1)^5\): the outer function is "raise to the power 5", and the inner function is \(3x+1\).<br>\[\boxed{y=\sin(2x):\ \text{outer}=\sin(\cdot),\ \text{inner}=2x \qquad y=(3x+1)^5:\ \text{outer}=(\cdot)^5,\ \text{inner}=3x+1}\]</div>
+
+<h3>The chain rule (Leibniz notation)</h3>
+<div class="formula-box" data-term="Chain rule">If \(y\) is a function of \(u\), and \(u\) is a function of \(x\), then:<br>\[\frac{dy}{dx}=\frac{dy}{du}\cdot\frac{du}{dx}\]This is the chain rule. To differentiate a composite function, we differentiate the outer function with respect to the inner variable, then multiply by the derivative of the inner function with respect to \(x\).</div>
+<div class="callout example"><span class="c-label">Worked example</span>Find \(\dfrac{dy}{dx}\) for \(y=u^3\) where \(u=4x^2-1\).<br>\[\frac{dy}{du}=3u^2, \qquad \frac{du}{dx}=8x\]\[\frac{dy}{dx}=\frac{dy}{du}\cdot\frac{du}{dx}=3u^2\times 8x=24xu^2\]Substituting \(u=4x^2-1\):<br>\[\boxed{\frac{dy}{dx}=24x(4x^2-1)^2}\]</div>
+
+<h3>The chain rule (function notation)</h3>
+<div class="formula-box" data-term="Chain rule, function notation">For a composite function \(f(g(x))\):<br>\[\frac{d}{dx}\big[f(g(x))\big]=f'(g(x))\cdot g'(x)\]In words: differentiate the outer function, leaving the inner function unchanged inside it, then multiply by the derivative of the inner function.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=\sin(2x)\) using the chain rule in function notation.<br>Here the outer function is \(f(u)=\sin u\) with \(f'(u)=\cos u\), and the inner function is \(g(x)=2x\) with \(g'(x)=2\).<br>\[\frac{dy}{dx}=f'(g(x))\cdot g'(x)=\cos(2x)\times 2\]\[\boxed{\frac{dy}{dx}=2\cos(2x)}\]</div>
+
+<h3>The generalized power rule</h3>
+<div class="formula-box" data-term="Generalized power rule">Combining the chain rule with the ordinary power rule gives a direct shortcut for differentiating \([g(x)]^n\):<br>\[\frac{d}{dx}\big[g(x)\big]^n=n\big[g(x)\big]^{n-1}\cdot g'(x)\]This is one of the most frequently used applications of the chain rule: raise the inner function to one power lower, multiply by the original exponent, and multiply by the derivative of the inner function.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=(3x+1)^5\).<br>Here \(g(x)=3x+1\), so \(g'(x)=3\), and \(n=5\).<br>\[\frac{dy}{dx}=5(3x+1)^4\cdot 3\]\[\boxed{\frac{dy}{dx}=15(3x+1)^4}\]</div>
+
+<h3>Applying the chain rule to trigonometric composites</h3>
+<div class="formula-box" data-term="Chain rule with sine and cosine">For composites built from sine or cosine with a linear or polynomial inner function \(g(x)\):<br>\[\frac{d}{dx}\big[\sin(g(x))\big]=\cos(g(x))\cdot g'(x), \qquad \frac{d}{dx}\big[\cos(g(x))\big]=-\sin(g(x))\cdot g'(x)\]These follow directly from the chain rule using the known derivatives of \(\sin x\) and \(\cos x\) as building blocks.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=\cos(x^2+3x)\).<br>Here \(g(x)=x^2+3x\), so \(g'(x)=2x+3\).<br>\[\frac{dy}{dx}=-\sin(x^2+3x)\cdot(2x+3)\]\[\boxed{\frac{dy}{dx}=-(2x+3)\sin(x^2+3x)}\]</div>
+
+<h3>Checking the chain rule against expansion</h3>
+<div class="formula-box" data-term="Consistency check">For a composite that can also be expanded into a polynomial, such as \([g(x)]^n\) with \(g\) linear or quadratic and \(n\) small, the chain rule result should always agree with differentiating term by term after expanding. This provides a useful way to verify that the chain rule has been applied correctly.</div>
+<div class="callout example"><span class="c-label">Worked example</span>Differentiate \(y=(2x-1)^2\) both by expanding and by the chain rule, and confirm the results agree.<br>Expanding: \(y=4x^2-4x+1\), so \(\dfrac{dy}{dx}=8x-4\).<br>By the chain rule: \(g(x)=2x-1\), \(g'(x)=2\), \(n=2\), so \(\dfrac{dy}{dx}=2(2x-1)^1\cdot 2=4(2x-1)=8x-4\).<br>\[\boxed{\frac{dy}{dx}=8x-4 \text{ by both methods}}\]</div>
+</div>
