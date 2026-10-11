@@ -1,0 +1,200 @@
+{
+  "1": {
+    "code": "S1.1",
+    "name": "Introduction to the particulate nature of matter",
+    "start_pdf_page": 21,
+    "end_pdf_page": 42,
+    "pages": 22,
+    "chars": 46814,
+    "file": "source/chemhl_raw/01_S1.1.txt"
+  },
+  "2": {
+    "code": "S1.2",
+    "name": "The nuclear atom",
+    "start_pdf_page": 43,
+    "end_pdf_page": 64,
+    "pages": 22,
+    "chars": 42651,
+    "file": "source/chemhl_raw/02_S1.2.txt"
+  },
+  "3": {
+    "code": "S1.3",
+    "name": "Electron configurations",
+    "start_pdf_page": 65,
+    "end_pdf_page": 103,
+    "pages": 39,
+    "chars": 74881,
+    "file": "source/chemhl_raw/03_S1.3.txt"
+  },
+  "4": {
+    "code": "S1.4",
+    "name": "Counting particles by mass: The mole",
+    "start_pdf_page": 104,
+    "end_pdf_page": 135,
+    "pages": 32,
+    "chars": 63480,
+    "file": "source/chemhl_raw/04_S1.4.txt"
+  },
+  "5": {
+    "code": "S1.5",
+    "name": "Ideal gases",
+    "start_pdf_page": 136,
+    "end_pdf_page": 164,
+    "pages": 29,
+    "chars": 49251,
+    "file": "source/chemhl_raw/05_S1.5.txt"
+  },
+  "6": {
+    "code": "S2.1",
+    "name": "The ionic model",
+    "start_pdf_page": 165,
+    "end_pdf_page": 190,
+    "pages": 26,
+    "chars": 53767,
+    "file": "source/chemhl_raw/06_S2.1.txt"
+  },
+  "7": {
+    "code": "S2.2",
+    "name": "The covalent model",
+    "start_pdf_page": 191,
+    "end_pdf_page": 270,
+    "pages": 80,
+    "chars": 160105,
+    "file": "source/chemhl_raw/07_S2.2.txt"
+  },
+  "8": {
+    "code": "S2.3",
+    "name": "The metallic model",
+    "start_pdf_page": 271,
+    "end_pdf_page": 280,
+    "pages": 10,
+    "chars": 19690,
+    "file": "source/chemhl_raw/08_S2.3.txt"
+  },
+  "9": {
+    "code": "S2.4",
+    "name": "From models to materials",
+    "start_pdf_page": 281,
+    "end_pdf_page": 307,
+    "pages": 27,
+    "chars": 50945,
+    "file": "source/chemhl_raw/09_S2.4.txt"
+  },
+  "10": {
+    "code": "S3.1",
+    "name": "The periodic table: Classification of elements",
+    "start_pdf_page": 308,
+    "end_pdf_page": 358,
+    "pages": 51,
+    "chars": 100266,
+    "file": "source/chemhl_raw/10_S3.1.txt"
+  },
+  "11": {
+    "code": "S3.2",
+    "name": "Functional groups: Classification of organic compounds",
+    "start_pdf_page": 359,
+    "end_pdf_page": 442,
+    "pages": 84,
+    "chars": 152065,
+    "file": "source/chemhl_raw/11_S3.2.txt"
+  },
+  "12": {
+    "code": "R1.1",
+    "name": "Measuring enthalpy changes",
+    "start_pdf_page": 443,
+    "end_pdf_page": 471,
+    "pages": 29,
+    "chars": 52219,
+    "file": "source/chemhl_raw/12_R1.1.txt"
+  },
+  "13": {
+    "code": "R1.2",
+    "name": "Energy cycles in reactions",
+    "start_pdf_page": 472,
+    "end_pdf_page": 503,
+    "pages": 32,
+    "chars": 54630,
+    "file": "source/chemhl_raw/13_R1.2.txt"
+  },
+  "14": {
+    "code": "R1.3",
+    "name": "Energy from fuels",
+    "start_pdf_page": 504,
+    "end_pdf_page": 536,
+    "pages": 33,
+    "chars": 62228,
+    "file": "source/chemhl_raw/14_R1.3.txt"
+  },
+  "15": {
+    "code": "R1.4",
+    "name": "Entropy and spontaneity",
+    "start_pdf_page": 537,
+    "end_pdf_page": 567,
+    "pages": 31,
+    "chars": 51801,
+    "file": "source/chemhl_raw/15_R1.4.txt"
+  },
+  "16": {
+    "code": "R2.1",
+    "name": "How much? The amount of chemical change",
+    "start_pdf_page": 568,
+    "end_pdf_page": 593,
+    "pages": 26,
+    "chars": 58432,
+    "file": "source/chemhl_raw/16_R2.1.txt"
+  },
+  "17": {
+    "code": "R2.2",
+    "name": "How fast? The rate of chemical change",
+    "start_pdf_page": 594,
+    "end_pdf_page": 646,
+    "pages": 53,
+    "chars": 111150,
+    "file": "source/chemhl_raw/17_R2.2.txt"
+  },
+  "18": {
+    "code": "R2.3",
+    "name": "How far? The extent of chemical change",
+    "start_pdf_page": 647,
+    "end_pdf_page": 690,
+    "pages": 44,
+    "chars": 101595,
+    "file": "source/chemhl_raw/18_R2.3.txt"
+  },
+  "19": {
+    "code": "R3.1",
+    "name": "Proton transfer reactions",
+    "start_pdf_page": 691,
+    "end_pdf_page": 759,
+    "pages": 69,
+    "chars": 144897,
+    "file": "source/chemhl_raw/19_R3.1.txt"
+  },
+  "20": {
+    "code": "R3.2",
+    "name": "Electron transfer reactions",
+    "start_pdf_page": 760,
+    "end_pdf_page": 840,
+    "pages": 81,
+    "chars": 157777,
+    "file": "source/chemhl_raw/20_R3.2.txt"
+  },
+  "21": {
+    "code": "R3.3",
+    "name": "Electron sharing reactions",
+    "start_pdf_page": 841,
+    "end_pdf_page": 852,
+    "pages": 12,
+    "chars": 27843,
+    "file": "source/chemhl_raw/21_R3.3.txt"
+  },
+  "22": {
+    "code": "R3.4",
+    "name": "Electron-pair sharing reactions",
+    "start_pdf_page": 853,
+    "end_pdf_page": 897,
+    "pages": 45,
+    "chars": 89656,
+    "file": "source/chemhl_raw/22_R3.4.txt"
+  }
+}

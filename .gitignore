@@ -12,3 +12,10 @@ Codex Image*.png
 IB HOMEPAGE*.png
 IB HOMEPAGE*.jpg
 IMG_*.jpg
+
+# OCR working artifacts from building Chemistry HL (source PDF was a pure
+# image scan with no text layer) -- intermediate per-page OCR dumps and
+# scratch PNGs used only to produce source/chemhl_raw/*.txt, not needed
+# once that per-sub-topic extraction exists.
+.ocr_scratch/
+source/chemhl_raw_pages/

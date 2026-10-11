@@ -1,0 +1,2063 @@
+Energy cycles in reactions
+
+is
+=
+&
+:
+
+
+
+REACTIVITY T 2
+
+=
+©
+
+@ A chemical reaction involves the breaking and making of bonds. 300-500 k) of heat are
+typically needed to break one mole of covalent bonds. This image shows a change in
+the bond between the atoms represented by the yellow (on the left) and the dark blue
+(in the centre).
+
+How does application of the law of conservation of energy help us to predict
+energy changes during reactions?
+
+Energy changes occur during chemical reactions as bonds are broken and new
+
+bonds are formed. Energy is needed to separate particles held together by chemical
+bonds, and energy is released when the same particles come together in a different
+arrangement with new bonds. The net enthalpy change is the difference between the
+two energy contributions of bond-breaking and making. The reaction is exothermic
+overall when bond formation releases more energy than is needed for bond-breaking.
+
+The law of conservation of energy tells us that the total energy of the universe is
+constant and cannot be changed. The energy can be converted from one form to
+another, but no process can change its amount. This law imposes restrictions on
+energy changes when a chemical change can occur via different routes.
+
+Consider the energy cycle below (Figure 1) in which A can be converted to C either
+directly or indirectly.
+
+AH, <@ R1.2 Figure 1 An energy
+A B cycle.
+
+Going around the cycle in a clockwise route from A — B + C — A, according to the
+law of conservation of energy the total energy change is zero:
+
+AH, + AH, — AH, =0
+
+Otherwise, the cycle could form the basis of a perpetual motion machine with energy
+being generated continually by going around the cycle in one direction.
+
+The construction of the cycle allows us to calculate enthalpy changes to reactions
+indirectly. AH; can be calculated from AH, and AH;:
+
+AH, + AH, = AH,
+
+We can then determine enthalpy changes of hypothetical reactions and make
+predictions about the relative stability of different compounds. The law of
+conservation of energy imposes restrictions but also adds order. Energy cycles are a
+key tool in understanding any chemical change.
+
+453
+
+
+454
+
+REACTIMITY I
+
+What drives chemical reactions?
+
+Reactivity 1.2.1 -— Bond enthalpy
+
+Reactivity 1.2.1 —Bond-breaking absorbs and bond-forming releases energy.
+
+Calculate the enthalpy change of a reaction from the given average bond enthalpy data.
+
+Include an explanation of why bond enthalpy
+data are average values and may differ from
+those measured experimentally.
+
+Average bond enthalpy values are given in the
+data booklet.
+
+Structure 2.2 — How would you expect bond
+enthalpy data to relate to bond length and
+polarity?
+
+Reactivity 3.4— How does the strength of
+a carbon-halogen bond affect the rate of a
+nucleophilic substitution reaction?
+
+Breaking bonds is an endothermic process
+
+In Structure 2.2, we see that a covalent bond is due to the electrostatic attraction
+between a shared pair of electrons and the positive nuclei of the bonded atoms.
+Energy is needed to separate the atoms in a bond.
+
+The bond enthalpy is the energy needed to break one mole of bonds in gaseous
+
+molecules under standard conditions.
+
+The energy change, for example, during the formation of two moles of chlorine atoms
+from one mole of chlorine molecules can be represented in a thermochemical equation.
+
+Cl(g) > 2CI(g)
+
+AH® = +242kJ mol"!
+
+The enthalpy change is positive as it is an endothermic process.
+
+The situation is complicated in molecules which contain more than two atoms.
+More energy is needed to break the first O-H bond in a water molecule than the
+
+second bond:
+H,O (g) —H(g) +OH(g)
+
+OH(g) -H(g) +O(g)
+
+AH® = +502kJ mol"!
+
+AH® = +427kJ mol"!
+
+Similarly, the energy needed to break the O-H bond in other molecules such as
+ethanol, C,H,OH, differs from either of these values. To compare bond enthalpies for
+bonds which occur in different environments, average bond enthalpies are tabulated.
+
+The two previous equations can be combined:
+
+AH® = (+502) + (+427) kJ mol"!
+
+As there are two O-H bonds,we can determine the average value (E(O-H)):
+
+H,O(g) > H(g) + Hg) + O(2)
+E(O-H) ee kmol"
+= “= = 464.5k] mol!
+
+This value should be compared with the bond enthalpies given in the table on the next
+
+page, which are calculated for a larger range of molecules.
+
+
+
+Energy cycles in reactions are | 2
+
+Bond. E(X-Y) /kJmol! Bond length / 107m
+
+H-H +436 74
+
+Gia +346 154
+
+C-H +414 108
+
+O-H +463 97
+
+c-O +358 143
+cl-cl +242 199
+
+c-cl +324 177
+
+H-Cl +431 128
+
+F-F +159 142
+
+C-F +492 138
+
+H-F +567 92
+Br-Br +193 228
+
+Er 286 ai The average bond
+
+I-I +151 267 enthalpy is the
+0-0 +144 148 bonds in gaseous
+so bias as erie on fone
+O=0 +498 121 averaged over similar
+C=O +804 122 compounds.
+
+As expected, multiple bonds which involve more bonding electrons generally have Note that the definition
+higher bond enthalpies and shorter bond lengths than single bonds. of bond enthalpy
+
+indicates that all the
+species have to be in
+
+All bond enthalpies refer to reactions in the gaseous state, so any enthalpy changes
+the gaseous state.
+
+resulting from the formation or breaking of intermolecular forces are not included.
+
+Bond enthalpy and polarity
+
+You can improve your understanding by comparing the average bond enthalpy of the
+H-H and X-X bonds in the halogens and then comparing them to those in H-X.
+
+Average of E(H-H) and | E(H-X)/ _ { E(H-H) + E(X-X) :
+X | (X-X)/Kjmot! | kjmot_ | E(H-X)= ; [kj mol
+cl ee = +339 +431 92
+Br POTN @ 43145 +366 51.5
+I BORD - 42935 +298 45
+
+We can see that the difference in bond enthalpies between the hydrogen halide bonds
+and the average bonds in the corresponding elements, as shown in the fourth column,
+is greatest with chlorine and smallest with iodine. These differences can be related to
+the polarity of the molecule with the largest difference occurring with the more polar
+H-Cl bond. More generally we can say that the polar X-Y bond between two elements
+X and Y is stronger than the non-polar X-X and Y-Y bonds.
+
+455
+
+
+REACT What drives chemical reactions?
+
+Electronegativities on the Pauling scale are calculated from bond enthalpy differences.
+F(A - A) +(B - a
+
+Xa ~ Xs = ERB) - ( 5
+The units of energy used are eV not kj mol. You are not required to know the details.
+
+1 eV = 1.6 x 10°19 x 6.02 x 1022) mol! = 96k) mol
+
+Challenge yourself
+1. Fluorine shows some anomalous properties due to its small atomic radius.
+
+(a) Comment on the bond enthalpy of F-F compared to the X-X bond in the
+
+Structure 2.2 - How
+
+would you expect bond other halogens.
+
+enthalpy data to relate
+to bond length and
+polarity?
+
+(b) Compare the bond enthalpy of H-F with the average bond enthalpies of
+H, and F,.
+
+Making bonds is an exothermic process
+
+The same amount of energy is absorbed when a bond is broken as is given out when a
+bond is formed (Figure 2). For example:
+
+H(g) +H(g) +H,(g) AH® = -436k] mol"!
+The negative enthalpy change shows that bond-making is an exothermic process.
+A
+X(g) + ¥(g)
+q
+Endothermic Bond-breaking, Bond-making,
+processes involve = which involves which involves
+the separation of 2 separating atoms bringing
+particles which are 5 that are together atoms
+held together bya s attracted by an that are attracted
+force of attraction. = electrostatic by an electrostatic
+Exothermic S force, requires force, releases
+processes involve energy. energy.
+the bringing x — Y(q)
+together of particles a
+which are mutually A
+attracted.
+
+R1.2 Figure 2 The energy changes that occur when bands are broken and formed.
+
+Worked example
+
+Identify the endothermic process.
+
+A 2CI(g) > C1,(g) B_ Na(g) — Na*(g) +e
+C Na*(g) + Cl-(g) > NaCl(s) D Na(g) > Na(s)
+Solution
+
+Only one of the processes involves the separation of particles:
+Na(g) > Na*(g) +e
+A negatively charged electron e- is separated from a positive ion Na*(g).
+
+Answer = B
+
+456
+
+
+Energy cycles in reactions
+
+Energy changes in reactions
+
+To understand the energy changes that occur in chemical reactions, consider, for
+example, the complete combustion of methane:
+
+H
+|
+B--OC-H F 20—0 >> O-—C=—0 + JH-O—-s
+
+|
+H
+
+Energy is needed to break the C-H and O=O bonds in the reactants and is given out
+when the C=O and O-H bonds are formed. The reaction is exothermic overall as the
+bonds formed are stronger than those broken. Conversely, a reaction is endothermic
+when the bonds broken are stronger than the bonds formed.
+
+Worked example
+
+Use bond enthalpies to calculate the enthalpy of combustion of methane, the
+principal component of natural gas.
+
+Solution
+
+1. Write down the equation for the reaction showing all the bonds. (This has
+already been done above.)
+
+2. Construct a table to show the bonds which are broken and formed during the
+reaction with the corresponding enthalpy changes.
+
+Bonds broken | AH®/kJmol™ Bonds formed | AH®/kJmol'
+(endothermic) (exothermic)
+Mess 4 (+414) 2C=0 2 (-804)
+20=0 2 (+498) 40-H 4-463)
+Total = +2652 =-3460
+
+AH® = +2652 - 3460kJ mol! = -808kJ mol"!
+
+The value calculated from the bond enthalpies should be compared with the
+experimental value of -891 kJ mol! measured under standard conditions given in
+Section 14 of the data booklet. The values are significantly different because the
+standard state of water is liquid and the bond enthalpy calculation assumes that
+the reaction occurs in the gaseous state. The use of average bond enthalpies is an
+additional approximation.
+
+Challenge yourself
+
+2. Compare the value of the enthalpy of combustion of methane obtained in the
+worked example to that in Section 14 of the data booklet and estimate the
+
+strength of a hydrogen bond.
+
+ani 2
+
+Ad5/
+
+
+REACT What drives chemical reactions?
+
+The worked example illustrates a general result:
+
+AH® = ©E(bonds broken) - “E(bonds formed)
+
+AH® = SE(bonds broken ) - SE(bonds formed)
+
+Worked example
+
+Use bond enthalpy data given earlier to calculate the enthalpy change of reaction
+
+between ethene and chorine:
+
+C)H,(g) + Cl,(g) > CH,CICH,Cl(g)
+
+Solution
+Follow the same strategy as the previous example.
+
+Start with a balanced chemical equation showing all the bonds:
+
+H H H H
+| | ||
+C=C + Cl—Cl) ~ H—C—C—H
+| | ||
+H H ad ad
+
+Identify the bonds broken and formed and the corresponding enthalpy changes.
+
+Bonds broken AH | kJmol? Bonds formed AH | kJmol!
+(endothermic) (exothermic)
+
+Cl-cl +242 a cate -2(324)
+
+C=C +614 Ce ~ (346)
+
+Total = +242 +614 = -2(324) - (346)
+= +856 =-994
+
+AH® = = E(bonds broken) — = E(bonds formed)
+= +856 - 994=-138kmol"!
+
+As discussed in Reactivity 1.1, some reactants need to be given an initial energy known
+as the activation energy before they will react. This energy is needed as some bonds in
+the reactants must break before new bonds in the products can form. The rate of some
+reactions can be explained by the relative bond enthalpy of the bonds broken. The
+relative strength of the carbon—halogen bond, for example, can be used to explain the
+relative reactivity of the halogenoalkanes discussed in Reactivity 3.4. The iodoalkanes
+are the most reactive as the C-I bond is relatively easy to break compared with the
+other carbon—halogen bonds.
+
+Reactivity 3.4 - How
+does the strength of a
+carbon-halogen bond
+affect the rate of a
+
+nucleophilic substitution
+reaction?
+
+and rich in oxygen. Oxygen, O2, and ozone, O3, both play a key role in protecting life. The
+oxygen-to-oxygen bond in ozone is weaker than the double bond in OQ; and so is broken by
+long-wavelength ultraviolet radiation. The absorption of harmful ultraviolet (UV) radiation.in
+the ozone layer protects the Earth’s surface.
+
+@ The Earth is unique among the planets in having an atmosphere that is chemically active
+
+458
+
+
+Energy cycles in reactions
+
+Challenge yourself
+
+3. The bond enthalpy in ozone is +363 kJ mol".
+
+(a) Compare this bond enthalpy with the oxygen—oxygen bond enthalpies
+tabulated earlier on page 455 and comment on its value.
+
+(b) Explain why ozone (O;) can be decomposed by ultraviolet radiation with a
+longer wavelength than that required to decompose oxygen (O)).
+
+Q1. Which of the following processes are endothermic?
+I. H,O() +H,0()
+I. CO,(g) + CO,(s)
+II. O3(g) > 20(g)
+A landIlonly B= IandIIlonly C I[andIlonly D_ 1, land III
+
+Q2. Identify the equation that represents the bond enthalpy for the H-Cl bond.
+A HCl(g) > H(g) + Clig)
+
+B_ HCl(g) > SHa(g) + $Ch(g)
+C HCl) > H*(g) + Clg)
+D_ HCl(aq) > H*(aq) + Cl-(aq)
+Q3. Identify the bonds that are broken in the following process.
+CH,(g) > 2C(g) + 6H(g)
+
+Q4. Which of the following enthalpy changes corresponds to the bond enthalpy
+of the carbon-oxygen bond in carbon monoxide?
+A CO(g) > C(s) + O(g)
+B CO(g) — Cig) + O(g)
+
+C CO(g) > C(s) + 40.(2)
+D CO) > Cig) + 302g)
+
+Q5. The hydrogenation of the alkene double bond in unsaturated oils is an
+important reaction in margarine production. Calculate the enthalpy change
+when one mole of C=C bonds is hydrogenated from the bond energy data
+tabulated earlier.
+
+A -290kJ mol! B -124kJmol!
+C +124kJmol! D +290kJmol!
+
+ani 2
+
+A
+
+Weather balloon being
+inflated by a meteorologist.
+A measuring device attached
+below the balloon will
+measure ozone distribution
+to an altitude of 35-40
+kilometres, allowing study
+
+of the ozone layer at 20-30
+kilometres. Ozone at this level
+(formed by sunlight) absorbs
+the dangerous types of UV
+radiation in sunlight.
+
+459
+
+
+REACT What drives chemical reactions?
+
+Q6. Use bond enthalpy data to calculate the enthalpy change of the reaction
+between methane and fluorine.
+
+C3H,(g) + F2(g) + CH,FCH,F(g)
+A +557kjmol! B +65kjmol'!
+C -65kJmol D -557kJmol"
+Q7. Use bond enthalpy data to calculate AH® for the reaction:
+
+Q8. Use the bond enthalpies given earlier to estimate the enthalpy of combustion
+of ethanol and comment on the reliability of your result.
+
+Reactivity 1.2.2 — Hess’s law
+
+Reactivity 1.2.2 —Hess’s law states that the enthalpy change for a reaction is
+independent of the pathway between the initial and final states.
+
+Apply Hess's law to calculate enthalpy changes in multistep reactions.
+
+Hess’s law is a consequence of the law of
+conservation of energy
+
+Consider again the energy level diagram in R1.1 Figure 7 on page 431.
+
+A
+H2(g) + O2(g)
+AH,
+H,0,(l) J
+e
+= AH;
+3 AH,
+H,0(l) + $0,(g) |
+reaction coordinate
+The thermochemical equations for the three reactions are:
+H,0,(l) + H,O(1) + $03(g) AH, = -98kJ mol“!
+H,(g) + $0,(g) + H,0() AH, = -286kJ mol”!
+
+460
+
+
+Energy cycles in reactions
+
+We can see from the figure on the previous page that AH, + AH)=AH;and can confirm
+this by adding the first two equations:
+
+H,(g) + O2(g) + HyOx} > H,O7f}} + H,O()) + 50,(g) AH; = -188 - 98kJ mol"!
+H,(g) + 5O3(g) > H,0(1) AH, = —286 kJ mol!
+
+This shows that the overall enthalpy change that occurs when hydrogen and oxygen
+combine to form water is the same whether the chemical change occurs in one step
+(AH;) or two steps (AH, + AH,).
+
+This result can be generalized and is known as Hess's law: the enthalpy change for any
+chemical reaction is independent of the route, provided the starting conditions and
+final conditions, and reactants and products, are the same.
+
+These reactions form an energy cycle. In the clockwise direction shown in Figure 3,
+the starting and end points are H;(g) + O,(g) so there is no net chemical reaction or
+enthalpy change.
+
+AH, = -188k) mol!
+H,(g) + 0,19) | H.02(!)
+
+]
+AH, = -286 kJ mol- Se taal Sb ~98kJ mol-
+
+H,0(I) + 0z(l)
+
+AH =—188 — 98k) mol!
+
+A
+
+R1.2 Figure 3 There is no net chemical or enthalpy change as the start and end points are the same.
+As per the law of conservation of energy, the enthalpy change in a complete cycle = 0.
+0 = AH, + AH, - AH;
+This leads to:
+AH;= AH, + AH,
+This shows that Hess’s law is a consequence of the law of conservation of energy;
+
+otherwise it would be possible to devise cycles in which energy was created or
+destroyed.
+
+Using Hess’s law
+
+Hess’s law states that the enthalpy change for any chemical reaction is independent of
+the route, provided the starting and final conditions, and reactants and products, are
+the same. The importance of Hess’s law is that it allows us to calculate the enthalpy
+changes of reactions that we cannot measure directly in the laboratory. For example,
+although the elements carbon and hydrogen do not combine directly to form propane,
+the enthalpy change for the reaction:
+
+3C(graphite) + 4H,(g) + C;H,(g)
+
+can be calculated from the enthalpy of combustion data of the elements and the
+compound (Figure 4).
+
+ani 2
+
+Hess's law states
+that the enthalpy
+change for any
+chemical reaction is
+independent of the
+route, provided the
+starting conditions
+and final conditions,
+and reactants and
+products, are the
+same.
+
+Hess's law is a natural
+consequence of the
+law of conservation of
+energy. If you know the
+law of conservation
+
+of energy, do you
+automatically know
+Hess's law?
+
+461
+
+
+REACT What drives chemical reactions?
+
+R1.2 Figure 4 > AH;
+AH, + AH, = AH,, therefore 3C(graphite) + 4H(g) + 50,(g) >| C3He(g) + 502(g)
+
+AH, = AH, - AH).
+Although AH, cannot be
+measured directly, it can et *
+be calculated from the
+enthalpies of combustion of 3C0,(g) + 4H,0(|)
+carbon and hydrogen (AH;)
+
+and propane (AH,).
+
+The steps in an enthalpy cycle may be hypothetical. The only requirement is that the
+individual chemical reactions in the cycle must balance. The relationship between the
+different reactions is clearly shown in an energy level diagram (Figure 5).
+
+R1.2 Figure 5 Energy level > | 3C(graphite) + 4H3(g) + 503(q)
+diagram used to abtain the
+
+enthalpy of formation of AH,
+propane indirectly. C3Ha(g) + 50,(9)
+
+AA;
+
+Reversing the
+direction ofa
+reaction reverses
+
+AH,
+
+potential energy, H
+
+| 3C0,(g) + 44,0(1)
+
+the sign of AH.
+The general use of enthalpies of combustion in determining enthalpies of reaction is
+discussed in more detail in the next section.
+Worked example
+Calculate the standard enthalpy change, AH®, for the formation of sulfur dioxide
+from the thermochemical equations (1) and (2).
+S(s) + O,(g) — SO,(g)
+S(s) + 1502(g) > SO;(g) AH® = -395kJ mol" (1)
+SO,(g) +50,(g) + SO,(g) AH® =-98k] mol (2)
+Solution
+We can think of the reaction as a journey from S(s) to SO,(g). As the standard
+enthalpy change cannot be measured directly, we must go by an alternative route
+The enthalpy change suggested by the equations given.
+
+for the decomposition
+of metal carbonates
+can be determined in
+the school laboratory
+by reacting the
+
+metal carbonate and
+the metal oxide or
+hydrogen carbonate
+with dilute acids using
+
+Hess's law. SO;(g) — SO,(g) + 50,(g) AH® = -(-98)kJ = +98kJ mol (2)
+
+Reaction 1 starts from the required reactant:
+S(s) + 150,(g) > SO,(g) AH® = -395kJ mol! (1)
+
+Reaction 2 relates SO,(g) to SO,(g). To finish with the required product, we reverse
+the chemical change and the sign of enthalpy change:
+
+462
+
+
+Energy cycles in reactions
+
+We can now combine these equations:
+
+S(s) + 150,(g) + SO3(g) —+ SO3(g) + SO,(g) + 40,(g) | AH® = -395 + 98k] mol
+
+Simplifying:
+S(s) + 150,(g) + SOxfg} + SOfe} + SO.) + Og} AH® = -297kJ mol
+S(s) + O,(g)  SO,(g) AH® = -297kJ mol"!
+
+Challenge yourself
+
+4. Explain why it is difficult to determine the enthalpy change of thermal
+decomposition reactions directly.
+
+Q10. The diagram illustrates the enthalpy changes for a set of reactions.
+
+AH +50k)
+
+AH —60k)
+
+a
+
+AH +30k)
+
+Which of the following statements are correct?
+
+IL P—-S AH = -10kJ
+
+I. R>Q  AH=+90kJ
+
+Ill. P—R AH = +20kJ
+
+A land II only Bland III only
+C_Iland Ill only D I,lland Ill
+
+Q11. The thermochemical equations for three related reactions are shown.
+
+CO(g) + 50,(g) > CO,(g) AH, = -283kJ mol"!
+
+2H;(g) + O(g) + 2H;0(1)
+CO,(g) + H,(g) + CO(g) + H,O(1)
+What is the value of AH,?
+
+A +289kjmol!
+
+C -289kj mol!
+
+AH,=~-572kj mol!
+AH,=?
+
+-3kJmol"!
+-855kJ mol!
+
+eel 2
+
+A
+
+copper(I!) sulfa
+enough to produce steam
+and disturb the powder.
+
+The heat produced
+when an anhydrous
+salt is converted to
+
+a hydrated salt can
+be determined by
+adding the anhydrous
+and hydrated salt to
+separate samples of
+water. Full details of
+how to carry out this
+experiment with a
+worksheet are available
+in the eBook.
+
+
+[a |
+
+The standard
+enthalpy change of
+combustion (AH,°)
+
+of a substance is the
+enthalpy change
+that occurs when
+one mole of the
+substance burns
+completely under
+standard conditions
+of 298K (25°C) and
+
+1.00 x 10° Pa.
+
+464
+
+What drives chemical reactions?
+
+Q12. Calculate the enthalpy change, AH®, for the reaction:
+C(graphite) + 0,(g) + CO(g)
+from the information below:
+
+C(graphite) + O,(g) + CO,(g) AH® = -394kJ mol"!
+
+CO(g) + 5O,(g) + COX(g) AH® = -283k] mol”!
+
+Q13. Calculate the enthalpy change, AH®, for the reaction:
+2NO(g) + O,(g) ++ 2NO,(g)
+
+from the information below:
+
+N,(g) + O,(g) > 2NO(g) AH® = +180.5kJ mol"!
+
+N,(g) + 20,(g) +2NO,(g) AH® = +66.4kJ mol”!
+Q14. Calculate the enthalpy change for the dimerization of nitrogen dioxide:
+
+2NO,(g) — N30,(g)
+
+from the following data:
+
+3Na(g) + On(g) + NO4(g) AH® =+33.2kJ mol"!
+
+N,(g) + 20,(g) + N,O,(g) AH® = +9.16k) mol"!
+
+Reactivity 1.2.3 — Standard enthalpy changes of
+combustion and formation
+
+Reactivity 1.2.3 — Standard enthalpy changes of combustion, AH,°, and formation,
+AH,®, data are used in thermodynamic calculations.
+
+Deduce equations and solutions to problems involving these terms.
+
+Enthalpy of combustion and formation data | Structure 2.2 — Would you expect allotropes
+are given in the data booklet. ofan element, such as diamond and graphite,
+to have different AH,© values?
+
+Standard enthalpy change of combustion
+
+The standard enthalpy change of combustion (AH,°) of a substance is the
+enthalpy change that occurs when one mole of the substance burns completely
+under standard conditions. As discussed in Reactivity 1.1, enthalpy changes of
+combustion of a substance can be determined experimentally by measuring the
+temperature changes of a known mass of water when heated by the combustion
+of the substance. Enthalpy changes can be used directly to compare the energy
+output of different fuels. These enthalpy changes can also be used as we saw on
+page 461—462 to calculate the enthalpy change of other reactions. This is explored
+further in the next section.
+
+
+Energy cycles in reactions
+
+Worked example
+
+The enthalpy of combustion of hexane is given in Section 14 of the data booklet.
+
+Give the thermochemical equation which corresponds to the standard enthalpy of
+combustion of hexane.
+
+Solution
+
+The equation refers to the combustion of one mole of hexane.
+Balancing the carbon and the hydrogens:
+
+CsHy4(l) + _O2(g) + 6CO,(g) + 7H,0(])
+Balancing the oxygens: 19 Os on both sides.
+
+CoH all) + 9502(g) > 6CO,(g) + 7H0()
+
+Standard enthalpy change of formation
+
+The standard enthalpy change of formation (AH,°) of a substance is the enthalpy
+change that occurs when one mole of the substance is formed from its elements
+
+in their standard states. These standard measurements are taken at a specified
+temperature (usually 298K) and a pressure of 1.00 « 10° Pa. The standard state of an
+element is its most stable form under these conditions.
+
+The measurements are important as they:
+
+* give a measure of the stability ofa substance relative to its elements
+* can be used to calculate the enthalpy changes of all reactions, either
+hypothetical or real.
+
+Worked example
+
+Which of the following does have a standard enthalpy change of formation value
+of zero at 25 °C and 1.00 x 10° Pa?
+
+A Hg) B_ Hg(s) C C(diamond) D  Si(s)
+
+Solution
+
+The standard enthalpy change of formation of a substance is zero when it is an
+element in its standard state.
+
+Considering each of the options in turn. The standard state of the elements:
+
+hydrogen is H,(g), mercury is Hg(1), carbon is C(graphite), C(diamond) is a
+less stable allotrope, silicon is Si(s).
+
+Answer =D
+
+ani 2
+
+The standard
+enthalpy change
+
+of formation of a
+substance is the
+enthalpy change
+that occurs when
+one mole of the
+substance is formed
+from its elements in
+their standard states
+at 1.00 x 105 Pa
+
+and at a specified
+temperature (usually
+298 K). The standard
+state of an element is
+its most stable form
+at these conditions.
+
+465
+
+
+REACTIMITY I
+
+The standard
+enthalpy change
+
+of formation of an
+element in its most
+stable form is zero.
+There is no chemical
+change and so no
+enthalpy change
+when an element is
+formed from itself.
+
+Structure 2.2 - Would
+you expect allotropes
+of an element, such as
+diamond and graphite,
+to have different AHS
+values?
+
+466
+
+What drives chemical reactions?
+
+Challenge yourself
+
+5. Suggest, based on the discussion of bonding and structure in Structure 2.2, why
+graphite is more stable than diamond.
+
+Worked example
+
+The enthalpy change of formation of ethanol is given in Section 13 of the data
+booklet. Give the thermochemical equation which represents the standard enthalpy
+of formation of ethanol.
+
+Solution
+
+The value from the data booklet: AH;S = -278 kJ mol!
+
+Ethanol (C;H;OH) is made up of the elements carbon (C(graphite)), hydrogen
+(H,(g)) and oxygen (O,(g)).
+
+__C(graphite) + __H,(g) + __O,(g) — C,H;OH(1) AH£= -278kJ mol!
+Balancing the equation:
+
+2C(graphite) + 3H,(g) + 40,(g) > C;H;OH() AH = -278k] mol"!
+
+Note that as the enthalpy change of formation refers to one mole of product, there
+are fractional coefficients in the balanced equation.
+
+Q15. Which of the following does not have a standard enthalpy change of
+formation value of zero at 25°C and 1.00 x 10° Pa?
+
+A CL(g) B_L,(s) C_ Br,(g) D_ Naj(s)
+Q16. Which of the following does have an enthalpy change of formation of zero
+
+at 25°C and 1.00 « 10° Pa?
+
+A 0O;(g) B Ss(s) C Cools) D _1,(aq)
+
+Q17. Identify the equation which corresponds to an enthalpy change of formation.
+A CuSO,(aq) + Zn(s) + ZnSO,(aq) + Cu(s)
+B_ Cu(s) + S(s) + 203(g) — CuSO, (aq)
+C  5H,O() + CuSO,(s) + CuSO,.5H,O(s)
+D_ Cu(s) + S(s) + 203(g) — CuSO,(s)
+Q18. The enthalpy changes of combustion of hydrogen and methane are given in
+
+Section 14 of the data booklet. Calculate the maximum amount of energy
+available from burning 1.00 g of each of the gases.
+
+Q19. The standard enthalpy changes for the combustion of propane, C;H,(g), and
+butane, C,H, (g), are given in Section 14 of the data booklet.
+(a) Give the equations for the complete combustion of propane and butane.
+
+(b) Identify the fuel which releases the most energy when a 1.0g sample is
+burnt.
+
+
+Energy cycles in reactions eed 2
+
+Q20. (a) Write the thermochemical equation for the standard enthalpy of
+formation of propanone, CH;COCH;(]).
+
+(b) State the conditions under which standard enthalpy changes are
+measured.
+
+Reactivity 1.2.4 — Calculating enthalpy changes
+
+Reactivity 1.2.4 — An application of Hess’s law uses enthalpy of formation data or
+enthalpy of combustion data to calculate the enthalpy change ofa reaction.
+Calculate enthalpy changes of a reaction using AH,® data or AH,® data:
+
+AH® = SAH,©(products) - NAH,@(reactants)
+
+AH® = SAH,°(reactants) - SAH.©(products)
+
+The equations to determine the enthalpy
+change of a reaction using AH;® data or AH.
+data are given in the data booklet.
+
+Calculating enthalpy changes from standard
+enthalpy changes of combustion
+
+We saw earlier that the enthalpy change of formation of propane could be calculated
+from the enthalpy change of combustion data as both reactants and products form the
+same combustion products (Figure 4). This approach can be applied to all reactions.
+Consider the generalized energy cycle in Figure 6, which includes the combustion
+products of both reactants and products.
+
+AH® = “_
+reactants . products <@ R12 Figure6 Generalized
+energy cycle.
+
+SAH" mN ae (products)
+
+combustion products
+
+The chemical change from reactants to combustion products can either occur directly
+or indirectly. The total enthalpy change must be the same for both routes.
+
+From Figure 6:
+
+AH® + SAH.°(products) = SAH,©(reactants)
+
+This gives the general expression for AH®:
+
+AH® = SAH.©(reactants) - MAH.S(products)
+
+a AH® = SAH,°(reactants) - EAH-2(products)
+
+467
+
+
+REACT What drives chemical reactions?
+
+Worked example
+
+Use the data in Section 14 of the data booklet to calculate the enthalpy change of
+formation of glucose.
+
+Solution
+
+First, write down the equation which corresponds to the enthalpy change of
+formation of glucose and add the enthalpy changes of combustion for the reactants
+and products below.
+6C(graphite) + 6H,(g) + 30,(g) + CsH)20¢(s)
+6(-394)  6(-286) 3(0) -2803 AH.°/kj mol
+The energy produced when oxygen reacts is included in the enthalpy of
+
+combustion of the other reactants and products. This can be given an enthalpy of
+combustion of zero.
+
+As the standard enthalpies of combustion are given per mole, they should be
+multiplied by the number of moles in the balanced equation as shown in bold above.
+
+Write down the general expression for AH®:
+
+AH® = SAH.9(reactants) - NAH.°(products)
+= 6(—394) + 6(-286)) — (-2803) = -1277kJ mol"!
+
+Calculating enthalpy changes from standard
+enthalpy changes of formation
+Standard enthalpy changes of formation can also be used to calculate the standard
+
+enthalpy change of reactions. Consider the general energy cycle in Figure 7 which
+includes the formation of the reactants and products from their constituent elements.
+
+R1.2 Figure 7 The chemical > AH?
+change of elements to reactants products
+
+products can either occur
+directly or indirectly. The total SAH (reactants) SAH” (products)
+enthalpy change must be the f
+
+same for both routes.
+
+elements
+
+We have from Figure 7:
+SAH,S(reactants) + AH® = SAH,©(products)
+
+This gives the general expression for AH® of any reaction:
+
+AH® = SAH,®products) - NAH,9 (reactants)
+
+a AH® = ZAH,°(products) - ZAH,9(reactants)
+
+468
+
+
+Energy cycles in reactions eed 2
+
+Worked example
+
+Calculate the enthalpy change of combustion of propane from the following
+standard enthalpy changes of formation data.
+
+Compound AH | kJ mol!
+
+CO,(g) 394
+
+H,O() -286
+Solution
+
+First, write down the equation with the corresponding enthalpies of formation
+underneath:
+
+C3H,(g) + 503(g) — 3CO,(g) + 4H,O(g)
+-105 0 3(-394) 4(-286) AH /kjmol!
+As the standard enthalpies of formation are given per mole, they should be
+multiplied by the number of moles in the balanced equation, shown in bold above.
+Write down the general expression for AH®:
+AH® = AHP (products) - AH,9(reactants)
+and express AH® in terms of the data given:
+
+AH® = 3(-394) + 4(-286) — (-105) = -2221 kJ mol"!
+
+Do not confuse the different methods of calculating enthalpy changes.
+A commen error when using enthalpies of formation is reversal of the sign.
+
+The correct expression is: AH® = AH,°(products) - AH,®(reactants)
+This should be contrasted with the expression using bond enthalpies:
+AH = SE(bonds broken) - HE(bonds formed)
+
+Nature of Science
+
+of
+
+The transfer of heat drives a country’s industrial development and an
+individuals life. It is a concept that has enlightened our understanding of
+why things change in the natural world. This scientific understanding and
+the harnessing of heat energy has helped make the modern world. The
+conservation of energy, on which Hess's law is based, developed as a result
+of practical considerations about the use and effect of heat and work. Hess’s
+law is important on both a practical and theoretical level as it allows us to
+predict the energy changes of possible and impossible reactions. The study of
+energetics shows how scientific theories evolve and generally accommodate
+other theories, creating a consistent understanding across a range of
+phenomena and disciplines.
+
+469
+
+
+REACT What drives chemical reactions?
+
+Standard enthalpy changes of combustion and
+formation: a comparison
+It is instructive to compare the energy cycles derived from the two enthalpy changes
+
+shown in Figure 8. The different forms of the expression for AH® are due to the reversal
+of the arrows from or to the reactants and products in the respective energy cycles.
+
+Enthalpy of combustion cycle Enthalpy of formation cycle
+AH® AH®
+reactants > products reactants products
+SAH? oN fou (products) SAH? voc Ve (products)
+combustion products elements
+(a) AH® =SAH,°(reactants) - SAH,9(products) (b) AH® = AH;S(products) - AHS(reactants)
+A
+
+R1.2 Figure 8 Note that the diagonal arrows are pointing away from the reactant and products in (a) and towards the reactants and
+products in (bb). The corresponding expressions for AH® reflect this.
+
+Exercise
+
+Q21. Analkane can be ‘cracked’ to produce an alkane with a shorter carbon chain,
+and an alkene.
+
+You should construct
+the appropriate
+
+energy cycles fram
+
+the definitions of the
+corresponding enthalpy
+change and deduce the
+
+samen Determine the enthalpy change of the reaction from the enthalpy of
+expressions or
+
+from the cycle combustion data.
+CioH29(1) + CgHig(l) + CH, (g)
+
+Compound AH,.® | kJ mol!
+CioH22(1) ~6778
+CgHys(1) -5470
+CH,(g) -1411
+
+A -10837kJmol! B  -103k)mol"!
+
+C +103kJmol! D +13659kJ mol!
+
+Q22. Identify the best expression for the enthalpy of combustion of hexane.
+
+Compound. AH,® | kJ mol!
+CoHia(l) x
+CO,(g) ¥
+H,O(g) z
+A 6y+6z+x B 6y+7z-x
+Co Pye iaz— 2 D 12y+ 14z+ 2x
+
+470
+
+
+Q23.
+
+Q24.
+
+Q25.
+
+Q26.
+
+Q27.
+
+Energy cycles in reactions
+
+Hydrogen peroxide slowly decomposes into water and oxygen.
+2H;0,(l) — 2H;O(1) + O3(g)
+
+Calculate the enthalpy change of this reaction from the data table.
+
+AH | kJ mol"!
+H,0,(1) -188
+H,0() -286
+A +98kjJmol"! B -98kJmol"!
+C +196k) mol"! D -196kJmol"!
+
+Enthalpy changes of combustion data are tabulated in Section 14 of the data
+
+booklet.
+(a) State the chemical equation for the formation of benzene.
+
+(b) Use enthalpy changes of combustion data to calculate the enthalpy of
+formation of benzene.
+
+(c) Compare your answer for part (b) to the value given in Section 13 of the
+data booklet and comment on any differences.
+
+Use the enthalpy change of combustion data in Section 14 of the data
+booklet to calculate AH® (in kJ mol—') for the reaction:
+
+C3H,(g) + Ho(g) + CoHe(g)
+
+Use the data in the table below to calculate AH® (in kJ mol!) for the reaction:
+Fe;0,(s) + 2C(graphite) — 3Fe(s) + 2CO,(g)
+AH ® | kJ mol!
+Fe,0,(s) -1118
+CO,(g) -394
+
+Calculate the enthalpy change for the hypothetical reduction of magnesium
+oxide by carbon, according to the equation below from the data given in the
+table below. Comment on the feasibility of using carbon as a reducing agent.
+
+2MgO\(s) + C(graphite) — CO,(g) + 2Mg(s)
+
+AH,2 | kJ mol
+CO,(g) -394
+MgO(s) -602
+
+ey | 2
+
+471
+
+
+REACTIMITY I
+
+The first ionization
+energy AH‘® is
+
+the minimum
+energy required to
+remove one mole
+
+of electrons from
+one mole of gaseous
+atoms.
+
+The first electron
+affinity (AH,@ ) is
+the enthalpy change
+when one mole of
+gaseous electrons is
+added to one mole
+of gaseous atoms.
+
+472
+
+iT
+
+What drives chemical reactions?
+
+Reactivity 1.2.5 — Born—Haber cycles
+
+Reactivity 1.2.5 — A Born-Haber cycle is an application of Hess’s law, used to show
+energy changes in the formation of an ionic compound.
+
+Interpret and determine values from a Born—Haber cycle for compounds composed of
+univalent and divalent ions.
+
+Structure 2.1 — What are the factors that
+influence the strength of lattice enthalpy in an
+ionic compound?
+
+The cycle includes ionization energies,
+enthalpy of atomization (using sublimation
+and/or bond enthalpies), electron affinities,
+lattice enthalpy, enthalpy of formation.
+
+The construction of a complete Born—Haber
+cycle will not be assessed.
+
+First ionization energies and electron affinities
+
+In Structure 2.1 the formation of ionic compounds such as sodium chloride is
+discussed. Metal atoms lose electrons and non-metal atoms gain electrons. The first
+ionization energy (AH,°) corresponds to the energy needed to form the positive ion
+from a gaseous atom:
+
+Na(g) — Na*(g) + e-(g)
+
+It is an endothermic process as it involves pulling an electron away from the attractive
+electrostatic force due to the positively charged nucleus.
+
+AH;® = +496 kJ mol!
+
+The first electron affinity (AH.°) is the enthalpy change when one mole of gaseous
+atoms attracts one mole of electrons. For chlorine:
+
+Cl(g) + e-(g) — Cl(g)
+
+As the electron is attracted to the positively charged nucleus of the Cl atom, the
+process is exothermic.
+
+AH,.® = -349k] mol"!
+
+Values for both energy terms are tabulated in Section 9 of the data booklet.
+
+Lattice enthalpies
+
+Adding the two equations for ionization energy and electron affinity:
+
+Na(g) + Cl(g)  Na*(g) + Cl-(g) AH® = -349 + 496 = +147kJ mol
+
+We can now see that the electron transfer process is endothermic overall and so
+energetically unfavourable, despite leading to the formation of ions with stable noble
+gas electron configurations. To understand the formation of ionic compounds, we
+need to look deeper. The oppositely charged gaseous ions come together to form an
+ionic lattice; this is a very exothermic process as there is strong attraction between
+
+the oppositely charged ions.
+Na*(g) + Cl-(g) + NaCl(s) AH® = -790kJ mol"!
+
+It is this step that explains the readiness of sodium and chlorine to form an ionic
+compound.
+
+
+Energy cycles in reactions
+
+The lattice enthalpy AH,,,° expresses this enthalpy change in terms of the reverse
+endothermic process. The lattice enthalpy relates to the formation of gaseous ions
+from one mole of a solid crystal breaking into gaseous ions. For sodium chloride:
+
+NaCl(s) + Na*(g) + Cl-(g) AH? = +790kJ mol!
+
+Experimental lattice enthalpies and the
+Born-Haber cycle
+
+Experimental lattice energies cannot be determined directly. An energy cycle based
+on Hess's law, known as the Born—Haber cycle, is used. The formation of an ionic
+compound from its elements is supposed to take place in a number of steps including
+the formation of the solid lattice from its constituent gaseous ions. From Hess's law,
+
+ani 2
+
+The lattice enthalpy
+(AH,,,2) is the
+enthalpy change
+that occurs when
+one mole of a solid
+ionic compound
+
+is separated into
+gaseous ions under
+
+standard conditions.
+
+Note that the data
+booklet expresses
+lattice enthalpy as an
+endothermic pracess
+
+of ion separation. It can
+also be represented as
+the reverse exothermic
+
+. . . . process in some
+Consider, for example, the formation of sodium chloride: SaLees.
+
+the enthalpy change for the overall formation of the solid must be equal to the sum of
+the enthalpy changes accompanying the individual steps.
+
+Na(s) + 5C1,(g) — NaCl(s) AHS (NaCl) = -411 kJ mol!
+
+This can be considered to take place in several steps as shown in the table below.
+
+Step AH® | kJmol"!
+
+Sodium is atomized to form one mole of gaseous ions:
+
+Na(s) — Na(g) AH rom ®(Na) =+107
+
+The corresponding enthalpy change is known as the enthalpy
+change of atomization.
+
+One mole of chlorine atoms is formed as 5 mole of Cl-Cl
+bonds break:
+
+2Chig) > Clg)
+E = bond enthalpy (page 454)
+
+4E(CI-Cl) = 3(+242)
+
+This is also known as the enthalpy of atomization of chlorine.
+
+One electron is removed from the outer shell of the gaseous
+sodium atom:
+
+AH,®(Na) = +496
+Na(g) — Na*(g) +e N) It is good practice
+
+to explicitly state
+
+the + value for the
+enthalpy change of an
+
+endothermic reaction.
+
+First ionization energy of sodium.
+
+One electron is added to the outer energy level of the gaseous
+chlorine atom:
+
+Clig) +e > Cg) pee bea ere
+
+Electron affinity of chlorine. Hue eal) coeeee
+of atomization
+
+The gaseous ions come together to form one mole of solid (AH,,>m®) is the
+
+sodium chloride: enthalpy change
+
+—AHa,® = ??? that occurs when
+one mole of gaseous
+atoms is formed
+from the element in
+
+its standard state.
+
+Na*(g) +Cl-(g) + NaCl{s)
+
+Lattice enthalpy of sodium chloride.
+
+These changes are best illustrated using an energy level diagram (Figure 9).
+
+473
+
+
+REACTIMITY I
+
+Nat(g) + e- + Cl(g)
+
+a
+
+AH? (Cl) = —349
+
+AH®(Na) = +496 Nagy CH)
+
+Na(g) + Cl(g)
+
+Na(s) + 2Ci(g) | AM stom (Na) = +107 | Affe, (NaCl) = ?
+
+potential energy, H
+
+AH; (NaCl) = —411
+(from Section 13)
+NaCl(s)
+
+A
+
+R1.2 Figure 9 Born-Haber cycle for sodium chloride. The enthalpy change of formation of sodium
+
+chloride, shown in blue, can be equated to a combination of the enthalpy changes associated with the
+changes shown in red.
+
+AH,® (NaCl) = AH tom(Na) + AH,©(Na) + 4E(CI-Cl) + AH,©(Cl) - AHy,,2(NaCl)
+
+This allows an equation for the lattice enthalpy to be expressed in terms of
+experimentally verifiable quantities:
+
+AHfa,°(NaCl) = AH gom(Na) + AH,9(Na) + 3E(CI-Cl) + AH,9(Cl) - AH; (NaCl)
+
+AH,°(NaCl) = +107 + 496 + 4(+242) - 349 - (-411) kJmol™
+= +786kJmol"!
+
+Lattice structure of sodium
+chloride. The strength of an
+ionic bond and the reason for
+its existence is the energy that
+is released as the oppositely
+charged ions farm an ionic
+lattice. The energy changes
+that occur when an ionic
+compound is formed can be
+related in a Born-Haber cycle.
+
+93 Nature of Science
+
+The energy changes that occur when an ionic crystal forms can be accurately
+predicted by the ionic model which considers all the electrostatic interactions
+that occur. As the interactions decrease with distance, an infinite number of
+interactions can be summed mathematically and calculated. Such models give
+us insight into the underlying chemical principles.
+
+474
+
+
+Worked example
+
+Energy cycles in reactions
+
+(a) Write an equation which corresponds to the lattice enthalpy of magnesium
+
+oxide, MgO.
+
+(b) Write equations which correspond to the first and second electron affinities
+of oxygen and comment on the relative values of the first and second electron
+affinities given in Section 9 of the data booklet.
+
+(c) Use the following data and further information from Sections 9 and 12 of the
+data booklet to complete the Born—Haber cycle for magnesium oxide.
+
+A
+
+Mg?*(g) + 2e~ + O(g)
+
+Mg?*(g) + 02-(g)
+
+=
+
+S
+
+2
+
+= Mg(g) + O(g)
+
+S r
+Mg(g) + 70(g)
+Mg(s) + 3 02(g)
+
+MgO(s)
+
+(d) Calculate the lattice energy of magnesium oxide.
+
+Additional data:
+
+* enthalpy change of atomization for Mg(s) = +148kJ mol
+
+* second ionization energy of magnesium = +1451kJmol!
+
+* enthalpy change of formation of MgO(s) = -602kJ mol
+
+Solution
+(a) MgO(s) — Mg**(g) + 0? (g)
+(b) O(g) + e(g) + O(g)
+
+The first electron affinity
+corresponds to the attraction of
+an electron into the outer energy
+
+level of an oxygen atom. This is an
+exothermic process.
+
+O (g) + e-(g) — O* (g)
+
+The second electron affinity
+corresponds to a negatively charged
+oxide ion accepting an additional
+electron into its outer energy level
+despite the mutual repulsion between
+the negatively charged species. This is
+an endothermic process.
+
+ani 2
+
+A75
+
+
+REACTIMITY I
+
+Structure 2.1 - What
+are the factors that
+influence the strength
+of lattice enthalpy in an
+ionic compound?
+
+476
+
+(c) Note that the enthalpy change of atomization for oxygen = half the bond
+energy for O).
+A
+
+Mg?*(g) + 02~(g)
+-141 + 753 (from Section 9) = Li
+
+Mg?*(g) + 2e- + O(g)
+
+i
+& | 738 (from Section 9) + 1451
+5
+z . :
+= | Mag) + O(g) Hy,(MgO) = ?
+Ss ry
+= | Mola) + 20,60) } 498 (from Section 12)
+-»
+Mag(s) + $0,(g) +148
+602
+MgO(s)
+
+(d) From the diagram we have:
+AH,,°(MgO) = +602 + 148 + 5(498) + (738 + 1451) + (753 - 141) kJmol
+AH),2(MgO) = +3800kJ mol!
+
+In Structure 2.1 we see that theoretical lattice enthalpies can be determined from the
+ionic model. The lattice enthalpy is:
+
+* proportional to the product of the charges on the positive and negative ions
+* inversely proportional to the sum of the ionic radii of the positive and negative
+ions.
+
+The lattice enthalpy is greater for ions with a larger charge density as they have a small
+radius and are highly charged.
+
+Q28. Identify the process that has an enthalpy change of different sign to the others.
+A Cl(g)+e > Clg) B_ K(g) > K*(g) +e
+C KCl(g) + Kg) +Cl'(g) D C1,(g) > 2Cl(g)
+Q29. Which equation represents the electron affinity of potassium?
+A K(g) —K*(g) + e7 B_ K(g)—K(g) +e
+C Kg)+e —K‘g) D K*(g) +e — K(g)
+
+
+Q30.
+
+Q31.
+
+Q32.
+
+Q33.
+
+Q34.
+
+Energy cycles in reactions
+
+Identify the process which corresponds to the standard enthalpy change of
+atomization of bromine.
+
+A Br,(g) > 2Br(g) B_ Br,(l) — 2Br(g)
+
+C 3Br,(g) > Br(g) D 4Br,(l) > Br(g)
+
+Identify the compound which has the greatest lattice energy.
+
+A sodium chloride B__ potassium chloride
+
+C magnesium bromide D calcium bromide
+
+Which one of the following compounds would be expected to have the
+highest lattice enthalpy?
+
+A KS B CaO C Cas D kd
+
+The experimental and theoretical lattice enthalpies of four compounds are
+compared.
+
+Identify the compound that has the smallest difference between
+experimental and theoretical lattice enthalpies.
+
+A CaO B CaS C MgO D MgS
+
+(a) Write an equation to represent the lattice energy of potassium oxide, K,O.
+
+(b) The Born—Haber cycle shown below may be used to calculate the lattice
+energy of potassium oxide.
+
+H+ 2K*(g) + 07-(g)
+
+q F
+
+Y¥
+2Kt(g) + 2e7 + O(g)
+
+x
+a x
+= 2K(g) + Olg) AH®(K,0)
+3 2K(g) + 302(g) Ww
+2K(s) + 302(g) 2(89.2)
+re8h3|
+
+K;0(s)
+
+Identify the enthalpy changes labelled by the letters W, X, Y and Z.
+
+(c) Use the energy cycle, and further information from Sections 9 and 12 of
+the data booklet to calculate an experimental value for the lattice energy
+of potassium oxide.
+
+ey | 2
+
+47/
+
+
+REACTIMITY I
+
+What drives chemical reactions?
+
+Q35. Theoretical lattice enthalpies can be calculated based on the ionic model.
+The values for the sodium halides are tabulated below.
+
+Halide AH,,,°/ kJ mol
+NaF +912
+NaCl +770
+NaBr +735
+Nal +687
+
+(a) Explain the trend in lattice enthalpies of sodium halides.
+
+(b) Compare these theoretical values with the experimental values listed in
+Section 16 of the data booklet.
+
+Q36.
+
+The theoretical lattice enthalpies, based on the ionic model, of sodium
+chloride and magnesium oxide are shown below.
+
+Compound AH,,,9/ kJ mol
+NaCl 770
+MgO 3795
+
+Explain why magnesium oxide has the higher lattice enthalpy compared
+with sodium chloride.
+
+Q37. The experimental and theoretical lattice energies of three metal bromides
+are compared below.
+Metal bromide AH,,:2/ kJ mol! AH 2] kJ mol!
+(Born—Haber cycle) (ionic model)
+M,Br 742 735
+M,Br 656 653
+Mc-Br 803 799
+
+(a) Use the ionic model to identify the ion with the smallest ionic radius.
+
+(b) Explain why the experimental lattice enthalpies are always larger than
+the theoretical values.
+
+(c) Calculate the percentage difference between experimental and
+theoretical values for each of the metal bromides M,Br, M,Br and M-Br.
+
+(d) Identify the metal with the lowest electronegativity.
+
+Guiding Question revisited
+
+How does the application of the law of conservation of energy help us to
+predict energy changes during reactions?
+
+In this chapter we introduced the concept of energy cycles and saw how they can be
+used to relate the enthalpy changes of related reactions. You can construct energy
+cycles for covalent compounds with the making and breaking of covalent bonds.
+
+478
+
+
+Energy cycles in reactions eed 2
+
+You can construct energy cycles for ionic compounds which involve the
+transfer of electrons from the metal to the non-metal and the formation of an ionic
+lattice.
+
+Energy cycles can be used to predict the enthalpy changes of real or hypothetical
+reactions and so offer insight into underlying principles of chemical change. These
+ideas can be summarized as follows:
+
+* Hess’s law states that the total enthalpy change for a reaction is independent of
+the route taken. It is a special case of the law of conservation of energy.
+
+* Energy cycles allow for the calculation of values corresponding to certain
+enthalpy changes which cannot be determined directly.
+
+* The average bond enthalpy is the energy required to break one mole of the
+same type of bonds in the gaseous state averaged over a variety of similar
+compounds.
+
+* Bond-breaking absorbs energy and is endothermic. Bond-making releases
+energy and is exothermic.
+
+¢ Enthalpy of reactions calculated from bond enthalpies do not include
+intermolecular interaction and so are only accurate for reactions in the gaseous
+state.
+
+HL
+
+* The standard enthalpy change of combustion (AH.®) is the enthalpy change
+for the complete combustion of one mole of a substance in its standard state
+in excess oxygen under standard conditions. Most combustion reactions are
+exothermic.
+
+* The standard enthalpy change of formation (AH,®) is the enthalpy change when
+one mole of the substance is formed from its elements in their standard states
+under standard conditions.
+
+* The enthalpy of formation of any element in its stable state is zero as there is no
+enthalpy change when an element is formed from itself.
+
+¢ AH calculated from AH, or AH;8 is more accurate than values based on bond
+enthalpies which apply only to the gaseous state and are average values.
+
+¢ A Born-Haber cycle is a special case of Hess’s law for the formation of ionic
+compounds. It allows the lattice enthalpy to be calculated from other enthalpy
+changes.
+
+* Lattice enthalpy values from the Born—Haber cycle are experimental values, as
+they are based on other experimental data.
+
+* The first electron affinity is the enthalpy change when one mole of gaseous
+atoms attracts one mole of electrons: X(g) + e-(g) — X-(g) AH.°
+
+* The lattice enthalpy is the enthalpy change that occurs when one mole of a solid
+ionic compound is separated into gaseous ions under standard conditions. For
+example, for alkali metal halides: MX(s) + M*(g) + X-(g) AHha?
+
+* The lattice enthalpy depends on the attraction between the ions:
+
+© an increase in the ionic radius of the ions decreases AH),,>
+° an increase in ionic charge increases AH,,,°.
+
+HL end
+
+479
+
+
+[a | What drives chemical reactions?
+
+Practice questions
+
+1. Consider the following reactions.
+Cu,O(s) + 40,(g) + 2Cu0(s) AH® = -144kJ
+
+Cu,O(s) > Cu(s) + CuO(s) AH® = +11kJ
+
+What is the value of AH, in kJ, for this reaction?
+Cu(s) + 40,(g) + CuO(s)
+A -144+11 B +144-11 Cc -144-11 D +144+11
+2. Which equation best represents the bond enthalpy of HCI?
+A HC\(g) — H*(g) + Clg) B_ HCl(g) — H(g) + Clig)
+C HCI(g) > 4H,(g) + 3CL,(g) D 2HCI(g) > H,(g) + Cl(g)
+3. Consider the equations below.
+CH,(g) + O.(g) + HCHO(1) + H,O(1) AH® = x
+HCHO() + 50,(g) + HCOOH() AH® = y
+2HCOOH() + 50,(g) + (COOH),(s)+H,0() — AH® =z
+What is the enthalpy change of the reaction below?
+2CH,(g) + 340,(g) — (COOH),(s) + 3H,O(1)
+Deke te, B Qty tz C 242 D 2x+2y+2z
+
+4. Which process has an enthalpy change that corresponds to the bond enthalpy
+for the O-H bond?
+
+A H,0() > H,(g) + 50,(g) B  5H,O() — 5H,(g) + Og)
+C  3H,O(g) > Hig) + Og) D 3H,0(g) > Hig) + 30)
+
+5. What is the energy, in kJ, released when 1.0 mol of carbon monoxide is burned
+according to the following equation?
+
+2CO(g) + O,(g) > 2CO,(g) AH® = -564kJ
+
+A 141 B 282 C 564 D 1128
+
+6. Which enthalpy changes cannot be calculated accurately using only bond
+enthalpy data?
+
+I. CyH,(g) + 0,(g)  3H,O(1) + 2CO,(g)
+
+I. C,H,(g) + Br, (1) + CH,CICH,Cl(1)
+
+Ill. 2H,(g) + O,(g) + H,O(g)
+
+A landlIlonly B= landIllonly C IlandIflonly D_ 1, land III
+
+480
+
+
+Energy cycles in reactions are | 2
+
+7. Hydrazine is a valuable rocket fuel. The equation for the reaction between
+hydrazine and oxygen is given below.
+
+NH, (1) + O,(g) — N,(g) + 2H,O()
+Use the bond enthalpy values from Section 12 of the data booklet to determine
+the enthalpy change for this reaction. (3)
+(Total 3 marks)
+8. Which ionic compound has the greatest lattice enthalpy?
+A MgO B CaO C NaF D KF
+
+So: Which step(s) is/are endothermic in the Born—Haber cycle for the
+formation of LiCl?
+
+A 5Cl,(g) > Cli) and Li(s) — Li(g)
+
+B_ Cl(g) +e — CI (g) and Li(g) — Li*(g) +e
+C Lit(g) + Clg) > LiCl)
+
+D 3Cl,(g) > Clg) and Clg) + e* > Clg)
+
+10. Two students were asked to use information from the data booklet to calculate
+a value for the enthalpy of hydrogenation of ethene to form ethane.
+
+CyH4(g) + H2(g) + CoHg(g)
+John used the average bond enthalpies from Section 12. Marit used the values
+of enthalpies of combustion from Section 14.
+
+(a) Calculate the value for the enthalpy of hydrogenation of ethene obtained
+using the average bond enthalpies given in Section 12. (2)
+
+(b) Marit arranged the values she found in Section 14 into an energy cycle.
+
+AH” (hydrogenation)
+C;H,4(g) + H,(g) > CH,(g)
+
+30) | -1411k) mol 10, |-286kJmol-" lo
+
+vy Vv
+2C02(g) * 3H30(I)
+
+Calculate the value for the enthalpy of hydrogenation of ethene from the
+energy cycle. (1)
+
+(c) Suggest one reason why John’s answer is slightly less accurate than Marit’s
+answer. (1)
+
+(d) John then decided to determine the enthalpy of hydrogenation of
+cyclohexene to produce cyclohexane.
+
+CsHyo(l) + Ho(g) + CoH (l)
+
+481
+
+
+[a | What drives chemical reactions?
+
+(i) Use the average bond enthalpies to deduce a value for the enthalpy
+of hydrogenation of cyclohexene. (1)
+
+(ii) The percentage difference between these two methods (average bond
+enthalpies and enthalpies of combustion) is greater for cyclohexene
+than it was for ethene. John’s hypothesis was that it would be the
+same. Determine why the use of average bond enthalpies is less
+accurate for the cyclohexene equation shown on the previous page,
+than it was for ethene. Deduce what extra information is needed to
+provide a more accurate answer. (2)
+
+(Total 7 marks)
+
+Va The lattice enthalpy of magnesium chloride can be calculated from the
+Born—Haber cycle shown below.
+
+A
+Mg?*(g) + 2e- + 2Cl(q)
+A
+Il = +738 + 1451k) IV
+= | Mag) + 2C\(g) y_ Ma*(g) + 2Cr-(g)
+= 4 A
+= ll
+5 Mag(g) + Cl2(q)
+a 4
+1=+148k)
+Mg(s) + Cl,(g) AH, (MgCl,)
+V=-647k)
+Vv
+MgCla(s)
+(a) Identify the enthalpy changes labelled I and V in the cycle. (2)
+
+(b) Use the ionization energies given in the cycle above and further data from
+the data booklet to calculate a value for the lattice enthalpy of magnesium
+chloride. (4)
+
+(c) The theoretically calculated value for the lattice enthalpy of magnesium
+chloride is +2326 kJ.
+Explain the difference between the theoretically calculated value and the
+experimental value. (2)
+(d) The experimental lattice enthalpy of magnesium oxide is given in
+Section 16 of the data booklet. Explain why magnesium oxide has a higher
+lattice enthalpy than magnesium chloride. (2)
+
+(Total 10 marks)
+
+482
+
+
+Energy cycles in reactions
+
+ie The Born-Haber cycle for sodium oxide is shown (not to scale).
+
+2Nat(g) + O?-(g)
+r
+
+2Na*(g) + O(g)
+A
+
+2Na(g)| + Olg) lattice
+i enthalpy
+
+2Na(g)} + + 0,(g)
+ry
+
+2Na(s)| + +0,(g)
+
+v Na,O(s)
+
+(a) Calculate values for the following changes using Section 9 of the data
+booklet.
+
+APS isation(Na) = 107 kJ mol!
+AFatom isation(O) = 249 kJ mol!
+
+702g) + 07 (g)
+Na(s) — Na*(g)
+(b) The standard enthalpy of formation of sodium oxide is —414kJ mol".
+
+Determine the lattice enthalpy of sodium oxide, in kJ mol using your
+answers to part (a).
+
+(If you did not get answers to (a), use +850 kJ mol"! and +600kJ mol!
+respectively, but these are not the correct answers.)
+
+(c) Justify why K,O has a lower lattice enthalpy (absolute value)
+than Na,O.
+
+(d) Sodium peroxide is used in diving apparatus to produce oxygen from
+carbon dioxide.
+
+(2)
+
+(2)
+
+(1)
+
+Determine the enthalpy change, AH, in kJ, for this reaction using data from
+
+the table below and Section 13 of the data booklet.
+
+AH, | kJmol”!
+Na,CO,(s) -1130.7
+
+(e) Outline why bond enthalpy values are not valid in calculations such as
+that in part (d).
+
+(3)
+
+(1)
+
+(Total 9 marks)
+
+ey | 2
+
+483

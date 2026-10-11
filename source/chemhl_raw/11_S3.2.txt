@@ -1,0 +1,5205 @@
+Classification of organic
+compounds
+
+Lu
+oc
+=
+©
+=
+=
+a
+
+
+
+Functional groups: classification of organic compounds
+
+<@ The development of organic chemistry as a field of study has allowed chemists to investigate
+
+increasingly complicated organic compounds, gaining new insights into their physical
+properties and chemical reactivity. Since the first applications of computerized molecular
+modelling in the 1960s, the steady growth in computing power has allowed for the modelling
+of increasingly complex molecules, utilizing current knowledge of chemical bonding and the
+intramolecular forces associated with different functional groups. With modern computers
+and software, the 3D structures of extremely complex biological compounds, such as proteins
+and enzymes, are now able to be madelled, giving new insights into the dynamics of protein
+folding and enzyme catalysis. The picture shown is a computer-generated model of the
+human catalase enzyme that shows the shape and folding of the enzyme.
+
+How does the classification of organic molecules help us to predict their
+properties?
+
+The total number of organic compounds that exists on Earth is so large that it is
+impossible to give a definite number. In any case, it is increasing all the time as new
+materials are synthesized. It is currently estimated that there are over 20 million
+different organic molecules on the planet and every one of them is unique in its
+chemical structure and specific properties.
+
+With such a large number of organic compounds, it is necessary to have a system for
+classifying and naming them. In this chapter, we will learn how the presence of specific
+functional groups allows for the classification of organic compounds into classes of
+compounds with similar properties.
+
+A functional group is usually a small group of atoms attached to a carbon atom ina
+molecule, and it gives the characteristic properties to the compound. The properties of
+any individual compound can therefore be predicted and explained by what functional
+groups are present and the class it belongs to.
+
+Given the incredible diversity of organic compounds, it is possible for compounds
+with the same molecular formula to have different structures along with different
+physical and chemical properties. Applying the rules for 'UPAC nomenclature allows
+unique names to be obtained for each individual compound, which also assists in their
+classification.
+
+The presence of functional groups makes it possible to determine the identity
+of an unknown organic compound, using analytical techniques such as mass
+spectrometry, infrared spectroscopy and proton nuclear magnetic resonance
+spectrometry. While each individual technique can provide insights into the
+bonding and functional groups present in a compound, a full determination of its
+structure typically requires information from more than one technique.
+
+STRUCTURE 3.2
+
+©
+©
+
+The international,
+non-governmental
+organization IUPAC
+(International Union
+of Pure and Applied
+Chemistry), is best
+known for its system
+of nomenclature, and
+is now recognized as
+the world authority
+
+in this field. IUPAC
+terminology enables
+precise communication
+between scientists
+across international
+boundaries.
+
+341
+
+
+STRUCTURE 3 Classification of matter
+
+Structure 3.2.1 — Structural representations of
+
+organic compounds
+
+Structure 3.2.1 — Organic compounds can be represented by different types of
+formulas. These include empirical, molecular, structural (full and condensed),
+stereochemical and skeletal.
+
+Identify different formulas, and interconvert molecular, skeletal and structural formulas.
+
+Construct 3D models (real or virtual) of organic molecules.
+
+Stereochemical formulas are not expected to | Structure 2.2 —- What is unique about carbon
+be drawn, except where specifically indicated. | that enables it to form more compounds
+than the sum ofall the other elements’
+compounds?
+
+Nature of Science, Structure 2.2— What are
+the advantages and disadvantages of different
+depictions of an organic compound (e.g.
+structural formula, stereochemical formula,
+skeletal formula, 3D models)?
+
+Different types of formulas can provide different
+information about organic compounds
+
+Structure 1.4 shows that chemical compounds can be represented by empirical and
+molecular formulas which give the identities of the elements present in the compound.
+However, for organic compounds, an understanding of how the atoms within the
+compound are linked is often required in order to predict and explain their properties
+and reactivity. Structural and skeletal formulas that illustrate the connections and
+spatial arrangements between atoms are commonly used in organic chemistry.
+
+The empirical formula of a compound is the simplest whole-number ratio of the
+atoms it contains (see Structure 1.4). For example, the empirical formula of ethane,
+C3H,, is CH;. This formula can be derived from percentage composition data obtained
+from combustion analysis. It is, however, of rather limited use on its own, as it does not
+tell us the actual number of atoms in the molecule.
+
+The molecular formula of a compound is the actual number of atoms of each
+element present. For example, the molecular formula of ethane is CH,. It is therefore
+a multiple of the empirical formula, and so can be deduced if we know both the
+empirical formula and the molar mass M. The relationship can be expressed as:
+
+M = (molar mass of empirical formula),
+
+where n is an integer.
+
+So, for example, if we know that the empirical formula of ethane is CH,, and its molar
+mass M = 30g mol", using the formula above:
+
+30g mol = (mass of CH;) so 30 = (12 + (3 x 1)), which gives n = 2
+
+Therefore, the molecular formula of ethane is (CH;), or CjH,.
+
+342
+
+
+STRUCTURE 3.2
+
+However, the molecular formula is also of quite limited value as the properties of a
+compound are determined not only by the atoms it contains, but also by how those
+atoms are arranged in relation to each other and in space.
+
+The structural formula is a representation of the molecule showing how the atoms
+are bonded to each other. There are variations in the amount of detail this shows.
+
+* A full structural formula (graphic formula or displayed formula) shows every
+bond and atom. Usually 60°, 90° and 180° angles are used to show the bonds
+because this is the clearest representation on a two-dimensional page, although
+it is not the true geometry of the molecule.
+
+* A condensed structural formula often omits bonds where they can be
+assumed, and groups atoms together. It contains the minimum information
+needed to describe the molecule unambiguously — in other words there is only
+one possible structure that could be described by this formula.
+
+* The table below shows empirical and structural formulas applied to three
+
+compounds.
+Compound Ethane Ethanoic acid Glucose
+Empirical formula CH, CH,0 CH,0O
+Molecular formula CH, C,H,O, C,H,.0,
+Full structural formula H H H H 0
+_ | £ \F
+Ah=—C,.— CH H—c —cC |
+| | Sy
+H H | 0 —H H— C—O —H
+H—O—C—H
+H—C—0O-—H
+H— C—O —H
+H— C—O —H
+H
+Condensed structural formula CH,CH; CH;COOH CHO(HCOH),CH;OH
+
+A stereochemical formula attempts to show the relative positions of atoms and
+groups around a central carbon in three dimensions. The convention is that a bond
+sticking forwards from the page is shown as a solid wedge, whereas a bond sticking
+behind the page is shown as a dashed wedge. A bond in the plane of the paper is a solid
+line.
+
+in the plane
+of the paper
+
+oes back
+es
+
+comes
+forward
+
+343
+
+
+STRUCTURE 3
+
+When carbon forms four single bonds, the arrangement is tetrahedral with bond
+angles of 109.5°. When it forms a double bond, the arrangement is triangular planar
+
+with bond angles of 120°.
+methanol, CH;OH ethene, C,H,
+H
+‘ = J
+we ~ —
+H! OH 7 \y
+
+A skeletal formula can be regarded as a shorthand representation of a structural
+formula. It shows all the bonds present in the molecule, except C-H bonds, and omits
+the element symbols for carbon and hydrogen atoms. The symbols of all atoms other
+than C and H are included along with the condensed formula of any functional groups
+present.
+
+This results in a simpler visualization but it requires the user to become proficient
+with identifying the positions of carbon atoms, along with the numbers of hydrogens
+attached to each carbon, as this information is not readily apparent in the skeletal
+formula.
+
+The skeletal structure of butane, C,H9, is compared to its full structural formula
+below:
+
+This point has two bonds This point has one bond
+attached: it represents a CH; \ a attached: it represents a CH;
+
+, i a
+
+H H H 4H
+
+I ot ct
+H—C—C—C—C—H
+| ot ot
+H H H H
+
+C-C bonds in a carbon chain are represented as offset lines in a skeletal formula. The
+positions and numbers of carbon atoms present are identified by the points where
+bond lines meet or end.
+
+Each carbon atom in an organic compound has four bonds. The number of hydrogen
+atoms attached to each carbon can therefore be determined by subtracting the number
+of bonds drawn to that atom from four. In the example of butane above, the point
+
+at the end of the skeletal structure has one bond drawn to it, therefore it has three H
+attached and represents a CH, group.
+
+The table on the next page compares the condensed structural and skeletal formulas
+for three organic compounds.
+
+344
+
+
+Functional groups: classification of organic compounds
+
+STRUCTURE 3.2
+
+Compound Ethanol Propanone Butanoic acid
+
+Molecular formula C,H;OH C,H,O C,H;,COOH
+Full structural formula H H H O48 H H H 5
+
+| | | il | | | | 4
+
+os = H—cC—C—C—H ee
+HOH H H H H H OH
+
+Condensed structural
+
+CH,CH,OH CH,COCH, CH,CH,CH,COOH
+formula
+Skeletal formula O
+
+— pe
+
+~~ COOH
+
+Sometimes we do not need to show the exact details of the hydrocarbon, or alkyl, part
+
+of the molecule in a structure, so we can abbreviate this to R. For molecules which
+contain a benzene ring, C,H, (page 222), known as aromatic compounds, we use
+
+O to show the ring.
+
+Worked example
+
+(i) Convert the following full structural formula H H dH
+
+|
+toa skeletal formula. H—C—C—cC—C —OH
+| |
+H H
+(ii) Convert the following skeletal formula to a cl
+condensed structural formula.
+Br
+Solution
+(i) H H dH
+| oe ae
+
+jac —(6 == (C—O) al
+
+|
+H
+
+|
+H
+
+* Carbon 1 has only one bond that is not to a hydrogen atom so it can be
+represented as a point connected by a line to another point representing
+carbon 2.
+
+* The double bond between carbons 2 and 3 must be represented as a double line.
+
+* Carbon 3 has a bond to a non-hydrogen atom, Cl, which must be shown.
+
+* Carbon 4 has an OH group attached so this also must be shown.
+
+on
+
+If you can identify
+primary, secondary
+and tertiary carbons
+(page 364) in a skeletal
+formula, this should
+help you to determine
+the number of
+hydrogens bonded to
+each carbon.
+
+Be careful not to
+
+@ confuse structural and
+skeletal formulas. When
+a full structural formula
+is required, the element
+symbols of all carbon
+and hydrogen atoms
+must be included,
+along with the bonds
+between them.
+
+345
+
+
+STRUCTURE 3
+
+Construction of 3D
+models and working
+with virtual models
+online are important
+experiences that
+
+help in gaining an
+understanding of the
+structural concepts
+described in this
+chapter. Full details of
+a modelling activity are
+available in the eBook.
+
+Nature of Science,
+Structure 2.2 - What
+are the advantages
+
+and disadvantages of
+different depictions of
+an organic compound
+(e.g. structural formula,
+stereochemical formula,
+skeletal formula, 3D
+models)?
+
+A
+
+Students practising their
+chemistry can find modelling
+kits very useful in visualizing
+the shapes of molecules they
+encounter in class.
+
+346
+
+(ii) cl
+
+Br
+
+* The point labelled 1 represents a carbon that has only one C—C bond so it
+must have three hydrogens attached.
+
+* Point 2 represents a carbon with two C—C bonds and a C-Cl bond so it must
+have one hydrogen attached.
+
+* Point 3 represents a carbon with two C-C bonds and a C-Br bond so it must
+also have one hydrogen attached.
+
+* Point 4 is similar to point 1 and also represents a carbon that has one C-C
+bond and three hydrogens attached.
+
+tt, 3 24
+CH,CHCICHBrCH,
+
+The use of physical and computer models can assist organic chemists in visualizing the
+three-dimensional shapes of compounds, which can also help explain their physical
+properties and chemical reactivity.
+
+As we learn in Structure 1.3, common representations of atoms tend to be misleading as
+they do not accurately depict the true scale of the nucleus compared to the overall size of
+the atom. This is also true of modelling kits, along with ball-and-stick computer models,
+where nuclei are depicted as spheres or balls with relatively small distances between them.
+
+Challenge yourself
+
+1. Based on experimental evidence, the bond length of a carbon-carbon single
+bond is 154pm (1 pm = 107!? m) and the radius of a carbon nucleus is
+2.7 x 10° m. If modelling kits were made to scale, how long would the
+plastic stick representing a single bond need to be if the carbon nucleus was
+represented as a plastic ball with a 0.5 cm radius?
+
+The two images above are different computer-generated models of dexamethasone, a drug
+used to treat arthritis. The ball-and-stick model on the left shows the nuclei of the atoms as
+‘balls’ and the covalent bonds as ‘sticks’. The space-filling model on the right shows the atoms
+as overlapping spheres whose sizes correspond to the atomic radii of each atom.
+
+
+Functional groups: classification of organic compounds
+
+In Structure 2.2, we learn that carbon atoms are able to sp, sp? or sp? hybridize.
+
+This allows carbon to form a variety of different compounds containing single, double
+or triple bonds. From the examples on previous pages illustrating the different structural
+representations of organic compounds, it should become apparent that carbon is unique
+among the elements for its ability to link to itself and form chains of bonded carbon
+atoms, as well as ring structures such as benzene. This ability, known as catenation, is
+one of the main reasons for the vast number of organic compounds that exist. As we
+continue through this chapter, we will see that the possibility for carbon chains to be
+branched, and for compounds to contain one or more functional groups or substituents,
+further increases the incredible variety of organic compounds that are possible.
+
+Q1. Convert the following full structural formulas to condensed structural
+
+formulas.
+cs “i i Ty
+ee TT Tp
+| | |
+H OHH H ioe Ee
+ee
+|
+H
+(c) H H H H (d) H
+| | | | |
+1 ¢—— —<_ H—t—_H
+i | H H H
+
+jo f-§- AO al
+
+H H H
+5-1 II
+
+H
+
+Q2. Convert the following condensed structural formulas to skeletal formulas.
+(a) CH;CH(CH,)CH; (b) CH,OHCH,CH,CH,Cl
+(c) CHCICHCH, (2) CH ic) Ce cn.
+
+Q3. Convert the following skeletal formulas to condensed structural formulas.
+Br
+oe
+
+d Cl
+(c) (d) vy
+
+“a
+
+STRUCTURE 3.2
+
+Structure 2.2 - What is
+unique about carbon
+that enables it to form
+more compounds than
+the sum of all the other
+elements’ compounds?
+
+347
+
+
+348
+
+STRUCTURE 3
+
+Classification of matter
+
+Structure 3.2.2 — Functional groups and classes
+
+of compounds
+
+Structure 3.2.2 — Functional groups give characteristic physical and chemical
+properties to a compound. Organic compounds are divided into classes according to
+the functional groups present in their molecules.
+
+Identify the following functional groups by name and structure: halogeno, hydroxyl, carbonyl,
+carboxyl, alkoxy, amino, amido, ester, phenyl.
+
+The terms ‘saturated’ and ‘unsaturated’ should | WN structure 2.4 — What is the nature
+
+be included. of the reaction that occurs when two amino
+acids form a dipeptide?
+
+Nature of Science, Reactivity 3.2, 3.4—How can
+functional group reactivity be used to determine
+a reaction pathway between compounds, e.g.
+converting ethane into ethanoic acid?
+
+Different classes of organic compounds contain
+different functional groups
+
+Functional groups are atoms, or groups of atoms, that are present in organic
+compounds and are responsible for a compound's physical properties and chemical
+reactivity. Compounds that contain the same functional group belong to the same
+class. For example, the class of organic compounds called carboxylic acids contain
+the -COOH functional group.
+
+The table below gives common classes of organic compounds along with the formula and
+name of the functional group that defines each class. The table also includes the suffix (or
+prefix) specific to each class when using IUPAC nomenclature to name a compound as well
+as the general formula that describes the compounds belonging to each class.
+
+For certain classes, the general formula has been given as C,H,O, to show the overall
+chemical formula and also using R and R' to represent alkyl chains that are linked by
+functional groups. This format can help distinguish between classes such as aldehydes
+and ketones that have the same overall formula.
+
+3.2 Table 1 Important classes of organic compounds along with their associated functional groups,
+IUPAC suffixes and general formulas. The table is continued on the next page.
+
+Vv
+
+Class Functional | Name of functional | Suffix in Example of General
+
+group group IUPAC name | compound formula
+alkane -ane C3H,, ethane Cig
+alkene NY / | alkenyl -ene H,C=CH,, CH,
+
+C= ethene
+
+ri \
+alkyne —C=cC —| alkynyl -yne HC=CH, ethyne | C,H3,-)
+alcohol —OH hydroxyl -anol C>H;OH, ethanol | C,H>,.;OH
+ether R-O-R' alkoxy -oxyalkane H;C-O-C3H;, CaHone2O
+
+methoxyethane R-O-R’
+
+
+
+STRUCTURE 3.2
+
+continued
+Class Functional | Name of functional | Suffix in Example of General
+group group IUPAC name | compound formula
+aldehyde y O carbonyl -anal C,H;CHO, C,H,,0
+]
+-¢ C (aldehyde) propana R-CHO
+H
+ketone R carbonyl -anone CH,COCH,, C,,H2,0
+C=O | (ketone) propanone R-CO-R’
+R'
+carboxylic acid O carboxyl -anoic acid C,H;COOH, CH4., COOH
+__ = (acid) propanoic acid
+—H
+ester pe carboxyl -anoate C,H;COOCH,, C,H>,02
+ae thyl
+—€ (ester) ibaa R-COO-R’
+< propanoate
+O—R
+amide O amido -anamide C,H;CONH;, CyHan47 CONH;
+Ve propanamide
+—e.. yi;
+N
+NH
+amine —NH, amino -anamine C,H5NH;, CyHa,wgNH>
+ethanamine
+halogenoalkane* | —-F,—Cl,—Br,—I | halogeno fluoro, chloro, | C,H;Cl, C,H. X
+ie iodo chloroethane X=ECLBrl
+P : CH,CH,BrCH,,
+suffixes. See ar
+below) -bromopropane
+arene** phenyl -benzene C.H;CH;,
+methylbenzene
+C,Hs-
+* For halogenoalkane compounds, the halogen atoms are regarded as substituents as they have
+taken the position of a hydrogen atom.
+When applying IUPAC nomenclature, substituents such as halogens are typically identified using
+prefixes: chloroethane, 2-bromopropane etc.
+** The syllabus does not require knowledge of arenes as a class of compounds, but you are
+expected to recognize the phenyl group when it is present in a structure. The naming of
+compounds containing a phenyl group is also not required knowledge.
+Although there will only be one systematic IUPAC name, compounds containing CH; Quicidy sketching the
+phenyl groups often have alternative names. Methylbenzene (IUPAC name) Flloctacliral fareauile
+consists of a methyl group (-CHs) attached to a phenyl group (-CgHs) and it is en ce rca ake
+therefore also known as phenylmethane. Historically, it was known as toluene and iE ose ko denny The
+this name is still in common use. ie u
+functional groups and
+Methylbenzene is used as a solvent in many applications, including markers, paint thinners, suc wiall Raskwieeet se
+industrial cleaners and glues. organic compound.
+
+349
+
+
+STRUCTURE 3
+
+Food sources rich in a
+unsaturated fats. Fats are
+biological compounds that
+contain long carbon chains
+which, in unsaturated fats,
+include multiple double
+bonds. The World Health
+Organization and other
+health agencies recommend
+diets higher in unsaturated
+fats than saturated fats
+due to a decreased risk of
+cardiovascular disease.
+
+Nature of Science,
+Reactivity 3.2, 3.4 - How
+can functional group
+reactivity be used to
+determine a reaction
+pathway between
+compounds, €.g.
+converting ethene into
+ethanoic acid?
+
+Ethanoic acid is an important
+industrial chemical. One
+
+major use invalves its
+conversion to vinyl acetate
+and the production of
+polymers, such as polyvinyl
+acetate (PVA) which is used
+in many glues. A fun home
+use of PVA glue is making
+artificial slime.
+
+300
+
+Classification of matter
+
+One important way of classifying organic compounds is by their saturation.
+Compounds that are saturated only contain single bonds whereas unsaturated
+compounds contain double or triple bonds. As we see in Reactivity 3.3 and 3.4,
+
+saturated and unsaturated compounds undergo different types of reactions.
+
+Functional groups influence the chemical reactivity of organic
+compounds
+
+In Reactivity 3.2—3.4, we learn in more detail about different chemical reactions that
+occur for compounds with specific functional groups. Synthetic organic chemists
+can use their knowledge of these reactions to synthesize target compounds from
+readily available starting materials. This often requires organizing several reactions in
+sequence so that the product of one reaction is the reactant of the next. Each step will
+typically involve a functional group interconversion and the series of discrete steps is
+known as a reaction pathway.
+
+For example, ethene (C)H,) can be converted into ethanoic acid (CH;COOH) via a two-
+step reaction pathway where ethanol (CH;CH,OH) is formed as a product in the first
+step and then used as a reactant in the second step.
+
+H H H
+oO
+ae yaa | | | 4
+foe — H—C—C—OH — ee i
+H H | |
+on i OH
+ethene ethanol ethanoic acid
+
+Amino acids link together when condensation reactions occur
+between their functional groups
+
+The reaction of two amino acids with each other provides a specific example of how
+functional groups on different molecules can react via a specific type of reaction to
+give a new class of product.
+
+Amino acids each contain two functional groups, an amine group (-NH;) and a
+carboxylic acid group (-COOH). As shown on the next page, these two groups are able
+to react together in a condensation reaction in which a molecule of water is eliminated
+and a new bond is formed between the acid group of one amino acid and the amino
+group of the other. This bond is a substituted amide link known as a peptide bond, and
+two amino acids linked in this way form an amide product known as a dipeptide.
+
+
+Functional groups: classification of organic compounds STRUCTURE 3.2
+
+H O
+re ee | 4
+N— Cia — C—C
+HW | ot Non
+R! H R
+free amino peptide free carboxylic acid
+group (N-terminal) bond group (C-terminal)
+
+AAS Structure 2.4
+We can see that the dipeptide still has a functional group at each end of the molecule, - What is the nature of
+with —NH, at one end and -—COOH at the other. So it can react again by another
+condensation reaction, forming a tripeptide and eventually a chain of many linked
+amino acids known as a polypeptide.
+
+the reaction that occurs
+when two amino acids
+form a dipeptide?
+
+protein that transports
+
+<q Haemoglobin is a
+
+structure of haem
+
+Q4. For each of the following molecules, give its class and the name of its
+
+functional group:
+
+(a) CH,CH,COOH (b) CH;CHCHCH,
+(c) CH,OHCH,CH,CH, (d) CH,COOCH,
+(e) CH;CH,CHO (f) CH;NH(CH;)
+
+co
+on
+—t
+
+
+STRUCTURE 3 Classification of matter
+
+Q5. Which of the following is an amide?
+
+A CH,NH(CH,) B CH,CONH,
+
+C CH,CH,NH(CH;) D CH,;CH,COOCH,
+Q6. Which of the following is an ester?
+
+A CH,COCH, B  CH,COCH,NH,
+
+C  CH,CH(OH)CH, D CH,COOCH,CH;
+
+structure 3.2.3 and 3.2.4 — Homologous series
+
+Structure 3.2.3 — A homologous series is a family of compounds in which successive
+members differ by a common structural unit, typically CH,. Each homologous series
+can be described by a general formula.
+
+Identify the following homologous series: alkanes, alkenes, alkynes, halogenoalkanes,
+alcohols, aldehydes, ketones, carboxylic acids, ethers, amines, amides and esters.
+
+Nature of Science, Tool 2 — How useful are
+3D models (real or virtual) to visualize the
+invisible?
+
+Structure 3.2.4— Successive members of a homologous series show a trend in physical
+properties.
+
+Describe and explain the trend in melting and boiling points of members of a homologous
+series.
+
+Structure 2.2 — What is the influence of
+the carbon chain length, branching and
+the nature of the functional groups on
+intermolecular forces?
+
+Homologous series differ by a CH, group
+
+Organic compounds are classified into ‘families’ of compounds known as
+homologous series. The members of each such series possess certain common
+features, as described below.
+
+Consider the following compounds of carbon and hydrogen where the carbons are all
+bonded by single covalent bonds.
+
+CH, CH. C3Hg Chie
+H H H H H H H H H 4H
+H—C—H n—¢—¢-H Hee en nd ed ds
+: Hon Hon OH HWW OH
+
+methane ethane propane butane
+
+These are members of a homologous series known as the alkanes. It can be seen that
+neighbouring members differ from each other by —CH;-. This same increment applies
+to successive members of each homologous series, and means that the molecular mass
+increases by a fixed amount as we go up a series.
+
+302
+
+
+STRUCTURE 3.2
+
+Members of a homologous series can be
+represented by the same general formula
+
+The four alkanes shown on the previous page can all be represented by the general
+formula C,H3,+2
+
+Other homologous series are characterized by the presence of a particular functional group,
+and this will be shown in the general formula for the series. For example, the homologous
+series known as the alcohols possesses the functional group —-OH as shown below.
+
+CH,OH C,H;OH C,H,OH C,H,OH
+
+H H H H H H H H H H
+
+| | | | ot | ot ot
+H—C—O—H H—C—C—O—H H—C—C—C—O—H H—C—C—C—C—O—H
+
+| | | | | | | td
+
+H H H H H H H H H H
+
+methanol ethanol propanol butanol
+
+The four alcohols shown above can all be represented by the general formula
+C,H3,.,OH.
+
+General formulas for the homologous series of other classes of organic compounds
+have been provided in Table 1 on pages 348-349.
+
+Members of a homologous series show a trend in
+physical properties
+
+As successive members of a homologous series differ by a —CH3- group, they have
+successively longer carbon chains. This is reflected in a gradual trend in the physical
+properties of the members of the series. For example, the effect of the length of
+
+the carbon chain on the boiling point of three classes of compounds, alkanes,
+chloroalkanes and alcohols is shown in the table below.
+
+3.2 Table 2 Boiling points for the first eight members in the homologous series of alkanes,
+chloroalkanes and alcohols.
+
+The compounds shaded in yellow exist as gases at room temperature and those shaded in green
+exist as liquids at room temperature.
+
+353
+
+
+STRUCTURE 3
+
+The trend in boiling
+points of the alkanes
+is of great significance
+in the oil industry, as
+it makes it possible
+
+to separate the many
+components of crude
+oil into fractions that
+contain molecules of
+similar molecular mass
+on the basis of their
+boiling points. As the
+crude oil is heated, the
+smaller hydrocarbons
+boil off first while
+larger molecules
+
+distil at progressively
+higher temperatures
+in the fractionating
+column. The different
+fractions are used
+
+as fuels, industrial
+lubricants, and as
+starting molecules in
+the manufacture of
+synthetic compounds.
+
+Volatility is a term
+used to describe
+
+the tendency of a
+substance to vaporize.
+Substances with strong
+intermolecular forces
+have a high boiling
+point and a law
+volatility.
+
+Structure 2.2 - What
+is the influence of
+the carbon chain
+length, branching
+
+and the nature of the
+functional groups on
+intermolecular forces?
+
+304
+
+The data for each class of compound in Table 2 show that boiling point increases with
+increasing carbon number. This is because a longer chain length increases both the
+instantaneous and induced dipoles occurring, which then results in stronger London
+dispersion forces, and therefore stronger overall intermolecular forces, between the
+molecules.
+
+Other physical properties that show this predictable trend with increasing carbon
+number are melting point, density and viscosity.
+
+Functional groups affect the physical properties of
+organic compounds
+
+For the alkanes listed in Table 2, the increase in boiling point is not linear, but steeper
+near the beginning as the influence of the increased chain length is proportionally
+greater for small molecules. For the chloroalkanes and alcohols, there is a more
+consistent increase in boiling point with carbon chain length. This is because the
+strongest intermolecular forces present are associated with their functional groups
+rather than carbon chain length.
+
+Owing to their different polarities and resulting differences in intermolecular forces,
+functional groups have a significant effect on physical properties. One such property is
+volatility and the effect of different functional groups on volatility can be summarized
+as follows.
+
+most volatile least volatile
+
+alkane > halogenoalkane > aldehyde > ketone > alcohol > carboxylic acid
+
+London (dispersion) force -» dipole-dipole interaction -» hydrogen bonding
+increasing strength of intermolecular attraction ——>
+
+increasing boiling point ——»
+
+If we look across any row in Table 2, the compounds listed have the same number of
+carbons but their boiling points increase in the order: alkane < chloroalkane < alcohol.
+This is consistent with the strength of the intermolecular forces present due to the
+different functional groups in these compounds: London dispersion forces (alkane)
+
+< dipole—dipole (chloroalkane) < hydrogen bonding (alcohol). As Table 2 shows, the
+hydrogen bonding present in alcohols is so strong that even the smallest alcohol,
+methanol (CH;OH), is a liquid at room temperature.
+
+In this section we have seen that both chain length and the functional groups
+present affect the nature of the intermolecular forces in a compound. Longer chains
+result in increased London dispersion forces and polar functional groups result in
+dipole-dipole interactions or hydrogen bonding. In the next section we will see that
+branching of the carbon chain in a compound also affects intermolecular forces as it
+results in weaker London dispersion forces.
+
+
+Functional groups: classification of organic compounds STRUCTURE 3.2
+
+Q7. Which of the following is a member of the same homologous series as
+butanoic acid, CH,CH,CH,COOH?
+
+A CH,CH,COOCH; B CH,CH,CH,
+C CH;0CH,CH, D CH;COOH
+Q8. Which of the following pairs of compounds belong to the same homologous
+series?
+I. CH,CH,Cl, CH,CICH,CH,CH,
+I. CH,CH,Br, CH,CICH,CH;
+II. CH,CH,Br, CH,BrCH,Br
+A lonly B [andIll C Illonly D_ I,lland Ill
+
+Q9._ Which option ranks the compounds in order of increasing boiling point?
+A CH;CH,COOH < CH;CH,CH; < CH;CH,CH,F
+B_ CH;CH; < CH;COOH < CH,;,CH,COOH
+C CH,COOH <CH,COOCH; < CH;COCH;
+
+Q10. Rank the following compounds in order of increasing volatility and provide
+an explanation for your answer.
+
+bromopropane (CH;CH,CH,Br); propanoic acid (CH;CH,COOH);
+propane (CH;,CH,CH;)
+
+Q11. Predict how the aqueous solubility of the alcohols changes with increasing
+chain length and provide a reason for your answer.
+
+Structure 3.2.5 — IUPAC nomenclature
+
+Structure 3.2.5 — ‘IUPAC nomenclature’ refers to a set of rules used by the
+International Union of Pure and Applied Chemistry to apply systematic names to
+organic and inorganic compounds.
+
+Apply IUPAC nomenclature to saturated or mono-unsaturated compounds that have up to
+six carbon atoms in the parent chain and contain one type of the following functional groups:
+halogeno, hydroxyl, carbonyl, carboxyl.
+
+Include straight and branched-chain isomers.
+
+Unique names for organic compounds are derived
+using IUPAC nomenclature
+
+For over a hundred years, chemists have recognized the need for a specific set of rules
+for the naming of organic compounds. Rules developed by the IUPAC generate names
+that are logically based on the chemistry of the compounds, and so give information
+about the functional groups present and the size of the molecules.
+
+355
+
+
+STRUCTURE 3
+
+$3.2 Figure 1 Different >
+representations of the
+
+same molecule, C.H,,,
+pentane. These can all be
+interconverted by rotating the
+carbon-carbon bonds.
+
+You are expected to
+be familiar with the
+nitrogen-containing
+functional groups at
+the bottom of Table 1
+on page 349 (amine
+and amide}, but
+nomenclature of these
+classes of compounds
+will not be assessed.
+
+396
+
+Some guidelines for applying the [UPAC nomenclature are discussed below.
+
+Rule 1: Identify the longest straight chain of carbon atoms
+
+The longest chain of carbon atoms gives the stem of the name as follows.
+
+Number of carbonatoms | Stem in IUPAC name Example of compound
+in longest chain
+
+1 meth- CH, methane
+
+2 eth- C,H,, ethane
+
+3 prop- C3Hg, propane
+
+4 but- C,H) 9, butane
+
+5 pent- C;H), pentane
+
+6 hex- C,H,,4, hexane
+
+Note that ‘straight chain’ refers to continuous or unbranched chains of carbon atoms — it
+does not mean angles of 180°. Be careful when identifying the longest straight chain not
+to be confused by the way the molecule may appear on paper, because of the free rotation
+around carbon-carbon single bonds. For example, in Figure 1 all three structures are the
+same straight-chain molecule pentane, C;H,, even though they may look different.
+
+77
+
+Il
+Fa
+
+Rule 2: Identify the functional group
+
+The functional group usually determines the specific ending or suffix to the name,
+which replaces the ‘-ane’ ending in the parent alkane. The suffixes used for some
+common functional groups are shown in Table 1 on pages 348-349. Note the
+distinction between class, which refers to the type of compound, and functional group,
+which refers to the site of reactivity in the molecule.
+
+Remember that the name for the stem is derived from the longest carbon chain, which may
+include the carbon of the functional group. Look at Table 1 on pages 348-349 and see haw
+this applies to carboxylic acids and their derivatives (esters and amides).
+
+The position of a functional group is shown by a number between dashes inserted
+before the functional group ending. The number refers to the carbon atom to which
+the functional group is attached. The chain is always numbered starting at the end that will
+give the smallest number to the group.
+
+
+For example:
+H H 4H H 4H
+je A ee Se
+hoon haw a
+propan-2-ol but-1-ene
+
+As shown in the structure of but-1-ene above, here we number the carbon chain
+starting from the right-hand side so that the number of the group will be 1 and not 3.
+
+Sometimes a functional group can only be in one place; in these cases we do not need
+to give a number to show its position.
+
+For example, the carboxylic acid group must always be at the end of a chain so it
+does not need a number assigned. A ketone with three carbons has only one possible
+position for the carbonyl group so it also does not need a number assigned.
+
+H H 4H 0 H O 4H
+| | | og | |
+ine iio H—€. 38: .—.H
+| of | | |
+H H 4H _ H H
+butanoic acid propanone
+
+Rule 3: Identify the side chains or substituent groups
+
+Side chains, or functional groups in addition to the one used as the suffix, are known
+as substituents and are given as the first part or prefix of the name. Some common
+examples are shown in the table below.
+
+Class Functional |Nameof | Prefixin | Example of compound
+group functional | IUPAC
+group name
+alkane methyl, | CH;CH(CH;)C3Hs,
+ethyl, 2-methylbutane
+propyl CH(C3H5);, 3-ethylpentane
+CH(C3H;);, 4-propylheptane
+halogenoalkane | —-F,—Cl,—Br,-I | halogeno fluoro, C,H,Cl, chloroethane
+aallie CH;CH)BrCH;,
+romo,
+iodo 2-bromopropane
+amine —NH, amine amino CH,(NH,)COOH,
+
+2-aminoethanoic acid
+
+You will notice that -NH, appears as both a possible suffix in Table 1 on pages 348—
+349and a prefix in the table above. Usually when it is the only functional group it will
+take the suffix, but if there are two or more functional groups in the molecule it will be
+a prefix, as for example in amino acids.
+
+STRUCTURE 3.2
+
+oof
+
+
+STRUCTURE 3
+
+As shown in the table on the previous page, the position of the substituent groups is
+given by a number followed by a dash in front of its name showing the carbon atom to
+which it is attached, again numbering the chain to give the smallest number to the group.
+
+For example:
+
+itt a
+H-—ch 0 HCCC -@_f-
+| || | of | |
+H H H H H H H
+Bes =a i]t =H
+| |
+H H
+2-methylbutane 2-methylpentane
+
+If there is more than one substituent group of the same type, we use commas between
+the numbers and the prefixes di-, tri-, or tetra- before the name. Substituents are given
+in order of the number of the carbon atom to which they are attached; if there is more
+than one group on the same atom they are put in alphabetical order.
+
+For example:
+
+H H H H H H H Br H
+
+H—€—C—C—_H H—€—€C—_C—_H H—C—_C—C—_H
+
+When carboxylic acids cl cdsé#dH cl H H cl H
+aula ei ab 1,2-dichloropropane f= = 2-bromo-2-chloropropane
+naming esters this also I
+
+applies to the parent
+acid the ester is made 1-chloro-2-methylpropane
+from: methanoic acid
+(HCOOH) becomes
+methanoate (HCOO}
+in the ester; propanoic
+
+Naming esters and ethers
+
+acid (CH;CH,COOH) Esters
+becomes propanoate Esters form when the alkyl group of an alcohol replaces the hydrogen of a carboxylic
+(CH3CH,COO’) etc. acid in a condensation reaction:
+
+R-COOH + R'OH — R-COO-R’ + H,0
+
+Esters are named in a similar way to salts, which form when a metal has replaced the
+hydrogen ofa carboxylic acid. Salts take the stem of the name from the parent acid and
+the prefix is the cation. For example, CH;COONa is sodium ethanoate.
+
+In esters, the stem still comes from the parent acid but the alkyl group of the alcohol is
+the prefix. The ester made from the reaction of ethanol with ethanoic acid will be ethyl
+ethanoate, CH,;COOCH,CH,.
+
+H
+| £
+=———
+O—c—C--H
+
+A selection of fresh fruits. The H | |
+distinctive tastes and smells of H i
+fruits and berries are typically
+caused by ester compounds. ethyl ethanoate
+
+308
+
+
+Ethers
+Ethers consist of two alkyl chains linked by an oxygen atom (R—O-R’).
+
+When naming ethers:
+
+* the longer chain will be the stem and retains its alkane name
+* the shorter chain is regarded as a substituent and is given the prefix alkoxy.
+
+H H H H
+
+H-—-C—C— C80 =}€ =H
+| | | |
+H H H H
+methoxypropane
+
+When the two chains are the same length, then one is assigned as the alkane stem and
+the other becomes the substituent.
+
+H 4H H 4H
+
+A selection of foods rich in carbohydrates. Carbohydrates are complex sugars with individual sugar
+units (saccharides) joined by ether linkages.
+
+STRUCTURE 3.2
+
+Ethers are used
+commercially as
+solvents and in
+
+the production of
+polymers. They are
+also used for medicinal
+purposes such as
+antiseptics and some
+of the first anaesthetics
+were ethers.
+
+The ether monument
+
+in Baston, USA. It
+commemorates the first use
+of ethoxyethane (diethyl
+ether) as an anaesthetic, as
+well as the many lives saved
+through surgical procedures
+only possible with the use of
+anaesthesia.
+
+359
+
+
+STRUCTURE 3
+
+i
+_
+H H H
+| Ls ae
+er
+| |
+H H O
+a
+H
+
+3,3-dimethylbutanal
+
+360
+
+Classification of matter
+
+fo} Nature of Science
+
+Classification is an important aspect of many disciplines as it brings some
+order to large amounts of data, and helps in the recognition of patterns and
+trends. In organic chemistry, classification is particularly helpful given the
+almost infinite number of compounds. The IUPAC nomenclature system
+described earlier is broadly accepted by scientists because it provides effective
+communication. Yet, in common with most systems of classification, there
+are limits to its usefulness. One of these limits is in biochemistry, where
+IUPAC nomenclature can result in seemingly complex and extended names
+for relatively simple molecules. For example, sucrose, C,,H550,,, becomes
+(2R,3R,4S,5S,6R)-2-[(2S,35,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)
+oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol. Although there
+
+is a place for such terminology, it is not widely used. Classification and
+nomenclature are artificial constructs, and when not helpful need not be used.
+Throughout this book we will commonly use non-IUPAC names for biological
+molecules for this reason.
+
+fo} Nature of Science
+
+As the study of organic chemistry has grown to include increasingly large
+and complex molecules, IUPAC nomenclature has had to adapt accordingly.
+New rules have been introduced with the identification of complex structural
+features that could not be named using earlier rules.
+
+Summary of IUPAC nomenclature
+
+In summary, IUPAC nomenclature has three possible parts, which are usually written
+together as a single word.
+
+Prefix = an nnnnenee Stem wananeneee Suffix
+position, number number of carbon class of compound
+and name of atoms in longest determined by
+
+substituents chain functional group
+
+In the upcoming section on structural isomers you will encounter many examples of different
+organic compounds that have the same molecular formula (isomers). You should use these
+examples as an opportunity to confirm your ability to apply IUPAC rules and determine the
+correct systematic name for each isomer.
+
+Q12. For each of the following molecules, give its class and its IUPAC name.
+
+(a) CH;CH,CH(CH;)CH; (b) CH;CH(CH;)COOH
+(c) CH,;COCH,CH, (d) CH,COOCH,CH,CH,
+(e) CH,;CH,CH,OH (f) CH,CH,CH,CH,CHO
+
+
+Functional groups: classification of organic compounds STRUCTURE 3.2
+
+Q13. Give the structural formulas for the following molecules (condensed form is
+
+acceptable).
+
+(a) methanoic acid (b) hex-3-yne
+
+(c) 3-ethylpentanal (d) 3-methylbutan-2-one
+(e) ethoxypropane (f) 2-bromopropan-1-ol
+
+Q14. A student draws the structure of what they believe is 2-ethylpentane. Draw
+the structure that is consistent with this name and then determine the
+correct IUPAC name for this compound.
+
+Structure 3.2.6 — Structural isomers
+
+Structure 3.2.6 — Structural isomers are molecules which have the same molecular
+formula but different connectivities.
+
+Recognize isomers, including branched, straight-chain, position and functional group isomers.
+
+Primary, secondary and tertiary alcohols, gee Structure 2.2 — How does the fact that
+
+halogenoalkanes and amines should be there are only 3 isomers of dibromobenzene
+
+included. support the current model of benzene’s
+structure?
+
+Organic compounds with the same molecular
+formula can have different structures
+
+The molecular formula of a compound shows the atoms that are present in the
+molecule, but gives no information on how they are arranged. Consider for example
+the formula C,Hjo. There are two possible arrangements for these atoms that
+correspond to different molecules with different properties.
+
+H H H H H H 4H
+H— C—C—C—C—H H—C—C—C—H Structural isomers
+} | | | | | are molecules that
+H H H H H H have the same
+molecular formula
+butane, H—C-—8 but different
+boiling point -0.5 2 | arrangements of
+H
+the atoms. Because
+2-methylpropane, of their different
+boiling point -11.7 °C structures, they
+also have different
+Such molecules, having the same molecular formula but different arrangements of the physical and
+
+atoms, are known as structural isomers. chemical properties.
+
+@ Molecular models of the two
+isomers of CysH,,. On the left
+is butane (sometimes called
+n-butane to denote a straight
+chain), and on the right is
+2-methylpropane.
+
+361
+
+
+STRUCTURE 3
+
+Each isomer is a distinct compound, having unique physical and chemical properties.
+As we will see, the number of isomers that exist for a molecular formula increases with
+the size of the molecule. This is one of the reasons for the vast number of compounds
+that can be formed from carbon.
+
+The number of
+isomers that exist
+
+for a molecular
+formula increases as
+the molecular size
+increases. In fact, the
+increase is exponential;
+there are 75 possible
+isomers Of C,jH32 and
+366 319 isomers of
+
+Alkanes can have straight chain or branched structural
+isomers
+
+As we saw on the previous page, butane, C,H)o, has two structural isomers, one that
+
+aa forms a straight chain and another that has a branched structure. Pentane, C;H,3, has
+three structural isomers as shown below.
+H H H H H H H H 4H H
+netted ntl t ln H—¢—H
+Phaad dyad «
+pentane H—C—H H—C—C—C—H
+h h | a
+2-methylbutane H-—-¢—H
+h
+
+2,2-dimethylpropane
+straight chain one branch two branches
+
+boiling point 36.1 °C boiling point 27.8 °C boiling point 9.5 °C
+
+From the examples of C,Hj9 and C;H,) we can see a trend in the boiling points of their
+isomers: the more branching that is present in an isomer, the lower its boiling point.
+
+Branching of the hydrocarbon chain influences the strength of the London dispersion
+forces occurring between neighbouring molecules because it reduces the amount of
+surface contact. Think, for example, how tree logs with lots of branches sticking out
+cannot stack together as closely as a pile of logs which have no branches. In a similar
+way, branched-chain isomers have less contact with each other than their straight-
+chain isomers. This results in weaker attractions between instantaneous and induced
+dipoles on neighbouring molecules with weaker overall London dispersion forces and
+lower boiling points.
+
+The existence of these different straight-chain and branched-chain isomers of the alkanes
+@® is of great significance in the petroleum industry. It has been found that branched-chain
+isomers generally burn more smoothly in internal combustion engines than straight-chain
+isomers, and so oil fractions with a higher proportion of these branched-chain isomers are
+considered to be of ‘better grade’. This is often referred to as a higher ‘octane number’ and
+means that it fetches a higher price at the pump.
+
+362
+
+
+Functional groups: classification of organic compounds
+
+Worked example
+
+Draw full structural formulas for the five different structural isomers of hexane, C,H, 4.
+
+Solution
+
+When identifying structural isomers for a given formula it is best to start with the
+longest possible chain and then progress through the possibilities with successively
+shorter chain lengths. C,H), has one straight chain isomer:
+
+Inf lel Jel Jef def Il
+
+Lo | ot tf to
+1c. «6c 0-H
+| | tf ft ft |
+H H H H H H
+
+There are two isomers with a five-carbon longest chain and one methyl branch:
+Isl) ial BE at IR lpi Jak lel al II
+
+He GC 8 © GC HSC] © ¢ ee
+
+| | | td | | | td
+H H
+
+H H H H H H
+In| —=(C lal He
+H H
+There are two isomers with a four-carbon longest chain and two methyl branches:
+H H
+[al C1 |p. =e lol
+H H H H 4H H
+
+LE rl Oe all le Oa Ce Ce all
+
+| j} | | Lo y} ft
+H | H H
+
+ls. -—=C hh a
+
+H H
+
+Challenge yourself
+
+2. The Subject Guide only requires you to determine isomers for compounds
+containing up to six carbons in the longest chain. However, it can be beneficial
+to apply your knowledge to larger compounds. See if you can identify the nine
+structural isomers of heptane (C;Hj,).
+
+Alkenes can have positional structural isomers
+
+Alkenes are a class of organic compounds that contain at least one carbon—carbon
+double bond. For alkanes, we saw that structural isomers can occur due to branching
+of the carbon chains. For alkenes, a different type of structural isomer can also occur,
+where the double bond is found in different positions.
+
+STRUCTURE 3.2
+
+363
+
+
+STRUCTURE 3
+
+C,Hg has the following straight-chain isomers:
+
+H H H H H H H H
+I of od | | |
+CcC—C—C—C—_H H-—-¢€—€—€—_¢—H
+| | | | |
+H H H H H
+but-l-ene but-2-ene
+CH jo has the following two straight-chain isomers:
+H H H H H H H H H 4H
+ee | of | ft
+C—=C—C—C—C—H H—C-€—C—_—C—_—C—H
+| | | | | | |
+H H H H H H H
+pent-l-ene pent-2-ene
+C,H), has the following three straight-chain isomers:
+H H H H H H H H H H H H H H H H H 4H
+I | tf | tf re ee |
+C—€—_—£—2._€—_€--H H—C€—€>— ¢—C—6€—_€—H H-—€—C—€—C—_€—€—_H
+| | | | | | | | | | | |
+H H H H H H H H H H H H H
+hex-l-ene hex-2-ene hex-3-ene
+
+Similarly, the structures of the isomers of the alkynes, which contain at least one triple
+carbon-carbon bond, can be deduced by considering different possible positions for
+
+the triple bond.
+
+Positional isomers for some classes of compounds can be
+classified as primary, secondary or tertiary compounds
+
+Structural isomers also occur in alcohols, halogenoalkanes and amines due to
+
+the position of their functional group. For these compounds, identifying different
+positional isomers is of particular importance as they can have significantly different
+chemical reactivity, as seen in Reactivity 3.2—3.4 for the oxidation reactions of alcohols
+and in Reactivity 3.4 for the substitution reactions of halogenoalkanes.
+
+A primary carbon atom is attached to the functional group and also to at least two
+hydrogen atoms. Molecules with this arrangement are known as primary molecules.
+
+For example, ethanol, C)H;OH, is a primary alcohol and chloroethane, C;H;Cl, is a
+primary halogenoalkane.
+
+H # primary carbon H H
+| | ra atom |
+H—C—#—0OH H—C—c—cl
+
+H H H H
+
+A secondary carbon atom is attached to the functional group and also to one
+hydrogen atom and two alkyl groups. These molecules are known as secondary
+molecules. For example, propan-2-ol, CH;CH(OH)CH;, is a secondary alcohol, and
+2-chloroethane, CH;CHCICH,, is a secondary halogenoalkane.
+
+364
+
+
+Functional groups: classification of organic compounds
+
+H H H secondary carbon H H H
+
+| | atom a | |
+H—C-7€-——_C-_H ere
+
+| | | | |
+
+H OH H I cl 4H
+
+A tertiary carbon atom is attached to the functional group and is also bonded
+to three alkyl groups and so has no hydrogen atoms. These molecules are known
+as tertiary molecules. For example, 2-methylpropan-2-ol, C(CH;),OH, is a tertiary
+alcohol, and 2-chloro-2-methylpropane, C(CH,),Cl, is a tertiary halogenoalkane.
+
+I |
+H—C—H H—C—H
+H tertiary carbon H H
+a
+H=— yo), H—C—€—_C—H
+| | |
+H cl H
+
+A
+
+Butan-2-ol (left) and 2-methylpropan-2-ol (right) are two structural isomers with the formula CaHsQH.
+With molecular models it is easy to visualize their different structures and identify that butan-2-ol is a
+secondary alcohol and 2-methylpropan-2-ol is a tertiary alcohol. Carbon atoms are shown in black,
+hydrogen atoms are white and oxygen atoms are red.
+
+In amines, a similar classification can be applied according to the number of alkyl
+groups and hydrogen atoms bonded to the nitrogen atom.
+
+Type of amine Primary Secondary Tertiary
+Number of H atoms 2 1 0
+attached to central N
+
+Number of C atoms 1 2 3
+
+attached to central N
+
+primary secondary tertiary
+nitrogen atom nitrogen atom nitrogen atom
+% H ‘* H ny, CH;
+rf f
+H,C —N H,C —N H,C —
+*
+CH; CH,
+
+STRUCTURE 3.2
+
+365
+
+
+STRUCTURE 3
+
+Nature of Science, Tool
+2 - How useful are 3D
+models (real or virtual)
+to visualize the invisible?
+
+Phenylamine is
+
+also known as
+aminobenzene, aniline
+and benzenamine. The
+name phenylamine
+implies it consists
+
+of a phenyl group
+(C.Hs) attached to an
+amine, aminobenzene
+implies it has an amino
+substituent (NH,)
+attached to a benzene
+ring and aniline is
+
+its historical name.
+Benzenamine is the
+systematic IUPAC name
+but phenylamine is
+commonly preferred.
+Phenylamine is used
+
+in the manufacture of
+dyes and polyurethane,
+a widely used plastic.
+
+366
+
+Classification of matter
+
+Structural isomers can have different functional groups
+
+There are many different types of isomers, including those in which the molecules have
+different functional groups and so are members of different classes of compounds with very
+different reactivities. For example, the molecular formula C;H,O describes both an alcohol
+and an ether, with models of these functional group isomers shown in the picture below.
+
+Methoxymethane (left) and ethanol (right) are functional group isomers, both with the molecular
+formula C;H,O. With the use of molecular models, it is easy to visualize the different functional groups
+in these molecules and explain their different physical and chemical properties. Ethanol is a liquid
+widely used in alcoholic drinks while methoxymethane is a gas used in aerosol propellants. Carbon
+atoms are represented here as black, hydrogen atoms are white and oxygen atoms are red.
+
+Disubstituted benzene
+compounds have structural
+isomers
+
+The structure of benzene, C,H,, and
+
+its unique properties were introduced
+
+in Structure 2.2. Substituted benzene
+compounds are formed when hydrogen
+atoms in a benzene molecule are replaced
+by halogen atoms or a functional group
+including the amino (NH,) or nitro
+groups (NO,). The structures of some
+
+monosubstituted benzene compounds are A
+
+Intensely coloured azo-dye powders
+shown below. ; .
+synthesized from phenylamine (aniline).
+
+cl NH, NO,
+
+chlorobenzene phenylamine nitrobenzene
+
+One use of phenylamine (aniline) is in the production of synthetic azo-dyes. The first azo-dye
+was synthesized by William Perkin in 1856, but this was actually the result of an experiment
+that went wrong! Perkin had been attempting to convert phenylamine into quinine, a natural
+antimalarial drug, but instead he isolated an intensely purple-coloured product. Perkin
+recognized the significant potential of this product as a dye, which he subsequently called
+mauveine. He went on to synthesize and commercialize this and other azo-dyes, becoming a
+leading chemist in this field as well as a very wealthy man.
+
+
+Functional groups: classification of organic compounds
+
+Acommen perception of scientific knowledge is that it develops through carefully planned
+experiments that test hypotheses and verify or refute currently accepted theories. In the
+example of William Perkin and mauveine, given on the previous page, his results were
+completely unexpected but led to the development of a new field of chemistry. What role
+does luck play in the advancement of science? Is there a single ‘scientific method’?
+
+No structural isomers are possible for monosubstituted benzenes because all six
+positions in the hexagonal carbon ring are identical. However, three structural isomers
+are possible for disubstituted benzenes such as dibromobenzene, C,H,Br). These
+isomers differ due to the substituents occupying different positions on the benzene ring:
+
+Win = Br Wo. Br | _Br
+
+2 2
+2 ™“Br 3 Br 4
+
+Br
+
+1,2-dibromobenzene 1,3-dibromobenzene 1,4-dibromobenzene
+
+If benzene did exist as either a linear structure, containing double or triple bonds, or as
+1,3,5-cyclohexatriene, with alternating single and double C—C bonds in the ring, then
+
+a large number of different structural isomers would be observed for its disubstituted
+compounds. The fact that only three distinct isomers are observed for disubstituted
+benzenes, shown above for dibromobenzene, provides additional support for the
+accepted model of benzene where it exists as a hexagonal ring with delocalized pi
+bonds and all C—C bonds having equal lengths.
+
+Challenge yourself
+
+3. Dimethylbenzene (xylene) has three structural isomers. Draw and name these
+isomers and predict which one would have the highest melting point.
+
+Q15. Which of the following pairs of compounds are structural isomers?
+
+I. CH;CH,CH,CH,, CH;CH(CH,)CH;
+
+Il. CH,CH,CH,CH;, CH;CH,CH,
+
+Il. CH;CH,CH,CH,OH, CH,CH(CH;)CH,OH,
+
+A lonly B 1[,llandIil C_ Ilonly D land Ill
+Q16. Pentyne, C;Hg, contains a triple bond.
+
+(a) Draw two positional isomers of pentyne.
+
+(b) Draw a third structural isomer of pentyne that is not a positional isomer
+
+of the two isomers you drew for part (a).
+
+Q17. Which of the following compounds contains a secondary carbon.
+
+A CH,CH,CH,CH,OH B CH,CHF(CH;)CH,CH,
+
+C CH,BrCH,CH,CH,OH D CH,CH,CHCICH,
+
+STRUCTURE 3.2
+
+Numbers are
+assigned to the
+
+ring positions of
+substituted benzenes
+so that the lowest
+possible numbers are
+obtained.
+
+age Structure 2.2 -
+How does the fact that
+there are only 3 isomers
+of dibromobenzene
+support the current
+model of benzene'’s
+structure?
+
+367
+
+
+368
+
+STRUCTURE 3
+
+Classification of matter
+
+Q18. Draw and name the structural isomers of bromobutane, C,H Br, and
+identify each isomer as being primary, secondary or tertiary.
+
+Q19. Draw and name two different functional group isomers that can have the
+following molecular formulas:
+
+(a) C;HsO (b) C;H,O (c) C3H,O,
+
+Structure 3.2.7 — Stereoisomers
+
+Structure 3.2.7 — Stereoisomers have the same constitution (atom identities,
+connectivities and bond multiplicities) but different spatial arrangements of atoms.
+
+Describe and explain the features that give rise to cis—trans isomerism; recognize it in non-
+cyclic alkenes and in C3 and C4 cycloalkanes.
+
+Draw stereochemical formulas showing the tetrahedral arrangement around a chiral carbon.
+
+Describe and explain a chiral carbon giving rise to stereoisomers with different optical
+properties.
+
+Recognize a pair of enantiomers as non-superimposable mirror images from 3D modelling
+(real or virtual).
+
+Nomenclature using the E-Z system will not
+be assessed.
+
+The terms ‘chiral’, ‘optical activity’,
+‘enantiomer’ and ‘racemic’ mixture should be
+understood.
+
+Different chemical properties of enantiomers
+can be limited to the fact that they behave
+differently in chiral environments.
+
+Wedge-dash type representations involving
+tapered bonds should be used for the
+representation of enantiomers.
+
+Stereoisomers have different spatial arrangements
+
+In this chapter we have learnt about different types of structural isomers which is
+where molecules contain the same atoms but arranged in different ways. This included
+straight chain versus branched isomers, positional isomers and functional group
+isomers.
+
+Another type of isomerism, known as stereoisomerism, has molecules with atoms
+attached in the same order, but differing from each other in their spatial or three-
+dimensional arrangement. Although structural isomers can be represented relatively
+easily in two dimensions on paper, the study of stereoisomerism often requires three-
+dimensional representation.
+
+Stereoisomerism can be further broken down into different types, as shown in the
+chart on the next page.
+
+
+Functional groups: classification of organic compounds STRUCTURE 3.2
+
+Isomerism
+compounds with same molecular formula
+but different arrangements of the atoms
+
+Structural isomerism Stereoisomerism
+atoms and functional groups different spatial arrangements
+attached in different ways of atoms in molecules
+Configurational isomerism Conformational isomerism
+can be interconverted only by can be interconverted by free
+breaking covalent bonds rotation about o bonds
+cis-trans and isomerism Optical isomerism
+exists where there is restricted chirality exists where there is an
+rotation around atoms asymmetric carbon atom
+
+Conformational isomers usually spontaneously interconvert through bond rotations
+and so, in most cases, cannot be isolated separately. Some conformers of a compound,
+though, may be more stable than others, and so are favoured and this may influence
+the reactivity of the compound. A knowledge of conformational isomers is not
+required for this course.
+
+Cyclohexane, CgH)2, is a compound that has two conformational isomers which are shown
+
+below. Bond rotation allows the ring structure to ‘flip’ between these two forms.
+
+wy we!
+
+The two conformational isomers are known as the boat (left) and chair (right) forms of
+cyclohexane due to their distinctive shapes. What is the role of imagination and intuition in
+the creation of hypotheses in the natural sciences?
+
+
+
+STRUCTURE i Classification of matter
+
+Configurational isomers have a permanent difference in their geometry. These
+isomers cannot be interconverted and they exist as separate compounds, with some
+distinct properties. We will study in turn the two main groups of configurational
+isomerism here.
+
+cis—trans isomers can occur with alkenes and cyclic
+molecules
+
+When there is some constraint in a molecule that restricts the free rotation of substituted
+groups, they become fixed in space relative to each other. In these cases, the position of
+the groups must be described with respect to a reference plane.
+
+There are two circumstances where these isomers arise.
+
+Double-bonded molecules
+
+The double bond consists of one sigma (¢) bond and one pi (1) bond, with the 1 bond
+forming by sideways overlap of two p orbitals. Free rotation around this double bond
+is not possible as it would push the p orbitals out of position, and the 1 bond would
+break. The reference plane is perpendicular to the sigma bonds and passes through
+the double bond. When the molecule contains two or more different groups attached
+to the double bond, these can be arranged to give two different isomers. The simplest
+examples, involving only two different substituents, form what are known as cis and
+trans isomers.
+
+Xx xX Xx ¥
+N\ 4 \ we
+C= Ss = an
+
+Y Ny Y x
+cis isomer tratis isomer
+
+cis refers to the isomer that has the same groups on the same side of the double bond
+or ring, while trans is the isomer that has the same groups on opposite sides, or
+across the reference plane. These prefixes are given in italics before the name of the
+
+compound.
+
+s form is
+
+
+
+STRUCTURE 3.2
+
+The examples of cis-but-2-ene and trans-but-2-ene are given below:
+
+H,C CH;
+-
+e—E
+/ Se
+H H
+cis-but-2-ene
+
+Cyclic molecules
+
+H CH;
+aS a
+C=C
+
+HAC” _
+
+trans-but-2-ene
+
+Cycloalkanes contain a ring of carbon atoms that restricts rotation. The bond
+angles are strained from the tetrahedral angles in the parent alkane. For example,
+
+in cyclopropane, the carbon atoms form a triangle with bond angles of 60°, and in
+cyclobutane the atoms form a puckered square with approximate angles of 90°. The
+
+reference plane is the plane of the ring.
+
+cis and trans isomers also occur for substituted cyclic molecules; cis isomers have the
+matching groups on the same side of the ring, trans isomers have the matching groups
+
+on the opposite side of the ring.
+
+¥: ¥
+
+cis isomer
+
+Y X
+
+trans isomer
+
+Examples of cis and trans isomers for two disubstituted cyclic compounds,
+1,2-dimethylcyclopropane and 1,3-dichlorocyclobutane, are given below:
+
+|
+Cc
+H5C / | Ae
+[/ HA]
+Cc Cc
+| |
+H H
+cis-1,2-dimethyleyclopropane
+
+Cl H
+
+| |
+
+c Cc
+
+H /| ad/|
+
+| H |/H
+ec G
+| |
+H H
+
+cis-1,3-dichlorocyclobutane
+
+|
+c
+e/a
+I HAI
+I |
+H CH,
+
+trans-1,2-dimethylcyclopropane
+
+al H
+
+| |
+
+G C
+
+H/| H /|
+
+|/H |/H
+C c
+| |
+
+H cl
+
+trans-1,3-dichlorocyclobutane
+
+Note that, as in the example of 1,3-dichlorocyclobutane above, the substituted groups
+do not have to be on adjacent carbon atoms; it is their position relative to the plane of
+
+the ring that defines the isomer.
+
+cis-trans isomerism
+plays an important
+
+role in the chemistry of
+vision, as light causes
+
+a phatochemical
+transformation
+between the isomers
+of the pigment
+rhodopsin. This form of
+isomerism is a concern
+in the margarine
+industry, where partial
+hydrogenation of fats
+leads to the production
+of trans fats, associated
+with some negative
+health effects. A widely
+used chemotherapy
+drug used in the
+treatment of cancer is
+cis-platin, the activity of
+which is dependent on
+its stereochemistry and
+planar shape.
+
+3/1
+
+
+STRUCTURE 3
+
+You will not be able
+to demonstrate
+the presence of
+
+sterecisomers using
+
+a condensed formula
+of the compound. It is
+essential in this topic
+that you use the full
+$tructural formula or
+stereachemical formula
+to show the differences
+between the isomers.
+
+Molecular modelling
+stereoisomers. Full
+details of how to carry
+out this activity with a
+worksheet are available
+in the eBook,
+
+3/2
+
+Worked example
+
+Draw and name the cis—trans isomers of butenedioic acid.
+
+Solution
+
+As the carboxylic acid groups must be in the terminal positions and cannot
+be attached to a double bond, the condensed structural formula must be
+HOOC-CH=CH-COOH. To identify the geometric isomers, we need to
+represent the geometry of the molecule.
+
+HOOC COOH H COOH
+NY CY
+= pms
+
+H H HOOC H
+
+cis-butenedioic acid trans-butenedioic acid
+
+Challenge yourself
+
+4. cis—trans isomerism can occur in inorganic as well as in organic compounds.
+Think about why it can occur in square planar or octahedral complexes but not
+in tetrahedral complexes.
+
+5. cis-butenedioic acid forms intramolecular hydrogen bonds at the expense of
+intermolecular bonds. Consider what impact this may have on the physical
+properties and acid strength of the two isomers.
+
+cis and trans isomers of the same compound may have different physical properties and
+chemical reactivity, depending on the influence of the substituted groups on polarity
+and the shape or symmetry of the molecules. Boiling points, melting points, and
+solubility data are therefore reported separately for each isomer.
+
+Differences in the properties of the cis and trans isomers of butenedioic acid become very
+
+() evident when examples of their roles in biology are compared. They are given distinct non-
+
+|UPAC names. Fumaric acid (trans) is an intermediate in the Krebs cycle, an essential part of
+the reactions of aerobic respiration for energy release in cells. By contrast, maleic acid (cis)
+is an inhibitor of reactions that interconvert amino acids, for example, in the human liver.
+Their different biological activities are a consequence of their different shapes affecting their
+binding to enzymes, the biological catalysts that control all these reactions.
+
+Optical isomers
+
+A carbon atom attached to four different atoms or groups is known as chiral (Figure 2).
+It is alternatively known as asymmetric or as a stereocentre. The four groups,
+arranged tetrahedrally around the carbon atom with bond angles of 109.5°, can be
+arranged in two different three-dimensional configurations which are mirror images of
+each other. This is known as optical isomerism. The term refers to the ways in which
+the isomers interact with plane-polarized light, which will be discussed below. The two
+optical isomers are also known as enantiomers. They are said to be chiral molecules
+and have no plane of symmetry.
+
+
+STRUCTURE 3.2
+
+The word ‘chiral’ is
+derived from the Greek
+word for ‘hand’. Lord
+Kelvin first introduced
+the term into science
+in 1904 with the now
+celebrated definition:
+
+‘I call any geometrical
+figure, or group of
+points, chiral, and
+
+say it has chirality if
+
+its image in a plane
+mirror, ideally realized,
+cannot be brought to
+coincide with itself’ His
+definition can therefore
+be applied much more
+generally to structures
+outside chemistry, such
+as knots.
+
+isomer II
+
+isomer |
+A
+
+$3.2 Figure 2 An asymmetric, or chiral, carbon atom, shown in black, is bonded to four different
+atoms or groups - shown here in different colours. This gives rise to two configurations, called
+enantiomers or optical isomers, which are mirror images af each other.
+
+If you look at your two hands you will see that they also are mirror images (Figure 3).
+When you put them on top of each other, with both palms up or both palms down, the
+fingers and thumbs do not line up — we say they are non-superimposable.
+
+Computer simulations
+and technologies
+such as 3D printing
+may facilitate our
+understanding of
+stereachemistry.
+
+A To what extent do
+
+$3.2 Figure 3 Your two hands are non-superimposable mirror images. these approaches
+involve a different
+
+Many molecules have more than one chiral centre, and so can give rise to different way of knowing than
+
+studies based on
+two-dimensional
+representations? How
+
+configurations at each position (Figure 4). Enantiomers have opposite configurations
+at each chiral centre, which is why the molecules are mirror images of each other. But
+
+when molecules have different configurations at one or more, but not all, chiral centres, dathe tosle we use
+they are known as diastereomers and are not mirror images of each other. Common shape the knowledge
+sugars are often diastereomers of each other; examples are glucose and galactose. that we produce?
+
+3/3
+
+
+STRUCTURE 3 Classification of matter
+
+A single chiral centre i a i
+ina molecule gives rise * # +
+to two stereaisomers. a OH ee H ee H
+In general, a molecule * * +
+with n chiral centres H—C— OH HO—C—H H—cC— OH
+has a maximum of
+2" stereoisomers, CH70H CH30H CH20H
+although some may | J | |
+be too strained to enantiomers diastereomers
+exist. For example, opposite configuration at opposite configuration at
+cholesterol has eight both chiral centres only one chiral centre
+
+chiral centres and
+therefore a possible A
+28 = 256 stereoisomers.
+However, only one is
+produced in biological
+systems, which is just
+one example of how
+incredibly specific
+biological reactions
+can be.
+
+MuIrror images C
+
+We can find optical activity in many of the molecules we have already encountered in
+this chapter. The clue is to look for any carbon atom that is bonded to four different
+groups. It is often useful to mark that carbon with a red asterisk (Figure 5).
+
+(a) mirror
+
+Enantiomers
+have opposite
+configurations at all
+chiral centres and
+are mirror images
+of each other.
+Diastereomers
+have opposite ;
+configurations at (b) mirror
+some, but not all, H H
+chiral centres, and | |
+are not mirror me ees oe
+images of each cle, CH; H3C— \ cl
+
+other. GH; CoH:
+
+* = chiral C atom
+
+A
+
+§3.2 Figure 5 Enantiomers of (a) butan-2-ol and (b) 2-chlorobutane.
+
+Molecular graphic of the two
+
+
+
+Functional groups: classification of organic compounds
+
+Worked example
+
+Draw the enantiomers of 2-hydroxypropanoic acid (lactic acid). Mark the chiral
+carbon atom and show the plane of the mirror.
+
+Solution
+
+Identify the chiral carbon and draw a stereochemical structure showing the four
+different groups around this chiral carbon. Then add a mirror plane and use this to
+draw the mirror image of the first structure.
+
+| i
+cC Cc
+HO ~/ —- COOH HOOG=s \- OH
+H;C CH,
+plane of
+mirror
+
+Properties of enantiomers
+
+Diastereomers usually differ from each other in their physical and chemical properties.
+Enantiomers, on the other hand, have identical physical and chemical properties —
+with two important exceptions.
+
+Optical activity
+
+As their name suggests, optical isomers show a difference in a specific interaction
+with light. A beam of ordinary light consists of electromagnetic waves that oscillate in
+an infinite number of planes at right angles to the direction of travel. If, however, this
+light is passed through a device called a polarizer, only the light waves oscillating in a
+single plane pass through, while light waves in all other planes are blocked out. This is
+known as plane-polarized light. A similar effect is achieved in polarized sunglasses
+or windshields to reduce glare.
+
+In the early 1800s, it was discovered that when a beam of plane-polarized light
+passes through a solution of optical isomers, they rotate the plane of polarization.
+The amount and direction of rotation can be measured with an instrument called a
+polarimeter, as shown in Figure 6.
+
+| Cc
+N eS
+plane- (HS
+polarized
+
+: chiral compound
+light in solution
+
+ordinary
+light
+
+polarizer
+
+emerging
+
+analyser light beam
+
+STRUCTURE 3.2
+
+When drawing
+enantiomers, make
+sure that you use the
+wedge-dash type
+representation. It is best
+to draw in the plane
+of the mirror first and
+then ensure that the
+same groups in the
+two molecules are an
+equal distance from
+this plane.
+
+Note that when you
+are looking for a chiral
+carbon atom ina
+molecule you must
+look at the whole
+group bonded to the
+carbon, not just the
+immediately bonded
+atom. For example,
+-CH; is a different
+group from -C)Hs.
+
+@ $3.2 Figure 6 Schematic
+representation of a
+polarimeter.
+
+3/5
+
+
+STRUCTURE 3 Classification of matter
+
+The solution of isomers is placed in the sample tube through which plane-polarized
+light is passed. Rotation of the polarization plane occurs and the light then passes
+through a second polarizer called the analyser. This can be rotated until the light
+passes through it and so the angle of rotation (@) can be deduced. In order to compare
+different solutions, the concentrations of the solutions, the wavelength of light used,
+and the sample path length must all be kept the same.
+
+Separate solutions of enantiomers, at the same concentration, rotate plane-polarized light
+in equal amounts but in opposite directions. This is what is meant by being optically
+active. A racemic mixture ofa chiral compound contains equal concentrations of the
+two optical isomers. The rotation caused by each optical isomer cancels that of the other
+
+so a racemic mixture does not rotate polarized light and is said to be optically inactive.
+Naturally occurring chiral molecules are optically active, in other words, they exist as only
+one enantiomer. For example, morphine rotates plane-polarized light to the left so is said to
+be (), whereas sucrose rotates it to the right and is said to be (+).
+
+fo} Nature of Science
+
+The pioneer of polarimetry was Jean-Baptiste Biot (1774-1862) who was a
+French physicist and friend of the famous French bacteriologist Louis Pasteur
+(1822-1895). Biot showed that some crystals of quartz rotated the plane of
+polarized light while other crystals rotated it to the same extent in the opposite
+direction. Later, by showing the same effect in liquids such as turpentine, and
+in solutions of naturally occurring substances such as sugar, he realized it must
+be a molecular property and coined the term ‘optical activity’. In 1848 Pasteur
+discovered that while tartaric acid shows optical activity, racemic acid with
+
+the same chemical composition does not, and deduced that this is because
+
+the racemic acid contains an equal mixture of two isomers. Pasteur saw the
+huge significance of this. He reasoned that reactions outside the cell always
+produce an optically inactive mixture whereas biological activity is specific
+
+to one isomer. In his later work on the origin of life, this became his guiding
+distinction between living and inanimate material.
+
+The two
+enantiomers of a
+chiral compound
+
+rotate plane-
+polarized light in
+equal and opposite
+directions.
+
+Different notations are used to distinguish between the two enantiomers of a pair. (+) and (-)
+refer to the direction in which the plane-polarized light is rotated, (+) for a clockwise direction
+and (-) for anticlockwise rotation. The lowercase d- (dextrorotatory) and |- (laevorotatory)
+respectively, are used as alternates for this but are becoming obsolete. Confusingly, small
+uppercase D- and L- are a different, unrelated notation based on spatial configurations in
+comparison with the reference molecule glyceraldehyde. This latter system is widely used
+
+in naming many biological molecules such as amino acids and sugars. Other molecules are
+described by their absalute configuration, using R (rectus) for right or clockwise and S (sinister)
+for left or anticlockwise. The rules for determining the absolute configuration are based on
+atomic number and mass. Happily, we will not adopt any particular system here and you will
+not be expected to identify the specific enantiomer in any of these examples.
+
+Reactivity with other chiral molecules
+
+When a racemic mixture is reacted with a single enantiomer of another chiral
+compound, the two components of the mixture, the (+) and (-) enantiomers, react
+to produce different products. These products have distinct chemical and physical
+properties and so can be separated from each other relatively easily. This is therefore
+a means by which the two enantiomers can be separated from a racemic mixture, a
+process known as resolution.
+
+3/6
+
+
+STRUCTURE 3.2
+
+The different reactivity of a pair of enantiomers with another chiral molecule is of
+
+. ems neice : ; . The human senses of
+particular significance in biological systems because these are chiral environments.
+
+smell and taste are
+
+1
+
+An infamous example of this occurred in the 1960s when the drug thalidomide was responsive to chiral
+
+prescribed to pregnant women for morning sickness. infl uences. For example,
+p-amino acids all
+
+taste sweet, whereas
+L-amino acids are often
+tasteless or bitter. We
+can distinguish between
+the smells of oranges
+and lemons due to the
+presence of different
+
+(R)-thalidomide (S)-thalidomide enantiomers of the
+(sleep-inducing) (teratogenic) compound limonene.
+This is because taste
+A buds on the tongue
+$3.2 Figure 7 The two enantiomers of the drug thalidomide. The chiral carbon atom is marked with a and sense receptors
+red asterisk(*). in the nase contain
+chiral molecules and
+As Figure 7 outlines, one enantiomer is therapeutic but the other is teratogenic and so interact differently
+produces severe malformations in the fetus. This tragedy largely spearheaded research with the different
+
+enantiomers. As a
+result, stereachemistry
+is a major aspect of
+
+into chiral compounds, and the development of processes for the manufacture of a
+single enantiomer using a chiral catalyst. These processes, known as asymmetric
+
+synthesis, led to the Nobel Prize in Chemistry in 2001 and 2021. the food and perfume
+industries, as well as
+The thalidomide drug was never marketed in the USA because of the intervention of Frances being a key factor in
+Kelsey, a pharmacologist working at the Food and Drug Administration (FDA). Despite the pharmaceutical
+pressure from thalidomide's manufacturer and the fact that it was already approved in over industry.
+
+20 countries, she registered concerns about the drug’s ability to cross the placenta into the
+fetal blood. Her insistence that further tests be carried out was dramatically vindicated when
+
+the effects of thalidomide became known. For her insightful work in averting a similar tragedy ) Mery drugs are
+in the USA, she was given a Distinguished Federal Service Award by President Kennedy. chiral and so exist as
+Do the natural sciences provide us with good examples of people who approach knowledge two forms ~ these
+
+in a rigorous and responsible way? ore be
+considered as two
+
+separate drugs, with
+different properties,
+during research and
+development. Often
+only one form has the
+intended therapeutic
+effect so it is very
+important that the
+testing and approval
+process of any new
+chiral drug determines
+the biological effects
+for each enantiomer.
+
+A
+
+Close-up of the deformed hand and forearm of a ‘thalidomide baby’. Thalidomide is a sedative drug
+that was administered to many pregnant women in the 1960s. It was withdrawn from the market after
+it was found to cause serious fetal abnormalities. This tragedy led to major changes in drug testing
+protocols.
+
+3/7
+
+
+STRUCTURE 3
+
+To what extent do you
+think consumers can
+be free from prejudice
+regarding the use of
+the thalidomide drug,
+given its dark history? Is
+opposition likely to be
+based on emotion or
+on rational distrust of
+the scientific research?
+Does knowledge always
+require some kind of
+rational basis?
+
+3/8
+
+!
+
+Classification of matter
+
+It is known that the two forms of the thalidomide drug interconvert under physiological
+conditions, so administering a pure isomer would not protect against the teratogenic effects.
+Nonetheless, the drug is still of some interest to researchers. It is thought that the action
+
+of the (S) form is to prevent the development of new blood vessels and this makes it an
+interesting agent for suppressing tumour growth in cancer and in treatment of HIV/AIDS and
+leprosy. Thalidomide is administered in some places for these purposes, but its marketing
+remains highly controversial.
+
+All drugs carry risks as well as benefits. Who should ultimately be responsible for assessing
+the risk-to-benefit ratio of a drug in an individual - the pharmaceutical company, a
+government watchdog body, the doctor, or the patient? Do scientists or the societies in
+which scientists operate exert a greater influence on what is ethically acceptable in this area
+of knowledge?
+
+Challenge yourself
+
+6. The structure of taxol, an anti-cancer drug, is given below. Taxol contains
+
+11 chiral carbons. Can you find them all?
+
+CH,OCO
+
+HO
+
+Q20. Draw the structural formulas for the following molecules:
+
+(a) trans-but-2-ene (b) cis-1,2-dichloropropene
+
+(c) cis-1,3-dimethylcyclopentane — (d)_trans-1,2-dibromocyclobutane
+
+Q21. Name the following molecules:
+
+H b) H;C OH
+(a) (b) H; . /
+JS
+Br Br HO CH,
+H H
+H
+C=C cl H
+ra
+CH,CH, CH,CH;,
+H cl
+H H
+
+
+Functional groups: classification of organic compounds
+
+Q22. Draw the two optical isomers of 1-bromo-1-chloroethane using
+stereochemical structures.
+
+Q23. Which of the following compounds can exist as optical isomers?
+I. CH;CHBrCHCICH,OH
+Il. CH,CH,CH(CH;)COOH
+Il. CH,CICHBrCH,
+A Ilonly Bland Ill C Illonly D I,lland Ill
+
+Q24. The first alkane to show optical isomerism is 3-methylhexane.
+
+(a) Draw the condensed structural formula of 3-methylhexane and identify
+the chiral carbon.
+
+(b) Determine the structure and name of the first alcohol that shows optical
+isomerism.
+
+The structures of organic compounds can be
+determined using analytical techniques
+
+Chemical analysts identify and characterize unknown substances, determine the
+composition of a mixture, and identify impurities. Their work can be divided into
+three types of analysis:
+
+* qualitative analysis: the detection of the presence but not the quantity of a
+substance in a mixture; for example, forbidden substances in an athlete’s blood
+
+* quantitative analysis: the measurement of the quantity of a particular
+substance in a mixture; for example, the alcohol levels in a driver’s breath
+
+* structural analysis: a description of how the atoms are arranged in molecular
+structures; for example, the determination of the structure of a naturally
+occurring or artificial product.
+
+Many instrumental techniques are available to provide structural analysis but we will
+focus on three of the most common.
+
+* Mass spectrometry is used to determine relative atomic and molecular masses.
+The fragmentation pattern can be used as a fingerprint technique to identify
+unknown substances or for evidence for the arrangements of atoms in a
+molecule.
+
+¢ Infrared spectroscopy is used to identify the bonds in a molecule.
+
+* Nuclear magnetic resonance spectroscopy is used to show the chemical
+environment of certain isotopes (hydrogen, carbon, phosphorus and fluorine)
+ina molecule and so gives vital structural information.
+
+No one method alone is definitive, but a combination of techniques can provide strong
+evidence for a particular structure.
+
+STRUCTURE 3.2
+
+The Spectra
+
+Database for Organic
+Compounds was
+opened in 1997
+
+and has given the
+public free access to
+the spectra of more
+than 35000 organic
+compounds. The total
+accumulated number
+of visits reached
+
+550 million at the end
+of January 2015, and
+the database has sent
+information from Japan
+to all over the world.
+The open exchange of
+information is a key
+element of scientific
+progress.
+
+3/9
+
+
+STRUCTURE 3
+
+Structure 3.2.8 — Mass spectrometry
+
+A mass spectrometer. >
+
+The molecules are ionized
+and accelerated towards a
+detector. The sensor array can
+be seen through the round
+window (lower left).
+
+The molecular
+ion, or parent ion,
+is formed when
+
+a molecule loses
+one electron but
+otherwise remains
+unchanged.
+
+380
+
+Structure 3.2.8 — Mass spectrometry (MS) of organic compounds can cause
+fragmentation of molecules.
+
+Deduce information about the structural features of a compound from specific MS
+fragmentation patterns.
+
+Include reference to the molecular ion.
+
+Data on specific MS fragments are provided
+in the data booklet.
+
+Determining the molecular mass of a compound
+
+The mass spectrometer was introduced in Structure 1.2 where we saw how it is used
+to find the mass of individual atoms and the relative abundances of different isotopes.
+The instrument can be used in a similar way to find the relative molecular mass of a
+compound. If the empirical formula is also known from compositional analysis, the
+molecular formula can be determined. The technique also provides useful clues about
+the molecular structure.
+
+Fragmentation patterns
+
+The ionization process in the mass spectrometer involves an electron from an electron
+gun hitting the incident species and removing an electron:
+
+X(g) + e+ X%(g) + 2e
+
+molecule molecular ion
+
+The collision can be so energetic that it causes the molecule to break up into different
+fragments. The peak with the largest mass/charge value in the mass spectrum
+corresponds to the molecular ion which has passed through the instrument without
+fragmenting. Other ions, produced as a result of the molecular ion breaking up into
+smaller fragments, are also detected.
+
+
+The fragmentation pattern can provide useful evidence for the structure of the
+compound. A chemist pieces together the fragments to form a picture of the complete
+molecule in the same way that archaeologists find clues about the past from the pieces
+of artefacts discovered in the ground.
+
+Consider Figure 8, which shows the mass spectrum of ethanol.
+
+100 -
+90 4
+804
+70
+604
+50+
+40 4
+304
+204
+104
+
+0 T T T T
+0 10 20 30 40 50 60
+
+mass/charge
+
+31
+
+H H
+
+H—C—C-—0-_H
+
+H H
+
+relative abundance
+
+15
+
+29
+| 46
+
+The molecular ion corresponds to the peak at 46. The ion that appears at a relative
+mass of 45, one less than the molecular ion, corresponds to the loss of a hydrogen
+atom.
+
+Figure 9 shows fragmentation paths that explain the rest of the spectrum.
+
+H H_ m/z=46 H H mjz=45
+
+| | loss of H |
+H—cC —C —O—Ht — —> H— Cc — C— or
+
+loss of
+
+Hy ogy m/z = 31
+loss of OH |
+Cc*—O—H
+|
+H
+
+For each fragmentation, one of the products keeps the positive charge. So, for example,
+if the C-C bond breaks in the molecular ion formed from ethanol, two outcomes are
+possible, as seen in Figure 10.
+
+STRUCTURE 3.2
+
+“@ $3.2 Figure 8 The structure
+
+of ethanol and its mass
+spectrum.
+
+The parent ion
+
+can break up into
+smaller ions ina
+mass spectrometer.
+A compound is
+characterized by
+this fragmentation
+pattern.
+
+$3.2 Figure 9 Possible
+fragmentation pattern
+produced when ethanol
+
+is bombarded with high-
+energy electrons in a mass
+spectrometer.
+
+381
+
+
+STRUCTURE 3
+
+$3.2 Figure 10 Two >
+possible ways in which the
+C-C bond can break in the
+molecular ion of ethanel.
+Only the charged species can
+be detected, as electric and
+magnetic fields have no effect
+on neutral fragments.
+
+Do not forget to
+include the positive
+charge on the ions
+when identifying
+different fragments.
+
+382
+
+The fragmentation shown in Figure 10 explains the presence of peaks at both m/z = 15
+and m/z = 31. Generally, the fragment that gives the most stable ion is formed and
+subsequently observed in the mass spectrum.
+
+CH; + CH,OH*
+31
+
+C,H;OH+
+
+CH;* + CH,OH
+15
+
+The cleavage of the C—O bond leads to the formation of the C)H;* ion in preference to
+the OH* ion in the example above, so there is an observed peak at m/z = 29 but not at
+m/z=17.
+
+Full analysis of a mass spectrum can be a complex process. We make use of the
+mass difference between the peaks to identify the pieces that have fallen off. You are
+expected to recognize the mass fragments shown below. You are not expected to
+memorize the details as the data are given in Section 22 of the data booklet.
+
+Mass lost Fragment lost
+ID -CH;
+
+17 -OH
+
+18 H,O
+
+28 CH,=CH,, C=O
+29 -CH,CH,,-CHO
+31 -OCH,
+
+45 “COOH
+
+Worked example
+
+A molecule with an empirical formula CH;O has the simplified mass spectrum shown
+below. Deduce the molecular formula and give a possible structure of the compound.
+
+100 - 43
+
+905 45
+80
+
+70-4
+60- 15
+30° 60
+404
+304
+204
+104
+
+0 T T T T T
+0 10 20 30 40 50 60
+
+mass/charge
+
+relative abundance
+
+
+
+Functional groups: classification of organic compounds STRUCTURE 3.2
+
+Solution
+
+empirical formula = CH,O; molecular formula = C,,H2,O,
+We can see that the parent ion has a relative mass of 60.
+M, = n(12.01) + 2n(1.01) + n(16.00) = 30.03n
+
+n= Pe =2
+
+molecular formula = C;H,O,
+
+From the spectrum, we can identify the following peaks:
+
+Peaks Explanation
+
+15 presence of CH;*
+
+(60-45) loss of COOH from molecule
+43 presence of C;H,O*
+
+(60-17) loss of OH from molecule
+
+45 presence of COOH*
+
+(60-15) loss of CH; from molecule
+
+The structure consistent with this fragmentation pattern is:
+
+H O
+
+| sl
+at
+
+|
+
+H
+
+Q25. The mass spectrum shown below was produced by a compound with the
+formula C,H,,O.
+
+relative abundance
+
+| ee | | | | a | | | |
+0 10 15 20 25 30 35 40 45 50 55 60 65 70 75
+
+mass/charge
+
+Which ions are detected in the mass spectrometer?
+
+I. GH,0* I. C,H,O* I. C,H,0*
+A land Il only Bland III only
+C_ Iland Ill only D 1,land Il
+
+383
+
+
+STRUCTURE 3 Classification of matter
+
+Q26. While working on an organic synthesis, a student isolated a compound X,
+which they then analysed with a mass spectrometer.
+
+relative abundance
+
+| | ee a ae ee ee eee | | ll
+0 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
+
+mass/charge
+
+Identify X from the mass spectrum shown.
+Janes Reskere B C3H,CO,H
+C CH.CO,CH, D (CH,),CHCO,H
+Q27. The mass spectra of two compounds, A and B, are shown below. One is
+propanone (CH;COCH;) and the other is propanal (CH;CH,CHO). Identify
+
+the compound in each case and explain the similarities and differences
+between the two spectra.
+
+100 5 100 -
+
+29 43
+
+90 4 90 5
+
+80 - 28 804
+@ 70- 8 » 704
+B 60: 8 60, 58
+2 504 2 504
+& “) 57 = a
+2 30/ = 304
+
+204 He
+
+10 5 10 4
+
+0 1 1 1 1 0 pet py 1
+0 10 20 30 40 50 60 0 10 20 30 40 50 60
+A mass/charge B mass/charge
+Q28. The simplified mass spectrum of a 100 - fe
+
+compound with empirical formula 90 -
+C>H; is shown on the right. 80
+(a) Explain which ions give rise to e 70+
+
+the peaks shown. 5 60
+(b) Deduce the molecular 8 304 29
+
+structure of the compound. ge 404
+
+=e
+a) 13 58
+104 |
+0
+
+0 10 20 30 40 50 60
+mass/charge
+
+384
+
+
+Functional groups: classification of organic compounds
+
+Structure 3.2.9 — Infrared spectroscopy
+
+Structure 3.2.9 — Infrared (IR) spectra can be used to identify the type of bond present
+in a molecule.
+
+Interpret the functional group region of an IR spectrum, using a table of characteristic
+frequencies (wavenumber / cm”).
+
+Structure 2.2 — What features of a molecule
+determine whether it is IR active or not?
+
+Include reference to the absorption of IR
+radiation by greenhouse gases.
+
+Data for interpretation of IR spectra are given | Reactivity 1.3 —- What properties of a
+in the data booklet. greenhouse gas determine its ‘global warming
+
+potential’?
+
+Different regions of the electromagnetic spectrum
+give different information about the structure of
+organic molecules
+
+Spectroscopy is the main method we have of probing into the atom and the molecule.
+There is a type of spectroscopy for each of the main regions of the electromagnetic
+spectrum. As discussed in Structure 1.3, electromagnetic radiation is a form of energy
+transferred by waves and characterized by its:
+
+* wavelength (2): the distance between successive crests or troughs
+* frequency (f): the number of waves which pass a point every second.
+
+The electromagnetic spectrum can be found in Section 5 of the data booklet. Typical
+wavelengths and frequencies for each region of the spectrum are summarized in the
+table below.
+
+Type of electromagnetic radiation | Typical frequency (f) | s“! | Typical wavelength (4) /m
+radio waves (low energy) 3 x 106 102
+
+microwaves 3x 1010 107
+
+infrared 3x 10" 10+
+
+visible 3x 10) 10°77
+
+ultraviolet 3x 101% 10-8
+
+x-rays 3x 1018 10-10
+
+gamma rays greater than 3 x 1072 less than 10-4
+
+It should be noted from the table that f x A = 3.0 x 108m s"! = ¢, the speed of light.
+This gives f= c/A.
+
+In infrared spectroscopy, the frequency of radiation is often measured as the number
+of waves per centimetre (cm“‘), also called the wavenumber.
+
+A wavenumber (cm~') is a measure of frequency commonly used in IR
+spectroscopy. The frequency of electromagnetic radiation is typically measured
+in units of s-' which corresponds to the number of peaks that are observed per
+second. When measured in wavenumbers, the frequency of electromagnetic
+radiation instead corresponds to the number of peaks that occur within 1 cm.
+
+STRUCTURE 3.2
+
+The physical analytical
+techniques now
+available to us are
+
+due to advances in
+technology. To what
+extent are technologies,
+such as spectrometers,
+merely extensions to the
+human senses, or do
+they introduce radically
+new ways of seeing the
+world?
+
+* The distance
+between two
+successive crests
+(or troughs)
+is called the
+wavelength.
+
+* The frequency of
+the wave is the
+number of waves
+which pass a point
+in one second.
+
+For electromagnetic
+waves, the
+wavelength and
+frequency are related
+by the equation
+
+c=fa
+where c is the
+speed of light, f is
+frequency ins“! and
+A is wavelength in m.
+
+385
+
+
+STRUCTURE 3
+
+Microwave cookers
+heat food very
+quickly because the
+radiation penetrates
+deep into the food.
+The frequency used
+corresponds to the
+energy needed to
+rotate water molecules,
+which are present
+
+in mast foods. The
+radiation absorbed by
+the water molecules
+makes ther rotate
+faster. As they bump
+into other molecules,
+the extra energy is
+spread throughout
+the food and the
+temperature rises.
+
+386
+
+Worked example
+
+If an absorption occurs at a wavelength of 5556nm, what would be the frequency
+of this absorption in units of cm™!?
+
+Solution
+
+First, convert the wavelength into units of cm.
+
+5556nm = 5556 x 10m = 5.556 x 10°°m = 5.556 x 10-*cm
+1
+
+wavelength (cm)
+
+: 1
+~ 5.556 * 10-4em
+
+The frequency in cm™ =
+
+= 1800cm7!
+
+All forms of spectroscopy involve the study of how electromagnetic radiation interacts with
+matter. However, scientists working with different regions of the electromagnetic spectrum
+tend to use different conventions and units to characterize the light absorbed. For example:
+
++ Uultraviolet-visible spectrascopists use nm (10°? m) to define a wavelength
++ IR spectroscopists use wavenumbers (cm~') to define a frequency
++ NMR spectroscopists working with radio waves use s-! (Hz) to define a frequency.
+
+If scientists work with more than one spectroscopic technique, they need to become
+proficient at working with the different conventions and units. Does the precision of the
+language used in the natural sciences successfully eliminate all ambiguity?
+
+As well as transferring energy, electromagnetic radiation can also be viewed as a
+carrier of information. Different regions give different types of information, by
+interacting with substances in different ways.
+
+* Radio waves can be absorbed by certain nuclei, causing them to reverse their
+nuclear spin. They are used in nuclear magnetic resonance (NMR) and can give
+information about the environment of certain atoms.
+
+* Microwaves cause molecules to increase their rotational energy. This can give
+information about bond lengths.
+
+¢ Infrared radiation is absorbed by certain bonds causing them to stretch or
+bend. This gives information about the bonds in a molecule.
+
+* Visible light and ultraviolet light can produce electronic transitions and give
+information about the electronic energy levels within the atom or molecule.
+
+¢ X-rays are produced when electrons make transitions between inner energy
+levels. They have wavelengths of the same order of magnitude as the inter-
+atomic distances in crystals and produce diffraction patterns which provide
+direct evidence of molecular and crystal structure.
+
+Challenge yourself
+
+7. Calculate the energy of a photon of visible light with a frequency of 3.0 x 10457.
+Express your answer in kJ mol".
+
+As stated above, all regions of the electromagnetic spectrum can provide important
+information about the properties and structures of molecules. In this course we focus
+on the information that can be obtained from the use of infrared (IR) and radio waves
+in IR and NMR spectroscopy.
+
+
+POIN/S
+
+COACHING COUNSELLING PROFILE BUILDING Sour International Currigy|u Eanert
+
+9820032734
+
+| Breach Candy Bandra ]
+
+3305 — Tower 4. Runa) Forest. Shonda Wert, Humbos — 400078
+
+Points EduLab Pvt. Ltd.
+
+
+
+Infrared (IR) spectroscopy gives information about
+the bonds present in a molecule
+
+The natural frequency of a chemical bond
+
+A chemical bond can be thought of as a spring. Each bond vibrates and bends at a
+natural frequency, which depends on the bond strength and the masses of the atoms.
+Light atoms, for example, vibrate at higher frequencies than heavier atoms and
+multiple bonds, which are stronger, vibrate at higher frequencies than single bonds.
+
+Simple diatomic molecules such as HCl, HBr and HI can only vibrate when the bond
+stretches (Figure 11a). The HCl bond has the highest frequency of these three as it has
+the largest bond energy and the halogen atom with the smallest relative atomic mass.
+
+In more complex molecules, different types of vibration can occur, such as bending, so
+that a complex range of frequencies is present (Figure 11b).
+
+Absorbing infrared radiation excites the bonds in molecules
+
+The energy needed to excite the bonds in a molecule, to make them vibrate with
+greater amplitude, occurs in the IR region (Figure 12). A bond in a diatomic molecule
+will only interact with the electromagnetic infrared radiation, however, if it is polar.
+The presence of separate areas of partial positive and negative charge in a molecule
+allows the electric field component of the electromagnetic wave to excite the
+vibrational energy of the molecule. The change in the vibrational energy produces
+
+a corresponding change in the dipole moment of the molecule. The intensity of the
+absorption depends on the polarity of the bond. Symmetrical non-polar bonds in
+N=N and O=O do not absorb radiation, as they cannot interact with an electric field.
+
+frequency ranges
+1.20 x 10'4 571 7.50 x 102 57! 5.70 x 103 5-! 4.50 x 104% s7! 1.95 x 10% 5-1
+
+4000cm~! 2500cm7! 1900 cm~! 1500cm~! 650cm7!
+wavenumber ranges
+
+Stretching and bending in a polyatomic molecule
+
+In a polyatomic molecule such as water, it is more correct to consider the molecule
+stretching and bending as a whole, rather than considering the individual bonds.
+Water, for example, can vibrate at three fundamental frequencies as shown in
+
+Figure 13. As each of the three modes of vibration results in a change in the dipole of
+the molecule, they can be detected with IR spectroscopy.
+
+WN IN Ne
+
+symmetric stretch asymmetric stretch symmetric bend
+== 3650cm"' = 3760cm"' = 1600cm™'
+
+STRUCTURE 3.2
+
+$3.2 Figure 11 |R radiation
+can cause a bond to stretch
+or bend.
+
+<@ $3.2 Figure 12 The natural
+frequencies of some covalent
+bonds.
+
+4 $3.2 Figure 13 The three
+vibrational modes of the
+water molecule are all IR
+active as they each produce a
+change in the dipole moment
+of the molecule.
+
+387
+
+
+STRUCTURE 3
+
+Structure 2.2 - What
+features of a molecule
+determine whether it is
+IR active or not?
+
+$3.2 Figure 14 Three of
+the vibrational modes of the
+carbon dioxide molecule
+are IR active. The symmetric
+stretch produces no change
+in dipole and so is IR inactive.
+
+388
+
+Classification of matter
+
+For a symmetrical linear molecule such as carbon dioxide, there are four modes of
+vibration (Figure 14). However, the symmetric stretch is IR inactive as it produces no
+change in dipole moment. The dipoles of both C=O bonds are equal and opposite
+throughout the vibration.
+
+—_.|._tll.i
+O-G-O | O-O=O 0-0-0 | EO
+
+symmetric stretch asymmetric stretch two symmetric bends = 670cm~"
+Nee pe Zoom The malecule has a temporary dipole
+As the molecule The molecule has a moment as it bends away from its linear
+remains symmetrical, temporary dipole geometry. The two vibrations are
+
+it has no change in moment when the identical, except that one is in the plane
+dipole. C=0 bond lengths of the page and the other is out of the
+
+are of unequal length. __| plane of the page.
+
+CB Nature of Science
+
+Scientists use models to clarify features and relationships that are not directly
+observable. These models can become more and more sophisticated but they
+can never become the real thing. Models are just a representation of reality. The
+IR spectra of organic molecules, for example, are based on the bond vibration
+model, in which the covalent bond between two atoms is compared to a spring,
+with its natural frequency depending on the bond strength and the masses of
+an atom in the same way that the natural frequency of a spring depends on its
+stiffness and mass. We often use our everyday experiences to help us construct
+models to understand processes that are occurring on a scale beyond our
+experience. This is the strength of such models as it helps our understanding;
+the same mass/spring model can be used to explain a float bobbing up and
+down in water for example. However, models also have limitations.
+
+Scientists often take a complex problem and reduce it to a simpler, more
+manageable one that can be treated mathematically. We should not forget
+that the bond vibration model is a simplification — albeit an effective one. It
+is molecules, and not individual bonds, that are vibrating, as we saw on the
+previous page and above for the examples of water and carbon dioxide.
+
+Greenhouse gases absorb long-wavelength IR radiation from
+the Earth
+
+The temperature of the Earth is maintained by a steady-state balance between the
+energy received from the Sun and the energy leaving the Earth and going back into
+space. Incoming solar radiation is in the visible and ultraviolet region. Some of this
+radiation is reflected back into space and some is absorbed by gases in the atmosphere.
+Most of the solar radiation passes through the atmosphere, however, and warms
+
+the surface of the Earth. The warm Earth surface then radiates some of this energy
+as longer wavelength infrared radiation which is absorbed by greenhouse
+molecules such as carbon dioxide and water vapour in the lower atmosphere. This
+makes the air warmer, causing it to radiate heat in turn. Some of this radiation is
+re-radiated back to the Earth’s surface and some is re-radiated back into space. This
+natural process is called the greenhouse effect because the Sun's energy is absorbed
+
+
+in a way that is similar to the way light energy is trapped by the glass in a greenhouse.
+The glass lets light energy in but does not let heat energy out.
+
+Earth's surface heated
+' Sun; radiates heat
+to space
+
+The ability of a molecule to absorb infrared radiation depends on the change in dipole
+moment that occurs as it vibrates. This means that some greenhouse gases are much
+more effective than others in absorbing infrared radiation and trapping heat in the
+atmosphere.
+
+The global warming potential of a greenhouse gas compares the amount of infrared
+energy that one tonne of the gas would absorb to the amount that would be absorbed
+by one tonne of CO, over the same time period. This will depend upon:
+
+* how effective the individual gas molecules are at absorbing IR radiation
+* the atmospheric lifetime of the gas; ie. how long it persists in the atmosphere
+before being removed through natural processes.
+
+The global warming potentials for some greenhouse gases over a 100-year time period
+are given in the table below.
+
+Greenhouse gas | Chemical formula | Global warming potential (100-year time period)
+
+carbon dioxide co, 1
+
+methane CH, 28
+nitrous oxide NO, 265
+CFC-13 CCIF, 13 900
+HEC-134a CH,FCF; 1300
+
+CFC-13 and HFC-134a are both synthetic compounds that have been used as refrigerants.
+CFC-13 is a chlorofluorocarbon that was banned under the Montreal Protocol due to it
+being an ozone depleting substance. HFC-134a is a hydrofluorocarbon that was regarded as
+a safer alternative as a refrigerant as it is not ozone depleting. Under the Kigali Amendment
+to the Montreal Protocol, it is also being phased out due to its high global warming potential.
+
+Matching wavenumbers with bonds
+
+The absorption of particular wavenumbers of IR radiation helps the chemist identify
+the bonds in a molecule. The precise position of the absorption depends on the
+environment of the bond, so a range of wavenumbers is used to identify different
+
+bonds.
+
+STRUCTURE 3.2
+
+Reactivity 1.3 -
+What properties of
+a greenhouse gas
+determine its ‘global
+warming potential’?
+
+You are not expected
+to remember
+
+the characteristic
+wavenumbers. A more
+complete list is given in
+Section 20 of the data
+booklet.
+
+389
+
+
+STRUCTURE 3
+
+Characteristic infrared absorption bands are shown in the table below.
+
+Bond Wavenumber / cm™! Intensity
+
+Cc-O 1050-1410 strong
+
+c=C 1620-1680 medium-weak; multiple bands
+c=0 1700-1750 strong
+
+C=C 2100-2260 variable
+
+O-H, hydrogen bonded in 2500-3000 strong, very broad
+carboxylic acids
+
+C-H 2850-3090 strong
+
+O-H, hydrogen bonded in 3200-3600 strong
+
+alcohols and phenols
+
+N-H 3300-3500 strong
+
+Some bonds can also be identified by the distinctive shapes of their signals: for
+example, the O-H bond gives a broad signal and the C=O bond gives a sharp signal.
+
+Because hydrogen bonding broadens the IR absorptions, its presence can be detected.
+For example, hydrogen bonding between hydroxyl groups changes the O-H vibration;
+it makes the absorption much broader and shifts it to a lower frequency.
+
+Molecules with several bonds can vibrate in many different ways and with many different
+frequencies. The complex pattern can be used as a ‘fingerprint’ to be matched against the
+recorded spectra of known compounds in a database (Figure 15). A comparison of the
+spectrum ofa sample with that of a pure compound can also be used as a test of purity.
+
+An illustration of the Rosalind
+Franklin rover used to
+
+explore the surface of Mars.
+An IR spectrometer on its
+mast measures reflected
+solar radiation and assists
+in the detection of water-
+bearing minerals and organic rae > Af oe | Amt.
+compounds. Vb AND Aa Pe a teat |
+
+A
+
+§3.2 Figure 15 The IR spectrum of heroin (blue) compared with that of an unknown sample (black).
+The near-perfect match indicates that the sample contains a high percentage of heroin. Spectral
+analysis such as this can identify unknown campounds in mixtures or fram samples taken fromm
+clothing or equipment. The technique is widely used in forensic science.
+
+390
+
+
+Consider the IR spectrum of propanone (Figure 16). The baseline at the top
+corresponds to 100% transmittance and the key features are the troughs which occur
+at the natural frequencies of the bonds present in the molecule.
+
+HC 100-
+P ——_ %
+H.C 804
+
+605
+
+404
+
+204
+c=0
+
+transmittance/%
+
+T 2000 T T T T 1000 T
+wavenumber/cm |
+
+0 T T T T T T
+4000 3000
+
+The absorption at just below 1800 cm shows the presence of the C=O bond and the
+absorption near 3000cm' is due to the presence of the C-H bond. The more polar
+C=O bond produces the more intense absorption.
+
+You can see the presence of the C-H bond again near 3000cm” in the IR spectrum
+of ethanol (Figure 17). The broad peak at just below 3400 cm shows the presence of
+hydrogen bonding which is due to the hydroxyl (OH) group.
+
+STRUCTURE 3.2
+
+<@ $3.2 Figure 16 The
+molecular structure and IR
+spectrum of propanone.
+
+i i 100 -
+H—C —C —O—H
+| | 80 -
+H H
+. A
+g 60-4
+z J
+= 404
+204
+0 T T T T T T T T T T T T T
+4000 3000 2000 1600 1200 800
+wavenumber/cm= |
+
+A
+
+$3.2 Figure 17 The IR spectrum of ethanol. Note that the horizontal axis has a non-linear scale.
+This is common for many instruments, so you should always take care when reading off values for the
+wavenumbers of the absorptions.
+
+Early breath alcohol tests
+relied on qualitative data,
+observing the distinctive
+orange to green colour
+change that occurs when
+
+| dichromate ions are reduced
+by ethanol (page 778). A
+method for breath testing
+that obtains quantitative
+data uses a small portable
+IR spectrometer to measure
+the amount of IR radiation
+absorbed by C-H bonds in
+
+< ethanol.
+391
+
+
+STRUCTURE 3 Classification of matter
+
+Q29. Which of the following types of bond is expected to absorb IR radiation of
+
+the longest wavelength?
+Bond order | Mass of atoms bonded together
+A jl small
+B }1 large
+2 small
+D |2 large
+
+Q30. For each pair of bonds, state which one would absorb IR radiation of the
+shortest wavelength and explain why.
+
+(a) C-Oand C=O (b) C-Cland CBr
+
+Q31. Compounds A and B have the same molecular formula: C;H,O).
+Absorptions are observed in the IR spectra of the two compounds at the
+following frequencies:
+
+Compound A: 3000 cm! (broad), 1730 cm™, 1230. cm"!
+Compound B: 1720 cm, 1230 cm!
+
+(a) Use this information to determine the structure and name of
+compound A.
+
+(b) Compound B could be one of two possible isomers. Draw and name
+these two isomers.
+
+Q32. The major components of the Earth’s atmosphere are nitrogen (N) and
+oxygen (O,). Explain why these gases do not contribute to the greenhouse
+effect.
+
+Q33. Draw the structure of the sulfur dioxide molecule and identify its possible
+modes of vibration. Predict which of these is likely to absorb IR radiation.
+
+Q34. Hexane and hex-1-ene are both colourless liquids. Explain how IR
+spectroscopy could be used to distinguish between the two compounds.
+
+Q35. The intoximeter, used by police to test the alcohol levels in the breath of
+drivers, measures the absorbance at 2900cm'. Identify the bond which
+causes ethanol to absorb at this wavenumber.
+
+Challenge yourself
+
+8. A bond has an IR absorption at 2100cm'. Calculate the wavelength of the
+radiation absorbed and the natural frequency (s~!) of the bond.
+
+392
+
+
+Functional groups: classification of organic compounds
+
+structure 3.2.10 and 3.2.11 — Nuclear magnetic
+
+resonance spectroscopy
+
+Structure 3.2.10 — Proton nuclear magnetic resonance (‘'H NMR) spectroscopy gives
+information on the different chemical environments of hydrogen atoms in a molecule.
+
+Interpret 'H NMR spectra to deduce the structures of organic molecules from the number of
+signals, the chemical shifts, and the relative areas under signals (integration traces).
+
+Structure 3.2.11 — Individual signals can be split into clusters of peaks.
+
+Interpret 'H NMR spectra from splitting patterns showing singlets, doublets, triplets and
+quartets to deduce greater structural detail.
+
+Data for interpretation of 'H NMR spectra are
+given in the data booklet.
+
+Nuclear magnetic resonance (NMR) spectroscopy, a powerful technique for finding the
+structure and shape of molecules, depends on a combination of nuclear physics and
+chemistry. The nuclei of atoms with an odd number of nucleons such as !H, !3C, !°F
+and *!P, have a property called nuclear spin and behave like tiny bar magnets. When
+placed in an external magnetic field, these nuclei can exist in two distinct energy levels
+depending on whether their magnetic field is aligned with or opposed to the external
+magnetic field. The energy gap between the two energy levels is very small and it only
+requires the absorption of low-energy radio waves for nuclei to move from the lower
+energy state to the higher energy state (Figure 18).
+
+Higher energy state: nuclear spin
+—t— of the proton is opposed to the external
+magnetic field (spin-opposed)
+
+§
+AF = hf
+where f corresponds to the
+frequency of radio waves
+N
+
+: Lower energy state: nuclear spin
+external magnetic | of the proton is aligned with the external
+field produced by y magnetic field (spin aligned)
+
+an electromagnet
+
+As electrons shield the nucleus from the full effects of the external magnetic field,
+differences in electron distribution produce different energy separations between the
+two spin energy levels. The technique is a very useful analytical tool, as nuclei in different
+chemical environments produce different signals in the spectrum. Proton or 'H NMR
+is particularly useful. The hydrogen nuclei, present in all organic molecules, effectively
+act as spies and give information about their position in a molecule.
+
+A full explanation of how NMR spectroscopy works is beyond the scope of this course.
+Instead we will focus on how the spectra obtained using 'H NMR can help determine
+the structures of organic compounds.
+
+Note that a hydrogen nucleus consists of a single proton. The terms hydrogen nucleus
+and proton can therefore be used interchangeably when discussing proton, or 'H, NMR
+spectroscopy and interpreting spectra, as you will see when we examine this topic in
+more detail.
+
+STRUCTURE 3.2
+
+$3.2 Figure 18 A hydrogen
+nucleus (proton) that is
+spin-aligned with an external
+magnetic field can absorb
+radio waves and move ta a
+higher energy state where it is
+spin-oppased to the external
+magnetic field.
+
+393
+
+
+STRUCTURE 3 Classification of matter
+
+fo} Nature of Science
+
+The development of many scientific techniques involves a steady process of
+refinement and improvement until physical or technological limits are reached.
+Breakthroughs in materials or technology may allow these limitations to be
+overcome with the subsequent development of improved techniques. The first
+nuclear magnetic spectrometers, developed in the 1950s, used iron magnets that
+generated field strengths of 4-30 MHz. The development of superconducting
+materials, and successive improvements in these materials, led to progressively
+stronger magnets and increased operating field strengths, with a 1 GHz
+spectrometer first being introduced in 2010. However, this proved to be the limit
+of the superconducting materials available at the time as no further increases
+
+in field strength were to occur until 2019 when the development of new high-
+temperature superconductors led to the first 1.1GHz NMR spectrometer, with
+1.2 GHz spectrometers following soon after in 2021.
+
+As the operating
+frequencies of NMR
+spectrometers have
+increased, scientists
+
+have been able
+
+to determine the
+structures of larger,
+and more complex,
+molecules as well as
+to investigate more
+complicated reaction
+mechanisms. Will
+further improvements
+in NMR technology
+allow this trend to
+continue? Could there
+be scientific problems
+that are currently
+unknown because the
+technology needed to
+reveal them does not
+exist yet?
+
+(b)
+
+In contrast to other
+imaging techniques,
+MRI does not use
+ionizing radiation, so
+is considered relatively
+non-invasive. Radio
+waves are low-energy
+waves and there are
+no known hazards
+
+of exposure of the
+
+Advancements in NMR spectrometry have largely been determined by the strength of the magnetic field
+that can be generated by superconducting magnets. The photos show (a) a 500 MHz and (b) a 900 MHz
+spectrometer, which were the strongest magnetic fields available in the early 1980s and 2000s respectively.
+
+body to the strength Magnetic resonance imaging (MRI)
+
+of magnetic fields
+
+applied. MRI scans Since 1977, when MRI was first used to produce images of internal body organs and soft
+give detailed images tissue, it has developed into one of the most widely used diagnostic techniques in modern
+of almost any part medicine. MRI is an application of nuclear magnetic resonance (NMR) spectroscopy and so
+eu ee ieee uses the fact that hydrogen atoms, 'H, have a magnetic moment due to their odd number
+detection, the diagnosis of nucleons. In the presence of a powerful magnet, radio waves are used to generate an
+
+of soft tissue injuries, electronic signal that can be decoded by a computer to produce two- or three-dimensional
+and in monitoring images. MRI is particularly useful in the diagnosis of living tissue because hydrogen atoms
+
+degenerative diseases. : :
+6 are present in water, which makes up about 70% of the body by mass.
+
+394
+
+
+Functional groups: classification of organic compounds STRUCTURE 3.2
+
+The term MAI is used
+for the application of
+NMR technology in
+medicine, purposefully
+
+tumour
+
+to the word nuclear
+and the negative
+nuclear waste and
+harmful radiation. How
+do our expectations
+and assumptions have
+an im pact on now we
+
+A
+
+ompressing the left side of the brain. Information from scans such as this can help doctors to
+
+Structures of organic compounds can be deduced
+from 'H NMR spectroscopy
+
+The 'H NMR spectra of organic molecules can range from very simple through to
+highly complex. Regardless of how complicated they may appear, each 'H NMR
+spectrum provides four important pieces of information that can be used to deduce
+the structure of the compound being analysed:
+
+1. The number of signals in the spectrum.
+
+2. The position, or chemical shift, of each signal.
+
+3. The size, or integrated area, of each signal.
+
+4. The splitting pattern observed for each signal.
+
+Interpretation of each signal in the spectrum gives information about the chemical
+environment of the hydrogen nucleus generating that signal. Piecing together the
+information gained for the individual chemical environments allows the overall
+structure of the compound to be deduced.
+
+ao
+2)
+on
+
+
+STRUCTURE 3
+
+Equivalent hydrogens
+can often be
+identified by looking
+at the symmetry
+
+of the structure.
+
+If acompound is
+symmetrical and a
+mirror plane can be
+drawn, as shown
+
+here for ethane, any
+hydrogens that appear
+as reflections of each
+other will be equivalent.
+
+H iH
+Le |
+ht Sei SE
+| 3 |
+H':H
+ethane
+
+396
+
+Protons in different chemical environments have different
+chemical shifts
+
+Hydrogen nuclei (protons) that have the same chemical environment are said to be
+equivalent as they give the same signal in the 'H NMR spectrum. The number of
+signals observed in a spectrum therefore depends on the number of different chemical
+environments in the compound being analysed.
+
+The 'H NMR spectra of methane (CH,) and ethane (C,H,) both give one signal as the
+hydrogen nuclei in both compounds are equivalent.
+
+0.2 ppm
+
+H
+
+|
+H—C—H
+
+|
+
+H
+
+methane
+0 9 8 7 6 5 4. 3 2 1 0
+
+ppm
+
+For methane it is readily apparent that the hydrogens are all equivalent; each is
+attached to a central carbon bonded to three other hydrogens.
+
+For ethane a quick look would suggest two different chemical environments as the
+hydrogens are bonded to two different carbons. However, closer examination shows
+that all six hydrogens are actually equivalent; each is attached to a carbon atom that is
+bonded to two other hydrogens and a methyl group.
+
+Propane (C;H,) is the first alkane that has an 'H NMR spectrum containing more than
+one signal. It has a symmetrical structure so the protons in the two —CH, groups at each
+end of the chain are equivalent and generate the same signal. The protons in the central
+CH) group are in a different chemical environment so they produce a second signal.
+
+fh) oa hl
+H H H
+
+| | |
+H—C—C—C—H
+
+| | J
+H H H
+
+propane
+
+
+
+Looking closely at the spectra of propane on the previous page, and propanol below, it
+can be observed that some of the individual signals are actually made up of a series of
+lines in distinctive patterns. These patterns also convey important information about
+the structure of a compound and this will be covered in more detail when we discuss
+splitting patterns.
+
+Propan-1-ol (C;H;OH) is not a symmetrical molecule so the hydrogens on each
+carbon are in different chemical environments. This generates three distinct signals
+in the 'H NMR spectrum. The hydrogen in the OH group occupies a fourth chemical
+environment so the 'H NMR spectrum of propanol contains a total of four signals.
+
+1
+ti Tee oe 3
+H H H
+| | | 4
+H—cC—C —C —O—H
+| | |
+H H H
+ropanol
+prop. 4) 9
+0 9 8 7 6 § 4 3 2 4 @
+
+ppm
+
+Worked example
+
+How many signals would be observed in the 'H NMR spectra of butane and butan-1-ol?
+
+Solution
+
+Butane is a symmetrical molecule with two different chemical environments: CH;
+and CH).
+
+i 2.2 i
+H HiH H
+| tal |
+a
+L tel 4
+H H!H H
+
+The 'H NMR spectrum of butane will contain two signals.
+
+Butan-1-ol is not a symmetrical molecule. It contains five different chemical
+environments as shown in the following structure:
+
+H H H H
+| | | |
+H—C—C —C —C —OH
+| | of ft oos
+
+H H H H
+ee |
+
+So the 'H NMR spectrum of butan-1-ol will contain five signals.
+
+STRUCTURE 3.2
+
+A hydrogen nucleus
+consists of a single
+proton. The terms
+hydregen nucleus and
+proton are therefore
+used interchangeably
+when discussing 'H
+NMR spectroscopy.
+
+397
+
+
+STRUCTURE 3
+
+Hydrogen
+
+nuclei close to
+electronegative
+atoms, or electron-
+withdrawing groups,
+become deshielded
+and their 'H NMR
+signals occur at
+higher ppm. The
+
+1H NMR signals of
+hydrogen nuclei
+that are shielded
+occur at low ppm.
+
+398
+
+The chemical shifts observed for hydrogen nuclei are affected
+by neighbouring atoms
+
+As shown in the spectra on the previous page, the position where a signal appears in
+an NMR spectrum is measured in terms of its chemical shift which has units of parts
+per million (ppm).
+
+In the 'H NMR spectrum of propanol, given on the previous page, we can observe
+
+a definite pattern in the chemical shifts for the hydrogen atoms in the molecule.
+
+The closer these hydrogen atoms are to the OH group, the higher the chemical shift
+observed. This happens because the high electronegativity of the oxygen atom
+effectively pulls electrons away from the hydrogen atoms, causing the nuclei to
+become deshielded. This makes these nuclei more susceptible to the effects of the
+external magnetic field and results in their signals occurring at a higher chemical shift.
+The closer a hydrogen nucleus is to an electronegative atom, the more pronounced the
+electron-withdrawing effect and the higher the chemical shift observed.
+
+Note that the signal observed for the OH proton itself does not follow this pattern.
+Even though the hydrogen atom is directly attached to the oxygen atom, other factors
+also influence the chemical shift for this signal. As shown in Section 21 of the data
+booklet chemical shifts for alcohol protons can occur within a wide range of values.
+
+Hydrogen nuclei in particular environments have characteristic chemical shifts. Some
+examples are given in the table below (continued on the next page). A more complete
+list is given in Section 21 of the data booklet.
+
+Type of proton Chemical shift / ppm
+— CH, 0.9-1.0
+I
+Cc 2,0-2.5
+oN
+RO ‘CH.—
+|
+C 2.2-2.7
+y
+RO CH, —
+—C =C —H 1.8-3.1
+R—O—CH,— 3.3-3.7
+I
+e: 3.7-4.8
+oy
+RK ‘O—cH,—
+i
+C 9.0-13.0*
+as
+R OQ —H
+R—O—H 1.0-6.0*
+
+
+
+Functional groups: classification of organic compounds
+
+continued
+
+—HC = CH, 4.5-6.0
+
+OH 4.0-12.0*
+
+6.9-9.0
+
+“Pe
+
+9.4-10.0
+
+a,
+R 4H
+
+* Signals from the hydrogen atoms in the -OH groups are very variable owing to hydrogen
+bonding.
+
+Worked example
+
+Determine the number of signals in the 'H NMR spectrum of ethyl ethanoate and
+predict the chemical shift for each signal using the table of chemical shifts given on
+the previous page and above.
+
+Solution
+
+The structure of ethyl ethanoate and the number of different proton chemical
+environments are given below:
+
+The chemical shifts for each signal can be determined by looking at the
+neighbouring atoms and using the table provided to identify the type of proton
+generating the signal.
+
+Signal Type of proton Chemical shift
+|
+oN 2.0-2.5
+RO’ “CH,—
+I
+oe 3./-4.8
+kr gen
+3 —CcH, 0.9-1.0
+
+STRUCTURE 3.2
+
+399
+
+
+STRUCTURE 3
+
+Worked example
+
+The NMR spectrum of a compound that has the molecular formula C,H,O is
+shown here.
+
+absorption
+
+09876543210
+chemical shift/ppm
+
+(a) Draw the full structural formulas and give the names of the three possible
+isomers of C,;H,O.
+
+(b) Identify the unknown compound from the number of signals in the spectrum.
+
+(c) Identify the group responsible for the signal at 0.9 ppm.
+
+Solution
+
+(a) The structures and names are:
+
+(Lin | iif
+si —— (C (0 (6) 5 | H M H 3 ——=C 10) —(C
+| IJ Vv ) | | | |
+H H H H H H
+ei = [C —— 5 |
+I I Il | | | I I Il
+H O H
+propan-1-ol I | I methoxyethane
+1
+Il
+propan-2-ol
+
+(b) For each structure, I-IV identifies the different environments of the H atoms
+in the molecule. There are four signals observed in the spectrum and this is
+consistent with the number of different chemical environments predicted for
+the structure of propan-1-ol.
+
+(c) From the table on page 398-99 we can determine that the peak at 0.9 ppm
+corresponds to the CH; group.
+
+400
+
+
+STRUCTURE 3.2
+
+The area under a signal depends on the number of nuclei in
+that chemical environment
+
+The 'H NMR spectrum of ethanal is shown in Figure 19.
+
+A —— integrated trace
+(3H) ——relative number
+H Ss | 7 of protons
+| Y ° a | 7 OM CH
+H—C—C 3
+" H me
+—— spectrum trace
+
+108 6 4 2
+chemical shift/ppm
+
+0
+
+A
+
+$3.2 Figure 19 The 'H NMR spectrum of ethanal shows two signals because the hydrogen
+atams are in two different environments. The integrated trace indicates the relative number
+of hydrogen atoms in the two environments.
+
+The spectrum has a signal at 9.7, which corresponds to the CHO proton, and a signal
+at 2.1 which corresponds to the three protons in the CH, group. The area under
+
+the CH, signal is three times larger than that under the CHO signal as it indicates
+
+the relative number of protons in each environment. The integrated trace gives this
+information more directly, as it goes up in steps which are proportional to the number
+of protons.
+
+Worked example
+
+Predict the number of signals, and their relative intensities, that will be observed in
+the 'H NMR signal of pentanoic acid.
+
+Solution
+
+First draw the full structure of pentanoic acid.
+
+lel isl dal dal 1)
+
+ee ee
+HS co —¢ — on
+
+Looking at the structure, it is evident that this is not a symmetrical molecule. The relative intensity of
+Therefore, the hydrogens on each carbon will produce a unique signal, numbered a NMR signal relates to
+
+1 to 4 in the structure. The OH hydrogen will produce a 5th signal. Bitepa ee ace ne
+is proportional to the
+
+The relative intensity of each signal depends on the number of protons generating number of hydrogen
+
+: ae : ; atoms present in that
+the signal and is given in brackets below each numbered signal. Shewicskonulonment
+
+401
+
+
+STRUCTURE 3
+
+Mathematics has
+been described as the
+science of patterns.
+Pascal's triangle
+
+has been known
+independently for
+over a thousand
+years by a number
+
+of different cultures.
+Why is mathematics
+so important in other
+areas of knowledge,
+particularly the natural
+
+Hydrogens on neighbouring carbons split an 'H NMR signal
+into specific patterns
+
+As observed in the various spectra shown earlier, individual signals in the NMR
+spectrum of an organic compound do not generally consist of a single peak. Instead,
+high-resolution NMR spectra reveal a much more detailed structure, with the signals
+split, or resolved, into distinctive patterns.
+
+The splitting of the peaks occurs as the effective magnetic field, experienced by
+particular nuclei, is modified by the magnetic field produced by neighbouring protons.
+This effect is known as spin-spin coupling.
+
+The numbers of lines in the splitting patterns caused by spin-spin coupling, and the
+relative intensities of the lines in a particular splitting pattern, are easily predicted
+based on the number of neighbouring hydrogens involved in the coupling.
+
+Number of lines: this follows the n + 1 rule: If there are n hydrogens on the
+neighbouring carbons there will be n + 1 lines observed in the splitting pattern. For
+example, the presence of three neighbouring hydrogens causes the signal to be split
+into four lines.
+
+Intensity of lines: the intensities of the lines observed for a given splitting pattern
+follow the sequential pattern known as Pascal's triangle.
+
+If a proton has n protons as nearest neighbours, its NMR signal is split into a
+group of (n + 1) peaks. Thus, for CH;CH,F, we would expect the CH, proton signal
+to be split into a quartet as it has three protons as nearest neighbours.
+
+The application of the n + 1 rule and Pascal's triangle to the splitting patterns and
+
+402
+
+sciences?
+intensities of 1H NMR signals are illustrated in the table below.
+Number of hydrogen . a . .
+Posen Relghb alvin Number of peaks in Splitting pattern signe! observed in Name of signal
+carbons (n) signal (n + 1 rule) and intensities H NMR spectrum
+0 1 | 1 singlet
+| 2 oe ’ | | doublet
+? 3 ae : | | | triplet
+aaa AL “
+
+This pattern will continue for each additional proton on neighbouring carbons: four
+adjacent protons gives a quintet with intensities 1:4:6:4:1; five adjacent protons gives a
+sextet with intensities 1:5:10:10:5:1. Larger splitting patterns can typically be difficult
+to resolve and are commonly referred to as multiplets.
+
+
+Functional groups: classification of organic compounds STRUCTURE 3 afta
+
+When analysing high-resolution NMR spectra, the following additional points should
+be noted:
+
+* protons bonded to the same atom do not interact with one another as they are
+equivalent and behave as a group
+* protons on carbon atoms not adjacent to each other do not generally interact
+with one another as they are too far apart for their magnetic fields to interact
+through spin-spin coupling
+* alcohol protons (OH) typically do not engage in spin-spin coupling with
+hydrogen atoms on neighbouring carbons. This means that:
+° the signals for OH protons are not split by other protons and appear as
+singlets in'H NMR spectra
+° OH protons are not counted when applying the n + 1 rule as they do not split
+the signals of other protons.
+
+If we return to the example of ethanal, whose spectrum was presented in Figure 19, we
+can now recognize that:
+
+* the signal generated by the CHO proton at 9.8 ppm is split into a quartet due to
+the three hydrogens on the neighbouring —CH; group
+
+* the signal generated by the CH; protons at 9.8 ppm is split into a doublet due to
+the one hydrogen on the neighbouring CHO group.
+
+Worked example
+
+Predict the number and position of the signals, along with their associated splitting
+patterns, that would be observed in the 'H NMR spectrum of propanoic acid,
+CH,CH,COOH.
+
+You need to be aware
+that the chemical shifts
+do not always exactly
+match the ones given
+in the data booklet.
+
+Solution
+
+Propanoic acid has three distinct chemical environments so the 'H NMR spectrum
+will have three signals. The chemical shifts for these signals can be determined
+using Section 21 of the data booklet.
+
+Chemical Chemical | Number of hydrogen atoms | Splitting pattern
+environment | shift/ppm | onneighbouring carbons | (n+ 1 rule)
+CH,;CH,COOH | 0.9-1.0 2 (CH)) triplet
+The ethyl group pattern
+CH,;CH;,COOH | 2.0-2.5 3 (CH) quartet is easy to spot. The
+three-proton signal is
+. split into a triplet and
+
+split into a quartet.
+
+A shorthand notation that gives the type of signal and intensity can be applied when
+determining the NMR spectrum for a compound. For example:
+
+3H s means the signal is a singlet generated by three protons
+3H d means the signal is a doublet generated by three protons
+1H t means the signal is a triplet generated by one proton
+
+403
+
+
+STRUCTURE 3 Classification of matter
+
+Q36. How many signals will the following compounds show in their 'H NMR
+spectra?
+
+(a) 7 (b) CH;—O—CH,
+CH,—_€—O— CH,
+
+(c) 7 (d) a
+CH; _c_ CH, ee
+|
+CH, cl
+
+Q37. Determine the number of signals, along with their chemical shifts, that
+will be observed in the 'H NMR spectrum of 2-methylpropanoic acid,
+
+CH,CH(CH,)COOH.
+
+Q38. The 'H NMR spectrum ofa compound exhibits three signals at 1.0 ppm,
+2.2ppm and 2.5 ppm.
+Identify the compound using the table of chemical shifts given on pages 398
+and 399,
+A CH,CH,CH, B  CH,CH,CHO
+©  CH{GHCOcH. DEG SAGs H@s KG shale hy
+
+Q39. (a) Draw the full structural formula of butanone.
+
+(b) Use Section 21 of the data booklet to predict the high-resolution 'H
+NMR spectrum of butanone. Your answer should include the chemical
+shift, the number of hydrogen atoms, and the splitting pattern for the
+different environments of the hydrogen atoms.
+
+Q40. Compare the 'H NMR spectra of ethanal and propanone. Your answer
+should refer to the number of signals, and the areas and splitting patterns of
+each signal.
+
+Q41. The key features of the 'H NMR spectrum of a compound with the
+molecular formula C;H,O) are summarized below.
+
+Chemical shift / ppm | Number of H atoms | Splitting pattern
+13 3 3
+43 2 4
+10 1 1
+
+What is the structure of this compound?
+
+404
+
+
+Functional groups: classification of organic compounds STRUCTURE 3 2
+
+structure 3.2.12 — Combining analytical
+
+techniques
+
+Structure 3.2.12 — Data from different techniques are often combined in structural
+analysis.
+
+Interpret a variety of data, including analytical spectra, to determine the structure of a molecule.
+
+Analytical chemistry depends on combining
+information
+
+The techniques discussed in this chapter provide the analytical chemist with different
+types of information. The skill of the analyst is to combine these methods to give a Using spectra to
+complete description of the structure of the substance being studied. For example, pap tad oneerg
+infrared spectroscopy gives some information about the bonds present in a molecule, Aerie en to carry
+but often this information needs to be supplemented with data from other sources to out this experiment
+give a complete structure of the molecule. Mass spectrometry can give information with a worksheet are
+about the molar mass and the mass of fragment ions but does not necessarily give available in the eBook:
+conclusive evidence on how the fragments are pieced together in the parent molecule.
+'H NMR is one of the most powerful analytical techniques and frequently a structure
+can be determined using this technique alone. However, analytical chemists will
+
+still look for supporting evidence from other techniques to ensure their results are
+
+consistent and conclusive when determining the structure of an organic compound.
+
+Worked example
+
+(a) Anunknown compound is found to have the following composition:
+
+% composition by mass
+C | 85.6
+H | 14.4
+
+Deduce the empirical formula of the compound.
+
+(b) The mass spectrum of the compound is shown below. Deduce the molecular
+
+formula of the compound.
+
+100 -
+90 +
+805
+704
+605
+504
+40 5
+304 42
+20+ 28
+104
+
+0 T T T T T T T U LU
+0 10 20 30 40 50 60 70 80 90
+
+mass/charge
+
+56
+
+84
+
+relative abundance
+
+405
+
+
+STRUCTURE 3
+
+(c) Is the molecule likely to contain a CH; group? Explain your answer.
+
+(d) The infrared spectrum shows one absorption close to 2900cm", but there
+is no absorption close to 1600 cm!. State what can be deduced from this
+information.
+
+(e) Deduce the molecular structure from the 'H NMR spectrum shown.
+
+*
+
+absorption
+
+2 | 0
+chemical shift, 8/ppm
+
+Solution
+
+To find the empirical formula, calculate the relative number of moles:
+
+Cc H
+mass | g 85.6 14.4
+moles - 85.6 _144
+12.01 1.01
+=7.13 = 14,26
+simple ratio _ 7.13 _ 14.26
+Aas FA)
+= 1.00 = 2.00
+
+The empirical formula is CH).
+
+(b) The mass spectrum shows a parent ion at 84. The molecular formula is C,H),.
+
+n(12.01) + 2n(1.01) = 84
+
+14.03n = 84
+_ 84 _
+n=7403 07°
+
+The molecular formula is C,H).
+
+The saturated non-cyclic compound with six carbons is CsH,4, so the molecule
+C,H, contains a C=C ora ring.
+
+(c) The absence of peaks at 15 or 69 (84 - 15) suggests that the molecule probably
+| does not contain a methyl group.
+
+(d) The absorption close to 2900 cn! is due to the C-H bond.
+
+The absence of an absorbance at 1600 cm suggests that the molecule does not
+contain a C=C bond. It must, therefore, have a ring structure.
+
+406
+
+
+STRUCTURE 3.2
+
+(e) The NMR spectra shows only one peak, so all the hydrogen atoms are in
+the same chemical environment. This confirms that the molecule has a ring
+structure. It is cyclohexane.
+
+H a a H
+
+ee
+H— ie
+H~ _H
+ran
+
+H 17 \yH
+
+Worked example
+
+The 'H NMR spectrum of a compound with the empirical formula C)H,O is
+shown,
+
+| I | I |
+3 2 1 0
+
+chemical shift / ppm
+
+un
+>
+
+(a) Deduce the molecular formula of the compound.
+(b) Draw possible structures of molecules with this molecular formula.
+
+(c) The IR spectrum of the compound shows distinctive peaks at 1730cm™! and
+1210cm". No broad peaks are observed in the 2500-3000 cm region. What
+does this information tell us about the possible structures for the compound?
+
+(d) Use Section 21 of the data booklet to identify a structure which is consistent
+with the 'H NMR spectrum and account for the number of peaks and the
+splitting patterns in the spectrum.
+
+407
+
+
+STRUCTURE 3
+
+Classification of matter
+
+Solution
+
+(a) The 'H NMR spectrum shows the presence of eight hydrogens so the
+molecular formula is Cs,HgO>. The hydrogens are in three different chemical
+
+(b)
+
+(c)
+
+environments in a 2:3:3 ratio.
+
+Possible structures: CH,CH,CH,COOH, CH,CH(CH,)COOH,
+CH,CH,COOCH,, CH;COOCH,CH;, HCOOCH,CH,CH; and HCOOCH(CH;);,
+although many of these do not fit the data in terms of the 2:3:3 ratio.
+
+The absence of a broad peak in the 2500-3000 cnr region indicates there is no
+O-H bond present and the compound is not a carboxylic acid.
+
+The peaks at 1730cm™' and 1210cm" are likely due to a C=O and a C-O bond
+
+respectively and indicate the compound is an ester.
+
+(d) | Chemical | Integration | Type of proton Splitting | Structural
+shift / ppm pattern | information
+1.0-1.5 3H — CH, triplet CH; next to
+
+CH,
+2.0-2.5 3H O singlet CH; next to
+| co
+Cc
+as
+Boy a
+SHertny | 2H Gy quartet | OCH, next to
+I CH,
+ao
+R oO _<H—
+The correct structure is CH,;COOCH,CH,
+LP
+H —c— “\ j |
+i otc 4
+
+Guiding Question revisited
+
+How does the classification of organic molecules help us to predict their properties?
+
+Ml,
+
+In this chapter we have learnt that:
+
+* Organic compounds can be grouped into classes based on their functional
+groups.
+
+* The presence of different functional groups means that different classes of
+compounds have different physical and chemical properties.
+
+* Homologous series exist for each class of compound and successive members
+of a series differ by a CH, unit.
+
+408
+
+
+* Applying IUPAC nomenclature to generate unique names for individual
+compounds allows for further classification of organic compounds.
+
+* Structural isomers are compounds that have the same molecular formula but
+different connectivities. They have unique IUPAC names as well as different
+chemical and physical properties.
+
+° Chain isomers occur when C-C bonds are connected differently to form
+structures that are a straight chain or branched.
+
+° Positional isomers contain the same functional group but it is at different
+positions on the carbon chain.
+
+° Functional group isomers contain different functional groups.
+
+° Positional isomers of alcohols, halogenoalkanes and amines can be classified
+as primary, secondary or tertiary depending on the number of carbon atoms
+bonded to the functional group site.
+
+HL
+
+* Stereoisomers are compounds with the same connectivities but different spatial
+arrangements of atoms. This includes cis—trans isomers and optical isomers.
+* Structures of organic compounds can be determined using analytical techniques:
+
+° Mass spectrometry and fragmentation patterns give information about the
+groups and branching present in a molecule.
+
+° Infrared spectroscopy gives information on the covalent bonds present in a
+molecule.
+
+° 'H NMR spectroscopy gives information about the number of different proton
+chemical environments in a molecule, along with the functional groups that
+are present and the number of hydrogen atoms on adjacent carbons.
+
+° Results from more than one analytical technique may be required to
+conclusively determine the structure of an organic compound.
+
+Practice questions
+
+1.
+
+Which of the following compounds are structural isomers?
+I. CH;CH,COCH, I]. CH;CH,CH,CHO Ill. CH;CH(CH;)CHO
+A land Ill BI, land III C landII D  Iland III
+
+Which of the following compounds is a secondary alcohol?
+
+A CH,CH,CH,OH B  (CH;);CHCH,OH
+C (CH,),C(OH)CH, D CH,CH,CH(OH)CH,
+Which molecule has a secondary nitrogen?
+
+A CH,NHCH, B  H.NCH,CH,NH,
+C  CH,CH,NH, D (CH;),N
+
+Which of the following has the molecules ordered by decreasing volatility?
+A butan-1-ol, butan-2-ol, 2-methylpropan-2-ol
+
+B__butanal, butan-1-ol, butanone
+
+C 2-methylpropan-2-ol, butanone, butan-1-ol
+
+D
+
+butanone, 2-methylpropan-2-ol, butan-1-ol
+
+STRUCTURE 3.2
+
+409
+
+
+STRUCTURE 3
+
+5. (a) Beloware four structural isomers with molecular formula C,H.Br.
+State the name of each of the isomers A, B, C and D.
+
+(Hydrogen
+
+C g (4)
+
+(b) Identify the isomer of C,H,Br that can exist as stereoisomers.
+Outline how a polarimeter will distinguish between the isomers, and how
+
+their physical and chemical properties compare. (5)
+(Total 9 marks)
+
+6. For the organic compound A shown below:
+
+(a) Identify the class of compound it belongs to. (1)
+(b) Determine the IUPAC name of the compound. (1)
+
+(c) Draw the structural formula of two isomers of A; one that belongs to the same
+class of compound, and one that belongs to a different class of compound. (2)
+
+(Total 4 marks)
+
+410
+
+
+STRUCTURE 3.2
+
+7. Two isomers, A and B, with the molecular formula C,H,Cl are shown below:
+
+(a) Determine the IUPAC name for each isomer and state whether it is a
+primary, secondary or tertiary compound. (3)
+
+(b) State the number of signals that would be observed in the 'H NMR
+spectrum for each isomer. (1)
+
+(c) A third isomer of C,H,Cl is a chiral compound. Draw the three-
+dimensional shapes of the two enantiomers of this isomer. (2)
+
+(Total 6 marks)
+
+8. Propanoic acid, ethyl methanoate and methyl ethanoate all have the same
+chemical formula, C;H,O).
+
+(a) (i) What class of compounds do ethyl methanoate and methyl
+
+ethanoate belong to? (1)
+(ii) What is the relationship between these three compounds? (1)
+(iii) Draw the full structural formula for each compound. (3)
+
+411
+
+
+STRUCTURE 3
+
+(b) Deduce the 'H NMR spectra you would expect for each compound
+and complete the table below. The answers for ethyl methanoate are given
+
+as a guide.
+Note that some of the boxes may be blank. (5)
+mpored Number Chemical shift | Integrated | Splitting
+of signals | range/ppm_ _| area pattern
+bw 0.9-1.0 e triplet
+a 3 3.74.8 = quartet
+methanoate
+9.4-10.0 1 singlet
+propanoic
+acid
+methyl
+ethanoate
+(Total 10 marks)
+
+HL
+
+9. Which of the following compounds can exhibit cis—trans isomerism?
+I. 1,4-dimethylcyclohexane
+Il. 1,2-dichlorohexane
+Ill. but-2-ene
+A landIlonly B [Ilandill  C_ TIonly D fandiIil
+
+10. What is not true for optical isomers of the same compound?
+They have the same boiling point.
+They rotate polarized light in opposite directions.
+
+They have the same molecular formula.
+
+vA et >
+
+They have different volatilities.
+
+11. How many chiral carbon atoms are present in one molecule of
+CH;CHCICH(CH;)CHBrCH,?
+
+A O B 1 Cc D 3
+
+12. Which of the following atmospheric gases is not IR active?
+A N, B CO, Co D NO
+
+412
+
+
+STRUCTURE 3.2
+
+13. What can be determined about a molecule from its IR spectrum?
+A. The number of bonds in the molecule.
+B~ The molar mass of the molecule.
+C_ The types of bonds present in the molecule.
+
+D The number of different chemical environments.
+
+14. What can be determined from the splitting patterns in an 'H NMR spectrum?
+A The number of different chemical environments.
+B_ The number of hydrogens on neighbouring atoms.
+C_ The number of hydrogens making each signal.
+D_ The number of carbon atoms in the molecule.
+15. The 'H NMR spectrum of a compound contains a single peak at 1.5 ppm.
+What can be deduced from this spectrum?
+A There is only one hydrogen atom in the compound.
+B The compound is an alcohol.
+C The compound is a hydrocarbon.
+
+D There is only one chemical environment in the compound.
+
+16. A compound gives the following signals in its 'H NMR spectrum.
+
+Chemical shift/ppm | Integrated intensity | Splitting pattern
+ie | 3 triplet
+22 3 singlet
+2S 2 quartet
+Which compound gives this spectrum?
+Te Shale velo else B  CH,CH,CH,CHO
+C Gn Gr wewnH D CH,COOCH,
+
+17. What is the ratio of area under each signal in the 'H NMR spectrum of
+2,2-dimethylbutanal?
+
+A SO 2 Boe a C32 3232231 0D 3223621
+18. Which is correct for benzene, C,H,?
+
+A It contains alternate single and double carbon-carbon bonds.
+
+B_ Its 'H NMR spectrum shows six signals.
+C_ Its'H NMR spectrum shows one signal.
+D
+
+It has three structural isomers.
+
+413
+
+
+STRUCTURE 3
+
+19. Compounds A and B are alcohols with the molecular formula C;H,O. The
+following information was obtained from a mass spectrum of each alcohol.
+
+A: peaks at m/z = 29, 31, 60 B: peaks at m/z = 45, 60
+
+(a) Deduce the formula of the species responsible for the peak at m/z = 60. (1)
+
+(b) Deduce the formula of the species with m/z = 31. (1)
+
+(c) Deduce the structure of each alcohol. (2)
+(Total 4 marks)
+
+20. Infrared (IR) spectroscopy is widely used as a technique in analytical
+chemistry. Explain what happens at a molecular level during the absorption
+of IR radiation by carbon dioxide, CO). (3)
+
+(Total 3 marks)
+
+21. A low resolution 'H NMR spectrum does not show the splitting patterns for
+each signal but still provides other information. The low resolution 'H NMR
+spectrum of compound X with molecular formula C;H,O is shown below.
+
+0 9 8 7 6 5 4 3 2 1 0
+
+chemical shift/ppm
+
+(a) Deduce which of the following compounds is X and explain your answer.
+A CH;CO-CH, B CH;CH,CHO } C CH,=CH-CH,OH
+(2)
+(b) Deduce which one of the peaks in the 'H NMR spectrum of X would also
+occur in the spectrum of one of the other isomers, giving your reasoning.
+(2)
+(c) The infrared and mass spectra for X were also recorded.
+(i) Apart from absorptions due to C-C and C-H bonds, suggest one
+
+absorption, in wavenumbers, that would be present in the infrared
+spectrum of X. (1)
+
+(ii) Apart from absorptions due to C-C and C-H bonds, suggest one
+absorption, in wavenumbers, absent in the infrared spectrum of X,
+but present in one of the other compounds shown in part (a). (1)
+
+(d) Suggest the formulas and m/z values of two species that would be detected
+in the mass spectrum of X. (2)
+
+(Total 8 marks)
+
+414
+
+
+STRUCTURE 3.2
+
+22. Infrared spectroscopy is commonly used as an analytical technique by
+inorganic, physical, and organic chemists.
+(a) Explain why hydrogen bromide, HBr, is IR active whereas bromine,
+Br,, is IR inactive. (1)
+
+(b) The IR spectrum, mass spectrum, and 'H NMR spectrum of an unknown
+compound, X, of molecular formula C;H,9O,, are as follows:
+
+1005
+
+504
+
+% transmittance
+
+0 See ee eee eee. | een TUT TT
+4000 3000 2000 1500 1000 500
+
+wavenumber/cm!
+
+100
+= 804
+60
+40-4
+
+% relative intensi
+
+20
+
+0 n shila L ut lit nl | 1
+
+UL
+
+4 50 60 70 80 90 100
+miz
+
+[ease |e | eh es [eh ee ce ee | et |
+16 83614 12 0 8&6 6 4 2  £9Q
+
+chemical shift/ppm
+
+(i) Inthe IR spectrum, identify the bond responsible for each of the
+absorptions labelled I, II and III. (3)
+
+(ii) In the mass spectrum, deduce which fragments the m/z values at 102,
+57 and 45 correspond to. (3)
+
+(iii) Identify the signal at 11.5 ppm in the 'H NMR spectrum. (1)
+
+(iv) State what information can be obtained from the integration traces in
+the 'H NMR spectrum about the hydrogen atoms responsible for the
+signal at 1.2 ppm. (1)
+
+A15
+
+
+STRUCTURE 3
+
+(v) Deduce the structure of X. (1)
+
+(vi) CH;,COOCH,CH;CH,; is an isomer of X. Deduce two differences
+between the 'H NMR spectrum of this isomer and that of X. (2)
+(Total 12 marks)
+
+23. The IR spectrum, mass spectrum, and 'H NMR spectrum of an unknown
+compound, X, of molecular formula C;H,O, are as follows.
+100-
+
+50+ I
+
+% transmittance
+
+B
+4000 3000 2000 1500 1000 500
+wavenumber/cm-!
+
+100—
+
+- a
+aia
+
+% relative intensity
+
+Bh
+L
+
+10 e By 15 30 35 40 At 0 Ss By 65 aN "
+mz
+
+oS
+
+chemical shift/ppm
+
+(a) Identify the bonds responsible for the peaks A, B and C in the IR spectrum
+Gi heen (2)
+
+(b) Inthe mass spectrum of X, deduce which ions the m/z values at 74, 45,
+
+and 29 correspond to. (3)
+
+(c) Identify the signal at 11.73 ppm in the 'H NMR spectrum. (1)
+(d) Deduce the structure of X. (1)
+(Total 7 marks)
+
+416
+
+
+STRUCTURE 3.2
+
+24. The infrared spectrum of a substance, X, with empirical formula C;H,O, is
+
+given below.
+0.8
+a 4
+S 0.64
+= J
+eth
+s |
+0.25
+0 ds
+3000 2000 1000
+wavenumber/cm!
+
+(a) Explain why the structural formula of X cannot be:
+H H
+~ — ce OH
+Ne
+we a?
+
+(2)
+
+(b) The 'H NMR spectrum of X consists of three signals. Deduce the
+structural formula of X and the relative areas under each signal. (2)
+(Total 4 marks)
+
+25. Butan-1-ol, butan-2-ol, 2-methylpropan-1-ol and 2-methylpropan-2-ol are
+
+four structural isomers with the molecular formula C,H,,O.
+
+(a) Details of the 'H NMR spectra of two of these alcohols are given below.
+Spectrum 1
+Two signals: One at 1.3 ppm with an integration trace of nine units and the
+other at 2.0 ppm with an integration trace of one unit.
+Spectrum 2
+Four signals: The first at 0.9 ppm with an integration trace of six units,
+the second at 1.7 ppm with an integration trace of one unit, the third at
+
+2.1 ppm with an integration trace of one unit and the fourth at 3.4 ppm
+with an integration trace of two units.
+
+Consider the proton environments present in each of the alcohol
+molecules when answering the following questions.
+
+(i) Identify which alcohol gives spectrum 1 and explain your answer by
+stating which hydrogen atoms in the molecule are responsible for
+each of the two peaks. (3)
+
+(ii) Deduce which alcohol gives spectrum 2. Explain which particular
+hydrogen atoms in the molecule are responsible for the peaks at
+0.9 ppm and 3.4 ppm. (3)
+
+A\7
+
+
+418
+
+STRUCTURE 3
+
+26.
+
+(b) The mass spectrum of one of the alcohols shows peaks at m/z values of
+74, 59 and 45.
+
+(i) Deduce which two of the alcohols could produce this spectrum
+and identify the species responsible for the three peaks. (4)
+
+(ii) The spectrum also shows a significant peak at m/z = 31.
+Suggest which alcohol is responsible for this spectrum and deduce
+the species responsible for the peak at m/z = 31. (2)
+
+(c) Explain why the infrared spectra of all four alcohols are very similar. (1)
+(Total 13 marks)
+
+A feature of some 'H NMR spectra is the electron-withdrawing effect of
+electronegative atoms. These atoms cause nearby protons to produce peaks at
+higher chemical shift values, often in the range 2.5 to 4.5 ppm.
+
+Consider the 'H NMR spectrum of an unknown compound, D, which has
+a molecular formula C,HgO, and is known to have an absorption in its IR
+spectrum corresponding to a C=O absorption.
+
+chemical shift/ppm
+
+Use this information and the values in Section 21 of the data booklet to deduce
+the structure of D. (4)
+
+(Total 4 marks)
+
+
+27. The mass spectrum of an unknown compound, X, of empirical formula C;H,O
+
+is shown below.
+100 43
+805
+=
+= 60-
+x
+= hl
+xe 40 3
+20
+45 88
+0 20 40 60 80 100
+mass/charge
+(a) (i) Determine the relative molecular mass of X from the mass spectrum
+
+(b)
+
+(c)
+
+and deduce the formula of the molecular ion. (2)
+(ii) Identify a fragment which gives rise to the peak at m/z = 29. (1)
+(iii) Comment on the absence of a peak at m/z = 59. (1)
+The IR spectrum of X is shown below.
+100-
+, 80+
+= 4
+# 604
+= |
+& 404
+= 4
+205
+0 A B
+4000 3000 2000 1500 1000 500
+
+wavenumber/cm |
+(i) Use Section 20 of the data booklet to identify the bonds which
+correspond to absorptions A and B. (1)
+(ii) Deduce the name of the functional group present in X. (1)
+
+Typical proton chemical shift values are given in Section 21 of the data
+
+booklet.
+
+The 'H NMR spectrum of X contains three signals. Details of two of these
+are shown in the table below.
+
+Signal | Chemical shift / ppm | Relative peak area | Splitting pattern
+
+first 2.0 3 singlet
+
+second | 4.1 2 quartet
+
+third
+
+(i) Deduce a possible structure for X that is consistent with the mass,
+IR, and 'H NMR spectra. (1)
+
+(ii) Complete the table above by suggesting the chemical shift of the
+third signal, and state its relative area and splitting pattern. (3)
+
+(iii) Explain the splitting pattern of the signal at chemical shift 4.1 ppm. (2)
+(Total 12 marks)
+
+STRUCTURE 3.2
+
+419
+
+
+
+
+<@ Molecular graphic showing a catalytic converter in a vehicle exhaust system. The yellow
+framework is the catalyst, a lattice of copper atoms. The reactant gases NO and CO are
+shown adsorbed onto the copper surface. A chemical reaction occurs on the surface of
+the catalyst, converting these polluting gases into non-polluting products:
+
+2NO(g) + 2CO(g) — Nag) + 2CO.(g)
+
+Catalysts are widely used in research and industry to increase the rate of reactions.
+
+Reactivity
+
+Reactivity refers to the ways in which chemical reactions transform reactants into
+products. These reactions occur through bond-breaking and bond-making, and
+
+so they change structures into new forms. An understanding of what drives these
+reactions helps us to determine how they can be controlled and how we can influence
+the product.
+
+In Reactivity 1 we explore the direction of energy transfer in reactions, starting
+
+with measurements of temperature change as an indication of heat transfer. The
+conservation of energy during reactions is an application of the First Law of
+Thermodynamics, and is illustrated through energy cycles. We consider the release of
+energy from different fuels to supply our daily energy needs within the context of their
+relative benefits and environmental impact. Through an investigation of the direction
+of change, we learn that reactions are spontaneous when they lead to products which
+have lower free energy than the reactants.
+
+In Reactivity 2 we use experimental data to examine the factors that influence both
+the extent and the rate of reactions, while stoichiometric principles help us to assess
+the yield and the atom economy of reactions. The role of catalysts in increasing the
+efficiency of reactions is explained.
+
+The focus of Reactivity 3 is the mechanisms of reactions and how reactions proceed at
+the molecular level. Mechanisms are classified on the basis of the transfer or sharing of
+subatomic particles between reactants. In this way, we can see how our understanding
+of reactivity is based on the application of our knowledge of structure.
+
+Chemical reactivity is at the heart of chemical industries such as resource extraction,
+and processes which synthesize novel products such as pharmaceuticals and
+petrochemicals. These reactions supply many products for our modern world,
+
+but can also be responsible for unwanted side-products and harmful effects on
+
+the environment. Throughout this study, you are encouraged to consider how the
+application of Green Chemistry principles can ameliorate some of the negative side-
+effects of chemical reactivity.
+
+Structure determines reactivity, which in turn transforms structure.
+
+421
+
+
+What drives chemical
+reactions?
+
