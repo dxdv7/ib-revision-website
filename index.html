@@ -998,14 +998,27 @@
     background:linear-gradient(135deg,var(--hv-accent),var(--hv-accent-dark)); color:#fff; border:none;
     border-radius:9px; padding:10px 16px; font-size:13.5px; font-weight:600; cursor:pointer; font-family:inherit;
   }
-  .subject-dash .dash-overall{display:flex; gap:18px; align-items:center;}
-  .subject-dash .dash-ring-lg{width:90px; height:90px; border-radius:50%; flex-shrink:0; display:flex; align-items:center; justify-content:center;}
-  .subject-dash .dash-ring-lg span{
-    width:70px; height:70px; border-radius:50%; background:var(--hv-surface);
-    display:flex; align-items:center; justify-content:center; font-weight:700; font-size:18px;
+  .subject-dash .dash-overall{display:flex; gap:24px; align-items:center;}
+  .subject-dash .dash-ring-lg.dash-gauge{
+    width:178px; max-width:100%; aspect-ratio:220/124; flex-shrink:0; position:relative;
+    border-radius:0; display:block;
   }
-  .subject-dash .dash-overall-list{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:6px; font-size:12.5px; color:var(--hv-text-soft);}
+  .subject-dash .dash-gauge-svg{width:100%; height:100%; display:block; overflow:visible;}
+  .subject-dash .dash-gauge-track{stroke:var(--hv-border);}
+  .subject-dash .dash-gauge-fill{stroke:var(--hv-accent); transition:stroke-dashoffset 1.3s cubic-bezier(.22,.61,.36,1);}
+  .subject-dash .dash-gauge-value{
+    position:absolute; left:50%; top:62%; transform:translate(-50%,-50%);
+    text-align:center; line-height:1; white-space:nowrap;
+  }
+  .subject-dash .dash-gauge-num{font-family:"Fraunces",Georgia,serif; font-weight:700; font-size:clamp(26px,3vw,32px); color:var(--hv-text);}
+  .subject-dash .dash-gauge-pct{font-size:14px; font-weight:600; color:var(--hv-text-soft); margin-left:2px;}
+  .subject-dash .dash-overall-list{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:6px; font-size:12.5px; color:var(--hv-text-soft); flex:1 1 auto; min-width:0;}
   .subject-dash .dash-overall-list b{color:var(--hv-text); font-weight:600;}
+  @media (max-width:560px){
+    .subject-dash .dash-overall{flex-direction:column; align-items:center; gap:14px;}
+    .subject-dash .dash-ring-lg.dash-gauge{width:200px;}
+    .subject-dash .dash-overall-list{width:100%;}
+  }
 
   .subject-dash .dash-toolbar{display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin-bottom:18px;}
   .subject-dash .dash-search{
@@ -56674,6 +56687,118 @@ function applyDashFilters(view){
   });
 }
 
+/* ===================================================================
+   OVERALL PROGRESS GAUGE -- semicircular SVG gauge replacing the old
+   conic-gradient ring in the "Overall progress" dashboard panel.
+   =================================================================== */
+var DASH_GAUGE_R = 92, DASH_GAUGE_CX = 110, DASH_GAUGE_CY = 108, DASH_GAUGE_SW = 16;
+var DASH_GAUGE_LEN = Math.PI * DASH_GAUGE_R;
+var DASH_GAUGE_PATH = "M"+(DASH_GAUGE_CX-DASH_GAUGE_R)+" "+DASH_GAUGE_CY+
+  " A"+DASH_GAUGE_R+" "+DASH_GAUGE_R+" 0 0 1 "+(DASH_GAUGE_CX+DASH_GAUGE_R)+" "+DASH_GAUGE_CY;
+
+function dashGaugeMarkup(){
+  return (
+    '<svg class="dash-gauge-svg" viewBox="0 0 220 124" role="img" aria-hidden="true" focusable="false">'+
+      '<path class="dash-gauge-track" d="'+DASH_GAUGE_PATH+'" fill="none" stroke-width="'+DASH_GAUGE_SW+'" stroke-linecap="round"></path>'+
+      '<path class="dash-gauge-fill" d="'+DASH_GAUGE_PATH+'" fill="none" stroke-width="'+DASH_GAUGE_SW+'" stroke-linecap="round" '+
+        'stroke-dasharray="'+DASH_GAUGE_LEN.toFixed(3)+'" stroke-dashoffset="'+DASH_GAUGE_LEN.toFixed(3)+'"></path>'+
+    '</svg>'+
+    '<div class="dash-gauge-value"><span class="dash-gauge-num" data-dash-gauge-num>0</span><span class="dash-gauge-pct">%</span></div>'
+  );
+}
+
+function dashPrefersReducedMotion(){
+  return !!(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches);
+}
+
+function dashEaseOutCubic(t){ return 1 - Math.pow(1 - t, 3); }
+
+function dashTweenGaugeNumber(numEl, from, to, duration){
+  if(!numEl) return;
+  if(dashPrefersReducedMotion() || duration<=0 || from===to){ numEl.textContent = to; return; }
+  var start = null;
+  function step(ts){
+    if(start===null) start = ts;
+    var elapsed = ts - start;
+    var t = Math.min(1, elapsed/duration);
+    var val = Math.round(from + (to-from)*dashEaseOutCubic(t));
+    numEl.textContent = val;
+    if(t<1) requestAnimationFrame(step);
+    else numEl.textContent = to;
+  }
+  requestAnimationFrame(step);
+}
+
+var dashGaugeObserver = null;
+function getDashGaugeObserver(){
+  if(dashGaugeObserver) return dashGaugeObserver;
+  if(typeof IntersectionObserver === "undefined") return null;
+  dashGaugeObserver = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry){
+      if(!entry.isIntersecting) return;
+      dashGaugeObserver.unobserve(entry.target);
+      runDashGaugeEntrance(entry.target);
+    });
+  }, {threshold:0.25});
+  return dashGaugeObserver;
+}
+
+function runDashGaugeEntrance(container){
+  var fill = container.querySelector(".dash-gauge-fill");
+  var numEl = container.querySelector("[data-dash-gauge-num]");
+  if(!fill) return;
+  var targetPct = parseFloat(container.getAttribute("data-gauge-pct")||"0");
+  var targetOffset = DASH_GAUGE_LEN * (1 - targetPct/100);
+  container.setAttribute("data-gauge-animated","1");
+  if(dashPrefersReducedMotion()){
+    fill.style.transition = "none";
+    fill.style.strokeDashoffset = targetOffset;
+    if(numEl) numEl.textContent = targetPct;
+    return;
+  }
+  fill.style.transition = "none";
+  fill.style.strokeDashoffset = DASH_GAUGE_LEN;
+  fill.getBoundingClientRect(); /* force reflow so the 0% state paints before animating */
+  requestAnimationFrame(function(){
+    requestAnimationFrame(function(){
+      fill.style.transition = "";
+      fill.style.strokeDashoffset = targetOffset;
+    });
+  });
+  dashTweenGaugeNumber(numEl, 0, targetPct, 1300);
+}
+
+function setDashGauge(container, pct){
+  if(!container) return;
+  pct = Math.max(0, Math.min(100, Math.round(pct)));
+  if(!container.querySelector(".dash-gauge-svg")){
+    container.classList.add("dash-gauge");
+    container.innerHTML = dashGaugeMarkup();
+  }
+  var prevPct = parseFloat(container.getAttribute("data-gauge-pct"));
+  container.setAttribute("data-gauge-pct", pct);
+  if(!isNaN(prevPct) && prevPct===pct && container.getAttribute("data-gauge-animated")==="1") return;
+
+  var fill = container.querySelector(".dash-gauge-fill");
+  var numEl = container.querySelector("[data-dash-gauge-num]");
+  var targetOffset = DASH_GAUGE_LEN * (1 - pct/100);
+
+  if(container.getAttribute("data-gauge-animated")==="1"){
+    /* already revealed once: glide to the new value, never replay the 0% entrance */
+    if(fill) fill.style.strokeDashoffset = targetOffset;
+    var current = numEl ? (parseFloat(numEl.textContent)||0) : 0;
+    dashTweenGaugeNumber(numEl, current, pct, dashPrefersReducedMotion()?0:900);
+    return;
+  }
+
+  /* not yet revealed: hold at 0% until it scrolls into view, then animate once */
+  if(fill){ fill.style.transition = "none"; fill.style.strokeDashoffset = DASH_GAUGE_LEN; }
+  if(numEl) numEl.textContent = "0";
+  var observer = getDashGaugeObserver();
+  if(observer) observer.observe(container);
+  else runDashGaugeEntrance(container);
+}
+
 function renderDashboard(view){
   if(!view || !view.classList.contains("subject-dash")) return;
   enhanceChapterCards(view);
@@ -56708,9 +56833,7 @@ function renderDashboard(view){
   if(ringSmText) ringSmText.textContent = pct+"%";
 
   var ringLg = view.querySelector("[data-dash-ring-lg]");
-  var ringLgText = view.querySelector("[data-dash-ring-lg-text]");
-  if(ringLg) ringLg.style.background = ringGrad;
-  if(ringLgText) ringLgText.textContent = pct+"%";
+  if(ringLg) setDashGauge(ringLg, pct);
 
   var avgBest = null;
   if(attempted.length>0){
