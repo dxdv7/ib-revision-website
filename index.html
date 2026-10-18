@@ -42959,6 +42959,1069 @@ var BIO_NOTES_V2 = {
     "<strong>HL:</strong> plant shoots show positive phototropism, growing towards unilateral light; classic decapitation and agar-block experiments show this depends on a diffusible growth substance (auxin) released from the shoot tip, not on light acting directly on the stem.",
     "<strong>HL:</strong> auxin is transported polarly (passive influx, active ATP-driven efflux via auxin efflux carriers) and promotes cell elongation via the acid growth hypothesis; its antagonistic, interdependent interaction with cytokinin integrates root and shoot growth, while ethylene drives fruit ripening through positive feedback."
   ]
+},
+"27": {
+  subtitle: "Populations of a single species interact with their environment and with each other &mdash; growing, competing and cooperating within limits set by their habitat &mdash; while many different populations together form a community, bound together by interspecific relationships from mutualism to predation that regulate each species&rsquo; abundance.",
+  keyTerms: [
+    {icon:"leaf", color:"green", term:"Population", def:"Interacting groups of organisms of the same species living in an area, with the chance to interbreed; reproductive isolation distinguishes one population of a species from another."},
+    {icon:"atom", color:"teal", term:"Community", def:"A group of different species living in an area &mdash; the total of all the populations of all species present in an ecosystem."},
+    {icon:"bars", color:"gold", term:"Quadrat", def:"A square frame outlining a known area, used to estimate the abundance of plants and sessile animals; quadrat size is matched to the size of the organisms being sampled."},
+    {icon:"leaf", color:"plum", term:"Random, stratified &amp; systematic sampling", def:"Random: choosing a sample without bias, suited to a uniform habitat. Stratified: sampling two or more distinct habitat types in proportion to their area. Systematic: sampling at fixed intervals along a transect across an environmental gradient."},
+    {icon:"atom", color:"red", term:"Sampling error", def:"The difference between an estimate of population size obtained from a sample and the true size of the whole population."},
+    {icon:"bars", color:"green", term:"Standard deviation (SD)", def:"A measure of how spread out normally distributed data are from the mean; about 68% of data lie within one SD of the mean and over 95% within two SDs. A small SD indicates more reliable, closely clustered data."},
+    {icon:"leaf", color:"teal", term:"Carrying capacity", def:"The maximum number of individuals of a species, or &lsquo;load&rsquo;, that a given environment can sustainably support."},
+    {icon:"atom", color:"gold", term:"Limiting factor", def:"A factor that restricts population growth or prevents it increasing further, e.g. light, water or soil nutrients in plants; space, food, mates or nesting sites in animals."},
+    {icon:"bars", color:"plum", term:"Density-dependent factor", def:"A biotic factor (e.g. competition, predation, disease) whose effect on birth or death rate scales with population density; density-independent factors (e.g. weather) affect populations regardless of density."},
+    {icon:"leaf", color:"red", term:"Negative feedback", def:"Feedback that counteracts any deviation from equilibrium and promotes stability, e.g. returning a population towards its carrying capacity."},
+    {icon:"atom", color:"green", term:"Lincoln index", def:"The formula population size = (M &times; N) &divide; R, used to estimate the size of a motile population from capture&ndash;mark&ndash;release&ndash;recapture data."},
+    {icon:"bars", color:"teal", term:"Exponential growth", def:"An accelerating rate of population increase occurring in an ideal, unlimited environment with no restricting limiting factors."},
+    {icon:"leaf", color:"gold", term:"Sigmoid growth curve", def:"An S-shaped population growth curve showing an exponential phase, a transition phase, and a plateau phase as the population approaches carrying capacity."},
+    {icon:"atom", color:"plum", term:"Natality, mortality, immigration &amp; emigration", def:"Natality: birth rate. Mortality: death rate. Immigration: movement of new individuals into a population. Emigration: departure of individuals from a population."},
+    {icon:"bars", color:"red", term:"Intraspecific competition", def:"Competition between individuals of the same species, for resources such as food, mates, territory, water and space."},
+    {icon:"leaf", color:"green", term:"Interspecific competition", def:"Competition between individuals of different species, generally less intense than intraspecific competition since different species occupy different niches."},
+    {icon:"atom", color:"teal", term:"Cooperation &amp; altruism", def:"Cooperation: individuals of a population working together, e.g. in dominance hierarchies or hunting packs. Altruism: behaviour that benefits another individual at the altruist&rsquo;s own expense, increasing the recipient&rsquo;s offspring and decreasing the altruist&rsquo;s."},
+    {icon:"bars", color:"gold", term:"Mutualism", def:"A type of symbiotic interspecific relationship in which both species derive benefit, able to increase the carrying capacity of both."},
+    {icon:"leaf", color:"plum", term:"Parasitism", def:"A relationship in which the parasite benefits, at the expense of the host from which it derives its food, lowering the host&rsquo;s carrying capacity."},
+    {icon:"atom", color:"red", term:"Pathogenicity", def:"The capacity of a microbe (bacterium, virus, fungus or protistan) to cause damage to a host, resulting in disease."},
+    {icon:"bars", color:"green", term:"Competitive exclusion", def:"The outcome of interspecific competition in which one species outcompetes and excludes another from part of its niche."},
+    {icon:"leaf", color:"teal", term:"Fundamental &amp; realized niche", def:"Fundamental niche: the full range of conditions and resources a species could potentially occupy. Realized niche: the narrower range it actually occupies once interspecific competition is accounted for."},
+    {icon:"atom", color:"gold", term:"Predator&ndash;prey relationship", def:"The inter-relationship of population sizes due to the predation of one species (the predator) on another (the prey)."},
+    {icon:"bars", color:"plum", term:"Top-down &amp; bottom-up control", def:"Top-down: a higher trophic level affects community structure at lower trophic levels through predation. Bottom-up: a lower trophic level (producers) affects higher trophic levels through resource restriction."},
+    {icon:"leaf", color:"red", term:"Allelopathy", def:"Chemical inhibition of one plant (or other organism) by another, through the release of chemicals (allelochemicals) that act as germination or growth inhibitors."},
+    {icon:"atom", color:"green", term:"Null hypothesis", def:"The hypothesis tested statistically that there is no significant difference, or no association, between two variables; rejecting it supports a real difference or association."}
+  ],
+  theories: [
+    {
+      icon:"leaf", title:"Populations, Sampling and Avoiding Bias",
+      coreIdea:"Ecologists cannot examine every individual in a population, so population size is estimated from carefully designed random samples &mdash; and because any sample introduces error, biologists use different sampling strategies, and statistics such as the standard deviation, to judge how reliable an estimate is.",
+      steps:[
+        "A <strong>population</strong> is an interacting group of organisms of the same species living in an area, members of which have the chance to interbreed (reproductive isolation distinguishes one population of a species from another).",
+        "Because a whole population or habitat is too large to examine individual by individual, ecologists study a <strong>sample</strong> &mdash; a subset used to estimate the values that would have been obtained had every individual been measured.",
+        "<strong>Random sampling</strong> gives every individual an equal chance of selection and avoids the bias of, for example, choosing only unusually biodiverse-looking areas; it is appropriate when a study area is homogeneous. <strong>Stratified sampling</strong> instead samples two or more distinct habitat types in proportion to the area each occupies. <strong>Systematic sampling</strong> is used along an environmental gradient: transect positions are located at random, but sample points along the transect are then taken at fixed, regular intervals (e.g. every 5 m).",
+        "Comparing samples to the real population reveals two types of error: <strong>random error</strong>, caused by unknown or unpredictable differences, which creates imprecision but can be reduced (never eliminated) by repeating and averaging measurements; and <strong>systematic error</strong>, caused by flaws in an investigation&rsquo;s design, which shifts every measurement in the same direction, creating inaccuracy rather than imprecision. Systematic error is reduced by careful experimental design, by cross-checking with a different method, and by peer review.",
+        "The <strong>sampling error</strong> is the difference between an estimate of population size from a sample and the population&rsquo;s true size; if a sample does not represent the whole population well, conclusions drawn from it may not apply to the wider population."
+      ],
+      notes:[
+        {label:"Standard deviation as a measure of reliability", text:"<strong>Standard deviation (SD)</strong> measures how spread out a set of normally distributed data is from its mean: about 68% of data lie within one SD of the mean, and over 95% within two SDs. A small SD means data are clustered closely around the mean and are more reliable; a large SD means a wider spread. SD is more reliable than the <strong>range</strong> (the difference between the largest and smallest values), which depends on only two data points and so is skewed badly by outliers. Dividing by n gives the <em>population</em> SD; dividing by n&minus;1 instead (the usual case, since biological data are normally a sample) corrects for a sample&rsquo;s tendency to underestimate the true population variability."},
+        {label:"Common mistake", text:"A larger sample size does not automatically give a smaller standard deviation &mdash; SD depends on how much genuine variation exists in the measurements themselves, and can increase or decrease as sample size grows."}
+      ],
+      side:{
+        title:"The normal distribution",
+        charts:[
+          {title:"Standard deviation", caption:"68% of data lie within 1 SD of the mean; over 95% within 2 SD", axis:"Measured value", svg: bv2HistogramSvg("Histogram showing a bell-shaped normal distribution, with 68% of data within one standard deviation of the mean and over 95% within two standard deviations")}
+        ],
+        table:{
+          title:"Three sampling strategies",
+          head:["Strategy","Used when&hellip;"],
+          rows:[
+            ["Random","Habitat is uniform throughout the study area"],
+            ["Stratified","Area contains two or more distinct habitat types"],
+            ["Systematic","Sampling along an environmental gradient (transect)"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"bars", title:"Estimating Population Size: Quadrats for Sessile Organisms",
+      coreIdea:"The size of a sessile (non-mobile) population &mdash; such as a plant or barnacle population &mdash; can be estimated by sampling small, known areas (quadrats) placed at random across a habitat, then scaling up the density recorded.",
+      steps:[
+        "A <strong>quadrat</strong> is a square frame enclosing a known area, used to estimate the abundance of plants and sessile animals; quadrat size is matched to the size of the organisms studied &mdash; a 10 cm&sup2; quadrat suits a single-celled alga such as epiphytic <em>Pleurococcus</em> on damp walls, while a 1 m&sup2; quadrat suits herbaceous grassland plants, or earthworms and slugs extracted from the soil beneath it.",
+        "The habitat is first mapped with gridlines along two edges, creating x- and y-axes; coordinate pairs are then generated as sequences of random numbers (by calculator, computer software, or published tables) to decide where each quadrat is placed, avoiding the bias of a researcher choosing &lsquo;convenient&rsquo; or visually striking locations.",
+        "Within each placed quadrat, the species present are identified, and the density, frequency, cover or abundance of the species under investigation is recorded.",
+        "The total habitat area occupied by the population is measured, and population size is then calculated as: <strong>population size = (mean density per quadrat &times; total area) &divide; area of each quadrat</strong>."
+      ],
+      notes:[{label:"Described figure &mdash; random quadrat placement", text:"A rectangular habitat map is marked with numbered gridlines (0&ndash;100) along both the x- and y-axes; quadrats are positioned only at coordinate pairs generated by a random number source, never chosen by eye, so the sample fairly represents the whole site."}],
+      side:{
+        table:{
+          title:"Matching quadrat size to organism size",
+          head:["Quadrat size","Suited to"],
+          rows:[
+            ["10 cm&sup2;","Epiphytic alga (e.g. <em>Pleurococcus</em>) on walls or bark"],
+            ["1 m&sup2;","Grassland herbaceous plants; soil earthworms and slugs"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", title:"Estimating Population Size: Capture&ndash;Mark&ndash;Release&ndash;Recapture and the Lincoln Index",
+      coreIdea:"For motile (mobile) animals, population size is instead estimated by marking a sample of captured individuals, releasing them, then recapturing a second sample later and comparing how many are marked &mdash; a relationship formalised as the Lincoln index.",
+      steps:[
+        "A random sample of the population is captured, marked in a way appropriate to the organism (e.g. pen on insect wing cases, enamel paint on snail shells, fur clipping in mammals), and released back into the population; marks must be inconspicuous, since a highly visible mark would increase an individual&rsquo;s risk of being caught by a predator.",
+        "After enough time has passed for the marked individuals to mix evenly through the population (e.g. 24 hours), a second random sample is captured from the same location.",
+        "The number of marked individuals within this second sample is counted, and the <strong>Lincoln index</strong> formula is applied: <strong>population size = (M &times; N) &divide; R</strong>, where M = number of animals captured, marked and released; N = number of animals recaptured in the second sample; R = the number of marked animals found within that second sample.",
+        "For example, in a population of woodlice where M = 5 (captured, marked, released), N = 8 (recaptured), and R = 1 (marked animals among those recaptured), the estimated population size = (5 &times; 8) &divide; 1 = 40."
+      ],
+      notes:[{label:"Assumptions of the Lincoln index", text:"The method assumes: mixing is complete, so marked individuals spread evenly through the population between capture and recapture; marks are not removed and do not disappear; marks are not harmful and do not increase predation risk by increasing visibility; every individual is equally easy to catch; and the population is <strong>closed</strong> &mdash; no immigration, emigration, births or deaths occur between the two sampling events."}],
+      side:{
+        table:{
+          title:"Worked example (woodlice)",
+          head:["Symbol","Meaning","Value"],
+          rows:[
+            ["M","Captured, marked, released","5"],
+            ["N","Recaptured (2nd sample)","8"],
+            ["R","Marked animals recaptured","1"],
+            ["Population size","(M &times; N) &divide; R","40"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"leaf", title:"Carrying Capacity and Density-Dependent Control",
+      coreIdea:"Population growth cannot continue indefinitely &mdash; limiting factors and density-dependent biotic pressures act through negative feedback to hold populations around a sustainable ceiling, the carrying capacity.",
+      steps:[
+        "As a population grows, abiotic and biotic <strong>limiting factors</strong> eventually restrict further increase &mdash; in plants these include light, soil nutrients, water, carbon dioxide and temperature; in animals, space, food, mates, nesting sites and water.",
+        "The <strong>carrying capacity</strong> is the maximum number of individuals of a species, or &lsquo;load&rsquo;, that a given environment can sustainably support; rabbits introduced to a new meadow, for example, grow exponentially at first, but once their consumption of vegetation outpaces its regrowth, food becomes limiting and numbers stabilise at the meadow&rsquo;s carrying capacity.",
+        "<strong>Negative feedback</strong> is feedback that counteracts deviation from an equilibrium and restores stability &mdash; for a population, this means a return towards the carrying capacity; the predator&ndash;prey relationship is a clear example.",
+        "Negative feedback control of population size operates through <strong>density-dependent factors</strong> &mdash; biotic factors whose effect on birth or death rate scales with population density. <strong>Internal</strong> density-dependent factors include fertility and territory size; <strong>external</strong> density-dependent factors include increased predation risk and the spread of pathogens or pests, both of which rise in denser populations.",
+        "<strong>Density-independent factors</strong> (e.g. weather, climate, natural disasters) affect populations of all species in an ecosystem regardless of density, and so cause fluctuations in population size without affecting carrying capacity itself; density-dependent factors, by contrast, define the upper limit to growth and tend to push a population back towards it."
+      ],
+      notes:[{label:"Concept: Interaction", text:"Density-dependent factors interact with organisms to cause population numbers to fluctuate, ultimately pushing populations back to carrying capacity."}],
+      side:{
+        table:{
+          title:"Density-dependent vs density-independent factors",
+          head:["Feature","Density-dependent","Density-independent"],
+          rows:[
+            ["Effect scales with population size?","Yes","No"],
+            ["Affects carrying capacity?","Yes &mdash; defines it","No"],
+            ["Examples","Competition, predation, disease","Weather, climate, natural disaster"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"bars", title:"Population Growth Curves: Exponential and Sigmoid Growth",
+      coreIdea:"A population introduced into a new, resource-rich environment first grows exponentially, then slows as limiting factors take hold, tracing out a characteristic S-shaped (sigmoid) curve as it settles around its carrying capacity.",
+      steps:[
+        "<strong>Exponential growth</strong> is an accelerating rate of increase that occurs in an ideal, unlimited environment &mdash; where limiting factors are not restricting growth, resources (light, space, food) are plentiful, competition is low, abiotic conditions are favourable, and predators or disease are scarce. Growth starts slowly but becomes increasingly rapid and does not level off as the population grows.",
+        "As environmental resistance builds, a population instead follows a <strong>sigmoid (S-shaped) growth curve</strong>, in three stages: (1) an <strong>exponential stage</strong>, where limiting factors are minimal and both numbers and growth rate increase rapidly; (2) a <strong>transition phase</strong>, where growth slows as limiting factors begin to bite &mdash; increased competition, more predators attracted by the large population, and higher disease and mortality rates from crowding; (3) a <strong>plateau phase</strong>, where the population fluctuates around the <strong>carrying capacity (K)</strong> as limiting factors, predation, disease and abiotic conditions interact.",
+        "The three stages can also be described using <strong>natality (N)</strong> (birth rate), <strong>mortality (M)</strong> (death rate), <strong>immigration (I)</strong> (movement of new individuals in) and <strong>emigration (E)</strong> (departure of individuals): during the exponential stage, I + N &gt; E + M as abundant resources favour reproduction over death; during the transition, I + N is still &gt; E + M but the gap narrows as resources grow scarcer; at the plateau, I + N = E + M on average, with the population fluctuating slightly either side of this set point.",
+        "The logistic sigmoid function, F(x) = 1 &divide; (1 + e<sup>&minus;x</sup>), is the standard mathematical model of this S-shaped pattern. Because real biological data can span a very wide range of values (e.g. yeast counted with a haemocytometer), plotting population size on a logarithmic y-axis against a linear time x-axis compresses large values and expands small ones &mdash; a population growing exponentially then appears as a straight line.",
+        "Duckweed (<em>Lemna</em>), a fast-reproducing free-floating pond plant, is commonly used to model sigmoid growth experimentally: a small starting number of thalli is grown in replicate containers of pond water, counted twice weekly for at least six weeks, and the mean plotted against time &mdash; carrying capacity is reached once no room remains for further thalli and competition for space limits growth."
+      ],
+      notes:[
+        {label:"Nature of science &mdash; models", text:"The population growth curve is an idealized graphical model: real populations rarely show such smooth curves, since density-independent and density-dependent factors cause constant fluctuation. Models simplify complex systems to reveal overall patterns rather than the fine detail of any one case, and allow predictions of the pattern expected under given conditions."},
+        {label:"Described figure &mdash; coral regrowth after disturbance (Lady Musgrave Island)", text:"Field data recording the percentage of hard coral cover over roughly 4000 days following disturbance by tropical cyclones follows a typical sigmoid response: near-exponential growth while coral cover is low, followed by a gradual slowdown in net growth rate as cover approaches its carrying capacity."}
+      ],
+      side:{
+        table:{
+          title:"Relative rates across the sigmoid curve",
+          head:["Phase","Relationship","What is happening"],
+          rows:[
+            ["Exponential","I + N &gt; E + M","No limiting factors; abundant resources; low competition; high reproduction"],
+            ["Transition","I + N &gt; E + M (narrowing)","Resources grow scarcer; competition increases"],
+            ["Plateau","I + N = E + M (on average)","Population fluctuates around carrying capacity K"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"leaf", title:"Communities, Intraspecific Competition and Cooperation",
+      coreIdea:"A community is every interacting population of every species in an ecosystem; within a single species, individuals can either compete intensely for shared resources or cooperate to reduce the costs of that competition.",
+      steps:[
+        "A <strong>community</strong> is a group of different species living in an area &mdash; the total of all the populations of all species present in an ecosystem (e.g. the wildebeest, lions, hyenas, giraffes, elephants and zebras of an African savannah, or the plant, fish, invertebrate and surface-dwelling populations of a pond). Communities include every biotic part of an ecosystem: plants, animals and fungi. In ecology, &lsquo;community&rsquo; (many species) and &lsquo;population&rsquo; (one species) are not interchangeable.",
+        "<strong>Intraspecific competition</strong> (within a species) can be the most intense form of competition, because individuals of the same species share exactly the same niche and so compete for precisely the same resources &mdash; food, mates, territory, water and space (e.g. two male blue wildebeest fighting over territory).",
+        "<strong>Interspecific competition</strong> (between different species) is generally less intense, since different species occupy different niches and so overlap less in the resources they need.",
+        "Competition is not the only option: many species have evolved <strong>cooperation</strong> to reduce its costs. Dominance hierarchies reduce fighting and injury within a group; hyena clans hunt cooperatively under a dominant female (&lsquo;queen&rsquo;), with every member benefiting from more effective, group-based kills than any individual could achieve alone.",
+        "<strong>Social insects</strong> (bees, wasps, ants, termites) take cooperation furthest: a single reproductive female is supported by large numbers of non-breeding workers, all her genetically similar offspring, so the colony behaves as one &lsquo;superorganism&rsquo;. Seemingly <strong>altruistic</strong> behaviour &mdash; risking oneself to defend the colony, or raising others&rsquo; offspring instead of one&rsquo;s own &mdash; is explained by this shared genetic inheritance between colony members."
+      ],
+      notes:[{label:"Described figure &mdash; leafcutter ant agriculture", text:"Leafcutter ants (<em>Atta</em> sp.) of Central and South American rainforests build nests of thousands of compartments covering up to 0.5 km&sup2;, housing colonies of over 8 million individuals. Workers, able to carry 20&ndash;50 times their own body weight, cut and transport up to 17% of a forest&rsquo;s vegetation back to the nest, feeding it to a cultivated fungus, <em>Leucoagaricus gongylophorus</em>, that can digest the cellulose in the leaves&rsquo; cell walls, which the ants cannot &mdash; the fungus in turn feeds the ant larvae."}],
+      side:{
+        table:{
+          title:"Intraspecific vs interspecific competition",
+          head:["Feature","Intraspecific","Interspecific"],
+          rows:[
+            ["Between","Same species","Different species"],
+            ["Niche overlap","Complete (same niche)","Partial"],
+            ["Typical intensity","Highest","Lower"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", title:"Interspecific Relationships and Mutualism",
+      coreIdea:"Communities are held together by a range of interspecific relationships &mdash; herbivory, predation, interspecific competition, mutualism, parasitism and pathogenicity &mdash; each of which raises or lowers the carrying capacity of the species involved in a different way.",
+      steps:[
+        "<strong>Herbivory</strong> (an organism feeding on a plant) ties herbivore carrying capacity to plant abundance &mdash; areas rich in plant material support a higher carrying capacity for herbivores than areas with less.",
+        "<strong>Predation</strong> (one animal, occasionally a plant, eating another animal) reduces the prey&rsquo;s carrying capacity by removing individuals, while the predator&rsquo;s own carrying capacity depends on prey availability, falling when prey become scarce.",
+        "<strong>Mutualism</strong> (a form of symbiosis) is an interaction from which both species benefit, raising the carrying capacity of both. <strong>Parasitism</strong> instead benefits the parasite at the host&rsquo;s expense (the parasite feeding on the host), lowering the host&rsquo;s carrying capacity. <strong>Pathogenicity</strong> is the capacity of a microbe (bacterium, virus, fungus or protistan) to cause disease in a host, which can likewise reduce the host population&rsquo;s carrying capacity &mdash; as in the fungus <em>Batrachochytrium dendrobatidis</em>, which causes chytridiomycosis and has driven significant population declines (even extinctions) in over 200 amphibian species over the past 30 years, including the evergreen robber frog (<em>Craugastor gollmeri</em>) of Costa Rica and Panama.",
+        "In the <em>Rhizobium</em>&ndash;legume mutualism, <em>Rhizobium</em> bacteria living in the root nodules of legumes (e.g. clover) fix nitrogen gas into ammonium ions (later converted to nitrates by other bacteria); the plant gains usable nitrate it could not otherwise obtain in nitrate-poor soils, and supplies the bacteria with carbohydrate in return &mdash; a nutritionally costly trade for the plant, but one that opens up a niche other plants cannot exploit. Because the nitrogenase enzyme that catalyses nitrogen fixation is inhibited by oxygen (which competes with nitrogen for the enzyme&rsquo;s active site, being similar in size and shape), the nodule must stay low in oxygen: <em>Rhizobium</em> has an unusually fast aerobic metabolism that prevents oxygen build-up, and the nodule contains <strong>leghaemoglobin</strong>, an oxygen-scavenging pigment (like haemoglobin) with a high affinity for oxygen.",
+        "<strong>Mycorrhizae</strong> &mdash; fungi growing symbiotically with plant roots &mdash; supply germinating orchids (family Orchidaceae) with nutrients and water that their tiny, food-poor seeds cannot otherwise obtain, in exchange for photosynthetically-derived glucose; the rare lady-slipper orchid (<em>Cypripedium calceolus</em>) depends on this relationship so specifically that lab-grown seedlings are difficult to reintroduce to the wild, where the particular mycorrhizal partner may be absent.",
+        "<strong>Corals</strong> (cnidarians related to sea anemones and jellyfish) form colonies of interconnected polyps that house photosynthetic algae, <strong>zooxanthellae</strong>, within their endodermis. The coral supplies the algae with a protected habitat and waste carbon dioxide from respiration; the algae supply the coral with oxygen and glucose (as much as 90% of the organic material they photosynthesise), and give the coral its colour (golden-yellow to brown, depending on the algal pigments)."
+      ],
+      notes:[{label:"Described figure &mdash; anatomy of a coral polyp", text:"Each coral polyp has stinging tentacles (bearing nematocysts) around a central mouth leading to a gastrovascular (digestive) cavity; zooxanthellae live within the polyp&rsquo;s tissue, and the polyp secretes a limestone skeleton beneath itself, with living tissue connecting it to its neighbouring polyps across the colony."}],
+      side:{
+        table:{
+          title:"Interspecific relationships and carrying capacity",
+          head:["Relationship","Effect on carrying capacity"],
+          rows:[
+            ["Herbivory","Herbivore K depends on plant abundance"],
+            ["Predation","Prey K falls; predator K depends on prey"],
+            ["Mutualism","K of both species can increase"],
+            ["Parasitism","Host K falls"],
+            ["Pathogenicity","Host population K can fall through disease"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"bars", title:"Invasive Species, Niches and Tests for Interspecific Competition",
+      coreIdea:"When species&rsquo; niches overlap, interspecific competition can be tested experimentally &mdash; as Joseph Connell did with rocky-shore barnacles &mdash; and when a native species&rsquo; niche overlaps with an introduced alien species, the result can be the alien displacing or restricting the endemic species.",
+      steps:[
+        "An <strong>alien species</strong> is introduced to an area by human activity; an <strong>invasive species</strong> is an alien species that increases rapidly in number and negatively affects the environment and native species. The grey squirrel (<em>Sciurus carolinensis</em>), native to eastern North America, was introduced to the UK in the 1800s and has since restricted the native red squirrel (<em>Sciurus vulgaris</em>) to just two UK locations, from previously being widespread &mdash; the grey squirrel can digest the polyphenolic substances in oak acorns that the red squirrel cannot, giving it a broader diet that let it outbreed the red squirrel even for resources both use (hazelnuts, pine cones).",
+        "Because the grey and red squirrel occupy overlapping niches, this is an example of <strong>competitive exclusion</strong>: when species&rsquo; niches overlap, the superior competitor can reduce the other to a smaller realized niche, or eliminate it, as interspecific competition intensifies. Introducing an alien species can also squeeze both the alien and native species into smaller realized niches, and if the alien lacks natural predators it may become invasive &mdash; understanding a species&rsquo; <strong>fundamental niche</strong> helps predict dispersal and invasion success for conservation planning.",
+        "Interspecific competition is only <em>indicated</em>, not <em>proven</em>, by one species thriving in another&rsquo;s absence; stronger evidence comes from laboratory experiments, field observation by random sampling, or &mdash; most powerfully &mdash; field manipulation by removing one species. American ecologist Joseph Connell used removal experiments on two rocky-shore barnacle species in Scotland, <em>Semibalanus balanoides</em> (normally abundant lower on the shore) and <em>Chthamalus stellatus</em> (normally abundant higher up), even though both species&rsquo; free-swimming larvae can settle anywhere on the shore.",
+        "Removing <em>Semibalanus</em> from the <strong>upper</strong> shore did not allow <em>Chthamalus</em> to spread there &mdash; <em>Semibalanus</em> simply cannot tolerate the desiccation of the upper shore at low tide, so its realized niche there matches its fundamental niche (it is excluded physiologically, not by competition). Removing <em>Semibalanus</em> from the <strong>middle</strong> shore, however, let <em>Chthamalus</em> expand into that zone &mdash; showing that <em>Chthamalus</em>&rsquo;s fundamental niche covers both zones, but interspecific competition from the superior competitor, <em>Semibalanus</em>, normally restricts <em>Chthamalus</em> to just its smaller, observed realized niche on the upper shore.",
+        "Competitive exclusion (as in Connell&rsquo;s barnacles) is only one possible outcome of interspecific competition; competing species can instead coexist with both restricted, as when lions and leopards in Africa feed on overlapping prey &mdash; each reducing the other&rsquo;s food availability without eliminating it.",
+        "A testable <strong>hypothesis</strong> is a provisional, falsifiable explanation of how an independent variable causally affects a dependent variable; hypotheses can be tested by controlled experiments (stronger evidence) or by observation (qualitative, weaker evidence) &mdash; Connell&rsquo;s removal experiments, not mere observation of where each barnacle naturally lived, were what actually demonstrated the role of competition.",
+        "The presence or absence of two species recorded across many quadrats can be tested statistically for association using the <strong>chi-squared (&chi;&sup2;) test</strong>, comparing numbers observed (O) against numbers expected (E) under the <strong>null hypothesis</strong> that there is no association (the two species&rsquo; distributions are independent): &chi;&sup2; = &sum; [(O &minus; E)&sup2; &divide; E], with degrees of freedom = (columns &minus; 1) &times; (rows &minus; 1); the calculated value is compared against a critical value from a &chi;&sup2; table at a chosen significance level (e.g. p = 0.05) to decide whether to reject the null hypothesis."
+      ],
+      notes:[{label:"Worked example", text:"See the bell heather and ling moorland chi-squared calculation in the worked examples below."}],
+      side:{
+        title:"Observed association data",
+        charts:[
+          {title:"Observed quadrat counts", caption:"Ling and bell heather across 200 moorland quadrats", axis:"Number of quadrats (of 200)", svg: bv2BarChartSvg([
+            {label:"Both present", v:89, color:"var(--hv-green)"},
+            {label:"Ling only", v:45, color:"var(--teal)"},
+            {label:"Heather only", v:31, color:"var(--gold)"},
+            {label:"Neither", v:35, color:"var(--plum)"}
+          ], "Bar chart of observed quadrat counts for ling and bell heather: both present 89, ling only 45, heather only 31, neither 35")}
+        ],
+        table:{
+          title:"Connell&rsquo;s barnacle removal experiment",
+          head:["Shore zone","Result for Chthamalus when Semibalanus removed","Explanation"],
+          rows:[
+            ["Upper shore","No change &mdash; Chthamalus did not spread further","Semibalanus excluded by desiccation (a physiological limit), not by competition"],
+            ["Middle shore","Chthamalus expanded into the zone","Semibalanus normally wins the competition there, restricting Chthamalus to a smaller realized niche"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"leaf", title:"Predator&ndash;Prey Relationships and Top-down versus Bottom-up Control",
+      coreIdea:"Predator and prey populations regulate each other through density-dependent negative feedback, producing cyclical fluctuations &mdash; and a community&rsquo;s structure overall can be driven either top-down, by predation cascading from high trophic levels, or bottom-up, by resource limitation cascading up from producers.",
+      steps:[
+        "A <strong>predator&ndash;prey relationship</strong> is the inter-relationship of population sizes due to the predation of one species (the predator) on another (the prey), e.g. the lynx (predator) and snowshoe hare (prey) of the North American boreal forest. This is a density-dependent, negative-feedback relationship: when predators are relatively scarce, the prey population increases; the resulting greater availability of prey allows the predator population to increase too, after a time-lag; as predator numbers rise, the prey population then declines (again after a lag); with fewer prey, predator numbers fall once more, allowing prey numbers to begin recovering &mdash; and the cycle repeats.",
+        "Predation can actually benefit a prey population overall: predators tend to remove old and sick individuals first, since these are the easiest to catch, leaving a healthier remaining population with a stronger breeding pool.",
+        "A <strong>trophic level</strong> is a feeding level within a food chain. In <strong>top-down control</strong> (a &lsquo;predator-controlled food web&rsquo;), a higher trophic level shapes community structure at lower trophic levels through predation &mdash; e.g. hunting that reduces top marine predators allows their prey, forage fish, to increase, which increases predation on zooplankton (reducing it), which in turn allows phytoplankton (under reduced grazing pressure) to increase: effects cascade downward from the top of the food chain.",
+        "In <strong>bottom-up control</strong>, a lower trophic level (the producers) instead shapes community structure at higher trophic levels through resource restriction (e.g. food, habitat, space) &mdash; e.g. extreme weather that reduces phytoplankton reduces zooplankton (less food), which reduces forage fish, which reduces top predator numbers: effects cascade upward from the base of the food chain. Both forms of control are possible within a single community, but typically one dominates over the other."
+      ],
+      notes:[
+        {label:"Common mistake", text:"&lsquo;Negative&rsquo; feedback does not mean the feedback loop is harmful &mdash; it usually counteracts deviation away from a steady-state equilibrium. &lsquo;Positive&rsquo; feedback does not mean a beneficial effect either &mdash; it increases change in a system, moving it further from equilibrium."},
+        {label:"Described figure &mdash; snowshoe hare and lynx cycle", text:"Population numbers (in thousands) plotted against year from 1845&ndash;1945 show the snowshoe hare and lynx populations oscillating together in roughly repeating cycles, with each lynx population peak lagging slightly behind the corresponding hare population peak &mdash; graphical evidence of the time-lagged negative feedback described above."}
+      ],
+      side:{
+        table:{
+          title:"Top-down vs bottom-up control (4-level marine food chain)",
+          head:["Control type","Trigger","Cascade direction"],
+          rows:[
+            ["Top-down","Hunting reduces top predators","Predators &darr;, forage fish &uarr;, zooplankton &darr;, phytoplankton &uarr;"],
+            ["Bottom-up","Extreme weather reduces phytoplankton","Phytoplankton &darr;, zooplankton &darr;, forage fish &darr;, predators &darr;"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", title:"Allelopathy and Secretion of Antibiotics",
+      coreIdea:"Beyond resource competition, some organisms gain a competitive edge chemically &mdash; plants through allelopathy, and fungi through secreted antibiotics &mdash; both releasing compounds that suppress potential competitors.",
+      steps:[
+        "Interspecific plant competition can be severe, reducing the carrying capacity of both competing species. <strong>Allelopathy</strong> (from Greek <em>allelon</em>, &lsquo;each other&rsquo;, and <em>pathos</em>, &lsquo;to suffer&rsquo; &mdash; the same root as &lsquo;pathogen&rsquo;) is a mechanism by which one plant chemically suppresses another using a released compound (an <strong>allelochemical</strong>), creating adverse conditions that reduce a competitor&rsquo;s seed germination, seedling growth, or overall growth; some allelochemicals specifically reduce chlorophyll production, slowing or stopping photosynthesis in the affected plant.",
+        "Plants achieve this in three main ways: releasing allelochemicals from their roots into the soil, which suppress or kill neighbouring plants on absorption; releasing gaseous allelochemicals from leaf stomata, which suppress or kill plants that absorb them; and shedding leaves containing toxic chemicals, which are released as the fallen leaves decompose.",
+        "All brassica plants (cabbage, mustard, kale, radish, broccoli) show allelopathic properties &mdash; mustard extracts, for example, suppress fungal pathogens and limit the germination of some legumes (e.g. lentils) and oats, while broccoli is allelopathic towards later-planted broccoli or other brassica crops, which is why farmers rotate crops and avoid replanting brassicas where broccoli recently grew. Bracken (<em>Pteridium aquilinum</em>) competitively excludes other plants through allelopathy, becoming dominant and reducing local biodiversity wherever it grows densely.",
+        "Fungi can achieve a similar effect by secreting <strong>antibiotics</strong> &mdash; chemicals that kill or inhibit competing bacteria, itself a form of allelopathy. Penicillin, derived from <em>Penicillium</em> fungi, was the first mass-produced antibiotic for treating human bacterial disease; it was discovered accidentally by Alexander Fleming in 1929 while studying <em>Staphylococcus</em> (the bacterium causing boils and sore throats). Such fungal antibiotic properties have since been exploited to produce antibiotic medicines."
+      ],
+      notes:[{label:"Top tip", text:"Allelopathy and antibiotic secretion are fundamentally the same kind of process: both release a chemical substance into the environment specifically to deter potential competitors."}]
+    }
+  ],
+  workedExamples: [
+    {
+      title:"Estimating population size by quadrat sampling",
+      question:"An ecologist estimates the population of daisies (<em>Bellis perennis</em>) in a 1000 m&sup2; meadow using fifty randomly placed 1 m&sup2; quadrats. The mean number of daisies recorded per quadrat is 8. Estimate the total population size of daisies in the meadow, and state one assumption the method relies on.",
+      answer:[
+        "Apply the formula: population size = (mean density per quadrat &times; total area) &divide; area of each quadrat.",
+        "Substitute the values: population size = (8 &times; 1000) &divide; 1 = 8000 daisies.",
+        "Assumption: the quadrats were placed using genuinely random coordinates (not chosen by eye), and the daisies are distributed evenly enough across the meadow for fifty quadrats to give a representative mean density."
+      ]
+    },
+    {
+      title:"Estimating population size with the Lincoln index",
+      question:"In a capture&ndash;mark&ndash;release&ndash;recapture study of a woodlice population, 5 individuals are captured, marked and released (M). Twenty-four hours later, a second random sample of 8 individuals is recaptured (N), of which 1 is found to be marked (R). (a) Calculate the estimated population size. (b) State two assumptions this estimate relies on.",
+      answer:[
+        "(a) Population size = (M &times; N) &divide; R = (5 &times; 8) &divide; 1 = 40 woodlice.",
+        "(b) The estimate assumes the population is closed (no immigration, emigration, births or deaths between the two samples) and that the marked individuals mixed completely and evenly back into the population before the second sample was taken &mdash; other valid assumptions include that marks neither fall off nor harm the animal nor increase its risk of predation, and that every individual is equally easy to catch."
+      ]
+    },
+    {
+      title:"Testing for association using the chi-squared test",
+      question:"In a survey of 200 randomly placed quadrats on an area of moorland, the presence or absence of ling (<em>Calluna vulgaris</em>) and bell heather (<em>Erica cinerea</em>) was recorded: 89 quadrats contained both species, 45 contained ling only, 31 contained bell heather only, and 35 contained neither. Using the corresponding expected values 80, 54, 40 and 26 for these same four categories, calculate &chi;&sup2; and state, with reference to a critical value of 3.84 (1 degree of freedom, p = 0.05), whether the two species are associated.",
+      answer:[
+        "&chi;&sup2; = &sum; [(O &minus; E)&sup2; &divide; E] = (89&minus;80)&sup2;&divide;80 + (45&minus;54)&sup2;&divide;54 + (31&minus;40)&sup2;&divide;40 + (35&minus;26)&sup2;&divide;26.",
+        "= 81&divide;80 + 81&divide;54 + 81&divide;40 + 81&divide;26 = 1.01 + 1.50 + 2.03 + 3.11 = 7.65.",
+        "Degrees of freedom = (columns &minus; 1) &times; (rows &minus; 1) = (2&minus;1) &times; (2&minus;1) = 1.",
+        "Since the calculated &chi;&sup2; (7.65) is greater than the critical value (3.84) at p = 0.05 for 1 degree of freedom, the null hypothesis (no association) is rejected: ling and bell heather show a statistically significant association &mdash; their distributions are not independent of each other."
+      ]
+    },
+    {
+      title:"Interpreting the sigmoid growth curve",
+      question:"A small population of deer is introduced to a predator-free island with abundant vegetation. (a) State the relationship between natality (N), mortality (M), immigration (I) and emigration (E) during the population&rsquo;s initial exponential growth phase. (b) State the relationship once the population has reached the plateau phase of the sigmoid curve. (c) Explain, in terms of resources and competition, why the relationship changes between (a) and (b).",
+      answer:[
+        "(a) I + N &gt; E + M &mdash; natality greatly exceeds mortality because resources are abundant, limiting factors are minimal, and there is little competition or predation.",
+        "(b) I + N = E + M (on average) &mdash; the population fluctuates around a set point, the carrying capacity, with natality and mortality roughly balanced.",
+        "(c) As the deer population grows, the same food and space must be shared between more individuals, so intraspecific competition for limited resources increases; this raises mortality and/or lowers natality until the two rates come into balance at the island&rsquo;s carrying capacity."
+      ]
+    },
+    {
+      title:"Classifying interspecific relationships",
+      question:"For each scenario below, name the type of interspecific relationship described and briefly justify your answer: (a) <em>Rhizobium</em> bacteria in a legume&rsquo;s root nodules fix nitrogen for the plant and receive carbohydrates in return. (b) The fungus <em>Batrachochytrium dendrobatidis</em> has caused significant population declines in the evergreen robber frog. (c) A lion kills and eats a zebra. (d) In a UK woodland, grey squirrels and red squirrels both feed on the same hazelnuts and pine cones.",
+      answer:[
+        "(a) Mutualism &mdash; both the bacteria (which gain carbohydrate) and the plant (which gains usable nitrate) benefit from the relationship.",
+        "(b) Pathogenicity &mdash; <em>B. dendrobatidis</em> is a microbial pathogen causing a disease (chytridiomycosis) that reduces the frog population&rsquo;s carrying capacity, rather than directly consuming the frogs as food or living inside them as a classic parasite would.",
+        "(c) Predation &mdash; the lion (predator) kills and consumes the zebra (prey), directly reducing the prey population.",
+        "(d) Interspecific competition &mdash; the two squirrel species have an overlapping niche (sharing the same food resources), which can lead to competitive exclusion of the less successful competitor (the red squirrel)."
+      ]
+    }
+  ],
+  summary: [
+    "A population is an interacting group of one species in an area; a community is all the interacting populations of different species in an ecosystem.",
+    "Random sampling avoids bias when estimating population size; stratified sampling suits areas with multiple habitat types, and systematic sampling (along a transect) suits an environmental gradient.",
+    "Quadrats estimate population size for sessile organisms using the formula population size = (mean density per quadrat &times; total area) &divide; area of each quadrat.",
+    "Capture&ndash;mark&ndash;release&ndash;recapture estimates population size for motile organisms using the Lincoln index, (M &times; N) &divide; R, which assumes a closed population with complete mixing, harmless/persistent marks and equal catchability.",
+    "Carrying capacity is the maximum population size an environment can sustain; limiting factors (e.g. food, space, water) and density-dependent factors push population size back towards it by negative feedback.",
+    "Density-dependent factors (e.g. competition, predation, disease) have effects that scale with population density and set carrying capacity; density-independent factors (e.g. weather) affect all population sizes regardless of density and do not affect carrying capacity.",
+    "Exponential growth is an accelerating, unrestricted increase; sigmoid (S-shaped) growth shows an exponential phase, a transition phase, and a plateau phase around carrying capacity, describable via natality, mortality, immigration and emigration rates.",
+    "Intraspecific competition (within a species, sharing the same niche) is typically more intense than interspecific competition (between species, with different niches); many species balance competition with cooperation (dominance hierarchies, cooperative hunting, social insect colonies) and altruism.",
+    "Interspecific relationships include herbivory, predation, interspecific competition, mutualism, parasitism and pathogenicity &mdash; each differently affecting the carrying capacities of the species involved.",
+    "Mutualism benefits both species, as in <em>Rhizobium</em> root nodules fixing nitrogen for legumes, mycorrhizae supplying orchids with nutrients, and zooxanthellae photosynthesising for corals.",
+    "Invasive alien species (e.g. the grey squirrel displacing the red squirrel in the UK) can outcompete endemic species with overlapping niches, driving competitive exclusion.",
+    "Connell&rsquo;s barnacle experiments showed that a species&rsquo; realized niche can be smaller than its fundamental niche because of interspecific competition; the chi-squared test can detect a statistically significant association between two species&rsquo; distributions.",
+    "Predator&ndash;prey relationships (e.g. snowshoe hare and lynx) show density-dependent, negative-feedback population cycles; populations can also be controlled top-down (by predation from higher trophic levels) or bottom-up (by resource limitation from producers).",
+    "Allelopathy (e.g. in brassicas and bracken) and antibiotic secretion by fungi (e.g. penicillin) are both chemical mechanisms by which one organism suppresses potential competitors."
+  ]
+},
+"16": {
+  subtitle: "Large organisms cannot rely on diffusion alone to move materials internally, so both animals and plants use mass flow &mdash; fluid moving down a pressure gradient &mdash; to transport substances. In mammals this is the blood and lymphatic circulation; in plants it is the xylem (water) and phloem (sap) of the vascular tissue.",
+  keyTerms: [
+    {icon:"atom", color:"green", term:"Mass flow", def:"The movement of fluids down a pressure gradient; the general principle behind internal transport systems in both animals and plants."},
+    {icon:"leaf", color:"teal", term:"Endothelium", def:"The innermost lining layer of arteries, veins and capillaries (and the inside of the heart), formed from a single layer of flattened (squamous) cells."},
+    {icon:"bars", color:"gold", term:"Lumen", def:"The hollow interior of a blood vessel, through which the blood passes."},
+    {icon:"atom", color:"plum", term:"Aorta", def:"The main artery that carries blood away from the heart to the rest of the body; blood pressure here is very high, about 120 mm Hg."},
+    {icon:"leaf", color:"red", term:"Arteriole", def:"A very small artery, with a high proportion of smooth muscle, that regulates how much blood flows onward from arteries into a capillary bed."},
+    {icon:"bars", color:"green", term:"Venule", def:"A small vessel formed by the union of several capillaries, carrying blood (at about 15 mm Hg) onward into a vein."},
+    {icon:"atom", color:"teal", term:"Atherosclerosis", def:"Deposition of plaque (a cholesterol derivative) within the inner wall of a blood vessel, causing progressive degeneration of the artery wall."},
+    {icon:"leaf", color:"gold", term:"Thrombus &amp; embolus", def:"Thrombus: a blood clot that forms within a blood vessel. Embolus: a thrombus that has broken free and is circulating in the bloodstream, able to block a narrower vessel downstream."},
+    {icon:"bars", color:"plum", term:"Tension", def:"The force transmitted through a substance &mdash; such as the water column inside a xylem vessel &mdash; when it is pulled tight by forces acting from opposite ends."},
+    {icon:"atom", color:"red", term:"Transpiration stream", def:"The continuous, one-way flow of water through a plant, from the roots to the leaves, via the xylem vessels."},
+    {icon:"leaf", color:"green", term:"Lignin", def:"A complex, waterproof polymer in which cellulose microfibrils are embedded, giving xylem vessel walls great strength and rigidity and letting them resist collapse under tension."},
+    {icon:"bars", color:"teal", term:"Apoplast pathway", def:"The route of water movement through the non-living parts of a plant &mdash; cell walls and the spaces between them (about 50% of wall volume) &mdash; entirely avoiding the cytoplasm; the main route for water crossing the root."},
+    {icon:"atom", color:"gold", term:"Symplast &amp; vacuolar pathways", def:"Symplast pathway: water movement through the cytoplasm and plasmodesmata of cells, by diffusion. Vacuolar pathway: water movement from vacuole to vacuole, by osmosis; important for individual cells but not for bulk water transport."},
+    {icon:"leaf", color:"plum", term:"Casparian strip", def:"A waxy, waterproof band (containing suberin) in the radial walls of endodermal cells that blocks the apoplast pathway, forcing water through the symplast instead."},
+    {icon:"bars", color:"red", term:"Endodermis", def:"The single layer of cells, unique to the root, that surrounds the vascular tissue (xylem and phloem) and controls what reaches it."},
+    {icon:"atom", color:"green", term:"Tissue fluid", def:"<strong>HL</strong> &mdash; A mixture of water and solutes, forced out of the blood in capillaries by ultrafiltration, that surrounds and bathes the body&rsquo;s cells."},
+    {icon:"leaf", color:"teal", term:"Hydrostatic pressure", def:"<strong>HL</strong> &mdash; Mechanical pressure exerted on or by a liquid, also called pressure potential; the force (generated by the heart) that drives ultrafiltration out of capillaries."},
+    {icon:"bars", color:"gold", term:"Lymphatic system", def:"<strong>HL</strong> &mdash; A network of fine capillaries and ducts that drains the roughly 10% of tissue fluid not returned directly to the blood (as lymph), passing it through lymph nodes before returning it to the circulation near the heart."},
+    {icon:"atom", color:"plum", term:"Single &amp; double circulation", def:"<strong>HL</strong> &mdash; Single circulation (e.g. bony fish): blood passes through the heart once per complete circuit. Double circulation (e.g. mammals): blood passes through the heart twice per circuit, via separate pulmonary and systemic circuits."},
+    {icon:"leaf", color:"red", term:"Pericardium", def:"<strong>HL</strong> &mdash; The tough, non-elastic membrane that surrounds and anchors the heart within the thorax."},
+    {icon:"bars", color:"green", term:"Atrium &amp; ventricle", def:"<strong>HL</strong> &mdash; Atrium: thin-walled upper heart chamber that receives blood. Ventricle: thick-walled lower chamber that pumps blood out into the arteries."},
+    {icon:"atom", color:"teal", term:"Heart valves", def:"<strong>HL</strong> &mdash; Atrioventricular valves (tricuspid on the right, bicuspid on the left) let blood pass from atrium to ventricle and prevent its backflow, anchored by tendinous cords. Semilunar valves sit between each ventricle and its artery, preventing backflow as the ventricle relaxes."},
+    {icon:"leaf", color:"gold", term:"Cardiac cycle", def:"<strong>HL</strong> &mdash; The full sequence of events of one heartbeat (about 0.8 s), made up of systole (contraction of heart muscle) and diastole (relaxation of heart muscle)."},
+    {icon:"bars", color:"plum", term:"Sinoatrial &amp; atrioventricular node", def:"<strong>HL</strong> &mdash; Sinoatrial node (pacemaker): tissue in the right atrium wall that initiates every heartbeat. Atrioventricular node: tissue at the base of the right atrium that relays the impulse, after a short delay, to the ventricles."},
+    {icon:"atom", color:"red", term:"Root pressure", def:"<strong>HL</strong> &mdash; A positive pressure generated in root xylem by active pumping of salts into it by the endodermis, pushing water a short way up the stem."},
+    {icon:"leaf", color:"green", term:"Translocation, source &amp; sink", def:"<strong>HL</strong> &mdash; Translocation: movement of manufactured food (e.g. sucrose, amino acids) through phloem. Source: where sugar is loaded in, raising hydrostatic pressure. Sink: where sugar is removed, lowering hydrostatic pressure."}
+  ],
+  theories: [
+    {
+      icon:"atom", title:"Mass Flow and the Adaptations of Capillaries",
+      coreIdea:"In small organisms, diffusion alone moves materials fast enough, but larger organisms need a dedicated, pressure-driven mass-flow system &mdash; and capillaries are the vessels specifically adapted to make the final exchange with tissues as fast as possible.",
+      steps:[
+        "Living cells need a constant supply of water, nutrients (such as glucose and amino acids) and oxygen, and must remove the waste products of metabolism; in single-celled and very small organisms, internal distances are short enough for diffusion alone to achieve this efficiently.",
+        "Larger organisms require an internal transport system to meet the needs of all their cells; such systems work by <strong>mass flow</strong> &mdash; the movement of fluids down a pressure gradient &mdash; rather than by diffusion alone.",
+        "There are three types of vessel in the circulation: <strong>arteries</strong> (carry blood away from the heart), <strong>veins</strong> (carry blood back to the heart) and <strong>capillaries</strong> (fine networks of tiny tubes linking arteries and veins, serving the tissues and cells of the body directly).",
+        "Capillaries carry blood at low pressure (about 35 mm Hg) to prevent their walls bursting, and are narrow &mdash; about the diameter of a single red blood cell (approximately 8 &micro;m) &mdash; which keeps red blood cells in close contact with the capillary wall and reduces diffusion distance.",
+        "The low pressure also slows the flow rate of blood, which increases the time available for exchange of molecules between blood and tissue; a large surface area, created by abundant branching, further increases the rate of diffusion.",
+        "Capillary walls consist of a single layer of endothelial cells (the <strong>endothelium</strong>) for fast diffusion; in some capillaries, <strong>fenestrations</strong> (gaps in the wall) allow especially rapid exchange, and are large enough to let some components of the blood escape and contribute to tissue fluid."
+      ],
+      notes:[{label:"Described figure &mdash; structure of a capillary (Fig. B3.2.1)", text:"A cross-section of a capillary shows its wall is formed from endothelial cells resting on a basement membrane, with substances leaving and entering through the wall; a three-dimensional enlarged view shows these endothelial cells arranged to form the hollow tube of the capillary."}]
+    },
+    {
+      icon:"atom", title:"Structure and Adaptations of Arteries and Veins",
+      coreIdea:"The form of a blood vessel matches its function &mdash; arteries have thick, elastic, muscular walls to withstand and even out the high, pulsing pressure leaving the heart, while veins have thin walls, a wide lumen and valves, because their job is simply to return already low-pressure blood without backflow.",
+      steps:[
+        "Both arteries and veins have strong, elastic walls built from three layers: an inner <strong>endothelium</strong> (squamous epithelium, smooth inner surface), a middle layer (<strong>tunica media</strong>) of elastic fibres, collagen and smooth muscle, and an outer layer (<strong>tunica externa</strong>) of elastic fibres and collagen.",
+        "Artery walls are much thicker and stronger than vein walls; wall strength comes from thickness and collagen fibres, while elasticity comes from elastic fibres and smooth (involuntary) muscle.",
+        "Compared with its wall thickness, an artery&rsquo;s <strong>lumen</strong> is relatively small, which helps maintain the high pressure inside it; a vein&rsquo;s much larger lumen reduces friction between blood cells and the vessel wall, letting blood flow freely under low pressure.",
+        "The main artery leaving the heart, the <strong>aorta</strong>, carries blood under very high pressure (about 120 mm Hg) to the head and the rest of the body; its thick elastic tissue and collagen (in the tunica externa) prevent rupture as blood surges from the heart with each ventricular contraction, while the high proportion of elastic fibres first stretches and then recoils, propelling blood onward between pulses.",
+        "With increasing distance from the heart, artery walls progressively contain more smooth muscle and less elastic tissue, since there is less stretching and recoiling to do as pressure differences smooth out; varying constriction and dilation of arteries (by this muscle) helps maintain blood flow, and a &lsquo;pulse&rsquo; can still be detected even after this evening-out.",
+        "Arteries divide into <strong>arterioles</strong>, which have a high proportion of smooth muscle and so can regulate how much blood passes on into the capillaries they supply.",
+        "Veins have thin walls, with the external (tunica externa) layer the thickest of the three; because venous pressure is so low, the muscle and elastic tissue of the tunica media need not be extensive, and the wall&rsquo;s flexibility lets surrounding muscle contractions compress the vein and help push blood along.",
+        "Because of this low pressure, veins are prone to backflow; <strong>valves</strong> at intervals (made from collagen and other material) prevent this &mdash; blood pressure from behind pushes them open, while pressure from in front (as blood tries to flow backwards) shuts them. Blood reaches veins from <strong>venules</strong> (about 15 mm Hg, formed by the union of several capillaries); veins themselves carry the lowest pressure of any vessel, about 5 mm Hg."
+      ],
+      notes:[
+        {label:"Taking a pulse", text:"A pulse &mdash; the expansion of an artery with each ventricular contraction &mdash; is felt where an artery runs near the skin surface and over a bone: traditionally the radial artery above the wrist, or the carotid artery on the neck, below the ear. Use two fingers, never the thumb (which has its own pulse); count for a full minute for the most accurate result, or for 30 seconds and double it. Digital alternatives include data loggers and smartwatches/fitness bands that scan blood flow near the wrist using LEDs."},
+        {label:"Common mistake", text:"In sectioned tissue, veins are more likely to appear squashed, while arteries appear circular &mdash; this, together with the much greater wall thickness relative to lumen size, is how the two vessels are told apart under the microscope, not simply their overall diameter."}
+      ],
+      side:{
+        title:"Blood pressure around the circulation",
+        charts:[
+          {title:"Typical blood pressure by vessel", caption:"Pressure falls steadily from the aorta to the veins", axis:"Pressure (mm Hg)", svg: bv2BarChartSvg([
+            {label:"Aorta", v:120, color:"var(--red)"},
+            {label:"Capillary", v:35, color:"var(--hv-green)"},
+            {label:"Venule", v:15, color:"var(--teal)"},
+            {label:"Vein", v:5, color:"var(--plum)"}
+          ], "Bar chart of typical blood pressure in mm Hg, falling from 120 in the aorta, to 35 in capillaries, 15 in venules and 5 in veins")}
+        ],
+        table:{
+          title:"Comparing artery and vein structure",
+          head:["Feature","Artery","Vein"],
+          rows:[
+            ["Wall thickness","Thick, muscular, elastic","Thin, flexible"],
+            ["Lumen size","Narrow relative to wall","Wide relative to wall"],
+            ["Valves","Absent (except semilunar at heart)","Present at intervals"],
+            ["Typical pressure","High (e.g. aorta ~120 mm Hg)","Low (~5 mm Hg)"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", title:"Atherosclerosis and Occlusion of the Coronary Arteries",
+      coreIdea:"Atherosclerosis is a progressive narrowing and weakening of artery walls by fatty plaque; if a plaque ruptures and the resulting clot blocks a coronary artery, the heart muscle it supplies is starved of oxygen and can die.",
+      steps:[
+        "<strong>Occlusion</strong> means the blockage or closing of a blood vessel; diseases of the heart and blood vessels are primarily due to <strong>atherosclerosis</strong>, which causes occlusion of the <strong>coronary arteries</strong> (the arteries supplying blood to heart muscle) and progressive degeneration of the artery wall.",
+        "Damage to the artery wall occurs as fatty tissue (an <strong>atheroma</strong>) is deposited beneath the endothelium, significantly reducing the diameter of the lumen; raised blood pressure follows as these fat deposits and fibrous tissue begin to impede blood flow, further damaging the arterial wall.",
+        "The damaged region is repaired with fibrous tissue, which significantly reduces the elasticity of the vessel wall; eventually the smooth endothelial lining itself breaks down, forming a lesion called an <strong>atherosclerotic plaque</strong>.",
+        "If a plaque ruptures, blood clotting is triggered: a clot formed within a blood vessel is a <strong>thrombus</strong>, and if it breaks free and circulates in the bloodstream it is then called an <strong>embolus</strong>.",
+        "An embolus may become lodged in a small artery or arteriole narrower than the clot itself, blocking it; the tissue downstream of the block is immediately deprived of oxygen and dies. The coronary arteries &mdash; especially those supplying the left ventricle &mdash; are particularly vulnerable: when enough heart muscle dies this way the heart may cease to pump effectively, and a &lsquo;heart attack&rsquo; (myocardial infarction) has occurred.",
+        "Damaged coronary arteries can be surgically bypassed (a heart bypass operation), typically using a blood vessel taken from the patient&rsquo;s own leg; this is an increasingly common operation with high survival rates."
+      ],
+      notes:[
+        {label:"Common mistake", text:"Plaque does not build up on top of the artery wall &mdash; it forms within it, beneath the damaged endothelium."},
+        {label:"Diet and cholesterol", text:"An adult on a low-cholesterol diet still synthesises about 800 mg of cholesterol in the liver every day. Diets high in saturated fatty acids (animal fats) often raise blood-cholesterol levels further; excess cholesterol, carried as LDL, can trigger atherosclerosis, increasing the risk of clot formation, strokes and heart attacks."}
+      ]
+    },
+    {
+      icon:"book", title:"Correlation, Causation and the Evidence for Coronary Heart Disease",
+      coreIdea:"Epidemiological and clinical studies can reveal a correlation between diet or blood cholesterol and coronary heart disease (CHD), but a correlation &mdash; however strong &mdash; never by itself proves that one thing causes the other.",
+      prose:[
+        "<strong>Epidemiological studies</strong> gather large-scale population data and provide circumstantial evidence of health risks &mdash; they can suggest a connection between a lifestyle factor and a disease, but do not on their own establish a cause or biochemical mechanism. <strong>Clinical studies</strong> of individual patients attempt to show a more direct causal relationship between diseases and diets, though fully &lsquo;controlled&rsquo; experiments on humans are not possible for ethical reasons.",
+        "A real study plotting deaths from CHD per 10&nbsp;000 males against saturated fat intake (as a percentage of dietary energy) across several countries showed a clear positive correlation; a separate study of UK men aged 44&ndash;64 similarly showed that CHD deaths per 1000 people per year rose as serum cholesterol level rose across successive cholesterol bands.",
+        "When evaluating such evidence, strengths to look for include a statistically significant correlation, sound comparison of mean values, and analysis of how widely the data are spread (more widely spread data, e.g. larger error bars, place less confidence in the correlation). Limitations include whether the health measure used was valid (blood cholesterol is more informative than body mass index), whether the sample size and composition reflect the wider population, whether data came from animal rather than human trials, whether other dietary variables were properly controlled, and how rigorously the data were gathered (for instance, how truthfully survey respondents answered).",
+        "<strong>Correlation coefficients</strong> quantify the strength of a relationship between two variables: a low or absent correlation can provide evidence against a hypothesis, but even a strong correlation does not prove a causal link on its own. In the case of cholesterol and CHD, the causal role of cholesterol was instead established separately, by experimental laboratory and clinical evidence showing that destructive plaques are created as a direct result of raised blood serum cholesterol."
+      ]
+    },
+    {
+      icon:"leaf", title:"Transpiration and the Cohesion&ndash;Tension Theory",
+      coreIdea:"Water is not pumped up a plant &mdash; it is pulled upward as a continuous, unbroken column under tension, drawn by the evaporation of water from the leaves and held together by the cohesion of water molecules.",
+      steps:[
+        "<strong>Transpiration</strong> is the evaporation of water from the spongy mesophyll tissue of a leaf, and its subsequent diffusion out through the stomata; it is an inevitable consequence of gas exchange in the leaf, not a valuable process in itself, and the plant must replace this water loss by transporting more water up from the roots.",
+        "Water lost from the walls of mesophyll cells is replaced from nearby cell walls, and ultimately from the xylem vessels of the leaf&rsquo;s vascular bundles, drawn out by capillary action; as water leaves the xylem in the leaf, a <strong>tension</strong> (negative pressure potential) is set up in the entire water column within the xylem.",
+        "This tension draws water upward and is transmitted all the way down the stem to the roots because of the cohesion of water molecules to one another (and their adhesion to the vessel walls), keeping an unbroken column of water that does not pull away from the xylem walls even while under tension.",
+        "This explanation of upward water movement is the <strong>cohesion&ndash;tension theory</strong>; because of it, water flow in the xylem is always upward, a flow known as the <strong>transpiration stream</strong>."
+      ],
+      notes:[
+        {label:"Evidence for the theory", text:"If a xylem vessel is pierced by a fine needle, a bubble of air is immediately drawn into the column, interrupting water flow &mdash; if the vessel&rsquo;s contents had instead been under positive pressure, a jet of water would have sprayed out. Further evidence comes from measuring a tree trunk&rsquo;s diameter over 24 hours: large trees show a detectable shrinkage in trunk diameter during the day, as xylem vessels narrow under tension (collapse is prevented by their lignified wall thickening), recovering again at night once transpiration virtually stops; one such study recorded a maximum daily shrinkage of nearly 5 mm."},
+        {label:"Advantages of transpiration", text:"Although mostly an unavoidable side effect of gas exchange, transpiration does bring real benefits: evaporation of water from leaf cells has a strong cooling effect (breaking hydrogen bonds between water molecules requires energy); the upward water stream passively carries dissolved mineral ions, absorbed from the soil, to the leaves and growing points that need them; and lateral movement of water out of the xylem (via pits) keeps all living plant cells fully hydrated, with the resulting turgor pressure supporting the whole leaf blade and, in non-woody plants, the entire aerial shoot."}
+      ]
+    },
+    {
+      icon:"leaf", title:"Water Pathways, the Casparian Strip and Xylem Adaptations",
+      coreIdea:"Water can cross the root tissues by three different routes, but the endodermis&rsquo;s waxy Casparian strip forces all of it through living cytoplasm at one critical point, giving the plant control over what reaches the xylem &mdash; a xylem built as dead, lignified, hollow tubes, ideally adapted to carry that water onward under tension.",
+      steps:[
+        "The root system&rsquo;s huge surface area for absorption comes from continual branching and growth at each root tip, and especially from the region of <strong>root hairs</strong> &mdash; short-lived extensions of individual epidermal cells &mdash; just behind each growing tip, which is continually renewed as the root grows into fresh soil.",
+        "Water can move across root cells and tissues by three possible routes. The <strong>apoplast pathway</strong> is mass flow through the interconnecting free spaces between cellulose fibres of the cell walls (about 50% of wall volume), entirely avoiding living cell contents, and including the water-filled spaces of dead cells and xylem vessels &mdash; this is the most significant route for bulk water movement.",
+        "The <strong>symplast pathway</strong> is diffusion through the cytoplasm of cells and through the cytoplasmic connections between them (plasmodesmata), with osmosis occurring across the cell membrane; the many organelles packed into plant cells resist this flow, slowing it relative to the apoplast pathway.",
+        "The <strong>vacuolar pathway</strong> is osmosis from vacuole to vacuole, driven by a gradient in osmotic pressure; it is not significant for bulk transport across the plant, but is how individual cells take up water, often linked to the active uptake of mineral ions.",
+        "While all three routes stay open, most water crosses from the root epidermis to the xylem via the apoplast &mdash; until it reaches the <strong>endodermis</strong>, a single layer of cells, unique to the root, surrounding the vascular tissue. Here a waxy band in the radial walls, the <strong>Casparian strip</strong>, blocks the apoplast route entirely, forcing water through the symplast instead.",
+        "This diversion matters because the cytoplasm of endodermal cells actively transports ions from the cortex into the centre of the root, raising the osmotic potential there and causing water to follow passively by osmosis &mdash; so it is active ion transport, not diffusion, that ultimately drives this water uptake. (The symplast-only restriction can be bypassed at the root tip, where the endodermis has not yet formed, and where lateral roots emerge.)",
+        "Xylem vessels develop from cells with cellulose walls and living contents joined end to end; their end walls dissolve away and their living contents are used up depositing thickened, <strong>lignin</strong>-hardened cellulose on the lateral walls, leaving tough, waterproof, dead hollow tubes that can resist collapse under the tension of the transpiration stream. Pits in the lateral walls allow water to enter and move laterally between vessels."
+      ],
+      notes:[{label:"Common mistake", text:"Mineral absorption into roots is not mainly by diffusion &mdash; it depends on active transport. For plants to absorb water by osmosis at all, their cells must maintain a higher solute concentration inside than outside, and this concentration gradient can only be built and maintained by active transport of ions."}],
+      side:{
+        title:"The three pathways compared",
+        table:{
+          title:"Routes of water movement through root tissue",
+          head:["Pathway","How water moves"],
+          rows:[
+            ["Apoplast","Mass flow through free space in cell walls &mdash; the main bulk route"],
+            ["Symplast","Diffusion through cytoplasm, via plasmodesmata between cells"],
+            ["Vacuolar","Osmosis from vacuole to vacuole &mdash; minor, but key for individual cells"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"leaf", title:"Tissue Distribution in the Stem and Root of a Dicotyledonous Plant",
+      coreIdea:"A plan diagram of a transverse section shows that a dicotyledonous stem and root arrange their vascular tissue in completely different patterns &mdash; a peripheral ring of vascular bundles in the stem, versus a central, cross-shaped core in the root.",
+      steps:[
+        "A <strong>plan diagram</strong> (low-power diagram) records only the relative positions and proportions of the tissues within an organ seen in transverse section, without showing individual cells.",
+        "In a dicotyledonous stem, an outer <strong>epidermis</strong> surrounds a <strong>cortex</strong>, within which the vascular tissue forms a ring of discrete <strong>vascular bundles</strong> positioned towards the outside of the stem; each bundle has phloem towards the outside, a layer of dividing <strong>cambium</strong> cells, and xylem (proto- and metaxylem vessels, plus fibres) towards the inside, surrounding a central <strong>pith</strong>.",
+        "In a dicotyledonous root, the vascular tissue instead sits centrally, within a core called the <strong>stele</strong>, surrounded by a single-cell-thick <strong>endodermis</strong>; xylem forms a central cross- or star-shaped structure, with phloem located between the arms of the cross, all enclosed by a cortex and an outer epidermis bearing root hairs."
+      ],
+      notes:[{label:"Common mistake", text:"Do not confuse the cells of the cortex with xylem and phloem tissue: the cortex lies around the outside of the root, while the vascular tissues occupy the central part. Xylem can be told apart from phloem by its noticeably thicker cell walls."}]
+    },
+    {
+      icon:"atom", hl:true, title:"Tissue Fluid: Ultrafiltration and Lymphatic Drainage",
+      coreIdea:"Capillaries continuously leak tissue fluid into the spaces between cells under hydrostatic pressure from the heart, and then reclaim most of it back by osmosis &mdash; with the lymphatic system quietly draining away, and eventually returning, whatever is left over.",
+      steps:[
+        "Blood plasma&rsquo;s dissolved solutes (including its proteins) would be expected to limit water loss from capillaries by osmosis, and might even be expected to draw water back in; however, the force applied to the blood by the heart generates enough <strong>hydrostatic pressure</strong> to overcome this osmotic pull, at least at the arteriole end of a capillary bed, where blood pressure is significantly higher than at the venule end.",
+        "This high hydrostatic pressure drives <strong>ultrafiltration</strong> &mdash; forcing water and small molecules (oxygen, glucose, amino acids) out through tiny gaps in the capillary wall, following the diffusion gradient for nutrients needed by respiring cells &mdash; forming <strong>tissue fluid</strong> that bathes the body&rsquo;s cells. Red blood cells, platelets and most plasma proteins are too large to escape and remain in the capillary.",
+        "As blood flows along the capillary bed, it progressively loses water and hydrostatic pressure; by the venule end, the diffusion gradient instead favours movement of waste metabolites (such as carbon dioxide) back into the capillary, and the now much-reduced hydrostatic pressure is overcome by the osmotic pull of the plasma proteins left behind &mdash; particularly the albumins &mdash; producing a net inflow of fluid.",
+        "By this route, about 90% of the tissue fluid formed is eventually returned to the plasma; the remaining 10% instead drains into lymph capillaries, which have tiny valves that admit fluid too large or otherwise unable to re-enter the blood capillaries.",
+        "This network of lymph capillaries drains into larger lymph ducts (lymphatics), along which lymph is moved by contractions of smooth muscle in the duct walls and by compression from surrounding body movements, with valves (as in veins) preventing backflow.",
+        "Along the way, lymph passes through <strong>lymph nodes</strong>, where fixed macrophages engulf bacteria and cell debris by phagocytosis, and where certain immune-system cells (lymphocytes and plasma cells) are produced; lymph finally drains back into the blood circulation via ducts joining veins close to the heart &mdash; one duct draining the right side of the head, thorax and right arm, and a second, larger duct draining the rest of the body."
+      ],
+      notes:[{label:"The bypass vessel", text:"Which tissues are actively served by the blood circulation at any moment can be regulated: when a tiny pre-capillary sphincter muscle contracts, blood flow into that capillary bed is restricted to a minimum, and most blood is instead diverted along a bypass vessel to other tissues and organs that need it more."}],
+      side:{
+        title:"Fate of tissue fluid",
+        charts:[
+          {title:"Where tissue fluid ends up", caption:"Per 100 units of tissue fluid formed", axis:"Tissue fluid",svg: bv2BarChartSvg([
+            {label:"Returns to capillary", v:90, color:"var(--hv-green)"},
+            {label:"Drains as lymph", v:10, color:"var(--teal)"}
+          ], "Bar chart showing about 90% of tissue fluid returns directly to blood capillaries, while about 10% drains into the lymphatic system as lymph")}
+        ],
+        table:{
+          title:"Blood plasma vs tissue fluid",
+          head:["Content","Blood plasma","Tissue fluid"],
+          rows:[
+            ["Cells","Red cells, white cells, platelets","Phagocytes only"],
+            ["Proteins","More, incl. large plasma proteins","Fewer, smaller proteins"],
+            ["Glucose","80&ndash;120 mg per 100 ml","Less (absorbed by cells)"],
+            ["Oxygen / CO&#8322;","More O&#8322;, less CO&#8322;","Less O&#8322;, more CO&#8322;"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", hl:true, title:"Single Circulation versus Double Circulation",
+      coreIdea:"Both fish and mammals keep blood enclosed in a continuous system of vessels, but mammals route it through the heart twice per circuit rather than once &mdash; a double circulation that delivers oxygenated blood at high pressure everywhere, without ever mixing it with deoxygenated blood.",
+      steps:[
+        "Both mammals and bony fish have a <strong>closed circulation</strong>: blood is pumped by a powerful muscular heart and contained within a continuous system of arteries, veins and capillaries under pressure, rather than flowing freely through body spaces.",
+        "Bony fish have a <strong>single circulation</strong>, with a two-chambered heart: blood enters the heart from the body, is pumped to the gills to be oxygenated, and then flows directly on to the rest of the body before finally returning to the heart &mdash; passing through the heart only once per complete circuit.",
+        "Mammals have a <strong>double circulation</strong>, with a four-chambered heart divided into right and left sides: the right side pumps deoxygenated blood to the lungs (the <strong>pulmonary circulation</strong>) to be oxygenated, returning it to the left side, which pumps oxygenated blood around the rest of the body (the <strong>systemic circulation</strong>) and back to the right side &mdash; passing through the heart twice per circuit. (Amphibians, with a single ventricle but two atria, show a partial separation between these circuits, allowing some mixing of oxygenated and deoxygenated blood.)",
+        "The major advantages of this double circulation are simultaneous high-pressure delivery of oxygenated blood to all regions of the body, and that oxygenated and deoxygenated blood never mix, so the blood reaching respiring tissues is not diluted with deoxygenated blood.",
+        "In the systemic circulation, organs are supplied by arteries branching from the <strong>aorta</strong>; within each organ, arteries divide into arterioles supplying capillary networks, which drain into venules, which join to form veins, which join the vena cava back to the heart &mdash; a branching sequence of aorta &rarr; artery &rarr; arteriole &rarr; capillary &rarr; venule &rarr; vein &rarr; vena cava.",
+        "Vessels are often named after the organ they serve &mdash; for example, the liver receives blood from the <strong>hepatic artery</strong>, but also receives blood directly from the small intestine via the <strong>hepatic portal vein</strong>, which carries the products of digestion straight from the capillaries of the intestinal villi to a second capillary bed in the liver, without first returning to the heart."
+      ],
+      side:{
+        table:{
+          title:"Single vs double circulation",
+          head:["Feature","Fish (single)","Mammal (double)"],
+          rows:[
+            ["Heart chambers","Two","Four"],
+            ["Passes through heart per circuit","Once","Twice"],
+            ["Separate pulmonary/systemic circuits","No","Yes"],
+            ["Oxygenated/deoxygenated blood mix?","Not applicable (one circuit)","No &mdash; kept fully separate"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", hl:true, title:"Structure and Function of the Mammalian Heart",
+      coreIdea:"Every structural feature of the mammalian heart &mdash; its four chambers, its valves, its branching muscle fibres &mdash; serves the single purpose of pumping a steady, one-directional, high-pressure flow of blood without ever letting it flow backwards or mix between sides.",
+      steps:[
+        "An adult human heart, about the size of a clenched fist, lies in the thorax between the lungs and beneath the sternum, enclosed in a tough, non-elastic membrane called the <strong>pericardium</strong> that anchors it in place; the heart wall itself is supplied with oxygenated blood by the coronary arteries, which branch from the aorta.",
+        "<strong>Cardiac muscle</strong> is made of cylindrical, branching fibres forming a unique three-dimensional network, allowing contraction in multiple directions at once; each fibre has a single nucleus, appears striated under the microscope, and is surrounded by a specialised membrane (the sarcolemma) and richly supplied with mitochondria and capillaries. Cardiac muscle is <strong>myogenic</strong> &mdash; it is self-excitable and does not need stimulation by the central nervous system to contract.",
+        "The heart cavity is divided into four chambers, with the right side completely separate from the left (divided by the <strong>septum</strong>). The two upper chambers are thin-walled <strong>atria</strong>, which receive incoming blood; the two lower chambers are thick-walled <strong>ventricles</strong>, which pump blood out &mdash; the left ventricle wall is much thicker than the right, even though the volumes of blood on each side are identical.",
+        "<strong>Atrioventricular valves</strong> &mdash; the tricuspid valve on the right, the bicuspid valve on the left &mdash; sit between each atrium and ventricle, opening to let blood flow down into the ventricle but preventing its backflow into the atrium; their edges are anchored to the ventricle walls by non-elastic tendinous cords (chordae tendineae, or &lsquo;heart strings&rsquo;), stopping them folding back under the huge pressure generated with each heartbeat.",
+        "Pocket-like <strong>semilunar valves</strong> instead separate each ventricle from its artery (the pulmonary artery on the right, the aorta on the left), stopping blood flowing backward into the relaxing ventricle between heartbeats. All heart valves open and close purely because of pressure differences: a valve opens once pressure on its input side exceeds that on its output side, and closes once pressure on the output side exceeds that on the input side."
+      ],
+      notes:[{label:"Concept: Function", text:"The heart&rsquo;s structures together achieve: separation of oxygenated and deoxygenated blood (the septum); continuous contraction in multiple directions throughout life (cardiac muscle); one-directional blood flow, atria &rarr; ventricles &rarr; arteries (the atrioventricular and semilunar valves); a dedicated blood supply to the heart muscle itself (the coronary arteries); and self-sustained, coordinated contraction (the myogenic pacemaker)."}]
+    },
+    {
+      icon:"atom", hl:true, title:"The Cardiac Cycle and Control of the Heartbeat",
+      coreIdea:"Each heartbeat is a precisely timed, self-generated sequence &mdash; atria contracting, then ventricles, then both relaxing &mdash; coordinated by a conduction pathway that deliberately delays the signal to the ventricles so the heart can fill properly before it pumps.",
+      steps:[
+        "The <strong>cardiac cycle</strong> is the full sequence of events of one heartbeat; the heart beats at roughly 60&ndash;100 times a minute, so each cycle lasts about 0.8 seconds, divided into <strong>systole</strong> (muscle contraction) and <strong>diastole</strong> (muscle relaxation). Contraction reduces a chamber&rsquo;s volume, raising the pressure on the blood inside and forcing it towards lower pressure; valves then stop it flowing the wrong way.",
+        "The cycle begins with <strong>atrial systole</strong> (about 0.1 s): the atrial walls contract, pushing blood past the atrioventricular valves into the still-relaxed, low-pressure ventricles, while the semilunar valves stay shut (aortic/pulmonary pressure is higher) and the contracting atrial walls themselves seal off the venae cavae and pulmonary veins against backflow.",
+        "Next comes <strong>ventricular systole</strong> (about 0.5 s): the ventricles contract strongly, generating pressure that slams the atrioventricular valves shut (producing the &lsquo;lub&rsquo; heart sound) and forces open the semilunar valves, pushing blood out into the aorta and pulmonary artery (stretching their walls) and generating the pulse felt throughout the arterial system; the atria, meanwhile, are relaxing (<strong>atrial diastole</strong>, by about 0.7 s).",
+        "Finally, <strong>ventricular diastole</strong> follows: the ventricles relax, falling ventricular pressure lets the higher pressure in the aorta and pulmonary artery snap the semilunar valves shut (the &lsquo;dup&rsquo; sound), and the atrioventricular valves reopen as the ventricles&rsquo; pressure drops below that of the now-filling atria.",
+        "This whole sequence is triggered and timed by the heart&rsquo;s own conduction system: the <strong>sinoatrial node</strong> (SA node, or pacemaker) in the right atrium wall initiates a wave of electrical excitation that spreads across both atria, triggering atrial systole; a band of non-conducting fibres then blocks this wave from reaching the ventricles directly, so it is instead picked up by the <strong>atrioventricular node</strong> (AV node) at the base of the right atrium.",
+        "After a delay of about 0.1&ndash;0.2 s (roughly 100 ms), the AV node passes the impulse on via the atrioventricular bundle (bundle of His) and Purkinje fibres to the base of both ventricles, which then contract upward from the base (ventricular systole); this delay lets the atria finish emptying into the ventricles before the ventricles themselves contract, and stops the two chambers contracting simultaneously.",
+        "After every contraction, cardiac muscle undergoes a relatively long <strong>refractory period</strong> &mdash; a period of insensitivity to further stimulation (enforced diastole) during which the heart passively refills with blood &mdash; which is what allows it to keep beating, rhythmically, throughout life. The heart&rsquo;s intrinsic rate of 60&ndash;100 beats per minute can be overridden by the body&rsquo;s needs, from around 50&ndash;60 beats per minute at rest up to as much as 200 beats per minute during very strenuous exercise."
+      ],
+      notes:[{label:"Why the AV node delays the signal", text:"The delay at the AV node arises because its cells take longer to become excited than SA node cells, have a smaller diameter (slowing conduction), have fewer sodium ion channels and a more negative resting potential, and have fewer gap junctions in their intercalated discs &mdash; all of which combine to slow transmission through this one point in the conduction pathway."}],
+      side:{
+        title:"Timing of the cardiac cycle",
+        table:{
+          title:"Stages reached within one ~0.8 s cycle",
+          head:["Stage","Approx. time reached"],
+          rows:[
+            ["Atrial systole begins","0 s"],
+            ["Ventricular systole begins","~0.1 s"],
+            ["Atrial diastole begins","~0.7 s"],
+            ["Full cycle length","~0.8 s"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"leaf", hl:true, title:"Root Pressure and the Pressure&ndash;Flow Hypothesis of Phloem Translocation",
+      coreIdea:"Plants have two separate mass-flow systems driven by very similar logic: root pressure gives the xylem an occasional push from below by actively pumping salts, while the pressure&ndash;flow hypothesis explains how sugar solution is pushed through the phloem, from a high-pressure source to a low-pressure sink.",
+      steps:[
+        "Root endodermal cells contain a waterproof substance (suberin) that, together with the Casparian strip, blocks the apoplast pathway and directs water through the symplast; these same cells also actively pump salts into the xylem, lowering its water potential and drawing water in from the root cortex by osmosis.",
+        "This creates a positive pressure potential that pushes water and dissolved minerals a short distance up the xylem, called <strong>root pressure</strong>; it becomes especially important when transpiration cannot drive water movement on its own &mdash; for example, when high humidity suppresses transpiration, or in spring before deciduous leaves have opened.",
+        "<strong>Phloem</strong> tissue consists of narrow <strong>sieve tubes</strong> (joined end to end, with perforated end walls called sieve plates, and a mature cytoplasm with no nucleus and few organelles) paired with living <strong>companion cells</strong>, connected to the sieve tube by plasmodesmata through pits and believed to service and maintain it; phloem is living tissue with a high rate of aerobic respiration, since loading sugar into it is an active process.",
+        "<strong>Translocation</strong> begins at a <strong>source</strong> &mdash; typically mesophyll cells in a leaf, where sugar is manufactured by photosynthesis &mdash; where sucrose is actively loaded into companion cells and then into sieve tube elements; this raises the solute potential there, so water follows by osmosis, building a high hydrostatic pressure in the sieve tubes of the source area.",
+        "At a <strong>sink</strong> &mdash; often, but not always, in the roots &mdash; sucrose may instead be converted into insoluble starch for storage; as sucrose is removed from the sieve tubes, solute potential there falls, water diffuses out, and hydrostatic pressure falls too.",
+        "According to the <strong>pressure&ndash;flow hypothesis</strong>, it is this difference in hydrostatic pressure between source and sink that drives mass flow of sugar solution down the pressure gradient, along the sieve tube, from source to sink. Sources and sinks are not fixed: after a dormant period such as winter, root starch stores can be mobilised back into sucrose, turning the roots into a source supplying the plant&rsquo;s regrowing leaves (now the sink)."
+      ],
+      notes:[{label:"A physical model of pressure flow", text:"The hypothesis can be modelled with two rigid, partially permeable reservoirs connected by a tube: reservoir A holds a concentrated sugar solution and draws in water by osmosis, building high hydrostatic pressure that drives flow through the connecting tube to reservoir B, a dilute solution; flow continues until the two concentrations equalise &mdash; just as, in the plant, ongoing photosynthesis at the source and starch conversion at the sink keep maintaining the pressure difference indefinitely."}],
+      side:{
+        table:{
+          title:"Source vs sink",
+          head:["Feature","Source","Sink"],
+          rows:[
+            ["Typical example","Photosynthesising leaf mesophyll","Root / storage organ"],
+            ["Sucrose movement","Actively loaded in","Unloaded / converted to starch"],
+            ["Solute potential","Lowered (more solute)","Raised (less solute)"],
+            ["Hydrostatic pressure","High","Low"]
+          ]
+        }
+      }
+    }
+  ],
+  workedExamples: [
+    {
+      title:"Calculating heart rate from a pulse count",
+      question:"While taking a friend&rsquo;s radial pulse, you count 34 beats in 30 seconds. (a) Calculate their heart rate in beats per minute. (b) Explain why counting for a full minute is generally considered more accurate than counting for 30 seconds and doubling it.",
+      answer:[
+        "(a) Heart rate = 34 &times; 2 = 68 beats per minute.",
+        "(b) Counting for a full minute averages out any natural beat-to-beat variation over a longer sampling period; doubling a 30-second count instead assumes a perfectly uniform rate, so it is more easily thrown off by a brief change in rate, or by starting/stopping the count mid-beat, during the shorter sampling window."
+      ]
+    },
+    {
+      title:"Relating blood pressure to vessel wall structure",
+      question:"Blood pressure falls from about 120 mm Hg in the aorta, to about 35 mm Hg in the capillaries, to about 5 mm Hg in the veins. Explain how the wall structure of arteries, capillaries and veins relates to this pattern of pressure.",
+      answer:[
+        "Arteries near the heart need thick, elastic, muscular walls specifically to withstand and even out this high, pulsing pressure without rupturing.",
+        "Capillary walls are only a single layer of endothelial cells because pressure there is already much lower, so a thick wall is not needed to resist bursting; a thin wall instead maximises the rate of diffusion across it.",
+        "Vein walls can be thin, with relatively little elastic or muscle tissue, because venous pressure is the lowest of all; backflow at this low pressure is instead prevented by valves, and the wide lumen reduces friction, helping blood keep moving."
+      ]
+    },
+    {
+      title:"Interpreting the needle-puncture evidence for the cohesion&ndash;tension theory",
+      question:"When a xylem vessel in an intact stem is pierced with a fine needle, a bubble of air is immediately drawn into the vessel, rather than a jet of water spraying out. Explain what this observation shows about the state of the water column in the xylem.",
+      answer:[
+        "If the water in the xylem vessel had been under positive pressure, piercing it would have released a jet of water outward, as happens when a pressurised garden hose is punctured.",
+        "Instead, air is drawn in &mdash; showing that the water column is under tension (a negative pressure potential) relative to the surrounding atmosphere.",
+        "This supports the cohesion&ndash;tension theory: transpiration from the leaves pulls the whole, unbroken water column upward under tension, held together by cohesion between water molecules, rather than the water being pushed up from below under positive pressure."
+      ]
+    },
+    {
+      title:"Explaining the significance of the hepatic portal vein",
+      question:"Blood reaches the liver by two different routes: via the hepatic artery, and via the hepatic portal vein. Using the branching sequence aorta &rarr; artery &rarr; arteriole &rarr; capillary &rarr; venule &rarr; vein &rarr; vena cava as a reference, explain what makes the hepatic portal vein&rsquo;s route unusual.",
+      answer:[
+        "Normally, blood passing from an artery to a vein does so via exactly one capillary bed, following the standard branching sequence back to the vena cava and the heart.",
+        "The hepatic portal vein instead carries blood that has already passed through one capillary bed &mdash; the villi of the small intestine, where digested products are absorbed &mdash; directly on to a second capillary bed, in the liver, without returning to the heart in between.",
+        "This lets the liver directly intercept and process newly absorbed nutrients (and any toxins) from the gut before they reach the rest of the systemic circulation."
+      ]
+    },
+    {
+      title:"Explaining the function of the AV node delay",
+      question:"The electrical impulse that triggers a heartbeat is delayed by about 0.1&ndash;0.2 s at the atrioventricular (AV) node before it reaches the ventricles. Explain why this delay is essential for the heart to work as an effective pump.",
+      answer:[
+        "The delay gives the atria time to finish contracting and emptying their blood into the ventricles before the ventricles themselves begin to contract.",
+        "Without it, the atria and ventricles would contract at almost the same time, so the ventricles would start contracting while still only partially filled with blood.",
+        "This would reduce the volume of blood ejected with each heartbeat (cardiac output), lowering blood pressure throughout the whole circulation."
+      ]
+    },
+    {
+      title:"Applying the pressure&ndash;flow hypothesis to a seasonal source/sink reversal",
+      question:"In winter, a deciduous tree&rsquo;s roots store starch. In early spring, before any new leaves have opened, this starch is converted back into sucrose in the root cells. Using the pressure&ndash;flow hypothesis, explain how this seasonal change turns the roots into a source rather than a sink.",
+      answer:[
+        "Converting stored starch into soluble sucrose in the root cells raises the solute potential inside them, so sucrose is now actively loaded into the phloem sieve tubes there.",
+        "Water follows the sucrose into the sieve tubes by osmosis, raising hydrostatic pressure in the phloem at the root end &mdash; the signature of a source.",
+        "Elsewhere in the plant (e.g. the still-dormant buds), sucrose is instead being removed and used, keeping hydrostatic pressure lower there.",
+        "Because mass flow in the phloem moves down a hydrostatic pressure gradient, sugar solution now flows away from the roots towards these sinks, reversing the more usual leaf-to-root direction of translocation."
+      ]
+    }
+  ],
+  summary: [
+    "Large organisms need an internal mass-flow transport system because diffusion alone is too slow over long distances; arteries, veins and capillaries carry out this transport in animals.",
+    "Capillaries are adapted for rapid exchange: narrow (~8 &micro;m), low pressure (~35 mm Hg), walls of a single endothelial cell layer, with fenestrations in some for especially fast exchange.",
+    "Artery walls are thick, elastic and muscular to withstand and even out the high, pulsing pressure leaving the heart (aorta ~120 mm Hg); vein walls are thinner, with a wide lumen and valves, since venous pressure is much lower (~5 mm Hg) and backflow must be prevented instead.",
+    "Atherosclerosis deposits plaque within damaged artery walls, narrowing the lumen; if a plaque ruptures it forms a thrombus, and a travelling embolus can block a narrower vessel downstream, causing tissue death &mdash; a myocardial infarction if this happens in a coronary artery.",
+    "Epidemiological and clinical studies can show a correlation between diet (e.g. saturated fat, blood cholesterol) and coronary heart disease, but even a strong correlation does not, by itself, prove a causal link.",
+    "Transpiration (evaporation from the mesophyll, then diffusion out through stomata) pulls water up through the xylem under tension; cohesion between water molecules keeps this water column unbroken &mdash; the cohesion&ndash;tension theory.",
+    "Xylem vessels are dead, hollow, lignified tubes with pits, adapted to resist collapse under tension while allowing unimpeded water flow and lateral movement between vessels.",
+    "Water crosses the root to the xylem via the apoplast (through cell walls &mdash; the main route), symplast (cytoplasm and plasmodesmata) and vacuolar pathways; the Casparian strip in the endodermis blocks the apoplast route there, forcing water through cells so that active ion uptake can control what reaches the xylem.",
+    "In a dicotyledonous stem&rsquo;s transverse section, vascular bundles form a peripheral ring (phloem outer, xylem inner, around a cambium); in the root, xylem instead forms a central, cross-shaped stele with phloem between its arms.",
+    "<strong>HL:</strong> tissue fluid is formed from plasma by ultrafiltration, driven by high hydrostatic pressure at the arteriole end of a capillary bed; about 90% returns directly to the capillary as pressure falls, while the remaining 10% drains into the lymphatic system and is returned to the blood near the heart.",
+    "<strong>HL:</strong> bony fish have a single circulation (blood passes through the heart once per circuit), while mammals have a double circulation (twice per circuit, via separate pulmonary and systemic circuits), allowing simultaneous high-pressure delivery of blood without mixing oxygenated and deoxygenated streams.",
+    "<strong>HL:</strong> the mammalian heart&rsquo;s four chambers, atrioventricular valves (tricuspid, bicuspid) and semilunar valves maintain one-way blood flow, while the self-excitable (myogenic) sinoatrial node, atrioventricular node and Purkinje tissue coordinate the cardiac cycle&rsquo;s stages of atrial and ventricular systole and diastole.",
+    "<strong>HL:</strong> a short delay at the atrioventricular node lets the atria finish emptying into the ventricles before ventricular systole begins, maximising the volume of blood pumped out with each heartbeat.",
+    "<strong>HL:</strong> root pressure, generated by active salt pumping into the xylem by the endodermis, gives water movement a secondary push; in the phloem, the pressure&ndash;flow hypothesis explains translocation as mass flow down a hydrostatic pressure gradient, from a source (sucrose loaded in, high pressure) to a sink (sucrose removed, low pressure)."
+  ]
+},
+"35": {
+  subtitle: "Reproduction ensures the continuity of a species through time. Organisms reproduce asexually (by mitosis alone, producing clones) or sexually (by meiosis and fertilization, producing genetically unique offspring) &mdash; and in humans, sexual reproduction depends on specialized anatomy, a tightly hormone-regulated menstrual cycle, and, at HL, a precise sequence of cellular and hormonal events from gamete formation through to childbirth.",
+  keyTerms: [
+    {icon:"leaf", color:"green", term:"Asexual reproduction", def:"Reproduction not involving gametes or fertilization; a eukaryotic structure forms by mitosis and breaks away to grow into a new, genetically identical organism, e.g. budding in yeast and hydra, or runners, bulbs and tubers in plants."},
+    {icon:"atom", color:"teal", term:"Sexual reproduction", def:"Reproduction involving the production and fusion of two gametes to form a genetically unique offspring; requires meiosis (to halve the chromosome number) followed by fertilization (to restore it)."},
+    {icon:"bars", color:"gold", term:"Gamete", def:"A haploid male or female sex cell able to unite with one of the opposite sex to form a zygote."},
+    {icon:"atom", color:"plum", term:"Fertilization", def:"The fusion of male and female gametes to form a diploid zygote; internal in most land animals (e.g. humans, in the upper oviduct) and external in many fish (spawning)."},
+    {icon:"leaf", color:"red", term:"Testis &amp; scrotum", def:"Testis (pl. testes): paired male gonad producing sperm and the hormone testosterone. Scrotum: the sac holding the testes outside the main body cavity, 2&ndash;3&deg;C below body temperature &mdash; the optimum for sperm production."},
+    {icon:"atom", color:"green", term:"Semen (seminal fluid)", def:"The fluid ejaculated from the penis, consisting of sperm plus the alkaline, nutritive secretions of the seminal vesicles and prostate gland, which supply protein and fructose and transport the sperm."},
+    {icon:"bars", color:"teal", term:"Ovary", def:"The paired female gonad, producing ova (egg cells) and secreting the sex hormones oestradiol and progesterone."},
+    {icon:"atom", color:"gold", term:"Oviduct &amp; uterus", def:"Oviduct: a tube transporting egg cells from the ovary; the site of fertilization. Uterus: the muscular organ, lined by the endometrium, in which a fertilized egg implants and the embryo develops."},
+    {icon:"leaf", color:"plum", term:"Endometrium &amp; menstruation", def:"Endometrium: the richly vascularized lining of the uterus, rebuilt each cycle in preparation for implantation. Menstruation: shedding of the endometrium through the vagina when fertilization has not occurred."},
+    {icon:"bars", color:"red", term:"FSH &amp; LH", def:"Follicle-stimulating hormone (FSH): pituitary hormone that stimulates growth of ovarian follicles. Luteinizing hormone (LH): pituitary hormone that triggers ovulation and the formation of the corpus luteum."},
+    {icon:"atom", color:"green", term:"Ovarian follicle &amp; corpus luteum", def:"Ovarian follicle: a fluid-filled sac that contains and nourishes an immature egg (oocyte). Corpus luteum: the hormone-secreting structure the follicle becomes after releasing its egg; it degenerates within days unless pregnancy begins."},
+    {icon:"leaf", color:"teal", term:"Ovulation", def:"The release of a (secondary) oocyte from a mature ovarian follicle, typically on day 14 of the menstrual cycle, triggered by a surge in LH."},
+    {icon:"bars", color:"gold", term:"In vitro fertilization (IVF)", def:"A medical procedure in which eggs are fertilized by sperm outside the body (&lsquo;in glass&rsquo;); hormone treatment first suspends the natural cycle, then induces multiple eggs to mature simultaneously at a time doctors can control."},
+    {icon:"atom", color:"plum", term:"Ovule &amp; pollen", def:"Ovule: the structure within a flower&rsquo;s ovary that contains the ovum and, after fertilization, develops into the seed. Pollen: the microspore produced in the anther, containing the male gamete(s)."},
+    {icon:"leaf", color:"red", term:"Pollination &amp; pollen tube", def:"Pollination: the transfer of pollen from an anther to a stigma. Pollen tube: the tube that grows from a germinated pollen grain, down through the style, delivering male nuclei to the ovule."},
+    {icon:"bars", color:"green", term:"Stamen &amp; carpel", def:"Stamen: the male part of a flower, consisting of the anther (produces pollen) and its supporting filament. Carpel: the female part of a flower, consisting of the stigma, style and ovary."},
+    {icon:"atom", color:"teal", term:"Cross-pollination &amp; self-pollination", def:"Cross-pollination: pollen transferred between two flowers of the same species, promoting outbreeding and variation. Self-pollination: pollen transferred to the stigma of the same flower, promoting inbreeding."},
+    {icon:"leaf", color:"gold", term:"Seed dispersal", def:"The carrying of a seed away from the parent plant &mdash; by wind, water, an animal, or an explosive mechanism &mdash; reducing competition between parent and offspring for light, water, nutrients and space."},
+    {icon:"bars", color:"plum", term:"Germination", def:"The resumption of growth by an embryonic plant within a seed or fruit, at the expense of its stored food reserves, once dormancy is overcome and water, oxygen and a suitable temperature are all available."},
+    {icon:"atom", color:"red", term:"Puberty &amp; GnRH", def:"<strong>HL</strong> &mdash; Puberty: the stage at which an individual becomes sexually mature. It is triggered by gonadotropin-releasing hormone (GnRH) from the hypothalamus, which causes the pituitary to release FSH and LH."},
+    {icon:"leaf", color:"green", term:"Gametogenesis", def:"<strong>HL</strong> &mdash; The production of gametes, via a multiplication phase (mitosis), a growth phase, and a maturation phase (meiosis) &mdash; termed spermatogenesis in the testes and oogenesis in the ovaries."},
+    {icon:"bars", color:"teal", term:"Polyspermy &amp; the zona pellucida", def:"<strong>HL</strong> &mdash; Polyspermy: fertilization of an egg by more than one sperm. Zona pellucida: the glycoprotein coat around the oocyte that, after one sperm has entered, is altered (the cortical reaction) so no further sperm can cross it."},
+    {icon:"atom", color:"gold", term:"Implantation &amp; the blastocyst", def:"<strong>HL</strong> &mdash; Blastocyst: the fluid-filled ball of cells that develops from the dividing zygote by day 7. Implantation: the embedding of the blastocyst into the endometrium, taking place from about day 7 to day 14."},
+    {icon:"leaf", color:"plum", term:"Placenta &amp; hCG", def:"<strong>HL</strong> &mdash; Placenta: the temporary organ exchanging substances between maternal and foetal blood (without the two mixing) and, from early pregnancy, secreting hCG (human chorionic gonadotropin), which maintains the corpus luteum for the first 16 weeks."},
+    {icon:"bars", color:"red", term:"Oxytocin", def:"<strong>HL</strong> &mdash; A hormone released by the posterior pituitary gland that stimulates contraction of the uterus wall during childbirth, via a positive feedback loop."},
+    {icon:"atom", color:"green", term:"Menopause &amp; HRT", def:"<strong>HL</strong> &mdash; Menopause: the cessation of menstruation (confirmed after 12 period-free months), typically between ages 45 and 55, as the ovaries stop responding to FSH and LH. Hormone replacement therapy (HRT): medication replacing the oestradiol and progesterone the body stops producing, taken to relieve menopausal symptoms."}
+  ],
+  theories: [
+    {
+      icon:"leaf", title:"Sexual versus Asexual Reproduction",
+      coreIdea:"Organisms reproduce either asexually, producing genetically identical clones by mitosis alone, or sexually, combining gametes from two parents to generate genetically unique offspring &mdash; and some species switch strategy depending on how stable their environment is.",
+      steps:[
+        "In asexual reproduction there are no gametes and no fertilization: eukaryotic cells divide by mitosis, and a structure that breaks away from the parent grows into a new individual, so all offspring are genetically identical to the parent and to each other.",
+        "Single-celled organisms, lacking specialized reproductive organs, typically reproduce asexually &mdash; a yeast cell simply divides in two by budding, and single-celled protists such as <em>Amoeba</em> divide asexually too.",
+        "Plants show asexual reproduction through runners (e.g. strawberries), bulbs, and tubers (e.g. the potato) that split to produce several genetically identical new plants; animals such as greenfly and the aquatic hydra (which buds off a daughter polyp) can also reproduce asexually.",
+        "Sexual reproduction involves two stages: meiosis, which makes gametes with half the chromosome number, and fertilization, the fusion of male and female gametes to restore the full (diploid) chromosome number in a zygote.",
+        "Sexual reproduction generates variation in two ways: DNA from each parent is &lsquo;shuffled&rsquo; by meiosis into new combinations within each gamete, and fertilization itself is random, since any male gamete can fertilize the egg.",
+        "Fertilization may be external (gametes released into water, as in the spawning of many fish) or internal (sperm delivered into the female&rsquo;s body, as in most land animals)."
+      ],
+      notes:[{label:"Choosing a strategy", text:"Sexual reproduction's variation is an advantage when the environment is changing and a population must adapt; asexual reproduction allows a population of identical, well-adapted offspring to grow rapidly when conditions are stable. Aphids (greenfly) exploit both: reproducing asexually in the stable conditions of spring and summer, then sexually in autumn to generate variation ahead of changing conditions."}]
+    },
+    {
+      icon:"atom", title:"Meiosis, Gametes and Fertilization in the Sexual Life Cycle",
+      coreIdea:"Meiosis and fertilization work as a pair across the sexual life cycle &mdash; one halves the chromosome number, the other restores it &mdash; while the sharply different sizes of the two sexes&rsquo; gametes reflect their very different roles in reproduction.",
+      steps:[
+        "In gamete formation, meiosis halves the normal (diploid) chromosome number; without this reductive division, chromosome number would double every generation. Gametes are haploid, and fertilization restores the diploid number (e.g. in humans, a 23-chromosome egg plus a 23-chromosome sperm gives a 46-chromosome zygote and embryo).",
+        "During meiosis, maternal and paternal chromosomes are randomly assorted into new haploid cells, and crossing over occurs &mdash; breaking up parental combinations of alleles so that each gamete carries a unique combination not present in either parent.",
+        "The fusion of gametes at fertilization is also random &mdash; any male gamete can fertilize the egg, and the egg itself carries a unique set of alleles &mdash; so the resulting zygote has a combination of alleles unique to the new organism.",
+        "The male gamete must travel to the female gamete, so it is small, motile and produced in huge numbers (increasing the chance that at least one reaches the egg); the female gamete is larger and far less numerous, carrying the nutrients and energy reserves needed to support the growing embryo.",
+        "These differences in gamete number and investment shape reproductive strategy: because females produce relatively few eggs and invest heavily in each pregnancy, they tend to select mates carefully and have few partners; males, producing vast numbers of sperm continuously, can mate with multiple females throughout life."
+      ],
+      notes:[{label:"Common mistake", text:"The chromosome numbers 23 (gamete) and 46 (zygote) apply only to <em>Homo sapiens</em>. Other species have entirely different haploid and diploid numbers, so it is incorrect to define a haploid cell generally as having 23 chromosomes."}]
+    },
+    {
+      icon:"book", title:"Human Reproductive Anatomy: The Male and Female Systems",
+      coreIdea:"The male and female reproductive systems are built from highly specialized organs that ensure sperm can reach and fertilize an egg, with the reproductive and urinary systems so closely linked anatomically that together they are called the urinogenital system.",
+      steps:[
+        "In the male, paired testes hang in the scrotum, outside the main body cavity, keeping them 2&ndash;3&deg;C below body temperature &mdash; the optimum for sperm production; besides producing sperm, the testes are endocrine glands, secreting testosterone.",
+        "The epididymis stores sperm, and the sperm ducts carry it, within seminal fluid (semen), to the outside during ejaculation; exocrine glands &mdash; the seminal vesicles and prostate gland &mdash; add nutritive, alkaline secretions (proteins and fructose) to form semen along the way.",
+        "The urethra carries both semen (during ejaculation) and urine (during urination) through the penis, whose spongy erectile tissue fills with blood during sexual stimulation to produce an erection, allowing penetration of the vagina.",
+        "In the female, the paired ovaries near the base of the abdominal cavity produce ova and secrete oestradiol and progesterone; a pair of oviducts (fallopian tubes) extend from the uterus and open as funnels near the ovaries, transporting egg cells and acting as the site of fertilization.",
+        "The uterus, shaped like an inverted pear with a thick muscular wall, is lined by the endometrium &mdash; a mucous membrane rich in arterioles that is rebuilt on an average 28-day cycle to prepare for implantation, and which disintegrates as menstruation if fertilization does not occur.",
+        "The vagina is a muscular tube, connected to the uterus at the cervix, that can enlarge to admit the penis and, later, to allow a baby to pass out at birth; it opens to the exterior at the vulva."
+      ],
+      notes:[{label:"Common mistake", text:"When drawing either reproductive system, the connections between structures must be anatomically correct: in the male, the sperm duct, prostate gland and urethra must be drawn in their true relative positions; in the female, the oviducts must open into the cavity of the uterus, not into its muscular wall. A side-view (sagittal) diagram generally shows true proportions and positions better than a front-on view."}],
+      side:{
+        title:"Male vs. female reproductive structures",
+        table:{
+          title:"Comparable structures and their main roles",
+          head:["Male","Female","Shared role"],
+          rows:[
+            ["Testis","Ovary","Gamete production + sex hormone secretion (endocrine gland)"],
+            ["Sperm duct","Oviduct","Transports gametes"],
+            ["Seminal vesicles, prostate gland","Endometrium","Nourishes/supports the gamete or embryo"],
+            ["Penis","Vagina","Site of intercourse / sperm delivery"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", title:"The Menstrual Cycle: Hormonal Regulation of the Ovarian and Uterine Cycles",
+      coreIdea:"Changing blood concentrations of four hormones &mdash; FSH, LH, oestradiol and progesterone &mdash; linked by negative and positive feedback loops between the ovaries and the pituitary gland, drive the repeating, average 28-day menstrual cycle, combining an ovarian cycle (egg development) with a uterine cycle (endometrial build-up).",
+      steps:[
+        "FSH, secreted by the pituitary gland, stimulates several immature egg cells in primary follicles to begin developing in the ovary; usually only one completes development into a mature egg cell within its ovarian follicle.",
+        "The developing follicle secretes oestradiol, which builds up the endometrium in preparation for possible implantation, and also increases the follicle&rsquo;s own FSH receptors, boosting its oestradiol output further &mdash; an example of <strong>positive feedback</strong>.",
+        "Oestradiol rises to a peak just before mid-cycle; at its highest level it inhibits further FSH secretion from the pituitary, preventing other follicles from developing &mdash; an example of <strong>negative feedback</strong>.",
+        "The high oestradiol level instead triggers a surge of LH, which causes <strong>ovulation</strong> &mdash; release of the mature egg cell from the follicle &mdash; around day 14, and converts the emptied follicle into the temporary endocrine gland, the <strong>corpus luteum</strong>.",
+        "The corpus luteum secretes progesterone (and some oestradiol), which continues building the endometrium and inhibits further LH and FSH secretion from the pituitary &mdash; a second instance of negative feedback.",
+        "Falling FSH and LH allow the corpus luteum to degenerate; progesterone and oestradiol levels then fall so low that the endometrium is no longer maintained, breaks down, and is lost as menstruation over the first days of the new cycle &mdash; whose falling progesterone in turn permits FSH secretion to rise again, restarting the cycle.",
+        "If the egg is fertilized, the developing embryo itself becomes an endocrine gland, secreting a hormone (hCG) that keeps the corpus luteum active for at least 16 weeks of pregnancy; once the corpus luteum eventually breaks down, the placenta takes over, secreting oestradiol and progesterone to maintain the endometrium and suppress further ovulation."
+      ],
+      notes:[
+        {label:"Common mistake", text:"FSH and LH roles are often confused. FSH alone stimulates follicle development; LH promotes the follicle&rsquo;s oestradiol secretion and triggers ovulation &mdash; so an LH surge is a good predictor of ovulation for someone trying to conceive."},
+        {label:"Described figure &mdash; hormone levels across the cycle (Fig. D3.1.7)", text:"Plotted against the 28-day cycle, FSH rises gently as follicles develop, then both FSH and (more sharply) LH surge around day 13&ndash;14, coinciding with ovulation; oestradiol rises steadily to a peak just before day 14 then falls, while progesterone rises after ovulation to a broad peak (secreted by the corpus luteum) before falling toward day 28 if fertilization has not occurred."}
+      ],
+      side:{
+        title:"The four cycle hormones",
+        table:{
+          title:"Hormones of the menstrual cycle",
+          head:["Hormone","Secreted by","Main role"],
+          rows:[
+            ["FSH","Pituitary gland","Stimulates follicle growth in the ovary"],
+            ["LH","Pituitary gland","Triggers ovulation; forms the corpus luteum"],
+            ["Oestradiol","Developing follicle","Builds endometrium; feedback on FSH/LH"],
+            ["Progesterone","Corpus luteum","Maintains endometrium; inhibits FSH/LH"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"book", title:"Fertilization in Humans and the Use of Hormones in IVF",
+      coreIdea:"Natural fertilization fuses a sperm and egg cell membrane in the oviduct to form a zygote with mitochondria from the egg alone; when natural conception fails, doctors can use hormone treatment to control and collect multiple eggs for fertilization outside the body (IVF).",
+      steps:[
+        "At fertilization the sperm&rsquo;s cell membrane fuses with the egg cell membrane; the sperm nucleus enters the egg, but its tail and mitochondria remain outside and are ultimately destroyed &mdash; so all of a person&rsquo;s mitochondria are inherited from the egg alone.",
+        "After the two cells fuse, the nuclear membranes of sperm and egg nuclei break down, and the newly joined homologous chromosome pairs &mdash; one set from each parent &mdash; condense and undergo a joint mitosis, producing the first two diploid nuclei of the embryo. In mammals, including humans, fertilization is internal, occurring in the upper oviduct.",
+        "Either partner, or both, may be infertile for a range of structural, functional or hormonal reasons (see table); in vitro fertilization (IVF) can overcome many of these by fertilizing eggs outside the body, in glass (&lsquo;in vitro&rsquo;).",
+        "The key challenge of IVF is retrieving enough eggs at a precisely known time: <strong>down-regulation</strong> first shuts down the natural menstrual cycle (over about two weeks, often using a nasal-spray drug) to control what follows; <strong>superovulation</strong> then uses high-dose FSH injections over about 10 days to develop multiple follicles simultaneously.",
+        "Once follicles reach 15&ndash;20 mm in diameter, an injection of hCG triggers final maturation; about 36 hours later, typically 8&ndash;12 follicles are collected under general anaesthetic, combined with sperm under sterile conditions, and the fertilized eggs are incubated.",
+        "For about two weeks before implantation the patient takes progesterone to help maintain the endometrium and aid implantation (continuing to 12 weeks of gestation if a pregnancy test is positive); embryos at the eight-cell stage may then be placed in the uterus.",
+        "Because the natural success rate of implantation is only around 40%, two or three blastocysts are usually implanted at once, giving IVF treatment a relatively high chance of leading to multiple pregnancies. The first &lsquo;test-tube baby&rsquo; was born in 1978; IVF is now a routine procedure."
+      ],
+      side:{
+        title:"Causes of infertility",
+        table:{
+          title:"Table D3.1.1 &mdash; causes of infertility",
+          head:["In males","In females"],
+          rows:[
+            ["Failure to achieve/maintain an erection","Conditions of the cervix causing death of sperm"],
+            ["Structurally abnormal, poorly mobile or short-lived sperm","Conditions in the uterus preventing implantation"],
+            ["Too few sperm, or a blocked sperm duct","Eggs that fail to mature or be released"],
+            ["&mdash;","Blocked or damaged oviducts, preventing egg reaching sperm"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"leaf", title:"Flowering Plant Reproduction: Flowers, Pollination and Self-Incompatibility",
+      coreIdea:"A flower&rsquo;s structure is built around getting pollen from the anther of one plant to the stigma of another, growing it down to the ovule for a unique &lsquo;double fertilization&rsquo;, while mechanisms of timing, positioning and genetic self-incompatibility work together to favour outcrossing over self-pollination.",
+      steps:[
+        "Flowers, often hermaphrodite structures carrying both male and female parts, hold the plant&rsquo;s reproductive organs. The ovum lies inside an ovule (which also stores nutrients and, once fertilized, becomes the seed); pollen, containing the male gamete(s), is carried to the female part of the same or another plant by insects or wind.",
+        "Flower parts occur in whorls on the receptacle: sepals (the calyx) enclose the bud; petals (the corolla) are often coloured to attract pollinators; stamens (anther + filament) are the male parts, producing pollen; carpels (stigma + style + ovary, containing ovules) are the female parts.",
+        "<strong>Pollination</strong> &mdash; transfer of pollen from anther to stigma &mdash; must occur before fertilization can take place; the pollen grain then germinates and grows a pollen tube down through the style and, via a gap called the micropyle, into the ovule.",
+        "The pollen tube delivers two male nuclei: one fuses with the egg nucleus to form the diploid zygote (fertilization proper); the other fuses with a separate nucleus, triggering formation of a food store for the embryo. This &lsquo;double fertilization&rsquo; is unique to flowering plants.",
+        "Cross-pollination (pollen transferred between two flowers of the same species) promotes outbreeding and variation &mdash; useful if the environment changes &mdash; but relies on pollen successfully finding another flower&rsquo;s stigma, an element of chance, especially in wind-pollinated species. Plants encourage it by having stamens and the stigma mature at different times, or positioned at different heights, or by producing separate male and female flowers.",
+        "Self-pollination (pollen transferred to the stigma of the same flower) promotes inbreeding, preserving gene combinations already suited to a stable environment, but reduces genetic diversity and increases the chance that two undesirable recessive alleles come together.",
+        "<strong>Self-incompatibility</strong> is a genetically controlled recognition-and-rejection mechanism: if pollen lands on the stigma of the flower (or plant) that produced it, pollen tube growth down the style is inhibited, so that pollen cannot fertilize that flower&rsquo;s own ovum &mdash; preventing inbreeding and promoting outcrossing."
+      ],
+      notes:[
+        {label:"Described figure &mdash; the buttercup flower (Fig. D3.1.9)", text:"A longitudinal section shows, from the outside in: sepals and petals attached to the receptacle, a nectary at the base of each petal, several stamens (anther on a filament), and several free carpels at the centre, each with a stigma, style and an ovary containing an ovule."},
+        {label:"Common mistake", text:"Pollination does not deliver pollen to the ovary. Pollination only delivers pollen grains to the stigma; a pollen tube then grows from there, carrying the male nuclei down the style and into the ovary."}
+      ],
+      side:{
+        title:"Flower structures and their roles",
+        table:{
+          title:"Parts of an insect-pollinated flower",
+          head:["Structure","Role"],
+          rows:[
+            ["Sepal (calyx)","Encloses and protects the flower bud"],
+            ["Petal (corolla)","Attracts pollinators (colour/scent)"],
+            ["Stamen = anther + filament","Male part; produces and presents pollen"],
+            ["Carpel = stigma + style + ovary","Female part; receives pollen, houses ovule(s)"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", title:"Seed Structure, Dispersal and Germination",
+      coreIdea:"A seed is both a dispersal unit and a dormant food package: after fertilization it develops a protective coat and food reserves, is carried away from the parent plant by one of several dispersal mechanisms, and only resumes growth once internal dormancy is overcome and external conditions are favourable.",
+      steps:[
+        "After fertilization, the zygote divides repeatedly by mitosis to form an embryo (root, stem and one or two cotyledons/seed leaves), while stored food reserves are formed &mdash; often absorbed directly into the cotyledons, as in peas and beans. As the seed matures, the ovule wall becomes the protective seed coat (testa), the whole ovary becomes the fruit, and the seed&rsquo;s water content falls to just 10&ndash;15% of its weight as it enters dormancy.",
+        "<strong>Seed dispersal</strong> &mdash; carrying the seed away from the parent plant &mdash; is a distinct process from pollination, and reduces competition between parent and offspring for light, water, nutrients and space. Dispersal exploits wind (e.g. the winged seed of <em>Dipterocarpus obtusifolius</em>), water (e.g. the sea coconut, <em>Lodoicea maldivica</em>, which produces the largest seed on Earth), an explosive mechanism driven by turgor pressure (e.g. Himalayan balsam, <em>Impatiens glandulifera</em>), or an animal (e.g. a cedar waxwing eating and later dispersing mulberry seeds).",
+        "Dormancy may be imposed internally: by an immature embryo that simply needs time to complete development; by a growth-inhibiting regulator such as abscisic acid, which must disappear from seed tissues; by an impervious seed coat that must be made permeable (e.g. by abrasion with soil, or microbial action); or by a requirement for pre-chilling under moist conditions (some seeds need &le;5&deg;C for up to 50 days, mimicking winter).",
+        "Once dormancy is overcome, <strong>germination</strong> &mdash; the resumption of growth by the embryonic plant, at the expense of its stored food &mdash; requires full hydration of the embryo, oxygen at a high enough partial pressure to sustain the aerobic respiration that supplies ATP for growth, and a temperature suited to the relevant enzymes (e.g. wheat germinates over 1&ndash;35&deg;C, maize over 5&ndash;45&deg;C).",
+        "Germination is driven by the plant growth substance gibberellic acid (GA), produced by the embryo and passed to the food-storage cells, where it triggers production of hydrolytic enzymes: amylase hydrolyses starch to maltose, which is then hydrolysed to glucose, and proteins are converted to amino acids &mdash; both translocated to the growing root and stem until the seedling emerges as a self-sufficient, autotrophic plant."
+      ],
+      notes:[{label:"Testing the factors needed for germination", text:"A classic class experiment sets up Petri dishes with seeds under different conditions &mdash; dry vs moist, warm vs 5&deg;C, with oxygen present vs absent (e.g. using pyrogallol to absorb oxygen), light vs dark. Only the dish(es) combining moisture, a warm temperature and available oxygen show successful germination, confirming all three external conditions are simultaneously required."}],
+      side:{
+        title:"Conditions needed for germination",
+        table:{
+          title:"Table D3.1.2 &mdash; conditions for germination",
+          head:["External condition","Internal condition"],
+          rows:[
+            ["Water uptake (hydrates embryo cells)","Dormancy overcome"],
+            ["Suitable temperature (for enzyme action)","GA produced, triggering hydrolytic enzymes"],
+            ["Oxygen (sustains aerobic respiration)","Respiration supplies ATP for growth"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", hl:true, title:"Puberty and the Hormonal Control of Sexual Development",
+      coreIdea:"Puberty is triggered by a hormonal cascade from the hypothalamus through the pituitary gland to the gonads, which sharply raises sex hormone secretion and drives the development of the secondary sexual characteristics that distinguish adult males and females.",
+      steps:[
+        "For roughly the first 10 years of life the reproductive systems remain juvenile. At puberty, the hypothalamus begins secreting gonadotropin-releasing hormone (GnRH), which causes the pituitary gland (the &lsquo;master&rsquo; endocrine gland) to release FSH and LH into the blood; both hormones act in males as well as females, despite being named for roles first discovered in females.",
+        "FSH and LH enhance secretion of the gonadal sex hormones &mdash; testosterone from the testes, oestradiol and progesterone from the ovaries &mdash; all manufactured from the steroid cholesterol. Together with FSH and LH, these hormones then drive development of the secondary sexual characteristics and prepare the body for reproduction.",
+        "Because they stimulate muscle protein formation and bone growth, testosterone, oestradiol and progesterone are classed as anabolic steroids (&lsquo;anabolic&rsquo; meaning &lsquo;build up&rsquo;); this effect is more marked for testosterone in males than for the female sex hormones. Puberty begins, on average, about two years earlier in females than in males."
+      ],
+      notes:[{label:"Secondary sexual characteristics", text:"In females: maturation of the ovaries, enlargement of the vagina and uterus, breast development, pelvis widening, pubic/underarm hair growth, monthly ovulation and menstruation, and sex-drive-related behaviour changes. In males: enlargement of the testes, scrotum, penis and reproductive glands, increased skeletal muscle development, laryngeal enlargement and voice deepening, pubic/underarm/body hair growth, continuous sperm production, and sex-drive-related behaviour changes."}],
+      side:{
+        title:"Secondary sexual characteristics",
+        table:{
+          title:"Table D3.1.3 (selected)",
+          head:["Female","Male"],
+          rows:[
+            ["Breast development; widened pelvis","Enlarged testes, scrotum, penis"],
+            ["Monthly ovulation and menstruation","Deepened voice; increased muscle mass"],
+            ["Pubic/underarm hair growth","Pubic/underarm/body hair growth"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", hl:true, title:"Gametogenesis: Spermatogenesis, Oogenesis and the Prevention of Polyspermy",
+      coreIdea:"Sperm and egg production follow the same three-phase sequence &mdash; multiplication, growth, maturation &mdash; but diverge sharply in timing, cell numbers and cytoplasm distribution, and fertilization itself depends on a precise sequence of membrane reactions that admits exactly one sperm nucleus.",
+      steps:[
+        "<strong>Gametogenesis</strong> follows a shared sequence in both sexes: a multiplication phase, in which gamete mother cells divide repeatedly by mitosis; a growth phase, in which each developing sex cell enlarges; and a maturation phase, involving meiosis, producing haploid gametes. Meiosis I yields secondary spermatocytes/secondary oocytes; meiosis II yields spermatids/ova.",
+        "In <strong>spermatogenesis</strong>, germinal epithelial cells lining each testis&rsquo; seminiferous tubules divide mitotically, grow, and undergo meiosis (as spermatogonia &rarr; primary spermatocytes &rarr; secondary spermatocytes &rarr; spermatids), nourished throughout by large Sertoli cells, before differentiating into mature sperm &mdash; four equal, functional sperm from each original cell, continuously, from puberty onward.",
+        "FSH initiates sperm production in the testes; LH stimulates the testes&rsquo; interstitial cells to secrete testosterone, which then acts together with FSH to maintain ongoing sperm production and growth of the Sertoli cells. Testosterone secretion is itself regulated by negative feedback: a high blood testosterone level inhibits further LH secretion.",
+        "In <strong>oogenesis</strong>, oogonia form by mitosis in the foetal ovary (reaching several million per ovary by mid-pregnancy, falling to about 250 000 primary oocytes by puberty, of which fewer than 1% ever complete development). Each month between puberty and menopause, several primary follicles begin developing, but usually only one completes meiosis I &mdash; an <em>unequal</em> division producing a secondary oocyte (which keeps almost all the cytoplasm) plus a tiny, non-functional first polar body.",
+        "The secondary oocyte begins meiosis II but arrests before completion, and is released from the ovary at ovulation in this state; meiosis II only completes, producing the ovum and a second polar body, if a sperm nucleus later penetrates the oocyte&rsquo;s cytoplasm during fertilization.",
+        "<strong>Polyspermy</strong> (fertilization by more than one sperm) is prevented by a precise sequence: a sperm&rsquo;s acrosome releases hydrolytic enzymes on contact with the oocyte&rsquo;s glycoprotein coat (the zona pellucida), digesting a path to the oocyte membrane (the acrosome reaction); the sperm and oocyte plasma membranes then fuse, and the oocyte&rsquo;s cortical granules are released by exocytosis (the cortical reaction), altering the oocyte membrane so no further sperm can cross it.",
+        "As the sperm nucleus enters, meiosis II is completed and the second polar body released; the haploid male and female nuclei then fuse to form the diploid zygote nucleus, completing fertilization."
+      ],
+      notes:[
+        {label:"Described figure &mdash; gametogenesis compared (Fig. D3.1.19)", text:"Spermatogenesis produces four equal-sized functional sperm per starting cell via repeated, symmetrical divisions. Oogenesis instead divides its cytoplasm unequally at each meiotic division, concentrating almost all of it into one large, functional egg cell per starting cell, with the remainder discarded as small, non-functional polar bodies &mdash; reflecting the very different roles of sperm (motility) and egg (nutrient supply)."},
+        {label:"Common mistake", text:"Discussion of fertilization should focus on events from the sperm&rsquo;s arrival at the oocyte surface onward (the acrosome reaction and cortical reaction) &mdash; not on earlier events such as ejaculation."}
+      ],
+      side:{
+        title:"Stages of sperm development",
+        table:{
+          title:"Table D3.1.4",
+          head:["Cell","Type / division stage"],
+          rows:[
+            ["Spermatogonium","2n, made by mitosis"],
+            ["Primary spermatocyte","2n, enters meiosis"],
+            ["Secondary spermatocyte","n, from meiosis I"],
+            ["Spermatid","n, from meiosis II"],
+            ["Spermatozoon","n, differentiated from spermatid"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"book", hl:true, title:"Implantation, the Placenta and the Hormonal Maintenance of Pregnancy",
+      coreIdea:"Once fertilized, the embryo must implant, build a placenta capable of sustaining it for months without ever mixing its blood with its mother&rsquo;s, and keep a changing cast of hormones &mdash; first from the corpus luteum, later from the placenta itself &mdash; maintaining the pregnancy throughout.",
+      steps:[
+        "As the zygote is carried down the oviduct by ciliary action, it undergoes <strong>cleavage</strong> &mdash; repeated mitotic division into a mass of daughter cells without an increase in overall mass &mdash; forming first a solid ball of cells and then a fluid-filled ball, the <strong>blastocyst</strong>.",
+        "By day 7, the roughly 100-cell human blastocyst begins <strong>implantation</strong>, embedding into the endometrium over about a week (day 7&ndash;14); part of the blastocyst becomes the inner cell mass (the future foetus), while other parts become the placenta.",
+        "From about seven days after conception, the blastocyst (and later the placenta alone) secretes hCG (human chorionic gonadotropin), which appears in the urine and maintains the corpus luteum &mdash; and so progesterone secretion &mdash; for at least the first 16 weeks of pregnancy; this is the hormone detected by home pregnancy tests.",
+        "Pregnancy testing exploits <strong>monoclonal antibodies</strong> &mdash; a stable, long-lived supply of one specific antibody, produced by fusing an antibody-secreting B-lymphocyte with an immortal cancer cell to form a dividing hybridoma cell clone. In a test strip, mobile hCG-antibody complexes carrying coloured granules bind hCG in a urine sample and are then trapped by immobile antibodies further up the strip, producing a visible coloured line only if hCG is present.",
+        "By two months, the embryo&rsquo;s principal adult organs have begun forming and the placenta is operational; from this point (conventionally the 11th week of pregnancy) the developing offspring is called a foetus. The placenta &mdash; a disc of maternal (endometrial) and foetal membrane tissue &mdash; brings maternal and foetal blood circulations extremely close over a huge surface area without ever mixing them, connected to the foetus by the umbilical cord.",
+        "Across the placenta, respiratory gases diffuse (oxygen to the foetus, carbon dioxide away); water crosses by osmosis; glucose by facilitated diffusion; ions and amino acids by active transport; urea leaves the foetus; and maternal antibodies cross freely, giving the foetus temporary passive immunity. The placenta blocks bacteria, though some viruses can cross it.",
+        "Once the corpus luteum eventually breaks down, the placenta itself takes over as the endocrine gland secreting oestradiol and progesterone; progesterone maintains the endometrium, and so the pregnancy &mdash; without it, conditions favourable to the foetus cannot be sustained and a spontaneous abortion (miscarriage) results."
+      ],
+      notes:[{label:"Placental adaptations for exchange", text:"Like other exchange organs, the placenta has a large surface area (via finger-like villi), a short diffusion pathway (only a few cells thick), and a constant blood supply on both sides that maintains the concentration gradient between maternal and foetal blood."}],
+      side:{
+        title:"Exchange across the placenta",
+        table:{
+          title:"Substances crossing the placenta",
+          head:["Substance","Mechanism","Direction"],
+          rows:[
+            ["O<sub>2</sub> / CO<sub>2</sub>","Diffusion","Mother &rarr; foetus / foetus &rarr; mother"],
+            ["Water","Osmosis","Both directions"],
+            ["Glucose","Facilitated diffusion","Mother &rarr; foetus"],
+            ["Ions, amino acids","Active transport","Mother &rarr; foetus"],
+            ["Urea","Diffusion","Foetus &rarr; mother"],
+            ["Antibodies","Free crossing","Mother &rarr; foetus (passive immunity)"]
+          ]
+        }
+      }
+    },
+    {
+      icon:"atom", hl:true, title:"Childbirth and Hormone Replacement Therapy",
+      coreIdea:"Labour is driven by a self-reinforcing positive feedback loop between uterine stretching and the hormone oxytocin, while later in life the loss of ovarian hormones at menopause illustrates how easily a simple correlation (HRT and heart disease) can be mistaken for causation.",
+      steps:[
+        "Immediately before birth, progesterone levels fall sharply, removing its inhibition of uterine muscle contraction. The posterior pituitary then begins releasing <strong>oxytocin</strong>, which relaxes the elastic fibres joining the pelvic girdle bones (aiding cervical dilation) and stimulates rhythmic contraction of the uterine wall muscles.",
+        "Labour itself proceeds by <strong>positive feedback</strong>: contractions force the baby&rsquo;s head against the cervix, stretching it; stretch receptors in the cervix signal the brain, which causes more oxytocin release from the posterior pituitary; oxytocin makes the uterine wall contract still more forcefully, stretching the cervix further and triggering yet more oxytocin &mdash; contractions intensifying in frequency and strength until the baby is expelled. Birth itself breaks the cycle, as the sudden drop in cervical stretching ends oxytocin release.",
+        "Afterward, weaker uterine contractions separate the placenta from the endometrium, expelling it with the umbilical remnants as the afterbirth.",
+        "<strong>Menopause</strong> (typically ages 45&ndash;55, confirmed after 12 consecutive period-free months) occurs as the ovaries reduce oestradiol and progesterone production and stop responding to FSH and LH; the resulting loss of negative feedback, and loss of oestradiol&rsquo;s wide-ranging effects on the blood vessels, heart, bone, uterus, skin and brain, underlie menopausal symptoms (hot flushes, raised heart rate, perspiration, joint/muscle stiffness, concentration changes). <strong>Hormone replacement therapy (HRT)</strong> relieves these symptoms by replacing oestradiol and progesterone.",
+        "Early epidemiological studies (which can only show correlation, not a direct causal or biochemical link) suggested HRT reduced the incidence of coronary heart disease (CHD), and this was treated as cause-and-effect. Later randomized controlled trials &mdash; in which subjects are randomly assigned to receive either the treatment or a comparison treatment, then compared for outcomes &mdash; showed HRT actually produces a small <em>increase</em> in CHD risk.",
+        "The original correlation was explained by a confounding variable: HRT patients tended to have higher socioeconomic status (SES), and higher SES independently correlates with lower CHD risk (possibly because higher-SES patients use preventative healthcare, including HRT, more consistently) &mdash; a clear illustration that correlation between two variables does not, by itself, establish causation."
+      ],
+      notes:[{label:"Nature of science", text:"Epidemiological studies provide circumstantial, population-level evidence of health risks, suggesting connections without establishing a biochemical cause; true experimental controls are often impossible for ethical reasons when studying humans, which is why randomized controlled trials &mdash; where feasible and ethical &mdash; carry more weight in resolving a disputed correlation."}],
+      side:{
+        title:"Negative vs. positive feedback in reproduction",
+        table:{
+          title:"Two feedback loops compared",
+          head:["Feature","Menstrual cycle (negative)","Childbirth (positive)"],
+          rows:[
+            ["Direction of response","Opposes/reverses the stimulus","Amplifies the stimulus"],
+            ["Key hormones","Oestradiol, progesterone &rarr; FSH/LH","Cervix stretch &rarr; oxytocin"],
+            ["How it ends","Restores stable hormone cycling","Removed abruptly at birth"]
+          ]
+        }
+      }
+    }
+  ],
+  workedExamples: [
+    {
+      title:"Variation from Meiosis and Random Fertilization",
+      question:"Explain how meiosis and the random fusion of gametes during sexual reproduction produce offspring that are genetically unique, and contrast this with the outcome of asexual reproduction.",
+      answer:[
+        "During meiosis, maternal and paternal chromosomes are randomly assorted into different gametes, and crossing over exchanges sections between homologous chromosomes &mdash; so every gamete carries a unique combination of alleles not present in either parent.",
+        "Fertilization is itself random: any one of millions of sperm can fertilize a given egg, and each egg already carries its own unique allele combination &mdash; so the resulting zygote&rsquo;s genotype is new and unrepeatable.",
+        "Together, these two sources of variation mean that, except for identical twins, no two offspring of sexual reproduction are ever genetically identical to each other or to either parent.",
+        "By contrast, asexual reproduction involves only mitosis, with no meiosis and no fertilization, so all offspring are genetically identical clones of the single parent."
+      ]
+    },
+    {
+      title:"Hormonal Triggers in the Menstrual Cycle",
+      question:"Identify the specific hormone change that directly triggers ovulation, and the hormone change responsible for the degeneration of the corpus luteum (in a cycle without fertilization). Explain each.",
+      answer:[
+        "Ovulation is triggered by a surge in LH: the peaking level of oestradiol from the developing follicle stimulates a sharp rise in LH secretion from the pituitary gland, and this LH surge causes the mature follicle to rupture and release its egg, around day 14.",
+        "The corpus luteum degenerates because, once it is secreting high levels of progesterone (and oestradiol), these hormones exert negative feedback on the pituitary, causing FSH and LH levels to fall rapidly.",
+        "Falling FSH and LH remove the hormonal support that keeps the corpus luteum active, so it degenerates; progesterone and oestradiol levels then fall in turn, and the unsupported endometrium breaks down as menstruation."
+      ]
+    },
+    {
+      title:"In Vitro vs. In Vivo, and the Purpose of IVF Hormone Treatment",
+      question:"Explain the terms &lsquo;in vitro&rsquo; and &lsquo;in vivo&rsquo;, and outline why hormone-based drugs are used before eggs are collected for IVF treatment.",
+      answer:[
+        "&lsquo;In vitro&rsquo; literally means &lsquo;in glass&rsquo; &mdash; a process occurring outside a living organism, in laboratory apparatus; &lsquo;in vivo&rsquo; means occurring within a living organism.",
+        "Hormone drugs are used first for down-regulation &mdash; shutting down the patient&rsquo;s own menstrual cycle &mdash; so that doctors, rather than the body&rsquo;s own feedback loops, control exactly when and how many follicles develop.",
+        "High-dose FSH then drives superovulation, developing multiple follicles (rather than the usual one) simultaneously, and a timed hCG injection matures them together, so that typically 8&ndash;12 eggs, rather than just one, can be collected at a precisely known time &mdash; maximizing the chance that at least one fertilized embryo successfully implants."
+      ]
+    },
+    {
+      title:"Distinguishing Spermatogenesis from Oogenesis",
+      question:"Using chromosome number and cell-division terminology, distinguish between spermatogenesis and oogenesis in humans.",
+      answer:[
+        "Both processes share the same three phases (multiplication by mitosis, growth, and maturation by meiosis), and both ultimately produce haploid (n) gametes from diploid (2n) starting cells.",
+        "Spermatogenesis divides its cytoplasm equally at every division, so one primary spermatocyte yields four equal-sized, functional spermatids, which all differentiate into mature sperm; it begins at puberty and continues, essentially unbroken, throughout life.",
+        "Oogenesis divides its cytoplasm unequally at both meiotic divisions, so one primary oocyte yields only one large functional gamete (the ovum) plus two tiny, non-functional polar bodies; it begins in the foetus but arrests at the secondary-oocyte stage (part-way through meiosis II) at every ovulation, only completing if a sperm nucleus penetrates the oocyte during fertilization."
+      ]
+    },
+    {
+      title:"Why Maternal and Foetal Blood Never Mix",
+      question:"Suggest why it is important that the blood of the mother and the developing offspring do not mix within the placenta, and list features of the placenta that nonetheless allow efficient exchange between the two.",
+      answer:[
+        "Keeping the two circulations separate avoids an immune reaction between genetically different maternal and foetal blood (e.g. incompatible blood groups), and avoids the very different blood pressures of the two circulations disrupting each other&rsquo;s normal function.",
+        "Despite being separate, exchange is efficient because the placenta has a large surface area for diffusion (via numerous finger-like villi), a short diffusion pathway (the exchange surfaces are only a few cells thick), and a constant, substantial blood supply on both sides that continuously maintains the concentration gradients needed for diffusion."
+      ]
+    },
+    {
+      title:"Negative vs. Positive Feedback in Reproduction",
+      question:"Using one example from the menstrual cycle and one example from childbirth, distinguish between negative and positive feedback.",
+      answer:[
+        "Negative feedback counteracts a change, returning a system toward a stable state: in the menstrual cycle, a rising oestradiol level eventually inhibits further FSH secretion, and rising progesterone inhibits both FSH and LH &mdash; damping down, rather than amplifying, hormone secretion.",
+        "Positive feedback instead amplifies a change, driving a system further away from its starting state: in childbirth, cervical stretching triggers oxytocin release, oxytocin increases uterine contraction, and stronger contractions stretch the cervix still further, triggering yet more oxytocin &mdash; escalating until birth occurs.",
+        "Negative feedback loops are typically ongoing and self-correcting (as in the repeating menstrual cycle), while the positive feedback loop of labour is a one-off event that is only brought to an end by the change itself &mdash; the baby&rsquo;s birth, which removes the cervical stretching stimulus."
+      ]
+    }
+  ],
+  summary: [
+    "Asexual reproduction (mitosis only) produces genetically identical offspring and favours rapid population growth in stable conditions; sexual reproduction (meiosis + fertilization) produces genetically unique offspring and favours adaptation to a changing environment &mdash; some species, like aphids, use both strategies at different times of year.",
+    "Meiosis halves the chromosome number in gamete formation, and fertilization restores it, keeping chromosome number constant across generations; crossing over, random chromosome assortment and the random fusion of gametes together generate genetic variation.",
+    "Male and female gametes differ sharply in size and number &mdash; small, numerous, motile sperm versus large, scarce, nutrient-rich eggs &mdash; a difference that underlies contrasting mating strategies between the sexes.",
+    "The human male reproductive system (testes, epididymis, sperm ducts, seminal vesicles, prostate gland, penis) and female system (ovaries, oviducts, uterus/endometrium, vagina/cervix) are specialized to produce, transport and, in females, support the gametes and a developing embryo.",
+    "The menstrual cycle is driven by four hormones &mdash; FSH, LH, oestradiol and progesterone &mdash; linked by negative and positive feedback between the ovaries and pituitary gland; ovulation (around day 14) is triggered by an LH surge, and menstruation follows the degeneration of the corpus luteum if fertilization has not occurred.",
+    "Human fertilization occurs in the upper oviduct and is internal; all mitochondria in the resulting zygote come from the egg alone. IVF uses hormone treatment (down-regulation, then superovulation, then a timed hCG trigger) to collect multiple eggs for fertilization outside the body, to treat infertility.",
+    "Flowers combine male parts (stamens: anther + filament) and female parts (carpels: stigma + style + ovary); pollination delivers pollen to the stigma, and a pollen tube then carries two male nuclei to the ovule for flowering plants&rsquo; unique double fertilization.",
+    "Cross-pollination promotes variation (outbreeding) but relies on chance pollen transfer; self-pollination preserves favourable gene combinations (inbreeding) but reduces diversity; genetically controlled self-incompatibility actively blocks a flower&rsquo;s own pollen from fertilizing it, favouring outcrossing.",
+    "A seed combines an embryo, a food store and a protective testa; it is dispersed by wind, water, explosive mechanisms or animals, and only germinates once dormancy (internal) is overcome and water, oxygen and a suitable temperature (external) are all available &mdash; driven internally by gibberellic acid triggering starch-digesting enzymes.",
+    "<strong>HL:</strong> Puberty is triggered by hypothalamic GnRH, which causes the pituitary to release FSH and LH; these, together with the resulting rise in gonadal sex hormones (testosterone, oestradiol, progesterone), drive development of the secondary sexual characteristics, beginning on average two years earlier in females than males.",
+    "<strong>HL:</strong> Spermatogenesis (continuous, equal divisions, four sperm per starting cell) and oogenesis (beginning in the foetus, unequal divisions, one ovum plus polar bodies per starting cell, arrested at the secondary-oocyte stage until fertilization) share the same multiplication &rarr; growth &rarr; maturation sequence but differ sharply in timing and outcome.",
+    "<strong>HL:</strong> Polyspermy is prevented by the acrosome reaction (digesting a path through the zona pellucida) followed by the cortical reaction (altering the oocyte membrane once one sperm has fused) &mdash; after which meiosis II completes and the male and female nuclei fuse to form the zygote.",
+    "<strong>HL:</strong> After implantation of the blastocyst (day 7&ndash;14), the placenta develops as a non-mixing exchange surface between maternal and foetal blood and, together with hCG (detected in pregnancy testing) and later progesterone, maintains the pregnancy; childbirth is triggered by falling progesterone and driven by a positive feedback loop between cervical stretching and oxytocin release.",
+    "<strong>HL:</strong> Menopause results from declining ovarian hormone production; hormone replacement therapy relieves its symptoms, but randomized controlled trials overturned an earlier epidemiological correlation between HRT and reduced heart disease risk &mdash; a reminder that correlation does not establish causation."
+  ]
 }
 };
 
