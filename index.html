@@ -433,7 +433,50 @@
   }
   .btn-secondary:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
 
-  /* ---- quiz screen ---- */
+  /* ---- quiz screen ----
+     Editorial redesign: title+subtitle above a single wide card split into
+     a "Questions" progress sidebar and the main question panel, matching
+     the site's green brand (not the old narrow teal .wrap layout). The
+     .wrap itself is widened only while this view is visible (see
+     .wrap.wrap-wide below / startQuiz() / hideAllViews()). */
+  #view-quiz{
+    --hv-border:#e3e7e2; --hv-surface-2:#f2f4f1;
+    --hv-accent:#186b3a; --hv-accent-light:#1c8a49; --hv-accent-dark:#0d4023;
+    --hv-green-bg:#e8f5ec;
+  }
+  .wrap.wrap-wide{max-width:1180px;}
+  .quiz-container{width:100%;}
+  .quiz-header{margin-bottom:22px;}
+  .quiz-title{
+    font-family:"Fraunces",Georgia,serif; font-weight:700; font-size:clamp(26px,3.4vw,36px);
+    margin:0 0 6px; text-wrap:balance; color:var(--ink);
+  }
+  .quiz-subtitle{color:var(--ink-soft); font-size:15px; margin:0;}
+
+  .quiz-card{
+    display:flex; align-items:stretch; background:#fff;
+    border:1px solid var(--hv-border); border-radius:16px; overflow:hidden;
+  }
+  .quiz-navcard{
+    width:190px; flex-shrink:0; border-right:1px solid var(--hv-border);
+    padding:22px 16px; max-height:70vh; overflow-y:auto;
+  }
+  .quiz-nav-heading{font-family:"Fraunces",Georgia,serif; font-size:15px; font-weight:600; margin:0 0 16px; color:var(--ink);}
+  .qnav-list{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; align-items:center; gap:10px;}
+  .qnav-item{display:flex; flex-direction:column; align-items:center; gap:5px;}
+  .qnav-num{
+    width:33px; height:33px; border-radius:50%; display:flex; align-items:center; justify-content:center;
+    border:1.5px solid var(--hv-border); color:var(--ink-soft); font-size:13px; font-weight:600;
+    font-family:"Inter",sans-serif; background:#fff;
+  }
+  .qnav-dot{width:4px; height:4px; border-radius:50%; background:var(--hv-border); flex:none;}
+  .qnav-item.current .qnav-num{background:var(--hv-accent); border-color:var(--hv-accent); color:#fff;}
+  .qnav-item.current .qnav-dot{background:var(--hv-accent);}
+  .qnav-item.done .qnav-num{border-color:var(--hv-accent); color:var(--hv-accent); background:var(--hv-green-bg);}
+  .qnav-item.done .qnav-dot{background:var(--hv-accent);}
+
+  .quiz-mainpanel{flex:1 1 auto; min-width:0; padding:26px 28px;}
+
   .progress-row{
     display:flex;
     justify-content:space-between;
@@ -443,18 +486,21 @@
     color:var(--ink-soft);
     margin-bottom:10px;
   }
+  .progress-track-row{display:flex; align-items:center; gap:10px; margin-bottom:22px;}
   .progress-track{
+    flex:1 1 auto;
     height:5px;
-    background:var(--line);
+    background:var(--hv-border);
     border-radius:999px;
     overflow:hidden;
-    margin-bottom:22px;
   }
   .progress-fill{
     height:100%;
-    background:var(--teal);
+    background:var(--hv-accent);
     border-radius:999px;
+    transition:width .4s ease;
   }
+  .progress-pct{font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--ink-soft); flex:none;}
   .chip{
     display:inline-block;
     font-family:"IBM Plex Mono",monospace;
@@ -487,35 +533,54 @@
   }
   .option{
     display:flex;
-    align-items:flex-start;
-    gap:12px;
+    align-items:center;
+    justify-content:space-between;
+    gap:14px;
     text-align:left;
     width:100%;
-    padding:13px 15px;
-    border-radius:10px;
-    border:1px solid var(--line);
-    background:transparent;
+    padding:14px 18px;
+    border-radius:12px;
+    border:1px solid var(--hv-border);
+    background:#fff;
     color:var(--ink);
     font-family:"Inter",sans-serif;
-    font-size:14.5px;
+    font-size:15px;
     line-height:1.4;
     cursor:pointer;
   }
-  .option:hover{border-color:var(--teal);}
+  .option-left{display:flex; align-items:center; gap:14px; min-width:0;}
+  .option:hover{border-color:var(--hv-accent);}
   .option:focus-visible{outline:2px solid var(--focus); outline-offset:2px;}
   .option .tag{
-    font-family:"IBM Plex Mono",monospace;
+    font-family:"Inter",sans-serif;
     font-weight:600;
-    font-size:12.5px;
-    color:var(--ink-soft);
+    font-size:14px;
+    color:var(--ink);
     flex:none;
-    width:18px;
+    width:32px;
+    height:32px;
+    border-radius:9px;
+    background:var(--hv-surface-2);
+    display:flex;
+    align-items:center;
+    justify-content:center;
   }
-  .option.selected{border-color:var(--teal); background:color-mix(in srgb, var(--teal) 10%, transparent);}
+  .option .opt-text{min-width:0;}
+  .option .opt-radio{
+    flex:none; width:20px; height:20px; border-radius:50%;
+    border:1.5px solid var(--hv-border); position:relative;
+  }
+  .option.selected{border-color:var(--hv-accent); background:color-mix(in srgb, var(--hv-accent) 6%, transparent);}
+  .option.selected .opt-radio{border-color:var(--hv-accent);}
+  .option.selected .opt-radio::after{content:""; position:absolute; inset:4px; border-radius:50%; background:var(--hv-accent);}
   .option.correct{border-color:var(--green); background:var(--green-soft);}
-  .option.correct .tag{color:var(--green);}
+  .option.correct .tag{background:var(--green-soft); color:var(--green);}
+  .option.correct .opt-radio{border-color:var(--green);}
+  .option.correct .opt-radio::after{content:""; position:absolute; inset:4px; border-radius:50%; background:var(--green);}
   .option.incorrect{border-color:var(--red); background:var(--red-soft);}
-  .option.incorrect .tag{color:var(--red);}
+  .option.incorrect .tag{background:var(--red-soft); color:var(--red);}
+  .option.incorrect .opt-radio{border-color:var(--red);}
+  .option.incorrect .opt-radio::after{content:""; position:absolute; inset:4px; border-radius:50%; background:var(--red);}
   .option:disabled{cursor:default;}
 
   .feedback{
@@ -541,7 +606,22 @@
   .feedback.bad .verdict{color:var(--red);}
 
   .quiz-actions{display:flex; justify-content:flex-end;}
-  .quiz-actions .btn-primary{width:auto; padding:12px 26px;}
+  .quiz-actions .btn-primary{
+    width:auto; padding:12px 26px; display:inline-flex; align-items:center; gap:8px;
+    background:var(--hv-accent);
+  }
+  .quiz-actions .btn-primary:hover{background:var(--hv-accent-dark);}
+  .quiz-actions .btn-primary svg{flex:none;}
+
+  @media (max-width:760px){
+    .quiz-card{flex-direction:column;}
+    .quiz-navcard{
+      width:100%; border-right:none; border-bottom:1px solid var(--hv-border);
+      max-height:120px; padding:16px;
+    }
+    .qnav-list{flex-direction:row; flex-wrap:nowrap; overflow-x:auto; justify-content:flex-start; padding-bottom:4px;}
+    .quiz-mainpanel{padding:22px 18px;}
+  }
 
   /* ---- results screen ---- */
   .score-row{
@@ -6265,19 +6345,36 @@
   </section>
 
   <!-- QUIZ -->
-  <section class="card" id="view-quiz" hidden>
+  <section id="view-quiz" hidden>
+   <div class="quiz-container">
+    <div class="quiz-header">
+      <h1 class="quiz-title" id="q-title"></h1>
+      <p class="quiz-subtitle" id="q-subtitle"></p>
+    </div>
+    <div class="quiz-card">
+      <aside class="quiz-navcard">
+        <h3 class="quiz-nav-heading">Questions</h3>
+        <ol class="qnav-list" id="q-nav-list"></ol>
+      </aside>
+      <div class="quiz-mainpanel">
     <div class="progress-row">
       <span id="q-counter">Question 1 of 20</span>
       <span id="q-score">Score 0</span>
     </div>
-    <div class="progress-track"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
-    <span class="chip" id="q-chip">Chapter 19</span>
+    <div class="progress-track-row">
+      <div class="progress-track"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
+      <span class="progress-pct" id="q-pct">0%</span>
+    </div>
+    <span class="chip" id="q-chip" hidden>Chapter 19</span>
     <p class="question-text" id="q-text"></p>
     <div class="options" id="q-options"></div>
     <div class="feedback" id="q-feedback" hidden></div>
     <div class="quiz-actions">
       <button class="btn-primary" id="btn-check" disabled>Check answer</button>
+      </div>
+      </div>
     </div>
+   </div>
   </section>
 
   <!-- RESULTS -->
@@ -34428,6 +34525,7 @@ var state = {
 };
 
 var els = {
+  wrap:document.querySelector(".wrap"),
   siteHeader:document.getElementById("site-header"),
   subjectCarousel:document.getElementById("subject-carousel"),
   crumbs:document.getElementById("crumbs"),
@@ -34454,9 +34552,13 @@ var els = {
   segCount:document.getElementById("seg-count"),
   btnStart:document.getElementById("btn-start"),
   bestLine:document.getElementById("best-line"),
+  qTitle:document.getElementById("q-title"),
+  qSubtitle:document.getElementById("q-subtitle"),
+  qNavList:document.getElementById("q-nav-list"),
   qCounter:document.getElementById("q-counter"),
   qScore:document.getElementById("q-score"),
   progressFill:document.getElementById("progress-fill"),
+  qPct:document.getElementById("q-pct"),
   qChip:document.getElementById("q-chip"),
   qText:document.getElementById("q-text"),
   qOptions:document.getElementById("q-options"),
@@ -56467,6 +56569,16 @@ function chapterLabel(scope){
   return "Chapter "+scope;
 }
 
+function fullChapterTitle(scope){
+  if(scope==="both") return chapterLabel("both");
+  var view = currentSubjectView();
+  if(view){
+    var nameEl = view.querySelector('.chapter-card[data-scope="'+scope+'"] .c-name');
+    if(nameEl && nameEl.textContent.trim()) return nameEl.textContent.trim();
+  }
+  return chapterLabel(scope);
+}
+
 function bestKey(){ return state.subject+"-"+state.level+"-quiz-best-"+state.scope+"-"+state.count; }
 
 function readBest(){
@@ -56543,6 +56655,7 @@ function hideAllViews(){
   els.viewEE.hidden = true;
   els.viewIA.hidden = true;
   els.siteHeader.hidden = false;
+  if(els.wrap) els.wrap.classList.remove("wrap-wide");
   var navHome = document.getElementById("hv-nav-home");
   if(navHome) navHome.classList.remove("on");
 }
@@ -56554,6 +56667,10 @@ function renderCrumbs(level){
   var html = '<button type="button" data-nav="home">Home</button>';
   if(level==="subject"){
     html += '<span class="sep">/</span><span class="current">'+subjLabel+'</span>';
+  } else if(level==="quiz"){
+    html += '<span class="sep">/</span><button type="button" data-nav="'+subjNav+'">'+subjLabel+'</button>'+
+      '<span class="sep">/</span><span>'+chapterLabel(state.scope)+'</span>'+
+      '<span class="sep">/</span><span class="current">Quiz</span>';
   } else {
     html += '<span class="sep">/</span><button type="button" data-nav="'+subjNav+'">'+subjLabel+'</button><span class="sep">/</span><span class="current">'+chapterLabel(state.scope)+'</span>';
   }
@@ -59506,12 +59623,49 @@ function startQuiz(){
 
   hideAllViews();
   els.viewQuiz.hidden = false;
-  renderCrumbs("chapter");
+  els.siteHeader.hidden = true;
+  if(els.wrap) els.wrap.classList.add("wrap-wide");
+  renderCrumbs("quiz");
+
+  if(els.qTitle) els.qTitle.textContent = fullChapterTitle(state.scope);
+  if(els.qSubtitle){
+    var qn = state.session.length;
+    els.qSubtitle.textContent = "Test your understanding with "+qn+" exam-style question"+(qn===1?"":"s")+".";
+  }
+  renderQuizNav();
 
   renderQuestion();
 }
 
 goHome();
+
+var CHECK_BTN_ARROW = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>';
+function setCheckBtnLabel(text){
+  els.btnCheck.innerHTML = '<span>'+text+'</span>'+CHECK_BTN_ARROW;
+}
+
+function renderQuizNav(){
+  if(!els.qNavList) return;
+  els.qNavList.innerHTML = "";
+  state.session.forEach(function(_, i){
+    var li = document.createElement("li");
+    li.className = "qnav-item";
+    li.innerHTML = '<span class="qnav-num">'+(i+1)+'</span><span class="qnav-dot"></span>';
+    els.qNavList.appendChild(li);
+  });
+  updateQuizNav();
+}
+
+function updateQuizNav(){
+  if(!els.qNavList) return;
+  Array.prototype.forEach.call(els.qNavList.children, function(li, i){
+    li.classList.remove("current","done");
+    if(i === state.idx) li.classList.add("current");
+    else if(i < state.idx) li.classList.add("done");
+  });
+  var currentItem = els.qNavList.children[state.idx];
+  if(currentItem && currentItem.scrollIntoView) currentItem.scrollIntoView({block:"nearest", inline:"nearest"});
+}
 
 function renderQuestion(){
   state.answered = false;
@@ -59521,8 +59675,11 @@ function renderQuestion(){
 
   els.qCounter.textContent = "Question "+(state.idx+1)+" of "+total;
   els.qScore.textContent = "Score "+state.score;
-  els.progressFill.style.width = Math.round((state.idx/total)*100)+"%";
+  var pct = Math.round((state.idx/total)*100);
+  els.progressFill.style.width = pct+"%";
+  if(els.qPct) els.qPct.textContent = pct+"%";
 
+  els.qChip.hidden = state.scope !== "both";
   els.qChip.innerHTML = chapterLabel(String(q.ch));
   els.qChip.className = "chip"+(q.ch===20?" ch20":"");
 
@@ -59538,7 +59695,7 @@ function renderQuestion(){
     var btn = document.createElement("button");
     btn.className = "option";
     btn.type = "button";
-    btn.innerHTML = '<span class="tag">'+letters[i]+'</span><span>'+choiceText+'</span>';
+    btn.innerHTML = '<span class="option-left"><span class="tag">'+letters[i]+'</span><span class="opt-text">'+choiceText+'</span></span><span class="opt-radio"></span>';
     btn.addEventListener("click", function(){
       if(state.answered) return;
       Array.prototype.forEach.call(els.qOptions.children, function(c){ c.classList.remove("selected"); });
@@ -59551,8 +59708,9 @@ function renderQuestion(){
 
   els.qFeedback.hidden = true;
   els.btnCheck.disabled = true;
-  els.btnCheck.textContent = "Check answer";
+  setCheckBtnLabel("Check answer");
   els.btnCheck.onclick = handleCheck;
+  updateQuizNav();
 }
 
 function handleCheck(){
@@ -59582,7 +59740,7 @@ function handleCheck(){
 
   state.answered = true;
   var isLast = state.idx === state.session.length-1;
-  els.btnCheck.textContent = isLast ? "See results" : "Next question";
+  setCheckBtnLabel(isLast ? "See results" : "Next question");
   els.btnCheck.disabled = false;
   els.btnCheck.onclick = function(){
     if(isLast){ showResults(); }
@@ -59594,7 +59752,9 @@ function handleCheck(){
 function showResults(){
   els.viewQuiz.hidden = true;
   els.viewResults.hidden = false;
+  if(els.wrap) els.wrap.classList.remove("wrap-wide");
   els.progressFill.style.width = "100%";
+  if(els.qPct) els.qPct.textContent = "100%";
 
   var total = state.results.length;
   var pct = Math.round((state.score/total)*100);
