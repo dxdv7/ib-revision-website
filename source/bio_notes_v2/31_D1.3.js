@@ -1,4 +1,5 @@
 {
+  unified: true,
   subtitle: "A gene mutation is a change in the base sequence of a gene &mdash; the ultimate source of all genetic variation. This chapter covers how mutations arise, what their molecular and phenotypic consequences can be, and how scientists have learned to deliberately engineer them, from knocking out single genes to editing genomes with CRISPR-Cas9.",
   keyTerms: [
     {icon:"atom", color:"green", term:"Gene mutation", def:"A change in the sequence of bases of a particular gene."},
@@ -27,43 +28,55 @@
   theories: [
     {
       icon:"atom", title:"Gene Mutations as Structural Changes to DNA",
-      coreIdea:"A gene mutation is a change in the base sequence of a gene, arising from uncorrected errors during DNA replication or from exposure to environmental mutagens, and taking the form of a substitution, insertion or deletion.",
-      steps:[
-        "DNA polymerase &lsquo;proofreads&rsquo; and corrects most errors as it builds a complementary DNA strand during replication, but this proofreading, although highly efficient, does not correct every error, so gene mutations can and do arise spontaneously during replication. Environmental factors &mdash; including ionising radiation, UV light and various chemicals &mdash; can also alter the DNA base sequence directly.",
-        "A point mutation changes one base in a gene&rsquo;s sequence, through a <strong>substitution</strong> (one base replaced by a different base, often due to a copying error), an <strong>insertion</strong> (addition of one or more extra bases), or a <strong>deletion</strong> (loss of one or more bases).",
-        "Because bases are read in triplets (codons) during translation, an insertion or deletion whose length is not a multiple of three produces a <strong>frameshift</strong>: every codon beyond the point of mutation is shifted out of register and read incorrectly.",
-        "Some substitutions produce a &lsquo;nonsense&rsquo; mutation, where the changed codon cannot be read and has no meaning; if a substitution instead causes a different amino acid to be coded for, it is called a &lsquo;missense&rsquo; mutation."
+      blocks:[
+        {type:"prose", text:"A gene mutation is a change in the base sequence of a gene, arising from uncorrected errors during DNA replication or from exposure to environmental mutagens. DNA polymerase &lsquo;proofreads&rsquo; and corrects most errors as it builds a complementary DNA strand during replication, but this proofreading, although highly efficient, does not correct every error, so gene mutations can and do arise spontaneously during replication. Environmental factors &mdash; including ionising radiation, UV light and various chemicals &mdash; can also alter the DNA base sequence directly."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Point mutation:</strong> a change in a single base of a gene sequence, resulting from the substitution, insertion or deletion of a base or bases.",
+          "<strong>Substitution:</strong> a type of mutation in which one nucleotide is replaced by a different nucleotide.",
+          "<strong>Insertion:</strong> a type of mutation that involves the addition of one or more nucleotides into a segment of DNA.",
+          "<strong>Deletion:</strong> a type of mutation that involves the loss of one or more nucleotides from a segment of DNA."
+        ]},
+        {type:"prose", text:"Because bases are read in triplets (codons) during translation, an insertion or deletion whose length is not a multiple of three produces a frameshift: every codon beyond the point of mutation is shifted out of register and read incorrectly. Some substitutions produce a &lsquo;nonsense&rsquo; mutation, where the changed codon cannot be read and has no meaning; if a substitution instead causes a different amino acid to be coded for, it is called a &lsquo;missense&rsquo; mutation."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Frameshift:</strong> a mutation that occurs when the number of nucleotides inserted or deleted is not a multiple of three, so that every codon beyond the point of mutation is read incorrectly during translation.",
+          "<strong>Nonsense mutation:</strong> a mutation that produces a codon with no meaning, so the genetic code cannot be read. <strong>Missense mutation:</strong> a mutation that causes a different amino acid to be coded for."
+        ]}
       ],
       notes:[{label:"Common mistake", text:"Mutations are not automatically harmful. Because of the degeneracy of the genetic code, and because much of the genome is non-coding, many mutations have a neutral effect; others can be beneficial, giving an adaptive advantage, while some are harmful, leading to deleterious effects on the organism."}]
     },
     {
       icon:"book", title:"Consequences of Base Substitutions",
-      coreIdea:"Whether a base substitution actually changes the proteome depends on exactly where it falls and whether the degeneracy of the genetic code buffers its effect.",
-      prose:[
-        "Base substitutions can be harmful: sickle-cell anaemia is caused by a single base change in the codon for glutamic acid, causing the amino acid valine to be incorporated into the polypeptide instead.",
-        "However, because the genetic code is degenerate &mdash; most amino acids have several possible codons &mdash; a base substitution may still match an alternative codon for the same amino acid, leaving the polypeptide, and so the cell&rsquo;s proteome, completely unaffected.",
-        "A substitution in a non-coding region of DNA may likewise have a neutral effect on the proteome. But a substitution within a regulatory region that directs a gene&rsquo;s expression can prevent that gene from being expressed at all, significantly affecting the proteins found in the cell.",
-        "Single-nucleotide polymorphisms (SNPs) &mdash; differences at just one base position between individuals &mdash; are also the result of base substitution mutations."
+      blocks:[
+        {type:"prose", text:"Whether a base substitution actually changes the proteome depends on exactly where it falls, and on whether the degeneracy of the genetic code buffers its effect."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Sickle-cell anaemia is caused by a single base change in the codon for glutamic acid, causing the amino acid valine to be incorporated into the polypeptide instead."},
+        {type:"prose", text:"However, because the genetic code is degenerate &mdash; most amino acids have several possible codons &mdash; a base substitution may still match an alternative codon for the same amino acid, leaving the polypeptide, and so the cell&rsquo;s proteome, completely unaffected. A substitution in a non-coding region of DNA may likewise have a neutral effect on the proteome. But a substitution within a regulatory region that directs a gene&rsquo;s expression can prevent that gene from being expressed at all, significantly affecting the proteins found in the cell."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>SNP (single-nucleotide polymorphism):</strong> a difference of a single base pair at one position in the genome, resulting from a base substitution mutation."}
       ]
     },
     {
       icon:"leaf", title:"Consequences of Insertions and Deletions: Two Case Studies",
-      coreIdea:"Major insertions and deletions, including the frameshifts they can cause, increase the likelihood that a polypeptide fails to function &mdash; illustrated by an insertion that causes Huntington&rsquo;s disease and a deletion that confers partial resistance to HIV.",
-      steps:[
-        "<strong>Insertion &mdash; Huntington&rsquo;s disease:</strong> the <em>HTT</em> gene normally contains a CAG trinucleotide repeat segment 10 to 35 copies long; repeats within this normal range are even associated with higher cognitive function. An insertion mutation that expands the repeat beyond 39 copies causes Huntington&rsquo;s disease, a neurodegenerative disorder involving progressive mental deterioration accompanied by involuntary muscle movements.",
-        "Huntington&rsquo;s disease is extremely rare (about 1 case per 20 000 live births) and is caused by a mutated dominant allele, so it tends to appear in one or more members of every generation in a family pedigree chart. Symptoms usually do not appear until the affected person is 40&ndash;50 years old, by which time they may unknowingly have already passed the allele on to their children.",
-        "<strong>Deletion &mdash; HIV resistance:</strong> the delta 32 mutation removes a section of the <em>CCR5</em> gene, preventing functional expression of the CCR5 protein co-receptor that most HIV-1 strains need to enter CD4<sup>+</sup> T-cells (the lymphocytes responsible for cell-mediated immunity). Without a functional receptor, HIV can no longer efficiently bind to and enter the cell &mdash; though resistance is not complete, since the virus can use alternative, less-efficient co-receptors.",
-        "People who inherit two copies of the delta 32 allele are significantly less susceptible to HIV-1 infection. The mutation is thought to have arisen as long as 2500 years ago, when it was rare (about 1 in 20 000 Europeans); it is now found in around 1 in 10 people, suggesting a past viral disease provided the selection pressure that increased its frequency over time."
+      blocks:[
+        {type:"prose", text:"Major insertions and deletions, including the frameshifts they can cause, increase the likelihood that a polypeptide fails to function &mdash; illustrated by an insertion that causes Huntington&rsquo;s disease and a deletion that confers partial resistance to HIV."},
+        {type:"heading", text:"Insertion: Huntington&rsquo;s disease"},
+        {type:"prose", text:"The <em>HTT</em> gene normally contains a CAG trinucleotide repeat segment 10 to 35 copies long; repeats within this normal range are even associated with higher cognitive function. An insertion mutation that expands the repeat beyond 39 copies causes Huntington&rsquo;s disease, a neurodegenerative disorder involving progressive mental deterioration accompanied by involuntary muscle movements."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "Huntington&rsquo;s disease is extremely rare &mdash; about 1 case per 20 000 live births.",
+          "It is caused by a mutated dominant allele, so it tends to appear in one or more members of every generation in a family pedigree chart.",
+          "Symptoms usually do not appear until the affected person is 40&ndash;50 years old, by which time they may unknowingly have already passed the allele on to their children."
+        ]},
+        {type:"heading", text:"Deletion: HIV resistance"},
+        {type:"prose", text:"The delta 32 mutation removes a section of the <em>CCR5</em> gene, preventing functional expression of the CCR5 protein co-receptor that most HIV-1 strains need to enter CD4<sup>+</sup> T-cells (the lymphocytes responsible for cell-mediated immunity). Without a functional receptor, HIV can no longer efficiently bind to and enter the cell &mdash; though resistance is not complete, since the virus can use alternative, less-efficient co-receptors."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"People who inherit two copies of the delta 32 allele are significantly less susceptible to HIV-1 infection. The mutation is thought to have arisen as long as 2500 years ago, when it was rare (about 1 in 20 000 Europeans); it is now found in around 1 in 10 people, suggesting a past viral disease provided the selection pressure that increased its frequency over time."}
       ],
       notes:[{label:"Described figure &mdash; Huntington&rsquo;s disease (Fig. D1.3.1)", text:"Illustrates how successive insertions progressively lengthen the CAG trinucleotide repeat within the <em>HTT</em> gene, moving it from the normal range (10&ndash;35 repeats) into the disease-causing range (beyond 39 repeats)."}]
     },
     {
       icon:"atom", title:"Causes of Gene Mutation",
-      coreIdea:"A mutagen is any factor that increases the mutation rate; beyond mutagens, mutation also arises from the small fraction of DNA replication and repair errors that escape correction.",
-      steps:[
-        "A factor capable of causing a mutation is called a <strong>mutagen</strong>, and its effects are described as &lsquo;mutagenic&rsquo;; many mutagens are also carcinogens, since a mutation can trigger the uncontrolled cell division of cancer.",
-        "As well as by mutagens, mutation can be caused by errors in DNA replication or repair. DNA polymerase proofreads during replication to ensure the base code is copied correctly, removing most mistakes.",
-        "It is estimated that, in eukaryotes, DNA polymerase makes an error approximately once every 10<sup>4</sup>&ndash;10<sup>5</sup> nucleotides copied &mdash; meaning that each time a diploid mammalian cell replicates its genome, between 100 000 and 1 000 000 polymerase errors occur. Most are corrected, but when the correction mechanism fails, a mutation results; if the error lies within a coding sequence, the protein synthesized may be changed."
+      blocks:[
+        {type:"prose", text:"A mutagen is any factor that increases the mutation rate; beyond mutagens, mutation also arises from the small fraction of DNA replication and repair errors that escape correction."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Mutagen:</strong> an agent that causes gene mutations; anything that causes a mutation may also cause cancer, e.g. chemicals in tobacco smoke, X-rays, short-wave UV light and some viruses. A factor&rsquo;s effects are described as &lsquo;mutagenic&rsquo;, and many mutagens are also carcinogens, since a mutation can trigger the uncontrolled cell division of cancer."},
+        {type:"prose", text:"As well as by mutagens, mutation can be caused by errors in DNA replication or repair. DNA polymerase proofreads during replication to ensure the base code is copied correctly, removing most mistakes."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"It is estimated that, in eukaryotes, DNA polymerase makes an error approximately once every 10<sup>4</sup>&ndash;10<sup>5</sup> nucleotides copied &mdash; meaning that each time a diploid mammalian cell replicates its genome, between 100 000 and 1 000 000 polymerase errors occur. Most are corrected, but when the correction mechanism fails, a mutation results; if the error lies within a coding sequence, the protein synthesized may be changed."}
       ],
       side:{
         title:"Principal mutagenic factors",
@@ -82,13 +95,15 @@
     },
     {
       icon:"book", title:"Randomness in Mutation: Transitions, Transversions and Hotspots",
-      coreIdea:"Mutation is random in the sense that no natural mechanism deliberately alters a particular base to produce a desired trait &mdash; but mutations are nonetheless unevenly distributed across the genome.",
-      steps:[
-        "Mutations are more likely at certain points in the cell cycle (e.g. during DNA replication) than at others. Evolution by natural selection selects among alleles that random mutation has already generated, rather than creating new alleles deliberately; there is no known natural way to target a specific base for change.",
-        "A <strong>transition</strong> is a substitution between bases of similar shape &mdash; purine&harr;purine (adenine&harr;guanine) or pyrimidine&harr;pyrimidine (cytosine&harr;thymine). A <strong>transversion</strong> is a substitution between a purine and a pyrimidine base.",
-        "Transitions are more common than transversions because they preserve the overall ring-shape structure of the base pair, and &mdash; thanks to the degeneracy of the genetic code &mdash; are less likely to change the amino acid encoded. They therefore more often persist as &lsquo;silent substitutions&rsquo; (SNPs with no phenotypic effect), though not every SNP is a transition.",
-        "The most commonly mutated sequence is CG (&lsquo;CpG&rsquo;). Proofreading is &lsquo;blind&rsquo; to the location of the bases it corrects, yet CpG sites mutate particularly often: both C and G form three hydrogen bonds with their partner base, holding this stretch of DNA more tightly together, and CpG-rich regions are often heavily methylated &mdash; both factors make proofreading more difficult.",
-        "Mutation &lsquo;hot spots&rsquo; also arise from variation in the large-scale organisation (&lsquo;superstructure&rsquo;) of DNA within chromosomes, and from regions where accessory proteins are scarcer, raising the local error rate above the correction rate. Environmentally induced mutations are similarly biased, since exposure to different mutagenic stimuli is not equally likely for every individual."
+      blocks:[
+        {type:"prose", text:"Mutation is random in the sense that no natural mechanism deliberately alters a particular base to produce a desired trait &mdash; mutations are more likely at certain points in the cell cycle (e.g. during DNA replication) than at others, but evolution by natural selection selects among alleles that random mutation has already generated, rather than creating new alleles deliberately; there is no known natural way to target a specific base for change."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Transition:</strong> a substitution between bases of similar shape &mdash; purine&harr;purine (adenine&harr;guanine) or pyrimidine&harr;pyrimidine (cytosine&harr;thymine).",
+          "<strong>Transversion:</strong> a substitution between a purine base and a pyrimidine base."
+        ]},
+        {type:"prose", text:"Transitions are more common than transversions because they preserve the overall ring-shape structure of the base pair, and &mdash; thanks to the degeneracy of the genetic code &mdash; are less likely to change the amino acid encoded. They therefore more often persist as &lsquo;silent substitutions&rsquo; (SNPs with no phenotypic effect), though not every SNP is a transition."},
+        {type:"heading", text:"Mutational hot spots"},
+        {type:"prose", text:"The most commonly mutated sequence is CG (&lsquo;CpG&rsquo;). Proofreading is &lsquo;blind&rsquo; to the location of the bases it corrects, yet CpG sites mutate particularly often: both C and G form three hydrogen bonds with their partner base, holding this stretch of DNA more tightly together, and CpG-rich regions are often heavily methylated &mdash; both factors make proofreading more difficult. Mutation &lsquo;hot spots&rsquo; also arise from variation in the large-scale organisation (&lsquo;superstructure&rsquo;) of DNA within chromosomes, and from regions where accessory proteins are scarcer, raising the local error rate above the correction rate. Environmentally induced mutations are similarly biased, since exposure to different mutagenic stimuli is not equally likely for every individual."}
       ],
       side:{
         table:{
@@ -103,24 +118,32 @@
     },
     {
       icon:"leaf", title:"Germ Line and Somatic Mutations; Mutation as the Source of Variation",
-      coreIdea:"Whether a mutation can be inherited depends entirely on which cells it occurs in &mdash; yet whichever cells it arises in, mutation remains the ultimate original source of all genetic variation.",
-      steps:[
-        "<strong>Germ line mutations</strong> occur in the ovaries or testes (or the anthers or embryo sacs of flowering plants) &mdash; the germ cells that give rise to gametes &mdash; so they may be passed to offspring and can cause inherited diseases such as Huntington&rsquo;s disease.",
-        "<strong>Somatic mutations</strong> occur in the body cells of a multicellular organism; they are passed only to the immediate descendants of that cell within the same organism, disappear when the organism dies, and are never inherited by offspring &mdash; though they can still cause cancer.",
-        "Alleles &mdash; different versions of the same gene &mdash; are created by random mutation; this makes gene mutation the original source of all genetic variation between individuals, with no two individuals identical in all their traits.",
-        "Many mutations affecting non-coding DNA are neutral, with no phenotypic effect; others are harmful (e.g. sickle-cell anaemia). But because all individuals in a population differ slightly, a change in the environment can give some individuals a selective advantage, altering the gene pool of the population over time &mdash; and if reproductive isolation then occurs, speciation can take place."
+      blocks:[
+        {type:"prose", text:"Whether a mutation can be inherited depends entirely on which cells it occurs in &mdash; yet whichever cells it arises in, mutation remains the ultimate original source of all genetic variation."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Germ line mutation:</strong> a mutation arising in a germ cell &mdash; a reproductive cell of the body, in the ovaries, testes, or the anthers/embryo sacs of flowering plants &mdash; which may therefore be passed to offspring and can cause inherited diseases such as Huntington&rsquo;s disease.",
+          "<strong>Somatic mutation:</strong> a mutation arising in a body cell, passed only to that cell&rsquo;s descendants within the same organism; never inherited by offspring, though it can still contribute to cancer &mdash; somatic mutations disappear when the organism dies."
+        ]},
+        {type:"prose", text:"Alleles &mdash; different versions of the same gene &mdash; are created by random mutation; this makes gene mutation the original source of all genetic variation between individuals, with no two individuals identical in all their traits."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"Many mutations affecting non-coding DNA are neutral, with no phenotypic effect; others are harmful (e.g. sickle-cell anaemia). But because all individuals in a population differ slightly, a change in the environment can give some individuals a selective advantage, altering the gene pool of the population over time &mdash; and if reproductive isolation then occurs, speciation can take place."}
       ],
       notes:[{label:"Described figure &mdash; variation in ladybird beetles (Fig. D1.3.4)", text:"Shows the wide range of colour and patterning found among ladybird beetles, illustrating how this kind of diversity within a species accumulates from mutations occurring over many generations."}]
     },
     {
       icon:"atom", hl:true, title:"Gene Knockout and Model Organisms",
-      coreIdea:"Deliberately disabling (&lsquo;knocking out&rsquo;) a single gene in a model organism and observing the resulting phenotype is a powerful way to discover that gene&rsquo;s normal function.",
-      steps:[
-        "<strong>Gene knockout (KO)</strong> produces an organism with one non-functional gene &mdash; usually by introducing a deletion &mdash; so researchers can investigate that gene&rsquo;s function by comparing the knockout&rsquo;s phenotype with a normal individual&rsquo;s. A <strong>model organism</strong> is a non-human organism used to understand simple and complex biological functions more generally.",
-        "The <strong>p53 KO mouse</strong> carries a disabled version of the <em>p53</em> gene, which normally directs synthesis of a protein that regulates the cell cycle; without this protein, tumour cells form, raising the risk of bone and other cancers.",
-        "The <strong>Methuselah KO mouse</strong> shows increased longevity, letting researchers study the biology of ageing; the <strong>obese KO mouse</strong> shows increased body fat and metabolic disorders, giving insight into the genetics of human obesity.",
-        "Model organisms work because the genetic code is universal and basic biological processes &mdash; such as oxidative phosphorylation during aerobic respiration &mdash; are shared by almost all living organisms, so in vivo findings using model organisms can often predict similar effects in closely related species, including humans.",
-        "Following the development of the gene knockout technique, the 2007 Nobel Prize in Physiology or Medicine was awarded to Mario Capecchi, Martin Evans and Oliver Smithies; a library of knockout organisms now exists for several species, supporting ongoing research."
+      blocks:[
+        {type:"prose", text:"Deliberately disabling (&lsquo;knocking out&rsquo;) a single gene in a model organism and observing the resulting phenotype is a powerful way to discover that gene&rsquo;s normal function."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Gene knockout (KO):</strong> a technique that produces a genetically engineered organism with one non-functional gene &mdash; usually by introducing a deletion &mdash; allowing researchers to investigate the function of that gene by comparing the knockout&rsquo;s phenotype with a normal individual&rsquo;s.",
+          "<strong>Model organism:</strong> a non-human organism used to understand simple and complex biological functions more generally."
+        ]},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", items:[
+          "The <strong>p53 KO mouse</strong> carries a disabled version of the <em>p53</em> gene, which normally directs synthesis of a protein that regulates the cell cycle; without this protein, tumour cells form, raising the risk of bone and other cancers.",
+          "The <strong>Methuselah KO mouse</strong> shows increased longevity, letting researchers study the biology of ageing.",
+          "The <strong>obese KO mouse</strong> shows increased body fat and metabolic disorders, giving insight into the genetics of human obesity."
+        ]},
+        {type:"prose", text:"Model organisms work because the genetic code is universal and basic biological processes &mdash; such as oxidative phosphorylation during aerobic respiration &mdash; are shared by almost all living organisms, so in vivo findings using model organisms can often predict similar effects in closely related species, including humans."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"Following the development of the gene knockout technique, the 2007 Nobel Prize in Physiology or Medicine was awarded to Mario Capecchi, Martin Evans and Oliver Smithies; a library of knockout organisms now exists for several species, supporting ongoing research."}
       ],
       side:{
         title:"Common model organisms",
@@ -138,13 +161,18 @@
     },
     {
       icon:"atom", hl:true, title:"CRISPR-Cas9: From Bacterial Immunity to Gene Editing",
-      coreIdea:"CRISPR-Cas9 is a natural bacterial defence against viruses that scientists have repurposed into a precise tool for editing any genome, including the human genome.",
-      steps:[
-        "<strong>Natural bacterial immunity:</strong> when infected by a bacteriophage, bacteria cut up the invading viral DNA and insert fragments (&lsquo;spacers&rsquo;) into their own genome as CRISPR sequences &mdash; a genomic memory of the infection.",
-        "Bacteria transcribe these spacers into RNA, which forms a complex with the Cas9 enzyme; this complex monitors the cell for any DNA sequence complementary to the spacer RNA. When matching (viral) DNA is found, Cas9 is activated and cuts it, halting the infection.",
-        "<strong>Laboratory gene editing:</strong> Cas9 is directed to a specific target sequence by a complementary guide RNA. The Cas9&ndash;guide RNA complex binds the target and cuts the DNA there, removing the unwanted sequence; a desired sequence, supplied via a DNA template, can then be inserted in its place, producing a customised DNA sequence.",
-        "Emmanuelle Charpentier and Jennifer Doudna were awarded the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 as precise &lsquo;genetic scissors&rsquo; &mdash; the first time this prize was won by two women alone.",
-        "Researchers are investigating CRISPR to correct the genetic defects behind cystic fibrosis, sickle-cell disease, haemophilia and muscular dystrophy, and to develop more targeted cancer treatments. In one experimental treatment, scientists edited a sickle-cell patient&rsquo;s own bone-marrow cells with CRISPR so they would produce foetal haemoglobin &mdash; a form normally made only before birth &mdash; to compensate for the sickle-shaped haemoglobin."
+      blocks:[
+        {type:"prose", text:"CRISPR-Cas9 is a natural bacterial defence against viruses that scientists have repurposed into a precise tool for editing any genome, including the human genome."},
+        {type:"heading", text:"Natural bacterial immunity"},
+        {type:"prose", text:"When infected by a bacteriophage, bacteria cut up the invading viral DNA and insert fragments (&lsquo;spacers&rsquo;) into their own genome as CRISPR sequences &mdash; a genomic memory of the infection. Bacteria transcribe these spacers into RNA, which forms a complex with the Cas9 enzyme; this complex monitors the cell for any DNA sequence complementary to the spacer RNA. When matching (viral) DNA is found, Cas9 is activated and cuts it, halting the infection."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>CRISPR sequences:</strong> sequences in the genomes of some prokaryotes that act as a genomic record of previous viral attack.",
+          "<strong>Cas9 enzyme:</strong> a bacterial endonuclease that forms a double-strand break in DNA at a specific target site within a larger recognition sequence."
+        ]},
+        {type:"heading", text:"Laboratory gene editing"},
+        {type:"prose", text:"Cas9 is directed to a specific target sequence by a complementary guide RNA. The Cas9&ndash;guide RNA complex binds the target and cuts the DNA there, removing the unwanted sequence; a desired sequence, supplied via a DNA template, can then be inserted in its place, producing a customised DNA sequence &mdash; this manipulation of DNA by deleting, replacing or inserting a sequence is called genome editing."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"Emmanuelle Charpentier and Jennifer Doudna were awarded the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 as precise &lsquo;genetic scissors&rsquo; &mdash; the first time this prize was won by two women alone."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Researchers are investigating CRISPR to correct the genetic defects behind cystic fibrosis, sickle-cell disease, haemophilia and muscular dystrophy, and to develop more targeted cancer treatments. In one experimental treatment, scientists edited a sickle-cell patient&rsquo;s own bone-marrow cells with CRISPR so they would produce foetal haemoglobin &mdash; a form normally made only before birth &mdash; to compensate for the sickle-shaped haemoglobin."}
       ],
       notes:[{label:"Nature of science &mdash; ethical and global concerns", text:"Possible off-target (unintended) mutations, the very high cost of germ line-editing technology (which could restrict access to wealthy countries), unpredictable effects of editing human embryos, and the risk of non-therapeutic use leading to loss of human diversity and eugenics, mean that CRISPR&rsquo;s use is the subject of an international effort to harmonise regulation."}],
       side:{
@@ -160,12 +188,14 @@
     },
     {
       icon:"book", hl:true, title:"Conserved and Highly Conserved Sequences",
-      coreIdea:"Some DNA sequences remain almost unchanged across species and over immense evolutionary timescales, most likely because they are essential to basic cellular function, because they mutate more slowly, or both.",
-      steps:[
-        "<strong>Conserved sequences</strong> are identical or similar DNA/RNA sequences shared across species or a group of species. <strong>Highly conserved sequences</strong> remain essentially unchanged over long periods of evolution &mdash; for example, genes for ribosomal proteins, found in every domain of life.",
-        "<strong>Hypothesis 1 &mdash; functional requirement:</strong> highly conserved sequences are usually required for basic cellular stability, function and reproduction, so they must be maintained largely unchanged from one generation to the next throughout evolutionary history.",
-        "<strong>Hypothesis 2 &mdash; slower mutation rate:</strong> research shows that highly transcribed genes generally have lower mutation rates than less-expressed genes, and that the transcribed strand of a gene mutates less than the non-transcribed strand &mdash; possibly because actively transcribed DNA receives enhanced proofreading and repair.",
-        "Highly conserved sequences are not confined to protein-coding genes: the genome also contains a large amount of regulatory DNA, and in vertebrates, highly conserved non-coding sequences occur in and around genes that act as developmental regulators &mdash; further evidence for a shared evolutionary origin of all vertebrates."
+      blocks:[
+        {type:"prose", text:"Some DNA sequences remain almost unchanged across species and over immense evolutionary timescales, most likely because they are essential to basic cellular function, because they mutate more slowly, or both."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Conserved sequences:</strong> identical or similar sequences in nucleic acids (DNA and RNA), across species or a group of species, that have remained essentially unchanged throughout evolution. <strong>Highly conserved sequences</strong> remain essentially unchanged over long periods of evolution &mdash; for example, genes for ribosomal proteins, found in every domain of life."},
+        {type:"heading", text:"Hypothesis 1: functional requirement"},
+        {type:"prose", text:"Highly conserved sequences are usually required for basic cellular stability, function and reproduction, so they must be maintained largely unchanged from one generation to the next throughout evolutionary history."},
+        {type:"heading", text:"Hypothesis 2: slower mutation rate"},
+        {type:"prose", text:"Research shows that highly transcribed genes generally have lower mutation rates than less-expressed genes, and that the transcribed strand of a gene mutates less than the non-transcribed strand &mdash; possibly because actively transcribed DNA receives enhanced proofreading and repair."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Highly conserved sequences are not confined to protein-coding genes: the genome also contains a large amount of regulatory DNA, and in vertebrates, highly conserved non-coding sequences occur in and around genes that act as developmental regulators &mdash; further evidence for a shared evolutionary origin of all vertebrates."}
       ]
     }
   ],
