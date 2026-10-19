@@ -1,4 +1,5 @@
 {
+  unified: true,
   subtitle: "Classification groups life&rsquo;s vast diversity into a shared taxonomic language, but a fixed, ranked hierarchy does not always reflect true evolutionary history &mdash; cladistics instead uses shared derived characteristics and molecular evidence to build evolutionary trees.",
   keyTerms: [
     {icon:"leaf", color:"green", term:"Taxonomy", def:"The science of classifying organisms into a hierarchical system of groups (taxa) based on shared characteristics."},
@@ -26,12 +27,16 @@
   theories: [
     {
       icon:"leaf", title:"The Need for Classification and the Taxonomic Hierarchy",
-      coreIdea:"Classification groups the vast diversity of life using shared characteristics, giving biology an organizing framework comparable to the periodic table in chemistry &mdash; but deciding which similarities are biologically meaningful is not always straightforward.",
-      steps:[
-        "Given the immense number of species on Earth, biologists classify organisms into groups based on shared characteristics; this gives biology a rationale for grouping organisms (rather than a mass of unconnected facts) and reveals functional and structural similarities and differences that can then be studied further.",
-        "The traditional hierarchy nests taxa from most to least inclusive: kingdom (with domain above it), phylum, class, order, family, genus, species &mdash; each successive level groups together more, and more different, kinds of organism (mnemonic: King Peter Called Out For Genuine Scientists). In a natural classification, a genus and its higher taxa consist of all species evolved from one common ancestral species.",
-        "Classifying by immediately obvious similarity can be misleading: grouping together every organism with wings (most birds, many insects, bats, and some fossil dinosaurs) ignores that bird and insect wings are built from entirely different tissues and have different origins in the body &mdash; both are aerofoils (structures generating &lsquo;lift&rsquo;) but this is not evidence of shared ancestry.",
-        "<strong>Homologous structures</strong> (such as vertebrate forelimbs) may look very different yet share a common evolutionary origin; <strong>analogous structures</strong> (such as human and octopus eyes, or bat and dragonfly wings) can look similar yet evolved independently under similar selective pressures. Relying on morphology alone risks mistaking analogous similarity for true, homologous relatedness."
+      blocks:[
+        {type:"prose", text:"Given the immense number of species on Earth, biologists classify organisms into groups based on shared characteristics, giving biology an organizing framework comparable to the periodic table in chemistry &mdash; though deciding which similarities are biologically meaningful is not always straightforward. This gives biology a rationale for grouping organisms (rather than a mass of unconnected facts) and reveals functional and structural similarities and differences that can then be studied further."},
+        {type:"heading", text:"The taxonomic hierarchy"},
+        {type:"prose", text:"The traditional hierarchy nests taxa from most to least inclusive: kingdom (with domain above it), phylum, class, order, family, genus, species &mdash; each successive level groups together more, and more different, kinds of organism (mnemonic: King Peter Called Out For Genuine Scientists). In a natural classification, a genus and its higher taxa consist of all species evolved from one common ancestral species."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Classifying by immediately obvious similarity can be misleading: grouping together every organism with wings (most birds, many insects, bats, and some fossil dinosaurs) ignores that bird and insect wings are built from entirely different tissues and have different origins in the body &mdash; both are aerofoils (structures generating &lsquo;lift&rsquo;) but this is not evidence of shared ancestry."},
+        {type:"prose", text:"<strong>Homologous structures</strong> (such as vertebrate forelimbs) may look very different yet share a common evolutionary origin; <strong>analogous structures</strong> (such as human and octopus eyes, or bat and dragonfly wings) can look similar yet evolved independently under similar selective pressures. Relying on morphology alone risks mistaking analogous similarity for true, homologous relatedness."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Homologous structures:</strong> Structures that may look very different and perform different functions, but share a common evolutionary origin, e.g. the forelimbs of different vertebrates.",
+          "<strong>Analogous structures:</strong> Structures that perform the same function and may look similar, but evolved independently in unrelated lineages under similar selective pressures rather than from a shared ancestral structure, e.g. human and octopus eyes, or bird and insect wings."
+        ]}
       ],
       notes:[{label:"Why this matters for classification", text:"Base or amino acid sequences are more reliable than morphology for assigning organisms to the same clade, because sequence similarity reflects true homology directly, whereas physical resemblance can arise independently through convergent evolution."}],
       side:{
@@ -53,24 +58,33 @@
     },
     {
       icon:"atom", title:"Domains and Kingdoms",
-      coreIdea:"Classification schemes change as new evidence emerges: discovery of two fundamentally different cell types, and later of ribosomal RNA differences within the prokaryotes, reshaped the kingdoms into three domains of life.",
-      steps:[
-        "Historically, living things seemed to divide naturally into two kingdoms: plants (autotrophic nutrition) and animals (heterotrophic nutrition), reflecting the original disciplines of botany and zoology; fungi and micro-organisms were loosely lumped in with plants.",
-        "The electron microscope revealed two fundamentally different cell structures, prokaryotic and eukaryotic; since bacteria have prokaryotic cells (unlike plants, which are eukaryotic), the two-kingdom system had to be revised into a <strong>five-kingdom model</strong>: Prokaryotae, Protoctista, Fungi, Plantae and Animalia.",
-        "When RNA sequencing became possible, Carl Woese reasoned that because all living organisms contain ribosomes, comparing ribosomal RNA (rRNA) sequences could reveal the relatedness of all organisms. His work showed that the prokaryotes actually comprise two very distinct groups &mdash; bacteria and archaea &mdash; that diverged very early in the history of life.",
-        "This discovery added a classification rank above kingdom: the <strong>domain</strong>. In the 1970s, the five-kingdom model was revised by splitting Prokaryotae into two domains, eubacteria and archaea, while the remaining four eukaryote kingdoms were grouped together into the domain eukarya."
+      blocks:[
+        {type:"prose", text:"Historically, living things seemed to divide naturally into two kingdoms: plants (autotrophic nutrition) and animals (heterotrophic nutrition), reflecting the original disciplines of botany and zoology; fungi and micro-organisms were loosely lumped in with plants."},
+        {type:"prose", text:"The electron microscope revealed two fundamentally different cell structures, prokaryotic and eukaryotic; since bacteria have prokaryotic cells (unlike plants, which are eukaryotic), the two-kingdom system had to be revised into a five-kingdom model: Prokaryotae, Protoctista, Fungi, Plantae and Animalia."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Five-kingdom model:</strong> An older classification scheme &mdash; Prokaryotae, Protoctista, Fungi, Plantae, Animalia &mdash; that grouped living things before domains were recognized, separating organisms mainly by cell type, nutrition and body plan."},
+        {type:"prose", text:"When RNA sequencing became possible, Carl Woese reasoned that because all living organisms contain ribosomes, comparing ribosomal RNA (rRNA) sequences could reveal the relatedness of all organisms. His work showed that the prokaryotes actually comprise two very distinct groups &mdash; bacteria and archaea &mdash; that diverged very early in the history of life."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Domain:</strong> The highest taxonomic rank, above kingdom. Organisms are placed into one of three domains &mdash; archaea, eubacteria or eukarya &mdash; based primarily on ribosomal RNA sequence."},
+        {type:"prose", text:"This discovery added a classification rank above kingdom: the domain. In the 1970s, the five-kingdom model was revised by splitting Prokaryotae into two domains, eubacteria and archaea, while the remaining four eukaryote kingdoms were grouped together into the domain eukarya."}
       ],
       notes:[{label:"Classification keeps being revised", text:"Today, taxonomists sometimes reclassify groups of species when new (usually molecular) evidence shows that a previously recognized taxon actually contains species descended from different ancestral species."}]
     },
     {
       icon:"book", title:"Cladistics: Clades, Cladograms and Evidence of Relatedness",
-      coreIdea:"Cladistics classifies organisms by shared derived characteristics (synapomorphies) that trace to a common ancestor, producing cladograms that aim to reflect true evolutionary relationships rather than a fixed, ranked hierarchy.",
-      prose:[
-        "Darwin observed that a &lsquo;number of intermediate forms must have existed, linking together all species in each group by gradations as fine as our existing varieties&rsquo;. A fixed ranking of taxa (kingdom, phylum, and so on) is therefore somewhat arbitrary, since it does not reflect this gradation, and the traditional hierarchy does not always match the true pattern of evolutionary divergence.",
-        "<strong>Cladistics</strong> is an alternative classification system using unranked <strong>clades</strong>, based entirely on observed shared derived characteristics (<strong>synapomorphies</strong>) that can be traced to a group&rsquo;s most recent common ancestor and are absent in more distant ancestors. A clade is <strong>monophyletic</strong>: it includes all, and only, the descendants of one ancestor. The adoption of cladistics over the traditional ranked hierarchy is an example of a paradigm shift in science, where a new theory replaces an old one.",
-        "Cladistics developed from a body of taxonomic theory called phylogenetic systematics, organized around three principles: monophyletic taxa are natural groupings; organisms are related through evolutionary descent; and evolutionary modifications uniquely shared by organisms are evidence of their unique phylogenetic history.",
-        "A classification system based on evolutionary relationships (a <strong>phylogenetic classification</strong>), rather than on physical similarity alone, lets the characteristics of organisms within a clade be predicted, because they are shared within that clade. Classification using morphology alone does not necessarily show evolutionary relationships, since analogous structures can evolve independently in unrelated groups.",
-        "Evidence for evolutionary relationships comes from several types of study: palaeontology (fossils, which can reveal intermediate &lsquo;missing link&rsquo; forms such as <em>Archaeopteryx</em> between non-avian feathered dinosaurs and birds), comparative biochemistry (nucleic acid and protein composition), comparative embryology (similar patterns of development, e.g. of arteries and the heart in vertebrate embryos), and comparative anatomy (shared structural features)."
+      blocks:[
+        {type:"prose", text:"Darwin observed that a &lsquo;number of intermediate forms must have existed, linking together all species in each group by gradations as fine as our existing varieties&rsquo;. A fixed ranking of taxa (kingdom, phylum, and so on) is therefore somewhat arbitrary, since it does not reflect this gradation, and the traditional hierarchy does not always match the true pattern of evolutionary divergence."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Cladistics:</strong> A classification system that builds evolutionary trees using shared derived characteristics (synapomorphies) that trace to a group&rsquo;s most recent common ancestor and are absent in more distant ancestors.",
+          "<strong>Clade:</strong> A monophyletic group of organisms that have evolved from a common ancestor &mdash; one that includes all, and only, the descendants of a single ancestor.",
+          "<strong>Synapomorphy:</strong> A shared derived characteristic used to assign organisms to the same clade, present in a group and its most recent common ancestor but absent in more distant ancestors."
+        ]},
+        {type:"prose", text:"Cladistics developed from a body of taxonomic theory called phylogenetic systematics, organized around three principles: monophyletic taxa are natural groupings; organisms are related through evolutionary descent; and evolutionary modifications uniquely shared by organisms are evidence of their unique phylogenetic history. The adoption of cladistics over the traditional ranked hierarchy is an example of a paradigm shift in science, where a new theory replaces an old one."},
+        {type:"prose", text:"A classification system based on evolutionary relationships (a <strong>phylogenetic classification</strong>), rather than on physical similarity alone, lets the characteristics of organisms within a clade be predicted, because they are shared within that clade. Classification using morphology alone does not necessarily show evolutionary relationships, since analogous structures can evolve independently in unrelated groups."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "<strong>Palaeontology</strong> &mdash; fossils, which can reveal intermediate &lsquo;missing link&rsquo; forms such as <em>Archaeopteryx</em> between non-avian feathered dinosaurs and birds.",
+          "<strong>Comparative biochemistry</strong> &mdash; nucleic acid and protein composition.",
+          "<strong>Comparative embryology</strong> &mdash; similar patterns of development, e.g. of arteries and the heart in vertebrate embryos.",
+          "<strong>Comparative anatomy</strong> &mdash; shared structural features."
+        ]}
       ],
       side:{
         title:"Evidence of evolutionary relationships",
@@ -88,23 +102,26 @@
     },
     {
       icon:"atom", title:"Limitations of Cladistics and Bacterial Classification",
-      coreIdea:"Cladistics assumes genetic information passes only from parent to offspring, an assumption that breaks down for bacteria, which also exchange genes horizontally &mdash; so prokaryote taxonomy instead blends molecular and phenotypic evidence.",
-      steps:[
-        "Cladistics implicitly assumes shared derived characters result from linear (vertical) genetic transfer, parent to offspring, as in a pedigree &mdash; a reasonable assumption for most eukaryotes.",
-        "Lateral (horizontal) genetic transfer between bacteria &mdash; such as transduction or conjugation &mdash; violates this assumption, and cladistics has no real mechanism for dealing with it, so it has been of limited use for prokaryote taxonomy.",
-        "Bacterial taxonomists originally used <strong>numerical taxonomy</strong>: scoring as many physical and biochemical characteristics as possible (sometimes up to 200) in a group of related bacteria, then building a matrix to group isolates sharing the most characteristics. This morphological (phenotype-based) method was expensive but gave robust groupings, though no insight into true evolutionary relationships.",
-        "There is enormous genetic variation within bacterial species &mdash; up to 30% DNA sequence variation between two <em>Escherichia coli</em> genomes, much of it from the presence or absence of entire genes (one <em>E. coli</em> strain can have hundreds of genes a different strain lacks entirely), rather than sequence differences within shared genes.",
-        "Current bacterial taxonomy therefore uses the <strong>phylo-morphological species concept</strong>: combining ribosomal phylogenetic information with phenotypic characteristics, and applying a somewhat arbitrary threshold of about 70% overall DNA similarity to delineate species boundaries."
+      blocks:[
+        {type:"prose", text:"Cladistics implicitly assumes shared derived characters result from linear (vertical) genetic transfer, parent to offspring, as in a pedigree &mdash; a reasonable assumption for most eukaryotes."},
+        {type:"prose", text:"Lateral (horizontal) genetic transfer between bacteria &mdash; such as transduction or conjugation &mdash; violates this assumption, and cladistics has no real mechanism for dealing with it, so it has been of limited use for prokaryote taxonomy."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Numerical taxonomy:</strong> An older, purely morphological method of bacterial classification that scored many physical and biochemical characteristics (sometimes up to 200) and grouped isolates sharing the most characteristics in a matrix."},
+        {type:"prose", text:"Bacterial taxonomists originally used numerical taxonomy in this way. This morphological (phenotype-based) method was expensive but gave robust groupings, though no insight into true evolutionary relationships."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"There is enormous genetic variation within bacterial species &mdash; up to 30% DNA sequence variation between two <em>Escherichia coli</em> genomes, much of it from the presence or absence of entire genes (one <em>E. coli</em> strain can have hundreds of genes a different strain lacks entirely), rather than sequence differences within shared genes."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Phylo-morphological species concept:</strong> The current approach to bacterial species classification, combining ribosomal phylogenetic data with phenotypic characteristics and an arbitrary threshold of about 70% overall DNA similarity to define species boundaries."},
+        {type:"prose", text:"Current bacterial taxonomy therefore combines ribosomal phylogenetic information with phenotypic characteristics, applying a somewhat arbitrary threshold of about 70% overall DNA similarity to delineate species boundaries."}
       ]
     },
     {
       icon:"book", title:"Sequence Divergence as a Molecular Clock",
-      coreIdea:"If a protein&rsquo;s amino acid sequence changes at a roughly constant rate over time, the number of differences between two species&rsquo; versions of that protein can be used as a &lsquo;molecular clock&rsquo; to estimate how long ago they diverged from a common ancestor.",
-      steps:[
-        "The &beta; chain of haemoglobin is built from 146 amino acid residues; its sequence varies between species because haemoglobin structure is genetically inherited and mutates over time. The more closely related two species are, the more likely their amino acid sequences are to match, since variation is thought to accumulate by mutation of a shared ancestral haemoglobin gene.",
-        "Comparing the human &beta;-haemoglobin sequence with other species shows a graded pattern of difference: very few differences in close relatives (gorilla: 1; gibbon: 2; rhesus monkey: 8) and progressively more in more distantly related animals (mouse: 27; kangaroo: 38; chicken: 45; frog: 67; lamprey: 125).",
-        "If such biochemical changes occur at a constant rate, they can be used as a <strong>molecular clock</strong>: a measure of evolutionary change over time, based on the mutation rate of DNA sequences or the proteins they encode, used to estimate how long ago two related organisms diverged from a common ancestor.",
-        "Similar comparative studies have been made using other polypeptides common to all eukaryotes and prokaryotes, such as the universal electron-transport carrier <strong>cytochrome c</strong>."
+      blocks:[
+        {type:"prose", text:"The &beta; chain of haemoglobin is built from 146 amino acid residues; its sequence varies between species because haemoglobin structure is genetically inherited and mutates over time. The more closely related two species are, the more likely their amino acid sequences are to match, since variation is thought to accumulate by mutation of a shared ancestral haemoglobin gene."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "Comparing the human &beta;-haemoglobin sequence with other species shows very few differences in close relatives: <strong>gorilla</strong> (1), <strong>gibbon</strong> (2), <strong>rhesus monkey</strong> (8).",
+          "Progressively more differences appear in more distantly related animals: <strong>mouse</strong> (27), <strong>kangaroo</strong> (38), <strong>chicken</strong> (45), <strong>frog</strong> (67), <strong>lamprey</strong> (125)."
+        ]},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Molecular clock:</strong> A measure of evolutionary change over time, based on the mutation rate of DNA sequences or the proteins they encode; used to estimate how long ago two related organisms diverged from a common ancestor."},
+        {type:"prose", text:"If such biochemical changes occur at a constant rate, they can be used as a molecular clock in this way. Similar comparative studies have been made using other polypeptides common to all eukaryotes and prokaryotes, such as the universal electron-transport carrier <strong>cytochrome c</strong>."}
       ],
       notes:[{label:"Limits of the molecular clock", text:"The molecular clock can only give estimates, because mutation rates are affected by generation time, population size, the intensity of selective pressure, and other factors."}],
       side:{
@@ -125,12 +142,15 @@
     },
     {
       icon:"leaf", title:"Building Cladograms from Biochemical Evidence",
-      coreIdea:"Cladograms can be constructed directly from biochemical comparisons between species &mdash; using antibody&ndash;antigen reactions (comparative serology), the pairing of DNA strands (DNA hybridization), or computer alignment of sequence data &mdash; each giving an independent estimate of relatedness and divergence time.",
-      steps:[
-        "DNA and protein comparisons are done by aligning sequences from different species and using computer software to identify the best phylogenetic tree joining them, inferring the species&rsquo; phylogeny.",
-        "<strong>Comparative serology:</strong> human serum (blood minus cells and fibrinogen) is injected into a rabbit, which produces antibodies against human proteins; serum from the rabbit&rsquo;s blood is then mixed separately with serum from other species. The more closely related a test species is to humans, the greater the observable precipitation; precipitation with human serum itself is taken as 100%.",
-        "Because the common ancestor itself cannot be tested, each listed difference from human is halved to estimate the divergence of a modern species from that ancestor; this can then be converted into an estimated time using a known fossil-dated rate &mdash; a 35% difference over 60 million years in the lemur lineage gives a molecular clock rate of about 0.6% per million years.",
-        "<strong>DNA hybridization:</strong> DNA is extracted and cut into ~500-base fragments, heated to separate it into single strands, then mixed with similarly prepared single strands from another species. Base pairing re-aligns complementary strands; the greater the complementarity, the more hydrogen bonds form and the higher the temperature needed to separate the strands again &mdash; giving a direct, measurable estimate of percentage DNA difference between species."
+      blocks:[
+        {type:"prose", text:"DNA and protein comparisons are done by aligning sequences from different species and using computer software to identify the best phylogenetic tree joining them, inferring the species&rsquo; phylogeny. Comparative serology, DNA hybridization and direct sequence alignment each give an independent estimate of relatedness and divergence time."},
+        {type:"heading", text:"Comparative serology"},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Comparative serology:</strong> A technique that measures evolutionary relatedness from the strength of an immune (antibody&ndash;antigen precipitation) reaction between the blood serum proteins of two species."},
+        {type:"prose", text:"Human serum (blood minus cells and fibrinogen) is injected into a rabbit, which produces antibodies against human proteins; serum from the rabbit&rsquo;s blood is then mixed separately with serum from other species. The more closely related a test species is to humans, the greater the observable precipitation; precipitation with human serum itself is taken as 100%."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Because the common ancestor itself cannot be tested, each listed difference from human is halved to estimate the divergence of a modern species from that ancestor; this can then be converted into an estimated time using a known fossil-dated rate &mdash; a 35% difference over 60 million years in the lemur lineage gives a molecular clock rate of about 0.6% per million years."},
+        {type:"heading", text:"DNA hybridization"},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>DNA hybridization:</strong> A technique that measures relatedness between species from how readily single strands of their DNA re-pair (hybridize) with each other, judged by the temperature needed to separate the resulting double strand."},
+        {type:"prose", text:"DNA is extracted and cut into ~500-base fragments, heated to separate it into single strands, then mixed with similarly prepared single strands from another species. Base pairing re-aligns complementary strands; the greater the complementarity, the more hydrogen bonds form and the higher the temperature needed to separate the strands again &mdash; giving a direct, measurable estimate of percentage DNA difference between species."}
       ],
       notes:[{label:"NOS: Hypotheses &mdash; parsimony", text:"Different criteria for judgement can lead to different hypotheses. <strong>Parsimony</strong> (or &lsquo;Occam&rsquo;s razor&rsquo;) is the principle that the simplest explanation for the data is preferred: in phylogenetic analysis, the cladogram requiring the smallest number of character changes to explain the observed sequence variation is considered most likely to be correct."}],
       side:{
@@ -154,35 +174,47 @@
     },
     {
       icon:"atom", title:"Reading and Analysing Cladograms",
-      coreIdea:"A cladogram encodes evolutionary relationships in its branching pattern, not in how species happen to be arranged at the tips &mdash; reading one correctly means focusing on nodes, not endpoints.",
-      steps:[
-        "In cladograms, the more derived characteristics two organisms share, the closer their evolutionary relationship &mdash; i.e., the more recently their common ancestor lived.",
-        "A <strong>node</strong> is a branching point in a cladogram, representing a speciation event and the common ancestor of all taxa descending from it; close relationships are shown by a recent fork &mdash; the closer the fork between two organisms, the closer their relationship.",
-        "<strong>Terminal branches</strong> lead to <strong>terminal nodes</strong>, representing the organisms for which data exist (genetic or amino acid sequences), whether extant (still living) or extinct; the <strong>root</strong> is the central trunk of the cladogram, indicating the ancestor common to all groups branching from it.",
-        "A cladogram analysis also distinguishes the <strong>ingroup</strong> (the taxa whose relationships are being studied), the <strong>sister group</strong> (the most closely related lineage outside the ingroup), and an <strong>outgroup</strong> (a more distantly related taxon used for comparison, helping to root the tree).",
-        "In a cladogram of the cat family Felidae, the lion (<em>Panthera leo</em>) and jaguar (<em>Panthera onca</em>) share the most recent common ancestor of any pair shown, making them the most closely related species in that tree &mdash; more closely related to each other than either is to the leopard, tiger, snow leopard, or clouded leopard."
+      blocks:[
+        {type:"prose", text:"In cladograms, the more derived characteristics two organisms share, the closer their evolutionary relationship &mdash; i.e., the more recently their common ancestor lived. A <strong>node</strong> is a branching point in a cladogram, representing a speciation event and the common ancestor of all taxa descending from it; close relationships are shown by a recent fork &mdash; the closer the fork between two organisms, the closer their relationship."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Terminal branch:</strong> a branch leading to a terminal node.",
+          "<strong>Terminal node:</strong> the tip of a branch, representing an extant or extinct taxon for which data exist.",
+          "<strong>Root:</strong> the central trunk of a cladogram, the common ancestor of all groups shown."
+        ]},
+        {type:"prose", text:"A cladogram analysis also distinguishes the ingroup, sister group and outgroup when assessing relationships."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Ingroup:</strong> the set of taxa whose relationships are being studied.",
+          "<strong>Sister group:</strong> the taxon most closely related to the ingroup.",
+          "<strong>Outgroup:</strong> a less closely related taxon used to help root the tree."
+        ]},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"In a cladogram of the cat family Felidae, the lion (<em>Panthera leo</em>) and jaguar (<em>Panthera onca</em>) share the most recent common ancestor of any pair shown, making them the most closely related species in that tree &mdash; more closely related to each other than either is to the leopard, tiger, snow leopard, or clouded leopard."}
       ],
       notes:[{label:"Common mistake", text:"Do not judge relatedness from the end (tip) positions of species on a cladogram &mdash; look at the nodes instead. All branch tips arising from a given node are descendants of the common ancestor represented by that node, however the tips happen to be arranged left-to-right."}]
     },
     {
       icon:"book", title:"Testing Classification with Cladistics: The Figwort Family",
-      coreIdea:"Cladistics can test whether an established, traditionally defined group of organisms actually corresponds to a true evolutionary (monophyletic) group &mdash; and sometimes shows that it does not.",
-      steps:[
-        "The Scrophulariaceae (figwort family) was a long-recognized, large and varied family of flowering plants, typically with irregular (zygomorphic) flowers like the snapdragon and foxglove; flowering plant families were originally designated before biochemical studies were applied to plant taxonomy.",
-        "Most modern evidence for plant evolutionary relationships now comes from comparing the DNA sequences of one to three conserved chloroplast genes, each about 1000 nucleotides long &mdash; providing more secure evolutionary information than the anatomical and morphological differences on which traditional classifications were based.",
-        "Comparing these genes across many species, including several formerly classified in the Scrophulariaceae, led to a major reorganization: several genera were moved out of Scrophulariaceae into other families (e.g. Orobanchaceae, Plantaginaceae), while other genera previously placed in different families were reassigned into a newly defined, smaller Scrophulariaceae. The resulting cladogram carries <strong>bootstrap values</strong> at each branch &mdash; a 0&ndash;100 statistical measure of confidence in that branch, generated by resampling the data.",
-        "Despite this additional, largely biochemical evidence, the evolutionary relationships of organisms are still only partly understood, so current taxonomy remains only a partial phylogenetic classification."
+      blocks:[
+        {type:"prose", text:"The Scrophulariaceae (figwort family) was a long-recognized, large and varied family of flowering plants, typically with irregular (zygomorphic) flowers like the snapdragon and foxglove; flowering plant families were originally designated before biochemical studies were applied to plant taxonomy."},
+        {type:"prose", text:"Most modern evidence for plant evolutionary relationships now comes from comparing the DNA sequences of one to three conserved chloroplast genes, each about 1000 nucleotides long &mdash; providing more secure evolutionary information than the anatomical and morphological differences on which traditional classifications were based."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Comparing these genes across many species, including several formerly classified in the Scrophulariaceae, led to a major reorganization: several genera were moved out of Scrophulariaceae into other families (e.g. Orobanchaceae, Plantaginaceae), while other genera previously placed in different families were reassigned into a newly defined, smaller Scrophulariaceae."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Bootstrap value:</strong> A statistical measure (0&ndash;100) of confidence in a particular branch of a cladogram, generated by repeatedly resampling the data used to build the tree."},
+        {type:"prose", text:"The resulting cladogram carries bootstrap values at each branch. Despite this additional, largely biochemical evidence, the evolutionary relationships of organisms are still only partly understood, so current taxonomy remains only a partial phylogenetic classification."}
       ],
       notes:[{label:"NOS: Falsification", text:"Theories and other scientific knowledge claims may eventually be falsified. In this example, the morphological similarities that originally grouped these flowering plants together in one family were due to convergent evolution rather than shared ancestry, so the traditional classification was shown to be false once cladistic (molecular) evidence became available."}]
     },
     {
       icon:"atom", title:"Classification of All Organisms into Three Domains",
-      coreIdea:"Discovering that one group of prokaryotes has a uniquely different ribosomal RNA sequence, along with other biochemical differences, split the living world into three fundamental domains: archaea, eubacteria and eukarya.",
-      steps:[
-        "The discovery that prokaryotes comprise two very different groups followed study of the distinctive biochemistry of extremophile bacteria, such as heat-loving bacteria found in hot springs at around 70&deg;C. These organisms have recognizably prokaryotic cells, but one group &mdash; the domain <strong>archaea</strong> &mdash; has rRNA with molecular regions distinctly different from the rRNA of other prokaryotes and of eukaryotes; this difference in ribosomal RNA is the key evidence behind the three-domain reclassification of life.",
-        "The three domains are: archaea (the extremophile prokaryotes), eubacteria (the true bacteria), and eukarya (all eukaryotic cells &mdash; protoctista, fungi, plants and animals).",
-        "The domains also differ in other biochemical features: both archaea and eubacteria have a circular genome (vs. linear chromosomes in eukarya); archaea and eukarya both have DNA bound to histone proteins (eubacteria do not); introns are typically absent in archaea and eubacteria genes but frequent in eukarya; and cell walls, when present, are made of peptidoglycan only in eubacteria.",
-        "Archaeal membrane phospholipids also differ fundamentally in structure from those of eubacteria and eukarya: archaeal phospholipids are built on L-glycerol, with branched hydrocarbon tails joined by ether linkages, whereas eubacterial and eukaryotic phospholipids are built on D-glycerol, with unbranched hydrocarbon tails joined by ester linkages."
+      blocks:[
+        {type:"prose", text:"The discovery that prokaryotes comprise two very different groups followed study of the distinctive biochemistry of extremophile bacteria, such as heat-loving bacteria found in hot springs at around 70&deg;C. These organisms have recognizably prokaryotic cells, but one group &mdash; the domain <strong>archaea</strong> &mdash; has rRNA with molecular regions distinctly different from the rRNA of other prokaryotes and of eukaryotes; this difference in ribosomal RNA is the key evidence behind the three-domain reclassification of life."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Archaea, eubacteria &amp; eukarya:</strong> The three domains of life, distinguished chiefly by ribosomal RNA sequence: archaea and eubacteria are both prokaryotic but biochemically very different from each other, while eukarya comprises all eukaryotic life."},
+        {type:"prose", text:"The three domains are: archaea (the extremophile prokaryotes), eubacteria (the true bacteria), and eukarya (all eukaryotic cells &mdash; protoctista, fungi, plants and animals)."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "Both archaea and eubacteria have a <strong>circular genome</strong> (vs. linear chromosomes in eukarya).",
+          "Archaea and eukarya both have DNA bound to <strong>histone proteins</strong> (eubacteria do not).",
+          "<strong>Introns</strong> are typically absent in archaea and eubacteria genes but frequent in eukarya.",
+          "Cell walls, when present, are made of <strong>peptidoglycan</strong> only in eubacteria."
+        ]},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Archaeal membrane phospholipids also differ fundamentally in structure from those of eubacteria and eukarya: archaeal phospholipids are built on L-glycerol, with branched hydrocarbon tails joined by ether linkages, whereas eubacterial and eukaryotic phospholipids are built on D-glycerol, with unbranched hydrocarbon tails joined by ester linkages."}
       ],
       notes:[
         {label:"Where archaea live", text:"Archaea have been found in many extreme environments &mdash; deep ocean vents, geysers, salt pans and polar environments &mdash; but their habitats are broader than this: some species occur only in anaerobic conditions, such as the guts of termites and cattle, or at the bottom of ponds and swamps among rotting plant matter."},
