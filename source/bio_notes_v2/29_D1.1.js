@@ -1,4 +1,5 @@
 {
+  unified: true,
   subtitle: "DNA replication produces exact copies of DNA ahead of every cell division, and understanding how it works &mdash; semi-conservatively, directionally, and with built-in proofreading &mdash; has also given biotechnology two of its most powerful tools: PCR and gel electrophoresis.",
   keyTerms: [
     {icon:"leaf", color:"green", term:"DNA replication", def:"Production of exact copies of DNA, with identical base sequences, required for reproduction and for growth and tissue replacement."},
@@ -27,25 +28,25 @@
   theories: [
     {
       icon:"leaf", title:"Semi-Conservative DNA Replication",
-      coreIdea:"DNA replication produces exact copies of DNA with identical base sequences by a semi-conservative mechanism, in which each new double helix is made of one original strand and one newly synthesized strand &mdash; a model confirmed experimentally by Meselson and Stahl.",
-      steps:[
-        "A copy of each chromosome must pass into every daughter cell formed by cell division, so chromosomes must first be copied (replicated); this is required both for reproduction and for growth and tissue replacement in multicellular organisms.",
-        "At the end of replication, each new pair of DNA strands reforms as a double helix. In this <strong>semi-conservative replication</strong>, one strand of each new helix comes from the original chromosome and one is newly synthesized &mdash; so half of the original molecule is conserved in each daughter helix.",
-        "This contrasts with a hypothetical &lsquo;conservative&rsquo; model, in which an entirely new double helix would form alongside an untouched original, so that one complete original molecule would remain intact rather than being distributed between the daughter molecules.",
-        "Watson and Crick proposed the semi-conservative model, but had no direct evidence for it. Meselson and Stahl tested it by growing <em>E. coli</em> in a medium containing only the heavy nitrogen isotope <sup>15</sup>N, so that all of the bacterium&rsquo;s DNA became &lsquo;heavy&rsquo;.",
-        "The bacteria were then transferred to a medium containing only the lighter, more abundant isotope <sup>14</sup>N (both stable, non-radioactive forms of nitrogen); new DNA made from this point on was built of <sup>14</sup>N. Because <em>E. coli</em> cultures divide synchronously (every 60 minutes), the change in the ratio of heavy to light DNA could be tracked generation by generation.",
-        "DNA from each generation was separated by density in a centrifuge, using a salt solution of increasing density: heavier DNA settled nearer the base of the tube, lighter DNA stayed nearer the top. The resulting pattern &mdash; all-heavy DNA giving way to all-hybrid DNA after one generation, then a mix of hybrid and all-light DNA after a second generation &mdash; matched the semi-conservative model exactly, and ruled out the conservative alternative."
+      blocks:[
+        {type:"prose", text:"A copy of each chromosome must pass into every daughter cell formed by cell division, so chromosomes must first be copied by <strong>DNA replication</strong> &mdash; a process required both for reproduction and for growth and tissue replacement in multicellular organisms, and which produces exact copies of DNA with identical base sequences."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Semi-conservative replication:</strong> each strand of an existing DNA double helix acts as a template for synthesis of a new strand from free nucleotides, so each daughter molecule keeps one original (&lsquo;parent&rsquo;) strand and gains one newly made strand."},
+        {type:"prose", text:"At the end of replication, each new pair of DNA strands reforms as a double helix; because one strand of each new helix comes from the original chromosome and one is newly synthesized, half of the original molecule is conserved in each daughter helix. This contrasts with a hypothetical &lsquo;conservative&rsquo; model, in which an entirely new double helix would form alongside an untouched original, so that one complete original molecule would remain intact rather than being distributed between the daughter molecules."},
+        {type:"heading", text:"Testing the model: Meselson and Stahl"},
+        {type:"prose", text:"Watson and Crick proposed the semi-conservative model, but had no direct evidence for it. Meselson and Stahl tested it by growing <em>E. coli</em> in a medium containing only the heavy nitrogen isotope <sup>15</sup>N, so that all of the bacterium&rsquo;s DNA became &lsquo;heavy&rsquo;. The bacteria were then transferred to a medium containing only the lighter, more abundant isotope <sup>14</sup>N (both stable, non-radioactive forms of nitrogen); new DNA made from this point on was built of <sup>14</sup>N. Because <em>E. coli</em> cultures divide synchronously (every 60 minutes), the change in the ratio of heavy to light DNA could be tracked generation by generation."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"DNA from each generation was separated by density in a centrifuge, using a salt solution of increasing density: heavier DNA settled nearer the base of the tube, lighter DNA stayed nearer the top. The resulting pattern &mdash; all-heavy DNA giving way to all-hybrid DNA after one generation, then a mix of hybrid and all-light DNA after a second generation &mdash; matched the semi-conservative model exactly, and ruled out the conservative alternative."}
       ],
       notes:[{label:"Why this mattered", text:"Scientific knowledge must be supported by evidence: Watson and Crick&rsquo;s proposal was only a hypothesis until Meselson and Stahl&rsquo;s experiment gave it direct experimental support, illustrating how a model can be rigorously tested rather than simply assumed."}]
     },
     {
       icon:"atom", title:"How Helicase and DNA Polymerase Replicate DNA",
-      coreIdea:"Replication proceeds in three linked steps &mdash; unwinding, base pairing, and strand synthesis &mdash; carried out by two key enzymes, helicase and DNA polymerase, in the simpler prokaryotic system described at SL.",
-      steps:[
-        "<strong>Helicase</strong> unwinds the DNA double helix at one region, breaking the hydrogen bonds holding the two strands together and temporarily keeping them separated &mdash; exposing unpaired nucleotides surrounded by a pool of free-floating nucleotides.",
-        "Both exposed strands now act as templates: complementary free nucleotides line up opposite each exposed base by complementary base pairing (adenine with thymine, cytosine with guanine), and hydrogen bonds form to hold them in place.",
-        "A condensation reaction then links the sugar and phosphate groups of adjacent nucleotides together, forming the new strand&rsquo;s sugar&ndash;phosphate backbone; this reaction is catalysed by <strong>DNA polymerase</strong>.",
-        "DNA polymerase also proofreads as it goes, correcting mistakes such as incorrectly paired bases, so that the two strands finally formed are identical in sequence to the two original strands."
+      blocks:[
+        {type:"prose", text:"Replication proceeds in three linked steps &mdash; unwinding, base pairing, and strand synthesis &mdash; carried out by two key enzymes, in the simpler prokaryotic system described at SL. <strong>Helicase</strong> unwinds the DNA double helix at one region, breaking the hydrogen bonds holding the two strands together and temporarily keeping them separated &mdash; exposing unpaired nucleotides surrounded by a pool of free-floating nucleotides."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Helicase:</strong> an enzyme that unwinds the DNA double helix at replication forks, breaking the hydrogen bonds between the two strands.",
+          "<strong>DNA polymerase:</strong> an enzyme that links nucleotides together to form a new DNA strand, using a pre-existing strand as a template, and proofreads as it goes."
+        ]},
+        {type:"prose", text:"Both exposed strands now act as templates: complementary free nucleotides line up opposite each exposed base by complementary base pairing (adenine with thymine, cytosine with guanine), and hydrogen bonds form to hold them in place. A condensation reaction then links the sugar and phosphate groups of adjacent nucleotides together, forming the new strand&rsquo;s sugar&ndash;phosphate backbone; this reaction is catalysed by DNA polymerase, which also proofreads as it goes, correcting mistakes such as incorrectly paired bases, so that the two strands finally formed are identical in sequence to the two original strands."}
       ],
       notes:[
         {label:"Common mistake", text:"It is incorrect to say that &lsquo;helicase is in charge of elongation of DNA&rsquo; &mdash; helicase only unwinds the DNA; DNA polymerase then acts on the exposed single strands to build the new ones."},
@@ -54,13 +55,15 @@
     },
     {
       icon:"book", title:"PCR: Amplifying DNA in the Laboratory",
-      coreIdea:"The polymerase chain reaction copies a chosen DNA sequence repeatedly and automatically, doubling the amount of DNA with every heating-and-cooling cycle &mdash; allowing a usable amount of DNA to be produced from as little as a single starting molecule.",
-      steps:[
-        "Often only a tiny sample of DNA is available, such as at a crime scene or in genetic engineering; PCR solves this by amplifying (copying) a chosen region of double-stranded DNA with known end sequences many times over, entirely automatically, <em>in vitro</em>.",
-        "The DNA sample is heated to about 95&deg;C to separate (denature) the two strands, then cooled to about 40&deg;C so that short, synthetic <strong>DNA primers</strong> &mdash; complementary to the end sequences of the target fragment &mdash; can bind to each strand.",
-        "Heat-tolerant <strong>Taq polymerase</strong> and excess free nucleotides are then added, and the mixture is heated to about 72&deg;C: Taq polymerase extends each primer, using the single strands as templates, to build two new complementary strands.",
-        "The cycle is then repeated using the two new double strands as additional templates, so the number of copies of the target sequence doubles with every cycle.",
-        "PCR has two main limitations: it requires prior knowledge of the DNA (or amino acid) sequence of the target region in order to design the flanking primers, and because primers are short sequences, they may not be specific enough, so a non-target sequence can sometimes be amplified by mistake."
+      blocks:[
+        {type:"prose", text:"Often only a tiny sample of DNA is available, such as at a crime scene or in genetic engineering. The <strong>polymerase chain reaction (PCR)</strong> solves this by amplifying (copying) a chosen region of double-stranded DNA with known end sequences many times over, entirely automatically, <em>in vitro</em>, doubling the amount of DNA with every heating-and-cooling cycle."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Polymerase chain reaction (PCR):</strong> a technique for amplifying selected regions of DNA by multiple, automated cycles of heating and cooling, doubling the number of copies each cycle."},
+        {type:"heading", text:"The three-step cycle"},
+        {type:"prose", text:"The DNA sample is heated to about 95&deg;C to separate (denature) the two strands, then cooled to about 40&deg;C so that short, synthetic <strong>DNA primers</strong> &mdash; complementary to the end sequences of the target fragment &mdash; can bind to each strand. Heat-tolerant <strong>Taq polymerase</strong> and excess free nucleotides are then added, and the mixture is heated to about 72&deg;C: Taq polymerase extends each primer, using the single strands as templates, to build two new complementary strands. The cycle is then repeated using the two new double strands as additional templates, so the number of copies of the target sequence doubles with every cycle."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "PCR requires prior knowledge of the DNA (or amino acid) sequence of the target region, in order to design the flanking primers.",
+          "Because primers are short sequences, they may not be specific enough, so a non-target sequence can sometimes be amplified by mistake."
+        ]}
       ],
       notes:[{label:"Why Taq polymerase specifically", text:"Taq polymerase is named after the heat-tolerant bacterium it was isolated from, <em>Thermus aquaticus</em>, which lives in hot springs and hydrothermal vents. Its heat stability makes it ideal for PCR, where repeated heating to separate strands would destroy an ordinary DNA polymerase. Unlike DNA polymerase in a living cell, Taq polymerase does not proofread, so errors in base pairing can occasionally occur during PCR."}],
       side:{
@@ -78,13 +81,14 @@
     },
     {
       icon:"atom", title:"Gel Electrophoresis and Visualizing DNA Fragments",
-      coreIdea:"Gel electrophoresis separates DNA fragments by size and charge in an electric field, and once separated, the otherwise invisible fragments are revealed using gene probes or stains.",
-      steps:[
-        "A sample of DNA is first cut into fragments of different lengths using one or more <strong>restriction enzymes</strong>, each of which cuts the DNA wherever a particular base sequence occurs along its length.",
-        "The fragments are loaded into wells cut near one end of a gel (agarose, a very pure form of agar, or polyacrylamide), which is submersed in a conducting buffer solution; several different samples can be loaded and separated on one gel at once.",
-        "Separation then depends on two factors together: the gel&rsquo;s tiny pores act as a molecular sieve, through which small fragments move faster than large ones, and the phosphate groups of DNA give it a net negative charge, so in the applied electric field all fragments migrate towards the positive electrode (anode).",
-        "After the current has run for long enough, DNA has separated into bands of different-sized fragments (an electrophoretogram); because the fragments are tiny and transparent, they are not immediately visible.",
-        "Fragments can then be identified with <strong>gene probes</strong> &mdash; single strands of DNA complementary to a particular fragment, made radioactive (detected by exposing X-ray film) or fluorescently labelled (detected under UV light) &mdash; or with stains that reveal all DNA fragments at once, such as ethidium bromide (fluorescent under UV, though a potential carcinogen) or methylene blue (less sensitive, fading quickly)."
+      blocks:[
+        {type:"prose", text:"<strong>Gel electrophoresis</strong> separates DNA fragments by size and charge in an electric field, and once separated, the otherwise invisible fragments are revealed using gene probes or stains. A sample of DNA is first cut into fragments of different lengths using one or more <strong>restriction enzymes</strong>, each of which cuts the DNA wherever a particular base sequence occurs along its length."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Gel electrophoresis:</strong> a technique that separates fragments of DNA or protein on a polymer gel according to size and overall charge, by migration through the gel in an electric field.",
+          "<strong>Restriction enzyme:</strong> an enzyme that cuts DNA at a specific base sequence wherever it occurs, producing fragments of different lengths for electrophoresis."
+        ]},
+        {type:"prose", text:"The fragments are loaded into wells cut near one end of a gel (agarose, a very pure form of agar, or polyacrylamide), which is submersed in a conducting buffer solution; several different samples can be loaded and separated on one gel at once. Separation then depends on two factors together: the gel&rsquo;s tiny pores act as a molecular sieve, through which small fragments move faster than large ones, and the phosphate groups of DNA give it a net negative charge, so in the applied electric field all fragments migrate towards the positive electrode (anode). After the current has run for long enough, DNA has separated into bands of different-sized fragments (an electrophoretogram); because the fragments are tiny and transparent, they are not immediately visible."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Fragments can be identified with <strong>gene probes</strong> &mdash; single strands of DNA complementary to a particular fragment, made radioactive (detected by exposing X-ray film) or fluorescently labelled (detected under UV light) &mdash; or with stains that reveal all DNA fragments at once, such as ethidium bromide (fluorescent under UV, though a potential carcinogen) or methylene blue (less sensitive, fading quickly)."}
       ],
       side:{
         title:"Revealing separated DNA",
@@ -101,34 +105,42 @@
     },
     {
       icon:"leaf", title:"DNA Profiling and Its Forensic Applications",
-      coreIdea:"Genetic profiling exploits the fact that each person&rsquo;s non-coding DNA contains a unique pattern of repeated sequences, giving PCR and gel electrophoresis a powerful set of real-world identification applications.",
-      prose:[
-        "Most of our DNA does not code for protein. These extensive non-gene regions include short sequences of bases repeated many times &mdash; called <strong>VNTRs</strong> (variable number tandem repeats, with repeating units of 10&ndash;100 nucleotides) and <strong>STRs</strong> (short tandem repeats, with repeating units of 2&ndash;13 nucleotides). We each inherit a distinctive combination of these apparently non-functional repeats, half from each parent, giving every person (except identical twins) a unique nucleotide pattern.",
-        "To produce a genetic profile, a DNA sample is cut with a restriction enzyme acting close to the VNTR/STR regions, and gel electrophoresis separates the resulting fragments by length into a pattern of bands. In <strong>Southern blotting</strong>, these separated fragments are made single-stranded, transferred (blotted) from the gel onto a nylon membrane, and then probed with radioactively or fluorescently labelled DNA probes that bind to particular bands and reveal their positions.",
-        "In forensic science, DNA profiling can identify suspects from samples (blood, other body fluids, hair, pollen or plant fragments) recovered at a crime scene, compared against profiles from victims, suspects and uninvolved control individuals &mdash; with great care taken to avoid cross-contamination. It can also identify corpses too decomposed for visual recognition, by comparing DNA from body tissue with that of close relatives or from the person&rsquo;s own belongings.",
-        "In determining paternity, profiles from a child, mother and possible father are compared side by side: because a child inherits half its DNA from each parent, any bands in the child&rsquo;s profile that do not match the mother&rsquo;s profile must have come from the father. Profiling can also confirm whether individuals of an endangered species were bred in captivity or taken from the wild."
+      blocks:[
+        {type:"prose", text:"Most of our DNA does not code for protein. These extensive non-gene regions include short sequences of bases repeated many times &mdash; called <strong>VNTRs</strong> (variable number tandem repeats, with repeating units of 10&ndash;100 nucleotides) and <strong>STRs</strong> (short tandem repeats, with repeating units of 2&ndash;13 nucleotides). We each inherit a distinctive combination of these apparently non-functional repeats, half from each parent, giving every person (except identical twins) a unique nucleotide pattern."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Genetic profiling:</strong> the identification of individual organisms or species using DNA, combining PCR and gel electrophoresis; also called genetic fingerprinting.",
+          "<strong>VNTRs and STRs:</strong> variable number tandem repeats (10&ndash;100-nucleotide repeat units) and short tandem repeats (2&ndash;13-nucleotide repeat units) &mdash; non-coding DNA sequences that vary between individuals in the number of repeats present, making each person&rsquo;s profile unique (except identical twins).",
+          "<strong>Southern blotting:</strong> a technique that transfers DNA fragments separated by electrophoresis from a gel onto a nylon membrane, where they can be probed and visualised by autoradiography."
+        ]},
+        {type:"prose", text:"To produce a genetic profile, a DNA sample is cut with a restriction enzyme acting close to the VNTR/STR regions, and gel electrophoresis separates the resulting fragments by length into a pattern of bands. In Southern blotting, these separated fragments are made single-stranded, transferred (blotted) from the gel onto a nylon membrane, and then probed with radioactively or fluorescently labelled DNA probes that bind to particular bands and reveal their positions."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", items:[
+          "In forensic science, DNA profiling can identify suspects from samples (blood, other body fluids, hair, pollen or plant fragments) recovered at a crime scene, compared against profiles from victims, suspects and uninvolved control individuals &mdash; with great care taken to avoid cross-contamination.",
+          "It can also identify corpses too decomposed for visual recognition, by comparing DNA from body tissue with that of close relatives or from the person&rsquo;s own belongings.",
+          "In determining paternity, profiles from a child, mother and possible father are compared side by side: because a child inherits half its DNA from each parent, any bands in the child&rsquo;s profile that do not match the mother&rsquo;s profile must have come from the father.",
+          "Profiling can also confirm whether individuals of an endangered species were bred in captivity or taken from the wild."
+        ]}
       ],
       notes:[{label:"Nature of science &mdash; reliability through repeated measurement", text:"Increasing the number of markers used (DNA sequences with a known physical location, including SNPs and STRs) reduces the probability of a false match, because each additional band gives one more independent point of comparison between two profiles."}]
     },
     {
       icon:"atom", hl:true, title:"Directionality of DNA Polymerase",
-      coreIdea:"The two strands of the DNA double helix are antiparallel, and DNA polymerase can only build a new strand in one direction &mdash; a constraint that shapes every later detail of replication.",
-      steps:[
-        "The two strands of the DNA double helix run in opposite directions: one from 5&prime; to 3&prime;, the other from 3&prime; to 5&prime;. These <strong>antiparallel</strong> strands matter both for replication and for later transcription of the genetic code into mRNA.",
-        "DNA polymerase requires an existing free 3&prime;&ndash;OH group to begin synthesis, adding the 5&prime; end of each new nucleotide on to the 3&prime; end of the growing strand. This means it can synthesize a new strand in only one direction: moving along the template strand from 3&prime; to 5&prime;, while building the new strand from 5&prime; to 3&prime;.",
-        "This one-way synthesis is also required for proofreading to work: a hypothetical polymerase synthesizing 3&prime; to 5&prime; could not proofread, because removing an incorrectly paired nucleotide would leave a chain with no free end that could be elongated further.",
-        "Because a self-correcting polymerase must be able to keep extending the chain after removing its own errors, DNA polymerase must proceed exclusively in the 5&prime; to 3&prime; direction &mdash; the single rule from which the very different behaviour of the leading and lagging strands follows."
+      blocks:[
+        {type:"prose", text:"The two strands of the DNA double helix are antiparallel, and DNA polymerase can only build a new strand in one direction &mdash; a constraint that shapes every later detail of replication. The two strands run in opposite directions: one from 5&prime; to 3&prime;, the other from 3&prime; to 5&prime;. These <strong>antiparallel</strong> strands matter both for replication and for later transcription of the genetic code into mRNA."},
+        {type:"prose", text:"DNA polymerase requires an existing free 3&prime;&ndash;OH group to begin synthesis, adding the 5&prime; end of each new nucleotide on to the 3&prime; end of the growing strand. This means it can synthesize a new strand in only one direction: moving along the template strand from 3&prime; to 5&prime;, while building the new strand from 5&prime; to 3&prime;."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"This one-way synthesis is also required for proofreading to work: a hypothetical polymerase synthesizing 3&prime; to 5&prime; could not proofread, because removing an incorrectly paired nucleotide would leave a chain with no free end that could be elongated further. Because a self-correcting polymerase must be able to keep extending the chain after removing its own errors, DNA polymerase must proceed exclusively in the 5&prime; to 3&prime; direction &mdash; the single rule from which the very different behaviour of the leading and lagging strands follows."}
       ]
     },
     {
       icon:"atom", hl:true, title:"Leading and Lagging Strand Replication",
-      coreIdea:"Because DNA polymerase can only synthesize 5&prime; to 3&prime;, and the two parental strands run in opposite directions, one new strand is made continuously while the other must be made discontinuously, in short, separately primed fragments.",
-      steps:[
-        "Replication begins at many points along the double helix, called <strong>replication forks</strong>, where <strong>helicase</strong> separates the strands (forming a &lsquo;bubble&rsquo;); <strong>DNA gyrase</strong> relieves the strain this unwinding causes, and <strong>single-strand binding proteins</strong> attach to the separated strands to stop them rejoining.",
-        "Both strands are replicated simultaneously, but since DNA polymerase III can only add nucleotides to a free 3&prime; end, both new strands can only elongate 5&prime; to 3&prime; &mdash; so the details of replication differ between the two antiparallel template strands.",
-        "On the exposed 5&prime; to 3&prime; template, the <strong>leading strand</strong> is built continuously, immediately behind the advancing helicase as fresh template is exposed; it only needs one RNA primer, made once by the enzyme <strong>primase</strong>, to give DNA polymerase III its starting 3&prime; end.",
-        "On the other, antiparallel template, the <strong>lagging strand</strong> must be built discontinuously, in short <strong>Okazaki fragments</strong> running in the direction opposite to the moving fork; because each fragment needs its own starting point, primase repeatedly lays down new RNA primers at intervals along this strand.",
-        "<strong>DNA polymerase I</strong> then removes each RNA primer and replaces it with DNA, and <strong>DNA ligase</strong> seals the gaps between adjacent Okazaki fragments into one continuous lagging strand &mdash; so, in summary: primase primes, DNA polymerase III extends, DNA polymerase I repairs the primer gaps, and ligase joins the pieces together."
+      blocks:[
+        {type:"prose", text:"Because DNA polymerase can only synthesize 5&prime; to 3&prime;, and the two parental strands run in opposite directions, one new strand is made continuously while the other must be made discontinuously, in short, separately primed fragments. Replication begins at many points along the double helix, called <strong>replication forks</strong>, where <strong>helicase</strong> separates the strands (forming a &lsquo;bubble&rsquo;); <strong>DNA gyrase</strong> relieves the strain this unwinding causes, and <strong>single-strand binding proteins</strong> attach to the separated strands to stop them rejoining."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Replication fork:</strong> a point where the two DNA strands have separated and both act as templates; replication spreads outward from many forks along the helix.",
+          "<strong>Leading strand:</strong> at a replication fork, the new DNA strand made by continuous synthesis in the 5&prime; to 3&prime; direction, immediately behind the advancing helicase.",
+          "<strong>Lagging strand:</strong> the new DNA strand synthesized discontinuously, in short, separately primed Okazaki fragments, in the direction opposite to the moving replication fork."
+        ]},
+        {type:"prose", text:"Both strands are replicated simultaneously, but since DNA polymerase III can only add nucleotides to a free 3&prime; end, both new strands can only elongate 5&prime; to 3&prime; &mdash; so the details of replication differ between the two antiparallel template strands. On the exposed 5&prime; to 3&prime; template, the leading strand is built continuously, immediately behind the advancing helicase as fresh template is exposed; it only needs one RNA primer, made once by the enzyme <strong>primase</strong>, to give DNA polymerase III its starting 3&prime; end."},
+        {type:"prose", text:"On the other, antiparallel template, the lagging strand must be built discontinuously, in short <strong>Okazaki fragments</strong> running in the direction opposite to the moving fork; because each fragment needs its own starting point, primase repeatedly lays down new RNA primers at intervals along this strand. <strong>DNA polymerase I</strong> then removes each RNA primer and replaces it with DNA, and <strong>DNA ligase</strong> seals the gaps between adjacent Okazaki fragments into one continuous lagging strand &mdash; so, in summary: primase primes, DNA polymerase III extends, DNA polymerase I repairs the primer gaps, and ligase joins the pieces together."}
       ],
       notes:[
         {label:"Common mistake", text:"An RNA primer begins replication on <em>both</em> the lagging strand and the leading strand &mdash; not only on the lagging strand; the leading strand simply needs just one primer rather than several."},
@@ -153,12 +165,11 @@
     },
     {
       icon:"book", hl:true, title:"DNA Proofreading",
-      coreIdea:"DNA polymerase does not just build new DNA strands &mdash; it also checks its own work, removing incorrectly paired bases as it goes, and this proofreading ability depends entirely on replication running only 5&prime; to 3&prime;.",
-      steps:[
-        "Proofreading is carried out by both prokaryotes and eukaryotes. DNA polymerase III occasionally adds an incorrect (mismatched) base to the growing strand, which does not pair correctly with the template base opposite it.",
-        "A nuclease activity within the polymerase detects this mismatch and removes the incorrect base from the 3&prime; end of the new strand, by cleaving the phosphodiester bond that attached it.",
-        "The polymerase then adds the correct, complementary base in its place, and normal 5&prime; to 3&prime; synthesis continues; polymerization and proofreading are coordinated, carried out by different catalytic domains within the same polymerase molecule.",
-        "This mechanism is only possible because DNA polymerase always synthesizes 5&prime; to 3&prime;: removing a wrongly added base leaves a free 3&prime; end that can still be extended, so proofreading and continued synthesis do not conflict with one another."
+      blocks:[
+        {type:"prose", text:"DNA polymerase does not just build new DNA strands &mdash; it also checks its own work, removing incorrectly paired bases as it goes, and this proofreading ability depends entirely on replication running only 5&prime; to 3&prime;. Proofreading is carried out by both prokaryotes and eukaryotes. DNA polymerase III occasionally adds an incorrect (mismatched) base to the growing strand, which does not pair correctly with the template base opposite it."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Proofreading:</strong> the process by which DNA polymerase removes a mismatched base it has just added from the 3&prime; end of the new strand and replaces it with the correct, complementary base."},
+        {type:"prose", text:"A nuclease activity within the polymerase detects this mismatch and removes the incorrect base from the 3&prime; end of the new strand, by cleaving the phosphodiester bond that attached it. The polymerase then adds the correct, complementary base in its place, and normal 5&prime; to 3&prime; synthesis continues; polymerization and proofreading are coordinated, carried out by different catalytic domains within the same polymerase molecule."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"This mechanism is only possible because DNA polymerase always synthesizes 5&prime; to 3&prime;: removing a wrongly added base leaves a free 3&prime; end that can still be extended, so proofreading and continued synthesis do not conflict with one another."}
       ]
     }
   ],

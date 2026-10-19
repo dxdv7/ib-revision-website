@@ -1,4 +1,5 @@
 {
+  unified: true,
   subtitle: "Water constantly moves into and out of cells by osmosis, driven by differences in solute concentration either side of the plasma membrane. How a cell copes with this movement &mdash; and whether it has a cell wall to resist it &mdash; determines whether it swells, shrinks, or develops the pressure that supports plant tissues.",
   keyTerms: [
     {icon:"atom", color:"teal", term:"Solvation", def:"The interaction of a solvent with the molecules or ions (the solute) that dissolve in it &mdash; e.g. water molecules forming hydrogen bonds or ion&ndash;dipole forces around a dissolved ion, creating a hydration shell."},
@@ -25,22 +26,20 @@
   theories: [
     {
       icon:"atom", title:"Solvation: Why Water Is Such a Good Solvent",
-      coreIdea:"Water's polarity &mdash; a partially positive hydrogen end and partially negative oxygen end on each V-shaped molecule &mdash; lets it surround and stabilize dissolved ions or polar molecules, forming a hydration shell.",
-      steps:[
-        "<strong>Solvation</strong> is the interaction of a solvent with the molecules or ions (the solute) that dissolve in it. Solvent polarity is the most important factor determining how well a solvent solvates a given solute.",
-        "Polar water molecules can orient the appropriately charged part of the molecule towards a solute particle, interacting through hydrogen bonding (with polar molecules) or ion&ndash;dipole forces (with ions).",
-        "When sodium chloride dissolves, the negative (oxygen) pole of surrounding water molecules is attracted to each positive Na<sup>+</sup> ion, while the positive (hydrogen) poles of other water molecules are attracted to each negative Cl<sup>&minus;</sup> ion.",
-        "This progressively surrounds and separates the ions from the crystal lattice into solution, stabilizing the system and creating a <strong>hydration shell</strong> around each solute particle."
+      blocks:[
+        {type:"prose", text:"Water&rsquo;s polarity &mdash; a partially positive hydrogen end and partially negative oxygen end on each V-shaped molecule &mdash; lets it surround and stabilize dissolved ions or polar molecules, forming a hydration shell. Solvent polarity is the most important factor determining how well a solvent solvates a given solute."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Solvation</strong> is the interaction of a solvent with the molecules or ions (the solute) that dissolve in it &mdash; e.g. water molecules forming hydrogen bonds or ion&ndash;dipole forces around a dissolved ion, creating a hydration shell."},
+        {type:"prose", text:"Polar water molecules can orient the appropriately charged part of the molecule towards a solute particle, interacting through hydrogen bonding (with polar molecules) or ion&ndash;dipole forces (with ions)."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"When sodium chloride dissolves, the negative (oxygen) pole of surrounding water molecules is attracted to each positive Na<sup>+</sup> ion, while the positive (hydrogen) poles of other water molecules are attracted to each negative Cl<sup>&minus;</sup> ion. This progressively surrounds and separates the ions from the crystal lattice into solution, stabilizing the system and creating a <strong>hydration shell</strong> around each solute particle."}
       ]
     },
     {
       icon:"leaf", title:"Osmosis and Tonicity",
-      coreIdea:"Osmosis is a special case of diffusion involving only water molecules, moving net from a more dilute solution to a more concentrated one across a partially permeable membrane &mdash; whether a solution is hypotonic, hypertonic or isotonic is always judged relative to the cell it surrounds.",
-      steps:[
-        "Water is small enough to cross the phospholipid bilayer directly, though it also moves through specific pore proteins called <strong>aquaporins</strong>.",
-        "<strong>Osmosis</strong> is the net (overall) movement of water molecules from a region of lower solute concentration (more dilute) to a region of higher solute concentration, across a selectively permeable membrane &mdash; i.e. it is the passive movement of water from a hypotonic to a hypertonic solution.",
-        "If the external solution is <strong>hypotonic</strong> (more dilute than the cytoplasm), there is net inflow of water into the cell. If it is <strong>hypertonic</strong> (more concentrated), there is net outflow of water. If it is <strong>isotonic</strong> (equal concentration), there is no net entry or exit of water.",
-        "In an isotonic solution the system is in <strong>dynamic equilibrium</strong>: water keeps moving across the membrane in both directions, but there is no overall change in water concentration on either side."
+      blocks:[
+        {type:"prose", text:"Osmosis is a special case of diffusion involving only water molecules, moving net from a more dilute solution to a more concentrated one across a partially permeable membrane &mdash; whether a solution is hypotonic, hypertonic or isotonic is always judged relative to the cell it surrounds. Water is small enough to cross the phospholipid bilayer directly, though it also moves through specific pore proteins called <strong>aquaporins</strong>."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Osmosis</strong> is the net (overall) movement of water molecules from a region of lower solute concentration (more dilute) to a region of higher solute concentration, across a selectively permeable membrane &mdash; i.e. it is the passive movement of water from a hypotonic to a hypertonic solution."},
+        {type:"prose", text:"If the external solution is <strong>hypotonic</strong> (more dilute than the cytoplasm), there is net inflow of water into the cell. If it is <strong>hypertonic</strong> (more concentrated), there is net outflow of water. If it is <strong>isotonic</strong> (equal concentration), there is no net entry or exit of water."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"In an isotonic solution the system is in <strong>dynamic equilibrium</strong>: water keeps moving across the membrane in both directions, but there is no overall change in water concentration on either side."}
       ],
       notes:[
         {label:"Common mistake", text:"There is no verb &lsquo;to osmosis&rsquo; &mdash; always say water &lsquo;moves by osmosis&rsquo;. It is also incorrect to say there is &lsquo;no movement&rsquo; of water in an isotonic solution: water still crosses the membrane, but outward and inward movement are exactly balanced, so there is no net osmosis."},
@@ -49,12 +48,11 @@
     },
     {
       icon:"book", title:"Investigating the Osmotic Concentration of Plant Tissue",
-      coreIdea:"The solute (osmotic) concentration of a plant tissue can be estimated experimentally by bathing replicate samples in a range of known sucrose concentrations and finding the one concentration at which the tissue shows no net change in length or mass &mdash; this is the point at which the external solution is isotonic with the tissue.",
-      steps:[
-        "A dilution series of sucrose solutions (e.g. 0.00, 0.20, 0.40, 0.60, 0.80, 1.00 mol dm<sup>&minus;3</sup>) is made by diluting a 1.00 mol dm<sup>&minus;3</sup> stock with distilled water in measured volumes.",
-        "Uniform replicate strips or cylinders of potato tuber tissue (a convenient source, cut with a cork borer for consistent size) are weighed/measured, then placed into boiling tubes of each sucrose concentration, with several replicate tubes per concentration.",
-        "After a fixed time (e.g. 30&ndash;40 minutes), the tissue samples are removed, blotted dry to remove excess surface solution, and reweighed/remeasured.",
-        "The <strong>percentage change</strong> in mass or length is calculated: (change in mass or length &divide; original mass or length) &times; 100. These percentage changes are plotted against sucrose concentration; the concentration at which percentage change = 0 is isotonic with the tissue and reveals its osmotic concentration."
+      blocks:[
+        {type:"prose", text:"The solute (osmotic) concentration of a plant tissue can be estimated experimentally by bathing replicate samples in a range of known sucrose concentrations and finding the one concentration at which the tissue shows no net change in length or mass &mdash; this is the point at which the external solution is isotonic with the tissue."},
+        {type:"heading", text:"Method"},
+        {type:"prose", text:"A dilution series of sucrose solutions (e.g. 0.00, 0.20, 0.40, 0.60, 0.80, 1.00 mol dm<sup>&minus;3</sup>) is made by diluting a 1.00 mol dm<sup>&minus;3</sup> stock with distilled water in measured volumes. Uniform replicate strips or cylinders of potato tuber tissue (a convenient source, cut with a cork borer for consistent size) are weighed/measured, then placed into boiling tubes of each sucrose concentration, with several replicate tubes per concentration. After a fixed time (e.g. 30&ndash;40 minutes), the tissue samples are removed, blotted dry to remove excess surface solution, and reweighed/remeasured."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"The <strong>percentage change</strong> in mass or length is calculated: (change in mass or length &divide; original mass or length) &times; 100. These percentage changes are plotted against sucrose concentration; the concentration at which percentage change = 0 is isotonic with the tissue and reveals its osmotic concentration."}
       ],
       notes:[
         {label:"Why replicates matter", text:"Using several tissue strips/chips per tube, and repeating each concentration several times, allows a mean, standard deviation (SD) and standard error (SE) to be calculated, assessing the reliability of the result and whether differences between concentrations are significant."},
@@ -78,49 +76,48 @@
     },
     {
       icon:"leaf", title:"Effects of Water Movement on Cells That Lack a Cell Wall",
-      coreIdea:"Without a rigid wall to resist swelling, animal cells and wall-less protists face a serious risk from osmosis: too much water entering can burst the cell, so unicellular organisms and whole animals need active mechanisms to keep their internal solute concentration steady.",
-      steps:[
-        "A red blood cell placed in pure water or a hypotonic solution swells and bursts (lyses) from the pressure of excess water entering by osmosis.",
-        "The same cells placed in a hypertonic solution shrink from net water loss; shrunken cells are described as <strong>crenated</strong>, and move less smoothly through capillaries, raising the risk of blood clots.",
-        "To avoid both problems, mammals and other animals very carefully regulate the osmotic concentration of their body fluids (blood plasma and tissue fluid) to stay isotonic with their cells &mdash; an aspect of <strong>osmoregulation</strong>.",
-        "Many freshwater unicellular animals (e.g. <em>Amoeba</em>) live in a hypotonic external medium and face continuous net inflow of water. A <strong>contractile vacuole</strong> acts as a tiny water pump, continuously collecting and expelling excess water; if the cytoplasm is anaesthetized (stopping the vacuole working), the cell quickly bursts, demonstrating the vacuole's importance."
+      blocks:[
+        {type:"prose", text:"Without a rigid wall to resist swelling, animal cells and wall-less protists face a serious risk from osmosis: too much water entering can burst the cell, so unicellular organisms and whole animals need active mechanisms to keep their internal solute concentration steady."},
+        {type:"prose", text:"A red blood cell placed in pure water or a hypotonic solution swells and bursts (lyses) from the pressure of excess water entering by osmosis. The same cells placed in a hypertonic solution shrink from net water loss; shrunken cells are described as <strong>crenated</strong>, and move less smoothly through capillaries, raising the risk of blood clots."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Crenated:</strong> describes an animal cell (e.g. a red blood cell) that has shrunk and developed a crinkled outline after net water loss in a hypertonic solution."},
+        {type:"prose", text:"To avoid both problems, mammals and other animals very carefully regulate the osmotic concentration of their body fluids (blood plasma and tissue fluid) to stay isotonic with their cells &mdash; an aspect of <strong>osmoregulation</strong>."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Many freshwater unicellular animals (e.g. <em>Amoeba</em>) live in a hypotonic external medium and face continuous net inflow of water. A <strong>contractile vacuole</strong> acts as a tiny water pump, continuously collecting and expelling excess water; if the cytoplasm is anaesthetized (stopping the vacuole working), the cell quickly bursts, demonstrating the vacuole&rsquo;s importance."}
       ]
     },
     {
       icon:"leaf", title:"Effects of Water Movement on Cells With a Cell Wall",
-      coreIdea:"The cellulose cell wall changes the outcome of osmosis completely: instead of bursting, a plant cell in a hypotonic solution develops turgor pressure that supports the tissue, while in a hypertonic solution it becomes flaccid and plasmolysed rather than lysing.",
-      steps:[
-        "In a <strong>hypotonic</strong> solution, net water inflow dilutes the cell solution; the permanent (central) vacuole swells, pushing its membrane (the <strong>tonoplast</strong>) against the cytoplasm, which presses against the cell wall, increasing <strong>turgor pressure</strong>. The cell becomes <strong>turgid</strong>: the stretched (but inextensible) wall eventually stops further water uptake, protecting the cell from bursting while leaving the tissue rigid.",
-        "In a <strong>hypertonic</strong> solution, net water outflow concentrates the cell solution; as cytoplasm and vacuole volume fall, the cytoplasm pulls away from parts of the cell wall (though cytoplasmic connections between cells may maintain some contact). The cell becomes soft and <strong>flaccid</strong>, and is said to be <strong>plasmolysed</strong>.",
-        "Turgor pressure, made possible only because of the cell wall, supports plant tissues in the absence of a skeleton or shell &mdash; an important structural role with no animal equivalent.",
-        "Plasmolysed tissue can survive for a time under hypertonic conditions, but not indefinitely: as the membrane pulls away from the wall, solute can enter the gap between them, and prolonged plasmolysis can damage the membrane."
+      blocks:[
+        {type:"prose", text:"The cellulose cell wall changes the outcome of osmosis completely: instead of bursting, a plant cell in a hypotonic solution develops turgor pressure that supports the tissue, while in a hypertonic solution it becomes flaccid and plasmolysed rather than lysing."},
+        {type:"heading", text:"Turgor in hypotonic solutions"},
+        {type:"prose", text:"In a <strong>hypotonic</strong> solution, net water inflow dilutes the cell solution; the permanent (central) vacuole swells, pushing its membrane (the <strong>tonoplast</strong>) against the cytoplasm, which presses against the cell wall, increasing <strong>turgor pressure</strong>. The cell becomes <strong>turgid</strong>: the stretched (but inextensible) wall eventually stops further water uptake, protecting the cell from bursting while leaving the tissue rigid."},
+        {type:"heading", text:"Plasmolysis in hypertonic solutions"},
+        {type:"prose", text:"In a <strong>hypertonic</strong> solution, net water outflow concentrates the cell solution; as cytoplasm and vacuole volume fall, the cytoplasm pulls away from parts of the cell wall (though cytoplasmic connections between cells may maintain some contact). The cell becomes soft and <strong>flaccid</strong>, and is said to be <strong>plasmolysed</strong>."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"Turgor pressure, made possible only because of the cell wall, supports plant tissues in the absence of a skeleton or shell &mdash; an important structural role with no animal equivalent. Plasmolysed tissue can survive for a time under hypertonic conditions, but not indefinitely: as the membrane pulls away from the wall, solute can enter the gap between them, and prolonged plasmolysis can damage the membrane."}
       ]
     },
     {
       icon:"book", title:"Medical Applications of Isotonic Solutions",
-      coreIdea:"Fluids introduced directly into the body &mdash; whether an intravenous drip or the preservation solution for a donor organ &mdash; must be isotonic with body tissues, or they will cause exactly the same swelling/shrinking problems osmosis causes in any wall-less cell.",
-      steps:[
-        "An intravenous (IV) drip delivers fluid directly into the circulatory system to treat dehydration (replenishing lost salts and water) and to deliver medicine.",
-        "A sterile saline solution of 0.9% NaCl is safe because it is isotonic with blood plasma and body cells. A hypotonic drip would lower blood plasma's solute concentration, causing red blood cells to swell and burst and reducing oxygen delivery; a hypertonic (high-salt) drip would draw water out of red blood cells, making them move less freely through capillaries and raising the risk of blood clots.",
-        "Donated organs for transplant must likewise be kept bathed in a saline solution isotonic with the cells of the tissue/organ, preventing damage from water uptake or loss while in transit to the recipient."
+      blocks:[
+        {type:"prose", text:"Fluids introduced directly into the body &mdash; whether an intravenous drip or the preservation solution for a donor organ &mdash; must be isotonic with body tissues, or they will cause exactly the same swelling/shrinking problems osmosis causes in any wall-less cell."},
+        {type:"prose", text:"An intravenous (IV) drip delivers fluid directly into the circulatory system to treat dehydration (replenishing lost salts and water) and to deliver medicine."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"A sterile saline solution of 0.9% NaCl is safe because it is isotonic with blood plasma and body cells. A hypotonic drip would lower blood plasma&rsquo;s solute concentration, causing red blood cells to swell and burst and reducing oxygen delivery; a hypertonic (high-salt) drip would draw water out of red blood cells, making them move less freely through capillaries and raising the risk of blood clots."},
+        {type:"prose", text:"Donated organs for transplant must likewise be kept bathed in a saline solution isotonic with the cells of the tissue/organ, preventing damage from water uptake or loss while in transit to the recipient."}
       ]
     },
     {
       icon:"atom", hl:true, title:"Water Potential as Potential Energy per Unit Volume",
-      coreIdea:"Water potential (&Psi;w) quantifies the tendency of water to move from one place to another &mdash; it is the potential energy of water per unit volume, standardized relative to pure water, and it is this quantity (not simply 'concentration') that predicts the direction of osmosis.",
-      steps:[
-        "<strong>Water potential</strong> is used to quantify the tendency of water to move from dilute to concentrated solutions by osmosis. It is the potential energy of water per unit volume.",
-        "Because water movement generates pressure against a membrane, water potential is measured in the SI pressure unit kilopascals (kPa), and is represented by the Greek letter &Psi;w (psi).",
-        "The absolute quantity of potential energy of water cannot be measured directly, so water potential values are standardized relative to pure water at standard atmospheric pressure and 20 &deg;C &mdash; which is given the highest possible water potential, zero."
+      blocks:[
+        {type:"prose", text:"Water potential (&Psi;w) quantifies the tendency of water to move from one place to another &mdash; it is the potential energy of water per unit volume, standardized relative to pure water, and it is this quantity (not simply &lsquo;concentration&rsquo;) that predicts the direction of osmosis."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Water potential (&Psi;w):</strong> the potential energy of water per unit volume, relative to pure water (which is given a water potential of zero); measured in kilopascals (kPa) and denoted &Psi;w (psi)."},
+        {type:"prose", text:"Water potential is used to quantify the tendency of water to move from dilute to concentrated solutions by osmosis. Because water movement generates pressure against a membrane, water potential is measured in the SI pressure unit kilopascals (kPa). The absolute quantity of potential energy of water cannot be measured directly, so water potential values are standardized relative to pure water at standard atmospheric pressure and 20&deg;C &mdash; which is given the highest possible water potential, zero."}
       ]
     },
     {
       icon:"atom", hl:true, title:"Movement of Water From Higher to Lower Water Potential",
-      coreIdea:"Dissolving any solute in water always lowers its water potential below zero (more negative), because the water molecules become tied up in hydrogen bonds around the solute &mdash; so water always moves from higher (less negative) to lower (more negative) water potential.",
-      steps:[
-        "Water with a low solute concentration has a high water potential (high potential energy for movement); water with a high solute concentration has a low water potential (lower potential energy for movement).",
-        "In a solution, water molecules form hydrogen bonds with solute particles, restricting the water molecules' freedom of movement and lowering their potential energy &mdash; so water containing solute always has a lower water potential than pure water.",
-        "Water therefore always moves from a region of higher water potential (lower solute concentration) to a region of lower water potential (higher solute concentration) &mdash; the same net direction as osmosis, now expressed in terms of potential energy rather than concentration alone."
+      blocks:[
+        {type:"prose", text:"Dissolving any solute in water always lowers its water potential below zero (more negative), because the water molecules become tied up in hydrogen bonds around the solute &mdash; so water always moves from higher (less negative) to lower (more negative) water potential."},
+        {type:"prose", text:"Water with a low solute concentration has a high water potential (high potential energy for movement); water with a high solute concentration has a low water potential (lower potential energy for movement). In a solution, water molecules form hydrogen bonds with solute particles, restricting the water molecules&rsquo; freedom of movement and lowering their potential energy &mdash; so water containing solute always has a lower water potential than pure water."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"Water therefore always moves from a region of higher water potential (lower solute concentration) to a region of lower water potential (higher solute concentration) &mdash; the same net direction as osmosis, now expressed in terms of potential energy rather than concentration alone."}
       ],
       side:{
         title:"Water potential becomes more negative with added solute",
@@ -137,20 +134,24 @@
     },
     {
       icon:"book", hl:true, title:"Solute Potential and Pressure Potential",
-      coreIdea:"For a cell with a wall, water potential is made up of two separable components &mdash; solute potential (from dissolved solute) and pressure potential (from physical pressure against the wall) &mdash; which together determine the overall water potential and hence the direction water will move.",
-      steps:[
-        "Water potential can be calculated from the equation &Psi;w = &Psi;s + &Psi;p, where &Psi;w = water potential, &Psi;s = solute potential, and &Psi;p = pressure potential; both components, like &Psi;w, are measured in kPa.",
-        "Because dissolving any solute in pure water always lowers water potential, <strong>solute potential (&Psi;s)</strong> values can only range from zero downwards (zero or negative) &mdash; the highest possible water potential (zero) is that of pure water.",
-        "<strong>Pressure potential (&Psi;p)</strong> is generally positive inside plant, fungal and prokaryote cells, resulting from water molecules pushing against the plasma membrane and cell wall.",
-        "Negative pressure potentials can occur, however, inside xylem vessels, where water (sap) is drawn up the plant under tension rather than being pushed by internal pressure."
+      blocks:[
+        {type:"prose", text:"For a cell with a wall, water potential is made up of two separable components &mdash; solute potential (from dissolved solute) and pressure potential (from physical pressure against the wall) &mdash; which together determine the overall water potential and hence the direction water will move."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "Water potential can be calculated from the equation &Psi;w = &Psi;s + &Psi;p, where &Psi;w = water potential, &Psi;s = solute potential, and &Psi;p = pressure potential; both components, like &Psi;w, are measured in kPa.",
+          "<strong>Solute potential (&Psi;s):</strong> the component of water potential due to dissolved solute; always zero or negative, since adding solute to pure water always lowers water potential.",
+          "<strong>Pressure potential (&Psi;p):</strong> the component of water potential due to physical pressure; generally positive inside walled cells, but can be negative in xylem vessels where sap is under tension."
+        ]},
+        {type:"prose", text:"Because dissolving any solute in pure water always lowers water potential, solute potential values can only range from zero downwards (zero or negative) &mdash; the highest possible water potential (zero) is that of pure water. Pressure potential is generally positive inside plant, fungal and prokaryote cells, resulting from water molecules pushing against the plasma membrane and cell wall. Negative pressure potentials can occur, however, inside xylem vessels, where water (sap) is drawn up the plant under tension rather than being pushed by internal pressure."}
       ]
     },
     {
       icon:"leaf", hl:true, title:"Water Potential and Water Movements in Plant Tissue",
-      coreIdea:"When a walled plant cell is bathed in a hypotonic or hypertonic solution, its solute potential and pressure potential change in opposite ways in each case &mdash; and it is their combined effect that determines whether the cell's overall water potential rises or falls.",
-      steps:[
-        "<strong>In a hypotonic solution:</strong> water moves in, so pressure potential increases (more water molecules exert greater pressure on the membrane); solute concentration (and so the magnitude of the negative solute potential) decreases as water dilutes the existing solute. Overall, water potential increases &mdash; the combined effect of a decreasingly negative solute potential and an increasingly positive pressure potential.",
-        "<strong>In a hypertonic solution:</strong> water moves out, so pressure potential decreases (fewer water molecules, less pressure on the membrane); solute concentration increases, making solute potential more negative. Overall, water potential decreases &mdash; the combined effect of an increasingly negative solute potential and a decreasing pressure potential."
+      blocks:[
+        {type:"prose", text:"When a walled plant cell is bathed in a hypotonic or hypertonic solution, its solute potential and pressure potential change in opposite ways in each case &mdash; and it is their combined effect that determines whether the cell&rsquo;s overall water potential rises or falls."},
+        {type:"heading", text:"In a hypotonic solution"},
+        {type:"prose", text:"Water moves in, so pressure potential increases (more water molecules exert greater pressure on the membrane); solute concentration (and so the magnitude of the negative solute potential) decreases as water dilutes the existing solute. Overall, water potential increases &mdash; the combined effect of a decreasingly negative solute potential and an increasingly positive pressure potential."},
+        {type:"heading", text:"In a hypertonic solution"},
+        {type:"prose", text:"Water moves out, so pressure potential decreases (fewer water molecules, less pressure on the membrane); solute concentration increases, making solute potential more negative. Overall, water potential decreases &mdash; the combined effect of an increasingly negative solute potential and a decreasing pressure potential."}
       ],
       notes:[{label:"Concept: Change", text:"The water potential of a cell will change if it is placed in a hypertonic or hypotonic solution, although the effects on solute potential and pressure potential are different in each case."}]
     }
