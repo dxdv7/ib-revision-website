@@ -1,4 +1,5 @@
 {
+  unified: true,
   subtitle: "Cells, tissues, organs and organ systems form a hierarchy of integrated subsystems whose coordination produces emergent properties. Organs are integrated through hormonal and nervous signalling and the transport of materials, with the brain and spinal cord coordinating reflexes, heart rate, breathing and digestion &mdash; while, at HL, plant shoots integrate light information through phytohormones such as auxin to grow towards the light.",
   keyTerms: [
     {icon:"leaf", color:"green", term:"Integration", def:"The ability of interacting parts of a biological system to perform together and maintain a functioning organism or other biological system."},
@@ -29,15 +30,25 @@
   theories: [
     {
       icon:"leaf", title:"System Integration and the Hierarchy of Subsystems",
-      coreIdea:"Biological systems at every level &mdash; from molecules to ecosystems &mdash; are built from interacting parts, and this integration between parts produces emergent properties that the individual parts do not have alone.",
-      steps:[
-        "System interaction and integration are necessary processes in living systems: coordination is needed between the component parts of a system for it to collectively perform an overall function, from the molecular level up to whole ecosystems.",
-        "These collective, whole-system properties are called <strong>emergent properties</strong> &mdash; a cell&rsquo;s function, for instance, depends on the collective behaviour of many molecular parts acting together, and this behaviour cannot be understood or predicted from the individual parts alone; a holistic approach is needed.",
-        "At the <strong>cellular level</strong>, macromolecules determine a cell&rsquo;s structure and function; nucleotides form nucleic acids containing genes, and interactions between genes and amino acids determine which proteins are formed and the cell&rsquo;s ultimate function.",
-        "At the <strong>tissue level</strong>, cells are arranged into groups of similar cells working together for a particular function &mdash; a single epithelial cell cannot form a protective layer, but many together can. The five tissue types in animals are epithelial (lines organs), connective (connects, separates and supports other tissues), blood (a collection of specialized cells with particular functions), nervous (neurons that receive stimuli and coordinate responses) and muscle (cells that generate motion).",
-        "At the <strong>organ level</strong>, different tissue types combine for a specialized function &mdash; e.g. the small intestine&rsquo;s epithelium, smooth muscle, connective tissue and peritoneum together allow peristalsis, digestion, absorption and transport.",
-        "At the <strong>organ system level</strong>, organs interact &mdash; e.g. the digestive system forms from the mouth, oesophagus, stomach, liver, pancreas, gall bladder, small and large intestine; the stomach alone cannot digest food without enzymes and fluids from the gallbladder, liver and pancreas.",
-        "At the <strong>organism level</strong>, organ systems together create a functioning organism; the whole body cannot function without closely controlled integration at every level, and ultimately genes determine the structure and function of each component and how they interact."
+      blocks:[
+        {type:"prose", text:"System interaction and integration are necessary processes in living systems: coordination is needed between the component parts of a system for it to collectively perform an overall function, from the molecular level up to whole ecosystems."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Emergent property:</strong> a property gained by a complex system when its individual parts work together &mdash; the collective behaviour of the whole cannot be predicted from the parts alone."},
+        {type:"prose", text:"A cell&rsquo;s function, for instance, depends on the collective behaviour of many molecular parts acting together, and this behaviour cannot be understood or predicted from the individual parts alone; a holistic approach is needed."},
+        {type:"heading", text:"Cellular level"},
+        {type:"prose", text:"Macromolecules determine a cell&rsquo;s structure and function; nucleotides form nucleic acids containing genes, and interactions between genes and amino acids determine which proteins are formed and the cell&rsquo;s ultimate function."},
+        {type:"heading", text:"Tissue level"},
+        {type:"prose", text:"Cells are arranged into groups of similar cells working together for a particular function &mdash; a single epithelial cell cannot form a protective layer, but many together can."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "<strong>Epithelial</strong> tissue &mdash; lines organs.",
+          "<strong>Connective</strong> tissue &mdash; connects, separates and supports other tissues.",
+          "<strong>Blood</strong> &mdash; a collection of specialized cells with particular functions.",
+          "<strong>Nervous</strong> tissue &mdash; neurons that receive stimuli and coordinate responses.",
+          "<strong>Muscle</strong> &mdash; cells that generate motion."
+        ]},
+        {type:"heading", text:"Organ, organ system and organism levels"},
+        {type:"prose", text:"At the organ level, different tissue types combine for a specialized function &mdash; e.g. the small intestine&rsquo;s epithelium, smooth muscle, connective tissue and peritoneum together allow peristalsis, digestion, absorption and transport."},
+        {type:"prose", text:"At the organ system level, organs interact &mdash; e.g. the digestive system forms from the mouth, oesophagus, stomach, liver, pancreas, gall bladder, small and large intestine; the stomach alone cannot digest food without enzymes and fluids from the gallbladder, liver and pancreas."},
+        {type:"prose", text:"At the organism level, organ systems together create a functioning organism; the whole body cannot function without closely controlled integration at every level, and ultimately genes determine the structure and function of each component and how they interact."}
       ],
       side:{
         title:"Hierarchy of subsystems in the cheetah",
@@ -56,12 +67,23 @@
     },
     {
       icon:"atom", title:"Hormonal Integration: The Endocrine System",
-      coreIdea:"Organs are integrated across the body by hormones &mdash; chemical messengers released by ductless endocrine glands into the blood, which act only at specific target organs, working quite differently from nervous signalling but coordinated with it by the brain.",
-      steps:[
-        "<strong>Hormones</strong> are produced and secreted by the cells of ductless, or <strong>endocrine</strong>, glands (&lsquo;endo&rsquo; = within, &lsquo;crine&rsquo; = secreting); the whole network of these glands is the <strong>endocrine system</strong>. Hormones are transported in the bloodstream but act only at specific target organs.",
-        "Although present in small quantities, hormones are highly effective messengers that cause specific changes to the metabolic reactions of their target organs; because they circulate only briefly &mdash; broken down in the liver and excreted via the kidneys &mdash; long-acting hormones must be secreted continuously to remain effective. Insulin, released from the pancreas to regulate blood glucose, is one example.",
-        "The major endocrine glands include the hypothalamus and pituitary gland (base of brain), the pineal gland (secretes melatonin), the thyroid gland, the thymus gland, the adrenal glands (secrete epinephrine), the pancreas (islets of Langerhans, secreting insulin and glucagon) and the gonads (secrete the sex hormones oestradiol and testosterone).",
-        "Hormonal control differs greatly from nervous control: nervous signalling is quick and precise, while hormones mostly cause specific, often slower changes in metabolism and development over an extended period of time &mdash; yet both systems are coordinated together by the brain."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Hormone:</strong> a chemical messenger produced and secreted by the cells of a ductless (endocrine) gland, carried in the blood to act at specific target organs.",
+          "<strong>Endocrine gland:</strong> a ductless gland that releases hormone secretions directly into the blood plasma. <strong>Endocrine system:</strong> the whole network of such glands throughout the body."
+        ]},
+        {type:"prose", text:"Hormones are produced and secreted by the cells of ductless, or endocrine, glands (&lsquo;endo&rsquo; = within, &lsquo;crine&rsquo; = secreting); the whole network of these glands is the endocrine system. Hormones are transported in the bloodstream but act only at specific target organs."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Although present in small quantities, hormones are highly effective messengers that cause specific changes to the metabolic reactions of their target organs; because they circulate only briefly &mdash; broken down in the liver and excreted via the kidneys &mdash; long-acting hormones must be secreted continuously to remain effective. Insulin, released from the pancreas to regulate blood glucose, is one example."},
+        {type:"heading", text:"The major endocrine glands"},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "The <strong>hypothalamus and pituitary gland</strong> (base of brain).",
+          "The <strong>pineal gland</strong> (secretes melatonin).",
+          "The <strong>thyroid gland</strong> and the <strong>thymus gland</strong>.",
+          "The <strong>adrenal glands</strong> (secrete epinephrine).",
+          "The <strong>pancreas</strong> (islets of Langerhans, secreting insulin and glucagon).",
+          "The <strong>gonads</strong> (secrete the sex hormones oestradiol and testosterone)."
+        ]},
+        {type:"prose", text:"Hormonal control differs greatly from nervous control: nervous signalling is quick and precise, while hormones mostly cause specific, often slower changes in metabolism and development over an extended period of time &mdash; yet both systems are coordinated together by the brain."}
       ],
       side:{
         title:"Nervous system vs endocrine system",
@@ -82,22 +104,31 @@
     },
     {
       icon:"book", title:"Transport of Materials and Energy Between Organs",
-      coreIdea:"Organs are also integrated through the blood system&rsquo;s transport of materials and energy &mdash; digested nutrients, respiratory gases and waste products are all carried between organs in the blood plasma or red blood cells.",
-      steps:[
-        "<strong>Assimilation</strong> is the uptake of nutrients into cells and their use to provide energy and synthesize new biological molecules; absorbed nutrients are transported away from the intestine in the blood to cells throughout the body.",
-        "Monosaccharide sugars (mainly glucose) pass from the small intestine&rsquo;s epithelial cells into the capillary network by facilitated diffusion, dissolve in blood plasma, and are carried to the liver (which maintains a constant blood sugar level) and then to the rest of the body.",
-        "Amino acids are actively transported into intestinal epithelial cells by membrane protein pumps, then diffuse into capillaries and are carried in the plasma to the liver, contributing to the amino acid pool from which new proteins are made throughout the body.",
-        "Short-chain fatty acids and glycerol are absorbed by simple diffusion into epithelial cells and diffuse out into capillaries, transported in the blood like glucose and amino acids. Long-chain fatty acids, however, are recombined with glycerol into triglycerides, which are hydrophobic and so are coated with proteins in the smooth endoplasmic reticulum before entering the lymph system, which carries them into the blood circulation near the heart.",
-        "Waste products are transported too: urea, formed by the breakdown of amino acids in the liver, is toxic and is filtered out by the kidneys; carbon dioxide, a respiration waste product, is carried by both plasma and red blood cells and removed at the lungs. Oxygen, meanwhile, combines with haemoglobin in red blood cells and is transported to cells for aerobic respiration.",
-        "The hepatic portal vein carries the products of digestion directly to the liver, where glucose may be converted to glycogen; excess blood glucose may also be stored as glycogen in muscle cells. Brain cells, however, cannot store glycogen and depend on a continuous glucose supply from the blood."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Assimilation:</strong> the uptake of nutrients into cells and their use to provide energy and to synthesize new biological molecules."},
+        {type:"prose", text:"Absorbed nutrients are transported away from the intestine in the blood to cells throughout the body."},
+        {type:"heading", text:"Absorption of nutrients"},
+        {type:"prose", text:"Monosaccharide sugars (mainly glucose) pass from the small intestine&rsquo;s epithelial cells into the capillary network by facilitated diffusion, dissolve in blood plasma, and are carried to the liver (which maintains a constant blood sugar level) and then to the rest of the body."},
+        {type:"prose", text:"Amino acids are actively transported into intestinal epithelial cells by membrane protein pumps, then diffuse into capillaries and are carried in the plasma to the liver, contributing to the amino acid pool from which new proteins are made throughout the body."},
+        {type:"prose", text:"Short-chain fatty acids and glycerol are absorbed by simple diffusion into epithelial cells and diffuse out into capillaries, transported in the blood like glucose and amino acids. Long-chain fatty acids, however, are recombined with glycerol into triglycerides, which are hydrophobic and so are coated with proteins in the smooth endoplasmic reticulum before entering the lymph system, which carries them into the blood circulation near the heart."},
+        {type:"heading", text:"Waste products and storage"},
+        {type:"prose", text:"Waste products are transported too: urea, formed by the breakdown of amino acids in the liver, is toxic and is filtered out by the kidneys; carbon dioxide, a respiration waste product, is carried by both plasma and red blood cells and removed at the lungs. Oxygen, meanwhile, combines with haemoglobin in red blood cells and is transported to cells for aerobic respiration."},
+        {type:"prose", text:"The hepatic portal vein carries the products of digestion directly to the liver, where glucose may be converted to glycogen; excess blood glucose may also be stored as glycogen in muscle cells. Brain cells, however, cannot store glycogen and depend on a continuous glucose supply from the blood."}
       ]
     },
     {
       icon:"leaf", title:"The Brain as a Central Information Integration Organ",
-      coreIdea:"The brain integrates almost all conscious body function by receiving sensory input, correlating it in association centres, and sending output to effectors &mdash; and is also the seat of memory, personality, emotion and abstract reasoning.",
-      steps:[
-        "Apart from functions under the control of simple spinal reflexes, the brain controls the body by: receiving impulses from sensory receptors; integrating and correlating this incoming information in association centres; sending impulses to effector organs (muscles and glands), causing bodily responses; storing information as an accessible memory bank; and initiating impulses from its own self-contained activity.",
-        "The <strong>cerebral hemispheres</strong> &mdash; an outgrowth of the forebrain, made of densely packed neurons (grey matter) and myelinated fibres (white matter) &mdash; make up a large proportion of the human brain and are more highly developed in humans than in any other animal."
+      blocks:[
+        {type:"prose", text:"Apart from functions under the control of simple spinal reflexes, the brain controls the body in several ways."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "Receiving impulses from sensory receptors.",
+          "Integrating and correlating this incoming information in association centres.",
+          "Sending impulses to effector organs (muscles and glands), causing bodily responses.",
+          "Storing information as an accessible memory bank.",
+          "Initiating impulses from its own self-contained activity."
+        ]},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Cerebral hemispheres</strong> (cerebrum): the bulk of the human brain, formed by outgrowth of part of the forebrain during development, made of densely packed neurons (grey matter) and myelinated nerve fibres (white matter)."},
+        {type:"prose", text:"The cerebral hemispheres make up a large proportion of the human brain and are more highly developed in humans than in any other animal."}
       ],
       notes:[
         {label:"Nature of science &mdash; the case of Henry Molaison (HM)", text:"Research into higher brain functions such as memory and learning has relied on cooperation between scientists. Patient HM developed severe amnesia after surgery removed most of his hippocampus; decades of MRI scans, psychological experiments, and post-mortem study of over 2000 brain slices (now held at The Brain Observatory, UC San Diego) have been shared and built on by many researchers &mdash; illustrating how collaboration between groups of scientists is essential to progressing scientific knowledge."},
@@ -106,15 +137,16 @@
     },
     {
       icon:"atom", title:"Spinal Cord Integration and the Sensory-Motor Pathway",
-      coreIdea:"The spinal cord independently integrates unconscious reflexes and autonomic functions, while a full sensory-to-motor pathway links a receptor all the way to an effector through the spinal cord and brain.",
-      steps:[
-        "The spinal cord carries impulses between the brain and the rest of the body, and also controls reflexes without input from the brain &mdash; impulses pass from receptors along sensory neurons and synapse with interneurons that send impulses along motor neurons directly to effectors. Autonomic functions controlled via the spinal cord (involuntary, unconscious) include sweating of the lower body, defecation and urination.",
-        "As a pen is touched, a sensory receptor in the finger skin converts touch into an electrical impulse (action potential) in the axon of a sensory neuron, which conveys the message to the CNS along its axon to the spinal cord and brain.",
-        "At a synapse, the sensory neuron releases a neurotransmitter that generates an action potential in an interneuron; this process &mdash; neurotransmitter release followed by a new action potential &mdash; repeats as interneurons in higher brain regions, up to the cerebral cortex, are activated in turn.",
-        "Once interneurons in the <strong>cerebral cortex</strong> are activated, perception occurs and the surface of the pen is consciously sensed &mdash; conscious awareness of a sensation is primarily a function of the cerebral cortex.",
-        "For the motor output, a stimulus in the brain forms an action potential in an <strong>upper motor neuron</strong>, which travels down its axon and releases neurotransmitter onto a <strong>lower motor neuron</strong> farther down the CNS.",
-        "The lower motor neuron&rsquo;s action potential releases neurotransmitter at neuromuscular junctions with skeletal muscle fibres, generating muscle action potentials that cause the fibres to contract &mdash; allowing the fingers to write.",
-        "Because each side of the brain controls the opposite side of the body, the axons of upper motor neurons must bifurcate and cross over to the other side, which occurs just before the junction between the medulla and the spinal cord."
+      blocks:[
+        {type:"prose", text:"The spinal cord carries impulses between the brain and the rest of the body, and also controls reflexes without input from the brain &mdash; impulses pass from receptors along sensory neurons and synapse with interneurons that send impulses along motor neurons directly to effectors. Autonomic functions controlled via the spinal cord (involuntary, unconscious) include sweating of the lower body, defecation and urination."},
+        {type:"heading", text:"Sensory pathway"},
+        {type:"prose", text:"As a pen is touched, a sensory receptor in the finger skin converts touch into an electrical impulse (action potential) in the axon of a sensory neuron, which conveys the message to the CNS along its axon to the spinal cord and brain."},
+        {type:"prose", text:"At a synapse, the sensory neuron releases a neurotransmitter that generates an action potential in an interneuron; this process &mdash; neurotransmitter release followed by a new action potential &mdash; repeats as interneurons in higher brain regions, up to the cerebral cortex, are activated in turn."},
+        {type:"prose", text:"Once interneurons in the <strong>cerebral cortex</strong> are activated, perception occurs and the surface of the pen is consciously sensed &mdash; conscious awareness of a sensation is primarily a function of the cerebral cortex."},
+        {type:"heading", text:"Motor pathway"},
+        {type:"prose", text:"For the motor output, a stimulus in the brain forms an action potential in an <strong>upper motor neuron</strong>, which travels down its axon and releases neurotransmitter onto a <strong>lower motor neuron</strong> farther down the CNS."},
+        {type:"prose", text:"The lower motor neuron&rsquo;s action potential releases neurotransmitter at neuromuscular junctions with skeletal muscle fibres, generating muscle action potentials that cause the fibres to contract &mdash; allowing the fingers to write."},
+        {type:"prose", text:"Because each side of the brain controls the opposite side of the body, the axons of upper motor neurons must bifurcate and cross over to the other side, which occurs just before the junction between the medulla and the spinal cord."}
       ],
       notes:[
         {label:"Common mistake", text:"Do not confuse a <strong>neuron</strong> (a single specialized nerve cell) with a <strong>nerve</strong> (a bundle of many neurons&rsquo; axons wrapped in connective tissue). Large nerves, such as the sciatic nerve running from the lower back to the feet, contain tens of thousands of axons; each individual fibre is wrapped in <strong>endoneurium</strong>, each bundle of fibres in <strong>perineurium</strong>, and the whole nerve &mdash; usually &mdash; in an outer <strong>epineurium</strong>."}
@@ -122,22 +154,27 @@
     },
     {
       icon:"leaf", title:"Pain Reflex Arcs",
-      coreIdea:"A reflex arc is a fixed neural pathway that produces the same immediate, involuntary response to a given stimulus every time, protecting the body from harm without waiting for conscious decision-making.",
-      steps:[
-        "A <strong>reflex arc</strong> comprises the neurons that mediate a reflex: a stimulus (e.g. mechanical pressure or heat) acts on a sense organ/receptor, which sends an impulse via a sensory neuron to a relay neuron (interneuron), which connects to a motor neuron that carries the impulse to an effector organ, such as a muscle.",
-        "The pain reflex arc specifically has a single relay neuron in the grey matter of the spinal cord and a free sensory nerve ending acting as the pain receptor. A classic example is withdrawing a hand from a very hot object: the receptor in the skin generates an impulse that travels via the sensory neuron&rsquo;s dendron and cell body into the spinal cord, synapses with the relay neuron, which synapses with a motor neuron whose axon leaves via the ventral root and reaches the biceps (the flexor muscle, the effector), pulling the hand away from the heat.",
-        "Because the relay neuron also connects to and from the brain, impulses from a reflex arc also travel to the brain (giving sensory awareness, pain and memory), and impulses may originate in the brain and travel to effector organs (e.g. a conscious decision to run the burned hand under cold water).",
-        "Reflex actions may even be overruled and modified by the brain &mdash; for instance, choosing not to drop an extremely hot but valuable object despite the pain. The nervous system therefore has roles both in quick, precise reflex communication between sense organs and effectors, and in the complex, brain-driven behaviour patterns animals display."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Reflex arc:</strong> the fixed neural pathway &mdash; receptor &rarr; sensory neuron &rarr; relay neuron &rarr; motor neuron &rarr; effector &mdash; that produces the same fast, involuntary response every time a given stimulus occurs."},
+        {type:"prose", text:"A reflex arc comprises the neurons that mediate a reflex: a stimulus (e.g. mechanical pressure or heat) acts on a sense organ/receptor, which sends an impulse via a sensory neuron to a relay neuron (interneuron), which connects to a motor neuron that carries the impulse to an effector organ, such as a muscle."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"The pain reflex arc specifically has a single relay neuron in the grey matter of the spinal cord and a free sensory nerve ending acting as the pain receptor. A classic example is withdrawing a hand from a very hot object: the receptor in the skin generates an impulse that travels via the sensory neuron&rsquo;s dendron and cell body into the spinal cord, synapses with the relay neuron, which synapses with a motor neuron whose axon leaves via the ventral root and reaches the biceps (the flexor muscle, the effector), pulling the hand away from the heat."},
+        {type:"prose", text:"Because the relay neuron also connects to and from the brain, impulses from a reflex arc also travel to the brain (giving sensory awareness, pain and memory), and impulses may originate in the brain and travel to effector organs (e.g. a conscious decision to run the burned hand under cold water)."},
+        {type:"prose", text:"Reflex actions may even be overruled and modified by the brain &mdash; for instance, choosing not to drop an extremely hot but valuable object despite the pain. The nervous system therefore has roles both in quick, precise reflex communication between sense organs and effectors, and in the complex, brain-driven behaviour patterns animals display."}
       ]
     },
     {
       icon:"book", title:"The Cerebellum and Circadian Rhythms",
-      coreIdea:"The cerebellum fine-tunes movement and balance without initiating it, while the pineal gland&rsquo;s secretion of melatonin &mdash; set by the light&ndash;dark cycle &mdash; coordinates the body&rsquo;s roughly 24-hour circadian rhythms.",
-      steps:[
-        "The <strong>cerebellum</strong>, part of the hindbrain, has an outer surface layer of grey matter where involuntary movements of posture and balance are controlled, and where precise, voluntary manipulations of hand movement, speech and writing are coordinated (rather than initiated). It receives input from receptors and adjusts commands to motor neurons to maintain balance, fine-tuning movement without starting it.",
-        "Many animals, including humans, show daily <strong>circadian rhythms</strong> (&lsquo;about a day&rsquo;) in physical activity, sleep, body temperature and hormone secretion, controlled by a biological clock in the brain that is coordinated with the external cycle of light and dark.",
-        "<strong>Melatonin</strong>, produced in the pineal gland, contributes to setting this biological clock: more is released in darkness (and in the longer nights of winter), while light decreases melatonin production and so prepares the body to be awake. Seasonal affective disorder (&lsquo;winter depression&rsquo;, SAD) is associated with higher-than-normal melatonin levels.",
-        "Light affects the biological clock, but not immediately &mdash; when light&ndash;dark patterns change abruptly, for example after long-haul flights across time zones (&lsquo;jet lag&rsquo;) or with frequently changing shift-work patterns, it can take several days for sleep and activity patterns to return to normal."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Cerebellum:</strong> part of the hindbrain, with an outer layer of grey matter, that fine-tunes posture, balance and precise voluntary movement without initiating it."},
+        {type:"prose", text:"The cerebellum&rsquo;s outer surface layer of grey matter controls involuntary movements of posture and balance, and coordinates (rather than initiates) precise, voluntary manipulations of hand movement, speech and writing. It receives input from receptors and adjusts commands to motor neurons to maintain balance, fine-tuning movement without starting it."},
+        {type:"heading", text:"Circadian rhythms and melatonin"},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Circadian rhythm:</strong> physical, mental and behavioural changes that follow an approximately 24-hour cycle, coordinated by a biological clock in the brain with the cycle of light and dark.",
+          "<strong>Melatonin:</strong> a hormone produced by the pineal gland in response to darkness; it coordinates the timing of circadian rhythms and sleep."
+        ]},
+        {type:"prose", text:"Many animals, including humans, show daily circadian rhythms (&lsquo;about a day&rsquo;) in physical activity, sleep, body temperature and hormone secretion, controlled by a biological clock in the brain that is coordinated with the external cycle of light and dark."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"More melatonin is released in darkness (and in the longer nights of winter), while light decreases melatonin production and so prepares the body to be awake. Seasonal affective disorder (&lsquo;winter depression&rsquo;, SAD) is associated with higher-than-normal melatonin levels."},
+        {type:"prose", text:"Light affects the biological clock, but not immediately &mdash; when light&ndash;dark patterns change abruptly, for example after long-haul flights across time zones (&lsquo;jet lag&rsquo;) or with frequently changing shift-work patterns, it can take several days for sleep and activity patterns to return to normal."}
       ],
       notes:[
         {label:"Described figure &mdash; the 24-hour clock (Fig. C3.1.10)", text:"Around a 24-hour clock face, physiology cycles with sleep and waking: melatonin secretion starts and stops at particular points; the deepest sleep, lowest heart rate and lowest body temperature occur in the early hours; the sharpest rise in blood pressure, highest alertness and highest risk of myocardial infarction cluster around waking; the best coordination, fastest reaction time and greatest cardiovascular/muscle strength occur later in the day; and the highest blood pressure and body temperature occur in the early evening, before working ability decreases towards night."}
@@ -154,24 +191,32 @@
     },
     {
       icon:"atom", title:"Epinephrine and Hypothalamic-Pituitary Control",
-      coreIdea:"Epinephrine from the adrenal glands prepares the body for vigorous activity, while the hypothalamus and pituitary gland together form the body&rsquo;s central hormonal control axis, linking the nervous and endocrine systems.",
-      steps:[
-        "<strong>Epinephrine</strong> (adrenaline) is secreted by the adrenal glands when the body is under stress, to prepare it for vigorous activity. Carried in the blood, it causes the heart&rsquo;s pacemaker to increase heart rate, delivering more oxygen and glucose to tissues (especially muscle) and enabling increased aerobic respiration and ATP production ready for intense muscle contraction.",
-        "As a peptide hormone circulating in the blood, epinephrine also stimulates liver cells to convert stored glycogen to glucose; this glucose passes into the blood, raising blood glucose levels and supporting the elevated rate of respiration in muscle and elsewhere &mdash; together producing the &lsquo;fight or flight&rsquo; response (raised blood glucose, heart rate and breathing rate).",
-        "The <strong>hypothalamus</strong>, exceptionally well supplied with blood vessels and the site of special neurons, constantly monitors blood composition and receives sensory data (via sensory neurons and the spinal cord) from receptors in key organs, allowing it to regulate activities that maintain a constant internal environment (homeostasis) &mdash; for example, secreting a hormone that controls water reabsorption in the kidneys, and regulating the pineal gland&rsquo;s role in the wake&ndash;sleep cycle.",
-        "The <strong>pituitary gland</strong>, lying below the hypothalamus and connected to it, is often called the &lsquo;master&rsquo; endocrine gland, but its own hormone release is largely controlled by the hypothalamus &mdash; via hormones released from hypothalamic neurosecretory cells into a portal vein running to the pituitary, and via nerve impulses through connecting neurons.",
-        "Hormones secreted by the pituitary gland control growth, developmental changes in tissues and organs, reproduction and homeostasis. One part of the pituitary does not synthesize its own hormones but stores and releases two hormones made in the hypothalamus: oxytocin and antidiuretic hormone (ADH)."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Epinephrine</strong> (adrenaline): a hormone secreted by the adrenal medulla under stress; it increases heart rate and breathing rate and stimulates the breakdown of glycogen to glucose, preparing the body for vigorous (&lsquo;fight or flight&rsquo;) activity."},
+        {type:"prose", text:"Epinephrine is secreted by the adrenal glands when the body is under stress, to prepare it for vigorous activity. Carried in the blood, it causes the heart&rsquo;s pacemaker to increase heart rate, delivering more oxygen and glucose to tissues (especially muscle) and enabling increased aerobic respiration and ATP production ready for intense muscle contraction."},
+        {type:"prose", text:"As a peptide hormone circulating in the blood, epinephrine also stimulates liver cells to convert stored glycogen to glucose; this glucose passes into the blood, raising blood glucose levels and supporting the elevated rate of respiration in muscle and elsewhere &mdash; together producing the &lsquo;fight or flight&rsquo; response (raised blood glucose, heart rate and breathing rate)."},
+        {type:"heading", text:"The hypothalamus and pituitary gland"},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Hypothalamus:</strong> a structure at the base of the brain that monitors blood composition and sensory input, acting as a control centre for the autonomic nervous system and as the source of hormones controlling the pituitary gland.",
+          "<strong>Pituitary gland:</strong> the &lsquo;master&rsquo; endocrine gland attached to the underside of the brain; its own hormone release is largely controlled by the hypothalamus, via a portal blood vessel and via connecting neurons."
+        ]},
+        {type:"prose", text:"The hypothalamus, exceptionally well supplied with blood vessels and the site of special neurons, constantly monitors blood composition and receives sensory data (via sensory neurons and the spinal cord) from receptors in key organs, allowing it to regulate activities that maintain a constant internal environment (homeostasis) &mdash; for example, secreting a hormone that controls water reabsorption in the kidneys, and regulating the pineal gland&rsquo;s role in the wake&ndash;sleep cycle."},
+        {type:"prose", text:"The pituitary gland, lying below the hypothalamus and connected to it, is often called the &lsquo;master&rsquo; endocrine gland, but its own hormone release is largely controlled by the hypothalamus &mdash; via hormones released from hypothalamic neurosecretory cells into a portal vein running to the pituitary, and via nerve impulses through connecting neurons."},
+        {type:"prose", text:"Hormones secreted by the pituitary gland control growth, developmental changes in tissues and organs, reproduction and homeostasis. One part of the pituitary does not synthesize its own hormones but stores and releases two hormones made in the hypothalamus: oxytocin and antidiuretic hormone (ADH)."}
       ]
     },
     {
       icon:"atom", title:"Feedback Control of Heart Rate and Ventilation Rate",
-      coreIdea:"Both heart rate and ventilation rate are adjusted automatically by reflex action, using feedback from baroreceptors and chemoreceptors to control centres in the medulla that act through antagonistic sympathetic and parasympathetic pathways.",
-      steps:[
-        "The heart receives impulses from the cardiovascular centre in the medulla via two antagonistic nerves: a sympathetic nerve, which speeds up the heart (releasing <strong>norepinephrine</strong> at the sinoatrial, SA, node), and a branch of the vagus nerve (parasympathetic), which slows the heart down (releasing <strong>acetylcholine</strong>).",
-        "<strong>Baroreceptors</strong> (stretch receptors) in the walls of the aorta, the carotid arteries and the right atrium detect changes in blood pressure: when pressure is high, heart rate is lowered via the vagus nerve; when pressure is low, heart rate is increased via the sympathetic nerve.",
-        "<strong>Chemoreceptors</strong> in the carotid arteries, the aorta and the brain detect blood carbon dioxide concentration and pH. Raised CO<sub>2</sub> (or lowered pH) signals the cardiovascular centre to activate the sympathetic nervous system, increasing the rate of SA node firing and so heart rate and stroke volume &mdash; the resulting faster blood flow carries CO<sub>2</sub> to the lungs more quickly, where it diffuses out into the alveoli, lowering CO<sub>2</sub> and restoring blood pH.",
-        "In the medulla, the <strong>respiratory centre</strong> contains an inspiratory centre (sends impulses to increase the rate and depth of breathing) and an expiratory centre (inhibits the inspiratory centre and stimulates expiration); alternating impulses between the two produce automatic, rhythmic breathing, adjustable consciously via the cerebral hemispheres (e.g. before singing or playing a wind instrument).",
-        "During strenuous exercise, rising blood CO<sub>2</sub> (detected as a fall in pH by chemoreceptors acting as hydrogen-ion detectors) sends impulses to the inspiratory centre, which in turn sends more impulses via the phrenic nerve (diaphragm) and other nerves (intercostal muscles), increasing their contraction rate and so breathing rate and depth &mdash; exchanging more CO<sub>2</sub> at the alveoli for exhalation. Lowered blood oxygen is also detected, to a lesser extent. After exercise, falling CO<sub>2</sub> and rising O<sub>2</sub> are detected and ventilation rate is adjusted back down."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Sympathetic &amp; parasympathetic nervous system:</strong> antagonistic branches of the autonomic nervous system: the sympathetic nerve speeds up the heart (releasing norepinephrine); the parasympathetic vagus nerve slows it down (releasing acetylcholine)."},
+        {type:"prose", text:"The heart receives impulses from the cardiovascular centre in the medulla via these two antagonistic nerves, acting at the sinoatrial (SA) node."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Baroreceptor &amp; chemoreceptor:</strong> baroreceptor &mdash; a stretch receptor in a blood vessel wall that monitors blood pressure. Chemoreceptor &mdash; a receptor that monitors blood pH and the concentration of carbon dioxide (and oxygen) in the blood."},
+        {type:"prose", text:"Baroreceptors in the walls of the aorta, the carotid arteries and the right atrium detect changes in blood pressure: when pressure is high, heart rate is lowered via the vagus nerve; when pressure is low, heart rate is increased via the sympathetic nerve."},
+        {type:"prose", text:"Chemoreceptors in the carotid arteries, the aorta and the brain detect blood carbon dioxide concentration and pH. Raised CO<sub>2</sub> (or lowered pH) signals the cardiovascular centre to activate the sympathetic nervous system, increasing the rate of SA node firing and so heart rate and stroke volume &mdash; the resulting faster blood flow carries CO<sub>2</sub> to the lungs more quickly, where it diffuses out into the alveoli, lowering CO<sub>2</sub> and restoring blood pH."},
+        {type:"heading", text:"The respiratory centre"},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Respiratory centre:</strong> a region of the medulla, containing an inspiratory centre and an expiratory centre, that automatically and involuntarily controls breathing rate and depth."},
+        {type:"prose", text:"In the medulla, the inspiratory centre sends impulses to increase the rate and depth of breathing, while the expiratory centre inhibits the inspiratory centre and stimulates expiration; alternating impulses between the two produce automatic, rhythmic breathing, adjustable consciously via the cerebral hemispheres (e.g. before singing or playing a wind instrument)."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"During strenuous exercise, rising blood CO<sub>2</sub> (detected as a fall in pH by chemoreceptors acting as hydrogen-ion detectors) sends impulses to the inspiratory centre, which in turn sends more impulses via the phrenic nerve (diaphragm) and other nerves (intercostal muscles), increasing their contraction rate and so breathing rate and depth &mdash; exchanging more CO<sub>2</sub> at the alveoli for exhalation. Lowered blood oxygen is also detected, to a lesser extent. After exercise, falling CO<sub>2</sub> and rising O<sub>2</sub> are detected and ventilation rate is adjusted back down."}
       ],
       side:{
         title:"Resting ventilation values",
@@ -188,12 +233,13 @@
     },
     {
       icon:"leaf", title:"Control of Peristalsis by the CNS and Enteric Nervous System",
-      coreIdea:"Movement of food through the gut is coordinated by the enteric nervous system (ENS), a self-contained part of the autonomic nervous system embedded in the gut wall, working together with the CNS.",
-      steps:[
-        "The peripheral nervous system contains the <strong>autonomic nervous system (ANS)</strong> &mdash; &lsquo;autonomic&rsquo; meaning self-governing &mdash; which controls internal body structures and activities that are mostly under unconscious control (e.g. heart rate, ventilation rate), more or less without our knowledge.",
-        "The <strong>enteric nervous system (ENS)</strong>, part of the ANS, is a network of sensory neurons, motor neurons and interneurons embedded in the wall of the gastrointestinal system, extending from the lower third of the oesophagus to the rectum.",
-        "Throughout the gut, waves of contraction and relaxation of the circular and longitudinal muscles of the gut wall propel food along &mdash; a process called <strong>peristalsis</strong>. Gut muscles are involuntary: swallowing food and removing faeces are under voluntary CNS control, but peristalsis between these two points is under involuntary ENS control.",
-        "Digestion is coordinated through the integration of multiple signals from both the ENS and the CNS, with neural signals passing between distinct regions of the gut to coordinate the passage of material through it."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Autonomic nervous system</strong> (ANS): the involuntary (&lsquo;self-governing&rsquo;) nervous system. <strong>Enteric nervous system</strong> (ENS): the part of the ANS embedded in the gut wall that controls digestion."},
+        {type:"prose", text:"The peripheral nervous system contains the autonomic nervous system, which controls internal body structures and activities that are mostly under unconscious control (e.g. heart rate, ventilation rate), more or less without our knowledge."},
+        {type:"prose", text:"The enteric nervous system, part of the ANS, is a network of sensory neurons, motor neurons and interneurons embedded in the wall of the gastrointestinal system, extending from the lower third of the oesophagus to the rectum."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Peristalsis:</strong> waves of muscular contraction and relaxation passing down the gut wall, propelling food along the alimentary canal."},
+        {type:"prose", text:"Gut muscles are involuntary: swallowing food and removing faeces are under voluntary CNS control, but peristalsis between these two points is under involuntary ENS control."},
+        {type:"prose", text:"Digestion is coordinated through the integration of multiple signals from both the ENS and the CNS, with neural signals passing between distinct regions of the gut to coordinate the passage of material through it."}
       ],
       notes:[
         {label:"Common mistake", text:"Do not confuse &lsquo;enteric&rsquo; and &lsquo;autonomic&rsquo;. Both refer to the involuntary nervous system, but the enteric nervous system is specifically the part serving the gastrointestinal system."}
@@ -201,13 +247,16 @@
     },
     {
       icon:"leaf", hl:true, title:"Tropic Responses and Positive Phototropism",
-      coreIdea:"Unlike animals, plants have no nervous system or muscle tissue, so their main response to the environment is directional growth; classic decapitation experiments on seedlings reveal that positive phototropism (growth towards light) is caused by a diffusible chemical signal from the shoot tip, not by light acting directly on the stem.",
-      steps:[
-        "Most plants are sessile and have no nervous system or muscle tissue, so fast movements are rare; their main response to the environment is a change in growth. A plant organ&rsquo;s directional growth response to a stimulus is called a <strong>tropism</strong> (tropic response); the response to light specifically is <strong>phototropism</strong>, and growth towards the light source is <strong>positive phototropism</strong> &mdash; orientating leaves to maximize photosynthesis.",
-        "Classic experiments on seedling coleoptiles isolate the mechanism: an intact shoot bends towards unilateral light, and a shoot with its tip covered by a transparent cap still bends &mdash; but a shoot with its tip covered by opaque black paper does not bend, showing that the tip itself detects the light.",
-        "A shoot with its tip removed entirely does not bend; nor does one with the tip removed and replaced on an impermeable (non-diffusible) block. But a shoot with the tip removed and replaced on an agar block (which does allow diffusion) does bend towards the light &mdash; showing that a diffusible chemical released by the tip, not the tip&rsquo;s tissue itself, is responsible for the response.",
-        "A third experiment confirms the chemical explanation directly: a tip is cut off, placed on an agar block, and that block is then placed asymmetrically on one side of a decapitated shoot kept in even, all-round light &mdash; and the shoot bends even though lighting is uniform, showing that an uneven distribution of the chemical itself, not light acting directly on the stem, causes the differential growth.",
-        "The explanation: the shoot tip produces a growth substance that is transported down the shoot. Under even illumination, both sides of the shoot receive equal amounts of the substance and elongate at the same rate, so the shoot grows straight up; under unilateral light, more of the growth substance is redistributed to the shaded side, so cells there elongate faster than the less-stimulated, more slowly elongating cells on the illuminated side &mdash; bending the shoot towards the light."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Tropism</strong> (tropic response): a plant growth response in which the direction of growth is determined by the direction of a stimulus. <strong>Phototropism:</strong> a tropic response to light; growth towards it is &lsquo;positive&rsquo; phototropism."},
+        {type:"prose", text:"Most plants are sessile and have no nervous system or muscle tissue, so fast movements are rare; their main response to the environment is a change in growth. Positive phototropism &mdash; growth towards a light source &mdash; orientates leaves to maximize photosynthesis."},
+        {type:"heading", text:"Locating the site of light detection"},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Classic experiments on seedling coleoptiles isolate the mechanism: an intact shoot bends towards unilateral light, and a shoot with its tip covered by a transparent cap still bends &mdash; but a shoot with its tip covered by opaque black paper does not bend, showing that the tip itself detects the light."},
+        {type:"heading", text:"Isolating a diffusible chemical signal"},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"A shoot with its tip removed entirely does not bend; nor does one with the tip removed and replaced on an impermeable (non-diffusible) block. But a shoot with the tip removed and replaced on an agar block (which does allow diffusion) does bend towards the light &mdash; showing that a diffusible chemical released by the tip, not the tip&rsquo;s tissue itself, is responsible for the response."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"A third experiment confirms the chemical explanation directly: a tip is cut off, placed on an agar block, and that block is then placed asymmetrically on one side of a decapitated shoot kept in even, all-round light &mdash; and the shoot bends even though lighting is uniform, showing that an uneven distribution of the chemical itself, not light acting directly on the stem, causes the differential growth."},
+        {type:"heading", text:"The mechanism"},
+        {type:"prose", text:"The shoot tip produces a growth substance that is transported down the shoot. Under even illumination, both sides of the shoot receive equal amounts of the substance and elongate at the same rate, so the shoot grows straight up; under unilateral light, more of the growth substance is redistributed to the shaded side, so cells there elongate faster than the less-stimulated, more slowly elongating cells on the illuminated side &mdash; bending the shoot towards the light."}
       ],
       notes:[
         {label:"Quantitative vs qualitative data in tropism investigations", text:"Qualitative data on tropic responses can be recorded as diagrams of seedling observations; quantitative data can be obtained by measuring the angle of curvature. <strong>Accuracy</strong> is how close a result is to the true value; <strong>precision</strong> is how reproducible repeated measurements are (how close they are to each other) &mdash; a measurement can be precise without being accurate. Precision in such experiments is improved by repeating exactly the same method each time (a small range or standard deviation indicates high precision); accuracy is improved by controlling all other variables (e.g. water volume, seed number and spacing, temperature) so only the stimulus itself differs between repeats."}
@@ -215,10 +264,15 @@
     },
     {
       icon:"book", hl:true, title:"Phytohormones: Types and Roles",
-      coreIdea:"Plant sensitivity depends mainly on phytohormones &mdash; chemically diverse growth regulators produced in unspecialized tissue (not discrete glands) that, unlike animal hormones, are often not transported far and can have different effects depending on tissue and concentration.",
-      steps:[
-        "There are five major phytohormones (plant growth regulators) occurring naturally in plants: auxin, gibberellin (GA), cytokinin, ethylene and abscisic acid (ABA). Their effects differ considerably from animal hormones: phytohormones are produced in regions of plant structure (e.g. stem or root tips) by unspecialized cells, rather than in discrete, specialized glands; they are not necessarily transported widely (some act where they are made); and they tend to influence different tissues and organs in varied, sometimes contrasting ways, rather than acting with the high tissue-specificity of animal hormones.",
-        "Phytohormones occur in very low concentrations, making their precise roles difficult to determine, and different phytohormones can reinforce or oppose one another&rsquo;s effects. They can diffuse from cell to cell or be carried in the phloem or xylem, though not all are transported away from their site of production; depending on their concentration, and on the tissue and developmental stage involved, the same phytohormone can have very different effects."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Phytohormone:</strong> a plant growth regulator (e.g. auxin, gibberellin, cytokinin, ethylene, abscisic acid) that controls growth, development and response to stimuli, typically acting in low concentrations without a discrete gland of origin."},
+        {type:"prose", text:"There are five major phytohormones (plant growth regulators) occurring naturally in plants: auxin, gibberellin (GA), cytokinin, ethylene and abscisic acid (ABA). Their effects differ considerably from animal hormones."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "Phytohormones are produced in regions of plant structure (e.g. stem or root tips) by <strong>unspecialized cells</strong>, rather than in discrete, specialized glands.",
+          "They are not necessarily transported widely &mdash; some act where they are made.",
+          "They tend to influence different tissues and organs in <strong>varied, sometimes contrasting</strong> ways, rather than acting with the high tissue-specificity of animal hormones."
+        ]},
+        {type:"prose", text:"Phytohormones occur in very low concentrations, making their precise roles difficult to determine, and different phytohormones can reinforce or oppose one another&rsquo;s effects. They can diffuse from cell to cell or be carried in the phloem or xylem, though not all are transported away from their site of production; depending on their concentration, and on the tissue and developmental stage involved, the same phytohormone can have very different effects."}
       ],
       side:{
         title:"Roles and synthesis of auxin, gibberellins and ABA",
@@ -235,13 +289,15 @@
     },
     {
       icon:"atom", hl:true, title:"Auxin: Transport, Efflux Carriers and Cell Elongation",
-      coreIdea:"Auxin, discovered by Darwin, is made at growing tips and transported polarly through tissue by efflux carriers that maintain a concentration gradient; wherever its concentration is high, it promotes cell elongation via the acid growth hypothesis, explaining both apical dominance and phototropic bending.",
-      steps:[
-        "<strong>Auxin</strong> (indoleacetic acid, IAA) was first investigated by Darwin while studying the curvature of the sheath covering emergent plant shoots towards light. It is made by actively dividing cells at stem and root tips (where its concentration is highest), then transported to the growth region just behind the tip, where it causes cell elongation. (A <strong>coleoptile</strong> is the sheath covering a seedling&rsquo;s primary bud, which goes on to form the stem and leaves.)",
-        "Auxin promotes elongation at the shoot apex but inhibits growth of lateral buds immediately below the terminal growing point &mdash; a property called <strong>apical dominance</strong>. Paradoxically, a high concentration of auxin actually inhibits stem elongation; gibberellins interact with auxin to enhance it, while cytokinins (from the root apex) promote lateral bud growth, acting antagonistically to auxin in this respect.",
-        "In positive phototropism, light causes auxin release from the coleoptile tip; auxin is then laterally transported towards the darkened (shaded) side of the stem, raising its concentration there, which causes cells on that side to elongate more &mdash; bending the stem towards the light.",
-        "Auxin transport across cells is <strong>polar</strong>: entry into a cell is passive (by diffusion), but efflux out of it is active (ATP-driven) via <strong>auxin efflux carriers</strong> &mdash; auxin can diffuse freely into plant cells but not out of them. If the efflux carriers of a row of cells are all positioned on the same side of each cell membrane, auxin is actively transported from cell to cell through the tissue, becoming concentrated in a particular part of the plant and so maintaining its concentration gradient.",
-        "Auxin acts directly on the growing cell&rsquo;s wall and on gene expression in the nucleus. Via the <strong>acid growth hypothesis</strong>: auxin promotes secretion of H<sup>+</sup> ions into the apoplast, acidifying the cell wall; this activates proteins called <strong>expansins</strong>, which alter hydrogen bonding between wall polysaccharides, loosening cross-links between cellulose molecules; wall resistance to stretching decreases, and cell turgor then stretches/elongates the wall &mdash; cell elongation. Separately, auxin also regulates gene transcription (promoting or inhibiting specific genes) governing growth and development."
+      blocks:[
+        {type:"prose", text:"Auxin (indoleacetic acid, IAA) was first investigated by Darwin while studying the curvature of the sheath covering emergent plant shoots towards light. It is made by actively dividing cells at stem and root tips (where its concentration is highest), then transported to the growth region just behind the tip, where it causes cell elongation. (A coleoptile is the sheath covering a seedling&rsquo;s primary bud, which goes on to form the stem and leaves.)"},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Apical dominance:</strong> auxin from the terminal bud inhibiting growth of the lateral buds below it."},
+        {type:"prose", text:"Auxin promotes elongation at the shoot apex but inhibits growth of lateral buds immediately below the terminal growing point. Paradoxically, a high concentration of auxin actually inhibits stem elongation; gibberellins interact with auxin to enhance it, while cytokinins (from the root apex) promote lateral bud growth, acting antagonistically to auxin in this respect."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"In positive phototropism, light causes auxin release from the coleoptile tip; auxin is then laterally transported towards the darkened (shaded) side of the stem, raising its concentration there, which causes cells on that side to elongate more &mdash; bending the stem towards the light."},
+        {type:"heading", text:"Polar transport"},
+        {type:"prose", text:"Auxin transport across cells is polar: entry into a cell is passive (by diffusion), but efflux out of it is active (ATP-driven) via auxin efflux carriers &mdash; auxin can diffuse freely into plant cells but not out of them. If the efflux carriers of a row of cells are all positioned on the same side of each cell membrane, auxin is actively transported from cell to cell through the tissue, becoming concentrated in a particular part of the plant and so maintaining its concentration gradient."},
+        {type:"heading", text:"The acid growth hypothesis"},
+        {type:"prose", text:"Auxin acts directly on the growing cell&rsquo;s wall and on gene expression in the nucleus. Via the acid growth hypothesis: auxin promotes secretion of H<sup>+</sup> ions into the apoplast, acidifying the cell wall; this activates proteins called expansins, which alter hydrogen bonding between wall polysaccharides, loosening cross-links between cellulose molecules; wall resistance to stretching decreases, and cell turgor then stretches/elongates the wall &mdash; cell elongation. Separately, auxin also regulates gene transcription (promoting or inhibiting specific genes) governing growth and development."}
       ],
       notes:[
         {label:"Nature of science &mdash; detecting hormones at trace concentrations", text:"DNA microarrays &mdash; collections of DNA probes bonded to a glass or silicon chip &mdash; let researchers detect and measure the expression of specific genes (made to fluoresce) in response to a hormone. Studies on <em>Arabidopsis thaliana</em> grown under unilateral light or gravity have used this technique to show that auxin influences the expression of a combination of several genes, regulating growth and development even though auxin itself occurs in only trace amounts in plant tissue."}
@@ -249,12 +305,14 @@
     },
     {
       icon:"leaf", hl:true, title:"Auxin and Cytokinin Interactions, and Positive Feedback in Fruit Ripening",
-      coreIdea:"Auxin and cytokinin act antagonistically yet interdependently to integrate root and shoot growth, while ethylene drives fruit ripening through positive feedback &mdash; a rare biological mechanism that amplifies change rather than correcting it.",
-      steps:[
-        "<strong>Cytokinin</strong> is produced in root tips and transported up to the shoots; shoot tips produce auxin, which is transported down to the roots. The interaction between these two phytohormones helps integrate root and shoot growth, with each influencing the other&rsquo;s signalling in a relationship best described as antagonistic &mdash; auxin positively affects cytokinin signalling, and cytokinin positively affects auxin production (and so auxin signalling).",
-        "Both hormones are essential regulators of many plant processes, with complex regulation spanning biological-molecule synthesis, transport and signalling; cytokinins and auxins together also help plants regulate or adjust their responses to biotic and abiotic environmental stresses, including in crop plants.",
-        "<strong>Ethylene</strong> (IUPAC name: ethene) is a phytohormone that stimulates the changes occurring in fruit during ripening. Ripening itself then stimulates increased ethylene production, and this increased ethylene stimulates further ripening &mdash; a self-reinforcing cycle in which one change leads to an increased change away from the original condition, called <strong>positive feedback</strong>.",
-        "Positive feedback amplifies change away from equilibrium, rather than correcting it back towards a set point as homeostatic (negative feedback) mechanisms do. In fruit ripening, this ensures that ripening across a group of fruit is rapid and synchronized: ethylene produced in one fruit is detected by nearby fruit, which begin to ripen and release their own ethylene, increasing the overall ethylene concentration and causing yet more fruit to ripen."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Cytokinin:</strong> a root-tip phytohormone promoting cell division and lateral bud growth, antagonistic to auxin."},
+        {type:"prose", text:"Cytokinin is produced in root tips and transported up to the shoots; shoot tips produce auxin, which is transported down to the roots. The interaction between these two phytohormones helps integrate root and shoot growth, with each influencing the other&rsquo;s signalling in a relationship best described as antagonistic &mdash; auxin positively affects cytokinin signalling, and cytokinin positively affects auxin production (and so auxin signalling)."},
+        {type:"prose", text:"Both hormones are essential regulators of many plant processes, with complex regulation spanning biological-molecule synthesis, transport and signalling; cytokinins and auxins together also help plants regulate or adjust their responses to biotic and abiotic environmental stresses, including in crop plants."},
+        {type:"heading", text:"Ethylene and positive feedback"},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Ethylene</strong> (ethene): the phytohormone that stimulates fruit ripening via positive feedback."},
+        {type:"prose", text:"Ethylene (IUPAC name: ethene) is a phytohormone that stimulates the changes occurring in fruit during ripening. Ripening itself then stimulates increased ethylene production, and this increased ethylene stimulates further ripening &mdash; a self-reinforcing cycle in which one change leads to an increased change away from the original condition, called positive feedback."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Positive feedback amplifies change away from equilibrium, rather than correcting it back towards a set point as homeostatic (negative feedback) mechanisms do. In fruit ripening, this ensures that ripening across a group of fruit is rapid and synchronized: ethylene produced in one fruit is detected by nearby fruit, which begin to ripen and release their own ethylene, increasing the overall ethylene concentration and causing yet more fruit to ripen."}
       ]
     }
   ],
