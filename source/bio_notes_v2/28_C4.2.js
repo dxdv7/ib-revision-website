@@ -1,4 +1,5 @@
 {
+  unified: true,
   subtitle: "Ecosystems are open systems through which both energy and matter pass &mdash; but while matter is endlessly recycled between organisms and their abiotic surroundings, energy flows through only once, entering mostly as sunlight and leaving permanently as heat. This chapter traces that one-way energy flow through food chains and trophic levels, and the carbon cycle that keeps matter moving.",
   keyTerms: [
     {icon:"leaf", color:"green", term:"Ecosystem", def:"A community of organisms and their surroundings, the environment in which they live and with which they interact; the basic functional unit of ecology."},
@@ -27,33 +28,41 @@
   theories: [
     {
       icon:"leaf", title:"Ecosystems as Open Systems",
-      coreIdea:"An ecosystem is an open system, since both energy and matter continuously cross its boundary &mdash; unlike a (mostly theoretical) closed system, which exchanges only energy.",
-      steps:[
-        "An <strong>ecosystem</strong> is a community of organisms (the <strong>biotic component</strong>) together with their physical surroundings (the <strong>abiotic component</strong>) with which they interact; it is the basic functional unit of ecology, since organisms cannot realistically be considered apart from their environment.",
-        "A woodland or lake illustrates two key features of an ecosystem: it is largely self-contained, since most of its organisms spend their entire lives there and nutrients are endlessly recycled within it; and it is interactive, since the organisms present are shaped by the physical environment, which is in turn constantly altered by the organisms.",
-        "Ecosystems are <strong>open systems</strong>: both energy and matter can enter and exit, and it is the constant input of energy that sustains the ecosystem. A <strong>closed system</strong>, by contrast, exchanges only energy across its boundary, with no matter crossing; closed systems exist mainly experimentally, though global geochemical cycles such as the carbon cycle approximate to one."
+      blocks:[
+        {type:"prose", text:"An <strong>ecosystem</strong> is a community of organisms (the <strong>biotic component</strong>) together with their physical surroundings (the <strong>abiotic component</strong>) with which they interact; it is the basic functional unit of ecology, since organisms cannot realistically be considered apart from their environment."},
+        {type:"prose", text:"A woodland or lake illustrates two key features of an ecosystem: it is largely self-contained, since most of its organisms spend their entire lives there and nutrients are endlessly recycled within it; and it is interactive, since the organisms present are shaped by the physical environment, which is in turn constantly altered by the organisms."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Open system:</strong> a system in which both energy and matter can enter and exit.",
+          "<strong>Closed system:</strong> a system in which only energy, not matter, can pass in and out (exists mainly experimentally, though global geochemical cycles such as the carbon cycle approximate to one)."
+        ]},
+        {type:"prose", text:"It is the constant input of energy that sustains an ecosystem."}
       ],
       notes:[{label:"Described figure &mdash; open vs closed systems (Fig. C4.2.1)", text:"Compares two systems against their surroundings: (a) an open system, across whose boundary both energy and matter enter and exit; (b) a closed system, across whose boundary only energy passes, with no matter transfer at all."}]
     },
     {
       icon:"book", title:"Sunlight, Energy Flow and Food Chains",
-      coreIdea:"Sunlight is the principal energy source sustaining most ecosystems, entering as light and ultimately leaving as heat, while matter &mdash; unlike energy &mdash; is continually recycled.",
-      steps:[
-        "Producers trap light energy using chlorophyll or other photosynthetic pigments and use it to synthesize glucose, converting light energy into a store of chemical energy that is later used to make ATP for all life processes.",
-        "Not every food chain begins with sunlight: in caves, and in deep ocean ecosystems beyond the reach of light such as hydrothermal vents, producers instead synthesize glucose using energy released by chemical reactions. Because of this, it is more accurate to say &lsquo;sunlight is the principal source of energy that sustains <em>most</em> ecosystems&rsquo; than to state it as an exceptionless law.",
-        "Unlike matter, which cycles through ecosystems, energy enters (usually as sunlight) and leaves as heat; energy is conserved, not destroyed, but once lost as heat it is no longer available for living organisms to reuse &mdash; so energy flows through an ecosystem only once, while matter cycles repeatedly.",
-        "A <strong>food chain</strong> is a sequence of organisms in which each is the food (and energy source) of the next, beginning with a producer; the arrows in a food chain diagram point towards each consumer, showing the direction of energy flow."
+      blocks:[
+        {type:"prose", text:"Producers trap light energy using chlorophyll or other photosynthetic pigments and use it to synthesize glucose, converting light energy into a store of chemical energy that is later used to make ATP for all life processes."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Not every food chain begins with sunlight: in caves, and in deep ocean ecosystems beyond the reach of light such as hydrothermal vents, producers instead synthesize glucose using energy released by chemical reactions. Because of this, it is more accurate to say &lsquo;sunlight is the principal source of energy that sustains <em>most</em> ecosystems&rsquo; than to state it as an exceptionless law."},
+        {type:"prose", text:"Unlike matter, which cycles through ecosystems, energy enters (usually as sunlight) and leaves as heat; energy is conserved, not destroyed, but once lost as heat it is no longer available for living organisms to reuse &mdash; so energy flows through an ecosystem only once, while matter cycles repeatedly."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Food chain:</strong> a sequence of organisms within a community in which each is the food (and hence energy source) of the next, starting with a producer. The arrows in a food chain diagram point towards each consumer, showing the direction of energy flow."}
       ],
       notes:[{label:"Common mistake", text:"Arrows in food chains and food webs show the direction of energy flow (producer &rarr; primary consumer &rarr; secondary consumer, and so on), not which organism is eating which."}]
     },
     {
       icon:"leaf", title:"Food Webs, Decomposers and the Recycling of Matter",
-      coreIdea:"Real feeding relationships interconnect into food webs rather than staying isolated as single chains, and decomposers and detritivores are essential for releasing the inorganic nutrients locked up in dead matter so producers can reuse them.",
-      steps:[
-        "Food chains interconnect into <strong>food webs</strong> because most prey species face more than one predator, and predators exploit alternative or temporarily abundant food sources; a food web shows the qualitative feeding relationships in a community (who eats whom) but no quantitative data on the numbers of organisms present.",
-        "<strong>Decomposers</strong> (typically micro-organisms such as bacteria and fungi, carrying out saprotrophic nutrition) feed on dead organic matter at every trophic level, releasing inorganic nutrients &mdash; carbon dioxide, water, ammonia, and ions such as nitrate and phosphate &mdash; for producers to reabsorb. <strong>Detritivores</strong> (e.g. earthworms, woodlice) instead ingest detritus and digest it internally; the two terms are often used interchangeably, though &lsquo;decomposer&rsquo; strictly covers all organisms that feed on dead biomass and waste.",
-        "Breakdown of a dead body proceeds in stages: detritivores or scavengers (e.g. carrion crow, fox for an animal; slugs, earthworms, wood-boring insects for a plant) first break up the tissue; a succession of micro-organisms (mainly bacteria on animal remains, mainly fungi on plant remains) then feed, first on simple nutrients (sugars, amino acids, fatty acids), then on polysaccharides, proteins and lipids, and finally on the most resistant molecules (keratin and collagen in animals; cellulose and lignin in plants).",
-        "This releases simple inorganic molecules and ions &mdash; such as CO<sub>2</sub>, H<sub>2</sub>O, NH<sub>3</sub>, Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, NO<sub>3</sub><sup>&minus;</sup> and PO<sub>4</sub><sup>&minus;</sup> &mdash; all available for reabsorption by plant roots. Because the supply of most elements is otherwise finite and limited, this recycling (involving both the biota and the abiotic atmosphere, hydrosphere and lithosphere) is essential for the continued survival of living things."
+      blocks:[
+        {type:"prose", text:"Food chains interconnect into <strong>food webs</strong> because most prey species face more than one predator, and predators exploit alternative or temporarily abundant food sources; a food web shows the qualitative feeding relationships in a community (who eats whom) but no quantitative data on the numbers of organisms present."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Decomposer:</strong> typically a micro-organism such as a bacterium or fungus, carrying out saprotrophic nutrition &mdash; feeds on dead plant and animal material at every trophic level, causing matter to be recycled by other living things.",
+          "<strong>Detritivore:</strong> an organism, such as an earthworm or woodlouse, that eats detritus (dead or waste plant and animal material) and processes it internally, in its intestines; the two terms are often used interchangeably, though &lsquo;decomposer&rsquo; strictly covers all organisms that feed on dead biomass and waste."
+        ]},
+        {type:"heading", text:"Stages of decomposition"},
+        {type:"prose", text:"Breakdown of a dead body proceeds in stages: detritivores or scavengers (e.g. carrion crow, fox for an animal; slugs, earthworms, wood-boring insects for a plant) first break up the tissue; a succession of micro-organisms (mainly bacteria on animal remains, mainly fungi on plant remains) then feed, first on simple nutrients (sugars, amino acids, fatty acids), then on polysaccharides, proteins and lipids, and finally on the most resistant molecules (keratin and collagen in animals; cellulose and lignin in plants)."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "Decomposition releases simple inorganic molecules and ions &mdash; such as CO<sub>2</sub>, H<sub>2</sub>O, NH<sub>3</sub>, Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, NO<sub>3</sub><sup>&minus;</sup> and PO<sub>4</sub><sup>&minus;</sup> &mdash; all available for reabsorption by plant roots.",
+          "Because the supply of most elements is otherwise finite and limited, this recycling (involving both the biota and the abiotic atmosphere, hydrosphere and lithosphere) is essential for the continued survival of living things."
+        ]}
       ],
       side:{
         title:"Trophic levels in different ecosystems",
@@ -72,23 +81,29 @@
     },
     {
       icon:"atom", title:"Autotrophs and Heterotrophs: Trapping and Using Energy",
-      coreIdea:"All organisms release stored chemical energy by respiration, but only autotrophs can first capture that energy from a non-living external source to build organic molecules from scratch.",
-      steps:[
-        "<strong>Autotrophs</strong> (&lsquo;self-feeding&rsquo;) synthesize their own organic molecules from simple inorganic substances using an external energy source. <strong>Photoautotrophs</strong> (nearly all plants, algae, some bacteria) use light energy; <strong>chemoautotrophs</strong> (e.g. nitrifying and iron-oxidizing bacteria, such as <em>Gallionella</em>, <em>Sphaerotilus</em>, <em>Crenothrix</em> and <em>Leptothrix</em>) instead use the energy released by oxidation (redox) reactions &mdash; for example, oxidizing Fe<sup>2+</sup> ions to Fe<sup>3+</sup> to obtain energy for glucose synthesis.",
-        "A very small number of plants are not autotrophic: broomrape (<em>Orobanche</em> sp.), a chlorophyll-free &lsquo;root parasite&rsquo; with leaves reduced to small bracts, attaches to a host plant&rsquo;s roots below ground and obtains its organic nutrients heterotrophically from the host instead of photosynthesizing.",
-        "<strong>Heterotrophs</strong> obtain carbon compounds already made by other organisms: complex compounds (e.g. proteins, starch) are digested into monomers (amino acids, glucose), absorbed into the heterotroph&rsquo;s cells, and assimilated into its own molecules. Herbivores feed exclusively on plants; carnivores and omnivores feed on other consumers.",
-        "Both autotrophs and heterotrophs release stored chemical energy as ATP by oxidising carbon compounds in <strong>cell respiration</strong> &mdash; all organisms respire, not only animals &mdash; and all of this energy is ultimately lost from the food chain as heat."
+      blocks:[
+        {type:"prose", text:"<strong>Autotrophs</strong> (&lsquo;self-feeding&rsquo;) synthesize their own organic molecules from simple inorganic substances using an external energy source."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Photoautotroph:</strong> a producer (nearly all plants, algae, some bacteria) that uses light energy to synthesize glucose, transferring solar energy into chemical energy.",
+          "<strong>Chemoautotroph:</strong> a producer (e.g. nitrifying and iron-oxidizing bacteria, such as <em>Gallionella</em>, <em>Sphaerotilus</em>, <em>Crenothrix</em> and <em>Leptothrix</em>) that uses the energy released by oxidation (redox) reactions &mdash; for example, oxidizing Fe<sup>2+</sup> ions to Fe<sup>3+</sup> &mdash; to make glucose."
+        ]},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"A very small number of plants are not autotrophic: broomrape (<em>Orobanche</em> sp.), a chlorophyll-free &lsquo;root parasite&rsquo; with leaves reduced to small bracts, attaches to a host plant&rsquo;s roots below ground and obtains its organic nutrients heterotrophically from the host instead of photosynthesizing."},
+        {type:"heading", text:"Heterotrophs"},
+        {type:"prose", text:"<strong>Heterotrophs</strong> obtain carbon compounds already made by other organisms: complex compounds (e.g. proteins, starch) are digested into monomers (amino acids, glucose), absorbed into the heterotroph&rsquo;s cells, and assimilated into its own molecules. Herbivores feed exclusively on plants; carnivores and omnivores feed on other consumers."},
+        {type:"prose", text:"Both autotrophs and heterotrophs release stored chemical energy as ATP by oxidising carbon compounds in <strong>cell respiration</strong> &mdash; all organisms respire, not only animals &mdash; and all of this energy is ultimately lost from the food chain as heat."}
       ],
       notes:[{label:"Common mistake", text:"A <strong>heterotroph</strong> is an organism that obtains organic molecules from other organisms. A <strong>consumer</strong> specifically ingests organic matter that is living or recently killed. A <strong>saprotroph</strong> is a heterotroph that does not ingest matter at all, but secretes enzymes to digest it externally before absorption."}]
     },
     {
       icon:"book", title:"Trophic Levels and Energy Pyramids",
-      coreIdea:"Organisms can be classified into trophic (feeding) levels, and plotting the energy available at each level produces a pyramid shape, because only about 10% of the energy at one level is transferred to the next.",
-      steps:[
-        "Producers occupy the first trophic level; primary consumers (herbivores) feed on producers; secondary consumers (carnivores) feed on primary consumers; tertiary consumers feed on secondary consumers, and so on. An organism with a varied diet &mdash; e.g. a seal feeding on grey mullet, pollack and lobster &mdash; can occupy more than one trophic level depending on which food chain within a food web is being considered.",
-        "An <strong>energy pyramid</strong> plots the energy content of organisms at each trophic level as horizontal bars of equal height but different length, in descending order. The typical pattern transfers roughly 10% of energy at each step: about 100% (producers), 10% (primary consumers), 1% (secondary consumers), 0.1% (tertiary consumers).",
-        "Because energy is lost at every transfer, pyramids of energy are always pyramid-shaped and, unlike pyramids of numbers or biomass (which are &lsquo;snapshots&rsquo; at a single point in time, and so can occasionally be inverted), are never inverted &mdash; productivity, recorded over a period of time, is always highest in producers.",
-        "Pyramids of energy are measured in units of flow (e.g. kg m<sup>&minus;2</sup> yr<sup>&minus;1</sup> or kJ m<sup>&minus;2</sup> yr<sup>&minus;1</sup>) rather than a single-moment measurement, and can be drawn to the same scale to compare biomes: tropical rainforest has by far the largest producer level of any biome, while tundra has the smallest."
+      blocks:[
+        {type:"prose", text:"Producers occupy the first trophic level; primary consumers (herbivores) feed on producers; secondary consumers (carnivores) feed on primary consumers; tertiary consumers feed on secondary consumers, and so on. An organism with a varied diet &mdash; e.g. a seal feeding on grey mullet, pollack and lobster &mdash; can occupy more than one trophic level depending on which food chain within a food web is being considered."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Energy pyramid:</strong> a graphical model showing the flow of energy at each trophic level in an ecosystem, drawn as horizontal bars of equal height but decreasing length."},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", items:[
+          "The typical pattern transfers roughly 10% of energy at each step: about 100% (producers), 10% (primary consumers), 1% (secondary consumers), 0.1% (tertiary consumers)."
+        ]},
+        {type:"prose", text:"Because energy is lost at every transfer, pyramids of energy are always pyramid-shaped and, unlike pyramids of numbers or biomass (which are &lsquo;snapshots&rsquo; at a single point in time, and so can occasionally be inverted), are never inverted &mdash; productivity, recorded over a period of time, is always highest in producers."},
+        {type:"prose", text:"Pyramids of energy are measured in units of flow (e.g. kg m<sup>&minus;2</sup> yr<sup>&minus;1</sup> or kJ m<sup>&minus;2</sup> yr<sup>&minus;1</sup>) rather than a single-moment measurement, and can be drawn to the same scale to compare biomes: tropical rainforest has by far the largest producer level of any biome, while tundra has the smallest."}
       ],
       side:{
         title:"The &lsquo;10% rule&rsquo;",
@@ -104,25 +119,31 @@
     },
     {
       icon:"leaf", title:"Why Energy Losses Restrict Food Chain Length",
-      coreIdea:"Roughly 90% of the energy entering one trophic level never reaches the next, and this relentless loss is what keeps food chains short and limits how many trophic levels an ecosystem can support.",
-      steps:[
-        "At each transfer, energy is lost because: not all biomass is ingested (some organisms escape predation or go uneaten); not all food eaten is digested (indigestible matter, such as bones, fur, feathers and lignified plant fibres, is egested in faeces); energy is lost as heat, a waste product of cell respiration and metabolism; and further energy is lost through excretion.",
-        "Of 100 units of energy eaten by a consumer (e.g. a shrew eating a caterpillar), a typical breakdown is about 60 units lost as gas, faeces and other waste, 30 units lost in respiration, and only about 10 units built into the consumer&rsquo;s own tissue &mdash; available to be passed on to the next trophic level. This is the basis of the &lsquo;10% rule&rsquo;.",
-        "The proportion of ingested energy converted into biomass depends on respiration rate (animals with higher respiration rates pass on less energy, on average) and on diet (herbivores are generally less efficient at digesting plant matter, producing more faecal waste, than carnivores are at digesting meat); ectotherms lose less heat through respiration than endotherms, which must maintain a constant body temperature.",
-        "Because so little energy survives each transfer, stable food chains rarely exceed four or five links between producer and top carnivore. Chains containing energetically expensive organisms (e.g. a warm-blooded predator that loses energy hunting and maintaining body temperature) tend to be shorter than those containing low-energy-expenditure organisms (e.g. a cold-blooded, web-building spider).",
-        "The first law of thermodynamics means that energy entering an ecosystem is never created or destroyed, only degraded from useful forms (such as ATP) to less useful, simpler forms (heat) as work is done &mdash; described by the second law of thermodynamics. Because living organisms cannot convert heat back into other forms of energy, it is permanently lost from the ecosystem to the surroundings."
+      blocks:[
+        {type:"prose", text:"At each transfer, energy is lost because: not all biomass is ingested (some organisms escape predation or go uneaten); not all food eaten is digested (indigestible matter, such as bones, fur, feathers and lignified plant fibres, is egested in faeces); energy is lost as heat, a waste product of cell respiration and metabolism; and further energy is lost through excretion."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"Of 100 units of energy eaten by a consumer (e.g. a shrew eating a caterpillar), a typical breakdown is about 60 units lost as gas, faeces and other waste, 30 units lost in respiration, and only about 10 units built into the consumer&rsquo;s own tissue &mdash; available to be passed on to the next trophic level. This is the basis of the &lsquo;10% rule&rsquo;."},
+        {type:"prose", text:"The proportion of ingested energy converted into biomass depends on respiration rate (animals with higher respiration rates pass on less energy, on average) and on diet (herbivores are generally less efficient at digesting plant matter, producing more faecal waste, than carnivores are at digesting meat); ectotherms lose less heat through respiration than endotherms, which must maintain a constant body temperature."},
+        {type:"prose", text:"Because so little energy survives each transfer, stable food chains rarely exceed four or five links between producer and top carnivore. Chains containing energetically expensive organisms (e.g. a warm-blooded predator that loses energy hunting and maintaining body temperature) tend to be shorter than those containing low-energy-expenditure organisms (e.g. a cold-blooded, web-building spider)."},
+        {type:"prose", text:"The first law of thermodynamics means that energy entering an ecosystem is never created or destroyed, only degraded from useful forms (such as ATP) to less useful, simpler forms (heat) as work is done &mdash; described by the second law of thermodynamics. Because living organisms cannot convert heat back into other forms of energy, it is permanently lost from the ecosystem to the surroundings."}
       ],
       notes:[{label:"Food chains and world hunger", text:"Because extending a food chain by one further trophic level (eating meat rather than plant matter directly) wastes a large proportion of the energy originally captured by producers, some people choose a vegetarian or reduced-meat diet partly on the basis that eating lower on the food chain leaves more food energy available for others &mdash; a consideration raised by concerns over global population growth and world hunger."}]
     },
     {
       icon:"atom", title:"Primary and Secondary Production",
-      coreIdea:"Production describes the rate at which carbon compounds accumulate as new biomass &mdash; primary production by autotrophs, secondary production by heterotrophs &mdash; and is always reduced by the energy lost to respiration at every stage.",
-      steps:[
-        "<strong>Primary production</strong> is the accumulation of carbon compounds in biomass by autotrophs, measured per unit area per unit time (e.g. g m<sup>&minus;2</sup> yr<sup>&minus;1</sup>). <strong>Gross primary productivity (GPP)</strong> is the total rate of glucose production, equivalent to the rate of photosynthesis; <strong>net primary productivity (NPP)</strong> is what remains after subtracting the producers&rsquo; own respiratory losses (R): NPP = GPP &minus; R.",
-        "NPP is easier to measure than GPP, since biomass is simpler to quantify than the energy fixed in glucose, and it represents the store of potential food energy actually available to consumers. NPP varies hugely between biomes, driven mainly by insolation, precipitation and temperature.",
-        "Tropical rainforest has the highest NPP (year-round light, warmth and rainfall), supporting a complex, multi-layered structure and enough stored energy for several trophic levels, even up to tertiary or quaternary consumers. Temperate ecosystems have seasonal light, temperature and rainfall, reducing NPP and potentially shortening food chains; tundra has very low NPP (short growing season, acidic litter, stunted growth), often supporting only the primary consumer level, with grazing animals needing to migrate long distances to find enough food.",
-        "<strong>Secondary production</strong> is the accumulation of carbon compounds in biomass by heterotrophs. <strong>Gross secondary productivity (GSP)</strong> is the energy/biomass gained by absorbing food (GSP = food eaten &minus; faecal loss); <strong>net secondary productivity (NSP)</strong> is what remains after subtracting the heterotroph&rsquo;s own respiratory losses: NSP = GSP &minus; R.",
-        "Because carbon compounds are lost as carbon dioxide and water at every respiratory step, secondary production in an ecosystem is always lower than primary production."
+      blocks:[
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Primary production:</strong> the accumulation of carbon compounds in biomass by autotrophs, measured per unit area per unit time (e.g. g m<sup>&minus;2</sup> yr<sup>&minus;1</sup>).",
+          "<strong>Gross primary productivity (GPP):</strong> the total rate of glucose production, equivalent to the rate of photosynthesis.",
+          "<strong>Net primary productivity (NPP):</strong> what remains after subtracting the producers&rsquo; own respiratory losses (R): NPP = GPP &minus; R."
+        ]},
+        {type:"prose", text:"NPP is easier to measure than GPP, since biomass is simpler to quantify than the energy fixed in glucose, and it represents the store of potential food energy actually available to consumers. NPP varies hugely between biomes, driven mainly by insolation, precipitation and temperature."},
+        {type:"prose", text:"Tropical rainforest has the highest NPP (year-round light, warmth and rainfall), supporting a complex, multi-layered structure and enough stored energy for several trophic levels, even up to tertiary or quaternary consumers. Temperate ecosystems have seasonal light, temperature and rainfall, reducing NPP and potentially shortening food chains; tundra has very low NPP (short growing season, acidic litter, stunted growth), often supporting only the primary consumer level, with grazing animals needing to migrate long distances to find enough food."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Secondary production:</strong> the accumulation of carbon compounds in biomass by heterotrophs.",
+          "<strong>Gross secondary productivity (GSP):</strong> the energy/biomass gained by absorbing food (GSP = food eaten &minus; faecal loss).",
+          "<strong>Net secondary productivity (NSP):</strong> what remains after subtracting the heterotroph&rsquo;s own respiratory losses: NSP = GSP &minus; R."
+        ]},
+        {type:"prose", text:"Because carbon compounds are lost as carbon dioxide and water at every respiratory step, secondary production in an ecosystem is always lower than primary production."}
       ],
       side:{
         table:{
@@ -138,12 +159,16 @@
     },
     {
       icon:"book", title:"The Carbon Cycle: Stores, Fluxes, Sinks and Sources",
-      coreIdea:"Carbon continuously cycles between the atmosphere, living organisms and long-term geological stores, and the balance of these fluxes determines whether a given ecosystem is, overall, a net carbon sink or a net carbon source.",
-      steps:[
-        "Carbon cycle diagrams are built from labelled boxes (stores/reservoirs, e.g. &lsquo;CO<sub>2</sub> in atmosphere&rsquo;) and labelled arrows (fluxes, e.g. &lsquo;photosynthesis&rsquo;, &lsquo;respiration&rsquo;, &lsquo;combustion&rsquo;) &mdash; not pictures of organisms or a factory smokestack. Carbon dioxide, the ultimate source of all carbon in living things, must always be included.",
-        "Key biological fluxes: photosynthesis converts atmospheric or dissolved CO<sub>2</sub> into organic carbon in biomass; feeding passes carbon along food chains; respiration (carried out by producers, consumers and decomposers alike) returns CO<sub>2</sub> to the atmosphere or water; decay by saprotrophic micro-organisms also releases CO<sub>2</sub>, water, ammonia and mineral ions from dead organic matter.",
-        "Long-term geological stores form when organic matter is not fully decomposed: in acidic, anaerobic conditions it accumulates as peat, which over geological time can become coal, oil or natural gas; shell- and bone-forming organisms (e.g. reef-building corals) combine hydrogencarbonate ions with calcium to form sedimentary chalk and limestone, which can eventually be subducted into the mantle and returned to the atmosphere via volcanic eruptions.",
-        "A <strong>carbon sink</strong> absorbs more carbon than it releases (e.g. forests, oceans, soil); a <strong>carbon source</strong> releases more carbon than it absorbs (e.g. the burning of fossil fuels). Combustion of biomass, peat, coal, oil and natural gas all release stored carbon as CO<sub>2</sub> &mdash; human activity has vastly increased combustion rates since the Industrial Revolution, releasing carbon that had been locked away for around 350 million years, mostly since the Carboniferous period."
+      blocks:[
+        {type:"prose", text:"Carbon cycle diagrams are built from labelled boxes (stores/reservoirs, e.g. &lsquo;CO<sub>2</sub> in atmosphere&rsquo;) and labelled arrows (fluxes, e.g. &lsquo;photosynthesis&rsquo;, &lsquo;respiration&rsquo;, &lsquo;combustion&rsquo;) &mdash; not pictures of organisms or a factory smokestack. Carbon dioxide, the ultimate source of all carbon in living things, must always be included."},
+        {type:"prose", text:"Key biological fluxes: photosynthesis converts atmospheric or dissolved CO<sub>2</sub> into organic carbon in biomass; feeding passes carbon along food chains; respiration (carried out by producers, consumers and decomposers alike) returns CO<sub>2</sub> to the atmosphere or water; decay by saprotrophic micro-organisms also releases CO<sub>2</sub>, water, ammonia and mineral ions from dead organic matter."},
+        {type:"heading", text:"Long-term geological stores"},
+        {type:"prose", text:"Long-term geological stores form when organic matter is not fully decomposed: in acidic, anaerobic conditions it accumulates as peat, which over geological time can become coal, oil or natural gas; shell- and bone-forming organisms (e.g. reef-building corals) combine hydrogencarbonate ions with calcium to form sedimentary chalk and limestone, which can eventually be subducted into the mantle and returned to the atmosphere via volcanic eruptions."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", items:[
+          "<strong>Carbon sink:</strong> anything (e.g. forests, oceans, soil) that absorbs more carbon from the atmosphere than it releases.",
+          "<strong>Carbon source:</strong> anything (e.g. burning fossil fuels) that releases more carbon than it absorbs."
+        ]},
+        {type:"callout", style:"tip", icon:"bolt", title:"Tip", text:"Combustion of biomass, peat, coal, oil and natural gas all release stored carbon as CO<sub>2</sub> &mdash; human activity has vastly increased combustion rates since the Industrial Revolution, releasing carbon that had been locked away for around 350 million years, mostly since the Carboniferous period."}
       ],
       notes:[
         {label:"Recycling beyond carbon", text:"Not just carbon, but every chemical element required by living organisms &mdash; including nitrogen, calcium, phosphorus, sulfur and potassium &mdash; is continually recycled between organisms and the abiotic environment in its own biogeochemical cycle; the carbon cycle is simply the one studied in detail at this level."},
@@ -167,12 +192,12 @@
     },
     {
       icon:"book", title:"The Keeling Curve and Atmospheric Interdependence",
-      coreIdea:"The Keeling curve&rsquo;s continuous record of atmospheric CO<sub>2</sub> since the 1950s reveals both a regular seasonal rhythm, driven by hemispheric photosynthesis, and a long-term upward trend, driven by respiration, combustion and decay outpacing photosynthesis.",
-      steps:[
-        "Reliable measurements of atmospheric CO<sub>2</sub> began at the Mauna Loa Observatory, Hawaii, in 1957, through the work of Dr Charles David Keeling; data representative of the Northern Hemisphere&rsquo;s &lsquo;free atmosphere&rsquo; are now maintained by the Scripps Institution of Oceanography and the US National Oceanic and Atmospheric Administration (NOAA).",
-        "The <strong>Keeling curve</strong> shows an annual rhythm superimposed on a long-term trend: CO<sub>2</sub> concentration falls during the Northern Hemisphere summer, when photosynthesis across its large land area draws CO<sub>2</sub> out of the air, and rises again in winter &mdash; in June 2022, for example, concentration varied between about 413 and 422 ppm within a single month.",
-        "Atmospheric CO<sub>2</sub> would stay roughly constant if photosynthesis exactly balanced respiration, combustion and decay. In fact, photosynthesis withdraws almost &mdash; but not quite &mdash; as much CO<sub>2</sub> during daylight hours as all other processes release day and night, so outputs slightly exceed inputs and the long-term trend is a steady rise, from a pre-Industrial level of about 280 (&plusmn;10) ppm to over 400 ppm by the late 2010s.",
-        "Aerobic respiration depends on the atmospheric oxygen produced by photosynthesis, and photosynthesis depends on the atmospheric carbon dioxide produced by respiration &mdash; a large-scale, two-way interdependence between autotrophs and heterotrophs that keeps both gases continuously cycling through the atmosphere."
+      blocks:[
+        {type:"prose", text:"Reliable measurements of atmospheric CO<sub>2</sub> began at the Mauna Loa Observatory, Hawaii, in 1957, through the work of Dr Charles David Keeling; data representative of the Northern Hemisphere&rsquo;s &lsquo;free atmosphere&rsquo; are now maintained by the Scripps Institution of Oceanography and the US National Oceanic and Atmospheric Administration (NOAA)."},
+        {type:"callout", style:"definition", icon:"book", title:"Definition", text:"<strong>Keeling curve:</strong> a daily record of global atmospheric carbon dioxide concentration kept since the 1950s, from the Mauna Loa Observatory, Hawaii."},
+        {type:"callout", style:"example", icon:"leaf", title:"Example", text:"The Keeling curve shows an annual rhythm superimposed on a long-term trend: CO<sub>2</sub> concentration falls during the Northern Hemisphere summer, when photosynthesis across its large land area draws CO<sub>2</sub> out of the air, and rises again in winter &mdash; in June 2022, for example, concentration varied between about 413 and 422 ppm within a single month."},
+        {type:"prose", text:"Atmospheric CO<sub>2</sub> would stay roughly constant if photosynthesis exactly balanced respiration, combustion and decay. In fact, photosynthesis withdraws almost &mdash; but not quite &mdash; as much CO<sub>2</sub> during daylight hours as all other processes release day and night, so outputs slightly exceed inputs and the long-term trend is a steady rise, from a pre-Industrial level of about 280 (&plusmn;10) ppm to over 400 ppm by the late 2010s."},
+        {type:"prose", text:"Aerobic respiration depends on the atmospheric oxygen produced by photosynthesis, and photosynthesis depends on the atmospheric carbon dioxide produced by respiration &mdash; a large-scale, two-way interdependence between autotrophs and heterotrophs that keeps both gases continuously cycling through the atmosphere."}
       ],
       side:{
         title:"Rising atmospheric CO&#8322;",
